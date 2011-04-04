@@ -1,0 +1,39 @@
+Despacho n.º 5801/2011
+1 - De acordo com o disposto no artigo 95.º da Lei n.º 115/2009, de 12 de Outubro, que aprovou o novo Código da Execução das Penas e Medidas Privativas da Liberdade, a utilização de meios auxiliares ou armas por parte do pessoal do corpo da guarda prisional só é admitida quando seja estritamente necessária à salvaguarda ou reposição da ordem e da disciplina ou em caso de legítima defesa ou estado de necessidade (n.º 7). «A utilização de armas de fogo por parte do pessoal do corpo da guarda prisional obedece aos requisitos e segue o regime das situações de recurso a arma de fogo em acção policial» (n.º 8), fixados pelo Decreto-Lei n.º 457/99, de 5 de Novembro.
+Coube ao Regulamento de Utilização dos Meios Coercivos nos estabelecimentos Prisionais - cuja vigência experimental foi autorizada por despacho do Ministro da Justiça de 3 de Setembro de 2009 - definir, no seu artigo 11.º, o regime aplicável ao uso de «Armas e dispositivos eléctricos», nos termos seguintes:
+1 - As armas e dispositivos eléctricos visam, de forma instantânea, neutralizar temporariamente a capacidade motora do recluso, através de uma descarga eléctrica de potência e efeitos controlados.
+2 - A utilização efectiva contra pessoas das armas e dispositivos eléctricos rege-se pelo disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 457/99, de 5 de Novembro, com as devidas adaptações.
+3 - A utilização das armas e dispositivos eléctricos só é permitida quando seja impossível alcançar a mesma finalidade através do uso da força física ou de um gás neutralizante.
+4 - Para além dos casos previstos no artigo 3.º do Decreto-Lei n.º 457/99, de 5 de Novembro, é ainda permitida a utilização das armas e dos dispositivos eléctricos para incapacitar temporariamente o recluso que ofereça resistência física activa, quando seja inviável ou insuficiente a utilização da força física, dos gases neutralizantes ou de outros meios menos gravosos, nas seguintes circunstâncias:
+a) Quando o recluso esteja munido de armas ou objectos contundentes, cortantes, perfurantes ou outros que representem risco idêntico, que sejam aptos a causar ofensa grave à integridade física e manifeste de forma clara a intenção de os utilizar para esse fim;
+b) Quando o recluso ofereça resistência física activa de forma especialmente perigosa que cause, ou mostre uma clara intenção de causar, ofensa grave à integridade física;
+c) Quando, após a aplicação, ou tentativa de aplicação, das técnicas de restrição e imobilização e das técnicas de impacto, a utilização da força física não tenha alcançado o fim pretendido, mantendo-se a resistência física activa do recluso, concretizada em agressão ou tentativas de agressão.
+5 - A quantidade, a duração e a intensidade das descargas eléctricas são as estritamente necessárias para fazer cessar a conduta ilícita do recluso, utilizando-se ciclos tão curtos quanto possível e cessando logo que seja possível imobilizá-lo por outros meios ou algemá-lo.
+6 - A arma ou dispositivo eléctrico é apontada ao tronco ou, em alternativa, aos membros inferiores.
+7 - É proibido apontar aos olhos o sistema de mira a laser, quando exista.
+8 - É proibida, salvo nos casos previstos no artigo 3.º do Decreto-Lei n.º 457/99, de 5 de Novembro, a utilização das armas e dispositivos eléctricos nos seguintes casos:
+a) Em reclusas grávidas;
+b) Em reclusos cujo estado de saúde seja de grande fragilidade, nomeadamente idosos;
+c) Em reclusos que tenham doença cardíaca conhecida;
+d) Em reclusos que tenham implantados dispositivos do tipo pacemaker ou desfibrilhador;
+e) Em crianças;
+f) Quando exista risco de atingir outras pessoas, excepto contra reclusos que se mantenham agrupados e desobedeçam a uma ordem reiterada para dispersar, afectando de forma grave a ordem ou a segurança prisional, quando não seja possível conseguir a sua dispersão através de meios menos gravosos;
+g) Em locais ou ambientes onde existam substâncias inflamáveis;
+h) Quando o recluso tenha antes sido pulverizado com gases neutralizantes que deixem resíduos inflamáveis;
+i) Quando da sua utilização possa resultar uma queda de grande altura.
+9 - As armas e dispositivos eléctricos não se destinam a distribuição de rotina, permanecendo no armeiro, do qual só podem ser retirados quando seja previsível a necessidade da sua utilização, por ordem do director do estabelecimento prisional ou, no caso do GISP, do director de serviços de segurança.
+10 - O recluso é previamente advertido da intenção de utilizar a arma ou dispositivo eléctrico, salvo nos casos em que a advertência possibilite ao recluso impedir eficazmente essa utilização.
+11 - Sempre que possível, é assegurada a presença, prévia à utilização da arma ou dispositivo eléctrico, no local da utilização ou próximo deste, de um médico ou enfermeiro, o qual presta assistência ao recluso logo que este se encontre imobilizado e deixe de representar perigo.
+12 - Quando não seja possível a assistência prevista no número anterior, o recluso é imediatamente apresentado ao médico.
+13 - Quando seja utilizada arma ou dispositivo eléctrico, o pessoal do corpo da guarda prisional actua de forma a, tanto quanto possível, amparar a queda ao solo do recluso, de forma a evitar que desta lhe possa resultar lesão grave.
+14 - Sempre que ocorra a utilização de uma arma ou dispositivo eléctrico, este é imediatamente guardado em invólucro lacrado, acompanhado de exemplares dos discos de identificação do cartucho utilizado, projectados durante a utilização, procedendo-se ao seu envio, no prazo máximo de 24 horas, à Direcção de Serviços de Segurança.
+15 - As armas e dispositivos eléctricos são utilizados apenas por pessoal treinado para esse efeito e para isso autorizado pelo director de serviços de Segurança.
+16 - O transporte de armas ou dispositivos eléctricos é feito em coldre situado do lado oposto àquele que transporta a arma de fogo.
+2 - O recente inquérito à utilização de uma arma TASER X26, pelo GISP, em intervenção levada a cabo no dia 17 de Setembro de 2010, na secção de segurança do Estabelecimento Prisional de Paços de Ferreira, levou à abertura de processos disciplinares ainda em curso. Foi também dada ao Ministério Público notícia dos factos apurados, nos termos do artigo 8.º do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas.
+3 - Enquanto decorrem, nos termos da lei, as diligências decorrentes das iniciativas mencionadas, importa, contudo, não deixar de tomar medidas que inequivocamente reforcem a tutela de direitos fundamentais e previnam situações como a ocorrida, devendo ao mesmo tempo impulsionar-se o já previsto processo de revisão do regulamento de utilização de meios coercivos, avaliando a forma como tem vindo a ser aplicado.
+Assim, determino que:
+a) Não sejam utilizadas armas e dispositivos eléctricos em situações idênticas ou similares à ocorrida no dia 17 de Setembro de 2010, na secção de segurança do Estabelecimento Prisional de Paços de Ferreira;
+b) Sejam objecto de filmagem integral quaisquer intervenções do GISP em que haja utilização de armas, incluindo armas e dispositivos eléctricos, nos termos sugeridos pelo Provedor de Justiça, e nas condições por este delineadas no processo R-4907/10 (A6), devendo o respectivo regime de captação, conservação e destruição das imagens constar de despacho do director-geral dos Serviços Prisionais, ouvida a Comissão Nacional de Protecção de Dados;
+c) Se proceda à revisão do Regulamento de Utilização dos Meios Coercivos nos Estabelecimentos Prisionais, tendo em conta os resultados da monitorização da sua aplicação pelo Serviço de Auditoria e Inspecção da DGSP e precedendo consulta do Conselho Consultivo da Procuradoria-Geral da República e da Comissão dos Direitos Humanos da Ordem dos Advogados.
+28 de Março de 2011. - O Ministro da Justiça, Alberto de Sousa Martins.
+204522451
