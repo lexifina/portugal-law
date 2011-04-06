@@ -12,7 +12,7 @@ c) Opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral
 
 d) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;
 
-e) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo da constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º;
+e) Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis a contar da disponibilização de prova gratuita do registo de constituição da sociedade prevista na alínea b) do n.º 3 do artigo 12.º ou, nos casos e termos em que a lei o permite, que as respectivas entradas em dinheiro são entregues nos cofres da sociedade, até ao final do primeiro exercício económico;
 
 f) Pagamento, através de meios electrónicos, dos encargos que se mostrem devidos.
 
