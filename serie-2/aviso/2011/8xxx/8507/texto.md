@@ -1,0 +1,7 @@
+Aviso n.º 8507/2011
+Plano Director Municipal de Tábua - Proposta de Alteração (Espaços Agrícolas)
+Torna-se público, nos termos e para efeitos do n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na sua actual redacção, que a proposta de alteração ao Plano Director Municipal de Tábua (Espaços Agrícolas) obteve parecer favorável condicionado em reunião de Conferência de Serviços, realizada aos 17 dias do mês de Março de 2011, e que se encontra aberto, a partir do 5.º dia útil a seguir à publicação deste aviso, durante o prazo de 30 dias, o período de discussão pública durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de reclamações e observações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo processo de alteração, encontrando-se o processo disponível para consulta na Secção Administrativa do Departamento de Obras, Urbanismo e Meio Ambiente, nas horas normais de expediente, e na página da Internet do Município de Tábua.
+Durante o período referido, os interessados podem apresentar as suas observações ou sugestões e pedidos de esclarecimento por escrito, fazendo referência ao presente aviso e Plano Director Municipal de Tábua - Proposta de Alteração (Espaços Agrícolas), em documento dirigido ao Presidente da Câmara Municipal de Tábua.
+A participação poderá ainda ser feita via Internet através do e-mail: geral@cm-tabua.pt
+28 de Março de 2011. - O Presidente da Câmara, Francisco Ivo de Lima Portela.
+204525408
