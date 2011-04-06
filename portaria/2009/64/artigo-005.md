@@ -34,7 +34,7 @@ b) Para candidatos ao abrigo da alínea b) do n.º 1 do artigo 3.º da presente 
 
 8) Declaração, sob compromisso de honra, de que se compromete a guardar segredo profissional, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC;
 
-c) Para os técnicos municipais, ao abrigo do previsto no n.º 2 do artigo 3.º da presente portaria:
+c) Para os técnicos municipais, ao abrigo do previsto na alínea a) do n.º 2 do artigo 3.º da presente portaria:
 
 1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo presidente da câmara municipal, dirigida ao presidente da ANPC, demonstrando o cabal cumprimento dos pré-requisitos estabelecidos no n.º 3 do artigo 4.º da presente portaria;
 
@@ -42,8 +42,10 @@ c) Para os técnicos municipais, ao abrigo do previsto no n.º 2 do artigo 3.º 
 
 3) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE.
 
-d) Para os elementos dos corpos de bombeiros, ao abrigo do previsto no n.º 3 do artigo 3.º da presente portaria:
+d) Para os elementos dos corpos de bombeiros, ao abrigo do previsto na alínea b) do n.º 2 do artigo 3.º da presente portaria:
 
-1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo órgão de administração da Associação Humanitária de Bombeiros, dirigida ao presidente da ANPC, demonstrando o cabal cumprimento dos pré-requisitos estabelecidos no n.º 4 do artigo 4.º da presente portaria;
+1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo presidente da câmara municipal, dirigida ao presidente da ANPC, demonstrando o cabal cumprimento dos pré-requisitos estabelecidos na alínea a) e na subalínea i) da alínea b) do n.º 4 do artigo 4.º da presente portaria;
 
-2) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE.
+2) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área de SCIE;
+
+e) Para os elementos dos corpos de bombeiros, ao abrigo do previsto no n.º 3 do artigo 3.º da presente portaria:

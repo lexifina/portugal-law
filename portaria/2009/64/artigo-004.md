@@ -18,7 +18,7 @@ c) Possuir experiência profissional na área de SCIE, por um período superior 
 
 d) Possuir seguro de responsabilidade civil que cubra danos decorrentes da actividade profissional no montante mínimo de (euro) 250 000.
 
-3 - Os técnicos municipais a credenciar nos termos do n.º 2 do artigo anterior devem cumprir os seguintes pré-requisitos:
+3 - Os técnicos municipais a credenciar nos termos da alínea a) do n.º 2 do artigo anterior devem cumprir os seguintes pré-requisitos:
 
 a) Estar habilitado com o curso de arquitecto, reconhecido pela OA, de engenheiro, reconhecido pela OE ou com o curso de engenheiro técnico, reconhecido pela ANET;
 
@@ -26,14 +26,24 @@ b) Possuir formação específica em SCIE com uma carga horária mínima de sete
 
 c) Possuir experiência profissional na área de SCIE, por um período superior a três anos.
 
-4 - Os elementos dos corpos dos bombeiros a credenciar nos termos do n.º 3 do artigo anterior devem cumprir os seguintes pré-requisitos:
+4 - Os elementos dos corpos de bombeiros a credenciar nos termos da alínea b) do n.º 2 e do n.º 3 do artigo anterior devem cumprir os seguintes pré-requisitos:
 
 a) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;
 
 b) Possuir, no mínimo:
 
-1) Na carreira de oficial bombeiro, a categoria de oficial bombeiro de 2.ª;
+i) Elementos dos corpos de bombeiros profissionais ou mistos:
 
-2) Na carreira de bombeiro, a categoria de bombeiro de 1.ª;
+1) No quadro de comando dos bombeiros municipais e profissionais, o cargo de adjunto técnico;
+
+2) Na carreira de bombeiro municipal, a categoria de bombeiro de 1.ª classe e na carreira de bombeiro sapador a categoria de subchefe de 1.ª classe.
+
+ii) Elementos dos corpos de voluntários:
+
+1) No quadro de comando, o cargo de adjunto de comando, e ter concluído toda a formação exigida para o ingresso neste quadro;
+
+2) Na carreira de oficial bombeiro, a categoria de oficial bombeiro de 2.ª;
+
+3) Na carreira de bombeiro, a categoria de bombeiro de 1.ª;
 
 c) Ter no mínimo o 12.º ano de escolaridade.
