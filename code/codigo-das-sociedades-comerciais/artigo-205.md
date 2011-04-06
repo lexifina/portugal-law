@@ -6,7 +6,7 @@
 
 2 - Os sócios podem ainda deliberar:
 
-a) Que a quota perdida a favor da sociedade seja dividida proporcionalmente às dos restantes sócios, vendendo-se a cada um deles a parte que assim lhe competir; é aplicável neste caso o n.º 3 do artigo 204.º;
+a) Que a quota perdida a favor da sociedade seja dividida proporcionalmente às dos restantes sócios, vendendo-se a cada um deles a parte que assim lhe competir, sem prejuízo do disposto no n.º 3 do artigo 219.º;
 
 b) Que a mesma quota seja vendida indivisa, ou após divisão não proporcional às restantes quotas, a todos, a alguns ou a um dos sócios; esta deliberação deverá obedecer ao disposto no artigo 265.º, n.º 1, e aos demais requisitos que o contrato de sociedade porventura fixar. Qualquer sócio pode, todavia, exigir que lhe seja atribuída uma parte proporcional à sua quota.
 

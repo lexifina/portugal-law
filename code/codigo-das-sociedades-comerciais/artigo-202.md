@@ -12,16 +12,12 @@
 
 1 - Não são admitidas contribuições de indústria.
 
-2 - Só pode ser diferida a efectivação de metade das entradas em dinheiro, mas o quantitativo global dos pagamentos feitos por conta destas, juntamente com a soma dos valores nominais das quotas correspondentes às entradas em espécie, deve perfazer o capital mínimo fixado na lei.
+2 - (Revogado.)
 
-3 - A soma das entradas em dinheiro já realizadas deve ser depositada em instituição de crédito, numa conta aberta em nome da futura sociedade, até ao momento da celebração do contrato.
+3 - (Revogado.)
 
-4 - Os sócios devem declarar no acto constitutivo, sob sua responsabilidade, que procederam ao depósito referido no número anterior.
+4 - Sem prejuízo de estipulação contratual que preveja o diferimento da realização das entradas em dinheiro, os sócios devem declarar no acto constitutivo, sob sua responsabilidade, que já procederam à entrega do valor das suas entradas ou que se comprometem a entregar, até ao final do primeiro exercício económico, as respectivas entradas nos cofres da sociedade.
 
-5 - Da conta referida no n.º 3 só podem ser efectuados levantamentos:
+5 - (Revogado.)
 
-a) Depois de o contrato estar definitivamente registado;
-
-b) Depois de celebrado o contrato, caso os sócios autorizem os gerentes a efectuá-los para fins determinados;
-
-c) Para liquidação provocada pela inexistência ou nulidade do contrato ou pela falta de registo.
+6 - Os sócios que, nos termos do n.º 4, se tenham comprometido no acto constitutivo a realizar as suas entradas até ao final do primeiro exercício económico devem declarar, sob sua responsabilidade, na primeira assembleia geral anual da sociedade posterior ao fim de tal prazo, que já procederam à entrega do respectivo valor nos cofres da sociedade.
