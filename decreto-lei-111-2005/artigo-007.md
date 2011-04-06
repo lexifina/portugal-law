@@ -4,7 +4,7 @@
 
 1 - Para o efeito da constituição da sociedade, os interessados devem apresentar os documentos comprovativos da sua identidade, capacidade e poderes de representação para o acto, bem como autorizações especiais que sejam necessárias.
 
-2 - Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis.
+2 - Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis ou, nos casos e termos em que a lei o permite, que as respectivas entradas em dinheiro são entregues nos cofres da sociedade, até ao final do primeiro exercício económico.
 
 3 - Sendo o capital total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro, deve ser apresentado o relatório elaborado por um revisor oficial de contas sem interesses na sociedade, nos termos do artigo 28.º do Código das Sociedades Comerciais.
 
