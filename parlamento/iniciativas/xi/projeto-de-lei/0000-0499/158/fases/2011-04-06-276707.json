@@ -1,0 +1,684 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "158",
+    "id": "35091",
+    "titulo": "Procede à primeira alteração à Lei n.º 4/2008, de 7 de Fevereiro, que aprova o regime dos contratos de trabalho dos profissionais de espectáculos, e estabelece o regime de segurança social aplicável a estes profissionais."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2011-04-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8145",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2011-04-06",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "34973",
+        "leg": "XI",
+        "nr": "99",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabele o regime social de segurança social dos profissionais das artes do espectáculo."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35102",
+        "leg": "XI",
+        "nr": "163",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece o regime laboral e de certificação e qualificação dos profissionais das artes do espectáculo e do audiovisual."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35262",
+        "leg": "XI",
+        "nr": "247",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Define o regime sócio-profissional aplicável aos trabalhadores das Artes do Espectáculo e do Audiovisual."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "35263",
+        "leg": "XI",
+        "nr": "248",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1535",
+            "obs": null,
+            "pag": [
+              "42-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-04-07",
+            "pubLeg": "XI",
+            "pubNr": "72",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece o regime de Segurança Social dos trabalhadores das Artes do Espectáculo."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-04-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-04-07",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 4/2008, de 7 de Fevereiro, que aprova o regime dos contratos de trabalho dos profissionais de espectáculos, e estabelece o regime de segurança social aplicável a estes profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-04-07",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 4/2008, de 7 de Fevereiro, que aprova o regime dos contratos de trabalho dos profissionais de espectáculos, e estabelece o regime de segurança social aplicável a estes profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4064",
+                "nome": "Inês de Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-04-07",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 4/2008, de 7 de Fevereiro, que aprova o regime dos contratos de trabalho dos profissionais de espectáculos, e estabelece o regime de segurança social aplicável a estes profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4051",
+                "nome": "Maria Conceição Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-04-07",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 4/2008, de 7 de Fevereiro, que aprova o regime dos contratos de trabalho dos profissionais de espectáculos, e estabelece o regime de segurança social aplicável a estes profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-04-07",
+                "pubLeg": "XI",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 4/2008, de 7 de Fevereiro, que aprova o regime dos contratos de trabalho dos profissionais de espectáculos, e estabelece o regime de segurança social aplicável a estes profissionais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "276707",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "553754",
+        "obs": null,
+        "pag": [
+          "42-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-04-07",
+        "pubLeg": "XI",
+        "pubNr": "72",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/072/2011-04-07/42?pgs=42-45&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
