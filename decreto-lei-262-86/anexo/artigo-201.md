@@ -1,5 +1,5 @@
 # Artigo 201.º
 
-### (Montante do capital)
+### Capital social livre
 
-A sociedade por quotas não pode ser constituída com um capital inferior a 5000 euros nem posteriormente o seu capital pode ser reduzido a importância inferior a essa.
+O montante do capital social é livremente fixado no contrato de sociedade, correspondendo à soma das quotas subscritas pelos sócios.
