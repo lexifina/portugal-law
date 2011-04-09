@@ -7,3 +7,5 @@
 2 - O valor da prestação periódica pode ser actualizado nos termos previstos no contrato.
 
 3 - Não pode convencionar-se o pagamento antecipado das prestações periódicas respeitantes a anos subsequentes.
+
+4 - É aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 23.º

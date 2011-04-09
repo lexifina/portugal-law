@@ -38,7 +38,7 @@ n) O incumprimento do disposto no n.º 5 do artigo 60.º
 
 a) A infracção ao disposto no n.º 3 do artigo 4.º;
 
-b) A infracção ao disposto nos n.os 1 e 2 do artigo 9.º;
+b) A infracção ao disposto nos n.os 1, 2 e 3 do artigo 9.º;
 
 c) A infracção ao disposto no n.º 2 do artigo 11.º;
 
@@ -52,10 +52,10 @@ g) A infracção ao disposto no n.º 1 do artigo 48.º, quando o vendedor tenha 
 
 h) A infracção ao disposto no n.º 2 do artigo 48.º;
 
-i) A infracção ao disposto no artigo 49.º;
+i) A violação dos direitos garantidos pelos n.os 1, 7 e 8 do artigo 16.º e pelo artigo 49.º;
 
 j) A infracção ao disposto no n.º 2 do artigo 50.º;
 
-l) O incumprimento do disposto no n.º 4 do artigo 60.º
+l) A infracção ao disposto nos n.os 1 a 4 do artigo 50.º-A.
 
 3 - A negligência e a tentativa são puníveis.

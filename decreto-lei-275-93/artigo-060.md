@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Disposições finais e transitórias
-
 # Artigo 60.º
 
 ### Aplicação no tempo e no espaço
@@ -18,6 +14,10 @@
 
 6 - O presente diploma aplica-se aos direitos obrigacionais de habitação turística constituídos ao abrigo do disposto no Decreto-Lei n.º 130/89, de 18 de Abril, salvo o disposto no n.º 1 do artigo 47.º
 
-7 - As disposições do presente diploma aplicam-se a todos os contratos, por períodos de tempo limitados em cada ano, relativos a direitos reais de habitação periódica e a direitos de habitação turística em empreendimentos que tenham por objecto imóveis sitos em Portugal ou em qualquer outro Estado-Membro da União Europeia.
+7 - Sempre que a lei aplicável ao contrato seja a lei de um Estado membro da União Europeia é considerada como não escrita toda e qualquer cláusula contratual através da qual o consumidor renuncie aos direitos previstos no presente diploma.
 
-8 - No caso de os contratos respeitarem a direitos reais de habitação periódica e a direitos de habitação turística em empreendimentos turísticos sitos no território de outro Estado-Membro da Comunidade Europeia, por períodos de tempo limitados em cada ano, aplicam-se as disposições correspondentes desse Estado-Membro qualquer que seja o lugar e a forma da sua celebração e a lei escolhida pelas partes para regular o contrato.
+8 - Se a lei aplicável for a lei de um país terceiro ao da União Europeia, o consumidor não pode ser privado da protecção conferida pelo disposto neste decreto-lei quando:
+
+a) O bem imóvel se encontre situado no território de um Estado membro;
+
+b) Nos restantes casos, o vendedor exercer a sua actividade de comércio no território de um Estado membro ou dirigir por qualquer meio essa actividade para o território de um Estado membro.

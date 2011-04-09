@@ -1,10 +1,10 @@
 # Artigo 5.º
 
-### Autorização pela Direcção-Geral do Turismo
+### Declaração de comunicação prévia
 
-1 - Compete à Direcção-Geral do Turismo autorizar a exploração do empreendimento no regime do direito real de habitação periódica.
+1 - A constituição de direitos reais de habitação periódica está sujeita a comunicação prévia com prazo, conforme definida pela alínea a) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de Julho, ao Turismo de Portugal, I. P.
 
-2 - O proprietário das unidades de alojamento sujeitas ao regime de direitos reais de habitação periódica deve apresentar no Turismo de Portugal, I. P., o pedido de autorização da constituição com os seguintes elementos:
+2 - O proprietário das unidades de alojamento a submeter ao regime de direitos reais de habitação periódica deve apresentar, por via informática, ao Turismo de Portugal, I. P., nos termos previstos no artigo 62.º, a declaração de comunicação prévia com prazo acompanhada dos seguintes elementos:
 
 a) A identificação do ou dos proprietários do empreendimento turístico;
 
@@ -44,4 +44,8 @@ s) Os poderes e deveres do proprietário do empreendimento, nomeadamente em mat�
 
 t) A capacidade máxima de cada uma das unidades de alojamento.
 
-3 - Autorizado o projecto de constituição, a Direcção-Geral do Turismo emite uma certidão da qual devem constar os elementos indicados no número anterior.
+3 - Se for detectada a falta ou desconformidade de algum dos elementos ou documentos referidos no número anterior, o Turismo de Portugal, I. P., dispõe de um prazo de 10 dias a contar da apresentação da comunicação prévia para solicitar ao proprietário que, no prazo de 10 dias, envie os elementos ou documentos em falta, ficando suspenso o prazo a que se refere o n.º 5 até que o processo se encontre devidamente instruído.
+
+4 - O processo só se encontra devidamente instruído na data da recepção do último dos elementos em falta.
+
+5 - Caso o Turismo de Portugal, I. P., não se pronuncie no prazo de 30 dias a contar da apresentação da comunicação prévia, o proprietário das unidades pode promover a constituição dos direitos reais de habitação periódica nos termos e nas condições constantes da declaração de comunicação prévia.

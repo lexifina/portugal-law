@@ -4,7 +4,15 @@
 
 1 - O crédito por prestações ou indemnizações devidas pelo titular do direito real de habitação periódica e respectivos juros moratórios goza do privilégio creditório imobiliário sobre este direito, graduável após os mencionados nos artigos 746.º e 748.º do Código Civil e os previstos em legislação especial em vigor nesta data.
 
-2 - Sem prejuízo do disposto no número anterior, é atribuído ao contrato ou à certidão do registo predial e às actas da assembleia prevista no artigo seguinte força executiva, nos termos e para os efeitos do disposto na alínea d) do artigo 46.º do Código de Processo Civil, no que se refere às prestações ou indemnizações devidas pelo titular do direito real de habitação periódica e respectivos juros moratórios.
+2 - Sem prejuízo do disposto no número anterior, é atribuída força executiva, nos termos e para os efeitos do disposto na alínea d) do artigo 46.º do Código de Processo Civil, no que se refere às prestações ou indemnizações em dívida pelo titular de direito real de habitação periódica e respectivos juros moratórios:
+
+a) Ao contrato de transmissão do direito real de habitação periódica;
+
+b) À certidão do registo predial;
+
+c) À acta da assembleia a que se refere o artigo seguinte;
+
+d) À acta da assembleia geral de titulares que tiver deliberado, por maioria dos votos dos presentes, o valor da prestação periódica devida por cada titular.
 
 3 - Na falta de pagamento da prestação periódica até dois meses antes do início do período de exercício do correspondente direito, o proprietário das unidades de alojamento sujeitas ao regime do direito real de habitação periódica pode opor-se a esse exercício.
 
