@@ -1,0 +1,11 @@
+Portaria n.º 153/2011
+de 12 de Abril
+O n.º 3 do artigo 22.º do Decreto-Lei n.º 47/2005, de 24 de Fevereiro, regula a percentagem a afectar ao Fundo de Estabilização Tributário (FET) do montante das cobranças coercivas derivadas dos processos instaurados nos serviços da Direcção-Geral dos Impostos (DGCI) e das receitas de natureza fiscal arrecadadas no âmbito da aplicação do Decreto-Lei n.º 124/96, de 10 de Agosto, cujo montante deve ser definido, anualmente, mediante portaria do Ministro de Estado e das Finanças.
+O acréscimo de produtividade dos trabalhadores da DGCI e da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA) constitui o fundamento para a atribuição do suplemento previsto no artigo 3.º do Decreto-Lei n.º 335/97, de 2 de Dezembro, o qual é avaliado no início do ano seguinte àquele a que diz respeito através da comparação entre os objectivos efectivamente atingidos e os definidos nos planos de actividade relativos à cobrança coerciva e às receitas arrecadas no âmbito da aplicação do Decreto-Lei n.º 124/96, de 10 de Agosto, sem prejuízo do disposto no n.º 2 do n.º 6 da Portaria n.º 1375-A/2003, de 18 de Dezembro, que regula autonomamente a remuneração das funções de gestão de cobrança dos créditos cedidos pelo Estado.
+Para os resultados obtidos no ano de 2010, no capítulo da cobrança coerciva, contribuiu uma maior dinâmica das equipas dedicadas às execuções fiscais e os mecanismos introduzidos para obter maior celeridade na efectivação das citações e na detecção de bens susceptíveis de penhora no domínio da tramitação dos processos de execuções fiscais.
+Assim:
+Manda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do n.º 3 do artigo 22.º do Decreto-Lei n.º 47/2005, de 24 de Fevereiro, e do n.º 5 do n.º 1.º da Portaria n.º 132/98, de 4 de Março, o seguinte:
+Artigo único
+Percentagem das receitas do Fundo de Estabilização Tributário
+A percentagem a que se refere o n.º 3 do artigo 22.º do Decreto-Lei n.º 47/2005, de 24 de Fevereiro, é fixada em 5 % do montante constante da declaração anual do director-geral dos Impostos de 10 de Fevereiro de 2011, relativamente ao ano de 2010, elaborada nos termos do n.º 2 do n.º 1.º da Portaria n.º 132/98, de 4 de Março.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Março de 2011.
