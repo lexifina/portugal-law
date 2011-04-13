@@ -4,6 +4,8 @@
 
 São beneficiárias da medida INOV-Export, desde que preencham os requisitos previstos no artigo seguinte, as seguintes entidades:
 
-a) PME exportadoras, com produtos e ou serviços de origem nacional;
+a) Empresas exportadoras com produtos e ou serviços de origem nacional;
 
-b) PME potencialmente exportadoras ou que exportam pontualmente, com produtos e ou serviços de origem nacional.
+b) Empresas potencialmente exportadoras ou que exportam pontualmente, com produtos e ou serviços de origem nacional;
+
+c) Associações empresariais.
