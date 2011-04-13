@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal de Justiça de 2011-04-13, processo 879/98.4GACSC-E.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 879/98.4GACSC-E.S1
+
+**Nº Convencional:** 3ª SECÇÃO
+
+**Relator:** ARMINDO MONTEIRO
+
+**Descritores:** RECURSO DE REVISÃO; PRESCRIÇÃO DAS PENAS; PRESCRIÇÃO DO PROCEDIMENTO CRIMINAL; NOVOS FACTOS; NOVOS MEIOS DE PROVA
+
+**Data do Acordão:** 04/13/2011
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO DE REVISÃO
+
+**Decisão:** NEGADO PROVIMENTO
+
+## Sumário
+
+I - De um modo geral, a generalidade das legislações admitem o recurso extraordinário de revisão como forma de corrigir a injustiça da condenação penal transitada, embora o caso julgado seja “degradado”, mas a um nível ainda compatível com as exigências do Estado de direito, que não pode sustentar uma condenação a todo o custo, mesmo com desrespeito daquele valor, pois a abstracta superioridade do Estado na relação punitiva não pode prevalecer à custa do clamoroso sacrifício do condenado, vítima de erro judiciário, comunitariamente intolerável.
+
+II - A prescrição do procedimento da pena é causa legal de extinção do procedimento criminal ou da pena, a que, pelo decurso do tempo se associa, pela inércia manifestada, a perda do jus puniendi do Estado, não sendo, em rigor, um facto.
+
+III - O decurso do tempo para fins de extinção do procedimento criminal ou da pena já é um facto juridicamente relevante, mas não comporta o sentido e o alcance de poder considerar-se novo, ou meio de prova igualmente novo, para os fins do art. 449.º, n.º 1, al. d), do CPP, com projecção no quadro factual e probatório predefinido, gerador de graves dúvidas sobre a justiça da decisão antes proferida, de forma a que, com probabilidade forte, a decisão revidenda seja posteriormente modificada ou anulada.
+
+IV - A prescrição do procedimento criminal ou da pena não se integram explícita ou implicitamente nos fundamentos enumerados no art. 449.º do CPP, ampliados pela Lei 48/07, de 29-08 – als. e), f), e g), do seu n.º 1 – de recurso extraordinário de revisão.
