@@ -1,0 +1,1 @@
+O Ministro da Economia, da Inovação e do Desenvolvimento, José António Fonseca Vieira da Silva, em 14 de Abril de 2010. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 15 de Abril de 2010.
