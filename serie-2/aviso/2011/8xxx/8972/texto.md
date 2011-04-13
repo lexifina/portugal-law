@@ -1,0 +1,10 @@
+Aviso n.º 8972/2011
+Alteração do Plano de Pormenor de S. Salvador da Aramenha
+Participação Preventiva
+Victor Manuel Martins Frutuoso, presidente do Município de Marvão, nos termos e para os efeitos do disposto no n.º 1 do Artigo 74.º do Decreto-Lei n.º 380/1999, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, conjugado com o n.º 2 do Artigo 77.º do Decreto-Lei n.º 46/2009, de 20 de Fevereiro, torna público, que por deliberação tomada na reunião ordinária realizada no dia 16 de Fevereiro de 2011, a Câmara Municipal de Marvão determinou a Alteração do Plano de Pormenor de S. Salvador da Aramenha, nos termos registados na deliberação, pelo que se inicia o respectivo processo de participação preventiva destinado à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+Nos termos do n.º 2 do Artigo 77.º do Decreto-Lei n.º 380/1999, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, decorrerá um período de participação preventiva de 15 (quinze) dias contados a partir da publicação do presente aviso na 2.ª série do Diário da República.
+Durante o período indicado, os interessados poderão dirigir-se ou contactar a Divisão de Obras, Ambiente e Qualidade de Vida, sito no edifício dos Paços do Concelho, para obter qualquer informação ou formular sugestões a este respeito.
+O procedimento de alteração será assim iniciado, mas com a ressalva de que o mesmo só entrará em vigor após do dia 6 de Maio de 2011, de modo a dar cumprimento ao disposto no n.º 1 do Artigo 95.º do Decreto-Lei n.º 46/2009, de 20 de Fevereiro.
+Com o objectivo de incentivar a participação é criada uma área específica no site do Município de Marvão (www.cm-marvao.pt) através da qual os interessados poderão consultar a deliberação que determinou a elaboração desta Alteração, de onde consta o prazo do período de participação referido.
+6 de Abril de 2011. - O Presidente do Município, Victor Manuel Martins Frutuoso.
+204555402
