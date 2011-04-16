@@ -1,11 +1,3 @@
-## Secção III
-
-## Realização de despesas
-
-## Secção IV
-
-## Delegação de competências
-
 # Artigo 30.º
 
 ### Conceito
