@@ -1,5 +1,5 @@
 # Artigo 66.º
 
-### (Efeitos da aposentação por incapacidade)
+### Pensão por incapacidade
 
-A aposentação por incapacidade não implica redução da pensão.
+O magistrado aposentado por incapacidade ou reformado por invalidez tem direito a que a pensão seja calculada com base no tempo de serviço correspondente a uma carreira completa.

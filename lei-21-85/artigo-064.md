@@ -8,6 +8,6 @@
 
 # Artigo 64.º
 
-### (Aposentação a requerimento)
+### Aposentação ou reforma a requerimento
 
-Os requerimentos para aposentação voluntária são enviados ao Conselho Superior da Magistratura, que os remete à administração da Caixa Geral de Aposentações.
+Os requerimentos para aposentação ou reforma são enviados ao Conselho Superior da Magistratura, que os remete à instituição de segurança social competente para a atribuir.

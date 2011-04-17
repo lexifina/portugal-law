@@ -1,10 +1,14 @@
 # Artigo 65.º
 
-### (Aposentação por incapacidade)
+### Incapacidade
 
-1 - São aposentados por incapacidade os magistrados judiciais que, por debilidade ou entorpecimento das faculdades físicas ou intelectuais, manifestados no exercício da função, não possam continuar nesta sem grave transtorno da justiça ou dos respectivos serviços.
+1 - São aposentados por incapacidade ou reformados por invalidez os magistrados judiciais que, por debilidade ou entorpecimento das faculdades físicas ou intelectuais, manifestados no exercício da função, não possam continuar nesta sem grave transtorno da justiça ou dos respectivos serviços.
 
-2 - Os magistrados que se encontrem na situação referida no número anterior são notificados para, no prazo de trinta dias, requererem a aposentação ou produzirem, por escrito, as observações que tiverem por convenientes.
+2 - Os magistrados que se encontrem na situação referida no número anterior são notificados para, no prazo de 30 dias:
+
+a) Requererem a aposentação ou reforma; ou
+
+b) Apresentarem, por escrito, as observações que tiverem por convenientes.
 
 3 - No caso previsto no n.º 1, o Conselho Superior da Magistratura pode determinar a imediata suspensão do exercício de funções do magistrado cuja incapacidade especialmente a justifique.
 
