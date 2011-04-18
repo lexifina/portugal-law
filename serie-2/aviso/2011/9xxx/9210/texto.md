@@ -1,0 +1,9 @@
+Aviso n.º 9210/2011
+Plano de Pormenor da Área Envolvente à Estação do Corvo
+Dr.ª Maria de Fátima Simões Ramos do Vale Ferreira, Presidente da Câmara Municipal de Miranda do Corvo, torna público que foi deliberado, em Reunião de Câmara Municipal de 8 de Abril de 2011, aprovar a alteração do limite do Plano de Pormenor da Área Envolvente à Estação do Corvo e respectivos Termos de Referência, mantendo-se todos os pressupostos do procedimento anteriormente aprovado.
+Promove-se assim novamente a participação preventiva prevista no n.º 2 do Artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro, na sua actual redacção, publicada através do Decreto-Lei n.º 46/2009, de 20 de Fevereiro, que decorrerá por um período de 15 dias úteis, contados a partir 5.º dia útil após a publicação deste Aviso no Diário da República, 2.ª série.
+Para efeitos de participação preventiva, qualquer interessado poderá apresentar, por escrito, sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração deste Plano. Estas deverão ser devidamente fundamentadas e apresentadas por escrito, dirigidas à Presidente da Câmara Municipal de Miranda do Corvo, remetidas pelo correio, entregues na Secretaria desta Câmara Municipal ou via Internet através do e-mail: camara@cm-mirandadocorvo.pt.
+Durante aquele período os interessados poderão consultar os termos de referência, na Repartição Administrativa, durante as horas de expediente, todos os dias úteis, e na respectiva página da Internet www.cm-mirandadocorvo.pt.
+Quaisquer informações ou esclarecimentos que se mostrem necessárias poderão ser obtidas na Divisão de Obras e Urbanismo desta Câmara Municipal, durante o referido horário de expediente.
+11 de Abril de 2011. - A Presidente da Câmara Municipal, Dr.ª Maria de Fátima Simões Ramos do Vale Ferreira.
+204569295
