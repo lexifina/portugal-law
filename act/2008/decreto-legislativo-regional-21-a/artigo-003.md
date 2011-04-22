@@ -8,14 +8,16 @@ a) Vinhos de qualidade produzidos em região determinada (VQPRD);
 
 b) Vinhos licorosos de qualidade produzidos em região determinada (VLQPRD);
 
-c) Vinagres de vinho.
+c) Vinhos espumantes de qualidade produzidos em região demarcada (VEQPRD).
 
 2 - Uma IG pode ser empregue relativamente a:
 
 a) Vinhos de mesa;
 
-b) Vinhos licorosos;
+b) Vinhos espumantes;
 
-c) Aguardentes de vinho e bagaceira;
+c) Vinhos licorosos;
 
-d) Vinagres de vinho.
+d) Aguardentes de vinho e bagaceira;
+
+e) Vinagres de vinho.
