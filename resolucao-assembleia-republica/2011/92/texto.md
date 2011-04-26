@@ -1,0 +1,17 @@
+Resolução da Assembleia da República n.º 92/2011
+Criação da Unidade Local de Saúde do Alto Tâmega e medidas urgentes para o Hospital de Chaves
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição da República, recomendar ao Governo que:
+1 - Crie a Unidade Local de Saúde do Alto Tâmega, na qual estejam integrados os diferentes estabelecimentos e serviços locais de saúde do Alto Tâmega (Unidade Hospitalar de Chaves, Centros de Saúde dos municípios de Boticas, Chaves, Montalegre e Valpaços, Unidades de Cuidados Continuados e Sector Social de Saúde dos municípios citados), possuindo como área territorial de influência a área do antigo Hospital Distrital de Chaves, que consubstancie as seguintes fases:
+a) Constituição de uma comissão, no período máximo de 30 dias, sob coordenação do Ministério da Saúde, e integrando representantes do conselho de administração do CHTMAD (um), do ACES do Alto Tâmega e Barroso (um) e das Câmaras Municipais do Alto Tâmega (seis), com o objectivo da criação da Unidade Local de Saúde do Alto Tâmega, com os seguintes objectivos:
+i) Estudar e propor, no prazo máximo de 90 dias, a natureza administrativa e financeira e os estatutos da Unidade Local de Saúde do Alto Tâmega;
+ii) Estudar e propor, no prazo máximo de 90 dias, os níveis e conteúdos, que podem ser diversos, de articulação clínica, logística e técnica, entre a Unidade Local de Saúde do Alto Tâmega e o CHTMAD;
+iii) Estudar e propor, no prazo máximo de 90 dias, as formas de articulação com as outras unidades de saúde de cuidados continuados da região;
+iv) Acompanhar a gestão da Unidade Local de Saúde do Alto Tâmega durante o período de transição;
+b) A Unidade Local de Saúde do Alto Tâmega mantém níveis adequados de articulação pelo prazo de dois anos, período de transição, ao nível dos sectores clínico, técnico e logístico com o CHTMAD;
+c) Sem prejuízo da necessidade de assegurar os meios e os recursos humanos necessários para o bom funcionamento da futura Unidade Local de Saúde, o Governo aprova e faz publicar no prazo máximo de 150 dias o decreto-lei que altere o Decreto-Lei n.º 50-A/2007, de 28 de Fevereiro, que determinou a criação do Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., excluindo a Unidade Hospitalar de Chaves do CHTMAD, que extinga o Agrupamento dos Centros de Saúde do Alto Tâmega e Barroso e crie a Unidade de Saúde do Alto Tâmega e aprove os respectivos estatutos.
+2 - Sejam implementadas as seguintes medidas urgentes para o hospital de Chaves:
+a) Concretização, no prazo de 60 dias, das medidas necessárias para o funcionamento no Hospital de Chaves de consultas das diversas especialidades existentes no Hospital de Vila Real;
+b) Adopção de medidas para o Hospital de Chaves, no cumprimento do protocolo assinado entre o Ministério da Saúde e o município de Chaves, de resposta imediata às carências de recursos humanos e à ausência de investimentos - caso da remodelação do bloco operatório -, garantindo que não se verifica nenhuma nova desactivação ou redução dos serviços hoje prestados, nomeadamente dos períodos nocturnos do banco de urgência e do bloco operatório.
+3 - Sejam promovidos, no contexto das relações transfronteiriças entre o Norte de Portugal e a Galiza, os mecanismos de facilitação do acesso de pessoas de ambos os lados da fronteira a serviços de saúde que possam, com qualidade e vantagem económica, ser realizados num ou noutro país.
+Aprovada em 25 de Março de 2011.
+O Presidente da Assembleia da República, Jaime Gama.
