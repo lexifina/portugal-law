@@ -8,13 +8,13 @@ a) A pesca é autorizada de segunda-feira até às 15 horas de sábado;
 
 b) Cada embarcação licenciada pode efectuar até cinco marés, em cada semana;
 
-c) São fixados os seguintes limites máximos de capturas de bivalves, por espécie ou conjunto de espécies, e por embarcação:
+c) São fixados os seguintes limites máximos de capturas de bivalves, por espécie ou conjunto de espécies e por embarcação:
 
-i) 600 kg de amêijoa-branca (Spisula solida) por dia, sem prejuízo dos limites semanal e mensal, respectivamente, de 1800 kg e 4800 kg;
+i) 600 kg de amêijoa-branca (Spisula solida) por dia, sem prejuízo dos limites semanal e mensal, respectivamente, de 1800 kg e 6000 kg;
 
 ii) 1000 kg de castanhola (Glycymeris glycymeris) por dia, sem prejuízo dos limites semanal e mensal, respectivamente, de 2000 kg e 5000 kg;
 
-iii) Até 500 kg de outros bivalves, por dia;
+iii) Até 750 kg de outros bivalves por dia.
 
 d) Preenchimento de diário de pesca, independentemente do comprimento de fora a fora da embarcação;
 
