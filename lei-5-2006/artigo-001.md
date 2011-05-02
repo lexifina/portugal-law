@@ -14,7 +14,7 @@
 
 2 - Ficam excluídas do âmbito de aplicação da presente lei as actividades relativas a armas e munições destinadas às Forças Armadas, às forças e serviços de segurança, bem como a outros serviços públicos cuja lei expressamente as exclua, bem como aquelas que se destinem exclusivamente a fins militares.
 
-3 - Ficam ainda excluídas do âmbito de aplicação da presente lei as actividades referidas no n.º 1 relativas a armas de fogo e munições cuja data de fabrico seja anterior a 1 de Janeiro de 1891, bem como aquelas que utilizem munições obsoletas, constantes de portaria do Ministério da Administração Interna ou que obtenham essa classificação por peritagem individual da Polícia de Segurança Pública (PSP).
+3 - Ficam ainda excluídas do âmbito de aplicação da presente lei as actividades referidas no n.º 1 relativas a armas de fogo e munições cuja data de fabrico seja anterior a 1 de Janeiro de 1891, bem como aquelas que utilizem munições obsoletas, constantes de portaria do Ministério da Administração Interna, ou outras armas e munições de qualquer tipo que obtenham essa classificação por peritagem individual da Polícia de Segurança Pública (PSP).
 
 4 - Ficam também excluídos do âmbito de aplicação da presente lei:
 

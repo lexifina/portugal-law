@@ -8,7 +8,9 @@ a) Quando a licença de uso e porte de arma tiver cessado, por vontade expressa 
 
 b) Quando o direito de uso e porte de arma tiver cessado e o seu detentor não opte pela transmissão da arma abrangida;
 
-c) Quando as armas tenham sido adquiridas por sucessão mortis causa ou doação e o seu valor venal, artístico ou estimativo o justifique.
+c) Quando as armas tenham sido adquiridas por sucessão mortis causa ou doação e o seu valor venal, artístico ou estimativo o justifique;
+
+d) Quando se verifique o regresso de países terceiros, nos termos do n.º 4 do artigo 60.º
 
 2 - Os pedidos de concessão de licenças de detenção de arma no domicílio são formulados através de requerimento do qual conste o nome completo do requerente, número do bilhete de identidade, data e local de emissão, data de nascimento, profissão, estado civil, naturalidade e domicílio, bem como a justificação da pretensão.
 

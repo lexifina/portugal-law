@@ -18,7 +18,7 @@ b) Duas fotografias do requerente a cores e em tamanho tipo passe;
 
 c) Cópia da licença ou licenças de uso e porte de armas de fogo ou prova da sua isenção;
 
-d) Cópia dos livretes de manifesto de armas que pretende averbar;
+d) Cópia dos livretes de manifesto de armas que pretende averbar, ou dos documentos que os substituam nos termos da presente lei;
 
 e) Cópia do bilhete de identidade ou passaporte.
 

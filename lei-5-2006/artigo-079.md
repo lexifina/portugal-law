@@ -2,7 +2,7 @@
 
 ### Leilões de armas
 
-1 - A Direcção Nacional da PSP organiza, pelo menos uma vez por ano, uma venda em leilão das armas que tenham sido declaradas perdidas a favor do Estado, apreendidas ou achadas e que se encontrem em condições de serem colocadas no comércio.
+1 - Compete exclusivamente à Direcção Nacional da PSP organizar, pelo menos uma vez por ano, uma venda em leilão das armas que tenham sido declaradas perdidas a favor do Estado, apreendidas ou achadas e que se encontrem em condições de serem colocadas no comércio.
 
 2 - Podem licitar em leilões de armas:
 

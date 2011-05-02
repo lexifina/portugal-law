@@ -6,6 +6,8 @@
 
 2 - Com a entrega deve ser lavrado termo de justificação da posse, contendo todas as circunstâncias de tempo e lugar em que o achado ocorreu.
 
-3 - Todas as armas entregues devem ser objecto de análise e perícia balística, a efectuar pelo departamento competente da Polícia Judiciária.
+3 - Todas as armas entregues devem ser objecto de exame e rastreio.
 
-4 - O achado, logo que disponibilizado pelas autoridades, se for susceptível de comércio ou manifesto, será objecto de venda em leilão, revertendo o produto da venda para o achador, podendo este, em alternativa, requerer o seu manifesto, se for titular da licença aplicável.
+4 - Os resultados dos exames realizados pela PSP são comunicados ao Laboratório de Polícia Científica da Polícia Judiciária.
+
+5 - O achado, logo que disponibilizado pelas autoridades, se for susceptível de comércio ou manifesto, será objecto de venda em leilão, revertendo o produto da venda para o achador.

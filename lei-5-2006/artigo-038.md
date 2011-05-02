@@ -6,6 +6,6 @@
 
 2 - O empréstimo deve ser formalizado mediante documento escrito, elaborado em triplicado, emitido pelo proprietário e por este datado e assinado, sendo certificado pela PSP, que arquiva o original, devendo o duplicado ser guardado pelo proprietário e o triplicado acompanhar a arma.
 
-3 - Não é permitido o empréstimo por mais de 180 dias, excepto se for a museu.
+3 - Não é permitido o empréstimo por mais de um ano, excepto se for a museu.
 
 4 - O empréstimo legal da arma exime o proprietário da responsabilidade civil inerente aos danos por aquela causados.

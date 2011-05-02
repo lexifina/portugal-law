@@ -8,7 +8,7 @@
 
 3 - Com excepção dos titulares de licenças E ou de licença especial, quando a arma não for da sua propriedade, é obrigatória a celebração de contrato de seguro de responsabilidade civil com empresa seguradora mediante o qual seja transferida a sua responsabilidade até um capital mínimo a definir em portaria conjunta dos Ministros das Finanças e da Administração Interna.
 
-4 - A celebração de contrato de seguro de responsabilidade civil para a prática de actos venatórios não dispensa o contrato referido no número anterior, excepto se a apólice respectiva o contemplar.
+4 - A celebração autónoma do contrato de seguro previsto no número anterior é dispensada sempre que o respectivo risco esteja coberto por contrato de seguro que cubra simultaneamente a responsabilidade civil para a prática de actos venatórios.
 
 5 - Se o segurado for titular de mais de uma licença só está obrigado a um único seguro de responsabilidade civil.
 

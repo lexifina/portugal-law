@@ -6,7 +6,7 @@
 
 ### Transferência de Portugal para os Estados membros
 
-1 - A expedição ou transferência de armas de aquisição condicionada, partes essenciais de armas de fogo, munições, fulminantes, cartuchos ou invólucros com fulminantes, punhos para armas de fogo longas e coronhas retrácteis ou rebatíveis de Portugal para os Estados membros da União Europeia depende de autorização, nos termos dos números seguintes.
+1 - A expedição ou transferência de armas de aquisição condicionada, munições, fulminantes, cartuchos ou invólucros com fulminantes, punhos para armas de fogo longas e coronhas retrácteis ou rebatíveis, partes essenciais de armas de fogo, com excepção da culatra, caixa da culatra e carcaça, de Portugal para os Estados membros da União Europeia depende de autorização, nos termos dos números seguintes.
 
 2 - O requerimento a solicitar a autorização é dirigido ao director nacional da PSP e deve conter:
 
@@ -33,3 +33,5 @@ h) A data de saída e a data estimada da chegada das armas.
 5 - Cumpridos os requisitos dos números anteriores, é emitida uma autorização de transferência, por despacho do director nacional da PSP, de onde constem todos os dados exigidos no n.º 2 do presente artigo.
 
 6 - A autorização de transferência deve acompanhar a arma ou armas até ao ponto de destino e deve ser apresentada, sempre que solicitada, às autoridades dos Estados membros da União Europeia de trânsito ou de destino.
+
+7 - À ausência de autorização prevista no n.º 1, aplica-se com as necessárias adaptações o previsto no artigo 65.º, n.º 1.

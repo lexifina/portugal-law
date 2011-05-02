@@ -10,6 +10,6 @@
 
 4 - Sem prejuízo do disposto no número anterior, nos casos em que não seja autorizada a renovação da licença ou seja indeferida a concessão da nova licença a que se refere o n.º 1, deve o interessado depositar a respectiva arma na PSP, acompanhada dos documentos inerentes, no prazo de 15 dias após a notificação da decisão, sob pena de incorrer em crime de desobediência qualificada.
 
-5 - Sem prejuízo do disposto no número anterior, nos 15 dias seguintes à data em que a decisão se tornar definitiva, pode o interessado proceder à transmissão da arma, remetendo à PSP o respectivo comprovativo.
+5 - Sem prejuízo do disposto no número anterior, nos 180 dias seguintes à data em que a decisão se tornar definitiva, pode o interessado proceder à transmissão da arma, remetendo à PSP o respectivo comprovativo.
 
-6 - Findo o prazo de 15 dias referido no número anterior, a arma é declarada perdida a favor do Estado.
+6 - Findo o prazo de 180 dias referido no número anterior, a arma é declarada perdida a favor do Estado.

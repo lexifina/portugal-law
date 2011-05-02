@@ -36,7 +36,9 @@ f) Fabrico e montagem de armas;
 
 g) Reparação de armas;
 
-h) Existências de armas e munições.
+h) Existências de armas e munições;
+
+i) Armas à sua guarda, nos termos do n.º 14 do artigo 48.º
 
 3 - Em cada um dos registos referidos nas alíneas do número anterior são escrituradas, separadamente, as armas e munições por classes, indicando-se o seu fabricante, número, modelo, calibre, data e entidade com quem se efectuou a transacção, respectiva licença ou alvará, bem como o número da autorização de compra, quando exigida.
 

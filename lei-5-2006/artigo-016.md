@@ -10,8 +10,8 @@ b) Demonstrem justificadamente carecer da licença;
 
 c) Sejam idóneos;
 
-d) Sejam portadores de certificado médico.
+d) Sejam portadores de certificado médico, nos termos do artigo 23.º
 
-2 - A apreciação da idoneidade do requerente é feita nos termos do disposto nos n.os 2 e 3 do artigo 14.º
+2 - A apreciação da idoneidade do requerente é feita nos termos do disposto nos n.os 2, 3 e 4 do artigo 14.º
 
 3 - Os pedidos de concessão de licenças de uso e porte de arma da classe E são formulados através de requerimento do qual conste o nome completo do requerente, número do bilhete de identidade, data e local de emissão, data de nascimento, profissão, estado civil, naturalidade, nacionalidade e domicílio, bem como a justificação da pretensão.

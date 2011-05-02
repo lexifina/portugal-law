@@ -16,19 +16,17 @@ d) «Arma de acção simples» a arma de fogo que é disparada mediante duas ope
 
 e) 'Arma de alarme ou salva' o dispositivo com a configuração de uma arma de fogo destinado unicamente a produzir um efeito sonoro semelhante ao produzido por aquela no momento do disparo;
 
-f) «Arma de ar comprimido» a arma accionada por ar ou outro gás comprimido, com cano de alma lisa ou estriada, destinada a lançar projéctil metálico;
+f) 'Arma de ar comprimido' a arma accionada por ar ou outro gás comprimido, destinada a lançar projéctil;
 
-g) 'Arma de ar comprimido desportiva' a arma de ar comprimido reconhecida por uma federação desportiva como adequada para a prática de tiro desportivo, nos termos do disposto na respectiva lei;
+g) 'Arma de ar comprimido de aquisição condicionada' a arma de ar comprimido capaz de propulsar projécteis de calibre superior a 5,5 mm e as de qualquer calibre, capazes de propulsar projécteis, cuja energia cinética, medida à boca do cano, seja igual ou superior a 24 J;
 
-h) 'Arma de ar comprimido de aquisição condicionada' a arma de ar comprimido capaz de propulsar projécteis de calibre superior a 5,5 mm e as de qualquer calibre, capazes de propulsar projécteis, cuja energia cinética, medida à boca do cano, seja igual ou superior a 24 J;
+h) 'Arma de ar comprimido de aquisição livre' a arma de ar comprimido, de calibre até 5,5 mm, capaz de propulsar projécteis, cuja energia cinética, medida à boca do cano, seja inferior a 24 J;
 
-i) 'Arma de ar comprimido de aquisição livre' a arma de ar comprimido, de calibre até 5,5 mm, capaz de propulsar projécteis, cuja energia cinética, medida à boca do cano, seja inferior a 24 J;
+i) 'Arma de ar comprimido desportiva' a arma de ar comprimido adequada para a prática de tiro desportivo, de aquisição livre ou condicionada;
 
 j) 'Arma automática' a arma de fogo que, mediante uma única acção sobre o gatilho ou disparador, faz uma série contínua de vários disparos;
 
 l) «Arma biológica» o engenho susceptível de libertar ou de provocar contaminação por agentes microbiológicos ou outros agentes biológicos, bem como toxinas, seja qual for a sua origem ou modo de produção, de tipos e em quantidades que não sejam destinados a fins profilácticos de protecção ou outro de carácter pacífico e que se mostrem nocivos ou letais para a vida;
-
-l) «Arma branca» todo o objecto ou instrumento portátil dotado de uma lâmina ou outra superfície cortante ou perfurante de comprimento igual ou superior a 10 cm ou com parte corto-contundente, bem como destinado a lançar lâminas, flechas ou virotões, independentemente das suas dimensões;
 
 m) 'Arma branca' todo o objecto ou instrumento portátil dotado de uma lâmina ou outra superfície cortante, perfurante, ou corto-contundente, de comprimento igual ou superior a 10 cm e, independentemente das suas dimensões, as facas borboleta, as facas de abertura automática ou de ponta e mola, as facas de arremesso, os estiletes com lâmina ou haste e todos os objectos destinados a lançar lâminas, flechas ou virotões;
 
@@ -252,13 +250,13 @@ e) «Casa forte ou fortificada» a construção ou compartimento de uso exclusiv
 
 f) 'Data de fabrico de arma' o ano em que a arma foi produzida ou, sendo desconhecido, quando iniciada a sua produção;
 
-g) «Detenção de arma» o facto de ter em seu poder ou na sua esfera de disponibilidade uma arma;
+g) 'Detenção de arma' o facto de ter em seu poder ou disponível para uso imediato pelo seu detentor;
 
 h) «Disparo de advertência» o acto voluntário de disparar uma arma apontada para zona livre de pessoas e bens;
 
 i) «Equipamentos, meios militares e material de guerra» os equipamentos, armas, engenhos, instrumentos, produtos ou substâncias fabricados para fins militares e utilizados pelas Forças Armadas e forças e serviços de segurança;
 
-j) «Estabelecimento de diversão nocturna», entre as 0 e as 9 horas, todos os locais públicos ou privados, construídos ou adaptados para o efeito, na sequência ou não de um processo de licenciamento municipal, que se encontrem a funcionar essencialmente como bares, discotecas e similares, salas de jogos eléctricos ou manuais e feiras de diversão;
+j) 'Estabelecimento ou local de diversão' todos os locais públicos ou privados, construídos ou adaptados para o efeito, na sequência ou não de um processo de licenciamento municipal, que se encontrem a funcionar essencialmente como bares, discotecas e similares, salas de jogos eléctricos ou manuais e feiras de diversão;
 
 l) 'Explosivo civil' todas as substâncias ou produtos explosivos cujo fabrico, comércio, transferência, importação e utilização estejam sujeitos a autorização concedida pela autoridade competente;
 
@@ -292,6 +290,6 @@ ab) 'Transferência' a entrada em território nacional de quaisquer bens previst
 
 ac) 'Norma técnica' a informação emitida pela Direcção Nacional da PSP destinada a comunicar instrução técnica ou procedimental aos titulares de licenças e alvarás emitidos ao abrigo da presente lei;
 
-ad) 'Arma de aquisição condicionada' a arma que só pode ser adquirida por quem tenha licença habilitante e autorização da Direcção Nacional da PSP;
+ad) 'Arma de aquisição condicionada' a arma que só pode ser adquirida por quem tenha licença habilitante ou autorização da Direcção Nacional da PSP;
 
 ae) 'Ornamentação' a exposição de arma em local a indicar pelo requerente e identificado na correspondente licença F.

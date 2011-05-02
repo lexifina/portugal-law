@@ -10,7 +10,7 @@
 
 ### Autorização prévia à importação e exportação
 
-1 - A importação e a exportação de armas de aquisição condicionada, partes essenciais de armas de fogo, munições, fulminantes, cartuchos ou invólucros com fulminantes, punhos para armas de fogo longas e coronhas retrácteis ou rebatíveis, estão sujeitas a prévia autorização do director nacional da PSP.
+1 - A importação e a exportação de armas de aquisição condicionada, munições, fulminantes, cartuchos ou invólucros com fulminantes, punhos para armas de fogo longas e coronhas retrácteis ou rebatíveis, partes essenciais de armas de fogo, com excepção da culatra, caixa da culatra e carcaça, estão sujeitas a prévia autorização do director nacional da PSP.
 
 2 - A autorização pode ser concedida:
 

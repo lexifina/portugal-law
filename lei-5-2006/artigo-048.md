@@ -22,7 +22,7 @@ b) Se encontre em pleno uso de todos os direitos civis;
 
 c) Seja idóneo;
 
-d) Seja portador do certificado de aprovação para o exercício da actividade de armeiro ou, tratando-se de pessoa colectiva, possua um responsável técnico que preencha os requisitos das alíneas a) a e);
+d) Tenha obtido aprovação em curso de formação técnica e cívica para o exercício da actividade de armeiro ou, tratando-se de pessoa colectiva, possua um responsável técnico que preencha os requisitos das alíneas a) a e);
 
 e) Seja portador de certificado médico;
 
@@ -32,7 +32,7 @@ f) Seja possuidor de instalações comerciais ou industriais devidamente licenci
 
 4 - A apreciação da idoneidade do requerente é feita nos termos do disposto nos n.os 2 e 3 do artigo 14.º
 
-5 - O alvará de armeiro é concedido por um período de cinco anos, renovável, ficando a sua renovação condicionada à verificação das condições exigidas para a sua concessão, não sendo contudo exigido o certificado previsto na alínea d) do n.º 2.
+5 - O alvará de armeiro é concedido por um período de 10 anos, renovável, ficando a sua renovação condicionada à verificação das condições exigidas para a sua concessão, não sendo contudo exigido o certificado previsto na alínea d) do n.º 2.
 
 6 - O alvará de armeiro só é concedido depois de verificadas as condições de segurança das instalações, bem como da comprovada capacidade que os requerentes possuem para o exercício da actividade, podendo a PSP, para o efeito, solicitar parecer às associações da classe.
 
@@ -42,8 +42,12 @@ f) Seja possuidor de instalações comerciais ou industriais devidamente licenci
 
 9 - Aos elementos das forças e serviços de segurança e das Forças Armadas, quando no activo, é interdito o exercício da actividade de armeiro.
 
-10 - Sem prejuízo do disposto no artigo 68.º-A, os titulares de alvará de armeiro só podem exercer a sua actividade em estabelecimentos licenciados para o efeito, de acordo com as regras de segurança definidas, podendo apenas transaccionar, para além de todos os bens, materiais e equipamentos de venda livre, as armas, munições e equipamentos previstos na presente lei que recaiam no âmbito do seu alvará.
+10 - Sem prejuízo do disposto no artigo 68.º-A, os titulares de alvará de armeiro só podem exercer a sua actividade em estabelecimentos licenciados para o efeito, de acordo com as regras de segurança definidas, podendo transaccionar artigos não abrangidos pela presente lei, desde que destinados à caça, pesca, tiro desportivo e recreativo, para além de todos os bens, materiais e equipamentos de venda livre, as armas, munições e equipamentos previstos na presente lei que recaiam no âmbito do seu alvará.
 
 11 - O exercício da actividade de armeiro em feiras da especialidade ou feiras agrícolas, bem como em exposições, carece de autorização prévia do director nacional da PSP.
 
 12 - As regras de funcionamento, obrigações, requisitos de concessão e das taxas a cobrar pela emissão dos alvarás de armeiro tipo 4 e 5 são estabelecidos por portaria do Ministério da Administração Interna.
+
+13 - Sem prejuízo das normas de segurança, aos titulares de alvará e seus funcionários é autorizado o transporte de armas, munições e partes essenciais de armas, para os locais referidos no n.º 11 do presente artigo, desde que afectas à respectiva actividade comercial.
+
+14 - Os titulares de alvará de armeiro tipo 2 podem ter à sua guarda armas das classes C e D, desde que acompanhadas do respectivo livrete, bem como de declaração do proprietário da arma.
