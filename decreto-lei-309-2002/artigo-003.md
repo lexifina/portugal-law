@@ -20,12 +20,4 @@ g) Salas de jogos manuais;
 
 h) Parques temáticos.
 
-2 - São ainda considerados como recintos de diversão os locais onde, de forma acessória, se realizem espectáculos de natureza artística, nomeadamente:
-
-a) Bares;
-
-b) Discotecas;
-
-c) Restaurantes;
-
-d) Salões de festas.
+2 - (Revogado).
