@@ -1,3 +1,7 @@
+## Capítulo X
+
+## Licenciamento do exercício da actividade de realização de leilões
+
 ## Capítulo XI
 
 ## Protecção de pessoas e bens
