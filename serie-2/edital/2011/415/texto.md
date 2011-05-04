@@ -1,0 +1,11 @@
+Edital n.º 415/2011
+Alteração ao artigo 14.º, n.º 2, do capítulo v, da tabela municipal de taxas em vigor, referente à afixação de publicidade, em sede de unidade de medida ou método de cálculo
+Renato José Dinis Gonçalves, vereador do pelouro da divisão jurídica e de administração geral do Departamento da Presidência e de administração geral da Câmara Municipal de Montijo.
+Faz saber que por deliberações tomadas pela Câmara Municipal de Montijo em sua reunião realizada a 06 de Abril de 2011, através da Proposta n.º 466 e pela Assembleia Municipal na sua 2.ª reunião da 2.ª sessão realizada em 19 de Abril de 2011 e através da Proposta n.º 05 foi aprovado:
+A alteração ao disposto no n.º 2 do artigo 14.º Do capítulo V da Tabela Municipal de Taxas em vigor, relativo à afixação de publicidade em edifícios ou em outras construções, visíveis da via pública, em sede de unidade m2/mês aí contemplada, substituindo-se a aludida unidade de medida pela unidade medida de m2/ano e restabelecendo-se, deste modo, a unidade de medida anteriormente prevista no Regulamento e Tabela de Taxas de 1993, nos respectivos artigos 77.º e 78.º, análogos, no que à publicidade luminosa diz respeito, ao normativo regulamentar ora alterado;
+Em consequência da supra citada modificação regulamentar, o n.º 2 do artigo 14.º da Tabela Municipal de Taxas em vigor passa a ter a seguinte redacção: "Publicidade em edifícios ou em outras construções, visíveis da via pública (m2/ano)";
+A alteração regulamentar em apreço aplica-se à renovação das licenças publicitárias, cuja liquidação, cobrança e pagamento das taxas municipais inerentes e emergentes da citada renovação venha a ocorrer no ano civil e financeiro de 2011 e que suscite ou envolva a aplicação do disposto no n.º 2 do artigo 14.º da Tabela Municipal de Taxas ora modificado e das taxas aí contempladas, aqui se incluindo eventuais averbamentos nos termos gerais regulamentares.
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+E eu, Susana da Purificação Ribeiro Vinhas Rodrigues, Chefe da Divisão Jurídica e de Administração Geral do Departamento da Presidência e de Administração Geral, o subscrevi.
+20 de Abril de 2011. - O Vereador do Pelouro, Renato Gonçalves.
+204617076
