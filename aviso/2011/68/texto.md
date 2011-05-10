@@ -1,0 +1,5 @@
+Aviso n.º 68/2011
+Por ordem superior se torna público que, em 6 de Março de 2009 e em 5 de Abril de 2011, foram recebidas notas pela Embaixada do Reino de Marrocos em Lisboa e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, respectivamente, pelas quais ambos os Estados Contratantes comunicam que concluíram os seus requisitos constitucionais necessários para a manifestação do seu consentimento de estarem vinculados à Convenção em Matéria de Extradição entre a República Portuguesa e o Reino de Marrocos, assinada em Rabat em 17 de Abril de 2007.
+Por parte da República Portuguesa, a Convenção foi aprovada pela Resolução da Assembleia da República n.º 7/2009, ratificada pelo Decreto do Presidente da República n.º 13/2009, de 26 de Fevereiro, e publicada no Diário da República, 1.ª série, n.º 40, de 26 de Fevereiro de 2009.
+Nos termos do seu artigo 25.º, a Convenção em Matéria de Extradição entre a República Portuguesa e o Reino de Marrocos entrará em vigor em 5 de Maio de 2011.
+Direcção-Geral de Política Externa, 2 de Maio de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
