@@ -16,7 +16,7 @@ d) Garantir a produção e transmissão de programas educativos e de entretenime
 
 e) Garantir a transmissão de programas de carácter cultural, educativo e informativo para públicos específicos, incluindo os que compõem as diversas comunidades imigrantes em Portugal;
 
-f) Conceber e implementar um plano de ação para promoção da literacia mediática, em formatos acessíveis e adaptados a pessoas com necessidades especiais, incluindo em língua gestual portuguesa e legendagem, em parceria com outros atores relevantes neste domínio, incluindo a produção e difusão de conteúdos sobre a matéria;
+f) Participar em actividades de educação para os meios de comunicação social, garantindo, nomeadamente, a transmissão de programas orientados para esse objectivo;
 
 g) Promover a emissão de programas em língua portuguesa, de géneros diversificados, e reservar à produção europeia parte considerável do seu tempo de emissão, devendo dedicar-lhes percentagens superiores às exigidas na presente lei a todos os operadores de televisão, atenta a missão de cada um dos seus serviços de programas;
 
@@ -30,6 +30,4 @@ l) Garantir o exercício dos direitos de antena, de resposta e de réplica polí
 
 m) Emitir as mensagens cuja difusão seja solicitada pelo Presidente da República, pelo Presidente da Assembleia da República ou pelo Primeiro-Ministro;
 
-n) Ceder tempo de emissão à Administração Pública, com vista à divulgação de informações de interesse geral, nomeadamente em matéria de saúde e segurança públicas;
-
-o) Promover a emissão de programas que aconselhem e estimulem os cidadãos para a prática adequada de exercício físico e de uma boa nutrição, no caso de dever coletivo de permanência em residência, por período alargado, devido a declaração de estado de exceção ou por necessidade de isolamento social.
+n) Ceder tempo de emissão à Administração Pública, com vista à divulgação de informações de interesse geral, nomeadamente em matéria de saúde e segurança públicas.

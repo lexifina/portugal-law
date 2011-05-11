@@ -10,10 +10,6 @@ b) Promover o exercício do direito de informar, de se informar e de ser informa
 
 c) Promover a cidadania e a participação democrática e respeitar o pluralismo político, social e cultural;
 
-d) Difundir e promover a cultura e a língua portuguesas, os criadores, os artistas e os cientistas portugueses e os valores que exprimem a identidade nacional;
-
-e) Contribuir para assegurar os princípios da tolerância, da solidariedade, da não discriminação e da coesão social;
-
-f) Assegurar, em todas as suas emissões, um nível elevado de proteção dos consumidores.
+d) Difundir e promover a cultura e a língua portuguesas, os criadores, os artistas e os cientistas portugueses e os valores que exprimem a identidade nacional.
 
 2 - Os fins referidos no número anterior devem ser tidos em conta na selecção e agregação de serviços de programas televisivos a disponibilizar ao público pelos operadores de distribuição.

@@ -2,12 +2,14 @@
 
 ### Deslocalização de emissões
 
-1 - A ERC pode adotar medidas adequadas, necessárias e proporcionais à cessação de infrações cometidas através de serviços de programas de televisão, bem como por serviços audiovisuais a pedido, fornecidos por operadores sob jurisdição de outro Estado-Membro quando verifique que tais serviços são total ou principalmente dirigidos ao território português e que os respetivos operadores se estabeleceram noutro Estado-Membro para contornar as regras mais rigorosas a que ficariam sujeitos sob jurisdição do Estado português.
+1 - A Entidade Reguladora para a Comunicação Social pode adoptar medidas adequadas, necessárias e proporcionais à cessação de infracções cometidas através de serviços de programas fornecidos por operadores de televisão sob jurisdição de outro Estado membro quando verifique que tais serviços são total ou principalmente dirigidos ao território português e que os respectivos operadores se estabeleceram noutro Estado membro para contornar as regras mais rigorosas a que ficariam sujeitos sob jurisdição do Estado Português.
 
-2 - Para concretização do disposto no número anterior, a ERC segue o disposto nos n.os 2 a 7 do artigo 4.º da Diretiva Serviços de Comunicação Social Audiovisual, empreendendo as diligências que se mostrem necessárias junto da Comissão Europeia e das autoridades competentes do Estados-Membros.
+2 - As medidas referidas no número anterior apenas podem ser adoptadas quando, após ter formulado um pedido circunstanciado perante o Estado membro competente para fazer cessar a infracção, a Entidade Reguladora para a Comunicação Social:
 
-3 - Caso entenda que, nos termos do n.º 2 do artigo 4.º da Diretiva Serviços de Comunicação Social Audiovisual, se deve convidar o Comité de Contacto para analisar a questão, a ERC solicita ao membro do Governo responsável pela área da comunicação social que diligencie nesse sentido.
+a) Não tenha por aquele sido informada, no prazo máximo de dois meses, dos resultados obtidos, ou considere tais resultados insatisfatórios; e
 
-4 - Nos termos e para os efeitos do disposto no artigo 4.º da Diretiva Serviços de Comunicação Social Audiovisual, cabe à ERC cooperar com as autoridades competentes dos demais Estados-Membros, avaliando as solicitações que lhe sejam dirigidas e, caso reconheça que um operador de televisão ou de serviços audiovisuais a pedido sob a jurisdição do Estado português fornece um serviço de programas televisivo ou um serviço audiovisual a pedido dirigido total ou principalmente ao território de outro Estado-Membro e se estabeleceu em Portugal para se furtar ao cumprimento de regras mais pormenorizadas ou mais rigorosas de interesse público geral em vigor naquele, adota as medidas que se mostrem adequadas, necessárias e proporcionais.
+b) Tenha subsequentemente comunicado, de forma fundamentada, à Comissão Europeia e ao Estado membro em causa a intenção de adoptar tais medidas, sem que, nos três meses seguintes, a Comissão se oponha à decisão.
 
-5 - A ERC informa, sem demora indevida, o membro do Governo responsável pela área da comunicação social dos pedidos e comunicações que receba e efetue nos termos dos números anteriores.
+3 - A Entidade Reguladora para a Comunicação Social assegura os procedimentos que garantam a reciprocidade no exercício da faculdade referida no n.º 1 por outros Estados membros relativamente a serviços de programas televisivos de operadores de televisão sujeitos à jurisdição do Estado Português.
+
+4 - A Entidade Reguladora para a Comunicação Social informa o membro do Governo responsável pela área da comunicação social dos pedidos e comunicações que efectue nos termos do n.º 2, bem como dos que lhe sejam dirigidos nas situações mencionadas no número anterior.

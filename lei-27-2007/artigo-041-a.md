@@ -2,11 +2,11 @@
 
 ### Colocação de produto e ajuda à produção
 
-1 - A colocação de produto apenas é proibida em noticiários e em programas de atualidade informativa, em programas relativos a assuntos dos consumidores, em programas religiosos e em programas infantis.
+1 - A colocação de produto só é permitida em obras cinematográficas, filmes e séries concebidos para serviços de programas televisivos ou serviços audiovisuais a pedido, programas sobre desporto e programas de entretenimento ligeiro.
 
-2 - (Revogado.)
+2 - É proibida a colocação de produto em programas infantis.
 
-3 - A colocação de produto não pode influenciar os conteúdos e a sua organização na grelha de programas, no caso dos serviços de programas televisivos, ou no catálogo, no caso dos serviços audiovisuais a pedido, de modo que afete a responsabilidade e a independência editorial do operador de televisão ou do operador de serviços a pedido.
+3 - O conteúdo dos programas em que exista colocação de produto e, no caso dos serviços de programas televisivos, a sua programação não podem, em caso algum, ser influenciados de modo a afectar a respectiva responsabilidade e independência editorial.
 
 4 - Os programas que sejam objecto de colocação de produto não podem encorajar directamente à compra ou locação de produtos ou serviços, nomeadamente através de referências promocionais específicas a esses produtos ou serviços.
 
@@ -16,7 +16,7 @@
 
 7 - É permitida a concessão de ajudas à produção a qualquer programa quando os bens ou serviços utilizados não tenham valor comercial significativo, aplicando-se o disposto nos n.os 3 a 6.
 
-8 - Não é admitida a apresentação, durante a exibição de programas infantis, de qualquer tipo de mensagens comerciais suscetíveis de prejudicar o desenvolvimento integral, físico, mental ou emocional das crianças e jovens, designadamente as relativas aos alimentos e às bebidas previstos no artigo 20.º-A do Código da Publicidade.
+8 - Não é admitida a apresentação durante a exibição de programas infantis de qualquer tipo de mensagens comerciais susceptíveis de prejudicar o desenvolvimento físico e mental dos menores, designadamente as relativas a alimentos e bebidas que contenham nutrientes e substâncias com um efeito nutricional ou fisiológico cuja presença em quantidades excessivas no regime alimentar não é recomendada.
 
 9 - Nas ajudas à produção em que os bens ou serviços utilizados tenham valor comercial significativo aplicam-se as regras previstas para a colocação de produto, incluindo as de natureza contra-ordenacional.
 

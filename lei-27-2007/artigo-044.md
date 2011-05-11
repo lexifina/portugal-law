@@ -6,7 +6,7 @@
 
 ### Defesa da língua portuguesa
 
-1 - As emissões devem ser faladas ou legendadas em português, sem prejuízo da eventual utilização de qualquer outra língua quando se trate de programas que preencham necessidades pontuais de tipo informativo, destinados ao ensino de idiomas estrangeiros ou especialmente dirigidos a comunidades migrantes.
+1 - As emissões devem ser faladas ou legendadas em português, sem prejuízo da eventual utilização de qualquer outra língua quando se trate de programas que preencham necessidades pontuais de tipo informativo, destinados ao ensino de idiomas estrangeiros ou especialmente dirigidos a comunidades de imigrantes.
 
 2 - Os serviços de programas televisivos de cobertura nacional, com excepção daqueles cuja natureza e temática a tal se opuserem, devem dedicar pelo menos 50 % das suas emissões, com exclusão do tempo consagrado à publicidade, televenda e teletexto, à difusão de programas originariamente em língua portuguesa.
 

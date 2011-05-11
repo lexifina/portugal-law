@@ -16,13 +16,11 @@ c) Dois serviços de programas televisivos especialmente destinados, respectivam
 
 d) Um ou mais serviços de programas vocacionados para os telespectadores de língua portuguesa residentes no estrangeiro ou especialmente dirigidos aos países de língua oficial portuguesa, que promovam a afirmação, valorização e defesa da imagem de Portugal no mundo.
 
-e) Programas que valorizem a educação, a saúde, a ciência, a investigação, as artes, a inovação, o empreendedorismo, a interculturalidade, a promoção da igualdade de género, os temas económicos, a ação social, a divulgação de causas humanitárias, o desporto não profissional e o desporto escolar, as confissões religiosas, a produção independente de obras criativas, o cinema português, o ambiente, a defesa do consumidor e o experimentalismo audiovisual.
-
-4 - Os serviços de programas televisivos referidos nas alíneas a), b) e c), bem como os programas referidos na alínea e) do número anterior, são necessariamente de acesso livre, devendo estes últimos ser obrigatoriamente incluídos em algum dos serviços de programas de acesso não condicionado livre de âmbito nacional.
+4 - Os serviços de programas televisivos referidos nas alíneas a), b) e c) do número anterior são necessariamente de acesso livre.
 
 5 - Para cumprimento das obrigações legal e contratualmente estabelecidas, a concessão do serviço público de televisão pode integrar ainda serviços de programas televisivos que tenham por objecto, designadamente:
 
-a) A prestação especializada de informação com uma vocação de proximidade, concedendo particular atenção a temas com interesse para regiões e comunidades específicas, em articulação ou não com os demais serviços de programas televisivos, nomeadamente em matéria de gestão conjunta de direitos;
+a) A prestação especializada de informação, concedendo particular atenção a temas com interesse para regiões e comunidades específicas, em articulação ou não com os demais serviços de programas televisivos, nomeadamente em matéria de gestão conjunta de direitos;
 
 b) A divulgação do acervo documental proveniente dos arquivos áudio-visuais da concessionária do serviço público;
 

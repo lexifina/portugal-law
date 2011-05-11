@@ -4,7 +4,7 @@
 
 1 - É punível com coima de (euro) 7500 a (euro) 37 500:
 
-a) A inobservância do disposto na alínea b) do n.º 5 do artigo 3.º, no artigo 4.º-A, no n.º 3 do artigo 19.º, no n.º 6 do artigo 27.º, no artigo 29.º, no n.º 6 do artigo 40.º-B, no n.º 2 do artigo 41.º-B, no artigo 42.º, no n.º 5 do artigo 44.º e nos artigos 45.º, 46.º e 58.º;
+a) A inobservância do disposto no artigo 4.º-A, no n.º 3 do artigo 19.º, na primeira parte do n.º 4 do artigo 27.º, nos artigos 29.º e 42.º, no n.º 5 do artigo 44.º, nos artigos 45.º e 46.º, no n.º 6 do artigo 40.º-B, no n.º 2 do artigo 41.º-B, no n.º 2 do artigo 41.º-C e no artigo 58.º;
 
 b) O incumprimento do disposto na primeira parte do n.º 1 do artigo 60.º;
 
