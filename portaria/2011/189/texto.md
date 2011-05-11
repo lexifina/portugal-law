@@ -1,0 +1,47 @@
+Portaria n.º 189/2011
+de 10 de Maio
+O actual enquadramento legal da pesca com arte de arrasto, constante do Regulamento aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, republicado pela Portaria n.º 769/2006, de 7 de Agosto, e com as alterações introduzidas pela Portaria n.º 1067/2006, de 28 de Setembro, e pela Portaria n.º 254/2008, de 7 de Abril, prevê a possibilidade do licenciamento das classes de malhagem de 55-59 mm e de 65-69 mm, em simultâneo com a classe de malhagem igual ou maior que 70 mm.
+No entanto, a experiência veio a demonstrar que as alterações introduzidas em 2008 ao artigo 10.º carecem de ajustamentos para garantir uma melhor e mais sustentada gestão dos recursos, uma vez que a utilização de malhagens superiores às licenciadas é sempre benéfica em termos de selectividade da arte.
+Aproveita-se ainda a oportunidade para permitir a utilização de várias malhagens, ao longo do ano, em regime de licenciamento não simultâneo, o que não possibilita direccionar a actividade para diversas espécies consoante for mais atractivo em termos de mercado.
+A Portaria n.º 254/2008, de 7 de Abril, que introduziu a possibilidade de utilização de outras artes para além da ganchorra, mediante aviso prévio à Direcção-Geral das Pescas e Aquicultura (DGPA), pelas embarcações licenciadas para esta arte, não se revelou a mais adequada ao ordenamento da actividade das diversas frotas envolvidas na exploração dos recursos, pela possibilidade de perturbação do equilíbrio actualmente existente da actividade com outras artes.
+Não tendo sido utilizada esta possibilidade pela maioria das embarcações que constituem esta frota, repõe-se o texto alterado em 2008.
+Entretanto, os novos dados científicos disponibilizados pelo Instituto Nacional de Recursos Biológicos, L-IPIMAR, determinam a necessidade de revisão da legislação vigente de forma a assegurar uma exploração sustentável dos bancos de bivalves, que passa pela introdução de novas medidas de gestão o que só é possível através da instalação a bordo de sistemas de seguimentos em tempo real, à semelhança do que acontece com outras frotas de pesca.
+Os ensaios que o IPIMAR tem levado a cabo em colaboração com o sector têm demonstrado vantagens na sua implementação pelo que, a partir de 2012, todas as embarcações da ganchorra deverão estar equipadas com estes sistemas de controlo.
+Assim:
+Ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, e do disposto na alínea f) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, com a redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+Artigo 1.º
+Alteração à Portaria n.º 1102-E/2000, de 22 de Novembro
+Os artigos 7.º, 10.º e 14.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, com as alterações que lhe foram introduzidas pelas Portarias n.os 769/2006, de 7 de Agosto, 1067/2006, de 28 de Setembro, e 254/2008, de 7 de Abril, passam a ter a seguinte redacção:
+«Artigo 7.º
+Classes de malhagens
+1 - ...
+a) ...
+b) ...
+c) Sem prejuízo do estabelecido na alínea anterior, é permitida a utilização de redes de arrasto de portas de malhagens superiores às malhagens para as quais a embarcação está licenciada, desde que sejam cumpridas as percentagens mínimas e máximas de espécies alvo e acessórias previstas para a classe ou classes de malhagem para as quais a embarcação possui licença.
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+Artigo 10.º
+Licenciamento
+1 - Sem prejuízo do disposto no número seguinte, as embarcações de arrasto só podem ser licenciadas, em simultâneo, para uma das classes de malhagem referidas no anexo do presente Regulamento.
+2 - Podem ser simultaneamente licenciadas para a classe de malhagem igual ou superior a 70 mm, as embarcações:
+a) De arrasto licenciadas para a classe de malhagem de 55 mm-59 mm;
+b) De arrasto licenciadas para a classe de malhagem de 65 mm-69 mm, mantendo-se a percentagem mínima de espécies alvo prevista para tais embarcações no anexo ao presente Regulamento, se existirem a bordo, em condições de serem utilizadas redes de ambas as classes de malhagem.
+3 - ...
+4 - ...
+Artigo 14.º
+Outras artes autorizadas
+A utilização, pelas embarcações licenciadas para o exercício da pesca com ganchorra, de outras artes de pesca para as quais estejam também devidamente licenciadas é permitida apenas durante os períodos em que a pesca com ganchorra esteja interdita por motivos de conservação de recursos ou de protecção da saúde pública, com excepção dos aparelhos de anzol.»
+Artigo 2.º
+Aditamento à Portaria n.º 1102-E/2000, de 22 de Novembro
+É aditado o artigo 13.º-A ao Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, com a seguinte redacção:
+«Artigo 13.º-A
+Monitorização do esforço de pesca
+1 - A partir de 1 de Janeiro de 2012, todas as embarcações licenciadas para ganchorra que operam na zona sul deverão ter instalado um sistema de seguimento em tempo real.
+2 - A partir de 1 de Julho de 2012, todas as embarcações licenciadas para ganchorra na zona norte e na zona ocidental sul deverão igualmente ter instalado um sistema de seguimento em tempo real.»
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 27 de Abril de 2011.
