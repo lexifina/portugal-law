@@ -8,7 +8,7 @@
 
 a) O Código do Procedimento Administrativo, no que respeita à actividade de gestão pública, envolvendo o exercício de poderes de autoridade, a gestão da função pública ou do domínio público, ou a aplicação de outros regimes jurídico-administrativos;
 
-b) O regime jurídico da função pública ou o do contrato individual de trabalho, de acordo com o regime de pessoal aplicável;
+b) O regime jurídico aplicável aos trabalhadores que exercem funções públicas;
 
 c) O regime da administração financeira e patrimonial do Estado e da Região;
 

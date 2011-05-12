@@ -22,15 +22,11 @@ b) A criação de delegações territorialmente desconcentradas;
 
 c) Outros actos previstos na lei ou nos estatutos.
 
-4 - Carecem de aprovação dos membros do Governo Regional responsáveis pela área das finanças e da tutela:
-
-a) Os regulamentos internos;
-
-b) Outros actos previstos na lei ou nos estatutos.
+4 - (Revogado.)
 
 5 - Carecem de autorização prévia dos membros do Governo Regional responsáveis pela área das finanças e da tutela:
 
-a) A negociação de acordos e convenções colectivas de trabalho;
+a) (Revogada.)
 
 b) A criação de entes de direito privado, a participação na sua criação, a aquisição de participações em tais entidades, quando esteja previsto na lei ou nos estatutos e se mostrar imprescindível para a prossecução das respectivas atribuições;
 
