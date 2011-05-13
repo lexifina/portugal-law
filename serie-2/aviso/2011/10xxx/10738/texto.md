@@ -1,0 +1,9 @@
+Aviso n.º 10738/2011
+António José Messias do Rosário Sebastião, Presidente da Câmara Municipal de Almodôvar:
+Torna público que, para efeitos do previsto no n.º 3 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, na sua actual redacção pelo Decreto-Lei n.º 46/09, de 20 de Fevereiro, esta Câmara Municipal em sua reunião ordinária de quatro de Maio do corrente ano, deliberou, após a conclusão da elaboração do Plano de Pormenor do Monte Nabo e respectiva realização da conferência de serviços, com subsequente período de concertação com as entidades que tinham formalmente discordado com as soluções do futuro plano, proceder à abertura de um período de discussão pública.
+A discussão pública encontra-se aberta pelo período de 22 dias, contados a partir do 5.º dia, após a publicação do presente aviso no Diário da República.
+A proposta de plano, acompanhada da acta da conferência de serviços e dos pareceres emitidos em fase de concertação, encontra-se disponível para consulta, pelos interessados, das 9h às 12h30 e das 14h às 17h30, na Secção de Obras Particulares da Câmara Municipal de Almodôvar.
+Os interessados poderão consultar os elementos que constituem a Proposta do Plano no Edifício da Câmara Municipal de Almodôvar, situada na Rua Serpa Pinto, em Almodôvar. Poderão ainda consultar os elementos que constituem a Proposta do Plano na página electrónica do Município com o endereço www.cm-almodovar.pt.
+Todas as questões que possam ser consideradas no âmbito do presente procedimento, nomeadamente reclamações, observações, sugestões e pedidos de esclarecimento que os interessados pretendam apresentar, deverão ser feitas por escrito, devidamente fundamentadas e dirigidas ao Sr. Presidente da Câmara Municipal de Almodôvar, Rua Serpa Pinto, 7700-081 Almodôvar.
+5 de Maio de 2011. - O Presidente da Câmara, António José Messias do Rosário Sebastião.
+204660719
