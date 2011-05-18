@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 2011-05-18, processo 0348/11
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0348/11
+
+**Data do Acordão:** 05/18/2011
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ISABEL MARQUES DA SILVA
+
+**Descritores:** PRESCRIÇÃO; OBRIGAÇÃO TRIBUTÁRIA; APLICAÇÃO DA LEI NO TEMPO; INTERRUPÇÃO DA PRESCRIÇÃO; RECURSO HIERÁRQUICO; RECURSO CONTENCIOSO; SUSPENSÃO DA PRESCRIÇÃO; INSTAURAÇÃO DA EXECUÇÃO FISCAL
+
+**Nº Convencional:** JSTA00066966
+
+**Nº do Documento:** SA2201105180348
+
+**Data de Entrada:** 04/07/2011
+
+**Recorrente:** A...
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF PORTO DE 2010/11/10.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Legislação Nacional:** CCIV66 ART297 N1 ART327 N1.; LGT98 ART12 N2 ART48 N1 ART49 N3.; CPTRIB91 ART34 N1 N2 N3 ART255.; DL 398/98 DE 1998/12/17 ART5 N1 ART6.
+
+**Jurisprudência Nacional:** AC STA PROC629/09 DE 2011/01/19.
+
+**Referência a Doutrina:** JORGE DE SOUSA SOBRE A PRESCRIÇÃO DA OBRIGAÇÃO TRIBUTÁRIA NOTAS PRATICAS 2ED PAG57 - PAG62 PAG110 - PAG112.
+
+## Sumário
+
+I - É com referência à data da entrada em vigor da LGT que há-de determinar-se qual o prazo de prescrição a aplicar – se o de 10 anos previsto no CPT, se o de 8 previsto na LGT –, elegendo como aplicável o prazo novo, considerado em abstracto, ou seja, sem ponderar a interferência de causas de suspensão ou interrupção da prescrição que possam vir a ocorrer na vigência da lei nova (cfr. JORGE LOPES DE SOUSA, Sobre a Prescrição da Obrigação Tributária: Notas Práticas, 2.ª ed., Lisboa, Áreas editora, 2010, pp. 94/95), salvo se o estabelecido na lei antiga, concretamente considerado, primeiro se perfizer, em obediência ao disposto no n.º 1 do artigo 297.º do Código Civil (aplicável ex vi do n.º 1 do artigo 5.º do Decreto-Lei n.º 398/98, de 17 de Dezembro).
+
+II - Só após o início de vigência da Lei n.º 53-A/2006, de 29 de Dezembro, que deu nova redacção ao n.º 3 do artigo 49.º da LGT, a interrupção do prazo de prescrição opera uma única vez.
+
+III - Salvo em caso de paragem do processo por mais de um ano por facto não imputável ao contribuinte que se tenha completado em data anterior à da entrada em vigor da Lei n.º 53.º-A/2006, de 29 de Dezembro, a interrupção da prescrição inutiliza para a prescrição todo o tempo decorrido anteriormente (cfr. o n.º 1 do artigo 326.º do Código Civil), não começando a correr novo prazo (igual ao primitivo – cfr. o n.º 2 do artigo 326.º do Código Civil) enquanto não passar em julgado a decisão que puser termo ao processo (cfr. o n.º 1 do artigo 327.º do Código Civil).
