@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Y5feubGpmx3U3eADC2xbJmNQ%2bo9hh0y0Ws%2bMg6e1ClK3K68Ax4Xhm%2fWAehW8ocLQeD2OxoySGddyZuNhZaLhFlUp0ir7jK%2bOM48106ZJfd5wcxphkEewWoW0V2xfzdMNDfGCCckE9GmO9gLekm49cKDkNA8ZLG3MKaBA%2fkt5m8WXIfeT%2b5Mx1%2b0sg7BllQnlJxstthBRb%2bInCrt9Uig%2bShhf4upRTB1UPB5rRZ5AdO%2bS2bOM3SOwHIIzM8sV51n%2b%2fFpTd99F%2bLrFlKG%2beBsI3Ay12J%2bsVEuFtnniXdweo0Fbri050dE53bSr8jRl8MGpmX2sdxehZ6G6%2byWG%2fP8M0NepLg61Gx0Gl5lJ5jDaOiQ%3d&fich=IntervencoesXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7f20a8e6bd694f3fe5bcaedfdae6b5dacd6c1585dae5f92751007c07eefc189c",
+  "legislatura": "XI",
+  "id": "180483",
+  "tipo": "Intervenção",
+  "orador": "Teresa Morais (PSD)",
+  "data_registo": "2011-05-19",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "90796",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "90796",
+        "tipo": "DEB",
+        "titulo": "Debates em Comissão Permanente - Antecipação de algumas medidas para a área da justiça que foram acordadas com a tróica"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Debate sobre a antecipação de algumas medidas acordadas com a tróica de elementos da Comissão Europeia (CE), do Banco Central Europeu (BCE) e do Fundo Monetário Internacional (FMI), na área da justiça, solicitado pelo BE.",
+        "duracao": "00:04:34:511",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20110519pln&url=l11/sl2/a2011/m05/&tI=02:16:41:215&drc=00:04:34:511"
+      }
+    ],
+    "DataReuniaoPlenaria": "2011-05-19",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1897",
+      "nome": "Teresa Morais"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "180483",
+    "IdDebate": "4197",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "180483",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "35-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-05-20",
+        "pubLeg": "XI",
+        "pubNr": "75",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/11/02/075/2011-05-20/35?pgs=35-36&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Antecipação de algumas medidas para a área da justiça que foram acordadas com a tróica",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
