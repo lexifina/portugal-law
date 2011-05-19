@@ -1,0 +1,19 @@
+Declaração de Rectificação n.º 13/2011
+Ao abrigo das disposições conjugadas da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, e dos n.os 2 e 3 do artigo 41.º do Código do Procedimento Administrativo, por vacatura dos cargos de director e director-adjunto, declara-se que a Portaria n.º 157/2011, de 13 de Abril, publicada no Diário da República, 1.ª série, n.º 73, de 13 de Abril de 2011, saiu com as seguintes inexactidões que, mediante declaração da entidade emitente, assim se rectificam:
+1 - No artigo 2.º, onde se lê:
+«Com a homologação do adicional e das alterações ao protocolo a que se refere o artigo anterior o Centro de Formação Profissional da Indústria Electrónica (CINEL) passa a denominar-se Centro de Formação Profissional da Indústria Electrónica, Energia, Telecomunicações e Tecnologias da Informação (CINEL), a ser outorgado entre o Instituto do Emprego e Formação Profissional (IEFP, I. P.), a Associação Nacional das Indústrias de Material Eléctrico e Electrónico (ANIMEE), agora denominada Associação Portuguesa das Empresas do Sector Eléctrico e Electrónico e a Associação para a Competitividade e Internacionalização Empresarial (ACIE), a qual é uma associada da Associação Industrial Portuguesa - Confederação Empresarial (AIP-CE).»
+deve ler-se:
+«Com a homologação do adicional e das alterações ao protocolo a que se refere o artigo anterior o Centro de Formação Profissional da Indústria Electrónica (CINEL) passa a denominar-se Centro de Formação Profissional da Indústria Electrónica, Energia, Telecomunicações e Tecnologias da Informação (CINEL), a ser outorgado entre o Instituto do Emprego e Formação Profissional (IEFP, I. P.), a Associação Nacional das Indústrias de Material Eléctrico e Electrónico (ANIMEE), agora denominada Associação Portuguesa das Empresas do Sector Eléctrico e Electrónico, e a Associação para a Competitividade e Internacionalização Empresarial (ACIE), a qual é uma associada da Associação Industrial Portuguesa/Câmara de Comércio e Indústria - AIP/CCI.»
+2 - No título do anexo i «(a que se refere o artigo 3.º)», onde se lê:
+«Adesão da Associação para a Competitividade e Internacionalização Empresarial (ACIE), a qual é uma associada da Associação Industrial Portuguesa - Confederação Empresarial (AIP-CE) - ao protocolo do Centro de Formação Profissional da Indústria Electrónica (CINEL) agora denominado Centro de Formação Profissional da Indústria Electrónica, Energia, Telecomunicações e Tecnologias da Informação (CINEL).»
+deve ler-se:
+«Adesão da Associação para a Competitividade e Internacionalização Empresarial (ACIE), a qual é uma associada da Associação Industrial Portuguesa/Câmara de Comércio e Indústria - AIP/CCI - ao protocolo do Centro de Formação Profissional da Indústria Electrónica (CINEL), agora denominado Centro de Formação Profissional da Indústria Electrónica, Energia, Telecomunicações e Tecnologias da Informação (CINEL).»
+3 - Na alínea a) da clausula iii do anexo i «(a que se refere o artigo 3.º)», onde se lê:
+«a) Aos empresários e trabalhadores das empresas associadas da ANIMEE e da ACIE, e, bem assim, através desta, às empresas associadas da AIP-CE;»
+deve ler-se:
+«a) Aos empresários e trabalhadores das empresas associadas da ANIMEE e da ACIE, e, bem assim, através desta, às empresas associadas da AIP/CCI;»
+4 - Na alínea a) da clausula iii do capítulo i do anexo ii «(a que se refere o artigo 5.º)», onde se lê:
+«a) Aos empresários e trabalhadores das empresas associadas da ANIMEE e da ACIE, e, bem assim, através desta, às empresas associadas da AIP-CE;»
+deve ler-se:
+«a) Aos empresários e trabalhadores das empresas associadas da ANIMEE e da ACIE, e, bem assim, através desta, às empresas associadas da AIP/CCI;»
+Centro Jurídico, 12 de Maio de 2011. - O Director em substituição, nos termos do artigo 41.º do Código do Procedimento Administrativo, José Manuel Bento Ferreira de Almeida.
