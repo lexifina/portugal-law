@@ -4,9 +4,19 @@
 
 1 - É instituído o sistema de acesso, pelas pessoas singulares, aos serviços mínimos bancários, nos termos e condições deste diploma e dos constantes das bases dos protocolos a ele anexas, do qual são parte integrante, a celebrar com as instituições de crédito que pretendam aderir a este sistema.
 
-2 - Para o efeito deste diploma, entende-se por:
+2 - Para efeitos do presente diploma, entende-se por:
 
-a) Serviços mínimos bancários - os serviços relativos à constituição, manutenção e gestão de conta de depósito à ordem e ainda cartão de débito que permita a movimentação da referida conta mediante transferência ou recuperação electrónica dos fundos nela depositados, instrumentos, manuais ou mecanográficos, de depósito, levantamento e transferência interbancária desses fundos e emissão de extractos semestrais discriminativos dos movimentos da conta nesse período ou disponibilização de caderneta para o mesmo efeito;
+a) 'Serviços mínimos bancários':
+
+i) Serviços relativos à constituição, manutenção, gestão e titularidade de conta de depósito à ordem;
+
+ii) Titularidade de cartão de débito;
+
+iii) Acesso à movimentação da conta através de caixas automáticas, serviço de homebanking e balcões da instituição de crédito;
+
+iv) Operações incluídas: depósitos, levantamentos, pagamentos de bens e serviços, débitos directos e transferências intrabancárias nacionais;
+
+v) Disponibilização de extractos trimestrais, em papel se solicitado, discriminativos dos movimentos da conta nesse período ou disponibilização de caderneta para o mesmo efeito;
 
 b) Instituições de crédito - as empresas cuja actividade consiste em receber do público depósitos ou outros fundos reembolsáveis, a fim de os aplicarem por conta própria mediante a concessão de crédito, previstas nas alíneas a) a e) do artigo 3.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro;
 
