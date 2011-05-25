@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 2011-05-25, processo 0279/11
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0279/11
+
+**Data do Acordão:** 05/25/2011
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANTÓNIO CALHAU
+
+**Descritores:** OPOSIÇÃO À EXECUÇÃO; PRESCRIÇÃO; DÍVIDA; FORNECIMENTO DE ÁGUA; INTERRUPÇÃO DA PRESCRIÇÃO; RENÚNCIA
+
+**Nº Convencional:** JSTA00066990
+
+**Nº do Documento:** SA2201105250279
+
+**Data de Entrada:** 03/24/2011
+
+**Recorrente:** CM DE GONDOMAR
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAF PORTO PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - OPOSIÇÃO.
+
+**Área Temática 2:** DIR CIV - DIR OBG.
+
+**Legislação Nacional:** L 23/96 DE 1996/07/26 ART10 N1.; CCIV66 ART300 ART302 ART303 ART304 ART325.; CPPTRIB99 ART191.
+
+**Jurisprudência Nacional:** AC STA PROC728/07 DE 2007/11/07.
+
+**Referência a Doutrina:** PIRES DE LIMA E OUTRO CÓDIGO CIVIL ANOTADO VI PAG256.
+
+## Sumário
+
+I - As dívidas resultantes de fornecimento de água prescrevem no prazo de 6 meses fixado no artigo 10º nº 1 da Lei nº 23/96, de 26 de Julho.
+
+II - Trata-se de uma prescrição extintiva, que permite ao devedor recusar o pagamento, quando decorridos mais do que 6 meses contados do momento em que a dívida se tornou exigível – o primeiro dia do mês sequente ao fornecimento.
+
+III - O reconhecimento da dívida, consubstanciado num requerimento em que o devedor solicita autorização para pagar em prestações, interrompe a prescrição, nos termos do artigo 325.º do Código Civil, mas só quanto às dívidas então ainda não prescritas.
+
+IV - Estabelece o artigo 302.º do CC que a renúncia da prescrição, que só é admitida depois de haver decorrido o prazo prescricional, pode ser tácita e não necessita de ser aceite pelo beneficiário, tendo legitimidade para renunciar à prescrição quem puder dispor do benefício que a prescrição tenha criado.
+
+V - Há renúncia tácita quando o devedor pratica um facto incompatível com a vontade de se socorrer da prescrição: o pagamento da dívida prescrita, o pedido de moratória do pagamento, a promessa de pagar tão depressa quanto possível e o reconhecimento da dívida.
+
+VI - Todavia, para haver renúncia à prescrição é preciso que os actos sejam praticados com conhecimento da prescrição, pelo que, não estando demonstrado que o oponente sabia, ou não poderia desconhecer, que as dívidas exequendas estavam prescritas, o seu comportamento não pode configurar renúncia tácita à prescrição.
