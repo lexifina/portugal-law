@@ -1,0 +1,5 @@
+Aviso n.º 11676/2011
+Fernando Jorge Loureiro de Roboredo Seara, Presidente da Câmara Municipal de Sintra, ao abrigo da sua competência constante da alínea v) do n.º 1 do artº68.º e para os efeitos do estatuído no n.º 1 do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, torna público que, a Assembleia Municipal de Sintra, na sua 2.ª Sessão Ordinária, em 28 de Abril de 2011, deliberou por unanimidade, aprovar o Regulamento de Atribuição de Habitação em Regime de Renda Apoiada e de Gestão das Habitações Propriedade do Município de Sintra, acompanhado do Parecer da Comissão Permanente de Assuntos Sociais
+Assim, sem prejuízo da publicação do presente Aviso em 2.ª série do Diário da República, torna-se de igual modo público que, o referido regulamento se encontra ainda disponível através de Edital afixado nos lugares de estilo, no Gabinete de Apoio ao Munícipe e Controlo de Processos, suas Delegações e na página da Câmara Municipal de Sintra na Internet em www.cm-sintra.pt.
+11 de Maio de 2011. - O Presidente da Câmara, Fernando Jorge Loureiro de Roboredo Seara.
+304671646
