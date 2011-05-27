@@ -1,0 +1,7 @@
+Edital n.º 520/2011
+Regulamento Municipal de Toponímia e Numeração de Polícia do Concelho de Sesimbra
+Augusto Manuel Neto Carapinha Pólvora, Presidente da Câmara Municipal de Sesimbra, no uso da competência conferida pela alínea v) do n.º 1 do artigo 68.º da lei n.º 169/99, de 18 de Setembro, alterada e republicada pela lei n.º 5-A/2002, de 11 de Janeiro, faz público, nos termos e para os efeitos do artigo 91.º da lei n.º 169/99, de 18 de Setembro, alterada e republicada pela lei n.º 5-A/2002, de 11 de Janeiro, que a Assembleia Municipal, na sessão extraordinária realizada no dia 1 de Abril de 2011, aprovou, nos termos da alínea a) do n.º 2 do artigo 53.º da lei n.º 169/99, de 18 de Setembro, alterada e republicada pela lei n.º 5-A/2002, de 11 de Janeiro, mediante proposta da Câmara Municipal formulada por deliberação tomada em 02 de Fevereiro de 2011, o Regulamento Municipal de Toponímia e Numeração de Polícia do Concelho de Sesimbra, que se encontra afixado nos lugares de estilo e disponível para ser consultado no sitio da Câmara Municipal de Sesimbra (www.cm-sesimbra.pt), e no Serviço de Atendimento, no Edifício dos Paços do Concelho, Rua da República n.º 3, em Sesimbra.
+O Regulamento Municipal de Toponímia e Numeração de Polícia do Concelho de Sesimbra entra em vigor 15 dias a contar da presente publicação.
+Assim, para conhecimento geral publica-se o presente edital e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+20 de Maio de 2011. - O Presidente da Câmara, Augusto Manuel Neto Carapinha Pólvora.
+304709002
