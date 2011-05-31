@@ -1,0 +1,5 @@
+Edital n.º 530/2011
+Apreciação Pública - Projecto de Regulamento de Atribuição de Apoios Financeiros e Não Financeiros do Município de Constância
+Máximo de Jesus Afonso Ferreira, Presidente da Câmara Municipal de Constância: Torna Público, que a Câmara Municipal de Constância, em sua reunião ordinária realizada no dia 12 de Maio de 2011, aprovou o projecto de Regulamento de Atribuição de Apoios Financeiros e Não Financeiros do Município de Constância, pelo que, para os efeitos do que determina o artigo 118.º do Código do Procedimento Administrativo, o mesmo se encontra em apreciação pública. O Projecto em causa está disponível na Divisão de Administração e Finanças da Câmara Municipal, sita no edifício dos Paços do Município, Estrada Nacional 3, em Constância, e no sítio da Internet em www.cm-constancia.pt, devendo os interessados dirigir, por escrito, as suas sugestões à Câmara Municipal, dentro do prazo de 30 (trinta) dias, contados a partir da data deste Edital. E eu, Francisco Caipirra, Chefe da Divisão de Administração e Finanças, o subscrevo.
+13 de Maio de 2011. - O Presidente da Câmara, Máximo de Jesus Afonso Ferreira.
+304717176
