@@ -1,0 +1,31 @@
+Portaria n.º 220/2011
+de 1 de Junho
+Nos termos do disposto no n.º 6.º da Portaria n.º 1087-A/2007, de 5 de Setembro, os preços para a prestação dos cuidados de saúde e de apoio social nas unidades de internamento e de ambulatório no âmbito da Rede Nacional de Cuidados Continuados e Integrados (RNCCI) são actualizados, no início de cada ano civil a que se reporta a actualização, mediante a aplicação de um coeficiente resultante da variação média do índice de preços no consumidor, correspondente aos últimos 12 meses para os quais existam valores disponíveis.
+De acordo com o n.º 5 do artigo 6.º do Despacho Normativo n.º 34/2007, de 19 de Setembro, idêntico critério de actualização anual de preços é considerado para efeitos de comparticipação da segurança social aos utentes pelos encargos decorrentes da prestação de cuidados de apoio social nas unidades de média duração e reabilitação e de longa duração e manutenção da RNCCI.
+Para o ano de 2010, pelo n.º 2 do artigo 1.º da Portaria n.º 326/2010, de 16 de Junho, foi suspensa a aplicação do n.º 6º da Portaria n.º 1087-A/2007, de 5 de Setembro, devido à variação média negativa do índice de preço no consumidor e pelas implicações negativas que tal situação acarretaria à sustentabilidade das entidades promotoras e gestoras das unidades da RNCCI.
+Pelo artigo 3.º da Portaria n.º 326/2010, de 16 de Junho, foi igualmente suspensa, para 2010, a actualização de rendimentos prevista no n.º 5 do artigo 6.º do Despacho Normativo n.º 34/2007, de 19 de Setembro, para efeitos de determinação do rendimento a considerar na identificação do valor a pagar pelo utente.
+Neste enquadramento, a tabela de preços aprovada para 2010 manteve os valores do ano transacto para os cuidados de saúde e de apoio social prestados nas unidades de internamento e ambulatório da RNCCI.
+A Portaria n.º 326/2010, de 16 Junho, estabeleceu, ainda, no artigo 2.º, que os encargos decorrentes da utilização de fraldas nas unidades de longa duração e manutenção da RNCCI podem ser objecto de comparticipação, em termos a definir.
+Neste contexto, o despacho n.º 12082/2010, de 20 de Julho, do Secretário de Estado da Segurança Social, veio definir o preço a pagar pela segurança social, por utente e por dia, às unidades de longa duração e manutenção, pelos encargos decorrentes da utilização de fraldas.
+Sendo a taxa de variação média anual do índice de preços no consumidor na ordem dos 1,2 %, importa considerar este valor percentual como coeficiente da determinação dos novos preços a vigorar em 2011 e proceder à actualização da tabela de preços a praticar pelas unidades da RNCCI e do preço a pagar às unidades de longa duração e manutenção pelos encargos decorrentes da utilização de fraldas.
+Assim:
+Ao abrigo do artigo 46.º do Decreto-Lei n.º 101/2006, de 6 de Junho, e do artigo 23.º e do n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, manda o Governo, pelos Ministros de Estado e das Finanças, do Trabalho e da Solidariedade Social e da Saúde, o seguinte:
+Artigo 1.º
+Os preços dos cuidados de saúde e de apoio social prestados nas unidades de internamento e ambulatório da Rede Nacional de Cuidados Continuados Integrados (RNCCI) a praticar no ano de 2011 constam da tabela em anexo ao presente diploma, que dele faz parte integrante.
+Artigo 2.º
+O preço a pagar às unidades de longa duração e manutenção (ULDM) da RNCCI, por dia e por utente, pelos encargos decorrentes da utilização de fraldas é o constante da tabela em anexo ao presente diploma, que dele faz parte integrante.
+Artigo 3.º
+Para efeitos do disposto no número anterior, apenas se consideram os dias de internamento efectivo na ULDM.
+Artigo 4.º
+O preço a que se refere o n.º 3.º é actualizado no início de cada ano civil a que se reporta a actualização mediante a aplicação de um coeficiente resultante da variação média do índice de preço no consumidor, correspondente aos últimos 12 meses para os quais existam valores disponíveis.
+Artigo 5.º
+Ao utente não pode ser exigida pela ULDM qualquer quantia pelos encargos decorrentes da utilização de fraldas.
+Artigo 6.º
+São revogados a Portaria n.º 326/2010, de 16 de Junho, e o despacho n.º 12082/2010, de 20 de Julho.
+Artigo 7.º
+A presente portaria produz efeitos a partir de 1 de Janeiro de 2011.
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 20 de Maio de 2011. - Pela Ministra do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 17 de Fevereiro de 2011. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Fevereiro de 2011.
+ANEXO
+Tabela de preços RNCCI - Ano 2011
+(anexos ii e iii da Portaria n.º 1087/2007, de 5 de Setembro, na redacção dada pela Portaria n.º 189/2008, de 19 de Fevereiro)
+(ver documento original)
