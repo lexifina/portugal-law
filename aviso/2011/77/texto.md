@@ -1,0 +1,14 @@
+Aviso n.º 77/2011
+Por ordem superior se torna público que, por notificação de 14 de Fevereiro de 2011, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Roménia comunicado a sua autoridade à Convenção Relativa à Supressão da Exigência da Legalidade dos Actos Públicos Estrangeiros, adoptada na Haia em 5 de Outubro de 1961.
+Autoridade
+Roménia, 9 de Dezembro de 2010.
+(tradução)
+Os tribunais são as autoridades competentes para os documentos oficiais mencionados nas alíneas a) e d) do artigo 1.º da Convenção.
+As câmaras de notários públicos são as autoridades competentes para os documentos oficiais mencionados na alínea c) do artigo 1.º da Convenção.
+As câmaras municipais são designadas como autoridades competentes para os documentos oficiais mencionados na alínea b) do artigo 1.º da Convenção.
+Nota do depositário:
+A partir de 1 de Janeiro de 2011 constará da notificação do depositário apenas a designação das autoridades, em conformidade com os artigos 6.º e 15.º da Convenção. Os contactos dessas autoridades deixarão de ser referidos nas notificações. É possível aceder a esses dados através da página de Internet da Conferência da Haia de Direito Internacional Privado em www.hcch.net.
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo Decreto-Lei n.º 48 450, publicado no Diário do Governo, 1.ª série, n.º 148, de 24 de Junho de 1968, e ratificada em 6 de Dezembro de 1968, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.
+A Convenção entrou em vigor para a República Portuguesa em 4 de Fevereiro de 1969, de acordo com o publicado no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1969.
+A emissão de apostilas ou a sua verificação, previstas, respectivamente nos artigos 3.º e 7.º da Convenção, competem ao Procurador-Geral da República, nos termos do n.º 1 do artigo 2.º do Decreto-Lei n.º 86/2009, de 3 de Abril, podendo tais competências ser delegadas nos procuradores-gerais distritais do Porto, de Coimbra e de Évora e nos procuradores-gerais-adjuntos colocados junto dos Representantes da República para as Regiões Autónomas, ou em magistrados do Ministério Público que dirijam procuradorias da República sedeadas nessas Regiões, nos termos do n.º 2 do referido artigo 2.º, conforme o despacho n.º 10 266/2009, publicado no Diário da República, 2.ª série, n.º 75, de 17 de Abril de 2009, determinando-se ainda que os procuradores-gerais-adjuntos colocados junto dos Representantes das Regiões Autónomas da Madeira e dos Açores poderão subdelegar nos procuradores da República coordenadores das procuradorias da República sedeadas nessas Regiões Autónomas as referidas competências.
+Departamento de Assuntos Jurídicos, 19 de Maio de 2011. - O Director, Miguel de Serpa Soares.
