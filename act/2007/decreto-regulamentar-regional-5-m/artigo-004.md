@@ -8,13 +8,13 @@ a) Obras públicas, edifícios e equipamentos públicos;
 
 b) Estradas;
 
-c) Urbanismo;
+c) Informação geográfica, cartográfica e cadastral.
 
-d) Litoral;
+d) (Eliminada.)
 
-e) Ordenamento do território;
+e) (Eliminada.)
 
-f) Informação geográfica, cartográfica e cadastral.
+f) (Eliminada.)
 
 2 - A Secretaria Regional do Equipamento Social exerce a tutela sobre:
 

@@ -18,6 +18,12 @@ f) Agro-pecuária;
 
 g) Artesanato.
 
+h) Urbanismo;
+
+i) Litoral;
+
+j) Ordenamento do território.
+
 2 - A Secretaria Regional do Ambiente e dos Recursos Naturais exerce a tutela sobre:
 
 a) O Instituto do Vinho, do Bordado e Artesanato da Madeira, I. P.;
