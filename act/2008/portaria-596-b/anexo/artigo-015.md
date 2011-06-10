@@ -8,6 +8,6 @@
 
 3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar à ELA e a validação do respectivo pedido de pagamento.
 
-4 - São realizadas visitas às ELA pelo menos uma vez durante o período de execução de cada PEA e, preferencialmente, aquando da análise do último pedido de pagamento do PEA.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.
 
 5 - Para efeitos de pagamento aos beneficiários, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.
