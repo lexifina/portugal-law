@@ -1,0 +1,14 @@
+# Resolução n.º 768/2011
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 65/2011, de 2011-06-13
+
+**Sumário:** Autoriza a Secretaria Regional do Plano e Finanças a proceder ao pagamento da importância de 1.332.391,67, referente aos juros que se vencem em 15 de Junho de 2011.
+
+## Texto
+
+Resolução n.º 768/2011
+O Conselho do Governo reunido em plenário em 2 de Junho de 2011, resolveu autorizar a Secretaria Regional do Plano e Finanças a proceder ao pagamento da importância de 1.332.391,67Euros, referente aos juros que se vencem em 15 de Junho de 2011.
+Esta despesa tem cabimento orçamental na Secretaria 08; Capítulo 01; Divisão 01; Subdivisão 00; Classificação Económica 03.01.01.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
