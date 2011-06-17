@@ -2,7 +2,7 @@
 
 ### Deveres do director técnico
 
-1 - Compete, em especial, ao diretor técnico:
+1 - Compete, em especial, ao director técnico:
 
 a) Assumir a responsabilidade pelos actos farmacêuticos praticados na farmácia;
 
@@ -12,7 +12,7 @@ c) Promover o uso racional do medicamento;
 
 d) Assegurar que os medicamentos sujeitos a receita médica só são dispensados aos utentes que a não apresentem em casos de força maior, devidamente justificados;
 
-e) Garantir que os medicamentos e demais produtos são fornecidos em bom estado de conservação;
+e) Manter os medicamentos e demais produtos fornecidos em bom estado de conservação;
 
 f) Garantir que a farmácia se encontra em condições de adequada higiene e segurança;
 

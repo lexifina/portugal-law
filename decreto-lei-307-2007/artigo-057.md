@@ -6,13 +6,13 @@
 
 ### Regulamentação
 
-O membro do Governo responsável pela área da saúde regulamenta, por portaria:
+O membro do Governo responsável pela área da saúde regulamenta, por portaria, no prazo de 120 dias após a entrada em vigor deste decreto-lei:
 
 a) A forma da comunicação ao INFARMED das obrigações previstas no presente decreto-lei;
 
 b) As condições e os requisitos da dispensa de medicamentos ao domicílio e através da Internet;
 
-c) O procedimento de licenciamento e de atribuição de alvará a novas farmácias;
+c) O procedimento de licenciamento e de atribuição de alvará a novas farmácias e às que resultam de transformação de postos farmacêuticos permanentes;
 
 d) A transferência da localização de farmácias e o averbamento no alvará;
 

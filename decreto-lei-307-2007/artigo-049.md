@@ -2,7 +2,7 @@
 
 ### Sanções acessórias
 
-Podem ser aplicadas, em simultâneo com as coimas previstas nos artigos 47.º a 48.º, as seguintes sanções acessórias:
+Podem ser aplicadas, em simultâneo com as coimas previstas nos artigos 47.º e 48.º, as seguintes sanções acessórias:
 
 a) Perda de objectos pertencentes ao agente;
 

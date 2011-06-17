@@ -6,7 +6,7 @@
 
 ### Fiscalização
 
-1 - A fiscalização do cumprimento das disposições do presente decreto-lei cabe ao INFARMED.
+1 - Salvo determinação legal em contrário, a fiscalização do cumprimento das disposições do presente decreto-lei cabe ao INFARMED.
 
 2 - O INFARMED pode solicitar o auxílio de outras entidades, nomeadamente autoridades policiais, no desempenho das funções de fiscalização.
 

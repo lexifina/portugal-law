@@ -6,7 +6,7 @@
 
 2 - Para efeitos do disposto no número anterior, o INFARMED pode, designadamente:
 
-a) Notificar a proprietária para manter a farmácia em funcionamento, com a cominação de cassação do alvará, sem prejuízo de responsabilidade contraordenacional;
+a) Notificar a proprietária para manter a farmácia em funcionamento, com a cominação de cessação do alvará;
 
 b) Atribuir a exploração provisória de uma farmácia a um farmacêutico, se a proprietária não assegurar a manutenção da farmácia em funcionamento.
 

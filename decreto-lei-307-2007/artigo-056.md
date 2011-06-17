@@ -1,7 +1,3 @@
-## Capítulo X
-
-## Disposições transitórias
-
 # Artigo 56.º
 
 ### Norma transitória material
