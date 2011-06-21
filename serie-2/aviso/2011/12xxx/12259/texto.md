@@ -1,0 +1,28 @@
+Aviso n.º 12259/2011
+Nos termos e para os efeitos do disposto no artigo 118.º do Código de Procedimento Administrativo (DL n.º 442/91, de 15 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 6/96, de 31 de Janeiro), ao abrigo da competência constante da alínea v) do n.º 1 do artigo 68.º e para efeito do estatuído no n.º 1 do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pelas Leis n.os 5-A/2002, de 11 de Janeiro e 67/2007, de 31 de Dezembro, doravante designada LAL, torna público que por deliberação da Câmara Municipal da Guarda de 23.05.2011, decidiu-se submeter a apreciação pública o Projecto de Regulamento - Primeira alteração ao Regulamento de Taxas e Outras Receitas do Município da Guarda durante o período de trinta dias, a contar da data da publicação do presente aviso no Diário da República, para recolha de sugestões.
+Durante aquele período, os interessados poderão consultar o projecto atrás mencionado, que se encontra disponível nos serviços da Administração Geral e, sobre ele formularem, por escrito, as sugestões ou observações tidas por convenientes. A estrutura geral e o articulado são apresentados sob a forma de projecto de regulamento, constituindo uma base de trabalho sólida para o regulamento definitivo, que terá como leis habilitantes as referidas na sua nota justificativa.
+Projecto de Regulamento - Primeira Alteração ao Regulamento de Taxas e Outras Receitas do Município da Guarda
+Nota justificativa
+Considerando que:
+a) A administração do domínio pública e uma atribuição posta a cargo dos municípios e que um modo de bem o administrar se manifesta através da dinamização do espaço público urbano;
+b) A ocupação do domínio publico com esplanadas dinamiza o espaço urbano e muito especialmente o Centro Histórico da Cidade da Guarda;
+c) Durante o período de 1 de Setembro a 30 de Abril as condições climatéricas na cidade mais alta do Pais associadas ao pagamento de taxas pela ocupação do domínio público não tem incentivado a instalação de esplanadas nesses meses e que tal pratica não tem permitido aos turistas que visitam esta cidade de montanha uma ampla fruição dos espaços públicos urbanos.
+Assim, ao abrigo do disposto nos artigos 112.º e 241.º da Constituição da República Portuguesa, na alínea a do n.º 2 do artigo 53.º, na alínea a do n.º 6 e na alínea b do n.º 7 do artigo 64.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de II de Janeiro, bem como o estatuído na Lei n,º 53-E/2006, de 29 de Dezembro, na Lei n.º 2/2007, de IS de Janeiro, e no Decreto-Lei n.º 280/2007, de 8 de Agosto, a câmara Municipal da Guarda, na sua reunião de 23 de Maio de 2011 deliberou submeter o projecto de regulamento a apreciação pública, nos termos do art. II 8.º do Código do Procedimento Administrativo, tendo sido publicado o projecto de regulamento no Diário da República, 2.ª Série, n.º série ___, de ___, posteriormente pelas deliberações tomadas na reunião de _______e na sessão de _____ o Município da Guarda regulamenta o seguinte:
+Primeira Alteração ao Regulamento de Taxas e Outras Receitas do Município da Guarda
+Artigo 1.º
+Objecto
+O presente Regulamento tem por objecto a alteração ao Regulamento de Taxas e Outras Receitas do Município da Guarda publicado na 2.ª Série do Diário da República, n.º 92, como Regulamento n.º 430/2010, de 12 de Maio.
+Artigo 2.º
+Alteração ao Regulamento de Taxas e Outras Receitas do Município da Guarda
+É aditado o artigo 13.º-A ao Regulamento de Taxas e Outras Receitas do Município da Guarda com a seguinte redacção:
+Artigo 13.º-A
+Isenções param dinamização do espaço urbano
+Durante o período compreendido entre o dia 1 de Setembro e o dia 30 de Abril pode ser concedida a isenção de taxas que são devidas pela ocupação do domínio público municipal com esplanadas que não sejam constituídas por estruturas permanentes.
+Artigo 3.º
+Alteração ao Anexo II do Regulamento de Taxas e Outras Receitas do Município da Guarda
+É aditado o seguinte texto ao Anexo II do Regulamento de Taxas e Outras Receitas do Município da Guarda: «A isenção específica prevista no art 13.º-A tem por fins dinamizar o espaço público urbano durante o período em que e menos utilizado com esplanadas e simultaneamente animar o turismo»
+Artigo 4.º
+Vigência
+O presente Regulamento entra em vigor quinze dias após a sua publicação no Diário da República.
+25 de Maio de 2011. - O Presidente da Câmara Municipal da Guarda, Joaquim Carlos Dias Valente.
+204724611
