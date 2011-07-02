@@ -10,27 +10,25 @@
 
 a) Prestações por encargos familiares;
 
-b) (Revogada);
+b) Rendimento social de inserção;
 
-c) (Revogada);
+c) Subsídio social de desemprego;
 
-d) (Revogada);
-
-e) (Revogada).
+d) Subsídios sociais no âmbito da parentalidade.
 
 2 - As regras previstas no presente decreto-lei são ainda aplicáveis aos seguintes apoios sociais ou subsídios, quando sujeitos a condição de recursos:
 
-a) (Revogada).
+a) (Eliminada);
 
-b) Comparticipação de medicamentos;
+b) Comparticipação de medicamentos e pagamento de taxas moderadoras;
 
 c) Pagamento das prestações de alimentos, no âmbito do Fundo de Garantia de Alimentos a Menores;
 
-d) Comparticipação da segurança social aos utentes no âmbito da Rede Nacional de Cuidados Continuados Integrados;
+d) Comparticipação da segurança social aos utentes das unidades de média duração e reabilitação e aos utentes das unidades longa duração e manutenção, no âmbito da Rede Nacional de Cuidados Continuados Integrados;
 
 e) Apoios sociais à habitação atribuídos pelo Estado quando tal atribuição dependa da verificação da condição de recursos dos beneficiários;
 
-f) (Revogada).
+f) Outros apoios sociais ou subsídios atribuídos pelos serviços da administração central do Estado, qualquer que seja a sua natureza, previstos em actos legislativos ou regulamentares.
 
 3 - O presente decreto-lei procede ainda à alteração dos diplomas seguintes:
 

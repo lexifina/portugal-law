@@ -9,5 +9,3 @@
 3 - Na verificação da condição de recursos são considerados os rendimentos do requerente e dos elementos que integram o seu agregado familiar, de acordo com a ponderação referida no artigo 5.º
 
 4 - O direito às prestações e aos apoios sociais previstos no artigo anterior depende ainda de o valor do património mobiliário do requerente e do seu agregado familiar, à data do requerimento ou do pedido de apoio social, não ser superior a 240 vezes o valor do indexante dos apoios sociais (IAS).
-
-5 - Para efeitos do disposto no número anterior, considera-se património mobiliário os depósitos bancários e outros valores mobiliários como tal definidos em lei, designadamente ações, obrigações, certificados de aforro, títulos de participação e unidades de participação em instituições de investimento coletivo.

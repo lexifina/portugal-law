@@ -6,4 +6,4 @@
 
 2 - Sempre que desses bens imóveis não resultem rendas, ou destas resulte um valor inferior ao determinado nos termos do presente número, deve ser considerado como rendimento o montante igual a 5 % do valor mais elevado que conste da caderneta predial actualizada ou de certidão de teor matricial, emitida pelos serviços de finanças competentes, ou do documento que haja titulado a respectiva aquisição, reportado a 31 de Dezembro do ano relevante.
 
-3 - O disposto no número anterior não se aplica ao imóvel destinado a habitação permanente do requerente e do respetivo agregado familiar, salvo se o seu valor patrimonial for superior a 450 vezes o valor do IAS, situação em que é considerado como rendimento o montante igual a 5 % do valor que exceda aquele limite.
+3 - O disposto no número anterior não se aplica ao imóvel destinado a habitação permanente do requerente e do respectivo agregado familiar, salvo se o seu valor patrimonial for superior a 600 vezes o valor do IAS, situação em que é considerado como rendimento o montante igual a 5 % do valor que exceda aquele limite.
