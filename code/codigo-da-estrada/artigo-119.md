@@ -34,6 +34,6 @@ b) Pretender deixar de utilizar o veículo na via pública.
 
 11 - Não podem ser repostas ou atribuídas novas matrículas a veículos quando o cancelamento da matrícula anterior tenha tido por fundamento a destruição do mesmo.
 
-12 - Quando tiver lugar o cancelamento da matrícula de um veículo onde a instalação do dispositivo electrónico de matrícula seja obrigatória, o proprietário, ou quem o represente para o efeito, deve proceder à entrega daquele dispositivo nos serviços do IMTT, I. P., onde o processo de cancelamento da matrícula tiver lugar.
+12 - Quando tiver lugar o cancelamento da matrícula de um veículo que tenha instalado dispositivo electrónico de matrícula, o proprietário, ou quem o represente para o efeito, deve proceder à entrega daquele dispositivo nos serviços do IMTT, I. P., onde o processo de cancelamento da matrícula tiver lugar.
 
 13 - Quem infringir o disposto nos n.os 4, 6 e 8 é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável por força de outra disposição legal.

@@ -18,8 +18,8 @@
 
 8 - Cada veículo matrículado deve estar provido de chapas com o respectivo número de matrícula, nos termos fixados em regulamento.
 
-9 - Com excepção dos triciclos não autorizados a circular em auto-estradas ou vias equiparadas, dos ciclomotores, dos quadriciclos e das máquinas industriais e máquinas industriais rebocáveis, cada veículo matriculado deve estar também provido de um dispositivo electrónico de matrícula, a funcionar correctamente, cujo modelo e requisitos, designadamente técnicos, legais e de segurança, são fixados em regulamento.
+9 - (Revogado.)
 
-10 - Quem infringir o disposto nos n.os 3, 4, 7, 8 e 9 e quem colocar em circulação veículo cujas características não confiram com as mencionadas no documento que o identifica é sancionado com coima de (euro) 120 a (euro) 600, se sanção mais grave não for aplicável por força de outra disposição legal.
+10 - Quem infringir o disposto nos n.os 3, 4, 7 e 8 e quem colocar em circulação veículo cujas características não confiram com as mencionadas no documento que o identifica é sancionado com coima de (euro) 120 a (euro) 600, se sanção mais grave não for aplicável por força de outra disposição legal.
 
 11 - Quem infringir o disposto nos n.os 5 e 6 é sancionado com coima de (euro) 30 a (euro) 150.

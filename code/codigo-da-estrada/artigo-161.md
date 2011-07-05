@@ -20,7 +20,7 @@ g) Se verifique, em inspecção, que o veículo não oferece condições de segu
 
 h) As chapas de matrícula não obedeçam às condições regulamentares relativas a características técnicas e modos de colocação;
 
-i) O dispositivo electrónico de matrícula não obedeça às condições regulamentares relativas a características técnicas e de instalação;
+i) (Revogada.)
 
 j) O veículo circule desrespeitando as regras relativas à poluição sonora, do solo e do ar.
 
@@ -34,6 +34,6 @@ j) O veículo circule desrespeitando as regras relativas à poluição sonora, d
 
 6 - Nas situações previstas nas alíneas f) e h) do n.º 1, quando se trate de avarias de fácil reparação nas luzes, pneumáticos ou chapa de matrícula, pode ser emitida guia válida para apresentação do veículo com a avaria reparada, em posto policial, no prazo máximo de oito dias, sendo, neste caso, as coimas aplicáveis reduzidas para metade nos seus limites mínimos e máximos.
 
-7 - Nas situações previstas na alínea i) do n.º 1, quando se trate de avarias ou incorrecções no dispositivo electrónico de matrícula, que não sejam nem possam, objectivamente, ser do conhecimento do proprietário ou detentor do veículo, é emitida guia válida para apresentação do veículo num centro de inspecção técnica de veículos aprovado, sendo a avaria ou a incorrecção reparadas no prazo máximo de oito dias, não havendo, neste caso, lugar à aplicação de coima.
+7 - (Revogado.)
 
 8 - Sem prejuízo do disposto nos n.os 3 a 6, quem conduzir veículo cujo documento de identificação tenha sido apreendido é sancionado com coima de (euro) 300 a (euro) 1500.

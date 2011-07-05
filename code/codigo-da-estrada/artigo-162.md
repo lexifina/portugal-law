@@ -6,7 +6,7 @@
 
 a) Transite com números de matrícula que não lhe correspondam ou não tenham sido legalmente atribuídos;
 
-b) Transite sem chapas ou dispositivo electrónico de matrícula ou não se encontre matriculado, salvo nos casos permitidos por lei;
+b) Transite sem chapas de matrícula ou não se encontre matriculado, salvo nos casos previstos por lei;
 
 c) Transite com números de matrícula que não sejam válidos para o trânsito em território nacional;
 
