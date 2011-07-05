@@ -1,0 +1,5 @@
+Aviso n.º 93/2011
+Por ordem superior se torna público que, em 7 de Junho e em 12 de Abril de 2011, foram recebidas notas pelo Ministério dos Negócios Estrangeiros e da Cooperação do Reino de Marrocos e pela Embaixada da República Portuguesa em Rabat, respectivamente, pelas quais ambos os Estados Contratantes comunicam que concluíram os seus requisitos constitucionais necessários para a manifestação do seu consentimento de estarem vinculados ao Acordo de Cooperação entre o Governo da República Portuguesa e o Governo do Reino de Marrocos em Matéria de Protecção Civil, assinado em Lisboa em 28 de Abril de 1992.
+Por parte da República Portuguesa, o Acordo foi aprovado pelo Decreto n.º 19/94, de 7 de Julho, publicado no Diário da República, 1.ª série-A, n.º 155, de 7 de Julho de 1994.
+Nos termos do seu artigo 9.º, o Acordo de Cooperação entre o Governo da República Portuguesa e o Governo do Reino de Marrocos em Matéria de Protecção Civil entrou em vigor em 7 de Junho de 2011.
+Direcção-Geral de Política Externa, 20 de Junho de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
