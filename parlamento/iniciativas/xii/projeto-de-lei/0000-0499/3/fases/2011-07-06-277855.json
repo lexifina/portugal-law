@@ -1,0 +1,163 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "3",
+    "id": "36308",
+    "titulo": "Combater a precariedade e os falsos recibos verdes."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2011-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "26653",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-07-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-07-06",
+        "DatafimApreciacaoPublica": "2011-08-17",
+        "DatainicioApreciacaoPublica": "2011-07-19",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-03-27",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos Apreciação Pública ",
+            "URL": "http://www.parlamento.pt/sites/com/xiileg/10csst/paginas/Iniciativas-Apreciacao-Publica.aspx?t=554746795a574e6c636d567a49475675646d6c685a47397a4c3142796232706c6447397a4947526c4945786c61533951536b77674d44417a4c56684a5353307877716f674b454a464b53417449454e7662574a68644756794947456763484a6c593246796157566b5957526c4947556762334d675a6d46736332397a49484a6c59326c6962334d67646d56795a47567a&path=6148523063446f764c324679626d56304c334e706447567a4c31684a5355784652793944543030764d54424455314e554c30467963585670646d39446232317063334e686279394a626d6c6a6157463061585a6863304677636d566a6157466a5957395164574a7361574e684c314268636d566a5a584a6c6379426c626e5a705957527663793951636d39715a5852766379426b5a53424d5a576b765545704d494441774d79315953556b744d634b714943684352536b674c534244623231695958526c63694268494842795a574e68636d6c6c5a47466b5a53426c4947397a49475a6862484e76637942795a574e70596d397a49485a6c636d526c63773d3d"
+          },
+          {
+            "DataDocumento": "2011-08-30",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica da CSST",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6c4d445934596a6c6a4c546b784d5745744e444d7a4f4330355a5463314c5467774e6a6735597a59774e57557a4d7935775a47593d&fich=2e068b9c-911a-4338-9e75-80689c605e33.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "11-19"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-01",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/022/2011-09-01/11?pgs=11-19&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "11-19"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-01",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/022/2011-09-01/11?pgs=11-19&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2027",
+            "motivoCessacao": null,
+            "nome": "Adriano Rafael Moreira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-08-26",
+            "dataRemessa": "2011-08-30",
+            "numeroOficio": "35/10ª-CSST",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2011-08-30",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>",
+            "id": "58747",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "9",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-07-06",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "277855",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
