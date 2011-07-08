@@ -1,0 +1,6 @@
+Aviso n.º 13919/2011
+Gil Nadais Resende da Fonseca, Presidente da Câmara Municipal de Águeda, torna público que, por deliberação da reunião de Câmara Extraordinária de 28 de Junho de 2011, e nos termos do n.º 1 do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, durante o prazo de 30 dias (úteis) a contar da publicação do presente aviso no Diário da República, é submetido à apreciação pública o "Regulamento de Trânsito do Município de Águeda", cujo texto pode ser consultado no site da Câmara Municipal de Águeda (www.cm-agueda.pt) ou no GAM - Gabinete de Atendimento ao Munícipe, situado no edifício dos Paços do Concelho.
+De acordo com o n.º 2 do artigo 118.º, convidam-se todos os interessados a remeter por escrito, a esta Câmara Municipal eventuais reclamações, sugestões, observações e propostas dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal de Águeda, Praça do Município, 3754-500 Águeda, ou para o email presidente.gilnadais@cm-agueda.pt.
+Para constar e devidos efeitos se publica este aviso e outros de igual teor, que vão ser afixados nos locais públicos do costume.
+30 de Junho de 2011. - O Presidente da Câmara Municipal, Dr. Gil Nadais.
+304863098
