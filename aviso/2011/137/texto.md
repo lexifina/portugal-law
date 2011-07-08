@@ -1,0 +1,5 @@
+Aviso n.º 137/2011
+Por ordem superior se torna público ter o Quénia depositado, junto do Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), em 26 de Agosto de 2009, o seu instrumento de ratificação da Convenção Internacional contra a Dopagem no Desporto, adoptada em Paris, na 33.ª Sessão da Conferência Geral da UNESCO, em 19 de Outubro de 2005. A referida Convenção entrou em vigor para este Estado em 1 de Outubro de 2009.
+Portugal é Parte desta Convenção, aprovada pelo Decreto n.º 4-A/2007, de 20 de Março, conforme publicado no Diário da República, 1.ª série, n.º 56, 1.º suplemento, de 20 de Março de 2007, tendo depositado o seu instrumento de ratificação em 30 de Abril de 2007.
+Nos termos do seu artigo 37.º, a Convenção em apreço entrou em vigor para a República Portuguesa no 1.º dia do mês seguinte ao decurso do prazo de um mês após a data do depósito do instrumento de ratificação, ou seja, no dia 1 de Junho de 2007.
+Direcção-Geral de Política Externa, 28 de Junho de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
