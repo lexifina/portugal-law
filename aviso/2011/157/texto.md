@@ -1,0 +1,5 @@
+Aviso n.º 157/2011
+Por ordem superior se torna público terem as Maurícias depositado, junto do Secretário-Geral das Nações Unidas, em 31 de Outubro de 2008, o seu instrumento de ratificação do Protocolo Adicional da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, adoptado em Nova Iorque, em 6 de Outubro de 1999.
+Portugal é Parte deste protocolo opcional, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 17/2002, de 8 de Março, publicada no Diário da República, 1.ª série-A, n.º 57/2002, e ratificado pelo Decreto do Presidente da República n.º 15/2002, de 8 de Março, publicado no Diário da República, 1.ª série-A, n.º 57/2002. O depósito do seu instrumento de ratificação verificou-se em 26 de Abril de 2002, de acordo com o Aviso n.º 63/2006, de 11 de Junho.
+Para a República Portuguesa o protocolo opcional em apreço entrou em vigor em 26 de Julho de 2002.
+Direcção-Geral de Política Externa, 30 de Junho de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
