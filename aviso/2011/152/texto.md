@@ -1,0 +1,5 @@
+Aviso n.º 152/2011
+Por ordem superior se torna público terem as Ilhas Salomão procedido, junto do Secretário-Geral das Nações Unidas, em 24 de Setembro de 2009, à assinatura do Protocolo Facultativo da Convenção sobre os Direitos da Criança Relativo à Participação de Crianças em Conflitos Armados, adoptado em Nova Iorque, em 25 de Maio de 2000.
+Portugal é Parte neste protocolo adicional, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 22/2003, de 28 de Março, publicada no Diário da República, 1.ª série-A, n.º 74, e ratificado pelo Decreto do Presidente da República n.º 22/2003, de 28 de Março, publicado no Diário da República, 1.ª série-A, n.º 74, tendo a República Portuguesa depositado o seu instrumento de ratificação em 19 de Agosto de 2003, de acordo com o Aviso n.º 211/2003, publicado no Diário da República, 1.ª série-A, n.º 251, de 29 de Outubro de 2003.
+Nos termos do n.º 2 do artigo 10.º, o Protocolo Facultativo em apreço entrou em vigor para o Estado Português em 19 de Setembro de 2003.
+Direcção-Geral de Política Externa, 30 de Junho de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
