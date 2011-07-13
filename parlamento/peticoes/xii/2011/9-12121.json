@@ -1,0 +1,211 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12121",
+  "numero": "9",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-07-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-08-31",
+            "entidades": null,
+            "id": "90946",
+            "tipo": null,
+            "titulo": "Audição em 2011-08-31 com Manuel João de Freitas Pita"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-07-28",
+            "dataResposta": "2011-08-23",
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "37/COFAP/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-05-17",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "192/COFAP/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-09-27",
+            "dataResposta": null,
+            "entidades": [
+              "Secretária de Estado dos Assuntos Parlamentares e da Igualdade"
+            ],
+            "nrOficio": "327/COFAP/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-02-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-07-27",
+        "DataArquivo": "2013-03-06",
+        "DataBaixaComissao": "2011-07-27",
+        "DataEnvioPAR": "2013-03-06",
+        "DataReaberta": "2011-07-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-02-17",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938354f47566d4f54646d4e53316b4e546c6b4c54517a4d5755744f4463344e433032597a67784d4451785a6d4d344e5459756347526d&fich=98ef97f5-d59d-431e-8784-6c81041fc856.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-07-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939694f5459314e5463344d69307a59544a694c54526c4d446374596a41775979307a4e7a4d324e7a6c6d4d32497859546b756347526d&fich=b9655782-3a2b-4e07-b00c-373679f3b1a9.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-07-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938795a47566b59545530596930315a47466a4c54526d4e6d51744f44637959693032596a4e694f4745784e4449344d5745756347526d&fich=2deda54b-5dac-4f6d-872b-6b3b8a14281a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-05-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279383059574e68596a55324e793077595451794c5451335a54417459545a6d4d7931685a6a41324e32466c5954526a4e444d756347526d&fich=4acab567-0a42-47e0-a6f3-af067aea4c43.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-09-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938324d6d45314e4441305a6930304d3245304c5451324f5463744f4759785969307a5a6d45314e47466c4e3259304e7a45756347526d&fich=62a5404f-43a4-4697-8f1b-3fa54ae7f471.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-03-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e6862793877595759324e4467344e43316d4e57466d4c54526c59325574596a55774f4330324e6a453259546b354e7a646b4f4451756347526d&fich=0af64884-f5af-4ece-b508-6616a9977d84.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-08-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938334e474d7a4d6a51305a4330314e546c6b4c5451344d444d7459544268597930325a474d7859324d314e7a55305a546b756347526d&fich=74c3244d-559d-4803-a0ac-6dc1cc5754e9.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-27",
+            "gp": "PSD",
+            "id": "1537",
+            "motivoCessacao": null,
+            "nome": "Hugo Velosa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-07-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3251304e325a6b4d544a684c5463354d7a4d744e4449784d4330355932457a4c544533596a41324e7a59775a6d59314f4335775a47593d&fich=d47fd12a-7933-4210-9ca3-17b06760ff58.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12121",
+    "PetAssunto": "Solicitam que sejam retomadas, com urgência, as negociações com a Comissão Europeia que visam alterar o regime de benefícios fiscais  aplicável à Zona Franca da Madeira.",
+    "PetDataEntrada": "2011-07-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12121",
+    "PetLeg": "XII",
+    "PetNr": "9",
+    "PetNrAssinaturas": "4897",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "563869",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-08-06",
+        "pubLeg": "XII",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/016/2011-08-06/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
