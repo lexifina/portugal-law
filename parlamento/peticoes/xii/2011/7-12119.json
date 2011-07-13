@@ -1,0 +1,227 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12119",
+  "numero": "7",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-07-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-11-17",
+            "entidades": null,
+            "id": "91562",
+            "tipo": null,
+            "titulo": "Audição em 2011-11-17 com Sr. Luís Mendonça e Sr. Ricardo Lisboa"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do Conselho de Administração da RTP"
+            ],
+            "nrOficio": "125/CPECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-11-02",
+            "dataResposta": "2011-11-10",
+            "entidades": [
+              "Director de Programação da RTP 2"
+            ],
+            "nrOficio": "126/CPECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "Provedor do Telespectador da RTP"
+            ],
+            "nrOficio": "127/CPECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-10-24",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "609267",
+                "obs": null,
+                "pag": [
+                  "3-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/023/2012-10-27/3?pgs=3-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-07-26",
+        "DataArquivo": "2012-10-24",
+        "DataBaixaComissao": "2011-07-26",
+        "DataEnvioPAR": "2012-10-26",
+        "DataReaberta": "2011-07-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-07-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e7a51784d44677a4d6d49744e5463794d5330304d474e6c4c5467775a6d4574597a5a6d4d6a55345932517a5a6d55334c6e426b5a673d3d&fich=7410832b-5721-40ce-80fa-c6f258cd3fe7.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-11-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f4755344e47466b4f57517459544e6c4e7930304d3259304c5467324d546b744e6a466d4e6d55775a6a5a694d5749784c6e426b5a673d3d&fich=8e84ad9d-a3e7-43f4-8619-61f6e0f6b1b1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738765a4755314d445a6b4d7a4d744f5451354d6930305a4755314c574a6d596a55745a5467795a6d55334e7a63794f544d7a4c6e426b5a673d3d&fich=de506d33-9492-4de5-bfb5-e82fe7772933.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738765a574530597a637a4d4459744d7a4579595330304d6d49784c5749774d6a5974597a677a4e6a5669595468684f5455334c6e426b5a673d3d&fich=ea4c7306-312a-42b1-b026-c8365ba8a957.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-10-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e6a49334f4751774e446774596d51335a4330304d47566d4c574a6c596a6b744f4441784d47526a4e4449334e7a686b4c6e426b5a673d3d&fich=6278d048-bd7d-40ef-beb9-8010dc42778d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-11-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764d7a5a685a6a426c5a6a59744d6d466d596930305a6d56694c574a68597a6b744f4441344d6a4e6b595759354d7a686b4c6e426b5a673d3d&fich=36af0ef6-2afb-4feb-bac9-80823daf938d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3521",
+        "Legislatura": "XII",
+        "Nome": "Comissão para a Ética, a Cidadania e a Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-10-18",
+            "gp": "PS",
+            "id": "2230",
+            "motivoCessacao": null,
+            "nome": "João Portugal"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-07-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259314f474a6a596d4d314c544d314f5449744e474e6d4d433034597a497a4c5759784d6a55305a4759334d4746694f4335775a47593d&fich=f58bcbc5-3592-4cf0-8c23-f1254df70ab8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12119",
+    "PetAssunto": "Pretendem uma melhor e mais adequada programação de cinema, na RTP2",
+    "PetDataEntrada": "2011-07-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12119",
+    "PetLeg": "XII",
+    "PetNr": "7",
+    "PetNrAssinaturas": "2962",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "563868",
+        "obs": null,
+        "pag": [
+          "4-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-08-06",
+        "pubLeg": "XII",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/016/2011-08-06/4?pgs=4-5&org=PLC"
+      }
+    ]
+  }
+}
