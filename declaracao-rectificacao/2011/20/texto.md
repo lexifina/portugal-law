@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 20/2011
+Ao abrigo das disposições conjugadas na alínea h) do n.º 1 e do n.º 2 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, e dos n.os 2 e 3 do artigo 41.º do Código do Procedimento Administrativo, por vacatura dos cargos de director e director-adjunto, declara-se que a Portaria n.º 199/2011, de 19 de Maio, publicada no Diário da República, 1.ª série, n.º 97, de 19 de Maio de 2011, saiu com as seguintes inexactidões que, mediante declaração da entidade emitente, assim se rectificam:
+1 - No quarto parágrafo do preâmbulo, onde se lê «[n]este contexto, o despacho n.º 978/2001, de 12 de Janeiro,» deve ler-se «[n]este contexto, o despacho n.º 978/2011, de 12 de Janeiro,».
+2 - No n.º 7 do artigo 2.º, onde se lê «nos termos dos n.os 1, 4 e 5,» deve ler-se «nos termos dos n.os 2 e 4,».
+Centro Jurídico, 8 de Julho de 2011. - O Director, em substituição, nos termos do artigo 41.º do Código do Procedimento Administrativo, José Manuel Bento Ferreira de Almeida.
