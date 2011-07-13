@@ -1,0 +1,221 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12118",
+  "numero": "6",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-07-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2011-08-30",
+            "entidades": null,
+            "id": "90947",
+            "tipo": null,
+            "titulo": "Audição em 2011-08-30 com Peticionários da Petição 6/XII/1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-07-27",
+            "dataResposta": "2011-08-12",
+            "entidades": [
+              "Ministro da Defesa Nacional"
+            ],
+            "nrOficio": "37/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-07-27",
+            "dataResposta": "2011-08-17",
+            "entidades": [
+              "Câmara Municipal de Odivelas"
+            ],
+            "nrOficio": "38/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-07-27",
+            "dataResposta": "2011-08-17",
+            "entidades": [
+              "Secretário de Estado da Cultura"
+            ],
+            "nrOficio": "37/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-09-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-07-26",
+        "DataArquivo": "2011-09-20",
+        "DataBaixaComissao": "2011-07-26",
+        "DataEnvioPAR": "2011-09-20",
+        "DataReaberta": "2011-07-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-07-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566b4d6a426c4d444e6b4c5455304d5463744e474e6d4e5331694e4755314c545133596a55345a47466d4d6d45344f5335775a47593d&fich=5d20e03d-5417-4cf5-b4e5-47b58daf2a89.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-08-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e684f5759774d57526d4c545535596a67744e4452684f5331694e7a63314c544d7a4d5441305a6d557a59544e6c4d4335775a47593d&fich=3a9f01df-59b8-44a9-b775-33104fe3a3e0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-08-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d334e325a685a544d324c574a695a5463744e4755794d693034596a646c4c5451794d54497a5932526c5a4442694e4335775a47593d&fich=377fae36-bbe7-4e22-8b7e-42123cded0b4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-08-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63345a6a41304d6d4e694c5451784e6a6b744e4467305a5330344e57526d4c5441305a6d51334d475931597a51335a6935775a47593d&fich=78f042cb-4169-484e-85df-04fd70f5c47f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-09-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686b4e4445354f5756684c5745304d7a67744e4755784e793168596a41314c5755775a546c6b4e5751354e7a5268596935775a47593d&fich=8d4199ea-a438-4e17-ab05-e0e9d5d974ab.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-09-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526a4e574d35593256694c5445794e6a41744e444a694e5331694e7a59784c5463355a5445335a6a4a6a4d44646a4d5335775a47593d&fich=dc5c9ceb-1260-42b5-b761-79e17f2c07c1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245784d7a4e694f4449304c54686b4f5759744e446b32597931695957526d4c545a694d3249775a5449335a5755315a6935775a47593d&fich=a133b824-8d9f-496c-badf-6b3b0e27ee5f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-11-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249794e54517a593255794c5759784d3251744e4441334e6930354d7a426d4c5759334e6d55314d6a5530596a63335a4335515245593d&fich=b2543ce2-f13d-4076-930f-f76e5254b77d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249775a44466b5a5749794c575578595751744e4749324d6931694d7a59334c57466c4e6d59774f5467344e5751354e6935775a47593d&fich=b0d1deb2-e1ad-4b62-b367-ae6f09885d96.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-07-26",
+            "gp": "CDS-PP",
+            "id": "4428",
+            "motivoCessacao": null,
+            "nome": "Inês Teotónio Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-07-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a63325a5745334f5451784c574533596a55744e4451304e7930354f54466d4c5459324d546b784e6d46694e7a6377596935775a47593d&fich=76ea7941-a7b5-4447-991f-661916ab770b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12118",
+    "PetAssunto": "Pretende que o Posto de Comando do MFA seja classificado como Monumento Nacional.",
+    "PetDataEntrada": "2011-07-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12118",
+    "PetLeg": "XII",
+    "PetNr": "6",
+    "PetNrAssinaturas": "2010",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Inicialmente, tinha 1 peticionário, a partir de 22.07.2011, passou a ter o número actual",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "563867",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-08-06",
+        "pubLeg": "XII",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/016/2011-08-06/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
