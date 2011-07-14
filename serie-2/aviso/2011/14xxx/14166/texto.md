@@ -1,0 +1,186 @@
+Aviso n.º 14166/2011
+Inquérito Público - Regulamento do Serviço Municipal de Protecção Civil - Município de Vila Nova de Cerveira
+José Manuel Vaz Carpinteira, Presidente da Câmara Municipal do concelho de Vila Nova de Cerveira:
+Torna público, nos termos e para os efeitos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, que, durante o período de 30 dias a contar da publicação do presente aviso no Diário da República, é submetido a inquérito público o Projecto de Regulamento do Serviço Municipal de Protecção Civil - Município de Vila Nova de Cerveira, que foi aprovado na reunião desta Câmara Municipal realizada no dia 29 de Junho corrente.
+Durante este período poderão os interessados consultar o mencionado Projecto de Regulamento na Câmara Municipal de Vila Nova de Cerveira e Serviço de Protecção Civil instalado no Quartel dos Bombeiros Voluntários de Vila Nova de Cerveira, e sobre ele serem formuladas, por escrito, as sugestões que se entendam, e que deverão ser dirigidas ao Presidente da Câmara Municipal de Vila Nova de Cerveira.
+30 de Junho de 2011. - O Presidente da Câmara, José Manuel Vaz Carpinteira.
+Proposta de Regulamento do Serviço Municipal de Protecção Civil - Município de Vila Nova de Cerveira
+Preâmbulo
+Com a entrada em vigor da Lei n.º 65/2007, de 12 de Novembro, é estabelecida uma nova moldura legal de enquadramento institucional e operacional no âmbito da protecção civil municipal. A presente lei define o enquadramento institucional e operacional da protecção civil no âmbito municipal e estabelece a organização dos Serviços Municipais de Protecção Civil (SMPC).
+Cabe aos SMPC desenvolver actividades de planeamento de operações, prevenção, segurança e informação pública, tendentes a prevenir riscos colectivos inerentes à situação de acidentes graves, catástrofes ou calamidade, de origem natural e ou tecnológica, de atenuar os seus efeitos e proteger e socorrer as pessoas e bens em perigo, quando estas ocorram.
+Compete, também, ao SMPC assegurar o funcionamento de todos os organismos municipais de protecção civil, bem como centralizar, tratar e divulgar toda a informação recebida relativa à protecção civil. Consciente do papel de destaque que se encontra reservado à protecção civil ao nível do bem-estar das populações, o Município de Vila Nova de Cerveira procede à elaboração do Regulamento Municipal para definir as competências dos SMPC.
+CAPÍTULO I
+Parte geral
+Artigo 1.º
+Lei habilitante
+O presente Regulamento é elaborado ao abrigo do disposto no n.º 7, do artigo 112.º e 241.º da Constituição da República Portuguesa; dos artigos 35.º e 41.º a 43.º da Lei n.º 27/2006, de 3 de Julho; da Lei n.º 65/2007, de 12 de Novembro, e da alínea a) do n.º 2 do artigo 53.º e do n.º 6 do artigo 64.º, ambos da Lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A/2002, de 11 de Janeiro.
+Artigo 2.º
+Objecto
+1 - O presente Regulamento estabelece e define o enquadramento institucional e operacional da Protecção Civil no Município de Vila Nova de Cerveira, de modo complementar à Lei n.º 65/2007, de 12 de Novembro;
+2 - Este Regulamento constituirá um útil instrumento de trabalho para todos os intervenientes no sistema de Protecção Civil Municipal.
+Artigo 3.º
+Âmbito
+1 - A Protecção Civil no Município de Vila Nova de Cerveira compreende as actividades desenvolvidas pela Autarquia local e pelos cidadãos, e por todas as entidades públicas e privadas com a finalidade de prevenir riscos colectivos inerentes a situações de acidente grave ou catástrofe, de atenuar os seus efeitos, proteger e socorrer as pessoas e bens em perigo quando aquelas situações ocorram;
+2 - Os Serviços Municipais de Protecção Civil (SMPC) de Vila Nova de Cerveira devem ser uma organização cuja estrutura tem em vista a coordenação e execução de acções no âmbito da Protecção Civil ao nível Municipal, integrando-se nas estruturas distritais e nacionais.
+Artigo 4.º
+Princípios da protecção civil municipal
+Sem prejuízo do disposto na lei, a Protecção Civil no Município de Vila Nova de Cerveira, na sua actividade, é orientada pelos seguintes princípios:
+a) O princípio da prioridade, nos termos do qual deve ser dada prevalência à prossecução do interesse público relativo à Protecção Civil, sem prejuízo da segurança e da saúde pública, sempre que estejam em causa ponderações de interesses, entre si conflituantes;
+b) O princípio da prevenção, por força do qual, no território Municipal, os riscos colectivos de acidente grave, de catástrofe ou calamidade, devem ser considerados de forma antecipada, de modo a eliminar as próprias causas, ou reduzir as suas consequências, quando tal não seja possível;
+c) O princípio da precaução, de acordo com o qual devem ser adoptadas as medidas de diminuição do risco de acidente grave ou catástrofe, inerente a cada actividade, associando a presunção de imputação de eventuais danos à mera violação daquele dever de cuidado;
+d) O princípio da subsidiariedade, que determina que o subsistema de Protecção Civil de nível superior só deve intervir se e na medida em que os objectivos da Protecção Civil não possam ser alcançados pelo subsistema de Protecção Civil Municipal, atenta à dimensão e à gravidade dos efeitos das ocorrências;
+e) O princípio da cooperação, que assenta no reconhecimento de que a Protecção Civil constitui atribuição não só do Estado, das Regiões Autónomas e das Autarquias locais, mas, um dever dos cidadãos e de todas as entidades públicas e privadas;
+Artigo 5.º
+Objectivos
+São objectivos fundamentais da Protecção Civil Municipal:
+a) Prevenir na área do Município os riscos colectivos de acidentes graves, ou catástrofes, deles resultantes;
+b) Atenuar na área do Município os riscos colectivos e limitar os seus efeitos no caso das ocorrências descritas na alínea anterior;
+c) Socorrer e assistir, na área do Município, as pessoas e outros seres vivos em perigo, assim como, proteger bens e valores culturais, ambientais e de elevado interesse público;
+d) Apoiar a reposição da normalidade da vida das pessoas nas áreas do Município, afectadas por acidente grave, catástrofe, ou calamidade.
+Artigo 6.º
+Competências
+1 - No âmbito dos seus poderes de planeamento e operações, dispõe o Serviço Municipal de Protecção Civil (SMPC) das seguintes competências:
+a) Acompanhar a elaboração e actualização do Plano Municipal de Emergência, Obrigatório de acordo com o artigo 19.º do Decreto-Lei n.º 65/2007, de 12 de Novembro, segundo a qual "os Planos Municipais de Emergência em vigor devem ser actualizados em conformidade com a nova legislação de Protecção Civil, bem como a presente lei, no prazo de 180 dias contados a partir da aprovação das orientações técnicas pela Comissão Nacional de Protecção Civil." - e os Planos Especiais (Plano Municipal de Defesa da Floresta Contra Incêndios e o Plano Operacional Municipal);
+b) Assegurar a funcionalidade e a eficácia da estrutura do SMPC;
+c) Inventariar e actualizar permanentemente os registos dos meios e dos recursos existentes no Município de Vila Nova de Cerveira, com interesse para o SMPC.
+2 - No que diz respeito à informação pública, o SMPC deve ter as seguintes competências:
+Assegurar a pesquisa, análise, selecção, e difusão da documentação com importância para a Protecção Civil Municipal;
+a) Divulgar junto da população a missão e estrutura dos SMPC;
+b) Recolher a informação emanada da Comissão Municipal de Protecção Civil e dos gabinetes que integrarem os SMPC, com destino à sua divulgação pública relativamente às medidas preventivas ou situações de catástrofe ou calamidade;
+c) Promover e incentivar acções de divulgação sobre Protecção Civil junto dos munícipes com vista à adopção de medidas de autoprotecção;
+d) Indicar, na iminência de acidentes graves, catástrofes, ou calamidades as orientações, medidas preventivas e procedimentos a ter pela população para fazer face à situação;
+e) Dar seguimento a todos os procedimentos, por determinação do presidente da Câmara Municipal ou vereador com competências delegadas.
+3 - Nos domínios mais específicos da prevenção e segurança compete ao (SMPC:
+a) Propor medidas de segurança face aos riscos inventariados;
+b) Colaborar na elaboração e execução de exercícios de treino e simulacro;
+c) Elaborar projectos de regulamentação de prevenção e segurança;
+d) Promover campanhas de informação sobre medidas preventivas, dirigidas a segmentos específicos da população alvo, ou sobre riscos específicos em cenários prováveis previamente definidos;
+e) Realizar acções e campanhas de sensibilização para questões de segurança, preparando e organizando as populações face aos riscos e cenários previsíveis.
+f) Cumprir e fazer o Artigo 37.º e 40.º do Decreto-Lei n.º 17/2009 de 15 de Janeiro, procedendo o SMPC à fiscalização e consequentemente, ao levantamento, instrução e decisão das contra-ordenações.
+Artigo 7.º
+Domínio de actuação
+1 - A actividade da Protecção Civil Municipal exerce-se nos seguintes domínios:
+a) Levantamento, previsão, avaliação, e prevenção dos riscos colectivos do Município;
+b) Análise permanente das vulnerabilidades Municipais perante situações de risco;
+c) Informação e formação das populações do Município, visando a sua sensibilização em matéria de autoprotecção e de colaboração com as autoridades;
+d) Planeamento de soluções de emergência, visando a busca, o salvamento, a prestação de socorro e de assistência, bem como a evacuação, alojamento, e abastecimento das populações presentes no Município;
+e) Inventariação dos recursos e meios disponíveis e dos mais facilmente mobilizáveis, ao nível Municipal;
+f) Estudo e divulgação de formas adequadas de protecção dos edifícios em geral, de monumentos, e de outros bens culturais, de infra-estruturas, do património arquivístico, de instalações de serviços essenciais, bem como do ambiente e dos recursos naturais existentes na área do Município;
+g) Previsão e planeamento de acções atinentes à eventualidade de isolamento de áreas afectadas por riscos no território Municipal.
+CAPÍTULO II
+Serviço Municipal de Protecção Civil
+Artigo 8.º
+Constituição dos SMPC
+O Serviço Municipal de Protecção Civil é constituído por:
+a) Gabinete de Coordenação e Planeamento;
+b) Gabinete Técnico Florestal;
+Artigo 9.º
+Gabinete de Coordenação e Planeamento
+Compete ao Gabinete de Coordenação e Planeamento:
+a) Elaborar o Plano Municipal de Emergência de Protecção Civil (PMEPC)
+b) Garantir a funcionalidade e eficácia do Sistema de Protecção Civil Municipal e estabelecer sistemas alternativos de execução das tarefas do SMPC de Vila Nova de Cerveira, se necessário, em situação de crise;
+c) Realizar estudos técnicos com vista à identificação, análise, e consequências dos riscos naturais, tecnológicos, e sociais que possam afectar o Município de Vila Nova de Cerveira, em função da magnitude estimada e do local previsível da sua ocorrência, através da utilização de cartografia, de modo a prevenir, quando possível, a sua manifestação e a avaliar e minimizar os efeitos das suas consequências previsíveis;
+d) Estudar e planear o apoio logístico a prestar às vítimas e às forças de socorro em situação de emergência;
+e) Manter informação actualizada sobre acidentes graves, catástrofes, ou calamidades ocorridas no Município de Vila Nova de Cerveira, bem como sobre elementos relativos às condições de ocorrência, às medidas adoptadas para fazer face às respectivas consequências e às conclusões sobre o êxito ou insucesso das acções empreendidas em cada caso particular;
+f) Levantar, organizar, e gerir os centros de alojamento a accionar em situação de emergência;
+g) Elaborar planos prévios de intervenção, preparar e propor a execução de exercícios de simulacros que contribuam para uma actuação eficaz de todas as entidades intervenientes nas acções de Protecção Civil;
+h) Estudar as questões de que vier a ser incumbido, propondo as soluções que considere mais adequadas, de acordo com as situações.
+Artigo 10.º
+Gabinete Técnico Florestal
+Compete ao Gabinete Técnico Florestal:
+a) Elaboração e actualização do Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI);
+b) Elaborar e actualizar o Plano Operacional Municipal para incêndios florestais (POM);
+c) Participar nos processos de planeamento e de ordenamento dos espaços rurais e florestais;
+d) Centralizar a informação relativa a incêndios florestais;
+e) Promover o cumprimento do estabelecido na Republicação do
+f) Acompanhar e divulgar do índice diário de risco de incêndio florestal;
+g) Relacionamento com as entidades públicas e privadas no âmbito da Defesa da Floresta contra Incêndios (DFCI);
+h) Supervisão e controlo das obras municipais e das subcontratadas relativas à DFCI;
+i) Construção e gestão do sistema de informação geográfica de DFCI;
+j) Gestão da base de dados DFCI;
+k) Envio de propostas e pareceres relacionados com a DFCI;
+l) Constituir e actualizar de dossier com legislação específica;
+m) Elaborar o relatório de actividades relativo aos programas de acção previstos no PMDFCI;
+n) Elaborar informação e levantar as ocorrências de incêndio no Município de Vila Nova de Cerveira;
+o) Elaborar informação especial em caso de incêndios de grandes dimensões;
+p) Participar em acções de formação de DFCI, principalmente as promovidas pela Autoridade Florestal Nacional;
+q) Elaboração de acções de sensibilização da população para as causas e efeitos dos incêndios florestais;
+r) Elaborar o plano e promover acções de fogo controlado;
+s) Acompanhar as acções da equipa de sapadores florestais (SF 20-111);
+Artigo 11.º
+Dever de Disponibilidade do Pessoal
+1 - O pessoal que exerce funções no SMPC do Município de Vila Nova de Cerveira tem de ter total disponibilidade, pelo que não podem, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou ocorrência de acidentes graves ou catástrofes sob pena de incorrer em responsabilidade disciplinar.
+2 - Em caso de alerta amarelo, laranja ou vermelho e de acordo com a tipologia do risco ou da ocorrência deverão ser mobilizados, para além da obrigatoriedade da presença dos elementos do SMPC, os elementos previamente indicados pelos serviços ou divisões do Município.
+3 - Todas as divisões, serviços e ou gabinetes do Município de Vila Nova de Cerveira, conforme Despacho PR 01/2011 datado de 03 de Janeiro de 2011 têm um dever geral de colaboração e cooperação para com o Serviço Municipal de Protecção Civil.
+CAPÍTULO III
+Autoridade Municipal de Protecção Civil
+Artigo 12.º
+Competências da Autoridade Municipal de Protecção Civil
+O Presidente da Câmara Municipal de Vila Nova de Cerveira, ou o Vereador com a competência delegada é a Autoridade Municipal de Protecção Civil nos termos da lei, e dirige a actividade de Protecção Civil, a quem compete:
+a) Desencadear, na eminência ou ocorrência de acidente grave, catástrofe, ou calamidade as acções de Protecção Civil de prevenção, socorro, assistência e reabilitação adequadas a cada caso;
+b) Declarar a situação de alerta de âmbito Municipal;
+c) Pronunciar-se, junto do Governador Civil, sobre a declaração de alerta de âmbito Distrital, quando estiver em causa a área do respectivo Município;
+d) Dirigir de forma efectiva e permanente o SMPC, tendo em vista o cumprimento dos planos e programas estabelecidos e a coordenação das actividades a desenvolver no domínio da Protecção Civil, designadamente em operações de socorro e assistência, com especial relevo em situações de alerta, contingência, catástrofe e calamidade pública;
+e) Solicitar a participação ou colaboração das forças armadas, nos termos do artigo 2.º da Lei n.º 65/2007, de 12 de Novembro;
+f) Presidir à Comissão Municipal de Protecção Civil;
+g) Determinar o accionamento do Plano Municipal de Emergência, ou outros, mesmo sem maioria da Comissão Municipal de Protecção Civil, consultando os agentes de Protecção Civil do Concelho nomeadamente, Comandante Operacional Municipal, Comandante dos Bombeiros e Comandante Guarda Nacional Republicana ou alguém por estes designado;
+h) Nomear o Comandante Operacional Municipal;
+i) Exercer as demais competências que lhe advenham da lei ou regulamento no âmbito da Protecção Civil.
+Artigo 13.º
+Comissão Municipal de Protecção Civil
+1 - A Comissão Municipal de Protecção Civil é o organismo que assegura que todas as entidades e instituições de âmbito Municipal imprescindíveis às operações de protecção de socorro, emergência e assistência previsíveis ou decorrentes de acidente grave, catástrofe, ou calamidade, se articulam entre si, garantindo os meios adequados à gestão da ocorrência em cada caso concreto.
+2 - Da Comissão Municipal de Protecção Civil de Vila Nova de Cerveira fazem parte as seguintes entidades:
+a) O Presidente da Câmara Municipal, e ou o Vereador com a competência delegada, que preside;
+b) O Comandante Operacional Municipal;
+c) O Comandante da Capitania de Caminha;
+d) O Comandante do Corpo de Bombeiros de Vila Nova de Cerveira;
+e) O Comandante do Posto Territorial da GNR de Vila Nova de Cerveira;
+f) Um representante dos Serviços de Segurança Social e Solidariedade;
+g) Um representante das Juntas de Freguesia do Município de Vila Nova de Cerveira;
+h) A Autoridade de Saúde do Município;
+i) Director do Centro de Saúde da de Vila Nova de Cerveira;
+j) Centro Hospitalar de Viana do Castelo;
+k) Os representantes de outras entidades e serviços implantados no Município, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características do Município de Vila Nova de Cerveira, contribuir para as acções de Protecção Civil.
+3 - As competências da Comissão Municipal de Protecção Civil são designadamente as seguintes:
+a) Solicitar a realização do PMEPC, acompanhar a sua execução, e remetê-lo para aprovação pela Comissão Nacional de Protecção Civil;
+b) Acompanhar as políticas directamente ligadas ao sistema de Protecção Civil que sejam desenvolvidas por agentes públicos;
+c) Determinar o accionamento dos planos, quando tal se justifique;
+d) Garantir que as entidades e instituições que integram a CMPC accionam, ao nível Municipal, no âmbito da sua estrutura orgânica e das suas atribuições, os meios necessários ao desenvolvimento das acções de Protecção Civil;
+e) Difundir comunicados e avisos às populações e às entidades e instituições, incluindo os órgãos de comunicação social.
+4 - As deliberações da Comissão Municipal de Protecção Civil só serão válidas quando aprovadas por maioria dos membros presentes.
+5 - A proposta do Plano Municipal de Emergência de Protecção Civil (PMEPC), deve ser aprovada por maioria qualificada de dois terços dos membros permanentes em efectividade de funções.
+Artigo 14.º
+Comandante Operacional Municipal
+1 - De acordo com o estipulado na Lei n.º 65/2007, de 12 de Novembro, do disposto na Lei de Bases da Protecção Civil, Lei n.º 26/2007, de 3 de Julho, o Comandante Operacional Municipal tem as seguintes competências:
+a) Acompanhar permanentemente as operações de protecção e socorro que ocorram na área do Município de Vila Nova de Cerveira;
+b) Promover a elaboração dos planos prévios de intervenção, PMEPC, Plano Municipal de Defesa da Floresta Contra Incêndios, Plano Operacional Municipal para Incêndios Florestais e outros Planos Especiais, com vista à articulação de meios face a cenários previsíveis;
+c) Promover reuniões periódicas de trabalho sobre matérias de âmbito exclusivamente operacional, com o Comandante Operacional Distrital (CODIS) e Comandante dos Bombeiros locais;
+d) Dar parecer sobre o material mais adequado à intervenção operacional no Município de Vila Nova de Cerveira;
+e) Comparecer no local do sinistro sempre que as circunstâncias o aconselhem;
+f) Assumir a coordenação das operações de socorro de âmbito Municipal, nas situações previstas no PMEPC, bem como quando a dimensão do sinistro requeira o emprego de meios de mais de um Corpo de Bombeiros;
+g) Sem prejuízo da dependência hierárquica e funcional do Presidente da Câmara da de Vila Nova de Cerveira, o Comandante Operacional Municipal deve manter uma articulação permanente com o CODIS;
+h) Assumir a coordenação e funcionar como agente facilitador entre todas as entidades envolvidas nas operações de socorro de âmbito Municipal, nas situações previstas no PMEPC.
+2 - O Comandante Operacional Municipal (COM) depende hierárquica e funcionalmente do Presidente da Câmara, a quem compete a sua nomeação.
+3 - O COM actua exclusivamente na área do Município.
+CAPÍTULO IV
+Actividade da protecção civil
+Artigo 15.º
+Plano Municipal de Emergência de Protecção Civil (PMEPC)
+1 - O PMEPC será elaborado em conformidade com a legislação de Protecção Civil, bem como com as directivas emanadas pela CMPC, designadamente:
+a) A tipificação dos riscos;
+b) As medidas de prevenção a adoptar;
+c) Identificação dos meios e recursos mobilizáveis em situação de acidente grave, catástrofe, ou calamidade;
+d) A definição das responsabilidades que incubem aos organismos, serviços, e estruturas, públicas ou privadas, com competências no domínio da Protecção Civil Municipal;
+e) Os critérios de mobilização e mecanismos de coordenação dos meios e recursos públicos e privados utilizáveis;
+f) A estrutura operacional que há-de garantir a unidade de direcção e o controlo permanente da situação.
+2 - O PMEPC deve ser sujeito a uma actualização periódica e deve ser objecto de exercícios frequentes com vista a testar a sua operacionalidade.
+3 - O PMEPC será elaborado pelos SMPC da Câmara Municipal de Vila Nova de Cerveira e aprovado pela respectiva CMPC.
+4 - Para além do PMEPC, devem ser elaborados Planos Especiais, tais como o Plano Municipal de Defesa da Floresta Contra Incêndios, o Plano Operacional Municipal, os Planos Especiais de Emergência para os Estabelecimentos de Ensino e outros de carácter importante.
+5 - Todos os agentes de Protecção Civil devem participar na elaboração e na execução do PMEPC e de todos os Planos Especiais que existam no SMPC.
+b) Tal articulação/colaboração não deve pôr em causa a responsabilidade última do Presidente da Câmara Municipal, devendo ser articuladas com as competências que, nesta matéria, cabem à CMPC;
+c) A coordenação institucional é assegurada, a nível Municipal, pela CMPC, que integra representantes das entidades cuja intervenção se justifica em função de cada ocorrência em concreto;
+d) No âmbito da coordenação institucional, a CMPC é responsável pela gestão da participação operacional de cada força ou serviço nas operações de socorro a desencadear.
+Artigo 16.º
+Entrada em vigor
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicitação.
+204885762
