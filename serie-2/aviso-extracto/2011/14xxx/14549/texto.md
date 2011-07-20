@@ -1,0 +1,5 @@
+Aviso (extracto) n.º 14549/2011
+Paulo Alexandre Fernandes Varela Simões Caldas, Presidente da Câmara do Cartaxo, torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A/2002, de 11 de Setembro, e nos termos e para os efeitos do disposto no artigo 91.º da referida lei, que a Assembleia Municipal, em sessão ordinária de 28 de Junho de 2011, sob proposta da Câmara Municipal aprovada em reunião de 21 de Junho de 2011, deliberou aprovar por maioria o Regulamento Municipal de Atribuição do Direito de Ocupação dos Espaços Comerciais do Parque Central da Cidade do Cartaxo, dos Quiosques da Ribeira do Cartaxo e de outros Espaços e Quiosques no âmbito da Regeneração Urbana do Município do Cartaxo.
+Para constar, e inteiro conhecimento de todos, será este Edital publicado no Diário da República e afixado no Edifício dos Paços do Concelho, demais lugares de costume e estilo e na página da internet do Município (www.cm-cartaxo.pt).
+11 de Julho de 2011. - O Presidente da Câmara, Paulo Alexandre Fernandes Varela Simões Caldas.
+304901701
