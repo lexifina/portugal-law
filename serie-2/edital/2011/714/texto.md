@@ -1,0 +1,6 @@
+Edital n.º 714/2011
+Regulamento de Apoio à Conservação de Habitações Degradadas de Pessoas Carenciadas do Município de Constância
+Máximo de Jesus Afonso Ferreira, presidente da Câmara Municipal de Constância, torna público, que a Assembleia Municipal de Constância, no uso da competência referida na alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, aprovou, na sua sessão ordinária realizada no dia 25 de Junho de 2011, mediante proposta da Câmara Municipal, conforme deliberação tomada em reunião realizada no dia 28 de Abril de 2011, o "Regulamento de Apoio à Conservação de Habitações Degradadas de Pessoas Carenciadas do Município de Constância", que entrará em vigor a partir do dia seguinte ao da publicação do presente edital. O regulamento foi objecto de apreciação pública nos termos do artigo 118.º do Código do Procedimento administrativo e encontra-se publicado no sítio da Internet em www.cm-constancia.pt. Para constar se publica o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do Município.
+E eu, Francisco Caipirra, Chefe da Divisão de Administração e Finanças, o subscrevo.
+7 de Julho de 2011. - O Presidente da Câmara, Máximo de Jesus Afonso Ferreira.
+304892363
