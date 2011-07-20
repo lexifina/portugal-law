@@ -1,0 +1,6 @@
+Aviso (extracto) n.º 14548/2011
+Paulo Alexandre Fernandes Varela Simões Caldas, Presidente da Câmara do Cartaxo, torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A/2002, de 11 de Setembro, e nos termos e para os efeitos do disposto no artigo 91.º da referida lei, de que a Assembleia Municipal, em sessão ordinária de 28 de Junho de 2011, sob proposta da Câmara Municipal aprovada em reunião de 24 de Maio de 2011, deliberou aprovar por maioria o Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços no Município do Cartaxo, na sua versão final, isto é, após decorrido o período para apreciação pública durante 30 dias, nos termos do n.º 2 do artigo 118.º do Código do Procedimento Administrativo.
+Mais, faz saber que este Regulamento entra em vigor 15 dias após a data de publicação na 2.ª série do Diário da República, conforme estipulado no artigo 20.º do mesmo.
+Para constar e devidos efeitos se lavrou o presente Edital e outros de igual teor, que vão ser afixados nos locais de costume e na página da Internet do Município, www.cm-cartaxo.pt.
+11 de Julho de 2011. - O Presidente da Câmara, Paulo Alexandre Fernandes Varela Simões Caldas.
+304901791
