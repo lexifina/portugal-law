@@ -1,0 +1,6 @@
+Aviso n.º 14894/2011
+Discussão pública da proposta de criação de duas Unidades de Execução no âmbito da UOPG 38 - "Parque de Ciência e Tecnologia" do Plano Director Municipal de Vila Real e do projecto de loteamento da denominada Unidade de Execução 1 - Parque de Ciência & Tecnologia.
+Manuel do Nascimento Martins, Presidente da Câmara Municipal de Vila Real, torna público, em conformidade com o disposto no n.º 4 do artigo 120.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na sua actual redacção e do n.º 5 do artigo 7.º do Decreto-Lei n.º 555/99, de 16 de Dezembro na sua redacção actual, nos termos previstos nos n.º 3 e 4 do artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, e em cumprimento da deliberação da Câmara Municipal de 13 de Julho de 2011 que, a partir do dia seguinte à publicação do presente aviso no Diário da República, e durante 22 dias úteis, se encontra aberto o período de discussão pública da proposta e do projecto de loteamento supra mencionados.
+A proposta e o projecto de loteamento estarão disponíveis para consulta no Departamento de Planeamento e Desenvolvimento Sustentável, nos Paços do Concelho, sito na Avenida Carvalho Araújo n.º 1, na cidade de Vila Real, nos dias úteis, durante o horário de expediente.
+15 de Julho de 2011. - O Presidente da Câmara Municipal, Dr. Manuel do Nascimento Martins.
+204935017
