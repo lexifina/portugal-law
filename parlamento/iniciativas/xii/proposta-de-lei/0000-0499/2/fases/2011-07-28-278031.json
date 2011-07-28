@@ -1,0 +1,914 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "2",
+    "id": "36350",
+    "titulo": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2011-07-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8179",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2011-07-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-07-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:16:54:415&drc=00:01:00:261"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/26?pgs=26&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:18:27:614&drc=00:00:39:076"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:19:15:358&drc=00:01:04:875"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:20:30:515&drc=00:00:37:671"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:21:37:746&drc=00:05:51:003"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:37:07:538&drc=00:03:10:008"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:49:54:244&drc=00:04:29:153"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO EMPREGO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Silva Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29",
+                  "32-33",
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/28?pgs=28-29,32-33,36-37&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:27:49:571&drc=00:03:01:009"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:30:58:629&drc=00:03:03:391"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:34:18:146&drc=00:02:43:206"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:40:23:965&drc=00:03:25:180"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2212",
+                "nome": "Miguel Laranjeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:43:53:522&drc=00:02:47:145"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:46:51:078&drc=00:02:56:292"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2212",
+                "nome": "Miguel Laranjeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=01:54:54:832&drc=00:07:05:429"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/37?pgs=37-39&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=02:02:13:950&drc=00:02:51:273"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=02:05:13:069&drc=00:05:34:595"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/40?pgs=40-42&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=02:10:55:225&drc=00:04:18:153"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110728pln&url=l12/sl1/a2011/m07/&tI=02:15:23:878&drc=00:05:51:662"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "180759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-07-29",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29/43?pgs=43-45&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração ao Código do Trabalho, aprovado em Anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "278031",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8179",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-07-29",
+        "pubLeg": "XII",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/009/2011-07-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
