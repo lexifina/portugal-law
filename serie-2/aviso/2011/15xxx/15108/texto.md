@@ -1,0 +1,6 @@
+Aviso n.º 15108/2011
+Alteração ao Plano de Urbanização de Leça da Palmeira entre a Rua Belchior Robles e a Av. Dos Combatentes da Grande Guerra na freguesia de Leça da Palmeira
+Guilherme Manuel Lopes Pinto, Presidente da Câmara Municipal de Matosinhos, torna público, que conforme o disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 46/2009 de 20 de Fevereiro, a Câmara Municipal em sua reunião ordinária de 19 de Julho de 2011, deliberou mandar alterar o Plano de Urbanização de Leça da Palmeira entre a Rua Belchior Robles e a Av. dos Combatentes da Grande Guerra, na freguesia de Leça da Palmeira, com enquadramento no n.º 1 e na alínea a) do n.º 2 do artigo 93.º do Decreto-Lei n.º 46/2009 de 20 de Fevereiro, coadjuvado com o artigo 96.º
+Nos termos do n.º 1 do artigo 74 e n.º 4 do art.º 77 do referido diploma legal, decorrerá um período de 20 dias, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano de Urbanização de Leça da palmeira entre a Rua Belchior Robles e a Av. dos Combatentes da Grande Guerra na freguesia de Leça da Palmeira.
+22 de Julho de 2011. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
+204949988
