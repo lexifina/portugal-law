@@ -1,0 +1,8 @@
+Aviso n.º 15102/2011
+Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova - Ílhavo
+Eng. José Agostinho Ribau Esteves, Presidente da Câmara Municipal de Ílhavo, torna público que, para os efeitos previstos no n.º 1 e 2 do artigo 74.º do decreto-lei (DL) n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, a Câmara Municipal de Ílhavo, em reunião realizada em dezanove de Julho de 2011, deliberou por unanimidade, proceder à elaboração do Plano de Pormenor da Área de Equipamentos da Frente Marítima da Costa Nova, aprovando os termos de referência que fundamentam a oportunidade da elaboração, definem os seus objectivos, as bases programáticas, estimando um prazo de 60 dias para a sua elaboração.
+Estabelece-se um prazo de 15 dias, a partir da publicação do presente Aviso no Diário da República, ao abrigo do disposto no n.º 2 do Artigo 77.º do referido Decreto, para formulação de sugestões e prestação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da referida elaboração, por todos os interessados.
+Qualquer sugestão, informação ou observação deverá ser apresentada por escrito no Serviço de Atendimento Integrado, em carta dirigida ao Presidente da Câmara Municipal de Ílhavo ou por via electrónica para o endereço geral@cm-ilhavo.pt contendo, em qualquer uma das formas, a identificação completa do seu subscritor.
+Os termos de referência aprovados podem ser consultados no Serviço de Atendimento Integrado da Câmara Municipal de Ílhavo durante as horas normais de expediente ou no site da autarquia, em http://www.cm-ilhavo.pt.
+19 de Julho de 2011. - O Presidente da Câmara Municipal, José Agostinho Ribau Esteves, Eng.º
+204947346
