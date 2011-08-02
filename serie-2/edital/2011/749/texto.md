@@ -1,0 +1,6 @@
+Edital n.º 749/2011
+Carlos Vicente Morais Beato, Presidente da Câmara Municipal de Grândola, faz Público, nos termos das disposições conjugadas do art. 91 da Lei n.º 169/99 de 18 de Setembro, com a redacção que lhe foi dada pela Lei n.º 5-A/2002 de 11 de Janeiro, artºs 117 e 118 do Código do Procedimento Administrativo e ainda na sequência da deliberação da Câmara de 18 de Julho de 2001, que se encontra em fase de apreciação pública pelo prazo de 30 dias úteis a contar da data de publicação no Diário da República do presente edital, o "Projecto do Novo Regulamento Municipal de Atribuição de Lotes na Zona de Indústria Ligeira de Grândola ".
+Qualquer interessado poderá consultar o supra citado Projecto de Regulamento Municipal de Atribuição de Lotes na Zona de Indústria Ligeira de Grândola, durante o horário de expediente, ou na página da Internet do Município - www.cm-grandola.pt - e apresentar as sugestões que entender convenientes, devendo estas serem formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Grândola ou remetidas por correio electrónico para o endereço geral@cm-grandola.pt
+Para constar se lavrou o presente Edital, e outros de igual teor que vão ser afixados nos lugares do costume.
+21 de Julho de 2011. - O Presidente da Câmara, Carlos Beato.
+304947184
