@@ -1,0 +1,5 @@
+Aviso n.º 15246/2011
+José Francisco Gomes Monteiro, Presidente da Câmara Municipal de Celorico da Beira, torna público que, em cumprimento da deliberação tomada em reunião ordinária da Câmara Municipal de 06 de Julho de 2011 e para efeitos no prescrito no artigo 118.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, se encontra em apreciação pública, pelo prazo de 30 dias a contar da data da presente publicação no Diário da República, o Projecto de Regulamento Municipal de Apoio ao Associativismo do Concelho de Celorico da Beira, o qual poderá ser consultado na Secção Administrativa da Câmara Municipal de Celorico da Beira, durante o horário normal de funcionamento e no sítio da Câmara Municipal de Celorico da Beira, em www.cm-celoricodabeira.pt, para recolha de sugestões que acharem por convenientes.
+Para constar, se publica este aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+8 de Julho de 2011. - O Presidente da Câmara, José Francisco Gomes Monteiro.
+304903313
