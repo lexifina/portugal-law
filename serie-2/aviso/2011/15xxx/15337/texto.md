@@ -1,0 +1,8 @@
+Aviso n.º 15337/2011
+Projecto de Regulamento Municipal de Apoio a Estratos Sociais Desfavorecidos no Concelho do Crato
+João Teresa Ribeiro, Presidente da Câmara Municipal do Crato, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A/2002, de 11 de Janeiro, torna público que a Câmara Municipal do Crato, na sua reunião ordinária realizada em 20 de Julho de 2011, deliberou aprovar o Projecto de Regulamento acima identificado para efeitos de ser submetido à apreciação pública e recolha de sugestões, pelo prazo de 30 dias, para cumprimento do disposto no artigo 118.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado e republicado em anexo ao Decreto-Lei n.º 6/96, de 31 de Janeiro.
+O Projecto de Regulamento acima identificado encontra-se exposto para efeitos de recolha de sugestões de todas as pessoas interessadas na Câmara Municipal, nas Juntas de Freguesia do Concelho e na Biblioteca Municipal do Crato, nos respectivos horários de funcionamento e, ainda, no sítio do Município do Crato na internet em www.cm-crato.pt.
+As sugestões deverão ser apresentadas por escrito e enviadas à Câmara Municipal do Crato, dirigidas ao Presidente da Câmara (Praça do Município, 7430-999 Crato) ou para o e-mail gap@cm-crato.pt ou direccao@cm-crato.pt, até ao 30.º dia após publicação no Diário da República.
+Para constar se publica o presente Edital e outros de igual teor, que vão ser afixados nos locais do costume.
+21 de Julho de 2011. - O Presidente da Câmara, João Teresa Ribeiro.
+304948489
