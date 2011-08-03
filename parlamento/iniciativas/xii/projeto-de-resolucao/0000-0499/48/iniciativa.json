@@ -1,0 +1,74 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "48",
+  "id": "36391",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2011-08-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "263",
+        "nome": "Luís Fazenda"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "803",
+        "nome": "João Semedo"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2156",
+        "nome": "Mariana Aiveca"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Decreto-Lei n.º 90/2011, de 25 de Julho, que \"elimina os direitos especiais detidos pelo accionista Estado na EDP \" Energias de Portugal, S. A., na GALP Energia, SGPS, S. A., e na Portugal Telecom, SGPS, S. A..\"",
+        "dcl": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "36363",
+        "legislatura": "XII",
+        "numero": "2",
+        "sessao": "1",
+        "tipo": "A"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36391",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4d794e4749324f5455744f5751304e6930304d6a6b774c5467784d5441745a6a4e684e4759344e446c6c5a5463334c6d527659773d3d&fich=fc24b695-9d46-4290-8110-f3a4f849ee77.doc&Inline=true",
+    "IniNr": "48",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Cessação de vigência do Decreto-Lei n.º 90/2011, de 25 de Julho, que \"elimina os direitos especiais detidos pelo accionista Estado na EDP-Energias de Portugal, S.A., na GALP Energia, S.A., e na Portugal Telecom, SGPS, S.A..\".",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
