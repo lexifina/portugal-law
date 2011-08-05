@@ -1,0 +1,129 @@
+# Decreto Legislativo Regional n.º 13/2011/M
+
+**Emissor:** ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMADAMADEIRA
+
+**Publicação:** JORAM, I série, n.º 86/2011, de 2011-08-05
+
+**Sumário:** Terceira alteração ao Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro, que aprova o Orçamento da Região Autónoma da Madeira para 2011.
+
+## Texto
+
+Decreto Legislativo Regional n.º 13/2011/M
+de 5 de Agosto
+Terceira alteração ao Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro
+(Orçamento da Região Autónoma da Madeira para 2011)
+A Assembleia Legislativa da Região Autónoma da Madeira, aprovou por intermédio do Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro, alterado pelos Decretos Legislativos Regionais n.ºs 4/2011/M, de 11 de Março, e 11/2011/M, de 6 de Julho, o Orçamento da Região Autónoma da Madeira para 2011, tendo sido contemplados os recursos necessários para financiar a totalidade das despesas, em cumprimento da regra do equilíbrio orçamental prevista no artigo 4.º da Lei de Enquadramento do Orçamento da Região.
+As premissas em que se basearam as previsões orçamentais para 2011, sofreram alterações resultando na necessidade de revisão do orçamento em vigor, adequando-o às novas condicionantes e exigências, nomeadamente as resultantes da aprovação do memorando de entendimento sobre os condicionalismos específicos da política económica entre o Estado Português, a Comissão Europeia, o Banco Central Europeu e o Fundo Monetário Internacional, assim como das alterações ao enquadramento económico e financeiro regional.
+Em conformidade com as competências legislativas dos órgãos de governo próprio da Região Autónoma da Madeira, conferidas pela Constituição da República Portuguesa e pelo respectivo Estatuto Político-Administrativo, o presente diploma de alteração ao Orçamento da Região estabelece ainda disposições normativas que têm por finalidade consolidar as medidas de contenção e permitir a continuidade de estratégia de rigor e contenção orçamental de salvaguarda dos compromissos financeiros.
+Assim: A Assembleia Legislativa da Madeira decreta, ao abrigo do disposto na alínea p) do n.º 1 do artigo 227.º da Constituição e na alínea c) do n.º 1 do artigo 36.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.ºs 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e do artigo 20.º da Lei n.º 28/92, de 1 de Setembro, o seguinte:
+Artigo 1.º Alteração aos mapas do Decreto Legislativo
+Regional n.º 2/2011/M, de 10 de Janeiro
+É alterado o Orçamento da Região Autónoma da Madeira para 2011, na parte respeitante aos mapas II a IX, anexos ao presente diploma, que substituem os correspondentes mapas a que se refere o artigo 1.º do Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro.
+Artigo 2.º Cativações orçamentais
+1 - Adicionalmente aos congelamentos orçamentais definidos pela Resolução do Conselho do Governo n.º 1573/2010, de 29 de Dezembro, e pelo artigo 27.º
+
+do Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro, ficam cativas as dotações orçamentais, do Orçamento Regional e dos orçamentos privativos dos serviços e fundos autónomos, afectas ao funcionamento dos serviços e dos investimentos do plano, cujas classificações económicas sejam as seguintes: a) Ficam cativas em 10 %, do valor das
+dotações orçamentais disponíveis, afectas à realização de horas extraordinárias «01.02.02 Horas Extraordinárias»; b) Ficam cativas em 10 %, do valor das dotações orçamentais disponíveis, afectas à atribuição de outros abonos em numerário ou espécie «01.02.14 Outros Abonos»; c) Ficam cativas em 10 %, do valor das dotações disponíveis de todas as rubricas afectas à aquisição de bens e serviços «02.01.00 Aquisição de Bens e 02.02.00 Aquisição de Serviços».
+2 - Em casos excepcionais, e devidamente fundamentados, o Secretário Regional do Plano e Finanças pode autorizar o descongelamento das rubricas da despesa sem a correspondente compensação, em função da evolução da execução orçamental.
+Artigo 3.º Alteração ao Decreto Legislativo Regional
+n.º 2/2011/M, de 10 de Janeiro
+Os artigos 9.º, 26.º, 41.º, 49.º e 53.º do Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro, alterado pelo Decreto Legislativo Regional n.º 4/2011/M, de 11 de Março, passam a ter a seguinte redacção:
+«Artigo 9.º Operações activas do Tesouro
+Público Regional
+1 - Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar operações activas até ao montante de 75 milhões de euros, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturações ou consolidações de créditos.
+2 - .............................................................................................
+Artigo 26.º Alterações orçamentais
+1 - .............................................................................................
+2 - .............................................................................................
+3 - Fica ainda autorizado o Governo Regional, através do Secretário Regional do Plano e Finanças, em conjunto com o membro do Governo responsável pelo orçamento objecto de alteração, a proceder à inscrição ou reforço de dotações orçamentais, na sequência do aumento da previsão de receitas, decorrentes da obtenção de fundos adicionais, com o objectivo de proceder à regularização e ou integração de compromissos.
+4 - (Anterior n.º 3.)
+
+Artigo 41.º Transferências e apoios para entidades
+de direito privado
+
+1 - .............................................................................................
+
+2 - .............................................................................................
+
+3 - Nos casos dos apoios ao ensino particular e cooperativo quando, por motivo de alteração do número de alunos, não seja possível aplicar o n.º 1 do presente artigo, aplica-se o critério nele previsto calculado com base no valor unitário por aluno.
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+Artigo 49.º Procedimentos concursais
+e mobilidade
+
+1 - .............................................................................................
+
+2 - O posicionamento remuneratório por negociação na sequência de procedimentos concursais abertos ou mantidos válidos, ao abrigo de disposições contidas no presente diploma e na Lei n.º 55-A/2010, de 31 de Dezembro, obedece ao disposto no artigo 26.º da citada lei com as especificidades constantes dos números seguintes.
+
+3 - Quando o processo de negociação se estabeleça entre a
+
+entidade empregadora pública e trabalhador detentor de
+
+uma prévia relação jurídica de emprego público por tempo
+
+indeterminado, a entidade empregadora pública propõe a
+
+posição
+
+remune-
+
+ratória prevista nas alíneas b), c) ou d) do n.º 1 do artigo
+
+26.º da Lei n.º 55-A/2010, de 31 de Dezembro, consoante
+
+os casos.
+
+4 - Nas situações em que o trabalhador na situação jurídicofuncional de origem aufira uma remuneração superior à resultante da sua colocação numa das posições remuneratórias referidas no número anterior, a entidade empregadora pública pode propor a posição remuneratória a que corresponda nível remuneratório de montante pecuniário idêntico ao da remuneração base da carreira ou categoria de origem.
+
+5 - Em caso de falta de identidade, a entidade empregadora pode criar uma posição virtual, cujo montante pecuniário corresponda à remuneração base da carreira ou categoria que o trabalhador detém, propondo-a ao trabalhador.
+
+6 - (Anterior n.º 2.)
+
+a) O posicionamento remuneratório resultante da
+
+aplicação do disposto nos n.ºs 4 e 5;
+
+b) ..............................................................................;
+
+c)
+
+...............................................................................
+
+Artigo 53.º Contratos de aquisição de serviços
+
+1 - O disposto no artigo 19.º da lei que aprova o Orçamento do Estado para 2011 é aplicável aos valores pagos por contratos de aquisição de serviços, que venham a celebrar-
+
+-se ou renovar-se em 2011, com idêntico objecto e a mesma contraparte, celebrados por órgãos, serviços da administração pública regional e demais entidades abrangidas pelo âmbito de aplicação da Lei n.º 12-A/2008, de 27 de Fevereiro, com excepção dos seguintes casos: a) Aquisição de serviços essenciais, água, energia
+eléctrica, gás natural e gases de petróleo liquefeitos canalizados, comunicações electrónicas, serviços postais, tratamento de águas residuais, e gestão de resíduos sólidos e urbanos, que se encontram previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de Julho, alterada pelas Leis n.ºs 12/2008, de 26 de Fevereiro, e 24/2008, de 2 de Junho; b) Contratos mistos cujo tipo contratual preponderante não seja o da aquisição de serviços ou em que o serviço assuma um carácter acessório da disponibilização de um bem; c) Aquisição de serviços por órgãos ou serviços adjudicantes ao abrigo de acordo quadro; d) Aquisição de serviços quando os contratos sejam celebrados ou venham a ser renovados, nos casos permitidos por lei, ao abrigo de concurso público ou procedimentos com consulta a pelo menos cinco entidades, em que o critério de adjudicação seja o do mais baixo preço; e) Aquisição de serviços a pessoas colectivas públicas que sejam por lei as únicas entidades habilitadas à prestação desse serviço;
+2 - As aquisições de serviços abrangidas pelo âmbito de aplicação do número anterior, que não sejam passíveis de sofrer a referida redução remuneratória em virtude das regras de funcionamento de mercado, nomeadamente viagens, transportes aéreos e ferroviários, alojamentos e participação em feiras nacionais e internacionais cujos preços são tabelados, a redução remuneratória é substituída pela obrigação de redução efectiva, em 10 % dos custos globais com aquelas aquisições de serviços.
+3 - (Anterior n.º 2.)
+4 - (Anterior n.º 3.)
+5 - (Anterior n.º 4.)
+6 - (Anterior n.º 5.)»
+Artigo 4.º Aditamento ao Decreto Legislativo Regional
+n.º 2/2011/M, de 10 de Janeiro
+É aditado ao Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro, o artigo 50.º-A, com a seguinte redacção:
+«Artigo 50.º-A Aumentos remuneratórios
+1 - Independentemente da data da verificação dos respectivos requisitos, em 2011 está vedada a prática de actos que consubstanciem aumentos remuneratórios, sem prejuízo das situações permitidas por lei, nomeadamente no n.º 1 do artigo 49.º.
+2 - Para efeitos do disposto no número anterior, consubstanciam aumentos remuneratórios não permitidos em 2011, designadamente os actos previstos no artigo 24.º
+
+da Lei n.º 55-A/2010, de 31 de Dezembro, e a substituição do gozo de férias pela correspondente remuneração, nos casos admitidos por lei.
+3 - Sem prejuízo do disposto no número seguinte, os aumentos remuneratórios decorrentes de alterações de posicionamento remuneratório, progressões e promoções relativos a actos praticados em 2010 devem, obrigatoriamente, ser processados com sujeição ao n.º 5 do artigo 24.º da Lei n.º 55-A/2010, de 31 de Dezembro, até 31 de Agosto de 2011, data a partir da qual se encontram expressamente vedados.
+4 - As alterações de posicionamento remuneratório ou progressões relativas a actos praticados em 2010, que apesar de assumidas pelo Governo Regional naquele ano ainda não foram processadas, podem ser pagas após a publicação do presente diploma, não se aplicando nesses casos o disposto na parte final do n.º 5 do artigo 24.º da Lei n.º 55-A/2010, de 31 de Dezembro.»
+
+Artigo 5.º Entrada em vigor e produção de efeitos
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos desde 1 de Janeiro de 2011, salvo o disposto no número seguinte.
+2 - O artigo 2.º produz efeitos desde o dia seguinte ao da publicação do presente diploma.
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de Julho de 2011.
+O P RESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Miguel Jardim d'Olival Mendonça.
+Assinado em 1 de Agosto de 2011.
+O REPRESENTANTE DA REPÚBLICA PARA A REGIÃO AUTÓNOMA DA MADEIRA, Ireneu Cabral Barreto.
+
+Mapa II
+Despesas por departamentos regionais e capítulos (substitui na parte alterada o mapa respectivo constante do Decreto Legislativo
+Regional n.º 2/2011/M, de 10 de Janeiro)
