@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 24/2011
+Ao abrigo das disposições conjugadas da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, e dos n.os 2 e 3 do artigo 41.º do Código do Procedimento Administrativo, por vacatura dos cargos de director e director-adjunto, declara-se que a Resolução do Conselho de Ministros n.º 32/2011, de 1 de Agosto, publicada no Diário da República, 1.ª série, n.º 146, de 1 de Agosto de 2011, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:
+No n.º 2, onde se lê:
+«2 - Determinar, ao abrigo da alínea b) do n.º 1 do artigo 16.º, do artigo 18.º e da alínea b) do n.º 1 do artigo 20.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, na sua actual redacção, o recurso a procedimentos pré-contratuais de concurso público internacional para a aquisição dos serviços referidos no número anterior.»
+deve ler-se:
+«2 - Determinar, nos termos do disposto nos artigos 251.º e seguintes do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, na actual redacção, que os procedimentos tendentes à aquisição dos serviços referidos no número anterior observem os termos estabelecidos no acordo quadro refeições confeccionadas celebrado pela Agência Nacional de Compras Públicas, E. P. E. (ANCP).»
+Centro Jurídico, 8 de Agosto de 2011. - O Director, em substituição, nos termos do artigo 41.º do Código do Procedimento Administrativo, José Manuel Bento Ferreira de Almeida.
