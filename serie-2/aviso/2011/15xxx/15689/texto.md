@@ -1,0 +1,7 @@
+Aviso n.º 15689/2011
+Período de discussão pública
+Proposta do Plano de Urbanização de S. Martinho do Campo
+António Alberto de Castro Fernandes, Presidente da Câmara Municipal de Santo Tirso, faz público, para efeitos do disposto no n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, que a Câmara Municipal de Santo Tirso em reunião ordinária de 27 de Julho de 2011 deliberou determinar a abertura do período de Discussão Pública sobre a proposta do Plano de Urbanização de S. Martinho do Campo, fixando o prazo de 33 dias úteis. O período de Discussão Pública, durante o qual os interessados poderão apresentar reclamações, observações ou sugestões, terá início no quinto dia posterior ao desta publicação no Diário da República.
+A consulta da proposta do Plano de Urbanização de S. Martinho do Campo, assim como do respectivo relatório ambiental, a acta da conferência de serviços, a acta da reunião de concertação, e a apresentação de reclamações, observações ou sugestões, podem ser feitas na página da Internet da Câmara Municipal, em www.cm-stirso.pt, ou no Departamento de Planeamento e Habitação desta Câmara Municipal. As reclamações, observações ou sugestões podem ainda ser enviadas por correio para o endereço "Discussão Pública da Proposta do Plano de Urbanização de S. Martinho do Campo, Câmara Municipal de Santo Tirso, Praça 25 de Abril, 4780-373 Santo Tirso", ou através de correio electrónico para o endereço pu.smartinhodocampo@cm-stirso.pt.
+1 de Agosto de 2011. - O Vice-Presidente, Luís Gonzaga da Silva Freitas Rodrigues.
+204987417
