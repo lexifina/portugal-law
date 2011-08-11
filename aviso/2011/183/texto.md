@@ -1,0 +1,6 @@
+Aviso n.º 183/2011
+Por ordem superior se torna público que a República Portuguesa depositou, em 1 de Fevereiro de 2010, junto do Secretariado Executivo da Comunidade dos Países de Língua Portuguesa, o seu instrumento de ratificação relativo à Convenção de Extradição entre os Estados Membros da Comunidade dos Países de Língua Portuguesa, assinada na Cidade da Praia em 23 de Novembro de 2005.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 49/2008, de 18 de Julho, e ratificada pelo Decreto do Presidente da República n.º 67/2008, ambos publicados no Diário da República, 1.ª série, n.º 178, de 15 de Setembro de 2008.
+Nos termos do seu n.º 3 do artigo 24.º, a Convenção de Extradição entre os Estados Membros da Comunidade dos Países de Língua Portuguesa entrou em vigor, para a República Portuguesa, no dia 1 de Março de 2010.
+Nos termos dos n.os 2 e 3 do artigo 24.º, a Convenção já se encontra em vigor para a República de Moçambique, para a República Democrática de São Tomé e Príncipe e para a República Federativa do Brasil desde 1 de Junho de 2009, para a República de Angola desde 1 de Janeiro de 2011 e para a República Democrática de Timor-Leste desde 1 de Maio de 2011.
+Direcção-Geral de Política Externa, 2 de Agosto de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
