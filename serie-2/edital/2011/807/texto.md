@@ -1,0 +1,6 @@
+Edital n.º 807/2011
+Torna público, no uso da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º, conjugado com o artigo 91.º ambos da Lei n.º 169/99, de 18 de Setembro, com a nova redacção dada pela Lei n.º 5-A/2002, de 11 de Janeiro, que a Câmara Municipal, em reunião ordinária realizada no dia 9 de Agosto do corrente ano, deliberou submeter a apreciação pública o "Projecto de Regulamento de Utilização das Viaturas de Transporte Colectivo", para cumprimento do n.º 1 do artigo 118.º do Decreto-Lei n.º 442/91 de 15 de Novembro com as novas alterações introduzidas pelo Decreto-Lei n.º 6/96 de 31 de Janeiro.
+Assim durante o período de 30 dias, poderá o Projecto de Regulamento de Utilização das Viaturas de Transporte Colectivo, ser consultado no Edifício Paços do Concelho, na Secção de Expediente, Arquivo Geral e Reprografia bem como na página da Internet do Município (www.cm-sardoal.pt), sob o qual os interessados poderão dirigir, por escrito, as suas sugestões ao Presidente da Câmara Municipal de Sardoal, dentro das horas normais de expediente e durante o prazo acima mencionado.
+Para constar se lavrou o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos habituais.
+9 de Agosto de 2011. - O Presidente da Câmara, Fernando Constantino Moleirinho.
+305016235
