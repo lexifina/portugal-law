@@ -1,0 +1,6 @@
+Edital n.º 841/2011
+João Luís Teixeira Fernandes, Presidente da Câmara Municipal de Murça, torna público que, por deliberação de câmara na reunião ordinária de 15/07/2011, e nos termos do n.º 1 do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, durante o prazo de 30 dias (úteis) a contar da publicação do presente aviso no Diário da República, é submetido à apreciação pública o "Regulamento Municipal de Apoio ao Associativismo", cujo texto pode ser consultado no site da Câmara Municipal de Murça (www.cm-murca.pt) ou na divisão financeira, situada no edifício dos Paços do Concelho.
+De acordo com o n.º 2 do artigo 118.º, convidam-se todos os interessados a remeter por escrito, a esta Câmara Municipal eventuais reclamações, sugestões, observações e propostas dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal de Murça, Praça 5 de Outubro, 5090-112 Murça, ou para o email do gabinete de apoio à presidência (gap@cm-murca.pt).
+Para constar e devidos efeitos se publica este aviso e outros de igual teor, que vão ser afixados nos locais públicos de costume.
+12 de Agosto de 2011. - O Presidente da Câmara, João Luís Teixeira Fernandes, Dr.
+305027932
