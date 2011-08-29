@@ -1,0 +1,7 @@
+Edital n.º 847/2011
+João António Silva Hermínio, vice-presidente da Câmara Municipal de Alenquer, ao abrigo da sua competência constante da alínea v) do n.º 1 do artigo 68.º e para efeitos do estatuído no n.º 1 do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, torna público que, após apreciação pública por um período de 30 dias, conforme determinado no artigo 118.º do Código do Procedimento Administrativo, a Assembleia Municipal, na segunda reunião realizada a 5 de Maio do findo, da sessão ordinária de 27 de Abril do corrente ano, nos termos da alínea a) do n.º 2 do artigo 53.º da citada lei, aprovou o Regulamento do Programa de Apoio aos Planos Anuais de Actividades dos Agrupamentos de Escolas sob proposta desta Câmara Municipal aprovada na sua reunião ordinária de 11 de Abril findo, o qual entrará em vigor no dia 15 de Julho de 2011.
+Mais torna público que o citado Regulamento encontra-se disponível para consulta no átrio do Edifício da Câmara Municipal, sito na Praça Luís de Camões, em Alenquer, nas Juntas de Freguesia e no sítio da Câmara Municipal em www.cm-alenquer.pt.
+Para constar e demais efeitos, se publica este e outros de igual teor que vão ser afixados nos lugares de estilo.
+E eu, assinado (Ana Bela Carvalho de Oliveira), Coordenadora Técnica na Divisão Administrativa, o subscrevi.
+13 de Julho de 2011. - O Vice-Presidente da Câmara, Dr. João António Silva Hermínio.
+305037206
