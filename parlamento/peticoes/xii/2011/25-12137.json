@@ -1,0 +1,388 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12137",
+  "numero": "25",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-08-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-09-14",
+            "dataResposta": "2011-10-04",
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "111/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-14",
+            "dataResposta": "2011-10-21",
+            "entidades": [
+              "Presidente da Autoridade da Concorrência"
+            ],
+            "nrOficio": "112/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-14",
+            "dataResposta": "2011-10-19",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "114/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-14",
+            "dataResposta": "2011-10-07",
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "115/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-10-12",
+            "dataResposta": "2011-11-03",
+            "entidades": [
+              "Ministro da Administração Interna"
+            ],
+            "nrOficio": "178/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-30",
+            "dataResposta": "2011-10-31",
+            "entidades": [
+              "ANTRAL - Associação Nacional dos Transportadores em Automóveis Ligeiros"
+            ],
+            "nrOficio": "166/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-30",
+            "dataResposta": "2011-11-17",
+            "entidades": [
+              "Presidente da Federação Portuguesa do Táxi"
+            ],
+            "nrOficio": "164/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-30",
+            "dataResposta": "2011-11-24",
+            "entidades": [
+              "Bastonário da Ordem dos Farmacêuticos"
+            ],
+            "nrOficio": "167/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-30",
+            "dataResposta": "2011-11-14",
+            "entidades": [
+              "ANF - Associação Nacional das Farmácias"
+            ],
+            "nrOficio": "168/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "DECO - Associação Portuguesa para a Defesa do Consumidor"
+            ],
+            "nrOficio": "163/CEOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-01-17",
+                "dataResposta": "2012-03-05",
+                "nrOficio": "41/CEOP",
+                "oficioResposta": "Email"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "Federação Nacional das Cooperativas de Consumidores - FENACOOP"
+            ],
+            "nrOficio": "165/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-04-17",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "633136",
+                "obs": null,
+                "pag": [
+                  "3-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-11",
+                "pubLeg": "XII",
+                "pubNr": "153",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/153/2013-05-11/3?pgs=3-8&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-09-14",
+        "DataArquivo": "2013-04-24",
+        "DataBaixaComissao": "2011-09-14",
+        "DataEnvioPAR": "2013-05-07",
+        "DataReaberta": "2011-09-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-09-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a46694d5759345957526b4c5745354d4455744e4749354e5331684d7a457a4c545a6c4d6a497959574e694f4441314e7935775a47593d&fich=1b1f8add-a905-4b95-a313-6e222acb8057.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5531597a4e6b5957466d4c5759304d4755744e474a6a4f4331684e54686a4c5451345a4467305954453259574d324f4335775a47593d&fich=55c3daaf-f40e-4bc8-a58c-48d84a16ac68.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3255334d6a4e6d4e4756684c574d334d3259744e44566c4e6931684e54466d4c57566a4d7a45324e4446685a546c6a5a5335775a47593d&fich=e723f4ea-c73f-45e6-a51f-ec31641ae9ce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324a6d4d4755344d5755304c544e6b4e4751744e4441794d6931685a5451354c5451334d7a67784d6a6b774e44517a4d5335775a47593d&fich=bf0e81e4-3d4d-4022-ae49-473812904431.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3255334d4441315a4467344c5749314e4749744e475a684d5330344e7a59774c575931595449794e6a4a6d4d4451344d6935775a47593d&fich=e7005d88-b54b-4fa1-8760-f5a2262f0482.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a52684f574d3159574a6b4c5449324f5749744e47553559693034596a55324c545a694f474e6c59544a694e3251784e5335775a47593d&fich=4a9c5abd-269b-4e9b-8b56-6b8cea2b7d15.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a63344d6a646b595449324c574e6b5a4749744e44646b5a5330344f446c6d4c57526a4e44646b597a6c694d6a4e6c4d6935775a47593d&fich=7827da26-cddb-47de-889f-dc47dc9b23e2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4a6a5a6a51345a475a694c5745345a6a55744e44417a4d5330354d4759794c5455324d445133596a41325a4467304f5335775a47593d&fich=2cf48dfb-a8f5-4031-90f2-56047b06d849.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4e6c4d7a55335a44566b4c545177595751744e4749774f533034597a41334c545a6c597a63784e6a5a6c4d57566d5a5335775a47593d&fich=3e357d5d-40ad-4b09-8c07-6ec7166e1efe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-10-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324d774e444a6b4d574a6b4c546b304d5467744e4441334e5331694d7a566b4c5467794e7a46684d475a6c5a57466d5a5335775a47593d&fich=c042d1bd-9418-4075-b35d-8271a0feeafe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d304e6d4a6c4e7a59304c57517a597a55744e4746694d7931694d3259344c545a6c595756685a5459324e574e6a4e7935775a47593d&fich=346be764-d3c5-4ab3-b3f8-6eaeae665cc7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d30595441344e6d566d4c5755304f544d744e475a6a4e5331695a4445314c54557a4e5455335a6a686b4e5463344e4335775a47593d&fich=34a086ef-e493-4fc5-bd15-53557f8d5784.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-09-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a46694f4446684d6a41324c574d794e5455744e444d314e6931684e6a51784c5759774d7a45324d6a67774d5449784e6935775a47593d&fich=1b81a206-c255-4356-a641-f03162801216.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4930596d45345a6d4d774c545a6b4d3249744e47526a4e4331694d6d49324c5467304e5468684f474e6c4e6d4a6d596935775a47593d&fich=24ba8fc0-6d3b-4dc4-b2b6-8458a8ce6bfb.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-05-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324e6c4e3252694e325a6c4c5445325a5745744e4451315a533168596a51794c57526b4f5449304e57597a4e7a526b596935775a47593d&fich=ce7db7fe-16ea-445e-ab42-dd9245f374db.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-12-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4e6c5957517a4f5463784c5749345a4445744e474d774e6930355a6d46684c57566c4f44426a4d5745314e6a42694f4335775a47593d&fich=3ead3971-b8d1-4c06-9faa-ee80c1a560b8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-10-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3249774d4463774f5751774c5459334e5445744e474d774e7930354e6a4d784c546c6b4d5441795957466c597a6778596935775a47593d&fich=b00709d0-6751-4c07-9631-9d102aaec81b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a67795a6d4d304f544e684c5755304e6d59744e4745354d4331694d324a6c4c5459794e545535595755774f446c6d4e4335775a47593d&fich=82fc493a-e46f-4a90-b3be-62559ae089f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a55304f54457a5a5751344c5459344d3255744e4759324e7930355a6d517a4c57566b4d6a497859324a6b4d5451795a4335775a47593d&fich=54913ed8-683e-4f67-9fd3-ed221cbd142d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-03-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a67344e6a41355a6d4a694c545932596a45744e4445345a6930354d5451354c5756694d7a4179595459314d5451354e6935775a47593d&fich=88609fbb-66b1-418f-9149-eb302a651496.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a566b5a6a6b335a5463334c544a6b4d544d744e4451324f533168595746684c54637a4e4455315a57526b4d6d59354e6935775a47593d&fich=5df97e77-2d13-4469-aaaa-73455edd2f96.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-10-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a52685a6d5532595451344c5441795a6a49744e4464695a6930354d6a426b4c5441324e5464694d4455304d5441334d6935775a47593d&fich=4afe6a48-02f2-47bf-920d-0657b0541072.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5a6d596d49794d4467354c574d334e6d4d744e4441305a6930355a446c6a4c5463304e7a67784e6d4a6d4d7a4e684d5335775a47593d&fich=6fbb2089-c76c-404f-9d9c-747816bf33a1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a59774e544d304f544d304c574d324f5463744e446b7a596931684e544e6d4c5445795a574d785932466c4d4751794e7935775a47593d&fich=60534934-c697-493b-a53f-12ec1cae0d27.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3255354d5451794d6d557a4c575a694f4463744e446c684d6931684e7a55334c544531596d45344f4467324f446c6b4d5335775a47593d&fich=e91422e3-fb87-49a2-a757-15ba888689d1.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-09-14",
+            "gp": "PSD",
+            "id": "4086",
+            "motivoCessacao": null,
+            "nome": "António Leitão Amaro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-09-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6734597a45795957526d4c5464695a4755744e4459355a4331694d546b314c5441794d546c68597a4e6b595455784e7935775a47593d&fich=88c12adf-7bde-469d-b195-0219ac3da517.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12137",
+    "PetAssunto": "Solicita que se legisle no sentido de melhorar a concorrência entre as farmácias e entre os taxis.",
+    "PetDataEntrada": "2011-08-29",
+    "PeticoesAssociadas": null,
+    "PetId": "12137",
+    "PetLeg": "XII",
+    "PetNr": "25",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
