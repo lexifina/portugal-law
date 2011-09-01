@@ -1,0 +1,427 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "42",
+    "id": "36416",
+    "titulo": "Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2011-09-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8213",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2011-09-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36411",
+        "leg": "XII",
+        "nr": "60",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1545",
+            "obs": null,
+            "pag": [
+              "47-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-02",
+            "pubLeg": "XII",
+            "pubNr": "14",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/47?pgs=47-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1545",
+            "obs": null,
+            "pag": [
+              "47-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-02",
+            "pubLeg": "XII",
+            "pubNr": "14",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/47?pgs=47-53&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a suspensão da privatização/concessão das linhas suburbanas da CP."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-09-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-02",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Manifestam a total discordância com a privatização das linhas suburbanas da CP e exigem que a AR impeça a concretização desta medida e revogue as alterações nos Estatutos da CP que o permitem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-02",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Manifestam a total discordância com a privatização das linhas suburbanas da CP e exigem que a AR impeça a concretização desta medida e revogue as alterações nos Estatutos da CP que o permitem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-02",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Manifestam a total discordância com a privatização das linhas suburbanas da CP e exigem que a AR impeça a concretização desta medida e revogue as alterações nos Estatutos da CP que o permitem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4364",
+                "nome": "Luís Leite Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-02",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Manifestam a total discordância com a privatização das linhas suburbanas da CP e exigem que a AR impeça a concretização desta medida e revogue as alterações nos Estatutos da CP que o permitem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2867",
+                "nome": "João Gonçalves Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-02",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Manifestam a total discordância com a privatização das linhas suburbanas da CP e exigem que a AR impeça a concretização desta medida e revogue as alterações nos Estatutos da CP que o permitem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-02",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Defende o carácter público da CP e da gestão das suas linhas, revogando o Decreto-Lei n.º 137-A/2009, de 12 de Junho, que \"Aprova o regime jurídico aplicável à CP - Comboios de Portugal, EPE e os estatutos da CP\"; Manifestam a total discordância com a privatização das linhas suburbanas da CP e exigem que a AR impeça a concretização desta medida e revogue as alterações nos Estatutos da CP que o permitem.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Discussão Conjunta com  a Petição n.º 75/XI/1.ª.",
+    "OevId": "278490",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XI",
+        "nr": "75",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Manifestam a total discordância com a privatização das linhas suburbanas da CP e exigem que a AR impeça a concretização desta medida e revogue as alterações nos Estatutos da CP que o permitem."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "565115",
+        "obs": null,
+        "pag": [
+          "47-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-02",
+        "pubLeg": "XII",
+        "pubNr": "14",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/014/2011-09-02/47?pgs=47-53&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
