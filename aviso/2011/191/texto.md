@@ -1,0 +1,9 @@
+Aviso n.º 191/2011
+Por ordem superior se torna público que, por notificação de 9 de Junho de 2008, o Secretário-Geral das Nações Unidas comunicou ter a República da Eslovénia retirado a reserva [v. a notificação depositária CN 417.1992.TREATIES, de 19 de Fevereiro de 1993 (corrigenda CN 240.1992.TREATIES, de 28 de Outubro de 1992, de acordo com a declaração da sucessão da Eslovénia a vários tratados multilaterais depositados junto ao Secretário-Geral)] à Convenção sobre o Reconhecimento e a Execução de Sentenças Arbitrais Estrangeiras, adoptada em Nova Iorque em 10 de Junho de 1958.
+Tradução
+O Secretário-Geral das Nações Unidas, na sua qualidade de depositário, comunica que:
+Em 4 de Junho de 2008, a República da Eslovénia tomou a decisão de retirar a reserva efectuada em conformidade com o n.º 3 do artigo 1.º da Convenção de 6 de Julho de 1992, na altura da notificação da sucessão da República da Eslovénia a esta Convenção, segundo a qual:
+(original: inglês)
+«Em conformidade com o n.º 3 do artigo 1.º, a República da Eslovénia vai aplicar a Convenção numa base de reciprocidade apenas às sentenças arbitrais proferidas no território de um outro Estado parte na Convenção. A República da Eslovénia aplicará a Convenção apenas aos litígios resultantes de relações de direito, contratuais e não contratuais, que de acordo com a sua legislação nacional são consideradas económicas.»
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada, para adesão, com uma reserva, pela Resolução da Assembleia da República n.º 37/94, de 8 de Julho, tendo depositado o seu instrumento de ratificação em 18 de Outubro de 1994, conforme o Aviso n.º 142/95, de 21 de Junho, e tendo a Convenção entrado em vigor para Portugal em 16 de Janeiro de 1995.
+Departamento de Assuntos Jurídicos, 8 de Agosto de 2011. - O Director, Miguel de Serpa Soares.
