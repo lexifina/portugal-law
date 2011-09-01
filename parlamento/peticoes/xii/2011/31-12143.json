@@ -1,0 +1,145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12143",
+  "numero": "31",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-09-01",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-09-14",
+            "dataResposta": "2011-10-14",
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "113/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-03-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-09-14",
+        "DataArquivo": "2012-03-28",
+        "DataBaixaComissao": "2011-09-14",
+        "DataEnvioPAR": "2012-03-29",
+        "DataReaberta": "2011-09-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-09-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a59334d4467794d324d304c574d324d6a41744e444535595331684d574d784c5459355a5749354d5749785a5749344d7935775a47593d&fich=670823c4-c620-419a-a1c1-69eb91b1eb83.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-09-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324579597a5a6b5a44526d4c574534595749744e4445305a533034596a55784c57466a593259774f5751775a6a49354f4335775a47593d&fich=a2c6dd4f-a8ab-414e-8b51-accf09d0f298.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-03-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a67795a5467775a6a4a6a4c5751355a5459744e4463334e4330355a54557a4c5455305a5449784d6a4a6a4f544e6b4d5335775a47593d&fich=82e80f2c-d9e6-4774-9e53-54e2122c93d1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-10-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a426c5a574d794d7a49334c574e6a4d444d744e47497a597930354d6a49334c544a684d7a4e6c5a6d4d774e6a426a4d6935775a47593d&fich=0eec2327-cc03-4b3c-9227-2a33efc060c2.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-09-14",
+            "gp": "PSD",
+            "id": "2027",
+            "motivoCessacao": null,
+            "nome": "Adriano Rafael Moreira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-09-05",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32566d5a4459774d446b784c574a6b595459744e47526b4d6930344e444e6a4c54677a5957526a4f4445344e7a6c6d4f4335775a47593d&fich=efd60091-bda6-4dd2-843c-83adc81879f8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12143",
+    "PetAssunto": "Solicita a suspensão definitiva do projecto que visa a ligação ferroviária em linha de alta velocidade, optando pela ligação em linha convencional, de bitola dupla, adaptada à utilização por composições pendulares de alta velocidade.",
+    "PetDataEntrada": "2011-09-01",
+    "PeticoesAssociadas": null,
+    "PetId": "12143",
+    "PetLeg": "XII",
+    "PetNr": "31",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
