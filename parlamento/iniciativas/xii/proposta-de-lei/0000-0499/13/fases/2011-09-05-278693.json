@@ -1,0 +1,229 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "13",
+    "id": "36428",
+    "titulo": "Cria um regime de composiçao dos litígios emergentes de direitos de propriedade industrial quando estejam em causa medicamentos de referência e medicamentos genéricos, procedendo à quinta alteração ao Decreto-Lei n.º 176/2006, de 30 de Agosto, e à segunda alteração ao regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de Maio"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2011-09-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "26850",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-09-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-09-05",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-09-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Nota Complementar - Parecer APIFARMA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f5745354e6a67344d53307759546c694c54526a4e6d5974596a49794e53307a4d6a6333595456695a6d5a6a4e7a51756347526d&fich=a9a96881-0a9b-4c6f-b225-3277a5bffc74.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - APIFARMA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a596d4a6b595759315a5330314d444d334c54526b5a6d4574596d51345a53316a597a6b774d444a6b4d7a51304d546b756347526d&fich=3bbdaf5e-5037-4dfa-bd8e-cc9002d34419.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Portuguesa de Arbitragem",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e32526a59574d775a693033596a67354c5451304d6a4174595755785a5331695a5468685a6a426b4e444e684e4441756347526d&fich=67dcac0f-7b89-4420-ae1e-be8af0d43a40.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e7a4a6c4d546b775a6930794d444e694c5451305a544574596d45774f4330774f4442695954466a4d32466c4d5441756347526d&fich=c72e190f-203b-44e1-ba08-080ba1c3ae10.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - INFARMED",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e6a67305a44466d4f4330354e54457a4c54526a4f5451744f4463795969307a5a6a646b4e6d51784e7a49334d7a67756347526d&fich=0684d1f8-9513-4c94-872b-3f7d6d172738.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a5467784e5446694d79316c4e7a4a694c54517a4d325174596a52694e53307a4f474a685a44526b4d444a6d4f5759756347526d&fich=5e8151b3-e72b-433d-b4b5-38bad4d02f9f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e6d4a6c4e6d5977597930774d4759784c5451344e5759744f5745315a53316a4d574a6d4e7a5a684f5463794e6a55756347526d&fich=b6be6f0c-00f1-485f-9a5e-c1bf76a97265.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2011-09-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2011-10-11"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa de Arbitragem em 2011-09-28"
+          },
+          {
+            "link": "",
+            "nome": "INFARMED em 2011-09-22"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2011-09-14"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2011-09-14"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa de Arbitragem em 2011-09-14"
+          },
+          {
+            "link": "",
+            "nome": "INFARMED em 2011-09-14"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "30-57"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-19",
+            "pubLeg": "XII",
+            "pubNr": "31",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/031/2011-09-19/30?pgs=30-57&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "30-57"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-19",
+            "pubLeg": "XII",
+            "pubNr": "31",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/031/2011-09-19/30?pgs=30-57&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1554",
+            "motivoCessacao": null,
+            "nome": "Filipe Neto Brandão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-09-14",
+            "dataRemessa": "2011-09-14",
+            "numeroOficio": "256/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2011-09-14",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "58756",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "11",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-09-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "278693",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
