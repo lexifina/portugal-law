@@ -1,0 +1,174 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12147",
+  "numero": "35",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-09-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-01-24",
+            "entidades": null,
+            "id": "91969",
+            "tipo": null,
+            "titulo": "Audição em 2012-01-24 com Daniel Carrapa Nunes Dias e outros"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-09-23",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "120/COFAP/2011",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-01-27",
+                "dataResposta": "2012-03-21",
+                "nrOficio": "42/COFAP/2012",
+                "oficioResposta": "274"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-06-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-09-14",
+        "DataArquivo": "2012-06-14",
+        "DataBaixaComissao": "2011-09-14",
+        "DataEnvioPAR": "2012-06-15",
+        "DataReaberta": "2011-09-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-09-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939694e6d59304d6a68684d4330774e7a63304c54526c593255744f54426c597931694f544d784d44566d4e324d344e7a51756347526d&fich=b6f428a0-0774-4ece-90ec-b93105f7c874.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-09-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939694e7a526a4e4468695a4330344d324d304c54517a4d6d59744f4745774e43307759575a694e474a6a4e324d7a4f4451756347526d&fich=b74c48bd-83c4-432f-8a04-0afb4bc7c384.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-03-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396c59544a6d596a6c6b5a6930335a6a526c4c5451774d7a4d74596a5a6c4d6930305a6a59315a6a6b794d6d59304d544d756347526d&fich=ea2fb9df-7f4e-4033-b6e2-4f65f922f413.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938774d4745794e6a6c6a595331694e6d51334c54513459546b744f445130595330775a444934596d566c596a55794e7a6b756347526d&fich=00a269ca-b6d7-48a9-844a-0d28beeb5279.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-06-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396c5a546b79597a5533597930324e32566a4c5452684d4745744f44417a4d4331694d5459344e54566c4f545a68596a4d756347526d&fich=ee92c57c-67ec-4a0a-8030-b16855e96ab3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-03-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e6862793835596d5a695a6d4a6a5a43316b5a6a45354c5451774d6a4d74596a68684d53316a4f5455784f57566a4e6a52684d5755756347526d&fich=9bfbfbcd-df19-4023-b8a1-c9519ec64a1e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-09-14",
+            "gp": "PS",
+            "id": "2103",
+            "motivoCessacao": null,
+            "nome": "Isabel Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-09-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a49794e6a426c4d44526b4c5756685a6a6b744e4445794d6930344d6a55784c5445794d6a51345a57513159544e694d7935775a47593d&fich=2260e04d-eaf9-4122-8251-12248ed5a3b3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "37163"
+    ],
+    "Iniciativasoriginadas": [
+      "37163"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12147",
+    "PetAssunto": "Solicitam que seja reconhecida a isenção do Imposto Municipal sobre Imóveis (IMI) aos prédios sitos no Centro Histórico de Évora.",
+    "PetDataEntrada": "2011-09-09",
+    "PeticoesAssociadas": null,
+    "PetId": "12147",
+    "PetLeg": "XII",
+    "PetNr": "35",
+    "PetNrAssinaturas": "581",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
