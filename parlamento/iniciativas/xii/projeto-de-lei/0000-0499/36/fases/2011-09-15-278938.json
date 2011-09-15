@@ -1,0 +1,429 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "36",
+    "id": "36396",
+    "titulo": "Extingue a Parque Escolar, Entidade Pública Empresarial e transfere o seu património para o Estado (Revogação do Decreto-Lei n.º 41/2007, de 21 de Fevereiro)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2011-09-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8245",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2011-09-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36451",
+        "leg": "XII",
+        "nr": "69",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1551",
+            "obs": null,
+            "pag": [
+              "65-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-16",
+            "pubLeg": "XII",
+            "pubNr": "19",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/65?pgs=65-73&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que promova um plano de investimento na requalificação e modernização do parque escolar"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-09-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=03:34:31:681&drc=00:03:25:042"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=02:32:57:831&drc=00:03:09:264"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66",
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-16",
+                "pubLeg": "XII",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/65?pgs=65-66,72-73&org=PLC"
+              }
+            ],
+            "sumario": "Extingue a Parque Escolar, Entidade Pública Empresarial e transfere o seu património para o Estado (Revogação do Decreto-Lei n.º 41/2007, de 21 de Fevereiro); Recomenda ao Governo que promova um plano de investimento na requalificação e modernização do parque escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=03:38:03:907&drc=00:02:56:957"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=03:55:57:195&drc=00:02:08:229"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67",
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-16",
+                "pubLeg": "XII",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/66?pgs=66-67,72&org=PLC"
+              }
+            ],
+            "sumario": "Extingue a Parque Escolar, Entidade Pública Empresarial e transfere o seu património para o Estado (Revogação do Decreto-Lei n.º 41/2007, de 21 de Fevereiro); Recomenda ao Governo que promova um plano de investimento na requalificação e modernização do parque escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=03:41:06:189&drc=00:04:07:503"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-16",
+                "pubLeg": "XII",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Extingue a Parque Escolar, Entidade Pública Empresarial e transfere o seu património para o Estado (Revogação do Decreto-Lei n.º 41/2007, de 21 de Fevereiro); Recomenda ao Governo que promova um plano de investimento na requalificação e modernização do parque escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3919",
+                "nome": "Amadeu Soares Albergaria"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=03:45:19:003&drc=00:04:00:440"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-16",
+                "pubLeg": "XII",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/68?pgs=68-70&org=PLC"
+              }
+            ],
+            "sumario": "Extingue a Parque Escolar, Entidade Pública Empresarial e transfere o seu património para o Estado (Revogação do Decreto-Lei n.º 41/2007, de 21 de Fevereiro); Recomenda ao Governo que promova um plano de investimento na requalificação e modernização do parque escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=03:49:24:069&drc=00:03:28:244"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-16",
+                "pubLeg": "XII",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Extingue a Parque Escolar, Entidade Pública Empresarial e transfere o seu património para o Estado (Revogação do Decreto-Lei n.º 41/2007, de 21 de Fevereiro); Recomenda ao Governo que promova um plano de investimento na requalificação e modernização do parque escolar",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=04:00:13:483&drc=00:00:49:791"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20110915pln&url=l12/sl1/a2011/m09/&tI=03:52:58:438&drc=00:02:53:257"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-16",
+                "pubLeg": "XII",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/71?pgs=71-73&org=PLC"
+              }
+            ],
+            "sumario": "Extingue a Parque Escolar, Entidade Pública Empresarial e transfere o seu património para o Estado (Revogação do Decreto-Lei n.º 41/2007, de 21 de Fevereiro); Recomenda ao Governo que promova um plano de investimento na requalificação e modernização do parque escolar",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "278938",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "566698",
+        "obs": null,
+        "pag": [
+          "65-73"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-16",
+        "pubLeg": "XII",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/019/2011-09-16/65?pgs=65-73&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
