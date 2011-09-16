@@ -1,0 +1,16 @@
+Portaria n.º 267-A/2011
+de 15 de Setembro
+Nos termos do n.º 1 do artigo 20.º do regime geral das comparticipações do Estado no preço de medicamentos, aprovado pelo Decreto-Lei n.º 48-A/2010, de 13 de Maio, a comparticipação dos medicamentos utilizados no tratamento de determinadas patologias ou por grupos especiais de utentes é definida por despacho do membro do Governo responsável pela área da saúde e, assim, diferentemente graduada em função das entidades que o prescrevem ou dispensam.
+A maioria dos regimes especiais de comparticipação de medicamentos abrangidos pelo citado preceito consta quer de despachos quer de portarias e foi ainda aprovada ao abrigo do regime jurídico consagrado no Decreto-Lei n.º 118/92, de 25 de Junho, por diversas vezes alterado. É propósito do Governo proceder a uma profunda revisão de todos esses regimes especiais, no sentido da sua simplificação e racionalização.
+Tendo em vista evitar que o problema se agudize, importa desde já esclarecer que qualquer medicamento cuja comercialização se inicie a partir da entrada em vigor da presente portaria só poderá ficar abrangido pelo regime especial de comparticipação respectivo, quer se trate de medicamento utilizado no tratamento de determinada patologia, ou destinado a certo grupo especial de utentes, desde que seja objecto de decisão de inclusão na lista de medicamentos comparticipados, a proferir nos termos do citado regime geral das comparticipações do Estado no preço de medicamentos.
+Dadas as especificidades de alguns desses regimes, importa igualmente esclarecer que não poderão deles beneficiar medicamentos que devam ser objecto de avaliação prévia nos termos do Decreto-Lei n.º 195/2006, de 3 de Outubro, na redacção dada pelo Decreto-Lei n.º 48-A/2010, de 13 de Maio.
+Assim:
+Nos termos do n.º 1 do artigo 20.º do regime geral das comparticipações do Estado no preço de medicamentos, aprovado pelo Decreto-Lei n.º 48-A/2010, de 13 de Maio, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
+Artigo 1.º
+Inclusão no regime especial de comparticipação
+1 - Qualquer novo medicamento, quer se trate de medicamento utilizado no tratamento de determinada patologia ou destinado a certo grupo especial de utentes, só pode integrar certo regime especial de comparticipação desde que seja objecto de decisão de inclusão na lista de medicamentos comparticipados, a proferir nos termos do regime geral das comparticipações do Estado no preço de medicamentos, aprovado pelo Decreto-Lei n.º 48-A/2010, de 13 de Maio, na redacção resultante do Decreto-Lei n.º 106-A/2010, de 1 de Outubro, ou de avaliação prévia nos termos do Decreto-Lei n.º 195/2006, de 3 de Outubro, na redacção dada pelo Decreto-Lei n.º 48-A/2010, de 13 de Maio.
+2 - Para efeito do disposto no número anterior, considera-se «novo medicamento» aquele cuja comercialização efectiva se inicie após a entrada em vigor da presente portaria, ainda que essa comercialização já tenha sido comunicada ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P.
+Artigo 2.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 14 de Setembro de 2011.
