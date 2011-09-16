@@ -1,0 +1,197 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "14",
+    "id": "36437",
+    "titulo": "Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2011-09-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "26960",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-09-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-09-16",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-09-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de alteração - PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f574e694e44526a4f43307a5a5455794c5451354f54597459574d314e6931694e7a466c4f4749774e4456684d4441756347526d&fich=59cb44c8-3e52-4996-ac56-b71e8b045a00.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e44597a4d6d5a6a4d6930324d546b344c5451354d325574595759784e4330304d544e694d5451785a5455784d6a41756347526d&fich=24632fc2-6198-493e-af14-413b141e5120.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e325a6a4e574d774d533031597a6c6c4c5451784e4751744f47466a597930334e44466b4e3251304e4459304f544d756347526d&fich=d7fc5c01-5c9e-414d-8acc-741d7d446493.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d6d4a6a5a444a684f43307a4f4464694c54526d4e3251744f4467305a5330774d5459304d444e6d5a4467344e7a51756347526d&fich=12bcd2a8-387b-4f7d-884e-016403fd8874.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-09-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final, Relatório de Votações na Especialidade e Proposta de Alteração - CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6a51795a6d4a69596930314f5751354c5451784d7a6b744f54466c4e69316d593255325a4749305a44426d5a6d49756347526d&fich=1642fbbb-59d9-4139-91e6-fce6db4d0ffb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2011-11-04"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2011-09-22"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2011-09-21"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2011-09-21"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação ne especialidade em comissão e texto final",
+            "pag": [
+              "41-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-28",
+            "pubLeg": "XII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/037/2011-09-28/41?pgs=41-68&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação ne especialidade em comissão e texto final",
+            "pag": [
+              "41-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-28",
+            "pubLeg": "XII",
+            "pubNr": "37",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/037/2011-09-28/41?pgs=41-68&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-09-28",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2011-09-28",
+            "dataRemessa": "2011-09-28",
+            "numeroOficio": "400/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2011-09-28",
+            "descricao": "Texto Final aprovado Artigo a Artigo - Ausência do PEV",
+            "detalhe": null,
+            "id": "58900",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "17",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-09-16",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279027",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
