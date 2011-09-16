@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12150",
+  "numero": "38",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-09-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-10-07",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "132/COFAP/2011",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2011-12-07",
+                "dataResposta": "2011-12-20",
+                "nrOficio": "228/COFAP/2011",
+                "oficioResposta": "1396"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-10-07",
+            "dataResposta": null,
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "133/COFAP/2011",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2011-12-07",
+                "dataResposta": "2011-12-23",
+                "nrOficio": "229/COFAP/2011",
+                "oficioResposta": "GOV/2011/0446"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-10-07",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Associação SEFIN"
+            ],
+            "nrOficio": "134/COFAP/2011",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2011-12-07",
+                "dataResposta": null,
+                "nrOficio": "230/COFAP/2011",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2011-12-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-09-23",
+        "DataArquivo": "2011-12-20",
+        "DataBaixaComissao": "2011-09-23",
+        "DataEnvioPAR": "2011-12-20",
+        "DataReaberta": "2011-09-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-09-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396859574e6b596a52694d4331685a54646d4c5451304f5751744f57466a596931694e54526a5a6d4d7859544e6d4e6a59756347526d&fich=aacdb4b0-ae7f-449d-9acb-b54cfc1a3f66.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-10-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a5a444d344d7a4d344f5330344d324d324c54526a4e5749744f4745324d433034597a52684d6d4d32596d4d334f4449756347526d&fich=cd383389-83c6-4c5b-8a60-8c4a2c6bc782.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938304e3259354d4751784d6930345a4445344c5451344e5441744f4449355a6930774f54526a5a474e6c4f474e6a4f5749756347526d&fich=47f90d12-8d18-4850-829f-094cdce8cc9b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-10-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938344e545a684e4745355969316a4f444d354c5451355a574d744f544d304f5330304d5755324d574935596a6b344e5467756347526d&fich=856a4a9b-c839-49ec-9349-41e61b9b9858.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938324d574a6a4e5755304f533032596a42684c545178595745744f5449794d7930334e7a67354e6d4e694e574578595455756347526d&fich=61bc5e49-6b0a-41aa-9223-77896cb5a1a5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-10-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a4d6d45344d4451315953316a4e7a45774c5451335a446774596a51355953316d4f574a694e6a6b785a574d334e3245756347526d&fich=c2a8045a-c710-47d8-b49a-f9bb691ec77a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a4d7a68684d6d56684e5331695a444d324c5452694f446774596d526d5969307a4e6d4a6d4f5467334d446c6c4e3259756347526d&fich=c38a2ea5-bd36-4b88-bdfb-36bf98709e7f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2011-12-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938315a5755335954417a4e6930344d4451304c5451774f544d74595451334e693168597a67355a6d55324e5467324e7a51756347526d&fich=5ee7a036-8044-4093-a476-ac89fe658674.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-01-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396c4f54566a4d5445314d43316d5a4451784c5451794e7a6b74596a526c5a5330784e54466959324d354d7a4531596d4d756347526d&fich=e95c1150-fd41-4279-b4ee-151bcc9315bc.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-09-23",
+            "gp": "PSD",
+            "id": "4336",
+            "motivoCessacao": null,
+            "nome": "Elsa Cordeiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-09-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d324d6d4e685a445a684c54686a4d4449744e446b794d5330354d7a6b774c5751794e47466c4e6a457a4d7a4d324d5335775a47593d&fich=c62cad6a-8c02-4921-9390-d24ae6133361.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12150",
+    "PetAssunto": "Pretende que o Governo legisle no sentido de os bancos não cobrarem taxa na amortização antecipada de créditos à habitação.",
+    "PetDataEntrada": "2011-09-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12150",
+    "PetLeg": "XII",
+    "PetNr": "38",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
