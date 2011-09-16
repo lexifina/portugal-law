@@ -1,0 +1,150 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "64",
+    "id": "36449",
+    "titulo": "Regula as Directivas Antecipadas de Vontade em matéria do Testamento Vital e nomeação de Procurador de Cuidados de Saúde e procede a criação do Registo Nacional do Testamento Vital"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2011-09-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "26955",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-09-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-09-16",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Diretivas Antecipadas de Vontade ou Testamento Vital",
+            "num": "4",
+            "orgId": "3536",
+            "publicacao": null,
+            "sigla": "GT-TV"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2011-10-12",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Mapa Comparativo - PJL 21/XII(BE) - PJL 62/XII(PS) - PJL 63/XII(PSD) - PJL 64/XII(CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259775957466b4f4756694c545668595455744e47557a4d6931694d5745324c544d325a475134595441354e32466c5a5335775a47593d&fich=f0aad8eb-5aa5-4e32-b1a6-36dd8a097aee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-30",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório de Discussão e Votação na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a517a5a4442684d4456684c54517a596a55744e474d794d6931684e546c694c5755355a6d59345a6a55314d545577596935775a47593d&fich=43d0a05a-43b5-4c22-a59b-e9ff8f55150b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3518",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "4",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final da comissão",
+            "pag": [
+              "10-15"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-30",
+            "pubLeg": "XII",
+            "pubNr": "187",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/187/2012-05-30/10?pgs=10-15&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final da comissão",
+            "pag": [
+              "10-15"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-30",
+            "pubLeg": "XII",
+            "pubNr": "187",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/187/2012-05-30/10?pgs=10-15&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2012-05-30",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2011-09-16",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279016",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
