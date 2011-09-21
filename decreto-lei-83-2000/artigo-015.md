@@ -4,7 +4,7 @@
 
 São entidades competentes para a concessão e emissão do passaporte comum, com possibilidade de delegação e de subdelegação:
 
-a) Os governadores civis;
+a) O director nacional do Serviço de Estrangeiros e Fronteiras (SEF);
 
 b) Os Governos Regionais, através do secretário regional competente, nos termos das respectivas leis orgânicas;
 

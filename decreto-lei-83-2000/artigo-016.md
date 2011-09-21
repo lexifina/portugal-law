@@ -7,3 +7,5 @@
 2 - A concessão de passaporte comum para menor, interdito ou inabilitado é requerida por quem, nos termos da lei, exerce o poder paternal, a tutela ou curatela, mediante exibição pelo respectivo representante dos documentos comprovativos dessa qualidade legal.
 
 3 - Nos casos referidos no número anterior, deverá, sempre que possível, ser recolhida a assinatura do titular do passaporte comum.
+
+4 - O requerimento referido no n.º 1 do presente artigo pode ser apresentado junto do SEF ou do Instituto dos Registos e do Notariado, I. P.
