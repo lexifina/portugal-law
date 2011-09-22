@@ -1,0 +1,2345 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "47",
+    "id": "36423",
+    "titulo": "Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2011-09-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8262",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2011-09-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36419",
+        "leg": "XII",
+        "nr": "44",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36420",
+        "leg": "XII",
+        "nr": "45",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36421",
+        "leg": "XII",
+        "nr": "46",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36424",
+        "leg": "XII",
+        "nr": "48",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36425",
+        "leg": "XII",
+        "nr": "49",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36426",
+        "leg": "XII",
+        "nr": "50",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36427",
+        "leg": "XII",
+        "nr": "51",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI)"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36443",
+        "leg": "XII",
+        "nr": "60",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Determina o princípio do englobamento das mais-valias em IRS"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36444",
+        "leg": "XII",
+        "nr": "61",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1552",
+            "obs": null,
+            "pag": [
+              "46-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-09-23",
+            "pubLeg": "XII",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Determina o regime de tributação das mais-valias mobiliárias, aplicável a entidades colectivas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-09-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47",
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-47,57-58&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/47?pgs=47-49&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/49?pgs=49-51&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4318",
+                "nome": "Nuno Serra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52",
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/51?pgs=51-52,54&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4403",
+                "nome": "Vera Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/54?pgs=54-56&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2849",
+                "nome": "Adolfo Mesquita Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4129",
+                "nome": "Cristóvão Crespo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:13",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-09-23",
+                "pubLeg": "XII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Determina a aplicação extraordinária de uma taxa efectiva de IRC de 25% ao sector bancário, financeiro e grandes grupos económicos ( Altera o Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Tributação adicional sobre a aquisição e a detenção de automóveis de luxo, iates e aeronaves (13.ª alteração à Lei n.º 22-A/2007, de 29 de Junho, que aprovou o Código do Imposto sobre Veículos - ISV - e o Código do Imposto Único de Circulação - IUC); Tributa as mais-valias mobiliárias realizadas por Sociedades Gestoras de Participações Sociais (SGPS), Sociedades de Capital de Risco (SCR), Fundos de Investimento, Fundos de Capital de Risco, Fundos de Investimento Imobiliário em Recursos Florestais, Entidades não Residentes e Investidores de Capital de Risco (IRC) - (Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º  215/89, de 1 de Julho); Cria uma nova taxa aplicável às transacções financeiras realizadas no mercado de valores mobiliários; Cria uma sobretaxa extraordinária em sede de IRC (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro); Fixa em 21,5% a taxa aplicável em sede de IRS às mais-valias mobiliárias (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Cria um novo escalão para rendimentos colectáveis acima de 175000 euros e tributa de forma extraordinária dividendos e juros de capital (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro); Tributação adicional do património imobiliário de luxo (Alteração ao Decreto-Lei n.º 287/2003, de 12 de Novembro, que aprovou o Código do Imposto sobre Transacções Onerosas - IMT - e o Código do Imposto Municipal sobre Imóveis -IMI); Determina o princípio do englobamento das mais-valias em IRS.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279093",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "568306",
+        "obs": null,
+        "pag": [
+          "46-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-09-23",
+        "pubLeg": "XII",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/022/2011-09-23/46?pgs=46-60&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
