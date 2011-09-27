@@ -1,0 +1,8 @@
+Aviso n.º 19163/2011
+Período de discussão pública do Processo de Alteração do Plano de Pormenor da Lagarta
+Joaquim José Pinto Moreira, Presidente da Câmara Municipal de Espinho:
+Faz público, em cumprimento do disposto nos n.os 3 e 4 do artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, com as alterações que lhe foram dadas pelo Decreto-Lei n.º 181/2009, de 07 de Agosto, e pelo Decreto-Lei n.º 2/2011, de 06 de Janeiro, que a Câmara Municipal de Espinho, em sua reunião ordinária de 09 de Setembro de 2011, deliberou abrir um período de discussão pública no âmbito do Processo de Alteração do Plano de Pormenor da Lagarta - Áreas Nascente e Poente - Freguesia de Anta, que terá uma duração de 22 dias úteis, contados a partir do 5.º dia útil a seguir à data da publicação do presente Aviso no Diário da República.
+Durante esse período os interessados poderão consultar os documentos relativos a este processo, na página da Internet do Município, com o endereço electrónico www.cm-espinho.pt, ou no Edifício dos Paços do Concelho, durante o horário de expediente.
+No âmbito da discussão pública serão consideradas e apreciadas todas as reclamações, observações ou sugestões que, apresentadas por escrito, especificamente se relacionem com a presente Alteração do Plano de Pormenor da Lagarta - Áreas Nascente e Poente - Freguesia de Anta, devendo ser dirigidas ao Presidente da Câmara Municipal de Espinho, Praça Dr. José Salvador, Apartado 700, 4501-901 Espinho.
+19 de Setembro de 2011. - O Presidente da Câmara, Dr. Joaquim José Pinto Moreira.
+205140132
