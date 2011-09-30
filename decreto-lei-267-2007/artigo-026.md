@@ -18,4 +18,4 @@
 
 6 - Os direitos de acesso e oposição dos titulares dos dados à informação contida nos sistemas de registo de dádivas e dadores exercem-se nos termos e condições referidas nos artigos 10.º a 13.º da Lei de Protecção de Dados Pessoais.
 
-7 - A entidade responsável pelo tratamento e interconexão de dados pessoais dos dadores de sangue é o IPST, I. P.
+7 - A entidade responsável pelo tratamento e interconexão de dados pessoais dos dadores de sangue é o Instituto Português do Sangue.
