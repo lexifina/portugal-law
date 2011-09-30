@@ -1,0 +1,173 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "19",
+    "id": "36465",
+    "titulo": "Altera a Lei n.º 2/2008, de 14 de Janeiro, que regula o ingresso nas magistraturas, a formação de magistrados e a natureza, estrutura e funcionamento do Centro de Estudos Judiciários"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2011-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "27097",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-10-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-09-30",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b595756694e6a4977597930314d44677a4c5451354e6d5174596a49794f53316c5a4451784e7a51334d44466c5a6d45756347526d&fich=daeb620c-5083-496d-b229-ed4174701efa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793831595749784d32526b4e533078595441784c5451334f4459744f4759785a6930784d4755344f54566d5a6d5a6a595463756347526d&fich=5ab13dd5-1a01-4786-8f1f-10e895fffca7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração - PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b596d59304f474a6a4d5330784e7a46684c5451324e575974595749345a533030597a566d4e6a517a4e5464695a444d756347526d&fich=dbf48bc1-171a-465f-ab8e-4c5f64357bd3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório de Votações na Especialidade da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830593246694e3255324d53316b4e5459784c54526d4d6a4974596a6731595330304e446c6a4e5751774d546b784e5455756347526d&fich=4cab7e61-d561-4f22-b85a-449c5d019155.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade em comissão, texto final  e propostas de alteração apresentadas pelo PSD, CDS e PCP",
+            "pag": [
+              "37-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-20",
+            "pubLeg": "XII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/050/2011-10-20/37?pgs=37-39&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade em comissão, texto final  e propostas de alteração apresentadas pelo PSD, CDS e PCP",
+            "pag": [
+              "37-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-20",
+            "pubLeg": "XII",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/050/2011-10-20/37?pgs=37-39&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-10-19",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2011-10-19",
+            "dataRemessa": "2011-10-19",
+            "numeroOficio": "502/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2011-10-19",
+            "descricao": "Texto Final aprovado Artigo a Artigo - Ausência do PEV",
+            "detalhe": null,
+            "id": "59060",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "28",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-09-30",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279408",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
