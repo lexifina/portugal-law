@@ -24,7 +24,7 @@ b) Os emolumentos devidos por actos de realização oficiosa sujeitos a tributa�
 
 c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo da obrigação de registar.
 
-1.2 - O facto que respeite a diversos prédios é cobrado por inteiro relativamente ao primeiro, acrescido de (euro) 50 por cada prédio a mais para além do segundo, até ao limite de (euro) 5000.
+1.2 - O facto que respeite a diversos prédios é cobrado por inteiro relativamente ao primeiro, acrescido de (euro) 50 por cada prédio a mais, até ao limite de (euro) 30 000;
 
 1.3 - (Revogado.)
 
@@ -32,7 +32,7 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 2 - São devidos pelo registo:
 
-2.1 - De aquisição e de duas ou mais hipotecas, pedidas no mesmo momento - (euro) 500;
+2.1 - De aquisição e de uma ou mais hipotecas, pedidas no mesmo momento - (euro) 500;
 
 2.2 - (Revogado.)
 
@@ -54,37 +54,47 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 2.11 - (Revogado.)
 
-2.12 - De factos registados por inscrição ou por averbamento previsto no n.º 1 do artigo 101.º do Código do Registo Predial - (euro) 250;
+2.12 - De outros factos registados por inscrição ou por averbamento previsto no n.º 1 do artigo 101.º do Código do Registo Predial - (euro) 250;
 
 2.13 - (Revogado.)
 
 2.14 - (Revogado.)
 
-2.15 - Ao emolumento previsto para o registo dos factos que determinem a constituição da propriedade horizontal, do direito real de habitação periódica, de empreendimentos turísticos e de operações de transformação fundiária, acresce (euro) 15 por cada descrição subordinada, unidade, lote ou parcela, para além da quinta, até ao limite de (euro) 3000;
+2.15 - Ao emolumento previsto para o registo dos factos que determinem a constituição da propriedade horizontal, do direito real de habitação periódica, de empreendimentos turísticos e de operações de transformação fundiária, acresce (euro) 25 por cada descrição subordinada, unidade, lote ou parcela, até ao limite previsto no n.º 1.2;
 
-2.16 - O registo de aquisição com base em habilitação de herdeiros, partilha de herança ou de património conjugal, fora do procedimento simplificado de sucessão hereditária e de partilha do património conjugal, que abranja vários prédios é cobrado por inteiro quanto ao primeiro prédio, acrescido de (euro) 25 por cada prédio a mais, para além do segundo até ao limite de (euro) 3000.
+2.16 - O registo de aquisição com base em habilitação de herdeiros, partilha de herança ou do património conjugal, que abranja vários prédios é cobrado por inteiro quanto ao primeiro prédio, acrescido de (euro) 30 por cada prédio a mais, até ao limite previsto no n.º 1.2;
+
+2.16.1 - O disposto no número anterior é aplicável aos averbamentos de transmissão do direito de algum ou alguns dos titulares da inscrição de bens integrados em herança indivisa;
+
+2.16.2 - Pelos registos de aquisição com base em partilha da herança ou do património conjugal, desde que pedidos todos conjuntamente no mesmo momento, é devido o emolumento previsto no n.º 2.12, e a ele acresce:
+
+a) Por cada registo de aquisição, além do primeiro - (euro) 125;
+
+b) Por cada prédio a mais, além do primeiro, adjudicado a cada partilhante - (euro) 30;
 
 2.17 - Pelo acto de transformação fundiária lavrado com base em declaração do interessado que tenha por fim a anexação ou desanexação - (euro) 250.
 
+2.18 - De ónus de não fracionamento e de condicionamento da construção - (euro) 125.
+
 3 - Averbamentos:
 
-3.1 - Por cada averbamento à descrição de factos que não sejam lavrados na dependência de pedido de registo ou que não devam ser de lavrar oficiosamente - (euro) 50;
+3.1 - Por cada averbamento à descrição de factos que não sejam lavrados na dependência de pedido de registo ou que não devam ser de lavrar oficiosamente - (euro) 60;
 
 3.2 - Averbamento à inscrição - (euro) 100.
 
 3.2.1 - O emolumento previsto na verba anterior é reduzido a metade nos averbamentos de realização oficiosa e nos averbamentos de factos extintivos;
 
-3.2.2 - Ao emolumento previsto para os actos de alteração ou de modificação dos factos a que se refere a verba 2.15, lavrados por inscrição ou por averbamento previsto no n.º 1 do artigo 101.º do Código do Registo Predial, acresce (euro) 25 por cada descrição subordinada, unidade, lote ou parcela, criada ou alterada, para além da segunda, até ao limite previsto no n.º 1.2;
+3.2.2 - Ao emolumento previsto para os atos de alteração ou de modificação dos factos a que se refere a verba do n.º 2.15, lavrados por inscrição ou por averbamento previsto no n.º 1 do artigo 101.º do Código do Registo Predial, acresce (euro) 25 por cada descrição subordinada, unidade, lote ou parcela, criada ou alterada, até ao limite previsto no n.º 1.2;
 
 3.2.3 - O disposto no número anterior não tem aplicação no caso de mera reprodução de inscrições ou de averbamentos ou de simples menção de cotas de referência.
 
 4 - Processo de justificação, incluindo todos os actos de registo realizados em consequência do mesmo:
 
-4.1 - Pelo processo - (euro) 350;
+4.1 - Pelo processo - (euro) 400;
 
 4.2 - Pela dedução de oposição - (euro) 100.
 
-4.3 - Se o processo abranger mais do que um prédio, acresce (euro) 50 por cada prédio a mais, para além do segundo, até ao limite de (euro) 5000;
+4.3 - Se o processo abranger mais do que um prédio, acresce (euro) 50 por cada prédio a mais, até ao limite previsto no n.º 1.2;
 
 4.4 - Se o processo tiver em vista apenas o cancelamento de ónus ou encargos - (euro) 250;
 
@@ -96,7 +106,7 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 5.2 - Pela dedução de oposição - (euro) 100.
 
-5.3 - Se a rectificação abranger mais do que um prédio, acresce (euro) 50 por cada prédio a mais, para além do segundo, até ao limite de (euro) 5000;
+5.3 - Se a retificação abranger mais do que um prédio, acresce (euro) 50 por cada prédio a mais, até ao limite previsto no n.º 1.2;
 
 5.4 - No caso de indeferimento liminar do pedido é devolvida a quantia cobrada, com excepção de valor igual ao da recusa;
 
@@ -114,14 +124,32 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 11 - Pela desistência - (euro) 20.
 
+11.1 - Pela desistência de processo de justificação ou de retificação que não seja de efetuar ao abrigo dos artigos 124.º e 125.º do Código do Registo Predial - (euro) 100.
+
 12 - Pela recusa, excepto nos casos abrangidos pelo n.º 7 do artigo 73.º do Código do Registo Predial - (euro) 50.
 
-13 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 73.º, n.os 2, 3 ou 6, do Código do Registo Predial - (euro) 30.
+13 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2, 3, 6 ou 7 do artigo 73.º do Código do Registo Predial - (euro) 30.
 
 14 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)
 
 15 - Constitui receita do IRN, I. P., o montante de (euro) 75 por inscrição e (euro) 25 por averbamento, a deduzir aos emolumentos cobrados ao abrigo do presente artigo.
 
-16 - Para fazer face ao encargo com a gestão dos sistemas informáticos necessários à sua disponibilização, constitui receita do Instituto das Tecnologias de Informação na Justiça, I. P. (ITIJ, I. P.), o montante de (euro) 4,5, a deduzir aos emolumentos cobrados por cada acto de registo, ao abrigo do presente artigo, independentemente de ser promovido por via electrónica.
+16 - (Revogado.)
 
-17 - No caso de os emolumentos previstos não serem de valor suficiente a permitir a dedução integral dos montantes previstos nos n.os 12 e 13, deve ser efectuada em primeiro lugar a dedução prevista no número anterior.
+17 - (Revogado.)
+
+18 - Depósito de documentos no sítio do registo predial www.predialonline.mj.pt:
+
+18.1 - De documentos particulares autenticados que titulam atos sujeitos a registo predial nos termos do artigo 24.º do Decreto-Lei n.º 116/2008, de 4 de julho, incluindo os documentos que os instruam - (euro) 20;
+
+18.2 - De documentos de que conste o consentimento do credor ao cancelamento do registo de hipoteca - (euro) 20;
+
+18.3 - De documentos depositados posteriormente a associar a um depósito anterior - (euro) 15.
+
+19 - Renovação de código de acesso que permita a consulta dos documentos referidos no número anterior:
+
+19.1 - Pedido efetuado através do endereço www.predialonline.mj.pt - (euro) 5;
+
+19.2 - Pedido verbalmente num serviço de registo com competência para a prática de atos de registo predial - (euro) 10.
+
+20 - As taxas previstas nos n.os 18 e 19 constituem integralmente receita do IRN, I. P.
