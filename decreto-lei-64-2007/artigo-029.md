@@ -2,6 +2,4 @@
 
 ### Taxas
 
-1 - São devidas taxas, a fixar por portaria do membro do Governo responsável pela área da segurança social, pela comunicação prévia e emissão do título de autorização de funcionamento.
-
-2 - As taxas são pagas junto do ISS, I. P., ou por meios eletrónicos através da Plataforma de Pagamentos da Administração Pública, quando disponível.
+São devidas taxas, a fixar por portaria do membro do Governo responsável pela área da solidariedade social, pela emissão e substituição de licenças e autorizações provisórias de funcionamento.

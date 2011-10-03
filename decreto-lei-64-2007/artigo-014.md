@@ -1,5 +1,11 @@
 # Artigo 14.º
 
-### Legitimidade para requerer a autorização
+### Impedimentos
 
-Podem requerer a autorização de funcionamento para uma resposta social as pessoas singulares e coletivas que pretendam desenvolver as respostas sociais referidas no artigo 4.º, independentemente do título de utilização das instalações a elas afetas, desde que seja observado o disposto no artigo anterior.
+1 - Não podem exercer funções, a qualquer título, nos estabelecimentos as pessoas relativamente às quais se verifique algum dos seguintes impedimentos:
+
+a) Terem sido interditadas do exercício das actividades em qualquer estabelecimento abrangido pelo presente decreto-lei;
+
+b) Terem sido condenadas, por sentença transitada em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição de profissão relacionada com a actividade de estabelecimentos de idêntica natureza.
+
+2 - Tratando-se de pessoa colectiva, os impedimentos aplicam-se às pessoas dos administradores, sócios gerentes, gerentes ou membros dos órgãos sociais das instituições.

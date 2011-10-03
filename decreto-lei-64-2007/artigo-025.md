@@ -1,5 +1,5 @@
 # Artigo 25.º
 
-### Contratos de prestação de serviços
+### Contratos de alojamento e prestação de serviços
 
-Os diplomas específicos e os instrumentos regulamentares de cada resposta social podem estabelecer a obrigatoriedade de celebração por escrito de contratos de prestação de serviços com os utentes ou seus representantes, devendo os mesmos integrar cláusulas sobre os principais direitos e deveres das partes contratantes.
+Os diplomas regulamentares referidos no artigo 5.º podem estabelecer a obrigatoriedade de celebração por escrito de contratos de alojamento ou de prestação de serviços com os utentes ou seus representantes legais, devendo os mesmos integrar cláusulas sobre os principais direitos e deveres das partes contratantes.

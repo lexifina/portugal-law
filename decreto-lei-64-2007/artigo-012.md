@@ -1,17 +1,15 @@
 # Artigo 12.º
 
-### Condições para início de atividade
+### Concessão da licença
 
-O início de atividade de cada resposta social depende da verificação das seguintes condições:
+A licença de funcionamento depende da verificação das seguintes condições:
 
-a) Da conformidade das instalações e do equipamento com a legislação específica aplicável ao desenvolvimento da resposta social pretendida;
+a) Da existência de instalações e de equipamento adequados ao desenvolvimento das actividades pretendidas;
 
-b) [...];
+b) Da apresentação de projecto de regulamento interno elaborado nos termos do artigo 26.º;
 
-c) Da existência de quadro de recursos humanos adequado às atividades a desenvolver na resposta social, de acordo com a legislação específica e os instrumentos regulamentares aplicáveis a cada resposta social;
+c) Da existência de pessoal adequado às actividades a desenvolver, de acordo com os diplomas referidos no artigo 5.º;
 
-d) Da regularidade da situação contributiva das entidades, quer perante a segurança social, quer perante a administração fiscal, a verificar pelo ISS, I. P., diretamente, mediante autorização do respetivo representante legal;
+d) Da regularidade da situação contributiva do requerente, quer perante a segurança social, quer perante a administração fiscal;
 
-e) Da idoneidade do requerente e dos recursos humanos ao serviço da resposta social, considerando o disposto no artigo seguinte;
-
-f) Da existência na resposta social, das medidas de segurança contra incêndio adequadas, em conformidade com a legislação em vigor.
+e) Da idoneidade do requerente e do pessoal ao serviço do estabelecimento, considerando o disposto no artigo 14.º

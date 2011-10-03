@@ -2,32 +2,22 @@
 
 ### Afixação de documentos
 
-1 - São afixados nos estabelecimentos abrangidos pelo presente decreto-lei, em local visível ao público, os seguintes documentos:
+Em local bem visível, devem ser afixados nos estabelecimentos abrangidos pelo presente decreto-lei os seguintes documentos:
 
-a) Cópia da autorização de funcionamento ou da comunicação prévia, quando aplicável;
+a) Uma cópia da licença, ou da autorização provisória de funcionamento;
 
-b) O horário e período de funcionamento do estabelecimento;
+b) O mapa de pessoal e respectivos horários de acordo com a lei em vigor;
 
-c) A identificação do diretor técnico;
+c) O nome do director técnico;
 
-d) O mapa semanal das ementas, quando aplicável;
+d) O horário de funcionamento do estabelecimento;
 
 e) O regulamento interno;
 
-f) A indicação da existência de livro de reclamações.
+f) A minuta do contrato, quando exigível;
 
-g) Documento comprovativo da aprovação das medidas de autoproteção e de realização de inspeções regulares, quando aplicável;
+g) O mapa semanal das ementas, quando aplicável;
 
-h) O preçário.
+h) O preçário, com a indicação dos valores mínimos e máximos;
 
-2 - São disponibilizados pelos estabelecimentos abrangidos pelo presente decreto-lei, quando solicitados e no respeito pelos princípios e regras previstas na legislação aplicável em matéria de proteção de dados, os seguintes documentos:
-
-a) A minuta do contrato de prestação de serviços, quando aplicável;
-
-b) Os critérios de determinação da comparticipação familiar e o montante máximo da mesma, no caso dos estabelecimentos da rede solidária, quando aplicável;
-
-c) O valor da comparticipação financeira da segurança social nas despesas de funcionamento, quando aplicável;
-
-d) Declaração de conformidade do sistema de gestão da segurança alimentar (HACCP), quando aplicável.
-
-3 - O disposto nos números anteriores não isenta o estabelecimento do cumprimento de obrigações de informação e de afixação de documentos resultantes de legislação específica.
+i) O valor da comparticipação financeira do Estado nas despesas de funcionamento dos estabelecimentos, quando aplicável.
