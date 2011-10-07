@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=90IHzJ7HA9a0ZSrtQz8mXDcvzfGefpOheVnMt6DfMKmi5J7vfg77wnSXQNcT7rEjNyMHPex0BA7bnfxtr4bW0sGCld5aVsA6dxKaAv7jS5WSdAIs3%2fHcw%2fG26CkkgscDraQ%2bsdnb83HDQ2scbRd%2biiECrwP3kle5c9nvIw%2beOE5atJR94QIJJasn0xyEZOZ%2fx95LY92djtdtFBVhLj%2bxFRg%2fKtBI%2fQwgwPj2TDf6vpxYBrin68LmmU7Bx5y5a0nrScksrbmK3dYKweXzJaQtd%2fYTPOp6NBP2pki8HV9y2eoqfg2r5Xgg9hKYa2%2ftp2KVHDMULTvkILBTvlx%2fpctxWEayPgimp145UBnTk7npXEQ%3d&fich=DiplomasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f97159af77766c70321336f77959bdef03c4ce38a2ea5bc71549d97d9e5f98a",
+  "legislatura": "XII",
+  "id": "17312",
+  "tipo": "Resolução",
+  "numero": "-XI",
+  "data_registo": "2011-10-07",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2011",
+    "Id": "17312",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "36509",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4d304d546b33595445744d6a41334e693030596d4d334c574a6a4e7a6b744d4751345a5749354e546b315a6d4e6b4c6d527659773d3d&fich=fc4197a1-2076-4bc7-bc79-0d8eb9595fcd.doc&Inline=true",
+        "IniNr": "98",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636939684d54686b5a54517a4f4330314d5749324c5451305a5459744f5749325a5330355a4445334e6a466b5a6a5a694d7a49755a47396a&fich=a18de438-51b6-44e6-9b6e-9d1761df6b32.doc&Inline=true",
+    "Numero": null,
+    "Numero2": "XI",
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "605845",
+        "obs": null,
+        "pag": [
+          "24-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-10-07",
+        "pubLeg": "XII",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/041/2011-10-07/24?pgs=24&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Resolução",
+    "Titulo": "Sobre o processo de revisão do Plano de Ordenamento do Parque Natural da Arrábida (POPNA)",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
