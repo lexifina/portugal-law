@@ -1,0 +1,322 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eED3jvDrj6AIbIFgmWlSEm3hhbzOdmvw5%2bQ34DnwZVhKFgfXRjevDrYDQ8pLjWeVQuPbwuCzIx7fa1Rm7vh3QnZsn5tGy8P0ixx7hxSCgIc34YMzor6xRVuB7fqKD27EUrnnEpbEI9wAsSls4v4RJtf8wm2cbY4Kb4iJB2qpFKHm8SgbDaqd5Ut%2flZThZloajnPC%2bYX9RpPKx3TqfHk9s53K1rveARPG5FUMwdP1iP%2b67k2k5RYqWs9K3%2bfYM7ir%2bYyDxJK%2fwHvNCtr0yAFFAvuQ5EORvcBgV2WQvzHcnP79uOzEX2UNisjGxJbQ0jNvVB0NQxrLDgy3GVWx%2fOJyQ%2btSk5TornXWeLjga82PV7M%3d&fich=IniciativasXI_json.txt&Inline=true",
+  "ficheiro_sha256": "7212c5b9234ab3f3688aae311bac55743c9405844ed910f1dccd6e10b1f8a060",
+  "legislatura": "XI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "5",
+    "id": "34963",
+    "titulo": "Alteração ao Decreto-Lei n.º 66/2008, de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos entre o Continente e a Região Autónoma da Madeira"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2011-10-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8320",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2011-10-07",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-10-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4170",
+                "nome": "Duarte Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:43",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao Decreto-Lei n.º 66/2008, de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos entre o Continente e a Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4304",
+                "nome": "Bruno Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:43",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao Decreto-Lei n.º 66/2008, de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos entre o Continente e a Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:43",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao Decreto-Lei n.º 66/2008, de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos entre o Continente e a Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4393",
+                "nome": "Cristóvão Simão Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:43",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao Decreto-Lei n.º 66/2008, de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos entre o Continente e a Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "542",
+                "nome": "Isabel Sena Lino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:43",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "181462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-08",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao Decreto-Lei n.º 66/2008, de 9 de Abril, que regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos entre o Continente e a Região Autónoma da Madeira",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279493",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8320",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-10-08",
+        "pubLeg": "XII",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/028/2011-10-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2011-10-07",
+        "descricao": null,
+        "detalhe": "A Favor: <I>1-PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "58955",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "28",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
