@@ -1,0 +1,179 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "22",
+    "id": "36480",
+    "titulo": "Aprova a Lei da Arbitragem Voluntária."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2011-10-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "27140",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-10-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-10-07",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-10-25",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d5759334e7a6b304d6930775a6a41344c54526d595755744f4452684e6930794d6d59325a5468694d5464695a6a6b756347526d&fich=71f77942-0f08-4fae-84a6-22f6e8b17bf9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-25",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e6d45324e47457a4d6930324e6a4e6c4c54517a4d574574596a55334d69316b596a41304e6a526b5a44497a4e324d756347526d&fich=06a64a32-663e-431a-b572-db0464dd237c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-25",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5954526d5a6d4930596930304f5449324c5451774d4751744f544e6c4e5330324f4751335a6d51315a4745784e7a49756347526d&fich=fa4ffb4b-4926-400d-93e5-68d7fd5da172.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de Alteração ao anexo - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830596d466a4d6d5a6b5a4330354f5459324c5452684e44637459575532596930334f47566d4f444e684d574a6b4e3251756347526d&fich=4bac2fdd-9966-4a47-ae6b-78ef83a1bd7d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-03",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório de Votações na Especialidade da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a44553259546332595330784d5755794c54517a4e6a497459546b324e6930304f4451314e6a56694e7a49314e4451756347526d&fich=ed56a76a-11e2-4362-a966-484565b72544.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PS, PCP e BE",
+            "pag": [
+              "43-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-11-07",
+            "pubLeg": "XII",
+            "pubNr": "62",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/062/2011-11-07/43?pgs=43-72&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PS, PCP e BE",
+            "pag": [
+              "43-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-11-07",
+            "pubLeg": "XII",
+            "pubNr": "62",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/062/2011-11-07/43?pgs=43-72&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-11-02",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2011-11-02",
+            "dataRemessa": "2011-11-03",
+            "numeroOficio": "574/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2011-11-02",
+            "descricao": "Texto Final aprovado Artigo a Artigo",
+            "detalhe": null,
+            "id": "59154",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "30",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-10-07",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279496",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
