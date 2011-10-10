@@ -1,0 +1,8 @@
+Aviso n.º 20077/2011
+Elaboração do Plano de Pormenor da Lejana
+José Macário Correia, Presidente da Câmara Municipal de Faro, torna público que foi deliberado por unanimidade, na reunião de câmara ordinária pública de 24 de Agosto de 2011, nos termos do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, dar início à elaboração do Plano de Pormenor da Lejana, aprovar os termos de referência deste plano, estabelecer um prazo de 365 dias para a sua elaboração, e nos termos do n.º 2 do artigo 77.º do diploma anteriormente referido, estabelecer um período de 15 dias úteis para efeitos de participação preventiva.
+Foi ainda deliberado, submeter o Plano a um procedimento de Avaliação Ambiental Estratégica, conforme previsto no Decreto-Lei n.º 232/2007, de 15 de Junho, e revogar a deliberação tomada em reunião de câmara ordinária pública de dia 18 de Março de 2011, que determinou a elaboração do Plano de Pormenor da Lejana de Baixo.
+O referido período de participação terá início no 5.º dia útil após a publicação do presente aviso no Diário da República.
+Os termos de referência podem ser consultados no Departamento de Urbanismo, durante a hora de expediente todos os dias úteis e na página da Internet www.cm-faro.pt. As participações deverão ser apresentadas por escrito e dirigidas ao Presidente da Câmara Municipal de Faro, entregues na Secretaria Central desta Câmara Municipal, remetidas por correio ou correio electrónico geral@cm-faro.pt.
+5 de Setembro de 2011. - O Presidente da Câmara Municipal de Faro, José Macário Correia.
+205185875
