@@ -1,0 +1,4 @@
+Aviso n.º 198/2011
+Por ordem superior se torna público que, em 2 de Agosto de 2011, o Governo da República do Senegal depositou, junto do Secretário-Geral da Organização Marítima Internacional, o seu instrumento de adesão ao Protocolo de Alteração da Convenção Internacional sobre Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, adoptada em Londres em 27 de Novembro de 1992.
+Portugal é Parte do mesmo protocolo de alteração, aprovado pelo Decreto n.º 40/2001, publicado no Diário da República, 1.ª série-A, n.º 226, de 28 de Setembro de 2001, tendo depositado o seu instrumento de ratificação em 14 de Novembro de 2001, conforme o Aviso n.º 134/2001, publicado no Diário da República, 1.ª série-A, n.º 293, de 20 de Dezembro de 2001.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 22 de Setembro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco Alves Machado.
