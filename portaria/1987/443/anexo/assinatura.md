@@ -1,0 +1,1 @@
+Lisboa, 31 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, Álvaro Gonçalves Martins. - Pela Associação Portuguesa de Fundição, (Assinatura ilegível.)

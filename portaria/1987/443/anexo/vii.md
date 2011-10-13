@@ -1,0 +1,15 @@
+## Secção I
+
+## Do conselho de administração
+
+# VII
+
+### Composição
+
+1 - O CA é constituído por quatro elementos, sendo dois em representação do IEFP e os restantes em representação do segundo outorgante.
+
+2 - O presidente do CA do Centro é, necessariamente, um dos representantes do primeiro outorgante e, nas suas faltas ou impedimentos, será substituído pelo seu outro representante.
+
+3 - O mandato dos membros do CA tem a duração de três anos, renováveis.
+
+4 - Os membros do CA são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes.
