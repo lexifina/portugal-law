@@ -1,0 +1,4 @@
+Aviso n.º 20499/2011
+Afonso Lourenço Correia da Costa, vem na qualidade de Presidente de Freguesia de Alverca do Ribatejo e no âmbito das competências que lhe são atribuídas pela Lei n.º169/99 de 18 de Setembro, com as alterações efectuadas pelas Leis n.º5-A/02 e 67/07, e de 11 de Janeiro e 31 de Dezembro, e pela declaração de Rectificação n.º04/02 e 09/02 de 06 de Fevereiro e 05 de Março, fazer público que se encontra em exposição para consulta pública, pelo período de 30 dias a contar da data da publicação deste anuncio, a alteração à tabela de Taxas, Licenças e Outras Disposições Legais e seu Regulamento, elaborados no âmbito da Lei n.º53-E/2006, de 29 de Dezembro de forma a dar cumprimento ao preceituado no artigo 13.º da mesma Lei, assim como ao artigo 118.º do código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º442/91 de 15 de Novembro.
+7 de Outubro de 2011. - O Presidente da Junta de Freguesia, Afonso Costa.
+304300616
