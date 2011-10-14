@@ -1,0 +1,49 @@
+# Decisão sumária do Tribunal Constitucional n.º 520/2011, de 2011-10-14
+
+**Decisão sumária:** 520/11
+
+**Processo:** 511/11
+
+**Formação:** 3ª
+
+**Data:** 14.10.11
+
+**Relator:** Cons. Vítor Gomes
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/decsumarias/20110520.html
+
+## Texto integral
+
+DECISÃO SUMÁRIA N.º 520/2011
+
+Processo n.º 515/11
+
+1.ª Secção
+
+Relator – Conselheiro José Borges Soeiro
+
+Decisão Sumária nos termos do artigo 78.º-A, n.º 1, da Lei n.º 28/82, de 15 de Novembro
+
+I – Relatório
+
+1. O Exmo. Magistrado do Ministério Público junto do Tribunal Administrativo e Fiscal de Aveiro interpôs recurso obrigatório, para o Tribunal Constitucional, ao abrigo do artigo 70.º, n.º 1, alínea a) da Lei do Tribunal Constitucional, da decisão naquele proferida “ dado que recusou a aplicação do artigo 8.º do RGIT, com fundamento em inconstitucionalidade, quando interpretado no sentido de que consagra ou autoriza uma responsabilização subsidiária por coimas aplicadas à sociedade, que se efectiva através do mecanismo da reversão da execução fiscal contra os administradores e gerentes. Por violação do artigo 30.º, n.º 3 da Constituição da República Portuguesa.”.
+
+Cumpre decidir.
+
+II – Fundamentação
+
+2. Profere-se decisão sumária ex vi artigo 78.º-A, n.º 1, da LTC, por se tratar de questão já decidida por este Tribunal. Com efeito, sobre a questão de constitucionalidade que se perfila nos autos, foi proferido, pelo Plenário, o Acórdão n.º 437/2011, disponível em www.tribunalconstitucional.pt.
+
+Aí se decidiu não julgar inconstitucional o artigo 8.º, n.º 1, alíneas a) e b), do RGIT, quando interpretado no sentido de que consagra uma responsabilidade pelas coimas que se efectiva pelo mecanismo da reversão da execução fiscal, contra gerentes ou administradores da sociedade devedora.
+
+É esta a jurisprudência que cumpre agora reiterar, para ela se remetendo inteiramente.
+
+III – Decisão
+
+3. Em face do exposto, decido dar provimento ao recurso e, em consequência, ordenar a reforma da decisão recorrida em conformidade com o decidido quanto à questão de constitucionalidade.
+
+Sem custas.
+
+Lisboa, 14 de Outubro de 2011.
+
+José Borges Soeiro
