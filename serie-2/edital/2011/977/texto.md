@@ -1,0 +1,8 @@
+Edital n.º 977/2011
+Projecto de Regulamento do Serviço de Saneamento de Águas Residuais Urbanas do Concelho de Castro Marim
+Dr. José Fernandes Estevens, Presidente da Câmara Municipal de Castro Marim, torna público que, por deliberação da Câmara Municipal tomada em reunião ordinária de 06 de Outubro de 2011, e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Dezembro e na sua actual redacção, durante o período de 30 dias, a contar da data da publicação do presente edital no Diário da República, é submetido a apreciação pública o projecto de Regulamento do Serviço de Saneamento de Águas Residuais Urbanas do Concelho de Castro Marim.
+Os interessados poderão consultar o referido Regulamento na Subunidade Orgânica Administrativa - Serviço de Expediente, todos os dias úteis e durante o horário normal de expediente, e ainda na página oficial do município em www.cm-castromarim.pt.
+As observações e eventuais sugestões dos interessados deverão ser apresentadas por escrito, na Subunidade Orgânica Administrativa - Serviço de Expediente, onde se encontra o referido regulamento para consulta, ou enviadas, por via postal, para a Câmara Municipal de Castro Marim, sita da Rua José Alves Moreira, n.º 10 - 8950-138 Castro Marim, ou ainda por email para: expediente@cm-castromarim.pt, sendo dirigidas ao Sr. Presidente da Câmara Municipal de Castro Marim.
+Para constar e para os devidos efeitos legais, publica-se o presente edital e outros de igual teor, que vão ser afixados nos Paços do Município e demais lugares de estilo, bem como no sítio da Internet www.cm-castromarim.pt.
+7 de Outubro de 2011. - O Presidente da Câmara, Dr. José Fernandes Estevens.
+205210627
