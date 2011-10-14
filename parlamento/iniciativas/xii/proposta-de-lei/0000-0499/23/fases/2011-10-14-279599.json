@@ -1,0 +1,179 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "23",
+    "id": "36500",
+    "titulo": "Regula os requisitos de tratamento de dados pessoais para constituição de ficheiros de âmbito nacional, contendo dados de saúde, com recurso a tecnologias de informação e no quadro do Serviço Nacional de Saúde"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2011-10-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "27188",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-10-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-10-14",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-12-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PSD e CDS/PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968595759355a444d784f43316b595449314c5451784e575974596d4e684f4330794d5445784d546b304d6a4931593255756347526d&fich=aaf9d318-da25-415f-bca8-2111194225ce.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f474d794e5746695a5330344d47566a4c54526d4d4449744f475a6b4d79316a4e574e6c597a6c6d4e544a6a596a59756347526d&fich=b8c25abe-80ec-4f02-8fd3-c5cec9f52cb6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "3 - Proposta de Alteração - PSD e CDS/PP - Artigo 2.º",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793835595749355a6a45324e4330774d57526a4c5451794d7a6b74596a4e694d69316d597a6b324f54426a4e7a4e6a4f5745756347526d&fich=9ab9f164-01dc-4239-b3b2-fc9690c73c9a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Exposição - Provedor de Justiça ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a446c6a4d324a695a69316b4d5445324c545133596d51744f4463314e7930354f575530595749324d4745304e4755756347526d&fich=4d9c3bbf-d116-47bd-8757-99e4ab60a44e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-14",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório de Votações na Especialidade da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f474a695a446c6c4d69316a597a59324c5451794d6a55744f4445794e69316d596d526d5a57597a4f5455334d6d59756347526d&fich=b8bbd9e2-cc66-4225-8126-fbdfef39572f.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "19-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-14",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/080/2011-12-14/19?pgs=19-25&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "19-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-14",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/080/2011-12-14/19?pgs=19-25&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-12-13",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2011-12-13",
+            "dataRemessa": "2011-12-14",
+            "numeroOficio": "786/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2011-12-13",
+            "descricao": "Texto Final aprovado Artigo a Artigo",
+            "detalhe": null,
+            "id": "59455",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "36",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-10-14",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279599",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
