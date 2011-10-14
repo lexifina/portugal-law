@@ -1,0 +1,8 @@
+Edital n.º 981/2011
+Abertura do período de discussão pública do processo de revisão do Plano Director Municipal de Vouzela
+Armindo Telmo Antunes Ferreira, Presidente da Câmara Municipal de Vouzela, torna público, nos termos do n.º 3 do artigo 77.º e da alínea a) do n.º 4 do artigo 148.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, e ulteriores alterações, que se encontra aberto um período de discussão pública da Proposta de Revisão do Plano Director Municipal de Vouzela, pelo período de 30 dias, a contar do quinto dia, após publicação no Diário da República, podendo a proposta de Revisão e demais documentos que compõe o processo, ser consultados no Gabinete de Planeamento da Câmara Municipal de Vouzela, sita na Alameda D. Duarte de Almeida, 3670-250 Vouzela, e no site www.cm-vouzela.pt, todos os dias úteis entre as 9h00 e as 12h30, e entre as 14h00 e as 17h00.
+Mais se informa que será realizada uma sessão pública, no Auditório Municipal 25 de Abril, no edifício da Câmara Municipal, dia 28 de Outubro de 2011, pelas 21 horas.
+As eventuais sugestões, observações, reclamações e ou pedidos de esclarecimento de interessados devem ser formulados por requerimento dirigido ao Presidente da Câmara Municipal de Vouzela - Proposta de Revisão do Plano Director Municipal de Vouzela - Alameda D. Duarte de Almeida, 3670-250 Vouzela, e entregues no balcão do Sector de Obras Particulares.
+Para constar se publica o presente aviso no site da Câmara Municipal de Vouzela, sendo ainda afixados nos lugares de estilo outros de igual teor.
+07 de Outubro de 2011. - O Presidente da Câmara Municipal, Armindo Telmo Antunes Ferreira, Dr.
+205210351
