@@ -1,0 +1,232 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "27",
+    "id": "36533",
+    "titulo": "Aprova o Orçamento do Estado para 2012."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2011-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "27208",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2011-07-26",
+            "id": "90885",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-15",
+            "id": "91532",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-16",
+            "id": "91553",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-16",
+            "id": "91552",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2011-11-09",
+            "id": "91503",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-10-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-10-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-11-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Sindical dos Juízes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c596a4e684d7a5a6d4e43316b4e5759794c54517a5a6a59744f4755774e69316d4f5459344e6d59354d6a55344d4451756347526d&fich=eb3a36f4-d5f2-43f6-8e06-f9686f925804.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4f5755324e546c6d5a69316d597a4a6c4c54526a4e325174596a686b4e5330334e7a4d354e47557a4e7a4d78595445756347526d&fich=39e659ff-fc2e-4c7d-b8d5-77394e3731a1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a574a6d596d51784d7930334d6a64694c54526b5a575974595451325a4331694f544e6a4d3245325a475535595445756347526d&fich=eebfbd13-727b-4def-a46d-b93c3a6de9a1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383559574d324e7a67774f5331695a474d7a4c5451794e4463744f575979597930325a6a4d314d474a6d595464684e6a51756347526d&fich=9ac67809-bdc3-4247-9f2c-6f350bfa7a64.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Sindicato dos Magistrados do Minstério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832597a55344e574e6b4e79316d4e6a41354c54526b4d474d74595451305a6931684e6d4d774d5441784f5752684d474d756347526d&fich=6c585cd7-f609-4d0c-a44f-a6c01019da0c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-10-26",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Pareceres Sectoriais das Áreas da Justiça, da Administração Interna e da Igualdade, da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5954526b5a5459345a5330344e6a45334c5451344e324d744f5749344f4330324f5755324e6d55794e575535596a67756347526d&fich=ca4de68e-8617-487c-9b88-69e66e25e9b8.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2011-11-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2011-11-09"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2011-11-10"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2011-11-08"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2011-11-04"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2011-10-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2011-10-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2011-10-26"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2011-10-26"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2011-10-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4300",
+            "motivoCessacao": null,
+            "nome": "Hugo Lopes Soares"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4209",
+            "motivoCessacao": null,
+            "nome": "Elza Pais"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "2194",
+            "motivoCessacao": null,
+            "nome": "Cecília Honório"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-10-26",
+            "dataRemessa": "2011-10-26",
+            "numeroOficio": "521/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2011-10-26",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "59126",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "29",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-10-17",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279624",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
