@@ -1,0 +1,4 @@
+Aviso n.º 201/2011
+Por ordem superior se torna público que, em 26 de Abril de 2011, a República do Cazaquistão depositou, junto da Agência Internacional de Energia Atómica, o seu instrumento de ratificação das Emendas à Convenção sobre a Protecção Física dos Materiais Nucleares, adoptadas em Viena, em 8 de Julho de 2005.
+Portugal é Parte das mesmas Emendas, aprovadas pela Resolução da Assembleia da República n.º 113/2010 e ratificadas pelo Decreto do Presidente da República n.º 106/2010, ambos publicados no Diário da República, 1.ª série, n.º 208, de 26 de Outubro de 2010, tendo depositado o instrumento de adesão em 26 de Novembro de 2010, conforme o Aviso n.º 357/2010, publicado no Diário da República, 1.ª série, n.º 240, de 14 de Dezembro de 2010.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 26 de Setembro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco de Alves Machado.
