@@ -1,0 +1,132 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "27",
+  "id": "36533",
+  "fases": 44,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2011-10-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4759354e575930593259745a6d4d784d6930304d4445784c546b795a545174597a49334d4467354d7a5530596a51334c6e426b5a673d3d&fich=4f95f4cf-fc12-4011-92e4-c27089354b47.pdf&Inline=true",
+        "anexoNome": "Mapa I - Receitas dos Serviços Integrados, por Classificação Económica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a4d334d474d335a54597459574d324e7930304e6d45324c5467334d6a45744e6a686b4d6a426c4d54517959544d794c6e426b5a673d3d&fich=f370c7e6-ac67-46a6-8721-68d20e142a32.pdf&Inline=true",
+        "anexoNome": "Mapa II - Despesas dos Serviços Integrados, por classificação orgânica, especificadas por capítulos"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a566b4d54526b4e6a55745a44566c59793030596d526a4c574978595751744d324e6b4e3245325a6d51304d4755314c6e426b5a673d3d&fich=65d14d65-d5ec-4bdc-b1ad-3cd7a6fd40e5.pdf&Inline=true",
+        "anexoNome": "Mapa III - Despesas dos serviços integrados por classificação funcional"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f54526a4e7a56684e6a45745a5459344f5330304d4759314c546c694e6a49745a6a526a595749335957557a4f57526b4c6e426b5a673d3d&fich=94c75a61-e689-40f5-9b62-f4cab7ae39dd.pdf&Inline=true",
+        "anexoNome": "Mapa IV - Despesas dos Serviços Integrados, por Classificação Económica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a466b5a4449344d3249745a6a41794d4330304e575a6d4c574a694e7a49744e325a68596a4d774e6a526c5a4467314c6e426b5a673d3d&fich=c1dd283b-f020-45ff-bb72-7fab3064ed85.pdf&Inline=true",
+        "anexoNome": "Mapa V - Receitas dos Serviços e Fundos Autónomos, por Classificação Orgânica, com especificação das receitas globais de cada serviço e fundo"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47526d596a63304e54457459325177596930304e32526d4c57466d4f5745745a5759334e5456684f444133597a67304c6e426b5a673d3d&fich=ddfb7451-cd0b-47df-af9a-ef755a807c84.pdf&Inline=true",
+        "anexoNome": "Mapa VI - Receitas dos Serviços e Fundos Autónomos, por Classificação Económica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5755304d444135595451744e5463305a6930305a5451334c5749304f474d744e6d51784e7a637a4d7a557a597a52694c6e426b5a673d3d&fich=5e4009a4-574f-4e47-b48c-6d1773353c4b.pdf&Inline=true",
+        "anexoNome": "Mapa VII - Despesas dos Serviços e Fundos Autónomos, por Classificação Orgânica, com especificação das despesas globais de cada serviço e fundo"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5445334e5459325a4759744f574d32595330304d54566d4c57466c5a4445744e545a68596a566b4e7a63794d7a49354c6e426b5a673d3d&fich=117566df-9c6a-415f-aed1-56ab5d772329.pdf&Inline=true",
+        "anexoNome": "Mapa VIII - Despesas dos Serviços e Fundos Autónomos por classificação funcional"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5745305a5467334f546b74597a677959793030597a49334c5749794e574d744d6a55774f4467794d47597859575a6b4c6e426b5a673d3d&fich=5a4e8799-c82c-4c27-b25c-2508820f1afd.pdf&Inline=true",
+        "anexoNome": "Mapa IX - Despesas dos Serviços e Fundos Autónomos por classificação económica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d325a6a4d6a646a4f5445744f5451324e6930304d6a64684c5467344e3255745a5755784f4455324e6d5669595745324c6e426b5a673d3d&fich=3fc27c91-9466-427a-887e-ee18566ebaa6.pdf&Inline=true",
+        "anexoNome": "Mapa X - Receitas da Segurança Social por Classificação Económica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a6b32596a646c4e7a51744e4751784d79303059574a6d4c54686d4f4751744e7a566d5a6d59784e4745305a6d49774c6e426b5a673d3d&fich=b96b7e74-4d13-4abf-8f8d-75fff14a4fb0.pdf&Inline=true",
+        "anexoNome": "Mapa  XI - Despesas da Segurança Social por Classificação Funcional"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5467314e32526d4e574d745a54466d5a6930305a5445344c574931595441744f574e6c5a5449784e7a63314d3255334c6e426b5a673d3d&fich=9857df5c-e1ff-4e18-b5a0-9cee217753e7.pdf&Inline=true",
+        "anexoNome": "Mapa XII - Despesas da Segurança Social por Classificação Económica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4455314d5441344d4449744e444e684e6930304d324e6a4c546c6a597a4d744d54566b596a646a4e4755355a446c6a4c6e426b5a673d3d&fich=d5510802-43a6-43cc-9cc3-15db7c4e9d9c.pdf&Inline=true",
+        "anexoNome": "Mapa XIII - Receitas do Sistema de Protecção Social de Cidadania - Subsistemas de Solidariedade, Protecção Familiar, e Acção Social, e Receitas do Sistema Previdencial - Repartição e Capitalização"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595442694e5759784f5455744e324d7a595330304e6d5a684c5749344f5755744d5449784e474e68597a51794e7a5a6c4c6e426b5a673d3d&fich=a0b5f195-7c3a-46fa-b89e-1214cac4276e.pdf&Inline=true",
+        "anexoNome": "Mapa XIV - Despesas do Sistema de Protecção Social de Cidadania - Sunsistemas de Solidariedade, Protecção Familiar, e Acção Social, e Despesas do Sistema Previdencial - Capitalização e Repartição"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a44417a4f444e6c5a544974597a5531595330305a6a6b304c5745784f4759744e544e6859574e694e5463785a474d314c6e426b5a673d3d&fich=d0383ee2-c55a-4f94-a18f-53aacb571dc5.pdf&Inline=true",
+        "anexoNome": "Mapa XV - Despesas correspondentes a programas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d59304e6a6b30595755744e4749344e5330304e6a41774c54686a596d4d744e6a6b7a4f545a6d596d4a694e4445354c6e426b5a673d3d&fich=ff4694ae-4b85-4600-8cbc-69396fbbb419.pdf&Inline=true",
+        "anexoNome": "Mapa XVI - Repartição Regionalizada dos Programas e Medidas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d574d7a4f5751784e3245744d6d49354d6930304e54686b4c574978597a63745a6a526d4d5449784e57566d5a54646d4c6e426b5a673d3d&fich=1c39d17a-2b92-458d-b1c7-f4f1215efe7f.pdf&Inline=true",
+        "anexoNome": "Mapa XVII - Responsabilidades Plurianuais dos serviços integrados e dos serviços e fundos autónomos agrupados por Ministério"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4442684e3249334d444d74595756694d6930304e6a51324c546b315a6d55744e7a557a593249324f4751345a6a67774c6e426b5a673d3d&fich=80a7b703-aeb2-4646-95fe-753cb68d8f80.pdf&Inline=true",
+        "anexoNome": "Mapa XVIII - Transferências para as Regiões Autónomas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a686a4e6a466b4d3245744d445a684e7930305a47526c4c5467344f4463744d544d79597a49334d3249784d6d4d324c6e426b5a673d3d&fich=68c61d3a-06a7-4dde-8887-132c273b12c6.pdf&Inline=true",
+        "anexoNome": "Mapa XIX - Participação dos municípios nos impostos do Estado - 2012"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4579593255305a5751744d546b324e4330304f57517a4c57466b4d444d745a6d59795a6a41344d474a695a6d5a6a4c6e426b5a673d3d&fich=fa2ce4ed-1964-49d3-ad03-ff2f080bbffc.pdf&Inline=true",
+        "anexoNome": "Mapa XX - Transferências para as freguesias - participação das freguesias nos impostos do Estado - 2012"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5756694d4445795a446b744d444a69596930304f4449354c5749794e5455745957466859544533596a67794d44566d4c6e426b5a673d3d&fich=9eb012d9-02bb-4829-b255-aaaa17b8205f.pdf&Inline=true",
+        "anexoNome": "Mapa XXI - Receitas Tributárias cessantes dos serviços integrados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324979596a457a4d6a55744d546b355a6930304e44457a4c5745304d7a63744e325a6a4e5449314d6d51774e6d4a6c4c6e426b5a673d3d&fich=3b2b1325-199f-4413-a437-7fc5252d06be.pdf&Inline=true",
+        "anexoNome": "Relatório"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "36533",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4441344f5445315a4441744f544a69596930304d4441794c54686a4f5449744f474530595459774d6d55324d6d4a6a4c6d527659773d3d&fich=d08915d0-92bb-4002-8c92-8a4a602e62bc.doc&Inline=true",
+    "IniNr": "27",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova o Orçamento do Estado para 2012.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
