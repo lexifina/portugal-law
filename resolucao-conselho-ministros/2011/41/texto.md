@@ -1,0 +1,19 @@
+Resolução do Conselho de Ministros n.º 41/2011
+Através da Resolução do Conselho de Ministros n.º 26/2011, de 28 de Abril, foi autorizada a realização de despesa com a aquisição de serviços de disponibilização e locação de meios aéreos necessários à prossecução das missões públicas de combate aos incêndios florestais.
+O Ministério da Administração Interna, durante o ano de 2011, através da EMA - Empresa de Meios Aéreos, S. A., inscreveu o montante global de (euro) 12 983 740, acrescido de IVA à taxa legal em vigor, com vista a assegurar a disponibilidade de meios aéreos, de forma sazonal.
+A despesa autorizada e os meios consequentemente contratados destinaram-se ao combate aos incêndios florestais previstos para a fase Charlie, período crítico de maior perigosidade e probabilidade de ocorrências, que terminou no passado dia 30 de Setembro.
+Como habitualmente, após tal data procedeu-se à redução gradual do dispositivo estabelecido para a fase Delta na directiva operacional nacional n.º 2 (DECIF).
+Sucede, porém, que se têm verificado condições meteorológicas excepcionais para esta altura do ano, caracterizadas pela continuação de tempo quente e seco, com elevadas temperaturas, reduzida humidade no ar e no solo, e vento predominante de leste.
+Pelo exposto, os índices de risco de incêndio têm-se mantido predominantemente elevados a máximos, gerando um número de incêndios florestais por dia muito acima da média dos últimos anos para este período, com o seu expoente máximo no passado dia 9 de Outubro, com 399 ocorrências.
+Para fazer face a esta situação, o Governo tomou diversas medidas, desde a prorrogação do período crítico até 15 de Outubro, no âmbito do sistema nacional de defesa da floresta contra incêndios, por via da Portaria n.º 275-C/2011, de 4 de Outubro, ao reforço do efectivo operacional terrestre e dos meios aéreos, pela contratação de quatro helicópteros ligeiros de combate aos fogos florestais.
+As últimas previsões meteorológicas apontam para uma possível manutenção destas condições climatéricas até ao fim do mês.
+Assim, torna-se agora necessário, face às circunstâncias mencionadas, tomar medidas excepcionais, no sentido de manter, até ao final de Outubro, o dispositivo actualmente existente.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Determinar a prorrogação até 31 de Outubro do período crítico no âmbito do sistema nacional de defesa da floresta contra incêndios.
+2 - Autorizar a realização de despesa resultante da prorrogação até 30 de Outubro do contrato CP/02/EMA-2010, respeitante a oito helicópteros médios, até ao montante global de (euro) 438 495, valor ao qual acresce o IVA à taxa legal em vigor, visando assegurar a disponibilidade de meios aéreos para além dos meios aéreos próprios da EMA - Empresa de Meios Aéreos, S. A.
+3 - Determinar que o dispositivo inicialmente previsto até 15 de Outubro, de 758 operacionais e o reforço de 364 operacionais distribuídos por 14 grupos localizados nos distritos de maior risco, num total global de 1022 operacionais, se prolongue até 31 de Outubro, correspondendo a um custo global de (euro) 739 728.
+4 - Determinar que os encargos referidos nos números anteriores são suportados por verbas provenientes da dotação provisional do Ministério das Finanças, por se tratar de uma situação absolutamente excepcional, de carácter urgente, imprevisível e inadiável.
+5 - Delegar no Ministro da Administração Interna a execução das medidas previstas na presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 13 de Outubro de 2011. - O Primeiro-Ministro, Pedro Passos Coelho.
