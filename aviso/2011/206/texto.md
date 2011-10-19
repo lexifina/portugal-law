@@ -1,0 +1,5 @@
+Aviso n.º 206/2011
+Por ordem superior se torna público que foram recebidas notas pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério das Relações Exteriores da República Federativa do Brasil, respectivamente em 1 de Outubro de 2008 e 25 de Novembro de 2009, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Federativa do Brasil sobre Cooperação no Domínio da Defesa, assinado no Porto em 13 de Outubro de 2005.
+Por parte da República Portuguesa, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 68/2009, de 12 de Junho, e ratificado pelo Decreto do Presidente da República n.º 76/2009, de 5 de Agosto, publicados no Diário da República, 1.ª série, n.º 150, de 5 de Agosto de 2009.
+Nos termos do artigo 11.º, o Acordo entrou em vigor no dia 24 de Dezembro de 2009.
+Direcção-Geral de Política Externa, 6 de Outubro de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
