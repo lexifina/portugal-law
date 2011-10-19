@@ -1,0 +1,4 @@
+Aviso n.º 203/2011
+Por ordem superior se torna público que, em 26 de Março de 2010, o Reino do Tonga depositou o seu instrumento de adesão à Convenção sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos e Sua Eliminação, adoptada em Basileia em 22 de Março de 1989.
+Portugal é Parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 37/93, publicado no Diário da República, 1.ª série-A, n.º 246, de 20 de Outubro de 1993, tendo depositado a carta de ratificação em 26 de Janeiro de 1994, conforme o Aviso n.º 144/94, publicado no Diário da República, 1.ª série-A, n.º 109, de 11 de Maio de 1994.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 28 de Setembro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco Alves Machado.
