@@ -1,0 +1,4 @@
+Aviso n.º 204/2011
+Por ordem superior se torna público que, em 29 de Novembro de 2010, o Governo da Roménia depositou, junto do Governo Suíço, o seu instrumento de adesão à Convenção Que Estabelece a Organização Europeia para a Exploração de Satélites Meteorológicos (EUMETSAT), adoptada em Genebra em 24 de Maio de 1983.
+Portugal é Parte da mesma Convenção, aprovada pela Resolução da Assembleia da República n.º 16/88, publicada no Diário da República, 1.ª série, n.º 179, de 4 de Agosto de 1988, e ratificada pelo Decreto do Presidente da República n.º 60/88, publicado no Diário da República, 1.ª série, n.º 191, de 19 de Agosto de 1988, tendo depositado o seu instrumento de adesão em 3 de Maio de 1989, conforme Aviso publicado no Diário da República, 1.ª série, n.º 147, de 29 de Junho de 1989.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 30 de Setembro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco Alves Machado.
