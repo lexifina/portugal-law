@@ -1,0 +1,7 @@
+Aviso n.º 20942/2011
+Dinis Manuel da Silva Costa, Presidente da Câmara Municipal de Vizela, torna público, nos termos do disposto nos n.os 3 e 4, do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na sua actual redacção e em cumprimento da deliberação da Câmara Municipal de Vizela de 13 de Outubro de 2011, que a partir do 5.º dia útil a seguir à publicação deste aviso no Diário da República e durante 30 dias úteis, se encontra aberto um período de Discussão Pública do Plano Director Municipal de Vizela.
+A proposta do Plano, acompanhada dos respectivos pareceres emitidos estão disponíveis para consulta na Divisão de Planeamento e Gestão Urbanística da Câmara Municipal de Vizela.
+Durante o período de Discussão Pública, qualquer reclamação, observação, sugestão ou pedido de esclarecimento deve ser apresentado por escrito e entregue directamente na Divisão de Planeamento e Gestão Urbanística, sita na Rua Dr. Abílio Torres, freguesia de S. Miguel, ou remeter por correio registado, endereçado ao Presidente da Câmara de Vizela - Plano Director Municipal de Vizela - Rua Alfredo Pinto, n.º 42, S. João - 4815-397 Vizela.
+Para constar se publica o presente aviso no Diário da República, sitio da Câmara Municipal de Vizela e na comunicação social, sendo ainda afixado nos lugares de estilo e outros de igual teor.
+14 de Outubro de 2011. - O Presidente da Câmara, Dinis Manuel da Silva Costa.
+205240646
