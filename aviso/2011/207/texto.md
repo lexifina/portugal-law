@@ -1,0 +1,4 @@
+Aviso n.º 207/2011
+Por ordem superior se torna público que, em 8 de Julho de 2011, a República do Peru depositou, junto do Secretário-Geral da União Internacional para a Protecção das Obtenções Vegetais (UPOV), o seu instrumento de adesão à Convenção Internacional para a Protecção das Obtenções Vegetais, de 2 de Dezembro de 1961, revista em Genebra em 10 de Novembro de 1972, em 23 de Outubro de 1978 e em 19 de Março de 1991.
+Portugal é Parte da mesma Convenção, aprovada, para adesão, pelo Decreto n.º 20/95, publicado no Diário da República, 1.ª série-A, n.º 156, de 8 de Julho de 1995, tendo depositado o seu instrumento de adesão em 14 de Setembro de 1995, conforme o Aviso n.º 12/96, publicado no Diário da República, 1.ª série-A, n.º 1, de 2 de Janeiro de 1996.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 6 de Outubro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco Alves Machado.
