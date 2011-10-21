@@ -1,0 +1,499 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "90",
+    "id": "36527",
+    "titulo": "Reintroduz o Passe Social Intermodal."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2011-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8343",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2011-10-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36462",
+        "leg": "XII",
+        "nr": "67",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1567",
+            "obs": null,
+            "pag": [
+              "20-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-22",
+            "pubLeg": "XII",
+            "pubNr": "34",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/20?pgs=20-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1567",
+            "obs": null,
+            "pag": [
+              "20-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-22",
+            "pubLeg": "XII",
+            "pubNr": "34",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/20?pgs=20-28&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Confirma o passe social intermodal como título nos transportes colectivos de passageiros e actualiza o âmbito geográfico das respectivas coroas  na Área Metropolitana de Lisboa"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36528",
+        "leg": "XII",
+        "nr": "106",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1567",
+            "obs": null,
+            "pag": [
+              "20-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-22",
+            "pubLeg": "XII",
+            "pubNr": "34",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/20?pgs=20-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1567",
+            "obs": null,
+            "pag": [
+              "20-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-22",
+            "pubLeg": "XII",
+            "pubNr": "34",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/20?pgs=20-28&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a realização do inquérito à mobilidade da população residente em portugal e a actualização da abrangência territorial do passe social."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-10-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=00:51:00:296&drc=00:03:51:545"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:15:53:581&drc=00:01:14:666"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/20?pgs=20-21,27-28&org=PLC"
+              }
+            ],
+            "sumario": "Confirma o passe social intermodal como título nos transportes colectivos de passageiros e actualiza o âmbito geográfico das respectivas coroas  na Área Metropolitana de Lisboa; Reintroduz o Passe Social Intermodal; Recomenda a realização do inquérito à mobilidade da população residente em portugal e a actualização da abrangência territorial do passe social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=00:55:02:543&drc=00:03:34:172"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:14:29:424&drc=00:01:18:627"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22",
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/21?pgs=21-22,27&org=PLC"
+              }
+            ],
+            "sumario": "Confirma o passe social intermodal como título nos transportes colectivos de passageiros e actualiza o âmbito geográfico das respectivas coroas  na Área Metropolitana de Lisboa; Reintroduz o Passe Social Intermodal; Recomenda a realização do inquérito à mobilidade da população residente em portugal e a actualização da abrangência territorial do passe social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4095",
+                "nome": "Sérgio Azevedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=00:58:42:356&drc=00:03:07:927"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Confirma o passe social intermodal como título nos transportes colectivos de passageiros e actualiza o âmbito geográfico das respectivas coroas  na Área Metropolitana de Lisboa; Reintroduz o Passe Social Intermodal; Recomenda a realização do inquérito à mobilidade da população residente em portugal e a actualização da abrangência territorial do passe social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2263",
+                "nome": "Ana Paula Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:01:56:535&drc=00:03:35:753"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Confirma o passe social intermodal como título nos transportes colectivos de passageiros e actualiza o âmbito geográfico das respectivas coroas  na Área Metropolitana de Lisboa; Reintroduz o Passe Social Intermodal; Recomenda a realização do inquérito à mobilidade da população residente em portugal e a actualização da abrangência territorial do passe social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4427",
+                "nome": "José Lino Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:05:35:916&drc=00:04:35:699"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/24?pgs=24-26&org=PLC"
+              }
+            ],
+            "sumario": "Confirma o passe social intermodal como título nos transportes colectivos de passageiros e actualiza o âmbito geográfico das respectivas coroas  na Área Metropolitana de Lisboa; Reintroduz o Passe Social Intermodal; Recomenda a realização do inquérito à mobilidade da população residente em portugal e a actualização da abrangência territorial do passe social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111021pln&url=l12/sl1/a2011/m10/&tI=01:10:17:617&drc=00:04:08:036"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-10-22",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Confirma o passe social intermodal como título nos transportes colectivos de passageiros e actualiza o âmbito geográfico das respectivas coroas  na Área Metropolitana de Lisboa; Reintroduz o Passe Social Intermodal; Recomenda a realização do inquérito à mobilidade da população residente em portugal e a actualização da abrangência territorial do passe social.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279745",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "570291",
+        "obs": null,
+        "pag": [
+          "20-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-10-22",
+        "pubLeg": "XII",
+        "pubNr": "34",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/034/2011-10-22/20?pgs=20-28&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
