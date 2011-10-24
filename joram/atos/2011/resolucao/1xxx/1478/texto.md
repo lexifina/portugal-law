@@ -1,0 +1,63 @@
+# Resolução n.º 1478/2011
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 115/2011, de 2011-10-24
+
+**Sumário:** Rectifica o preâmbulo da Resolução n.º 1111/2011, de 4 de Agosto. Resolução n.º 1479/2011 Cessa o contrato-programa celebrado entre a Região, através do Instituto do Desporto da Região Autónoma da Madeira e a associação denominada Associação Cultural e Desportiva de São João. Resolução n.º 1480/2011 Autoriza a Secretaria Regional do Plano e Finanças a proceder, junto da entidade denominada Caixa Geral de Depósitos, S.A., ao pagamento da importância de 366,47. Resolução n.º 1481/2011 Autoriza a Secretaria Regional do Plano e Finanças a proceder, junto da entidade denominada Caixa Geral de Depósitos, S.A., ao pagamento da importância de 4.086,80. Resolução n.º 1482/2011 Autoriza a Secretaria Regional do Plano e Finanças a proceder, junto da entidade denominada Banco Santander Totta, S.A., ao pagamento da importância de 2.408,72. Resolução n.º 1483/2011 Autoriza a Secretaria Regional do Plano e Finanças a proceder, junto da entidade denominada Caixa Geral de Depósitos, S.A., ao pagamento da importância de 3.285,66. Resolução n.º 1484/2011 Autoriza a Secretaria Regional do Plano e Finanças a proceder, junto da entidade denominada Caixa Geral de Depósitos, S.A., ao pagamento da importância de 1.680,02.
+
+## Texto
+
+Resolução n.º 1478/2011
+Considerando que, o preâmbulo da Resolução número 1111/2011, tomada por este Conselho de Governo aos 4 de Agosto, saiu uma imprecisão que importa rectificar.
+O Conselho do Governo reunido em plenário em 13 de Outubro de 2011, resolveu o seguinte:
+Ponto Único - No preâmbulo da Resolução número 1111/2011, tomada por este Conselho de Governo aos 4 de Agosto,
+Onde se lê: “ (...) tendo os mesmos sido homologados pelo Instituto de Habitação e Reabilitação Urbana (IHRU), conforme seu ofício noventa e três mil e oitenta e sete, de doze de Março de dois mil e oito, (...)”,
+Deverá ler-se: “ (...) tendo os mesmos sido homologados pelo Instituto de Habitação e Reabilitação Urbana (IHRU), conforme seu ofício três cinco cinco oito três oito, de doze de Maio de dois mil e onze, (...)”,
+Presidência do Governo Regional. - O VICE-PRESIDENTE DO GOVERNO REGIONAL, no exercício da Presidência, João Carlos Cunha e Silva.
+Resolução n.º 1479/2011
+Considerando que entre a Região Autónoma da Madeira, através do Instituto do Desporto da Região Autónoma da Madeira, e a Associação Cultural e Desportiva de São João, foi celebrado o contrato-programa de desenvolvimento desportivo n.º 108/2008, assinado em 22 de Julho de 2008, aprovado através da Resolução n.º 756/2008, de 10 de Julho, para a comparticipação financeira nos encargos decorrentes da empreitada de construção/reconstrução da sede da Associação Cultural e Desportiva de São João, bem como nos encargos financeiros decorrentes do contrato de financiamento a celebrar pelo Clube junto de uma entidade financeira;
+Considerando que a Resolução n.º 777/2010, de 13 de Julho, aprovou a primeira alteração ao referido contrato-programa de desenvolvimento desportivo;
+Considerando a impossibilidade de realização dos objectivos essenciais do mencionado contrato-programa, nos termos do disposto na alínea b) do n.º 3 do artigo 44.º da Lei n.º 48/2006, de 29 de Agosto, torna-se necessário cessar os mesmos.
+O Conselho do Governo reunido em plenário em 13 de Outubro de 2011, resolveu:
+Ao abrigo do disposto na alínea b) do n.º 1 do artigo 14.º do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho, e na alínea a) do n.º 1 da cláusula oitava do contrato programa de desenvolvimento desportivo n.º 108/2008, celebrado entre a Região Autónoma da Madeira, através do Instituto do Desporto da Região Autónoma da Madeira, e a Associação Cultural e Desportiva de São João, cessar os referidos contratos programa.
+Presidência do Governo Regional. - O VICE-PRESIDENTE DO GOVERNO REGIONAL, no exercício da Presidência, João Carlos Cunha e Silva.
+
+Resolução n.º 1480/2011
+Considerando que através do artigo 5.º do Decreto Legislativo Regional n.º 4-A/2001/M, de 3 de Abril, na redacção dada pelo artigo 3.º do Decreto Legislativo Regional n.º 28-A/2001/M, de 13 de Novembro, foi criada uma linha de crédito bonificado a favor das autarquias locais, associações de municípios ou empresas concessionárias destas, destinada ao financiamento complementar dos projectos de investimento de natureza municipal e intermunicipal comparticipados pelo FEDER no âmbito do III Quadro Comunitário de Apoio, para o período 2000-2006.
+Considerando que nos termos do disposto do n.º 2 do artigo 5.º do referido diploma, aos empréstimos contraídos ao abrigo do mesmo é atribuída uma bonificação de juros, a suportar pelo Orçamento da Região Autónoma da Madeira, no montante de 70% do valor dos juros a pagar em cada data de vencimento.
+Considerando ainda que o Município de Porto Moniz, contraiu um empréstimo ao abrigo do referido diploma legal.
+O Conselho de Governo reunido em plenário em 13 de Outubro de 2011, resolveu autorizar a Secretaria Regional do Plano e Finanças a proceder ao pagamento, junto da Caixa Geral de Depósitos, da importância de 366,47 (trezentos e sessenta e seis euros e quarenta e sete cêntimos), referente à bonificação de 70% dos juros da 36.ª prestação do empréstimo bonificado contraído pelo Município de Porto Moniz, cujo vencimento ocorre a 8 de Novembro de 2011.
+As despesas com a bonificação de juros têm cabimento orçamental na Secretaria 08, Capítulo 01, Divisão 01, Subdivisão 00, Classificação económica 04.02.01.
+Presidência do Governo Regional. - O VICE-PRESIDENTE DO GOVERNO REGIONAL, no exercício da Presidência, João Carlos Cunha e Silva.
+Resolução n.º 1481/2011
+Considerando que através do artigo 5.º do Decreto Legislativo Regional n.º 4-A/2001/M, de 3 de Abril, na redacção dada pelo artigo 3.º do Decreto Legislativo Regional n.º 28-A/2001/M, de 13 de Novembro, foi criada uma linha de crédito bonificado a favor das autarquias locais, associações de municípios ou empresas concessionárias destas, destinada ao financiamento complementar dos projectos de investimento de natureza municipal e intermunicipal comparticipados pelo FEDER no âmbito do III Quadro Comunitário de Apoio, para o período 2000-2006.
+Considerando que nos termos do disposto do n.º 2 do artigo 5.º do referido diploma, aos empréstimos contraídos ao abrigo do mesmo é atribuída uma bonificação de juros, a suportar pelo Orçamento da Região Autónoma da Madeira, no montante de 70% do valor dos juros a pagar em cada data de vencimento.
+Considerando ainda que o Município de Porto Santo, contraiu um empréstimo ao abrigo do referido diploma legal.
+O Conselho de Governo reunido em plenário em 13 de Outubro de 2011, resolveu autorizar a Secretaria Regional do Plano e Finanças a proceder ao pagamento, junto da Caixa Geral de Depósitos, da importância de 4.086,80 (quatro mil e oitenta e seis euros e oitenta cêntimos), referente à bonificação de 70% dos juros da 19.ª prestação do empréstimo bonificado contraído pelo Município de Porto Santo, cujo vencimento ocorre a 13 de Novembro de 2011.
+
+As despesas com a bonificação de juros têm cabimento orçamental na Secretaria 08, Capítulo 01, Divisão 01, Subdivisão 00, Classificação económica 04.02.01.
+Presidência do Governo Regional. - O VICE-PRESIDENTE DO GOVERNO REGIONAL, no exercício da Presidência, João Carlos Cunha e Silva.
+Resolução n.º 1482/2011
+Considerando que através do Decreto Legislativo Regional n.º 17/99/M, de 15 de Junho, foi criada uma linha de crédito bonificado a favor dos Municípios da Região Autónoma da Madeira, para a execução de projectos de investimento inseridos nos planos de investimento municipais que não tenham assegurada fontes de financiamento alternativas.
+Considerando que nos termos do disposto no artigo 6.º do referido diploma, aos empréstimos contraídos ao abrigo do mesmo é atribuída uma bonificação de juros, a suportar pelo Orçamento da Região Autónoma da Madeira, no montante de 70% do valor dos juros a pagar em cada data de vencimento.
+Considerando ainda que o Município da Ribeira Brava contraiu um empréstimo ao abrigo do referido diploma legal.
+O Conselho de Governo reunido em plenário em 13 de Outubro de 2011, resolveu autorizar a Secretaria Regional do Plano e Finanças a proceder ao pagamento, junto ao Banco Santander Totta, S.A., da importância de 2.408,72 (dois mil, quatrocentos e oito euros e setenta e dois cêntimos), referente à bonificação de 70% dos juros da 45.ª prestação do empréstimo bonificado contraído pelo Município da Ribeira Brava ao abrigo do Decreto Legislativo Regional n.º 17/99/M, de 15 de Junho, cujo vencimento ocorre a 1 de Novembro de 2011.
+As despesas com a bonificação de juros têm cabimento orçamental na Secretaria 08, Capítulo 01, Divisão 01, Subdivisão 00, Classificação económica 04.02.01.
+Presidência do Governo Regional. - O VICE-PRESIDENTE DO GOVERNO REGIONAL, no exercício da Presidência, João Carlos Cunha e Silva.
+Resolução n.º 1483/2011
+Considerando que através do artigo 5.º do Decreto Legislativo Regional n.º 4-A/2001/M, de 3 de Abril, na redacção dada pelo artigo 3.º do Decreto Legislativo Regional n.º 28-A/2001/M, de 13 de Novembro, foi criada uma linha de crédito bonificado a favor das autarquias locais, associações de municípios ou empresas concessionárias destas, destinada ao financiamento complementar dos projectos de investimento de natureza municipal e intermunicipal comparticipados pelo FEDER no âmbito do III Quadro Comunitário de Apoio, para o período 2000-2006.
+Considerando que nos termos do disposto do n.º 2 do artigo 5.º do referido diploma, aos empréstimos contraídos ao abrigo do mesmo é atribuída uma bonificação de juros, a suportar pelo Orçamento da Região Autónoma da Madeira, no montante de 70% do valor dos juros a pagar em cada data de vencimento.
+
+Considerando ainda que o Município de Santa Cruz, contraiu um empréstimo ao abrigo do referido diploma legal.
+O Conselho de Governo reunido em plenário em 13 de Outubro de 2011, resolveu autorizar a Secretaria Regional do Plano e Finanças a proceder ao pagamento, junto da Caixa Geral de Depósitos, da importância de 3.285,66 (três mil, duzentos e oitenta e cinco euros e sessenta e seis cêntimos), referente à bonificação de 70% dos juros da 38.ª prestação do empréstimo bonificado contraído pelo Município de Santa Cruz, cujo vencimento ocorre a 22 de Novembro de 2011.
+As despesas com a bonificação de juros têm cabimento orçamental na Secretaria 08, Capítulo 01, Divisão 01, Subdivisão 00, Classificação económica 04.02.01.
+Presidência do Governo Regional. - O VICE-PRESIDENTE DO GOVERNO REGIONAL, no exercício da Presidência, João Carlos Cunha e Silva.
+Resolução n.º 1484/2011
+Considerando que através do artigo 5.º do Decreto Legislativo Regional n.º 4-A/2001/M, de 3 de Abril, na redacção dada pelo artigo 3.º do Decreto Legislativo Regional n.º 28-A/2001/M, de 13 de Novembro, foi criada uma linha de crédito bonificado a favor das autarquias locais, associações de municípios ou empresas concessionárias destas, destinada ao financiamento complementar dos projectos de investimento de natureza municipal e intermunicipal comparticipados pelo FEDER no âmbito do III Quadro Comunitário de Apoio, para o período 2000-2006.
+Considerando que nos termos do disposto do n.º 2 do artigo 5.º do referido diploma, aos empréstimos contraídos ao abrigo do mesmo é atribuída uma bonificação de juros, a suportar pelo Orçamento da Região Autónoma da Madeira, no montante de 70% do valor dos juros a pagar em cada data de vencimento.
+Considerando ainda que o Município de São Vicente, contraiu um empréstimo ao abrigo do referido diploma legal.
+O Conselho de Governo reunido em plenário em 13 de Outubro de 2011, resolveu autorizar a Secretaria Regional do Plano e Finanças a proceder ao pagamento, junto da Caixa Geral de Depósitos, da importância de 1.680,02 (mil, seiscentos e oitenta euros e dois cêntimos), referente à bonificação de 70% dos juros da 36.ª prestação do empréstimo bonificado contraído pelo Município de São Vicente, cujo vencimento ocorre a 25 de Novembro de 2011.
+As despesas com a bonificação de juros têm cabimento orçamental na Secretaria 08, Capítulo 01, Divisão 01, Subdivisão 00, Classificação económica 04.02.01.
+Seguidamente o Senhor Vice-Presidente do Governo encerrou a reunião. Por mim, Luís Maurílio da Silva Dantas, Chefe de Gabinete do Presidente, foi redigida e mandada lavrar esta acta que subscrevo:
+Presidência do Governo Regional. - O VICE-PRESIDENTE DO GOVERNO REGIONAL, no exercício da Presidência, João Carlos Cunha e Silva.
