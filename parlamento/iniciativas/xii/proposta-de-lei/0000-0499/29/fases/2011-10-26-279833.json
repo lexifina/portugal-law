@@ -1,0 +1,209 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "29",
+    "id": "36547",
+    "titulo": "Procede à sexta alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de Fevereiro."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2011-10-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "27292",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-11-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-10-26",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-12-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Sindical dos Juízes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b597a63795a47566b595330315a574e694c5451324e4463744f44566d5953316b4e6d4e6b5a5745774d6d55315a4751756347526d&fich=dc72deda-5ecb-4647-85fa-d6cdea02e5dd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Câmara dos Solicitadores ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e444e6a59574d795a5330334d446c6b4c5452694d4749744f47466b4e7930774e575269596a55334d4746694e6d55756347526d&fich=343cac2e-709d-4b0b-8ad7-05dbb570ab6e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a474e6d4d5459314d79316c4d5459784c5452684e445174595449344d43316a5a6d453159574d314f4745795a5751756347526d&fich=6dcf1653-e161-4a44-a280-cfa5ac58a2ed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f546c6a4f574e6b4d5330775a546b7a4c5451324e4759744f5449774f4331684e57466b4d6a55354f5745314e7a49756347526d&fich=099c9cd1-0e93-464f-9208-a5ad2599a572.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Sindicato dos Funcionários Judiciais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d4467774d6d566b4e6930795a6a677a4c5452685a444574595445304f53316c4e7a67784e6a63784e5463344e6a67756347526d&fich=e0802ed6-2f83-4ad1-a149-e78167157868.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Sindicato dos Magistrados do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a6a6b3059574a6a4e43316a4e54566a4c54526a4f4751744f474e6b5a533169596a45304e7a4d324e7a52695a4463756347526d&fich=af94abc4-c55c-4c8d-8cde-bb1473674bd7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795932557a4d7a426a4d69316b596d49794c54526c4d574d744f4746684e433169597a6735597a63334e474a6a597a49756347526d&fich=2ce330c2-dbb2-4e1c-8aa4-bc89c774bcc2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-11-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Recomendação do Provedor de Justiça",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d3259344e6d49784f4330315a546c6a4c54526d59324974595755324f4330774f446b334e7a6b34596a6c6c595459756347526d&fich=73f86b18-5e9c-4fcb-ae68-0897798b9ea6.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2011-11-22"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2011-11-23"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2011-11-22"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2011-12-12"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2011-12-19"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Funcionários Judiciais em 2011-12-22"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2011-11-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2011-11-03"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2011-11-03"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2011-12-07"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2011-12-07"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Funcionários Judiciais em 2011-12-07"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "2234",
+            "motivoCessacao": null,
+            "nome": "João Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-12-07",
+            "dataRemessa": "2011-12-07",
+            "numeroOficio": "743/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2011-12-07",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "59443",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "35",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-10-26",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "279833",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
