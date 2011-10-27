@@ -1,0 +1,26 @@
+Aviso n.º 21341/2011
+Nos termos do disposto no n.º 1, do art.º. 5.º da Portaria n.º 1474/2007, de 16 de Novembro, é constituída a Comissão de Acompanhamento da Revisão do Plano Director Municipal de Fafe, que integra um representante das seguintes entidades e serviços:
+Comissão de Coordenação e Desenvolvimento Regional do Norte, a qual preside;
+Autoridade Nacional de Protecção Civil;
+Administração da Região Hidrográfica do Norte;
+Direcção Regional de Economia do Norte;
+Autoridade Florestal Nacional;
+Direcção Regional de Agricultura e Pescas do Norte;
+Turismo de Portugal, I. P.;
+Estradas de Portugal, E. P. E. (Direcção de Estradas de Braga);
+Direcção Regional de Educação do Norte;
+Direcção Regional da Saúde do Norte;
+Direcção Regional da Cultura do Norte;
+Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P.;
+Rede Ferroviária Nacional - REFER, E. P. E.;
+Instituto Geográfico Português;
+Assembleia Municipal de Fafe;
+Câmara Municipal de Fafe;
+Câmara Municipal da Póvoa de Lanhoso;
+Câmara Municipal de Vieira do Minho;
+Câmara Municipal de Felgueiras;
+Câmara Municipal de Guimarães;
+Câmara Municipal de Cabeceiras de Basto;
+Câmara Municipal de Celorico de Basto.
+19 de Outubro de 2011. - O Vice-Presidente da Comissão de Coordenação e Desenvolvimento Regional Norte, Paulo Jorge Gomes.
+205267993
