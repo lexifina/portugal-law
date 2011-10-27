@@ -1,0 +1,5 @@
+Aviso n.º 21382/2011
+Paulo Jorge Marques Inácio, Presidente da Câmara Municipal de Alcobaça, faz saber que, tendo sido aprovado em reunião ordinária realizada no dia 17 de Outubro de 2011 um novo limite para a área de intervenção do Plano de Pormenor da Área de Localização Empresarial da Benedita (ALEB) e respectivos Termos de Referência, se dá início a um novo período de participação preventiva, prevista no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de Setembro, na sua actual redacção, que decorrerá pelo período de 15 dias úteis contados a partir do dia seguinte à publicação do presente anúncio em Diário da República.
+Para efeitos de participação preventiva qualquer interessado poderá apresentar, por escrito, sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração do Plano. Estas poderão ser entregues directamente na Secção de Expediente Geral da Câmara Municipal de Alcobaça, através dos correios ou para o seguinte endereço de correio electrónico: planopormenor@cm-alcobaca.pt
+21 de Outubro de 2011. - O Presidente da Câmara, Paulo Jorge Marques Inácio, Dr.
+205270454
