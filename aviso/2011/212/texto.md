@@ -1,0 +1,4 @@
+Aviso n.º 212/2011
+Por ordem superior se torna público que se encontram cumpridas as respectivas formalidades exigidas na República Portuguesa e no Estado do Qatar para a entrada em vigor do Acordo entre a República Portuguesa e o Estado do Qatar sobre Supressão de Vistos para Titulares de Passaportes Diplomáticos e Especiais, assinado em Lisboa em 4 de Maio de 2010.
+O referido Acordo foi aprovado pelo Decreto n.º 6/2011, de 18 de Março, publicado no Diário da República, 1.ª série, n.º 55, de 18 de Março de 2011, posteriormente rectificado pela Declaração de Rectificação n.º 12-A/2011, publicada no Diário da República, 1.ª série, n.º 95, de 17 de Maio de 2011, entrando em vigor a 19 de Junho de 2011, na sequência das notificações a que se refere o seu artigo 11.º
+Departamento de Assuntos Jurídicos, 13 de Outubro de 2011. - O Director, Miguel de Serpa Soares.
