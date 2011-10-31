@@ -1,0 +1,10 @@
+Portaria n.º 286/2011
+de 31 de Outubro
+O anexo ii do Decreto-Lei n.º 189/88, de 27 de Maio, na versão alterada e republicada pelo Decreto-Lei n.º 225/2007, de 31 de Maio, define a fórmula de cálculo das tarifas aplicáveis às diversas tecnologias de produção de electricidade a partir de fontes de energia renovável, sujeitas a autorização nos termos do regime especial de produção de electricidade.
+Contudo, relativamente «a novos tipos de tecnologias e correspondentes valores, bem como, a título excepcional, projectos que sejam reconhecidos como de interesse nacional pelas suas características inovadoras», o referido anexo prevê que pode ser objecto de atribuição de um coeficiente Z diferente do que seria aplicável à correspondente tecnologia mediante portaria do membro do Governo que tutele a DGEG.
+A produção de electricidade a partir de fontes eólicas no mar, através da utilização de aerogeradores flutuantes em águas profundas, é uma tecnologia totalmente inovadora não apenas no contexto nacional mas também no contexto europeu.
+Havendo iniciativas no sentido de proceder à experimentação para esclarecimento da viabilidade de demonstração desta tecnologia de utilização de plataformas flutuantes conhecidas por windfloat, que importa acolher e apoiar, torna-se necessário definir os parâmetros da fórmula de cálculo da tarifa aplicável, que se encontram omissos, e ao mesmo tempo ajustá-los à natureza do projecto e fase inicial de experimentação de curta duração.
+Nestes termos, ao abrigo do n.º 19.º do anexo ii do Decreto-Lei n.º 189/88, de 27 de Maio, na versão alterada e republicada pelo Decreto-Lei n.º 225/2007, de 31 de Maio, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:
+Artigo único
+Para projectos eólicos offshore com utilização de plataformas flutuantes, o coeficiente Z é 16,7, no caso de centrais de experimentação, com potência de ligação até 2 MW e até ao limite dos primeiros 6 GWh entregues à rede por central, ou durante dois anos a contar desde o início do fornecimento de electricidade à rede, consoante o que ocorrer mais cedo.
+O Secretário de Estado da Energia, Henrique Joaquim Gomes, em 26 de Outubro de 2011.
