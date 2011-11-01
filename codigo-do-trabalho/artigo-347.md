@@ -10,4 +10,6 @@
 
 4 - O disposto no número anterior não se aplica a microempresas.
 
-5 - O disposto no n.º 3 aplica-se em caso de processo de insolvência que possa determinar o encerramento do estabelecimento.
+5 - Na situação prevista no n.º 2, o trabalhador tem direito à compensação nos termos do artigo 366.º ou, tratando-se de novos contratos de trabalho, nos termos do artigo 366.º-A.
+
+6 - O disposto no n.º 3 aplica-se em caso de processo de insolvência que possa determinar o encerramento do estabelecimento.

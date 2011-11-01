@@ -6,6 +6,8 @@
 
 2 - Em caso de caducidade de contrato a termo certo decorrente de declaração do empregador, o trabalhador tem direito a compensação correspondente a três ou dois dias de retribuição base e diuturnidades por cada mês de duração do contrato, consoante esta não exceda ou seja superior a seis meses, respectivamente.
 
-3 - A parte da compensação relativa a fracção de mês de duração do contrato é calculada proporcionalmente.
+3 - Tratando-se de novos contratos de trabalho a termo certo, a compensação a que o trabalhador tem direito nos termos do número anterior é determinada de acordo com o disposto no artigo 366.º-A.
 
-4 - Constitui contra-ordenação grave a violação do disposto no n.º 2.
+4 - A parte da compensação relativa a fracção de mês de duração do contrato é calculada proporcionalmente.
+
+5 - Constitui contra-ordenação grave a violação do disposto nos n.os 2 e 3.

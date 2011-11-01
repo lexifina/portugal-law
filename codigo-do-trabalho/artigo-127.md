@@ -30,6 +30,8 @@ j) Manter actualizado, em cada estabelecimento, o registo dos trabalhadores com 
 
 4 - O empregador deve comunicar ao serviço com competência inspectiva do ministério responsável pela área laboral, antes do início da actividade da empresa, a denominação, sector de actividade ou objecto social, endereço da sede e outros locais de trabalho, indicação da publicação oficial do respectivo pacto social, estatuto ou acto constitutivo, identificação e domicílio dos respectivos gerentes ou administradores, o número de trabalhadores ao serviço e a apólice de seguro de acidentes de trabalho.
 
-5 - A alteração dos elementos referidos no número anterior deve ser comunicada no prazo de 30 dias.
+5 - O empregador deve, ainda, sempre que celebre contratos de trabalho, comunicar ao serviço com competência inspectiva do ministério responsável pela área laboral a adesão a fundo de compensação do trabalho.
 
-6 - Constitui contra-ordenação leve a violação do disposto na alínea j) do n.º 1 ou nos n.os 4 ou 5.
+6 - A alteração dos elementos referidos nos números anteriores deve ser comunicada no prazo de 30 dias.
+
+7 - Constitui contra-ordenação leve a violação do disposto na alínea j) do n.º 1 ou nos n.os 4, 5 ou 6.

@@ -10,4 +10,4 @@ b) Não respeitar os critérios de concretização de postos de trabalho a extin
 
 c) Não tiver feito as comunicações previstas no artigo 369.º;
 
-d) Não tiver colocado à disposição do trabalhador despedido, até ao termo do prazo de aviso prévio, a compensação a que se refere o artigo 366.º por remissão do artigo 372.º e os créditos vencidos ou exigíveis em virtude da cessação do contrato de trabalho.
+d) Não tiver posto à disposição do trabalhador despedido, até ao termo do prazo de aviso prévio, a compensação por ele devida a que se refere o artigo 366.º ou o artigo 366.º-A por remissão do artigo 372.º, consoante os casos, e os créditos vencidos ou exigíveis em virtude da cessação do contrato de trabalho.

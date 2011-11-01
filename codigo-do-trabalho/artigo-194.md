@@ -14,7 +14,7 @@ b) Quando outro motivo do interesse da empresa o exija e a transferência não i
 
 4 - O empregador deve custear as despesas do trabalhador decorrentes do acréscimo dos custos de deslocação e da mudança de residência ou, em caso de transferência temporária, de alojamento.
 
-5 - No caso de transferência definitiva, o trabalhador pode resolver o contrato se tiver prejuízo sério, tendo direito à compensação prevista no artigo 366.º
+5 - No caso de transferência definitiva, o trabalhador pode resolver o contrato se tiver prejuízo sério, tendo direito à compensação prevista no artigo 366.º ou no artigo 366.º-A, consoante o caso.
 
 6 - O disposto nos números anteriores pode ser afastado por instrumento de regulamentação colectiva de trabalho.
 

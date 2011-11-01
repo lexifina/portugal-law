@@ -16,7 +16,7 @@ d) O número de trabalhadores a despedir e as categorias profissionais abrangida
 
 e) O período de tempo no decurso do qual se pretende efectuar o despedimento;
 
-f) O método de cálculo de compensação a conceder genericamente aos trabalhadores a despedir, se for caso disso, sem prejuízo da compensação estabelecida no artigo 366.º ou em instrumento de regulamentação colectiva de trabalho.
+f) O método de cálculo de compensação a conceder genericamente aos trabalhadores a despedir, se for caso disso, sem prejuízo da compensação estabelecida no artigo 366.º ou, tratando-se de novos contratos de trabalho, no artigo 366.º-A, ou em instrumento de regulamentação colectiva de trabalho.
 
 3 - Na falta das entidades referidas no n.º 1, o empregador comunica a intenção de proceder ao despedimento, por escrito, a cada um dos trabalhadores que possam ser abrangidos, os quais podem designar, de entre eles, no prazo de cinco dias úteis a contar da recepção da comunicação, uma comissão representativa com o máximo de três ou cinco membros consoante o despedimento abranja até cinco ou mais trabalhadores.
 

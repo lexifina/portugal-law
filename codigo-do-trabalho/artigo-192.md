@@ -10,6 +10,8 @@ a) Não constituição de seguro de acidentes de trabalho de trabalhador tempor�
 
 b) Atraso por período superior a 30 dias no pagamento da retribuição devida a trabalhadores temporários.
 
+c) Não adesão a fundo de compensação do trabalho ou não cumprimento da respectiva obrigação de contribuição, nos casos legalmente exigíveis.
+
 3 - A empresa de trabalho temporário, juntamente com a coima aplicável à contra-ordenação por celebração de contrato de utilização de trabalho temporário não sendo titular de licença, é ainda punível com ordem de encerramento do estabelecimento onde a actividade é exercida, até à regularização da situação.
 
 4 - A sanção acessória referida nos números anteriores é averbada no registo nacional das empresas de trabalho temporário, previsto em legislação específica.
