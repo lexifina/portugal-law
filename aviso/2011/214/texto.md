@@ -1,0 +1,4 @@
+Aviso n.º 214/2011
+Por ordem superior se torna público que, em 3 de Outubro de 2011, o Governo da República do Sudão do Sul depositou o seu instrumento de adesão à Constituição da União Internacional de Telecomunicações e Respectiva Convenção e Protocolo Facultativo sobre a Resolução Obrigatória de Litígios Relativos à Constituição da União Internacional das Telecomunicações e aos Regulamentos Administrativos, adoptados em Genebra em 22 de Dezembro de 1992.
+Portugal é Parte da mesma Constituição e Convenção aprovadas pela Resolução da Assembleia da República n.º 10-A/95, e ratificadas pelo Decreto do Presidente da República n.º 27-A/95, ambos publicados no Diário da República, 1.ª série-A, suplemento, n.º 44, de 21 de Fevereiro de 1995.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 17 de Outubro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco Alves Machado.
