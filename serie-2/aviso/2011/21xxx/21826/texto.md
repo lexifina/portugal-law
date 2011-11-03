@@ -1,0 +1,4 @@
+Aviso n.º 21826/2011
+No uso das competências que se encontram previstas na alínea a), do n.º 6 do artigo 64.º, e, alínea a), do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de Setembro, com a redacção introduzida pela Lei n.º 5-A/2002, de 11 de Janeiro, torna-se público, que o Projecto de Regulamento Municipal de Atribuição de Bolsas de Estudo, publicado na 2.ª série, do Diário da República, n.º 141 de 25 de Julho de 2011, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código de Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva, em Regulamento, em reunião ordinária pública da Câmara Municipal realizada a 19 de Setembro de 2011, e em sessão ordinária da Assembleia Municipal realizada a 23 de Setembro de 2011.
+26 de Setembro de 2011. - O Presidente da Câmara, António Edmundo Freire Ribeiro.
+305176762
