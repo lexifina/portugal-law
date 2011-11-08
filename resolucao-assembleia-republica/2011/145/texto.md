@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 145/2011
+Designação do fiscal único da ERC - Entidade Reguladora para a Comunicação Social
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição da República Portuguesa e do n.º 1 do artigo 35.º dos Estatutos da ERC - Entidade Reguladora para a Comunicação Social, aprovados pela Lei n.º 53/2005, de 8 de Novembro, designar como fiscal único da ERC - Entidade Reguladora para a Comunicação Social a sociedade revisora oficial de contas MRG - Roberto, Graça & Associados, SROC, representada pelo Dr. José Manuel Martins Gonçalves Roberto.
+Aprovada em 4 de Novembro de 2011.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
