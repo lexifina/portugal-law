@@ -1,0 +1,559 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12165",
+  "numero": "53",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-11-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-01-26",
+            "entidades": null,
+            "id": "91981",
+            "tipo": null,
+            "titulo": "Audição em 2012-01-26 com Junta de Freguesia de Alverca do Ribatejo"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-11-25",
+            "dataResposta": "2011-12-29",
+            "entidades": [
+              "Conselho de Administração da Estradas de Portugal, S.A."
+            ],
+            "nrOficio": "321/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-11-25",
+            "dataResposta": "2011-11-28",
+            "entidades": [
+              "Presidente da Camara Municipal de Vila Franca de Xira"
+            ],
+            "nrOficio": "320/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-11-25",
+            "dataResposta": "2012-01-13",
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "319/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-01-27",
+            "dataResposta": "2012-02-21",
+            "entidades": [
+              "Ministro da Defesa Nacional"
+            ],
+            "nrOficio": "65/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-06-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-11-23",
+        "DataArquivo": "2012-06-27",
+        "DataBaixaComissao": "2011-11-23",
+        "DataEnvioPAR": "2012-06-27",
+        "DataReaberta": "2011-11-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-11-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3259785a6a67794f574d794c574d784d4463744e444a6b4e4331684d7a637a4c57597859574a6c59325a6a4e5455335a5335775a47593d&fich=f1f829c2-c107-42d4-a373-f1abecfc557e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-11-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a52694d5451314f5745774c574e6b5a4755744e444d345a4330344d3259314c545a6b4d6a4e6c4e7a677a596a45355a5335775a47593d&fich=4b1459a0-cdde-438d-83f5-6d23e783b19e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a426d59546c6d4f54646d4c574e6c4d6d49744e44646b59533035596a557a4c575a6a4e4445304d445a694e5745794e5335775a47593d&fich=0fa9f97f-ce2b-47da-9b53-fc41406b5a25.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c32566a5a4449304e44557a4c574577595445744e4759314e693034596a51324c575a6c5a6a4577596d51325a4752694f5335775a47593d&fich=ecd24453-a0a1-4f56-8b46-fef10bd6ddb9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-11-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5a6b593255354d446c6b4c575a685a446b744e4755774f5330354d7a566c4c54637a5a4755344f4755315a5467324e7935775a47593d&fich=6dce909d-fad9-4e09-935e-73de88e5e867.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-06-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a426c5a574e685a5445324c5455314e5749744e475a6d4e693034596d51784c544e6c4e4467784e4751784f544e684f5335775a47593d&fich=0eecae16-555b-4ff6-8bd1-3e4814d193a9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-01-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a63324d44646c4f5463314c574e6c4e7a6b744e4459334d5331684f446b344c546b344e6a5a694f475a6c5a474a6a5a5335775a47593d&fich=7607e975-ce79-4671-a898-9866b8fedbce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-03-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3256695a4459794f5441334c544d314e7a45744e474d334e5330355a575a6d4c54526c5a6d4d775a6d56694e5749304d7935775a47593d&fich=ebd62907-3571-4c75-9eff-4efc0feb5b43.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3245774f474d325a4455334c5449794d5755744e44466b4f533168596a4d7a4c54566c4e5445345a4756684f444133596935775a47593d&fich=a08c6d57-221e-41d9-ab33-5e518dea807b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4a6a4d6a45784e6a466b4c5745334e3249744e47566a4e4331694f4756694c5459354d5459304e444d314e54517a4e5335775a47593d&fich=2c21161d-a77b-4ec4-b8eb-691644355435.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-11-23",
+            "gp": "PSD",
+            "id": "4169",
+            "motivoCessacao": null,
+            "nome": "Carina Oliveira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2012-09-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-11-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324a684f5755314e324d354c5455314e4755744e474d31597931695a6a41304c574d345a6a41355932566c5a4451304f4335775a47593d&fich=ba9e57c9-554e-4c5c-bf04-c8f09ceed448.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120920pln&url=l12/sl2/a2012/m09/&tI=02:39:13:441&drc=00:02:02:393"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-21",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/002/2012-09-21/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que seja analisada pelo Plenário da Assembleia da República a possibilidade da construção de uma circular urbana de Alverca do Ribatejo, alternativa à EN10, a nascente do caminho-de-ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120920pln&url=l12/sl2/a2012/m09/&tI=02:45:06:498&drc=00:03:01:959"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-21",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/002/2012-09-21/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que seja analisada pelo Plenário da Assembleia da República a possibilidade da construção de uma circular urbana de Alverca do Ribatejo, alternativa à EN10, a nascente do caminho-de-ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120920pln&url=l12/sl2/a2012/m09/&tI=02:48:13:957&drc=00:03:38:733"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-21",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/002/2012-09-21/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que seja analisada pelo Plenário da Assembleia da República a possibilidade da construção de uma circular urbana de Alverca do Ribatejo, alternativa à EN10, a nascente do caminho-de-ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120920pln&url=l12/sl2/a2012/m09/&tI=02:51:56:315&drc=00:01:50:956"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-21",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/002/2012-09-21/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que seja analisada pelo Plenário da Assembleia da República a possibilidade da construção de uma circular urbana de Alverca do Ribatejo, alternativa à EN10, a nascente do caminho-de-ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120920pln&url=l12/sl2/a2012/m09/&tI=02:53:50:634&drc=00:03:46:365"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-21",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/002/2012-09-21/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que seja analisada pelo Plenário da Assembleia da República a possibilidade da construção de uma circular urbana de Alverca do Ribatejo, alternativa à EN10, a nascente do caminho-de-ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120920pln&url=l12/sl2/a2012/m09/&tI=02:41:21:148&drc=00:03:38:349"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-21",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/002/2012-09-21/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que seja analisada pelo Plenário da Assembleia da República a possibilidade da construção de uma circular urbana de Alverca do Ribatejo, alternativa à EN10, a nascente do caminho-de-ferro.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12165",
+    "PetAssunto": "Solicitam que seja analisada pelo Plenário da Assembleia da República a possibilidade da construção de uma circular urbana de Alverca do Ribatejo, alternativa à EN10, a nascente do caminho-de-ferro.",
+    "PetDataEntrada": "2011-11-08",
+    "PeticoesAssociadas": null,
+    "PetId": "12165",
+    "PetLeg": "XII",
+    "PetNr": "53",
+    "PetNrAssinaturas": "4840",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "407",
+        "obs": null,
+        "pag": [
+          "41-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-09-21",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/002/2012-09-21/41?pgs=41-46&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "574044",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-26",
+        "pubLeg": "XII",
+        "pubNr": "92",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/092/2011-11-26/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
