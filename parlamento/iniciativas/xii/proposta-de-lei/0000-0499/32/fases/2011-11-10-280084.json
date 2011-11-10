@@ -1,0 +1,3049 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "32",
+    "id": "36567",
+    "titulo": "Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2011-11-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8376",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2011-11-10",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "36533",
+        "leg": "XII",
+        "nr": "27",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1568",
+            "obs": null,
+            "pag": [
+              "8-122"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-11-11",
+            "pubLeg": "XII",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/8?pgs=8-122&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1568",
+            "obs": null,
+            "pag": [
+              "8-122"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-11-11",
+            "pubLeg": "XII",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/8?pgs=8-122&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Aprova o Orçamento do Estado para 2012."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "36566",
+        "leg": "XII",
+        "nr": "31",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1568",
+            "obs": null,
+            "pag": [
+              "8-122"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-11-11",
+            "pubLeg": "XII",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/8?pgs=8-122&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1568",
+            "obs": null,
+            "pag": [
+              "8-122"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-11-11",
+            "pubLeg": "XII",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/8?pgs=8-122&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Aprova as Grandes Opções do Plano para 2012 - 2015,"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-11-10",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:03:34:922&drc=00:13:46:339"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:23:06:874&drc=00:06:39:008"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:36:24:434&drc=00:05:51:697"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:48:11:581&drc=00:04:24:641"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:59:24:625&drc=00:04:23:010"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:09:55:713&drc=00:05:13:456"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:21:04:687&drc=00:03:50:627"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:43:30:544&drc=00:05:39:726"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:07:08:207&drc=00:08:06:170"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:26:05:478&drc=00:09:38:522"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "PRIMEIRO-MINISTRO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Passos Coelho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17",
+                  "19-20",
+                  "22-23",
+                  "25-28",
+                  "33-35",
+                  "40-43",
+                  "47-50",
+                  "8-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/8?pgs=8-14,16-17,19-20,22-23,25-28,33-35,40-43,47-50&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:17:21:262&drc=00:05:33:397"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:30:05:570&drc=00:06:09:365"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/14?pgs=14-16&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:42:24:569&drc=00:05:34:387"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=00:52:48:852&drc=00:06:26:834"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/20?pgs=20-22&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:03:54:691&drc=00:05:58:208"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/23?pgs=23-25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:15:14:416&drc=00:05:47:706"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:30:10:851&drc=00:01:58:033"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "113-114",
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/26?pgs=26-27,113-114&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:25:19:673&drc=00:02:04:318"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:03:53:770&drc=00:04:06:801"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29",
+                  "89-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/29?pgs=29,89-90&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:27:28:221&drc=00:02:56:779"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:30:31:276&drc=00:03:18:724"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:33:56:962&drc=00:03:22:520"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:44:52:415&drc=00:03:23:182"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32",
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/31?pgs=31-32,83-84&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:37:23:480&drc=00:03:17:520"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:40:45:808&drc=00:02:40:801"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:58:17:847&drc=00:02:27:815"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33",
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/32?pgs=32-33,87-88&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4187",
+                "nome": "Pedro Jesus Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:49:40:837&drc=00:02:38:973"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1643",
+                "nome": "José de Matos Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:52:32:938&drc=00:02:56:345"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:55:37:623&drc=00:03:36:452"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=01:59:23:203&drc=00:03:44:755"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:03:19:894&drc=00:03:36:742"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:15:40:505&drc=00:02:39:261"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:18:29:268&drc=00:04:22:166"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:22:58:625&drc=00:02:56:417"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/45?pgs=45-47&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:38:04:741&drc=00:10:08:548"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:51:27:301&drc=00:01:47:882"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:56:42:337&drc=00:01:43:888"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/51?pgs=51-56&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:48:34:195&drc=00:02:44:394"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4145",
+                "nome": "Luís Menezes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:53:22:867&drc=00:03:19:132"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=02:58:38:857&drc=00:13:45:086"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:23:24:131&drc=00:02:29:127"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:26:17:233&drc=00:02:37:309"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-59",
+                  "61-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/56?pgs=56-59,61-64&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:12:45:338&drc=00:03:08:682"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:16:09:353&drc=00:02:47:340"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:19:06:887&drc=00:04:03:445"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:29:07:938&drc=00:08:29:626"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:45:11:181&drc=00:02:38:757"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-67",
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/64?pgs=64-67,69-70&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:38:06:930&drc=00:03:47:902"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:42:03:484&drc=00:03:01:474"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=03:48:06:683&drc=00:14:13:668"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/70?pgs=70-73&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:02:51:565&drc=00:09:10:176"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/73?pgs=73-75&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:12:23:001&drc=00:06:19:606"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/75?pgs=75-77&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:19:09:727&drc=00:13:50:595"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:48:22:747&drc=00:04:55:043"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:08:16:810&drc=00:08:51:685"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:29:06:610&drc=00:04:03:075"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Vítor Gaspar"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-80",
+                  "84-85",
+                  "90-91",
+                  "94-95"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/77?pgs=77-80,84-85,90-91,94-95&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:33:58:952&drc=00:02:26:162"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/80?pgs=80&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:36:50:931&drc=00:04:22:115"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:41:26:105&drc=00:03:15:182"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2849",
+                "nome": "Adolfo Mesquita Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=04:53:28:166&drc=00:04:34:433"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/85?pgs=85-87&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:00:53:225&drc=00:02:51:835"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:22:15:823&drc=00:02:44:545"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "111-112",
+                  "88-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/88?pgs=88-89,111-112&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:17:23:715&drc=00:04:19:567"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "91-92"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/91?pgs=91-92&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:21:53:343&drc=00:02:58:165"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "92-93"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/92?pgs=92-93&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:24:56:631&drc=00:04:06:354"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "93-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/93?pgs=93-94&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:33:23:251&drc=00:12:59:572"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:03:28:621&drc=00:08:54:077"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:38:46:321&drc=00:09:01:597"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA E DO EMPREGO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Álvaro Santos Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "105-108",
+                  "116-119",
+                  "95-99"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/95?pgs=95-99,105-108,116-119&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:46:53:598&drc=00:03:27:866"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "100-100"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/100?pgs=100&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:50:33:132&drc=00:06:36:677"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "101-102"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/101?pgs=101-102&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=05:57:12:438&drc=00:06:10:425"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "103-105"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/103?pgs=103-105&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:12:30:605&drc=00:04:00:216"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "108-110"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/108?pgs=108-110&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:16:36:290&drc=00:01:09:596"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA E DO EMPREGO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Álvaro Santos Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "110-110"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/110?pgs=110&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1998",
+                "nome": "Luís Campos Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:17:59:555&drc=00:04:04:628"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "110-111"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/110?pgs=110-111&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3990",
+                "nome": "Pedro Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:25:13:937&drc=00:04:53:461"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "112-113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/112?pgs=112-113&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "629",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:32:17:117&drc=00:06:17:401"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "114-115"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/114?pgs=114-115&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111110pln&url=l12/sl1/a2011/m11/&tI=06:48:25:823&drc=00:15:08:221"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "119-122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-11",
+                "pubLeg": "XII",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/119?pgs=119-122&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012; Aprova as Grandes Opções do Plano para 2012 - 2015; Aprova a estratégia e os procedimentos a adoptar no âmbito da lei de enquadramento orçamental, bem como a calendarização para a respectiva implementação até 2015.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280084",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "573304",
+        "obs": null,
+        "pag": [
+          "8-122"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-11",
+        "pubLeg": "XII",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/039/2011-11-11/8?pgs=8-122&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
