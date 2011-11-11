@@ -1,0 +1,271 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12162",
+  "numero": "50",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-11-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-12-22",
+            "dataResposta": "2012-01-19",
+            "entidades": [
+              "Presidente da Câmara Municipal de Coimbra"
+            ],
+            "nrOficio": "235/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-12-22",
+            "dataResposta": "2012-01-12",
+            "entidades": [
+              "Presidente da Câmara Municipal de Vila Nova de Poiares"
+            ],
+            "nrOficio": "236/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-12-22",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Penacova"
+            ],
+            "nrOficio": "237/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-12-22",
+            "dataResposta": "2012-03-30",
+            "entidades": [
+              "Presidente do Conselho de Administração de Águas do Mondego"
+            ],
+            "nrOficio": "238/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-12-22",
+            "dataResposta": "2012-01-18",
+            "entidades": [
+              "Administração da Região Hidrográfica do Centro"
+            ],
+            "nrOficio": "239/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-12-22",
+            "dataResposta": "2012-01-13",
+            "entidades": [
+              "Presidente da Comissão de Coordenação e Desenvolvimento Regional do Centro"
+            ],
+            "nrOficio": "240/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-01-20",
+            "dataResposta": "2012-01-24",
+            "entidades": [
+              "Presidente do Instituto da Água, I.P. (INAG)"
+            ],
+            "nrOficio": "37/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-03-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-12-06",
+        "DataArquivo": "2012-03-06",
+        "DataBaixaComissao": "2011-12-06",
+        "DataEnvioPAR": "2012-03-09",
+        "DataReaberta": "2011-12-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-12-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4e684e3256695a474e6b4c5749314e4745744e44526b4f5330344e44426b4c546732597a55334e6a67304d7a686c4f4335775a47593d&fich=3a7ebdcd-b54a-44d9-840d-86c5768438e8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3245795a446b30596a41354c574d794f4759744e475a684d7931694d6d55324c5441314f4759315957466b4f546b784e4335775a47593d&fich=a2d94b09-c28f-4fa3-b2e6-058f5aad9914.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324e6b4e6a55345954426d4c544e684e3249744e444e6b5a4330355a54677a4c57566d4d4463344f446b34597a4a6b5a5335775a47593d&fich=cd658a0f-3a7b-43dd-9e83-ef078898c2de.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c32566c5a4455794f47566b4c575a6b4d7a63744e445a6a4e7930354e7a6b794c545a694e546b354e7a5a6c597a426c596935775a47593d&fich=eed528ed-fd37-46c7-9792-6b59976ec0eb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a67314e7a526a4d3251314c544d305a5449744e4451335a4331695957597a4c544a694f446b77595751794d4445324d6935775a47593d&fich=8574c3d5-34e2-447d-baf3-2b890ad20162.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324d305957466c4e6d457a4c574d78597a67744e4467794f4331695a5759304c5445785a5745325a4467304e445a6c5a4335775a47593d&fich=c4aae6a3-c1c8-4828-bef4-11ea6d8446ed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3259334e5464694d6a637a4c5441794e474d744e4467774d43303459324e684c546b785a4449775a6a55324e574a6c4d5335775a47593d&fich=f757b273-024c-4800-8cca-91d20f565be1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6c6c596a6b774d4746694c5459794f4441744e47466a4d6930344d4745354c5463305a574d355a6d51314d7a4d354f4335775a47593d&fich=9eb900ab-6280-4ac2-80a9-74ec9fd53398.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c325a695a4459775954557a4c544535596a49744e4455775a53316859574d7a4c5745794e5449794e5441335a4451774d4335775a47593d&fich=fbd60a53-19b2-450e-aac3-a2522507d400.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-03-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a426a4e3246694d546c684c57526b4d546b744e475a694d7931695954557a4c546b774e5445334d7a633359324d314e6935775a47593d&fich=0c7ab19a-dd19-4fb3-ba53-90517377cc56.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-01-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4e6c597a67794d57566a4c544d7a4d5759744e44526c5a6931684e44466d4c574d785a5759304e545a6d5a6d59314d7935775a47593d&fich=3ec821ec-331f-44ef-a41f-c1ef456fff53.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324978596d52684f54526c4c546c6a4e6d4d744e4455305a6930344d4755344c5455774e324e6a4d54426d4d7a6b32595335775a47593d&fich=b1bda94e-9c6c-454f-80e8-507cc10f396a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3252684e574d785a6d4a6b4c544d794e7a51744e4452694d533035596d49314c574a6d4e6d566d4d324d794f444d795a4335775a47593d&fich=da5c1fbd-3274-44b1-9bb5-bf6ef3c2832d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a466d4e6d4a684d3246684c574a6b5a6a67744e445a6a4e7930354e4749354c546b774e32566d596d45794f5759785a5335775a47593d&fich=1f6ba3aa-bdf8-46c7-94b9-907efba29f1e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-04-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a466d4d546b774e546b354c574d354d6d51744e474d7a5a693169597a45314c5452684d6a497a4f4455315a6a4979597935775a47593d&fich=1f190599-c92d-4c3f-bc15-4a223855f22c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-02-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a52684f5749784e57526d4c5451355a5755744e446b774f4330355a4455334c54497a5a6a4a6b5a6d4a6c4f44417a4d6935775a47593d&fich=4a9b15df-49ee-4908-9d57-23f2dfbe8032.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-12-06",
+            "gp": "PSD",
+            "id": "4328",
+            "motivoCessacao": null,
+            "nome": "Maurício Marques"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-10-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325a684d7a6779595749324c5749335a4467744e44677a4e693035596d526c4c54646c5a6d597a4d7a4d344e7a4d314e5335775a47593d&fich=fa382ab6-b7d8-4836-9bde-7eff33387355.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12162",
+    "PetAssunto": "Pretende o cancelamento definitivo da construção da mini-hídrica do Rio Mondego, no troço Penacova-Coimbra, aprovada pela Resolução de Conselho de Ministros n.º 72/2010.",
+    "PetDataEntrada": "2011-11-11",
+    "PeticoesAssociadas": null,
+    "PetId": "12162",
+    "PetLeg": "XII",
+    "PetNr": "50",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
