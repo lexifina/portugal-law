@@ -1,0 +1,282 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "27",
+    "id": "36533",
+    "titulo": "Aprova o Orçamento do Estado para 2012."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2011-11-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "27402",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2011-11-14",
+            "id": "91530",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-14",
+            "id": "91528",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-15",
+            "id": "91538",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-15",
+            "id": "91537",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-15",
+            "id": "91536",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-16",
+            "id": "91551",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-16",
+            "id": "91548",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-16",
+            "id": "91539",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-17",
+            "id": "91560",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-17",
+            "id": "91559",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-17",
+            "id": "91555",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-17",
+            "id": "91554",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-18",
+            "id": "91563",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-21",
+            "id": "91651",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2011-11-21",
+            "id": "91565",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2011-11-16",
+            "id": "91549",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2011-11-16",
+            "id": "91542",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2011-11-22",
+            "id": "91656",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-11-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-11-11",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-12-12",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade na COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a557a4e54566d4f4749304c54686b5a4449744e47597a4d7931694d6a41794c5752694e3256695a6d5930597a4d344f4335775a47593d&fich=5355f8b4-8dd2-4f33-b202-db7ebff4c388.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "25-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-14",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/080/2011-12-14/25?pgs=25-28&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "25-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-14",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/080/2011-12-14/25?pgs=25-28&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-12-12",
+            "dataRemessa": "2011-12-12",
+            "numeroOficio": "234/5ª-COFAP",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2011-11-11",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280137",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960691",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-26",
+        "pubLeg": "XII",
+        "pubNr": "1",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/01/001/2011-11-26?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960692",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-29",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/01/002/2011-11-29?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960693",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-30",
+        "pubLeg": "XII",
+        "pubNr": "3",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/01/003/2011-11-30?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
