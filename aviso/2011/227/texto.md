@@ -1,0 +1,4 @@
+Aviso n.º 227/2011
+Por ordem superior se torna público que, em 26 de Setembro de 2011, a República do Chile depositou, junto do Director-Geral da Agência Internacional de Energia Atómica, o seu instrumento de adesão à Convenção Conjunta sobre a Segurança da Gestão do Combustível Usado e a Segurança da Gestão dos Resíduos Radioactivos, adoptada em Viena em 5 de Setembro de 1997.
+Portugal é Parte da mesma Convenção, aprovada, para adesão, pelo Decreto n.º 12/2009, publicado no Diário da República, 1.ª série, n.º 77, de 21 de Abril de 2009, tendo depositado o seu instrumento de adesão em 15 de Maio de 2009, conforme o Aviso n.º 94/2009, publicado no Diário da República, 1.ª série, n.º 200, de 15 de Outubro de 2009.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 28 de Outubro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco Alves Machado.
