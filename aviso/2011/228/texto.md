@@ -1,0 +1,4 @@
+Aviso n.º 228/2011
+Por ordem superior se torna público que, em 3 de Agosto de 2011, o Estado de Israel depositou, junto do Secretário-Geral da Organização Marítima Internacional, o seu instrumento de aceitação do Anexo Opcional V ao Protocolo de 1978 Relativo à Convenção Internacional para a Prevenção da Poluição por Navios (MARPOL 1973), adoptada em Londres em 17 de Fevereiro de 1978.
+Portugal é Parte do mesmo Protocolo, aprovado, para adesão, pelo Decreto n.º 25/87, publicado no suplemento ao Diário da República, 1.ª série, n.º 156, de 10 de Julho de 1987, tendo depositado o seu instrumento de ratificação em 22 de Outubro de 1987, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 176, de 1 de Agosto de 1988.
+Direcção-Geral dos Assuntos Técnicos e Económicos, 31 de Outubro de 2011. - O Director de Serviços das Organizações Económicas Internacionais, António Vasco Alves Machado.
