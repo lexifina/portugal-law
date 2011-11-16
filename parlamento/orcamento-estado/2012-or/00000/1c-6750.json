@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=dbw1Yu6NDtvMRMdoFwHaTPNvrxtdlplaEOVAvtbUBwpm4nDtSs2lojtPcVY0QSuJN1%2foYNvhD0731QoSOeFJO%2f0iwdAV8bQJCv3%2fueU4oIhKK0mY8BUCEamlQHa%2b0Khl3AlHTKvE3GUX7286dCGVKyYWcTlt2LSz5UiaykIvBmmyOp0EH7uIORvWClt4GejqJR3VpE2CvIFFCsQmlAj4AdFuJM5k7gyRU5ekOA5zAGO7jbYPpRfU5GEa88jRQTe3Rar5CvuiQLDOhjzTLRRiq1Bj3BdBgXbK53jRG592HJLUqx%2bVDoEkaWpsCb0XbwB7kaMvOjROQH9tilz8aSCRZrPMbSTbmYGS6dRXoeLMHeO%2fqCUjFxpfA01Z9er%2bUc2qzg1WYzFvikHZipPBOnhPhCCJTZnaOEGLnjgI%2beyybRY%3d&fich=OEPropostasAlteracao2012Or_json.txt&Inline=true",
+  "ficheiro_sha256": "dc670b928b4291af8105caf73fd7be6d746c39c07f7d261648412a91b1a54aee",
+  "legislatura": "XII",
+  "id": "6750",
+  "numero": "1C",
+  "orcamento": "2012",
+  "versao": "Or",
+  "data_registo": "2011-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6750",
+    "Numero": "1C",
+    "Data": "16/11/2011 19:28:00",
+    "Titulo": "N.º 2, Artigo 2.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Aprovado(a) por Unanimidade em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554545764d6d5134595449775a5441745a6a59314d7930304f57466a4c574932596a45744e546779597a646d597a45794f4449774c6e426b5a673d3d&Fich=2d8a20e0-f653-49ac-b6b1-582c7fc12820.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, PS, CDS-PP, PCP, BE, PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "COUTO DOS SANTOS"
+        },
+        {
+          "GP_Partido": "PS",
+          "Deputado": "JOSÉ LELLO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "JOÃO REBELO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "MARIANA AIVECA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 2.º",
+        "Titulo": "Aplicação dos normativos",
+        "Texto": "1 - Todas as entidades previstas no âmbito do artigo 2.º da Lei de Enquadramento Orçamental aprovada pela Lei n.º 91/2001, de 20 de Agosto, alterada e republicada pela Lei n.º 52/2011, de 13 de Outubro, independentemente da sua natureza e estatuto jurídico, ficam sujeitas ao cumprimento dos normativos previst",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 2",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Prejudicado(a)"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 2, Artigo 2.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "25/11/2011 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) por Unanimidade em Comissão",
+        "Resultado": "Aprovado(a) por Unanimidade",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
