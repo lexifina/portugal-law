@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2011-11-16, processo 0928/10
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0928/10
+
+**Data do Acordão:** 11/16/2011
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** DULCE NETO
+
+**Descritores:** RECURSO JURISDICIONAL; MINISTÉRIO PÚBLICO; EXCESSO DE PRONÚNCIA; FALTA DE FUNDAMENTAÇÃO; CONTRIBUIÇÃO ESPECIAL
+
+**Nº Convencional:** JSTA000P13473
+
+**Nº do Documento:** SA2201111160928
+
+**Recorrente:** FAZENDA PÚBLICA
+
+**Recorrido 1:** A......
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - No recurso jurisdicional interposto pela Fazenda Pública de sentença proferida em processo de impugnação judicial o Ministério Público não dispõe de poderes para denunciar erros de julgamento diversos dos invocados pela recorrente, não podendo assumir uma discordância relativamente ao decidido que não tenha sido oportunamente expressa pela recorrente, salvo no que toca a questões de conhecimento oficioso, que podem ser suscitadas por qualquer interveniente processual.
+
+II - O excesso de pronúncia ocorre quando o tribunal aprecia e decide uma questão que não havia sido chamado a resolver. Todavia, se o tribunal, consciente e fundamentadamente, toma conhecimento de uma questão por julgar que ela foi, expressa ou implicitamente, invocada, poderá haver erro de julgamento, se for errado o entendimento em que se baseia esse julgamento, mas não nulidade por excesso de pronúncia.
+
+III - O acto de avaliação realizado pela Comissão de Avaliação prevista no Regulamento da Contribuição Especial aprovado pelo Decreto-Lei n.º 43/98, de 3 de Março, está sujeito ao dever de fundamentação e o facto de o contribuinte estar presente na Comissão, por si ou representado por louvado, não dispensa nem limita esse dever.
+
+IV - Porque as exigências de fundamentação não são rígidas, variando de acordo com o tipo de acto e as circunstâncias concretas em que foi proferido, a suficiência da declaração fundamentadora do acto avaliativo basta-se com um discurso claro e racional que dê a conhecer a um destinatário normal (colocado na situação concreta do real destinatário e no contexto circunstancial que rodeou a prática do acto) os critérios de avaliação utilizados, as razões pelas quais foram alcançados os valores atribuídos e os factores tidos em conta para essa atribuição, tudo de forma suficientemente reveladora do percurso cognoscitivo e valorativo que levou ao apuramento do valor encontrado para o prédio em questão.
+
+V - A suficiência da fundamentação não pode confundir-se com a exactidão ou a validade substancial dos fundamentos invocados pela Comissão para a atribuição de determinados valores.
