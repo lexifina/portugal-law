@@ -6,7 +6,7 @@
 
 ### Capital social e acções
 
-1 - O capital social é de (euro)50 000, integralmente subscrito e realizado, encontrando-se dividido em 10 000 acções, do valor nominal unitário de (euro) 5.
+1 - O capital social é de (euro) 100 000, integralmente subscrito e realizado, encontrando-se dividido em 20 000 acções, do valor nominal unitário de (euro) 5.
 
 2 - A totalidade das acções representativas do capital social é detida pela Região Autónoma dos Açores, sem prejuízo da possibilidade de alienação nos termos da lei.
 
