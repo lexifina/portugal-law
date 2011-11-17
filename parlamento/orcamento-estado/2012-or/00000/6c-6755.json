@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=dbw1Yu6NDtvMRMdoFwHaTPNvrxtdlplaEOVAvtbUBwpm4nDtSs2lojtPcVY0QSuJN1%2foYNvhD0731QoSOeFJO%2f0iwdAV8bQJCv3%2fueU4oIhKK0mY8BUCEamlQHa%2b0Khl3AlHTKvE3GUX7286dCGVKyYWcTlt2LSz5UiaykIvBmmyOp0EH7uIORvWClt4GejqJR3VpE2CvIFFCsQmlAj4AdFuJM5k7gyRU5ekOA5zAGO7jbYPpRfU5GEa88jRQTe3Rar5CvuiQLDOhjzTLRRiq1Bj3BdBgXbK53jRG592HJLUqx%2bVDoEkaWpsCb0XbwB7kaMvOjROQH9tilz8aSCRZrPMbSTbmYGS6dRXoeLMHeO%2fqCUjFxpfA01Z9er%2bUc2qzg1WYzFvikHZipPBOnhPhCCJTZnaOEGLnjgI%2beyybRY%3d&fich=OEPropostasAlteracao2012Or_json.txt&Inline=true",
+  "ficheiro_sha256": "dc670b928b4291af8105caf73fd7be6d746c39c07f7d261648412a91b1a54aee",
+  "legislatura": "XII",
+  "id": "6755",
+  "numero": "6C",
+  "orcamento": "2012",
+  "versao": "Or",
+  "data_registo": "2011-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6755",
+    "Numero": "6C",
+    "Data": "17/11/2011 18:11:00",
+    "Titulo": "Novo Artigo 41.º-E (Renovação excepcional dos contratos inseridos no Programa Ciência 2007 e abertura de concurso de ingresso na carreira de investigação)",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 41.º-E",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554545764e4445304e6a41355a5445745a6d46684e5330305a546c6b4c546c694d6d4d744d5463344d54426c4e47526a4d5459794c6e426b5a673d3d&Fich=414609e1-faa5-4e9d-9b2c-17810e4dc162.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "RITA RATO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 41.º-E",
+        "Titulo": "Renovação excepcional dos Contratos inseridos no Programa Ciência 2007 e abertura de concurso de ing",
+        "Texto": "1- As instituições de ensino superior e de investigação e desenvolvimento estão autorizadas a renovar, à data da cessação e excepcionalmente, por um ano, a duração dos contratos com investigadores ao abrigo do Programa 2007.\r\n\r\n2- O Estado assegura a transferência da verba correspondente aos custos dessas ren",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 41.º-E"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Renovação excepcional dos Contratos inseridos no Programa Ciência 2007 e abertura de concurso de ing",
+        "Data": "25/11/2011 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
