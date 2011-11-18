@@ -1,7 +1,3 @@
-## Secção I
-
-## Conselho de administração
-
 # Artigo 7.º
 
 ### Composição e mandato
