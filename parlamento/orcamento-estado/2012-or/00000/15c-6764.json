@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=dbw1Yu6NDtvMRMdoFwHaTPNvrxtdlplaEOVAvtbUBwpm4nDtSs2lojtPcVY0QSuJN1%2foYNvhD0731QoSOeFJO%2f0iwdAV8bQJCv3%2fueU4oIhKK0mY8BUCEamlQHa%2b0Khl3AlHTKvE3GUX7286dCGVKyYWcTlt2LSz5UiaykIvBmmyOp0EH7uIORvWClt4GejqJR3VpE2CvIFFCsQmlAj4AdFuJM5k7gyRU5ekOA5zAGO7jbYPpRfU5GEa88jRQTe3Rar5CvuiQLDOhjzTLRRiq1Bj3BdBgXbK53jRG592HJLUqx%2bVDoEkaWpsCb0XbwB7kaMvOjROQH9tilz8aSCRZrPMbSTbmYGS6dRXoeLMHeO%2fqCUjFxpfA01Z9er%2bUc2qzg1WYzFvikHZipPBOnhPhCCJTZnaOEGLnjgI%2beyybRY%3d&fich=OEPropostasAlteracao2012Or_json.txt&Inline=true",
+  "ficheiro_sha256": "dc670b928b4291af8105caf73fd7be6d746c39c07f7d261648412a91b1a54aee",
+  "legislatura": "XII",
+  "id": "6764",
+  "numero": "15C",
+  "orcamento": "2012",
+  "versao": "Or",
+  "data_registo": "2011-11-18",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6764",
+    "Numero": "15C",
+    "Data": "18/11/2011 16:36:00",
+    "Titulo": "Novo Artigo 71.º-D (Alteração ao Decreto-Lei n.º 68/2009, de 20 de Março)",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 71.º-D",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d54637655454576595445355a54646d5a6a45744e7a6c694f4330304e6a55784c5745305a4449744e6d457a4d6a55335a6a4e6959574a6d4c6e426b5a673d3d&Fich=a19e7ff1-79b8-4651-a4d2-6a3257f3babf.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JORGE MACHADO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "RITA RATO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 71.º-D",
+        "Titulo": "Alteração ao Decreto-Lei n.º 68/2009, de 20 de Março",
+        "Texto": "«Artigo 2.º\r\n(…)\r\n1 — …\r\n2 — O montante diário do subsídio referido no número anterior está indexado ao valor retribuição mínima mensal garantida e é calculado nos termos do artigo 30º do Decreto-Lei n.º 220/2006, de 3 de Novembro, sem prejuízo do disposto no número seguinte.\r\n3 — O montante diário do subsídi",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 71.º-D"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Alteração ao Decreto-Lei n.º 68/2009, de 20 de Março",
+        "Data": "25/11/2011 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
