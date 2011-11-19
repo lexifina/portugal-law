@@ -14,7 +14,11 @@ a) (Revogada.)
 
 b) 15 % nos projectos que visem a exportação de, pelo menos, um terço da produção prevista;
 
-c) 5 % nos projectos que visem a concentração das actividades produtivas;
+c) 5 % nos projectos que visem, pelo menos, um dos seguintes objectivos:
+
+i) Introdução de novos produtos que representem, pelo menos, um terço da produção associada ao investimento;
+
+ii) Adopção de novos processos ou métodos de fabrico;
 
 d) 10 % nos projectos que criem, pelo menos:
 

@@ -6,7 +6,7 @@ Sem prejuízo do disposto no artigo 6.º do Decreto-Lei n.º 81/2008, de 16 de M
 
 a) Aquisição de edifícios, instalações ou equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os respectivos contratos estipularem uma opção de compra e esta estiver realizada e paga:
 
-i) No prazo de dois anos após a celebração do contrato de concessão dos apoios, para as operações de prazo igual ou inferior a 24 meses;
+i) No prazo de 2 anos, a contar da data da recepção de um exemplar do contrato de atribuição do apoio, devidamente outorgado pelo IFAP, para as operações de prazo igual ou inferior a 24 meses;
 
 ii) Até 30 de Junho de 2015, para as demais operações;
 

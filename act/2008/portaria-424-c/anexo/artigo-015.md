@@ -2,7 +2,7 @@
 
 ### Adiantamento dos apoios
 
-1 - Com a apresentação de despesa paga correspondente a 5 % do investimento elegível, o promotor poderá solicitar nas DRAP, até quatro meses após a data da celebração do contrato, a concessão do adiantamento até 50 % do valor dos apoios.
+1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento de até 50 % do valor do apoio, no prazo de seis meses a contar da data da recepção de um exemplar do respectivo contrato de atribuição outorgado pelo IFAP.
 
 2 - (Revogado.)
 
