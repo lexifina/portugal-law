@@ -1,0 +1,382 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "14",
+    "id": "36437",
+    "titulo": "Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República"
+  },
+  "fase": "Promulgação",
+  "codigo_fase": "380",
+  "data_registo": "2011-11-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8386",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "380",
+    "Comissao": null,
+    "DataFase": "2011-11-20",
+    "EvtId": "24",
+    "Fase": "Promulgação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-11-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2006",
+                "nome": "Assunção Esteves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "11:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111122pln&url=l12/sl1/a2011/m11/&tI=00:01:25:394&drc=00:05:36:632"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/041/2011-11-23/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Mensagem do Presidente da República sobre a promulgação do decreto da Assembleia da República n.º 12/XII - Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "11:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111122pln&url=l12/sl1/a2011/m11/&tI=00:07:02:027&drc=00:02:32:271"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/041/2011-11-23/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Mensagem do Presidente da República sobre a promulgação do decreto da Assembleia da República n.º 12/XII - Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "11:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111122pln&url=l12/sl1/a2011/m11/&tI=00:09:45:238&drc=00:02:49:075"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/041/2011-11-23/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "sumario": "Mensagem do Presidente da República sobre a promulgação do decreto da Assembleia da República n.º 12/XII - Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4389",
+                "nome": "Teresa Leal Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "11:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111122pln&url=l12/sl1/a2011/m11/&tI=00:12:45:236&drc=00:01:38:830"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/041/2011-11-23/9?pgs=9&org=PLC"
+              }
+            ],
+            "sumario": "Mensagem do Presidente da República sobre a promulgação do decreto da Assembleia da República n.º 12/XII - Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "11:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111122pln&url=l12/sl1/a2011/m11/&tI=00:14:33:130&drc=00:01:38:794"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/041/2011-11-23/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Mensagem do Presidente da República sobre a promulgação do decreto da Assembleia da República n.º 12/XII - Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4133",
+                "nome": "Isabel Oneto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "11:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111122pln&url=l12/sl1/a2011/m11/&tI=00:16:18:959&drc=00:02:07:299"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/041/2011-11-23/10?pgs=10&org=PLC"
+              }
+            ],
+            "sumario": "Mensagem do Presidente da República sobre a promulgação do decreto da Assembleia da República n.º 12/XII - Transfere competências dos Governos Civis e dos governadores civis para outras entidades da Administração Pública em matérias de reserva de competência legislativa da Assembleia da República",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Mensagem do Presidente da República em 20-Nov-2011, lida em 22-Nov-2011.",
+    "OevId": "280251",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8386",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-23",
+        "pubLeg": "XII",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/041/2011-11-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
