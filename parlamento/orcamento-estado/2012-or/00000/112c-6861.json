@@ -1,0 +1,110 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=dbw1Yu6NDtvMRMdoFwHaTPNvrxtdlplaEOVAvtbUBwpm4nDtSs2lojtPcVY0QSuJN1%2foYNvhD0731QoSOeFJO%2f0iwdAV8bQJCv3%2fueU4oIhKK0mY8BUCEamlQHa%2b0Khl3AlHTKvE3GUX7286dCGVKyYWcTlt2LSz5UiaykIvBmmyOp0EH7uIORvWClt4GejqJR3VpE2CvIFFCsQmlAj4AdFuJM5k7gyRU5ekOA5zAGO7jbYPpRfU5GEa88jRQTe3Rar5CvuiQLDOhjzTLRRiq1Bj3BdBgXbK53jRG592HJLUqx%2bVDoEkaWpsCb0XbwB7kaMvOjROQH9tilz8aSCRZrPMbSTbmYGS6dRXoeLMHeO%2fqCUjFxpfA01Z9er%2bUc2qzg1WYzFvikHZipPBOnhPhCCJTZnaOEGLnjgI%2beyybRY%3d&fich=OEPropostasAlteracao2012Or_json.txt&Inline=true",
+  "ficheiro_sha256": "dc670b928b4291af8105caf73fd7be6d746c39c07f7d261648412a91b1a54aee",
+  "legislatura": "XII",
+  "id": "6861",
+  "numero": "112C",
+  "orcamento": "2012",
+  "versao": "Or",
+  "data_registo": "2011-11-21",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6861",
+    "Numero": "112C",
+    "Data": "21/11/2011 11:25:00",
+    "Titulo": "Novo Artigo 83.º-D (Preservação da parte do Estado na TAP - Transportes Aéreos Portugueses, SGPS S.A.)",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 83.º-D",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d54637655454576593256684f4451304d6d59744d7a637a4d6930304d5451334c574a68595445744d4455354d6a67344d7a45304f446c6c4c6e426b5a673d3d&Fich=cea8442f-3732-4147-baa1-05928831489e.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "BE",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "BE",
+          "Deputado": "ANA DRAGO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "CATARINA MARTINS"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "CECÍLIA HONÓRIO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "FRANCISCO LOUÇÃ"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "JOÃO SEMEDO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "LUÍS FAZENDA"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "MARIANA AIVECA"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "PEDRO FILIPE SOARES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 83.º-D",
+        "Titulo": "Preservação da parte do Estado na TAP-Transportes Aéreos Portugueses, SGPS S.A",
+        "Texto": "No ano de 2012 não há lugar a qualquer operação de venda de partes sociais detidas pelo Estado na empresa TAP - Transportes Aéreos Portugueses, SGPS S. A..\r\nAs Deputadas e os Deputados,\r\n112C",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 83.º-D"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Preservação da parte do Estado na TAP-Transportes Aéreos Portugueses, SGPS S.A",
+        "Data": "25/11/2011 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
