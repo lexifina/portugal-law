@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=dbw1Yu6NDtvMRMdoFwHaTPNvrxtdlplaEOVAvtbUBwpm4nDtSs2lojtPcVY0QSuJN1%2foYNvhD0731QoSOeFJO%2f0iwdAV8bQJCv3%2fueU4oIhKK0mY8BUCEamlQHa%2b0Khl3AlHTKvE3GUX7286dCGVKyYWcTlt2LSz5UiaykIvBmmyOp0EH7uIORvWClt4GejqJR3VpE2CvIFFCsQmlAj4AdFuJM5k7gyRU5ekOA5zAGO7jbYPpRfU5GEa88jRQTe3Rar5CvuiQLDOhjzTLRRiq1Bj3BdBgXbK53jRG592HJLUqx%2bVDoEkaWpsCb0XbwB7kaMvOjROQH9tilz8aSCRZrPMbSTbmYGS6dRXoeLMHeO%2fqCUjFxpfA01Z9er%2bUc2qzg1WYzFvikHZipPBOnhPhCCJTZnaOEGLnjgI%2beyybRY%3d&fich=OEPropostasAlteracao2012Or_json.txt&Inline=true",
+  "ficheiro_sha256": "dc670b928b4291af8105caf73fd7be6d746c39c07f7d261648412a91b1a54aee",
+  "legislatura": "XII",
+  "id": "6904",
+  "numero": "155C",
+  "orcamento": "2012",
+  "versao": "Or",
+  "data_registo": "2011-11-21",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "6904",
+    "Numero": "155C",
+    "Data": "21/11/2011 11:52:00",
+    "Titulo": "Alinea l), N.º 6, Artigo 62.º do EBF, constante do Artigo 135.º da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Prejudicado(a)",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d54637655454576593259304e5749775a6d59744d44593559693030595456694c546c695a6a49744f44426d4e444d33596d5131596d49344c6e426b5a673d3d&Fich=cf45b0ff-069b-4a5b-9bf2-80f437bd5bb8.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 155C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764d575a685a574e684f474d744f475a685a6930304e6a41794c54686d596a67744d4759775a5456695a574a6d5a574e684c6e426b5a673d3d&Fich=1faeca8c-8faf-4602-8fb8-0f0e5bebfeca.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 155C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45765a5449335a4759345a54597459325a6c4d6930304f5463304c5749774f4449744d444a6d59574d355932566a4d6d46684c6e426b5a673d3d&Fich=e27df8e6-cfe2-4974-b082-02fac9cec2aa.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 155C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b457659324979593255315a6d55744d5749325a4330304f474a6b4c5745305a6d55744d4449345a6a526a4d5442684f4451774c6e426b5a673d3d&Fich=cb2ce5fe-1b6d-48bd-a4fe-028f4c10a840.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 155C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764e3249324f4745314d5755744e6a49354e6930305a5441784c5745355a474d745a4451794d32526b4f546b344d5467334c6e426b5a673d3d&Fich=7b68a51e-6296-4e01-a9dc-d423dd998187.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 155C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764d6a46694d444a6a4f574d745a4463314f4330304e54466a4c5467315a546b744d4755304e445535596d49785a4455314c6e426b5a673d3d&Fich=21b02c9c-d758-451c-85e9-0e4459bb1d55.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 155C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45765a4455304f44466d4d5459744e6a6b32596930305a4455354c546b7a5a6d55744d6a51334d6a49325954686d4e4464684c6e426b5a673d3d&Fich=d5481f16-696b-4d59-93fe-247226a8f47a.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 135.º",
+        "Titulo": "Alteração ao Estatuto dos Benefícios Fiscais",
+        "Texto": "Os artigos 3.º, 16.º, 17.º, 21.º, 22.º, 26.º, 27.º, 32.º, 33.º, 46.º, 48.º, 52.º, 54.º, 58.º, 62.º, 70.º e 74.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, abreviadamente designado por EBF, passam a ter a seguinte redacção:\r\n\r\n«Artigo 3.º\r\n\r\n[…]\r\n\r\n1 - […].\r\n\r\n2 - ",
+        "Estado": "Avocado(a)"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": {
+      "DiplomaMedida": {
+        "Titulo": "Aprova o Estatuto dos Benefícios Fiscais",
+        "NumerosMedidas": {
+          "NumeroMedida": [
+            {
+              "Designacao": "Decreto-Lei n.º 215/89, de 1 de Julho"
+            },
+            {
+              "Designacao": "Artigo 62.º - Dedução para efeitos da determinação do lucro tributável das empresas"
+            },
+            {
+              "Designacao": "N.º 6 - "
+            }
+          ]
+        },
+        "Texto": "1 - São considerados custos ou perdas do exercício, na sua totalidade, os donativos concedidos às seguintes entidades: \r\na) Estado, Regiões Autónomas e autarquias locais e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados; \r\nb) Associações de municípios e de freguesias; \r\nc) "
+      }
+    },
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": null
+  }
+}
