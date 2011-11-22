@@ -1,0 +1,157 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=dbw1Yu6NDtvMRMdoFwHaTPNvrxtdlplaEOVAvtbUBwpm4nDtSs2lojtPcVY0QSuJN1%2foYNvhD0731QoSOeFJO%2f0iwdAV8bQJCv3%2fueU4oIhKK0mY8BUCEamlQHa%2b0Khl3AlHTKvE3GUX7286dCGVKyYWcTlt2LSz5UiaykIvBmmyOp0EH7uIORvWClt4GejqJR3VpE2CvIFFCsQmlAj4AdFuJM5k7gyRU5ekOA5zAGO7jbYPpRfU5GEa88jRQTe3Rar5CvuiQLDOhjzTLRRiq1Bj3BdBgXbK53jRG592HJLUqx%2bVDoEkaWpsCb0XbwB7kaMvOjROQH9tilz8aSCRZrPMbSTbmYGS6dRXoeLMHeO%2fqCUjFxpfA01Z9er%2bUc2qzg1WYzFvikHZipPBOnhPhCCJTZnaOEGLnjgI%2beyybRY%3d&fich=OEPropostasAlteracao2012Or_json.txt&Inline=true",
+  "ficheiro_sha256": "dc670b928b4291af8105caf73fd7be6d746c39c07f7d261648412a91b1a54aee",
+  "legislatura": "XII",
+  "id": "7292",
+  "numero": "501C",
+  "orcamento": "2012",
+  "versao": "Or",
+  "data_registo": "2011-11-22",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7292",
+    "Numero": "501C",
+    "Data": "22/11/2011 10:36:00",
+    "Titulo": "De um novo N.º 2, Artigo 17.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554545765a446c6b4e7a566b4e6d5574596d45315a5330304f446b334c574a684d444d744e574d3059544a684e4451795954686c4c6e426b5a673d3d&Fich=d9d75d6e-ba5e-4897-ba03-5c4a2a442a8e.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "ANTÓNIO RODRIGUES"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "CRISTÓVÃO CRESPO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "MIGUEL FRASQUILHO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "MIGUEL FRASQUILHO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "MÓNICA FERRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "JOÃO PINHO DE ALMEIDA"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 501C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b4576596a597a4d6a6c6859575174596a4930595330304d574a6b4c546734593245744e324d324d4441344d6a566d5a575a684c6e426b5a673d3d&Fich=b6329aad-b24a-41bd-88ca-7c600825fefa.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 501C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764f544d7a5a57566d4e7a67744e7a6468597930305932526a4c5467774e6a63745a47526c4d6d4e6a5a6d49335a4759774c6e426b5a673d3d&Fich=933eef78-77ac-4cdc-8067-dde2ccfb7df0.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 501C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b4576596d45314e7a49345a544d744d7a4d774d6930304e544d7a4c5745325a5751744e474e694d54526a4d446b304d5449314c6e426b5a673d3d&Fich=ba5728e3-3302-4533-a6ed-4cb14c094125.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 501C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764e324d34595455324e6d55745a6a45334d4330304d5449324c574579597a4d745a5467345a4459794d7a41304e6a41784c6e426b5a673d3d&Fich=7c8a566e-f170-4126-a2c3-e88d62304601.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 501C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764f44566a4d6a68684e3251745a5749355a5330304d5755794c546c68593249745a6a51355a6d5977595451304d4745774c6e426b5a673d3d&Fich=85c28a7d-eb9e-41e2-9acb-f49ff0a440a0.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 501C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764d574a6d4e57497a4d7a63744d6a55785a5330304d4463794c5467334d6d59744e54566b4d5463344d7a4d7a4f4752684c6e426b5a673d3d&Fich=1bf5b337-251e-4072-872f-55d1783338da.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 17.º",
+        "Titulo": "Contenção da despesa",
+        "Texto": "1 - Durante o ano de 2012 mantêm-se em vigor os artigos 19.º e 23.º, os n.ºs 1 a 7 e 11 a 16 do artigo 24.º, e os artigos 25.º, 26.º, 28.º, 35.º, 40.º, 45.º e 162.º, todos da Lei n.º 55 A/2010, de 31 de Dezembro, alterada pela Lei n.º 48/2011, de 26 de Agosto, sem prejuízo do disposto nos números seguintes.\r\n",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 2",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 2, Artigo 17.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "25/11/2011 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Abstenção",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
