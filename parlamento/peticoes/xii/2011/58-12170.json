@@ -1,0 +1,221 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12170",
+  "numero": "58",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-11-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-02-22",
+            "entidades": null,
+            "id": "92257",
+            "tipo": null,
+            "titulo": "Audição em 2012-02-22 com Presidente da Junta de Freguesia de Barbeita, Isabel Alexandra Lourenço Gonçalves, Presidente da Junta de Freguesia de Merufe, Márcio Eduardo Afonso Alves, Presidente da Junta de Freguesia de Podame, João Carlos Marques Caldas, Presidente da Junta de Freguesia de Riba de Mouro, Manuel Joaquim Vasques Branco, Presidente da Junta de Freguesia de Segude, Maria Celeste Rodrigues Gonçalves"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-01-11",
+            "dataResposta": "2012-01-26",
+            "entidades": [
+              "Presidente do Conselho de Administração da ANACOM"
+            ],
+            "nrOficio": "20/CPECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f54417a596a5579596d4d744e54566a597930305a4455784c5468685a6a55744d6a4e6b5a44466a5a6a566a4d444d314c6e426b5a673d3d&fich=903b52bc-55cc-4d51-8af5-23dd1cf5c035.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2012-01-11",
+            "dataResposta": "2012-02-27",
+            "entidades": [
+              "Presidente do Conselho de Administração da Portugal Telecom"
+            ],
+            "nrOficio": "21/CPECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f54417a596a5579596d4d744e54566a597930305a4455784c5468685a6a55744d6a4e6b5a44466a5a6a566a4d444d314c6e426b5a673d3d&fich=903b52bc-55cc-4d51-8af5-23dd1cf5c035.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2012-05-03",
+            "dataResposta": "2012-05-13",
+            "entidades": [
+              "Peticionários"
+            ],
+            "nrOficio": "252/CPECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f54417a596a5579596d4d744e54566a597930305a4455784c5468685a6a55744d6a4e6b5a44466a5a6a566a4d444d314c6e426b5a673d3d&fich=903b52bc-55cc-4d51-8af5-23dd1cf5c035.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "595107",
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-26",
+                "pubLeg": "XII",
+                "pubNr": "220",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/220/2012-05-26/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-12-06",
+        "DataArquivo": "2012-05-23",
+        "DataBaixaComissao": "2011-12-06",
+        "DataEnvioPAR": "2012-05-23",
+        "DataReaberta": "2011-12-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-12-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f474d77596d4d304f5459744f4445334f5330304d7a5a6d4c546b7a5a5445745a445a69596a566c4d324669596d59304c6e426b5a673d3d&fich=8c0bc496-8179-436f-93e1-d6bb5e3abbf4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f54417a596a5579596d4d744e54566a597930305a4455784c5468685a6a55744d6a4e6b5a44466a5a6a566a4d444d314c6e426b5a673d3d&fich=903b52bc-55cc-4d51-8af5-23dd1cf5c035.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-05-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e7a45355a6d51305a6d4d744d44417a596930304d7a646a4c574533597a51744e5459324e54466d4d32593459575a6c4c6e426b5a673d3d&fich=719fd4fc-003b-437c-a7c4-56651f3f8afe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738765a6d49784d444e6d5a5759744e7a59794e693030595445314c5467305a6d5974597a526b59574a694e6d566d4e44457a4c6e426b5a673d3d&fich=fb103fef-7626-4a15-84ff-c4dabb6ef413.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e3255314e7a6b784d6a55744f5745794d7930304e6a6b324c5749775a6d45744d7a526b4f546b335a5456694d544e694c6e426b5a673d3d&fich=7e579125-9a23-4696-b0fa-34d997e5b13b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-05-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f5755315a6a6b7a5a6a63744e444d785a4330304e6d51354c57497a5a5463744e4749785954677a4d7a51355a6a45344c6e426b5a673d3d&fich=9e5f93f7-431d-46d9-b3e7-4b1a83349f18.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-05-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e544178596d4d7a595751745a6a6b304d7930305a444d354c574a6c4f445574596a4d324f574d304d546b334e6a597a4c6e426b5a673d3d&fich=501bc3ad-f943-4d39-be85-b369c4197663.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a59573876596a6b325a444e695a6a59744d7a686c4d5330305a6a4e6a4c546c6b4d546b744d6a45795a6a6b784e7a4579596a67314c6e426b5a673d3d&fich=b96d3bf6-38e1-4f3c-9d19-212f91712b85.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-02-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a59573876595441774d7a5977595441744e7a68695a4330304d6d46694c5746684d6a67744d444e6c4e4745354f575135596d4e6b4c6e426b5a673d3d&fich=a00360a0-78bd-42ab-aa28-03e4a99d9bcd.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3521",
+        "Legislatura": "XII",
+        "Nome": "Comissão para a Ética, a Cidadania e a Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-12-06",
+            "gp": "PS",
+            "id": "413",
+            "motivoCessacao": null,
+            "nome": "Luís Pita Ameixa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2011-11-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a453159544e6b4e54417a4c546b305a4451744e444935595330344d4759354c5759304e474534597a67784d4751324d7935775a47593d&fich=15a3d503-94d4-429a-80f9-f44a8c810d63.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12170",
+    "PetAssunto": "Reforço da cobertura da Televisão Digital Terrestre nas localidades integradas na Associação de Freguesias do Vale do Mouro.",
+    "PetDataEntrada": "2011-11-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12170",
+    "PetLeg": "XII",
+    "PetNr": "58",
+    "PetNrAssinaturas": "1294",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
