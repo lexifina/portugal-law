@@ -1,0 +1,144 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=dbw1Yu6NDtvMRMdoFwHaTPNvrxtdlplaEOVAvtbUBwpm4nDtSs2lojtPcVY0QSuJN1%2foYNvhD0731QoSOeFJO%2f0iwdAV8bQJCv3%2fueU4oIhKK0mY8BUCEamlQHa%2b0Khl3AlHTKvE3GUX7286dCGVKyYWcTlt2LSz5UiaykIvBmmyOp0EH7uIORvWClt4GejqJR3VpE2CvIFFCsQmlAj4AdFuJM5k7gyRU5ekOA5zAGO7jbYPpRfU5GEa88jRQTe3Rar5CvuiQLDOhjzTLRRiq1Bj3BdBgXbK53jRG592HJLUqx%2bVDoEkaWpsCb0XbwB7kaMvOjROQH9tilz8aSCRZrPMbSTbmYGS6dRXoeLMHeO%2fqCUjFxpfA01Z9er%2bUc2qzg1WYzFvikHZipPBOnhPhCCJTZnaOEGLnjgI%2beyybRY%3d&fich=OEPropostasAlteracao2012Or_json.txt&Inline=true",
+  "ficheiro_sha256": "dc670b928b4291af8105caf73fd7be6d746c39c07f7d261648412a91b1a54aee",
+  "legislatura": "XII",
+  "id": "7326",
+  "numero": "512C",
+  "orcamento": "2012",
+  "versao": "Or",
+  "data_registo": "2011-11-22",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7326",
+    "Numero": "512C",
+    "Data": "22/11/2011 18:55:00",
+    "Titulo": "N.º 5, Artigo 103.º do IEC, constante do Artigo 124.º da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d54637655454576596d566c4d3251344f574d745a54646d4e7930304d5746694c5745354e4459744e44497a4e6a45314f444a684e4445304c6e426b5a673d3d&Fich=bee3d89c-e7f7-41ab-a946-42361582a414.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "FERNANDO VIRGÍLIO MACEDO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 512C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b4576597a526c4e6a4931597a6774596d51794d6930304d6a49304c574a6b4e544d744f444d79596a5534593259355a6a59784c6e426b5a673d3d&Fich=c4e625c8-bd22-4224-bd53-832b58cf9f61.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 512C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764d545132596a55775a4751744f44526c4d7930304e474a6c4c5749315a6d4974593249354d6d5a6a4e445533596a6c684c6e426b5a673d3d&Fich=146b50dd-84e3-44be-b5fb-cb92fc457b9a.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 512C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764f4749304e47566d596d55744d5459304f5330304e544e6d4c546b304e6a67745a6a6b334d6d526c5a47457a4d6a6c6b4c6e426b5a673d3d&Fich=8b44efbe-1649-453f-9468-f972deda329d.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 512C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764d324a6d5a6a597a5a4745744d444d7a4d7930305a6a566b4c546b785a44557459544d334d4445334e446b335a6d59324c6e426b5a673d3d&Fich=3bff63da-0333-4f5d-91d5-a37017497ff6.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 512C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764f44417a5a4451315a5441744d6d5a69595330304d5759324c574a6a4d545974596a6c6c4f545a6a4e4445794e474e684c6e426b5a673d3d&Fich=803d45e0-2fba-41f6-bc16-b9e96c4124ca.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 512C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445794d6a41784d5445774d546376554746795a574e6c636d567a556b45764f5441324f5463774d324d74596a6b794e6930304e44426d4c5467354d4745744d5749304f444e694d325a6b4d4467774c6e426b5a673d3d&Fich=9069703c-b926-440f-890a-1b483b3fd080.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 124.º",
+        "Titulo": "Alteração ao Código dos Impostos Especiais de Consumo",
+        "Texto": "Os artigos 4.º, 7.º, 9.º, 10.º, 11.º, 12.º, 33.º, 47.º, 55.º, 61.º, 71.º, 74.º, 76.º, 83º, 86º, 87º, 88.º, 89.º, 91.º, 92.º, 93.º, 94.º, 95.º, 98.º, 100.º, 103.º, 104.º, 105.º, 110.º, 111.º e 112.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de Junho, abreviadamen",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": {
+      "DiplomaMedida": {
+        "Titulo": "Código dos Impostos Especiais de Consumo (IEC)",
+        "NumerosMedidas": {
+          "NumeroMedida": [
+            {
+              "Designacao": "Decreto-Lei n.º 73/2010, de 21 de Junho"
+            },
+            {
+              "Designacao": "Artigo 103.º - Cigarros"
+            },
+            {
+              "Designacao": "N.º 5 - "
+            }
+          ]
+        },
+        "Texto": "(Redacção dada pela Lei n.º 55-A/2010, de 31 de Dezembro)\r\n\r\n1 — O imposto incidente sobre os cigarros tem dois elementos: um\r\nespecífico e outro ad valorem.\r\n\r\n2 — A unidade tributável do elemento específico é constituída pelo milheiro\r\nde cigarros.\r\n\r\n3 — O elemento ad valorem resulta da aplicação de uma pe"
+      }
+    },
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": null,
+        "DiplomasTerceirosouPropostasDeLeiMapas": {
+          "Diploma": [
+            "S1VP10080",
+            "N.º 5, Artigo 103.º do Decreto-Lei n.º 73/2010, de 21 de Junho (Código dos Impostos Especiais de Consumo (IEC))"
+          ]
+        },
+        "SubDescricao": null,
+        "Data": "28/11/2011 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
