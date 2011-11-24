@@ -1,0 +1,4 @@
+Aviso (extracto) n.º 23091/2011
+José Manuel Dias Custódio, na qualidade de Presidente e em representação da Câmara Municipal da Lourinhã: Torna público, nos termos do artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro, que a Câmara Municipal, na sua reunião do dia 15 de Novembro de 2011, aprovou o Projecto de Regulamento Interno do Parque de Campismo da Praia da Areia Branca, que se submete à apreciação pública nos termos do artigo 131.º do Decreto-Lei n.º 442/91, de 15 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, pelo prazo de 30 dias. Torna ainda público, que o Projecto poderá ser consultado, no sítio da Câmara Municipal da Lourinhã www.cm-lourinha.pt ou na Secção do Balcão do Munícipe, sito no edifício dos Paços do Município.
+17 de Novembro de 2011. - O Presidente da Câmara Municipal da Lourinhã, José Manuel Dias Custódio.
+305368076
