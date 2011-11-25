@@ -1,0 +1,217 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "34",
+    "id": "36572",
+    "titulo": "Procede à terceira alteração à Lei n.º 1/2005, de 10 de Janeiro, que regula a utilização de câmaras de vídeo pelas forças e serviços de segurança em locais públicos de utilização comum."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2011-11-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "27497",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-12-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-11-25",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2011-12-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Protecção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d596a466d4d3259304e4331694d6d55324c5452684d4445744f47566859533078595759314d4455314d5749344d5751756347526d&fich=fb1f3f44-b2e6-4a01-8eaa-1af50551b81d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a6a5531596d55315969307a4d544d324c54517a596a6374596d49774d69307a597a67354e4445794e47526d4e6a4d756347526d&fich=7f55be5b-3136-43b7-bb02-3c894124df63.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d4745344f54413059793035596a4a6a4c5451354f4751744f4755315a4331694e7a686b5a6a5a6c597a4177595467756347526d&fich=30a8904c-9b2c-498d-8e5d-b78df6ec00a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a6a63784f5752694f43316a59546b784c5451325a4759744f544a6b4f4330774d4445304d574e684e4755314f4745756347526d&fich=9f719db8-ca91-46df-92d8-00141ca4e58a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2011-12-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d57466a4d6a4d30596930334e4441774c545131597a45745954686c5a43316b4e3255354e6d526c5a6a49305a6a4d756347526d&fich=01ac234b-7400-45c1-a8ed-d7e96def24f3.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2011-12-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2011-12-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2011-12-14"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2011-12-23"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2011-11-29"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2011-12-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2011-12-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2011-12-06"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "28-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-14",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/080/2011-12-14/28?pgs=28-41&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "28-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-14",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/080/2011-12-14/28?pgs=28-41&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1554",
+            "motivoCessacao": null,
+            "nome": "Filipe Neto Brandão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2011-12-13",
+            "dataRemessa": "2011-12-13",
+            "numeroOficio": "780/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2011-12-13",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I><BR>Abstenção:<I>PSD</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "59454",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "36",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-11-25",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280237",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
