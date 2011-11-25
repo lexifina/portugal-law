@@ -1,0 +1,21 @@
+Resolução do Conselho de Ministros n.º 48/2011
+As cooperativas promovem a participação das populações no desenvolvimento económico e social e contribuem para o combate ao desemprego, a inserção e coesão social e a erradicação da pobreza no mundo.
+Parte integrante do sector cooperativo e social previsto na Constituição da República Portuguesa, as cooperativas têm em Portugal quase século e meio de contributo para o desenvolvimento da economia do País.
+Incentivam o esforço conjunto de mulheres e homens, jovens e idosos, através da auto-ajuda e da ajuda mútua para alcançarem para si, suas famílias e comunidades em que estão inseridas, resultados que permitem minorar dificuldades e alcançar o bem-estar social de que necessitam.
+Organizadas em diversos ramos, unidas em estruturas verticais que, por sua vez, se agruparam em duas confederações nacionais, as cerca de 3000 cooperativas activas em Portugal são importantes estruturas associativas que necessitam ser divulgadas, fortalecidas e reconhecidas pelos poderes públicos e pela própria sociedade civil.
+Para aumentar a visibilidade da forma cooperativa, mostrar como podem beneficiar os seus membros e contribuir para o desenvolvimento sócio-económico dos países, regiões e continentes, cumprindo os objectivos de desenvolvimento do milénio, a Assembleia Geral das Nações Unidas, através da Resolução A/RES/64/136, de 18 de Dezembro de 2009, declarou 2012 como o Ano Internacional das Cooperativas.
+São também objectivos do Ano Internacional das Cooperativas (AIC-2012):
+Dar a conhecer a realidade cooperativa mundial e o seu papel para o desenvolvimento económico e social;
+Promover a criação de cooperativas para responder às necessidades económicas dos seus membros, criando emprego, estimulando a inovação e contribuindo para a inserção social;
+Encorajar os governos e organismos reguladores a promover políticas, leis e regulamentos capazes de gerar a formação e o crescimento do sector cooperativo.
+Considerando os objectivos do Ano Internacional, e em consonância com a política governamental para o sector, a organização e gestão das iniciativas nacionais do AIC-2012 são cometidas à Cooperativa António Sérgio para a Economia Social, Cooperativa de Interesse Público, C. I. P. R. L. (CASES).
+A CASES é membro da Aliança Cooperativa Internacional (ACI), organização que preside ao Comité instituído pela ONU para a planificação do AIC-2012 e tem, por sua vez, como membros, entre outros, as duas confederações nacionais cooperativas: a Confederação Nacional das Coo-perativas Agrícolas e de Crédito Agrícola de Portugal (CONFAGRI) e a Confederação Cooperativa Portuguesa (CONFECOOP).
+A CASES é ainda membro da direcção da Organização Cooperativista dos Povos de Língua Portuguesa, Associação Internacional de Desenvolvimento (OCPLP), como tal podendo acrescentar uma dimensão lusófona às actividades a desenvolver durante o AIC-2012.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aderir à proposta da Organização das Nações Unidas de declaração de 2012 como Ano Internacional das Cooperativas (AIC-2012) e determinar a execução a nível nacional das actividades que lhe estão associadas.
+2 - Atribuir à CASES a responsabilidade pela elaboração da proposta de actividades e iniciativas, coordenação e acompanhamento do programa nacional do AIC-2012, e respectivo apoio técnico, logístico e administrativo.
+3 - Atribuir à CASES a gestão dos recursos financeiros destinados à execução do programa de actividades do AIC-2012, prevendo a integração no orçamento de financiamento oriundo de patrocínios e apoios provenientes de entidades do sector cooperativo e social e de instituições privadas com ligações ao sector.
+4 - Criar uma comissão de honra do AIC-2012 presidida pelo Ministro da Solidariedade e da Segurança Social e constituída pelos presidentes da CONFAGRI, da CONFECOOP e da CASES e duas personalidades de reconhecido mérito no sector cooperativo e social, a nomear pelo Governo.
+5 - Determinar a elaboração de um relatório de execução física e financeiro, no prazo de quatro meses após a conclusão das actividades do AIC-2012.
+Presidência do Conselho de Ministros, 9 de Novembro de 2011. - O Primeiro-Ministro, Pedro Passos Coelho.
