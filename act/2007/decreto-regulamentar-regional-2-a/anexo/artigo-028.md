@@ -1,3 +1,33 @@
+## Anexo
+
+## Capítulo I
+
+## Natureza, missão e atribuições
+
+## Capítulo II
+
+## Estrutura orgânica
+
+## Capítulo III
+
+## Serviços e órgãos
+
+## Secção I
+
+## Serviços executivos
+
+## Subsecção I
+
+## Divisão de Apoio Técnico-Administrativo
+
+## Subsecção II
+
+## Direcções regionais
+
+## Subsecção III
+
+## Direcção Regional da Educação
+
 ## Subsecção IV
 
 ## Direcção Regional da Ciência e Tecnologia
