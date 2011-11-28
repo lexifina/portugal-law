@@ -1,0 +1,2187 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "27",
+    "id": "36533",
+    "titulo": "Aprova o Orçamento do Estado para 2012."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2011-11-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8387",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2011-11-28",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-11-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:01:49:797&drc=00:00:10:501"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:04:09:964&drc=00:02:26:860"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:45:46:226&drc=00:00:13:476"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:13:59:887&drc=00:00:21:106"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11",
+                  "20-20",
+                  "7-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/7?pgs=7-9,11,20&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2006",
+                "nome": "Assunção Esteves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:00:02:272&drc=00:00:21:874"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:14:20:932&drc=00:00:17:880"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13",
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/8?pgs=8,12-13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:06:45:482&drc=00:01:08:156"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:44:44:686&drc=00:00:56:384"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20",
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/9?pgs=9,19-20&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:08:19:085&drc=00:01:49:916"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:16:53:145&drc=00:00:09:855"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:10:11:376&drc=00:02:15:528"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:15:09:417&drc=00:01:01:510"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/10?pgs=10-12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2195",
+                "nome": "Ricardo Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:12:38:356&drc=00:00:49:092"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/11?pgs=11&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:14:38:028&drc=00:00:23:889"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:19:40:647&drc=00:05:37:072"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:25:44:420&drc=00:02:39:328"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:52:33:950&drc=00:00:52:050"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15",
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/14?pgs=14-15,21&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:28:34:258&drc=00:02:34:963"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:48:20:268&drc=00:01:48:802"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:34:50:143&drc=00:01:16:143"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16",
+                  "20-21",
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/15?pgs=15-16,20-21,47-48&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4187",
+                "nome": "Pedro Jesus Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:31:16:384&drc=00:02:30:942"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:50:17:755&drc=00:02:04:197"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:23:44:454&drc=00:01:54:082"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:29:55:733&drc=00:01:26:579"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17",
+                  "21-21",
+                  "42-42",
+                  "44-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/16?pgs=16-17,21,42,44-47&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:33:55:164&drc=00:05:19:403"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:39:24:864&drc=00:01:17:903"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:25:44:840&drc=00:00:44:539"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:32:27:143&drc=00:00:35:743"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:47:34:532&drc=00:00:50:346"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18",
+                  "45-45",
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/18?pgs=18,45,47&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:41:13:677&drc=00:03:26:321"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/19?pgs=19&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:46:19:243&drc=00:01:49:438"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:53:35:687&drc=00:01:13:378"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.   DO  ORÇAMENTO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Luís Morais Sarmento"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20",
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/20?pgs=20,22&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:54:56:878&drc=00:01:02:355"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:29:49:549&drc=00:00:50:480"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22",
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/22?pgs=22,61&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:56:28:858&drc=00:00:12:141"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/22?pgs=22&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:57:18:173&drc=00:02:12:820"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:59:44:948&drc=00:01:00:052"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO ENSINO E DA ADMINISTRAÇÃO ESCOLAR",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "João Casanova De Almeida"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:11:02:747&drc=00:02:15:577"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182354",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29?org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:15:24:305&drc=00:01:26:694"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:19:13:043&drc=00:00:52:372"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:07:14:408&drc=00:01:46:314"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/42?pgs=42-43,55&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:26:36:061&drc=00:01:46:893"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:27:15:333&drc=00:02:25:798"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:35:42:792&drc=00:01:30:735"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46",
+                  "60-61",
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/45?pgs=45-46,60-61,63-64&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:22:06:948&drc=00:01:11:367"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:28:32:220&drc=00:01:13:694"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:31:24:626&drc=00:00:58:333"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:47:28:081&drc=00:04:13:613"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:57:24:599&drc=00:03:23:235"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:09:10:471&drc=00:01:59:220"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:12:34:611&drc=00:00:49:997"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Paulo Núncio"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47",
+                  "50-51",
+                  "53-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/46?pgs=46-47,50-51,53-57&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4152",
+                "nome": "Fernando Virgílio Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:39:29:612&drc=00:02:17:677"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:42:54:525&drc=00:04:15:059"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:51:54:392&drc=00:02:47:622"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:33:06:773&drc=00:02:29:439"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182397",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-52",
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/50?pgs=50-52,62-63&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:20:40:108&drc=00:01:10:079"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=02:55:04:804&drc=00:02:17:218"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:00:54:455&drc=00:02:08:500"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:15:31:508&drc=00:00:37:751"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-54",
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/52?pgs=52-54,58&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:03:52:951&drc=00:03:11:005"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:11:17:318&drc=00:01:09:105"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:13:28:192&drc=00:00:39:648"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/54?pgs=54-57&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:14:15:360&drc=00:00:58:394"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:17:46:948&drc=00:01:40:504"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:37:24:733&drc=00:01:23:643"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58",
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/58?pgs=58,64&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4336",
+                "nome": "Elsa Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:19:33:041&drc=00:01:16:582"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4066",
+                "nome": "Duarte Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:21:01:124&drc=00:02:47:611"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:23:59:485&drc=00:01:44:863"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4064",
+                "nome": "Inês de Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:25:53:724&drc=00:01:16:014"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2114",
+                "nome": "Emídio Guerreiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:30:49:632&drc=00:02:08:764"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:38:54:274&drc=00:01:52:069"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:40:54:314&drc=00:02:02:022"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/65?pgs=65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:44",
+            "horaTermo": "16:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=00:00:22:609&drc=00:00:22:460"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111128pln&url=l12/sl1/a2011/m11/&tI=03:44:09:900&drc=00:01:39:251"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-11-29",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2012.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280260",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8387",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-11-29",
+        "pubLeg": "XII",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/043/2011-11-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
