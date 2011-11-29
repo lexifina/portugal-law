@@ -1,3 +1,7 @@
+## Capítulo VIII
+
+## Disposições finais e transitórias
+
 # Artigo 31.º
 
 ### Adaptação das secretarias-gerais
