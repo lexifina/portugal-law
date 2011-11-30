@@ -1,0 +1,4 @@
+Aviso n.º 23326/2011
+No uso das competências que se encontram previstas na alínea a), do n.º 6 do artigo 64.º e alínea a), do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de Setembro, com a redacção introduzida pela Lei n.º 5-A/2002, de 11 de Janeiro, torna-se público que, o Projecto de "Regulamento de Condecorações do Município do Cadaval", publicado no Diário da República, 2.ª série, n.º 241, de 15 de Dezembro de 2010, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, foi aprovado, de forma definitiva em Regulamento, em reunião ordinária da Câmara Municipal realizada em 1 de Fevereiro de 2011 e em sessão ordinária da Assembleia Municipal realizada em 29 de Abril de 2011.
+17 de Outubro de 2011. - O Presidente da Câmara, Aristides Lourenço Sécio.
+305271297
