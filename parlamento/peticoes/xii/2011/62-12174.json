@@ -1,0 +1,473 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12174",
+  "numero": "62",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-11-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-01-04",
+            "entidades": null,
+            "id": "91822",
+            "tipo": null,
+            "titulo": "Audição em 2012-01-04 com Victor Alexandre Simão Pinto Ângelo, Nuno Góis, António Ângelo Vasconcelos, Fernando Jorge Lopes"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2011-12-09",
+            "dataResposta": "2012-01-09",
+            "entidades": [
+              "Secretário de Estado da Cultura"
+            ],
+            "nrOficio": "296/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2011-12-09",
+            "dataResposta": "2012-01-13",
+            "entidades": [
+              "Ministro das Finanças"
+            ],
+            "nrOficio": "296/CECC/2011",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-01-10",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "602122",
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-17",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/104/2011-12-17/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2011-12-06",
+        "DataArquivo": "2012-02-07",
+        "DataBaixaComissao": "2011-12-06",
+        "DataEnvioPAR": "2012-02-09",
+        "DataReaberta": "2011-12-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2011-12-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b335a47513459325a694c5755355a5467744e44466d4f4330354d6a55794c544e6c4d6a426c4e54526b4f4745314d5335775a47593d&fich=97dd8cfb-e9e8-41f8-9252-3e20e54d8a51.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-12-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49774d7a59304d546b774c574d794d5467744e475a6b595330354e57526b4c54457a5a54417a5a445a6d5932526d4d4335775a47593d&fich=20364190-c218-4fda-95dd-13e03d6fcdf0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2011-12-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4579596a55775a474d344c5441784e7a67744e445a6c4e6931694e5455354c5464695a575a6d4d6d566d4f544979596935775a47593d&fich=12b50dc8-0178-46e6-b559-7beff2ef922b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-02-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d775a54466b4f4441304c5441354e4467744e4749314d5331695a574d324c5445334e3246684f44466b595755345a6935775a47593d&fich=c0e1d804-0948-4b51-bec6-177aa81dae8f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-01-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526c4d446c6d4d57557a4c54466b4e5463744e4445795a533168595455344c5459774d444d314f446b305a5445794e4335775a47593d&fich=de09f1e3-1d57-412e-aa58-60035894e124.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59314d6d4a6a593255344c57497a4d6a63744e4449774d533034597a4e6c4c574d345954566d4d6a63334e4759344f5335775a47593d&fich=652bcce8-b327-4201-8c3e-c8a5f2774f89.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2011-12-06",
+            "gp": "PS",
+            "id": "4064",
+            "motivoCessacao": null,
+            "nome": "Inês de Medeiros"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2012-03-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-12-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41784e446869596a59324c57566c4f5445744e4451305a5330355932597a4c5455354e6a5a6a4d7a55314d7a49795a5335775a47593d&fich=0148bb66-ee91-444e-9cf3-5966c355322e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "36771",
+      "36838"
+    ],
+    "Iniciativasoriginadas": [
+      "36771",
+      "36838"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-03-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120314pln&url=l12/sl1/a2012/m03/&tI=02:43:29:047&drc=00:03:47:949"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-15",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/084/2012-03-15/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a adoção de medidas que permitam um efetivo aproveitamento dos fundos comunitários dedicados ao setor cultural; Recomenda ao Governo a adoção de medidas de combate aos efeitos da crise no setor cultural; As artes e a cultura para além da crise.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-03-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120314pln&url=l12/sl1/a2012/m03/&tI=02:47:22:505&drc=00:03:53:772"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-15",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/084/2012-03-15/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a adoção de medidas que permitam um efetivo aproveitamento dos fundos comunitários dedicados ao setor cultural; Recomenda ao Governo a adoção de medidas de combate aos efeitos da crise no setor cultural; As artes e a cultura para além da crise.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-03-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120314pln&url=l12/sl1/a2012/m03/&tI=02:51:18:902&drc=00:03:29:935"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-15",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/084/2012-03-15/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a adoção de medidas que permitam um efetivo aproveitamento dos fundos comunitários dedicados ao setor cultural; Recomenda ao Governo a adoção de medidas de combate aos efeitos da crise no setor cultural; As artes e a cultura para além da crise.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-03-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120314pln&url=l12/sl1/a2012/m03/&tI=02:54:52:666&drc=00:04:11:796"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-15",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/084/2012-03-15/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a adoção de medidas que permitam um efetivo aproveitamento dos fundos comunitários dedicados ao setor cultural; Recomenda ao Governo a adoção de medidas de combate aos efeitos da crise no setor cultural; As artes e a cultura para além da crise.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-03-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120314pln&url=l12/sl1/a2012/m03/&tI=02:59:08:087&drc=00:04:10:913"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-15",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/084/2012-03-15/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a adoção de medidas que permitam um efetivo aproveitamento dos fundos comunitários dedicados ao setor cultural; Recomenda ao Governo a adoção de medidas de combate aos efeitos da crise no setor cultural; As artes e a cultura para além da crise.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12174",
+    "PetAssunto": "As artes e a cultura para além da crise.",
+    "PetDataEntrada": "2011-11-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12174",
+    "PetLeg": "XII",
+    "PetNr": "62",
+    "PetNrAssinaturas": "4483",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1619",
+        "obs": null,
+        "pag": [
+          "44-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-03-15",
+        "pubLeg": "XII",
+        "pubNr": "84",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/084/2012-03-15/44?pgs=44-50&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
