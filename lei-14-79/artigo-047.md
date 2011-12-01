@@ -12,6 +12,6 @@
 
 5 - Aquela autoridade decide a reclamação em vinte e quatro horas e, se a atender, procede imediatamente a nova designação através de sorteio efectuado no edifício da câmara municipal ou da administração de bairro e na presença dos delegados das listas concorrentes à eleição na secção de voto em causa.
 
-6 - Até cinco dias antes do dia das eleições, o presidente da câmara ou da comissão administrativa municipal lavra o alvará de nomeação dos membros das mesas das assembleias eleitorais e participa as nomeações ao governo civil ou, nas regiões autónomas, ao Ministro da República e às juntas de freguesia competentes.
+6 - Até cinco dias antes do dia das eleições, o presidente da câmara municipal lavra o alvará de nomeação dos membros das mesas das assembleias eleitorais e participa as nomeações às juntas de freguesia competentes.
 
 7 - Os que forem designados membros de mesa de assembleia eleitoral e que até três dias antes das eleições justifiquem, nos termos legais, a impossibilidade de exercerem essas funções são imediatamente substituídos, nos termos do n.º 2, pelo presidente da câmara municipal.

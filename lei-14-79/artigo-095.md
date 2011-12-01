@@ -10,8 +10,8 @@
 
 4 - A impressão dos boletins de voto é encargo do Estado, através do Ministério da Administração Interna, competindo a sua execução à Imprensa Nacional-Casa da Moeda.
 
-5 - O governador civil ou, nas regiões autónomas, o Ministro da República remete a cada presidente de câmara municipal ou de comissão administrativa municipal, ou, nos municípios onde existirem bairros administrativos, ao administrador de bairro, os boletins de voto para que este cumpra o preceituado no n.º 2 do artigo 52.º
+5 - O director-geral de Administração Interna ou, nas Regiões Autónomas, o Representante da República remete a cada presidente da câmara municipal os boletins de voto para que este cumpra o preceituado no n.º 2 do artigo 52.º
 
 6 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 20%, são remetidos em sobrescrito fechado e lacrado.
 
-7 - O presidente da câmara municipal ou da comissão administrativa municipal ou, nos municípios onde existirem bairros administrativos, o administrador de bairro e os presidentes das assembleias ou secções de voto prestam contas ao governador civil ou, nas regiões autónomas, ao Ministro da República dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
+7 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.

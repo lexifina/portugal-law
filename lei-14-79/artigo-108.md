@@ -10,7 +10,7 @@ b) Dois juristas escolhidos pelo presidente;
 
 c) Dois professores de Matemática que leccionem na sede do circulo eleitoral, designados pelo Ministro da Educação e Cultura ou, nas regiões autónomas, pelo Ministro da República;
 
-d) Seis presidentes de assembleia ou secção de voto designados pelo governador civil ou, nas regiões autónomas, pelo Ministro da República;
+d) Seis presidentes de assembleia ou secção de voto designados pelo tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma;
 
 e) Um chefe de secretaria judicial da sede do círculo eleitoral, escolhido pelo presidente, que serve de secretário, sem voto.
 

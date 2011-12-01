@@ -8,4 +8,4 @@
 
 3 - O presidente do Tribunal Constitucional manda notificar imediatamente os mandatários das listas concorrentes no círculo em causa para que estes, os candidatos e os partidos políticos respondam, querendo, no prazo de vinte e quatro horas.
 
-4 - Nas quarenta e oito horas subsequentes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em plenário, decide definitivamente do recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições e ao governador civil, ou, nas regiões autónomas, ao Ministro da República.
+4 - Nas 48 horas subsequentes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em Plenário, decide definitivamente do recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições.

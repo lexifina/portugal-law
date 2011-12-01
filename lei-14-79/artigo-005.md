@@ -6,7 +6,7 @@ São inelegíveis para a Assembleia da República:
 
 a) O Presidente da República;
 
-b) Os governadores civis e vice-governadores em exercício de funções;
+b) Revogada;
 
 c) Os magistrados judiciais ou do Ministério Público em efectividade de serviço;
 

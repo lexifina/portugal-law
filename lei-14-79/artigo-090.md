@@ -12,6 +12,6 @@ b) Realização de uma nova votação no mesmo dia da semana seguinte, no caso c
 
 c) Realização do apuramento definitivo sem ter em conta a votação em falta, se se tiver revelado impossível a realização da votação prevista na alínea anterior.
 
-3 - O reconhecimento da impossibilidade definitiva da realização da votação ou o seu adiamento competem ao governador civil ou, no caso das Regiões Autónomas, ao Ministro da República.
+3 - O reconhecimento da impossibilidade definitiva da realização da votação ou o seu adiamento competem ao presidente da câmara municipal.
 
-4 - Na realização de nova votação, os membros das mesas podem ser nomeados pelo governador civil ou, no caso das Regiões Autónomas, pelo Ministro da República.
+4 - Na realização de nova votação, os membros das mesas podem ser nomeados pelo presidente da câmara municipal.

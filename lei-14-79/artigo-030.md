@@ -12,4 +12,4 @@
 
 5 - Quando não haja reclamações, ou decididas as que tenham sido apresentadas, o juiz manda afixar à porta do edifício do tribunal uma relação completa de todas as listas admitidas.
 
-6 - É enviada cópia das listas referidas no número anterior ao governador civil ou, nas regiões autónomas, ao Ministro da República.
+6 - É enviada cópia das listas referidas no número anterior ao director-geral de Administração Interna ou, nas Regiões Autónomas, ao Representante da República.
