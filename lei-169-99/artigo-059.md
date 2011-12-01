@@ -4,7 +4,7 @@
 
 1 - No caso de morte, renúncia, suspensão ou perda de mandato de algum membro da câmara municipal em efectividade de funções, é chamado a substituí-lo o cidadão imediatamente a seguir na ordem da respectiva lista, nos termos do artigo 79.º
 
-2 - Esgotada a possibilidade de substituição prevista no número anterior e desde que não esteja em efectividade de funções a maioria do número legal dos membros da câmara municipal, o presidente comunica o facto à assembleia municipal e ao governador civil, para que este proceda à marcação do dia de realização das eleições intercalares, sem prejuízo do disposto no artigo 99.º
+2 - Esgotada a possibilidade de substituição prevista no número anterior e desde que não esteja em efectividade de funções a maioria do número legal de membros da câmara municipal, o presidente comunica o facto à assembleia municipal e ao membro do Governo responsável pelas tutela das autarquias locais, para que este proceda à marcação do dia de realização das eleições intercalares, sem prejuízo do disposto no artigo 99.º
 
 3 - Esgotada, em definitivo, a possibilidade de preenchimento da vaga de presidente da câmara, cabe à assembleia municipal proceder de acordo com o número anterior, independentemente do número de membros da câmara municipal em efectividade de funções.
 
