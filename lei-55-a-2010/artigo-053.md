@@ -2,7 +2,7 @@
 
 ### Endividamento municipal em 2011
 
-1 - Em 31 de Dezembro de 2011, o valor do endividamento líquido, calculado nos termos da Lei n.º 2/2007, de 15 de Janeiro, alterada pelas Leis n.os 22-A/2007, de 29 de Junho, 67-A/2007, de 31 de Dezembro, e 3-B/2010, de 28 de Abril, de cada município não pode exceder o que existia em 30 de Setembro de 2010.
+1 - Em 31 de Dezembro de 2011, o valor do endividamento líquido, calculado nos termos da Lei n.º 2/2007, de 15 de Janeiro, alterada pelas Leis n.os 22-A/2007, de 29 de Junho, 66-A/2007, de 31 de Dezembro, e 3-B/2010, de 28 de Abril, de cada município não pode exceder o que existia em 31 de Dezembro de 2010.
 
 2 - No ano de 2011, a contracção de novos empréstimos de médio e longo prazos está limitada ao valor resultante do rateio do montante global das amortizações efectuadas pelos municípios em 2009, proporcional à capacidade de endividamento disponível para cada município, sem prejuízo do disposto nos n.os 1 e 5 a 7 do artigo 39.º da Lei n.º 2/2007, de 15 de Janeiro, alterada pelas Leis n.os 22-A/2007, de 29 de Junho, 67-A/2007, de 31 de Dezembro, e 3-B/2010, de 28 de Abril.
 
