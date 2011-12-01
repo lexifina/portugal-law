@@ -8,4 +8,4 @@
 
 3 - O presidente do Tribunal Constitucional manda notificar imediatamente os mandatários dos candidatos definitivamente admitidos para que eles ou os candidatos respondam, querendo, no prazo de um dia.
 
-4 - Nos 2 dias seguintes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em plenário, decide o recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições e ao governador civil.
+4 - Nos dois dias seguintes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em Plenário, decide o recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições.

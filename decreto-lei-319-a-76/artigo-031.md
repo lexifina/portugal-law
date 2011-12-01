@@ -12,4 +12,4 @@
 
 3 - Até ao 35.º dia anterior ao dia da eleição, o presidente da câmara municipal determina os desdobramentos previstos no número anterior, comunicando-os imediatamente à correspondente junta de freguesia.
 
-4 - Da decisão referida no número anterior cabe recurso, a interpor no prazo de 2 dias, por iniciativa das juntas de freguesia ou de, pelo menos, 10 eleitores de qualquer assembleia de voto, para o governador civil ou, nas Regiões Autónomas, para o Ministro da República, que decidem, em definitivo e em igual prazo.
+4 - Da decisão referida no número anterior cabe recurso, a interpor no prazo de dois dias, por iniciativa das juntas de freguesia ou de, pelo menos, 10 eleitores de qualquer assembleia de voto, para o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, que decide em definitivo e em igual prazo.

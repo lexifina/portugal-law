@@ -10,8 +10,8 @@
 
 4 - Nos casos referidos nos números anteriores, consideram-se sem efeito quaisquer actos que eventualmente tenham sido praticados na assembleia de voto.
 
-5 - O reconhecimento da impossibilidade de a eleição se efectuar e o seu adiamento competem ao governador civil ou, nas Regiões Autónomas, ao Ministro da República.
+5 - O reconhecimento da impossibilidade de a eleição se efectuar e o seu adiamento competem ao presidente da câmara municipal ou, nas Regiões Autónomas, ao Representante da República.
 
-6 - No caso de nova votação, nos termos dos n.os 2 e 3 não se aplica o disposto na parte final do n.º 3 do artigo 35.º e no artigo 85.º e os membros das mesas podem ser nomeados pelo governador civil ou, no caso das Regiões Autónomas, pelo Ministro da República.
+6 - No caso de nova votação, nos termos dos n.os 2 e 3 não se aplica o disposto na parte final do n.º 3 do artigo 35.º e no artigo 85.º e os membros das mesas podem ser nomeados pelo presidente da câmara municipal ou, nas Regiões Autónomas, pelo Representante da República.
 
 7 - Se tiver revelado impossível a repetição da votação prevista nos n.os 2 e 3 por quaisquer das causas previstas no n.º 1, proceder-se-á à realização do apuramento definitivo sem ter em conta a votação em falta.

@@ -6,4 +6,4 @@
 
 2. À Comissão Nacional das Eleições será enviada cópia do auto.
 
-3. Aos governadores civis serão enviadas cópias do auto.
+3. (Revogado).

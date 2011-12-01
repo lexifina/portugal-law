@@ -8,13 +8,13 @@ a) Um magistrado judicial, designado pelo presidente do tribunal da relação do
 
 b) Dois juristas, escolhidos pelo presidente;
 
-c) Dois professores, preferencialmente de Matemática, que leccionem na área do sede do distrito, designados pelo Ministro da Educação e Cultura;
+c) Dois professores, preferencialmente de Matemática, que leccionem na área da sede do distrito, designados pelo membro do Governo responsável pela área da educação;
 
-d) Seis presidentes de assembleias de voto, designados pelo governador civil;
+d) Seis presidentes de assembleias de voto, designados pelo tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma;
 
 e) Um secretário judicial da sede do distrito, escolhido pelo presidente, que servirá de secretário, sem voto.
 
-2 - A assembleia deverá estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem, e, no caso de desdobramento, a área que abrange, através de edital a afixar à porta do governo civil.
+2 - A assembleia deverá estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem, e, no caso de desdobramento, a área que abrange, através de edital a afixar à porta do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma.
 
 3 - As designações previstas nas alíneas c) e d) do n.º 1 deverão ser comunicadas ao presidente até 3 dias antes da eleição.
 
