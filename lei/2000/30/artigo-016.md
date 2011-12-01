@@ -10,8 +10,8 @@
 
 a) 60% para o Estado;
 
-b) 20% para o SPTT (Serviço de Prevenção e Tratamento da Toxicodependência);
+b) 40 % para o IDT, I. P.;
 
-c) 10% para o governo civil;
+c) (Revogada).
 
-d) 10% para o IPDT.
+d) (Revogada).
