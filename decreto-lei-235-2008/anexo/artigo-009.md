@@ -26,14 +26,12 @@ j) Nomear os representantes para os órgãos sociais das pessoas colectivas part
 
 l) Adquirir, alienar e onerar bens imóveis da SCML, após autorização da tutela;
 
-m) Realizar investimentos estratégicos e estruturantes, incluindo aqueles que ditem um envolvimento de representantes da Santa Casa da Misericórdia de Lisboa na administração ou nos órgãos sociais de instituições que, direta ou indiretamente, desenvolvem atividade noutros setores ou aqueles que envolvam um volume superior a 5 % do valor do orçamento anual, obtida a autorização da tutela;
+m) Autorizar o recebimento de donativos;
 
-n) Autorizar o recebimento de donativos;
+n) Autorizar a cobrança de receitas e a realização de despesas;
 
-o) Autorizar a cobrança de receitas e a realização de despesas;
+o) Aplicar sanções disciplinares nos termos legais;
 
-p) Aplicar sanções disciplinares nos termos legais;
-
-q) Exercer os demais poderes que lhe forem atribuídos pela lei e pelos presentes estatutos ou que, neles estando previstos, não sejam da competência de outros órgãos.
+p) Exercer os demais poderes que lhe forem atribuídos pela lei e pelos presentes estatutos ou que, neles estando previstos, não sejam da competência de outros órgãos.
 
 2 - Sob proposta do provedor, a mesa pode delegar competências para a realização de quaisquer dos actos necessários à prossecução das suas atribuições em um ou mais dos seus membros.
