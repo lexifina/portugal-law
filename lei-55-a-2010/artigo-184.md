@@ -1,0 +1,33 @@
+# Artigo 184.º
+
+### Alteração à Lei n.º 43/2004, de 18 de Agosto
+
+O artigo 20.º da Lei n.º 43/2004, de 18 de Agosto, passa a ter a seguinte redacção:
+
+«Artigo 20.º
+
+[...]
+
+1 - ...
+
+2 - Além das dotações que lhe sejam atribuídas no Orçamento da Assembleia da República, nos termos da Lei n.º 59/90, de 21 de Novembro, constituem receitas da Comissão Nacional de Protecção de Dados a inscrever directamente no Orçamento do Estado:
+
+1) ...
+
+2) ...
+
+3) ...
+
+4) ...
+
+5) ...
+
+6) ...
+
+7) ...
+
+3 - ...
+
+4 - ...
+
+5 - ...»
