@@ -14,4 +14,4 @@ b) O cumprimento do disposto no artigo 15.º, pelo grupo organizado de adeptos;
 
 c) A instalação do sistema de videovigilância previsto no artigo 18.º pelo promotor do espectáculo desportivo.
 
-2 - Aos promotores do espetáculo desportivo que obtenham o direito de participar em competições desportivas de natureza profissional, por subida de escalão ou por qualquer outro procedimento previsto em normas regulamentares das competições, o prazo para se adequarem ao disposto na presente lei é de um ano, contado desde o início da época desportiva em que esse direito seja obtido.
+2 - Aos promotores do espectáculo desportivo que obtenham o direito de participar em competições desportivas de natureza profissional, por subida de escalão ou por qualquer outro procedimento previsto em normas regulamentares das competições, o prazo para se adequarem ao disposto na presente lei é de dois anos, contados desde o início da época desportiva em que esse direito seja obtido.

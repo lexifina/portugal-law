@@ -1,12 +1,12 @@
 # Artigo 15.º
 
-### Registo interno dos grupos organizados de adeptos
+### Registo dos grupos organizados de adeptos
 
-1 - O promotor do espetáculo desportivo que registe um grupo organizado de adeptos junto da APCVD deve manter um registo interno sistematizado e atualizado dos seus filiados, nos termos do disposto na legislação de proteção de dados pessoais, com indicação dos elementos seguintes:
+1 - Os grupos organizados de adeptos devem possuir um registo sistematizado e actualizado dos seus filiados, cumprindo o disposto na Lei n.º 67/98, de 26 de Outubro, com indicação dos elementos seguintes:
 
 a) Nome;
 
-b) Número do cartão de cidadão;
+b) Número do bilhete de identidade;
 
 c) Data de nascimento;
 
@@ -14,22 +14,16 @@ d) Fotografia;
 
 e) Filiação, caso se trate de menor de idade; e
 
-f) Morada e
+f) Morada.
 
-g) Contactos telefónicos e de correio eletrónico.
+2 - O registo referido no número anterior é efectuado junto do respectivo promotor do espectáculo desportivo, o qual, nos cinco dias seguintes à sua recepção, envia cópia ao CESD que o disponibiliza de imediato às forças de segurança.
 
-2 - (Revogado.)
+3 - O registo referido no n.º 1 é actualizado sempre que se verifique qualquer alteração quanto aos seus filiados, e pode ser suspenso ou anulado no caso de incumprimento do disposto no presente artigo.
 
-3 - O registo interno é atualizado sempre que se verifique qualquer alteração relativa aos seus filiados.
+4 - Os grupos organizados de adeptos devem possuir uma listagem actualizada contendo a identificação de todos os filiados, registados no termos dos números anteriores, presentes na deslocação em concreto para o espectáculo desportivo.
 
-4 - O promotor do espetáculo desportivo suspende o registo interno de um grupo organizado de adeptos sempre que haja indícios da existência de falsas declarações quanto à identidade dos seus filiados.
+5 - A listagem referida no número anterior é disponibilizada, sempre que solicitado, às forças de segurança e ao CESD.
 
-5 - O promotor do espetáculo desportivo pode suspender o registo interno de um grupo organizado de adeptos quando a falta de elementos relativos aos filiados comprometa a sua identificação.
+6 - Os elementos responsáveis por grupos organizados de adeptos que não cumpram o disposto nos números anteriores ficam impossibilitados de aceder ao interior de qualquer recinto desportivo mediante decisão do Instituto do Desporto de Portugal, I. P., sob proposta do CESD, enquanto a situação de incumprimento se mantiver.
 
-6 - (Revogado.)
-
-7 - (Revogado).
-
-8 - O promotor que suspenda o registo interno cessa imediatamente a prestação de qualquer apoio ao grupo organizado de adeptos e comunica, de imediato e de forma documentada, a suspensão do registo e respetivos fundamentos à APCVD.
-
-9 - Caso a suspensão perdure pelo período de um ano, o promotor do espetáculo desportivo anula o registo junto da APCVD, de imediato e de forma documentada.
+7 - Em caso de reincidência, o CESD deve suspender, por período não superior a um ano, ou anular o registo referido no n.º 1.
