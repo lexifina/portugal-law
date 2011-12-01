@@ -8,9 +8,9 @@
 
 3 - Os cortejos e os desfiles podem realizar-se em qualquer dia e hora, respeitando-se apenas os limites impostos pela liberdade de trabalho e de trânsito e pela manutenção da ordem pública, bem como os decorrentes do período de descanso dos cidadãos.
 
-4 - O auto a que alude o n.º 2 do artigo 5.º do citado diploma é enviado, por cópia, ao governador civil e, consoante os casos, às entidades referidas no n.º 2.
+4 - O auto a que alude o n.º 2 do artigo 5.º do citado diploma é enviado, por cópia, ao respectivo presidente da câmara municipal e, consoante os casos, às entidades referidas no n.º 2.
 
-5 - A ordem de alteração dos trajectos ou desfiles é dada pela autoridade competente, por escrito, às mesmas entidades e comunicada ao governador civil.
+5 - A ordem de alteração dos trajectos ou desfiles é dada pela autoridade competente, por escrito, às mesmas entidades e comunicada ao presidente da câmara municipal territorialmente competente.
 
 6 - A presença de agentes da autoridade em reuniões organizadas por qualquer candidatura apenas pode ser solicitada pelas entidades referidas no n.º 2, sendo estas responsáveis pela manutenção da ordem quando não façam tal solicitação.
 

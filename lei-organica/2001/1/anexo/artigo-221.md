@@ -12,11 +12,11 @@ c) Câmara municipal e assembleia municipal.
 
 2 - O exercício de funções nos órgãos autárquicos é incompatível com o desempenho efectivo dos cargos ou funções de:
 
-a) Governador e vice-governador civil e Ministro da República, nas Regiões Autónomas;
+a) Representante da República, nas Regiões Autónomas;
 
 b) Dirigente na Direcção-Geral do Tribunal de Contas, na Inspecção-Geral de Finanças e na Inspecção-Geral da Administração do Território;
 
-c) Secretário dos governos civis;
+c) (Revogada.)
 
 d) Dirigente e técnico superior nos serviços da Comissão Nacional de Eleições e do Secretariado Técnico dos Assuntos para o Processo Eleitoral.
 

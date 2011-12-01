@@ -12,4 +12,4 @@
 
 5 - Quando não haja reclamações ou logo que tenham sido decididas as que hajam sido apresentadas, é publicada à porta do edifício do tribunal uma relação completa de todas as listas admitidas.
 
-6 - É enviada cópia das listas referidas no número anterior ao governador civil.
+6 - É enviada cópia das listas referidas no número anterior ao director-geral de Administração Interna.

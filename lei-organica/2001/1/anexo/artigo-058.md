@@ -6,8 +6,8 @@
 
 2 - Se alguma candidatura com direito de antena prescindir do seu exercício, os tempos de antena que lhe cabiam são anulados, sem possibilidade de redistribuição.
 
-3 - A distribuição dos tempos de antena é feita pelo governador civil mediante sorteio, até três dias antes do início da campanha, e comunicada de imediato, dentro do mesmo prazo, aos operadores envolvidos.
+3 - A distribuição dos tempos de antena é feita pelo tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma mediante sorteio, até três dias antes do início da campanha, e comunicada de imediato, dentro do mesmo prazo, aos operadores envolvidos.
 
-4 - Para efeito do disposto no número anterior o governador civil organiza tantas séries de emissões quantas as candidaturas que a elas tenham direito.
+4 - Para efeito do disposto no número anterior, o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma organiza tantas séries de emissões quantas as candidaturas que a eles tenham direito.
 
 5 - Para o sorteio previsto neste artigo são convocados os representantes das candidaturas intervenientes.

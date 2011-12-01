@@ -4,7 +4,7 @@
 
 1 - Durante o período da campanha eleitoral, os operadores reservam ao conjunto das candidaturas trinta minutos, diariamente, divididos em dois blocos iguais, de quinze minutos seguidos, um entre as 7 e as 12 horas e outro entre as 19 e as 24 horas.
 
-2 - Até 10 dias antes da abertura da campanha eleitoral os operadores devem indicar ao governador civil o horário previsto para as emissões relativas ao exercício do direito de antena.
+2 - Até 10 dias antes da abertura da campanha eleitoral, os operadores devem indicar ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma o horário previsto para as emissões relativas ao exercício do direito de antena.
 
 3 - O início e a conclusão dos blocos a que se refere o n.º 1 são adequadamente assinalados por separadores identificativos do exercício do direito de antena e o titular do direito deve ser identificado no início e termo da respectiva emissão.
 

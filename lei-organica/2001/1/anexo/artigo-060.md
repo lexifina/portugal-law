@@ -2,7 +2,7 @@
 
 ### Processo de suspensão do exercício do direito de antena
 
-1 - A suspensão do exercício do direito de antena é requerida ao tribunal de comarca pelo Ministério Público, por iniciativa deste ou a solicitação do governador civil ou de representante de qualquer candidatura concorrente.
+1 - A suspensão do exercício do direito de antena é requerida ao tribunal de comarca com jurisdição na sede do distrito ou Região Autónoma pelo Ministério Público, por iniciativa deste ou a solicitação de representante de qualquer candidatura concorrente.
 
 2 - O representante da candidatura, cujo direito de antena tenha sido objecto de pedido de suspensão, é imediatamente notificado por via telegráfica ou telecópia para contestar, querendo, no prazo de vinte e quatro horas.
 
