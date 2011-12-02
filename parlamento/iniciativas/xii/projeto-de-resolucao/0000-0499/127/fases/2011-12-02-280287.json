@@ -1,0 +1,426 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "127",
+    "id": "36570",
+    "titulo": "Recomenda  ao Governo a realização de relatório ambiental e a discussão pública do Plano Estratégico de Transportes."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2011-12-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8391",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2011-12-02",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36582",
+        "leg": "XII",
+        "nr": "132",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1572",
+            "obs": null,
+            "pag": [
+              "41-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-03",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/41?pgs=41-48&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a suspensão imediata do plano estratégico de transportes e a sua discussão pública, bem como a elaboração de um diagnóstico do sector que inclua a avaliação dos operadores públicos e privados."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-12-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:19:51:216&drc=00:04:05:181"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:47:55:137&drc=00:02:30:862"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42",
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-03",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/41?pgs=41-42,48&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda  ao Governo a realização de relatório ambiental e a discussão pública do Plano Estratégico de Transportes; Recomenda ao Governo a suspensão imediata do plano estratégico de transportes e a sua discussão pública, bem como a elaboração de um diagnóstico do sector que inclua a avaliação dos operadores públicos e privados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:24:06:022&drc=00:03:48:145"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:46:06:190&drc=00:01:45:634"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43",
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-03",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/42?pgs=42-43,47-48&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda  ao Governo a realização de relatório ambiental e a discussão pública do Plano Estratégico de Transportes; Recomenda ao Governo a suspensão imediata do plano estratégico de transportes e a sua discussão pública, bem como a elaboração de um diagnóstico do sector que inclua a avaliação dos operadores públicos e privados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:28:03:855&drc=00:04:14:774"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-03",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda  ao Governo a realização de relatório ambiental e a discussão pública do Plano Estratégico de Transportes; Recomenda ao Governo a suspensão imediata do plano estratégico de transportes e a sua discussão pública, bem como a elaboração de um diagnóstico do sector que inclua a avaliação dos operadores públicos e privados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:32:32:320&drc=00:04:41:693"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-03",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda  ao Governo a realização de relatório ambiental e a discussão pública do Plano Estratégico de Transportes; Recomenda ao Governo a suspensão imediata do plano estratégico de transportes e a sua discussão pública, bem como a elaboração de um diagnóstico do sector que inclua a avaliação dos operadores públicos e privados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2569",
+                "nome": "Rui Paulo Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:37:22:878&drc=00:04:25:022"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-03",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda  ao Governo a realização de relatório ambiental e a discussão pública do Plano Estratégico de Transportes; Recomenda ao Governo a suspensão imediata do plano estratégico de transportes e a sua discussão pública, bem como a elaboração de um diagnóstico do sector que inclua a avaliação dos operadores públicos e privados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "13:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111202pln&url=l12/sl1/a2011/m12/&tI=02:41:58:636&drc=00:04:00:879"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-03",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda  ao Governo a realização de relatório ambiental e a discussão pública do Plano Estratégico de Transportes; Recomenda ao Governo a suspensão imediata do plano estratégico de transportes e a sua discussão pública, bem como a elaboração de um diagnóstico do sector que inclua a avaliação dos operadores públicos e privados.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280287",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "574422",
+        "obs": null,
+        "pag": [
+          "41-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-12-03",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/046/2011-12-03/41?pgs=41-49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
