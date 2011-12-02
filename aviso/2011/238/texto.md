@@ -1,0 +1,5 @@
+Aviso n.º 238/2011
+Por ordem superior se torna público que, em 16 de Junho de 2010 e em 5 de Abril de 2011, foram recebidas notas, respectivamente pela Embaixada de Portugal em Londres e pelo Gabinete Governamental das Bermudas, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e o Governo das Bermudas (conforme autorizado pela Carta de Outorga do Reino Unido da Grã-Bretanha e da Irlanda do Norte) sobre Troca de Informações em Matéria Fiscal, assinado em Paget Parish em 10 de Maio de 2010.
+A República Portuguesa é Parte neste Acordo, o qual foi aprovado pela Resolução da Assembleia da República n.º 39/2011 e ratificado pelo Decreto do Presidente da República n.º 22/2011, ambos publicados no Diário da República, 1.ª série, n.º 53, de 16 de Março de 2011.
+Nos termos do artigo 13.º do Acordo, este entrou em vigor a 5 de Abril de 2011.
+Departamento de Assuntos Jurídicos, 17 de Novembro de 2011. - O Director, Miguel de Serpa Soares.
