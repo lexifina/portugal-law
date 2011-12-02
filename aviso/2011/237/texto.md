@@ -1,0 +1,5 @@
+Aviso n.º 237/2011
+Por ordem superior se torna público que, em 6 de Dezembro de 2010 e em 1 de Março de 2011, foram recebidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério dos Assuntos Exteriores e Relações Institucionais do Principado de Andorra, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e o Principado de Andorra sobre a Troca de Informações em Matéria Fiscal, assinado em Lisboa em 30 de Novembro de 2009.
+A República Portuguesa é Parte neste Acordo, o qual foi aprovado pela Resolução da Assembleia da República n.º 27/2011 e ratificado pelo Decreto do Presidente da República n.º 17/2011, ambos publicados no Diário da República, 1.ª série, n.º 40, de 25 de Fevereiro de 2011.
+Nos termos do artigo 12.º do Acordo, este entrou em vigor a 31 de Março de 2011.
+Departamento de Assuntos Jurídicos, 17 de Novembro de 2011. - O Director, Miguel de Serpa Soares.
