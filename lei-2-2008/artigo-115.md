@@ -1,11 +1,3 @@
-## Título IV
-
-## Disposições transitórias e finais
-
-## Capítulo I
-
-## Regime transitório
-
 # Artigo 115.º
 
 ### Regulamento interno

@@ -2,7 +2,7 @@
 
 ### Organização das actividades formativas
 
-1 - As atividades formativas realizam-se na sede ou noutras instalações do CEJ, sob a orientação de docentes e de formadores incumbidos de ministrar as matérias das diversas componentes formativas, e compreendem ainda um estágio intercalar de duração não superior a quatro semanas, junto dos tribunais, sob a orientação de magistrados formadores.
+1 - As actividades formativas realizam-se na sede do CEJ, sob a orientação de docentes e de formadores incumbidos de ministrar as matérias das diversas componentes formativas, e compreendem ainda um estágio intercalar de duração não superior a quatro semanas, junto dos tribunais, sob a orientação de magistrados formadores.
 
 2 - As actividades formativas no CEJ incluem, nomeadamente:
 

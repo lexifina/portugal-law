@@ -2,26 +2,22 @@
 
 ### Directores-adjuntos
 
-1 - No exercício das suas funções, o diretor é especialmente coadjuvado por quatro diretores-adjuntos.
+1 - No exercício das suas funções, o director é especialmente coadjuvado por quatro directores-adjuntos:
 
-2 - São diretores-adjuntos:
+a) Um director-adjunto para o 1.º ciclo do curso de formação teórico-prática e para a formação contínua;
 
-a) O diretor-adjunto para os 1.º e 2.º ciclos do curso de formação teórico-prática e para a fase de estágio de ingresso na magistratura judicial;
+b) Dois directores-adjuntos para o 2.º ciclo do curso de formação teórico-prática e para a fase de estágio de ingresso na magistratura;
 
-b) O diretor-adjunto para os 1.º e 2.º ciclos do curso de formação teórico-prática e para a fase de estágio de ingresso nos Tribunais Administrativos e Fiscais;
+c) Um director-adjunto na área de estudos e investigação judiciários.
 
-c) O diretor-adjunto para os 1.º e 2.º ciclos do curso de formação teórico-prática e para a fase de estágio de ingresso na magistratura do Ministério Público;
+2 - Os directores-adjuntos são nomeados, em comissão de serviço, pelo período de três anos, renovável, pelo Ministro da Justiça, ouvido o conselho geral.
 
-d) O diretor-adjunto para os atos dos concursos de ingresso e para a investigação e estudos no âmbito judiciário.
+3 - Os directores-adjuntos referidos nas alíneas a) e c) do n.º 1 são nomeados de entre magistrados, docentes universitários, advogados ou personalidades de reconhecido mérito.
 
-3 - (Revogado.)
+4 - Os directores-adjuntos referidos na alínea b) do n.º 1 são nomeados de entre magistrados judiciais e do Ministério Público, um de cada magistratura.
 
-4 - Os diretores-adjuntos são nomeados, em comissão de serviço, pelo período de três anos, renovável, pelo membro do Governo responsável pela área da justiça, sob proposta do diretor.
+5 - À comissão de serviço dos directores-adjuntos aplica-se o disposto no n.º 2 do artigo 94.º
 
-5 - Os diretores-adjuntos são nomeados de entre magistrados judiciais e do Ministério Público pertencentes às magistraturas indicadas nas alíneas a) a c) do n.º 2.
+6 - O cargo de director-adjunto do CEJ é equiparado ao de juiz da Relação em matéria de remuneração e de suplementos remuneratórios, podendo o nomeado optar pela remuneração relativa ao lugar de origem.
 
-6 - À comissão de serviço dos directores-adjuntos aplica-se o disposto no n.º 2 do artigo 94.º
-
-7 - O cargo de director-adjunto do CEJ é equiparado ao de juiz da Relação em matéria de remuneração e de suplementos remuneratórios, podendo o nomeado optar pela remuneração relativa ao lugar de origem.
-
-8 - O diretor-adjunto é substituído, nas suas faltas e impedimentos, pelo diretor-adjunto designado pelo diretor.
+7 - Os directores-adjuntos são substituídos, nas suas faltas e impedimentos, pelo director-adjunto designado pelo director.

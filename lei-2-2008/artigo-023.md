@@ -6,7 +6,7 @@
 
 2 - É permitido faltar justificadamente uma vez:
 
-a) Às provas orais;
+a) À prova de avaliação curricular;
 
 b) Ao exame psicológico de selecção.
 

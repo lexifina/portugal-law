@@ -8,8 +8,8 @@
 
 Os métodos de selecção a utilizar são os seguintes:
 
-a) Provas escritas;
+a) Provas de conhecimentos;
 
-b) Provas orais;
+b) Avaliação curricular;
 
 c) Exame psicológico de selecção.

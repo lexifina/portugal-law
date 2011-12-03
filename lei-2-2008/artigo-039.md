@@ -8,7 +8,7 @@ a) Na componente formativa de especialidade:
 
 i) Direito Europeu;
 
-ii) Direito Internacional, incluindo cooperação judiciária internacional e Convenção sobre os Direitos da Criança;
+ii) Direito Internacional, incluindo cooperação judiciária internacional;
 
 iii) Direito da Concorrência e de Regulação Económica;
 
@@ -23,10 +23,6 @@ vii) Sociologia Judiciária;
 viii) Medicina Legal e Ciências Forenses;
 
 ix) Investigação Criminal e Gestão do Inquérito;
-
-x) Direitos humanos;
-
-xi) Violência de género, nomeadamente violência doméstica.
 
 b) Componente profissional, nas seguintes áreas:
 

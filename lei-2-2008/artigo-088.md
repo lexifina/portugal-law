@@ -12,4 +12,4 @@ b) Assistir os auditores de justiça e magistrados em regime de estágio, propor
 
 c) Colaborar com o conselho pedagógico, os directores-adjuntos e os coordenadores na avaliação, participando em reuniões e prestando as informações de desempenho e esclarecimentos necessários;
 
-d) Colaborar nas atividades de formação referidas nos n.os 2 e 5 do artigo 51.º, no n.º 4 do artigo 70.º, nos estágios intercalares realizados no 1.º ciclo do curso de formação teórico-prática, bem como nas demais atividades que se mostrem relevantes para a formação.
+d) Colaborar nas actividades de formação referidas nos n.os 2 e 5 do artigo 51.º, no n.º 4 do artigo 70.º, nos estágios de curta duração realizados no 1.º ciclo do curso de formação teórico-prática, bem como nas demais actividades que se mostrem relevantes para a formação.

@@ -8,7 +8,7 @@
 
 3 - O pedido de revisão da prova deve indicar expressamente os vícios, de carácter técnico e científico, de aplicação dos critérios de correcção e de classificação ou outro vício ou erro processual relevantes, sob pena de rejeição do pedido.
 
-4 - Para efeitos dos números anteriores, os candidatos podem requerer, no prazo de 72 horas a contar da data da publicitação da pauta com as classificações das provas da fase escrita, a entrega de fotocópia simples das provas de que pretendem pedir a revisão, devendo o pedido ser satisfeito dentro das 72 horas seguintes.
+4 - Para efeitos dos números anteriores, os candidatos podem requerer, no prazo de quarenta e oito horas a contar da data da afixação da pauta com as classificações das provas de conhecimentos da fase escrita, a entrega de fotocópia simples das provas de que pretendem pedir a revisão, devendo o pedido ser satisfeito dentro das vinte e quatro horas seguintes.
 
 5 - O prazo para requerer a revisão de prova é de cinco dias contados a partir da data da entrega da cópia da prova.
 

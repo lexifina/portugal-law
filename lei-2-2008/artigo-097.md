@@ -38,6 +38,6 @@ a) Aprovar o plano anual de actividades e apreciar o relatório anual de activid
 
 b) Aprovar o regulamento interno;
 
-c) Pronunciar-se sobre a nomeação e a renovação da comissão de serviço do diretor;
+c) Pronunciar-se sobre a nomeação e a renovação das comissões de serviço do director e dos directores-adjuntos;
 
 d) Deliberar sobre quaisquer questões relativas à organização ou ao funcionamento do CEJ que não sejam da competência de outros órgãos ou lhe sejam submetidas pelo Ministro da Justiça ou pelo director.
