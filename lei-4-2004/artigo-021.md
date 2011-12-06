@@ -10,7 +10,7 @@
 
 4 - A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas, são aprovadas por portaria conjunta do membro do Governo competente, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-5 - As unidades orgânicas flexíveis são criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que definirá as respectivas atribuições e competências, bem como a afectação ou reafectação do pessoal do respectivo quadro, no âmbito do limite máximo previamente fixado em portaria do membro do Governo competente.
+5 - As unidades orgânicas flexíveis são criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que definirá as respectivas atribuições e competências, observando o limite máximo previamente fixado por portaria dos membros do Governo responsáveis pelo serviço e pelas áreas das finanças e da Administração Pública.
 
 6 - A criação, alteração ou extinção de unidades orgânicas no âmbito da estrutura flexível visa assegurar a permanente adequação do serviço às necessidades de funcionamento e de optimização dos recursos, tendo em conta uma programação e controlo criteriosos dos custos e resultados.
 
