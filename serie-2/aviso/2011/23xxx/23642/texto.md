@@ -1,0 +1,6 @@
+Aviso n.º 23642/2011
+Abertura do período de discussão pública do Plano de Urbanização da Área Central de Lourosa
+Torna -se público, nos termos dos artigos 77.º, n.os 3 e 4, do Decreto-Lei n.º 380/99, de 22/9, que a Câmara Municipal de Santa Maria da Feira, em Reunião de Câmara de 28 de Novembro de 2011, deliberou proceder à abertura de um período de discussão pública da Proposta do Plano de Urbanização da Área Central de Lourosa. A discussão pública decorre por um período de 22 dias úteis, a partir do 5.º dia subsequente ao da publicação do presente aviso no Diário da República, podendo os interessados apresentar as suas reclamações, observações ou sugestões. Durante este período, os interessados poderão consultar a proposta do Plano de Urbanização, no Pelouro do Planeamento e Urbanismo - Gabinete de Planeamento e no sítio da Internet da autarquia. Reclamações, observações ou sugestões, deverão ser feitas por escrito, dirigidas ao Presidente da Câmara Municipal de Santa Maria da Feira, para a morada Praça da República, Apartado 135, Santa Maria da Feira, ou através do e-mail planosmunicipais.smfeira@urbanfeira.net.
+Para os devidos efeitos, é publicado o presente Aviso no Diário da República, 2.ª série, na comunicação social e página da Internet da Câmara Municipal.
+29 de Novembro de 2011. - O Presidente, Alfredo Oliveira Henriques.
+205413549
