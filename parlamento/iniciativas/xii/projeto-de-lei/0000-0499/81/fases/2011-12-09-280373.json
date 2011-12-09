@@ -1,0 +1,422 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "81",
+    "id": "36502",
+    "titulo": "Procede à 2.ª Alteração ao Decreto-Lei n.º 23/2010, de 25 de Março, alterado pela Lei nº 19/2010 de 23 de Agosto, que estabelece o regime jurídico e remuneratório aplicável à energia eléctrica e mecânica e de calor útil produzidos em cogeração, transpondo para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2011-12-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8413",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2011-12-09",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36594",
+        "leg": "XII",
+        "nr": "107",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1576",
+            "obs": null,
+            "pag": [
+              "60-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-12-10",
+            "pubLeg": "XII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/60?pgs=60-67&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria a obrigação de auto-consumo da energia produzida pelo cogerador, podendo apenas ser vendida à rede a energia excedente não consumida. 2ª alteração ao Decreto-Lei n.º 23/2010, de 25 de Março."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2011-12-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111209pln&url=l12/sl1/a2011/m12/&tI=03:36:16:034&drc=00:03:46:654"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111209pln&url=l12/sl1/a2011/m12/&tI=03:59:53:543&drc=00:01:46:457"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61",
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-10",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/60?pgs=60-61,67&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª Alteração ao Decreto-Lei n.º 23/2010, de 25 de Março, alterado pela Lei nº 19/2010 de 23 de Agosto, que estabelece o regime jurídico e remuneratório aplicável à energia eléctrica e mecânica e de calor útil produzidos em cogeração, transpondo para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro; Cria a obrigação de auto-consumo da energia produzida pelo cogerador, podendo apenas ser vendida à rede a energia excedente não consumida. 2ª alteração ao Decreto-Lei n.º 23/2010, de 25 de Março.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111209pln&url=l12/sl1/a2011/m12/&tI=03:40:25:066&drc=00:03:57:156"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-10",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª Alteração ao Decreto-Lei n.º 23/2010, de 25 de Março, alterado pela Lei nº 19/2010 de 23 de Agosto, que estabelece o regime jurídico e remuneratório aplicável à energia eléctrica e mecânica e de calor útil produzidos em cogeração, transpondo para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro; Cria a obrigação de auto-consumo da energia produzida pelo cogerador, podendo apenas ser vendida à rede a energia excedente não consumida. 2ª alteração ao Decreto-Lei n.º 23/2010, de 25 de Março.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2114",
+                "nome": "Emídio Guerreiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111209pln&url=l12/sl1/a2011/m12/&tI=03:44:27:599&drc=00:03:31:398"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-10",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª Alteração ao Decreto-Lei n.º 23/2010, de 25 de Março, alterado pela Lei nº 19/2010 de 23 de Agosto, que estabelece o regime jurídico e remuneratório aplicável à energia eléctrica e mecânica e de calor útil produzidos em cogeração, transpondo para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro; Cria a obrigação de auto-consumo da energia produzida pelo cogerador, podendo apenas ser vendida à rede a energia excedente não consumida. 2ª alteração ao Decreto-Lei n.º 23/2010, de 25 de Março.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111209pln&url=l12/sl1/a2011/m12/&tI=03:48:07:184&drc=00:04:16:649"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-10",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª Alteração ao Decreto-Lei n.º 23/2010, de 25 de Março, alterado pela Lei nº 19/2010 de 23 de Agosto, que estabelece o regime jurídico e remuneratório aplicável à energia eléctrica e mecânica e de calor útil produzidos em cogeração, transpondo para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro; Cria a obrigação de auto-consumo da energia produzida pelo cogerador, podendo apenas ser vendida à rede a energia excedente não consumida. 2ª alteração ao Decreto-Lei n.º 23/2010, de 25 de Março.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111209pln&url=l12/sl1/a2011/m12/&tI=03:52:27:333&drc=00:04:07:352"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-10",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/64?pgs=64-66&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª Alteração ao Decreto-Lei n.º 23/2010, de 25 de Março, alterado pela Lei nº 19/2010 de 23 de Agosto, que estabelece o regime jurídico e remuneratório aplicável à energia eléctrica e mecânica e de calor útil produzidos em cogeração, transpondo para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro; Cria a obrigação de auto-consumo da energia produzida pelo cogerador, podendo apenas ser vendida à rede a energia excedente não consumida. 2ª alteração ao Decreto-Lei n.º 23/2010, de 25 de Março.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "14:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20111209pln&url=l12/sl1/a2011/m12/&tI=03:56:38:936&drc=00:03:08:497"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2011-12-10",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª Alteração ao Decreto-Lei n.º 23/2010, de 25 de Março, alterado pela Lei nº 19/2010 de 23 de Agosto, que estabelece o regime jurídico e remuneratório aplicável à energia eléctrica e mecânica e de calor útil produzidos em cogeração, transpondo para a ordem jurídica interna da Directiva n.º 2004/8/CE, do Parlamento Europeu e do Conselho, de 11 de Fevereiro; Cria a obrigação de auto-consumo da energia produzida pelo cogerador, podendo apenas ser vendida à rede a energia excedente não consumida. 2ª alteração ao Decreto-Lei n.º 23/2010, de 25 de Março.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280373",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "574468",
+        "obs": null,
+        "pag": [
+          "60-67"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-12-10",
+        "pubLeg": "XII",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/048/2011-12-10/60?pgs=60-67&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
