@@ -1,0 +1,7 @@
+Aviso n.º 23799/2011
+Torna-se público, nos termos do disposto no n.º 2 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, na última redacção dada pelo Decreto-Lei n.º 46/2009, de 20 de Fevereiro, aplicado à Região Autónoma dos Açores pelo Decreto Legislativo Regional n.º 14/2000/A, de 23 de Maio, republicado em anexo, com as devidas alterações, ao Decreto Legislativo Regional n.º 43/2008/A, de 8 de Outubro, que por deliberação da Câmara Municipal da Praia da Vitória, em reunião ordinária de 27 de Setembro de 2011, foi determinada a revisão ao Plano Director Municipal da Praia da Vitória, tendo sido fixado um prazo de 15 dias, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de revisão.
+Mais deliberou a Câmara Municipal fixar um prazo de 12 meses para elaboração da revisão do Plano Director Municipal
+Assim, todos os cidadãos interessados poderão, durante o prazo de 15 dias a contar da data da publicação do presente aviso no Diário da República, apresentar sugestões e informações no âmbito da elaboração da referida alteração, em ofício devidamente identificado e dirigido ao Presidente da Câmara Municipal.
+Durante aquele período os interessados poderão consultar o processo na Secção de Obras Particulares desta Câmara Municipal, sito à Rua do Cruzeiro, nesta Cidade.
+29 de Novembro de 2011. - O Vice-Presidente da Câmara Municipal, Paulo Manuel Ávila Messias.
+205417056
