@@ -1,0 +1,4 @@
+Aviso n.º 246/2011
+Por ordem superior se toma público ter a República da Moldova depositado, junto do Secretário-Geral do Conselho da Europa, a 7 de Outubro de 2011, o seu instrumento de ratificação ao Protocolo Adicional à Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal, respeitante às autoridades de controlo e aos fluxos transfronteiriços de dados, aberto à assinatura em Estrasburgo em 8 de Novembro de 2001.
+Portugal é Parte deste Protocolo Adicional, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 45/2006 e ratificado pelo Decreto do Presidente da República n.º 56/2006, publicado no Diário da República, 1.ª série-A, n.º 117, de 20 de Junho de 2006, tendo depositado o seu instrumento de ratificação a 11 de Janeiro de 2007.
+Direcção-Geral de Política Externa, 24 de Novembro de 2011. - O Director-Geral, António Carlos Carvalho de Almeida Ribeiro.
