@@ -1,0 +1,205 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "115",
+    "id": "36608",
+    "titulo": "Lei da Transparência Activa da Informação Pública"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2011-12-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "27618",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2011-12-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2011-12-14",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-02-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Acesso aos Documentos Administrativos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e4451334d5441314d43316a4f546c6b4c545269596a6774596a4a6b4d53316d4e6a49324f4749354d5749304e5449756347526d&fich=04471050-c99d-4bb8-b2d1-f6268b91b452.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Protecção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969596d5a684d4459334e533031596a59324c5451774e474974596a457a5a6931684d4745325a6a646c4e57566b5a5751756347526d&fich=bbfa0675-5b66-404b-b13f-a0a6f7e5eded.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-02-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho de Prevenção da Corrupção",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e5455324f574a6b4d7930314e6d51334c545268596d55745954557a597930314e3246694f574e6d5a546b324e446b756347526d&fich=a5569bd3-56d7-4abe-a53c-57ab9cfe9649.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-03-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - TIAC - Transparência e Integridade, Associação Cívica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969597a646b5a446c6c4e5331684e57497a4c5452695a444d74595467344f5330324d6a41304f5455354d4467324e3259756347526d&fich=bc7dd9e5-a5b3-4bd3-a889-62049590867f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-03-09",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade da CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e444a6d4e7a4e6c597931694e7a4a6a4c5451344d324d744f54466a4d5330304d546b794d7a41354f446468595463756347526d&fich=042f73ec-b72c-483c-91c1-419230987aa7.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2012-02-06"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2012-01-25"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos em 2012-02-21"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2012-01-05"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2012-01-05"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos em 2012-01-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3-6"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "138",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/138/2012-03-09/3?pgs=3-6&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3-6"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "138",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/138/2012-03-09/3?pgs=3-6&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-03-07",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-03-07",
+            "dataRemessa": "2012-03-08",
+            "numeroOficio": "389/XII/1.ª - CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-03-07",
+            "descricao": "com ausência do PEV (ver relatório)",
+            "detalhe": null,
+            "id": "60177",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "52",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2011-12-14",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280561",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
