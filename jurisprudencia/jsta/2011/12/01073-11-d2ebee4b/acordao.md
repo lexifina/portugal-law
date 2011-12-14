@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2011-12-14, processo 01073/11
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01073/11
+
+**Data do Acordão:** 12/14/2011
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** VALENTE TORRÃO
+
+**Descritores:** RECLAMAÇÃO DE ACTO PRATICADO PELO ÓRGÃO DA EXECUÇÃO FISCAL; ÓNUS DE ALEGAÇÃO DE FACTOS; EXCESSO DE PRONÚNCIA; IMPOSSIBILIDADE SUPERVENIENTE DA LIDE; CONHECIMENTO OFICIOSO
+
+**Nº Convencional:** JSTA00067315
+
+**Nº do Documento:** SA22011121401073
+
+**Data de Entrada:** 11/25/2011
+
+**Recorrente:** FAZENDA PÚBLICA
+
+**Recorrido 1:** A......
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL
+
+**Objecto:** SENT TAF PENAFIEL PER SALTUM
+
+**Decisão:** PROVIDO
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL
+
+**Legislação Nacional:** CPC96 ART659 N3 ART660 N2 ART668 N1 D
+
+## Sumário
+
+I - Determina o artº 660º, nº 2 do CPC que “O juiz deve resolver todas as questões que as partes tenham submetido à sua apreciação, exceptuadas aquelas cuja decisão esteja prejudicada pela solução dada a outras. Não pode ocupar-se senão das questões suscitadas pelas partes, salvo se a lei lhe permitir ou impuser o conhecimento oficioso de outras”.
+
+II - Não tendo o reclamante invocado qualquer facto relativo à extinção da execução, motivada pela falta de averiguação de bens do falido e do responsável subsidiário após a declaração de insolvência, não podia o Juiz, oficiosamente, e sem qualquer facto inscrito no probatório sobre a omissão daquela averiguação, conhecer dessa questão.
+
+III - Embora seja de conhecimento oficioso a questão da impossibilidade superveniente da lide, não pode o juiz, em processo de reclamação de decisão do órgão da execução fiscal, decretar oficiosamente a extinção da instância executiva nestes autos por impossibilidade superveniente da lide ocorrida na instância executiva.
