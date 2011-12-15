@@ -2,7 +2,7 @@
 
 ### Incêndio florestal
 
-1 - Quem provocar incêndio em floresta, mata, arvoredo ou seara, próprias ou alheias, é punido com pena de prisão de um a oito anos.
+1 - Quem provocar incêndio em terreno ocupado com floresta, incluindo matas, ou pastagem, mato, formações vegetais espontâneas ou em terreno agrícola, próprios ou alheios, é punido com pena de prisão de 1 a 8 anos.
 
 2 - Se, através da conduta referida no número anterior, o agente:
 
