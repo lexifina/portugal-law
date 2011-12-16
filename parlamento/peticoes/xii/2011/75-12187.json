@@ -1,0 +1,256 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12187",
+  "numero": "75",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-12-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-07-16",
+            "entidades": null,
+            "id": "95733",
+            "tipo": null,
+            "titulo": "Audição em 2013-07-16 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-01-11",
+            "dataResposta": null,
+            "entidades": [
+              "Secretária de Estado dos Assuntos Parlamentares e da Igualdade"
+            ],
+            "nrOficio": "26/CEOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-03-14",
+                "dataResposta": null,
+                "nrOficio": "189/CEOP",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-01-11",
+            "dataResposta": "2012-02-14",
+            "entidades": [
+              "Presidente do Conselho de Administração da CARRIS"
+            ],
+            "nrOficio": "27/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-01-11",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Lisboa"
+            ],
+            "nrOficio": "28/CEOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-03-14",
+                "dataResposta": "2012-05-17",
+                "nrOficio": "190/CEOP",
+                "oficioResposta": "20/DMMT/DPMT/12"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-11-25",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "666727",
+                "obs": null,
+                "pag": [
+                  "6-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/016/2013-12-07/6?pgs=6-8&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-01-11",
+        "DataArquivo": "2013-11-27",
+        "DataBaixaComissao": "2012-01-11",
+        "DataEnvioPAR": "2013-12-04",
+        "DataReaberta": "2012-01-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a646d4d6a46694e4445354c544e6b4d6a49744e4455334f5330354e574d334c575a694e474978596a59314e57497a4e6935775a47593d&fich=7f21b419-3d22-4579-95c7-fb4b1b655b36.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-03-16",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3245784e325a6a4f574a684c574930597a51744e4449355a5331685a57566a4c545532595751304d324d31596a4d325a4335775a47593d&fich=a17fc9ba-b4c4-429e-aeec-56ad43c5b36d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324a684d575a6c4e4759324c5749354e7a67744e444a685a5330354d4746684c54497a4d4751354d4745325a474a694e5335775a47593d&fich=ba1fe4f6-b978-42ae-90aa-230d90a6dbb5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3255774e544132596d59304c54466c5a4745744e474d794f4331695954426b4c574d7a4d54526a4e4455775a444d78595335775a47593d&fich=e0506bf4-1eda-4c28-ba0d-c314c450d31a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-01-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a426b5a474a6c5a544a684c5459344d7a4d744e4749785a433169596a677a4c5451324f5759344e5463314e4749775a6935775a47593d&fich=0ddbee2a-6833-4b1d-bb83-469f85754b0f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-03-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4e6a4e47526b5a6a41354c57526c4d544d744e474a6a4e693034596a45314c54526d4e3251784d4467324d324d325a6935775a47593d&fich=3c4ddf09-de13-4bc6-8b15-4f7d10863c6f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-12-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d354d545130593259314c54686d4e6a41744e474d77596931684d446b784c54677a4d474d7a4f5755774d4449354f5335775a47593d&fich=39144cf5-8f60-4c0b-a091-830c39e00299.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-05-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a686c4d445a6a4e6d45314c545a6a5a574d744e4451354d4331685a5445324c574a6b4e4463325a6d59775a6a45784e4335775a47593d&fich=8e06c6a5-6cec-4490-ae16-bd476ff0f114.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-02-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a686c4e7a55324e6a45314c574a6d4e5445744e47597a596930344d5751774c545a6b4f44426859324a684f44637a4d5335775a47593d&fich=8e756615-bf51-4f3b-81d0-6d80acba8731.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-01-11",
+            "gp": "PSD",
+            "id": "4439",
+            "motivoCessacao": null,
+            "nome": "António Prôa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-01-05",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325a6b5a6a466b593251784c574a6d59574d744e44557a5a5331684e474a6c4c5445304e4749794d5459304e5463314e6935775a47593d&fich=fdf1dcd1-bfac-453e-a4be-144b21645756.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12187",
+    "PetAssunto": "Petição contra a supressão do elétrico n.º 18",
+    "PetDataEntrada": "2011-12-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12187",
+    "PetLeg": "XII",
+    "PetNr": "75",
+    "PetNrAssinaturas": "1084",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "576626",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-21",
+        "pubLeg": "XII",
+        "pubNr": "130",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/130/2012-01-21/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
