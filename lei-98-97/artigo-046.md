@@ -10,10 +10,16 @@ b) Os contratos de obras públicas, aquisição de bens e serviços, bem como ou
 
 c) As minutas dos contratos de valor igual ou superior ao fixado nas leis do Orçamento nos termos do artigo 48.º, cujos encargos, ou parte deles, tenham de ser satisfeitos no acto da sua celebração.
 
-2 - Para efeitos das alíneas b) e c) do número anterior, consideram-se contratos os acordos, protocolos ou outros instrumentos de que resultem ou possam resultar encargos financeiros ou patrimoniais.
+d) Os actos ou contratos que formalizem modificações objectivas a contratos visados e que impliquem um agravamento dos respectivos encargos financeiros ou responsabilidades financeiras;
 
-3 - O Tribunal e os seus serviços de apoio exercem as respectivas competências de fiscalização prévia de modo integrado com as formas de fiscalização concomitante e sucessiva.
+e) Os actos ou contratos que formalizem modificações objectivas a contratos não visados que impliquem um agravamento dos respectivos encargos financeiros ou responsabilidades financeiras em valor superior ao previsto no artigo 48.º
 
-4 - A fiscalização prévia exerce-se através do visto ou da declaração de conformidade, sendo devidos emolumentos em ambos os casos.
+2 - Para efeitos das alíneas b), c), d) e e) do número anterior, consideram-se contratos os acordos, protocolos, apostilhas ou outros instrumentos de que resultem ou possam resultar encargos financeiros ou patrimoniais.
 
-5 - Para efeitos do n.º 1, são remetidos ao Tribunal de Contas os documentos que representem, titulem ou dêem execução aos actos e contratos ali enumerados.
+3 - Para efeitos da alínea e) do n.º 1, considera-se que o valor superior ao do previsto no artigo 48.º deve resultar da soma do valor inicial e ao de anteriores modificações objectivas.
+
+4 - O Tribunal e os seus serviços de apoio exercem as respectivas competências de fiscalização prévia de modo integrado com as formas de fiscalização concomitante e sucessiva.
+
+5 - A fiscalização prévia exerce-se através do visto ou da declaração de conformidade, sendo devidos emolumentos em ambos os casos.
+
+6 - Para efeitos do n.º 1, são remetidos ao Tribunal de Contas os documentos que representem, titulem ou dêem execução aos actos e contratos ali enumerados.

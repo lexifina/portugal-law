@@ -28,9 +28,11 @@ i) Pela utilização de dinheiros ou outros valores públicos em finalidade dive
 
 j) Pelo não acatamento reiterado e injustificado das injunções e das recomendações do Tribunal;
 
-l) Pela violação de normas legais ou regulamentares relativas à admissão de pessoal.
+l) Pela violação de normas legais ou regulamentares relativas à contratação pública, bem como à admissão de pessoal;
 
-2 - As multas referidas no número anterior têm como limite mínimo o montante correspondente a 15 UC e como limite máximo o correspondente a 150 UC.
+m) Pelo não accionamento dos mecanismos legais relativos ao exercício do direito de regresso, à efectivação de penalizações ou a restituições devidas ao erário público.
+
+2 - As multas referidas no número anterior têm como limite mínimo o montante correspondente a 25 UC e como limite máximo o correspondente a 180 UC.
 
 3 - Se o responsável proceder ao pagamento da multa em fase anterior à de julgamento, o montante a liquidar é o mínimo.
 

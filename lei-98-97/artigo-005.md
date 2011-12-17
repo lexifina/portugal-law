@@ -8,7 +8,7 @@ a) Dar parecer sobre a Conta Geral do Estado, incluindo a da segurança social, 
 
 b) Dar parecer sobre as contas das Regiões Autónomas, bem como sobre as contas das respectivas Assembleias Legislativas;
 
-c) Fiscalizar previamente a legalidade e o cabimento orçamental dos actos e contratos de qualquer natureza que sejam geradores de despesa ou representativos de quaisquer encargos e responsabilidades, directos ou indirectos, para as entidades referidas no n.º 1 do artigo 2.º e os das entidades de qualquer natureza criadas pelo Estado ou por quaisquer outras entidades públicas, para desempenhar funções administrativas originariamente a cargo da Administração Pública, com encargos suportados por transferência do orçamento da entidade que as criou, sempre que daí resulte a subtracção de actos e contratos à fiscalização prévia do Tribunal de Contas;
+c) Fiscalizar previamente a legalidade e o cabimento orçamental dos actos e contratos de qualquer natureza que sejam geradores de despesa ou representativos de quaisquer encargos e responsabilidades, directos ou indirectos, para as entidades referidas no n.º 1 e nas alíneas a), b) e c) do n.º 2 do artigo 2.º, bem como para as entidades, de qualquer natureza, criadas pelo Estado ou por quaisquer outras entidades públicas para desempenhar funções administrativas originariamente a cargo da Administração Pública, com encargos suportados por financiamento directo ou indirecto, incluindo a constituição de garantias, da entidade que os criou.
 
 d) Verificar as contas dos organismos, serviços ou entidades sujeitos à sua prestação;
 
@@ -25,3 +25,5 @@ i) Exercer as demais competências que lhe forem atribuídas por lei.
 2 - Compete ainda ao Tribunal aprovar, através da comissão permanente, pareceres elaborados a solicitação da Assembleia da República ou do Governo sobre projectos legislativos em matéria financeira.
 
 3 - As contas a que se referem as alíneas a) e b) do n.º 1 são aprovadas pelos plenários da Assembleia da República e das Assembleias Legislativas das Regiões Autónomas, respectivamente, cabendo-lhes deliberar remeter ao Ministério Público os correspondentes pareceres do Tribunal de Contas para a efectivação de eventuais responsabilidades financeiras, nos termos do n.º 1 do artigo 57.º e do n.º 1 do artigo 58.º
+
+4 - A fiscalização do cabimento orçamental dos actos e contratos praticados ou celebrados pelas entidades referidas nas alíneas a), b) e c) do n.º 2 do artigo 2.º é realizada mediante a verificação da existência de declaração de suficiência orçamental e de cativação das respectivas verbas, emitida pela entidade fiscalizada.
