@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 59/2011
+O fornecimento de combustíveis operacionais de aviação às aeronaves da Força Aérea Portuguesa constitui-se como um factor crítico ao cumprimento da missão de que se encontra investida.
+Através da presente resolução, o Governo autoriza a realização da despesa relativa ao fornecimento de combustíveis operacionais de aviação (AVTUR/JETA1/AVTUR/FSII, AVGAS) à Força Aérea Portuguesa para o ano de 2012 e o recurso ao procedimento pré-contratual de concurso público.
+O Governo procede igualmente à delegação no Ministro da Defesa Nacional, com faculdade de subdelegação no Chefe de Estado-Maior da Força Aérea, a competência para a prática de todos os actos a realizar no âmbito do procedimento concursal agora autorizado.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar, nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de Junho, a realização da despesa com a adjudicação do fornecimento de combustíveis operacionais de aviação (AVTUR/JETA1/AVTUR/FSII, AVGAS) à Força Aérea Portuguesa para o ano de 2012, no montante máximo de (euro) 13 008 130,08, a que acresce IVA à taxa legal em vigor.
+2 - Autorizar, nos termos da alínea b) do n.º 1 do artigo 20.º do Código dos Contratos Públicos (CCP), o recurso ao procedimento pré-contratual de concurso público, com publicação no Jornal Oficial da União Europeia.
+3 - Delegar no Ministro da Defesa Nacional, com faculdade de subdelegação no Chefe de Estado-Maior da Força Aérea, a competência para a prática de todos os actos a realizar no âmbito do procedimento previsto no número anterior, incluindo a designação do júri do procedimento, nos termos do artigo 67.º do CCP, bem como a aprovação do programa do procedimento e o caderno de encargos, nos termos do n.º 2 do artigo 40.º do mesmo Código.
+4 - Determinar que a presente resolução produz efeitos desde a data da sua aprovação.
+Presidência do Conselho de Ministros, 24 de Novembro de 2011. - O Primeiro-Ministro, Pedro Passos Coelho.
