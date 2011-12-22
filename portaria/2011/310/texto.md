@@ -1,0 +1,23 @@
+Portaria n.º 310/2011
+de 21 de Dezembro
+O Decreto-Lei n.º 172/2006, de 23 de Agosto, que regulamenta o regime jurídico aplicável ao exercício das actividades de produção, transporte, distribuição e comercialização de energia eléctrica e à organização dos mercados de electricidade, prevê, no n.º 2 do artigo 33.º, que, mediante portaria, o ministro responsável pela área da energia pode estabelecer medidas de eficiência e gestão da procura alternativas à construção e à exploração de novos centros electroprodutores.
+Assim, ao abrigo desta disposição legal, a Portaria n.º 592/2010, de 29 de Julho, veio estabelecer as condições aplicáveis ao serviço de interruptibilidade, a prestar por um consumidor de electricidade ao operador da rede de transporte, bem como o regime retributivo do referido serviço e as penalizações associadas a eventuais incumprimentos, com vista a harmonizar a regulamentação das condições de interruptibilidade no âmbito do mercado ibérico. Por outro lado, a mesma portaria definiu ainda um regime transitório aplicável aos contratos de prestação do serviço de interruptibilidade então existentes no mercado regulado, determinando a sua extinção e a necessidade de celebração de novos contratos de adesão ao serviço, ao abrigo do regime da interruptibilidade nela previsto.
+A disciplina da referida Portaria n.º 592/2010, de 29 de Julho, foi entretanto objecto de ajustamentos e desenvolvimentos subsequentes, designadamente através da Portaria n.º 1309/2010, de 23 de Dezembro, que estabeleceu, para vigorar em 2011, um regime aplicável à prestação de serviço de interruptibilidade por consumidor de electricidade em muito alta tensão (MAT), alta tensão (AT) e média tensão (MT) ao operador da rede de transporte que, contratando a sua energia eléctrica directamente em mercado organizado, através de contratação bilateral ou através de comercializadores não regulados, ofereça um valor de potência máxima interruptível (Pint) inferior a 4 MW e não inferior a 0,25 MW, para todos os tipos e características de interruptibilidade previstos na Portaria n.º 592/2010, de 29 de Julho.
+Posteriormente, pela Portaria n.º 117/2011, de 25 de Março, o valor de potência máxima interruptível (Pint) previsto na Portaria n.º 592/2010, de 29 de Julho, foi alterado e fixado em valor não inferior a 0,25 MW, tendo sido excluída da sua aplicação os consumidores de electricidade que prestem o serviço de interruptibilidade ao abrigo da Portaria n.º 592/2010, de 29 de Julho.
+A extensão do serviço de interruptibilidade aos consumidores de electricidade em MAT, AT e MT abrangidos pelo referido escalão de potência máxima interruptível consubstanciou uma medida adicional, com carácter transitório, destinada a fomentar a comercialização de electricidade em regime livre.
+A evolução entretanto verificada no mercado da electricidade, com a retracção da procura, bem como a necessidade de implementação das medidas do Memorando de Entendimento sobre as Condicionalidades de Política Económica acordado com o FMI, a Comissão Europeia e o BCE e das orientações de política energética previstas no Programa do XIX Governo Constitucional tornam imperiosa a mitigação de custos que oneram a factura energética actual.
+Neste contexto, é necessário que, a par de outras medidas já adoptadas e a adoptar com idêntico objectivo, se proceda agora à cessação de vigência da referida medida, através da revogação da Portaria n.º 1309/2010, de 23 de Dezembro, e da Portaria n.º 117/2011, de 25 de Março.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 33.º do Decreto-Lei n.º 172/2006, de 23 de Agosto:
+Manda o Governo, pelo Secretário de Estado da Energia, o seguinte:
+Artigo 1.º
+Revogação
+1 - São revogadas:
+a) A Portaria n.º 1309/2010, de 23 de Dezembro;
+b) A Portaria n.º 117/2011, de 25 de Março.
+2 - Os contratos de adesão ao serviço de interruptibilidade celebrados com o Operador da Rede Nacional de Transporte nos termos das portarias referidas no número anterior vigoram até ao dia 31 de Dezembro de 2011, não podendo ser prorrogados.
+3 - A revogação prevista no n.º 1 não prejudica a repercussão tarifária estabelecida no artigo 5.º da Portaria n.º 1309/2010, de 23 de Dezembro, relativamente aos encargos financeiros incorridos pelo operador da rede de transporte até 31 de Dezembro de 2011, no âmbito do serviço de interruptibilidade abrangido pela referida portaria, nem os incorridos exclusivamente no âmbito da Portaria n.º 592/2010, de 29 de Julho.
+Artigo 2.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado da Energia, Henrique Joaquim Gomes, em 14 de Dezembro de 2011.
