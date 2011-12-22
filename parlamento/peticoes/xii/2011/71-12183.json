@@ -1,0 +1,562 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12183",
+  "numero": "71",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2011-12-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-01-26",
+            "dataResposta": "2012-05-21",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "85/9ª/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-06-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-01-04",
+        "DataArquivo": "2012-06-06",
+        "DataBaixaComissao": "2012-01-04",
+        "DataEnvioPAR": "2012-06-21",
+        "DataReaberta": "2012-01-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-01-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396c4d5452694f4463344f5331694e44457a4c5452695a5749744f444e6b4d433078597a49354f4451785a5759335a5751756347526d&fich=e14b8789-b413-4beb-83d0-1c29841ef7ed.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939695a6a517a593245355a6931684e6a55774c5451784d444174595745784e69316a597a63784e54566d4e5451344e6d51756347526d&fich=bf43ca9f-a650-4100-aa16-cc7155f5486d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-06-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b4f44686a5a575a684e6931694f5463774c5451304f57457459574d344f53316c5a44417a4d6a686a4d5455794d7a49756347526d&fich=d88cefa6-b970-449a-ac89-ed0328c15232.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-05-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938324d4752684d7a51334f4330304d57466c4c545132596a5174596d51774f43316b4f4455334f47526a5a445a68597a49756347526d&fich=60da3478-41ae-46b4-bd08-d8578dcd6ac2.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-01-25",
+            "gp": "PSD",
+            "id": "4336",
+            "motivoCessacao": null,
+            "nome": "Elsa Cordeiro"
+          },
+          {
+            "dataCessacao": "2012-01-25",
+            "dataNomeacao": "2012-01-04",
+            "gp": "PSD",
+            "id": "4294",
+            "motivoCessacao": null,
+            "nome": "Mário Simões"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2012-07-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2011-12-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a5a695a575535597a646d4c5463795a5445744e4456684f4330344e6a59304c546b795a44597a4e47566b4e5452685a4335775a47593d&fich=6bee9c7f-72e1-45a8-8664-92d634ed54ad.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=01:04:53:160&drc=00:04:09:582"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/18?pgs=18&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a manutenção e reforço do hospital de S. Paulo em Serpa, assim como uma especial atenção a outras carências da Unidade Local de Saúde do Baixo Alentejo; Recomenda ao Governo a instalação de um serviço de urgência básica em Serpa e a manutenção em funcionamento do Hospital de São Paulo e das extensões do centro de saúde de Serpa; Revogação do encerramento de serviços no hospital de S. Paulo em Serpa - distrito de Beja; Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=01:09:15:165&drc=00:03:47:224"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/19?pgs=19&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a manutenção e reforço do hospital de S. Paulo em Serpa, assim como uma especial atenção a outras carências da Unidade Local de Saúde do Baixo Alentejo; Recomenda ao Governo a instalação de um serviço de urgência básica em Serpa e a manutenção em funcionamento do Hospital de São Paulo e das extensões do centro de saúde de Serpa; Revogação do encerramento de serviços no hospital de S. Paulo em Serpa - distrito de Beja; Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=01:13:18:202&drc=00:02:47:019"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a manutenção e reforço do hospital de S. Paulo em Serpa, assim como uma especial atenção a outras carências da Unidade Local de Saúde do Baixo Alentejo; Recomenda ao Governo a instalação de um serviço de urgência básica em Serpa e a manutenção em funcionamento do Hospital de São Paulo e das extensões do centro de saúde de Serpa; Revogação do encerramento de serviços no hospital de S. Paulo em Serpa - distrito de Beja; Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=01:16:11:864&drc=00:04:42:068"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a manutenção e reforço do hospital de S. Paulo em Serpa, assim como uma especial atenção a outras carências da Unidade Local de Saúde do Baixo Alentejo; Recomenda ao Governo a instalação de um serviço de urgência básica em Serpa e a manutenção em funcionamento do Hospital de São Paulo e das extensões do centro de saúde de Serpa; Revogação do encerramento de serviços no hospital de S. Paulo em Serpa - distrito de Beja; Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=01:21:04:155&drc=00:03:36:815"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a manutenção e reforço do hospital de S. Paulo em Serpa, assim como uma especial atenção a outras carências da Unidade Local de Saúde do Baixo Alentejo; Recomenda ao Governo a instalação de um serviço de urgência básica em Serpa e a manutenção em funcionamento do Hospital de São Paulo e das extensões do centro de saúde de Serpa; Revogação do encerramento de serviços no hospital de S. Paulo em Serpa - distrito de Beja; Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=01:24:53:970&drc=00:02:54:266"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a manutenção e reforço do hospital de S. Paulo em Serpa, assim como uma especial atenção a outras carências da Unidade Local de Saúde do Baixo Alentejo; Recomenda ao Governo a instalação de um serviço de urgência básica em Serpa e a manutenção em funcionamento do Hospital de São Paulo e das extensões do centro de saúde de Serpa; Revogação do encerramento de serviços no hospital de S. Paulo em Serpa - distrito de Beja; Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a manutenção e reforço do hospital de S. Paulo em Serpa, assim como uma especial atenção a outras carências da Unidade Local de Saúde do Baixo Alentejo; Recomenda ao Governo a instalação de um serviço de urgência básica em Serpa e a manutenção em funcionamento do Hospital de São Paulo e das extensões do centro de saúde de Serpa; Revogação do encerramento de serviços no hospital de S. Paulo em Serpa - distrito de Beja; Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12183",
+    "PetAssunto": "Solicitam a manutenção e reposição dos serviços do Hospital  de S. Paulo, em Serpa.",
+    "PetDataEntrada": "2011-12-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12183",
+    "PetLeg": "XII",
+    "PetNr": "71",
+    "PetNrAssinaturas": "4498",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1677",
+        "obs": null,
+        "pag": [
+          "17-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-26",
+        "pubLeg": "XII",
+        "pubNr": "135",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/17?pgs=17-23&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "594779",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-16",
+        "pubLeg": "XII",
+        "pubNr": "234",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/234/2012-06-16/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
