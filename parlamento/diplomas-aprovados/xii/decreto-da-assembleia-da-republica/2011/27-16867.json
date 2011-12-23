@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=90IHzJ7HA9a0ZSrtQz8mXDcvzfGefpOheVnMt6DfMKmi5J7vfg77wnSXQNcT7rEjNyMHPex0BA7bnfxtr4bW0sGCld5aVsA6dxKaAv7jS5WSdAIs3%2fHcw%2fG26CkkgscDraQ%2bsdnb83HDQ2scbRd%2biiECrwP3kle5c9nvIw%2beOE5atJR94QIJJasn0xyEZOZ%2fx95LY92djtdtFBVhLj%2bxFRg%2fKtBI%2fQwgwPj2TDf6vpxYBrin68LmmU7Bx5y5a0nrScksrbmK3dYKweXzJaQtd%2fYTPOp6NBP2pki8HV9y2eoqfg2r5Xgg9hKYa2%2ftp2KVHDMULTvkILBTvlx%2fpctxWEayPgimp145UBnTk7npXEQ%3d&fich=DiplomasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f97159af77766c70321336f77959bdef03c4ce38a2ea5bc71549d97d9e5f98a",
+  "legislatura": "XII",
+  "id": "16867",
+  "tipo": "Decreto da Assembleia da República",
+  "numero": "27",
+  "data_registo": "2011-12-23",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2011",
+    "Id": "16867",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "36500",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d47466a5a6a6779596d51744f4755334d4330305a6d497a4c5749314e5459745a6a6c6d5a474530595755344d6a517a4c6d527659773d3d&fich=0acf82bd-8e70-4fb3-b556-f9fda4ae8243.doc&Inline=true",
+        "IniNr": "23",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "P",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938785a544a694d4745315a6930324e6a646a4c5451305a574d7459546b334e7931684f5752685954526b4e3245794d7a4d755a47396a&fich=1e2b0a5f-667c-44ec-a977-a9daa4d7a233.doc&Inline=true",
+    "Numero": "27",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "574515",
+        "obs": null,
+        "pag": [
+          "2-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2011-12-23",
+        "pubLeg": "XII",
+        "pubNr": "86",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/086/2011-12-23/2?pgs=2-4&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Decreto da Assembleia da República",
+    "Titulo": "Regula os requisitos de tratamento de dados pessoais para constituição de ficheiros de âmbito nacional, contendo dados de saúde, com recurso a tecnologias de informação e no quadro do Serviço Nacional de Saúde",
+    "Tp": "D",
+    "Versao": "1"
+  }
+}
