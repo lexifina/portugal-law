@@ -10,7 +10,7 @@
 
 ### Objecto e âmbito
 
-1 - A presente lei estabelece o estatuto do pessoal dirigente dos serviços e organismos da administração central, local e regional do Estado.
+1 - A presente lei estabelece o estatuto do pessoal dirigente dos serviços e orgãos da administração central, local e regional do Estado.
 
 2 - A presente lei é aplicável aos institutos públicos, salvo no que respeita às matérias específicas reguladas pela respectiva lei quadro.
 
@@ -22,12 +22,12 @@
 
 a) Dos órgãos e serviços de apoio ao Presidente da República, à Assembleia da República e aos tribunais;
 
-b) Das Forças Armadas e das forças de segurança, tal como estas são definidas na Lei de Segurança Interna, bem como do Sistema de Informações da República Portuguesa;
+b) Das Forças Armadas, das forças e serviços de segurança e dos órgãos públicos que exercem funções de segurança interna, nos termos definidos pela Lei de Segurança Interna, bem como do Sistema de Informações da República Portuguesa e do serviço que tenha por missão assegurar a gestão do sistema prisional;
 
 c) Dos órgãos de gestão dos estabelecimentos de ensino;
 
 d) Dos órgãos de gestão dos estabelecimentos do sector público administrativo de saúde;
 
-e) Do Ministério dos Negócios Estrangeiros que, por força de disposição legal própria, tenham de ser providos por pessoal da carreira diplomática;
+e) Do Ministério dos Negócios Estrangeiros que, por força de disposição legal própria, tenham de ser providos por pessoal da carreira diplomática ou para cujo provimento tenha sido escolhido pessoal da mesma carreira ou que sejam exercidos nos serviços externos;
 
 f) Integrados em carreiras.

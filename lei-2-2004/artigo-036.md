@@ -6,6 +6,6 @@
 
 ### Prevalência
 
-1 - A presente lei prevalece sobre quaisquer disposições gerais ou especiais relativas aos diversos serviços ou organismos.
+1 - A presente lei prevalece sobre quaisquer disposições gerais ou especiais relativas aos diversos serviços ou orgãos.
 
 2 - (Revogado).

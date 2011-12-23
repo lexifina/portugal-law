@@ -6,7 +6,7 @@
 
 ### Deveres específicos
 
-Para além dos deveres gerais dos funcionários do serviço e organismo em que exercem funções, o pessoal dirigente está sujeito aos seguintes deveres específicos:
+Para além dos deveres gerais dos trabalhadores em funções públicas do serviço e organismo em que exercem funções, o pessoal dirigente está sujeito aos seguintes deveres específicos:
 
 a) Dever de manter informado o Governo, através da via hierárquica competente, sobre todas as questões relevantes referentes aos serviços;
 

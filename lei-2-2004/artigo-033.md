@@ -4,7 +4,7 @@
 
 1 - Aos titulares dos cargos dirigentes são aplicáveis os regimes de patrocínio judiciário e isenção de custas previstos nos Decretos-Leis n.os 148/2000, de 19 de Julho, e 34/2008, de 26 de Fevereiro.
 
-2 - Os titulares dos cargos de direcção superior de 1.º grau podem ser apoiados por trabalhadores, que exerçam funções de secretariado, em número não superior a dois.
+2 - Os titulares dos cargos de direcção superior de 1.º grau podem ser apoiados por um trabalhador que exerça funções de secretariado.
 
 3 - Os trabalhadores que exerçam funções de secretariado são designados, com o seu acordo, por despacho do titular do cargo, afixado no órgão ou no serviço e inserido na respectiva página electrónica, e, sem prejuízo do disposto no número seguinte, cessam aquelas funções, sem quaisquer formalidades, na data da cessação ou da suspensão de funções de quem os designou.
 

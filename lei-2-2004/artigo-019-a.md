@@ -2,6 +2,8 @@
 
 ### Carta de Missão
 
-1 - No momento do provimento, o membro do Governo competente e o titular do cargo de direcção superior do 1.º grau assinam uma carta de missão, que constitui um compromisso de gestão onde, de forma explícita, são definidos os objectivos, devidamente quantificados e calendarizados, a atingir no decurso do exercício de funções.
+1 - Com o aviso de abertura do concurso é publicada a carta de missão, elaborada pelo membro do Governo que dirige ou superintende e tutela o serviço ou órgão em que se insere o cargo a preencher, que constitui um compromisso de gestão.
 
-2 - A carta de missão pode ainda prever, em termos a regulamentar, a atribuição de prémios de gestão para o serviço ou organismo e ou para o titular do cargo, em função do progressivo cumprimento dos objectivos definidos.
+2 - Na carta de missão são definidos de forma explícita os objectivos, devidamente quantificados e calendarizados, a atingir no decurso do exercício de funções, sem prejuízo da sua revisão, sempre que tal se justifique, por alterações de contexto geral ou por circunstâncias específicas que o determinem, mediante orientação do respectivo membro do Governo.
+
+3 - Os candidatos devem juntar uma declaração à sua candidatura, elaborada em conformidade com modelo aprovado por Regulamento da Comissão de Recrutamento e Selecção para a Administração Pública, aceitando os termos da carta de missão, sob pena de não aceitação da candidatura.

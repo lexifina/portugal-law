@@ -2,11 +2,11 @@
 
 ### Incompatibilidades, impedimentos e inibições
 
-1 - A participação dos titulares dos cargos de direcção superior em órgãos sociais de pessoas colectivas só é permitida, nos termos da lei, quando se trate de funções não executivas ou de pessoas colectivas sem fins lucrativos.
+1 - Para além do disposto no artigo anterior, a participação dos titulares dos cargos de direcção superior em órgãos sociais de pessoas colectivas só é permitida, nos termos da lei, quando se trate do exercício de funções em pessoas colectivas sem fins lucrativos.
 
-2 - O pessoal dirigente está sujeito ao regime de incompatibilidades, impedimentos e inibições previstos nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas, designadamente nas constantes do Decreto-Lei n.º 413/93, de 23 de Dezembro, e nas dos artigos 44.º a 51.º do Código do Procedimento Administrativo.
+2 - O pessoal dirigente está sujeito ao regime de incompatibilidades, impedimentos e inibições previstos nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas, designadamente nas constantes da Lei n.º 12-A/2008, de 27 de Fevereiro, e nas dos artigos 44.º a 51.º do Código do Procedimento Administrativo.
 
-3 - Aos titulares dos cargos de direcção superior são ainda aplicáveis, com as necessárias adaptações, os artigos 5.º, 9.º, 9.º-A, 11.º, 12.º e 14.º e o n.º 4 do artigo 13.º da Lei n.º 64/93, de 26 de Agosto.
+3 - Aos titulares dos cargos de direcção superior são ainda aplicáveis, com as necessárias adaptações, os artigos 5.º, 9.º, 9.º-A, 11.º, 12.º, 13.º, n.º 4, e 14.º da Lei n.º 64/93, de 26 de Agosto, na redacção em vigor.
 
 4 - Os titulares de cargos de direcção superior da Administração Pública e os membros dos gabinetes governamentais não podem desempenhar, pelo período de três anos contados da cessação dos respectivos cargos, as funções de inspector-geral e subinspector-geral, ou a estas expressamente equiparadas, no sector específico em que exerceram actividade dirigente ou prestaram funções de assessoria.
 

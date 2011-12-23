@@ -14,7 +14,7 @@ b) Pela tomada de posse seguida de exercício, a qualquer título, de outro carg
 
 c) Por extinção ou reorganização da unidade orgânica, salvo se for expressamente mantida a comissão de serviço no cargo dirigente do mesmo nível que lhe suceda.
 
-d) Nos casos do n.º 7 do artigo 16.º e do n.º 6 do artigo 17.º da presente lei e do n.º 6 do artigo 7.º e do n.º 4 do artigo 11.º do Decreto-Lei n.º 413/93, de 23 de Dezembro;
+d) Nos casos do n.º 7 do artigo 16.º e do n.º 6 do artigo 17.º da presente lei e do n.º 3 do artigo 29.º da Lei n.º 12-A/2008, de 27 de Fevereiro;
 
 e) Por despacho fundamentado numa das seguintes situações:
 
@@ -30,12 +30,12 @@ f) Na sequência de procedimento disciplinar em que se tenha concluído pela apl
 
 g) Pela não frequência, por causa que lhes seja imputável, ou pelo não aproveitamento em curso a que se refere o n.º 1 do artigo 12.º;
 
-h) Pela mudança de Governo;
+h) (Revogada.)
 
 i) A requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias, e que se considerará deferido se no prazo de 30 dias a contar da data da sua entrada sobre ele não recair despacho de indeferimento.
 
 2 - A cessação da comissão de serviço com fundamento na alínea e) do número anterior pressupõe a prévia audição do dirigente sobre as razões invocadas, independentemente da organização de qualquer processo.
 
-3 - A cessação da comissão de serviço com fundamento na alínea h) do n.º 1 não é aplicável a qualquer titular de cargo de direcção intermédia, bem como aos titulares dos cargos de direcção superior em secretarias-gerais ou inspecções-gerais ou em serviços e organismos equiparados nos respectivos diplomas orgânicos ou estatutários.
+3 - (Revogado.)
 
-4 - A cessação da comissão de serviço com fundamento na alínea h) do n.º 1 pode não ser aplicável aos titulares dos cargos de direcção superior em outros serviços e organismos cujas atribuições sejam predominantemente técnicas, desde que assim seja determinado no respectivo diploma orgânico ou estatutário.
+4 - (Revogado.)

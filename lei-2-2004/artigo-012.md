@@ -2,9 +2,9 @@
 
 ### Formação profissional específica
 
-1 - O exercício de funções dirigentes implica o aproveitamento em cursos específicos para alta direcção em Administração Pública, diferenciados, se necessário, em função do nível, grau e conteúdo funcional dos cargos dirigentes.
+1 - O desempenho de funções dirigentes é acompanhado pela realização de formação profissional específica em gestão nos domínios da Administração Pública, diferenciada, se necessário, em função do nível, grau, competências e responsabilidades dos cargos dirigentes.
 
-2 - A formação profissional específica incluirá necessariamente as seguintes áreas de competências:
+2 - A formação profissional específica privilegia as seguintes áreas de competências:
 
 a) Organização e actividade administrativa;
 
@@ -18,8 +18,10 @@ e) Qualidade, inovação e modernização;
 
 f) Internacionalização e assuntos comunitários.
 
-3 - Os cursos adequados à formação profissional específica a que se refere o presente artigo, qualquer que seja a sua designação e duração, são assegurados, no âmbito da Administração Pública, pelo Instituto Nacional de Administração (INA), devendo os respectivos regulamentos e condições de acesso ser objecto de portaria do membro do Governo responsável pela área da Administração Pública.
+g) Gestão da mudança.
 
-4 - A formação específica acima referida pode igualmente ser garantida por instituições de ensino superior, em termos fixados em diploma regulamentar que consagre a intervenção no procedimento respectivo de um júri constituído por personalidades independentes.
+3 - Os cursos adequados à formação profissional específica a que se refere o presente artigo, qualquer que seja a sua designação e duração, são assegurados, preferencialmente, no âmbito da Administração Pública, pelo serviço ou órgão com atribuições na área da formação profissional, devendo os respectivos regulamentos e condições de acesso ser objecto de portaria do membro do Governo responsável pela área da Administração Pública.
+
+4 - A formação específica acima referida pode igualmente ser garantida por instituições de ensino superior, em termos fixados em diploma regulamentar.
 
 5 - Os titulares dos cargos dirigentes frequentam um dos cursos a que se refere o n.º 1 durante os dois primeiros anos de exercício de funções ou, em caso de impossibilidade por causa que não lhes seja imputável, no mais breve prazo.

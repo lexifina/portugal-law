@@ -2,7 +2,7 @@
 
 ### Cargos dirigentes
 
-1 - São cargos dirigentes os cargos de direcção, gestão, coordenação e controlo dos serviços e organismos públicos abrangidos pela presente lei.
+1 - São cargos dirigentes os cargos de direcção, gestão, coordenação e controlo dos serviços e orgãos públicos abrangidos pela presente lei.
 
 2 - Os cargos dirigentes qualificam-se em cargos de direcção superior e cargos de direcção intermédia e, em função do nível hierárquico e das competências e responsabilidades que lhes estão cometidas, subdividem-se, os primeiros, em dois graus, e os segundos, em tantos graus quantos os que a organização interna exija.
 
@@ -12,4 +12,4 @@
 
 5 - (Revogado).
 
-6 - Os diplomas orgânicos ou estatutários dos serviços e organismos públicos abrangidos pela presente lei estabelecem, expressamente, a qualificação e grau dos respectivos cargos dirigentes, nos termos do n.º 2, a respectiva designação, bem como, tratando-se de cargos de direcção intermédia de 3.º grau ou inferior, as correspondentes competências.
+6 - Os diplomas orgânicos ou estatutários dos serviços e orgãos públicos abrangidos pela presente lei estabelecem, expressamente, a qualificação e grau dos respectivos cargos dirigentes, nos termos do n.º 2, a respectiva designação, bem como, tratando-se de cargos de direcção intermédia de 3.º grau ou inferior, as correspondentes competências.

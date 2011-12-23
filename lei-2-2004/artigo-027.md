@@ -4,13 +4,13 @@
 
 # Artigo 27.º
 
-### Nomeação em substituição
+### Designação em substituição
 
 1 - Os cargos dirigentes podem ser exercidos em regime de substituição nos casos de ausência ou impedimento do respectivo titular quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura do lugar.
 
-2 - A nomeação em regime de substituição é feita pela entidade competente, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo.
+2 - A designação em regime de substituição é feita pela entidade competente, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo, com excepção do procedimento concursal a que se referem os artigos 18.º a 21.º
 
-3 - A substituição cessa na data em que o titular retome funções ou passados 60 dias sobre a data da vacatura do lugar, salvo se estiver em curso procedimento tendente à nomeação de novo titular.
+3 - A substituição cessa na data em que o titular retome funções ou passados 90 dias sobre a data da vacatura do lugar, salvo se estiver em curso procedimento tendente à designação de novo titular.
 
 4 - A substituição pode ainda cessar, a qualquer momento, por decisão da entidade competente, ou a pedido do substituto, logo que deferido.
 
