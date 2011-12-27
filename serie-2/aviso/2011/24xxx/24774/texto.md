@@ -1,0 +1,5 @@
+Aviso n.º 24774/2011
+Luís Filipe Soromenho Gomes, Presidente da Câmara de Vila Real de Santo António, faz público, nos termos do n.º 2 do Artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de Setembro, na sua actual redacção, que a Câmara Municipal de Vila Real de Santo António, deliberou na sua reunião extraordinária de 14 de Dezembro de 2011, aprovar a realização da Alteração ao Plano de Pormenor da Zona de Expansão Poente de Monte Gordo (PPZEPMG), no sentido de mudar o uso turístico consagrado no Núcleo NA, para o uso de habitação colectiva, concedendo um prazo indicativo de 9 meses para a conclusão deste procedimento.
+Uma vez assegurado o enquadramento acima descrito, convidam-se todos os interessados a formular sugestões, assim como a apresentar informações, por escrito, até 20 dias úteis contados a partir da data de publicação deste aviso no Diário da República, na Equipa Multidisciplinar de Gestão Territorial e Urbanística da Câmara Municipal de Vila Real de Santo António, sobre quaisquer questões que possam ser equacionadas no âmbito deste processo de Alteração.
+16 de Dezembro de 2011. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
+205493578
