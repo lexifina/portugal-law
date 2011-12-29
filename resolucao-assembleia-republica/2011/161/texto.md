@@ -1,0 +1,38 @@
+Resolução da Assembleia da República n.º 161/2011
+Recomenda ao Governo a adopção de medidas tendentes ao combate à infecção por VIH/sida em Portugal, com vista à sua erradicação
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo a implementação das seguintes medidas:
+1 - O reconhecimento da dimensão da epidemia VIH/sida em Portugal e a urgência de garantir um mandato institucional que permita uma abordagem transversal, coordenada e multissectorial, com uma efectiva integração da sociedade civil.
+2 - A promoção de parcerias e integração de esforços e recursos para a implementação adequada das políticas, dos programas e dos serviços, sem prejuízo de responsabilidade individual de cada parceiro, com:
+a) O Estado;
+b) Organizações não governamentais que trabalhem na prevenção e apoio a pessoas infectadas;
+c) Profissionais de saúde;
+d) Instituições educativas e de formação;
+e) Centros de investigação;
+f) Universidades;
+g) Instituições/centros jurídicos e ético-jurídicos;
+h) Representantes dos meios de comunicação;
+i) Representantes das associações juvenis;
+j) Responsáveis políticos; e
+k) Sector privado (incluindo a indústria farmacêutica).
+3 - A participação de pessoas infectadas e afectadas na tomada de decisão quanto à resposta à epidemia VIH/sida (informação, educação, prevenção, cuidados de saúde, formulação de políticas e programas, entre outros) e um apoio público transparente às suas organizações.
+4 - A urgente aprovação, divulgação e implementação do Plano Nacional para o período 2012-2015 que:
+a) Estabeleça prioritariamente uma Estratégia Nacional e Plano de Acção para a prevenção e para o diagnóstico precoce [de acordo com as propostas da Organização Mundial de Saúde (OMS), Centro Europeu de Prevenção de Controle das Doenças (ECDC) e Observatório Europeu da Droga e da Toxicodependência (OEDT)] que garanta a implementação de medidas efectivas de saúde pública que promovam a prevenção primária da infecção (através de um programa abrangente que envolva a educação para a saúde, particularmente nas escolas, e a distribuição gratuita de preservativos nos serviços de saúde e junto dos grupos populacionais mais vulneráveis) e que facilitem e estendam, de forma fundamentada, os serviços de detecção, diagnóstico e cuidados de saúde precoces do VIH, infecções sexualmente transmissíveis, tuberculose e hepatites víricas no Serviço Nacional de Saúde e restantes componentes do sistema de saúde. O Plano de Acção deve apresentar uma matriz de objectivos e recomendações, aos quais devem ser claramente associados os respectivos indicadores, meios, prazos de execução, medidas de dificuldade de implementação e de impacto previstos;
+b) Assegure a prestação de informação pré-teste e aconselhamento no pós-teste, no âmbito da detecção precoce da infecção (que deve ser assegurada rotineiramente e de forma fundamentada, ao nível dos cuidados de saúde primários e dos serviços hospitalares, nomeadamente de urgência). Em comunidades particularmente afectadas há que sensibilizar para uma maior frequência de realização do teste;
+c) Englobe as outras infecções sexualmente transmissíveis e hepatites víricas;
+d) Implemente uma rede creditada de referenciação para unidades de tratamento de VIH, no âmbito da rede de referenciação de doenças infecciosas, que garanta uma ligação segura aos cuidados de saúde, e que garanta a sua respectiva monitorização, nomeadamente no momento do diagnóstico e que assegure a sucessiva adesão das pessoas que vivem com VIH ao seguimento clínico e terapêutico;
+e) Estabeleça o objectivo de formar e certificar profissionais de saúde para o seguimento de pessoas a viver com VIH, com vista a um eventual alargamento da disponibilidade dos recursos de saúde para a população de pessoas que vivem com VIH;
+f) Garanta o acesso universal, sustentável, individualizado e de acordo com as orientações nacionais, alvo de consenso alargado e segundo a mais recente evidência científica nacional e internacional, à terapêutica anti-retrovírica;
+g) Promova a realização de estudos de avaliação económica, efectuados por uma entidade idónea e independente, de forma a garantir uma utilização eficiente dos recursos disponíveis, baseada no custo-efectividade das terapêuticas recomendadas nas orientações clínicas;
+h) Impeça a degradação da qualidade terapêutica por razões de natureza económica e financeira em prejuízo ou quebra das orientações técnicas;
+i) Promova a entrada de novos medicamentos genéricos no mercado, sem que tal conduza à quebra de regimes terapêuticos e ao compromisso da qualidade da terapêutica, bem como estabelecer medidas para o controlo dos custos com a medicação;
+j) Assegure o controlo da despesa com medicamentos, meios laboratoriais e análises, que deve ser obtido com negociações, aquisição e pagamento centralizados, nomeadamente no plano europeu, conseguindo preços diferenciados e comportáveis para os países da União Europeia com menores recursos económicos e com maior incidência da epidemia;
+k) Acelere a implementação de um sistema eficaz e prático, nomeadamente para os profissionais de saúde, que garanta uma recolha e tratamento detalhado e rigoroso de dados, quantitativos e qualitativos, epidemiológicos, clínicos, económicos e sociais (nomeadamente sobre os determinantes sociais) considerados essenciais associados à infecção por VIH (incluindo dados referentes aos resultados das medidas a implementar). Estes sistemas de informação e de cruzamento de dados devem respeitar sempre a confidencialidade dos dados pessoais e os direitos humanos;
+l) Garanta o apoio social integrado, quando necessário, às pessoas que vivem com infecção por VIH e as suas comunidades/famílias;
+m) Reduza a vulnerabilidade e as barreiras estruturais no acesso aos serviços de saúde, particularmente agravadas por assimetrias geográficas e sociais. O modelo de financiamento hospitalar deve assegurar a possibilidade da pessoa optar pelo hospital público onde quer ser tratada.
+5 - Optimizar e racionalizar os recursos disponíveis, particularmente os recursos laboratoriais mediante a organização dos mesmos em centros de referência, como garante de incremento de qualidade e redução de custos.
+6 - O prosseguimento do apoio e incentivo à investigação clínica, epidemiológica e académica, envolvendo todos os parceiros, eliminando processos burocráticos que limitam o envolvimento de Portugal em processos de desenvolvimento científico. Neste âmbito, os dados recolhidos em projectos de investigação financiados por dinheiros públicos devem ser disponibilizados para a comunidade científica.
+7 - A promoção da cooperação de âmbito internacional com especial enfoque em programas com os países da Comunidade dos Países de Língua Portuguesa (CPLP), organizações internacionais [como a Organização das Nações Unidas (ONU), Organização Mundial de Saúde (OMS), entre outras] e a União Europeia.
+8 - O combate contra todas as formas de estigma e discriminação, incluindo no âmbito laboral e dos seguros, dirigidas contra as pessoas que vivem com VIH e as respectivas comunidades, particularmente que coloquem em causa a promoção da igualdade e equidade, incluindo de género.
+9 - A potenciação de outros indicadores de saúde mais abrangentes, através da acção dirigida à problemática da infecção por VIH. A acção eficaz contra a infecção por VIH tem efeitos colaterais benéficos para outras áreas de saúde, nomeadamente tuberculose, comportamentos de dependência, saúde sexual e reprodutiva, saúde materno-infantil e de adolescência, hepatites víricas e doenças crónicas e não transmissíveis.
+Aprovada em 2 de Dezembro de 2011.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
