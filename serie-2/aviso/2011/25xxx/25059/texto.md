@@ -1,0 +1,7 @@
+Aviso n.º 25059/2011
+Projecto de Regulamento Municipal do Cemitério da Póvoa de Lanhoso
+Manuel José Torcato Soares Baptista, Presidente da Câmara Municipal da Póvoa de Lanhoso, torna público ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, na redacção dada pela Lei n.º 5-A /2002, de 11 de Janeiro, nos termos e para os efeitos do disposto nos artigos 7.º, 8.º e 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de Janeiro, que se encontra em fase de apreciação pública, o projecto de Regulamento Municipal do Cemitério da Póvoa de Lanhoso, aprovado em reunião ordinária da Câmara Municipal em 13 de Dezembro de 2011.
+O Projecto de Regulamento estará disponível, nas horas de expediente, na Divisão Administrativa desta Câmara Municipal e no sítio do Município (www.mun-planhoso.pt), para efeito e recolha de sugestões de todos os interessados.
+A apresentação de sugestões, bem como apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração, devem ser formuladas por escrito e enviadas à Câmara Municipal, dirigidas ao Presidente da Câmara, durante trinta dias, contados a partir do dia de publicação do presente aviso no Diário da República.
+21 de Dezembro de 2011. - O Presidente da Câmara, Manuel José Torcato Soares Baptista.
+305499386
