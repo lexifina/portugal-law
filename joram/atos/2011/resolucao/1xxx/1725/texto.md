@@ -1,0 +1,38 @@
+# Resolução n.º 1725/2011
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 136/2011, 3.º suplemento, de 2011-12-30
+
+**Sumário:** Autoriza a Secretaria Regional do Plano e Finanças a proceder, junto da entidade denominada DEXIASabadell, S.A., à liquidação do montante de 615.633,33. Resolução n.º 1726/2011 Define as regras a serem adoptadas pela administração pública regional até à entrada em vigor do orçamento para 2012.
+
+## Texto
+
+Resolução n.º 1725/2011
+O Conselho do Governo reunido em plenário em 29 de Dezembro de 2011, resolveu autorizar a Secretaria Regional do Plano e Finanças a proceder junto do DEXIA Sabadell, S.A., à liquidação do montante de 615.633,33 Euros, referente à quarta prestação de juros do empréstimo contraído pela Região Autónoma da Madeira na modalidade de crédito directo, no dia 30 de Dezembro de 2009, cujo vencimento ocorre no dia 5 de Janeiro de 2012.
+Esta despesa tem cabimento orçamental na Secretaria 08; Capítulo 01; Divisão 01; Subdivisão 00; Classificação Económica 03.01.03 (Juros da dívida pública - Sociedades financeiras - Bancos e outras instituições financeiras).
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
+Resolução n.º 1726/2011
+A Proposta de Orçamento da Região Autónoma da Madeira para 2012, à presente data não foi submetida pelo Governo Regional à Assembleia Legislativa da Madeira, estando a sua apresentação condicionada à aprovação do Programa de Ajustamento a celebrar entre o Governo Regional e o Governo da República.
+Em conformidade com o estabelecido no artigo 15.º da Lei n.º 28/92, de 1 de Setembro, até a entrada em vigor do Orçamento de 2012, manter-se-á em vigor o Orçamento de 2011, aprovado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de Janeiro, alterado pelos Decretos Legislativos Regionais n.ºs 4/2011/M, de 11 de Março, 11/2011/M, de 6 de Julho, e 13/2011/M, de 5 de Agosto.
+Considerando a imperiosa necessidade de aprofundar em 2012 as medidas de contenção da despesa que garantam a execução dos compromissos assumidos pela Região, ao nível da redução das despesas, até à entrada em vigor do orçamento para 2012, o Conselho do Governo reunido em plenário em 29 de Dezembro de 2011, resolveu determinar o seguinte:
+1 - De acordo com o disposto no n.º 3 do artigo 15.º da Lei n.º 28/92, de 1 de Setembro: a) Não poderão ser contraídas despesas que não tenham sido inscritas no Orçamento de 2011; b) Não poderão ser contraídos encargos além das dotações orçamentais que estiverem inscritas no Orçamento de 2011; c) Não poderão ser excedidos os duodécimos das dotações orçamentais, salvo nos casos previstos na presente Resolução
+2 - As despesas a incorrer deverão ser reduzidas ao estritamente necessário e restringir-se ao normal funcionamento dos serviços, ficando os serviços impedidos de assumir novos compromissos, seja a que título for.
+3 - As despesas normais de funcionamento não podem exceder a dotação duodecimal para este período transitório.
+4 - Salvo indicação expressa da Secretaria Regional do Plano e Finanças, para acorrer ao pagamento das despesas públicas só poderá ser despendido em cada
+
+mês um duodécimo da dotação orçamental, acrescido do saldo dos duodécimos não utilizados até o mês a que se reportam as despesas em causa. Relativamente às dotações afectas a remunerações certas e permanentes, seguros e locação de bens fica autorizada a antecipação de dois duodécimos.
+5 - São congeladas as dotações orçamentais afectas ao funcionamento e aos investimentos do plano do orçamento regional e orçamentos privativos dos institutos, serviços e fundos autónomos, conforme abaixo estipulado: a) Ficam cativas em 50% as dotações afectas a Horas Extraordinárias “01.02.02 Horas Extraordinárias”; b) Ficam cativas em 50% as dotações afectas a Outros Abonos em Numerário ou Espécie “01.02.14 Outros Abonos”; c) Ficam cativas em 40% as dotações afectas às rubricas de Aquisição de Bens e Serviços: “02.01.00 Aquisição de Bens” e “02.02.00 Aquisição de Serviços”; d) Ficam cativas em 20% as dotações orçamentais dos códigos de classificação económica “04. Transferências correntes”, exceto as que se referem às despesas com o pessoal dos Institutos, Serviços e Fundos Autónomos; e) Ficam cativas em 30% as dotações orçamentais dos códigos de classificação económica “05. Subsídios “; f) Ficam cativas em 100% as dotações orçamentais dos códigos de classificação económica “07. Aquisição de bens de capital”; g) Ficam cativas em 100% as dotações dos códigos de classificação económica “08. Transferências de capital”.
+6 - O Secretário Regional do Plano e Finanças poderá determinar o congelamento de quaisquer outras rubricas de despesa, em substituição ou complemento das referidas na presente Resolução, desde que o montante global do congelamento seja idêntico ou superior, face às necessidades de contenção das mesmas.
+7 - Em casos excecionais, devidamente fundamentados, o Secretário Regional do Plano e Finanças poderá autorizar o descongelamento das rubricas de despesa sem a correspondente compensação em outras rubricas de despesa, assim como a antecipação de duodécimos.
+8 - Ficam vedadas as admissões de trabalhadores que não tenham uma relação jurídica de emprego público por tempo indeterminado já constituída com a Administração Regional, bem como as admissões e as conversões de contratos a termo em contratos sem termo nas empresas públicas reclassificadas, salvo casos excepcionais, devidamente fundamentados e precedidos do parecer prévio favorável do Secretário Regional do Plano e Finanças.
+9 - Todas as propostas de diploma que aprovam as orgânicas dos departamentos do Governo Regional e dos serviços da administração regional (Direcções Regionais, Inspecções e outros), devem ser enviadas, com carácter obrigatório, à Vice-Presidência do
+
+Governo Regional e à Secretaria Regional do Plano e Finanças, sendo que o parecer favorável do Secretário Regional do Plano e Finanças só será emitido quando esteja demonstrada a redução efectiva das unidades orgânicas e dos cargos dirigentes em, pelo menos, 15% face à situação de partida.
+10 - A fixação das remunerações de assessores dos gabinetes dos membros do Governo é feita mediante despacho conjunto do membro do Governo da tutela e do Secretário Regional do Plano e Finanças.
+11 - Ficam sujeitas a parecer prévio favorável do Secretário Regional do Plano e Finanças: a) As renovações das situações de mobilidade, designadamente destacamentos e requisições; b) O regresso ao serviço dos trabalhadores em situação de licença que não confira o direito a ocupar um posto de trabalho no órgão ou serviço; c) A celebração de acordos de cedência de interesse público, nomeadamente para o
+
+exercício de funções nos gabinetes ao abrigo dos n.ºs 3 e 4 do artigo 2.º do Decreto-Lei n.º 262/88, de 23 de Julho. 12 - Até aprovação do Programa de Ajustamento da Madeira, fica vedada a celebração de qualquer negócio jurídico, a assunção de obrigações que impliquem novos compromissos financeiros, o aumento de despesa ou a realização de qualquer outro acto que implique um agravamento da situação financeira da Região Autónoma da Madeira.
+13 - O cumprimento do disposto nesta Resolução será fiscalizado pela Inspecção Regional de Finanças, sendo que a violação de qualquer disposição prevista implica a ineficácia dos respectivos actos e responsabilidade disciplinar e financeira de quem incorreu em incumprimento.
+14 - É revogada a Resolução n.º 1573/2010, de 29 de Dezembro.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
