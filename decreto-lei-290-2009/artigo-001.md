@@ -14,8 +14,6 @@ b) Apoios à integração, manutenção e reintegração no mercado de trabalho;
 
 c) Emprego apoiado;
 
-d) [Revogada.]
+d) Prémio de mérito.
 
 2 - São ainda definidos, no âmbito do programa agora criado, os apoios técnicos e financeiros aos centros de reabilitação profissional de gestão participada, às entidades de reabilitação que desenvolvem as acções previstas nas alíneas a) e b) do número anterior, bem como a credenciação de entidades da rede de centros de recursos do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e a criação do Fórum para a Integração Profissional.
-
-3 - O presente decreto-lei cria a Marca Entidade Empregadora Inclusiva.
