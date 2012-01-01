@@ -2,7 +2,7 @@
 
 ### Notificações
 
-1 - As notificações efectuam-se por carta registada com aviso de recepção, expedida para o domicílio ou sede do notificando.
+1 - As notificações previstas no artigo 10.º efectuam-se por carta registada com aviso de recepção, expedida para o domicílio ou sede do notificando.
 
 2 - Se, por qualquer motivo, as cartas previstas no número anterior forem devolvidas à entidade remetente, as notificações são reenviadas para o domicílio ou sede do notificado através de carta simples.
 
