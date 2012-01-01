@@ -15,3 +15,5 @@
 6 - Para efeitos do n.º 4, a liquidação do imposto é feita com base no preço de venda ao público mais elevado praticado pelo operador económico, na data em que se torna exigível o imposto.
 
 7 - Sempre que não haja preço de venda ao público homologado, a liquidação do imposto é feita com base no preço de venda ao público de marcas equiparáveis já comercializadas no mercado nacional.
+
+8 - A requisição de estampilhas especiais por operadores económicos sem estatuto IEC depende da constituição de uma garantia, cujo montante mínimo deve ser igual a 25 % do imposto exigível pelos produtos de tabaco correspondentes às estampilhas em causa.

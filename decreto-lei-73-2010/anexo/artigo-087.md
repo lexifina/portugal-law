@@ -2,7 +2,7 @@
 
 ### Venda de mercadorias
 
-1 - O álcool e as bebidas alcoólicas não engarrafados, apreendidos em processo de infracção ou crime tributário ou considerados fazendas demoradas, devem ser vendidos ou inutilizados, no prazo de 60 dias, contados a partir da apreensão ou do termo do prazo concedido para atribuição de um destino aduaneiro ou fiscal aos produtos, mesmo que não tenha sido ainda proferida sentença judicial, podendo aplicar-se a mesma formalidade ao álcool e às bebidas alcoólicas engarrafados desde que requerida pelo interessado.
+1 - O álcool e as bebidas alcoólicas não engarrafados, apreendidos e declarados perdidos a favor da fazenda pública em processo de infracção tributária, abandonados, ou considerados fazendas demoradas, devem ser vendidos ou inutilizados, no prazo de 60 dias, contados a partir do trânsito em julgado da declaração de perda da mercadoria a favor da Fazenda Pública, da declaração de abandono, do envio da certidão do tribunal ou do termo do prazo concedido para atribuição de um destino aduaneiro ou fiscal aos produtos, mesmo que não tenha sido ainda proferida sentença judicial, podendo aplicar-se a mesma formalidade ao álcool e às bebidas alcoólicas engarrafados desde que requerida pelo interessado.
 
 2 - Para efeitos do disposto no número anterior, e quando a entidade apreensora não for a autoridade aduaneira, deve a mesma comunicar o facto à autoridade aduaneira, no prazo de 15 dias contados a partir da data da apreensão, enviando para o efeito os elementos identificativos necessários.
 

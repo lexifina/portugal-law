@@ -22,7 +22,7 @@ f) Motores frigoríficos autónomos, instalados em veículos pesados de transpor
 
 4 - O gasóleo de aquecimento só pode ser utilizado como combustível de aquecimento industrial, comercial ou doméstico.
 
-5 - O gasóleo colorido e marcado só pode ser adquirido pelos titulares do cartão electrónico instituído para efeitos de controlo da sua afectação aos destinos referidos no n.º 3, sendo o proprietário ou o responsável legal pela exploração dos postos autorizados para a venda ao público responsabilizado pelo pagamento do montante de imposto resultante da diferença entre o nível de tributação aplicável ao gasóleo rodoviário e a taxa aplicável ao gasóleo colorido e marcado, em relação às quantidades que venderem e que não fiquem devidamente registadas no sistema informático subjacente aos cartões electrónicos atribuídos.
+5 - O gasóleo colorido e marcado só pode ser adquirido pelos titulares do cartão electrónico instituído para efeitos de controlo da sua afectação aos destinos referidos no n.º 3, sendo responsável pelo pagamento do montante de imposto resultante da diferença entre o nível de tributação aplicável ao gasóleo rodoviário e a taxa aplicável ao gasóleo colorido e marcado, o proprietário ou o responsável legal pela exploração dos postos autorizados para a venda ao público, em relação às quantidades que venderem e que não fiquem devidamente registadas no sistema electrónico de controlo.
 
 6 - A venda, a aquisição ou o consumo dos produtos referidos no n.º 1 com violação do disposto nos n.os 2 a 5 estão sujeitos às sanções previstas no Regime Geral das Infracções Tributárias e em legislação especial.
 

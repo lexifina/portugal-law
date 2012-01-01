@@ -2,15 +2,15 @@
 
 ### Taxas
 
-1 - Os valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos aplicável às gasolinas, aos gasóleos, aos petróleos e aos fuelóleos são fixados, para o continente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, tendo em consideração o princípio da liberdade de mercado e os diferentes impactos ambientais de cada um dos produtos energéticos, favorecendo gradualmente os menos poluentes, dentro dos seguintes intervalos:
+1 - Os valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos aplicável às gasolinas, aos gasóleos, aos petróleos, aos fuelóleos e à electricidade são fixados, para o continente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, tendo em consideração o princípio da liberdade de mercado e os diferentes impactos ambientais de cada um dos produtos energéticos, favorecendo gradualmente os menos poluentes, dentro dos seguintes intervalos:
 
 (ver documento original)
 
 2 - O gasóleo misturado por razões técnicas ou operacionais com o fuelóleo é tributado com a taxa aplicável ao fuelóleo que for utilizado na mistura, desde que a operação seja aprovada pela autoridade aduaneira e realizada sob controlo aduaneiro.
 
-3 - A taxa aplicável ao metano e aos gases de petróleo usados como carburante é de (euro) 125,00/1000 kg e, quando usados como combustível, é fixada entre (euro) 7,81 e (euro) 9,00/1000 kg, sendo igualmente aplicável ao acetileno usado como combustível.
+3 - A taxa aplicável ao metano e aos gases de petróleo usados como carburante é de (euro) 127,88/1000 kg e, quando usados como combustível, é fixada entre (euro) 7,81 e (euro) 9,00/1000 kg, sendo igualmente aplicável ao acetileno usado como combustível.
 
-4 - A taxa aplicável ao gás natural usado como carburante é de (euro) 2,78/gJ.
+4 - A taxa aplicável ao gás natural usado como carburante é de (euro) 2,84/gJ.
 
 5 - A taxa aplicável aos produtos petrolíferos e energéticos obtidos a partir de óleos usados ou de resíduos e que sejam utilizados como carburante ou como combustível são tributados de acordo com o nível de tributação aplicável a esses produtos.
 
@@ -30,7 +30,7 @@ e) Com uma taxa compreendida entre (euro) 0 e (euro) 5,99/1000 kg os produtos pe
 
 f) Com a taxa compreendida entre (euro) 0 e (euro) 30/1000 kg os produtos petrolíferos e energéticos classificados pelos códigos NC 2710 19 81, 2710 19 99, 3811 21 00 e 3811 29 00;
 
-g) Com a taxa compreendida entre (euro) 100 e (euro) 260/1000 l, o gasóleo de aquecimento classificado pelo código NC 2710 19 45.
+g) Com a taxa compreendida entre (euro) 100 e (euro) 400/1000 l, o gasóleo de aquecimento classificado pelo código NC 2710 19 45.
 
 8 - A fixação das taxas do imposto relativas aos produtos petrolíferos e energéticos referidos na parte final do n.º 3, no n.º 6 e nas alíneas e), f) e g) do número anterior, é feita por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
 

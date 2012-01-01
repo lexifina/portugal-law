@@ -2,7 +2,7 @@
 
 ### Incidência subjectiva
 
-1 - São sujeitos passivos de impostos especiais de consumo o depositário autorizado e o destinatário registado.
+1 - São sujeitos passivos de impostos especiais de consumo o depositário autorizado e o destinatário registado e, no caso de fornecimento de electricidade, os comercializadores, definidos em legislação própria, os comercializadores para a mobilidade eléctrica, os produtores que vendam electricidade directamente aos consumidores finais, os autoprodutores e os consumidores que comprem electricidade através de operações em mercados organizados.
 
 2 - São também sujeitos passivos, sem prejuízo de outros especialmente determinados no presente Código:
 

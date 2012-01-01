@@ -38,6 +38,6 @@ d) Cervejas, 110 l.
 
 5 - Presume-se que a detenção de produtos petrolíferos não se destina ao uso pessoal do seu detentor quando forem transportados por formas de transporte atípicas, efectuadas por particulares ou por sua conta.
 
-6 - Para efeitos do número anterior, considera-se forma de transporte atípica o transporte de combustível que não se encontre no reservatório de um veículo ou num recipiente de reserva apropriado, até ao limite de 50 l, bem como o transporte de produtos líquidos para aquecimento que não seja efectuado em camiões-cisternas utilizados por operadores profissionais.
+6 - Para efeitos do número anterior, considera-se forma de transporte atípica o transporte de combustível que não se encontre no reservatório de um veículo, ou num recipiente de reserva apropriado, até ao limite de 10 l, bem como o transporte de produtos líquidos para aquecimento que não seja efectuado em camiões-cisterna utilizados por operadores profissionais.
 
 7 - Os produtos adquiridos em território nacional por particulares de outros Estados membros, para seu uso pessoal e transportados pelos próprios, estão sujeitos a imposto.

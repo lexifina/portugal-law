@@ -14,7 +14,9 @@ d) A importação desses produtos, a menos que sejam submetidos, imediatamente a
 
 e) A entrada, mesmo irregular, desses produtos no território nacional fora do regime de suspensão do imposto;
 
-f) A cessação ou violação dos pressupostos de um benefício fiscal.
+f) A cessação ou violação dos pressupostos de um benefício fiscal;
+
+g) O fornecimento de electricidade ao consumidor final, o autoconsumo e a aquisição de electricidade por consumidores finais em mercados organizados.
 
 2 - O momento da introdução no consumo corresponde:
 
@@ -30,4 +32,6 @@ d) Na situação referida no n.º 4 do artigo 35.º, ao momento da recepção do
 
 4 - Não é considerada introdução no consumo a inutilização total ou a perda irreparável dos produtos em regime de suspensão do imposto, por causa inerente à natureza dos produtos, dentro dos limites fixados no presente Código, devido a caso fortuito ou de força maior ou na sequência de autorização da estância aduaneira competente.
 
-5 - Para efeitos do disposto no número anterior, considera-se que os produtos estão totalmente inutilizados ou irreparavelmente perdidos quando deixem de poder ser utilizados como produtos sujeitos a impostos especiais de consumo.
+5 - (Revogado.)
+
+6 - Para além do disposto no n.º 1, considera-se ainda terem sido introduzidos no consumo os produtos correspondentes às estampilhas especiais que não se mostrem devidamente utilizadas, os que sejam inutilizados com preterição das regras aplicáveis ou as perdas que ultrapassem os limites fixados, nos termos e nas condições previstos no presente Código.

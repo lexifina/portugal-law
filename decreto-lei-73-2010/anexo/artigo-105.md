@@ -8,4 +8,4 @@ a) Elemento específico - (euro) 15,30;
 
 b) Elemento ad valorem - 36,5 %.
 
-2 - Aos cigarros que reúnam as condições previstas no número anterior não é aplicável o disposto no n.º 5 do artigo 103.º
+2 - Os cigarros ficam sujeitos, no mínimo, a 50 % do montante do imposto que resulte da aplicação do disposto no n.º 5 do artigo 103.º

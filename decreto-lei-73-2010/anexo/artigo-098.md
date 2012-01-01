@@ -19,3 +19,7 @@ b) Capacidade de armazenagem: 100 000 l por produto, no que se refere às gasoli
 c) Volume de vendas anual: (euro) 5 000 000.
 
 3 - Os titulares de entrepostos fiscais de transformação estão dispensados dos requisitos referidos no número anterior.
+
+4 - Consideram-se entrepostos fiscais de transformação os entrepostos fiscais de produção onde são efectuadas operações de produção que não envolvem a refinação de petróleo bruto.
+
+5 - Os titulares de entrepostos fiscais de armazenagem de produtos destinados a ser utilizados em fins isentos dentro do território nacional estão dispensados dos requisitos previstos no n.º 2.

@@ -2,7 +2,7 @@
 
 ### Circulação
 
-Estão sujeitos aos documentos de acompanhamento previstos no artigo 36.º os seguintes produtos petrolíferos e energéticos:
+1 - Estão sujeitos aos documentos previstos nos artigos 36.º e 60.º os seguintes produtos petrolíferos e energéticos:
 
 a) Os produtos abrangidos pelos códigos NC 1507 a 1518, quando destinados a serem utilizados como carburante ou combustível;
 
@@ -19,3 +19,5 @@ f) Os produtos abrangidos pelos códigos 2902 20, 2902 30, 2902 41, 2902 42, 290
 g) Os produtos abrangidos pelos códigos 2905 11 00, que não sejam de origem sintética, quando destinados a serem utilizados como carburante ou combustível;
 
 h) Os produtos abrangidos pelos códigos NC 3824 90 91 e 3824 90 97, quando destinados a ser utilizados como carburante ou combustível.
+
+2 - Ficam dispensados do documento administrativo electrónico previsto no artigo 36.º os produtos petrolíferos e energéticos que circulem em regime de suspensão do imposto por condutas fixas em território nacional.

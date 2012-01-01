@@ -10,8 +10,8 @@
 
 4 - As taxas dos elementos específico e ad valorem são as seguintes:
 
-a) Elemento específico - (euro) 69,07;
+a) Elemento específico - (euro) 78,37;
 
-b) Elemento ad valorem - 23 %.
+b) Elemento ad valorem - 20 %.
 
-5 - Os cigarros com um preço de venda ao público inferior ao preço de venda ao público dos cigarros que pertençam à classe de preços mais vendida do ano a que corresponda a estampilha especial em vigor ficam sujeitos ao imposto que resultar da aplicação da taxa do imposto aos cigarros pertencentes à referida classe de preços.
+5 - Os cigarros ficam sujeitos, no mínimo, a 104 % do imposto que resultar da aplicação da taxa do imposto aos cigarros pertencentes à classe de preços mais vendida do ano a que corresponda a estampilha especial em vigor.

@@ -1,6 +1,6 @@
 # Artigo 83.º
 
-### Obrigações dos produtores de álcool e de produtos vitivinícolas
+### Obrigações dos produtores de álcool e de bebidas alcoólicas
 
 1 - Constituem obrigações dos produtores de álcool:
 
@@ -14,8 +14,10 @@ d) Submeter os restantes depósitos ao controlo metrológico e possuir o respect
 
 e) Utilizar, na determinação do teor alcoométrico e da densidade do álcool, instrumentos de medição que obedeçam às características metrológicas estabelecidas na Portaria n.º 16/91, de 9 de Janeiro, e na Portaria n.º 377/91, de 2 de Maio, e no documento da Organização Internacional de Metrologia Legal (OIML), relativo a tabelas alcoométricas.
 
-2 - Os produtores vitivinícolas, na armazenagem de produtos resultantes da produção ou utilizados como matérias-primas, devem cumprir as seguintes obrigações:
+2 - Constituem obrigações dos produtores vitivinícolas e de outras bebidas alcoólicas:
 
 a) Possuir depósitos onde se encontre claramente identificada a natureza do produto e apostas, de modo visível e indelével, as respectivas capacidades;
 
-b) Instalar indicadores de nível em estado funcional, ou outro equipamento similar, que permitam o controlo eficaz da quantidade armazenada, bem como o número de ordem, caso se trate de depósitos fixos.
+b) Instalar indicadores de nível em estado funcional, ou outro equipamento similar, nomeadamente, caudalímetros que permitam o controlo eficaz da quantidade produzida e armazenada, bem como o número de ordem, caso se trate de depósitos fixos;
+
+c) A prevista na alínea a) do número anterior.

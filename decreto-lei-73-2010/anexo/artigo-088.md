@@ -14,6 +14,8 @@ b) Quaisquer outros produtos destinados a serem utilizados, colocados à venda o
 
 c) Os outros hidrocarbonetos, com excepção da turfa e do gás natural, destinados a serem utilizados, colocados à venda ou a serem consumidos em uso como combustível.
 
+d) A electricidade abrangida pelo código NC 2716.
+
 2 - Para efeitos da alínea a) do número anterior, são qualificados como produtos petrolíferos e energéticos:
 
 a) Os produtos abrangidos pelos códigos NC 1507 a 1518, quando destinados a serem utilizados como carburante ou combustível;

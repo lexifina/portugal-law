@@ -24,7 +24,15 @@ i) Sejam utilizados no transporte de passageiros e de mercadorias por caminhos d
 
 j) Sejam utilizados como carburantes no âmbito do fabrico, projecto, ensaio e manutenção de aeronaves e embarcações.
 
-2 - As isenções previstas no número anterior, salvo no que se refere às alíneas b) e g), dependem de reconhecimento prévio da autoridade aduaneira competente.
+2 - Está isenta do imposto a electricidade que, comprovadamente, seja:
+
+a) Utilizada para produzir electricidade, e para manter a capacidade de produzir electricidade;
+
+b) Produzida a bordo de embarcações;
+
+c) Utilizada para o transporte de passageiros e de mercadorias por via férrea em comboio, metropolitano ou eléctrico, e por trólei;
+
+d) Utilizada pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro.
 
 3 - Para efeitos de aplicação da alínea b) do n.º 1, entende-se por «aviação de recreio privada» a utilização de uma aeronave pelo seu proprietário ou por uma pessoa singular ou colectiva que a possa utilizar mediante aluguer ou a outro título, para fins não comerciais e, em especial, para fins que não sejam o transporte de pessoas ou de mercadorias ou a prestação de serviços a título oneroso ou no interesse das autoridades públicas.
 
@@ -39,3 +47,5 @@ b) Os reservatórios de gás adaptados aos veículos a motor que permitam a util
 c) Os reservatórios fixados com carácter permanente pelo construtor em todos os contentores do mesmo tipo que permitam, durante o transporte, a utilização directa do carburante para o funcionamento dos sistemas de refrigeração ou de outros sistemas semelhantes, com os quais sejam equipados os contentores especiais.
 
 6 - Ainda para efeitos de aplicação da alínea g) do n.º 1, consideram-se «contentores especiais» todos os contentores equipados com dispositivos especialmente adaptados para sistemas de refrigeração, ventilação, isolamento térmico ou outros sistemas semelhantes.
+
+7 - As isenções previstas nas alíneas a), c), d), e), f), h), i) e j) do n.º 1 e nas alíneas a) e c) do n.º 2 dependem de reconhecimento prévio da autoridade aduaneira competente.
