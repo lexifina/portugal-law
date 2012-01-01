@@ -46,7 +46,7 @@ u) O Decreto-Lei n.º 87/2004, de 17 de Abril, e o Decreto-Lei n.º 261/91, de 2
 
 v) O Decreto-Lei n.º 98/2005, de 16 de Junho;
 
-x) O Decreto Legislativo Regional n.º 12/93/M, de 23 de Julho, alterado pelo Decreto Legislativo Regional n.º 22/98/M, de 18 de Setembro;
+x) O artigo 11.º do Decreto Legislativo Regional n.º 12/93/M, de 23 de Julho, alterado pelo Decreto Legislativo Regional n.º 22/98/M, de 18 de Setembro;
 
 z) Os artigos 17.º, 20.º, 24.º, 127.º, 128.º e 129.º do Decreto n.º 45 266, de 23 de Setembro de 1963;
 

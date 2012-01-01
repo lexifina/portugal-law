@@ -10,7 +10,7 @@ a) No 1.º dia do 12.º mês posterior ao do início de actividade quando tal oc
 
 b) No 1.º dia do mês de Outubro do ano subsequente ao do início de actividade nos restantes casos.
 
-3 - No caso de reinício de actividade, o enquadramento produz efeitos no 1.º dia do mês seguinte àquele reinício.
+3 - No caso de reinício de actividade, o enquadramento produz efeitos no 1.º dia do mês do reinício.
 
 4 - No caso de requerimento apresentado por cônjuge de trabalhador independente, o enquadramento produz efeitos no 1.º dia do mês seguinte ao deferimento.
 
