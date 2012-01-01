@@ -32,7 +32,7 @@ i) A taxa contributiva relativa aos notários abrangidos pelo regime dos trabalh
 
 j) A taxa contributiva relativa aos oficiais do notariado que optaram pela manutenção no regime de protecção social da função pública, nos termos previstos no Decreto-Lei n.º 26/2004, de 4 de Fevereiro, é de 7,8 %, sendo, respectivamente, de 6,8 % e de 1 % da responsabilidade das entidades empregadoras e dos trabalhadores;
 
-l) A taxa contributiva de 29 % relativa aos trabalhadores inscritos marítimos que exercem actividade profissional na pesca local e costeira, sendo, respectivamente, de 21 % e de 8 % da responsabilidade das entidades empregadoras e dos trabalhadores.
+l) (Revogada).
 
 2 - Aos trabalhadores agrícolas diferenciados e indiferenciados que até à entrada em vigor do presente Código se encontrem abrangidos pelo regime previsto no Decreto-Lei n.º 401/86, de 2 de Dezembro, e no Decreto Regulamentar n.º 75/86, de 30 de Dezembro, mantêm-se a aplicação do referido regime, com as taxas previstas no Decreto-Lei n.º 199/99, de 8 de Junho, em situação de grupo fechado.
 

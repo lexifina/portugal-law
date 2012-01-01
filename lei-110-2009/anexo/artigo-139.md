@@ -10,4 +10,10 @@ b) Os titulares de direitos sobre explorações agrícolas ou equiparadas, ainda
 
 c) Os trabalhadores que exerçam em Portugal, com carácter temporário, actividade por conta própria e que provem o seu enquadramento em regime de protecção social obrigatório de outro país.
 
+d) Os proprietários de embarcações de pesca local e costeira, que integrem o rol de tripulação e exerçam efectiva actividade profissional nestas embarcações;
+
+e) Os apanhadores de espécies marinhas e os pescadores apeados.
+
 2 - Para efeitos da exclusão prevista na alínea c) do número anterior apenas relevam os regimes de protecção social estrangeiros cujo âmbito material integre, pelo menos, as eventualidades de invalidez, velhice e morte, sendo ainda aplicável, com as devidas adequações, o disposto nos n.os 2 e 3 do artigo anterior.
+
+3 - Os sujeitos previstos nas alíneas d) e e) são excluídos do regime de trabalhador independente atendendo à especificidade de apuramento da base contributiva da sua actividade, estando sujeitos ao regime previsto nos artigos 97.º a 99.º
