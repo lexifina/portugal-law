@@ -12,7 +12,7 @@ b) Associações de municípios e freguesias;
 
 c) Fundações em que o Estado, as regiões autónomas ou as autarquias locais participem no património inicial.
 
-3 - São considerados gastos ou perdas do exercício, até ao limite de 1 % do volume de vendas ou de serviços prestados, em valor correspondente a 130 % para efeitos do IRC ou da categoria B do IRS, os donativos atribuídos às entidades de natureza privada, previstas no n.º 1.
+3 - São considerados gastos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou de serviços prestados, em valor correspondente a 130 % para efeitos do IRC ou da categoria B do IRS, os donativos atribuídos às entidades de natureza privada, previstas no n.º 1.
 
 4 - Os donativos previstos nos n.os 2 e 3 anteriores são considerados gastos em valor correspondente a 140 % do seu valor quando atribuídos ao abrigo de contratos plurianuais que fixem objectivos a atingir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos.
 

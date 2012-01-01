@@ -6,41 +6,11 @@
 
 ### Zona Franca da Madeira e Zona Franca da ilha de Santa Maria
 
-1 - As entidades instaladas nas Zonas Francas da Madeira e da ilha de Santa Maria beneficiam de isenção de IRS ou de IRC, até 31 de Dezembro de 2011, nos termos seguintes:
+1 - (Revogado.)
 
-a) As entidades instaladas na zona industrial respectiva, relativamente aos rendimentos derivados do exercício das actividades de natureza industrial, previstas no n.º 1 e qualificadas nos termos dos n.os 2 e 3 do artigo 4.º do Decreto Regulamentar n.º 53/82, de 23 de Agosto, e do Decreto Regulamentar n.º 54/82, da mesma data, e, bem assim, das actividades acessórias ou complementares daquela;
+2 - (Revogado.)
 
-b) As entidades devidamente licenciadas que prossigam a actividade da indústria de transportes marítimos, relativamente aos rendimentos derivados do exercício da actividade licenciada, exceptuados os rendimentos derivados do transporte de passageiros ou de carga entre portos nacionais;
-
-c) As instituições de crédito e as sociedades financeiras, relativamente aos rendimentos da respectiva actividade aí exercida, desde que neste âmbito:
-
-1) Não realizem quaisquer operações com residentes em território português ou com estabelecimento estável de um não residente aí situado, exceptuadas as entidades instaladas nas zonas francas que não sejam instituições de crédito, sociedades financeiras ou sucursais financeiras, que realizem operações próprias da sua actividade com residentes ou estabelecimentos estáveis de não residentes;
-
-2) Não realizem quaisquer operações com não residentes relativas a instrumentos financeiros derivados, excepto quando essas operações tenham como objectivo a cobertura de operações activas e passivas afectas à estrutura instalada nas zonas francas;
-
-3) Excluem-se da subalínea 1) as operações relativas a transferência de fundos para a sede das instituições de crédito, desde que sejam transferidos na mesma moeda em que foram tomados e remunerados ao preço médio verificado no mês anterior, na tomada de fundos da mesma natureza, e ainda na condição de, para as operações em que tenham sido tomados aqueles fundos, não terem sido realizadas quaisquer operações com instrumentos financeiros derivados, devendo as instituições de crédito identificar, para cada operação de transferência, as operações de tomada que lhe deram origem;
-
-d) As entidades que prossigam a actividade de gestão de fundos de investimento, relativamente aos rendimentos derivados da gestão de fundos, cujas unidades de participação sejam exclusivamente adquiridas, na emissão, por não residentes em território português, com excepção dos respectivos estabelecimentos estáveis aí situados, cujas aplicações sejam realizadas exclusivamente em activos financeiros emitidos por não residentes ou em outros activos situados fora do território português, sem prejuízo de o valor líquido global do fundo poder ser constituído, até um máximo de 10 %, por numerário, depósitos bancários, certificados de depósito ou aplicações em mercados interbancários;
-
-e) As entidades que prossigam a actividade de seguro ou de resseguro, nos ramos «Não vida», e que operem exclusivamente com riscos situados nas zonas francas ou fora do território português, relativamente aos rendimentos provenientes das respectivas actividades;
-
-f) As sociedades gestoras de fundos de pensões e as de seguro ou resseguro, no ramo «Vida», e que assumam compromissos exclusivamente com não residentes no território português, exceptuados os respectivos estabelecimentos estáveis nele situados, relativamente aos rendimentos provenientes das respectivas actividades;
-
-g) As sociedades gestoras de participações sociais, relativamente aos rendimentos, designadamente lucros e mais-valias, provenientes das participações sociais que detenham em sociedades não residentes no território português, exceptuadas as zonas francas, ou no de outros Estados membros da União Europeia;
-
-h) As entidades referidas na alínea a), relativamente aos rendimentos derivados das actividades exercidas na zona industrial não abrangidas por aquela alínea, e as restantes entidades não mencionadas nas alíneas anteriores, relativamente aos rendimentos derivados das suas actividades compreendidas no âmbito institucional da respectiva zona franca, desde que, em ambos os casos, respeitem a operações realizadas com entidades instaladas nas zonas francas ou com não residentes em território português, exceptuados os estabelecimentos estáveis aí situados e fora das zonas francas.
-
-2 - As entidades que participem no capital social de sociedades instaladas nas zonas francas e referidas nas alíneas a), b), g) e h) do número anterior gozam, com dispensa de qualquer formalidade, de isenção de IRS ou de IRC, até 31 de Dezembro de 2011, relativamente:
-
-a) Aos lucros colocados à sua disposição por essas sociedades, na proporção da soma das partes isenta e não isenta, mas derivada de rendimentos obtidos fora do território português, do resultado líquido do exercício correspondente, acrescido do valor líquido das variações patrimoniais não reflectidas nesse resultado, determinado para efeitos de IRC, neles se compreendendo, com as necessárias adaptações, o valor atribuído aos associados em resultado da partilha que, nos termos do artigo 75.º do Código do IRC, seja considerado como rendimento de aplicação de capitais, bem como o valor atribuído aos associados na amortização de partes sociais sem redução de capital;
-
-b) Aos rendimentos provenientes de juros e outras formas de remuneração de suprimentos, abonos ou adiantamentos de capital, por si feitos à sociedade, ou devidos pelo facto de não levantarem os lucros ou remunerações colocados à sua disposição.
-
-3 - Para efeitos da aplicação do disposto no número anterior, observa-se o seguinte:
-
-a) Se o montante dos lucros colocados à disposição dos sócios incluir a distribuição de reservas, considera-se, para efeitos do cálculo da parte isenta a que se refere a alínea a) do número anterior, que as reservas mais antigas são as primeiramente distribuídas;
-
-b) Não gozam da isenção prevista no número anterior as entidades residentes em território português, exceptuadas as que sejam sócias das sociedades referidas nas alíneas a) e b) do n.º 1.
+3 - (Revogado.)
 
 4 - São isentos de IRC os juros de empréstimos contraídos por entidades instaladas nas zonas francas, desde que o produto desses empréstimos se destine à realização de investimentos e ao normal funcionamento das mutuárias, no âmbito da zona franca, e desde que os mutuantes sejam não residentes no restante território português, exceptuados os respectivos estabelecimentos estáveis nele situados.
 

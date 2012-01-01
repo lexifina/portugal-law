@@ -6,6 +6,6 @@
 
 2 - Excluem-se do disposto no número anterior os rendimentos provenientes de obras escritas sem carácter literário, artístico ou científico, obras de arquitectura e obras publicitárias.
 
-3 - A importância a excluir do englobamento nos termos do n.º 1 não pode exceder (euro) 30 000.
+3 - A importância a excluir do englobamento nos termos do n.º 1 não pode exceder (euro) 20 000.
 
-4 - Quando os rendimentos a que se refere o n.º 1 excedam (euro) 60 000, a diferença entre os rendimentos líquidos do benefício e aquele montante é dividida por três, aplicando-se à totalidade dos rendimentos englobáveis a taxa correspondente à soma deste quociente, adicionado da importância referida no número anterior, com os restantes rendimentos produzidos no ano.
+4 - (Revogado.)

@@ -16,6 +16,6 @@
 
 5 - Se o pedido de isenção for apresentado para além do prazo referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
 
-6 - O regime referido nos n.os 1 e 2 vigora para os imóveis adquiridos ou concluídos até 31 de Dezembro de 2011.
+6 - O regime referido nos n.os 1 e 2 vigora para os imóveis adquiridos ou concluídos até 31 de Dezembro de 2012.
 
 7 - O presente regime aplica-se igualmente aos parques empresariais da Região Autónoma da Madeira, criados e regulados pelo Decreto Legislativo Regional n.º 28/2001/M, de 28 de Agosto, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 12/2002/M, de 17 de Julho.

@@ -2,17 +2,15 @@
 
 ### Prédios urbanos construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados a habitação
 
-1 - Ficam isentos de imposto municipal sobre imóveis, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados à habitação própria e permanente do sujeito passivo ou do seu agregado familiar, e que sejam efectivamente afectos a tal fim, no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 60 dias subsequentes àquele prazo.
+1 - Ficam isentos de imposto municipal sobre imóveis, nos termos do n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados à habitação própria e permanente do sujeito passivo ou do seu agregado familiar, cujo rendimento colectável, para efeitos de IRS, no ano anterior, não seja superior a (euro) 153 300, e que sejam efectivamente afectos a tal fim, no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 60 dias subsequentes àquele prazo.
 
 2 - A isenção a que se refere o número anterior abrange os arrumos, despensas e garagens, ainda que fisicamente separados, mas integrando o mesmo edifício ou conjunto habitacional, desde que utilizados exclusivamente pelo proprietário, inquilino ou seu agregado familiar, como complemento da habitação isenta.
 
-3 - Ficam igualmente isentos, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
+3 - Ficam igualmente isentos, nos termos do n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
 
 4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor patrimonial tributário correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta, para a determinação dos respectivos limite e período de isenção, a totalidade do valor patrimonial tributário do prédio após o aumento derivado de tais ampliações ou melhoramentos.
 
-5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é determinado em conformidade com a seguinte tabela:
-
-(ver documento original)
+5 - 5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é de três anos, aplicável a prédios urbanos cujo valor patrimonial tributário não exceda (euro) 125 000.
 
 6 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado.
 
@@ -22,7 +20,7 @@
 
 9 - Para efeitos do disposto no presente artigo, considera-se ter havido afectação dos prédios ou partes de prédios à habitação própria e permanente do sujeito passivo ou do seu agregado familiar se aí se fixar o respectivo domicílio fiscal.
 
-10 - O disposto nos n.os 1 e 3 não é aplicável quando os prédios ou parte de prédios tiverem sido construídos de novo, ampliados, melhorados ou adquiridos a título oneroso por entidades que tenham o domicílio em países, territórios ou regiões sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, excepto se o valor anual da renda contratada for igual ou superior ao montante correspondente a um 1/15 do valor patrimonial tributário do prédio arrendado.
+10 - O disposto nos n.os 1 e 3 não é aplicável quando os prédios ou parte de prédios tiverem sido construídos de novo, ampliados, melhorados ou adquiridos a título oneroso por entidades que tenham o domicílio em países, territórios ou regiões sujeito a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças.
 
 11 - A isenção prevista nos n.os 1 e 2 só pode ser reconhecida duas vezes ao mesmo sujeito passivo ou agregado familiar.
 
