@@ -18,7 +18,7 @@
 
 a) Seja qual for a situação da declaração a substituir, se ainda decorrer o prazo legal da respectiva entrega;
 
-b) Sem prejuízo da responsabilidade contra-ordenacional que ao caso couber, nos seguintes prazos:
+b) Sem prejuízo da responsabilidade contra-ordenacional que ao caso couber, quando desta declaração resultar imposto superior ou reembolso inferior ao anteriormente apurado, nos seguintes prazos:
 
 I) Nos 30 dias seguintes ao termo do prazo legal, seja qual for a situação da declaração a substituir;
 
@@ -26,7 +26,7 @@ II) Até ao termo do prazo legal de reclamação graciosa ou impugnação judici
 
 III) Até 60 dias antes do termo do prazo de caducidade, para a correcção de erros imputáveis aos sujeitos passivos de que resulte imposto superior ao anteriormente liquidado.
 
-4 - Para efeitos de aplicação do disposto na subalínea II) da alínea b) do número anterior, a declaração de substituição deve ser apresentada no serviço local da área do domicílio fiscal do sujeito passivo.
+4 - (Revogado).
 
 5 - Nos casos em que os erros ou omissões a corrigir decorram de divergência entre o contribuinte e o serviço na qualificação de actos, factos ou documentos invocados, em declaração de substituição apresentada no prazo legal para a reclamação graciosa, com relevância para a liquidação do imposto ou de fundada dúvida sobre a existência dos referidos actos, factos ou documentos, o chefe de finanças deve convolar a declaração de substituição em reclamação graciosa da liquidação, notificando da decisão o sujeito passivo.
 

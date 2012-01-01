@@ -2,13 +2,13 @@
 
 ### Publicidade da venda
 
-1 - Determinada a venda, procede-se à respectiva publicitação, mediante editais, anúncios e divulgação através da Internet.
+1 - Determinada a venda, procede-se à respectiva publicitação, mediante divulgação através da Internet.
 
-2 - Os editais são afixados, com a antecipação de 10 dias úteis, um na porta dos serviços do órgão da execução fiscal e outro na porta da sede da junta de freguesia em que os bens se encontrem.
+2 - O disposto no número anterior não prejudica que, por iniciativa do órgão da execução fiscal ou por sugestão dos interessados na venda, sejam utilizados outros meios de divulgação.
 
-3 - Tratando-se de prédios urbanos, afixa-se também um edital na porta de cada um deles, com a mesma antecipação.
+3 - (Revogado).
 
-4 - Os anúncios são publicados, com a antecipação referida no n.º 2, num dos jornais mais lidos no lugar da execução ou no da localização dos bens.
+4 - (Revogado).
 
 5 - Em todos os meios de publicitação da venda incluem-se, por forma que permita a sua fácil compreensão, as seguintes indicações:
 
@@ -34,4 +34,4 @@ h) Data, hora e local de abertura das propostas.
 
 8 - A publicitação através da Internet faz-se nos termos definidos em portaria do Ministro das Finanças.
 
-9 - Nas execuções por dívidas até 60 vezes a unidade de conta podem não se publicar anúncios para a venda, quando o órgão da execução fiscal o entender dispensável, atento o reduzido valor dos bens, procedendo-se, porém, sempre, à afixação de editais, à publicitação através da Internet e às notificações.
+9 - (Revogado).

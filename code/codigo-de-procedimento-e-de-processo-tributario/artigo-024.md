@@ -2,9 +2,9 @@
 
 ### Passagem de certidões e cumprimento de cartas precatórias. Prazos
 
-1 - As certidões de actos e termos do procedimento tributário e do processo judicial, bem como os comprovativos de cadastros ou outros elementos em arquivo na administração tributária, sempre que informatizados, são passados por via electrónica através da Internet ou mediante impressão nos serviços da administração tributária, e os pedidos respectivos formulados por transmissão electrónica de dados, nos termos previstos por portaria do Ministro das Finanças.
+1 - As certidões de actos e termos do procedimento tributário e do processo judicial, bem como os comprovativos de cadastros ou outros elementos em arquivo na administração tributária, sempre que informatizados, são passados, no prazo máximo de três dias, por via electrónica através da Internet ou mediante impressão nos serviços da administração tributária.
 
-2 - Nos procedimentos e processos não informatizados, as certidões e termos serão obrigatoriamente passados mediante a apresentação de pedido escrito ou oral, no prazo máximo de 10 dias.
+2 - Nos procedimentos e processos não informatizados, as certidões e termos são passados mediante a apresentação de pedido escrito ou oral, no prazo máximo de cinco dias.
 
 3 - As certidões poderão ser passadas no prazo de 48 horas caso a administração tributária disponha dos elementos necessários e o contribuinte invoque fundamentadamente urgência na sua obtenção.
 
@@ -13,3 +13,5 @@
 5 - O pedido a que se refere o número anterior pode ser formulado no requerimento inicial, competindo aos serviços, no momento da prorrogação, a verificação de que não houve alteração dos elementos anteriormente certificados.
 
 6 - As cartas precatórias serão cumpridas nos 60 dias posteriores ao da sua entrada nos serviços deprecados.
+
+7 - Os documentos emitidos nos termos do n.º 1 são autenticados com um código de identificação, permitindo-se a consulta do original electrónico disponibilizado no serviço electrónico da Internet da administração tributária pela entidade interessada, considerando-se inexistente o documento enquanto não for efectuada a confirmação da conformidade do seu conteúdo em papel com o original electrónico.

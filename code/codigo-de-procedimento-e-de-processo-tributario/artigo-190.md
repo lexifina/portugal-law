@@ -4,7 +4,7 @@
 
 1 - A citação deve conter os elementos previstos nas alíneas a), c), d) e e) do n.º 1 do artigo 163.º do presente Código ou, em alternativa, ser acompanhada de cópia do título executivo.
 
-2 - A citação é sempre acompanhada da nota indicativa do prazo para oposição, para pagamento em prestações ou dação em pagamento, nos termos do presente título.
+2 - A citação é sempre acompanhada da nota indicativa do prazo para oposição, ou para dação em pagamento, nos termos do presente título, bem como da indicação de que, nos casos referidos no artigo 169.º e no artigo 52.º da lei geral tributária, a suspensão da execução e a regularização da situação tributária dependem da efectiva existência de garantia idónea, cujo valor deve constar da citação, ou em alternativa da obtenção de autorização da sua dispensa.
 
 3 - Quando a citação for por mandado, entregar-se-á ao executado uma nota nos termos do número anterior, de tudo se lavrando certidão, que será assinada pelo citando e pelo funcionário encarregado da diligência.
 

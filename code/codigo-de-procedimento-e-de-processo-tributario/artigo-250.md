@@ -6,9 +6,7 @@
 
 a) Os imóveis urbanos, inscritos ou omissos na matriz, pelo valor patrimonial tributário apurado nos termos do Código do Imposto Municipal sobre Imóveis (CIMI);
 
-b) Os imóveis rústicos inscritos ou omissos na matriz, pelo valor que seja fixado pelo órgão da execução fiscal, podendo a fixação ser precedida de parecer técnico do presidente da comissão de avaliação ou de um perito avaliador designado nos termos da lei, não podendo ser inferior ao valor patrimonial;
-
-c) Os móveis, pelo valor que lhes tenha sido atribuído no auto de penhora, salvo se outro for apurado pelo órgão da execução fiscal, podendo esse apuramento ser precedido de parecer técnico solicitado a perito com conhecimentos técnicos especializados.
+b) Os imóveis rústicos, pelo valor patrimonial actualizado com base em factores de correcção monetária, nos termos do disposto na alínea c) do n.º 1 do artigo 27.º do Decreto-Lei n.º 287/2003, de 12 de Novembro; c) Os móveis, pelo valor que lhes tenha sido atribuído no auto de penhora, salvo se outro for apurado pelo órgão da execução fiscal, podendo esse apuramento ser precedido de parecer técnico solicitado a perito com conhecimentos técnicos especializados.
 
 2 - O órgão da execução fiscal promove oficiosamente a avaliação dos prédios urbanos ainda não avaliados nos termos do CIMI, que estará concluída no prazo máximo de 20 dias e será efectuada por verificação directa, sem necessidade dos documentos previstos no artigo 37.º do respectivo Código.
 

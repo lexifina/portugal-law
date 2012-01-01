@@ -12,7 +12,7 @@
 
 3 - Inexistindo propostas nos termos do número anterior, a venda passa imediatamente para a modalidade de proposta em carta fechada, que decorre durante 15 a 20 dias, baixando o valor base referido no número anterior para 50 % do determinado nos termos do artigo 250.º
 
-4 - Não sendo apresentadas propostas nos termos fixados nos números anteriores, é aberto de novo leilão electrónico, que decorre durante 20 dias, adjudicando-se o bem à proposta de valor mais elevado.
+4 - Não sendo apresentadas propostas nos termos fixados nos números anteriores, é aberto de novo leilão electrónico, que decorre durante 15 dias, adjudicando-se o bem à proposta de valor mais elevado.
 
 5 - O dirigente máximo do serviço pode determinar a venda em outra modalidade prevista no Código de Processo Civil.
 

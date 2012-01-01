@@ -2,7 +2,7 @@
 
 ### Inexistência de propostas
 
-Na venda por arrematação ou, no caso da venda por proposta em carta fechada, por não haver propostas que satisfaçam os requisitos do artigo 250.º, o órgão da execução fiscal poderá adquirir os bens por parte da Fazenda Pública com observância do seguinte:
+Quando não houver propostas que satisfaçam o valor base do artigo 248.º, o órgão da execução fiscal pode adquirir os bens para a Fazenda Pública, com observância do seguinte:
 
 a) Até ao valor da dívida exequenda e do acrescido, salvo se o valor real dos bens for inferior ao total da dívida, caso em que o preço não deverá exceder dois terços desse valor;
 

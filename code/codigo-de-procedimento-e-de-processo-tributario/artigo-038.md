@@ -21,3 +21,7 @@
 9 - As notificações referidas no presente artigo podem ser efectuadas por transmissão electrónica de dados, que equivalem, consoante os casos, à remessa por via postal registada ou por via postal registada com aviso de recepção.
 
 10 - (Revogado).
+
+11 - Quando se refiram a actos praticados por meios electrónicos pelo dirigente máximo do serviço, as notificações efectuadas por transmissão electrónica de dados são autenticadas com assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
+
+12 - A administração fiscal disponibiliza no seu serviço na Internet os documentos electrónicos de notificação e citação a cada sujeito passivo.
