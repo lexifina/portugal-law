@@ -16,4 +16,4 @@ e) A livre apreciação dos factos e a livre determinação das diligências de 
 
 f) A cooperação e boa fé processual, aplicável aos árbitros, às partes e aos mandatários;
 
-g) A publicidade, assegurando-se a divulgação e publicação das decisões arbitrais, nos termos do artigo 185.º-B do Código de Processo nos Tribunais Administrativos, devidamente expurgadas de quaisquer elementos suscetíveis de identificar a pessoa ou pessoas a que dizem respeito.
+g) A publicidade, assegurando-se a divulgação das decisões arbitrais devidamente expurgadas de quaisquer elementos susceptíveis de identificar a pessoa ou pessoas a que dizem respeito.

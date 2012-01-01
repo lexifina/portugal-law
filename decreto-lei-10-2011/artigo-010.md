@@ -33,5 +33,3 @@ f) O comprovativo do pagamento da taxa de arbitragem inicial, nos casos em que o
 g) A intenção de designar árbitro nos termos da alínea b) do n.º 2 do artigo 6.º
 
 3 - O presidente do Centro de Arbitragem Administrativa deve, no prazo de dois dias a contar da recepção do pedido de constituição de tribunal arbitral, dar conhecimento do pedido, por via electrónica, à administração tributária.
-
-4 - Todas as notificações são efetuadas por via eletrónica através do sistema de gestão processual do Centro de Arbitragem Administrativa, devendo este certificar a data da elaboração da notificação, que se presume realizada no 3.º dia posterior ao da elaboração, ou no 1.º dia útil seguinte quando este não o seja, nos termos da lei processual civil, com as devidas adaptações.
