@@ -9,3 +9,5 @@
 3 - Na fixação da percentagem do valor do terreno de implantação têm-se em consideração as características referidas no n.º 3 do artigo 42.º
 
 4 - O valor da área adjacente à construção é calculado nos termos do n.º 4 do artigo 40.º
+
+5 - Quando o documento comprovativo de viabilidade construtiva a que se refere o artigo 37.º apenas faça referência aos índices do PDM, devem os peritos avaliadores estimar, fundamentadamente, a respectiva área de construção, tendo em consideração, designadamente, as áreas médias de construção da zona envolvente.

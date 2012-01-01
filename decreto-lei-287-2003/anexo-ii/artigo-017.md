@@ -26,7 +26,7 @@ d) Aquisição de outros prédios urbanos e outras aquisições onerosas - 6,5%.
 
 3 - Quando, relativamente às aquisições a que se referem as alíneas a) e b) do n.º 1, o valor sobre que incide o imposto for superior a (euro) 92 407, é dividido em duas partes, sendo uma igual ao limite do maior dos escalões que nela couber, à qual se aplica a taxa média correspondente a este escalão, e outra, igual ao excedente, a que se aplica a taxa marginal respeitante ao escalão imediatamente superior.
 
-4 - A taxa é sempre de 15%, não se aplicando qualquer isenção ou redução, sempre que o adquirente tenha a residência ou sede em país, território ou região sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, sem prejuízo da isenção prevista no artigo 7.º do Decreto-Lei n.º 540/76, de 9 de Julho.
+4 - A taxa é sempre de 10 %, não se aplicando qualquer isenção ou redução sempre que o adquirente tenha a residência ou sede em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, sem prejuízo da isenção prevista no artigo 7.º do Decreto-Lei n.º 540/76, de 9 de Julho.
 
 5 - Nos casos previstos nas alíneas a) e b) do n.º 3 do artigo 2.º, a taxa aplicável aos montantes referidos na regra 18.ª do n.º 4 do artigo 12.º é a que corresponder à totalidade do preço acordado no contrato, não lhe sendo aplicável a taxa referida na alínea a) do n.º 1.
 

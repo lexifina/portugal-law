@@ -43,3 +43,7 @@ e) À inscrição do valor patrimonial tributário definitivo determinado nos te
 4 - As inscrições ou actualizações matriciais devem referir o ano em que tenham sido efectuadas, bem como os elementos que as justifiquem.
 
 5 - Sempre que haja lugar à junção dos elementos referidos nos n.os 2 e 3 do artigo 37.º, têm-se por não entregues as declarações que não sejam por eles acompanhadas.
+
+6 - Sempre que haja lugar à junção dos elementos referidos nos n.os 2 e 3 do artigo 37.º, têm-se por não entregues as declarações que não sejam por eles acompanhadas.
+
+7 - A Direcção-Geral dos Impostos procede ao pré-preenchimento da declaração a que se refere o n.º 1, quanto disponha dos elementos previstos no artigo 128.º, sem prejuízo da validação a efectuar pelo sujeito passivo.

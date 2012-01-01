@@ -20,4 +20,4 @@
 
 5 - Na avaliação de prédios urbanos é aplicável o disposto no artigo 35.º
 
-6 - Quando as telas finais e os projectos de loteamento referidos nos n.os 2 e 3 sejam entregues na câmara municipal em suporte digital e aí devidamente aprovadas, tal facto deve constar da declaração a que se refere o n.º 1, ficando o sujeito passivo dispensado de proceder à sua entrega no serviço de finanças.
+6 - Quando as telas finais e os projectos de loteamento referidos nos n.os 2 e 3 sejam entregues na câmara municipal e aí devidamente aprovadas, e caso esta entidade os envie ao serviço de finanças, fica o sujeito passivo dispensado de proceder à sua entrega.
