@@ -11,3 +11,5 @@
 2 - Sem prejuízo do andamento do processo, pode efectuar-se qualquer pagamento por conta do débito, desde que a entrega não seja inferior a 3 unidades de conta, observando-se, neste caso, o disposto nos n.os 2 a 6 do artigo 262.º
 
 3 - Na execução fiscal são admitidos sem excepção os meios de pagamento previstos na fase do pagamento voluntário das obrigações tributárias.
+
+4 - Sem prejuízo do disposto no n.º 2, o pagamento de um valor mínimo de 20 % do valor da dívida instaurada suspende o procedimento de venda desse processo de execução fiscal, por um período de 15 dias.

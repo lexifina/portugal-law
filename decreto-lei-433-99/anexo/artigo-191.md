@@ -13,3 +13,5 @@
 5 - As citações efectuadas nos termos do número anterior consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
 
 6 - Se a citação for efectuada através de transmissão electrónica de dados e esta for equivalente à efectuada através de carta registada com aviso de recepção, o seu destinatário considera-se citado caso se confirme o acesso à caixa postal electrónica.
+
+7 - As citações efectuadas por transmissão electrónica de dados são sempre autenticadas com a assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, da entidade competente.

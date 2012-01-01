@@ -14,4 +14,4 @@
 
 4 - Para efeitos do n.º 2, os funcionários do órgão da execução fiscal gozam de prioridade de atendimento na conservatória em termos idênticos aos dos advogados ou solicitadores.
 
-5 - O penhor será constituído por auto lavrado pelo funcionário competente na presença do executado ou, na ausência deste, perante funcionário com poderes de autoridade pública, notificando-se, nesse caso, o devedor nos termos previstos para a citação.
+5 - O penhor constitui-se por via electrónica ou por auto e é notificado ao devedor nos termos previstos para a citação.

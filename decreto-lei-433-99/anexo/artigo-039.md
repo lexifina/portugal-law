@@ -20,7 +20,7 @@
 
 9 - As notificações efectuadas por transmissão electrónica de dados consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
 
-10 - Em caso de ausência de acesso à caixa postal electrónica, deve ser efectuada nova transmissão electrónica de dados, no prazo de 15 dias seguintes ao respectivo conhecimento por parte do serviço que tenha procedido à emissão da notificação, aplicando-se com as necessárias adaptações a presunção prevista no n.º 6, caso, no prazo de 10 dias, se verifique de novo o não acesso à caixa postal electrónica.
+10 - Em caso de ausência de acesso à caixa postal electrónica, a notificação considera-se efectuada no 25.º dia posterior ao seu envio, salvo nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º ou que este demonstre ter sido impossível essa comunicação.
 
 11 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
 

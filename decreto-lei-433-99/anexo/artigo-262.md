@@ -14,10 +14,6 @@
 
 6 - Se a quantia não chegar para pagar um título de cobrança ou se, pago um por inteiro, sobrar qualquer importância, dar-se-á pagamento por conta ao documento mais antigo; se forem da mesma data, imputar-se-á no documento de menor valor e, em igualdade de circunstâncias, em qualquer deles.
 
-7 - No pagamento por conta de um documento de cobrança observar-se-á o seguinte:
-
-a) No verso da certidão de dívida correspondente averbar-se-á a importância paga, sendo a verba datada e assinada pelo funcionário competente, que passará a respectiva guia, onde mencionará a identificação do documento de cobrança, sua proveniência e ano a que respeita;
-
-b) O órgão da execução fiscal passará recibo.
+7 - (Revogado).
 
 8 - Os juros de mora são devidos relativamente à parte que for paga até ao mês, inclusive, em que se tiver concluído a venda dos bens ou, se a penhora for de dinheiro, até ao mês em que esta se efectuou.

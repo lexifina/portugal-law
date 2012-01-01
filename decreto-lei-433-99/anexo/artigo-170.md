@@ -2,7 +2,7 @@
 
 ### Dispensa da prestação de garantia
 
-1 - Quando a garantia possa ser dispensada nos termos previstos na lei, deve o executado requerer a dispensa ao órgão da execução fiscal no prazo referido no n.º 2 do artigo anterior.
+1 - Quando a garantia possa ser dispensada nos termos previstos na lei, deve o executado requerer a dispensa ao órgão da execução fiscal no prazo de 15 dias a contar da apresentação de meio de reacção previsto no artigo anterior.
 
 2 - Caso o fundamento da dispensa da garantia seja superveniente ao termo daquele prazo, deve a dispensa ser requerida no prazo de 30 dias após a sua ocorrência.
 

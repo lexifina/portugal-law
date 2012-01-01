@@ -12,9 +12,9 @@ c) Das vendas de bens móveis, efectuadas no mesmo dia e no mesmo processo, lavr
 
 d) Nas vendas de bens imóveis lavrar-se-á um auto por cada prédio;
 
-e) O funcionário competente passa guia para o adquirente depositar a totalidade do preço à ordem do órgão da execução fiscal, no prazo de 15 dias a contar do fim do prazo para entrega de propostas, sob pena das sanções previstas na lei do processo civil;
+e) O funcionário competente passa guia para o adquirente depositar a totalidade do preço à ordem do órgão da execução fiscal, no prazo de 15 dias a contar da decisão de adjudicação, sob pena das sanções previstas legalmente;
 
-f) Nas aquisições de valor superior a 500 vezes a unidade de conta, mediante requerimento fundamentado do adquirente, entregue no prazo máximo de cinco dias a contar do fim do prazo para entrega de propostas, pode ser autorizado o depósito, no prazo referido na alínea anterior, de apenas parte do preço, não inferior a um terço, obrigando-se à entrega da parte restante no prazo máximo de oito meses;
+f) Nas aquisições de valor superior a 500 vezes a unidade de conta, mediante requerimento fundamentado do adquirente, entregue no prazo máximo de cinco dias a contar da decisão de adjudicação, pode ser autorizado o depósito, no prazo referido na alínea anterior, de apenas parte do preço, não inferior a um terço, obrigando-se à entrega da parte restante no prazo máximo de oito meses;
 
 g) Efectuado o depósito, juntar-se-á ao processo um duplicado da guia;
 
@@ -25,3 +25,5 @@ i) O Estado, os institutos públicos e as instituições de segurança social n�
 2 - O adquirente pode, com base no título de transmissão, requerer ao órgão de execução fiscal, contra o detentor e no próprio processo, a entrega dos bens.
 
 3 - O órgão de execução fiscal pode solicitar o auxílio das autoridades policiais para a entrega do bem adjudicado ao adquirente.
+
+4 - Sem prejuízo de outras disposições legais, o não pagamento do preço devido, no prazo determinado legalmente, impede o adjudicatário faltoso de apresentar qualquer proposta em qualquer venda em execução fiscal, durante um período de dois anos.

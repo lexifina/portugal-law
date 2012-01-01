@@ -1,29 +1,29 @@
 # Artigo 63.º
 
-### Aplicação das normas antiabuso
+### Aplicação de disposição antiabuso
 
-1 - A liquidação dos tributos com base em quaisquer disposições antiabuso nos termos dos códigos e outras leis tributárias depende da abertura para o efeito de procedimento próprio.
+1 - A liquidação de tributos com base na disposição antiabuso constante do n.º 2 do artigo 38.º da lei geral tributária segue os termos previstos neste artigo.
 
-2 - Consideram-se disposições antiabuso, para os efeitos do presente Código, quaisquer normas legais que consagrem a ineficácia perante a administração tributária de negócios ou actos jurídicos celebrados ou praticados com manifesto abuso das formas jurídicas de que resulte a eliminação ou redução dos tributos que de outro modo seriam devidos.
+2 - (Revogado).
 
-3 - O procedimento referido no n.º 1 pode ser aberto no prazo de três anos a contar do início do ano civil seguinte ao da realização do negócio jurídico objecto das disposições anti-abuso.
+3 - A fundamentação do projecto e da decisão de aplicação da disposição antiabuso referida no n.º 1 contém necessariamente:
 
-4 - A aplicação das disposições antiabuso depende da audição do contribuinte, nos termos da lei.
+a) A descrição do negócio jurídico celebrado ou do acto jurídico realizado e dos negócios ou actos de idêntico fim económico, bem como a indicação das normas de incidência que se lhes aplicam;
 
-5 - O direito de audição será exercido no prazo de 30 dias após a notificação, por carta registada, do contribuinte, para esse efeito.
+b) A demonstração de que a celebração do negócio jurídico ou prática do acto jurídico foi essencial ou principalmente dirigida à redução, eliminação ou diferimento temporal de impostos que seriam devidos em caso de negócio ou acto com idêntico fim económico, ou à obtenção de vantagens fiscais.
 
-6 - No prazo referido no número anterior, poderá o contribuinte apresentar as provas que entender pertinentes.
+4 - A aplicação da disposição antiabuso referida no n.º 1 depende da audição prévia do contribuinte, nos termos da lei.
 
-7 - A aplicação das disposições antiabuso será prévia e obrigatoriamente autorizada, após a observância do disposto nos números anteriores, pelo dirigente máximo do serviço ou pelo funcionário em quem ele tiver delegado essa competência.
+5 - O direito de audição prévia é exercido no prazo de 30 dias a contar da notificação do projecto de aplicação da disposição antiabuso ao contribuinte.
 
-8 - As disposições não serão aplicáveis se o contribuinte tiver solicitado à administração tributária informação vinculativa sobre os factos que a tiverem fundamentado e a administração tributária não responder no prazo de seis meses.
+6 - No prazo referido no número anterior, poderá o contribuinte apresentar as provas que entender
 
-9 - Salvo quando de outro modo resulte da lei, a fundamentação da decisão referida no n.º 7 conterá:
+pertinentes.
 
-a) A descrição do negócio jurídico celebrado ou do acto jurídico realizado e da sua verdadeira substância económica;
+7 - A aplicação da disposição antiabuso referida no n.º 1 é prévia e obrigatoriamente autorizada, após a audição prévia do contribuinte prevista no n.º 5, pelo dirigente máximo do serviço ou pelo funcionário em quem ele tiver delegado essa competência.
 
-b) A indicação dos elementos que demonstrem que a celebração do negócio ou prática do acto tiveram como fim único ou determinante evitar a tributação que seria devida em caso de negócio ou acto de substância económica equivalente;
+8 - A disposição antiabuso referida no n.º 1 não é aplicável se o contribuinte tiver solicitado à administração tributária informação vinculativa sobre os factos que a tiverem fundamentado e a administração tributária não responder no prazo de 150 dias.
 
-c) A descrição dos negócios ou actos de substância económica equivalente aos efectivamente celebrados ou praticados e das normas de incidência que se lhes aplicam.
+9 - (Revogado).
 
-10 - A autorização referida no n.º 7 do presente artigo é passível de recurso contencioso autónomo.
+10 - (Revogado).
