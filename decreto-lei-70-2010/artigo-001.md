@@ -20,7 +20,7 @@ d) Subsídios sociais no âmbito da parentalidade.
 
 a) (Eliminada);
 
-b) Comparticipação de medicamentos e pagamento de taxas moderadoras;
+b) b) Comparticipação de medicamentos;
 
 c) Pagamento das prestações de alimentos, no âmbito do Fundo de Garantia de Alimentos a Menores;
 
