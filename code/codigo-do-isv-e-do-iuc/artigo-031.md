@@ -2,7 +2,7 @@
 
 ### Matrícula provisória
 
-1 - Sem prejuízo do disposto em convenções internacionais ou das regras aplicáveis no âmbito de relações diplomáticas e consulares, os veículos matriculados em série provisória de um Estado membro da União Europeia só podem beneficiar do regime de admissão temporária pelo período máximo de 90 dias, a contar da respectiva entrada em território nacional, devendo os interessados provar a qualidade de residente noutro Estado membro e requerer na alfândega a emissão de guia de circulação.
+1 - Sem prejuízo do disposto em convenções internacionais ou das regras aplicáveis no âmbito de relações diplomáticas e consulares, os veículos matriculados em série provisória de um Estado membro da União Europeia, só podem beneficiar do regime de admissão temporária pelo período máximo de 90 dias, a contar da respectiva entrada em território nacional, na condição de serem admitidos e conduzidos pelos seus proprietários ou legítimos detentores, pessoas não residentes em território nacional e requererem na alfândega a emissão de guia de circulação.
 
 2 - Os veículos portadores de matrícula de série provisória apenas podem circular em território nacional enquanto se mantiver a respectiva validade, considerando-se de outro modo haver introdução ilegal no consumo.
 
