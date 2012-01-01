@@ -11,3 +11,5 @@
 2 - As causas de suspensão ou interrupção da prescrição aproveitam igualmente ao devedor principal e aos responsáveis solidários ou subsidiários.
 
 3 - A interrupção da prescrição relativamente ao devedor principal não produz efeitos quanto ao responsável subsidiário se a citação deste, em processo de execução fiscal, for efectuada após o 5.º ano posterior ao da liquidação.
+
+4 - No caso de dívidas tributárias em que o respectivo direito à liquidação esteja abrangido pelo disposto no n.º 7 do artigo 45.º, o prazo referido no n.º 1 é alargado para 15 anos.

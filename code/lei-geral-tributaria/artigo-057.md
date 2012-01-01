@@ -2,9 +2,9 @@
 
 ### Prazos
 
-1 - O procedimento tributário deve ser concluído no prazo de seis meses, devendo a administração tributária e os contribuintes abster-se da prática de actos inúteis ou dilatórios.
+1 - O procedimento tributário deve ser concluído no prazo de quatro meses, devendo a administração tributária e os contribuintes abster-se da prática de actos inúteis ou dilatórios.
 
-2 - Os actos do procedimento tributário devem ser praticados no prazo de 10 dias, salvo disposição legal em sentido contrário.
+2 - Os actos do procedimento tributário devem ser praticados no prazo de oito dias, salvo disposição legal em sentido contrário.
 
 3 - No procedimento tributário, os prazos são contínuos e contam-se nos termos do Código Civil.
 
