@@ -1,5 +1,5 @@
 # Artigo 60.º
 
-### Negociação
+### Negociação e hasta pública
 
-O arrendamento é realizado preferencialmente por negociação, com publicação prévia de anúncio, à qual se aplica, com as necessárias adaptações, o disposto nos artigos 96.º e seguintes.
+O arrendamento é realizado preferencialmente por hasta pública ou por negociação, com publicação prévia de anúncio, sendo aplicáveis, com as necessárias adaptações, os procedimentos previstos nos artigos 86.º a 95.º e nos artigos 96.º a 104.º, respectivamente.
