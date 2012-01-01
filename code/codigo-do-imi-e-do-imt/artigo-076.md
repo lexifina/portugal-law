@@ -10,7 +10,7 @@
 
 2 - A segunda avaliação é realizada com observância do disposto nos artigos 38.º e seguintes, por uma comissão composta por um perito regional designado pelo director de finanças em função da sua posição na lista organizada por ordem alfabética para esse efeito, que preside à comissão, um vogal nomeado pela respectiva câmara municipal e o sujeito passivo ou seu representante.
 
-3 - Pelo pedido da segunda avaliação é devida uma taxa a fixar entre 5 e 20 unidades de conta, tendo em conta a complexidade da matéria, cujo montante é devolvido se o valor patrimonial se considerar distorcido.
+3 - Pelo pedido da segunda avaliação é devida pelo requerente uma taxa inicial, a fixar entre 7,5 e 30 unidades de conta, tendo em conta a complexidade da matéria.
 
 4 - Não obstante o disposto no n.º 2, desde que o valor patrimonial tributário, determinado nos termos dos artigos 38.º e seguintes, se apresente distorcido relativamente ao valor normal de mercado, a comissão efectua a avaliação em causa e fixa novo valor patrimonial tributário que releva apenas para efeitos de IRS, IRC e IMT, devidamente fundamentada, de acordo com as regras constantes do n.º 2 do artigo 46.º, quando se trate de edificações, ou por aplicação do método comparativo dos valores de mercado no caso dos terrenos para construção e dos terrenos previstos no n.º 3 do mesmo artigo.
 
@@ -36,6 +36,6 @@ c) Na falta de comparência do vogal nomeado pela câmara municipal, o chefe de 
 
 12 - É aplicável aos vogais designados pelas câmaras municipais, o disposto nos artigos 67.º e 69.º
 
-13 - No caso dos prédios em compropriedade, sempre que haja mais do que um pedido de segunda avaliação, devem os comproprietários nomear um só representante para integrar a comissão referida no n.º 2.
+13 - No caso dos prédios em compropriedade, sempre que haja mais do que um pedido de segunda avaliação, devem os comproprietários nomear um só representante para integrar a comissão referida no n.º 2, aplicando-se igualmente esta regra em caso de transmissões sucessivas no decurso de uma avaliação, quando exista mais do que um alienante ou adquirente a reclamar.
 
 14 - A remuneração do vogal é da responsabilidade da câmara municipal e do sujeito passivo no caso do seu representante.

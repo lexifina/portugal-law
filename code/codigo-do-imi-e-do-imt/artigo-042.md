@@ -2,7 +2,7 @@
 
 ### Coeficiente de localização
 
-1 - O coeficiente de localização (CL) varia entre 0,4 e 2, podendo, em situações de habitação dispersa em meio rural, ser reduzido para 0,35 e em zonas de elevado valor de mercado imobiliário ser elevado até 3.
+1 - O coeficiente de localização (Cl) varia entre 0,4 e 3,5, podendo, em situações de habitação dispersa em meio rural, ser reduzido para 0,35.
 
 2 - Os coeficientes a aplicar em cada zona homogénea do município podem variar conforme se trate de edifícios destinados a habitação, comércio, indústria ou serviços.
 
