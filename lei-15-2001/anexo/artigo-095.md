@@ -2,7 +2,7 @@
 
 ### Fraude no transporte de mercadorias em regime suspensivo
 
-1 - Quem, no decurso do transporte de mercadorias expedidas em regime suspensivo:
+1 - Quem, por qualquer meio, no decurso do transporte de mercadorias em regime suspensivo:
 
 a) Subtrair ou substituir mercadorias transportadas em tal regime;
 

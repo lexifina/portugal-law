@@ -6,7 +6,7 @@
 
 ### Recusa de entrega, exibição ou apresentação de escrita e de documentos fiscalmente relevantes
 
-1 - Quem dolosamente recusar a entrega, a exibição ou apresentação de escrita, de contabilidade ou de documentos fiscalmente relevantes a funcionário competente, quando os factos não constituam fraude fiscal, é punido com coima de (euro) 250 a (euro) 50000.
+1 - Quem dolosamente recusar a entrega, a exibição ou apresentação de escrita, de contabilidade ou de documentos fiscalmente relevantes a funcionário competente, quando os factos não constituam fraude fiscal, é punido com coima de (euro) 375 a (euro) 75 000.
 
 2 - Quando a administração tributária deva fixar previamente prazo para a entrega, exibição ou apresentação de escrita, de contabilidade e de documentos fiscalmente relevantes a funcionário competente, a infracção só se considera consumada no termo desse prazo.
 

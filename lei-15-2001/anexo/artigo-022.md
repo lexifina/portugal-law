@@ -6,7 +6,7 @@
 
 a) A ilicitude do facto e a culpa do agente não forem muito graves;
 
-b) A prestação tributária e demais acréscimos legais tiverem sido pagos, ou tiverem sido restituídos os benefícios injustificadamente obtidos;
+b) A prestação tributária e demais acréscimos legais tiverem sido pagos, ou tiverem sido restituídos os benefícios injustificadamente obtidos, até à dedução da acusação;
 
 c) À dispensa da pena se não opuserem razões de prevenção.
 

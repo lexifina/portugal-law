@@ -4,7 +4,7 @@
 
 1 - A não entrega, total ou parcial, pelo período até 90 dias, ou por período superior, desde que os factos não constituam crime, ao credor tributário, da prestação tributária deduzida nos termos da lei é punível com coima variável entre o valor da prestação em falta e o seu dobro, sem que possa ultrapassar o limite máximo abstractamente estabelecido.
 
-2 - Se a conduta prevista no número anterior for imputável a título de negligência, e ainda que o período da não entrega ultrapasse os 90 dias, será aplicável coima variável entre 10% e metade do imposto em falta, sem que possa ultrapassar o limite máximo abstractamente estabelecido.
+2 - Se a conduta prevista no número anterior for imputável a título de negligência, e ainda que o período da não entrega ultrapasse os 90 dias, será aplicável coima variável entre 15 % e metade do imposto em falta, sem que possa ultrapassar o limite máximo abstractamente estabelecido.
 
 3 - Para os efeitos do disposto nos números anteriores considera-se também prestação tributária a que foi deduzida por conta daquela, bem como aquela que, tendo sido recebida, haja obrigação legal de liquidar nos casos em que a lei o preveja.
 
@@ -24,4 +24,4 @@ e) A falta de liquidação, do pagamento ou da entrega nos cofres do Estado do i
 
 f) A falta de pagamento, total ou parcial, da prestação tributária devida a título de pagamento por conta do imposto devido a final, incluindo as situações de pagamento especial por conta.
 
-6 - O pagamento do imposto por forma diferente da legalmente prevista é punível com coima de (euro) 50 a (euro) 1250.
+6 - O pagamento do imposto por forma diferente da legalmente prevista é punível com coima de (euro) 75 a (euro) 2000.

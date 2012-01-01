@@ -2,11 +2,11 @@
 
 ### Direito à redução das coimas
 
-1 - As coimas pagas a pedido do agente, apresentado antes da instauração do processo contra-ordenacional, são reduzidas nos termos seguintes:
+1 - As coimas pagas a pedido do agente são reduzidas nos termos seguintes:
 
-a) Se o pedido de pagamento for apresentado nos 30 dias posteriores ao da prática da infracção e não tiver sido levantado auto de notícia, recebida participação ou denúncia ou iniciado procedimento de inspecção tributária, para 25% do montante mínimo legal;
+a) Se o pedido de pagamento for apresentado nos 30 dias posteriores ao da prática da infracção e não tiver sido levantado auto de notícia, recebida participação ou denúncia ou iniciado procedimento de inspecção tributária, para 12,5 % do montante mínimo legal;
 
-b) Se o pedido de pagamento for apresentado depois do prazo referido na alínea anterior, sem que tenha sido levantado auto de notícia, recebida participação ou iniciado procedimento de inspecção tributária, para 50% do montante mínimo legal;
+b) Se o pedido de pagamento for apresentado depois do prazo referido na alínea anterior, sem que tenha sido levantado auto de notícia, recebida participação ou iniciado procedimento de inspecção tributária, para 25 % do montante mínimo legal;
 
 c) Se o pedido de pagamento for apresentado até ao termo do procedimento de inspecção tributária e a infracção for meramente negligente, para 75% do montante mínimo legal.
 

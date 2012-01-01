@@ -2,7 +2,7 @@
 
 ### Introdução fraudulenta no consumo
 
-1 - Quem, com intenção de se subtrair ao pagamento dos impostos especiais sobre o álcool e as bebidas alcoólicas, produtos petrolíferos ou tabaco:
+1 - Quem, com intenção de se subtrair ao pagamento dos impostos especiais sobre o álcool e as bebidas alcoólicas, produtos petrolíferos e energéticos ou tabaco:
 
 a) Introduzir no consumo produtos tributáveis sem o cumprimento das formalidades legalmente exigidas;
 
@@ -18,4 +18,8 @@ e) Introduzir no consumo, detiver ou consumir produtos tributáveis destinados a
 
 000.
 
-2 - A tentativa é punível.
+f) Obtiver, mediante falsas declarações ou qualquer outro meio fraudulento, um benefício ou vantagem fiscal, é punido com pena de prisão até 3 anos ou com pena de multa até 360 dias, se o valor da prestação tributária em falta for superior a (euro) 15 000 ou, não havendo lugar a prestação tributária, se os produtos objecto da infracção forem de valor líquido de imposto superior a (euro) 50 000.
+
+2 - Na mesma pena incorre quem, com intenção de se subtrair ao pagamento da prestação tributária devida, introduzir no consumo veículo tributável com obtenção de benefício ou vantagem fiscal mediante falsas declarações, ou qualquer outro meio fraudulento, se o valor da prestação tributária em falta for superior a (euro) 15 000.
+
+3 - A tentativa é punível.
