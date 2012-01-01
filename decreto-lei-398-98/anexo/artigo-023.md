@@ -13,3 +13,5 @@
 5 - O responsável subsidiário fica isento de custas e de juros de mora liquidados no processo de execução fiscal se, citado para cumprir a dívida constante do título executivo, efectuar o respectivo pagamento no prazo de oposição.
 
 6 - O disposto no número anterior não prejudica a manutenção da obrigação do devedor principal ou do responsável solidário de pagarem os juros de mora e as custas, no caso de lhe virem a ser encontrados bens.
+
+7 - O dever de reversão previsto no n.º 3 deste artigo é extensível às situações em que seja solicitada a avocação de processos referida no n.º 2 do artigo 181.º do CPPT, só se procedendo ao envio dos mesmos a tribunal após despacho do órgão da execução fiscal, sem prejuízo da adopção das medidas cautelares aplicáveis.

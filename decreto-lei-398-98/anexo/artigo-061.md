@@ -17,3 +17,5 @@
 3 - O interessado será devidamente notificado da remessa prevista no número anterior.
 
 4 - Em caso de dúvida, é competente para o procedimento o órgão da administração tributária do domicílio fiscal do sujeito passivo ou interessado ou, no caso de inexistência de domicílio, do seu representante legal.
+
+5 - Para os sujeitos passivos não residentes sem estabelecimento estável em território nacional, que não tenham representante fiscal, considera-se competente o Serviço de Finanças de Lisboa 3.

@@ -17,3 +17,9 @@
 5 - Sempre que o direito à liquidação respeite a factos relativamente aos quais foi instaurado inquérito criminal, o prazo a que se refere o n.º 1 é alargado até ao arquivamento ou trânsito em julgado da sentença, acrescido de um ano.
 
 6 - Para efeitos de contagem do prazo referido no n.º 1, as notificações sob registo consideram-se validamente efectuadas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+
+7 - O prazo referido no n.º 1 é de 12 anos sempre que o direito à liquidação respeite a factos tributários conexos com:
+
+a) País, território ou região sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, que devendo ser declarados à administração tributária o não sejam; ou
+
+b) Contas de depósito ou de títulos abertas em instituições financeiras não residentes em Estados membros da União Europeia cuja existência e identificação não seja mencionada pelos sujeitos passivos de IRS na correspondente declaração de rendimentos do ano em que ocorram os factos tributários.

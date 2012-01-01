@@ -30,6 +30,10 @@ j) O direito ao conhecimento pelos contribuintes da identidade dos funcionários
 
 l) A comunicação antecipada do início da inspecção da escrita, com a indicação do seu âmbito e extensão e dos direitos e deveres que assistem ao sujeito passivo.
 
+m) Informação ao contribuinte dos seus direitos e obrigações, designadamente nos casos de obrigações periódicas;
+
+n) A interpelação ao contribuinte para proceder à regularização da situação tributária e ao exercício do direito à redução da coima, quando a administração tributária detecte a prática de uma infracção de natureza não criminal.
+
 4 - A colaboração dos contribuintes com a administração tributária compreende o cumprimento das obrigações acessórias previstas na lei e a prestação dos esclarecimentos que esta lhes solicitar sobre a sua situação tributária, bem como sobre as relações económicas que mantenham com terceiros.
 
 5 - A publicação dos elementos referidos nos alíneas a), b), e), f) e i) do n.º 3 é promovida por meios electrónicos.

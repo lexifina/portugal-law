@@ -10,6 +10,10 @@
 
 4 - A administração tributária pode, a requerimento do executado, isentá-lo da prestação de garantia nos casos de a sua prestação lhe causar prejuízo irreparável ou manifesta falta de meios económicos revelada pela insuficiência de bens penhoráveis para o pagamento da dívida exequenda e acrescido, desde que em qualquer dos casos a insuficiência ou inexistência de bens não seja da responsabilidade do executado.
 
-5 - A garantia pode, uma vez prestada, ser excepcionalmente substituída, em caso de o executado provar interesse legítimo na substituição e daí não resulte prejuízo para o credor tributário.
+5 - A isenção prevista no número anterior é válida por um ano, devendo a administração tributária notificar o executado da data da sua caducidade, até 30 dias antes.
 
-6 - A garantia só pode ser reduzida após a sua prestação nos casos de anulação parcial da dívida exequenda, pagamento parcial da dívida no âmbito de regime prestacional legalmente autorizado ou se se verificar, posteriormente, qualquer das circunstâncias referidas no n.º 4.
+6 - Caso o executado não solicite novo período de isenção ou a administração tributária o indefira, é levantada a suspensão do processo.
+
+7 - A garantia pode, uma vez prestada, ser excepcionalmente substituída, em caso de o executado provar interesse legítimo na substituição e daí não resulte prejuízo para o credor tributário.
+
+8 - A garantia só pode ser reduzida após a sua prestação nos casos de anulação parcial da dívida exequenda, pagamento parcial da dívida no âmbito de regime prestacional legalmente autorizado ou se se verificar, posteriormente, qualquer das circunstâncias referidas no n.º 4.
