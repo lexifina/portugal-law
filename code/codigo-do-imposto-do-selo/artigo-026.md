@@ -6,7 +6,7 @@
 
 2 - A participação a que se refere o número anterior é de modelo oficial, identifica o autor da sucessão ou da liberalidade, as respectivas datas e locais, bem como os sucessores, donatários, usucapientes ou beneficiários, as relações de parentesco e respectiva prova, devendo, sendo caso disso, conter a relação dos bens transmitidos, com a indicação dos valores que devam ser declarados pelo apresentante.
 
-3 - A participação deve ser apresentada no serviço de finanças competente para promover a liquidação, ou noutro local previsto em lei especial, até ao final do 3.º mês seguinte ao do nascimento da obrigação tributária.
+3 - A participação deve ser apresentada até ao final do 3.º mês seguinte ao do nascimento da obrigação tributária, em qualquer serviço de finanças ou noutro local previsto em lei especial.
 
 4 - O cabeça-de-casal deve identificar todos os beneficiários, se possuir os elementos para esse efeito, caso em que os mesmos ficam desonerados da participação que lhes competir.
 
