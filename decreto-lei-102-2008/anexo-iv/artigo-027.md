@@ -8,7 +8,7 @@
 
 1 - Sem prejuízo do disposto no regime especial referido nos artigos 60.º e seguintes, os sujeitos passivos são obrigados a entregar o montante do imposto exigível, apurado nos termos dos artigos 19.º a 26.º e 78.º, no prazo previsto no artigo 41.º, nos locais de cobrança legalmente autorizados.
 
-2 - As pessoas referidas na alínea c) do n.º 1 do artigo 2.º e no artigo 43.º devem entregar em qualquer serviço de finanças o correspondente imposto nos prazos de, respectivamente, 15 dias a contar da emissão da factura ou documento equivalente e até ao final do mês seguinte ao da conclusão da operação.
+2 - As pessoas referidas na alínea c) do n.º 1 do artigo 2.º, bem como as que pratiquem uma só operação tributável nas condições referidas na alínea a) da mesma disposição, devem entregar nos locais de cobrança legalmente autorizados o correspondente imposto nos prazos de, respectivamente, 15 dias a contar da emissão da factura ou documento equivalente e até ao final do mês seguinte ao da conclusão da operação.
 
 3 - Os sujeitos passivos abrangidos pelas alíneas e), g) e h) do n.º 1 do artigo 2.º, que não estejam obrigados à apresentação da declaração periódica nos termos do artigo 41.º, devem enviar, por transmissão electrónica de dados, a declaração correspondente às operações tributáveis realizadas e efectuar o pagamento do respectivo imposto, nos locais de cobrança legalmente autorizados, até ao final do mês seguinte àquele em que se torna exigível.
 

@@ -55,3 +55,13 @@ i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1
 15 - Os sujeitos passivos referidos na alínea i) do n.º 1 do artigo 2.º são obrigados a emitir uma factura por cada aquisição de bens ou de serviços aí mencionados quando o respectivo transmitente ou prestador não seja um sujeito passivo, não se aplicando, nesse caso, os condicionalismos previstos no n.º 11 do artigo 36.º
 
 16 - Ficam dispensados de apresentar a declaração, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) do n.º 1 os sujeitos passivos que não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS.
+
+17 - No preenchimento da declaração recapitulativa a que se refere a alínea i) do n.º 1 deve atender-se ao seguinte:
+
+a) A obrigação declarativa só se verifica relativamente aos períodos em que sejam realizadas as prestações de serviços aí referidas;
+
+b) As prestações de serviços a declarar são as efectuadas no período a que diz respeito a declaração, em conformidade com as regras previstas no artigo 7.º;
+
+c) Podem não ser incluídas as prestações de serviços que sejam isentas do imposto no Estado membro em que as operações são tributáveis.
+
+18 - Os sujeitos passivos a que seja aplicável o regime de normalização contabilística para microentidades ficam dispensados da obrigação de entrega da declaração de informação contabilística e fiscal e anexos respeitantes à aplicação do Decreto-Lei n.º 347/85, de 23 de Agosto.

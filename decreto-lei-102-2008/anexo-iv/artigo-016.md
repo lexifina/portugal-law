@@ -10,7 +10,7 @@
 
 ### Valor tributável nas operações internas
 
-1 - Sem prejuízo do disposto no n.º 2, o valor tributável das transmissões de bens e das prestações de serviços sujeitas a imposto é o valor da contraprestação obtida ou a obter do adquirente, do destinatário ou de um terceiro.
+1 - Sem prejuízo do disposto nos n.os 2 e 10, o valor tributável das transmissões de bens e das prestações de serviços sujeitas a imposto é o valor da contraprestação obtida ou a obter do adquirente, do destinatário ou de um terceiro.
 
 2 - Nos casos das transmissões de bens e das prestações de serviços a seguir enumeradas, o valor tributável é:
 
@@ -63,3 +63,15 @@ d) As quantias respeitantes a embalagens, desde que as mesmas não tenham sido e
 8 - Sempre que os elementos necessários à determinação do valor tributável sejam expressos em moeda diferente da moeda nacional, as taxas de câmbio a utilizar são as constantes das tabelas indicativas divulgadas pelo Sistema Europeu dos Bancos Centrais (SEBC) ou as de venda praticadas por qualquer banco estabelecido no território nacional.
 
 9 - Para os efeitos previstos no número anterior, os sujeitos passivos podem ainda optar entre considerar a taxa do dia em que se verificou a exigibilidade do imposto ou a do 1.º dia útil do respectivo mês.
+
+10 - O disposto no n.º 1 não tem aplicação nas transmissões de bens ou prestações de serviços efectuadas por sujeitos passivos que tenham relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, com os respectivos adquirentes ou destinatários, independentemente de estes serem ou não sujeitos passivos, caso em que o valor tributável é o valor normal determinado nos termos do n.º 4, quando se verifique qualquer uma das seguintes situações:
+
+a) A contraprestação seja inferior ao valor normal e o adquirente ou destinatário não tenha direito a deduzir integralmente o imposto;
+
+b) A contraprestação seja inferior ao valor normal e o transmitente dos bens ou o prestador dos serviços não tenha direito a deduzir integralmente o imposto e a operação esteja isenta ao abrigo do artigo 9.º;
+
+c) A contraprestação seja superior ao valor normal e o transmitente dos bens ou o prestador dos serviços não tenha direito a deduzir integralmente o IVA.
+
+11 - A derrogação prevista no número anterior não será aplicada sempre que seja feita prova de que a diferença entre a contraprestação e o valor normal não se deve à existência de uma relação especial entre o sujeito passivo e o adquirente dos bens ou serviços.
+
+12 - Para efeitos do n.º 10, consideram-se ainda relações especiais as relações estabelecidas entre um empregador e um empregado, a família deste ou qualquer pessoa com ele estreitamente relacionada.
