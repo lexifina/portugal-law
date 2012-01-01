@@ -24,4 +24,4 @@ b) Ambulâncias, considerando-se como tais os automóveis destinados ao transpor
 
 c) Automóveis ligeiros de mercadorias, de caixa aberta ou sem caixa, com peso bruto de 3500 kg, sem tracção às quatro rodas;
 
-d) Automóveis ligeiros de mercadorias, de caixa aberta, fechada ou sem caixa, com lotação máxima de três lugares, incluindo o do condutor, com excepção dos abrangidos pelo artigo 8.º
+d) (Revogada.)

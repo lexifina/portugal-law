@@ -2,7 +2,7 @@
 
 ### Táxis e veículos afectos à actividade de aluguer
 
-1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respectivos documentos, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
+1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respectivos documentos, e não tenham níveis de emissão de CO(índice 2) superiores a 175 g/km, confirmados pelo respectivo certificado de conformidade, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
 
 2 - Os veículos referidos no número anterior que se encontrem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás de petróleo liquefeito, gás natural ou de energia eléctrica, ou com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia eléctrica ou solar quer de gasolina ou gasóleo, ficam integralmente isentos de imposto.
 
@@ -10,7 +10,7 @@
 
 4 - O reconhecimento das isenções previstas no presente artigo depende de pedido dirigido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, anterior ou concomitante à apresentação da DAV, instruído com cópia do alvará para o exercício da actividade, licença de táxi e prova da qualidade da forma societária do sujeito passivo.
 
-5 - Os automóveis ligeiros de passageiros e de utilização mista não previstos nos artigos 8.º e 9.º, novos, que se destinem ao exercício de actividades de aluguer sem condutor, beneficiam, na introdução no consumo, de uma redução correspondente a 50 % do montante do imposto, nas condições seguintes:
+5 - Os automóveis ligeiros de passageiros e de utilização mista não previstos nos artigos 8.º e 9.º, novos, que se destinem ao exercício de actividades de aluguer sem condutor, beneficiam, na introdução no consumo, de uma isenção correspondente a 40 % do montante do imposto, nas condições seguintes:
 
 a) Os veículos devem possuir um nível de emissão de CO(índice 2) até 120 g/km, confirmado pelo respectivo certificado de conformidade;
 
