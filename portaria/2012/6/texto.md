@@ -1,0 +1,14 @@
+Portaria n.º 6/2012
+de 3 de janeiro
+O Decreto-Lei n.º 106/2011, de 21 de Outubro, procedeu à segunda alteração ao Decreto-Lei n.º 56/2006, de 15 de Março, alterado pelo Decreto-Lei n.º 44/2011, de 24 de Março, que regula a forma de repartição das verbas provenientes dos jogos sociais da Santa Casa da Misericórdia de Lisboa, dispondo o artigo 6.º, na redacção actual, que as normas regulamentares necessárias à repartição anual das verbas estabelecida no referido diploma, são aprovadas, em cada ano, através de Portaria do membro do Governo responsável pela respectiva área sectorial, para vigorar no ano seguinte.
+De acordo com o n.º 4 do artigo 3.º do Decreto-Lei n.º 56/2006, na redacção conferida pelo Decreto-Lei n.º 106/2011, à Presidência do Conselho de Ministros é atribuído 13,35 % do valor dos resultados líquidos de exploração dos jogos sociais, destinados à promoção, desenvolvimento e fomento de actividades, programas, acções ou infra-estruturas, no âmbito da juventude e do desporto, da cultura e da igualdade de género.
+Assim, ao abrigo do disposto no n.º 4 do artigo 3.º e no artigo 6.º do Decreto-Lei n.º 56/2006, de 15 de Março, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 44/2011, de 24 de Março e pelo Decreto-Lei n.º 106/2011, de 21 de Outubro, manda o Governo, pelo Ministro Adjunto e dos Assuntos Parlamentares e pelo Secretário de Estado da Cultura o seguinte:
+Artigo Único
+Repartição das verbas dos jogos sociais
+1 - A repartição das verbas dos jogos sociais no ano de 2012 efectua-se nos seguintes termos:
+a) Afectação de 26,22 % do valor a que se refere o n.º 4 do artigo 3.º ao Fundo de Fomento Cultural para prossecução das respectivas actividades e atribuições;
+b) Afectação de 70,03 % do valor a que se refere o n.º 4 do artigo 3.º ao Instituto Português do Desporto e Juventude para o fomento e desenvolvimento de actividades e infra-estruturas desportivas e juvenis;
+c) Afectação de 3,75 % do valor a que se refere o n.º 4 do artigo 3.º ao Gabinete da Secretária de Estado dos Assuntos Parlamentares e da Igualdade, para apoio prioritário de acções e programas de Combate à Violência Doméstica e fomento e promoção de outras acções no âmbito da Cidadania e Igualdade de Género, a transferir para a Secretaria-Geral da Presidência do Conselho de Ministros.
+2 - Os valores que vierem a ser transferidos para a Secretaria-Geral da Presidência do Conselho de Ministros, nos termos da alínea c) do número anterior, serão movimentados em conformidade com as necessidades dos programas e acções a desenvolver, mediante despacho do membro do governo com tutela na área da cidadania e igualdade de género.
+Em 22 de Dezembro de 2011.
+O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas. - O Secretário de Estado da Cultura, Francisco José Viegas.
