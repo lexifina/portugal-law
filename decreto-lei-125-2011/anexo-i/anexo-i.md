@@ -2,6 +2,6 @@
 
 ### (a que se refere o artigo 30.º)
 
-Cargos de direção superior da administração direta
+Cargos de direcção superior da administração directa
 
 (ver documento original)

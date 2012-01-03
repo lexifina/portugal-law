@@ -16,8 +16,6 @@ e) A Direcção-Geral da Administração Escolar;
 
 f) A Direcção-Geral de Estatísticas da Educação e Ciência;
 
-g) Revogada;
+g) A Direcção-Geral de Planeamento e Gestão Financeira;
 
-h) Revogada.
-
-i) A Direção-Geral dos Estabelecimentos Escolares.
+h) O Gabinete de Avaliação Educacional.
