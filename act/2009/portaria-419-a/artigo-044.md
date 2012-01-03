@@ -8,7 +8,7 @@
 
 1 - A taxa de justiça é paga de uma só vez por cada parte ou sujeito processual.
 
-2 - Independentemente do disposto no número anterior, até 31 de Dezembro de 2011, a parte ou sujeito processual pode ainda proceder ao pagamento da taxa de justiça devida pelo impulso processual em duas prestações, de igual valor, sendo a primeira devida no momento estabelecido no artigo 14.º do RCP e a segunda prestação nos 90 dias subsequentes.
+2 - Independentemente do disposto no número anterior, até 31 de dezembro de 2012, a parte ou sujeito processual pode ainda proceder ao pagamento da taxa de justiça devida pelo impulso processual em duas prestações, de igual valor, sendo a primeira devida no momento estabelecido no artigo 14.º do RCP e a segunda prestação nos 90 dias subsequentes.
 
 3 - A possibilidade do pagamento a prestações não é aplicável:
 
