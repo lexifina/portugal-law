@@ -1,0 +1,273 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "39",
+    "id": "36647",
+    "titulo": "Procede à sexta alteração ao Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de Março, simplificando formalidades e procedimentos e instituindo o processo especial de revitalização."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-01-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "27699",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-01-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-01-03",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-01-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Portuguesa dos Administradores Judiciais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e7a466d4d7a52695a533034597a55774c54526d4d444174596a4e6a596930774e6a526a4f4455794d6d597a4e4759756347526d&fich=c71f34be-8c50-4f00-b3cb-064c8522f34f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Sindical dos Juízes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833595467785a574e6a5a5330344d5759784c5452694d7a4974596a5577596930304d575a6b597a45345a6a686a5a5451756347526d&fich=7a81ecce-81f1-4b32-b50b-41fdc18f8ce4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-02-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e6d45354d7a51355a433168595745304c5451334e544574596d45304f43316a4d6d51314f47526a4e4467354d4459756347526d&fich=a6a9349d-aaa4-4751-ba48-c2d58dc48906.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-03-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e324d324f4759784f4330304d4459774c5451335a4441745957566c4e7930334d54597a4d6a63304e6a5668595755756347526d&fich=17c68f18-4060-47d0-aee7-716327465aae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e6d49345a44497859793031595745334c5452684d6a6b74595452694e6930784d7a42694d6d59784e5442694f544d756347526d&fich=56b8d21c-5aa7-4a29-a4b6-130b2f150b93.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d4441314e4445304e5330325a6a426c4c5451314f5751744f546b775953303259544e6d4e44686d5a544a694e7a49756347526d&fich=20054145-6f0e-459d-990a-6a3f48fe2b72.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Sindicato dos Funcionários Judiciais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794f444531593259344d6930344f54457a4c5451304d5759744f54566a595331694e7a6731597a4a6b4d3256684d6a41756347526d&fich=2815cf82-8913-441f-95ca-b785c2d3ea20.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Sindicato dos Magistrados do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a44686b4d4449784d7930305a6d55324c5451314f4459744f4455355a69316b4d7a4534596d51305a6a493459544d756347526d&fich=ad8d0213-4fe6-4586-859f-d318bd4f28a3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e57566a597a4d314e4330304e5449324c54526d597a67744f474e6b4d5330795932526b4d574e6c4e7a51795a5749756347526d&fich=75ecc354-4526-4fc8-8cd1-2cdd1ce742eb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-01-17"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-02-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-03-28"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2012-01-25"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa dos Administradores Judiciais em 2012-01-12"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2012-01-16"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2012-01-25"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Funcionários Judiciais em 2012-01-17"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-01-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-01-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-01-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2012-01-05"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa dos Administradores Judiciais em 2012-01-05"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2012-01-10"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Magistrados do Ministério Público em 2012-01-10"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato dos Funcionários Judiciais em 2012-01-10"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "54-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-26",
+            "pubLeg": "XII",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/054/2011-10-26/54?pgs=54-90&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "54-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2011-10-26",
+            "pubLeg": "XII",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/054/2011-10-26/54?pgs=54-90&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1264",
+            "motivoCessacao": null,
+            "nome": "Sérgio Sousa Pinto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-01-18",
+            "dataRemessa": "2012-01-18",
+            "numeroOficio": "112/1ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2012-01-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "59668",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "44",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-01-03",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280851",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
