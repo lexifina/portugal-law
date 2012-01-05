@@ -1,0 +1,502 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "123",
+    "id": "36638",
+    "titulo": "Altera a Lei n.º 17/2003, de 4 de Junho, que regula a Iniciativa Legislativa de Cidadãos (Primeira alteração à Lei n.º 17/2003, de 4 de Junho)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-01-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8457",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-01-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36519",
+        "leg": "XII",
+        "nr": "85",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1579",
+            "obs": null,
+            "pag": [
+              "36-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-06",
+            "pubLeg": "XII",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/36?pgs=36-43&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1579",
+            "obs": null,
+            "pag": [
+              "36-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-06",
+            "pubLeg": "XII",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/36?pgs=36-43&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Primeira alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos)."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36643",
+        "leg": "XII",
+        "nr": "128",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1579",
+            "obs": null,
+            "pag": [
+              "36-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-06",
+            "pubLeg": "XII",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/36?pgs=36-43&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1579",
+            "obs": null,
+            "pag": [
+              "36-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-06",
+            "pubLeg": "XII",
+            "pubNr": "55",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/36?pgs=36-43&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Torna acessível a Iniciativa Legislativa de Cidadãos, com uma primeira alteração à Lei nº 17/2003, de 4 de Junho"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-01-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=01:54:42:976&drc=00:03:43:974"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=02:21:21:159&drc=00:01:44:246"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36",
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-06",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/36?pgs=36,42-43&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de Junho, que regula a Iniciativa Legislativa de Cidadãos (Primeira alteração à Lei n.º 17/2003, de 4 de Junho); Torna acessível a Iniciativa Legislativa de Cidadãos, com uma primeira alteração à Lei nº 17/2003, de 4 de Junho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=01:58:33:451&drc=00:03:38:572"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=02:19:51:924&drc=00:01:24:168"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37",
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-06",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/37?pgs=37,42&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de Junho, que regula a Iniciativa Legislativa de Cidadãos (Primeira alteração à Lei n.º 17/2003, de 4 de Junho); Torna acessível a Iniciativa Legislativa de Cidadãos, com uma primeira alteração à Lei nº 17/2003, de 4 de Junho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=02:02:18:486&drc=00:04:37:358"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-06",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de Junho, que regula a Iniciativa Legislativa de Cidadãos (Primeira alteração à Lei n.º 17/2003, de 4 de Junho); Torna acessível a Iniciativa Legislativa de Cidadãos, com uma primeira alteração à Lei nº 17/2003, de 4 de Junho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=02:06:57:894&drc=00:04:14:862"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-06",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de Junho, que regula a Iniciativa Legislativa de Cidadãos (Primeira alteração à Lei n.º 17/2003, de 4 de Junho); Torna acessível a Iniciativa Legislativa de Cidadãos, com uma primeira alteração à Lei nº 17/2003, de 4 de Junho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "413",
+                "nome": "Luís Pita Ameixa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=02:11:18:948&drc=00:03:32:905"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-06",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de Junho, que regula a Iniciativa Legislativa de Cidadãos (Primeira alteração à Lei n.º 17/2003, de 4 de Junho); Torna acessível a Iniciativa Legislativa de Cidadãos, com uma primeira alteração à Lei nº 17/2003, de 4 de Junho",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120105pln&url=l12/sl1/a2012/m01/&tI=02:14:58:538&drc=00:04:50:189"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "182877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-06",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de Junho, que regula a Iniciativa Legislativa de Cidadãos (Primeira alteração à Lei n.º 17/2003, de 4 de Junho); Torna acessível a Iniciativa Legislativa de Cidadãos, com uma primeira alteração à Lei nº 17/2003, de 4 de Junho",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "280932",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "576467",
+        "obs": null,
+        "pag": [
+          "36-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-06",
+        "pubLeg": "XII",
+        "pubNr": "55",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/055/2012-01-06/36?pgs=36-43&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
