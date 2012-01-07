@@ -4,7 +4,7 @@
 
 1 - Excluem-se do disposto no artigo anterior:
 
-a) Os actos e contratos praticados ou celebrados pelas entidades referidas nas alíneas a), b) e c) do n.º 2 do artigo 2.º, de valor inferior a (euro) 5 000 000, bem como os actos do Governo e dos Governos Regionais que não determinem encargos orçamentais ou de tesouraria e se relacionem exclusivamente com a tutela e gestão dessas entidades;
+a) Os actos e contratos praticados ou celebrados pelas entidades referidas nas alíneas a), b) e c) do n.º 2 do artigo 2.º, e que não se enquadrem na parte final da alínea c) do n.º 1 do artigo 5.º, de valor inferior a (euro) 5 000 000, bem como os actos do Governo e dos Governos Regionais que não determinem encargos orçamentais ou de tesouraria e se relacionem exclusivamente com a tutela e gestão dessas entidades;
 
 b) Os títulos definitivos dos contratos precedidos de minutas visadas;
 
