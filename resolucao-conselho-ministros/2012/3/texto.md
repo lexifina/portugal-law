@@ -1,0 +1,21 @@
+Resolução do Conselho de Ministros n.º 3/2012
+O Orçamento do Estado para 2011, aprovado pela Lei n.º 55-A/2010, de 31 de Dezembro, alterada pela Lei n.º 48/2011, de 28 de Agosto, e pela Lei n.º 60-A/2011, de 30 de Novembro, contempla uma dotação para indemnizações compensatórias a atribuir a empresas que prestam serviço público.
+A Resolução do Conselho de Ministros n.º 23/2011, de 18 de Abril, estatuiu, no seu n.º 2, proceder à autorização da realização de despesa resultante da celebração dos contratos que estabelecem o regime transitório de financiamento da prestação do serviço público prestado pela CP - Comboios de Portugal, E. P. E., Metropolitano de Lisboa, E. P. E.,e Rede Ferroviária Nacional - REFER, E. P. E.,para os anos de 2011 a 2019.
+Por sua vez, a Resolução do Conselho de Ministros n.º 53/2011, de 16 de Dezembro, publicitou as indemnizações compensatórias atribuídas ou pagas no decurso do corrente ano, nomeadamente, às entidades supra referidas.
+As referidas entidades celebraram com o Estado, em 24 de Março de 2011, contratos que convencionaram denominar de Regime Transitório de Financiamento do Serviço Público, tendo por objecto a definição das condições de prestação do serviço público, com prazo de vigência fixado entre o dia 24 de Março de 2011 e o dia 31 de Dezembro de 2019.
+No entanto, os referidos contratos revelam-se inadequados face ao Plano Estratégico dos Transportes a implementar durante os anos de 2011 a 2015, nos termos da Resolução do Conselho de Ministros n.º 45/2011, de 10 de Novembro, e a revisão dos termos contratuais mostra-se de tal forma profunda, que se afigura preferível celebrar novos contratos.
+Com a celebração dos novos contratos logra-se dar cumprimento cabal ao compromisso assumido nos Memorandos de Entendimento firmados pelo Governo Português com a Comissão Europeia, o Banco Central Europeu e o Fundo Monetário Internacional, no sentido de rever o nível do serviço público prestado pelas empresas públicas.
+As indemnizações compensatórias referentes ao ano de 2011 são devidas às entidades acima mencionadas, uma vez que se destinam a cobrir custos em que estas efectivamente incorreram por conta do serviço público prestado, e o seu não pagamento causaria uma incapacidade de cobrir esses custos, gerando uma ruptura de tesouraria nas mencionadas entidades, com as consequências daí advenientes.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar para o corrente ano as seguintes verbas, as quais revestem a natureza de indemnizações compensatórias, a atribuir:
+a) À CP - Comboios de Portugal, E. P. E. - (euro) 38 160 000 (IVA incluído);
+b) Ao Metropolitano de Lisboa, E. P. E. - (euro) 44 520 000 (IVA incluído);
+c) À Rede Ferroviária Nacional - REFER, E. P. E. - (euro) 44 280 000 (IVA incluído).
+2 - Autorizar a Direcção-Geral do Tesouro e Finanças (DGTF) a processar as indemnizações compensatórias mencionadas no ponto anterior.
+3 - Revogar os contratos de Regime Transitório de Financiamento da Prestação de Serviço Público, celebrados em 24 de Março de 2011 entre o Estado e as entidades supra referenciadas.
+4 - Autorizar, para efeitos da concretização do previsto no ponto anterior, a assinatura dos respectivos Acordos de Revogação entre o Estado, representado pelos membros do Governo responsáveis pela área das finanças, da economia e do emprego, e, respectivamente, a CP - Comboios de Portugal, E. P. E., o Metropolitano de Lisboa, E. P. E., e a Rede Ferroviária Nacional - REFER, E. P. E.
+5 - Revogar a Resolução do Conselho de Ministros n.º 23/2011, de 18 de Abril.
+6 - Revogar, na Resolução do Conselho de Ministros n.º 53/2011, de 16 de Dezembro, todas as disposições e menções respeitantes à CP - Comboios de Portugal, E. P. E., ao Metropolitano de Lisboa, E. P. E., e à Rede Ferroviária Nacional - REFER, E. P. E., incluindo as constantes dos anexos à referida resolução.
+7 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência de Conselho de Ministros, 30 de Dezembro de 2011. - O Primeiro-Ministro, Pedro Passos Coelho.
