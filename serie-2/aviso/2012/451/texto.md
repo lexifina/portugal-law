@@ -1,0 +1,5 @@
+Aviso n.º 451/2012
+Eduardo Manuel Dobrões Tavares, Vice-Presidente da Câmara Municipal de Alfandega da Fé, torna público que, nos termos do n.º 3 e do n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, de harmonia com a deliberação da Câmara Municipal em sua reunião de 28/12/2011, foi decidido abrir o período de Discussão Pública, pelo prazo de 30 dias, a partir da publicação no Diário da República, relativamente ao processo da "2.ª Alteração do Plano Diretor Municipal (PDM) de Alfândega da Fé".
+Mais se torna público que os interessados podem consultar o processo (incluindo a ata da conferência de serviços e parecer final da CCDRn), disponível na Divisão de Urbanismo, no edifício dos Paços do Concelho de Alfândega da Fé, nos dias úteis, entre as 9:00 e as 12:30 horas e entre as 14:00 e as 17:30 horas - podendo formular as reclamações, observações, sugestões ou pedidos de esclarecimento tidos por convenientes.
+3 de janeiro de 2012. - O Vice-Presidente da Câmara Municipal, Eduardo Manuel Dobrões Tavares.
+205546146
