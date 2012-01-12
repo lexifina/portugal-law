@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2012-01-12, processo 0857/11
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0857/11
+
+**Data do Acordão:** 01/12/2012
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** PIRES ESTEVES
+
+**Descritores:** SUSPENSÃO DE EFICÁCIA; CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO; PERICULUM IN MORA; FUMUS BONI JURIS
+
+**Nº Convencional:** JSTA000P13645
+
+**Nº do Documento:** SA1201201120857
+
+**Recorrente:** A...
+
+**Recorrido 1:** CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Os requisitos para o decretamento da suspensão de eficácia de um acto administrativo (artº120º do CPTA) são os seguintes: (i) que haja fundado receio da constituição de uma situação de facto consumado ou da produção de prejuízos de difícil reparação para os interesses que o requerente visa assegurar no processo principal (periculum in mora); (ii) que não seja manifesta a falta de fundamentação da pretensão formulada ou a formular nesse processo ou a existência de circunstâncias que obstem ao seu conhecimento de mérito (fumus boni juris); (iii) que da ponderação dos interesses públicos e privados em presença decorra que os danos resultantes da concessão da providência não se mostram superiores àqueles que podem resultar da sua recusa, ou que, sendo superiores, possam ser evitados ou atenuados pela adopção de outras providências (proporcionalidade e adequação da providência)
+
+II - E tal como no sistema anterior (regime consagrado na LPTA) a verificação destes requisitos tem que ser cumulativa.
+
+III - O fumus boni juris tem uma formulação positiva e uma formulação negativa. Na formulação positiva é preciso acreditar na probabilidade de êxito do recurso principal. Tem de se verificar uma aparência de que o recorrente ostenta, de facto, o direito que considera lesado pela actuação administrativa; na formulação negativa basta que o recurso principal não apareça à primeira vista desprovido de fundamento.
+
+IV - A alínea b) do nº1 do artº120º do CPTA satisfaz-se, no que a este ponto diz respeito, com uma formulação negativa, nos termos da qual basta que «não seja manifesta a falta de fundamento da pretensão formulada ou a formular» pelo requerente no processo principal «ou a existência de circunstâncias que obstem ao seu conhecimento de mérito» para que uma providência conservatória possa ser concedida. Consagra-se, deste modo, o que já foi qualificado como um fumus non malus iuris: não é necessário um prejuízo de probabilidade quanto ao êxito do processo principal, basta que não seja evidente a improcedência da pretensão de fundo do requerente ou a falta do preenchimento de pressupostos dos quais dependa a própria obtenção de uma pronúncia sobre o mérito da causa.
+
+V - Ocorre uma situação de facto consumado previsto no artº120º nº1 al.b) do CPTA quando, a não ser deferida a providência, o estado de coisas que a acção quer influenciar fique inutilizada ex ante”.
+
+VI - Danos de difícil reparação são “aqueles cuja reintegração no planos dos factos se perspectiva difícil, seja por que pode haver prejuízos que, em qualquer caso, se produzirão ao longo do tempo e que a reintegração da legalidade não é capaz de reparar ou, pelo menos, de reparar integralmente”.
