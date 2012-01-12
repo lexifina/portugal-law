@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 5/2012
+O investimento produtivo em Portugal, nos mais variados sectores, nomeadamente no fabrico de veículos automóveis, produtos alimentares, produtos farmacêuticos, equipamento elétrico, produtos químicos e mobiliário, entre outros, é essencial ao relançamento da economia, num esforço coordenado, para que se continuem a mobilizar recursos para atenuar os efeitos da crise internacional sobre as famílias e as empresas.
+O Estado Português celebrou alguns contratos de investimento em relação aos quais, em virtude de alterações ocorridas, se impõe a necessidade de proceder a ajustamentos.
+Em consequência, a presente resolução aprova as minutas de aditamentos a sete contratos de investimento, correspondendo estes contratos a um investimento total de 611,6 milhões de euros.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar as minutas de aditamentos aos contratos de investimento e respetivos anexos, incluindo os contratos de concessão de benefícios fiscais, a celebrar entre o Estado Português, representado pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), e a Toyota Caetano Portugal, S. A., anteriormente designada Salvador Caetano IMVT, S. A., a CEREALIS - Produtos Alimentares, S. A., anteriormente designada Milaneza - Massas e Bolachas, S. A., a Hikma Farmacêutica (Portugal), S. A., a Efacec Energia - Máquinas e Equipamentos Eléctricos, S. A., a Artlant PTA, S. A., anteriormente designada Artenius Sines PTA, S. A., a Swedwood Portugal - Indústria de Madeiras e Mobiliário, Lda., e a Efacec Energia - Máquinas e Equipamentos Eléctricos, S. A.
+2 - Determinar que os originais dos aditamentos aos contratos referidos no número anterior fiquem arquivados na AICEP, E. P. E.
+3 - Determinar que a presente resolução reporta os seus efeitos à data da sua aprovação.
+Presidência do Conselho de Ministros, 5 de janeiro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
