@@ -1,17 +1,17 @@
 ## Capítulo III
 
-## Intervenção pública na recuperação e saneamento
+## Iniciativa pública de recapitalização
 
 # Artigo 16.º
 
 ### Âmbito da intervenção
 
-1 - Quando uma instituição de crédito se encontre em situação de desequilíbrio financeiro, em virtude de apresentar um nível de fundos próprios, solvabilidade ou liquidez inferior ao mínimo legal, é aplicável o regime de recuperação e saneamento previsto nos artigos 139.º e seguintes do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+1 - Quando uma instituição de crédito apresente um nível de fundos próprios core tier 1 inferior ao mínimo estabelecido, e não apresente por sua própria iniciativa ou não altere em conformidade com orientações do Banco de Portugal um plano de recapitalização com recurso a capitais privados ou não cumpra o plano apresentado, pode o Banco de Portugal determinar à instituição que apresente um plano de recapitalização com recurso a capitais públicos, nos termos da presente lei.
 
-2 - No âmbito do programa de intervenção previsto no artigo 142.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, pode o Banco de Portugal propor a cooperação do Estado no saneamento da instituição de crédito, através da viabilização de adequado apoio monetário ou financeiro, com recurso aos modos de capitalização previstos no artigo 4.º
+2 - Em caso de incumprimento do disposto no número anterior, o Banco de Portugal pode nomear uma administração provisória para a instituição, revogar a respetiva autorização de funcionamento ou aplicar medidas de resolução nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
 
-3 - A concretização da operação de capitalização e a definição dos seus termos, condições e encargos, compete ao membro do Governo responsável pela área das finanças, mediante despacho.
+3 - O disposto nos números anteriores não prejudica o exercício das competências do Banco de Portugal, nos termos do título viii do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
 
-4 - O despacho referido no número anterior dispõe sobre as matérias previstas no artigo 14.º, podendo, ainda, o Estado designar um ou mais membros para os órgãos de administração ou de fiscalização da instituição de crédito, sem necessidade de observância do limite estatutário à composição daqueles órgãos, aplicando-se-lhes o regime previsto no artigo 15.º
+4 - A concretização da operação de capitalização e a definição dos seus termos, condições e encargos compete ao membro do Governo responsável pela área das finanças, mediante despacho, sendo aplicável o disposto no capítulo anterior.
 
-5 - À intervenção pública na recuperação e saneamento é aplicável o disposto nos artigos 9.º a 11.º da presente lei.
+5 - (Revogado.)
