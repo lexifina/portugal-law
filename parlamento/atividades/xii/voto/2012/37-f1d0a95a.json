@@ -1,0 +1,110 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "37",
+  "data_registo": "2012-01-13",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar pelo falecimento de Pedro Osório",
+    "AutoresGP": [
+      "PSD",
+      "PS",
+      "CDS-PP",
+      "PCP",
+      "BE",
+      "PEV",
+      "Maria Gabriela Canavilhas (PS)",
+      "Carlos Zorrinho (PS)",
+      "Pedro Lynce (PSD)",
+      "Odete João (PS)",
+      "António Rodrigues (PSD)",
+      "Rui Jorge Santos (PS)",
+      "Elza Pais (PS)",
+      "Acácio Pinto (PS)",
+      "Carlos Enes (PS)",
+      "Michael Seufert (CDS-PP)",
+      "Abel Baptista (CDS-PP)",
+      "João Oliveira (PCP)",
+      "Miguel Tiago (PCP)",
+      "Cecília Honório (BE)",
+      "Heloísa Apolónia (PEV)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2012-01-13",
+    "DataAnuncio": null,
+    "DataEntrada": "2012-01-13",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "37",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "27526",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-14",
+        "pubLeg": "XII",
+        "pubNr": "59",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14?org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2012-01-13",
+        "descricao": null,
+        "detalhe": null,
+        "id": "59618",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "577555",
+            "obs": null,
+            "pag": [
+              "37-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-14",
+            "pubLeg": "XII",
+            "pubNr": "59",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/059/2012-01-14/37?pgs=37-38&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "59",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
