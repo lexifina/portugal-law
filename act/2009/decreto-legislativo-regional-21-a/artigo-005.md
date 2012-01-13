@@ -14,8 +14,12 @@
 
 4 - Não podem ser objecto de comparticipação financeira os planos ou projectos que contrariem os princípios da universalidade e da igualdade, da ética desportiva e da coesão e da continuidade territorial, previstos nos artigos 2.º, 3.º e 4.º da Lei n.º 5/2007, de 16 de Janeiro.
 
-5 - Sem prejuízo de outras consequências que resultem da lei, não podem beneficiar de novos apoios financeiros por parte da administração regional autónoma e das autarquias locais as entidades que estejam em situação de incumprimento das suas obrigações fiscais ou para com a segurança social, devendo ser suspensos os benefícios financeiros decorrentes de quaisquer contratos-programa em curso enquanto a situação se mantiver.
+5 - Sem prejuízo de outras consequências que resultem da lei, não podem beneficiar de novos apoios financeiros por parte da administração regional autónoma e das autarquias locais as entidades que estejam em situação de incumprimento das suas obrigações fiscais ou para com a segurança social, devendo ser suspensos os benefícios financeiros decorrentes de quaisquer contratos-programa em curso enquanto a situação se mantiver, salvo o disposto no número seguinte.
 
-6 - Os apoios previstos nos contratos-programa encontram-se exclusivamente afectos às finalidades para as quais foram atribuídos, sendo absolutamente insusceptíveis de penhora ou de qualquer forma de apreensão judicial ou oneração.
+6 - Os beneficiários que não tenham a situação tributária ou contributiva regularizada podem solicitar à administração regional autónoma ou às autarquias locais que procedam à retenção do montante em dívida, até ao limite máximo de 25 % do valor total do pagamento a efetuar, e ao seu depósito à ordem do órgão competente, com vista à regularização da situação tributária e contributiva.
 
-7 - Não pode igualmente ser objecto de comparticipação ou patrocínio financeiro o desporto profissional, excepto nos termos do Decreto Legislativo Regional n.º 8/99/A, de 22 de Março.
+7 - Sempre que da aplicação do disposto no número anterior resulte a retenção de verbas para o pagamento, cumulativo, de dívidas fiscais e dívidas contributivas, aquelas devem ser repartidas pelas entidades credoras na proporção dos respetivos créditos.
+
+8 - Os apoios previstos nos contratos-programa encontram-se exclusivamente afectos às finalidades para as quais foram atribuídos, sendo absolutamente insusceptíveis de penhora ou de qualquer forma de apreensão judicial ou oneração.
+
+9 - Não pode igualmente ser objecto de comparticipação ou patrocínio financeiro o desporto profissional, excepto nos termos do Decreto Legislativo Regional n.º 8/99/A, de 22 de Março.
