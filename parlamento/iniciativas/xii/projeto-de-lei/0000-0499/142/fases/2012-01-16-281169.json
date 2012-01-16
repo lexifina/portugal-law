@@ -1,0 +1,44 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "142",
+    "id": "36683",
+    "titulo": "Lei contra a precariedade."
+  },
+  "fase": "Entrada",
+  "codigo_fase": "10",
+  "data_registo": "2012-01-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d45344d6a67774e7a41745a44426b4f5330305a546c694c5467794d544d745a6a59314e6d49355a6a6b77597a59774c6e426b5a673d3d&fich=6a828070-d0d9-4e9b-8213-f656b9f90c60.pdf&Inline=true",
+        "anexoNome": "Notificação à Comissão Representativa da Iniciativa"
+      }
+    ],
+    "CodigoFase": "10",
+    "Comissao": null,
+    "DataFase": "2012-01-16",
+    "EvtId": "1",
+    "Fase": "Entrada",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Por despacho da PAR de 18/01/2012, foi solicitada aos serviços competentes da Administração Pública a verificação por amostragem da autenticidade das assinaturas e a identificação dos subscritores. Em 18/05/2012 foi notificada a Comissão Representativa da Iniciativa Legislativa dos Cidadãos para corrigir e completar, no prazo de 30 dias úteis, o processso legislativo com as assinaturas necessárias",
+    "OevId": "281169",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
