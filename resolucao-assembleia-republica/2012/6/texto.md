@@ -1,0 +1,7 @@
+Resolução da  Assembleia da República n.º 6/2012
+Recomenda ao Governo o desenvolvimento de diligências diplomáticas tendentes à consagração do Dia Mundial em Memória das Vítimas do Terrorismo
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Promova as diligências diplomáticas adequadas a que seja proposta a declaração, no âmbito das Nações Unidas, de um Dia Mundial em Memória das Vítimas do Terrorismo, cuja celebração todos os anos, na esteira da recomendação adotada pela Resolução do Parlamento Europeu de 11 de março de 2004, evoque as vítimas deste flagelo contemporâneo, contribua para o combate e prevenção dos atentados terroristas e concorra para uma forte e coesa consciência universal da sua ilegitimidade e para a sua erradicação.
+2 - Após as consultas diplomáticas adequadas no quadro das Nações Unidas, promova, de entre as várias datas trágicas que, em abstrato, em todo o mundo, poderiam ser evocadas como Dia Mundial em Memória das Vítimas do Terrorismo, a escolha daquela data concreta que, pelo seu significado e impacto global, melhor possa corresponder a marco central da memória comum universal e seja suscetível de gerar e congregar o consenso mais alargado na comunidade das Nações e na Assembleia Geral das Nações Unidas.
+Aprovada em 16 de dezembro de 2011.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
