@@ -1,0 +1,7 @@
+Aviso n.º 742/2012
+Projeto de regulamento municipal de uso do fogo
+Manuel José Torcato Soares Baptista, Presidente da Câmara Municipal da Póvoa de Lanhoso, torna público ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela lei n.º 5-A /2002, de 11 de janeiro, nos termos e para os efeitos do disposto nos artigos 7.º, 8.º e 118.º do código do procedimento administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, que se encontra em fase de apreciação pública, o projeto de regulamento municipal de uso do fogo, aprovado em reunião ordinária da Câmara Municipal em 27 de dezembro de 2011.
+O Projeto de Regulamento estará disponível, nas horas de expediente, na divisão administrativa desta Câmara Municipal e no sítio do Município (www.mun-planhoso.pt), para efeito de recolha de sugestões de todos os interessados.
+A apresentação de sugestões, bem como apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, devem ser formuladas por escrito e enviadas à Câmara Municipal, dirigidas ao Presidente da Câmara, durante trinta dias, contados a partir do dia de publicação do presente aviso no Diário da República.
+5 de janeiro de 2012. - O Presidente da Câmara, Manuel José Torcato Soares Baptista.
+305555948
