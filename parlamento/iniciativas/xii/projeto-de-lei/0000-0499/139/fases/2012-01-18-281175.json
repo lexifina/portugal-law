@@ -1,0 +1,451 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "139",
+    "id": "36678",
+    "titulo": "Estatuto do Dador de Sangue"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-01-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8483",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-01-18",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36679",
+        "leg": "XII",
+        "nr": "140",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1586",
+            "obs": null,
+            "pag": [
+              "40-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-19",
+            "pubLeg": "XII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/40?pgs=40-46&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1586",
+            "obs": null,
+            "pag": [
+              "40-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-19",
+            "pubLeg": "XII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/40?pgs=40-46&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova o Estatuto do Dador de Sangue"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-01-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120118pln&url=l12/sl1/a2012/m01/&tI=01:57:15:104&drc=00:03:41:759"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-19",
+                "pubLeg": "XII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Dador de Sangue; Aprova o Estatuto do Dador de Sangue; Pretendem a \"Apreciação e discussão do Projecto de Estatuto do Dador de Sangue\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120118pln&url=l12/sl1/a2012/m01/&tI=02:01:05:111&drc=00:03:39:172"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-19",
+                "pubLeg": "XII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Dador de Sangue; Aprova o Estatuto do Dador de Sangue; Pretendem a \"Apreciação e discussão do Projecto de Estatuto do Dador de Sangue\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4365",
+                "nome": "Maria Manuela Tender"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120118pln&url=l12/sl1/a2012/m01/&tI=02:04:50:367&drc=00:04:13:934"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-19",
+                "pubLeg": "XII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Dador de Sangue; Aprova o Estatuto do Dador de Sangue; Pretendem a \"Apreciação e discussão do Projecto de Estatuto do Dador de Sangue\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2092",
+                "nome": "Luísa Salgueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120118pln&url=l12/sl1/a2012/m01/&tI=02:09:19:176&drc=00:03:53:313"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-19",
+                "pubLeg": "XII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Dador de Sangue; Aprova o Estatuto do Dador de Sangue; Pretendem a \"Apreciação e discussão do Projecto de Estatuto do Dador de Sangue\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120118pln&url=l12/sl1/a2012/m01/&tI=02:13:16:803&drc=00:05:22:122"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-19",
+                "pubLeg": "XII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Dador de Sangue; Aprova o Estatuto do Dador de Sangue; Pretendem a \"Apreciação e discussão do Projecto de Estatuto do Dador de Sangue\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120118pln&url=l12/sl1/a2012/m01/&tI=02:18:50:177&drc=00:02:44:823"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-19",
+                "pubLeg": "XII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto do Dador de Sangue; Aprova o Estatuto do Dador de Sangue; Pretendem a \"Apreciação e discussão do Projecto de Estatuto do Dador de Sangue\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Discussão conjunta com a Petição n.º 150/XI/2.ª",
+    "OevId": "281175",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XI",
+        "nr": "150",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Pretendem a \"Apreciação e discussão do Projecto de Estatuto do Dador de Sangue\"."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "577603",
+        "obs": null,
+        "pag": [
+          "40-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-19",
+        "pubLeg": "XII",
+        "pubNr": "60",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/060/2012-01-19/40?pgs=40-46&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
