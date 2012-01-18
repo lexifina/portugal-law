@@ -6,6 +6,6 @@
 
 2 - Quer os serviços personalizados, quer os fundos personalizados, também designados como fundações públicas, podem organizar-se em um ou mais estabelecimentos, como tal se designando as universalidades compostas por pessoal, bens, direitos e obrigações e posições contratuais do instituto afectos em determinado local à produção de bens ou à prestação de serviços no quadro das atribuições do instituto.
 
-3 - Não se consideram abrangidas nesta lei as entidades públicas empresariais previstas no Decreto-Lei n.º 558/99, de 17 de Dezembro.
+3 - Não se consideram abrangidas pela presente lei as entidades públicas empresariais previstas no Decreto-Lei n.º 558/99, de 17 de Dezembro.
 
-4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pelo Estado, Regiões Autónomas ou autarquias locais não são abrangidas por esta lei, devendo essa criação ser sempre autorizada por diploma legal.
+4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pelo Estado, Regiões Autónomas ou autarquias locais não são abrangidas pela presente lei, devendo essa criação ser sempre autorizada por diploma legal.

@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Serviços e pessoal
+## Serviços
 
 # Artigo 33.º
 

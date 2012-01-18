@@ -2,8 +2,10 @@
 
 ### Estatuto dos membros
 
-1 - Aos membros do conselho directivo é aplicável o regime definido na presente lei e, subsidiariamente, o Estatuto do Gestor Público.
+1 - Aos membros do conselho directivo é aplicável o regime definido na presente lei e, subsidiariamente, o Estatuto do Pessoal Dirigente da Administração Pública.
 
-2 - A remuneração dos membros do conselho directivo é fixada por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública e da tutela, de acordo com critérios a aprovar por Resolução do Conselho de Ministros.
+2 - O presidente do conselho directivo é remunerado de acordo com os montantes fixados para o cargo de direcção superior de 1.º grau da Administração Pública.
 
-3 - Aos membros do conselho directivo é aplicável o disposto no Decreto-Lei n.º 148/2000, de 19 de Julho.
+3 - O vice-presidente e ou os vogais do conselho directivo são remunerados de acordo com os montantes fixados para o cargo de direcção superior de 2.º grau da Administração Pública.
+
+4 - Aos membros do conselho directivo é aplicável o disposto nos Decretos-Leis n.os 148/2000, de 19 de Julho, e 34/2008, de 26 de Fevereiro.

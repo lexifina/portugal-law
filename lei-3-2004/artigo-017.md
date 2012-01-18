@@ -14,11 +14,7 @@
 
 ### Órgãos
 
-1 - Os institutos públicos de regime comum adoptam um dos seguintes modelos de órgãos de direcção:
-
-a) Conselho directivo; ou
-
-b) Presidente, coadjuvado por um ou mais vice-presidentes, cargos de direcção superior de 1.º e 2.º grau, respectivamente.
+1 - Os institutos públicos de regime comum adoptam para órgão de direcção o modelo de conselho directivo.
 
 2 - Os institutos públicos dotados de autonomia administrativa e financeira dispõem ainda, obrigatoriamente de um fiscal único.
 
