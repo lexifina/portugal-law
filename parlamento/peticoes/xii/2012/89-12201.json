@@ -1,0 +1,676 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12201",
+  "numero": "89",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-01-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-02-22",
+            "dataResposta": "2012-03-19",
+            "entidades": [
+              "Presidente do Instituto Português de Sangue"
+            ],
+            "nrOficio": "102/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-04-19",
+            "dataResposta": "2012-06-06",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "171/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-11-08",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "609272",
+                "obs": null,
+                "pag": [
+                  "5-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-17",
+                "pubLeg": "XII",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/040/2012-11-17/5?pgs=5-8&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-02-15",
+        "DataArquivo": "2012-11-14",
+        "DataBaixaComissao": "2012-02-15",
+        "DataEnvioPAR": "2012-11-14",
+        "DataReaberta": "2012-02-15",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-02-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938304d3256694f4467325a6930774d6d55314c5451344d444d745954646d4e433079597a45345a5445334e7a41795a4751756347526d&fich=43eb886f-02e5-4803-a7f4-2c18e17702dd.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-04-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938774e545a694f44413059793078597a6b334c5452694e4449744f446b334f5331694e7a51774e5467784e6a45784e5755756347526d&fich=056b804c-1c97-4b42-8979-b7405816115e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-02-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938334f574d31595445324e79316b596a55794c5451784e6a4174595467774f433077596d49304d324e6c4d6a41774d4467756347526d&fich=79c5a167-db52-4160-a808-0bb43ce20008.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-11-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939684f5751354d7a45304f433079597a63794c54526a595449744f4452694f4330304f5449324e6d45335a6a4d794f5445756347526d&fich=a9d93148-2c72-4ca2-84b8-49266a7f3291.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938305a5451334d57557a4e7930345a545a6a4c5451304e6a49744f54466c5a693077597a4e6b4d7a6c6859574a69595441756347526d&fich=4e471e37-8e6c-4462-91ef-0c3d39aabba0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-03-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387a4d4451784e6d466c4f5330334e7a55774c54517859546374596d4a6b596930784d6a63304e6d457a4d5455784e6a67756347526d&fich=30416ae9-7750-41a7-bbdb-12746a315168.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-02-15",
+            "gp": "CDS-PP",
+            "id": "3995",
+            "motivoCessacao": null,
+            "nome": "João Serpa Oliva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-01-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-02-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a67334d5446685a474a6c4c545a6d4d5751744e446c6d4d4330354d6a68694c5451795a4756695a6a59345954686d4d5335775a47593d&fich=8711adbe-6f1d-49f0-928b-42debf68a8f1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "37444",
+      "37448",
+      "37444",
+      "37448"
+    ],
+    "Iniciativasoriginadas": [
+      "37444",
+      "37448"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:40:50:139&drc=00:03:42:325"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue; o projeto de resolução n.º 570/XII (2.ª) ¿ Recomenda ao Governo a isenção de pagamento de taxas moderadoras no Serviço Nacional de Saúde (SNS) para os dadores benévolos de sangue (BE); e, na generalidade, o projeto de lei n.º 330/XII (2.ª) ¿ Isenta os dadores de sangue do pagamento de taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (Altera o Decreto-Lei n.º 113/2011, de 29 de novembro) (Os Verdes).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:44:41:215&drc=00:03:11:673"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue; o projeto de resolução n.º 570/XII (2.ª) ¿ Recomenda ao Governo a isenção de pagamento de taxas moderadoras no Serviço Nacional de Saúde (SNS) para os dadores benévolos de sangue (BE); e, na generalidade, o projeto de lei n.º 330/XII (2.ª) ¿ Isenta os dadores de sangue do pagamento de taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (Altera o Decreto-Lei n.º 113/2011, de 29 de novembro) (Os Verdes).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:47:59:388&drc=00:04:53:840"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue; o projeto de resolução n.º 570/XII (2.ª) ¿ Recomenda ao Governo a isenção de pagamento de taxas moderadoras no Serviço Nacional de Saúde (SNS) para os dadores benévolos de sangue (BE); e, na generalidade, o projeto de lei n.º 330/XII (2.ª) ¿ Isenta os dadores de sangue do pagamento de taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (Altera o Decreto-Lei n.º 113/2011, de 29 de novembro) (Os Verdes).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:52:56:996&drc=00:04:03:343"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue; o projeto de resolução n.º 570/XII (2.ª) ¿ Recomenda ao Governo a isenção de pagamento de taxas moderadoras no Serviço Nacional de Saúde (SNS) para os dadores benévolos de sangue (BE); e, na generalidade, o projeto de lei n.º 330/XII (2.ª) ¿ Isenta os dadores de sangue do pagamento de taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (Altera o Decreto-Lei n.º 113/2011, de 29 de novembro) (Os Verdes).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:57:05:513&drc=00:04:20:947"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/60?pgs=60-62&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue; o projeto de resolução n.º 570/XII (2.ª) ¿ Recomenda ao Governo a isenção de pagamento de taxas moderadoras no Serviço Nacional de Saúde (SNS) para os dadores benévolos de sangue (BE); e, na generalidade, o projeto de lei n.º 330/XII (2.ª) ¿ Isenta os dadores de sangue do pagamento de taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (Altera o Decreto-Lei n.º 113/2011, de 29 de novembro) (Os Verdes).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=04:01:31:211&drc=00:05:04:722"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187366",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue; o projeto de resolução n.º 570/XII (2.ª) ¿ Recomenda ao Governo a isenção de pagamento de taxas moderadoras no Serviço Nacional de Saúde (SNS) para os dadores benévolos de sangue (BE); e, na generalidade, o projeto de lei n.º 330/XII (2.ª) ¿ Isenta os dadores de sangue do pagamento de taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (Altera o Decreto-Lei n.º 113/2011, de 29 de novembro) (Os Verdes).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187367",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187368",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187369",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 89/XII (1.ª) - Apresentada pela Associação dos Dadores de Sangue do Distrito de Viana do Castelo, solicitando à Assembleia da República que adote medidas para que sejam isentos de taxas moderadoras os dadores de sangue.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12201",
+    "PetAssunto": "Solicita a isenção de taxas moderadoras dos Dadores de Sangue.",
+    "PetDataEntrada": "2012-01-18",
+    "PeticoesAssociadas": null,
+    "PetId": "12201",
+    "PetLeg": "XII",
+    "PetNr": "89",
+    "PetNrAssinaturas": "4315",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1714",
+        "obs": null,
+        "pag": [
+          "56-68"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-01-17",
+        "pubLeg": "XII",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/56?pgs=56-68&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "588186",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-03-10",
+        "pubLeg": "XII",
+        "pubNr": "167",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/167/2012-03-10/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
