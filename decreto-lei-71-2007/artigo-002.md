@@ -6,4 +6,4 @@
 
 2 - O presente decreto-lei é subsidiariamente aplicável aos titulares dos órgãos de gestão das empresas integrantes dos sectores empresariais regionais e locais, sem prejuízo das respectivas autonomias.
 
-3 - O presente decreto-lei é ainda aplicável, com as devidas adaptações, aos membros de órgãos directivos de institutos públicos, nos casos expressamente determinados pelos respectivos diplomas orgânicos, bem como às autoridades reguladoras independentes, em tudo o que não seja prejudicado pela legislação aplicável a estas entidades.
+3 - O presente decreto-lei é ainda aplicável, com as devidas adaptações, aos membros de órgãos directivos de institutos públicos de regime especial, bem como às autoridades reguladoras independentes, nos casos expressamente determinados pelos respectivos diplomas orgânicos, em tudo o que não seja prejudicado pela legislação aplicável a estas entidades.

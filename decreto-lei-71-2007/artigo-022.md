@@ -8,11 +8,11 @@
 
 3 - Os gestores públicos com funções não executivas e os membros das mesas de assembleias gerais não podem exercer quaisquer outras actividades temporárias ou permanentes em empresas privadas concorrentes no mesmo sector.
 
-4 - A designação de gestores públicos do sector empresarial do Estado com funções não executivas para outras empresas que integrem o sector público empresarial deve ser especialmente fundamentada, atendendo à respectiva necessidade ou conveniência, carecendo ainda de autorização do membro do Governo responsável pela área das finanças e do membro do Governo responsável pelo respectivo sector de actividade da empresa em que se encontre a desempenhar funções, se, neste caso, aquela designação ocorrer no âmbito dos sectores empresariais regionais e locais.
+4 - A designação de gestores públicos do sector empresarial do Estado com funções não executivas para outras empresas que integrem o sector público empresarial deve ser especialmente fundamentada, atendendo à respectiva necessidade ou conveniência, carecendo ainda de autorização dos membros do Governo responsáveis pela área das finanças e pelo respectivo sector de actividade da empresa em que se encontre a desempenhar funções, se, neste caso, aquela designação ocorrer no âmbito dos sectores empresariais regionais e locais.
 
 5 - O disposto no número anterior não se aplica no caso de designação de gestores públicos do sector empresarial do Estado com funções não executivas nas empresas referidas no n.º 4 do artigo 20.º
 
-6 - Os gestores públicos não podem celebrar, durante o exercício dos respectivos mandatos, quaisquer contratos de trabalho ou de prestação de serviços com as empresas mencionadas nos n.os 2, 3 e 4 que devam vigorar após a cessação das suas funções, salvo mediante autorização expressa do membro do Governo responsável pela área das finanças e do membro do Governo responsável pelo respectivo sector de actividade.
+6 - Os gestores públicos não podem celebrar, durante o exercício dos respectivos mandatos, quaisquer contratos de trabalho ou de prestação de serviços com as empresas mencionadas nos n.os 2 a 4 que devam vigorar após a cessação das suas funções.
 
 7 - O gestor deve declarar-se impedido de tomar parte em deliberações quando nelas tenha interesse, por si, como representante ou como gestor de negócios de outra pessoa ou ainda quando tal suceda em relação ao seu cônjuge, parente ou afim em linha recta ou até ao 2.º grau em linha colateral ou em relação com pessoa com quem viva em economia comum.
 

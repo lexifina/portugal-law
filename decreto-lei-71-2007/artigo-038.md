@@ -6,4 +6,4 @@
 
 ### Exercício de funções por beneficiário de complementos de reforma
 
-Quem, tendo exercido funções de gestor público auferindo, por causa desse exercício, benefícios complementares de reforma, desempenhe funções em empresas ou outras entidades públicas tem o direito de optar entre uma terça parte da remuneração nesta empresa ou entidade e aqueles benefícios ou uma terça parte dos mesmos e aquela remuneração.
+Quem, tendo exercido funções de gestor público auferindo, por causa desse exercício, benefícios complementares de reforma, desempenhe funções em empresas ou outras entidades públicas tem o direito de optar entre a remuneração nesta empresa ou entidade e aqueles benefícios.

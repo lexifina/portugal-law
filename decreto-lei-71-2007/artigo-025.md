@@ -4,7 +4,7 @@
 
 1 - O gestor público pode ser demitido quando lhe seja individualmente imputável uma das seguintes situações:
 
-a) A avaliação de desempenho seja negativa, designadamente por incumprimento dos objectivos referidos nas orientações fixadas ao abrigo do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, ou no contrato de gestão, desde que tal possibilidade esteja contemplada nesse contrato;
+a) A avaliação de desempenho seja negativa, designadamente por incumprimento dos objectivos referidos nas orientações fixadas ao abrigo do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, ou no contrato de gestão;
 
 b) A violação grave, por acção ou por omissão, da lei ou dos estatutos da empresa;
 
