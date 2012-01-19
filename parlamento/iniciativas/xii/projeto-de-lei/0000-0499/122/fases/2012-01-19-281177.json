@@ -1,0 +1,831 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "122",
+    "id": "36633",
+    "titulo": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-01-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8485",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-01-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36663",
+        "leg": "XII",
+        "nr": "131",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36675",
+        "leg": "XII",
+        "nr": "137",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36677",
+        "leg": "XII",
+        "nr": "138",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1588",
+            "obs": null,
+            "pag": [
+              "50-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-20",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-01-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=02:36:33:733&drc=00:06:36:125"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4451",
+                "nome": "António Serrano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=02:43:28:743&drc=00:05:47:262"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=02:56:53:713&drc=00:02:32:477"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/52?pgs=52-53,55&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=02:49:53:492&drc=00:05:04:382"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=02:55:17:182&drc=00:01:30:555"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=03:08:08:745&drc=00:02:24:471"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55",
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/54?pgs=54-55,58&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4031",
+                "nome": "Ângela Guerra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=02:59:36:189&drc=00:08:13:066"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=03:13:35:485&drc=00:00:53:561"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57",
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/56?pgs=56-57,59&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=03:10:40:949&drc=00:02:42:722"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/58?pgs=58&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=03:14:42:385&drc=00:07:36:045"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=03:22:31:817&drc=00:03:29:275"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=03:26:10:173&drc=00:02:29:579"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4440",
+                "nome": "Mónica Ferro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120119pln&url=l12/sl1/a2012/m01/&tI=03:28:56:191&drc=00:04:16:047"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-20",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) e regula o recurso à maternidade de substituição, procedendo à segunda alteração à Lei n.º 32/2006, de 26 de Julho, alterada pela Lei n.º 59/2007, de 4 de Setembro; Procede à segunda alteração à Lei nº 32/2006, de 26 de Julho, alterada pela Lei nº 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição; Segunda Alteração à Lei n.º 32/2006, de 26 de Julho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Altera a Lei n.º 32/2006, de 26 de julho, que regula a utilização de técnicas de procriação medicamente assistida",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "281177",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "579098",
+        "obs": null,
+        "pag": [
+          "50-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-20",
+        "pubLeg": "XII",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/061/2012-01-20/50?pgs=50-63&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
