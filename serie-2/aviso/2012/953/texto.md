@@ -1,0 +1,7 @@
+Aviso n.º 953/2012
+Prorrogação do prazo da Discussão Pública do Plano de Urbanização da Devesa e do respetivo Relatório Ambiental
+Torna-se público que, em conformidade com a deliberação do executivo desta Câmara Municipal, tomada na sua reunião ordinária de 11 de janeiro de 2012, foi determinada a prorrogação do período de discussão pública da proposta do Plano de Urbanização da Devesa até ao dia 31 de janeiro de 2012, para os efeitos do preconizado no artigo n.º 77.º do Decreto-Lei n.º 380/1999, de 22 de setembro, com a redação que lhe foi conferida pelo Decreto-Lei n.º 181/2009, de 7 de agosto e também para os efeitos do previsto no Decreto-Lei n.º 232/2007, de 15 de junho.
+Todos os interessados poderão consultar a proposta do Plano de Urbanização e o Relatório da Avaliação Ambiental Estratégica, disponíveis no Departamento Municipal de Planeamento e Gestão Urbanística ou sob a forma eletrónica na página da internet da Câmara Municipal de Vila Nova de Famalicão (www.cm-vnfamalicao.pt), e formular as suas sugestões através de impresso próprio.
+Quaisquer esclarecimentos deverão ser solicitados diretamente junto dos serviços técnicos na Divisão Municipal de Planeamento Urbanístico, através do fax n.º 252318761 ou ainda por correio eletrónico: planeamento.urbanismo@vilanovadefamalicao.org.
+11 de janeiro de 2012. - O Presidente da Câmara Municipal, Armindo Borges Alves Costa, arquiteto.
+205592908
