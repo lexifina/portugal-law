@@ -1,0 +1,175 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "140",
+    "id": "36679",
+    "titulo": "Aprova o Estatuto do Dador de Sangue"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2012-01-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "27908",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-01-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-01-20",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Estatuto do Dador de Sangue (PJL 139-PCP e 140-BE)",
+            "num": "9",
+            "orgId": "3560",
+            "publicacao": null,
+            "sigla": "GT-EDS"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2012-01-30",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Mapa Comparativo - PJL 139-PCP e PJL 140-BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6d5a6a637a5a574e6b4c544a6a596a45744e444a6d4e793034596d4d7a4c5749334e6a49324e32493359545935596935775a47593d&fich=2ff73ecd-2cb1-42f7-8bc3-b76267b7a69b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-04-19",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Ofício pedido de prorrogação do prazo - PJLs 139/XII (1.ª) PCP e 140/XII (1.ª) BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3256695a6d59354e474e6d4c5455325a6d51744e474d314d7931684e546c6d4c5455784f474933596a6b304e6a45324f4335775a47593d&fich=ebff94cf-56fd-4c53-a59f-518b7b946168.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-24",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Discussão e Votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325177593245775a544e6b4c5445355a4745744e47526b4d5330354d6d566d4c5751315a47526b4f44686c5a54646d5a4335775a47593d&fich=d0ca0e3d-19da-4dd1-92ef-d5ddd88ee7fd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-24",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a42694e574a6d595467324c54497a4d446b744e474d7a4e7930355a4464694c546b314f4446684f5445794e3259355a5335775a47593d&fich=0b5bfa86-2309-4c37-9d7b-9581a9127f9e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3518",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "9",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto de substituição e texto final da comissão, bem como as propostas de alteração apresentadas pelo PCP e PS",
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-25",
+            "pubLeg": "XII",
+            "pubNr": "215",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/215/2012-07-25/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto de substituição e texto final da comissão, bem como as propostas de alteração apresentadas pelo PCP e PS",
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-25",
+            "pubLeg": "XII",
+            "pubNr": "215",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/215/2012-07-25/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2012-07-24",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-07-24",
+            "descricao": null,
+            "detalhe": null,
+            "id": "61447",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "57",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-01-20",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "281347",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
