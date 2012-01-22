@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12194",
+  "numero": "82",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-01-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2012-06-26",
+        "DataArquivo": null,
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "2012-06-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-06-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a41794e54466d4d4455334c54566b4f5751744e474d334e693034595755304c574e6a5a544a6859324979596a6c694e7935775a47593d&fich=0251f057-5d9d-4c76-8ae4-cce2acb2b9b7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-03-01",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a526c596a5a6a596a4a6c4c545a6d5a4441744e4751344e4331684d7a566d4c5751345957466a5954566b4d4745344d6935775a47593d&fich=4eb6cb2e-6fd0-4d84-a35f-d8aaca5d0a82.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-01-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324a6d597a67784e32566b4c54466b5a6a45744e4759324e6930355a5463794c5463344d444d344d7a4130595463324d4335775a47593d&fich=bfc817ed-1df1-4f66-9e72-78038304a760.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12194",
+    "PetAssunto": "Contra a proposta de lei do arrendamento urbano aprovada em Conselho de Ministros a 29 de Dezembro de 2011.",
+    "PetDataEntrada": "2012-01-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12194",
+    "PetLeg": "XII",
+    "PetNr": "82",
+    "PetNrAssinaturas": "11",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
