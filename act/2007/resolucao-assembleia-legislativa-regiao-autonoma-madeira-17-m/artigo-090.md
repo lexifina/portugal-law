@@ -1,8 +1,8 @@
 # Artigo 90.º
 
-### Requerimentos
+### Recursos e protestos
 
-1 - São considerados requerimentos apenas os pedidos dirigidos à Mesa respeitantes ao processo de apresentação, discussão e votação de qualquer assunto ou ao funcionamento de reunião.
+1 - O deputado que pedir a palavra para recursos e protestos limitar-se-á a indicar sucintamente o seu objecto e fundamento.
 
 2 - Os requerimentos podem ser formulados por escrito ou oralmente.
 

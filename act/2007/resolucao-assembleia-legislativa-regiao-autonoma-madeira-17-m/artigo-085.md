@@ -16,4 +16,4 @@ e) Pedir ou dar explicações ou esclarecimentos nos termos do artigo 93.º;
 
 f) Reagir contra ofensas à honra ou consideração ou dar explicações, nos termos do artigo 92.º;
 
-g) Fazer protestos e contraprotestos.
+g) Fazer protestos.

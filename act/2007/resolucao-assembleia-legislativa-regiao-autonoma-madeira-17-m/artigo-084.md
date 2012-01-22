@@ -22,7 +22,7 @@ f) Invocar o Regimento ou interpelar a Mesa;
 
 g) Fazer requerimentos;
 
-h) Apresentar reclamações, recursos, protestos e contraprotestos;
+h) Apresentar reclamações, recursos e protestos;
 
 i) Pedir ou dar explicações ou esclarecimentos;
 

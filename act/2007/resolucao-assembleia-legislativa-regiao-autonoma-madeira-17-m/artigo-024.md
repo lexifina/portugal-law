@@ -22,6 +22,6 @@
 
 8 - Quando a Conferência dos Representantes deliberar nos termos do precedente n.º 6, apenas o uso da palavra para efeitos do disposto nos artigos 89.º, 90.º e 92.º do Regimento não é considerado nos tempos atribuídos a cada grupo parlamentar e aos deputados únicos representantes de partido.
 
-9 - Para efeitos do disposto no artigo 13.º do Regimento, o Presidente da Assembleia Legislativa procede à audição dos deputados únicos representantes de partido, com quarenta e oito horas de antecedência, sobre a ordem do dia que irá propor a Conferência dos Representantes dos Grupos Parlamentares.
+9 - Para efeito do disposto do artigo 13.º do Regimento, o Presidente da Assembleia procede à audição dos deputados únicos representantes de partido, com vinte e quatro horas de antecedência, sobre a ordem do dia que irá propor à Conferência dos Representantes dos Grupo Parlamentares.
 
-10 - As deliberações da Conferência dos Representantes dos Grupos Parlamentares são lavradas em acta, subscrita por todos os intervenientes.
+10 - (Revogado.)

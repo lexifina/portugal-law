@@ -10,4 +10,4 @@ b) Desempenhar funções específicas na Assembleia Legislativa;
 
 c) Fazer requerimentos;
 
-d) Invocar o Regimento e apresentar reclamações, protestos e contraprotestos.
+d) Invocar o Regimento e apresentar reclamações e protestos.

@@ -2,7 +2,7 @@
 
 ### Direito à fixação da ordem do dia
 
-1 - Os grupos parlamentares não representados no Governo têm direito à fixação da ordem do dia de reuniões plenárias, durante cada sessão legislativa, nos termos seguintes:
+1 - Os grupos parlamentares têm direito à fixação da ordem do dia de reuniões plenárias, durante cada sessão legislativa, nos termos seguintes:
 
 a) Até 7 deputados, inclusive, uma reunião;
 
@@ -10,7 +10,7 @@ b) Com mais de 7 e até 15 deputados, inclusive, duas reuniões;
 
 c) Com mais de 16 deputados, três reuniões.
 
-2 - Os grupos parlamentares representados no Governo têm direito, durante cada sessão legislativa, à fixação da ordem do dia de uma reunião plenária por cada conjunto de 10 deputados ou fracção.
+2 - (Revogado.)
 
 3 - A cada uma das reuniões previstas nos números anteriores corresponde uma iniciativa legislativa sem prejuízo de a Conferência dos Representantes dos Grupos Parlamentares, de acordo com o titular do respectivo direito de agendamento, poder agendar outras do mesmo ou de outro grupo parlamentar que com aquela estejam relacionadas.
 
