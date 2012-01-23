@@ -1,0 +1,23 @@
+Despacho n.º 926/2012
+Por meu despacho de 9 de janeiro de 2012 foram homologadas as alterações ao Regulamento de Estágio para o Curso de Licenciatura em Terapia da Fala da Escola Superior de Saúde do Instituto Politécnico de Leiria, nos termos do artigo 62.º do Regulamento Geral da Formação Graduada e Pós-Graduada no Instituto Politécnico de Leiria e Regimes Aplicáveis a Estudantes em Situações Especiais (1).
+As referidas alterações ao Regulamento foram aprovadaspelo Conselho Pedagógico, nos termos das competências previstas no artigo 105.º al. e), da Lei n.º 62/2007, de 10 de setembro, no artigo 71.º alínea e) dos Estatutos do IPL, homologados pelo Despacho Normativo n.º 35/2008, publicado em DR, 2.ª série, n.º 139, de 21 de julho de 2008 e retificado pela Declaração de Retificação n.º 1826/2008, publicada no DR, 2.ª série, n.º 156, de 13 de agosto de 2008 e artigo 29.º n.º 1 alínea h) dos Estatutos da Escola Superior de Saúde do Instituto Politécnico de Leiria, homologados pelo Despacho n.º 5758/2011, publicado em DR, 2.ª série, n.º 65, de 1 de abril de 2011, cujo texto integral se publica em anexo.
+9 de janeiro de 2012. - O Presidente, Nuno André Oliveira Mangas Pereira.
+Alteração ao Regulamento de Estágio de Curso de Licenciatura em Terapia da Fala
+Considerando:
+a) Que por meu despacho de 9 de agosto de 2011 foram homologados os regulamentos de ensino clínico e de estágio para os cursos de licenciatura em Enfermagem, Terapia da Fala, Terapia Ocupacional, Fisioterapia e Dietética da Escola Superior de Saúde do Instituto Politécnico de Leiria (IPL), nos termos do artigo 62.º do Regulamento Geral da Formação Graduada e Pós-Graduada no Instituto Politécnico de Leiria e Regimes Aplicáveis a Estudantes em Situações Especiais (2);
+b) Que foi aprovada pelo Conselho Pedagógico a proposta de alteração do artigo 6.ºdo regulamento de estágio do curso de licenciatura em Terapia da Fala da Escola Superior de Saúde do IPL, conforme resulta da ata n.º 9, de 28.10.2011, posteriormente retificada conforme Boletim Informativo n.º 19/11 do Conselho Pedagógico de 7 de dezembro, no sentido de harmonizar o seu conteúdo com a redação do mesmo artigo prevista no regulamento de ensino clínico para o curso de licenciatura em Enfermagem, publicado no Diário da República, 2.ª série, n.º 164, de 26.08.2011 e nos regulamentos de Estágio para os cursos de licenciatura em Terapia Ocupacional, publicado no Diário da República, 2.ª série, n.º 160, de 22.08.2011, Fisioterapia e Dietética, ambos publicados no Diário da República, 2.ª série, n.º 163, de 25.08.2011.
+Nos termos da alínea n) do n.º 1 do artigo 44.º dos Estatutos do IPL, homologados pelo Despacho Normativo n.º 35/2008, publicado no Diário da República, 2.ª série, n.º 139, de 21 de julho de 2008, retificado pela retificação n.º 1826/2008, publicada no Diário da República, 2.ª série, n.º 156, de 13 de agosto de 2008 e da alínea o) do n.º 1 do artigo 92.º do Regime Jurídico das Instituições de Ensino Superior (RJIES) aprovado pela Lei n.º 62/2007, de 10 de setembro, determino a publicação da alteração ao artigo 6.º do Regulamento de estágio para o curso de licenciatura em Terapia da Fala, homologado por meu despacho de 9 de agosto de 2011.
+Artigo 1.º
+Alteração
+O artigo 6.º do regulamento de estágio para o curso de licenciatura em Terapia da Fala, Despacho n.º 10650/2011, publicado no Diário da República, 2.ª série, n.º 163, de 25.08.2011, passa a ter a seguinte redação:
+«Artigo 6.º
+[...]
+1 - Qualquer situação que torne incompatível a presença do estudante na prática clínica e estágio deverá ser reportada ao docente responsável pelos mesmos, podendo este tomar a iniciativa de o suspender, relatando o caso ao grupo de trabalho à frente referido.
+2 - O grupo de trabalho para analisar as situações de estudantes que venham a ver suspensa a sua participação na prática clínica e estágio, integra dois professores, sendo um pertencente à Comissão Científica e outro à Comissão Pedagógica.
+3 - Este grupo de trabalho é nomeado, a cada ano letivo, pelo Conselho Técnico-Científico.
+4 - O grupo de trabalho assim nomeado tem por funções:
+a) Analisar os casos de suspensão dos estudantes na prática clínica e estágio;
+b) Remeter as propostas de ação para o Conselho Técnico-Científico que deliberará em conformidade.»
+(1) Aprovado a 6 de junho de 2007, publicado no DR, 2.ª série, n.º 121, de 26 de junho de 2007 e alterado pela deliberação n.º 736/2008, publicada no DR, 2.ª série, n.º 52, de 13 de março de 2008.
+(2) Aprovado a 6 de junho de 2007, publicado no DR, 2.ª série, n.º 121, de 26 de junho de 2007 e alterado pela deliberação n.º 736/2008, publicada no DR, 2.ª série, n.º 52, de 13 de março de 2008.
+205600934
