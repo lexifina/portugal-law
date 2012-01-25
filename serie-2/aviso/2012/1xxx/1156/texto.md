@@ -1,0 +1,4 @@
+Aviso n.º 1156/2012
+No uso das competências que se encontram previstas na alínea a), do n.º 6 do artigo 64.º e alínea a), do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de setembro, com a redação introduzida pela Lei n.º 5-A/2002, de 11 de janeiro, torna-se público que, a alteração da alínea e), do n.º 3 do artigo 25.º do Regulamento de Funcionamento do Serviço de Apoio à Família do Município de Cadaval, publicada no Diário da República, 2.ª série, n.º 165, de 29 de agosto de 2011, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, foi aprovada, de forma definitiva, em reunião ordinária da Câmara Municipal realizada em 25 de outubro de 2011 e em sessão ordinária da Assembleia Municipal realizada em 22 de dezembro de 2011.
+4 de janeiro de 2012. - O Presidente da Câmara, Aristides Lourenço Sécio.
+305569759
