@@ -1,0 +1,510 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "198",
+    "id": "36713",
+    "titulo": "Recomenda ao Governo que no âmbito do processo de recuperação de prestações sociais indevidamente pagas pela Segurança Social, adote medidas que tenham em consideração a situação económica e social dos beneficiários abrangidos."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-01-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8507",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-01-27",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36687",
+        "leg": "XII",
+        "nr": "181",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1597",
+            "obs": null,
+            "pag": [
+              "17-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-28",
+            "pubLeg": "XII",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/17?pgs=17-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1597",
+            "obs": null,
+            "pag": [
+              "17-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-28",
+            "pubLeg": "XII",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/17?pgs=17-25&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a suspensão imediata do processo de cobrança de montantes atribuídos a título de prestação social."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36692",
+        "leg": "XII",
+        "nr": "184",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1597",
+            "obs": null,
+            "pag": [
+              "17-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-28",
+            "pubLeg": "XII",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/17?pgs=17-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1597",
+            "obs": null,
+            "pag": [
+              "17-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-01-28",
+            "pubLeg": "XII",
+            "pubNr": "65",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/17?pgs=17-25&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a cessação imediata da cobrança de prestações sociais indevidamente pagas pelo Instituto da Segurança Social."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-01-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=00:37:31:361&drc=00:03:14:894"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=01:02:46:350&drc=00:02:02:637"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18",
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-28",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/17?pgs=17-18,23-24&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a suspensão imediata do processo de cobrança de montantes atribuídos a título de prestação social; Recomenda ao Governo a cessação imediata da cobrança de prestações sociais indevidamente pagas pelo Instituto da Segurança Social; Recomenda ao Governo que no âmbito do processo de recuperação de prestações sociais indevidamente pagas pela Segurança Social, adote medidas que tenham em consideração a situação económica e social dos beneficiários abrangidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=00:40:59:928&drc=00:03:30:923"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=00:59:33:611&drc=00:03:02:613"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18",
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-28",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/18?pgs=18,22-23&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a suspensão imediata do processo de cobrança de montantes atribuídos a título de prestação social; Recomenda ao Governo a cessação imediata da cobrança de prestações sociais indevidamente pagas pelo Instituto da Segurança Social; Recomenda ao Governo que no âmbito do processo de recuperação de prestações sociais indevidamente pagas pela Segurança Social, adote medidas que tenham em consideração a situação económica e social dos beneficiários abrangidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=00:44:41:023&drc=00:03:34:543"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=01:04:57:552&drc=00:05:43:999"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19",
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-28",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/19?pgs=19,24-25&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a suspensão imediata do processo de cobrança de montantes atribuídos a título de prestação social; Recomenda ao Governo a cessação imediata da cobrança de prestações sociais indevidamente pagas pelo Instituto da Segurança Social; Recomenda ao Governo que no âmbito do processo de recuperação de prestações sociais indevidamente pagas pela Segurança Social, adote medidas que tenham em consideração a situação económica e social dos beneficiários abrangidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=00:48:25:149&drc=00:02:52:921"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-28",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a suspensão imediata do processo de cobrança de montantes atribuídos a título de prestação social; Recomenda ao Governo a cessação imediata da cobrança de prestações sociais indevidamente pagas pelo Instituto da Segurança Social; Recomenda ao Governo que no âmbito do processo de recuperação de prestações sociais indevidamente pagas pela Segurança Social, adote medidas que tenham em consideração a situação económica e social dos beneficiários abrangidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=00:51:26:445&drc=00:04:51:373"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-28",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/20?pgs=20-22&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a suspensão imediata do processo de cobrança de montantes atribuídos a título de prestação social; Recomenda ao Governo a cessação imediata da cobrança de prestações sociais indevidamente pagas pelo Instituto da Segurança Social; Recomenda ao Governo que no âmbito do processo de recuperação de prestações sociais indevidamente pagas pela Segurança Social, adote medidas que tenham em consideração a situação económica e social dos beneficiários abrangidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:11",
+            "horaTermo": "12:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=00:56:23:568&drc=00:03:01:730"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120127pln&url=l12/sl1/a2012/m01/&tI=01:07:55:786&drc=00:01:46:640"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22",
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-01-28",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/22?pgs=22,25&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a suspensão imediata do processo de cobrança de montantes atribuídos a título de prestação social; Recomenda ao Governo a cessação imediata da cobrança de prestações sociais indevidamente pagas pelo Instituto da Segurança Social; Recomenda ao Governo que no âmbito do processo de recuperação de prestações sociais indevidamente pagas pela Segurança Social, adote medidas que tenham em consideração a situação económica e social dos beneficiários abrangidos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "281421",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "583137",
+        "obs": null,
+        "pag": [
+          "16-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-28",
+        "pubLeg": "XII",
+        "pubNr": "65",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/065/2012-01-28/16?pgs=16-26&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
