@@ -1,0 +1,3 @@
+Declaração n.º 2/2012
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à apreciação parlamentar n.º 1/XII ao Decreto-Lei n.º 61/2011, de 6 de maio, que regula o acesso e exercício da atividade das agências de viagem e turismo, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Economia e Obras Públicas todas as propostas de alteração e que o plenário foi informado do facto.
+Assembleia da República, 24 de janeiro de 2012. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
