@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "43",
+  "id": "36743",
+  "fases": 14,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-02-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324e6d593255344e5459744e325a684d5330304d57526b4c57466b59544d744f4452694d446b304e4751795a47466c4c6e426b5a673d3d&fich=3cfce856-7fa1-41dd-ada3-84b0944d2dae.pdf&Inline=true",
+        "anexoNome": "Parecer do Banco de Portugal"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e3245794d3259354e7a63744d6a6b354e7930304f544e684c574534596a55745a6d4d79596d593559545268597a59774c6e426b5a673d3d&fich=7a23f977-2997-493a-a8b5-fc2bf9a4ac60.pdf&Inline=true",
+        "anexoNome": "Parecer da ALF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a67335a44426b4e7a49744f44646d4d6930304d6a646c4c546c6d4f5451745a5745354d474934593245314e7a4d784c6e426b5a673d3d&fich=c87d0d72-87f2-427e-9f94-ea90b8ca5731.pdf&Inline=true",
+        "anexoNome": "Parecer da APFIPP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d54646a4e5459794d4759744d6a63325a5330304e7a4d774c5467354e4749745a6a526c5a6a51314d47566b4e444a6a4c6e426b5a673d3d&fich=17c5620f-276e-4730-894b-f4ef450ed42c.pdf&Inline=true",
+        "anexoNome": "Parecer da APS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a597a4e4752684f4449744e574e6a4e6930305a57526c4c546b31593251744e5463784d3255784e546b77595755344c6e426b5a673d3d&fich=f634da82-5cc6-4ede-95cd-5713e1590ae8.pdf&Inline=true",
+        "anexoNome": "Parecer da ASFAC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e446c6c4e574d324d6d51744e544979597930304e6d51794c546b344e6a49744d4745344d6a526d4f57557a4f54526a4c6e426b5a673d3d&fich=49e5c62d-522c-46d2-9862-0a824f9e394c.pdf&Inline=true",
+        "anexoNome": "Parecer da CMVM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d444a6a4d5441784d6d49744d6d4e694f5330304e44597a4c54686b4d6a67744d6a41785a6d51795a5755304d57466b4c6e426b5a673d3d&fich=02c1012b-2cb9-4463-8d28-201fd2ee41ad.pdf&Inline=true",
+        "anexoNome": "Parecer do ISP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a45334e444e6d596a63744e7a63784d433030593259314c546734595459744e6a41304d32457a4f54426b5a574a6d4c6e426b5a673d3d&fich=31743fb7-7710-4cf5-88a6-6043a390debf.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a59344f5759345a5463744e574e69595330304e6a686b4c5745794d6a63744d7a526a4d5755774e474e6b4d446b774c6e426b5a673d3d&fich=f689f8e7-5cba-468d-a227-34c1e04cd090.pdf&Inline=true",
+        "anexoNome": "Parecer DECO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a54426a5a6a4179595459744d6a51305953303059574a6c4c5746694d7a49744e7a566c4e4441354e6d4d354d7a49304c6e426b5a673d3d&fich=e0cf02a6-244a-4abe-ab32-75e4096c9324.pdf&Inline=true",
+        "anexoNome": "Parecer FENACOOP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a4d344d6a4d7a5a6a4d744e6d4933596930304d7a49334c5749354e5467744f445978596a45305a4755305a6d59324c6e426b5a673d3d&fich=c38233f3-6b7b-4327-b958-861b14de4ff6.pdf&Inline=true",
+        "anexoNome": "Parecer ACOP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4451344d6a51784d7a6b745a54677a4e6930305a54526b4c5745345a5759744d3251774d446331593255334d6a49794c6d527659773d3d&fich=d4824139-e836-4e4d-a8ef-3d0075ce7222.doc&Inline=true",
+        "anexoNome": "Parecer UGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f575a695a4455315a6a45744f5755795a6930304f4759304c546b794d324d744d6d566b596d4e6b596d466d4d6a46694c6e426b5a673d3d&fich=9fbd55f1-9e2f-48f4-923c-2edbcdbaf21b.pdf&Inline=true",
+        "anexoNome": "Parecer APB"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "36743",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d45774d5759304d7a51744e3259785a4330304f5445314c546b324d7a59745a545a6a4d4445334d5441304d4745344c6d527659773d3d&fich=2a01f434-7f1d-4915-9636-e6c0171040a8.doc&Inline=true",
+    "IniNr": "43",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Altera o Decreto-Lei n.º 95/2006, de 29 de maio, no que respeita à resolução dos contratos relativos a serviços financeiros prestados a consumidores celebrados através de meios de comunicação à distância e transpõe parcialmente para a ordem jurídica interna a Diretiva n.º 2002/65/CE, do Parlamento Europeu e do Conselho, de 23 de setembro de 2002, relativa à comercialização à distância de serviços financeiros prestados a consumidores.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
