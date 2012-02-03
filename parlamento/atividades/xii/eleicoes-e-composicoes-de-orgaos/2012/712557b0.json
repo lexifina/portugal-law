@@ -1,0 +1,130 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2012-02-03",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição  para a Comissão para a Igualdade e Contra a Discriminação Racial",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": "2012-02-08",
+    "DataAnuncio": null,
+    "DataEntrada": "2012-02-03",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efectivo",
+        "nome": "Nilza de Sena (PSD)"
+      },
+      {
+        "cargo": "Efectivo",
+        "nome": "Helena André (PS)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "João Lobo (PSD)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Rosa Maria Albernaz (PS)"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Comissão para a Igualdade e Contra a Discriminação Racial",
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "580600",
+        "obs": null,
+        "pag": [
+          "8-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-02-09",
+        "pubLeg": "XII",
+        "pubNr": "69",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/069/2012-02-09/8?pgs=8&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "16949",
+      "16950"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2012-02-03",
+        "descricao": null,
+        "detalhe": null,
+        "id": "60004",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "579722",
+            "obs": null,
+            "pag": [
+              "7-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-02-04",
+            "pubLeg": "XII",
+            "pubNr": "68",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/068/2012-02-04/7?pgs=7&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "579723",
+            "obs": "Anúncio",
+            "pag": [
+              "8-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-02-09",
+            "pubLeg": "XII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/069/2012-02-09/8?pgs=8&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "68",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
