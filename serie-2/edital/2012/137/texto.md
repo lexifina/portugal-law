@@ -1,0 +1,6 @@
+Edital n.º 137/2012
+Sofia Machado do Couto Gonçalves, Presidente da Câmara Municipal de Angra do Heroísmo:
+Faz público, em cumprimento de deliberação tomada em reunião ordinária de 31 de outubro findo, que nos termos do disposto no artigo 91.º da Lei n.º 169/99 de 18 de setembro, na sua atual redação, conjugado com o artigo 118.º do Código do Procedimento Administrativo, se procede à abertura de um período de apreciação pública, pelo prazo de 30 dias, a contar da data da presente publicação no Diário da República do "Projeto de Regulamento Municipal de Esplanadas do Concelho de Angra do Heroísmo".
+Nos termos do n.º 2 do artigo 118.º do C.P.A, convidam-se os interessados devidamente identificados, a dirigir por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e ou reclamações, dentro do período atrás referido, para a Câmara Municipal de Angra do Heroísmo, Praça Velha, 9701-857 Angra do Heroísmo, e ainda para o mail da edilidade (angra@cm-ah.pt), mais se informando que o processo está disponível para consulta, na Centro de Atendimento Integrado, dentro do horário de expediente, bem como no portal deste Município (www.cm-ah.pt).
+30 de dezembro de 2011. - A Presidente da Câmara, Sofia Machado do Couto Gonçalves.
+305669623
