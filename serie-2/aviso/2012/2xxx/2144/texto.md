@@ -1,0 +1,8 @@
+Aviso n.º 2144/2012
+Abertura do período de Discussão Pública
+Alteração ao Plano Diretor Municipal do Porto
+Raquel Sofia Guimarães de Matos Maia, Diretora Municipal da Presidência, torna público, ao abrigo da competência que lhe foi delegada através da Ordem de Serviço n.º I/15061/12/CMP, que a Câmara Municipal deliberou, na 51.ª reunião pública, realizada no dia 24 de janeiro de 2012, nos termos do disposto no n.º 3, do artigo 77.º, por remissão do artigo 96.º, do Decreto-Lei n.º 380/2009, de 22 de setembro, com a redação que lhe foi dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro (Regime Jurídico dos Instrumentos de Gestão Territorial, abreviadamente RJIGT), proceder à abertura do período de Discussão Pública referente à primeira Alteração ao Plano Diretor Municipal, pelo prazo de 30 dias. A abertura deste período terá início contados cinco dias úteis da publicação do presente aviso no Diário da República.
+Os interessados poderão consultar a referida deliberação e os documentos que a integram (peças escritas e desenhadas da proposta de alteração do Plano Diretor Municipal, ata da conferência de serviços, atas resultantes da concertação e demais pareceres emitidos) no site da Câmara Municipal do Porto (www.cm-porto.pt) e nas instalações do Gabinete do Munícipe.
+Os interessados poderão apresentar as suas reclamações, observações, sugestões ou pedidos de esclarecimentos mediante o preenchimento de impresso próprio disponibilizado no site da Câmara Municipal do Porto e nas instalações do Gabinete do Munícipe desta Câmara Municipal.
+31 de janeiro de 2012. - A Diretora Municipal da Presidência, Raquel Maia.
+205691006
