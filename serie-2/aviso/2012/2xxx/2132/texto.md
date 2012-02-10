@@ -1,0 +1,4 @@
+Aviso n.º 2132/2012
+No uso das competências que se encontram previstas na alínea a), do n.º 6 do artigo 64.º, e, alínea a), do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de setembro, com a redação introduzida pela Lei n.º 5-A/2002, de 11 de janeiro, torna-se público, que o Projeto de Regulamento de Uso de Fogo do Município de Figueira de Castelo Rodrigo, publicado na 2.ª série, do Diário da República, n.º 191 de 4 de outubro de 2011, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código de Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva, em Regulamento, em reunião ordinária pública da Câmara Municipal realizada a 28 de novembro de 2011, e em sessão ordinária da Assembleia Municipal realizada a 29 de dezembro de 2011.
+30 de janeiro de 2012. - O Presidente da Câmara, António Edmundo Freire Ribeiro.
+305676695
