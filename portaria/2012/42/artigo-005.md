@@ -1,0 +1,21 @@
+# Artigo 5.º
+
+### Condições do contrato de seguro
+
+1 - O seguro pode ser celebrado por qualquer empresa de seguros autorizada a explorar o ramo «Outros danos em coisas».
+
+2 - Não são indemnizáveis os prejuízos resultantes de sinistros cujo montante seja inferior a 30 % do valor seguro, nos casos em que o produtor tenha optado pela cobertura de riscos climáticos adversos equiparados a catástrofes naturais.
+
+3 - A indemnização de perdas provocadas por pragas e doenças depende da correta manutenção dos registos de aquisição e utilização dos produtos fitossanitários nos termos definidos no Aviso n.º 2847/2001, de 27 de janeiro, e ao cumprimento, sempre que possível, das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas relativas à execução dos tratamentos fitossanitários, devidamente atestados pelos serviços competentes do MAMAOT.
+
+4 - Para efeitos do número anterior, considera-se não ser possível o cumprimento das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas, quando, por efeito de chuvas persistentes, a aplicação dos tratamentos fitossanitários se revele inviável devido à ineficácia da sua realização, ou, por efeito de encharcamento do terreno a utilização de máquinas não possa ocorrer.
+
+5 - A contratação de seguro de colheitas para uma dada parcela, exclui a possibilidade, confirmada por declaração do segurado, de contratação, na mesma campanha, de outro seguro para a mesma parcela, ao abrigo desta medida de apoio ou de regimes de seguro que beneficiem de apoio do Estado Português ou da União Europeia.
+
+6 - O contrato de seguro de grupo deve garantir os valores individuais de valor seguro de cada um dos segurados e, se for o caso, as condições particulares aplicáveis.
+
+7 - O recibo do prémio de seguro deve indicar sempre o valor e a percentagem do apoio atribuído.
+
+8 - Sem prejuízo das datas limite da produção de efeitos definidas nas condições da apólice, o contrato de seguro caduca o mais tardar na data de conclusão da colheita.
+
+9 - Nos contratos de seguro de grupo, deve a entidade que representa os produtores beneficiários, em caso de sinistro, garantir apoio ao produtor, nomeadamente no acompanhamento das peritagens.
