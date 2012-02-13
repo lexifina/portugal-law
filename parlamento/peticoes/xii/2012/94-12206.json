@@ -1,0 +1,455 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12206",
+  "numero": "94",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-02-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-02-28",
+            "entidades": null,
+            "id": "92290",
+            "tipo": null,
+            "titulo": "Audição em 2012-02-28 com ABIC - Associação dos Bolseiros de Investigação Científica"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-02-23",
+            "dataResposta": "2012-03-14",
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "88/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-04-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-02-21",
+        "DataArquivo": "2012-04-04",
+        "DataBaixaComissao": "2012-02-21",
+        "DataEnvioPAR": "2012-04-10",
+        "DataReaberta": "2012-02-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-03-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526d4f4441774e5451334c5463344f4445744e44457a4f433034596a45314c575a6d4d7a4d335a47597a4d47557a4e4335775a47593d&fich=df800547-7881-4138-8b15-ff337df30e34.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259304d444534595745794c5445354f546b744e445a694e6931694d544e684c575a6a4d5459325a6a637a4e4449354e7935775a47593d&fich=f4018aa2-1999-46b6-b13a-fc166f734297.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-04-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245344e6d45794e4755774c57466d4e6d55744e44466c596930344e4751774c544a6d4f5459774d4467324d546b315a6935775a47593d&fich=a86a24e0-af6e-41eb-84d0-2f960086195f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-03-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4978597a67334d6a646a4c5446694e5441744e475a6a4e5331684e6a597a4c544669597a6331593249315a6a45314e5335775a47593d&fich=21c8727c-1b50-4fc5-a663-1bc75cb5f155.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-02-21",
+            "gp": "PSD",
+            "id": "4326",
+            "motivoCessacao": null,
+            "nome": "Nilza de Sena"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2012-07-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-02-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a49774e6a526c4e44457a4c5442695a5441744e4756695a5331694d4759784c544d314d545a6c597a45794f5755354d7935775a47593d&fich=2064e413-0be0-4ebe-b0f1-3516ec129e93.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "36796"
+    ],
+    "Iniciativasoriginadas": [
+      "36853",
+      "36796"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:31:05:405&drc=00:02:19:920"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:50:30:196&drc=00:02:17:719"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39",
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/39?pgs=39,43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um mecanismo expedito de validação da verba para pagamento das bolsas no âmbito de projetos de investigação científica; Recomenda ao Governo a adoção de medidas de promoção da Investigação e Desenvolvimento em Portugal e de valorização dos investigadores, nomeadamente através da abertura de procedimento concursal destinado a assegurar a continuidade dos projetos em curso; Estatuto do Pessoal de Investigação Científica em Formação; Estabelece o regime laboral e social dos investigadores científicos e do pessoal de apoio à investigação; Pela alteração do Estatuto do Bolseiro de Investigação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:33:37:484&drc=00:03:44:878"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um mecanismo expedito de validação da verba para pagamento das bolsas no âmbito de projetos de investigação científica; Recomenda ao Governo a adoção de medidas de promoção da Investigação e Desenvolvimento em Portugal e de valorização dos investigadores, nomeadamente através da abertura de procedimento concursal destinado a assegurar a continuidade dos projetos em curso; Estatuto do Pessoal de Investigação Científica em Formação; Estabelece o regime laboral e social dos investigadores científicos e do pessoal de apoio à investigação; Pela alteração do Estatuto do Bolseiro de Investigação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:37:27:924&drc=00:03:57:297"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um mecanismo expedito de validação da verba para pagamento das bolsas no âmbito de projetos de investigação científica; Recomenda ao Governo a adoção de medidas de promoção da Investigação e Desenvolvimento em Portugal e de valorização dos investigadores, nomeadamente através da abertura de procedimento concursal destinado a assegurar a continuidade dos projetos em curso; Estatuto do Pessoal de Investigação Científica em Formação; Estabelece o regime laboral e social dos investigadores científicos e do pessoal de apoio à investigação; Pela alteração do Estatuto do Bolseiro de Investigação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:41:35:185&drc=00:04:03:733"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um mecanismo expedito de validação da verba para pagamento das bolsas no âmbito de projetos de investigação científica; Recomenda ao Governo a adoção de medidas de promoção da Investigação e Desenvolvimento em Portugal e de valorização dos investigadores, nomeadamente através da abertura de procedimento concursal destinado a assegurar a continuidade dos projetos em curso; Estatuto do Pessoal de Investigação Científica em Formação; Estabelece o regime laboral e social dos investigadores científicos e do pessoal de apoio à investigação; Pela alteração do Estatuto do Bolseiro de Investigação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-07-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:46:03:496&drc=00:04:17:253"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um mecanismo expedito de validação da verba para pagamento das bolsas no âmbito de projetos de investigação científica; Recomenda ao Governo a adoção de medidas de promoção da Investigação e Desenvolvimento em Portugal e de valorização dos investigadores, nomeadamente através da abertura de procedimento concursal destinado a assegurar a continuidade dos projetos em curso; Estatuto do Pessoal de Investigação Científica em Formação; Estabelece o regime laboral e social dos investigadores científicos e do pessoal de apoio à investigação; Pela alteração do Estatuto do Bolseiro de Investigação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12206",
+    "PetAssunto": "Pela alteração do Estatuto do Bolseiro de Investigação.",
+    "PetDataEntrada": "2012-02-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12206",
+    "PetLeg": "XII",
+    "PetNr": "94",
+    "PetNrAssinaturas": "5192",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1679",
+        "obs": null,
+        "pag": [
+          "39-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-26",
+        "pubLeg": "XII",
+        "pubNr": "135",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/39?pgs=39-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "582319",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-02-25",
+        "pubLeg": "XII",
+        "pubNr": "155",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/155/2012-02-25/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
