@@ -39,3 +39,5 @@ n) A interpelação ao contribuinte para proceder à regularização da situaç�
 5 - A publicação dos elementos referidos nos alíneas a), b), e), f) e i) do n.º 3 é promovida por meios electrónicos.
 
 6 - A administração tributária disponibiliza a versão electrónica dos códigos e demais legislação tributária actualizada.
+
+7 - As comunicações previstas nas alíneas m) e n) do n.º 3 são efetuadas por via eletrónica.
