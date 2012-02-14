@@ -2,7 +2,7 @@
 
 ### (Entrega de valores)
 
-1 - Após validar as relações contributivas definitivas, a Caixa, até ao dia 14 de cada mês, disponibiliza na sua página electrónica, em área de acesso reservado, as seguintes informações:
+1 - Após validar as relações contributivas definitivas, a Caixa, até ao dia 7 de cada mês, disponibiliza na sua página eletrónica, em área de acesso reservado, as seguintes informações:
 
 a) Valor global a entregar, discriminando a parte relativa a quotas, contribuição e importâncias de outra natureza;
 
