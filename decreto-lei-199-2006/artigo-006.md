@@ -1,4 +1,4 @@
-## Secção II
+## Secção Secção II
 
 ## Dissolução voluntária e liquidação extra-judicial
 

@@ -1,4 +1,4 @@
-## Secção IV
+## Secção Secção IV
 
 ## Liquidação judicial
 

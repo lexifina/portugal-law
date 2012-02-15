@@ -14,4 +14,4 @@
 
 ### Adopção de medidas de saneamento
 
-Compete ao Banco de Portugal adotar medidas de saneamento relativamente às instituições de crédito com sede em Portugal e às respetivas sucursais estabelecidas noutros Estados membros da União Europeia.
+Compete ao Banco de Portugal adoptar medidas de saneamento relativamente às instituições de crédito com sede em Portugal e respectivas sucursais estabelecidas noutros Estados membros da União Europeia, doravante designados por Estados membros de acolhimento.

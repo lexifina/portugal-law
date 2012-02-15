@@ -2,7 +2,7 @@
 
 ## Liquidação de instituições de crédito e sociedades financeiras com sede em Portugal
 
-## Secção I
+## Secção Secção I
 
 ## Disposições gerais
 

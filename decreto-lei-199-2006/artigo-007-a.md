@@ -1,4 +1,4 @@
-## Secção III
+## Secção Secção III
 
 ## Procedimento pré-judicial de liquidação
 
