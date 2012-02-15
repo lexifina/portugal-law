@@ -1,0 +1,5 @@
+Aviso n.º 2473/2012
+José António Fontão Tulha, Presidente da Câmara Municipal de S. João da Pesqueira torna público que, nos termos do artigo 118.º do Código do Procedimento Administrativo, do artigo 62.º do Decreto-Lei n.º 194/2009, de 20 de agosto, e da deliberação tomada pela Câmara Municipal na reunião ordinária de 2 de fevereiro de 2012, se encontram em fase de apreciação pública, pelo prazo de 30 dias úteis, contados da data da publicação do presente Aviso no Diário da República, 2.ª série, os projetos de Regulamento dos Serviços de Abastecimento Público de Água, de Saneamento de Águas Residuais Urbanas e de Gestão de Resíduos Urbanos do Município de S. João da Pesqueira, disponibilizados para consulta no Balcão de Único Atendimento da Câmara Municipal, nos locais habituais das Freguesias e na internet no site do Município.
+Os interessados poderão, no prazo acima referido, dirigir por escrito as suas sugestões à Câmara Municipal, sita na Avenida Marquês de Soveral, 67, 5130-321 S. João da Pesqueira.
+3 de fevereiro de 2012. - O Presidente da Câmara Municipal, José António Fontão Tulha.
+305700961
