@@ -1,0 +1,533 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12209",
+  "numero": "97",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-02-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-03-01",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "172/CEOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-05-30",
+                "dataResposta": "2012-06-06",
+                "nrOficio": "316/CEOP",
+                "oficioResposta": "2927"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-07-16",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "596985",
+                "obs": null,
+                "pag": [
+                  "4-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-28",
+                "pubLeg": "XII",
+                "pubNr": "263",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/263/2012-07-28/4?pgs=4-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-02-29",
+        "DataArquivo": "2012-07-25",
+        "DataBaixaComissao": "2012-02-29",
+        "DataEnvioPAR": "2012-07-26",
+        "DataReaberta": "2012-02-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-03-01",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a6b784e6d497a596a497a4c544e685a5751744e44466d4d6930344f5459314c57597a4d546b355954526c5a444d34597935775a47593d&fich=916b3b23-3aed-41f2-8965-f3199a4ed38c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-03-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5a6d5954597a4e5455324c575a6b4d4451744e444a6b4f4330355a6a41794c5755794d6a6c684f57517a4d6d4e6a4d7935775a47593d&fich=6fa63556-fd04-42d8-9f02-e229a9d32cc3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-05-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a52695a6a426a5a5745774c545a684d7a49744e4749314f5331695a54686d4c544a6c4e7a6469597a4d785a445a6a5a5335775a47593d&fich=4bf0cea0-6a32-4b59-be8f-2e77bc31d6ce.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-07-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a51324e444a6b4d57466d4c5752694d6a63744e4468694e7930344d6a566d4c5441774e5459335a6d49344e44566d4d7935775a47593d&fich=4642d1af-db27-48b7-825f-00567fb845f3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324e6b5a5451784d6d51354c5449324f4745744e474d334f4330345a5467354c54686d4f5441314e474e69596a4a6c5a5335775a47593d&fich=cde412d9-268a-4c78-8e89-8f9054cbb2ee.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-02-29",
+            "gp": "PSD",
+            "id": "4373",
+            "motivoCessacao": null,
+            "nome": "Cláudia Monteiro de Aguiar"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2012-10-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-02-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a5a6b4e5745334d6d59784c5759315a5451744e474d774e693035595463784c5446695a445135596a67354e5752695a5335775a47593d&fich=6d5a72f1-f5e4-4c06-9a71-1bd49b895dbe.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:35:54:484&drc=00:03:31:875"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=04:01:37:079&drc=00:02:22:627"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67",
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/66?pgs=66-67,73-74&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a manutenção do apoio de 50% no passe 4_18 e passe sub-23; Recomenda ao Governo a reposição dos passes 4-18, sub-23 e sénior; Recomenda ao Governo a manutenção dos passes escolares 4-18 e sub-23; Solicitam a imediata reposição dos passes escolares e o cumprimento do direito de todos os jovens à mobilidade e acesso a transportes públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:39:32:643&drc=00:03:27:727"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:55:33:210&drc=00:02:07:911"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67",
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/67?pgs=67,71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a manutenção do apoio de 50% no passe 4_18 e passe sub-23; Recomenda ao Governo a reposição dos passes 4-18, sub-23 e sénior; Recomenda ao Governo a manutenção dos passes escolares 4-18 e sub-23; Solicitam a imediata reposição dos passes escolares e o cumprimento do direito de todos os jovens à mobilidade e acesso a transportes públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:43:04:802&drc=00:03:49:254"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=04:04:02:084&drc=00:01:27:494"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68",
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/68?pgs=68,74&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a manutenção do apoio de 50% no passe 4_18 e passe sub-23; Recomenda ao Governo a reposição dos passes 4-18, sub-23 e sénior; Recomenda ao Governo a manutenção dos passes escolares 4-18 e sub-23; Solicitam a imediata reposição dos passes escolares e o cumprimento do direito de todos os jovens à mobilidade e acesso a transportes públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:47:04:478&drc=00:03:46:378"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a manutenção do apoio de 50% no passe 4_18 e passe sub-23; Recomenda ao Governo a reposição dos passes 4-18, sub-23 e sénior; Recomenda ao Governo a manutenção dos passes escolares 4-18 e sub-23; Solicitam a imediata reposição dos passes escolares e o cumprimento do direito de todos os jovens à mobilidade e acesso a transportes públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:50:58:668&drc=00:04:29:667"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a manutenção do apoio de 50% no passe 4_18 e passe sub-23; Recomenda ao Governo a reposição dos passes 4-18, sub-23 e sénior; Recomenda ao Governo a manutenção dos passes escolares 4-18 e sub-23; Solicitam a imediata reposição dos passes escolares e o cumprimento do direito de todos os jovens à mobilidade e acesso a transportes públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:57:45:555&drc=00:03:45:490"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a manutenção do apoio de 50% no passe 4_18 e passe sub-23; Recomenda ao Governo a reposição dos passes 4-18, sub-23 e sénior; Recomenda ao Governo a manutenção dos passes escolares 4-18 e sub-23; Solicitam a imediata reposição dos passes escolares e o cumprimento do direito de todos os jovens à mobilidade e acesso a transportes públicos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12209",
+    "PetAssunto": "Solicitam a imediata reposição dos passes escolares e o cumprimento do direito de todos os jovens à mobilidade e acesso a transportes públicos.",
+    "PetDataEntrada": "2012-02-15",
+    "PeticoesAssociadas": null,
+    "PetId": "12209",
+    "PetLeg": "XII",
+    "PetNr": "97",
+    "PetNrAssinaturas": "8664",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1691",
+        "obs": null,
+        "pag": [
+          "66-74"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-12",
+        "pubLeg": "XII",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/66?pgs=66-74&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "583558",
+        "obs": null,
+        "pag": [
+          "9-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-03-03",
+        "pubLeg": "XII",
+        "pubNr": "161",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/161/2012-03-03/9?pgs=9&org=PLC"
+      }
+    ]
+  }
+}
