@@ -1,0 +1,9 @@
+Aviso n.º 2453/2012
+Elaboração do Plano de Urbanização de Gavião
+Jorge Manuel Martins de Jesus, Presidente da Câmara Municipal de Gavião, torna público, nos termos do disposto no artigo 74.º e da alínea b) do n.º 4 do artigo 148.º, ambos do Decreto-Lei n.º 380/99, de 22 de setembro alterado pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro (RJIGT), que foi deliberado na reunião ordinária do executivo municipal de 07 de dezembro de 2011, iniciar a elaboração do Plano de Urbanização da Vila de Gavião.
+Mais foi deliberado nos termos do artigo 74.º do RJIGT aprovar os termos de referência do Plano de Urbanização da Vila de Gavião que fundamentam a oportunidade de elaboração deste plano e fixam os respetivos objetivos, estabelecer um prazo global de 10 meses para a sua elaboração e nos termos do n.º 2 do artigo 77.º do mesmo diploma, estabelecer um período de 15 dias úteis para efeitos de participação preventiva, contados a partir do 8.º dia da publicação do presente aviso no Diário da República.
+Foi ainda deliberado não submeter o Plano a um procedimento de Avaliação Ambiental Estratégica, nos termos do n.º 5 do artigo 74.º do RJIGT não sendo suscetível de ter efeitos significativos no ambiente e atendendo a que utiliza pequenas áreas a nível local.
+Os termos de referência do Plano de Urbanização da Vila de Gavião e o documento justificativo para a não sujeição do Plano a Avaliação Ambiental Estratégica podem ser consultados na Divisão de Obras e Serviços Urbanos, durante a hora de expediente todos os dias úteis e na página da Internet www.cm-gaviao.pt.
+As participações deverão ser apresentadas por escrito e dirigidas ao Presidente da Câmara Municipal de Gavião, entregues no atendimento da DOSU, remetidas por correio ou correio eletrónico para: dosu@cm-gaviao.pt.
+10 de janeiro de 2012. - O Presidente da Câmara Municipal, Jorge Manuel Martins de Jesus.
+305575444
