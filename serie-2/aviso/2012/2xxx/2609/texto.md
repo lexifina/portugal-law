@@ -1,0 +1,5 @@
+Aviso n.º 2609/2012
+Luís Filipe Soromenho Gome, Presidente da Câmara Municipal de Vila Real de Santo António, torna público, nos termos do n.º 5 do Artigo 6.º-A, do Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação, que a Câmara Municipal de Vila Real de Santo António, deliberou, na reunião ordinária de 7 de fevereiro de 2012, aprovar o conteúdo material e documental da minuta de proposta de contrato de planeamento, a qual estabelece os direitos e as obrigações recíprocas entre os outorgantes, no âmbito do procedimento de Alteração ao Plano de Pormenor da Zona de Expansão Poente de Monte Gordo (PPZEPMG).
+Uma vez assegurado o enquadramento acima descrito, convidam-se todos os interessados a formular sugestões, assim como a apresentar informações, por escrito, até 10 dias úteis contados a partir da data de publicação deste Aviso no Diário da República, na Equipa Multidisciplinar de Gestão Territorial e Urbanística da Câmara Municipal de Vila Real de Santo António, sobre quaisquer questões que possam ser equacionadas no âmbito deste processo de Alteração.
+7 de fevereiro de 2012. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
+205725359
