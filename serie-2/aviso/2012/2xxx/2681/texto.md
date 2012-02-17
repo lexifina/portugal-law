@@ -1,0 +1,6 @@
+Aviso n.º 2681/2012
+João Luís Teixeira Fernandes, Presidente da Câmara Municipal de Murça, torna público que, por deliberação de câmara na reunião ordinária de 06/01/2012, e nos termos do n.º 1 do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, durante o prazo de 30 dias (úteis) a contar da publicação do presente aviso no Diário da República, é submetido à apreciação pública o "Regulamento de Utilização e Funcionamento das Instalações Desportivas Municipais do Concelho de Murça", cujo texto pode ser consultado no site da Câmara Municipal de Murça (www.cm-murca.pt) ou na divisão financeira, situada no edifício dos Paços do Concelho.
+De acordo com o n.º 2 do artigo 118.º, convidam-se todos os interessados a remeter por escrito, a esta Câmara Municipal eventuais reclamações, sugestões, observações e propostas dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal de Murça, Praça 5 de outubro, 5090-112 Murça, ou para o e-mail do gabinete de apoio à presidência (gap@cm-murça.pt).
+Para constar e devidos efeitos se publica este aviso e outros de igual teor, que vão ser afixados nos locais públicos de costume.
+27 de janeiro de 2012. - O Presidente da Câmara, Dr. João Luís Teixeira Fernandes.
+305714934
