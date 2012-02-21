@@ -1,0 +1,6 @@
+Aviso n.º 2825/2012
+Abertura do período de discussão pública - Alterações ao Código Regulamentar do Município do Porto
+Raquel Sofia Guimarães de Matos Maia, Diretora Municipal da Presidência, torna público, ao abrigo da competência que lhe foi delegada através da Ordem de Serviço n.º I/15061/12/CMP, que a Câmara Municipal deliberou, na 52.ª reunião privada realizada no dia 7 de fevereiro de 2012, nos termos do disposto no n.º 3, do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, com a redação que lhe foi dada pela Lei n.º 26/2010, de 30 de março (Regime Jurídico da Urbanização e Edificação, abreviadamente RJUE), e do artigo 64.º da Lei n.º 169/99, de 18 de setembro, na redação que lhe foi conferida pela Lei n.º 5-A/2002, de 11 de janeiro, proceder à abertura do período de Discussão Pública referente às alterações propostas à Parte B e ao Título III da Parte E, do Código Regulamentar do Município do Porto, pelo prazo de 30 dias. A abertura deste período terá início contados cinco dias úteis da publicação do presente aviso no Diário da República.
+Os interessados poderão consultar a referida deliberação e os documentos que a integram no site da Câmara Municipal do Porto (www.cm-porto.pt) e nas instalações do Gabinete do Munícipe.
+13 de fevereiro de 2012. - A Diretora Municipal da Presidência, Raquel Maia.
+205743438
