@@ -1,0 +1,11 @@
+# Artigo 11.º
+
+### Conselho pedagógico
+
+Compete ao conselho pedagógico:
+
+a) Eleger os quatro docentes que integram a secção de avaliação do desempenho docente;
+
+b) Aprovar o documento de registo e avaliação do desenvolvimento das actividades realizadas pelos avaliados nas dimensões previstas no artigo 4.º;
+
+c) Aprovar os parâmetros previstos na alínea b) do n.º 1 do artigo 6.º
