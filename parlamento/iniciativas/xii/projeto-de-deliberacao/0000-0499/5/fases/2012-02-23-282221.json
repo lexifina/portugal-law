@@ -1,0 +1,489 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "5",
+    "id": "36770",
+    "titulo": "Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-02-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8587",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-02-23",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Inquérito Parlamentar",
+        "id": "36776",
+        "leg": "XII",
+        "nr": "1",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1603",
+            "obs": null,
+            "pag": [
+              "38-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-02-24",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/38?pgs=38-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "I",
+        "titulo": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-02-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=01:54:10:649&drc=00:08:20:869"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:05:17:411&drc=00:01:23:158"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:37:04:158&drc=00:02:47:129"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-41",
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-24",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/38?pgs=38-41,49-50&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC; Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:02:43:866&drc=00:02:31:108"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-24",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC; Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:06:45:139&drc=00:07:51:860"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:42:13:076&drc=00:04:25:630"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-43",
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-24",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/41?pgs=41-43,51-52&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC; Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:14:49:742&drc=00:03:30:367"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:24:36:068&drc=00:02:09:152"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44",
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-24",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/43?pgs=43-44,50-51&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC; Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:18:38:299&drc=00:05:39:926"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:26:49:057&drc=00:02:02:278"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-24",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/44?pgs=44-47&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC; Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:39:54:861&drc=00:02:14:548"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-24",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC; Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120223pln&url=l12/sl1/a2012/m02/&tI=02:28:58:274&drc=00:07:53:549"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-24",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/47?pgs=47-49&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar à Gestão do Banco Português de Negócios pela CGD e à sua venda ao BIC; Auditoria a realizar pelo Tribunal de Contas ao processo de nacionalização do BPN-Banco Português de Negócios e ao processo que determinou a insolvência do BPP-Banco Privado Português, avaliando, nomeadamente, os custos já realizados e a realizar pelo Estado Português.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282221",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "583192",
+        "obs": null,
+        "pag": [
+          "38-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-02-24",
+        "pubLeg": "XII",
+        "pubNr": "76",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/076/2012-02-24/38?pgs=38-52&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
