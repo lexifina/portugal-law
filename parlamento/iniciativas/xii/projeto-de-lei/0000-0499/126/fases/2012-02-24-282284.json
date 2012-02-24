@@ -1,0 +1,503 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "126",
+    "id": "36641",
+    "titulo": "Eliminação da impossibilidade legal de adopção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de Maio, segunda alteração à Lei n.º 7/2001, de 11 de Maio, e primeira alteração ao Decreto-Lei n.º 121/2010, de 27 de Outubro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-02-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8588",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-02-24",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36642",
+        "leg": "XII",
+        "nr": "127",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1609",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-02-25",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/3?pgs=3-9&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1609",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-02-25",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/3?pgs=3-9&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Código do Registo Civil, tendo em conta a Procriação Medicamente Assistida, a adopção e o apadrinhamento civil por casais do mesmo sexo."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36792",
+        "leg": "XII",
+        "nr": "178",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1609",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-02-25",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/3?pgs=3-9&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1609",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-02-25",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/3?pgs=3-9&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alarga as famílias com capacidade de adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei nº 7/2001, de 11 de maio"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-02-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:01:33:415&drc=00:03:16:380"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:21:34:836&drc=00:02:45:526"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-3",
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-25",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/3?pgs=3,8&org=PLC"
+              }
+            ],
+            "sumario": "Eliminação da impossibilidade legal de adopção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de Maio, segunda alteração à Lei n.º 7/2001, de 11 de Maio, e primeira alteração ao Decreto-Lei n.º 121/2010, de 27 de Outubro; Altera o Código do Registo Civil, tendo em conta a Procriação Medicamente Assistida, a adopção e o apadrinhamento civil por casais do mesmo sexo; Alarga as famílias com capacidade de adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei nº 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:04:55:498&drc=00:01:30:225"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:24:24:051&drc=00:03:34:869"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4",
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-25",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/4?pgs=4,8-9&org=PLC"
+              }
+            ],
+            "sumario": "Eliminação da impossibilidade legal de adopção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de Maio, segunda alteração à Lei n.º 7/2001, de 11 de Maio, e primeira alteração ao Decreto-Lei n.º 121/2010, de 27 de Outubro; Altera o Código do Registo Civil, tendo em conta a Procriação Medicamente Assistida, a adopção e o apadrinhamento civil por casais do mesmo sexo; Alarga as famílias com capacidade de adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei nº 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:06:32:508&drc=00:03:39:204"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-25",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Eliminação da impossibilidade legal de adopção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de Maio, segunda alteração à Lei n.º 7/2001, de 11 de Maio, e primeira alteração ao Decreto-Lei n.º 121/2010, de 27 de Outubro; Altera o Código do Registo Civil, tendo em conta a Procriação Medicamente Assistida, a adopção e o apadrinhamento civil por casais do mesmo sexo; Alarga as famílias com capacidade de adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei nº 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:10:16:460&drc=00:03:31:674"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-25",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Eliminação da impossibilidade legal de adopção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de Maio, segunda alteração à Lei n.º 7/2001, de 11 de Maio, e primeira alteração ao Decreto-Lei n.º 121/2010, de 27 de Outubro; Altera o Código do Registo Civil, tendo em conta a Procriação Medicamente Assistida, a adopção e o apadrinhamento civil por casais do mesmo sexo; Alarga as famílias com capacidade de adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei nº 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4133",
+                "nome": "Isabel Oneto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:14:19:875&drc=00:02:33:806"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:28:02:612&drc=00:01:18:433"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6",
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-25",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/6?pgs=6,9&org=PLC"
+              }
+            ],
+            "sumario": "Eliminação da impossibilidade legal de adopção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de Maio, segunda alteração à Lei n.º 7/2001, de 11 de Maio, e primeira alteração ao Decreto-Lei n.º 121/2010, de 27 de Outubro; Altera o Código do Registo Civil, tendo em conta a Procriação Medicamente Assistida, a adopção e o apadrinhamento civil por casais do mesmo sexo; Alarga as famílias com capacidade de adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei nº 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120224pln&url=l12/sl1/a2012/m02/&tI=00:17:01:211&drc=00:04:29:718"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-02-25",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Eliminação da impossibilidade legal de adopção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de Maio, segunda alteração à Lei n.º 7/2001, de 11 de Maio, e primeira alteração ao Decreto-Lei n.º 121/2010, de 27 de Outubro; Altera o Código do Registo Civil, tendo em conta a Procriação Medicamente Assistida, a adopção e o apadrinhamento civil por casais do mesmo sexo; Alarga as famílias com capacidade de adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei nº 7/2001, de 11 de maio.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282284",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "585172",
+        "obs": null,
+        "pag": [
+          "3-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-02-25",
+        "pubLeg": "XII",
+        "pubNr": "77",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/077/2012-02-25/3?pgs=3-9&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
