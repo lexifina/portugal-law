@@ -1,0 +1,8 @@
+Aviso n.º 3015/2012
+Alteração do Plano de Pormenor da Zona Industrial de Cardigos
+Torna-se público ter a Câmara Municipal de Mação, em reunião de 23 de novembro de 2011, deliberado mandar iniciar o procedimento de alteração do Regulamento do Plano de Pormenor da Zona Industrial de Cardigos, nos termos do artigo 93.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) estabelecido pelo Decreto-Lei n.º 380/99, de 22 de setembro, na redação fixada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, com vista a possibilitar a junção de duas ou mais parcelas e aumentar o valor da área de construção máxima que se pode edificar, procedendo às alterações ao regulamento e à Planta de Implantação que se revelem necessárias.
+Mais deliberou que esta alteração não é suscetível de ter efeitos significativos no ambiente e por isso não a submeter a Avaliação Ambiental Estratégica.
+Nos termos do n.º 2 do artigo 77.º do RJIGT, decorrerá durante um prazo de 15 dias úteis, a contar a partir da data de publicação deste aviso na 2.ª série do Diário da República, um processo de audição ao público por forma a permitir a formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração, devendo essas observações ou sugestões ser apresentadas em ofício devidamente identificado, dirigido ao Presidente da Câmara Municipal de Mação.
+Serão facultados aos interessados todos os elementos relevantes para que estes possam conhecer o estádio dos trabalhos e a evolução da tramitação procedimental, bem como formular sugestões à autarquia.
+12 de janeiro de 2012. - O Presidente da Câmara Municipal de Mação, José Manuel Saldanha Rocha (Dr.).
+205755378
