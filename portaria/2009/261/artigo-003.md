@@ -2,9 +2,9 @@
 
 ### Pedido de reconhecimento de empreendimentos de turismo de natureza
 
-1 - O pedido de reconhecimento de empreendimento de turismo de natureza é dirigido ao ICNB, I. P., através de requerimento acompanhado dos seguintes elementos:
+1 - O pedido de reconhecimento de empreendimento de turismo de natureza é dirigido ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), mediante o preenchimento de formulário eletrónico disponibilizado no seu sítio na Internet, no balcão único eletrónico previsto no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, disponibilizado em sítio na Internet através do Portal da Empresa e no Portal do Cidadão, acompanhado dos seguintes elementos:
 
-a) A identificação do requerente - certidão do registo comercial actualizada e em vigor, ou bilhete de identidade e número de identificação fiscal ou cartão de cidadão quando se trate de empresário em nome individual, ou respectivas cópias simples;
+a) A identificação do requerente através de extrato em forma simples do teor das inscrições em vigor no registo comercial ou código de acesso à respetiva certidão permanente caso o requerente seja pessoa coletiva, ou documento de identificação civil e número de identificação fiscal quando se trate de empresário em nome individual;
 
 b) A identificação dos administradores ou gerentes da empresa;
 
@@ -18,9 +18,9 @@ f) Indicação das boas práticas ambientais adoptadas ou comprovativo da valida
 
 g) Proposta de projecto de conservação da natureza e da biodiversidade, quando aplicável;
 
-h) Declaração sob compromisso de honra em como o empreendimento cumpre o disposto no artigo 2.º
+h) Declaração sob compromisso de honra em como o empreendimento cumpre o disposto no artigo 2.º.
 
-2 - O requerente deve enviar ao ICNB, I. P., toda a documentação em suporte digital e uma cópia em papel.
+2 - O requerente deve enviar ao ICNF, I. P., toda a documentação em suporte digital ou em papel.
 
 3 - O ICNB, I. P., profere decisão sobre o pedido de reconhecimento de empreendimento de turismo de natureza no prazo de 30 dias, contados da data da recepção do pedido instruído nos termos do n.º 1.
 
