@@ -1,0 +1,218 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12213",
+  "numero": "101",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-02-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-06-06",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do Instituto da Habitação e Reabilitação Urbana, I.P. - IHRU"
+            ],
+            "nrOficio": "607/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-09-28",
+                "dataResposta": "2012-10-02",
+                "nrOficio": "994/CAOTPL",
+                "oficioResposta": "2004/2012"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-06-06",
+            "dataResposta": null,
+            "entidades": [
+              "Nova Imagem - União das Cooperativas de Habitação UCRL"
+            ],
+            "nrOficio": "608/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-09-28",
+                "dataResposta": null,
+                "nrOficio": "993/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-06-06",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Setúbal"
+            ],
+            "nrOficio": "609/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-09-28",
+                "dataResposta": "2012-11-28",
+                "nrOficio": "992/CAOTPL",
+                "oficioResposta": "5687/12"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-04-10",
+        "DataArquivo": "2012-12-04",
+        "DataBaixaComissao": "2012-04-10",
+        "DataEnvioPAR": "2012-12-12",
+        "DataReaberta": "2012-04-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-04-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4e684e6d45334e3249304c546b344f4445744e4751794d793168596a56684c544e6c5a44566a596d45355a546b35596935775a47593d&fich=3a6a77b4-9881-4d23-ab5a-3ed5cba9e99b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324e684d3259334e47566b4c5745324f4455744e4456695a5330344e6a4a6b4c575a6b4e32513359545a6a4e6d49774f4335775a47593d&fich=ca3f74ed-a685-45be-862d-fd7d7a6c6b08.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-09-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a67784f5463314f54517a4c57597a595745744e444a6c5a6930354e575a684c544d304e4459334e474d7a4d4751325a5335775a47593d&fich=81975943-f3aa-42ef-95fa-344674c30d6e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324e684f445978597a51334c574a6a5a5451744e446b324d4331684d6a6b774c5445335a474e6d5a6a4a69597a5a6a4e7935775a47593d&fich=ca861c47-bce4-4960-a290-17dcff2bc6c7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-09-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3245315a6a517a4e4755774c544e6c4e4455744e444a684d7930344e6d52684c5442684d6a6b305a6a426d4f44526d596935775a47593d&fich=a5f434e0-3e45-42a3-86da-0a294f0f84fb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3251334f4459344d544a684c54686c4d5759744e4451774e6930354f4745774c5455345a474e6b4e4755794f544268595335775a47593d&fich=d786812a-8e1f-4406-98a0-58dcd4e290aa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-09-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324a6a4f574a6c4d6a51794c5449344e6a59744e4463314f5330354e444a6b4c5751784e5467334e444d345a6a426a597935775a47593d&fich=bc9be242-2866-4759-942d-d1587438f0cc.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6b784e4467795a5455794c546777593259744e444977595330354e4445774c5467775a4755314d6a49774f4446694f4335775a47593d&fich=91482e52-80cf-420a-9410-80de522081b8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-12-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a5a6b4e5451354e5459324c54526c596a67744e44597a4d7930354e47466a4c54646d4e7a5a6d4e5445784d54646a597935775a47593d&fich=6d549566-4eb8-4633-94ac-7f76f51117cc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4a6a596a526d596a46694c54557a597a55744e47497a4e5331694d47566d4c544d304d546b304f54686d595745354e7935775a47593d&fich=2cb4fb1b-53c5-4b35-b0ef-3419498faa97.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-04-10",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": null,
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-03-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6b354e475268596d4e684c546b785a5751744e44646c5a6930355a44646d4c574e694e6d4e6b4d7a5a6c4e6a45354f5335775a47593d&fich=994dabca-91ed-47ef-9d7f-cb6cd36e6199.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12213",
+    "PetAssunto": "Pretendem que seja cumprido o estabelecido no protocolo realizado entre o Instituto de Habitação e Reabilitação Urbana (IHRU) e a Cooperativa Nova Imagem, devendo o IHRU tomar a posse das construções já edificadas.",
+    "PetDataEntrada": "2012-02-26",
+    "PeticoesAssociadas": null,
+    "PetId": "12213",
+    "PetLeg": "XII",
+    "PetNr": "101",
+    "PetNrAssinaturas": "6",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
