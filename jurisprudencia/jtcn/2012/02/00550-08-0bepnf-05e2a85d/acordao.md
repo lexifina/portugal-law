@@ -1,0 +1,665 @@
+# Acórdão do Tribunal Central Administrativo Norte de 2012-02-29, processo 00550/08.0BEPNF
+
+**Acórdãos TCAN:** Acórdão do Tribunal Central Administrativo Norte
+
+**Processo:** 00550/08.0BEPNF
+
+**Secção:** 2ª Secção - Contencioso Tributário
+
+**Data do Acordão:** 02/29/2012
+
+**Tribunal:** TAF de Penafiel
+
+**Relator:** Paula Fernanda Cadilhe Ribeiro
+
+**Descritores:** OMISSÃO DE PRONÚNCIA; IVA; FACTURAS FALSAS; DEDUÇÃO INDEVIDA DE IVA; ÓNUS DA PROVA
+
+**Recorrente:** A..., Lda
+
+**Recorrido 1:** Fazenda Pública
+
+**Parecer Ministério Publico:** 1
+
+## Sumário
+
+1- Só há nulidade da sentença por omissão de pronúncia quando o juiz não aprecia determinada questão quando o deve fazer, não se confundindo questões com argumentos.
+
+2- Se a liquidação impugnada de IVA tem por fundamento a dedução indevida do imposto, à administração tributária compete fazer prova de que estão verificados os pressupostos legais que legitimam a sua actuação, e caso a faça, passa a competir ao contribuinte o ónus da prova da existência e dimensão dos factos tributários que alegou como fundamento do seu direito de dedução do imposto nos termos do art. 19.º do CIVA.*
+
+* Sumário elaborado pelo Relator
+
+## Decisão Texto Integral
+
+Acordam, em conferência, os Juízes que constituem a Secção de Contencioso Tributário do Tribunal Central Administrativo Norte:
+
+I – RELATÓRIO
+
+A…, Lda., com sede na Rua…, concelho de Paredes, não se conformando com a sentença proferida pelo Tribunal Administrativo e Fiscal de Penafiel, que julgou improcedente a impugnação deduzida contra as liquidações de Imposto sobre o Valor Acrescentado (IVA) referente aos exercícios de 2001, 2002 e 2003, interpôs o presente recurso jurisdicional, formulando as seguintes conclusões:
+
+«1.- Na douta decisão, houve omissão quanto ao alegado exagero da tributação, violação dos princípios da tributação do lucro real, da proporcionalidade e do exagero da capacidade contributiva.
+
+2.- Face aos rácios aplicados ao sector não é possível conseguirem-se lucros tão elevados, pelo que imperiosa era a consideração dos custos e consequentemente a não liquidação do IVA sobre os mesmos nem do IRC.
+
+3.- A douta decisão, ao invés dos rácios a nível nacional de 0,91, 0,85 e 0,74 relativamente aos exercícios de 2001, 2002 e 2003, considerou 29,09; 43,12 e 41,13, o que, com o devido respeito se traduz em absurdo e desconforme.
+
+4.- As regras da experiência ditam de forma diferente do doutamente decidido.
+
+5.- A douta decisão violou os princípios da proporcionalidade da tributação do lucro real, da capacidade contributiva, da legalidade e da igualdade perante a lei.
+
+6.- A douta decisão ao dar como provado que a recorrente não tinha capacidade para produzir tudo o vendia, não podia decidir sobre a manutenção da liquidação do IVA e do IRC.
+
+7.- Houve erro na douta sentença quanto aos factos constantes de NNN), OOO) e PPP), porquanto a consequência seria a da anulação dos actos tributários e dos tributos liquidados, havendo, assim, contradição.
+
+8.- A douta decisão ao fundamentar não saber a origem dos móveis, existindo dúvida, deveria pronunciar-se a favor da recorrente, dando crédito à contabilidade.
+
+Ao não fazê-lo, errou, pois a dúvida resultaria em beneficio da recorrente.
+
+9.- A douta decisão acompanhou o relatório da Inspecção Tributária, que foi impugnado, não se mostrando o mesmo provado.
+
+10.- Aliás, não pode a recorrente suportar as anomalias dos seus fornecedores.
+
+Errou a douta sentença, porquanto aderiu ao relatório da Inspecção, quando este atenta contra as regras da experiência e o senso comum.
+
+11.- O relatório da inspecção tributária é tendencioso, pois refere que os rácios da recorrente entre volume de negócios/custos de produção apresentados é similar aos aplicados a nível nacional de volumes de produção/custos de produção, quando tal não é verdade.
+
+A douta decisão errou porquanto deu provados esses rácios, que não correspondem à realidade, face aos números apresentados.
+
+12.- A douta decisão deu como não provadas as aquisições de mercadorias da recorrente a J... e M... , bem como as emissões de facturas, quando, através da prova produzida, tudo leva a que sejam dados como provados, assim errando a douta sentença.
+
+A douta sentença violou, entre o mais, o disposto nos artigos 668º CPC 100º e 125º CPPT, 23º CIRC, 19º e ss CIVA, 341 e ss CC.».
+
+Não houve contra-alegações.
+
+Neste Tribunal o Digno Magistrado do Ministério Público emitiu o seguinte parecer: «Aderimos e acompanhamos, sem reserva, a fundamentação expressa na sentença quer quanto à matéria de facto dada como provada, quer quanto à interpretação e aplicação das normas legais invocadas, pelo que não se nos afigura passível de censura.».
+
+Colhidos os vistos legais, cumpre decidir.
+
+Questões a decidir:
+
+- Saber se a sentença recorrida padece de nulidade por omissão de pronúncia.
+
+- Saber se a sentença recorrida errou o julgamento ao dar como provado os rácios da recorrente volume de negócios/custos.
+
+- Saber se a sentença recorrida errou o julgamento ao considerar que as facturas emitidas por J...e M...não correspondem a transacções reais.
+
+- Saber se a sentença recorrida violou os princípios da proporcionalidade da tributação do lucro real, da capacidade contributiva, da legalidade e da igualdade perante a lei.
+
+II– FUNDAMENTAÇÃO
+
+II.1. DE FACTO
+
+O Tribunal Administrativo e Fiscal de Penafiel deu como provada a seguinte factualidade:
+
+A) A impugnante foi sujeita a uma acção inspectiva externa parcial ao IVA e ao IRC dos exercícios de 2001, 2002 e 2003 (fls. 103 do apenso). - -
+
+B) A acção inspectiva teve origem numa proposta resultante da análise interna dos pedidos de reembolso de IVA para os períodos do 2.º trimestre de 2001 e para o 3.º trimestre de 2002 e 2003 (fls. 103 verso do apenso). - -
+
+C) O motivo dessa proposta prende-se com a dedução do IVA associado à aquisição de mercadorias aos sujeitos passivos J..., contribuinte fiscal n.º 1..., que não declarava nas respectivas declarações periódicas a totalidade do IVA liquidado e respectiva base tributável, e M... , contribuinte fiscal n.º 2..., que apresenta falta de entrega de declarações periódicas do IVA no exercício de 2003 (fls. 103 verso). - -
+
+D) A impugnante apresentou as declarações de rendimento e as declarações periódicas de IVA relativas aos exercícios em causa (fls. 104 do apenso). - -
+
+E) Os serviços de inspecção visitaram as instalações fabris do fornecedor da A…, J…, para verificarem, em termos de estrutura produtiva e em termos contabilísticos e fiscais, da veracidade das transmissões de mercadoria à impugnante (fls. 104 do apenso). - -
+
+F) Os serviços de inspecção tributária apuraram que nos exercícios de 2001, 2002 e 2003 aquele fornecedor, J..., adquiriu madeira de cerejeira destinada ao fabrico de móveis no valor de 36.714,63 € em 2001, 18.104,97 € em 2002 e 1.165,86 € em 2003 (fls. 104 do apenso). - -
+
+G) No mesmo período o J... facturou à impugnante a venda de móveis em cerejeira no valor global de 161.149,13 € em 2001, 215.000,50 € em 2002 e 116.625,00 € em 2003 (fls. 104 verso do apenso). - -
+
+H) Instado a esclarecer tão grande divergência entre o valor de madeira comprada e o valor das facturas de móveis vendidos à impugnante, J... alegou que isso tinha resultado de uma entrega de dois camiões cerejeira que lhe tinha sido efectuada por pessoa que não identificou de nacionalidade francesa e que se destinava ao fabrico de móveis para o mesmo (fls. 104 verso do apenso).
+
+I) Como tal pessoa nunca mais apareceu, contactou a A… que aceitou escoar os móveis que já tinha fabricado com a madeira que nunca tinha sido facturada e tinha sido depositada à sua porta (fls. 104 verso do apenso). - -
+
+J) À inspecção tributária não foi apresentado qualquer documento identificativo das alegadas existências (fls. 104 do apenso). - -
+
+K) As facturas que emitiu para a A… não tinham sequência numérica e data de emissão, sobretudo a partir de 2001 e em 2002 (fls. 104 verso e 105 do apenso). - -
+
+L) J… emitiu as seguintes facturas (fls. 104 verso e 105 do apenso): - -
+
+Cliente A…, Ld.ª
+Outros clientes
+
+Factura
+DataFacturaData
+
+853
+27/9/20018541/10/2001
+
+798
+2/10/2001855Anulada
+
+799
+2/11/20018562/11/2001
+
+800
+2/12/200185711/12/2001
+
+701
+3/1/2002858Anulada
+
+702
+18/2/200285912/12/2001
+
+703
+14/3/200286013/12/2001
+
+632
+8/4/2002861 e 862Anuladas
+
+635
+13/5/200286326/2/2002
+
+644
+11/6/200286430/4/2002
+
+650
+3/7/200286516/4/2002
+
+651
+5/8/2002866Anulada
+
+656
+5/9/200286718/4/2002
+
+668
+4/11/2002868Anulada
+
+682
+3/12/200286925/5/2002
+
+704
+29/7/200387025/5/2002
+
+705
+26/8/20038713/6/2002
+
+706
+30/9/200387220/6/2002
+
+707
+27/10/200387322/6/2002
+
+887
+30/4/200387428/6/2002
+
+888
+30/5/20038754/7/2002
+
+8769/7/2002
+
+87725/7/2002
+
+87826/7/2002
+
+8791/8/2002
+
+M) J... explicou o procedimento de facturação alegando que tinha havido uma inundação no arquivo que tinha inutilizado grande parte dos livros de facturas, pelo que, em cada livro, aproveitaram-se apenas alguns exemplares (fls. 105 do apenso). - -
+
+N) J... não apresentou qualquer documento comprovativo desta situação designadamente, participação à companhia de seguros, bombeiros ou outras entidades (fls. 105 do apenso). - -
+
+O) As facturas emitidas à impugnante não foram objecto de qualquer registo contabilístico (fls. 105 do apenso). - -
+
+P) Com excepção das facturas n.ºs 704, 705, 887 e 888, não existia em arquivo qualquer cópia das facturas (fls. 105 do apenso). - -
+
+Q) As facturas emitidas diziam respeito a móveis identificados exactamente com as mesmas referências do cliente nas suas vendas (fls. 105 do apenso). - -
+
+R) As facturas eram dadas como pagas mediante a emissão dum recibo pelo valor integral da factura e na mesma data (fls. 105 do apenso). - -
+
+S) A assinatura que consta do recibo não confere com a do contribuinte (fls. 105 do apenso). -
+
+T) J... esclareceu que os recibos eram emitidos e assinados por uma funcionária administrativa (fls. 105 do apenso). - -
+
+U) Os recibos eram emitidos sem que as facturas tivessem sido, de facto, pagas (fls. 105 do apenso). - -
+
+V) Este procedimento foi justificado pela circunstância do cliente dizer que sem o recibo não podia solicitar o reembolso do IVA (fls. 105 do apenso). - -
+
+W) Essas facturas nunca eram pagas de uma só vez, parte era paga em cheque e outra em dinheiro (fls. 105 do apenso). - -
+
+X) Os cheques não eram depositados na conta bancária de J... por estar inibido de a movimentar, tendo sido trocados por dinheiro com recurso a um indivíduo que se dedica a esse tipo de negócio (fls. 105 do apenso). - -
+
+Y) Relativamente ao fornecedor M... não foi possível verificar a estrutura de produção da unidade fabril do sujeito passivo, uma vez que o mesmo cessou a sua actividade em 31/12/2003, tendo sido consultados os documentos existentes na contabilidade (fls. 105 do apenso). - -
+
+Z) Da análise dos registos contabilísticos e respectivos documentos de suporte da actividade exercida por M..., a inspecção tributária verificou que nos exercícios de 2002 e 2003, a quantidade de madeira de cerejeira adquirida para fabricação dos móveis facturados à impugnante foi manifestamente insuficiente para as vendas (fls. 105 do apenso). - -
+
+AA) M... tem compras de cerejeira em 2002, no valor de 32,71 €, e em 2003, no valor de 1.409,71 (fls. 105 e verso do apenso). - -
+
+BB) Em 2003 M... emitiu facturas de vendas de móveis em cerejeira à impugnante no valor de 116.075,00 € (fls. 105 e verso do apenso). - -
+
+CC) Nos exercícios de 2002 e 2003 a estrutura de vendas de M... foi (fls. 105 verso do apenso): - -
+
+Factura
+Data
+Cliente
+NIPC
+Valor
+IVA
+
+1
+30/9/2002
+…504 856 405
+1.286,90 €
+244,51 €
+
+2
+…
+
+0209T
+…1.286,90 €
+244,51 €
+
+3
+9/10/2002
+…501 161 252
+170,00 €
+32,30 €
+
+4
+10/10/2002
+…155 884 883
+5.212,00 €
+990,28 €
+
+5
+14/10/2002
+…155 884 883
+1.930,00 €
+366,70 €
+
+6
+12/11/2002
+…
+502 510 820
+2.350,00 €
+446,50 €
+
+7
+28/11/2002
+…501 161 252
+1.992,00 €
+378,48 €
+
+8
+29/11/2002
+…501 161 252
+691,00 €
+131,29 €
+
+9
+2/12/2002
+…501 161 252
+3.238,00 €
+615,22 €
+
+0212T
+…15.583,00 €
+2.960,77 €
+
+2002
+…
+16.869,90 €
+3.205,28 €
+
+10
+20/1/2003
+…503 508 721
+30.815,00 €
+5.854,85 €
+
+11
+4/2/2003
+…503 508 721
+25.800,00 €
+4.902,00 €
+
+12
+4/2/2003
+…155 884 883
+1.084,10 €
+206,00 €
+
+13
+28/3/2003
+…503 508 721
+31.300,00 €
+5.947,00 €
+
+0303T
+…
+88.999,10 €
+16.900,85 €
+
+14
+20/4/2003
+…198 858 639
+425,00 €
+80,75 €
+
+15
+…
+
+16
+30/6/2003
+…503 508 721
+26.160,00 €
+4.970,40 €
+
+0306T
+…26.585,00 €
+5.051,15 €
+
+2003
+…115.584,10 €
+21.961,00 €
+
+Total
+…132.454,00 €
+25.166,28 €
+
+DD) Da análise dos documentos (contrato de leasing) e mapas de salários existentes na contabilidade de M..., verifica-se que o sujeito passivo possui uma estrutura produtiva insuficiente, quer ao nível do equipamento, quer ao nível da mão-de-obra, para fazer face ao volume de facturação emitida em nome da impugnante (fls. 105 verso do apenso). - -
+
+EE) Pela análise do extracto da conta-corrente de M... , recolhido na impugnante, comprova-se que não foi efectuado qualquer pagamento relativo às facturas emitidas (fls. 106 do apenso). - -
+
+FF) Na contabilidade da impugnante o extracto da conta do fornecedor J... evidencia pagamentos integrais das facturas, contabilizados na mesma data, face à emissão do recibo na data da factura, sendo consideradas como pagas a dinheiro (fls. 106 do apenso). - -
+
+GG) A impugnante apresentou como documentos comprovativos dos pagamentos, fotocópias de cheques ao portador, de valores reduzidos face aos valores de cada factura, que representam cerca de 11% do total facturado (fls. 106 do apenso). - -
+
+HH) A inspecção tributária considera que os pagamentos em cheque indiciam tratar-se do pagamento da vulgarizada “comissão” (fls. 106 do apenso). - -
+
+II) Â…, legal representante da impugnante esclareceu que: (fls. 106 verso do apenso) - -
+
+1) Não identifica a assinatura dos recibos emitidos pelo sujeito passivo J..., os quais eram entregues, no início do mês seguinte ao da emissão da factura, já preenchidos e assinados, altura em que era solicitado o respectivo pagamento; - -
+
+2) Os pagamentos eram, na maioria efectuados em dinheiro, existindo a emissão de alguns cheques a pedido do fornecedor J... para, segundo este, fazer o endosso a fornecedores; - -
+
+3) Relativamente aos restantes fornecedores, nomeadamente de madeira, os pagamentos eram efectuados através de cheque ou letras, só os pequenos pagamentos (combustíveis, ferramentas e utensílios, etc…), eram feitos em dinheiro caso existisse disponibilidade em caixa; - -
+
+4) Os móveis fabricados por J... eram transportados por ele ao longo do mês, a partir suas instalações, sem qualquer documento de transporte e as facturas eram emitidas no final de cada mês pela totalidade da mercadoria fabricada; e - -
+
+5) A A... recorria a produção exterior à sua unidade fabril, pelo facto de não capacidade de produção para as encomendas angariadas, devido à fraca produtividade da mão-de-obra e do insuficiente investimento efectuado em equipamento. - -
+
+JJ) Da análise dos movimentos contabilísticos e financeiros da impugnante constatou-se que não foi paga nenhuma das facturas emitidas pelo fornecedor M... (fls. 106 verso do apenso). - -
+
+KK) Da visita às instalações da impugnante, foi possível verificar que esta fabrica o mesmo tipo móveis adquiridos ao fornecedor supra mencionado, possuindo uma estrutura produtiva superior, quer a nível das instalações, quer ao nível do equipamento e da mão-de-obra (fls. 106 verso do apenso). - -
+
+LL) Em 2001, 2002 e 2003, as vendas efectuadas pela empresa A... com origem na simples comercialização, assumem os seguintes montantes (em euros): (fls. 106 e 107 doa penso) - -
+
+2001
+%
+2002
+%
+2003
+%
+
+1 – Compras de mercadorias151.584,99
+230.001,54
+241.925,36
+
+2 – Margem bruta comercialização50%
+50%
+50%
+
+3 - Vendas de mercadorias (1) X 1,50227.377,49
+43%
+345.002,31
+54%
+362.888,04
+52%
+
+4 – Vendas de produtos (5) – (3)306.891,70
+47%
+293.969,47
+46%
+341.508,01
+48%
+
+5 – Volume de negócios534.269,19
+638.971,78
+704.396,05
+
+MM) Nos exercícios de 2001, 2002 e 2003, a capacidade instalada ao nível da mão-de-obra apresenta-se coerente com a produção do total das vendas facturadas, porquanto o rácio que se obtém por comparação entre o custo da mão-de-obra com as vendas situa-se próximo dos valores dos rácios nacionais (fls. 107 do apenso). - -
+
+NN) O rácio volume de negócios/custos com pessoal da impugnante nos exercícios de 2001, 2002 e 2003 foi de, respectivamente 5,00, 4,76 e 5,54 (fls. 107 do apenso). - -
+
+OO) O rácio volume de negócios/custos com pessoal para o sector da impugnante – CAE 36141, nos exercícios de 2001, 2002 e 2003 foi de, respectivamente 3,68, 3,60 e 3,42 (fls. 107 do apenso).
+
+PP) O rácio do resultado líquido das vendas para o sector da impugnante foram, de mediana, em 2001 de 0,91, em 2002 de 0,85 e em 2003 de 0,74 (fls. 47 a 51). - -
+
+QQ) A administração tributária concluiu que as facturas alegadamente emitidas pelos fornecedores J… e M… evidenciam elementos e estão rodeadas de procedimentos que demonstram a ausência de materialidade das operações nelas referenciadas, consubstanciando operações simuladas (fls. 107 do apenso). - -
+
+RR) P…, legal representante da impugnante, notificado destas conclusões do relatório, para justificar as aquisições efectivas de mercadorias/matérias-primas efectuadas nos exercícios de 2001, 2002 e 2003, que serviram de suporte às vendas declaradas, apresentou os respectivos documentos comprovativos, nomeadamente: facturas, notas de encomenda, guias de remessa, documentos de transporte, documentos de pagamento, etc., identificando: Nome do fornecedor e identificação fiscal; Descrição dos bens adquiridos; Valor dos bens adquiridos (líquido de IVA); e Valor do IVA (fls. 107 do apenso). - -
+
+SS) Relativamente aos fornecedores J… e M… afirmou que (fls. 107 do apenso): - -
+
+i) Efectuaram de facto as aquisições a esses fornecedores, mas não possuem qualquer documento comprovativo do transporte dos bens, nomeadamente, guias de remessa, documentos de transporte; e - -
+
+ii) Todo o negócio e pagamentos relativo aos bens facturados pelos dois fornecedores, foi tratado com o J…. - -
+
+TT) A administração tributária não aceitou fiscalmente como custo dos exercícios de 2001, 2002 e 2003, registados contabilisticamente como compras de mercadorias, os montantes facturados pelos fornecedores J… e M…, no valor de 136.660,65 €, em 2001, 222.740,00 €, em 2002, e 232.700,00 €, em 2003 (fls. 108 do apenso). - -
+
+UU) Com estas correcções o lucro tributável para os exercícios de 2001, 2002 e 2003 foi: - -
+
+Exercício
+Lucro tributável declarado (a)
+Custo não aceite fiscalmente (b)
+Lucro tributável corrigido (a) + (b)
+
+2001
+18.765,27 €
+136.660.65 €
+155.425,92 €
+
+2002
+52.788,06 €
+222.740,00 €
+275.528,06 €
+
+2003
+59.150,31 €
+232.700,00 €
+291.850,31 €
+
+VV) Não foi aceite a dedução efectuada a título de prejuízos fiscais, inscrita no campo 309 da Declaração Modelo 22 de IRC do exercício de 2002, no montante de 18.659,51 €, na medida em que o prejuízo fiscal apurado no quadro 07 da Declaração Modelo 22 de IRC de 1998, no montante de 45.373,89 €, é deduzido nos exercícios de 1999 a 2001 (fls. 108 do apenso). - -
+
+WW) A impugnante aquando do exercício do direito de audição aceitou as correcções realizadas aos prejuízos fiscais de 2001 e 2002 (fls. 110 e 115 do apenso). - -
+
+XX) Em sede de IVA, não foi considerado dedutível, o IVA apurado nas facturas emitidas em nome da empresa pelos fornecedores J... e M..., nos montantes totais de 23.232,32 €, em 2001, 41.180,47 €, em 2002, e 44.211,60 €, em 2003, discriminados nos mapas de fls. 108 verso e 109 do apenso, que aqui se dão por integralmente reproduzidos. - -
+
+YY) As facturas emitidas pelos fornecedores J... e M... não foram aceites pela administração tributária porque correspondiam a negócios simulados (fls. 108 e verso do apenso). - -
+
+ZZ) A administração tributária procedeu a correcções de natureza meramente aritmética da matéria colectável de IRC da impugnante nos exercícios de 2001, 2002 e 2003, nos montantes de, respectivamente, 136.660,65 €, 222.740,00 € e 232.700,00 € (fls. 101 verso e 102 do apenso). - -
+
+AAA) A administração tributária procedeu à correcção do IVA indevidamente deduzido, no valor de 23.232,32 €, em 2001, 41.180,47 €, em 2002, e 44.211,60 €, em 2003 (fls. 101 verso e 102 do apenso). -
+
+BBB) As correcções do IVA deram origem às liquidações de IVA e juros compensatórios impugnadas (fls. 77 a 102 do apenso). - -
+
+CCC) Em 12/5/2006, a impugnante apresentou uma reclamação graciosa das liquidações impugnadas, cujo teor consta de fls. 3 a 9 do apenso e que aqui se dá por integralmente reproduzido.
+
+DDD) Na reclamação graciosa a impugnante alega, em síntese, que os produtos constantes das facturas emitidas por J... e M... foram efectivamente fornecidos, tanto mais que não tinham capacidade para produzir os produtos vendidos e auferir o lucro tributável, juntou prova documental e testemunhas (fls. 3 a 9 do apenso). - -
+
+EEE) À reclamação a impugnante juntou fotocópia dos cheques entregues a J... todos emitidos ao portador; um extracto bancário; balancete razão financeira mensal e acumulado da impugnante (fls. 3 a 76 do apenso). - -
+
+FFF) Sobre a reclamação foi proferido o projecto de despacho de fls. 129 a 133 do apenso e o despacho de indeferimento da reclamação de fls. 138 e 139 do apenso, que aqui se dão por integralmente reproduzidos. - -
+
+GGG) A impugnante recorreu hierarquicamente do despacho de indeferimento da reclamação graciosa nos termos do requerimento de fls. 144 a 150 do apenso, que aqui se dá por integralmente reproduzida. - -
+
+HHH) Em síntese, invoca os mesmos fundamentos da reclamação graciosa e alega a omissão de pronúncia da reclamação graciosa por não apreciar as alegações e provas da reclamação (fls. 144 a 150 do apenso). - -
+
+III) O recurso hierárquico foi indeferido pelo despacho de fls. 179 a 188 do apenso, cujo teor aqui se dá por integralmente reproduzido. - -
+
+JJJ) A impugnante não pagou o valor do IVA e dos juros compensatórios das liquidações impugnadas (fls. 118 a 125 do apenso). - -
+
+KKK) A impugnante teve custos com pessoal, com remunerações, no valor de 56.144,47 €, 70.449,78 € e 62.648,01 €, respectivamente nos exercícios de 2001, 2002 e 2003 (fls. 50, 63 e 74 do apenso).
+
+LLL) A impugnante procedeu ao registo das facturas emitidas por J... e M... (relatório da inspecção tributária). - -
+
+MMM) A impugnante tinha ao seu serviço em média 15 trabalhadores, sendo que destes, 2 estiveram permanentemente de baixa médica (testemunhas). - -
+
+NNN) A impugnante não tinha capacidade, por falta de meios humanos de fabricar todas as mercadorias que o mercado lhe pedia para vender (testemunhas). - -
+
+OOO) E por esse motivo, foi obrigada a recorrer a outros fornecedores (testemunhas). - -
+
+PPP) Não era possível à impugnante realizar os volumes de negócios que realizou se não tivesse recorrido a terceiros (testemunhas). - -
+
+QQQ) A administração tributária exigiu a J... e M... o IVA indevidamente mencionado nas facturas emitidas por eles (fls. 70 a 80). - -
+
+RRR) A administração tributária procedeu à tributação de IRC e IVA de M... , por aplicação de métodos indirectos, com base no volume de negócios determinado de 16.869,90 € e 29.583,23 €, respectivamente (fls. 70 a 74). - -
+
+SSS) A administração tributária procedeu à tributação de IRC e IVA de J..., por aplicação de métodos indirectos, com base no volume de negócios determinado de 48.283,76 € e 34.021,02 €, respectivamente (fls. 75 a 80). - -
+
+Com relevância para a decisão da causa, o tribunal julga não provado: - -
+
+1) A impugnante procedeu à aquisição e comercialização das mercadorias constantes das facturas emitidas por J... e M... . - -
+
+2) A impugnante adquiriu os móveis constantes nessas facturas. - -
+
+3) Esses móveis eram fabricados pelos fornecedores J... e/ou M... . - -
+
+4) Ao longo de cada mês estes fornecedores transportavam os móveis fabricados para as instalações da impugnante, que os conferia. - -
+
+5) No final de cada mês, em regra, os referidos fornecedores emitiam a respectiva factura relativamente aos móveis vendidos ao longo do mês. - -
+
+6) A impugnante ia procedendo a pagamentos parcelarmente, umas vezes consoante os fornecimentos ao longo do mês, outras vezes por entregas mais frequentes, sempre que solicitado por aqueles que alegavam dificuldades financeiras. - -
+
+7) Por diversas vezes, os fornecedores atrás referidos, J... e/ou M... solicitavam também que lhes fossem emitidos cheques para eles endossarem a fornecedores deles, o que, por diversas vezes foi feito. - -
+
+8) A impugnante recorreu a J... e a M... como seus fornecedores de móveis. - -
+
+A impugnante adquiriu mercadorias a J... e M... , que são transacções reais e efectivas.».
+
+II.2. DE DIREITO
+
+O Tribunal Administrativo e Fiscal de Penafiel julgou improcedente a impugnação judicial apresentada pela ora recorrente relativamente às liquidações IVA dos exercícios de 2001, 2002 e 2003, correspondente a imposto deduzido indevidamente nos termos do n.º 3 do artigo 19.º do Código do IVA – imposto deduzido com base em facturas a que não correspondem operações reais.
+
+II.2.1. Nulidade da sentença
+
+A primeira questão colocada pela recorrente prende-se com a omissão de pronúncia do Tribunal a quo quanto à violação dos princípios da tributação do lucro real, da proporcionalidade e do exagero da capacidade contributiva.
+
+Alega a recorrente que o Meritíssimo Juiz deu como provado que: “O rácio do resultado líquido das vendas para o sector da impugnante foram, de mediana, em 2001 de 0,91, em 2002 de 0,85 e em 2003 de 0,74”, mas não tirou nenhuma consequência em termos de decisão, havendo omissão. E que a administração fiscal para o resto dos contribuintes afere a veracidade dos elementos contabilísticos pelos rácios de 0,01, 0,85 e 0,74 relativamente aos exercícios de 2001, 2002 e 2003, e para a recorrente os rácios que decorrem são de 29,09, 43,12 e 41,43, sendo absurdo os lucros tributáveis fixados.
+
+Nos termos do artigo 125.º do Código de Procedimento e de Processo Tributário (CPPT) a sentença é nula quando há falta de pronúncia sobre as questões que o juiz deva apreciar - também prevista no artigo 668.º, n.º 1, alínea d) do Código de Processo Civil (CPC).
+
+O juiz deve conhecer de todas as questões que as partes tenham submetido à sua apreciação, exceptuadas aquelas cuja decisão esteja prejudicada pela solução dada a outras – artigo 660.º, n.º 2 do CPC ex vi artigo 2.º, alínea e) do CPPT.
+
+O Tribunal recorrido sobre a violação dos princípios da tributação do lucro real, da proporcionalidade e do exagero da capacidade contributiva que a ora recorrente havia invocado na petição inicial pronunciou-se nos seguintes termos:
+
+«A violação dos princípios da tributação do lucro real, da proporcionalidade, do exagero e da capacidade contributiva. - -
+
+A alegada ilegalidade das liquidações impugnadas por violação dos princípios da tributação do lucro real, da proporcionalidade, do exagero e da capacidade contributiva também não se verificou (arts. 104.º, n.ºs 2 e 4, da Constituição da República Portuguesa (CRP), 4.º, n.º 1, 5.º, 7.º e 8.º da LGT). - -
+
+Tais ilegalidades ocorreriam se as liquidações impugnadas não tivessem correspondência com a realidade, o que não é o caso dos autos. - -
+
+Com efeito, as liquidações impugnadas e os respectivos montantes decorrem da não consideração do IVA dedutível, constante das facturas, que a administração tributária considerou constituírem operação simulada. Se as liquidações realizadas são efectuadas pelo valor equivalente ao IVA constante das facturas que foram desconsideradas, isto é, se a administração tributária liquida o IVA pelo mesmo montante que consta das facturas que integram uma operação simulada, o valor liquidado tem correspondência com a realidade. - -
+
+O valor liquidado é o mesmo que foi indevidamente deduzido, logo não existe qualquer violação da tributação do lucro real e da capacidade contributiva da impugnante ou qualquer desproporcionalidade ou exagero da liquidação. - -
+
+A liquidação adicional revela apenas que o lucro obtido pela impugnante e a sua capacidade contributiva não tiveram origem nos fornecimentos realizados por J... e M... . Isto é, a actividade produtiva da impugnante que realizou aquele volume de negócios teve origem em mercadorias que lhe foram fornecidas por outros fornecedores, que não J... e M..., ou por muitos outros meios que não compete ao tribunal indagar.».
+
+O Tribunal recorrido pronunciou-se, como resulta do excerto transcrito, de forma clara e peremptória sobre a questão colocada, dizendo que não havia violação dos princípios da tributação do lucro real, da proporcionalidade e do exagero da capacidade contributiva.
+
+É certo que para tal pronúncia o Tribunal recorrido não tratou dos rácios que a recorrente havia arguido como suporte para as violações invocadas. Porém, e como é jurisprudência assente, questões não se confundem com argumentos e o conhecimento das questões não significa que o tribunal tenha de conhecer de todos os argumentos ou razões invocadas pela parte em abono da sua tese – cfr. Jorge Lopes de Sousa, Código de Procedimento e de Processo Tributário, Volume II, 6ª edição, nota 10 ao artigo 125.º, p. 362-364.
+
+A sentença não padece da nulidade invocada.
+
+II.2.2. Erro de julgamento da matéria de facto
+
+Alega ainda a recorrente que há erro da matéria de facto quanto à alínea “NN” respeitante aos rácios da recorrente (conclusão 11), os quais não correspondem à realidade, o que fez assentar a sentença em premissas erradas.
+
+Consta da referida alínea do probatório:
+
+«NN - O rácio volume de negócios/custos com pessoal da impugnante nos exercícios de 2001, 2002 e 2003 foi de, respectivamente 5,00, 4,76 e 5,54 (fls. 107 do apenso).».
+
+Tal facto foi dado como provado com base no relatório da fiscalização (fls. 107 do apenso) onde constam os cálculos efectuados pela administração tributária para apurar os rácios em causa. Estes rácios não foram postos em causa na petição inicial, que a eles não faz qualquer referência e, por falta de impugnação, foram dados como provados pelo Tribunal recorrido, não merecendo tal juízo qualquer censura.
+
+II.2.3. Erro de julgamento quanto à falsidade das facturas
+
+A administração tributária concluiu que o imposto mencionado nas facturas emitidas por J… e M... foi indevidamente deduzido pela impugnante nos termos do n.º 3 do artigo 19º do Código do IVA, por a elas não corresponderem transacções reais, o que deu origem às liquidações impugnadas.
+
+Dispõe o artigo 19.º, n.º 3 do Código do IVA que «Não poderá deduzir-se imposto que resulte de operação simulada ou em que seja simulado o preço constante da factura ou documento equivalente».
+
+As liquidações impugnadas respeitam, como se disse, a imposto indevidamente deduzido pela impugnante (cfr. artigos 19.º a 25.º do Código do IVA), e não a imposto que a administração fiscal considera que não foi e deveria ter sido entregue pela impugnante.
+
+É importante ter presente o fundamento jurídico da liquidação impugnada, fazendo a distinção que fizemos, porquanto daqui resultará a inocuidade de parte da argumentação da recorrente face às liquidações em causa nos autos.
+
+Assim, desde logo, a invocação dos princípios da tributação do lucro real, da proporcionalidade e da capacidade contributiva (conclusão 5), não tem pertinência para as liquidações em causa, pois resultam directamente da aplicação de um comando legal, o disposto no n.º 3 do artigo 19.º do Código do IVA.
+
+E porque a liquidação em causa resulta directamente do disposto no n.º 3 do artigo 19.º do Código do IVA, não faz qualquer sentido a alegação de que haveria de se considerar os custos «e consequentemente a não liquidação do IVA sobre os mesmos» (conclusão 2) pois de custos não trata o processo, nem a referência ao Imposto sobre o Rendimento das Pessoas Colectivas (conclusão 2).
+
+O que importa nos autos, considerando o fundamento legal do acto aqui impugnado, é saber se as facturas daqueles emitentes são falsas, no sentido de que não traduzem transacções reais, tal como entendeu a administração tributária.
+
+Como tem sido jurisprudência uniforme deste Tribunal Central Administrativo Norte, quando a administração tributária desconsidera as facturas que reputa de falsas, aplicam-se as regras do ónus da prova do artigo 74.º da Lei Geral Tributária (LGT), competindo à administração tributária, fazer prova de que estão verificados os pressupostos legais que legitimam a sua actuação, ou seja, de que existem indícios sérios de que a operação constante da factura não corresponde à realidade.
+
+Feita esta prova, passa a recair sobre o sujeito passivo o ónus da prova da veracidade da transacção - cfr. Acórdãos do TCA Norte de 24-01-2008, processo n.º 01834/04 Viseu, de 24-01-2008, processo n.º 2887/04 Viseu, de 27-01-2011, processo n.º 455/05.7BEPNF e de 18-03-2011, processo n.º 456/05BEPNF.
+
+De notar que a administração tributária não precisa de demonstrar a falsidade das facturas, bastando-lhe evidenciar a consistência daquele juízo (Acórdão do STA de 27-10-2004, processo n.º 810/04), invocando factos que traduzem uma probabilidade elevada de as operações referidas nas facturas serem simuladas, probabilidade elevada capaz de abalar a presunção legal de veracidade das declarações dos contribuintes e dos dados constantes da sua contabilidade – artigo 75.º da LGT.
+
+O Tribunal recorrido considerou que a administração tributária havia carreado factos suficientemente indiciadores da falsidade das facturas, assim fundamentando:
+
+«No caso em apreço, a administração tributária carreou para os autos prova bastante consistente, coerente e credível da inexistência das operações tituladas pelas facturas emitidas por J... e M... e registadas na contabilidade da impugnante, as quais foram consideradas pela administração tributária, de forma convincente e fundada, como titulando operações simuladas. - -
+
+Basta atentar e conjugar na matéria de facto provada nas alíneas C) e E) a SS), com a matéria de facto não provada, para concluir-se que a administração tributária recolheu indícios sérios da inexistência das operações tituladas pelas facturas. - -
+
+Em síntese, salienta-se, relativamente às emitentes das facturas a falta de aquisição de madeira de cerejeira suficiente para produção dos móveis facturados à impugnante; a explicação inverosímil para o surgimento da madeira no fornecedor J... e a falta de explicação no caso de M... ; contabilização e declaração das mercadorias fornecidas; a forma de emissão das facturas sem sequência numérica e de data de emissão; a explicação inverosímil para tal facto; a falta de capacidade produtiva de M... ; a coincidência das referências constantes das facturas de J... e M... serem exactamente iguais às da impugnante; e a falta de coerência e verosimilhança das circunstâncias e motivos em que eram efectuados os pagamentos dos alegados fornecimentos, em particular os pagamentos em dinheiro e os pagamentos parcelares através de cheques de valores muito inferiores aos das facturas.
+
+Quanto à impugnante ressalta a falta de prova da movimentação de meios financeiros para o pagamento dos fornecimentos alegadamente realizados (aqui atente-se que os cheques apresentados pela impugnante eram emitidos todos ao portador e de valor consideravelmente inferior ao das facturas, apurando-se que representavam cerca de 11% do valor das facturas, não sendo verosímil que os pagamentos das diferenças fossem todos realizados em dinheiro, a diferença de forma de pagamento utilizada pela impugnante para estes fornecedores comparativamente com os restantes, que eram pagos por cheque ou letra), a falta de prova objectiva da contratualização dos serviços prestados comparativamente com o de outros fornecedores (inexistência de prova documental coerente e verosímil destes dois fornecedores, quando relativamente aos demais a impugnante apresentou facturas, notas de encomenda, guias de remessa, documentos de transporte, documentos de pagamento, etc., identificando nome do fornecedor e identificação fiscal; descrição dos bens adquiridos; valor dos bens adquiridos (líquido de IVA) e valor do IVA (alíneas RR) e SS) da matéria de facto)) e a prova objectiva dos pagamentos, sobretudo quando comparada a desconformidade entre a forma de pagamento utilizada com J... e M... (uma pequena parte em cheque e o restante em dinheiro) e a forma de pagamento aos restantes fornecedores com volume de negócio equivalentes (cheque ou letras); a divergência entre a alegada realidade e a forma de contabilização das facturas destes fornecedores (a impugnante e os seus representantes legais alegam que os pagamentos eram feitos em cheque e dinheiro e as facturas foram contabilizadas como pagas a dinheiro); e a divergência entre os alegados pagamentos invocados pela impugnante, as declarações dos seus representantes legais, de J... e da testemunha José Neto e a forma de contabilização das facturas destes fornecedores (a impugnante e os seus representantes legais alegam que os recibos emitidos por J... eram entregues no início do mês seguinte ao da emissão da factura, já preenchidos e assinados, altura em que era solicitado o respectivo pagamento; porém, J... declarou que as facturas e os recibos eram passados na mesma data apesar de não serem realizados os respectivos pagamentos, as facturas e os recibos eram passados no mesmo dia e foram contabilizados na mesma data das facturas e dos recibos; factos desmentidos pelo depoimento de José Neto que alega ter assistido a pagamentos aquando das entregas de mercadorias que ocorriam uma a duas vezes por semana).».
+
+Não nos merece qualquer censura a apreciação do Tribunal recorrido quanto aos factos enumerados pela administração fiscal no relatório da inspecção, de que são indiciadores da falsidade das facturas.
+
+Tais factos conjugados uns com os outros, e ao contrário do que defende a recorrente, constituem indícios sérios e traduzem uma probabilidade elevada de as operações referidas nas facturas serem simuladas, não corresponderem a transacções reais.
+
+Relativamente a esses factos alega a recorrente que não pode suportar as anomalias dos seus fornecedores (conclusão 10), pretendendo tirar-lhes força indiciadora da falsidade das facturas. Mas tal alegação acaba por não ter pertinência pois alheia-se completamente dos factos que com a impugnante estão directamente relacionados enumerados pela administração tributária e que na sentença recorrida ficaram devidamente descritos. E todos, uns conjugados com os outros nos conduzem à elevada probabilidade de as transacções que resultam das facturas não terem na realidade acontecido, em grau suficiente para abalar a presunção da veracidade dos elementos da escrita da impugnante.
+
+Cumprindo a administração tributária o ónus que sobre si impendia, passou a caber à impugnante o ónus de demonstrar a veracidade das transacções.
+
+Ónus que não cumpriu, como também entendeu o Tribunal recorrido, e resulta da factualidade dada como não provada na sentença e que não foi eficazmente posta em causa pela recorrente (cfr. artigo 685.º-B do Código de Processo Civil).
+
+Apesar de não ter atacado directamente a matéria de facto não provada, a recorrente defende que perante a factualidade provada nas alíneas NNN), OOO) e PPP) o Tribunal recorrido teria de anular os actos tributários, havendo contradição (conclusões 6 e 7).
+
+Entende, pois, a recorrente que a matéria de facto provada naquelas alíneas seria suficiente para que se concluísse que as facturas correspondiam a operações reais e, consequentemente, à anulação das liquidações.
+
+Vejamos.
+
+Consta nas referidas alíneas do probatório:
+
+«NNN) A impugnante não tinha capacidade, por falta de meios humanos de fabricar todas as mercadorias que o mercado lhe pedia para vender (testemunhas). - -
+
+OOO) E por esse motivo, foi obrigada a recorrer a outros fornecedores (testemunhas). - -
+
+PPP) Não era possível à impugnante realizar os volumes de negócios que realizou se não tivesse recorrido a terceiros (testemunhas).».
+
+Ora, a factualidade transcrita, ao contrário do defendido pela recorrente, não aponta para a veracidade das facturas, como já havia sido salientado na sentença recorrida: «o facto da impugnante não ter capacidade produtiva própria e ver-se obrigada a recorrer a fornecedores de móveis, não quer dizer que J... e M... forneceram efectivamente os móveis que constam das facturas que emitiram em nome da impugnante. // A impugnante apesar de ter de socorrer-se de fornecedores, não quer dizer que tenha recorrido a esses fornecedores. Daí que o volume de negócios realizado pela impugnante possa até ter sido realizado com móveis de outros fornecedores.».
+
+O que a administração tributária concluiu, e já vimos que fundadamente, foi que aqueles emitentes das facturas em concreto, o J... e M... , não forneceram os móveis mencionados nas facturas à impugnante. Mas tal não significa que a impugnante não tenha recorrido a outros fornecedores tal como refere o Tribunal recorrido.
+
+E porque o tribunal recorrido menciona que «não se sabe em concreto qual é a origem desses móveis» (fls. 13 da sentença), pretende a recorrente que tal desconhecimento jogue a seu favor, dando crédito à sua contabilidade, resultando a dúvida a favor da recorrente.
+
+Mas aquele desconhecimento não tem o efeito pretendido pela recorrente.
+
+Na verdade, o facto tributário em causa, aquele que se pretende ver esclarecido, é o fornecimento de móveis pelo J... e pela M... à impugnante e que constam das facturas consideradas falsas.
+
+Ora, como acima ficou referido, a administração tributária logrou justificar a sua actuação através de indícios sérios da falsidade das facturas. Não tinha para tanto que provar a falsidade das facturas, o que aconteceria caso identificasse os fornecedores que haviam fornecido os móveis. Deste modo, o desconhecimento da origem dos móveis, não pode voltar-se contra a administração tributária, pois sobre ela não recaía o ónus da prova desse facto – artigo 74.º, n.º 1 da LGT e 342.º, n.º 1 do Código Civil. E não pode reverter a favor da recorrente porque era sobre ela que incumbia o ónus de provar a veracidade das transacções que dimanam das facturas.
+
+E por ser sobre a recorrente que recai o ónus da prova da veracidade das transacções não tem aplicação o disposto no artigo 100.º do CPPT que invoca a seu favor.
+
+Esta norma, que dispõe no seu n.º 1 que «Sempre que da prova produzida resulte a fundada dúvida sobre a existência e quantificação do facto tributário, deverá o acto ser anulado», tem aplicação apenas nos casos em que é a administração tributária a afirmar a existência dos factos tributários e respectiva quantificação, e não quando, como é o caso, é ao contribuinte que compete demonstrar a existência e quantificação das transacções patentes nas facturas e com base nas quais deduziu o imposto.
+
+Cfr. Acórdão TCA Norte de 24-01-2008, processo n.º 01834/04 Viseu. No mesmo sentido, entre muitos outros, acórdão STA 17-04-2002, processo n.º 26635 e acórdão STA 07-05- 2003 (Pleno), processo n.º 1026/02.
+
+II.2.4. Da violação dos princípios da proporcionalidade, da tributação do lucro real, da capacidade contributiva, da legalidade e da igualdade perante a lei
+
+A recorrente alega que a sentença recorrida violou os princípios da proporcionalidade, da tributação do lucro real, da capacidade contributiva, da legalidade e da igualdade perante a lei (conclusão 5) mas não concretiza como é que cada um desses princípios, que têm conteúdo próprio, foi por ela afectado.
+
+Ora, o ónus de alegação cabe ao recorrente – artigo 685.º, n.º 1 do CPC - e, não o tendo cumprido, fica este Tribunal impossibilitado de sindicar tal matéria.
+
+Improcedem todas as conclusões de recurso que, assim, não merece provimento.
+
+III – DECISÃO
+
+Em conformidade como exposto, acordam os juízes da Secção do Contencioso Tributário deste Tribunal Central Administrativo Norte em negar provimento ao recurso.
+
+Custas pela recorrente.
+
+Porto, 29 de Fevereiro de 2012
+
+Ass. Paula Ribeiro
+
+Ass. Fernanda Esteves
+
+Ass. Álvaro Dantas
