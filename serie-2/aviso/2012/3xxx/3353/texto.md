@@ -1,0 +1,5 @@
+Aviso n.º 3353/2012
+Alteração ao Regulamento Municipal de Resíduos Sólidos, Higiene e Limpeza Pública do Concelho de Celorico da Beira
+No uso das competências que se encontram previstas na alínea a) do n.º 2 do artigo 53.º, e alínea a) do n.º 6 do artigo 64.º, ambos da Lei n.º 169/99 de 18 de setembro, com a redação introduzida pela Lei n.º 5-A/2002 de 11 de janeiro, torna-se público, que a Alteração ao Regulamento Municipal de Resíduos Sólidos, Higiene e Limpeza Pública do Concelho de Celorico da Beira, publicada em Projeto na 2.ª série do Diário da República, n.º 141, de 25 de julho de 2011, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado por unanimidade, de forma definitiva, em reunião da Câmara Municipal realizada em 16 de novembro de 2011 e aprovada em sessão ordinária da Assembleia Municipal realizada em 28 de dezembro de 2011.
+23 de janeiro de 2012. - O Presidente da Câmara Municipal, José Francisco Gomes Monteiro.
+305677456
