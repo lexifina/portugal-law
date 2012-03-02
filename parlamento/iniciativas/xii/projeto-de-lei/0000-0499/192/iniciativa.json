@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Lei",
+  "numero": "192",
+  "id": "36823",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2084",
+        "nome": "Nuno Magalhães"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4018",
+        "nome": "Artur Rêgo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4428",
+        "nome": "Inês Teotónio Pereira"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1801",
+        "nome": "Raúl de Almeida"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1923",
+        "nome": "Teresa Caeiro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4096",
+        "nome": "Isabel Galriça Neto"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "3995",
+        "nome": "João Serpa Oliva"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4353",
+        "nome": "Manuel Isaac"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1450",
+        "nome": "Helder Amaral"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4225",
+        "nome": "José Manuel Rodrigues"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "36823",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e446b314d6d59345a4441745a4751344d693030597a677a4c546b334f5445744e324d774d7a497a4e4745334d6a63304c6d527659773d3d&fich=4952f8d0-dd82-4c83-9791-7c03234a7274.doc&Inline=true",
+    "IniNr": "192",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Cria a Ordem dos Fisioterapeutas",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
