@@ -1,0 +1,129 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "183",
+    "id": "36808",
+    "titulo": "Cria a freguesia do Parque das Nações, no concelho de Lisboa."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2012-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "28291",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-03-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-03-02",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-09-19",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Ofício/Relatório da 11ª CAOTPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4452694f446377595441744e7a63784d693030596a4e694c546c6b597a63744e325133597a4a6b4d6a59324d7a4d314c6e426b5a673d3d&fich=d4b870a0-7712-4b3b-9dc7-7d7c2d266335.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-04-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer  JF Santa Maria dos Olivais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a566c596a45344f5451744d6d4d354f5330304f44646d4c5746684d5749744d6d45785a6d59334d5455795a57466c4c6e426b5a673d3d&fich=b5eb1894-2c99-487f-aa1b-2a1ff7152eae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-04-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer AF Santa Maria dos Olivais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d47597a4e6a557a595441744e5759304e6930304e7a5a694c546c6c4e5451744d4445304e5464685a6d4d344d6d4d354c6e426b5a673d3d&fich=0f3653a0-5f46-476b-9e54-01457afc82c9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer AM Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595445784d546b345a546b745a6d59775a5330305a6a52694c546b32595455745a475934597a677a596a67354e44526d4c6e426b5a673d3d&fich=a11198e9-ff0e-4f4b-96a5-df8c83b8944f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-04-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer AM Loures",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595751354e5455324e4755744d5749795a5330304e7a67774c546b344f5759745a6a6b314e5468684d5445784d6d4d304c6e426b5a673d3d&fich=ad95564e-1b2e-4780-989f-f9558a1112c4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CM Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54513059546b30593251744e546b314e6930304e6d52684c546c6d4f5759744d7a56694e3249304e6a686d4e4441354c6e426b5a673d3d&fich=544a94cd-5956-46da-9f9f-35b7b468f409.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-04-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CM Loures",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e446c694f546b33595451744f4455304e4330304f5467774c574a6d593259744e474d784e57466d4e5456685a54557a4c6e426b5a673d3d&fich=49b997a4-8544-4980-bfcf-4c15af55ae53.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-09-19",
+            "dataRemessa": "2012-09-19",
+            "numeroOficio": "989/11ª CAOTPL",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2012-03-02",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282531",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
