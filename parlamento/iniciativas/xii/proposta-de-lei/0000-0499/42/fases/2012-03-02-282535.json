@@ -1,0 +1,226 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "42",
+    "id": "36735",
+    "titulo": "Aprova a lei-quadro das fundações e altera o Código Civil, aprovado pelo Decreto-Lei n.º 47344, de 25 de novembro de 1966."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "28293",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2012-03-21",
+            "id": "92492",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-03-21",
+            "id": "92491",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "0201-03-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-03-02",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-05-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de aditamento e alteração - PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f475668597a6b774d5330345a6d5a684c5451354e544d74596d5a6a4e7930784f574d325a444533597a4d31595755756347526d&fich=f8eac901-8ffa-4953-bfc7-19c6d17c35ae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e5455785a575978597930354d4467334c545134595459745957566b4d7930344e6a59784d6a55794f544e6d4d6d59756347526d&fich=5551ef1c-9087-48a6-aed3-866125293f2f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de alteração - PSD e CDS-PP (substitui a anterior proposta ao artigo 6.º)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d7a6c6a5a6d466c4d43316a4f5755324c5452695a546b74596a4a6a595330794d5441315a54646a4e546b354d4467756347526d&fich=339cfae0-c9e6-4be9-b2ca-2105e7c59908.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f475a6b4d444a6b5953316b4f44426a4c5451344d5759745954426d4e433034596d55354e6a51354e574a6c4e6a55756347526d&fich=f8fd02da-d80c-481f-a0f4-8be96495be65.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Propostas de alteração - PS (substitui a anterior proposta ao artigo 13.º)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793834597a5532597a59334d6931685932466b4c54526c4d7a59744f475930597930315a4463784d6a6331596a6b334e5451756347526d&fich=8c56c672-acad-4e36-8f4c-5d71275b9754.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Propostas de alteração - PSD e CDS-PP (substitui a anterior proposta ao Artigo 25.º do Anexo a que se refere o Artigo 2.º)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e6a426b4d57457a4e43316a4e5463344c5452684f5463744f5451325a43316b4d545a6a4e3249784e574a684e3245756347526d&fich=560d1a34-c578-4a97-946d-d16c7b15ba7a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-04-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Fundação Casa da Música",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d7a63314e4459335a5330314d4755794c5452695a5745744f575a6d4d69316b595441355a44566d4d6d59794e6a67756347526d&fich=a375467e-50e2-4bea-9ff2-da09d5f2f268.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-03-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Fundação Centro Cultural de Belém",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6a686d4d32457a5a4331684e5452684c54526b5a544174595446685a53316d4e6d4d30596d55354e4463334e6d59756347526d&fich=168f3a3d-a54a-4de0-a1ae-f6c4be94776f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-03-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Fundação Eng. António de Almeida",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e6d52694f54457a4d7930355a47566c4c5451794f5749744f5759784f4330775932466a4e6a426b4d44426c4e4463756347526d&fich=06db9133-9dee-429b-9f18-0cac60d00e47.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-16",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833596a5a6c59575a6c4e43316c4e3259344c5452694e6a4d7459574d315a4330334d6a566d4f445579596a49354f5451756347526d&fich=7b6eafe4-e7f8-4b63-ac5d-725f852b2994.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final e relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a5451334e7a646c5a693169597a6c684c5451304e5745745954466c4d43316a4d3245314d5459324e546b305a5451756347526d&fich=6e4777ef-bc9a-445a-a1e0-c3a5166594e4.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas e alteração aprsentadas pelo PSD/CDS-PP, PS e BE",
+            "pag": [
+              "38-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-17",
+            "pubLeg": "XII",
+            "pubNr": "182",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/182/2012-05-17/38?pgs=38-79&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas e alteração aprsentadas pelo PSD/CDS-PP, PS e BE",
+            "pag": [
+              "38-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-17",
+            "pubLeg": "XII",
+            "pubNr": "182",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/182/2012-05-17/38?pgs=38-79&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-05-16",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-05-16",
+            "dataRemessa": "2012-05-16",
+            "numeroOficio": "732/XII/1.ª",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-05-16",
+            "descricao": null,
+            "detalhe": null,
+            "id": "60696",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "68",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-03-02",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282535",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
