@@ -1,0 +1,14 @@
+Aviso n.º 3444/2012
+Alteração ao Plano Diretor Municipal da Murtosa
+Joaquim Manuel dos Santos Baptista, Presidente da Câmara Municipal da Murtosa, torna público, para efeitos do previsto na alínea b) do n.º 4 do artigo 148.º do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, que esta Autarquia, em reunião ordinária de 16 de fevereiro de 2012, deliberou, por unanimidade, dar início a um procedimento de alteração ao Plano Diretor Municipal da Murtosa, ratificado por Resolução do Conselho de Ministros n.º 75/2022, publicado no Diário da República, 1.ª série-B, n.º 84, de 10 de abril de 2002, que foi, posteriormente, objeto de alteração por adaptação, publicada no Diário da República, 2.ª série, n.º 65, de 1 de abril de 2011.
+A alteração ao PDM da Murtosa incide sobre a regulamentação aplicável aos espaços urbanos e urbanizáveis, tendo como objetivos estratégicos os seguintes:
+Objetivo 1 - Enquadrar urbanística e administrativamente um conjunto de explorações agropecuárias, existentes e em funcionamento, de forma a permitir a implementação de processos de modernização das instalações;
+Objetivo 2 - promover a infraestruturação adequada das explorações agropecuárias garantindo, assim, um equilíbrio sustentável entre a sua presença e atividade e o meio biofísico;
+Objetivo 3 - Garantir o fortalecimento da base económica local e regional.
+Prevê-se como prazo de execução da alteração seis meses, a contar da data de publicação no Diário da República.
+Mais deliberou, igualmente por unanimidade, fixar o período de apresentação de sugestões, previsto no n.º 2, do Artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação que lhe confere o Decreto-Lei n.º 46/2009, de 20 de fevereiro, em quinze dias úteis, a contar da data de publicação no Diário da República.
+Durante o período, referido, os interessados poderão apresentar sugestões, mediante exposição escrita dirigida ao Presidente da Câmara Municipal, a entregar nos serviços administrativos desta Câmara Municipal, ou a remeter por correio tradicional ou correio eletrónico (presidencia@cm-murtosa.pt).
+Deliberou, ainda, também por unanimidade, dispensar a presente proposta de alteração ao PDM do procedimento de avaliação ambiental estratégica, por considerar que esta não implicará efeitos significativos no ambiente, conforme argumentação constante do Relatório de Fundamentação.
+Mais se informa de que todo o processo referente à alteração ao PDM e à dispensa de avaliação ambiental estratégica poderá ser consultado nos serviços administrativos da Câmara Municipal, durante o horário de expediente, e na página da Internet do Município (www.cm-murtosa.pt).
+23 de fevereiro de 2012. - O Presidente da Câmara, Joaquim Manuel dos Santos Baptista.
+205788061
