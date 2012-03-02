@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "69659",
+  "tipo": "Pergunta",
+  "numero": "2343",
+  "data_registo": "2012-03-02",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Transportes escolares",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1517",
+        "nome": "Rui Jorge Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2201",
+        "nome": "Jacinto Serrão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4208",
+        "nome": "Acácio Pinto"
+      }
+    ],
+    "DataEnvio": "2012-03-02",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2012-03-02",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  ECONOMIA E DO EMPREGO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2012-04-19",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  ECONOMIA E DO EMPREGO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a4579595467335a6d59344c5456695a5467744e4759774e6931694d5467324c57526d4e4759334f474d304f44526b4d7935775a47593d&fich=12a87ff8-5be8-4f06-b186-df4f78c484d3.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2012-03-02",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a597959545a6d4d44417a4c574d774f4467744e44517a4f4331694e324e6d4c5459335a5459794d5756695a474e684d4335775a47593d&fich=62a6f003-c088-4438-b7cf-67e621ebdca0.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "69659",
+    "Legislatura": "XII",
+    "Nr": "2343",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "584683",
+        "obs": null,
+        "pag": [
+          "4-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012",
+        "pubLeg": "XII",
+        "pubNr": "166",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/166/2012-03-09/4?pgs=4-5&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
