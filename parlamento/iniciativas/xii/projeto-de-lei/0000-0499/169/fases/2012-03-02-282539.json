@@ -1,0 +1,196 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "169",
+    "id": "36768",
+    "titulo": "Procede à primeira alteração ao Decreto-lei n.º 136/2006, de 26 de Julho, que estabelece os princípios de utilização nos veículos automóveis ligeiros e pesados de gases de petróleo liquefeito, designados por GPL."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2012-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "28295",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2012-05-31",
+            "id": "92963",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-05-31",
+            "id": "92962",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-03-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-03-02",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Estacionamento de Veículos GPL em Parques Cobertos (PJL-169-PS e PJR-208-CDS-PP)",
+            "num": "9",
+            "orgId": "3563",
+            "publicacao": null,
+            "sigla": "GT-EVGPLPC"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2012-06-11",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Nova prorrogação do Prazo para nova apreciação até ao fim do mês de Junho-2012 (+ 25 dias)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54426c4e5749354d445174596a426d4d6930304e5463304c574a685a5449744d6a646a4d5745324f5745794d3259794c6e426b5a673d3d&fich=90e5b904-b0f2-4574-bae2-27c1a69a23f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-05-28",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Nova prorrogação do Prazo para nova apreciação por + 3 semanas (21 dias)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54466a5a4449774e4455745a47526b4e5330304d7a677a4c574530596a59744f44466c4e57566a596d59314d47557a4c6e426b5a673d3d&fich=e1cd2045-ddd5-4383-a4b6-81e5ecbf50e3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-04-30",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Prorrogação do Prazo para nova apreciação por + 15 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f574d314e44566c595745744f54566a595330304e324d304c5746685a4755744f4467774d5451774e6a553259544a6d4c6e426b5a673d3d&fich=9c545eaa-95ca-47c4-aade-880140656a2f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-06-27",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto de Substituição da 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5451784d6d4d77597a59744f5755344e693030593245334c54686c597a55744d5467324f4745795a6a51355954566d4c6e426b5a673d3d&fich=1412c0c6-9e86-4ca7-8ec5-1868a2f49a5f.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "9",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-6"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-29",
+            "pubLeg": "XII",
+            "pubNr": "201",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/201/2012-06-29/2?pgs=2-6&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-6"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-29",
+            "pubLeg": "XII",
+            "pubNr": "201",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/201/2012-06-29/2?pgs=2-6&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-06-27",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-06-27",
+            "dataRemessa": "2012-06-27",
+            "numeroOficio": "email",
+            "observacoes": "Texto de Substituição",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE",
+              "PEV"
+            ],
+            "data": "2012-06-27",
+            "descricao": "Texto de Substituição",
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I><BR>Ausência: <I>BE</I>, <I> PEV</I>",
+            "id": "61082",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "78",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-03-02",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282539",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
