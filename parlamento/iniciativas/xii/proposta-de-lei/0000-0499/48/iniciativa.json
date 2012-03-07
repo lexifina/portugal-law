@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "48",
+  "id": "36834",
+  "fases": 23,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-07",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5455304d6a4d794d4445744d7a646a595330304d44526b4c574a6a596d51744e325a6a4d474e694d6d4d344e574d794c6e426b5a673d3d&fich=e5423201-37ca-404d-bcbd-7fc0cb2c85c2.pdf&Inline=true",
+        "anexoNome": "Parecer ALRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5455794d324e6d4d6a4174597a49774e5330304e54646c4c5749334f544d744e5745334d7a51324e474e685a544d794c6e426b5a673d3d&fich=5523cf20-c205-457e-b793-5a73464cae32.pdf&Inline=true",
+        "anexoNome": "Parecer ALRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f47566b4e6a4d7a4e6a67744f47526d4f5330305a5467334c57497a5a6a67744f474e6c4d6d46685a6d49324d4451314c6e426b5a673d3d&fich=8ed63368-8df9-4e87-b3f8-8ce2aafb6045.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f444e6b4d5755304d4755744e5749354f4330305a5759334c57466a4e4441745a6a59795a6d4e6b5a4445785a6a566d4c6e426b5a673d3d&fich=83d1e40e-5b98-4ef7-ac40-f62fcdd11f5f.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a4d355a4759314d4459744d7a4e694f433030595749334c574535593249744e6a686d5957466c4d474a6a5a5445304c6e426b5a673d3d&fich=f39df506-33b8-4ab7-a9cb-68faae0bce14.pdf&Inline=true",
+        "anexoNome": "Parecer do Governoda  RAM"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "36834",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a526a5a6d5531595459744e6a68684f4330304f474d354c546c6d4d6a49744d444d774f546c6b4d4445304e444e6d4c6d527659773d3d&fich=24cfe5a6-68a8-48c9-9f22-03099d01443f.doc&Inline=true",
+    "IniNr": "48",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova as alterações ao Código do IVA, ao Código dos Impostos Especiais sobre o Consumo e ao Decreto-Lei n.º 347/85, de 23 de agosto, no âmbito do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
