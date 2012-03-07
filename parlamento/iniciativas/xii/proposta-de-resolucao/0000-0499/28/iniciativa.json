@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Resolução",
+  "numero": "28",
+  "id": "36836",
+  "fases": 12,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-07",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d4e6a4f5441784d4459744f5752694d4330304e446b304c57466c597a4d744e6a6b304f4745334f5759344e6a5a6d4c6d527659773d3d&fich=6cc90106-9db0-4494-aec3-6948a79f866f.doc&Inline=true",
+        "anexoNome": "Tratado PT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d59335a44526a4e7a49744e574a6b5a5330304d7a4d354c5749784f446b745a544d354e44566a5a4459794e6a63794c6d527659773d3d&fich=2f7d4c72-5bde-4339-b189-e3945cd62672.doc&Inline=true",
+        "anexoNome": "Assinaturas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d444a6b596a526b5a6a6b744e7a55774d4330304d4451314c546c6c4f446b745a6d4a6b4d4451335a4441794f446b794c6e426b5a673d3d&fich=02db4df9-7500-4045-9e89-fbd047d02892.pdf&Inline=true",
+        "anexoNome": "Tratado Digitalizado"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d49314d474d324d444174596a59315a4330304e4467304c5749334e6d4d74595459794d7a686d597a41334f5751774c6e426b5a673d3d&fich=fb50c600-b65d-4484-b76c-a6238fc079d0.pdf&Inline=true",
+        "anexoNome": "Pronúncia do MF"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36836",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659544d315a6d4d334e7a4174595451314d4330304f446b774c574577596a51745a6a45344d7a4a6d5a546b784f5445774c6d527659773d3d&fich=a35fc770-a450-4890-a0b4-f1832fe91910.doc&Inline=true",
+    "IniNr": "28",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Tratado que cria o Mecanismo Europeu de Estabilidade entre o Reino da Bélgica, a República Federal da Alemanha, a República da Estónia, a Irlanda, a República Helénica, o Reino de Espanha, a República Francesa, a República Italiana, a República de Chipre, o Grão-Ducado do Luxemburgo, Malta, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa, a República da Eslovénia, a República Eslovaca e a República da Finlândia, assinado em Bruxelas, em 2 de fevereiro de 2012.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
