@@ -13,3 +13,5 @@ b) Notificar o comandante do navio para que elimine o risco para o ambiente ou a
 c) Enviar a bordo do navio uma equipa de avaliação com a missão de determinar o grau de risco, assistir o comandante na correcção da situação e manter informado o centro costeiro competente;
 
 d) Intimar o comandante a seguir para um local de refúgio, em caso de perigo iminente, ou impor a pilotagem ou o reboque do navio.
+
+Se o reboque do navio for efectuado no âmbito de um contrato de reboque ou salvados, as medidas tomadas pelas entidades competentes em razão da matéria, em aplicação das alíneas a) e d), podem também ter como destinatárias as companhias de assistência, salvados e reboque envolvidas.
