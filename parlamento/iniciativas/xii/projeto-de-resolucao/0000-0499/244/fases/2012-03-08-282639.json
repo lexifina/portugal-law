@@ -1,0 +1,810 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "244",
+    "id": "36820",
+    "titulo": "Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-03-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8630",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-03-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36821",
+        "leg": "XII",
+        "nr": "190",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36830",
+        "leg": "XII",
+        "nr": "194",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça as medidas de proteção às vítimas de violência doméstica."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36819",
+        "leg": "XII",
+        "nr": "243",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36828",
+        "leg": "XII",
+        "nr": "248",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1617",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-09",
+            "pubLeg": "XII",
+            "pubNr": "82",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-03-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4209",
+                "nome": "Elza Pais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120308pln&url=l12/sl1/a2012/m03/&tI=02:37:51:002&drc=00:05:11:386"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-09",
+                "pubLeg": "XII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género; Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas; Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego; Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120308pln&url=l12/sl1/a2012/m03/&tI=02:43:20:063&drc=00:05:09:389"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-09",
+                "pubLeg": "XII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género; Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas; Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego; Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120308pln&url=l12/sl1/a2012/m03/&tI=02:49:02:686&drc=00:04:12:108"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-09",
+                "pubLeg": "XII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género; Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas; Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego; Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120308pln&url=l12/sl1/a2012/m03/&tI=02:53:24:808&drc=00:05:11:191"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-09",
+                "pubLeg": "XII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género; Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas; Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego; Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3920",
+                "nome": "Carla Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120308pln&url=l12/sl1/a2012/m03/&tI=02:58:42:346&drc=00:04:32:288"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-09",
+                "pubLeg": "XII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/49?pgs=49-51&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género; Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas; Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego; Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120308pln&url=l12/sl1/a2012/m03/&tI=03:03:20:261&drc=00:05:42:835"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-09",
+                "pubLeg": "XII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género; Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas; Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego; Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120308pln&url=l12/sl1/a2012/m03/&tI=03:09:20:263&drc=00:00:31:143"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-09",
+                "pubLeg": "XII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime jurídico das Organizações da Sociedade Civil para a Igualdade de Género; Valorização do trabalho e dos salários combate às discriminações salariais, diretas e indiretas; Recomenda ao Governo a adopção de um acordo tripartido sobre a igualdade entre homens e mulheres no trabalho e no emprego; Reclama uma maior fiscalização e ação em prol da igualdade de oportunidades entre homens e mulheres no mundo do trabalho; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282639",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "587471",
+        "obs": null,
+        "pag": [
+          "45-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-03-09",
+        "pubLeg": "XII",
+        "pubNr": "82",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/082/2012-03-09/45?pgs=45-52&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
