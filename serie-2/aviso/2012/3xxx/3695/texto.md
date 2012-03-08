@@ -1,0 +1,8 @@
+Aviso n.º 3695/2012
+Discussão Pública da Proposta do Plano de Pormenor da Aldeia da Estrela
+José Maria Prazeres Pós-de-Mina, Presidente da Câmara Municipal de Moura, torna público que:
+Nos termos e para efeitos do disposto no n.º 3 e n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, e de acordo com a deliberação camarária de 22 de fevereiro de 2012, se irá proceder à abertura do período de discussão pública da proposta do Plano de Pormenor da Aldeia da Estrela.
+Assim, avisam-se todos os cidadãos bem como todas as entidades defensoras de interesses que pela elaboração do Plano de Pormenor possam vir a ser afetados, que a presente proposta de plano, constituída pelo regulamento, planta de implantação, planta de condicionantes, deliberação que dispensa a Avaliação Ambiental Estratégica e demais elementos complementares, acompanhada de todos os pareceres emitidos no decurso do respetivo procedimento e da ata da conferência de serviços, se encontra em discussão pública pelo período de 22 dias, a contar de 5 dias após a data da publicação do aviso no Diário da República, e disponível para consulta no horário normal de funcionamento na Divisão de Planeamento e Administração Urbanística e no site www.cm-moura.pt/planos.
+A formulação de sugestões ou observações, bem como a solicitação de esclarecimentos sobre quaisquer questões a considerar deverão ser entregues, por escrito, no Município de Moura, Praça Sacadura Cabral, 7860-207 Moura, ou enviadas por carta registada com aviso de receção para aquela morada, ou para o endereço eletrónico sig.moura@cm-moura.pt.
+1 de março de 2012. - O Presidente da Câmara Municipal, José Maria Prazeres Pós-de-Mina.
+205812214
