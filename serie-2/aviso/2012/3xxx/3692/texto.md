@@ -1,0 +1,5 @@
+Aviso n.º 3692/2012
+António Almor Branco, Presidente da Câmara Municipal de Mirandela, torna público nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em 28 de fevereiro de 2012, submeter à apreciação pública, pelo prazo de 30 dias, os projetos de Regulamento de Gestão de Resíduos Urbanos do Município de Mirandela e de Regulamento dos Serviços de Abastecimento Público de Água e Saneamento de Águas Residuais Urbanas do Município de Mirandela, que se encontram disponíveis para consulta na página do Município em www.cm-mirandela.pt
+Os interessados poderão endereçar as suas sugestões aos referidos projetos, por escrito para Largo do Município, 5370-288 Mirandela ou através de correio eletrónico para o endereço gacip@cm-mirandela.pt, dentro do prazo de 30 dias úteis, contados do dia seguinte ao da publicação do presente Aviso no Diário da República.
+28 de fevereiro de 2012. - O Presidente da Câmara, António Almor Branco.
+305811486
