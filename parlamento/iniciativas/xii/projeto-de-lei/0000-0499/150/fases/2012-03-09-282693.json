@@ -1,0 +1,442 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "150",
+    "id": "36716",
+    "titulo": "Regime de exceção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que «Estabelece o regime da utilização dos recursos hídricos»)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-03-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8638",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-03-09",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36558",
+        "leg": "XII",
+        "nr": "98",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1622",
+            "obs": null,
+            "pag": [
+              "20-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-10",
+            "pubLeg": "XII",
+            "pubNr": "83",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/20?pgs=20-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1622",
+            "obs": null,
+            "pag": [
+              "20-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-10",
+            "pubLeg": "XII",
+            "pubNr": "83",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/20?pgs=20-25&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regime de excepção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que  \"Estabelece o regime da utilização dos recursos hídricos\"."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36759",
+        "leg": "XII",
+        "nr": "166",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1622",
+            "obs": null,
+            "pag": [
+              "20-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-10",
+            "pubLeg": "XII",
+            "pubNr": "83",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/20?pgs=20-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1622",
+            "obs": null,
+            "pag": [
+              "20-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-10",
+            "pubLeg": "XII",
+            "pubNr": "83",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/20?pgs=20-25&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos», introduzindo menções específicas para as explorações de aquicultura e a atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Sétima Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos»)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-03-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120309pln&url=l12/sl1/a2012/m03/&tI=01:01:40:107&drc=00:03:13:918"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120309pln&url=l12/sl1/a2012/m03/&tI=01:19:50:453&drc=00:01:46:232"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-10",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/20?pgs=20-21,24-25&org=PLC"
+              }
+            ],
+            "sumario": "Regime de excepção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que  \"Estabelece o regime da utilização dos recursos hídricos\"; Regime de exceção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que «Estabelece o regime da utilização dos recursos hídricos»); Altera o Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos», introduzindo menções específicas para as explorações de aquicultura e a atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Sétima Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos»)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120309pln&url=l12/sl1/a2012/m03/&tI=01:04:59:574&drc=00:03:54:258"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-10",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Regime de excepção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que  \"Estabelece o regime da utilização dos recursos hídricos\"; Regime de exceção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que «Estabelece o regime da utilização dos recursos hídricos»); Altera o Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos», introduzindo menções específicas para as explorações de aquicultura e a atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Sétima Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos»)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120309pln&url=l12/sl1/a2012/m03/&tI=01:09:04:549&drc=00:04:00:569"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-10",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Regime de excepção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que  \"Estabelece o regime da utilização dos recursos hídricos\"; Regime de exceção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que «Estabelece o regime da utilização dos recursos hídricos»); Altera o Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos», introduzindo menções específicas para as explorações de aquicultura e a atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Sétima Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos»)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120309pln&url=l12/sl1/a2012/m03/&tI=01:13:13:245&drc=00:02:50:786"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-10",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Regime de excepção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que  \"Estabelece o regime da utilização dos recursos hídricos\"; Regime de exceção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que «Estabelece o regime da utilização dos recursos hídricos»); Altera o Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos», introduzindo menções específicas para as explorações de aquicultura e a atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Sétima Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos»)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120309pln&url=l12/sl1/a2012/m03/&tI=01:16:10:828&drc=00:03:34:686"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-10",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Regime de excepção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que  \"Estabelece o regime da utilização dos recursos hídricos\"; Regime de exceção na atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Quinta Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio que «Estabelece o regime da utilização dos recursos hídricos»); Altera o Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos», introduzindo menções específicas para as explorações de aquicultura e a atribuição de títulos de utilização de recursos hídricos a associações sem fins lucrativos (Sétima Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio, que «Estabelece o regime da utilização dos recursos hídricos»)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282693",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "587536",
+        "obs": null,
+        "pag": [
+          "20-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-03-10",
+        "pubLeg": "XII",
+        "pubNr": "83",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/083/2012-03-10/20?pgs=20-25&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
