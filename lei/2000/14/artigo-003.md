@@ -1,15 +1,11 @@
 # Artigo 3.º
 
-### Dispensa de medicamento
+### Dispensa de medicamentos
 
-1 - No acto de dispensa dos medicamentos prescritos ao abrigo do n.º 1 do artigo anterior, o farmacêutico ou o seu colaborador devidamente habilitado devem, obrigatoriamente, informar o utente da existência de medicamentos genéricos comparticipados pelo Serviço Nacional de Saúde e sobre aquele que tem o preço mais baixo.
+1 - No ato de dispensa de medicamentos, o farmacêutico, ou o seu colaborador devidamente habilitado, deve informar o utente da existência de medicamentos genéricos com a mesma substância ativa, forma farmacêutica, apresentação e dosagem do medicamento prescrito, comparticipados pelo SNS e sobre aquele que tem o preço mais baixo disponível no mercado.
 
-2 - Não obstante ser reconhecida a liberdade de opção por parte do utente, quer quanto à dispensa dos medicamentos, quer quanto ao cumprimento da orientação terapêutica do médico prescritor, o farmacêutico ou o seu colaborador devidamente habilitado só poderão alterar o medicamento prescrito a pedido do utente e se não houver uma declaração expressa do médico prescritor.
+2 - As farmácias devem ter disponíveis para venda no mínimo três medicamentos com a mesma substância ativa, forma farmacêutica e dosagem, de entre os que correspondem aos cinco preços mais baixos de cada grupo homogéneo, devendo dispensar o de menor preço, salvo se for outra a opção do utente.
 
-3 - Para efeito do disposto no número anterior, a receita médica deverá permitir assinalar em rodapé visível, conforme modelo anexo ao presente diploma e que dele faz parte integrante, a declaração do médico prescritor sobre a dispensa ou não do medicamento genérico. A ausência de opção por uma das alternativas previstas no rodapé ou o preenchimento de ambas em simultâneo pressupõe a concordância do médico prescritor com a dispensa do medicamento genérico.
+3 - O utente tem direito a optar por qualquer medicamento com a mesma substância ativa, forma farmacêutica e dosagem constante da prescrição médica, exceto nas situações previstas na alínea a) do n.º 2 e nas alíneas a) e b) do n.º 3 do artigo 2.º
 
-ANEXO
-
-Rodapé
-
-(ver modelo no documento original)
+4 - No caso previsto na alínea c) do n.º 3 do artigo 2.º, o utente pode exercer o direito de opção, mediante assinatura da receita médica, quando pretender medicamento de preço inferior ao do medicamento prescrito, sendo vedado, na farmácia, proceder-se a qualquer substituição por medicamento de preço superior ao medicamento prescrito.

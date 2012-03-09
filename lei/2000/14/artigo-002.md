@@ -2,8 +2,18 @@
 
 ### Prescrição de medicamentos
 
-1 - A prescrição de medicamentos contendo substâncias activas para as quais existam medicamentos genéricos autorizados é efectuada mediante a indicação da denominação comum internacional (DCI) ou do nome genérico, sendo admitido a seguir a essa indicação o nome de marca do medicamento ou o nome do titular da autorização de introdução no mercado (AIM), seguida em todos os casos da dosagem da forma farmacêutica e da posologia.
+1 - Para efeitos de comparticipação pelo Serviço Nacional de Saúde (SNS), a prescrição de medicamentos inclui obrigatoriamente a denominação comum internacional da substância ativa, a forma farmacêutica, a dosagem, a apresentação e a posologia.
 
-2 - Quando o médico prescritor entenda indicar o nome de marca do medicamento ou do titular da autorização de introdução no mercado (AIM) no caso dos medicamentos genéricos, deverá obrigatoriamente informar o utente da existência de medicamentos genéricos comparticipados pelo Serviço Nacional de Saúde e sobre aquele que tem o preço mais baixo.
+2 - Quando tecnicamente indicado, a prescrição de medicamentos pode incluir a indicação da denominação comercial, por marca ou nome do titular da autorização de introdução no mercado (AIM), nos casos de:
 
-4 - Com base no Prontuário Nacional do Medicamento e no Formulário Nacional Hospitalar de Medicamentos, a comissão de farmácia e terapêutica de cada unidade de saúde elaborará um formulário, que deverá ser actualizado anualmente.
+a) Prescrição de medicamento com substância ativa para a qual não exista medicamento genérico comparticipado ou para a qual só exista original de marca e licenças;
+
+b) Justificação técnica do médico quanto a insuscetibilidade de substituição do medicamento prescrito.
+
+3 - Para efeitos da alínea b) do número anterior, são apenas admissíveis as seguintes justificações técnicas:
+
+a) Prescrição de medicamento com margem ou índice terapêutico estreito, conforme informação prestada pelo INFARMED, I. P.;
+
+b) Fundada suspeita, previamente reportada ao INFARMED, I. P., de intolerância ou reação adversa a um medicamento com a mesma substância ativa, mas identificado por outra denominação comercial;
+
+c) Prescrição de medicamento destinado a assegurar a continuidade de um tratamento com duração estimada superior a 28 dias.
