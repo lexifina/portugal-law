@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "194",
+    "id": "36830",
+    "titulo": "Reforça as medidas de proteção às vítimas de violência doméstica."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-03-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "28366",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2012-10-02",
+            "id": "93653",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-10-02",
+            "id": "93652",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-10-02",
+            "id": "93651",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-10-17",
+            "id": "93762",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-10-19",
+            "id": "93773",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-15",
+            "id": "93936",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2012-10-16",
+            "id": "93726",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-10-25",
+            "id": "93804",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-03-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-03-09",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Legislação Penal (PPL-75-76-77-GOV, PJL-194-BE e PJL-266-PCP)",
+            "num": "6",
+            "orgId": "3575",
+            "publicacao": null,
+            "sigla": "GT-LP"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2012-12-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878596d59324d6a426d597930344d6a55784c54526c5a445174595745774d4330314d544d794e6a526a4e7a4a6a5a446b756347526d&fich=1bf620fc-8251-4ed4-aa00-513264c72cd9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Faculdade de Direito da Universidade de Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e6d4e6d4f444a6a4e53316c4e575a684c5451794d6a67744f57466b4d79316b4e6a4d7a5a6d497859546b35595449756347526d&fich=56cf82c5-e5fa-4228-9ad3-d633fb1a99a2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-04",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d6a55334f54497a4e43316c595749794c5451784e6a51744f475a6a4e79316b4e6a646a5932526d4d544a6d4e7a45756347526d&fich=82579234-eab2-4164-8fc7-d67ccdf12f71.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "6",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2013-01-04",
+            "numeroOficio": "1/XII/1.ªCACDLG/2013",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-12-27",
+            "descricao": null,
+            "detalhe": null,
+            "id": "62534",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "113",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-03-09",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "282722",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
