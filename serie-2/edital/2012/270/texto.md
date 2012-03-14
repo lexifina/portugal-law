@@ -1,0 +1,7 @@
+Edital n.º 270/2012
+Regulamento de cedência e utilização do serviço municipal de transporte coletivo de passageiros da Câmara Municipal da Figueira da Foz
+Carlos Ângelo Ferreira Monteiro, Vice-Presidente da Câmara Municipal da Figueira da Foz, nos termos do n.º 3 do artigo 57.º e alíneas b) e c) do n.º 1, do artigo 68.º, da Lei n.º 169/99, de 18 de setembro, e em cumprimento das disposições emergentes do n.º 4, do artigo 55.º, da Lei n.º 2/2007, de 15 de janeiro, ambas na sua última redação, e artigo 119.º da Constituição da República Portuguesa, torna público que a Assembleia Municipal da Figueira da Foz na sua sessão ordinária de 24 de fevereiro de 2012 e sob proposta da Câmara Municipal deliberada em reunião ordinária de 14 de fevereiro de 2012, aprovou em minuta o Regulamento de Cedência e Utilização do Serviço Municipal de Transporte Coletivo de Passageiros da Câmara Municipal da Figueira da Foz, que entrará em vigor 15 dias após a publicação deste Edital no Diário da República.
+O Regulamento poderá ser consultado no Departamento Municipal de Projetos, Obras e Serviços Municipais e no Serviço de Atendimento ao Munícipe, estando também disponível na página eletrónica da Câmara Municipal da Figueira da Foz, no seguinte endereço http://www.figueiradigital.com/municipe/?mid=10.
+Para constar se publica o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos do estilo.
+1 de março de 2012. - O Vice-Presidente da Câmara, Carlos Monteiro.
+305826041
