@@ -1,0 +1,650 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12224",
+  "numero": "112",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-03-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-05-10",
+            "entidades": null,
+            "id": "92802",
+            "tipo": null,
+            "titulo": "Audição em 2012-05-10 com Federação de Motociclismo de Portugal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-03-28",
+            "dataResposta": "2012-05-08",
+            "entidades": [
+              "Ministério da Economia e do Emprego"
+            ],
+            "nrOficio": "212/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-07-31",
+            "dataResposta": "2012-08-03",
+            "entidades": [
+              "Presidente do Conselho de Administração da Ascendi Costa da Prata, Autoestradas da Costa da Prata, S.A."
+            ],
+            "nrOficio": "391/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-07-31",
+            "dataResposta": "2012-08-03",
+            "entidades": [
+              "Presidente do Conselho de Administração da Ascendi Grande Porto, Autoestradas do Grande Porto, S.A."
+            ],
+            "nrOficio": "392/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-07-31",
+            "dataResposta": "2012-08-09",
+            "entidades": [
+              "Presidente do Conselho de Administração da Euroscut"
+            ],
+            "nrOficio": "393/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-07-31",
+            "dataResposta": "2012-08-03",
+            "entidades": [
+              "Presidente do Conselho de Administração da Ascendi Beiras Litoral e Alta, Autoestradas das Beiras Litoral e Alta, S.A."
+            ],
+            "nrOficio": "394/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-07-31",
+            "dataResposta": "2012-08-20",
+            "entidades": [
+              "Presidente do Conselho de Administração da Scutvias, Autoestradas da Beira Interior, S.A."
+            ],
+            "nrOficio": "395/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-07-31",
+            "dataResposta": "2012-08-07",
+            "entidades": [
+              "Presidente do Conselho de Administração da Norscut, Concessionário de Autoestradas, S.A."
+            ],
+            "nrOficio": "396/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-09-20",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do Conselho de Administração da Estradas de Portugal, S.A."
+            ],
+            "nrOficio": "413/CEOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-12-19",
+                "dataResposta": "2013-02-07",
+                "nrOficio": "496/CEOP",
+                "oficioResposta": "78"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-13",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do Conselho de Administração da Lusoponte - Concessionária para a Travessia do Tejo, S.A."
+            ],
+            "nrOficio": "36/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-02-26",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "625653",
+                "obs": null,
+                "pag": [
+                  "3-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-23",
+                "pubLeg": "XII",
+                "pubNr": "119",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/119/2013-03-23/3?pgs=3-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-03-28",
+        "DataArquivo": "2013-02-27",
+        "DataBaixaComissao": "2012-03-28",
+        "DataEnvioPAR": "2013-03-20",
+        "DataReaberta": "2012-03-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-03-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3249345a54686c4d4449304c54526c4e5445744e4449354e7931694d7a68684c5459794d6a5a6d5a6d5a6d596a51334f4335775a47593d&fich=b8e8e024-4e51-4297-b38a-6226ffffb478.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-03-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5a6d59324a6b4e4451344c54466a4d5459744e4745354e533168595759344c545a6a4d5445795a6a566a5a474e6b4d7935775a47593d&fich=6fcbd448-1c16-4a95-aaf8-6c112f5cdcd3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3249774e4449345a54566c4c5451334d6d51744e446b355a6930344d7a49304c57526d597a5669597a55795a6a41784e6935775a47593d&fich=b0428e5e-472d-499f-8324-dfc5bc52f016.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3255774d446b784d324d794c5746694f5451744e47466a4e5330344d3245344c545a6b5a6a55324e6d4d344e544a6c597935775a47593d&fich=e00913c2-ab94-4ac5-83a8-6df566c852ec.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c32526c5a5449774e445a694c544e6c597a67744e444e6d59533168595745334c546c6b5a6d51344e7a59314d446869596935775a47593d&fich=dee2046b-3ec8-43fa-aaa7-9dfd876508bb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-09-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3251344d54526d5a4752694c57497a5a5749744e4455314d4330354d7a526b4c574a694e6d51304f4463775957526c5a6935775a47593d&fich=d814fddb-b3eb-4550-934d-bb6d4870adef.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a45344d5445304d4755344c545977596d51744e47566c4e4330344e6d49334c544e6d4f545979593251334e57566c5a5335515245593d&fich=181140e8-60bd-4ee4-86b7-3f962cd75eee.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324d794d6a41774d4449334c544e684e5445744e446b784e7931694d6d4e6c4c5463774d546b304e6a55784e4463304e4335775a47593d&fich=c2200027-3a51-4917-b2ce-701946514744.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c32593559574e685a47526b4c5755354e5751744e44646a4e7930344e445a684c5745324e5463344d7a673059324a695a4335515245593d&fich=f9acaddd-e95d-47c7-846a-a6578384cbbd.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a67774f4756685932457a4c546378597a59744e4459354e433168597a51304c5459315954526b5a6a55324d6a4d784e7935775a47593d&fich=808eaca3-71c6-4694-ac44-65a4df562317.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324a6c5a445a6b4d6a68684c5745314d6a4d744e4441324d5331685a6d49794c544d7a5a6d51314d32557a4d57526a596935775a47593d&fich=bed6d28a-a523-4061-afb2-33fd53e31dcb.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-03-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3245324d544134593245784c54526c4d3245744e474a684f533034595756684c5449774d7a6c6b4d3246684f444d34595335775a47593d&fich=a6108ca1-4e3a-4ba9-8aea-2039d3aa838a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-09-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4e6c595749344d44497a4c544e6d4d324d744e446778596930344d6a4e6c4c57466c5a474a694f474531597a45304f4335775a47593d&fich=3eab8023-3f3c-481b-823e-aedbb8a5c148.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-08-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a51345932566a593259774c5463794d6a59744e474a6b597930345a44686c4c5441304e4445795a546c69593255314f5335775a47593d&fich=48ceccf0-7226-4bdc-8d8e-04412e9bce59.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-08-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324931597a4a6a4e7a517a4c546c6c5a5463744e44466a4d6931684e7a59344c574e6d5a4441334d7a5a6d4d544534596935775a47593d&fich=b5c2c743-9ee7-41c2-a768-cfd0736f118b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-08-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a677a597a49354e444e6b4c5759334e6a55744e4749784e5330355a6a4d774c54646b4e5455324f57566b4e324a694e6935775a47593d&fich=83c2943d-f765-4b15-9f30-7d5569ed7bb6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a41324e6a52694e44517a4c5449314d6d51744e4752694e6931684d6a63334c5745314d6d49314e6a6b344f5459335a6935515245593d&fich=0664b443-252d-4db6-a277-a52b5698967f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-08-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d325a445933597a45324c544178597a45744e474d785a5330345a6d51314c54646d5954637a4f5749334e6d45314e6935775a47593d&fich=36d67c16-01c1-4c1e-8fd5-7fa739b76a56.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-08-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c32526a4f5449344d4464684c574d7a4f444d744e444e68596930354e546b324c574d784f4459345a5455775a5467784e6935775a47593d&fich=dc92807a-c383-43ab-9596-c1868e50e816.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-08-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324e6b4e47566b4e444a6c4c57466b4d7a55744e4467334e7931684f444d774c54466a59324d324f5449354d7a6c6d5a6935775a47593d&fich=cd4ed42e-ad35-4877-a830-1ccc692939ff.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-03-28",
+            "gp": "PSD",
+            "id": "2641",
+            "motivoCessacao": null,
+            "nome": "Paulo Cavaleiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-05-31",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-03-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a63324f575179596a4d344c57526b4d4459744e474a6c5a5331685a5449344c57466c4f57526d4d4445784d7a45324d7935775a47593d&fich=769d2b38-dd06-4bee-ae28-ae9df0113163.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37710",
+      "37755",
+      "37764"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:38:11:818&drc=00:02:42:748"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:54:48:815&drc=00:01:02:785"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/30?pgs=30-31,34&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que estude a possibilidade de criação de uma classe 5 nas vias portajadas destinada a motociclos; Alargamento da \"classe 5\" de portagens às ex-SCUTS; Recomenda ao Governo a introdução do regime de 'classe 5' em todas as vias portajadas; Solicitam à Assembleia da República que tome medidas legislativas no sentido de fazer valer nas portagens das ex-Scut e na ponte Vasco da Gama o desconto de 30% para os motociclos portadores do dispositivo de cobrança automática denominado Via Verde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:41:01:643&drc=00:03:38:876"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que estude a possibilidade de criação de uma classe 5 nas vias portajadas destinada a motociclos; Alargamento da \"classe 5\" de portagens às ex-SCUTS; Recomenda ao Governo a introdução do regime de 'classe 5' em todas as vias portajadas; Solicitam à Assembleia da República que tome medidas legislativas no sentido de fazer valer nas portagens das ex-Scut e na ponte Vasco da Gama o desconto de 30% para os motociclos portadores do dispositivo de cobrança automática denominado Via Verde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:44:49:269&drc=00:02:47:730"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que estude a possibilidade de criação de uma classe 5 nas vias portajadas destinada a motociclos; Alargamento da \"classe 5\" de portagens às ex-SCUTS; Recomenda ao Governo a introdução do regime de 'classe 5' em todas as vias portajadas; Solicitam à Assembleia da República que tome medidas legislativas no sentido de fazer valer nas portagens das ex-Scut e na ponte Vasco da Gama o desconto de 30% para os motociclos portadores do dispositivo de cobrança automática denominado Via Verde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:48:04:620&drc=00:02:48:092"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190034",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que estude a possibilidade de criação de uma classe 5 nas vias portajadas destinada a motociclos; Alargamento da \"classe 5\" de portagens às ex-SCUTS; Recomenda ao Governo a introdução do regime de 'classe 5' em todas as vias portajadas; Solicitam à Assembleia da República que tome medidas legislativas no sentido de fazer valer nas portagens das ex-Scut e na ponte Vasco da Gama o desconto de 30% para os motociclos portadores do dispositivo de cobrança automática denominado Via Verde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:50:59:679&drc=00:03:36:594"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190035",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que estude a possibilidade de criação de uma classe 5 nas vias portajadas destinada a motociclos; Alargamento da \"classe 5\" de portagens às ex-SCUTS; Recomenda ao Governo a introdução do regime de 'classe 5' em todas as vias portajadas; Solicitam à Assembleia da República que tome medidas legislativas no sentido de fazer valer nas portagens das ex-Scut e na ponte Vasco da Gama o desconto de 30% para os motociclos portadores do dispositivo de cobrança automática denominado Via Verde.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12224",
+    "PetAssunto": "Solicitam à Assembleia da República que tome medidas legislativas no sentido de fazer valer nas portagens das ex-Scut e na ponte Vasco da Gama o desconto de 30% para os motociclos portadores do dispositivo de cobrança automática denominado Via Verde.",
+    "PetDataEntrada": "2012-03-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12224",
+    "PetLeg": "XII",
+    "PetNr": "112",
+    "PetNrAssinaturas": "4804",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1789",
+        "obs": null,
+        "pag": [
+          "30-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-01",
+        "pubLeg": "XII",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/30?pgs=30-34&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "595110",
+        "obs": null,
+        "pag": [
+          "69-69"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-26",
+        "pubLeg": "XII",
+        "pubNr": "220",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/220/2012-05-26/69?pgs=69&org=PLC"
+      }
+    ]
+  }
+}
