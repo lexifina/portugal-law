@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 28/2012
+O investimento produtivo em Portugal é essencial ao relançamento da economia, num esforço coordenado para que se continuem a mobilizar recursos para atenuar os efeitos da crise internacional sobre as famílias e as empresas.
+Nessa medida, o Governo estabeleceu como objetivo prioritário a conclusão de todos os processos pendentes de negociação de benefícios fiscais contratuais ao investimento produtivo.
+A presente resolução aprova minutas de vários contratos de investimento, com processos negociais já concluídos, fixando-se deste modo os objetivos e as metas a cumprir pelo promotor e os benefícios fiscais a conceder.
+Estes contratos correspondem a um investimento global de (euro) 125 727 834,63, nos setores do turismo, das indústrias de produtos alimentares, do têxtil, do vidro, da madeira, da produção de material aeronáutico e eólico e da fabricação de máquinas e equipamentos, constituindo projetos de investimento que o Governo considera revestirem especial mérito e interesse para a economia nacional, reunindo as condições necessárias para a concessão dos incentivos fiscais legalmente previstos.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar as minutas dos contratos fiscais de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), e a Royal Óbidos, Promoção e Gestão Imobiliária e Turística, S. A., a Nestlé Portugal, S. A., a Santos Barosa - Vidros, S. A., e a MONLIZ - Produtos Alimentares do Mondego e Liz, S. A.
+2 - Aprovar a minuta do contrato de investimento e respetivos anexos, incluindo o contrato de concessão de benefícios fiscais, a celebrar entre o Estado Português, representado pela AICEP, E. P. E., e a Borgstena Textile Portugal, Unipessoal, Lda.
+3 - Aprovar a minuta do contrato de concessão de benefícios fiscais e respetivos anexos, a celebrar entre o Estado Português representado pela AICEP, E. P. E., e a FREZITE - Ferramentas de Corte, S. A.
+4 - Aprovar as minutas dos contratos fiscais de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pelo Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P. (IAPMEI, I. P.), e a Arsopi-Thermal, Equipamentos Térmicos, S. A., a Pelletsfirst - Produção, Comercialização de Pellets de Madeira, S. A., e a Motofil Serviços, Lda.
+5 - Aprovar a minuta do contrato de concessão de benefícios fiscais e respetivos anexos, a celebrar entre o Estado Português, representado pelo IAPMEI, I. P., e a ARCEN Engenharia, S. A.
+6 - Determinar que os originais dos contratos referidos nos n.os 1 a 3 e nos n.os 4 e 5 fiquem arquivados, respetivamente, na AICEP, E. P. E., e no IAPMEI, I. P.
+7 - Determinar que a presente resolução reporta os seus efeitos à data da sua aprovação.
+Presidência do Conselho de Ministros, 1 de março de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
