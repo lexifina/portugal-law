@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "258",
+  "id": "36849",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-14",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1450",
+        "nome": "Helder Amaral"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2084",
+        "nome": "Nuno Magalhães"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4225",
+        "nome": "José Manuel Rodrigues"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1655",
+        "nome": "Telmo Correia"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2327",
+        "nome": "João Paulo Viegas"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36849",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e44646d5a6a41334f5755745a6a526a4e79303059574d774c574530596d5974597a41344f4446694f5467334e6a56684c6d527659773d3d&fich=47ff079e-f4c7-4ac0-a4bf-c0881b98765a.doc&Inline=true",
+    "IniNr": "258",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo que promova o consumo de produtos nacionais e crie melhores condições para que esses produtos de origem nacional sejam identificados.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
