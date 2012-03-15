@@ -64,7 +64,9 @@ d) A injecção de gás natural ou de GPL para fins de armazenamento noutras fun
 
 e) A construção, obras de engenharia civil em geral e actividades semelhantes, à superfície ou subterrâneas, que entrem em contacto com águas subterrâneas, podendo, para estes fins, determinar-se que essas actividades devem ser consideradas como tendo sido autorizadas, na condição de se realizarem segundo regras gerais obrigatórias relativamente a essas actividades;
 
-f) Descargas de pequenas quantidades de substâncias com objectivos científicos, para caracterização, protecção ou reparação de massas de água, limitadas ao volume estritamente necessário para os fins em causa.
+f) Descargas de pequenas quantidades de substâncias com objectivos científicos, para caracterização, protecção ou reparação de massas de água, limitadas ao volume estritamente necessário para os fins em causa;
+
+g) A injeção de fluxos de dióxido de carbono para efeitos de armazenamento em formações geológicas que, por razões naturais, são permanentemente inadequadas para outros fins, desde que tal injeção seja efetuada nos termos previstos no regime jurídico relativo ao armazenamento geológico de dióxido de carbono, ou excluída do seu âmbito, por força do n.º 3 do artigo 2.º do respetivo diploma.
 
 5 - As medidas previstas no n.º 3 são acompanhadas pelas providências necessárias para se não aumentar a poluição das águas marinhas e delas não pode resultar directa ou indirectamente o aumento da poluição das águas superficiais, salvo se a omissão de tais medidas causar o aumento da poluição ambiental no seu todo.
 
