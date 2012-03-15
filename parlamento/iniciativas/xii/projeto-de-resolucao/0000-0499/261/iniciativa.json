@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "261",
+  "id": "36858",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1679",
+        "nome": "Renato Sampaio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2103",
+        "nome": "Isabel Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2098",
+        "nome": "Manuel Pizarro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2107",
+        "nome": "Glória Araújo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2259",
+        "nome": "Nuno André Figueiredo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2263",
+        "nome": "Ana Paula Vitorino"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "462",
+        "nome": "Alberto Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "193",
+        "nome": "Miranda Calha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4134",
+        "nome": "Manuel Seabra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "187",
+        "nome": "José Lello"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4133",
+        "nome": "Isabel Oneto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2092",
+        "nome": "Luísa Salgueiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1262",
+        "nome": "Francisco de Assis"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36858",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a646c596d5a6d4f4759744d325932597930304d6d52694c546b31593259744e4449795a6a63354d44426a4d7a55314c6d527659773d3d&fich=b7ebff8f-3f6c-42db-95cf-422f7900c355.doc&Inline=true",
+    "IniNr": "261",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo a Requalificação e Eletrificação do Troço Caíde-Marco na linha do Douro.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
