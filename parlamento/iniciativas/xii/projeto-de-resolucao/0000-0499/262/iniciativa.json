@@ -1,0 +1,70 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "262",
+  "id": "36860",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2006",
+        "nome": "Assunção Esteves"
+      }
+    ],
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "PAR",
+      "sigla": "R"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Prorrogação do prazo de funcionamento da Comissão Parlamentar de Inquérito ao processo de nacionalização, gestão e alienação do Banco Português de Negócios S.A. e suspensão dos trabalhos durante o mês de agosto.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37161",
+        "legislatura": "XII",
+        "numero": "424",
+        "sessao": "1",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Suspensão dos trabalhos da Comissão Parlamentar de Inquérito ao Processo de Nacionalização, Gestão e Alienação do Banco Português de Negócios, SA.",
+        "dcl": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "37294",
+        "legislatura": "XII",
+        "numero": "10",
+        "sessao": "2",
+        "tipo": "D"
+      }
+    ],
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36860",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4751344e7a59324d4463744d446b78596930305a6a49774c5745354d7a55744d3245355a6a4a6c4f544d344e3245344c6d527659773d3d&fich=4d876607-091b-4f20-a935-3a9f2e9387a8.doc&Inline=true",
+    "IniNr": "262",
+    "IniObs": "Este Projeto de Resolução resultou da convergência do Inquérito Parlamentar nº 2/XII (PPD/PSD e CDS-PP) e do Inquérito Parlamentar nº 3/XII (PS,PCP,BE e PEV), conforme foi deliberado, por unanimidade, na Conferência de Líderes, realizada em 15 de Março de 2012 \n",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Constituição de uma Comissão Parlamentar de Inquérito ao processo de nacionalização, gestão e alienação do Banco Português de Negócios S.A.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
