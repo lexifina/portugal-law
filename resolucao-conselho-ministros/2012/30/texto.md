@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 30/2012
+A Resolução do Conselho de Ministros n.º 4/2011, de 12 de janeiro, declarou, ao abrigo do disposto no Decreto-Lei n.º 409/99, de 15 de outubro, a resolução de alguns contratos de concessão de benefícios fiscais, por se verificar o incumprimento dos objetivos e das obrigações contratualmente assumidas pelos respetivos promotores dos projetos de investimento apoiados no âmbito do regime regulado por aquele diploma.
+A referida Resolução do Conselho de Ministros determinou a perda total dos benefícios fiscais concedidos, com a consequente obrigação de reposição, nos termos da lei, das importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios.
+Contudo, os contratos de concessão de benefícios fiscais constituíam parte integrante de contratos celebrados ao abrigo do regime contratual de investimento, aprovado pelo Decreto-Lei n.º 203/2003, de 10 de setembro, através dos quais foram concedidos também incentivos financeiros, nos termos dos regimes legais em vigor.
+Tendo em conta que se verifica também o incumprimento dos objetivos e das obrigações a que os promotores se vincularam por força desses contratos de investimento existe, igualmente, fundamento legal para a resolução dos mesmos, com a consequente devolução de todos os incentivos, incluindo de natureza financeira, que tenham sido atribuídos.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Declarar, nos termos do artigo 8.º do Decreto-Lei n.º 203/2003, de 10 de setembro, a resolução dos seguintes contratos de investimento:
+a) Contrato de investimento celebrado em 24 de julho de 2003 com a Robinson 2 Revestimentos - Aglomerados Compostos de Cortiça, S. A., na sequência da Resolução do Conselho de Ministros n.º 99/2003, de 7 de agosto;
+b) Contrato celebrado em 30 de abril de 2005 com a LABICER - Laboratório Industrial Cerâmico, S. A., na sequência da Resolução do Conselho de Ministros n.º 97/2005, de 25 de maio;
+c) Contrato celebrado em 8 de junho de 2004 com a Mitsubishi Trucks Europe - Sociedade Europeia de Automóveis, S. A., atualmente denominada Mitsubishi Fuso Trucks Europe - Sociedade Europeia de Automóveis, S. A., na sequência da Resolução do Conselho de Ministros n.º 80/2004, de 24 de junho;
+d) Contrato celebrado em 24 de julho de 2001 com a SOMIT - Sociedade de Madeiras Industrializadas e Transformadas, S. A., na sequência da Resolução do Conselho de Ministros n.º 99/2001, de 9 de agosto;
+e) Contrato celebrado em 2 de junho de 2000 com a Drink-In - Companhia de Indústria de Bebidas e Alimentação, S. A., na sequência da Resolução do Conselho de Ministros n.º 53/2000, de 6 de junho;
+f) Contrato celebrado em 3 de dezembro de 2003 com a Taiyo Technology Portugal - Componentes Plásticos de Precisão, Lda., na sequência da Resolução do Conselho de Ministros n.º 1/2004, de 5 de janeiro;
+g) Contrato celebrado em 14 de setembro de 2005 com a SPPM - Sociedade Portuguesa de Pintura para a Indústria Automóvel, S. A., na sequência da Resolução do Conselho de Ministros n.º 145/2005, de 14 de setembro.
+2 - Determinar que, nos termos do n.º 4 do artigo 8.º do Decreto-Lei n.º 203/2003, de 10 de setembro, a resolução dos contratos de investimento referidos no número anterior implica a perda integral de todos os incentivos concedidos, bem como a obrigação de proceder à devolução do montante dos incentivos já recebidos acrescido de juros, quando devidos, e dos juros compensatórios previstos para o efeito.
+3 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 1 de março de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
