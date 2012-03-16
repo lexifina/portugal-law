@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "9",
+  "id": "36862",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-16",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "2069",
+        "nome": "Jorge Machado"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4104",
+        "nome": "Rita Rato"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1058",
+        "nome": "Bernardino Soares"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4471",
+        "nome": "Paulo Sá"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2077",
+        "nome": "Francisco Lopes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "208",
+        "nome": "Agostinho Lopes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3934",
+        "nome": "João Ramos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1696",
+        "nome": "Honório Novo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "36862",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a6731597a51334e545574595759784e6930305a446b314c5745324d7a51744d6a4e6d4f4445355a5445354d7a63784c6d527659773d3d&fich=785c4755-af16-4d95-a634-23f819e19371.doc&Inline=true",
+    "IniNr": "9",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Decreto-Lei n.º 64/2012, de 15 de Março, que \"procede à alteração do regime jurídico de proteção no desemprego dos trabalhadores por conta de outrem, beneficiários do regime geral de segurança social, e à quarta alteração ao Decreto-Lei n.º 220/2006, de 3 de novembro\".",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
