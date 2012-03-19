@@ -1,0 +1,8 @@
+Aviso n.º 4360/2012
+Plano de Pormenor de Intervenção no Espaço Rural, para as antigas Instalações da Fábrica do Bagaço - Elaboração
+Maria Adelaide de Aguiar Marques Teixeira, Presidente da Câmara Municipal do Concelho de Portalegre, torna público, que a Câmara Municipal de Portalegre reunida em 05.03.2012, deliberou, ao abrigo do ponto 1 do artigo 74.º do Decreto-Lei n.º 380/99 de 22 de setembro, na sua atual redação (RJIGT - Regime Jurídico dos Instrumentos de Gestão Territorial), a necessidade de elaboração do Plano de Pormenor de Intervenção no Espaço Rural, para as Antigas Instalações da Fábrica do Bagaço, freguesia de Carreiras. Mais se deliberou a elaboração do plano ao abrigo da contratualização prevista no artigo 6.º -A do RJIGT e a aceitação da respetiva proposta de contrato.
+Mais se informa que decorrerá pelo prazo de 15 dias, ao abrigo do ponto 2 do artigo 77.º, em conjugação com o disposto no ponto 5 do artigo 6.º - A, do decreto-lei anteriormente referido, um período destinado à formulação de sugestões por parte dos munícipes e demais interessados, bem como apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, bem como da proposta do contrato.
+O período para a formulação de sugestões terá início após a publicação do presente aviso no Diário da República.
+Todas as observações e sugestões deverão ser apresentadas por escrito, devidamente fundamentadas e endereçadas à Presidente da Câmara Municipal de Portalegre, Rua Guilherme Gomes Fernandes, 28, Apartado 47, 7300 - 186 Portalegre.
+12 de março de 2012. - A Presidente da Câmara Municipal de Portalegre, Maria Adelaide de Aguiar Marques Teixeira.
+205859706
