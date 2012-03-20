@@ -1,0 +1,10 @@
+Resolução da Assembleia da República n.º 33/2012
+Recomenda o reforço das medidas de combate às patologias vegetais e a criação de um conselho científico para a monitorização de pragas e doenças na produção agrícola e florestal.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo o seguinte:
+a) Consolidar a estratégia nacional para a investigação agrária, colocando a solução dos problemas dos agricultores ao mesmo nível de prioridade da investigação mais avançada;
+b) Criar um conselho científico para a monitorização de pragas e doenças na produção agrícola e florestal, a funcionar na dependência do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, com representantes das instituições públicas de ciência, das instituições do ensino superior, das associações de agricultores e congéneres e das instituições que financiam a investigação científica, e cujos objetivos se sintetizam: i) monitorização da situação atual e futura, no que se refere às patologias vegetais; ii) aconselhar na definição das prioridades de investigação orientada para a resolução de problemas fitossanitários;
+c) Atualizar e dinamizar o banco de dados para acompanhamento da evolução espácio-temporal das populações dos agentes bióticos nocivos e respetivos documentos técnicos elaborados pela comunidade científica, promovendo a acessibilidade da informação e a sua transmissão;
+d) Reforçar o sistema de alerta de pragas e doenças para que os serviços de apoio às produções vegetais aconselhem os procedimentos técnicos adequados à patologia em causa;
+e) Reforçar e prever a existência, no quadro da revisão da política agrícola comum (PAC), de ajudas financeiras para fazer face às despesas decorrentes da destruição ou substituição das respetivas culturas, no caso de se tratar de medidas excecionais de proteção fitossanitária destinadas a erradicar, reduzir ou impedir a dispersão de organismos patológicos prejudiciais.
+Aprovada em 24 de fevereiro de 2012.
+O Presidente da Assembleia da República, em exercício, António Filipe.
