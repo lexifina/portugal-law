@@ -1,0 +1,6 @@
+Aviso n.º 4442/2012
+Apreciação pública
+Francisco José Fernandes Leal, Presidente da Câmara Municipal de Olhão, torna público, que a Câmara Municipal, em reunião realizada no dia 29 de fevereiro 2012, deliberou aprovar o Projeto de regulamento dos horários de funcionamento dos estabelecimentos de venda ao público e prestação de serviços do Município de Olhão, o Projeto de regulamento municipal de ocupação do espaço público e publicidade do Município de Olhão, o Projeto de alteração ao regulamento de venda ambulante e o Projeto de alteração ao regulamento sobre o exercício de atividades diversas do Município de Olhão.
+Assim, nos termos e para os efeitos do disposto no artigo 118.º do Código de Procedimento Administrativo, submete-se a apreciação pública para recolha de sugestões, os Projetos de regulamentos em apreço, por um prazo de trinta dias, contados a partir da data da sua publicação do presente aviso no Diário da República, período durante o qual os mesmos poderão ser consultados nesta Câmara Municipal, durante as horas normais de expediente e no site da Câmara Municipal em www.cm-olhao.pt
+12 de março de 2012. - O Presidente da Câmara Municipal, Francisco José Fernandes Leal.
+305856644
