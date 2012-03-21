@@ -1,0 +1,6 @@
+Edital n.º 289/2012
+Projeto de alteração ao regulamento dos cemitérios municipais
+Nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, informa-se que durante o período de 30 dias a contar da data da publicação do presente edital no Diário da República, é submetido a apreciação pública o Projeto de Alteração ao Regulamento dos Cemitérios Municipais de Machico, que foi presente e aprovado na reunião ordinária da Câmara Municipal realizada em 08 de março de 2012.
+Assim, os interessados poderão dirigir por escrito as suas sugestões à Câmara Municipal de Machico no período acima mencionado, encontrando-se o referido Regulamento patente para consulta todos os dias úteis, durante o horário normal de expediente, na Secretaria-geral desta Câmara Municipal, no edifício dos Paços do Município, sito à Praça do Município, nesta cidade de Machico e ainda disponível no site da Câmara Municipal em www.cm-machico.pt.
+13 de março de 2012. - O Presidente da Câmara Municipal, António Luís Gouveia Olim.
+305864436
