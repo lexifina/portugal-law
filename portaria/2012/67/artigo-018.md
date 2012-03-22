@@ -1,0 +1,29 @@
+# Artigo 18.º
+
+### Áreas funcionais
+
+1 - A estrutura residencial é composta pelas seguintes áreas funcionais:
+
+a) Receção;
+
+b) Direção, serviços técnicos e administrativos;
+
+c) Instalações para o pessoal;
+
+d) Convívio e atividades;
+
+e) Refeições;
+
+f) Alojamento;
+
+g) Cozinha e lavandaria;
+
+h) Serviços de enfermagem;
+
+i) Serviços de apoio.
+
+2 - Quando exista mais do que uma unidade funcional, cada unidade é autónoma no que se refere às áreas funcionais referidas nas alíneas d) e f) do número anterior.
+
+3 - As áreas funcionais devem obedecer a um conjunto de requisitos específicos que constam do anexo i à presente portaria, que dela faz parte integrante.
+
+4 - Em casos devidamente justificados e autorizados podem as áreas funcionais constantes do anexo i ter alterações face às áreas úteis mínimas nele previstas.
