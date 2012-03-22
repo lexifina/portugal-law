@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "50",
+  "id": "36869",
+  "fases": 22,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-03-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f446c6c4e7a55354d6d4d7459546b344d5330304d4459304c57457a4d4463744d5745315a5755334d6a4e6d596a4a6a4c6e426b5a673d3d&fich=89e7592c-a981-4064-a307-1a5ee723fb2c.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e47526c5a474d304d6a55744d445a694e6930304d32517a4c546b7a596d55745a6a4a684e7a686a4e7a51794e324a6b4c6e426b5a673d3d&fich=4dedc425-06b6-43d3-93be-f2a78c7427bd.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5463334e6d46694d6a4974595449774e6930305a47466d4c54677a4d4445744f446b304f444d324f54646b4e6a67314c6e426b5a673d3d&fich=9776ab22-a206-4daf-8301-89483697d685.pdf&Inline=true",
+        "anexoNome": "Parecer da Odem dos Advogados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a4e684f474a6a4d4459744e3259794d6930305a44426b4c546b324d6a45744e47497a59546b324e3255334d7a63324c6e426b5a673d3d&fich=63a8bc06-7f22-4d0d-9621-4b3a967e7376.pdf&Inline=true",
+        "anexoNome": "Parecer da CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576593259784d6d49355a6d45744d7a51355a6930304e5463354c5467785a4755745a574a6b5a574e694d544932596d55334c6e426b5a673d3d&fich=cf12b9fa-349f-4579-81de-ebdecb126be7.pdf&Inline=true",
+        "anexoNome": "Parecer do CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4451784e445578595751745a6a67325a4330304e6d5a6c4c5467784d7a45744d4441784e5459784d6d466c4d6a426b4c6e426b5a673d3d&fich=841451ad-f86d-46fe-8131-0015612ae20d.pdf&Inline=true",
+        "anexoNome": "Deliberação CNPD"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "36869",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5746694e6a45785a445174596a59784d5330305a575a694c546b335a5449745a4759314d546c6d5a44497a4e546b304c6d527659773d3d&fich=5ab611d4-b611-4efb-97e2-df519fd23594.doc&Inline=true",
+    "IniNr": "50",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Altera a Lei n.º 23/2007, de 4 de julho, que aprovou o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
