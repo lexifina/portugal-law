@@ -30,6 +30,8 @@ Fenciclidina, PCP - 1-(1-fenilciclo-hexi) piperidina.
 
 Lisergida, LSD, LSD-25-(mais ou menos)-N-N-dietilisergamida; dietilamida do ácido dextro-lisérgico.
 
+4-metilmetcatinona (mefedrona)
+
 MDMA - 3,4-metilenadioxianfetamina.
 
 Mescalina - 3,4,5-trimetoxifenetilamina.

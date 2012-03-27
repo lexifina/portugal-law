@@ -226,6 +226,8 @@ Sufentanil - N-{4-metoximetil-1-[2-(2-(tienil)-etil]-4-piperidil}-propionanilida
 
 Tabecão - 3-metoxi-4,5-epoxi-6-acetoxi-17-metilmorfinano; acetidil-hidrocodeínona.
 
+tapentadol (3-[(1R,2R)-3-(dimetilamino)-1-etil-2-metilpro-pil]fenol)
+
 Tebaína - (3,6-dimetoxi-4,5-epoxi-17-metil-6,8-morfinadieno).
 
 Tilidina - (mais ou menos)-etil-trans-2-(dimetilamino)-1-fenil-3-ciclo-hexeno-1-carboxilato.
