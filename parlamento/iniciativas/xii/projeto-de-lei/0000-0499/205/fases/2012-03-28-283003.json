@@ -1,0 +1,1090 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "205",
+    "id": "36872",
+    "titulo": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-03-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8668",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-03-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36777",
+        "leg": "XII",
+        "nr": "172",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1625",
+            "obs": null,
+            "pag": [
+              "16-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-29",
+            "pubLeg": "XII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/16?pgs=16-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1625",
+            "obs": null,
+            "pag": [
+              "16-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-29",
+            "pubLeg": "XII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/16?pgs=16-50&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elimina os mecanismos de aumento do horário de trabalho"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "36764",
+        "leg": "XII",
+        "nr": "46",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1625",
+            "obs": null,
+            "pag": [
+              "16-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-29",
+            "pubLeg": "XII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/16?pgs=16-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1625",
+            "obs": null,
+            "pag": [
+              "16-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-03-29",
+            "pubLeg": "XII",
+            "pubNr": "89",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/16?pgs=16-50&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-03-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=00:57:04:474&drc=00:09:33:757"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:20:10:345&drc=00:04:23:929"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:36:48:756&drc=00:03:23:420"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:43:25:100&drc=00:01:38:845"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA E DO EMPREGO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Álvaro Santos Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-20",
+                  "24-25",
+                  "47-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/16?pgs=16-20,24-25,47-50&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2077",
+                "nome": "Francisco Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:07:05:056&drc=00:03:17:077"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:10:33:102&drc=00:02:37:761"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "456",
+                "nome": "João Paulo Pedrosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:13:20:923&drc=00:03:26:860"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:17:00:514&drc=00:03:02:079"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:24:53:696&drc=00:08:42:606"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:40:21:489&drc=00:02:56:104"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-28",
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/26?pgs=26-28,49&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:33:51:678&drc=00:06:33:318"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/28?pgs=28-30&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1992",
+                "nome": "Pedro Roque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:40:52:995&drc=00:08:07:570"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2212",
+                "nome": "Miguel Laranjeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=01:49:18:738&drc=00:10:37:512"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:09:46:800&drc=00:05:08:733"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-35",
+                  "38-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/32?pgs=32-35,38-40&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:00:13:772&drc=00:03:40:125"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:04:01:133&drc=00:02:04:814"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1801",
+                "nome": "Raúl de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:06:16:573&drc=00:03:22:915"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:15:05:285&drc=00:06:34:600"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:24:04:359&drc=00:01:30:832"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/40?pgs=40-44&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:21:52:317&drc=00:02:09:792"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:25:37:289&drc=00:00:17:710"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:26:11:888&drc=00:02:36:512"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120328pln&url=l12/sl1/a2012/m03/&tI=02:28:59:667&drc=00:07:34:799"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-29",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/45?pgs=45-47&org=PLC"
+              }
+            ],
+            "sumario": "Defende o conceito de justa causa, de valor constitucional, contra despedimentos abusivos; Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Elimina os mecanismos de aumento do horário de trabalho.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283003",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "587667",
+        "obs": null,
+        "pag": [
+          "16-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-03-29",
+        "pubLeg": "XII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/089/2012-03-29/16?pgs=16-50&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
