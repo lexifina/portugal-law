@@ -14,4 +14,4 @@ c) 30 dias se residir no estrangeiro.
 
 3 - O prazo de pagamento das custas contadas na conta objecto de reclamação inicia-se com a notificação da nova conta ou da decisão definitiva que não atendeu à reclamação.
 
-4 - Interposto recurso da decisão referida no n.º 5 do artigo 31.º do RCP, o responsável é notificado para o pagamento quando o processo baixar ao tribunal que funcionou em 1.ª instância.
+4 - Interposto recurso da decisão referida no n.º 6 do artigo 31.º do RCP, o responsável é notificado para o pagamento quando o processo baixar ao tribunal que funcionou em 1.ª instância.

@@ -8,4 +8,4 @@
 
 3 - A informação da liquidação ou demonstração do valor a pagar pode constar de documento anexo ao DUC quando este seja suportado por documento que constitua guia para pagamento e notificação.
 
-4 - Quando o montante devido não corresponda ao valor automaticamente definido pelo DUC, por acrescerem valores de taxa de justiça por dedução de pedidos reconvencionais, o pagamento é feito a título de «complemento de taxa de justiça», de modo autónomo, através da emissão de novo DUC.
+4 - Quando o montante devido não corresponda ao valor automaticamente definido pelo DUC, por acrescerem valores de taxa de justiça por dedução de pedidos reconvencionais, o pagamento é feito a título de 'complemento de taxa de justiça', através da emissão de novo DUC.

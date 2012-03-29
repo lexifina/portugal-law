@@ -4,7 +4,7 @@
 
 1 - A reclamação da nota justificativa é apresentada no prazo de 10 dias, após notificação à contraparte, devendo ser decidida pelo juiz em igual prazo e notificada às partes.
 
-2 - A reclamação da nota justificativa está sujeita ao depósito de 50 % do valor da nota.
+2 - A reclamação da nota justificativa está sujeita ao depósito da totalidade do valor da nota.
 
 3 - Da decisão proferida cabe recurso em um grau se o valor da nota exceder 50 UC.
 

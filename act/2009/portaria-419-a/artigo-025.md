@@ -1,3 +1,7 @@
+## Secção II
+
+## Pagamentos de encargos, multas e outras penalidades
+
 # Artigo 25.º
 
 ### Pagamento de multas e penalidades

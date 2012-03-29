@@ -7,3 +7,5 @@
 2 - Deve ser indicada a referência que consta do DUC em local próprio identificado no sistema informático CITIUS.
 
 3 - Fora dos casos previstos na lei ou regulamentação própria e quando não exista norma que disponha de forma diferente, os pagamentos efectuados através do DUC importam a junção ao processo do respectivo documento comprovativo, no prazo de cinco dias posteriores à data do pagamento.
+
+4 - Recebido o comprovativo, a secretaria deve proceder de imediato ao registo do DUC no sistema informático previsto no artigo 3.º

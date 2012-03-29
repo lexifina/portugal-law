@@ -6,7 +6,7 @@
 
 ### Devoluções
 
-1 - A devolução dos valores pagos a título de taxa de justiça convertidos em pagamento antecipado por conta que excedam o pagamento de encargos, nos quais se incluem, além de outros, os encargos processuais, faz-se apenas após o trânsito em julgado e depois de saldadas todas as dívidas da parte ao processo, nomeadamente:
+1 - Nos casos em que haja lugar à devolução de valores pagos, esta é efetuada apenas após o trânsito em julgado e depois de saldadas todas as dívidas da parte ao processo, nomeadamente:
 
 a) Multas, taxa sancionatória excepcional e outras penalidades;
 
