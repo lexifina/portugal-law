@@ -1,0 +1,16 @@
+Aviso n.º 4867/2012
+Eng.º José Maria Ministro dos Santos, Presidente da Câmara Municipal de Mafra, torna público que a Câmara Municipal de Mafra, em reunião de 15 de março corrente, deliberou, por unanimidade, aprovar a proposta de Alteração do Regulamento de Taxas do Município de Mafra, no sentido de isentar de taxas, os munícipes possuidores de cartão de estacionamento para pessoas com deficiência condicionada na sua mobilidade, alterando-se o n.º 6 do respetivo artigo 5.º, o qual passará a ter a seguinte redação:
+"Artigo 5.º
+Isenções
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - Estão isentos do pagamento das taxas previstas nos n.os 8 e 8.1, do artigo 9.º da tabela os munícipes possuidores de cartão de estacionamento para pessoas com deficiência condicionada na sua mobilidade, concedido ao abrigo do Decreto-Lei n.º 307/2003, de 10 de dezembro.
+7 - (anterior n.º 6)."
+Foi ainda determinado que seja promovida a apreciação pública, nos termos do artigo 118.º do Código de Procedimento Administrativo (Decreto-Lei n.º 442/91, de 15 de novembro, com as alterações do Decreto-Lei n.º 6/96, de 21 de janeiro), podendo os interessados, no prazo de 30 dias a partir da data da publicação no Diário da República, consultar a referida Alteração no Atendimento Geral, sito no piso 0 do Edifício dos Paços do Município, em Mafra, durante o horário normal de funcionamento (das 9,00 horas às 17,00 horas), e apresentar eventuais sugestões ou observações sobre o mesmo, que deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido ao Presidente da Câmara Municipal, conforme o disposto no artigo 118.º do Código de Procedimento Administrativo.
+Torna público que, na reunião acima referida foi, também, deliberado proceder à imediata suspensão do pagamento das referidas taxas, até à decisão final da alteração regulamentar.
+Para constar e produzir efeitos legais se publica este aviso na 2.ª série do Diário da República e outros de igual teor, que vão ser afixados nos lugares públicos de estilo.
+19 de março de 2012. - O Presidente da Câmara Municipal, José Maria Ministro dos Santos, Eng.º
+205898773
