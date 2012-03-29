@@ -4,9 +4,9 @@
 
 1 - As touradas tradicionais são as constantes de mapa a aprovar por resolução do Conselho do Governo Regional.
 
-2 - A realização de manifestação taurina que não conste do mapa a que se refere o n.º 1 só pode ser licenciada ao sábado, domingo ou feriado, sem prejuízo do disposto no número seguinte.
+2 - A realização de manifestação taurina pode ser licenciada em qualquer dia da semana, sendo sempre dada prioridade às touradas tradicionais constantes do mapa a que se refere o n.º 1.
 
-3 - Pode ser licenciada tourada à corda que não conste do mapa a que se refere o n.º 1 nos dias 1 de Maio a 15 de Outubro de cada ano civil.
+3 - (Revogado.)
 
 4 - Pode igualmente ser licenciada a realização de vacadas em cerrado e bezerradas, quando promovidas pelos mordomos oficiais da festa, desde que não se realize procissão, nem ocorra manifestação taurina, no mesmo dia e na mesma freguesia, durante a respectiva semana das festas tradicionais de Verão.
 
