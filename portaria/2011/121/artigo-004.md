@@ -22,6 +22,6 @@ a) O valor dos fundos próprios de base e dos fundos próprios complementares co
 
 b) O valor dos fundos próprios complementares é determinado desconsiderando os limites de elegibilidade previstos no artigo 16.º do Aviso do Banco de Portugal n.º 6/2010, de 30 de Dezembro;
 
-c) Os depósitos abrangidos pelo Fundo de Garantia de Depósitos relevam apenas na medida do montante efectivamente coberto por esse Fundo.
+c) Os depósitos abrangidos pelo Fundo de Garantia de Depósitos e pelo Fundo de Garantia do Crédito Agrícola Mútuo relevam apenas na medida do montante efetivamente coberto por esses Fundos.
 
 3 - Para efeitos do disposto na alínea b) do artigo anterior, entende-se por instrumento financeiro derivado o que seja qualificado como tal pelas normas de contabilidade aplicáveis, com excepção dos instrumentos financeiros derivados de cobertura ou cujas posições em risco se compensem mutuamente.
