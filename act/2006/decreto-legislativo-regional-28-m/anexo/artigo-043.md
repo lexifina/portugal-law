@@ -4,7 +4,7 @@
 
 1 - O conselho de administração do FET-M é composto pelo director regional dos Assuntos Fiscais, que preside, e ainda pelos seguintes vogais:
 
-a) O director regional do Planeamento e Finanças;
+a) Um representante da secretaria regional com a tutela das finanças a nomear por despacho do respetivo secretário regional.
 
 b) Um funcionário do quadro da DRAF a nomear por despacho do secretário regional com a tutela das finanças.
 
