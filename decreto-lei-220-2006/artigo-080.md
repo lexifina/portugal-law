@@ -2,7 +2,7 @@
 
 ### Registo de equivalências
 
-1 - Os períodos de pagamento de subsídio de desemprego e de subsídio social de desemprego inicial dão lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor da remuneração de referência que serviu de base ao cálculo da prestação.
+1 - Os períodos de pagamento de subsídio de desemprego e de subsídio social de desemprego inicial dão lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor da remuneração de referência que serviu de base ao cálculo da prestação, que não pode em qualquer caso ser superior a oito vezes o valor do IAS.
 
 2 - Os períodos de pagamento do subsídio social de desemprego subsequente ao subsídio de desemprego dão lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor do subsídio de desemprego anteriormente auferido.
 

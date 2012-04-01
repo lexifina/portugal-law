@@ -30,4 +30,6 @@ j) Segunda verificação, pelo centro de emprego, do incumprimento do dever de a
 
 4 - Determinam, ainda, a anulação da inscrição no centro de emprego a desistência injustificada ou exclusão justificada de trabalho socialmente necessário e formação profissional e a recusa ou desistência injustificada ou a exclusão justificada de medidas activas de emprego previstas no PPE.
 
-5 - A reinscrição no centro de emprego por parte dos beneficiários cuja inscrição foi anulada por actuação injustificada, nos termos previstos nos números anteriores, só pode verificar-se decorridos 90 dias consecutivos contados da data da decisão de anulação.
+5 - A decisão de anulação de inscrição do beneficiário nos termos dos números anteriores é proferida no prazo de 30 dias consecutivos a contar da data do conhecimento do facto que determine a anulação.
+
+6 - A reinscrição no centro de emprego por parte dos beneficiários cuja inscrição foi anulada por actuação injustificada, nos termos previstos nos números anteriores, só pode verificar-se decorridos 90 dias consecutivos contados da data da decisão de anulação.

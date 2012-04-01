@@ -2,7 +2,7 @@
 
 ### Limites ao montante do subsídio de desemprego
 
-1 - O montante mensal do subsídio de desemprego não pode ser superior ao triplo do valor do indexante dos apoios sociais (IAS) nem inferior ao valor desse indexante, sem prejuízo do disposto nos números seguintes.
+1 - O montante mensal do subsídio de desemprego não pode ser superior a duas vezes e meia o valor do indexante dos apoios sociais (IAS) nem inferior ao valor desse indexante, sem prejuízo do disposto nos números seguintes.
 
 2 - O montante mensal do subsídio de desemprego não pode ser superior a 75 % do valor líquido da remuneração de referência que serviu de base de cálculo ao subsídio de desemprego, sem prejuízo do disposto na parte final do n.º 1.
 

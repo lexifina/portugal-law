@@ -26,4 +26,16 @@ j) Aplicar advertência escrita e decidir da anulação da inscrição no centro
 
 2 - Cabe igualmente aos centros de emprego, na qualidade de serviço do lugar de estada ou residência, praticar os actos referidos no número anterior quando decorrentes da aplicação de instrumento internacional a que Portugal se encontre vinculado relativamente aos trabalhadores migrantes desempregados.
 
-3 - Para o exercício da sua função de verificação e controlo das situações de desemprego, os centros de emprego podem estabelecer formas concertadas de cooperação com outras entidades.
+3 - As convocatórias e notificações emitidas pelos centros de emprego, nos termos do presente diploma, devem ser enviadas para o domicílio do beneficiário com a antecedência mínima de três dias úteis relativamente à data da comparência, considerando-se efetuadas e presumindo-se a notificação postal feita no terceiro dia posterior ao do envio, ou no primeiro dia útil, quando o não seja.
+
+4 - A notificação da decisão de anulação de inscrição nos centros de emprego é efetuada por carta registada, em registo simples, presumindo-se a notificação postal feita no 3.º dia útil posterior ao do envio.
+
+5 - As convocatórias e ou notificações referidas nos números anteriores enviadas para a morada indicada pelo beneficiário produzem efeitos ainda que devolvidas, presumindo-se a convocatória ou notificação feita nos termos do número anterior.
+
+6 - As notificações referidas no presente artigo podem ser efetuadas por transmissão eletrónica de dados que equivalem, consoante os casos, à remessa por via postal simples ou por via postal registada.
+
+7 - As notificações efetuadas por transmissão eletrónica de dados consideram-se feitas no momento em que o destinatário aceda à caixa postal eletrónica.
+
+8 - Em caso de ausência de acesso à caixa postal eletrónica, deve ser efetuada nova transmissão eletrónica de dados, no prazo de 15 dias seguintes ao respetivo conhecimento por parte do centro de emprego que tenha procedido à emissão da notificação, considerando-se esta efetuada no 25.º dia posterior ao do seu envio, salvo nos casos em que se comprove que o beneficiário comunicou a alteração daquela ao Centro de Emprego ou que demonstre ter sido impossível essa comunicação.
+
+9 - Para o exercício da sua função de verificação e controlo das situações de desemprego, os centros de emprego podem estabelecer formas concertadas de cooperação com outras entidades.

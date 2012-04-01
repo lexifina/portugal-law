@@ -2,7 +2,7 @@
 
 ### Condições especiais de atribuição do subsídio social de desemprego
 
-1 - O reconhecimento do direito ao subsídio social de desemprego depende ainda do preenchimento da condição de recursos à data do desemprego ou dentro do prazo fixado no presente decreto-lei para a apresentação de provas, conforme se trate, respectivamente, de subsídio inicial ou subsequente.
+1 - O reconhecimento do direito ao subsídio social de desemprego depende ainda do preenchimento da condição de recursos à data do desemprego ou à data da cessação da atribuição do subsídio de desemprego, conforme se trate, respetivamente, de subsídio inicial ou subsequente.
 
 2 - A condição de recursos é definida em função dos rendimentos mensais do agregado familiar do requerente que não podem ultrapassar 80 % do IAS, cuja capitação do rendimento é ponderada segundo a escala de equivalência prevista na lei da condição de recursos.
 
