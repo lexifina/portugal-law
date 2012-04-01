@@ -1,8 +1,8 @@
 # Artigo 105.º
 
-### Taxas nas Regiões Autónomas dos Açores e da Madeira
+### Taxas na Região Autónoma dos Açores
 
-1 - Aos cigarros fabricados nas Regiões Autónomas dos Açores e da Madeira por pequenos produtores cuja produção anual não exceda, individualmente, 500 t e que sejam consumidos nessas regiões, são aplicáveis as seguintes taxas:
+1 - Aos cigarros fabricados nas Regiões Autónomas dos Açores e da Madeira por pequenos produtores cuja produção anual não exceda, individualmente, 500 t e que sejam consumidos na Região Autónoma dos Açores são aplicáveis as seguintes taxas:
 
 a) Elemento específico - (euro) 15,30;
 
