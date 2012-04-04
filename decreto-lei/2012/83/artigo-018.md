@@ -1,0 +1,7 @@
+# Artigo 18.º
+
+### Norma transitória
+
+1 - A estrutura de missão Programa para a Inclusão e Cidadania (PIEC) extingue-se no término do ano letivo 2011/2012.
+
+2 - Durante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras de fixação de remuneração estabelecidas pelo presente diploma não pode resultar um aumento da remuneração efetivamente paga aos cargos de direção intermédia, designados ou a designar, tendo por referência a remuneração atribuída à data de entrada em vigor do presente decreto-lei, sem prejuízo do eventual exercício da opção pelo vencimento do lugar de origem nas novas designações.
