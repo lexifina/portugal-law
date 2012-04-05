@@ -1,0 +1,1042 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "51",
+    "id": "36882",
+    "titulo": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-04-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8683",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-04-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-04-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:01:53:507&drc=00:04:14:375"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:16:26:437&drc=00:03:32:198"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:29:37:414&drc=00:04:05:006"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:42:09:758&drc=00:03:50:845"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:27:21:810&drc=00:05:22:199"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:37:37:507&drc=00:02:54:405"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Vítor Gaspar"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "183999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11",
+                  "13-14",
+                  "25-28",
+                  "3-4",
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/3?pgs=3-4,6-7,10-11,13-14,25-28&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:06:40:662&drc=00:03:44:414"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184000",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:10:41:317&drc=00:02:35:524"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184001",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:13:24:002&drc=00:02:54:713"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:20:11:010&drc=00:02:24:299"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:22:42:232&drc=00:03:20:672"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:37:10:560&drc=00:01:22:950"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12",
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/8?pgs=8-9,12&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:26:21:818&drc=00:03:12:843"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:34:08:305&drc=00:02:52:379"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:38:43:002&drc=00:03:18:005"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4187",
+                "nome": "Pedro Jesus Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:46:44:343&drc=00:10:19:274"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:00:11:871&drc=00:03:05:900"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-17",
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/15?pgs=15-17,19&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2849",
+                "nome": "Adolfo Mesquita Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=00:57:20:082&drc=00:02:48:228"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:03:46:784&drc=00:07:14:512"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/19?pgs=19-21&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:11:30:171&drc=00:05:01:744"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4403",
+                "nome": "Vera Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:16:58:039&drc=00:05:05:645"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:22:25:297&drc=00:02:33:865"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:25:09:350&drc=00:01:52:771"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:33:00:138&drc=00:04:28:360"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120405pln&url=l12/sl1/a2012/m04/&tI=01:40:49:903&drc=00:01:05:750"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-07",
+                "pubLeg": "XII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei do Orçamento do Estado para o ano de 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, no âmbito da Iniciativa de Reforço da Estabilidade Financeira.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283190",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8683",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-04-07",
+        "pubLeg": "XII",
+        "pubNr": "93",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/093/2012-04-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
