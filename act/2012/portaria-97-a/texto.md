@@ -1,0 +1,23 @@
+Portaria n.º 97-A/2012
+de 5 de abril
+O Regulamento da Pesca por Arte de Armadilha, aprovado pela Portaria n.º 1102-D/2000, de 22 de novembro, republicada pela Portaria n.º 447/2009, de 28 de abril, e alterada pelas Portarias n.os 774/2009, de 21 de julho, 193/2010, de 8 de abril, e 1054/2010, de 14 de outubro, estabelece medidas relacionadas com a gestão da pescaria do polvo, a principal espécie capturada pelas armadilhas de gaiola 30 mm-50 mm.
+Este regulamento, na sua redação atual, prevê a proibição da utilização do caranguejo-mouro como isco vivo na pesca com armadilhas de gaiola, na sequência da proposta apresentada por algumas associações de pescadores que tinha subjacente a preocupação de acautelar a utilização de um número excessivo das referidas artes para a pesca do polvo.
+Por outro lado, o referido regulamento fixa ainda números máximos de armadilhas por embarcação estipulando que as embarcações com mais de 9 m de comprimento de fora a fora só podem calar estas artes para além de 1 milha de distância à linha de costa.
+Estas normas têm sofrido derrogações várias, o que revela a necessidade de melhorar o conhecimento e a informação científica sobre a utilização do caranguejo-mouro como isco vivo e sobre o impacto de se calarem as armadilhas de gaiola a partir da meia milha da costa, bem como sobre número máximo de armadilhas permitido.
+Estas derrogações mostram ainda a necessidade de se promover um maior envolvimento e participação das organizações representativas das comunidades piscatórias na melhoria da informação e da eficácia da gestão do polvo, o que será feito através da constituição de novo grupo de trabalho que analise e proponha soluções coerentes e definitivas.
+Neste contexto, entende-se adequado o prolongamento, por um prazo de 120 dias, da possibilidade de utilização de um número de armadilhas de gaiola diferente do estabelecido na Portaria n.º 1102-D/2000, de 22 de novembro, e da autorização para o uso de caranguejo-mouro como isco bem como se mantém a possibilidade de pesca com armadilhas de gaiola dentro da meia (0,5) milha para embarcações costeiras até 30 de setembro de 2012, a fim de se colmatarem as necessidades anteriormente referidas.
+Assim, ao abrigo do disposto no artigo 49.º do Decreto Regulamentar n.º 43/87, de 17 de julho, na redação pelo Decreto Regulamentar n.º 7/2000, de 30 de maio, e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território no despacho n.º 12 412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011, determino o seguinte:
+Artigo 1.º
+Derrogações ao artigo 8.º da Portaria n.º 1102-D/2000, de 22 de novembro
+A presente portaria derroga algumas disposições do artigo 8.º do Regulamento da Pesca por Arte de Armadilha, estabelecido pela Portaria n.º 1102-D/2000, de 22 de novembro, republicada pela Portaria n.º 447/2009, de 28 de abril, e alterada pelas Portarias n.os 774/2009, de 21 de julho, 193/2010, de 8 de abril, e 1054/2010, de 14 de outubro, nos seguintes termos:
+a) Em derrogação do disposto na alínea a) do n.º 1 do artigo 8.º do referido regulamento, e pelo prazo de 120 dias a contar da data da entrada em vigor da presente portaria, o número máximo de armadilhas que pode ser utilizado pelas embarcações licenciadas para armadilhas de gaiola, de classe de malhagem 30 mm-50 mm, em função do seu comprimento de fora a fora, passa a ser o seguinte:
+i) Até 9 m de comprimento de fora a fora, de convés aberto - 500 armadilhas;
+ii) Até 9 m de comprimento de fora a fora, de convés fechado - 750 armadilhas;
+iii) Mais de 9 m e até 12 m de comprimento de fora a fora - 1000 armadilhas;
+iv) Mais de 12 m de comprimento de fora a fora -1250 armadilhas.
+b) Pelo prazo de 120 dias a contar da data da entrada em vigor da presente portaria, é suspensa a aplicação do n.º 3 do artigo 8.º do referido regulamento.
+c) Em derrogação do disposto na alínea b) do n.º 1 do artigo 8.º do referido regulamento, as embarcações com mais de 9 m de comprimento de fora a fora podem calar armadilhas de gaiola 30 mm-50 mm para além da meia (0,5) milha de distância à costa até 30 de setembro de 2012, desde o paralelo de Pedrógão (39º 55' 04'' N.) até ao meridiano que passa pela foz do rio Guadiana (7º 23' 48'' W.).
+Artigo 2.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 30 de março de 2012.
