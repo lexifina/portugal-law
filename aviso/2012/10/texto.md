@@ -1,0 +1,7 @@
+Aviso n.º 10/2012
+Por ordem superior se torna público que, por notificação de 2 de fevereiro de 2012, o Conselho Federal dos Negócios Estrangeiros da Suíça comunicou, por notificação aos Governos dos Estados Membros da Comissão Internacional do Estado Civil (CIEC), que a República da Estónia depositou junto do Conselho Federal suíço no dia 24 de novembro de 2011 um instrumento de adesão à Convenção relativa à emissão de extratos multilingues de atos do estado civil (Convenção CIEC n.º 16), assinada em Viena em 8 de setembro de 1976.
+Tradução
+Em conformidade com o seu artigo 17, a Convenção entrará em vigor para a República da Estónia ao 30.º dia de acordo com a data do depósito do instrumento de adesão, ou seja, a 24 de dezembro de 2011.
+O Conselho Federal suíço, na sua qualidade de depositário (www.dfae.admin.ch/depositaire), envia a presente notificação aos Governos dos Estados Membros da CIEC.
+A República Portuguesa tornou-se membro de pleno direito da Comissão a partir de 27 de outubro de 1973. Foi admitida na Comissão em 13 de setembro de 1973, por votação unânime, passando a ficar habilitada a fazer parte 20 dias depois da votação, nos termos do n.º 3 do Protocolo Adicional de 25 de setembro de 1952, conforme Aviso publicado no Diário de Governo, 1.ª série, n.º 274, de 23 de novembro de 1973.
+Departamento de Assuntos Jurídicos, 23 de março de 2012. - O Diretor, Miguel de Serpa Soares.
