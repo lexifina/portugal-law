@@ -1,0 +1,20 @@
+Despacho n.º 4913/2012
+Na sequência da entrada em vigor do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior, aprovado pelo despacho n.º 12780-B/2011, de 23 de setembro, o Ministério da Educação e Ciência tem procedido ao acompanhamento da sua aplicação, quer através de informações periódicas da Direção-Geral do Ensino Superior, quer mediante os contributos do Conselho de Reitores das Universidades Portuguesas, do Conselho Coordenador dos Institutos Superiores Politécnicos e de associações académicas e de estudantes.
+Da análise dessas informações e contributos resulta a necessidade de esclarecer algumas questões suscitadas pela aplicação da alínea b) do n.º 1 do artigo 33.º do Regulamento, pelo que estabeleço as seguintes orientações:
+1 - Os estudantes a quem o requerimento de atribuição de bolsa de estudo foi indeferido por força do disposto na alínea b) do n.º 1 do artigo 33.º do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior, aprovado pelo despacho n.º 12780-B/2011, de 23 de setembro, adiante designado Regulamento, podem solicitar a abertura de um novo processo de atribuição de bolsa de estudo desde que a situação tributária ou contributiva dos membros do seu agregado familiar se encontre regularizada.
+2 - Para os efeitos do n.º 1 considera-se que a situação tributária de um contribuinte se encontra regularizada quando esteja preenchido um dos seguintes requisitos:
+a) Não seja devedor perante a Fazenda Nacional de quaisquer impostos ou prestações tributárias e respetivos juros;
+b) Esteja a proceder ao pagamento da dívida em prestações nas condições e termos autorizados, cumprindo um plano de regularização;
+c) Tenha reclamado, recorrido ou impugnado judicialmente aquelas dívidas, salvo se, pelo fato de não ter sido prestada garantia, quando exigível, não tiver sido suspensa a respetiva execução.
+3 - Para os efeitos do n.º 1 considera-se que a situação contributiva de um contribuinte se encontra regularizada nos seguintes casos, previstos no artigo 208.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social:
+a) Inexistência de dívidas de contribuições, quotizações, juros de mora e de outros valores do contribuinte;
+b) Situações de dívida cujo pagamento em prestações tenha sido autorizado e enquanto estiverem a ser cumpridas as condições dessa autorização, ainda que o pagamento prestacional tenha sido autorizado a terceiro ou a responsável subsidiário;
+c) Situações em que o contribuinte tenha reclamado, recorrido, deduzido oposição ou impugnado judicialmente a dívida, desde que tenha sido prestada garantia idónea.
+4 - A abertura do novo processo é feita a requerimento do estudante, instruído com declaração dos serviços das Finanças e ou da Segurança Social comprovativa da regularização da situação tributária e ou contributiva que tinha dado origem ao indeferimento a que se refere o n.º 1.
+5 - O requerimento é apresentado:
+a) Nos serviços de ação social escolar respetivos, no caso dos estudantes das instituições de ensino superior públicas;
+b) Nos gabinetes de ação social escolar respetivos, no caso dos estudantes dos estabelecimentos de ensino superior privados ou, quando estes deles não disponham, na Direção-Geral do Ensino Superior.
+6 - Caso, na sequência do requerimento a que se refere o n.º 4, venha a ser atribuída bolsa de estudo, o montante da mesma é proporcional ao da bolsa base anual, considerando o período que medeia entre a data de apresentação do requerimento a que se refere o n.º 4 e o fim do ano letivo em curso, em termos similares aos adotados na aplicação do artigo 18.º do Regulamento.
+7 - Caso, na sequência do requerimento a que se refere o n.º 4, venha a ser atribuída bolsa de estudo e a regularização da situação tributária ou contributiva tenha ocorrido através da aprovação de um plano de regularização, a interrupção do pagamento das prestações do mesmo determina a cessação do direito à bolsa de estudo.
+28 de março de 2012. - O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró.
+205931885
