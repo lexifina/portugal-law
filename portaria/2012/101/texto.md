@@ -1,0 +1,23 @@
+Portaria n.º 101/2012
+de 13 de abril
+A delimitação da Reserva Ecológica Nacional (REN) para a área do concelho de Grândola foi aprovada pela Resolução do Conselho de Ministros n.º 70/2000, de 1 de julho, e alterada pela Resolução do Conselho de Ministros n.º 143/2004, de 19 de outubro, pela Resolução do Conselho de Ministros n.º 79/2005, de 29 de março, e pela Resolução do Conselho de Ministros n.º 17/2008, de 1 de fevereiro.
+A Comissão de Coordenação e Desenvolvimento Regional do Alentejo apresentou, nos termos do disposto no n.º 2 do artigo 41.º do Decreto-Lei n.º 166/2008, de 22 de agosto, propostas de delimitação parcial de REN para o concelho de Grândola, enquadradas nos procedimentos de elaboração do Plano de Pormenor da UNOP7 e do Plano de Pormenor da UNOP8, previstos no Plano de Urbanização de Tróia.
+A Comissão Nacional da Reserva Ecológica Nacional pronunciou-se favoravelmente sobre a delimitação proposta, nos termos do disposto no artigo 3.º do Decreto-Lei n.º 93/90, de 19 de março, aplicável por via do disposto no mencionado n.º 2 do artigo 41.º do Decreto-Lei n.º 166/2008, de 22 de agosto, sendo que o respetivo parecer se encontra consubstanciado em ata da reunião daquela Comissão, realizada em 26 de julho de 2011, subscrita pelos representantes que a compõem.
+Sobre a referida delimitação foi ouvida a Câmara Municipal de Grândola.
+Em resultado do presente procedimento de delimitação da REN de Grândola, bem como da entrada em vigor do Plano de Pormenor da UNOP7 e do Plano de Pormenor da UNOP8, será desencadeada a alteração por adaptação da planta de condicionantes do Plano Diretor Municipal de Grândola, nos termos do disposto na alínea a) do n.º 1 do artigo 97.º do Decreto-Lei n.º 380/99, de 22 de setembro, na sua redação atual.
+Do mesmo modo, na sequência da revisão daquele Plano Diretor Municipal, ou no prazo de um ano a contar da publicação da presente portaria, deverá ser aprovada e publicada a nova carta de REN concelhia consolidada, nos termos legalmente previstos e tendo em consideração os demais procedimentos que venham a concluir-se.
+Assim:
+Considerando o disposto no n.º 2 do artigo 41.º do Decreto-Lei n.º 166/2008, de 22 de agosto, manda o Governo, pelo Secretário de Estado do Ambiente e do Ordenamento do Território, no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, através do despacho n.º 12412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011, com a redação que lhe foi conferida pela declaração de retificação n.º 1810/2011, publicada no Diário da República, 2.ª série, n.º 227, de 25 de novembro de 2011, o seguinte:
+Artigo 1.º
+Objeto
+É aprovada a delimitação da Reserva Ecológica Nacional do concelho de Grândola, com as áreas a incluir e a excluir identificadas na planta e nos quadros anexos à presente portaria, que dela fazem parte integrante.
+Artigo 2.º
+Consulta
+As referidas plantas, os quadros anexos e a memória descritiva do presente processo podem ser consultados na Comissão de Coordenação e Desenvolvimento Regional do Alentejo (CCDR do Alentejo), bem como na Direção-Geral do Ordenamento do Território e Desenvolvimento Urbano (DGOTDU).
+Artigo 3.º
+Produção de efeitos
+A presente portaria produz os seus efeitos com a entrada em vigor do Plano de Pormenor da UNOP7 e do Plano de Pormenor da UNOP8.
+O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 7 de março de 2012.
+QUADROS ANEXOS
+Delimitação da Reserva Ecológica Nacional do concelho de Grândola
+(ver documento original)
