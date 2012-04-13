@@ -1,0 +1,383 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "5",
+    "id": "36906",
+    "titulo": "Comissão Eventual de Inquérito Parlamentar à elaboração e renegociação de todos os contratos de parcerias público-privadas nos setores ferroviário, rodoviário e da saúde"
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "2012-04-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8706",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a545a6d4e544e69597a6b7459325a6a5a5330305a44526a4c546b354e6d55744e4451784f4449794e7a67774d4455794c6e426b5a673d3d&fich=e6f53bc9-cfce-4d4c-996e-441822780052.pdf&Inline=true",
+        "anexoNome": "Texto de Substituição relativo aos Inquéritos Parlamentares n.ºs 4/XII/1.ª (PPD/PSD e CDS-PP) e 5/XII/1.ª (BE)."
+      }
+    ],
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "2012-04-13",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Inquérito Parlamentar",
+        "id": "36883",
+        "leg": "XII",
+        "nr": "4",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1644",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-04-14",
+            "pubLeg": "XII",
+            "pubNr": "96",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/096/2012-04-14/35?pgs=35-40&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "I",
+        "titulo": "Comissão Eventual de Inquérito Parlamentar a renogociação das concessões rodoviárias das Costa de Prata, do grande Porto, das Beiras Litoral e Alta, Norte, grande Lisboa e Norte Litoral, que culminou  com assinatura de aditamentos aos contratos de concessão, e das concessões do Algarve, Beira Interior e Interior Norte."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-04-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "249",
+                "nome": "Mendes Bota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120413pln&url=l12/sl1/a2012/m04/&tI=02:08:20:746&drc=00:03:37:094"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-14",
+                "pubLeg": "XII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/096/2012-04-14/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar a renogociação das concessões rodoviárias das Costa de Prata, do grande Porto, das Beiras Litoral e Alta, Norte, grande Lisboa e Norte Litoral, que culminou  com assinatura de aditamentos aos contratos de concessão, e das concessões do Algarve, Beira Interior e Interior Norte; Comissão Eventual de Inquérito Parlamentar à elaboração e renegociação de todos os contratos de parcerias público-privadas nos setores ferroviário, rodoviário e da saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120413pln&url=l12/sl1/a2012/m04/&tI=02:12:02:595&drc=00:03:17:509"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-14",
+                "pubLeg": "XII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/096/2012-04-14/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar a renogociação das concessões rodoviárias das Costa de Prata, do grande Porto, das Beiras Litoral e Alta, Norte, grande Lisboa e Norte Litoral, que culminou  com assinatura de aditamentos aos contratos de concessão, e das concessões do Algarve, Beira Interior e Interior Norte; Comissão Eventual de Inquérito Parlamentar à elaboração e renegociação de todos os contratos de parcerias público-privadas nos setores ferroviário, rodoviário e da saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120413pln&url=l12/sl1/a2012/m04/&tI=02:15:28:297&drc=00:03:54:841"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-14",
+                "pubLeg": "XII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/096/2012-04-14/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar a renogociação das concessões rodoviárias das Costa de Prata, do grande Porto, das Beiras Litoral e Alta, Norte, grande Lisboa e Norte Litoral, que culminou  com assinatura de aditamentos aos contratos de concessão, e das concessões do Algarve, Beira Interior e Interior Norte; Comissão Eventual de Inquérito Parlamentar à elaboração e renegociação de todos os contratos de parcerias público-privadas nos setores ferroviário, rodoviário e da saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4066",
+                "nome": "Duarte Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120413pln&url=l12/sl1/a2012/m04/&tI=02:19:29:467&drc=00:03:21:743"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-14",
+                "pubLeg": "XII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/096/2012-04-14/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar a renogociação das concessões rodoviárias das Costa de Prata, do grande Porto, das Beiras Litoral e Alta, Norte, grande Lisboa e Norte Litoral, que culminou  com assinatura de aditamentos aos contratos de concessão, e das concessões do Algarve, Beira Interior e Interior Norte; Comissão Eventual de Inquérito Parlamentar à elaboração e renegociação de todos os contratos de parcerias público-privadas nos setores ferroviário, rodoviário e da saúde",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120413pln&url=l12/sl1/a2012/m04/&tI=02:22:59:913&drc=00:03:04:086"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-14",
+                "pubLeg": "XII",
+                "pubNr": "96",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/096/2012-04-14/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Comissão Eventual de Inquérito Parlamentar a renogociação das concessões rodoviárias das Costa de Prata, do grande Porto, das Beiras Litoral e Alta, Norte, grande Lisboa e Norte Litoral, que culminou  com assinatura de aditamentos aos contratos de concessão, e das concessões do Algarve, Beira Interior e Interior Norte; Comissão Eventual de Inquérito Parlamentar à elaboração e renegociação de todos os contratos de parcerias público-privadas nos setores ferroviário, rodoviário e da saúde",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283394",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "592349",
+        "obs": null,
+        "pag": [
+          "40-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-04-14",
+        "pubLeg": "XII",
+        "pubNr": "96",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/096/2012-04-14/40?pgs=40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2012-04-13",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "60475",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "96",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
