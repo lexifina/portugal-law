@@ -1,0 +1,133 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "289",
+  "id": "36917",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-04-13",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1384",
+        "nome": "Paulo Batista Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4085",
+        "nome": "Pedro Lynce"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1993",
+        "nome": "Pedro do Ó Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3991",
+        "nome": "Nuno Encarnação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4328",
+        "nome": "Maurício Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3990",
+        "nome": "Pedro Saraiva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4031",
+        "nome": "Ângela Guerra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1733",
+        "nome": "Luís Pedro Pimentel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4439",
+        "nome": "António Prôa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4438",
+        "nome": "Hélder Sousa Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4327",
+        "nome": "Carlos Abreu Amorim"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4050",
+        "nome": "Fernando Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4304",
+        "nome": "Bruno Coimbra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4325",
+        "nome": "José Manuel Canavarro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1743",
+        "nome": "Ulisses Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4294",
+        "nome": "Mário Simões"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4052",
+        "nome": "Pedro Pimpão"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36917",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47466c5a575a694e6d49744d444931595330305a4755314c546c6b4d6a4174596d51304e5455344f445532595463354c6d527659773d3d&fich=daeefb6b-025a-4de5-9d20-bd4558856a79.doc&Inline=true",
+    "IniNr": "289",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo a valorização energética da biomassa no objetivo de proteção da floresta.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
