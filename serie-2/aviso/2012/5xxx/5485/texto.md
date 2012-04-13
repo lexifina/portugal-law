@@ -1,0 +1,8 @@
+Aviso n.º 5485/2012
+Abertura de Período de Discussão Pública da proposta do Plano de Pormenor da Zona Envolvente à Sociedade Filarmónica Progresso e Labor Samouquense
+Torna-se público, nos termos dos n.os 3 e 4 do artº 77.º do Decreto-Lei n.º 380/99 de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro e do artigo 91.º da lei n.º 169/99, de 18 de setembro, com a redação conferida pela lei n.º 5-A/2002, de 11 de janeiro, que a Câmara Municipal de Alcochete, em 21 de março de 2012, deliberou aprovar a abertura de período de discussão pública da proposta do Plano de Pormenor da Zona Envolvente à Sociedade Filarmónica Progresso e Labor Samouquense, por um período de 30 dias, com uma sessão pública, no mínimo.
+Torna-se ainda público que o mencionado período de discussão pública terá inicio 5 dias após a publicação do presente aviso no Diário da República, nos termos da alínea a) do n.º 4 do artº148.º do citado regime jurídico dos instrumentos de gestão territorial.
+A proposta do plano e demais documentação poderão ser consultadas nas instalações da Divisão do Ordenamento do Território da Câmara Municipal de Alcochete, sita no edifício dos Paços do Concelho, Largo de S João, 2894 001 Alcochete e na Junta de Freguesia de Samouco, sita na Praça da Liberdade, n.º 8, 2890 - 209 Samouco, bem como no site da Câmara Municipal (http:www.cm-alcochete.pt).
+As reclamações, observações ou sugestões, deverão ser feitas por escrito, dirigidas ao Presidente da Câmara Municipal de Alcochete e apresentadas até ao termo do referido período, nos locais indicados, por correio, por fax (212348690) ou através de endereço eletrónico geral@cm-alcochete.pt
+30 de março de 2012. - O Presidente da Câmara, Luís Miguel Franco, Dr.
+205960794
