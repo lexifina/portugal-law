@@ -1,0 +1,542 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12230",
+  "numero": "118",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-04-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-06-08",
+            "dataResposta": "2012-09-12",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "233/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-06-08",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Alcobaça"
+            ],
+            "nrOficio": "232/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-06-08",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Nazaré"
+            ],
+            "nrOficio": "234/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-19",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "614460",
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-22",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/066/2012-12-22?org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2012-12-19",
+              "descricao": null,
+              "detalhe": null,
+              "id": "62348",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "73",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-05-02",
+        "DataArquivo": "2012-12-19",
+        "DataBaixaComissao": "2012-05-02",
+        "DataEnvioPAR": "2012-12-20",
+        "DataReaberta": "2012-05-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-05-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938794e32526c5a6d59305a6930354e474d304c545133593245744f4467354e53316b596a597a4d54526d5a54517a4d4463756347526d&fich=27deff4f-94c4-47ca-8895-db6314fe4307.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396a4f446b7a4e6a49314d5330334e47597a4c5451774d54677459546b344d43307a4e5441795a6d526a597a63794f5441756347526d&fich=c8936251-74f3-4018-a980-3502fdcc7290.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784e475a694d5463774e5330305a6a49774c54526c4f5459744f444e6d59793034596a426c5a6a51315a5459304e6a55756347526d&fich=14fb1705-4f20-4e96-83fc-8b0ef45e6465.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-06-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938315a6d4e6c4d474d3159693169597a6b334c545134593251744f544e684d53316d4d7a5a694d574e6c4f5467314d4749756347526d&fich=5fce0c5b-bc97-48cd-93a1-f36b1ce9850b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938354f574e6c4d4755774f43316b4f4467324c54526b4e7a6374596a557a5a69316a4f44566c4e545268596d557a596a55756347526d&fich=99ce0e08-d886-4d77-b53f-c85e54abe3b5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-09-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387a5a6d4d774e47557a4d6930305a6d466a4c5451304e4451744f574d7a4f53316c4f5449774e6a51304e6a5a6c5a6a63756347526d&fich=3fc04e32-4fac-4444-9c39-e92064466ef7.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-05-02",
+            "gp": "PSD",
+            "id": "4051",
+            "motivoCessacao": null,
+            "nome": "Maria Conceição Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-01-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-04-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4a6859575979597a4e6c4c5751354e4751744e444d305a533169596a646a4c5755795a444a6a5a6a49304d3256685a4335775a47593d&fich=2aaf2c3e-d94d-434e-bb7c-e2d2cf243ead.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37326",
+      "37463"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-01-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:08:38:882&drc=00:02:55:118"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão do processo de reorganização dos cuidados hospitalares na região Oeste; Recomenda ao Governo a manutenção em funcionamento do Hospital de Alcobaça; Solicitam a manutenção em atividade plena da Unidade Hospitalar de Alcobaça.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:11:44:715&drc=00:02:20:979"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão do processo de reorganização dos cuidados hospitalares na região Oeste; Recomenda ao Governo a manutenção em funcionamento do Hospital de Alcobaça; Solicitam a manutenção em atividade plena da Unidade Hospitalar de Alcobaça.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:14:13:849&drc=00:02:09:221"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão do processo de reorganização dos cuidados hospitalares na região Oeste; Recomenda ao Governo a manutenção em funcionamento do Hospital de Alcobaça; Solicitam a manutenção em atividade plena da Unidade Hospitalar de Alcobaça.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:16:31:569&drc=00:02:29:133"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão do processo de reorganização dos cuidados hospitalares na região Oeste; Recomenda ao Governo a manutenção em funcionamento do Hospital de Alcobaça; Solicitam a manutenção em atividade plena da Unidade Hospitalar de Alcobaça.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:19:07:059&drc=00:03:15:941"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão do processo de reorganização dos cuidados hospitalares na região Oeste; Recomenda ao Governo a manutenção em funcionamento do Hospital de Alcobaça; Solicitam a manutenção em atividade plena da Unidade Hospitalar de Alcobaça.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-01-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:22:32:321&drc=00:02:55:596"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão do processo de reorganização dos cuidados hospitalares na região Oeste; Recomenda ao Governo a manutenção em funcionamento do Hospital de Alcobaça; Solicitam a manutenção em atividade plena da Unidade Hospitalar de Alcobaça.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12230",
+    "PetAssunto": "Solicitam a manutenção em atividade plena da Unidade Hospitalar de Alcobaça.",
+    "PetDataEntrada": "2012-04-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12230",
+    "PetLeg": "XII",
+    "PetNr": "118",
+    "PetNrAssinaturas": "9347",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1721",
+        "obs": null,
+        "pag": [
+          "37-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-01-26",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/37?pgs=37-42&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "591470",
+        "obs": null,
+        "pag": [
+          "20-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-12",
+        "pubLeg": "XII",
+        "pubNr": "212",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/212/2012-05-12/20?pgs=20-21&org=PLC"
+      }
+    ]
+  }
+}
