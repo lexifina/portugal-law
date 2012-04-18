@@ -1,0 +1,514 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12233",
+  "numero": "121",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-04-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-10-19",
+            "dataResposta": "2012-12-06",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "355/9ª/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "614462",
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-22",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/066/2012-12-22?org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2012-12-19",
+              "descricao": null,
+              "detalhe": null,
+              "id": "62350",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "73",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-05-02",
+        "DataArquivo": "2012-12-19",
+        "DataBaixaComissao": "2012-05-02",
+        "DataEnvioPAR": "2012-12-20",
+        "DataReaberta": "2012-05-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-05-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938335954566b5a6a59314f5330334e6a67354c54526b4f5463744f4449354e79307959324d305a6a6b344e4745304f5449756347526d&fich=7a5df659-7689-4d97-8297-2cc4f984a492.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396d5a6a5935596a686b4f5330314e7a45304c5451784d6a6b744f5759774e43316d4e6d4d344d444e685a4745324d5745756347526d&fich=ff69b8d9-5714-4129-9f04-f6c803ada61a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938345a6d45784d6d4e694e7930774d6d4a6d4c54526d4d6d51744f445a684e69307a4f5459344d6d497a4f474e6a4d5449756347526d&fich=8fa12cb7-02bf-4f2d-86a6-39682b38cc12.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2011-12-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396c5a44526d4e6a4134597931695a6a597a4c54526a4e4745744f5751784d533078596a49774d7a63344e32566a5a6a417555455247&fich=ed4f608c-bf63-4c4a-9d11-1b203787ecf0.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-05-02",
+            "gp": "PS",
+            "id": "2092",
+            "motivoCessacao": null,
+            "nome": "Luísa Salgueiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-01-31",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-04-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51355a6a41314e7a41774c544e6b596d4d744e445a6859533168596a41344c5449305a5463344d7a6b31596a457a5a4335775a47593d&fich=49f05700-3dbc-46aa-ab08-24e78395b13d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "37481"
+    ],
+    "Iniciativasoriginadas": [
+      "37481"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130131pln&url=l12/sl2/a2013/m01/&tI=03:38:50:492&drc=00:02:24:567"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188202",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-01",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/048/2013-02-01/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo o prolongamento do horário de atendimento nas USF PHYSIS e novos rumos, em Vizela; Solicitam o prolongamento do horário de funcionamento do Centro de Saúde, durante a semana e a sua reabertura aos  Sábados, Domingos e Feriados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130131pln&url=l12/sl2/a2013/m01/&tI=03:41:21:710&drc=00:01:56:441"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188203",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-01",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/048/2013-02-01/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo o prolongamento do horário de atendimento nas USF PHYSIS e novos rumos, em Vizela; Solicitam o prolongamento do horário de funcionamento do Centro de Saúde, durante a semana e a sua reabertura aos  Sábados, Domingos e Feriados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130131pln&url=l12/sl2/a2013/m01/&tI=03:43:24:587&drc=00:02:30:756"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-01",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/048/2013-02-01/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo o prolongamento do horário de atendimento nas USF PHYSIS e novos rumos, em Vizela; Solicitam o prolongamento do horário de funcionamento do Centro de Saúde, durante a semana e a sua reabertura aos  Sábados, Domingos e Feriados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130131pln&url=l12/sl2/a2013/m01/&tI=03:46:03:719&drc=00:01:46:950"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130131pln&url=l12/sl2/a2013/m01/&tI=03:53:21:717&drc=00:00:29:974"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-01",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/048/2013-02-01/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo o prolongamento do horário de atendimento nas USF PHYSIS e novos rumos, em Vizela; Solicitam o prolongamento do horário de funcionamento do Centro de Saúde, durante a semana e a sua reabertura aos  Sábados, Domingos e Feriados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130131pln&url=l12/sl2/a2013/m01/&tI=03:47:59:711&drc=00:02:46:439"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-01",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/048/2013-02-01/62?pgs=62&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo o prolongamento do horário de atendimento nas USF PHYSIS e novos rumos, em Vizela; Solicitam o prolongamento do horário de funcionamento do Centro de Saúde, durante a semana e a sua reabertura aos  Sábados, Domingos e Feriados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130131pln&url=l12/sl2/a2013/m01/&tI=03:50:52:529&drc=00:02:18:213"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-01",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/048/2013-02-01/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo o prolongamento do horário de atendimento nas USF PHYSIS e novos rumos, em Vizela; Solicitam o prolongamento do horário de funcionamento do Centro de Saúde, durante a semana e a sua reabertura aos  Sábados, Domingos e Feriados.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12233",
+    "PetAssunto": "Solicitam o prolongamento do horário de funcionamento do Centro de Saúde, durante a semana e a sua reabertura aos  Sábados, Domingos e Feriados.",
+    "PetDataEntrada": "2012-04-18",
+    "PeticoesAssociadas": null,
+    "PetId": "12233",
+    "PetLeg": "XII",
+    "PetNr": "121",
+    "PetNrAssinaturas": "4793",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "413",
+        "obs": null,
+        "pag": [
+          "59-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-02-01",
+        "pubLeg": "XII",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/048/2013-02-01/59?pgs=59-63&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "612561",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-01-11",
+        "pubLeg": "XII",
+        "pubNr": "121",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/121/2012-01-11/3?pgs=3-4&org=PLC"
+      }
+    ]
+  }
+}
