@@ -1,0 +1,369 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "186",
+    "id": "36815",
+    "titulo": "Altera a lei n.º 17/2003, de 4 de junho (Iniciativa Legislativa de Cidadãos), eliminando a discriminação existente em relação aos emigrantes portugueses."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-04-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8709",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-04-18",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36868",
+        "leg": "XII",
+        "nr": "203",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1634",
+            "obs": null,
+            "pag": [
+              "41-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-04-19",
+            "pubLeg": "XII",
+            "pubNr": "97",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/097/2012-04-19/41?pgs=41-46&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Primeira alteração à Lei nº 17/2003, de 4 de Junho, que regula os termos e condições em que grupos de cidadãos eleitores exercem o direito de iniciativa legislativa junto da Assembleia da República, eliminando a discriminação relativa aos portugueses residentes no estrangeiro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-04-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1458",
+                "nome": "Carlos Alberto Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:21",
+            "horaTermo": "18:57",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120418pln&url=l12/sl1/a2012/m04/&tI=02:26:59:719&drc=00:03:58:542"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120418pln&url=l12/sl1/a2012/m04/&tI=02:47:00:968&drc=00:00:57:031"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42",
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-19",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/097/2012-04-19/41?pgs=41-42,46&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei n.º 17/2003, de 4 de junho (Iniciativa Legislativa de Cidadãos), eliminando a discriminação existente em relação aos emigrantes portugueses; Primeira alteração à Lei nº 17/2003, de 4 de Junho, que regula os termos e condições em que grupos de cidadãos eleitores exercem o direito de iniciativa legislativa junto da Assembleia da República, eliminando a discriminação relativa aos portugueses residentes no estrangeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:21",
+            "horaTermo": "18:57",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120418pln&url=l12/sl1/a2012/m04/&tI=02:31:13:402&drc=00:04:15:147"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-19",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/097/2012-04-19/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei n.º 17/2003, de 4 de junho (Iniciativa Legislativa de Cidadãos), eliminando a discriminação existente em relação aos emigrantes portugueses; Primeira alteração à Lei nº 17/2003, de 4 de Junho, que regula os termos e condições em que grupos de cidadãos eleitores exercem o direito de iniciativa legislativa junto da Assembleia da República, eliminando a discriminação relativa aos portugueses residentes no estrangeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:21",
+            "horaTermo": "18:57",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120418pln&url=l12/sl1/a2012/m04/&tI=02:35:38:335&drc=00:03:21:364"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-19",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/097/2012-04-19/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei n.º 17/2003, de 4 de junho (Iniciativa Legislativa de Cidadãos), eliminando a discriminação existente em relação aos emigrantes portugueses; Primeira alteração à Lei nº 17/2003, de 4 de Junho, que regula os termos e condições em que grupos de cidadãos eleitores exercem o direito de iniciativa legislativa junto da Assembleia da República, eliminando a discriminação relativa aos portugueses residentes no estrangeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:21",
+            "horaTermo": "18:57",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120418pln&url=l12/sl1/a2012/m04/&tI=02:39:06:675&drc=00:03:40:469"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-19",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/097/2012-04-19/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei n.º 17/2003, de 4 de junho (Iniciativa Legislativa de Cidadãos), eliminando a discriminação existente em relação aos emigrantes portugueses; Primeira alteração à Lei nº 17/2003, de 4 de Junho, que regula os termos e condições em que grupos de cidadãos eleitores exercem o direito de iniciativa legislativa junto da Assembleia da República, eliminando a discriminação relativa aos portugueses residentes no estrangeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4289",
+                "nome": "Teresa Anjinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:21",
+            "horaTermo": "18:57",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120418pln&url=l12/sl1/a2012/m04/&tI=02:42:52:993&drc=00:03:59:860"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-04-19",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/097/2012-04-19/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Altera a lei n.º 17/2003, de 4 de junho (Iniciativa Legislativa de Cidadãos), eliminando a discriminação existente em relação aos emigrantes portugueses; Primeira alteração à Lei nº 17/2003, de 4 de Junho, que regula os termos e condições em que grupos de cidadãos eleitores exercem o direito de iniciativa legislativa junto da Assembleia da República, eliminando a discriminação relativa aos portugueses residentes no estrangeiro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283406",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "590513",
+        "obs": null,
+        "pag": [
+          "41-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-04-19",
+        "pubLeg": "XII",
+        "pubNr": "97",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/097/2012-04-19/41?pgs=41-46&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
