@@ -1,0 +1,5 @@
+Aviso n.º 19/2012
+Por ordem superior se torna público ter a República da Letónia depositado, junto do Secretário-Geral do Conselho da Europa, em 3 de fevereiro de 2012, o seu instrumento de ratificação ao Protocolo n.º 13 à Convenção para a Proteção dos Direitos do Homem e das Liberdades Fundamentais Relativo à Abolição da Pena de Morte em Quaisquer Circunstâncias, aberto à assinatura em Vilnius em 3 de maio de 2002.
+Portugal é Parte deste Protocolo, aprovado pela Resolução da Assembleia da República n.º 44/2003, de 23 de maio, e ratificado pelo Decreto do Presidente da República n.º 33/2003, de 23 de maio, publicados no Diário da República, 1.ª série-A,n.º 119, tendo depositado o seu instrumento de ratificação ao Protocolo a 3 de outubro de 2003, conforme o Aviso n.º 222/2003, de 12 de novembro.
+O Protocolo n.º 13 à Convenção para a Proteção dos Direitos do Homem e das Liberdades Fundamentais Relativo à Abolição da Pena de Morte em Quaisquer Circunstâncias entrou em vigor na ordem jurídica portuguesa a 1 de fevereiro de 2004.
+Direção-Geral de Política Externa, 3 de abril de 2012. -O Diretor-Geral, Rui Filipe Monteiro Belo Macieira.
