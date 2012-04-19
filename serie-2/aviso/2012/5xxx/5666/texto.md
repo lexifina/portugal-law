@@ -1,0 +1,5 @@
+Aviso n.º 5666/2012
+Alexandre Manuel Mendonça Vaz, Presidente da Câmara Municipal de Sátão, torna público que, nos termos e para os efeitos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na redação do Decreto-Lei n.º 6/96, de 31 de janeiro e 18/2008, de 29 de janeiro, durante o prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República, é submetido a apreciação pública o Projeto de Regulamento de Utilização do Estádio Municipal da Premoreira, aprovado em reunião de Câmara Municipal, realizada no dia 19 de agosto de 2011.
+Durante este período poderão os interessados consultar o referido Projeto de Regulamento na página da internet www.cm-satao.pt ou no átrio do edifício dos Paços do Município de Sátão para, querendo, formular, por escrito, as sugestões que entendam, as quais deverão ser dirigidas ao Presidente da Câmara Municipal de Sátão.
+26 de janeiro de 2012. - O Presidente da Câmara, Alexandre Manuel Mendonça Vaz.
+305975171
