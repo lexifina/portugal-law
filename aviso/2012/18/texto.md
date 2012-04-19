@@ -1,0 +1,9 @@
+Aviso n.º 18/2012
+Por ordem superior se torna público que a República Portuguesa depositou junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, em 14 de abril de 2011, o instrumento de ratificação referente à Convenção Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, adotada na Haia em 19 de outubro de 1996, com a seguinte declaração:
+«Os artigos 23.º, 26.º e 52.º da Convenção permitem às Partes Contratantes uma certa margem de flexibilidade para aplicarem o sistema simples e rápido de reconhecimento e execução das decisões. A regulamentação comunitária prevê um sistema de reconhecimento e execução pelo menos tão favorável como as regras constantes da Convenção. Assim sendo, as decisões em matérias abrangidas pela Convenção, quando proferidas por um tribunal de um Estado membro da União Europeia, serão reconhecidas e executadas em Portugal, aplicando-se a regulamentação interna pertinente do direito comunitário.»
+Nos termos do n.º 1 do artigo 6.º da Convenção, Portugal designa a Direção-Geral de Reinserção Social do Ministério da Justiça como Autoridade Central para efeitos da Convenção.
+Autoridade
+Direção-Geral de Reinserção Social do Ministério da Justiça, Avenida Almirante Reis, 72, 1150-020 Lisboa, Portugal, tel.: +351211142500, fax: +351213176171, e-mail: correio.dgrs@dgrs.mj.pt.
+A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo Decreto n.º 52/2008, publicado no Diário da República, 1.ª série, n.º 221, de 13 de novembro de 2008.
+Nos termos da alínea a) do n.º 2 do artigo 61.º da Convenção, esta encontra-se em vigor para a República Portuguesa desde 1 de agosto de 2011.
+Departamento de Assuntos Jurídicos, 23 de março de 2012. - O Diretor, Miguel de Serpa Soares.
