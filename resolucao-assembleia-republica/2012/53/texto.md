@@ -1,0 +1,21 @@
+Resolução da Assembleia da República n.º 53/2012
+Recomenda ao Governo que estabeleça as condições para a criação de um contrato de transparência no acesso ao ensino superior
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Estabeleça as condições para, num futuro próximo, criar um portal de informação para os candidatos ao ensino superior, sob a designação de contrato de transparência, onde estejam compilados e sejam acessíveis dados recolhidos junto das várias instituições de ensino superior relativamente a um conjunto de critérios relativos aos seus cursos e às próprias instituições necessários para consciente escolha dos candidatos ao ensino superior.
+2 - Através desse contrato de transparência deve ser possível, a cada candidato ao ensino superior, cruzar os dados de todos esses critérios, de forma a que cada um dos candidatos possa obter um ranking pessoal, por curso e por instituição, cabendo a cada candidato escolher quais os critérios enformadores desse ranking e qual o peso relativo que cada critério deverá ter para a obtenção desse ranking.
+3 - Entre esses critérios devem ser ponderados os seguintes (desde que possam ser objeto de tratamento estatístico fidedigno e adequado ao objetivo), aos quais podem ser acrescentados todos os outros que cada instituição entenda incluir:
+a) Critérios acerca das características do curso e da sua instituição:
+Características gerais: se o estabelecimento de ensino é público ou privado e qual o valor da propina. Número de vagas para cada curso, se todas as vagas foram preenchidas nos dois anos letivos passados e qual a última média para a entrada no curso nos últimos dois anos letivos. A duração média para os alunos completarem a formação;
+Satisfação dos alunos com o curso: inquirir os alunos acerca da sua satisfação com os vários aspetos da sua formação, no momento de conclusão da mesma;
+Corpo docente: apresentação do corpo docente, quanto à sua formação (número total de docentes, número de doutorados), à diversidade de origens da sua formação (quantos se formaram nessa mesma instituição e quantos provêm de outras instituições) e rácio de alunos por professor;
+Departamentos disciplinares e investigação: número de departamentos disciplinares na faculdade e áreas a que correspondem. Centros de investigação existentes na instituição de ensino superior e número de publicações científicas dos seus investigadores;
+Parceria: parcerias institucionais e internacionais, nomeadamente Erasmus: número, áreas e países correspondentes;
+Serviços de ação social: apresentação dos serviços de ação social da instituição (alojamento, alimentação, bolsas e outros apoios);
+b) Critérios acerca da empregabilidade da formação:
+Empregabilidade: quantos dos formados na instituição, por curso, estão empregados há seis meses, um ano e três anos após a conclusão da formação. Quantos, entre os que estão empregados, estão a trabalhar na sua área de formação. Percentagem, entre os formados empregados, dos que conseguiram emprego através dos serviços de colocação das instituições de ensino;
+Remuneração: remuneração média um ano após a conclusão do curso e três anos após a conclusão do curso.
+4 - Para a criação deste contrato de transparência, o Governo deve desde já calendarizar um plano de ação para operacionalizar, eventualmente de forma faseada, o contrato de transparência no menor curto espaço de tempo.
+5 - Para o efeito, o Governo deve estabelecer contactos com todas as instituições de ensino superior de forma a criar mecanismos de operacionalização de recolha e envio de informação tendentes ao preenchimento dos critérios acima definidos, garantindo que o fluxo de informação possa ser estabelecido num futuro próximo. Os dados relativos à empregabilidade devem ser recolhidos com reforçada exigência, de modo a que sejam objetivos, verificáveis e fidedignos.
+6 - O Governo deve garantir a fiabilidade dos dados provenientes das instituições, no âmbito de um quadro regulatório adequado, que preserve a autonomia das instituições, se centre no objetivo de assegurar a transparência da informação e se procedimentalize de forma ágil e não burocrática.
+Aprovada em 22 de março de 2012.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
