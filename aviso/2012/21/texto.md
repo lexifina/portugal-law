@@ -1,0 +1,5 @@
+Aviso n.º 21/2012
+Por ordem superior se torna público ter a República do Tajiquistão depositado, junto do Secretário-Geral do Conselho da Europa, em 30 de março de 2012, o seu instrumento de ratificação à Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, aberta à assinatura em Lisboa em 11 de abril de 1997.
+Portugal é Parte desta Convenção, aprovada para ratificação pela Resolução da Assembleia da República n.º 25/2000, ratificada pelo Decreto do Presidente da República n.º 12/2000 e publicada no Diário da República, 1.ª série-A, n.º 76, de 30 de março de 2000, tendo depositado o seu instrumento de ratificação à Convenção em 15 de outubro de 2001, conforme o Aviso n.º 122/2001, de 3 de dezembro.
+A Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa entrou em vigor na ordem jurídica portuguesa em 1 de dezembro de 2001.
+Direção-Geral de Política Externa, 11 de abril de 2012. - O Diretor-Geral, Rui Filipe Monteiro Belo Macieira.
