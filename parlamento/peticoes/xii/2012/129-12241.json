@@ -1,0 +1,171 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12241",
+  "numero": "129",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-04-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-07-18",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "251/COFAP/2012",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-10-11",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              },
+              {
+                "dataOficio": "2012-12-19",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938784f5467354e32526c4d4330305a6d4d354c54517a4f444d74596a56695a69307a4d6a517a4d544e6c4d47526d597a63756347526d&fich=19897de0-4fc9-4383-b5bf-324313e0dfc7.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-01-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-05-23",
+        "DataArquivo": "2013-02-13",
+        "DataBaixaComissao": "2012-05-23",
+        "DataEnvioPAR": "2013-02-13",
+        "DataReaberta": "2012-05-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-05-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938315a47466b4d7a49344e4330344e6d59324c5451354d544d744f545a685a6930354e6d4d355a475669596a4178595467756347526d&fich=5dad3284-86f6-4913-96af-96c9debb01a8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-05-23",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279387a596d45344e4446684e7930354d57597a4c5451314e444d74596a59774f43307a597a41795a5468694e6a466c4e4751756347526d&fich=3ba841a7-91f3-4543-b608-3c02e8b61e4d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-18",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938784f5467354e32526c4d4330305a6d4d354c54517a4f444d74596a56695a69307a4d6a517a4d544e6c4d47526d597a63756347526d&fich=19897de0-4fc9-4383-b5bf-324313e0dfc7.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-07-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939695a54457a5a5751794d7930785a544d304c54517a5a6a59744f5745344d79316c4d7a417a4d6d517a4d6a4a6d595451756347526d&fich=be13ed23-1e34-43f6-9a83-e3032d322fa4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939694e44466a4e544a6c4d5330324d5756684c5451775a5463744f5463345a69316859574d335a54417859324e6c4e7a497555455247&fich=b41c52e1-61ea-40e7-978f-aac7e01cce72.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279387a5a4467775a6d45784d69307a597a5a6d4c5451304d5451745954526c4e53316a595759304e6a6b794e5445344f546b7555455247&fich=3d80fa12-3c6f-4414-a4e5-caf469251899.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-02-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938344d6a55314f5745324d7930794e7a51314c54526a595463744f446b354e43307a4d4467324d44426d595745785a546b756347526d&fich=82559a63-2745-4ca7-8994-308600faa1e9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-05-23",
+            "gp": "PCP",
+            "id": "1696",
+            "motivoCessacao": null,
+            "nome": "Honório Novo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-05-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6b305a4755355a5449304c546779595463744e47457a4e5330344d6d4d7a4c544a694f474a6d5a54497a4d6d55334e6935775a47593d&fich=94de9e24-82a7-4a35-82c3-2b8bfe232e76.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12241",
+    "PetAssunto": "Solicita a revisão da legislação vigente que obriga os cidadãos ao pagamento de contribuição autárquica.",
+    "PetDataEntrada": "2012-04-27",
+    "PeticoesAssociadas": null,
+    "PetId": "12241",
+    "PetLeg": "XII",
+    "PetNr": "129",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
