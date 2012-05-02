@@ -1,0 +1,388 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "10",
+    "id": "36865",
+    "titulo": "Decreto-Lei n.º 44/2012, de 23 de fevereiro, que \"integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2012-05-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8732",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2012-05-02",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-05-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:20:28:102&drc=00:03:53:315"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:44:15:552&drc=00:03:08:151"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-03",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/103/2012-05-03/23?pgs=23-24,29-30&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 44/2012, de 23 de fevereiro, que \"integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:24:37:317&drc=00:03:53:793"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-03",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/103/2012-05-03/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 44/2012, de 23 de fevereiro, que \"integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:28:35:237&drc=00:03:02:382"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-03",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/103/2012-05-03/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 44/2012, de 23 de fevereiro, que \"integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2098",
+                "nome": "Manuel Pizarro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:31:44:466&drc=00:02:50:397"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:43:12:596&drc=00:00:58:336"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26",
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-03",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/103/2012-05-03/26?pgs=26,28-29&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 44/2012, de 23 de fevereiro, que \"integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:34:40:303&drc=00:04:28:435"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-03",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/103/2012-05-03/26?pgs=26-28&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 44/2012, de 23 de fevereiro, que \"integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:39:15:113&drc=00:03:50:980"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120502pln&url=l12/sl1/a2012/m05/&tI=01:47:29:390&drc=00:01:03:230"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.   DA   SAÚDE",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Ferreira Teixeira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-03",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/103/2012-05-03/28?pgs=28,30&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 44/2012, de 23 de fevereiro, que \"integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283711",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8732",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-03",
+        "pubLeg": "XII",
+        "pubNr": "103",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/103/2012-05-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
