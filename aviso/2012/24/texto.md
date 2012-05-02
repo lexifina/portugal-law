@@ -1,0 +1,5 @@
+Aviso n.º 24/2012
+Por ordem superior se torna público ter a República de Malta depositado, junto do Secretário-Geral do Conselho da Europa, a 5 de abril de 2012, o seu instrumento de ratificação ao Protocolo Adicional à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aberto à assinatura em Estrasburgo, a 17 de março de 1978.
+Portugal é Parte deste Protocolo, aprovado para ratificação pela Resolução da Assembleia da República n.º 49/94, de 12 de agosto, e ratificada pelo Decreto do Presidente da República n.º 64/94, de 12 de agosto, publicado no Diário da República, 1.ª série-A, n.º 186, de 12 de agosto de 1994, tendo depositado o seu instrumento de ratificação ao Protocolo a 27 de janeiro de 1995, conforme Aviso n.º 53/95, de 3 de março de 1995.
+O Protocolo Adicional à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal entrou em vigor na ordem jurídica portuguesa a 27 de abril de 1995.
+Direção-Geral de Política Externa, 17 de abril de 2012. - O Diretor-Geral, Rui Filipe Monteiro Belo Macieira.
