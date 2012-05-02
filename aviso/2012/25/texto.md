@@ -1,0 +1,5 @@
+Aviso n.º 25/2012
+Por ordem superior se torna público que, em 28 de março de 2011 e 26 de março de 2012, foram emitidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros de Cabo Verde e pela Embaixada de Portugal na Praia, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Tratado de Amizade e Cooperação entre a República Portuguesa e a República de Cabo Verde, assinado em Lisboa em 9 de junho de 2010.
+Por parte de Portugal, o Tratado foi aprovado pela Resolução da Assembleia da República n.º 35/2012 e pelo Decreto do Presidente da República n.º 61/2012, publicados no Diário da República, 1.ª série, n.º 58, de 21 de março de 2012.
+Tendo a recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito, ocorrido em 30 de março de 2012, o Tratado entrará em vigor, nos termos do seu artigo 21.º, em 29 de abril de 2012.
+Direção-Geral de Política Externa, 20 de abril de 2012. - O Diretor-Geral, Rui Filipe Monteiro Belo Macieira.
