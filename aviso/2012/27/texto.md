@@ -1,0 +1,5 @@
+Aviso n.º 27/2012
+Por ordem superior se torna público que foram recebidas notas pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério das Relações Exteriores e Culto da República Argentina, respetivamente em 2 de julho de 2010 e 20 de março de 2012, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Argentina sobre a Transferência de Pessoas Condenadas, assinado em Lisboa, em 6 de outubro de 2008.
+Por parte da República Portuguesa, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 30/2012, de 10 de fevereiro, e ratificado pelo Decreto do Presidente da República n.º 51/2012, de 12 de março, ambos publicados no Diário da República, 1.ª série, n.º 51, de 12 de março de 2012.
+Nos termos do artigo 18.º, o Acordo entrou em vigor no dia 19 de abril de 2012.
+Direção-Geral de Política Externa, 20 de abril de 2012. - O Diretor-Geral, Rui Filipe Monteiro Belo Macieira.
