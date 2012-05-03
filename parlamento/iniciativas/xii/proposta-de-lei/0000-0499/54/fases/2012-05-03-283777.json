@@ -1,0 +1,591 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "54",
+    "id": "36913",
+    "titulo": "Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-05-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8738",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-05-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "36910",
+        "leg": "XII",
+        "nr": "52",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1639",
+            "obs": null,
+            "pag": [
+              "43-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-04",
+            "pubLeg": "XII",
+            "pubNr": "104",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/43?pgs=43-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-05-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:15:33:587&drc=00:06:38:728"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:26:55:879&drc=00:01:57:773"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:00:55:914&drc=00:04:10:649"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  AGRICULTURA, DO MAR, DO AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Assunção Cristas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44",
+                  "46-46",
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/43?pgs=43-44,46,54-55&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4294",
+                "nome": "Mário Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:22:24:012&drc=00:02:49:895"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:25:26:180&drc=00:01:22:511"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184796",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:29:06:943&drc=00:06:00:057"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/46?pgs=46-48&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1993",
+                "nome": "Pedro do Ó Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:35:18:373&drc=00:03:59:540"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:08:03:192&drc=00:01:00:793"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49",
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/48?pgs=48-49,56&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:39:27:976&drc=00:05:04:730"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184799",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2250",
+                "nome": "Miguel Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:44:40:771&drc=00:07:04:944"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:05:11:592&drc=00:01:17:602"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/50?pgs=50-51,55&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:51:53:531&drc=00:05:45:320"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:06:38:669&drc=00:01:16:997"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-53",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/51?pgs=51-53,55-56&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4085",
+                "nome": "Pedro Lynce"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=02:57:45:559&drc=00:03:00:251"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Cria a Bolsa Nacional de Terras para utilização agrícola, florestal ou silvo pastoril, designada por «Bolsa de Terras»; Aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvo pastoris e à dinamização da Bolsa de Terras.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283777",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "591404",
+        "obs": null,
+        "pag": [
+          "43-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-04",
+        "pubLeg": "XII",
+        "pubNr": "104",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/43?pgs=43-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
