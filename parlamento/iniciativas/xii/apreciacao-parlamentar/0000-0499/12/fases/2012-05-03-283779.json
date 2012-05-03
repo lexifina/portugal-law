@@ -1,0 +1,477 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "12",
+    "id": "36911",
+    "titulo": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2012-05-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8740",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2012-05-03",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "36907",
+        "leg": "XII",
+        "nr": "11",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1640",
+            "obs": null,
+            "pag": [
+              "56-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-04",
+            "pubLeg": "XII",
+            "pubNr": "104",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/56?pgs=56-66&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\""
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-05-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:10:05:315&drc=00:03:28:503"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:36:10:453&drc=00:01:43:622"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184803",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57",
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/56?pgs=56-57,63&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2212",
+                "nome": "Miguel Laranjeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:13:43:819&drc=00:03:33:747"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:37:54:076&drc=00:01:49:264"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184804",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58",
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/57?pgs=57-58,64&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:17:27:731&drc=00:03:45:210"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:39:56:311&drc=00:01:30:235"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  SOLIDARIEDADE E  DA  SEGURANÇA SOCIAL",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Mota Soares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59",
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/58?pgs=58-59,65&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:21:22:325&drc=00:03:43:971"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:25:11:421&drc=00:02:37:301"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:27:57:627&drc=00:04:11:918"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120503pln&url=l12/sl1/a2012/m05/&tI=03:32:18:861&drc=00:03:50:091"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-04",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 85-A/2012, de 5 de abril, que \"Suspende o regime de flexibilização da idade de acesso à pensão de reforma por antecipação, constante do Decreto-Lei n.º 187/2007, de 10 de maio,com as alterações introduzidas pela Lei n.º 64-A/2008, de 31 de dezembro, salvaguardando a situação dos desempregados de longa duração\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283779",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "591406",
+        "obs": null,
+        "pag": [
+          "56-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-04",
+        "pubLeg": "XII",
+        "pubNr": "104",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/104/2012-05-04/56?pgs=56-66&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
