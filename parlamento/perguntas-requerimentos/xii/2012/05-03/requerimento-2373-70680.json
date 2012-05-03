@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "70680",
+  "tipo": "Requerimento",
+  "numero": "2373",
+  "data_registo": "2012-05-03",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Inviabilização da continuidade de Mário Leite como treinador da Ovarense Basquetebol",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1801",
+        "nome": "Raúl de Almeida"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4157",
+        "nome": "Michael Seufert"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1584",
+        "nome": "José Ribeiro e Castro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4018",
+        "nome": "Artur Rêgo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4289",
+        "nome": "Teresa Anjinho"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4428",
+        "nome": "Inês Teotónio Pereira"
+      }
+    ],
+    "DataEnvio": "2012-05-04",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2012-05-04",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Ovar",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2012-06-08",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Ovar",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a63775a6a51335a44426b4c5449344e4759744e474532596931694e6a55794c5745784d6a417759544d345a444669595335775a47593d&fich=70f47d0d-284f-4a6b-b652-a1200a38d1ba.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2012-05-03",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a6b775a5745774d6a517a4c54686b597a6b744e4463345a5331684f57526a4c546b774e324d334d5449344f474a6b4e7935775a47593d&fich=90ea0243-8dc9-478e-a9dc-907c71288bd7.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "70680",
+    "Legislatura": "XII",
+    "Nr": "2373",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "591099",
+        "obs": null,
+        "pag": [
+          "15-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012",
+        "pubLeg": "XII",
+        "pubNr": "204",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/204/2012-05-03/15?pgs=15-16&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
