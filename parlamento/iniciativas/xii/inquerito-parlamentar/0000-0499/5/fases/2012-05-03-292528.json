@@ -1,0 +1,234 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "5",
+    "id": "36906",
+    "titulo": "Comissão Eventual de Inquérito Parlamentar à elaboração e renegociação de todos os contratos de parcerias público-privadas nos setores ferroviário, rodoviário e da saúde"
+  },
+  "fase": "Constituição de uma Comissão de Inquérito",
+  "codigo_fase": "603",
+  "data_registo": "2012-05-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "603",
+    "Comissao": [
+      {
+        "AccId": "31761",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-05-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-05-03",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-07-10",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Relatório - Sentido de Voto de cada membro - Declarações de voto do PS, do PCP e do BE",
+            "URL": "http://www.parlamento.pt/sites/COM/XIILEG/CPIPPPSRF/Paginas/Relatorios.aspx"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3564",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão Parlamentar de Inquérito à Contratualização, Renegociação e Gestão de todas as Parcerias Público-Privadas do Sector Rodoviário e Ferroviário",
+        "Numero": "3564",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4095",
+            "motivoCessacao": null,
+            "nome": "Sérgio Azevedo"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-06-17",
+            "dataRemessa": "2013-07-10",
+            "numeroOficio": "184/15ª-CPIPPPSRF",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-07-04",
+            "descricao": "Relatório aprovado por maioria em votação nominal nos termos da alínea d) do nº 1 do artº 20º do RJIP",
+            "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>",
+            "id": "64546",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "79",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-05-03",
+    "EvtId": "94",
+    "Fase": "Constituição de uma Comissão de Inquérito",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292528",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "642270",
+        "obs": "Apreciação do relatório",
+        "pag": [
+          "23-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-12",
+        "pubLeg": "XII",
+        "pubNr": "112",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/23?pgs=23-32&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "644920",
+        "obs": "Despacho 32/XII - Constituição e composição da comissão",
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-04-27",
+        "pubLeg": "XII",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/12/01/027/2012-04-27/2?pgs=2&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "644921",
+        "obs": "Composição da Mesa",
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-12",
+        "pubLeg": "XII",
+        "pubNr": "212",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/212/2012-05-12/2?pgs=2&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "644922",
+        "obs": "Regulamento",
+        "pag": [
+          "5-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-19",
+        "pubLeg": "XII",
+        "pubNr": "217",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/217/2012-05-19/5?pgs=5-8&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "644923",
+        "obs": "Alteração da constituição da mesa da comissão",
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-04-27",
+        "pubLeg": "XII",
+        "pubNr": "142",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/142/2013-04-27?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "662067",
+        "obs": "Relatório final e anexos",
+        "pag": [
+          "2-422"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-11-01",
+        "pubLeg": "XII",
+        "pubNr": "7",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/007/2013-11-01/2?pgs=2-422&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
