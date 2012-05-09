@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2012-05-09, processo 0888/11
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0888/11
+
+**Data do Acordão:** 05/09/2012
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FERNANDA MAÇÃS
+
+**Descritores:** SISA; ISENÇÃO; CADUCIDADE; PRESCRIÇÃO
+
+**Nº Convencional:** JSTA000P14110
+
+**Nº do Documento:** SA2201205090888
+
+**Data de Entrada:** 10/06/2011
+
+**Recorrente:** A...
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE COM 1 DEC VOT
+
+## Sumário
+
+I - Os prazos de caducidade do direito de liquidar e de prescrição da dívida tributária, no caso de Imposto de Sisa, apenas se iniciam a partir da verificação do não cumprimento da condição resolutiva ou, no caso, do incumprimento da obrigação de não dar ao imóvel objecto de isenção destino diferente.
+
+II - Fundando-se a prescrição na inércia do titular do direito, ela deve, logicamente, só começar a correr no momento em que o direito pode ser exercido, tratando-se de um princípio geral inerente à própria teleologia intrínseca da prescrição e, por isso, de aplicação geral, independentemente da sua expressa consagração nas leis tributárias.
+
+III - Uma vez constituída ou prestada garantia ou realizada penhora de bens suficientes para garantia do pagamento da dívida e acrescido, aliada à pendência de processo de impugnação judicial, fica legalmente suspensa a execução fiscal até à decisão do pleito, e esta suspensão determina, por sua vez, a suspensão do próprio prazo de prescrição que esteja em curso ou daquele que houvesse de reiniciar-se por virtude da cessação de efeito interruptivo da prescrição.
+
+IV - Nos termos do disposto nos arts. 11º, nºs 16 e 17, do CIMSISD (redacção aplicável à data dos factos), o legislador fazia depender a isenção da verificação de dois pressupostos, um de natureza subjectiva e outro de natureza objectiva, na medida em que só podiam beneficiar de isenção determinados beneficiários, a saber, “pessoas colectivas de utilidade pública ou de utilidade pública administrativa, por museus, bibliotecas, escolas, institutos e associações de ensino ou educação, de cultura científica, assistência ou beneficência” e a isenção pressupunha a verificação de uma condição resolutiva potestativa: destinação dos bens “à directa e imediata realização dos seus fins”.
+
+V - Tendo em conta, por um lado, a razão de ser da isenção, dirigida à promoção e defesa de interesse públicos específicos, de ordem científica, cultural e de beneficência, protagonizados por pessoas colectivas criadas precisamente com esse objectivo, e, por outro lado, considerando a exigência feita pelo legislador no sentido de que os imóveis estejam afectos, “de forma directa e imediata à realização dos fins dessas pessoas colectivas beneficiárias”, afigura-se afectação do imóvel tem de ser exclusiva.
+
+VI - As isenções são uma categoria de benefícios fiscais, os quais constituem medidas de carácter excepcional, instituídas para tutela de interesses públicos extra-fiscais relevantes, superiores ao da própria tributação que impedem (art. 2° n°s 1 e 2 EBF), pelo que a atribuição e a manutenção das mesmas há-de ser rodeada de especiais cautelas, pois encontram-se numa permanente relação de tensão com o princípio da distribuição dos encargos tributários segundo o princípio da capacidade contributiva.
+
+VII - Considerando o carácter excepcional dos benefícios fiscais, apenas justificados pelas especiais finalidades extra-fiscais que lhe estão subjacentes, tendo ficado provado que o imóvel foi exclusivamente utilizado para meros fins pessoais, ainda que durante pouco tempo, conclui-se que lhe foi dado um destino que não tem qualquer relação directa e imediata com os fins prosseguidos pelas pessoas colectivas beneficiárias, contrariando o disposto no art. 11º, nº 16, do CIMSISD.
