@@ -1,0 +1,5 @@
+Aviso n.º 6422/2012
+Projeto de Alteração ao Regulamento de Liquidação e Cobrança de Taxas Municipais
+João Eduardo Dias Madeira Gouveia, Dr., Presidente da Câmara Municipal de Soure, torna público que a Câmara Municipal, na sua reunião ordinária de 27 de abril de 2012, deliberou aprovar e submeter a apreciação pública o «Projeto de alteração ao Regulamento de Liquidação e Cobrança de Taxas Municipais», durante o prazo de 30 dias. Durante o referido período, o Projeto de Alteração ao Regulamento, respetiva Tabela de Taxas Municipais bem como a sua Fundamentação Económico-Financeira poderão ser consultados na Câmara Municipal de Soure e Juntas de Freguesia do Concelho, no horário de expediente, bem como no Portal do Município de Soure www.cm-soure.pt. Todos os interessados poderão, dentro do período antes mencionado, formular observações e ou sugestões, mediante exposição escrita dirigida ao Presidente da Câmara ou por correio eletrónico para o endereço geral@cm-soure.pt.
+2 de maio de 2012. - O Presidente da Câmara Municipal, João Eduardo Dias Madeira Gouveia, Dr.
+306044871
