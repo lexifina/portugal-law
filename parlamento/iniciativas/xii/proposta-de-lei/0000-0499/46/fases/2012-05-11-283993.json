@@ -1,0 +1,650 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "46",
+    "id": "36764",
+    "titulo": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2012-05-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8753",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": [
+      {
+        "AccId": "29611",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-05-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2012-05-11",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-05-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120511pln&url=l12/sl1/a2012/m05/&tI=01:47:57:346&drc=00:04:27:535"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-12",
+                "pubLeg": "XII",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/108/2012-05-12/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120511pln&url=l12/sl1/a2012/m05/&tI=01:52:32:227&drc=00:03:54:036"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-12",
+                "pubLeg": "XII",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/108/2012-05-12/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120511pln&url=l12/sl1/a2012/m05/&tI=01:56:39:829&drc=00:03:00:997"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-12",
+                "pubLeg": "XII",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/108/2012-05-12/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2212",
+                "nome": "Miguel Laranjeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120511pln&url=l12/sl1/a2012/m05/&tI=01:59:56:888&drc=00:04:50:279"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-12",
+                "pubLeg": "XII",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/108/2012-05-12/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120511pln&url=l12/sl1/a2012/m05/&tI=02:05:00:045&drc=00:05:02:820"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-12",
+                "pubLeg": "XII",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/108/2012-05-12/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:39",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120511pln&url=l12/sl1/a2012/m05/&tI=02:10:19:677&drc=00:03:56:905"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-12",
+                "pubLeg": "XII",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/108/2012-05-12/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira revisão do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "283993",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8753",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-12",
+        "pubLeg": "XII",
+        "pubNr": "108",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/108/2012-05-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 1P apresentada pelo BE, de eliminação do artigo 234.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> José Ribeiro E Castro (CDS-PP)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60644",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 4P apresentada pelo BE, de eliminação do artigo 208.º-B constante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "60670",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 7P apresentada pelo PCP, de eliminação do artigo 208.º-B constante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "60671",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 14P apresentada pelo PCP, de eliminação do artigo 5.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "60674",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 15P apresentada pelo PCP, de eliminação do artigo 7.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60675",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 18P apresentada pelo PS, de eliminação do artigo 7.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60676",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 5P apresentada pelo BE, de eliminação do artigo 9.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>José Ribeiro E Castro (CDS-PP)</I>",
+        "id": "60677",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 12P apresentada pelo PCP, de substituição do artigo 366.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "60653",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 2P apresentada pelo BE, de eliminação do artigo 375.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>Rui Pedro Duarte (PS)</I>, <I> Pedro Delgado Alves (PS)</I>",
+        "id": "60654",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 13P apresentada pelo PCP, de eliminação do artigo 375.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>Rui Pedro Duarte (PS)</I>, <I> Pedro Delgado Alves (PS)</I>",
+        "id": "60655",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 3P apresentada pelo BE, de eliminação do artigo 208.º-A constante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60667",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 6P apresentada pelo PCP, de eliminação do artigo 208.º-A constante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60668",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 16P apresentada pelo PS, de eliminação do artigo 208.º-A constante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60669",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 8P apresentada pelo PCP, de emenda do n.º 1 do artigo 234.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60646",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 9P apresentada pelo PCP, de eliminação/revogação do n.º 3 do artigo 234.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Sérgio Sousa Pinto (PS)</I>, <I> Filipe Neto Brandão (PS)</I>, <I> Inês De Medeiros (PS)</I>, <I> Isabel Alves Moreira (PS)</I>, <I> Maria Antónia De Almeida Santos (PS)</I>, <I> Isabel Santos (PS)</I>, <I> Ana Paula Vitorino (PS)</I>, <I> Nuno André Figueiredo (PS)</I>, <I> Eduardo Cabrita (PS)</I>, <I> Ana Catarina Mendonça Mendes (PS)</I>, <I> Carlos Enes (PS)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60647",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 17P apresentada pelo PS, de eliminação do artigo 234.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> José Ribeiro E Castro (CDS-PP)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "60649",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Votação do artigo 234.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>, <I> José Ribeiro E Castro (CDS-PP)</I>",
+        "id": "60650",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 10P apresentada pelo PCP, de eliminação do n.º 1 do artigo 268.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Sérgio Sousa Pinto (PS)</I>, <I> Inês De Medeiros (PS)</I>, <I> Isabel Alves Moreira (PS)</I>, <I> Isabel Santos (PS)</I>, <I> Renato Sampaio (PS)</I>, <I> Ana Catarina Mendonça Mendes (PS)</I>, <I> Carlos Enes (PS)</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "60651",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2012-05-11",
+        "descricao": "Proposta 11P apresentada pelo PCP, de emenda do n.º 3  do artigo 268.º constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "60652",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
