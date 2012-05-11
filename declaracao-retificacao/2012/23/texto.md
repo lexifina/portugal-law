@@ -1,0 +1,7 @@
+Declaração de Retificação n.º 23/2012
+Nos termos das disposições conjugadas da alínea r) do n.º 2 do artigo 2.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, declara-se que o Decreto-Lei n.º 64/2012, de 15 de março, publicado no Diário da República, 1.ª série, n.º 54, de 15 de março de 2012, saiu com uma inexatidão que mediante declaração da entidade emitente assim se retifica:
+No artigo 3.º do diploma preambular, na parte que altera o n.º 3 do artigo 12.º do Decreto-Lei n.º 220/2006, de 3 de novembro, onde se lê:
+«3 - As medidas ativas de emprego previstas nas alíneas a), b), c) e e) do número anterior devem ser adequadas ao candidato a emprego, considerando, nomeadamente, as suas aptidões físicas, habilitações escolares, formação profissional, competências e experiências profissionais, ainda que se situem em setor de atividade ou profissão distinta da ocupação anterior ao momento do desemprego.»
+deve ler-se:
+«3 - As diligências de procura ativa de emprego previstas nas alíneas a), b), c) e e) do número anterior devem ser adequadas ao candidato a emprego, considerando, nomeadamente, as suas aptidões físicas, habilitações escolares, formação profissional, competências e experiências profissionais, ainda que se situem em setor de atividade ou profissão distinta da ocupação anterior ao momento do desemprego.»
+Secretaria-Geral, 7 de maio de 2012. - O Secretário-Geral, José Maria Belo de Sousa Rego.
