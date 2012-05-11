@@ -1,0 +1,9 @@
+Aviso n.º 6516/2012
+Alteração ao Plano Diretor Municipal
+Raul Miguel de Castro, na qualidade de Presidente da Câmara Municipal de Leiria, torna público, para os efeitos consignados no Regime Jurídico dos Instrumentos de Gestão Territorial, com a redação que lhe foi dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro e com as alterações introduzidas pelo Decreto-Lei n.º 181/2009 de 7 de agosto e pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, que a Câmara Municipal, na sua reunião de 10 de abril de 2012, deliberou por maioria iniciar o procedimento de alteração ao Plano Diretor Municipal de Leiria, a qual incide nos seguintes âmbitos:
+1 - Promover um processo de classificação e reclassificação do solo em Vale Pereiro que permita enquadrar um conjunto de atividades económicas existentes e a implantar para impulsionar e apoiar a dinâmica empresarial e a criação de emprego à escala local;
+2 - Enquadramento do processo de licenciamento das instalações afetas a atividade pecuária no concelho.
+Assim, nos termos do n.º 2 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial, podem os interessados proceder, no prazo de 15 dias, contados a partir da publicação do presente aviso no Diário da República, à formulação de sugestões ou observações e à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento, por correio registado para a morada - Largo da República 2414-006 Leiria, ou por correio eletrónico para o endereço cmleiria@cm-leiria.pt.
+O processo referente à presente alteração está disponível para consulta na Divisão de Planeamento, Ordenamento e Estratégia Territorial da Câmara Municipal de Leiria, localizada no Largo do Município, ou sob a forma eletrónica na página da internet do Município (www.cm-leiria.pt).
+24 de abril de 2012. - O Presidente da Câmara Municipal, Raul Miguel de Castro.
+206049934
