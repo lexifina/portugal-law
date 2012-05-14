@@ -1,0 +1,510 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12243",
+  "numero": "131",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-05-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-06-27",
+            "entidades": null,
+            "id": "93160",
+            "tipo": null,
+            "titulo": "Audição em 2012-06-27 com Associação Nacional de Professores de Educação Técnica e Tecnológica, Rui Lourenço, Adérito Sá Gomes, Francisco Dias, Carlos Pinto"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-06-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "241/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "595166",
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "248",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/248/2012-07-07/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-05-29",
+        "DataArquivo": "2012-07-04",
+        "DataBaixaComissao": "2012-05-29",
+        "DataEnvioPAR": "2012-07-05",
+        "DataReaberta": "2012-05-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-06-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a557a4e575a6d597a67324c5463784f4441744e4459304e7930354d6a566a4c5445334f544d774e5463775a54526a597935775a47593d&fich=535ffc86-7180-4647-925c-17930570e4cc.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-06-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49354f54637a4f546b314c544e694e446b744e4759304e4331694e4751314c5755775a5755305a6a4d7a4d7a557a4d7935775a47593d&fich=29973995-3b49-4f44-b4d5-e0ee4f333533.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-07-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251344e5751355954686d4c574a6c593259744e474d794d4330344d7a6b784c544e6c597a49344f5459775957517a4e5335775a47593d&fich=d85d9a8f-becf-4c20-8391-3ec28960ad35.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-05-29",
+            "gp": "PSD",
+            "id": "4361",
+            "motivoCessacao": null,
+            "nome": "Maria Ester Vargas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2012-10-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-05-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32466a4e54466b4e544e6a4c5455774e5455744e4751794e533034596a6c6a4c5449794d44526c5a574d774d47566c5a6935775a47593d&fich=ac51d53c-5055-4d25-8b9c-2204eec00eef.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121024pln&url=l12/sl2/a2012/m10/&tI=02:12:57:444&drc=00:04:02:348"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-25",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/015/2012-10-25/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem que a disciplina de Educação Tecnológica faça parte do currículo nacional do 2º e 3º Ciclos como disciplina obrigatória.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121024pln&url=l12/sl2/a2012/m10/&tI=02:17:05:419&drc=00:03:54:719"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-25",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/015/2012-10-25/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem que a disciplina de Educação Tecnológica faça parte do currículo nacional do 2º e 3º Ciclos como disciplina obrigatória.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121024pln&url=l12/sl2/a2012/m10/&tI=02:21:08:865&drc=00:03:04:931"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-25",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/015/2012-10-25/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem que a disciplina de Educação Tecnológica faça parte do currículo nacional do 2º e 3º Ciclos como disciplina obrigatória.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121024pln&url=l12/sl2/a2012/m10/&tI=02:24:18:344&drc=00:03:27:995"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-25",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/015/2012-10-25/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem que a disciplina de Educação Tecnológica faça parte do currículo nacional do 2º e 3º Ciclos como disciplina obrigatória.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121024pln&url=l12/sl2/a2012/m10/&tI=02:27:50:230&drc=00:04:01:931"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-25",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/015/2012-10-25/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem que a disciplina de Educação Tecnológica faça parte do currículo nacional do 2º e 3º Ciclos como disciplina obrigatória.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121024pln&url=l12/sl2/a2012/m10/&tI=02:31:54:917&drc=00:04:14:083"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-25",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/015/2012-10-25/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem que a disciplina de Educação Tecnológica faça parte do currículo nacional do 2º e 3º Ciclos como disciplina obrigatória.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12243",
+    "PetAssunto": "Pretendem que a disciplina de Educação Tecnológica faça parte do currículo nacional do 2º e 3º Ciclos como disciplina obrigatória.",
+    "PetDataEntrada": "2012-05-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12243",
+    "PetLeg": "XII",
+    "PetNr": "131",
+    "PetNrAssinaturas": "5039",
+    "PetNrAssinaturasInicial": "5039",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "410",
+        "obs": null,
+        "pag": [
+          "35-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-25",
+        "pubLeg": "XII",
+        "pubNr": "15",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/015/2012-10-25/35?pgs=35-42&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "593611",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-09",
+        "pubLeg": "XII",
+        "pubNr": "229",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/229/2012-06-09/10?pgs=10&org=PLC"
+      }
+    ]
+  }
+}
