@@ -47,3 +47,5 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 14 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
 
 15 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.
+
+16 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.
