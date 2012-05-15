@@ -67,3 +67,5 @@ b) A requerimento dos proprietários dos imóveis, no prazo de 30 dias a contar 
 10 - Os benefícios constantes das alíneas b) a m) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os constantes da alínea n) cessam no ano, inclusive, em que os prédios venham a ser desclassificados.
 
 11 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
+
+12 - O benefício previsto na alínea g) do n.º 1 não é aplicável às entidades que exerçam atividades de intermediação financeira, de seguros e às instituições auxiliares de intermediação financeira e de seguros (NACE Rev. 1.1, secção J, códigos 65, 66 e 67) e do tipo «serviços intragrupo», designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K, código 74).

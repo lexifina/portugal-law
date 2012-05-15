@@ -20,11 +20,7 @@ a) Os rendimentos resultantes da concessão ou cedência temporária, por entida
 
 b) Os rendimentos das prestações de serviços auferidos por entidades não residentes e não imputáveis a estabelecimento estável situado em território português fora das zonas francas, desde que devidos por entidades instaladas na mesma e respeitem à actividade aí desenvolvida.
 
-6 - São isentos de IRS ou de IRC os rendimentos pagos pelas instituições de crédito instaladas nas zonas francas, quaisquer que sejam as actividades exercidas pelos seus estabelecimentos estáveis nelas situados, relativamente às operações de financiamento dos passivos de balanço desses estabelecimentos, desde que os beneficiários desses rendimentos sejam:
-
-a) Entidades instaladas nas zonas francas que não sejam instituições de crédito, sociedades financeiras ou sucursais financeiras, que realizem operações próprias da sua actividade com residentes ou estabelecimentos estáveis de não residentes;
-
-b) Entidades não residentes em território português, exceptuados os estabelecimentos estáveis nele situados e fora das zonas francas.
+6 - (Revogado.)
 
 7 - São isentos de IRS ou de IRC os rendimentos pagos pelas sociedades e sucursais de trust off-shore instaladas nas zonas francas a utentes dos seus serviços, desde que estes sejam entidades instaladas nas zonas francas ou não residentes no território português.
 
@@ -82,6 +78,6 @@ b) São aplicáveis as normas gerais previstas nos competentes códigos relativa
 
 c) Presume-se que as operações foram realizadas com entidades residentes em território português, para efeitos do disposto neste preceito, sem prejuízo de se poder ilidir a presunção, de acordo com o artigo 73.º da lei geral tributária, e nos termos do artigo 64.º do Código de Procedimento e de Processo Tributário.
 
-19 - As entidades a que se refere a alínea c) do n.º 1, que não exerçam em exclusivo a sua actividade nas zonas francas, devem organizar a contabilidade de modo a permitir o apuramento dos resultados das operações realizadas no âmbito das zonas francas, para o que podem ser definidos procedimentos por portaria do Ministro das Finanças.
+19 - (Revogado.)
 
 20 - Para efeitos do disposto no n.º 1, não se consideram compreendidas no âmbito institucional da zona franca as actividades de intermediação na celebração de quaisquer contratos em que o alienante dos bens ou o prestador de serviços ou, bem assim, o adquirente ou o utilizador dos mesmos, seja entidade residente no restante território português, fora das zonas francas, ou seja estabelecimento estável de não residente aqui situado, mesmo que os rendimentos auferidos pela entidade instalada na zona franca sejam pagos por não residentes em território português.
