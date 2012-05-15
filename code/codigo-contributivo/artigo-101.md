@@ -2,7 +2,7 @@
 
 ### Situações excluídas
 
-Não têm direito às dispensas previstas no artigo anterior:
+Não têm direito às dispensas previstas na alínea a) do n.º 1 do artigo anterior:
 
 a) As entidades empregadoras, no que respeita a trabalhadores abrangidos por esquemas contributivos com taxas inferiores à estabelecida para a generalidade dos trabalhadores por conta de outrem, com excepção das entidades cuja redução de taxa resulte do facto de serem pessoas colectivas sem fins lucrativos ou por pertencerem a sectores considerados no presente Código como economicamente débeis;
 

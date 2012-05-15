@@ -14,4 +14,8 @@
 
 5 - A base de incidência contributiva é fixada anualmente em Outubro e produz efeitos nos 12 meses seguintes.
 
-6 - A actualização da base de incidência resultante da actualização do IAS produz efeitos a partir do 1.º dia do mês seguinte ao da publicação do diploma que proceda àquela actualização.
+6 - Se, durante os 12 meses em que produz efeitos a base de incidência contributiva fixada nos termos dos números anteriores, o trabalhador independente verificar alterações significativas no seu rendimento, em períodos mínimos de três meses consecutivos, pode requerer uma reavaliação da base de incidência contributiva.
+
+7 - O pedido de reavaliação referido no número anterior só é aceite desde que acompanhado do comprovativo atualizado, certificado pelos serviços da administração tributária e aduaneira.
+
+8 - A actualização da base de incidência resultante da actualização do IAS produz efeitos a partir do 1.º dia do mês seguinte ao da publicação do diploma que proceda àquela actualização.
