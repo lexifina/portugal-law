@@ -12,4 +12,4 @@
 
 5 - A falta de apresentação no prazo que a administração tributária fixar da documentação respeitante à política adoptada em matéria de preços de transferência é punível com coima de (euro) 500 a (euro) 10 000.
 
-6 - A falta de apresentação no prazo que a administração tributária fixar dos elementos referidos no n.º 8 do artigo 66.º do Código do IRC é punível com coima de (euro) 500 a (euro) 10 000.
+6 - A falta de apresentação no prazo que a administração tributária fixar dos elementos referidos no n.º 9 do artigo 66.º do Código do IRC é punível com coima de (euro) 500 a (euro) 10 000.
