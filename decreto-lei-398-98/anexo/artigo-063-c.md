@@ -6,7 +6,7 @@
 
 2 - Devem, ainda, ser efectuados através da conta ou contas referidas no n.º 1 todos os movimentos relativos a suprimentos, outras formas de empréstimos e adiantamentos de sócios, bem como quaisquer outros movimentos de ou a favor dos sujeitos passivos.
 
-3 - Os pagamentos respeitantes a facturas ou documentos equivalentes de valor igual ou superior a 20 vezes a retribuição mensal mínima devem ser efectuados através de meio de pagamento que permita a identificação do respectivo destinatário, designadamente transferência bancária, cheque nominativo ou débito directo.»
+3 - Os pagamentos respeitantes a faturas ou documentos equivalentes de valor igual ou superior a (euro) 1000 devem ser efetuados através de meio de pagamento que permita a identificação do respetivo destinatário, designadamente transferência bancária, cheque nominativo ou débito direto.
 
 4 - A administração tributária pode aceder a todas as informações ou documentos bancários relativos à conta ou contas referidas no n.º 1 sem dependência do consentimento dos respectivos titulares.
 
