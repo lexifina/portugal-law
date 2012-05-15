@@ -35,3 +35,5 @@ d) Aquisição de outros prédios urbanos e outras aquisições onerosas - 6,5%.
 a) Se no mesmo acto se transmitir a totalidade do prédio, a cada valor aplica-se a taxa correspondente à totalidade da transmissão;
 
 b) Se no acto não se transmitir a totalidade do prédio, ao valor tributável aplica-se a taxa correspondente ao valor global do prédio tendo em consideração a parte transmitida.
+
+7 - O disposto no n.º 4 não se aplica quando o adquirente seja pessoa singular.
