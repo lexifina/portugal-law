@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Resolução",
+  "numero": "37",
+  "id": "36986",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-05-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659574e695a6a6777597a49744d44597a4f4330304e6a6c6a4c5467344d6a49744d6d55314e5451354d6a686a597a686c4c6d527659773d3d&fich=acbf80c2-0638-469c-8822-2e554928cc8e.doc&Inline=true",
+        "anexoNome": "Acordo PT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a41784e6a45304e474d744d6a55324e7930304d324d354c574a6959324974596a55354e3259345a54517a595749344c6e426b5a673d3d&fich=f016144c-2567-43c9-bbcb-b597f8e43ab8.pdf&Inline=true",
+        "anexoNome": "Acodo digitalizado"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f446b32593259335a5455744e6a51784d6930304d4446694c5745774e5745744e5455334d5459314e54466c4e7a63774c6e426b5a673d3d&fich=896cf7e5-6412-401b-a05a-55716551e770.pdf&Inline=true",
+        "anexoNome": "Páginas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e3245335a544e6a4d4441744e5463774d4330304e44566c4c5745775a6d51744d4755354e3255354d324d315a47466b4c6e426b5a673d3d&fich=7a7e3c00-5700-445e-a0fd-0e97e93c5dad.pdf&Inline=true",
+        "anexoNome": "Assinaturas"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "36986",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f444e684f54517a4e6a49744e6d51344f5330305a6a59304c54686a596d49744d32466c4f4755784f575a6c5a446b774c6d527659773d3d&fich=83a94362-6d89-4f64-8cbb-3ae8e19fed90.doc&Inline=true",
+    "IniNr": "37",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Acordo Adicional entre a União Europeia e os seus Estados-Membros, por um lado, a Islândia, por outro, e o Reino da Noruega, por outro, respeitante à aplicação do Acordo de Transporte Aéreo entre os Estados Unidos da América, por um lado, a União Europeia e os seus Estados-Membros, por outro, a Islândia, por outro, e o Reino da Noruega, por outro, assinado no Luxemburgo, em 16 de junho de 2011.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
