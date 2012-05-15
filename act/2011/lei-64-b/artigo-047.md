@@ -2,6 +2,6 @@
 
 ### Redução de cargos dirigentes nas autarquias locais
 
-1 - Até ao final do 1.º semestre do ano de 2012 as autarquias locais reduzem, no mínimo, 15 % do número de dirigentes em exercício efectivo de funções em 31 de Dezembro de 2011, incluindo cargos legalmente equiparados.
+1 - O Governo aprova no prazo de 30 dias a legislação referente ao pessoal dirigente da administração local, no sentido da redução do número de dirigentes em exercício efetivo de funções, incluindo cargos legalmente equiparados.
 
-2 - Excepcionam-se do disposto no número anterior as situações em que, da aplicação daquela percentagem, resulte número inferior a um cargo dirigente.
+2 - A redução prevista no número anterior deve ser de, pelo menos, 15 % do número global de dirigentes em exercício efetivo de funções.

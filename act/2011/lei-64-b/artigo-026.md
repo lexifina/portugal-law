@@ -26,7 +26,7 @@ b) Contratos de aquisição de serviços cujo objecto seja a consultadoria técn
 
 a) Verificação do disposto no n.º 4 do artigo 35.º da Lei n.º 12-A/2008, de 27 de Fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de Dezembro, 3-B/2010, de 28 de Abril, 34/2010, de 2 de Setembro, e 55-A/2010, de 31 de Dezembro, e pela presente lei, e da inexistência de pessoal em situação de mobilidade especial apto para o desempenho das funções subjacentes à contratação em causa;
 
-b) Confirmação de declaração de cabimento orçamental emitida pela delegação da Direcção-Geral do Orçamento, ou pelo IGFSS, I. P., quando se trate de órgão, serviço ou entidade que integre o âmbito da segurança social aquando do respectivo pedido;
+b) Declaração de cabimento orçamental emitida pelo órgão, serviço ou entidade requerente;
 
 c) Verificação do cumprimento do disposto no n.º 1.
 

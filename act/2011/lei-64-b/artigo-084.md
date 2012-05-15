@@ -6,7 +6,7 @@
 
 ### Concessão de empréstimos e outras operações activas
 
-1 - Fica o Governo autorizado, nos termos da alínea h) do artigo 161.º da Constituição, através do membro do Governo responsável pela área das finanças, com a faculdade de delegação, a conceder empréstimos e a realizar outras operações de crédito activas, até ao montante contratual equivalente a (euro) 3 200 000 000, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturação ou consolidação de créditos do Estado.
+1 - Fica o Governo autorizado, nos termos da alínea h) do artigo 161.º da Constituição, através do membro do Governo responsável pela área das finanças, com a faculdade de delegação, a conceder empréstimos e a realizar outras operações de crédito ativas, até ao montante contratual equivalente a (euro) 9 600 000 000, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturação ou consolidação de créditos do Estado.
 
 2 - Acresce ao limite fixado no número anterior a concessão de empréstimos pelos serviços e fundos autónomos, até ao montante contratual equivalente a (euro) 500 000 000, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturação ou consolidação de créditos.
 

@@ -2,7 +2,7 @@
 
 ### Limite máximo para a concessão de garantias pelo Estado e por outras pessoas colectivas de direito público
 
-1 - O limite máximo para a autorização da concessão de garantias pelo Estado em 2012 é fixado, em termos de fluxos líquidos anuais, em (euro) 2 400 000 000, sem prejuízo do disposto no artigo 103.º
+1 - O limite máximo para a autorização da concessão de garantias pelo Estado em 2012 é fixado, em termos de fluxos líquidos anuais, em (euro) 5 400 000 000, sem prejuízo do disposto no artigo 103.º
 
 2 - Não se encontram abrangidas pelo limite fixado no número anterior as operações resultantes de deliberações tomadas no seio da União Europeia.
 
