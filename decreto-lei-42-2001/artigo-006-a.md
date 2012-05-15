@@ -1,9 +1,9 @@
 # Artigo 6.º-A
 
-### Notificações eletrónicas
+### Caixa postal eletrónica
 
-1 - Os executados em processo de execução de dívidas à segurança social, bem como aqueles cujas dívidas se encontrem sujeitas a tal processo, são obrigados a aderir ao sistema de notificações eletrónicas da segurança social, quando não adiram ao serviço público de notificações eletrónicas, associado à morada única digital.
+1 - Os executados em processos de execução fiscal por dívidas à segurança social são obrigados a possuir uma caixa postal eletrónica.
 
-2 - [Revogado.]
+2 - Para efeitos deste artigo são considerados executados sujeitos a esta obrigação acessória as entidades empregadoras e os trabalhadores independentes.
 
-3 - O regime das notificações e citações efetuadas através da plataforma informática disponibilizada pelo sítio eletrónico da Segurança Social, previsto no presente artigo, é regulamentado em diploma próprio.
+3 - O regime da obrigação prevista no presente artigo é regulamentado em diploma próprio.
