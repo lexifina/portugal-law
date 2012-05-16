@@ -1,0 +1,451 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "325",
+    "id": "36981",
+    "titulo": "Recomenda ao Governo a defesa e a valorização do ensino do português e a divulgação da cultura portuguesa no estrangeiro."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-05-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8768",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-05-16",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36946",
+        "leg": "XII",
+        "nr": "306",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1643",
+            "obs": null,
+            "pag": [
+              "34-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-17",
+            "pubLeg": "XII",
+            "pubNr": "109",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/34?pgs=34-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1643",
+            "obs": null,
+            "pag": [
+              "34-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-05-17",
+            "pubLeg": "XII",
+            "pubNr": "109",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/34?pgs=34-40&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda o investimento numa política de língua, cultura e identidade que corresponda aos interesses de Portugal e dos portugueses residentes no estrangeiro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-05-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120516pln&url=l12/sl1/a2012/m05/&tI=02:05:26:599&drc=00:03:34:554"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-17",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o investimento numa política de língua, cultura e identidade que corresponda aos interesses de Portugal e dos portugueses residentes no estrangeiro; Recomenda ao Governo a defesa e a valorização do ensino do português e a divulgação da cultura portuguesa no estrangeiro; Visa assegurar aos filhos dos emigrantes o ensino da Língua Portuguesa e o acesso à cultura portuguesa nos termos da alínea I do art.º 74º Capítulo III da Constituição Portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120516pln&url=l12/sl1/a2012/m05/&tI=02:09:09:105&drc=00:03:38:103"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-17",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o investimento numa política de língua, cultura e identidade que corresponda aos interesses de Portugal e dos portugueses residentes no estrangeiro; Recomenda ao Governo a defesa e a valorização do ensino do português e a divulgação da cultura portuguesa no estrangeiro; Visa assegurar aos filhos dos emigrantes o ensino da Língua Portuguesa e o acesso à cultura portuguesa nos termos da alínea I do art.º 74º Capítulo III da Constituição Portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1458",
+                "nome": "Carlos Alberto Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120516pln&url=l12/sl1/a2012/m05/&tI=02:12:53:231&drc=00:04:42:308"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-17",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/35?pgs=35-37&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o investimento numa política de língua, cultura e identidade que corresponda aos interesses de Portugal e dos portugueses residentes no estrangeiro; Recomenda ao Governo a defesa e a valorização do ensino do português e a divulgação da cultura portuguesa no estrangeiro; Visa assegurar aos filhos dos emigrantes o ensino da Língua Portuguesa e o acesso à cultura portuguesa nos termos da alínea I do art.º 74º Capítulo III da Constituição Portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120516pln&url=l12/sl1/a2012/m05/&tI=02:17:45:988&drc=00:04:03:314"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-17",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o investimento numa política de língua, cultura e identidade que corresponda aos interesses de Portugal e dos portugueses residentes no estrangeiro; Recomenda ao Governo a defesa e a valorização do ensino do português e a divulgação da cultura portuguesa no estrangeiro; Visa assegurar aos filhos dos emigrantes o ensino da Língua Portuguesa e o acesso à cultura portuguesa nos termos da alínea I do art.º 74º Capítulo III da Constituição Portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120516pln&url=l12/sl1/a2012/m05/&tI=02:21:56:178&drc=00:03:34:435"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-17",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o investimento numa política de língua, cultura e identidade que corresponda aos interesses de Portugal e dos portugueses residentes no estrangeiro; Recomenda ao Governo a defesa e a valorização do ensino do português e a divulgação da cultura portuguesa no estrangeiro; Visa assegurar aos filhos dos emigrantes o ensino da Língua Portuguesa e o acesso à cultura portuguesa nos termos da alínea I do art.º 74º Capítulo III da Constituição Portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4427",
+                "nome": "José Lino Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120516pln&url=l12/sl1/a2012/m05/&tI=02:25:36:882&drc=00:02:48:293"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-05-17",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda o investimento numa política de língua, cultura e identidade que corresponda aos interesses de Portugal e dos portugueses residentes no estrangeiro; Recomenda ao Governo a defesa e a valorização do ensino do português e a divulgação da cultura portuguesa no estrangeiro; Visa assegurar aos filhos dos emigrantes o ensino da Língua Portuguesa e o acesso à cultura portuguesa nos termos da alínea I do art.º 74º Capítulo III da Constituição Portuguesa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Discussão conjunta coma petição n.º 163/XI/2.ª.",
+    "OevId": "284151",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XI",
+        "nr": "163",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Visa assegurar aos filhos dos emigrantes o ensino da Língua Portuguesa e o acesso à cultura portuguesa nos termos da alínea I do art.º 74º Capítulo III da Constituição Portuguesa."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "592295",
+        "obs": null,
+        "pag": [
+          "33-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-05-17",
+        "pubLeg": "XII",
+        "pubNr": "109",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/109/2012-05-17/33?pgs=33-40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
