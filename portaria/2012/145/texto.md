@@ -1,0 +1,45 @@
+Portaria n.º 145/2012
+de 16 de maio
+O Decreto Regulamentar n.º 15/2012, de 27 de janeiro, definiu a missão, atribuições e tipo de organização interna da Inspeção-Geral da Educação e Ciência. Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis e matriciais do serviço e as competências das respetivas unidades orgânicas nucleares.
+Assim:
+Ao abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, o seguinte:
+Artigo 1.º
+Estrutura nuclear da Inspeção-Geral da Educação e Ciência
+1 - A Inspeção-Geral da Educação e Ciência, abreviadamente designada por IGEC, estrutura-se em unidades orgânicas nucleares:
+a) Direção de Serviços de Administração Geral;
+b) Direção de Serviços Jurídicos.
+2 - As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.
+Artigo 2.º
+Direção de Serviços de Administração Geral
+Compete à Direção de Serviços de Administração Geral:
+a) Assegurar a gestão administrativa, contabilística e patrimonial da IGEC;
+b) Apoiar o planeamento das atividades da IGEC;
+c) Aperfeiçoar as metodologias de atuação, de forma a conferir maior eficácia à atividade da IGEC;
+d) Organizar e atualizar manuais, programas de trabalho e outros instrumentos de apoio técnico às atividades inspetivas;
+e) Proceder ao tratamento e arquivo da informação resultante da atividade da inspeção;
+f) Conceber e acompanhar o desenvolvimento de aplicações informáticas de suporte à atividade inspetiva;
+g) Assegurar a gestão dos recursos humanos, nomeadamente no que respeita à formação contínua, informação e divulgação de normas e documentos relevantes.
+Artigo 3.º
+Direção de Serviços Jurídicos
+Compete à Direção de Serviços Jurídicos:
+a) Coordenar a atividade de provedoria da IGEC;
+b) Elaborar estudos e pareceres de natureza jurídica em matérias de interesse para a IGEC;
+c) Proceder à instrução e apreciação dos processos disciplinares, inquéritos, sindicâncias, peritagens ou outras missões que lhe sejam superiormente determinadas;
+d) Emitir pareceres sobre recursos hierárquicos interpostos das decisões disciplinares proferidas em processos instruídos no âmbito da IGEC;
+e) Proceder a todas as diligências processuais inerentes à atividade da IGEC, nomeadamente no âmbito do exercício do contraditório;
+f) Proceder ao registo e análise das reclamações inscritas nos livros de reclamações dos estabelecimentos particulares e cooperativos de educação pré-escolar e dos ensinos básico e secundário, bem como nas instituições de ensino superior privado;
+g) Coordenar o apoio técnico-jurídico às escolas e agrupamentos no âmbito da ação disciplinar;
+h) Representar o MEC em processos de contencioso administrativo relacionados com o exercício das atividades da IGEC.
+Artigo 4.º
+Unidades orgânicas flexíveis
+O número máximo de unidades orgânicas flexíveis da IGEC é fixado em dois.
+Artigo 5.º
+Chefes de equipas multidisciplinares
+A dotação máxima de chefes de equipas multidisciplinares é fixada em nove.
+Artigo 6.º
+Norma revogatória
+São revogadas as Portarias n.º 827-F/2007, de 31 de julho, n.º 827-G/2007, de 31 de julho, n.º 1050-C/2007, de 31 de agosto, e n.º 546/2009, de 20 de maio.
+Artigo 7.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 10 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 24 de abril de 2012.
