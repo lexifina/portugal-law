@@ -4,7 +4,7 @@
 
 1 - O transporte não urgente de doentes é realizado de acordo com o disposto nos números anteriores em ambulância ou VTSD.
 
-2 - O transporte não urgente de doentes é realizado, sempre que possível, em VTDS ou múltiplo, tendo em consideração a necessidade de otimização da capacidade do veículo à luz dos seguintes critérios:
+2 - O transporte não urgente de doentes é realizado, sempre que possível, em VTSD e múltiplo, tendo em consideração a necessidade de otimização da capacidade do veículo à luz dos seguintes critérios:
 
 a) Agrupamento de utentes que independentemente da origem se inserem no mesmo percurso;
 
