@@ -2,7 +2,7 @@
 
 ### Saneamento do processo
 
-1 - Junto o parecer da comissão de credores ou decorrido o prazo previsto no artigo anterior sem que tal junção se verifique, o juiz designa dia e hora para uma tentativa de conciliação a realizar dentro dos 10 dias seguintes, para a qual são notificados, a fim de comparecerem pessoalmente ou de se fazerem representar por procuradores com poderes especiais para transigir, todos os que tenham apresentado impugnações e respostas, a comissão de credores e o administrador da insolvência.
+1 - Junto o parecer da comissão de credores ou decorrido o prazo previsto no artigo anterior sem que tal junção se verifique, o juiz pode designar dia e hora para uma tentativa de conciliação a realizar dentro dos 10 dias seguintes, para a qual são notificados, a fim de comparecerem pessoalmente ou de se fazerem representar por procuradores com poderes especiais para transigir, todos os que tenham apresentado impugnações e respostas, a comissão de credores e o administrador da insolvência.
 
 2 - Na tentativa de conciliação são considerados como reconhecidos os créditos que mereçam a aprovação de todos os presentes e nos precisos termos em que o forem.
 
@@ -15,3 +15,5 @@
 6 - O despacho saneador tem, quanto aos créditos reconhecidos, a forma e o valor de sentença, que os declara verificados e os gradua em harmonia com as disposições legais.
 
 7 - Se a verificação de algum dos créditos necessitar de produção de prova, a graduação de todos os créditos tem lugar na sentença final.
+
+8 - Caso o juiz entenda que não se mostra adequado realizar a tentativa de conciliação, profere de imediato o despacho previsto no n.º 3.

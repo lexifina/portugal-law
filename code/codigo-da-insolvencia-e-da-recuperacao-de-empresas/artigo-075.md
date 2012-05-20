@@ -4,11 +4,11 @@
 
 1 - A assembleia de credores é convocada pelo juiz, por iniciativa própria ou a pedido do administrador da insolvência, da comissão de credores, ou de um credor ou grupo de credores cujos créditos representem, na estimativa do juiz, pelo menos um quinto do total dos créditos não subordinados.
 
-2 - A data, hora, local e ordem do dia da assembleia de credores são imediatamente comunicados, com a antecedência mínima de 10 dias, por anúncio publicado no Diário da República, num jornal diário de grande circulação nacional e por editais afixados na porta da sede e dos estabelecimentos da empresa, se for o caso.
+2 - A data, a hora, o local e a ordem do dia da assembleia de credores são imediatamente comunicados aos interessados, com a antecedência mínima de 10 dias, por anúncio publicado no portal Citius e por editais afixados na porta da sede ou da residência do devedor e dos seus estabelecimentos.
 
 3 - Os cinco maiores credores, bem como o devedor, os seus administradores e a comissão de trabalhadores, são também avisados do dia, hora e local da reunião, por circulares expedidas sob registo, com a mesma antecedência.
 
-4 - O anúncio, os editais e as circulares previstos no número anterior devem ainda conter:
+4 - O anúncio, os editais e as circulares previstos nos números anteriores devem ainda conter:
 
 a) A identificação do processo;
 

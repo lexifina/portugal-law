@@ -8,4 +8,4 @@
 
 3 - A adopção das medidas cautelares pode ter lugar previamente à citação do devedor, no caso de a antecipação ser julgada indispensável para não pôr em perigo o seu efeito útil, mas sem que a citação possa em caso algum ser retardada mais de 10 dias relativamente ao prazo que de outro modo interviria.
 
-4 - A adopção das medidas cautelares precede a distribuição quando o requerente o solicite e o juiz considere justificada a precedência.
+4 - (Revogado).

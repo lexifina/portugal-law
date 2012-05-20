@@ -22,6 +22,6 @@ d) A existência de eventuais garantias pessoais, com identificação dos garant
 
 e) A taxa de juros moratórios aplicável.
 
-2 - O requerimento é endereçado ao administrador da insolvência e apresentado no seu domicílio profissional ou para aí remetido por via postal registada, devendo o administrador, respectivamente, assinar no acto de entrega, ou enviar ao credor no prazo de três dias, comprovativo do recebimento.
+2 - O requerimento é endereçado ao administrador da insolvência e apresentado no seu domicílio profissional ou para aí remetido, por correio eletrónico ou por via postal registada, devendo o administrador, respetivamente, assinar no ato de entrega, ou enviar ao credor no prazo de três dias da receção, comprovativo do recebimento, sendo o envio efetuado pela forma utilizada na reclamação.
 
 3 - A verificação tem por objecto todos os créditos sobre a insolvência, qualquer que seja a sua natureza e fundamento, e mesmo o credor que tenha o seu crédito reconhecido por decisão definitiva não está dispensado de o reclamar no processo de insolvência, se nele quiser obter pagamento.

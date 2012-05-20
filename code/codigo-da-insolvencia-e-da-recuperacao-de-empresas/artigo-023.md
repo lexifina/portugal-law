@@ -12,7 +12,7 @@
 
 a) Sendo o próprio devedor, indica se a situação de insolvência é actual ou apenas iminente, e, quando seja pessoa singular, se pretende a exoneração do passivo restante, nos termos das disposições do capítulo I do título XII;
 
-b) Identifica os administradores do devedor e os seus cinco maiores credores, com exclusão do próprio requerente;
+b) Identifica os administradores, de direito e de facto, do devedor e os seus cinco maiores credores, com exclusão do próprio requerente;
 
 c) Sendo o devedor casado, identifica o respectivo cônjuge e indica o regime de bens do casamento;
 

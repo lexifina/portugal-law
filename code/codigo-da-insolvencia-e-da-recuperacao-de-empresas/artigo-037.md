@@ -14,6 +14,6 @@
 
 6 - O disposto nos números anteriores não prejudica a possibilidade de notificação e citação por via electrónica, nos termos previstos em portaria do Ministro da Justiça.
 
-7 - Os demais credores e outros interessados são citados por edital, com prazo de dilação de cinco dias, afixado na sede, nos estabelecimentos da empresa e no próprio tribunal e por anúncio publicado no Diário da República.
+7 - Os demais credores e outros interessados são citados por edital, com prazo de dilação de cinco dias, afixado na sede ou na residência do devedor, nos seus estabelecimentos e no próprio tribunal e por anúncio publicado no portal Citius.
 
 8 - Os editais e anúncios referidos no número anterior devem indicar o número do processo, a dilação e a possibilidade de recurso ou dedução de embargos e conter os elementos e informações previstos nas alíneas a) a e) e i) a n) do artigo anterior, advertindo-se que o prazo para o recurso, os embargos e a reclamação dos créditos só começa a correr depois de finda a dilação e que esta se conta da publicação do anúncio referido no número anterior.

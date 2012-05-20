@@ -12,4 +12,4 @@
 
 3 - O pagamento das dívidas da massa insolvente tem lugar nas datas dos respectivos vencimentos, qualquer que seja o estado do processo.
 
-4 - Intentada acção para a verificação do direito à restituição ou separação de bens que já se encontrem liquidados e assinado o competente termo de protesto, é mantida em depósito e excluída dos pagamentos aos credores da massa insolvente ou da insolvência, enquanto persistirem os efeitos do protesto, quantia igual à do produto da venda, podendo este ser determinado, ou, quando o não possa ser, à do valor constante do inventário; é aplicável o disposto nos n.os 2 e 3 do artigo 180.º, com as devidas adaptações.
+4 - Intentada ação para a verificação do direito à restituição ou separação de bens que já se encontrem liquidados e lavrado o competente termo de protesto, é mantida em depósito e excluída dos pagamentos aos credores da massa insolvente ou da insolvência, enquanto persistirem os efeitos do protesto, quantia igual à do produto da venda, podendo este ser determinado, ou, quando o não possa ser, à do valor constante do inventário; é aplicável o disposto nos n.os 2 e 3 do artigo 180.º, com as devidas adaptações.

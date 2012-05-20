@@ -6,7 +6,7 @@
 
 ### Princípios gerais
 
-1 - Podem ser resolvidos em benefício da massa insolvente os actos prejudiciais à massa praticados ou omitidos dentro dos quatro anos anteriores à data do início do processo de insolvência.
+1 - Podem ser resolvidos em benefício da massa insolvente os atos prejudiciais à massa praticados dentro dos dois anos anteriores à data do início do processo de insolvência.
 
 2 - Consideram-se prejudiciais à massa os actos que diminuam, frustrem, dificultem, ponham em perigo ou retardem a satisfação dos credores da insolvência.
 
@@ -21,3 +21,5 @@ a) De que o devedor se encontrava em situação de insolvência;
 b) Do carácter prejudicial do acto e de que o devedor se encontrava à data em situação de insolvência iminente;
 
 c) Do início do processo de insolvência.
+
+6 - São insuscetíveis de resolução por aplicação das regras previstas no presente capítulo os negócios jurídicos celebrados no âmbito de processo especial de revitalização regulado no presente diploma, de providência de recuperação ou saneamento, ou de adoção de medidas de resolução previstas no título viii do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, ou de outro procedimento equivalente previsto em legislação especial, cuja finalidade seja prover o devedor com meios de financiamento suficientes para viabilizar a sua recuperação.
