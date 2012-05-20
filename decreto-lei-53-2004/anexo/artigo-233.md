@@ -16,7 +16,7 @@ d) Os credores da massa podem reclamar do devedor os seus direitos não satisfei
 
 a) A ineficácia das resoluções de actos em beneficio da massa insolvente, excepto se o plano de insolvência atribuir ao administrador da insolvência competência para a defesa nas acções dirigidas à respectiva impugnação, bem como nos casos em que as mesmas não possam já ser impugnadas em virtude do decurso do prazo previsto no artigo 125.º, ou em que a impugnação deduzida haja já sido julgada improcedente por decisão com trânsito em julgado;
 
-b) A extinção da instância dos processos de verificação de créditos e de restituição e separação de bens já liquidados que se encontrem pendentes, excepto se tiver já sido proferida a sentença de verificação e graduação de créditos prevista no artigo 140.º, ou se o encerramento decorrer da aprovação de plano de insolvência, caso em que prosseguem até final os recursos interpostos dessa sentença e as acções cujos autores assim o requeiram, no prazo de 30 dias;
+b) A extinção da instância dos processos de verificação de créditos e de restituição e separação de bens já liquidados que se encontrem pendentes, excepto se tiver já sido proferida a sentença de verificação e graduação de créditos prevista no artigo 140.º, caso em que prosseguem até final os recursos interpostos dessa sentença e as acções cujos autores assim o requeiram, no prazo de 30 dias;
 
 c) A extinção da instância das acções pendentes contra os responsáveis legais pelas dívidas do insolvente propostas pelo administrador da insolvência, excepto se o plano de insolvência atribuir ao administrador da insolvência competência para o seu prosseguimento.
 
@@ -25,3 +25,5 @@ c) A extinção da instância das acções pendentes contra os responsáveis leg
 4 - Exceptuados os processos de verificação de créditos, qualquer acção que corra por dependência do processo de insolvência e cuja instância não se extinga, nos termos da alínea b) do n.º 2, nem deva ser prosseguida pelo administrador da insolvência, nos termos do plano de insolvência, é desapensada do processo e remetida para o tribunal competente, passando o devedor a ter exclusiva legitimidade para a causa, independentemente de habilitação ou do acordo da contraparte.
 
 5 - Nos 10 dias posteriores ao encerramento, o administrador da insolvência entrega no tribunal, para arquivo, toda a documentação relativa ao processo que se encontre em seu poder, bem como os elementos da contabilidade do devedor que não hajam de ser restituídos ao próprio.
+
+6 - Sempre que ocorra o encerramento do processo de insolvência sem que tenha sido aberto incidente de qualificação por aplicação do disposto na alínea i) do n.º 1 do artigo 36.º, deve o juiz declarar expressamente na decisão prevista no artigo 230.º o caráter fortuito da insolvência.

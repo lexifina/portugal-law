@@ -14,7 +14,7 @@
 
 ### Dever de apresentação à insolvência
 
-1 - O devedor deve requerer a declaração da sua insolvência dentro dos 60 dias seguintes à data do conhecimento da situação de insolvência, tal como descrita no n.º 1 do artigo 3.º, ou à data em que devesse conhecê-la.
+1 - O devedor deve requerer a declaração da sua insolvência dentro dos 30 dias seguintes à data do conhecimento da situação de insolvência, tal como descrita no n.º 1 do artigo 3.º, ou à data em que devesse conhecê-la.
 
 2 - Exceptuam-se do dever de apresentação à insolvência as pessoas singulares que não sejam titulares de uma empresa na data em que incorram em situação de insolvência.
 

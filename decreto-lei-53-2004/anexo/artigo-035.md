@@ -2,7 +2,7 @@
 
 ### Audiência de discussão e julgamento
 
-1 - Tendo havido oposição do devedor, ou tendo a audiência deste sido dispensada, é logo marcada audiência de discussão e julgamento para um dos cinco dias subsequentes, notificando-se o requerente e o devedor para comparecerem pessoalmente ou para se fazerem representar por quem tenha poderes para transigir.
+1 - Tendo havido oposição do devedor, ou tendo a audiência deste sido dispensada, é logo marcada audiência de discussão e julgamento para um dos cinco dias subsequentes, notificando-se o requerente, o devedor e todos os administradores de direito ou de facto identificados na petição inicial para comparecerem pessoalmente ou para se fazerem representar por quem tenha poderes para transigir.
 
 2 - Não comparecendo o devedor nem um seu representante, têm-se por confessados os factos alegados na petição inicial, se a audiência do devedor não tiver sido dispensada nos termos do artigo 12.º
 

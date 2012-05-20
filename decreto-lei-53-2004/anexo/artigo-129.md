@@ -9,3 +9,5 @@
 3 - A lista dos credores não reconhecidos indica os motivos justificativos do não reconhecimento.
 
 4 - Todos os credores não reconhecidos, bem como aqueles cujos créditos forem reconhecidos sem que os tenham reclamado, ou em termos diversos dos da respectiva reclamação, devem ser disso avisados pelo administrador da insolvência, por carta registada, com observância, com as devidas adaptações, do disposto nos artigos 40.º a 42.º do Regulamento (CE) n.º 1346/2000, do Conselho, de 29 de Maio, tratando-se de credores com residência habitual, domicílio ou sede em outros Estados membros da União Europeia que não tenham já sido citados nos termos do n.º 3 do artigo 37.º
+
+5 - A comunicação referida no número anterior pode ser feita por correio eletrónico nos casos em que a reclamação de créditos haja sido efetuada por este meio e considera-se realizada na data do seu envio, devendo o administrador da insolvência juntar aos autos comprovativo do mesmo.

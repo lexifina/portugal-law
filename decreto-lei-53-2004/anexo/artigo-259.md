@@ -2,7 +2,7 @@
 
 ### Termos subsequentes à aprovação
 
-1 - O juiz homologa o plano de pagamentos aprovado nos termos dos artigos anteriores por meio de sentença, e, após o seu trânsito em julgado, declara igualmente a insolvência do devedor no processo principal; da sentença de declaração de insolvência constam apenas as menções referidas nas alíneas a) e b) do artigo 36.º, sendo aplicável o disposto na alínea a) do n.º 7 do artigo 39.º
+1 - O juiz homologa o plano de pagamentos aprovado nos termos dos artigos anteriores por meio de sentença, e, após o seu trânsito em julgado, declara igualmente a insolvência do devedor no processo principal; da sentença de declaração de insolvência constam apenas as menções referidas nas alíneas a) e b) do n.º 1 do artigo 36.º, sendo aplicável o disposto na alínea a) do n.º 7 do artigo 39.º
 
 2 - Ambas as sentenças são notificadas apenas aos credores constantes da relação fornecida pelo devedor.
 

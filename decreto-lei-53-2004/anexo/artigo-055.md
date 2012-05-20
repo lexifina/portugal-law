@@ -8,7 +8,7 @@ a) Preparar o pagamento das dívidas do insolvente à custa das quantias em dinh
 
 b) Prover, no entretanto, à conservação e frutificação dos direitos do insolvente e à continuação da exploração da empresa, se for o caso, evitando quanto possível o agravamento da sua situação económica.
 
-2 - O administrador da insolvência exerce pessoalmente as competências do seu cargo, não podendo substabelecê-las em ninguém, sem prejuízo dos casos de recurso obrigatório ao patrocínio judiciário ou de necessidade de prévia concordância da comissão de credores.
+2 - Sem prejuízo dos casos de recurso obrigatório ao patrocínio judiciário ou de necessidade de prévia concordância da comissão de credores, o administrador da insolvência exerce pessoalmente as competências do seu cargo, podendo substabelecer, por escrito, a prática de atos concretos em administrador da insolvência com inscrição em vigor nas listas oficiais.
 
 3 - O administrador da insolvência, no exercício das respectivas funções, pode ser coadjuvado sob a sua responsabilidade por técnicos ou outros auxiliares, remunerados ou não, incluindo o próprio devedor, mediante prévia concordância da comissão de credores ou do juiz, na falta dessa comissão.
 
@@ -17,3 +17,7 @@ b) Prover, no entretanto, à conservação e frutificação dos direitos do inso
 5 - Ao administrador da insolvência compete ainda prestar oportunamente à comissão de credores e ao tribunal todas as informações necessárias sobre a administração e a liquidação da massa insolvente.
 
 6 - A requerimento do administrador da insolvência e sempre que este não tenha acesso directo às informações pretendidas, o juiz oficia quaisquer entidades públicas e instituições de crédito para, com base nos respectivos registos, prestarem informações consideradas necessárias ou úteis para os fins do processo, nomeadamente sobre a existência de bens integrantes da massa insolvente.
+
+7 - A remuneração do administrador da insolvência referido na parte final do n.º 2 é da responsabilidade do administrador da insolvência que haja substabelecido, sendo deste a responsabilidade por todos os atos praticados por aquele ao abrigo do substabelecimento mencionado no mesmo número.
+
+8 - O administrador da insolvência dispõe de poderes para desistir, confessar ou transigir, mediante concordância da comissão de credores, em qualquer processo judicial em que o insolvente, ou a massa insolvente, sejam partes.
