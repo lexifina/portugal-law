@@ -1,0 +1,19 @@
+Despacho n.º 6895/2012
+O Regulamento de Estágios da Ordem dos Psicólogos Portugueses foi aprovado por despacho da Ministra da Saúde, de 22 de setembro de 2010, publicado no Diário da República, 2.ª série, n.º 204, de 20 de outubro de 2010, em anexo ao despacho n.º 15866/2010, e alterado pelo despacho do Secretário de Estado da Saúde, de 6 de outubro de 2011, publicado no Diário da República, 2.ª série, n.º 198, de 14 de outubro de 2011, em anexo ao despacho n.º 13820/2011.
+A Ordem dos Psicólogos Portugueses veio submeter a aprovação tutelar algumas alterações ao Regulamento de Estágios, aprovadas por deliberação da Assembleia de Representantes na reunião de 16 de dezembro de 2011.
+As alterações propostas visam regulamentar o estágio profissional realizado fora de Portugal, nomeadamente em país membro da União Europeia, bem como em quaisquer outros países.
+Desde logo, estabelece-se que o estágio profissional realizado fora de Portugal rege-se, antes de mais, pelas regras vigentes no estado em que o profissional pretende exercer a profissão.
+Além disso, estabelece-se que a Ordem dos Psicólogos Portugueses poderá reconhecer, posteriormente, que há equiparação entre o estágio profissional realizado fora de Portugal e o estágio realizado ao abrigo do Regulamento de Estágios, sem prejuízo de um acordo existente entre esta associação pública e a entidade homóloga nesse país que fixe, desde logo, os termos para que a equiparação seja automática.
+Nestes termos, e em conformidade com o disposto no n.º 5 do artigo 29.º da Lei n.º 6/2008, de 13 de fevereiro, conjugado com o artigo 4.º da Lei n.º 57/2008, de 4 de setembro, determino:
+Ao Regulamento de Estágios da Ordem dos Psicólogos Portugueses, aprovado por despacho da Ministra da Saúde, de 22 de setembro de 2010, publicado no Diário da República, 2.ª série, n.º 204, de 20 de outubro de 2010, em anexo ao despacho n.º 15865/2010, e alterado pelo despacho do Secretário de Estado da Saúde, de 6 de outubro de 2011, publicado no Diário da República, 2.ª série, n.º 198, de 14 de outubro de 2011, em anexo ao despacho n.º 13820/2011, é aditado o artigo 21.º-A, com a seguinte redação:
+«Artigo 21.º-A
+Realização de estágio profissional no estrangeiro
+1 - O psicólogo estagiário que pretenda realizar o seu estágio profissional no estrangeiro fica sujeito às regras de estágio e exercício profissional que se encontrem em vigor no país de destino.
+2 - Após realização do estágio profissional no estrangeiro, o psicólogo estagiário pode requerer o reconhecimento de equiparação do estágio realizado ao estágio profissional previsto no presente Regulamento.
+3 - A análise da equiparação de estágios é efetuada pela Comissão de Estágios após requerimento do interessado.
+4 - Sem prejuízo de a Comissão de Estágios solicitar a entrega de documentos adicionais, o interessado deverá anexar ao requerimento de reconhecimento de equiparação toda a documentação produzida no âmbito do estágio realizado no país estrangeiro por exigência da entidade local reguladora da profissão, bem como a declaração da entidade recetora que inclua informação sobre a duração do estágio, carga horária, funções exercidas e, quando aplicável, identificação do orientador.
+5 - Quando, pela origem, os documentos referidos no número anterior estiverem redigidos em língua estrangeira, deve o interessado fazê-los acompanhar de tradução legalizada.
+6 - Em caso de concessão da equiparação de estágio, o psicólogo pode requerer a sua admissão como membro efetivo, nos termos do artigo 24.º do presente Regulamento.
+7 - A equiparação de estágios prevista nos números anteriores pode ser realizada de forma automática e mediante simples requerimento do interessado, com dispensa de apresentação dos documentos referidos no n.º 4 do presente artigo, caso a Ordem tenha celebrado protocolo com a entidade local reguladora da profissão.»
+11 de maio de 2012. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira.
+206098283
