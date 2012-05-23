@@ -1,0 +1,468 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12245",
+  "numero": "133",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-05-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-05-27",
+            "entidades": null,
+            "id": "100277",
+            "tipo": null,
+            "titulo": "Audição em 2015-05-27 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-05-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "319/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-07-01",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "749841",
+                "obs": null,
+                "pag": [
+                  "11-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-03",
+                "pubLeg": "XII",
+                "pubNr": "57",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/057/2015-07-03/11?pgs=11-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-05-30",
+        "DataArquivo": "2015-07-01",
+        "DataBaixaComissao": "2012-05-30",
+        "DataEnvioPAR": "2015-07-01",
+        "DataReaberta": "2012-05-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-05-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a68685a5449344e7a55354c54417a4d4451744e4441774f5330344e5441784c5756694e544a6a4d444a69593245344d6935775a47593d&fich=8ae28759-0304-4009-8501-eb52c02bca82.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-09-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a6330596a67774d7a6b7a4c574579595449744e474e694e4330344e4449774c54686d596d59784d324d305a5759334e4335515245593d&fich=74b80393-a2a2-4cb4-8420-8fbf13c4ef74.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-05-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a51304e6a59354e6d59324c544268597a55744e4459774e4330344e445a6d4c54597a59324533596a55314d6d49354d5335775a47593d&fich=446696f6-0ac5-4604-846f-63ca7b552b91.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-07-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a597a4d7a6469595441784c5746684e4749744e4749334e6930355a475a6a4c545a6c4d7a55795a6d466b4f5467325a4335775a47593d&fich=6337ba01-aa4b-4b76-9dfc-6e352fad986d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-05-30",
+            "gp": "PS",
+            "id": "2263",
+            "motivoCessacao": null,
+            "nome": "Ana Paula Vitorino"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-12-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-05-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3245324d444a6b4e6a4a684c54566c596a51744e4445325a4330344e7a63304c5445794d6d51354d4455794e4451345a4335775a47593d&fich=a602d62a-5eb4-416d-8774-122d9052448d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "39849",
+      "39880"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-12-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151211pln&url=l13/sl1/a2015/m12/&tI=01:43:38:465&drc=00:02:41:760"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-12",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/016/2015-12-12/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República que volte a discutir a necessidade de construção imediata do IC35, no troço Penafiel/Entre-os-Rios, e a recomende ao Governo; Urgente construção integral do IC35; Recomenda prioridade na construção do IC35 (Penafiel/Entre-os-Rios).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151211pln&url=l13/sl1/a2015/m12/&tI=01:46:25:689&drc=00:02:59:414"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-12",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/016/2015-12-12/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República que volte a discutir a necessidade de construção imediata do IC35, no troço Penafiel/Entre-os-Rios, e a recomende ao Governo; Urgente construção integral do IC35; Recomenda prioridade na construção do IC35 (Penafiel/Entre-os-Rios).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151211pln&url=l13/sl1/a2015/m12/&tI=01:49:29:345&drc=00:03:50:000"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-12",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/016/2015-12-12/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República que volte a discutir a necessidade de construção imediata do IC35, no troço Penafiel/Entre-os-Rios, e a recomende ao Governo; Urgente construção integral do IC35; Recomenda prioridade na construção do IC35 (Penafiel/Entre-os-Rios).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151211pln&url=l13/sl1/a2015/m12/&tI=01:53:28:800&drc=00:03:05:345"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-12",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/016/2015-12-12/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República que volte a discutir a necessidade de construção imediata do IC35, no troço Penafiel/Entre-os-Rios, e a recomende ao Governo; Urgente construção integral do IC35; Recomenda prioridade na construção do IC35 (Penafiel/Entre-os-Rios).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151211pln&url=l13/sl1/a2015/m12/&tI=01:56:40:185&drc=00:02:55:489"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-12",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/016/2015-12-12/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República que volte a discutir a necessidade de construção imediata do IC35, no troço Penafiel/Entre-os-Rios, e a recomende ao Governo; Urgente construção integral do IC35; Recomenda prioridade na construção do IC35 (Penafiel/Entre-os-Rios).",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12245",
+    "PetAssunto": "Solicitam que a Assembleia da República volte a discutir a necessidade de construção imediata do IC 35, no troço Penafiel-Entre os Rios, e a recomende ao Governo.",
+    "PetDataEntrada": "2012-05-23",
+    "PeticoesAssociadas": null,
+    "PetId": "12245",
+    "PetLeg": "XII",
+    "PetNr": "133",
+    "PetNrAssinaturas": "10230",
+    "PetNrAssinaturasInicial": "10230",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2111",
+        "obs": null,
+        "pag": [
+          "28-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-12-12",
+        "pubLeg": "XIII",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/016/2015-12-12/28?pgs=28-33&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "592737",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-02",
+        "pubLeg": "XII",
+        "pubNr": "224",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/224/2012-06-02/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
