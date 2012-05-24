@@ -1,0 +1,559 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12249",
+  "numero": "137",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-05-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-06-28",
+            "dataResposta": "2012-11-26",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "258/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-19",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "614463",
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-22",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/066/2012-12-22?org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2012-12-19",
+              "descricao": null,
+              "detalhe": null,
+              "id": "62351",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "73",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-05-30",
+        "DataArquivo": "2012-12-19",
+        "DataBaixaComissao": "2012-05-30",
+        "DataEnvioPAR": "2012-12-20",
+        "DataReaberta": "2012-05-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-05-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938324d4468684d5446695a69316a4d5752684c5452694d6a5974595759784f4330354e4755784d5463794e54597a4e5751756347526d&fich=608a11bf-c1da-4b26-af18-94e11725635d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-06-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939684e446b7a4e7a64684e5331694d575a6c4c5452694f544174596a526c5a69316a4e444d3559574a684f475977596a51756347526d&fich=a49377a5-b1fe-4b90-b4ef-c439aba8f0b4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784d474d784d5749344e5330774f4442694c54526a593245744f54566d5a433034596d557a4f5759354e324a6b4d7a497555455247&fich=10c11b85-080b-4cca-95fd-8be39f97bd32.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-11-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396c4d6a45354d5759784e7930344d7a49304c5451784d575974596d51354d4330344d3249314e6a466b4f544578596a637555455247&fich=e2191f17-8324-411f-bd90-83b561d911b7.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-05-30",
+            "gp": "PSD",
+            "id": "4148",
+            "motivoCessacao": null,
+            "nome": "Luís Vales"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-03-07",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-05-31",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41335a544a6a4e54646a4c57526c4e5451744e444e6d5a6931684d544d324c54646b4d44646c4f446c6b5a574d344d5335775a47593d&fich=07e2c57c-de54-43ff-a136-7d07e89dec81.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37549"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-03-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130307pln&url=l12/sl2/a2013/m03/&tI=02:50:21:831&drc=00:02:37:565"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-08",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação das Taxas Moderadoras e Atribuição do Transporte de Doentes não Urgentes; Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130307pln&url=l12/sl2/a2013/m03/&tI=02:53:04:461&drc=00:05:50:274"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-08",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação das Taxas Moderadoras e Atribuição do Transporte de Doentes não Urgentes; Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130307pln&url=l12/sl2/a2013/m03/&tI=02:59:00:235&drc=00:04:46:400"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-08",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/51?pgs=51-53&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação das Taxas Moderadoras e Atribuição do Transporte de Doentes não Urgentes; Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130307pln&url=l12/sl2/a2013/m03/&tI=03:03:51:202&drc=00:03:17:829"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-08",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação das Taxas Moderadoras e Atribuição do Transporte de Doentes não Urgentes; Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130307pln&url=l12/sl2/a2013/m03/&tI=03:07:15:656&drc=00:03:55:197"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-08",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação das Taxas Moderadoras e Atribuição do Transporte de Doentes não Urgentes; Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130307pln&url=l12/sl2/a2013/m03/&tI=03:11:19:498&drc=00:03:11:934"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-08",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação das Taxas Moderadoras e Atribuição do Transporte de Doentes não Urgentes; Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130307pln&url=l12/sl2/a2013/m03/&tI=03:14:45:244&drc=00:02:24:137"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-08",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação das Taxas Moderadoras e Atribuição do Transporte de Doentes não Urgentes; Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12249",
+    "PetAssunto": "Solicitam a revogação do aumento das taxas moderadoras e medidas para assegurar o transporte de doentes.",
+    "PetDataEntrada": "2012-05-24",
+    "PeticoesAssociadas": null,
+    "PetId": "12249",
+    "PetLeg": "XII",
+    "PetNr": "137",
+    "PetNrAssinaturas": "4008",
+    "PetNrAssinaturasInicial": "4008",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "415",
+        "obs": null,
+        "pag": [
+          "49-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-08",
+        "pubLeg": "XII",
+        "pubNr": "63",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/063/2013-03-08/49?pgs=49-57&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "592738",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-02",
+        "pubLeg": "XII",
+        "pubNr": "224",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/224/2012-06-02/13?pgs=13-14&org=PLC"
+      }
+    ]
+  }
+}
