@@ -1,0 +1,4 @@
+Aviso n.º 7370/2012
+No uso das competências que se encontram previstas na alínea a), do n.º 2 do artigo 53.º e alínea a), do n.º 6 do artigo 64.º e, ambos da Lei n.º 169/99, de 18 de setembro, com a redação introduzida pela Lei n.º 5-A/2002, de 11 de janeiro, torna-se público que, a 1.ª Alteração ao Regulamento e Tabela de Taxas, do Município de Cadaval, publicado em projeto no Diário da República, 2.ª série, n.º 46, de 5 de março de 2012, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva, em reunião ordinária da Câmara Municipal realizada em 18 de abril de 2012 e em sessão ordinária da Assembleia Municipal realizada em 27 de abril de 2012.
+3 de maio de 2012. - O Presidente da Câmara, Aristides Lourenço Sécio.
+306059881
