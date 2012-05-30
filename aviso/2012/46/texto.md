@@ -1,0 +1,5 @@
+Aviso n.º 46/2012
+Por ordem superior se torna público ter o Reino da Bélgica depositado junto do Secretário-Geral do Conselho da Europa, a 27 de abril de 2012, o seu instrumento de ratificação ao Protocolo n.º 7 à Convenção para a Proteção dos Direitos do Homem e das Liberdades Fundamentais.
+Portugal é Parte neste Protocolo, aberto à assinatura em Estrasburgo, a 22 de novembro de 1984, aprovado para ratificação pela Resolução da Assembleia da República n.º 22/90, de 27 de setembro, publicada no Diário da República, 1.ª série-A, n.º 224, ratificado pelo Decreto do Presidente da República n.º 51/90, de 27 de setembro, e publicado no Diário da República, 1.ª série-A, n.º 224, tendo depositado o seu instrumento de ratificação junto do Secretário-Geral do Conselho da Europa conforme o Aviso n.º 264/2005, de 21 de junho.
+A Convenção entrou em vigor na ordem jurídica portuguesa a 1 de março de 2005.
+Direção-Geral de Política Externa, 18 de maio de 2012. - O Diretor-Geral, Rui Filipe Monteiro Belo Macieira.
