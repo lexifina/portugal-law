@@ -1,0 +1,5 @@
+Aviso n.º 7601/2012
+Plano de Pormenor da Quinta dos Arcos
+Carlos Alexandre Henriques Saldanha, diretor de departamento da Administração Geral e Recursos Humanos, no uso de subdelegação de competências conferidas por despacho do vice-presidente da Câmara Municipal do Concelho de Elvas, faz saber que esta Câmara Municipal, por deliberação tomada em reunião realizada no dia 26 de abril de 2012 e nos termos do n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99 de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, deliberou por unanimidade proceder à elaboração do Plano de Pormenor da Quinta dos Arcos, pelo prazo de 90 dias e à publicação do aviso, na 2.ª série do Diário da República, comunicação social e página da internet www.cm-elvas.pt, devendo os interessados proceder, no prazo de 15 dias, à formulação de sugestões e à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, conforme determina o n.º 2 do artigo 77.º do mesmo decreto-lei.
+22 de maio de 2012. - O Diretor de Departamento, Carlos Alexandre Henriques Saldanha.
+206134684
