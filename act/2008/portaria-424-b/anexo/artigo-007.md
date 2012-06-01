@@ -10,13 +10,17 @@ b) Em meios de transporte externos ao estabelecimento, excepto os referidos na a
 
 c) Com encargos de funcionamento;
 
-d) Com bens cuja amortização a legislação fiscal permita ser efectuada num único ano;
+d) (Revogada.)
 
 e) Com a aquisição de ovos, larvas, juvenis ou progenitores;
 
 f) De pré-financiamento, constituição de processo de empréstimo e de fundos de maneio;
 
-g) Em instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os correspondentes contratos estipularem uma opção de compra e esta estiver realizada e paga à data da apresentação do pedido de pagamento do saldo dos apoios;
+g) Aquisição de edifícios, instalações ou equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os respetivos contratos estipularem uma opção de compra e esta estiver realizada e paga:
+
+i) No prazo de 2 anos, a contar da data da receção de um exemplar do contrato de atribuição do apoio, devidamente outorgado pelo IFAP, para as operações de prazo igual ou inferior a 24 meses;
+
+ii) Até 30 de junho de 2015, para as demais operações;
 
 h) Custos com os contratos de locação financeira ou de aluguer de longa duração, na parte que excedam os custos de aquisição dos correspondentes bens, no caso referido na alínea anterior;
 

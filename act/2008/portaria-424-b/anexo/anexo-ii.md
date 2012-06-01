@@ -26,7 +26,7 @@ TABELA II
 
 c) Para os projectos a que se apliquem mais do que uma das tipologias previstas na alínea anterior é atribuída a pontuação correspondente àquela que representar maior percentagem no investimento elegível ou, em caso de idêntica representação, a que tiver maior pontuação.
 
-3 - Apreciação estratégica (AE). - A apreciação estratégica é efectuada de acordo com as seguintes alíneas, podendo atingir um máximo de 100 pontos:
+3 - Apreciação estratégica (AE). - A apreciação estratégica é efetuada de acordo com as seguintes alíneas, podendo atingir um máximo de 100 pontos:
 
 a):
 
