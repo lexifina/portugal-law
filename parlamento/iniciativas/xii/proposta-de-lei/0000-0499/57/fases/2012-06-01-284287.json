@@ -1,0 +1,807 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "57",
+    "id": "36974",
+    "titulo": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8781",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-06-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36969",
+        "leg": "XII",
+        "nr": "229",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1667",
+            "obs": null,
+            "pag": [
+              "27-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-02",
+            "pubLeg": "XII",
+            "pubNr": "117",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/27?pgs=27-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1667",
+            "obs": null,
+            "pag": [
+              "27-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-02",
+            "pubLeg": "XII",
+            "pubNr": "117",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/27?pgs=27-41&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "36975",
+        "leg": "XII",
+        "nr": "58",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1667",
+            "obs": null,
+            "pag": [
+              "27-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-02",
+            "pubLeg": "XII",
+            "pubNr": "117",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/27?pgs=27-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1667",
+            "obs": null,
+            "pag": [
+              "27-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-02",
+            "pubLeg": "XII",
+            "pubNr": "117",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/27?pgs=27-41&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Aprova o regime juridico da atividade empresarial local e das participações locais."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=01:27:52:093&drc=00:07:25:427"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=01:37:36:149&drc=00:02:10:105"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  ADJUNTO E DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Relvas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/27?pgs=27-29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=01:35:30:586&drc=00:02:02:793"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=01:39:56:284&drc=00:05:58:908"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:25:22:055&drc=00:00:25:024"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/30?pgs=30-31,41&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4050",
+                "nome": "Fernando Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=01:46:03:143&drc=00:05:54:176"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4173",
+                "nome": "Margarida Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=01:52:10:606&drc=00:04:55:220"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/32?pgs=32-34&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1512",
+                "nome": "Mota Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=01:57:11:134&drc=00:04:44:865"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:02:05:575&drc=00:03:35:505"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4394",
+                "nome": "Emília Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:05:56:396&drc=00:04:46:347"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:10:54:572&drc=00:04:53:427"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2103",
+                "nome": "Isabel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:16:01:029&drc=00:03:39:939"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:19:51:201&drc=00:01:52:395"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:21:53:595&drc=00:03:21:523"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DA ADMINISTRAÇÃO LOCAL  E REFORMA ADMINISTRATIVA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Paulo Simões Júlio"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Procede à adaptação à Administração Local da Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do Pessoal Dirigente dos Serviços e Organismos da administração Central, Regional e Local do Estado; Aprova o regime juridico da atividade empresarial local e das participações locais; Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o Regime Jurídico do Setor Empresarial Local.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284287",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "596922",
+        "obs": null,
+        "pag": [
+          "27-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-02",
+        "pubLeg": "XII",
+        "pubNr": "117",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/27?pgs=27-41&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
