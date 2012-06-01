@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "120",
+    "id": "36624",
+    "titulo": "Reorganização Administrativa de Lisboa."
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2012-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8784",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a42694d3255794e44557459324933597930304d6a637a4c546b794f474d744e6a4e6b4d6a4e695a6a526b4d6a526a4c6e426b5a673d3d&fich=f0b3e245-cb7c-4273-928c-63d23bf4d24c.pdf&Inline=true",
+        "anexoNome": "Proposta de alteração ao texto de substituição apresentado pelo PPD/PSD e pelo PS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a545a684e47566c4e3259745a575130595330304d7a56684c54686b596a6b744d6d4a6a4d574a6b4e6d4e694d6a45314c6e426b5a673d3d&fich=e6a4ee7f-ed4a-435a-8db9-2bc1bd6cb215.pdf&Inline=true",
+        "anexoNome": "Mapa anexo à proposta"
+      }
+    ],
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2012-06-01",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:39:35:066&drc=00:01:30:548"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:43:01:962&drc=00:03:18:873"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:48:34:639&drc=00:00:42:263"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/42?pgs=42-46&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4086",
+                "nome": "António Leitão Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:42",
+            "horaTermo": "14:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:37:10:192&drc=00:02:18:593"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:46:27:836&drc=00:02:02:430"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120601pln&url=l12/sl1/a2012/m06/&tI=02:37:10:192&drc=00:02:18:593"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-02",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02/42?pgs=42-46&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284344",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8784",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-02",
+        "pubLeg": "XII",
+        "pubNr": "117",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/117/2012-06-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2012-06-01",
+        "descricao": "Texto de Substituição apresentado pelo PPD/PSD e PS ao Projeto de Lei n.º 120/XII/1.ª (PPD/PSD e PS)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "60849",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "117",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
