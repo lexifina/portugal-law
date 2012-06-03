@@ -1,0 +1,5 @@
+Aviso n.º 53/2012
+Por ordem superior se torna público que, em 13 de janeiro de 2012 e em 4 de maio de 2012, foram emitidas notas, respetivamente pelo Secretariado do Tesouro e dos Serviços Financeiros do Governo da Região Administrativa Especial de Hong Kong da República Popular da China e pelo Consulado Geral de Portugal em Macau e Hong Kong, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a Região Administrativa Especial de Hong Kong da República Popular da China para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Hong Kong em 22 de março de 2011.
+O referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 49/2012 e ratificado pelo Decreto do Presidente da República n.º 80/2012, ambos publicados no Diário da República, 1.ª série, n.º 75, de 16 de abril de 2012.
+Nos termos do n.º 1 do artigo 28.º do Acordo, este entra em vigor a 3 de junho de 2012.
+Departamento de Assuntos Jurídicos, 15 de maio de 2012. - O Diretor, Miguel de Serpa Soares.
