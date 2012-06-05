@@ -1,0 +1,173 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "361",
+  "id": "37051",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-06-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "438",
+        "nome": "Carlos Zorrinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1512",
+        "nome": "Mota Andrade"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "152",
+        "nome": "António Braga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1943",
+        "nome": "Ramos Preto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2264",
+        "nome": "Pedro Farmhouse"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2250",
+        "nome": "Miguel Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4208",
+        "nome": "Acácio Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2259",
+        "nome": "Nuno André Figueiredo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "487",
+        "nome": "Fernando Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2132",
+        "nome": "Idália Salvador Serrão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2103",
+        "nome": "Isabel Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "456",
+        "nome": "João Paulo Pedrosa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2230",
+        "nome": "João Portugal"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2165",
+        "nome": "Jorge Fão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1435",
+        "nome": "José Junqueiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "413",
+        "nome": "Luís Pita Ameixa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4134",
+        "nome": "Manuel Seabra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2209",
+        "nome": "Marcos Perestrello"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4319",
+        "nome": "Mário Ruivo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1164",
+        "nome": "Miguel Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4368",
+        "nome": "Paulo Ribeiro de Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1679",
+        "nome": "Renato Sampaio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "204",
+        "nome": "Rosa Maria Bastos Albernaz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1517",
+        "nome": "Rui Jorge Santos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "37051",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f47557759324e6b4e5755745a54426d4e4330304e7a6c6c4c5468694e4445745a4755304d7a68694d6a466b597a4e6d4c6d527659773d3d&fich=8e0ccd5e-e0f4-479e-8b41-de438b21dc3f.doc&Inline=true",
+    "IniNr": "361",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo que promova junto das instituições europeias e em articulação com outros Estados-Membros uma Estratégia Europeia que permita que a União Europeia enfrente o desafio da escassez de água e da seca de forma concertada, nomeadamente através de uma Diretiva relativa à avaliação e gestão dos riscos associados à escassez de água e às secas.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
