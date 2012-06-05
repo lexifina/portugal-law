@@ -1,0 +1,188 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "69",
+  "id": "37048",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-06-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5746685a4449784f5455745a4441315a5330304e3255784c574577596a4174593249324d4755334d6d45325a47497a4c6e426b5a673d3d&fich=eaad2195-d05e-47e1-a0b0-cb60e72a6db3.pdf&Inline=true",
+        "anexoNome": "APC - Ass. de Produtores de Cinema"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4e6b4f4441794d7a63744e5449305a5330304f5752684c574a694e546b74596d4e694e445a6a4d6a45774f5751774c6e426b5a673d3d&fich=fcd80237-524e-49da-bb59-bcb46c2109d0.pdf&Inline=true",
+        "anexoNome": "Contributo da APIT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5751304d6a55344f47457459324a6d4e793030595455354c57466a4e4463744d3251774e6a6c6d4d6a49304e6a45334c6e426b5a673d3d&fich=9d42588a-cbf7-4a59-ac47-3d069f224617.pdf&Inline=true",
+        "anexoNome": "APR - Ass. Portuguesa de Realizadores"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a67775a5745314d7a5974595755304f4330304f4445354c5749354f4451744d4759334f5441304f47497a596d4d794c6e426b5a673d3d&fich=b80ea536-ae48-4819-b984-0f79048b3bc2.pdf&Inline=true",
+        "anexoNome": "APPA - Ass. Portuguesa de Produtores de Animação"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a4a69596a4135596a49744e445a694d6930305a5459344c546b77595749744f5455325a545a6c4d6a6c684f575a6d4c6e426b5a673d3d&fich=22bb09b2-46b2-4e68-90ab-956e6e29a9ff.pdf&Inline=true",
+        "anexoNome": "Análise de Paulo Bezerra Leite - Profissional de Produção e Argumento"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4463304e7a426b4e6a41744e4449324e5330305a4455314c5745334e444d745a6a5a6b4d5751354d5755775a6a6b324c6e426b5a673d3d&fich=47470d60-4265-4d55-a743-f6d1d91e0f96.pdf&Inline=true",
+        "anexoNome": "Contributo de Paulo Bezerra Leite -  Profissional de Produção e Argumento"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a6868595463774e4451745a44677a4e5330304f5759344c546777597a67744f4463304f5455794d5449325a6a597a4c6e426b5a673d3d&fich=f8aa7044-d835-49f8-80c8-874952126f63.pdf&Inline=true",
+        "anexoNome": "Academia Portuguesa de Cinema"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a42694e47566a4d546b744d475579595330304e6d4d334c574a6d4d6a63744d54417a5a475a694f47566c4d7a646b4c6e426b5a673d3d&fich=b0b4ec19-0e2a-46c7-bf27-103dfb8ee37d.pdf&Inline=true",
+        "anexoNome": "Portugal Film Commission"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a4d774e3259784f44517459544d31597930305a5449324c546b774d444d744f4746685a6a5133596a41314d324d774c6e426b5a673d3d&fich=2307f184-a35c-4e26-9003-8aaf47b053c0.pdf&Inline=true",
+        "anexoNome": "Contributo de João Lopes - Produtor, Realizador, Programador e Exibidor"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5745794d325268597a41744d54466c4d6930304e5745344c574a6a596d59744e444269596d4d774e5459784d4455344c6e426b5a673d3d&fich=9a23dac0-11e2-45a8-bcbf-40bbc0561058.pdf&Inline=true",
+        "anexoNome": "Comentários de Pedro Borges - Distribuidor, editor e produtor, MIDAS Filmes"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4669593249794e3249744d6d453259693030595441324c5467354e6d45745a47566d4f4467344e5745324e5445324c6e426b5a673d3d&fich=fabcb27b-2a6b-4a06-896a-def8885a6516.pdf&Inline=true",
+        "anexoNome": "Contributos das Associações AIP, APAD, APPA, APC, APIT e ARCA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a426c4e7a646a5a4463745932466d595330305a474e6a4c5749774f5759745954557a4f474a694d7a4e694f4759304c6e426b5a673d3d&fich=20e77cd7-cafa-4dcc-b09f-a538bb33b8f4.pdf&Inline=true",
+        "anexoNome": "Comentários TVI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5451784f54597a4e5441744d324a694f5330304d3255784c5467794e7a49744e6a4e694e4755314e574e6a596a646a4c6e426b5a673d3d&fich=14196350-3bb9-43e1-8272-63b4e55ccb7c.pdf&Inline=true",
+        "anexoNome": "OPTIMUS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a55785a544d7a4e7a59744e6d566a4e6930304d7a6c694c546b315a6d45744e6d49334e3246694d7a49334d474e6a4c6e426b5a673d3d&fich=f51e3376-6ec6-439b-95fa-6b77ab3270cc.pdf&Inline=true",
+        "anexoNome": "Federação Portuguesa de Cine Clubes"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4459325932566d4d6a63744e446b305a5330304d7a4d314c5745775a444d744f474e6a596a5a6c59546b774d574e694c6e426b5a673d3d&fich=066cef27-494e-4335-a0d3-8ccb6ea901cb.pdf&Inline=true",
+        "anexoNome": "APRITEL - Ass. dos Operadores de telecomunicações"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d4e6d4f4441304f4441744d5756694f5330304d6a49794c546b304d4749745a5451775a446b77596a4e6a4e4755774c6e426b5a673d3d&fich=bcf80480-1eb9-4222-940b-e40d90b3c4e0.pdf&Inline=true",
+        "anexoNome": "RTP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a67774f444a6b596d4d744d474a69596930304e6d45334c574a6c4e7a59744e545a6d4f54597a4e7a4a6c4e574d334c6e426b5a673d3d&fich=b8082dbc-0bbb-46a7-be76-56f96372e5c7.pdf&Inline=true",
+        "anexoNome": "PT - Portugal Telecom"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d4d324e54593359574574596d51344f4330304e546b784c57457a5a4759744d325268596d5a6a4f444e68597a45334c6e426b5a673d3d&fich=6c6567aa-bd88-4591-a3df-3dabfc83ac17.pdf&Inline=true",
+        "anexoNome": "Zon Multimédia"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a4e694f444e684d4455745a4755324e5330304f574e684c57466c4e6a4d74597a42694e6a49334d5463355a446b784c6e426b5a673d3d&fich=b3b83a05-de65-49ca-ae63-c0b627179d91.pdf&Inline=true",
+        "anexoNome": "Contributo de Micael Espinha - Editor e realizador"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765954426d59325a6a5a4463745a5463354e5330304e7a63784c546c6c5a6d4574596a45304e4467794d6a4a6a4f4759354c6e426b5a673d3d&fich=a0fcfcd7-e795-4771-9efa-b1448222c8f9.pdf&Inline=true",
+        "anexoNome": "Contributo de Nuno Cintra Torres"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a646d5a6d526d5a474d744e54597a4e793030596a63354c5745344d3249744d7a466c4e6a4a6d596a42694f54566a4c6e426b5a673d3d&fich=c7ffdfdc-5637-4b79-a83b-31e62fb0b95c.pdf&Inline=true",
+        "anexoNome": "Ass. Os Filhos de Lumière"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a446b7a4e474669597a41744d6a63354f5330304f4441784c57466b595759744e6d557a4d446c684d5449334e47517a4c6e426b5a673d3d&fich=d934abc0-2799-4801-adaf-6e309a1274d3.pdf&Inline=true",
+        "anexoNome": "Parecer da Ass. Portuguesa de Argumentistas e Dramaturgos (APAD)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f444d30597a52684d6a55744e57466a4e6930305a4449324c54686a4e7a51745a6d497a4d7a55774e4759305a4755344c6e426b5a673d3d&fich=834c4a25-5ac6-4d26-8c74-fb33504f4de8.pdf&Inline=true",
+        "anexoNome": "Contributo de Paulo Leite"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d45304f4451774e574d744d444d7a5a4330304d7a45304c574530595459745a6a686c4d32557959324d344e7a5a684c6e426b5a673d3d&fich=6a48405c-033d-4314-a4a6-f8e3e2cc876a.pdf&Inline=true",
+        "anexoNome": "Vodafone Portugal"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4455305a57566b4d5759744e474d344e7930304e7a686d4c54686c597a51744d7a67304e6a557a4e6a426a4d44566d4c6e426b5a673d3d&fich=d54eed1f-4c87-478f-8ec4-38465360c05f.pdf&Inline=true",
+        "anexoNome": "Comentários do ICP-ANACOM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4445355a544d344d7a4d744d4445785a5330305a6d49784c546869595751744d54646b59545a6b593256694d5759794c6e426b5a673d3d&fich=d19e3833-011e-4fb1-8bad-17da6dceb1f2.pdf&Inline=true",
+        "anexoNome": "Parecer do ICP-ANACOM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a4e694e4455314f546b744d446c694f4330304e4455304c5749304e5441745a544e68596d55794e324d7a5a474a694c6e426b5a673d3d&fich=63b45599-09b8-4454-b450-e3abe27c3dbb.pdf&Inline=true",
+        "anexoNome": "Posição da TVI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a45355a546b304d7a597459544d784f5330305a6d49304c574535596a4d744f446c69597a426d5a6a59334d54426c4c6e426b5a673d3d&fich=c19e9436-a319-4fb4-a9b3-89bc0ff6710e.pdf&Inline=true",
+        "anexoNome": "Comentário do CPAV e do CENA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5751325a444930595451744e3245324e793030595749354c5745304e4455745a575a69597a63305a5745315a4467784c6e426b5a673d3d&fich=ed6d24a4-7a67-4ab9-a445-efbc74ea5d81.pdf&Inline=true",
+        "anexoNome": "Observações da SIC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a426a5a6d5533596a51744d6a46694f4330304e6a6b314c574978595745744f575a6d595751334d5749325a6a55794c6e426b5a673d3d&fich=f0cfe7b4-21b8-4695-b1aa-9ffad71b6f52.pdf&Inline=true",
+        "anexoNome": "Ass. Portuguesa de Empresas Cinematográficas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a4a685a4455344e6a4d744f446b304f5330304e4751784c574a6a597a41745a6a63784e6a59354f546b304e47566c4c6e426b5a673d3d&fich=22ad5863-8949-44d1-bcc0-f716699944ee.pdf&Inline=true",
+        "anexoNome": "Contributo da APORDOC - Ass. pelo documentário"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a64684d7a6b785a446374596a4531595330305a4451304c546b774d3259744e6a686d59325977597a4d30596a49334c6e426b5a673d3d&fich=b7a391d7-b15a-4d44-903f-68fcf0c34b27.pdf&Inline=true",
+        "anexoNome": "Contributo do IGAC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a4d315932566b4d54637459324530595330304e475a6b4c5468694e6d59744e324931596a68694d6d5534593251774c6e426b5a673d3d&fich=335ced17-ca4a-44fd-8b6f-7b5b8b2e8cd0.pdf&Inline=true",
+        "anexoNome": "Contributo de Manuel Pinto - Univ. do Minho"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e444e694d7a426c4e574974596d4e694d6930305a4459784c54686b4d7a41744e444d774e575a694e6a5a6d5a6a63354c6e426b5a673d3d&fich=43b30e5b-bcb2-4d61-8d30-4305fb66ff79.pdf&Inline=true",
+        "anexoNome": "Contributo de Vitor Reia Baptista - Univ. do Algarve"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d5a6d5a4449775a6a45744e546b785a5330304d444e6b4c5749354d3259744e6a64694e446b344d475a6d596a466d4c6e426b5a673d3d&fich=6ffd20f1-591e-403d-b93f-67b4980ffb1f.pdf&Inline=true",
+        "anexoNome": "Parecer das Associações AIP, APAD, APPA, APC, APIT e ARCA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e575a6b4e4459784d7a4174596d55794d5330304d444d304c546c695a546b744e5455795a6a6868595749314f44646c4c6e426b5a673d3d&fich=5fd46130-be21-4034-9be9-552f8aab587e.pdf&Inline=true",
+        "anexoNome": "Contributos de Cunha Telles - Realizador"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37048",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5467334e4749794e6a51744e474a6a4e4330304d7a6b794c5745354d6d49744d6a63775a6a55314f4759334e7a5a6d4c6d527659773d3d&fich=5874b264-4bc4-4392-a92b-270f558f776f.doc&Inline=true",
+    "IniNr": "69",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
