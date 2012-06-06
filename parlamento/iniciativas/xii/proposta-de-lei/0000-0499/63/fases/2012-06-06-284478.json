@@ -1,0 +1,363 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "63",
+    "id": "37000",
+    "titulo": "Estabelece o regime de acesso e exercício da atividade de treinador de desporto."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8796",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-06-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "37001",
+        "leg": "XII",
+        "nr": "59",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1648",
+            "obs": null,
+            "pag": [
+              "55-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-08",
+            "pubLeg": "XII",
+            "pubNr": "118",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/118/2012-06-08/55?pgs=55-60&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Aprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs) e altera o Decreto-Lei n.º 271/2009, de 1 de outubro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120606pln&url=l12/sl1/a2012/m06/&tI=02:57:34:702&drc=00:02:37:560"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120606pln&url=l12/sl1/a2012/m06/&tI=03:16:29:107&drc=00:03:32:548"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO DESPORTO E JUVENTUDE",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Alexandre  Mestre"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55",
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-08",
+                "pubLeg": "XII",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/118/2012-06-08/55?pgs=55,59-60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs) e altera o Decreto-Lei n.º 271/2009, de 1 de outubro; Estabelece o regime de acesso e exercício da atividade de treinador de desporto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120606pln&url=l12/sl1/a2012/m06/&tI=03:00:30:173&drc=00:03:51:880"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-08",
+                "pubLeg": "XII",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/118/2012-06-08/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs) e altera o Decreto-Lei n.º 271/2009, de 1 de outubro; Estabelece o regime de acesso e exercício da atividade de treinador de desporto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120606pln&url=l12/sl1/a2012/m06/&tI=03:04:31:835&drc=00:03:53:428"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-08",
+                "pubLeg": "XII",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/118/2012-06-08/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs) e altera o Decreto-Lei n.º 271/2009, de 1 de outubro; Estabelece o regime de acesso e exercício da atividade de treinador de desporto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120606pln&url=l12/sl1/a2012/m06/&tI=03:08:34:219&drc=00:04:21:766"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-08",
+                "pubLeg": "XII",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/118/2012-06-08/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs) e altera o Decreto-Lei n.º 271/2009, de 1 de outubro; Estabelece o regime de acesso e exercício da atividade de treinador de desporto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2641",
+                "nome": "Paulo Cavaleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120606pln&url=l12/sl1/a2012/m06/&tI=03:13:03:110&drc=00:03:13:070"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-08",
+                "pubLeg": "XII",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/118/2012-06-08/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs) e altera o Decreto-Lei n.º 271/2009, de 1 de outubro; Estabelece o regime de acesso e exercício da atividade de treinador de desporto.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284478",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "593476",
+        "obs": null,
+        "pag": [
+          "54-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-08",
+        "pubLeg": "XII",
+        "pubNr": "118",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/118/2012-06-08/54?pgs=54-60&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
