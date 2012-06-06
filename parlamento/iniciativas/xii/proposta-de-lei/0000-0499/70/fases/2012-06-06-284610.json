@@ -1,0 +1,243 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "70",
+    "id": "37049",
+    "titulo": "Aprova o Estatuto do Aluno e Ética Escolar, que estabelece os direitos e os deveres do aluno dos ensinos básico e secundário e o compromisso dos pais ou encarregados de educação e dos restantes membros da comunidade educativa na sua educação e formação."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "29017",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-06-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-06-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Amnistia Internacional Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d59774d6a63334e6a63745a6a51784e4330305a6d517a4c574a6b4f4467744f5759774e44686d4e6a46684e54517a4c6e426b5a673d3d&fich=ff027767-f414-4fd3-bd88-9f048f61a543.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Assoc Pais e Enc Educação ES Prof.José Augusto Lucas,Linda a Velha",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5468685a6d4d794e446b744e3245784d693030595455314c5745314d7a55744f444e6a4e7a49314e475a684e54526b4c6e426b5a673d3d&fich=e8afc249-7a12-4a55-a535-83c7254fa54d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "11- Parecer da ALRM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a4d7a5a444d7a5a6a45745a6a646d597930304d474e6d4c546b354e5445745a5467784e6a49304f4467354d5755304c6e426b5a673d3d&fich=333d33f1-f7fc-40cf-9951-e816248891e4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 8ª CECC e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d49344d5751304d6d49744f54453359793030595751794c574a6a5a6a63744e6a497a5a445a685a444a694d6d51344c6e426b5a673d3d&fich=bb81d42b-917c-4ad2-bcf7-623d6ad2b2d8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Câmara Municipal de Évora",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324977596a68695a5455744e44686a4d4330304f4449314c546b34597a55744e7a41774d474e6b4f4745314e54566c4c6e426b5a673d3d&fich=3b0b8be5-48c0-4825-98c5-7000cd8a555e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Câmara Municipal de Odivelas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a6c6c4e5756684e6d45744e5467354d4330304d474a6c4c5749345a4749744e6a45774e475668595467775a4445784c6e426b5a673d3d&fich=69e5ea6a-5890-40be-b8db-6104eaa80d11.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão Nacional de Proteção de Crianças e Jovens em Risco -CNPCJR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54497a4d546c684d5445744d6a4a6a4e6930304e544d774c57466a4d7a59745954686c4e32566d5a475a694e54686d4c6e426b5a673d3d&fich=52319a11-22c6-4530-ac36-a8e7efdfb58f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão Nacional de Protecção de Dados -CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544d31596d4a6c5a6a6b744d4463354d5330304d6a6b314c5745334e474d745a5451784e4467784d5467794e4449794c6e426b5a673d3d&fich=535bbef9-0791-4295-a74c-e41481182422.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Escola Secundária Manuel Teixeira Gomes - Portimão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d545577596d5532597a59744e44466d597930304d475a684c574a6b5a544974595449315a574d78596d56684d32557a4c6e426b5a673d3d&fich=150be6c6-41fc-40fa-bde2-a25ec1bea3e3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Federação Nacional da Educação -FNE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e44686a4e574a6a596d45744e4759315a5330304e4441354c546c684e3249744f4468684d6a59784f4463774e444e6b4c6e426b5a673d3d&fich=48c5bcba-4f5e-4409-9a7b-88a26187043d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FENPROF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a67324f47566a4f4755745a4451345a5330304e7a426a4c57466d59546b744d446335597a6c6d4e4452684e7a42684c6e426b5a673d3d&fich=6868ec8e-d48e-470c-afa9-079c9f44a70a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer de António José Fialho, Juiz do Tribunal de Família e Menores do Barreiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54417a4e4467315a6a55744d6a63314d793030596a67344c5468694d5749744d6d55345a574e694e7a49335a6a646d4c6e426b5a673d3d&fich=e03485f5-2753-4b88-8b1b-2e8ecb727f7f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Agrupamento de Escolas Linda-a-Velha-Queijas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659545a6d4d7a49314f5467744f446c68595330304d6a4d344c5745794d6a59744e546735597a686c4e5463794d6a677a4c6e426b5a673d3d&fich=a6f32598-89aa-4238-a226-589c8e572283.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato Independente de Professores e Educadores - SIPE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a57526b4d444e694d4451744e6d5a6b597930304d6a637a4c574a69596d51744f544e6a597a6b345a446868595755324c6e426b5a673d3d&fich=edd03b04-6fdc-4273-bbbd-93cc98d8aae6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato Independente de Professores e Educadores - SIPE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4468684e575579595455745954426959693030595451774c546c6c597a4d744f5749344e6a4e6d4f4459344e5749784c6e426b5a673d3d&fich=88a5e2a5-a0bb-4a40-9ec3-9b863f8685b1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3517",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "Numero": "3517",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "62-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-07",
+            "pubLeg": "XII",
+            "pubNr": "207",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/207/2012-07-07/62?pgs=62-75&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "62-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-07",
+            "pubLeg": "XII",
+            "pubNr": "207",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/207/2012-07-07/62?pgs=62-75&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4361",
+            "motivoCessacao": null,
+            "nome": "Maria Ester Vargas"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-07-04",
+            "dataRemessa": "2012-07-04",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2012-07-04",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "61185",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "119",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-06-06",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284610",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
