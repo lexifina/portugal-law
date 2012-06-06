@@ -1,0 +1,9 @@
+Aviso n.º 54/2012
+Por ordem superior se torna público que, por notificação de 3 de fevereiro de 2012, o Secretário-Geral das Nações Unidas notificou ter o Grão-Ducado do Luxemburgo, em 26 de janeiro de 2012, realizado uma declaração nos termos da alínea a) do n.º 1 do artigo 87.º e nos termos das alíneas a) e b) do n.º 1 do artigo 103.º (1) do Estatuto de Roma do Tribunal Penal Internacional, adotado em Roma em 17 de julho de 1998.
+Declaração (tradução) (Original: francês)
+1) De acordo com o n.º 1 do artigo 87.º do Estatuto de Roma, o Luxemburgo designa o Procurador-Geral do Estado como autoridade central em consonância com o artigo 87.º do Estatuto.
+2) De acordo com as alíneas a) e b) do n.º 1 do artigo 103.º do Estatuto, o Luxemburgo declara que estaria disposto a aceitar pessoas que são nacionais ou residentes permanentes no Luxemburgo condenados pelo Tribunal, desde que a pena imposta pelo Tribunal seja aplicada nos termos da legislação luxemburguesa relativa à execução das penas privativas de liberdade.
+A República Portuguesa é Parte no mesmo Estatuto, o qual foi aprovado pela Resolução da Assembleia da República n.º 3/2002 e ratificado pelo Decreto do Presidente da República n.º 2/2002, ambos publicados no Diário da República, 1.ª série-A, n.º 15, de 18 de janeiro de 2002.
+O instrumento de ratificação foi depositado em 5 de fevereiro de 2002, de acordo com o Aviso n.º 37/2002, publicado no Diário da República, 1.ª série-A, n.º 107, de 9 de maio de 2002, estando o Estatuto em vigor para a República Portuguesa desde 1 de julho de 2002, de acordo com o publicado no Diário da República, 1.ª série-A, n.º 190, de 3 de outubro de 2005.
+(1) V. notificação depositária C. N. 848.2000. TREATIES-30 de 19 de setembro de 2000 (ratificação: Luxemburgo).
+Departamento de Assuntos Jurídicos, 23 de maio de 2012. - O Diretor, Miguel de Serpa Soares.
