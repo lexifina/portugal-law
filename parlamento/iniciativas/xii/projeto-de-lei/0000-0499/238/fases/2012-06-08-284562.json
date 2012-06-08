@@ -1,0 +1,218 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "238",
+    "id": "37016",
+    "titulo": "Cria salvaguardas para os mutuários de crédito à habitação, procedendo à 10ª alteração ao Decreto-Lei n.º 349/98, de 11 de novembro."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2012-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "29006",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-06-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-06-08",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Contratos de Crédito à Habitação",
+            "num": "1",
+            "orgId": "3570",
+            "publicacao": null,
+            "sigla": "GT-CCH"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2012-09-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do GP do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41354e6a4a6c4e575a6a4c54686c4f4749744e474a6b4d5331684e5449344c544d7a4f5468695954566c5a4746695a6935775a47593d&fich=0962e5fc-8e8b-4bd1-a528-3398ba5edabf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259794e6d45324e545a6d4c5467774e4759744e4445314e5330345a4459314c5751345a4751324f475668597a4534596935775a47593d&fich=f26a656f-804f-4155-8d65-d8dd68eac18b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP do PS entregues no decorrer das votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686d4e54646a4f5449304c54686b4f5749744e44497a4e4330345a4459344c575a6d597a646c4d4467354e54646d596935775a47593d&fich=8f57c924-8d9b-4234-8d68-ffc7e08957fb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração dos GPs do PSD e CDS-PP (conjuntas)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d314d47566d5a6a6c6b4c574d325a6a67744e44466c596930354d3259774c5746694d6d45784d574d784f5751304f5335775a47593d&fich=c50eff9d-c6f8-41eb-93f0-ab2a11c19d49.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração dos GPs do PSD e CDS-PP (conjuntas) entregues no decorrer das votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245345a5445784e6d466b4c5459784e5749744e47566d4e5331684e6d497a4c54526c59544a6b4e57457a4d6a686a4d5335775a47593d&fich=a8e116ad-615b-4ef5-a6b3-4ea2d5a328c1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração e de Aditamento do GP do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255794d474d325a4759784c54686a4d3245744e4745794e7931684d4459344c5745314d4445334e474e694e7a426a5a4335775a47593d&fich=e20c6df1-8c3a-4a27-a068-a50174cb70cd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-30",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Prorrogação do prazo para nova apreciação na generalidade + 51 dias, até 12-09-2012",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466a596d4d77595745334c544a6b4f5755744e44466c4e533169596d59304c5445344e575a6c4e54517859544d784d4335775a47593d&fich=acbc0aa7-2d9e-41e5-bbf4-185fe541a310.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-06-28",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo - DL 349/98, de 11/11 - PJL 224 (PS) - PJL 238 (PSD) - PJL 242 (PEV) - PJL 245 (CDS-PP) - PJL 248 (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245785a6a637859546c6b4c5451344e4755744e47566b597931684d6a426c4c5449304d6d52694d57497a5a5449314e7935775a47593d&fich=a1f71a9d-484e-4edc-a20e-242db1b3e257.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-21",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade na 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59334e7a6b324e6a526d4c544e694d5751744e4755304e7931694d57566d4c574d334f5467304e474e6d4d474d774d6935775a47593d&fich=6779664f-3b1d-4e47-b1ef-c79844cf0c02.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-20",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d4f546c6c5a5445794c5455774f5759744e44566959533168595463324c5445345957566d4f4459305a4451304e4335775a47593d&fich=bf99ee12-509f-45ba-aa76-18aef864d444.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "1",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e proposta de alteração",
+            "pag": [
+              "102-133"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-20",
+            "pubLeg": "XII",
+            "pubNr": "2",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/002/2012-09-20/102?pgs=102-133&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e proposta de alteração",
+            "pag": [
+              "102-133"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-20",
+            "pubLeg": "XII",
+            "pubNr": "2",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/002/2012-09-20/102?pgs=102-133&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-09-21",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-09-21",
+            "dataRemessa": "2012-09-20",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-09-18",
+            "descricao": "Texto Final votado Artigo a Artigo",
+            "detalhe": null,
+            "id": "61626",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "98",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-06-08",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284562",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
