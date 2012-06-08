@@ -1,0 +1,257 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "61",
+    "id": "37003",
+    "titulo": "Altera o Estatuto do Ensino Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 553/80, de 21 de novembro."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "28998",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2012-07-03",
+            "id": "93163",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-06-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-06-08",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "12- Câmara Municipal de Alenquer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4451334e3252685a6d4d744d6a6b784e4330305a4755774c546c6c595449744d474a6d4e4755314e445932596a59774c6e426b5a673d3d&fich=4477dafc-2914-4de0-9ea2-0bf4e5466b60.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Agrupamento Vertical de Escolas de Paços de Ferreira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d4a6a4f5467344d5759744e47526c4d6930304e6d51794c57457759546b744e44417a4e7a5a6c4e474d35593255334c6e426b5a673d3d&fich=6bc9881f-4de2-46d2-a0a9-40376e4c9ce7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Associação de Estabelecimentos de Ensino Particular e Cooperativo -AEEP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a5931597a6c6c4d7a45744d5759305a6930304e5463354c57457a4f5463744d3245314f5446684d6a6333596a4a684c6e426b5a673d3d&fich=365c9e31-1f4f-4579-a397-3a591a277b2a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Aurora Vieira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a63774d5463344e5455744d47557a595330304d5456694c5745304e474d744d4756694d5751355a6a4e6a5954466c4c6e426b5a673d3d&fich=77017855-0e3a-415b-a44c-0eb1d9f3ca1e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Câmara Municipal de Beja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a49304f444e6a596a59744e7a4a694d4330304d5759784c54686c4d6a59744d6a67795954686c4e7a426a4e6d45314c6e426b5a673d3d&fich=b2483cb6-72b0-41f1-8e26-282a8e70c6a5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Câmara Municipal de Vila Real de Santo António",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5455774d5759304d3251744d5759344d7930305a6a4e6d4c5749354e324d745a474a6a4d444a694e4749785a474d774c6e426b5a673d3d&fich=1501f43d-1f83-4f3f-b97c-dbc02b4b1dc0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Câmara Municipal de Viseu",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d453159546c6b4e4755745a475a6d4d5330304f5468694c574a684e4441744d7a5535595449354d3259304e7a426a4c6e426b5a673d3d&fich=2a5a9d4e-dff1-498b-ba40-359a293f470c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Comissão Nacional de Protecção de Dados -CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d54597a4d6d4e6a4e4445745a6d597a4d5330304d574d794c5467354d6d45744d4745324e546b304d6d51355a4449314c6c424552673d3d&fich=1632cc41-ff31-41c2-892a-0a65942d9d25.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Direção Regional de Educação do Algarve",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593255794d324d345a474d744e3256684f4330304d6a6b354c574a69595745744d5459304f545a6a4e4467354d7a6c6c4c6e426b5a673d3d&fich=ce23c8dc-7ea8-4299-bbaa-16496c48939e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Discussão e votação na especialidade, em 03 de julho de 2012 - Gravação áudio",
+            "URL": "http://media.parlamento.pt/www/xiileg/1sl/com/08-cecc/cecc_20120704_4b.mp3"
+          },
+          {
+            "DataDocumento": "2012-07-04",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Discussão e votação na especialidade, em 04 de julho de 2012 (continuação) - Gravação áudio",
+            "URL": "http://media.parlamento.pt/www/XIILEG/1SL/COM/08-CECC/CECC_20120704_2b.mp3"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Escola Secundária de Pombal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a677a4e324d344e474974595451775a4330305a57466a4c5467344f5441745a545978596a67354e575a6a5a6a646c4c6e426b5a673d3d&fich=7837c84b-a40d-4eac-8890-e61b895fcf7e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Estêvão Lopes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a59775a57466a4f54637459546b32595330304d5445344c546b784f5445745a6d51324e54646a4d6d4a6b595441774c6e426b5a673d3d&fich=c60eac97-a96a-4118-9191-fd657c2bda00.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Federação Nacional da Educação - FNE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4d314d7a6b794e5455745a546b7a4e6930305a4759304c546b31596a63744f4445315a446b775a6a59344d4456694c6e426b5a673d3d&fich=c3539255-e936-4df4-95b7-815d90f6805b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Grupo Lusófona",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5446684d6a5a6d4d6a63744d7a67334d4330304e544d794c5749774d7a55744d6d5a694d5441795a6d4d355a474a684c6e426b5a673d3d&fich=91a26f27-3870-4532-b035-2fb102fc9dba.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Sindicato dos inspetores da Educação e do Ensino",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a4d344f4749304d445574595451325a6930304d574d784c574a6c597a6b744d4449774e6d46684d546730596a466b4c6e426b5a673d3d&fich=f388b405-a46f-41c1-bec9-0206aa184b1d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-05",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final, Relatório de Votações na Especialidade e Propostas de Alteração do PS, do PCP e do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54426b595759795a6d5574593249324d5330304f5467774c546b774d6d5974597a4e6d4d6a6b785a6a6c6a5a546c684c6e426b5a673d3d&fich=e0daf2fe-cb61-4980-902f-c3f291f9ce9a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3517",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "Numero": "3517",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão na especialidade, texto final e anexo, contendo propostas de alteração apresentadas pelo PS, PCP e BE",
+            "pag": [
+              "7-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-05",
+            "pubLeg": "XII",
+            "pubNr": "205",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/205/2012-07-05/7?pgs=7-24&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão na especialidade, texto final e anexo, contendo propostas de alteração apresentadas pelo PS, PCP e BE",
+            "pag": [
+              "7-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-05",
+            "pubLeg": "XII",
+            "pubNr": "205",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/205/2012-07-05/7?pgs=7-24&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-07-04",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-07-04",
+            "dataRemessa": "2012-07-05",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-07-04",
+            "descricao": "Texto Final votado artigo a artigo",
+            "detalhe": null,
+            "id": "61198",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "119",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-06-08",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284538",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
