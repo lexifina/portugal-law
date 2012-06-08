@@ -1,0 +1,489 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "286",
+    "id": "36905",
+    "titulo": "Recomenda ao Governo que isente do pagamento de taxas os particulares, grupos ou associações que pretendem realizar atividades desportivas nos parques nacionais."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8827",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-06-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36945",
+        "leg": "XII",
+        "nr": "305",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1657",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-09",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1657",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-09",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proceda à revisão da Portaria n.º 138-A/2010, de 4 de Março, como disposto no seu artigo 10º, tendo por base os elementos resultantes da experiência da sua aplicação, introduzindo as alterações que se mostrem necessárias, entre as quais, a discriminação positiva da aplicação das taxas, decorrentes de pedido de declarações, pareceres, informações ou autorizações, relacionadas com as actividades do sector primário."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36983",
+        "leg": "XII",
+        "nr": "326",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1657",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-09",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1657",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-09",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que avalie a adequação das medidas restritivas no acesso à prática desportiva e desenvolvimento da atividade agrícola em áreas protegidas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-06-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1048",
+                "nome": "Altino Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120608pln&url=l12/sl1/a2012/m06/&tI=01:34:15:780&drc=00:04:41:762"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184906",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-09",
+                "pubLeg": "XII",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09?org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que proceda à revisão da Portaria n.º 138-A/2010, de 4 de Março, como disposto no seu artigo 10º, tendo por base os elementos resultantes da experiência da sua aplicação, introduzindo as alterações que se mostrem necessárias, entre as quais, a discriminação positiva da aplicação das taxas, decorrentes de pedido de declarações, pareceres, informações ou autorizações, relacionadas com as actividades do sector primário; Recomenda ao Governo que isente do pagamento de taxas os particulares, grupos ou associações que pretendem realizar atividades desportivas nos parques nacionais; Recomenda ao Governo que avalie a adequação das medidas restritivas no acesso à prática desportiva e desenvolvimento da atividade agrícola em áreas protegidas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120608pln&url=l12/sl1/a2012/m06/&tI=01:39:11:917&drc=00:03:23:357"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-09",
+                "pubLeg": "XII",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que proceda à revisão da Portaria n.º 138-A/2010, de 4 de Março, como disposto no seu artigo 10º, tendo por base os elementos resultantes da experiência da sua aplicação, introduzindo as alterações que se mostrem necessárias, entre as quais, a discriminação positiva da aplicação das taxas, decorrentes de pedido de declarações, pareceres, informações ou autorizações, relacionadas com as actividades do sector primário; Recomenda ao Governo que isente do pagamento de taxas os particulares, grupos ou associações que pretendem realizar atividades desportivas nos parques nacionais; Recomenda ao Governo que avalie a adequação das medidas restritivas no acesso à prática desportiva e desenvolvimento da atividade agrícola em áreas protegidas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2641",
+                "nome": "Paulo Cavaleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120608pln&url=l12/sl1/a2012/m06/&tI=01:42:40:151&drc=00:03:51:748"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184908",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-09",
+                "pubLeg": "XII",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que proceda à revisão da Portaria n.º 138-A/2010, de 4 de Março, como disposto no seu artigo 10º, tendo por base os elementos resultantes da experiência da sua aplicação, introduzindo as alterações que se mostrem necessárias, entre as quais, a discriminação positiva da aplicação das taxas, decorrentes de pedido de declarações, pareceres, informações ou autorizações, relacionadas com as actividades do sector primário; Recomenda ao Governo que isente do pagamento de taxas os particulares, grupos ou associações que pretendem realizar atividades desportivas nos parques nacionais; Recomenda ao Governo que avalie a adequação das medidas restritivas no acesso à prática desportiva e desenvolvimento da atividade agrícola em áreas protegidas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1512",
+                "nome": "Mota Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120608pln&url=l12/sl1/a2012/m06/&tI=01:46:33:902&drc=00:03:45:287"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-09",
+                "pubLeg": "XII",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que proceda à revisão da Portaria n.º 138-A/2010, de 4 de Março, como disposto no seu artigo 10º, tendo por base os elementos resultantes da experiência da sua aplicação, introduzindo as alterações que se mostrem necessárias, entre as quais, a discriminação positiva da aplicação das taxas, decorrentes de pedido de declarações, pareceres, informações ou autorizações, relacionadas com as actividades do sector primário; Recomenda ao Governo que isente do pagamento de taxas os particulares, grupos ou associações que pretendem realizar atividades desportivas nos parques nacionais; Recomenda ao Governo que avalie a adequação das medidas restritivas no acesso à prática desportiva e desenvolvimento da atividade agrícola em áreas protegidas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120608pln&url=l12/sl1/a2012/m06/&tI=01:50:23:691&drc=00:03:12:577"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-09",
+                "pubLeg": "XII",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que proceda à revisão da Portaria n.º 138-A/2010, de 4 de Março, como disposto no seu artigo 10º, tendo por base os elementos resultantes da experiência da sua aplicação, introduzindo as alterações que se mostrem necessárias, entre as quais, a discriminação positiva da aplicação das taxas, decorrentes de pedido de declarações, pareceres, informações ou autorizações, relacionadas com as actividades do sector primário; Recomenda ao Governo que isente do pagamento de taxas os particulares, grupos ou associações que pretendem realizar atividades desportivas nos parques nacionais; Recomenda ao Governo que avalie a adequação das medidas restritivas no acesso à prática desportiva e desenvolvimento da atividade agrícola em áreas protegidas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:09",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120608pln&url=l12/sl1/a2012/m06/&tI=01:53:39:642&drc=00:03:56:565"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "184911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-09",
+                "pubLeg": "XII",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que proceda à revisão da Portaria n.º 138-A/2010, de 4 de Março, como disposto no seu artigo 10º, tendo por base os elementos resultantes da experiência da sua aplicação, introduzindo as alterações que se mostrem necessárias, entre as quais, a discriminação positiva da aplicação das taxas, decorrentes de pedido de declarações, pareceres, informações ou autorizações, relacionadas com as actividades do sector primário; Recomenda ao Governo que isente do pagamento de taxas os particulares, grupos ou associações que pretendem realizar atividades desportivas nos parques nacionais; Recomenda ao Governo que avalie a adequação das medidas restritivas no acesso à prática desportiva e desenvolvimento da atividade agrícola em áreas protegidas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284661",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "594059",
+        "obs": null,
+        "pag": [
+          "28-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-09",
+        "pubLeg": "XII",
+        "pubNr": "119",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/119/2012-06-09/28?pgs=28-34&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
