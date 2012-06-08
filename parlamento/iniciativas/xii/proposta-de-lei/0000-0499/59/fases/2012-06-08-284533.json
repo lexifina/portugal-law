@@ -1,0 +1,179 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "59",
+    "id": "37001",
+    "titulo": "Aprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs) e altera o Decreto-Lei n.º 271/2009, de 1 de outubro."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "28995",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2012-06-29",
+            "id": "93161",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-06-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-06-08",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-07-02",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos recebidos em relação a esta iniciativa",
+            "URL": "http://www.parlamento.pt/sites/com/xiileg/8cecc/paginas/contributosiniciativasii.aspx?id_ini=43"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Discussão e votação na especialidade, em 03 de julho de 2012 - Gravação áudio",
+            "URL": "http://media.parlamento.pt/www/xiileg/1SL/COM/08-CECC/CECCC_GT_D/CECC_GT_D_20120703.mp3"
+          },
+          {
+            "DataDocumento": "2012-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Universidade de Coimbra",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e474d334e7a6c6c5a5755744e4755314f4330304e5449324c5468684e3245745a5451784f5468685a546469597a51354c6e426b5a673d3d&fich=4c779eee-4e58-4526-8a7a-e4198ae7bc49.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-04",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final, Relatório de Votações na Especialidade e Propostas de Alteração do PSD e CDS-PP (conjuntas) e do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659574534596a55794f5441744e544d304e7930304d7a6b334c546c6d4d7a4d744e7a4d794e6d4a6a4d4449784e6a67354c6e426b5a673d3d&fich=aa8b5290-5347-4397-9f33-7326bc021689.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3517",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "Numero": "3517",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "32-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-06",
+            "pubLeg": "XII",
+            "pubNr": "206",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/206/2012-07-06/32?pgs=32-47&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "32-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-06",
+            "pubLeg": "XII",
+            "pubNr": "206",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/206/2012-07-06/32?pgs=32-47&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-07-04",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-07-04",
+            "dataRemessa": "2012-07-04",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-07-04",
+            "descricao": "Texto Final votado Artigo a Artigo - Ausências do BE e PEV",
+            "detalhe": null,
+            "id": "61193",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "120",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-06-08",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284533",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
