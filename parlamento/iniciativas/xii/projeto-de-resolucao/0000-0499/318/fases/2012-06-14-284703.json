@@ -1,0 +1,491 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "318",
+    "id": "36966",
+    "titulo": "Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-06-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8829",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-06-14",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37013",
+        "leg": "XII",
+        "nr": "343",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1651",
+            "obs": null,
+            "pag": [
+              "40-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/40?pgs=40-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1651",
+            "obs": null,
+            "pag": [
+              "40-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/40?pgs=40-47&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37017",
+        "leg": "XII",
+        "nr": "347",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1651",
+            "obs": null,
+            "pag": [
+              "40-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/40?pgs=40-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1651",
+            "obs": null,
+            "pag": [
+              "40-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/40?pgs=40-47&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-06-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=02:28:30:831&drc=00:04:22:832"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia; Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária; Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=02:32:58:678&drc=00:05:23:665"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/41?pgs=41-43&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia; Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária; Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=02:38:23:782&drc=00:04:13:730"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia; Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária; Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=02:42:39:877&drc=00:04:32:536"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia; Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária; Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=02:47:16:815&drc=00:03:29:421"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia; Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária; Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3990",
+                "nome": "Pedro Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=02:50:52:232&drc=00:04:00:086"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia; Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária; Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284703",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "593700",
+        "obs": null,
+        "pag": [
+          "40-47"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-15",
+        "pubLeg": "XII",
+        "pubNr": "120",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/40?pgs=40-47&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
