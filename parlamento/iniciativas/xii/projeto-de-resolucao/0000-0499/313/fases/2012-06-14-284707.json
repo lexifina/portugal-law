@@ -1,0 +1,620 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "313",
+    "id": "36962",
+    "titulo": "Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-06-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8833",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-06-14",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36963",
+        "leg": "XII",
+        "nr": "227",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "36961",
+        "leg": "XII",
+        "nr": "314",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37014",
+        "leg": "XII",
+        "nr": "342",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1652",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-15",
+            "pubLeg": "XII",
+            "pubNr": "120",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Elaboração de um Relatório anual sobre abandono escolar e empréstimos bancários no Ensino Superior."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-06-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=02:56:38:302&drc=00:03:34:643"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:12:25:835&drc=00:03:12:937"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48",
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-48,52-53&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior; Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior; Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior; Elaboração de um Relatório anual sobre abandono escolar e empréstimos bancários no Ensino Superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:00:14:774&drc=00:02:51:343"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:15:44:041&drc=00:02:35:515"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49",
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/48?pgs=48-49,53-54&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior; Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior; Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior; Elaboração de um Relatório anual sobre abandono escolar e empréstimos bancários no Ensino Superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:03:10:897&drc=00:03:34:613"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior; Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior; Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior; Elaboração de um Relatório anual sobre abandono escolar e empréstimos bancários no Ensino Superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:07:04:499&drc=00:02:30:468"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:19:55:036&drc=00:02:09:282"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/51?pgs=51,55-56&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior; Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior; Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior; Elaboração de um Relatório anual sobre abandono escolar e empréstimos bancários no Ensino Superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4170",
+                "nome": "Duarte Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:09:37:811&drc=00:02:36:818"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:18:31:743&drc=00:01:15:380"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52",
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/51?pgs=51-52,54-55&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior; Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior; Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior; Elaboração de um Relatório anual sobre abandono escolar e empréstimos bancários no Ensino Superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4170",
+                "nome": "Duarte Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "19:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120614pln&url=l12/sl1/a2012/m06/&tI=03:22:05:115&drc=00:00:33:237"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-15",
+                "pubLeg": "XII",
+                "pubNr": "120",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/56?pgs=56&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior; Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior; Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior; Elaboração de um Relatório anual sobre abandono escolar e empréstimos bancários no Ensino Superior.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284707",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "593709",
+        "obs": null,
+        "pag": [
+          "47-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-15",
+        "pubLeg": "XII",
+        "pubNr": "120",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/120/2012-06-15/47?pgs=47-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
