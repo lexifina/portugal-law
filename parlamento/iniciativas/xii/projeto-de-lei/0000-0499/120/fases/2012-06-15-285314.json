@@ -1,0 +1,464 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "120",
+    "id": "36624",
+    "titulo": "Reorganização Administrativa de Lisboa."
+  },
+  "fase": "Requerimento a solicitar votação",
+  "codigo_fase": "247",
+  "data_registo": "2012-06-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8904",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "247",
+    "Comissao": null,
+    "DataFase": "2012-06-15",
+    "EvtId": "139",
+    "Fase": "Requerimento a solicitar votação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-06-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:05:12:563&drc=00:04:22:787"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:19:24:592&drc=00:01:49:238"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:30:18:209&drc=00:00:03:790"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-16",
+                "pubLeg": "XII",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16/31?pgs=31-32,37&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:09:44:080&drc=00:01:15:920"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:24:11:718&drc=00:00:43:207"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32",
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-16",
+                "pubLeg": "XII",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16/32?pgs=32,35&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2006",
+                "nome": "Assunção Esteves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:11:00:949&drc=00:07:13:812"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:18:43:554&drc=00:00:40:445"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:22:57:426&drc=00:01:14:292"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:29:08:261&drc=00:01:09:657"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:30:22:371&drc=00:00:08:629"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:30:47:467&drc=00:00:12:301"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-16",
+                "pubLeg": "XII",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16/32?pgs=32-37&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2264",
+                "nome": "Pedro Farmhouse"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:18:14:761&drc=00:00:26:238"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-16",
+                "pubLeg": "XII",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:21:22:026&drc=00:01:34:974"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-16",
+                "pubLeg": "XII",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:25:09:557&drc=00:02:51:063"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:30:31:356&drc=00:00:16:111"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-16",
+                "pubLeg": "XII",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16/35?pgs=35-37&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120615pln&url=l12/sl1/a2012/m06/&tI=02:28:07:889&drc=00:01:00:229"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-06-16",
+                "pubLeg": "XII",
+                "pubNr": "121",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Reorganização Administrativa de Lisboa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285314",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8904",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-16",
+        "pubLeg": "XII",
+        "pubNr": "121",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/121/2012-06-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
