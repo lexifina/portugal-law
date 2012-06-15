@@ -1,0 +1,4 @@
+Aviso n.º 64/2012
+Por ordem superior se torna público que, em 19 de dezembro de 2011 e em 16 de abril de 2012, foram emitidas notas, respetivamente pela Embaixada do Reino de Marrocos em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo de Cooperação em Matéria Consular entre a República Portuguesa e o Reino de Marrocos, assinado em Marraquexe, a 2 de junho de 2010.
+O referido Acordo foi aprovado pelo Decreto n.º 20/2011, de 16 de dezembro, publicado no Diário da República, 1.ª série, n.º 240, de 16 de dezembro de 2011, entrando em vigor a 16 de maio de 2012, na sequência das notificações a que se refere o seu artigo 12.º
+Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 1 de junho de 2012. - O Diretor-Geral, José Manuel dos Santos Braga.
