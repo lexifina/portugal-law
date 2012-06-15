@@ -1,0 +1,7 @@
+Aviso n.º 8187/2012
+João Agostinho Pinto Pereira, presidente da Câmara Municipal de Albergaria-a-Velha, torna público, nos termos do disposto no n.º 3 e no n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, com as alterações dadas pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, e em cumprimento da deliberação da Câmara Municipal, tomada em reunião ordinária pública de 6 de junho de 2012, estabelecer a abertura de um período de participação pública, de 30 dias, que começará a contar a partir do dia a seguir à publicação deste aviso no Diário da República, no âmbito da 2.ª Alteração do Plano Diretor Municipal de Albergaria-a-Velha.
+Os elementos que fundamentam e justificam este procedimento da 2.ª Alteração do PDM, bem como a Ata da Reunião de Conferência de Serviços e os Pareceres das entidades envolvidas, encontram-se disponíveis para consulta na DPGUA - Divisão de Planeamento, Gestão Urbanística e Ambiente e na página da internet do Município (www.cm-albergaria.pt).
+Durante o período de discussão pública, os interessados poderão apresentar sugestões e informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento supracitado, mediante exposição dirigida ao Presidente da Câmara Municipal, devendo nesta constar a identificação e o endereço dos seus autores.
+E para constar e demais efeitos, se publica o presente aviso e se afixam editais de igual teor nos lugares públicos de costume.
+8 de junho de 2012. - O Presidente da Câmara, João Agostinho Pinto Pereira.
+206168259
