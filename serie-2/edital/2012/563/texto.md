@@ -1,0 +1,8 @@
+Edital n.º 563/2012
+Projeto de Regulamento e Normas de Participação e Exploração de Espaços no Evento Dias Medievais de Castro Marim
+Dr. José Fernandes Estevens, Presidente da Câmara Municipal de Castro Marim, torna público que, por deliberação da Câmara Municipal de Castro Marim tomada em reunião ordinária de 16 de maio de 2012, e para os feitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de dezembro e na sua atual redação, durante o período de 30 dias, a contar da data da publicação do presente edital no Diário da República, é submetido a apreciação pública o projeto de Regulamento e Normas de Participação e Exploração de Espaços no Evento Dias Medievais de Castro Marim.
+Os interessados poderão consultar o referido regulamento na Subunidade Orgânica Administrativa - Serviço de Expediente, todos os dias úteis e durante o horário normal de expediente, e ainda na página oficial do município em www.cm-castromarim.pt.
+As observações e eventuais sugestões deverão ser apresentadas, por escrito, na Subunidade Orgânica Administrativa - Serviço de Expediente, onde se encontra o referido regulamento para consulta, ou enviadas, por via postal, para a Câmara Municipal de Castro Marim, Rua Dr. José Alves Moreira, n.º 10 - 8950-138 Castro Marim, ou ainda por e-mail para expediente@cm-castromarim.pt, sendo dirigidas ao Sr. Presidente da Câmara Municipal de Castro Marim.
+Para constar e para os devidos efeitos legais, publica-se o presente edital e outros de igual teor, que vão ser afixados nos Paços do Município e demais lugares de estilo, bem como no sitio da internet www.cm-castromarim.pt.
+22 de maio de 2012. - O Presidente da Câmara, Dr. José Fernandes Estevens.
+306127929
