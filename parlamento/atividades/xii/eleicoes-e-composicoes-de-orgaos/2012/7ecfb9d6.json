@@ -1,0 +1,124 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2012-06-20",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição para a Unidade Técnica para a Reorganização Administrativa do Território",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2012-06-20",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efetivo",
+        "nome": "Manuel Carlos Lopes Porto"
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "Serafim Pedro Madeira Froufe"
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "Luís Filipe Fonseca Verde de Sousa"
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "Henrique Jorge Campos Cunha"
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "Manuel dos Reis Duarte"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Marina João da Fonseca Lopes Ferreira"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Miguel Luís Ferreira Soares"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Ana Isabel Pais Pacheco Valente"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Unidade Técnica para a Reorganização Administrativa do Território",
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "596243",
+        "obs": "Declaração n.º 7/2012",
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-06",
+        "pubLeg": "XII",
+        "pubNr": "130",
+        "pubSL": "1",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/130/2012/0/pt/html"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "17112",
+      "17113"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2012-06-20",
+        "descricao": null,
+        "detalhe": null,
+        "id": "61222",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "594840",
+            "obs": "Anúncio",
+            "pag": [
+              "3-3"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-06-23",
+            "pubLeg": "XII",
+            "pubNr": "124",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/124/2012-06-23/3?pgs=3&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "122",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
