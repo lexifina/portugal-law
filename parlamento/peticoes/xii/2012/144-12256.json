@@ -1,0 +1,194 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12256",
+  "numero": "144",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-06-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-07-17",
+            "dataResposta": "2012-09-27",
+            "entidades": [
+              "Ministro da Solidariedade e da Segurança Social"
+            ],
+            "nrOficio": "143/CSST/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-01",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Economia e do Emprego"
+            ],
+            "nrOficio": "177/CSST/2012",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2013-03-21",
+                "dataResposta": null,
+                "nrOficio": "56/CSST/2013",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-23",
+            "dataResposta": "2013-11-15",
+            "entidades": [
+              "Ministro da Solidariedade, Emprego e Segurança Social"
+            ],
+            "nrOficio": "135/CSST/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-12-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-07-10",
+        "DataArquivo": "2013-12-10",
+        "DataBaixaComissao": "2012-07-10",
+        "DataEnvioPAR": "2013-12-10",
+        "DataReaberta": "2012-07-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-07-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938314e6a67354f4451335a4330355a54566d4c54526a59545574596a45344f533077596a46695a444578597a4d32595755756347526d&fich=5689847d-9e5f-4ca5-b189-0b1bd11c36ae.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938774f4441304e5442684d43307a596d59774c5452684f544174596a526b4d5331685a544979597a566b4d32526d4d7a41756347526d&fich=080450a0-3bf0-4a90-b4d1-ae22c5d3df30.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396b596a6b31595452684d4331685a474a6b4c54517a4e7a55744f4449335a69307a4d5751344d4468684e5441324d474d7555455247&fich=db95a4a0-adbd-4375-827f-31d808a5060c.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-07-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627939694f44686c4d5755345a43316b4e7a6b784c5451304d544174596a45324f53316a5a47466d4e446b334d6a64695a5441756347526d&fich=b88e1e8d-d791-4410-b169-cdaf49727be0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938354e6a6c6b4e6a41314d693032597a4d304c5451784e6a4174596a52695a5330794e446777596a4e684e7a63354e7a4d756347526d&fich=969d6052-6c34-4160-b4be-2480b3a77973.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-12-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938314f574a6d5954646a4e6930314d6d4d304c545133596a59744f54526d5969316c59574a6d4e44677a4e7a646c4f4459756347526d&fich=59bfa7c6-52c4-47b6-94fb-eabf48377e86.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-09-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938795a6d4a6c4e5445784e7930304d544d344c54526a4d475574596d597a4f5331694d474d785a5755314d5755344f4441756347526d&fich=2fbe5117-4138-4c0e-bf39-b0c1ee51e880.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-11-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396c4d544e6d4f5751774e7930304e4749334c54517a4f5751744f5455314f4330325a444a684f4459785a474d324f47597555455247&fich=e13f9d07-44b7-439d-9558-6d2a861dc68f.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3519",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-07-10",
+            "gp": "PSD",
+            "id": "4213",
+            "motivoCessacao": null,
+            "nome": "Teresa Costa Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-06-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a466c4d545179595441354c544d31597a6b744e47566a4e7931694e44417a4c57566c596a41794d3251794f4455354f5335775a47593d&fich=1e142a09-35c9-4ec7-b403-eeb023d28599.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12256",
+    "PetAssunto": "Solicita a alteração da Portaria n.º 92/2011, de 28 de fevereiro, de forma a ampliar o âmbito do Programa de Estágios Profissionais.",
+    "PetDataEntrada": "2012-06-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12256",
+    "PetLeg": "XII",
+    "PetNr": "144",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
