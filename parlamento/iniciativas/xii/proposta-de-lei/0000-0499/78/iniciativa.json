@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "78",
+  "id": "37091",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-06-21",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a475531596a45774e32517459574d334f5330304e7a557a4c546b31596d55744d5751304f54466a4e6a63794f4751774c6e426b5a673d3d&fich=de5b107d-ac79-4753-95be-1d491c6728d0.pdf&Inline=true",
+        "anexoNome": "Parecer (33) da CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595751324f5745324d444d7459546c6d597930304d6a4a6c4c546732595467745a57526b4d5455354e7a46684d6d4a6d4c6e426b5a673d3d&fich=ad69a603-a9fc-422e-86a8-edd15971a2bf.pdf&Inline=true",
+        "anexoNome": "Parecer (34) da CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659324e6d4d6a6b795a5445744d3256684f5330304f5455784c57497a4d325574596d526a593255775a6a4d31595759774c6e426b5a673d3d&fich=ccf292e1-3ea9-4951-b33e-bdcce0f35af0.pdf&Inline=true",
+        "anexoNome": "Parecer da DGAE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765957557a4e3251354e3245744e6a466c597930304d7a55784c5749354d6d49744f474a694f47526a4d7a6c694e6a63774c6e426b5a673d3d&fich=ae37d97a-61ec-4351-b92b-8bb8dc39b670.pdf&Inline=true",
+        "anexoNome": "Informação da DGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a44646a4e6d59784f444d744e4755785a5330304d3259314c57457a5a5445744e5756694d7a5a6c4d6a4a694e5759344c6d527659773d3d&fich=d7c6f183-4e1e-43f5-a3e1-5eb36e22b5f8.doc&Inline=true",
+        "anexoNome": "Parecer da DGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e3251304f44426a4d7a6b744d5467344d533030597a59794c546b7a4e5463745a6a426a4d4464694d324d314f5745774c6e426b5a673d3d&fich=7d480c39-1881-4c62-9357-f0c07b3c59a0.pdf&Inline=true",
+        "anexoNome": "Comentários da APRITEL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a5932593246694e5755745a4441774f5330304d7a49354c5745784d44457459544979597a6c6c4e5459774d7a4a6d4c6e426b5a673d3d&fich=366cab5e-d009-4329-a101-a22c9e56032f.pdf&Inline=true",
+        "anexoNome": "Comentários da OPTIMUS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d574534593245314e4455744d474d324f533030595441314c5467304d4467744d3251774d6a59794d6a4268596d45774c6e426b5a673d3d&fich=1a8ca545-0c69-4a05-8408-3d026220aba0.pdf&Inline=true",
+        "anexoNome": "Comissão Europeia-Comunicado Imprensa"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d446c6c4e7a646b597a51744d324d774f5330305a444d354c574a6d4d6a63745a4749775932466b4e574d315a6a41774c6d527659773d3d&fich=09e77dc4-3c09-4d39-bf27-db0cad5c5f00.doc&Inline=true",
+        "anexoNome": "Parecer da UGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a6868596d55355a6a4d744d6a6468595330304f546b304c5745354d5445745a545133595467355a575a6b5a444d774c6e426b5a673d3d&fich=f8abe9f3-27aa-4994-a911-e47a89efdd30.pdf&Inline=true",
+        "anexoNome": "Parecer da ACEPI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f44417a597a6377595451744e4751794e5330305a545a694c5749784e6d4d744d3255774e6a4d334e5456684d6a63324c6e426b5a673d3d&fich=803c70a4-4d25-4e6b-b16c-3e063755a276.pdf&Inline=true",
+        "anexoNome": "Parecer DECO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4441324e3249345a574d74596d45795a5330305a6d59314c5749335a4751745a4463774e54426d4d54426a5a6a457a4c6d527659773d3d&fich=4067b8ec-ba2e-4ff5-b7dd-d7050f10cf13.doc&Inline=true",
+        "anexoNome": "Parecer da APB"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5445785a6a5977595463744f446b305a6930304e54426c4c574530596d59745a6a5a6c4f5441334d6a45344f54426c4c6e426b5a673d3d&fich=e11f60a7-894f-450e-a4bf-f6e90721890e.pdf&Inline=true",
+        "anexoNome": "APRITEL(Anexo Proposta de Lei Comentada)"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37091",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f546c695a474a694e5759744d44417a4e6930304e6d51794c5749345a5455744e4459335a6a41794e324d35596d49784c6d527659773d3d&fich=99bdbb5f-0036-46d2-b8e5-467f027c9bb1.doc&Inline=true",
+    "IniNr": "78",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Transpõe a Diretiva n.º 2009/136/CE, na parte que altera a Diretiva n.º 2002/58/CE, do Parlamento Europeu e do Conselho, de 12 de julho, relativa ao tratamento de dados pessoais e à proteção da privacidade no setor das Comunicações Eletrónicas, procedendo à primeira alteração à Lei n.º 41/2004, de 18 de agosto, e à segunda alteração ao Decreto-Lei n.º 7/2004, de 7 de janeiro.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
