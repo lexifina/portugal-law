@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "162",
+    "id": "36746",
+    "titulo": "Combate o falso trabalho temporário e protege os trabalhadores temporários (terceira alteração à Lei n.º 7/2009, de 12 de fevereiro)"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2012-06-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2012-06-21",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284877",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "596949",
+        "obs": null,
+        "pag": [
+          "33-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-06-22",
+        "pubLeg": "XII",
+        "pubNr": "123",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/123/2012-06-22/33?pgs=33&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2012-06-21",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Pedro Nuno Santos (PS)</I>, <I> Sérgio Sousa Pinto (PS)</I>, <I> Rui Pedro Duarte (PS)</I>, <I> Isabel Alves Moreira (PS)</I>, <I> Miguel Coelho (PS)</I>, <I> Pedro Delgado Alves (PS)</I>, <I> João Galamba (PS)</I>, <I> Duarte Cordeiro (PS)</I>, <I> Ana Catarina Mendonça Mendes (PS)</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "61043",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "123",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
