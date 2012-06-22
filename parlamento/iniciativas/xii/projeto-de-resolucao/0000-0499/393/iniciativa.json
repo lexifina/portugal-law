@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "393",
+  "id": "37105",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-06-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "438",
+        "nome": "Carlos Zorrinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1700",
+        "nome": "Vitalino Canas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1867",
+        "nome": "Vieira da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2011",
+        "nome": "Pedro Silva Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4290",
+        "nome": "Maria Helena André"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "143",
+        "nome": "Alberto Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1740",
+        "nome": "Basílio Horta"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1264",
+        "nome": "Sérgio Sousa Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3930",
+        "nome": "Fernando Medina"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2250",
+        "nome": "Miguel Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4187",
+        "nome": "Pedro Jesus Marques"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "37105",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324d794d7a566a5a5755745a6d51355a4330304d7a55344c5467304f4449744e7a63324e6a45324f4449325a6a49314c6d527659773d3d&fich=3c235cee-fd9d-4358-8482-776616826f25.doc&Inline=true",
+    "IniNr": "393",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Orientações sobre política europeia a serem seguidas por Portugal, designadamente na próxima reunião do Conselho Europeu.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
