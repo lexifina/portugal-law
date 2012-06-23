@@ -2,7 +2,7 @@
 
 ### Disposição transitória sobre títulos de utilização
 
-1 - Os títulos de utilização emitidos ao abrigo da legislação anterior mantêm-se em vigor nos termos em que foram emitidos desde que os mesmos sejam levados ao conhecimento da respectiva ARH no prazo de um ano e sem prejuízo da sujeição dos seus titulares às obrigações decorrentes da presente lei e dos actos legislativos que os complementem.
+1 - Os títulos de utilização emitidos ao abrigo da legislação anterior mantêm-se em vigor nos termos em que foram emitidos, sem prejuízo da sujeição dos seus titulares às obrigações decorrentes da presente lei e dos atos legislativos que os complementem.
 
 2 - No caso de infra-estruturas hidráulicas tituladas por mera licença, podem os seus titulares requerer a sua conversão em concessão, sempre que à luz da presente lei devesse ser esta a modalidade a adoptar, mas a concessão assim atribuída não pode ter prazo superior ao necessário para concluir a amortização dos investimentos realizados ao abrigo do título.
 

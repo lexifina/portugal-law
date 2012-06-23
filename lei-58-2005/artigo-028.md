@@ -2,7 +2,7 @@
 
 ### Plano Nacional da Água
 
-1 - O Plano Nacional da Água é o instrumento de gestão das águas, de natureza estratégica, que estabelece as grandes opções da política nacional da água e os princípios e as regras de orientação dessa política, a aplicar pelos planos de gestão de bacias hidrográficas e por outros instrumentos de planeamento das águas.
+1 - O Plano Nacional da Água, enquanto documento estratégico e prospetivo, é o instrumento de gestão das águas que estabelece as grandes opções da política nacional da água e os princípios e as regras de orientação dessa política, a aplicar pelos planos de gestão de bacias hidrográficas e por outros instrumentos de planeamento das águas.
 
 2 - O Plano Nacional da Água é constituído por:
 
@@ -16,6 +16,28 @@ d) A síntese das medidas e acções a realizar para atingir os objectivos estab
 
 e) Um modelo de promoção, de acompanhamento e de avaliação da sua aplicação.
 
-3 - O Plano Nacional da Água é aprovado por decreto-lei, devendo o seu conteúdo ser também disponibilizado através do sítio electrónico da autoridade nacional da água.
+3 - O Plano Nacional da Água deve compreender as seguintes temáticas:
 
-4 - O Plano Nacional da Água deve ser revisto periodicamente, devendo a primeira revisão do actual Plano Nacional da Água ocorrer até final de 2010.
+a) Água e serviços dos ecossistemas;
+
+b) Água, energia e alterações climáticas;
+
+c) Água e agricultura;
+
+d) Água e florestas;
+
+e) Água e economia;
+
+f) Gestão de bacias hidrográficas partilhadas;
+
+g) Ciclo urbano da água;
+
+h) Valorização de rios e litoral;
+
+i) Gestão do risco;
+
+j) Conservação das espécies e habitats naturais.
+
+4 - O Plano Nacional da Água é aprovado por decreto-lei, devendo o seu conteúdo ser também disponibilizado através do sítio eletrónico da APA, I. P.
+
+5 - O Plano Nacional da Água deve ser revisto periodicamente, devendo a primeira revisão do actual Plano Nacional da Água ocorrer até final de 2010.
