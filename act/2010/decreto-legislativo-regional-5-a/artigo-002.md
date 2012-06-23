@@ -2,7 +2,7 @@
 
 ### Âmbito
 
-1 - São susceptíveis de apoio, no âmbito do PROENERGIA, projectos destinados essencialmente ao autoconsumo que envolvam:
+1 - São suscetíveis de apoio, no âmbito do PROENERGIA, projetos que envolvam:
 
 a) Investimentos na exploração de recursos energéticos renováveis para microprodução de energia eléctrica ou calorífica, utilizando recursos endógenos;
 

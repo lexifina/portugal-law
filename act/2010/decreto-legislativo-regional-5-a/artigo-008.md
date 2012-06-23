@@ -16,6 +16,8 @@ d) Quando o equipamento instalado seja um sistema solar térmico que garanta uma
 
 3 - No caso de os investimentos se realizarem nas ilhas de Santa Maria, São Jorge, Graciosa, Flores e Corvo, as taxas mencionadas no número anterior são acrescidas de 10 pontos percentuais, mantendo-se os limites máximos do incentivo ali fixados.
 
-4 - Nos casos em que os investimentos se realizem em zonas sem acesso directo à rede eléctrica regional e em que o custo do acesso seja igual ou superior a (euro) 12 000, as taxas mencionadas nos números anteriores serão de 50 %.
+4 - No caso de os investimentos se realizarem nas ilhas do Faial e do Pico, as taxas mencionadas no n.º 2 do presente artigo são acrescidas de 5 %, mantendo-se os limites máximos do incentivo ali fixados.
 
-5 - A fracção solar a que se refere o n.º 2 do presente artigo é determinada por metodologia fixada em nota técnica emitida pela entidade gestora do Sistema de Certificação Energética (SCE) dos Açores.
+5 - Nos casos em que os investimentos se realizem em zonas sem acesso direto à rede pública de transporte e distribuição de eletricidade ou em que o custo de interligação seja igual ou superior a (euro) 12 000 as taxas mencionadas nos números anteriores serão de 50 %.
+
+6 - A fração solar a que se refere o n.º 2 do presente artigo é determinada por metodologia fixada em nota técnica emitida pela entidade gestora do Sistema de Certificação Energética (SCE) dos Açores com base nas características técnicas dos equipamentos e da sua instalação, não podendo depender da existência de contratos de manutenção ou de outras formas de acompanhamento pela entidade instaladora.

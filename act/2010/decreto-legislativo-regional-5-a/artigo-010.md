@@ -4,22 +4,22 @@
 
 Compete ao organismo gestor:
 
-a) Recepcionar as candidaturas, verificando as condições de elegibilidade do promotor e do projecto;
+a) Receber e processar as candidaturas, verificando as condições de elegibilidade do promotor e do projeto, no prazo de 30 dias;
 
-b) Elaborar a proposta de decisão da candidatura no prazo máximo de 90 dias úteis contados a partir da data de verificação das condições de acesso do promotor e do projecto;
+b) Decidir e notificar o promotor do valor do incentivo a conceder, no prazo máximo de 30 dias úteis contados a partir da data de verificação das condições de elegibilidade do promotor e do projeto;
 
 c) Reapreciar a candidatura no prazo de 10 dias úteis, na eventualidade de o promotor apresentar alegações contrárias;
 
-d) Submeter ao membro do Governo Regional com competência em matéria de energia o projecto de decisão da candidatura;
+d) (Revogada.)
 
 e) Comunicar ao promotor a decisão final relativa ao pedido de concessão de incentivo;
 
-f) Preparar o contrato de concessão de incentivos;
+f) (Revogada.)
 
 g) Acompanhar globalmente os projectos, podendo efectuar o acompanhamento físico dos investimentos;
 
-h) Enviar para processamento os incentivos devidos;
+h) Enviar para processamento os incentivos devidos e publicitar a respetiva concessão;
 
-i) Propor a renegociação dos contratos;
+i) (Revogada.)
 
-j) Preparar as propostas de encerramento dos processos.
+j) Manter um registo público, no Portal do Governo Regional na Internet, dos processos aprovados e dos incentivos concedidos.
