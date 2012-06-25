@@ -1,0 +1,215 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "78",
+    "id": "37091",
+    "titulo": "Transpõe a Diretiva n.º 2009/136/CE, na parte que altera a Diretiva n.º 2002/58/CE, do Parlamento Europeu e do Conselho, de 12 de julho, relativa ao tratamento de dados pessoais e à proteção da privacidade no setor das Comunicações Eletrónicas, procedendo à primeira alteração à Lei n.º 41/2004, de 18 de agosto, e à segunda alteração ao Decreto-Lei n.º 7/2004, de 7 de janeiro."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-06-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "29142",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-06-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-07-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Nacional de Protecção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d6a686b5a54426a596931684d4749794c5451795a5745744f544e694d53316b4d6d55304e4463334d6a41355a5451756347526d&fich=728de0cb-a0b2-42ea-93b1-d2e4477209e4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d7a5a6a5a44517a5a6930334e5464694c54526a4d4445744f474d354e7931695a4745774e54566a4e544e6a4f5449756347526d&fich=e36cd43f-757b-4c01-8c97-bda055c53c92.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d44646b4d544177597930774d57526a4c545132596a59744f54557a4e4330344e324d794d4745324d4451784d7a63756347526d&fich=607d100c-01dc-46b6-9534-87c20a604137.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830595459785a6a56684d6930354d4759314c5451785a474d745957566b4d79316c4d7a526859544e6c4e5755304e6a59756347526d&fich=4a61f5a2-90f5-41dc-aed3-e34aa3e5e466.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e4449304d6d4977595330794e4755334c5451314d54677459574d795a53307a5a4759304d6a557a4d6d55325a544d756347526d&fich=24242b0a-24e7-4518-ac2e-3df42532e6e3.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-07-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-07-19"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2012-07-09"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-06-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-06-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-06-26"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2012-06-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "66-76"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2012-07-11",
+            "pubLeg": "XII",
+            "pubNr": "209",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/209S1/2012-07-11/66?pgs=66-76&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "66-76"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2012-07-11",
+            "pubLeg": "XII",
+            "pubNr": "209",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/209S1/2012-07-11/66?pgs=66-76&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4133",
+            "motivoCessacao": null,
+            "nome": "Isabel Oneto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2012-07-11",
+            "numeroOficio": "964/XII/1.ª",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-07-11",
+            "descricao": null,
+            "detalhe": null,
+            "id": "61304",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "85",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-06-25",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "284952",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
