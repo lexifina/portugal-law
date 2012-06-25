@@ -1,0 +1,4 @@
+Aviso n.º 8563/2012
+No uso das competências que se encontram previstas na alínea a), do n.º 6 do artigo 64.º, e, alínea a), do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de setembro, com a redação introduzida pela Lei n.º 5-A/2002, de 11 de janeiro, torna-se público, que o Projeto de Regulamento Municipal de "incentivo ao repovoamento agrário", publicado na 2.ª série, do Diário da República N.º 72 de 11 de abril de 2012, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código de Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva, em Regulamento, em reunião ordinária da Câmara Municipal realizada a 28 de maio de 2012, e em sessão extraordinária da Assembleia Municipal realizada a 8 de junho de 2012.
+8 de junho de 2012. - O Presidente da Câmara, António Edmundo Freire Ribeiro.
+306170534
