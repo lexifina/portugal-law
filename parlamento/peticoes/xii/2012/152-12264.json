@@ -1,0 +1,527 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12264",
+  "numero": "152",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-06-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-07-17",
+            "entidades": null,
+            "id": "93375",
+            "tipo": null,
+            "titulo": "Audição em 2012-07-17 com Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-07-12",
+            "dataResposta": "2012-08-29",
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "313/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-09-18",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "601095",
+                "obs": null,
+                "pag": [
+                  "9-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-21",
+                "pubLeg": "XII",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/001/2012-09-21/9?pgs=9-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-07-10",
+        "DataArquivo": "2012-09-18",
+        "DataBaixaComissao": "2012-06-26",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2012-07-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-07-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6b4e7a55314d57566b4c544d774e6d59744e44526b4d5331684e44566c4c54466b5a5745314e54426b59324d774d4335775a47593d&fich=2d7551ed-306f-44d1-a45e-1dea550dcc00.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-07-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41794d5449334d446b7a4c545a6c4e6a63744e446332596931694e5467354c546b774f444a685a6a6b354e3249344d5335775a47593d&fich=02127093-6e67-476b-b589-9082af997b81.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-09-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b315a47466c5a4751794c5751314e6d59744e4441324e5330344e6a45334c575a6d4e5445784d7a41774f4749314d7935775a47593d&fich=95daedd2-d56f-4065-8617-ff5113008b53.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-09-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b325a54526a4e4756694c544e6b5a4451744e4463334e7930354d6a597a4c5755344f4755774e7a41325a5455334e5335775a47593d&fich=96e4c4eb-3dd4-4777-9263-e88e0706e575.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-07-10",
+            "gp": "PS",
+            "id": "4208",
+            "motivoCessacao": null,
+            "nome": "Acácio Pinto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-03-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-07-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32566b4d5749304f4745304c5459354e5459744e4446694e4330355a5451784c574d784e5445354d544a6c4d6a6c6a597935775a47593d&fich=ed1b48a4-6956-41b4-9e41-c151912e29cc.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37591"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:30:38:861&drc=00:03:05:543"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:53:33:946&drc=00:01:24:846"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23",
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/23?pgs=23,28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe medidas urgentes para a valorização da Escola Pública; Solicitam a alteração das políticas educativas e maior investimento na Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:33:54:093&drc=00:03:36:233"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe medidas urgentes para a valorização da Escola Pública; Solicitam a alteração das políticas educativas e maior investimento na Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:37:40:526&drc=00:02:44:963"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:52:41:726&drc=00:00:48:404"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25",
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/24?pgs=24-25,28&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe medidas urgentes para a valorização da Escola Pública; Solicitam a alteração das políticas educativas e maior investimento na Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:40:30:804&drc=00:04:22:211"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe medidas urgentes para a valorização da Escola Pública; Solicitam a alteração das políticas educativas e maior investimento na Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:44:57:579&drc=00:03:44:771"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe medidas urgentes para a valorização da Escola Pública; Solicitam a alteração das políticas educativas e maior investimento na Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:48:45:290&drc=00:03:50:938"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe medidas urgentes para a valorização da Escola Pública; Solicitam a alteração das políticas educativas e maior investimento na Educação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12264",
+    "PetAssunto": "Solicitam a alteração das políticas educativas e maior investimento na Educação.",
+    "PetDataEntrada": "2012-06-26",
+    "PeticoesAssociadas": null,
+    "PetId": "12264",
+    "PetLeg": "XII",
+    "PetNr": "152",
+    "PetNrAssinaturas": "9230",
+    "PetNrAssinaturasInicial": "9230",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "420",
+        "obs": null,
+        "pag": [
+          "23-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-28",
+        "pubLeg": "XII",
+        "pubNr": "71",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/23?pgs=23-29&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "595906",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-13",
+        "pubLeg": "XII",
+        "pubNr": "253",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/253/2012-07-13/10?pgs=10&org=PLC"
+      }
+    ]
+  }
+}
