@@ -1,0 +1,8 @@
+Aviso n.º 8950/2012
+Revisão do Plano Diretor Municipal de Montemor-o-Novo
+Carlos Manuel Rodrigues Pinto de Sá, presidente da Câmara Municipal de Montemor-o-Novo, torna público que a Câmara Municipal de Montemor-o-Novo deliberou na sua reunião de 26 de abril de 2012, dar início ao processo de elaboração da Revisão do Plano Diretor Municipal de Montemor-o-Novo, prevendo um prazo máximo de três anos para a sua conclusão.
+De acordo com a citada deliberação e para os efeitos previstos no n.º 2, do artigo 77.º do Decreto -Lei n.º 380/99 de 22 de setembro, na sua atual redação, encontra-se aberto um período de 30 dias úteis após a data da publicação deste aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+Os interessados deverão apresentar as suas observações ou sugestões no prazo referenciado e dirigidas, por escrito, ao presidente da Câmara Municipal de Montemor-o-Novo, a entregar no Serviço de Atendimento Geral na Câmara Municipal de Montemor-o-Novo, nos dias úteis das 9 horas às 17 horas e 30 minutos, enviadas através de correio eletrónico para o e-mail - revisaodopdm@cm-montemornovo.pt, através do site da Câmara Municipal em formulário próprio ou através de carta para a seguinte endereço: Câmara Municipal de Montemor-o-Novo, Largo dos Paços do Concelho, 7050-127 Montemor -o-Novo.
+Para constar se pública o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume, publicado no Diário da República, na comunicação social e página da Internet do município.
+22 de junho de 2012. - O Presidente da Câmara, Carlos Manuel Pinto de Sá.
+206202553
