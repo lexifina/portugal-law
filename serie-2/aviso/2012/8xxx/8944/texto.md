@@ -1,0 +1,8 @@
+Aviso n.º 8944/2012
+Joaquim José Pinto Moreira, Presidente da Câmara Municipal de Espinho:
+Faz público, em cumprimento do disposto no n.º 1 do artigo 74.º, do Decreto-Lei n.º 380/99, de 22 de setembro, (Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, com as alterações que lhe foram dadas pelo Decreto-Lei n.º 181/2009, de 7 de agosto, e pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, que a Câmara Municipal de Espinho, em sua reunião ordinária de 18 de maio de 2012, deliberou proceder ao relançamento dos trabalhos do procedimento de Revisão do Plano Diretor Municipal.
+Mais deliberou a Câmara Municipal estabelecer um prazo de 12 meses para a elaboração do referido procedimento e prazo de 15 dias úteis para o período de participação preventiva, contados a partir do primeiro dia útil seguinte ao da publicação do presente Aviso no Diário da República, conforme previsto no n.º 2 do artigo 77.º do RJIGT.
+Durante o período de participação preventiva, os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, devendo as mesmas ser apresentadas por escrito e dirigidas ao Presidente da Câmara Municipal de Espinho, Praça Dr. José Salvador, Apartado 700, 4501-901 Espinho, ou por correio eletrónico para o endereço geral@cm-espinho.pt.
+Os interessados poderão consultar os documentos relativos a este processo, na página da Internet do Município, com o endereço eletrónico www.cm-espinho.pt, ou no Edifício dos Paços do Concelho, durante o horário de expediente.
+15 de junho de 2012. - O Presidente da Câmara, Dr. Joaquim José Pinto Moreira.
+206202845
