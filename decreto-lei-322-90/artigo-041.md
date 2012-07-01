@@ -4,6 +4,6 @@
 
 Para além das causas gerais de cessação das pensões, o direito às pensões cessa com:
 
-a) O casamento dos pensionistas cônjuges ou ex-cônjuges dos beneficiários;
+a) O casamento ou união de facto dos pensionistas cônjuges, ex-cônjuges ou pessoas que viviam com o beneficiário em união de facto;
 
 b) O reconhecimento judicial das situações previstas no artigo 10.º

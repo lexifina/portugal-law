@@ -9,3 +9,5 @@
 3 - Determinado o montante definitivo da pensão, se este for diferente do valor da pensão provisória entretanto atribuída, há lugar à respectiva regularização.
 
 4 - No caso de haver direito a pensões por morte do beneficiário, nos termos do regime jurídico de acidentes de trabalho e doenças profissionais, apenas será concedida a pensão de sobrevivência no montante que exceda o valor da pensão por risco profissional.
+
+5 - No caso de ex-cônjuge, cônjuge separado judicialmente de pessoas e bens e pessoa cujo casamento tenha sido declarado nulo ou anulado, o montante da pensão de sobrevivência não pode exceder o valor da pensão de alimentos que recebia do beneficiário à data do seu falecimento.
