@@ -22,6 +22,8 @@ h) Subsídio para assistência a filho com deficiência ou doença crónica;
 
 i) Subsídio para assistência a neto.
 
-2 - O direito aos subsídios previstos nas alíneas c) a h) do número anterior apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com excepção do direito da mãe ao subsídio parental inicial de 14 semanas e do subsídio por riscos específicos durante a amamentação.
+2 - A proteção regulada no presente capítulo integra, também, a atribuição de prestações pecuniárias compensatórias de subsídios de férias, de Natal ou outros de natureza análoga.
 
-3 - A protecção conferida aos trabalhadores independentes não integra os subsídios previstos nas alíneas g) e i) do número anterior.
+3 - O direito aos subsídios previstos nas alíneas c) a h) do n.º 1 apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito da mãe ao subsídio parental inicial de 14 semanas e do subsídio por riscos específicos durante a amamentação.
+
+4 - A proteção conferida aos trabalhadores independentes não integra os subsídios previstos nas alíneas g) e i) do n.º 1 nem as prestações previstas no n.º 2.
