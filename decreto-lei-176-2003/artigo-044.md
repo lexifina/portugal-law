@@ -2,7 +2,7 @@
 
 ### Prazo para apresentação da prova anual da situação escolar
 
-1 - As provas previstas no artigo anterior devem ser apresentadas anualmente no mês de Outubro.
+1 - As provas previstas no artigo anterior devem ser apresentadas anualmente no mês de julho.
 
 2 - A declaração médica comprovativa da situação de incapacidade física ou mental, prevista no n.º 4 do artigo 11.º, deve ser apresentada em simultâneo com a prova de escolaridade relativa ao ano em que ocorra esta situação.
 

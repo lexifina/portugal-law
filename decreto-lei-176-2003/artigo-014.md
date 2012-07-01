@@ -26,6 +26,6 @@
 
 6 - A majoração prevista no n.º 4 incide sobre o valor dos respectivos subsídios e das respectivas majorações e bonificações previstas na lei.
 
-7 - Sempre que haja modificação da composição do agregado familiar que determina a alteração dos rendimentos de referência, o escalão de rendimentos de que depende a modulação dos montantes do abono de família para crianças e jovens deve ser reavaliado.
+7 - Após apresentação da prova anual, sempre que haja modificação dos rendimentos ou da composição do agregado familiar que determine a alteração dos rendimentos de referência, o escalão de rendimentos de que depende a modulação dos montantes do abono de família para crianças e jovens pode ser reavaliado, em termos a definir em diploma próprio.
 
 8 - Os efeitos decorrentes da reavaliação, prevista no número anterior, produzem-se a partir do mês seguinte àquele em que ocorreram os factos determinantes da alteração do escalão.
