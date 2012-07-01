@@ -18,7 +18,7 @@ f) Prestações sociais;
 
 g) Apoios à habitação com carácter de regularidade;
 
-h) Bolsas de estudo e de formação não enquadradas no âmbito da acção social escolar.
+h)(Revogada).
 
 2 - Os rendimentos referidos no número anterior reportam-se ao ano civil anterior ao da data da apresentação do requerimento, desde que os meios de prova se encontrem disponíveis, e, quando tal se não verifique, reportam-se ao ano imediatamente anterior àquele, sem prejuízo do disposto no número seguinte.
 

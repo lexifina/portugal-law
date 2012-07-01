@@ -16,7 +16,7 @@ e) Adoptados e tutelados pelo requerente ou qualquer dos elementos do agregado f
 
 2 - Consideram-se em economia comum as pessoas que vivam em comunhão de mesa e habitação e tenham estabelecido entre si uma vivência comum de entreajuda e partilha de recursos, sem prejuízo do disposto no número seguinte.
 
-3 - A condição de vivência em comunhão de mesa e habitação pode ser dispensada por ausência temporária de um ou mais elementos do agregado familiar, por razões laborais, escolares, formação profissional ou por motivos de saúde.
+3 - Considera-se que a situação de economia comum se mantém nos casos em que se verifique a deslocação, por período igual ou inferior a 30 dias, do titular ou de algum dos membros do agregado familiar e, ainda que por período superior, se a mesma for devida a razões de saúde, estudo, formação profissional ou de relação de trabalho que revista carácter temporário, ainda que essa ausência se tenha iniciado em momento anterior ao do requerimento.
 
 4 - Considera-se equiparada a afinidade, para efeitos do disposto no presente decreto-lei, a relação familiar resultante de situação de união de facto há mais de dois anos.
 
