@@ -4,7 +4,7 @@
 
 1. A qualidade de pensionista; sem prejuízo do disposto no n.º 1 do artigo 30.º, extingue-se:
 
-a) Pelo casamento, salvo quanto aos pensionistas abrangidos pelo n.º 2 do artigo 42.º e pelo artigo 44.º;
+a) Pelo casamento ou união de facto, salvo quanto aos pensionistas abrangidos pelo n.º 2 do artigo 42.º e pelo artigo 44.º;
 
 b) Pelo facto de os pensionistas perfazerem as idades previstas no n.º 1 do artigo 42.º;
 
