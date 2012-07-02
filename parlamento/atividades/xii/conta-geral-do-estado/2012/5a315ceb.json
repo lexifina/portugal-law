@@ -1,0 +1,520 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Conta Geral do Estado",
+  "numero": null,
+  "data_registo": "2012-07-02",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Conta Geral do Estado de 2011",
+    "Audicoes": [
+      "94331",
+      "94491",
+      "95169"
+    ],
+    "Comissao": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+    "DataAgendamentoDebate": null,
+    "DataEntrada": "2012-07-02",
+    "DataParecerUTAO": "2012-12-28",
+    "DataPedidoParecer": "2013-01-16",
+    "DescTipo": "Conta Geral do Estado",
+    "Documentos": null,
+    "EntidadesExternas": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Links": [
+      {
+        "DataDocumento": "2014-05-21 00:00:00.0",
+        "TipoDocumento": "Link",
+        "TituloDocumento": "Parecer do Tribunal de Contas",
+        "URL": "http://www.tcontas.pt/pt/actos/parecer-cge/2011/parecer-cge-2011.shtm"
+      }
+    ],
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": [
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3511",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "Numero": "2",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "3934",
+            "motivoCessacao": null,
+            "nome": "João Ramos"
+          }
+        ],
+        "Sigla": "CNECP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3512",
+        "Nome": "Comissão de Defesa Nacional",
+        "Numero": "3",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2209",
+            "motivoCessacao": null,
+            "nome": "Marcos Perestrello"
+          }
+        ],
+        "Sigla": "CDN"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3513",
+        "Nome": "Comissão de Assuntos Europeus",
+        "Numero": "4",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "1696",
+            "motivoCessacao": null,
+            "nome": "Honório Novo"
+          }
+        ],
+        "Sigla": "CAE"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-02-28 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Agricultura e Mar",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a6a59314d4751344e4759744f544d324e6930305a4463354c5467774d6a51744d7a51304d445a685a446c6c4e6d45774c6e426b5a673d3d&fich=f650d84f-9366-4d79-8024-34406ad9e6a0.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-02-28 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Ambiente, Ordenamento do território e Poder Local",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a6d49324e544d325a4751745a4745334d6930304d6a5a6b4c5467354e5463744f5449795a6a52694e4759324e6d51314c6e426b5a673d3d&fich=fb6536dd-da72-426d-8957-922f4b4f66d5.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-02-28 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de assuntos Constitucionais, Direitos, Liberdades e Garantias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a6a63304e6d55794d7a41744d54497a5a5330304d6a67794c546c694d474574596a45324d6a55775a4451304e5455304c6e426b5a673d3d&fich=f746e230-123e-4282-9b0a-b16250d44554.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-06-07 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Assuntos Europeus",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d76595751325a54566d4e6a4d745a6a4a6a4e6930304d6a51324c5749344e4441744d574e694f47457a4f44526b5a6a67334c6e426b5a673d3d&fich=ad6e5f63-f2c6-4246-b840-1cb8a384df87.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-02-28 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Defesa Nacional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e6a51345a5756684e475574596d5a6c4d4330305a54637a4c546c684e6a45745a444d33597a55794d324d785a5463344c6e426b5a673d3d&fich=648eea4e-bfe0-4e73-9a61-d37c523c1e78.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-03-08 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Economia e Obras Públicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e6d45344e44633259324d745a5459795a6930304f4463304c5467794e6a41745a5459335a5751334f47517a4d7a52694c6e426b5a673d3d&fich=6a8476cc-e62f-4874-8260-e67ed78d334b.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-02-28 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Educação, Ciência e Cultura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764d5467324d444e694d4445744d5745314e79303059324d304c5749794e4463745a5749324f546b304d544669596a68694c6e426b5a673d3d&fich=18603b01-1a57-4cc4-b247-eb699411bb8b.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-03-07 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e6d49774d7a4d304f5445745a544a69597930304e6a4e6b4c57466a4d4441745932517a4e574a6b4d7a6b355a445a6c4c6e426b5a673d3d&fich=6b033491-e2bc-463d-ac00-cd35bd399d6e.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-02-28 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764f4445314e3251354e6a59745957566b5a5330304d474d7a4c5467304e4751744e325a6c5a6a55334d6d4e6b4d3259304c6e426b5a673d3d&fich=8157d966-aede-40c3-844d-7fef572cd3f4.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-06-07 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Segurança Social e Trabalho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764f4449315a6a5a694d4441744d47566c5a5330304e6a49304c54686a4e44677459325577596a45784e6d4e684f5449304c6e426b5a673d3d&fich=825f6b00-0eee-4624-8c48-ce0b116ca924.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-02-28 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão para a Ética, a Cidadania e a Comunicação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d7659324d775a545268596d55744e575669597930304e6a45314c546c6d4f4459745a545935597a4d324d7a51334d5441324c6e426b5a673d3d&fich=cc0e4abe-5ebc-4615-9f86-e69c36347106.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-01-10 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da UTAO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e6a417a4e44597a5a6a63745a6a41304f4330305954646d4c5745314d545574596d4a6b5a6a566c595459345a5745784c6e426b5a673d3d&fich=603463f7-f048-4a7f-a515-bbdf5ea68ea1.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-12-19 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer do Conselho Económico e Social",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e7a67785a4745334e325174596d59315a4330304d5441314c5749324d7a6b744e7a4e684e7a566d4e6a6b305957466d4c6e426b5a673d3d&fich=781da77d-bf5d-4105-b639-73a75f694aaf.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2013-06-27 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Relatório",
+            "tituloDocumento": "Relatório Final da Comissão de Orçamento, Finanças e Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a6d517a4d6d5577596d49744d574a6d4f4330304d324a694c546868595445745a474a6a4d474a6b5a54566c4e7a59784c6c424552673d3d&fich=fd32e0bb-1bf8-43bb-8aa1-dbc0bde5e761.PDF&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume I",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d76597a566c4f575a6d4e3249744e6d4935596930304d6a5a694c57466b5a5445744f5445334d4459335957566d5a6a41334c6e426b5a673d3d&fich=c5e9ff7b-6b9b-426b-ade1-917067aeff07.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo I)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764d3255344e6a49344f4459744f4449324e53303059546c6b4c5745304d6d517459544e6a4d474d7a4d475a6d4d54646c4c6e426b5a673d3d&fich=3e862886-8265-4a9d-a42d-a3c0c30ff17e.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo II)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764f4451354f44513159325974596d5977596930304e7a557a4c546b784e5749745a574d794e7a55774d7a55785a6d51344c6e426b5a673d3d&fich=849845cf-bf0b-4753-915b-ec2750351fd8.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo III)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a6a426b4e544d344d3255745932466b4e6930305a5467354c546b304d4467744e7a63794d6d5134593246695a6a686d4c6e426b5a673d3d&fich=f0d5383e-cad6-4e89-9408-7722d8cabf8f.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-03 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo IV)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a44426b4e6d526d4d7a59745a5455334e5330304f5451334c57466d4f5441745a44593059545a6d4e3249774d5445334c6e426b5a673d3d&fich=d0d6df36-e575-4947-af90-d64a6f7b0117.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-03 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo IX)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764d4441335a544a684d5759745a6a59354d4330304d574d7a4c5749324d7a67744e574d354e6d45314f446b784d574d794c6e426b5a673d3d&fich=007e2a1f-f690-41c3-b638-5c96a58911c2.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-03 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo V)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e6a42694e57466a4e6a417459324e6d4f43303059544a6b4c546b315a6d45744e7a6379596a67304e6a566a4e4459794c6e426b5a673d3d&fich=60b5ac60-ccf8-4a2d-95fa-772b8465c462.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-03 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo VI)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a6d59784e44557759324974597a4d794d5330305a6a6c6c4c574535595459744d6a6869597a526d4e544d795a5745304c6e426b5a673d3d&fich=ff1450cb-c321-4f9e-a9a6-28bc4f532ea4.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-03 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo VII)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764d44646b59546c6d5a4445744e6d4d335a6930304e5441324c5467784d6a41744f4756694e44426a4d5751335a444d784c6e426b5a673d3d&fich=07da9fd1-6c7f-4506-8120-8eb40c1d7d31.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-03 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo VIII)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765a44646b4f4749774f546774596d517a5a5330304e54646b4c546b35595749744f44566c4e54497a5a6a4e695a4451334c6e426b5a673d3d&fich=d7d8b098-bd3e-457d-99ab-85e523f3bd47.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2012-07-03 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento que entra na A.R.",
+            "tituloDocumento": "Volume II (Tomo X)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d765954597a5a5452684e444d74596d45785a5330304f474a6b4c57466d4e6a45744e574531597a6c694e3255344e5459354c6e426b5a673d3d&fich=a63e4a43-ba1e-48bd-af61-5a5c9b7e8569.pdf&Inline=true"
+          }
+        ],
+        "Id": "3514",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "5",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4166",
+            "motivoCessacao": null,
+            "nome": "João Galamba"
+          }
+        ],
+        "Sigla": "COFAP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3515",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "6",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4066",
+            "motivoCessacao": null,
+            "nome": "Duarte Cordeiro"
+          }
+        ],
+        "Sigla": "CEOP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3516",
+        "Nome": "Comissão de Agricultura e Mar",
+        "Numero": "7",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "487",
+            "motivoCessacao": null,
+            "nome": "Fernando Jesus"
+          }
+        ],
+        "Sigla": "CAM"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3517",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "Numero": "8",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "4157",
+            "motivoCessacao": null,
+            "nome": "Michael Seufert"
+          }
+        ],
+        "Sigla": "CECC"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3518",
+        "Nome": "Comissão de Saúde",
+        "Numero": "9",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4391",
+            "motivoCessacao": null,
+            "nome": "Conceição Bessa Ruão"
+          }
+        ],
+        "Sigla": "CS"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3519",
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "10",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2215",
+            "motivoCessacao": null,
+            "nome": "Nuno Sá"
+          }
+        ],
+        "Sigla": "CSST"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3520",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "11",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "4173",
+            "motivoCessacao": null,
+            "nome": "Margarida Neto"
+          }
+        ],
+        "Sigla": "CAOTPL"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "3521",
+        "Nome": "Comissão para a Ética, a Cidadania e a Comunicação",
+        "Numero": "12",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "4297",
+            "motivoCessacao": null,
+            "nome": "Carla Cruz"
+          }
+        ],
+        "Sigla": "CPECC"
+      }
+    ],
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "Relatores": [
+      {
+        "dataCessacao": null,
+        "dataNomeacao": null,
+        "gp": "BE",
+        "id": "2194",
+        "motivoCessacao": null,
+        "nome": "Cecília Honório"
+      }
+    ],
+    "Sessao": "1",
+    "TextoRelatorio": null,
+    "TextosAprovados": [
+      "17676",
+      "17677"
+    ],
+    "Tipo": "CGE",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2013-06-28",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "64324",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "640011",
+            "obs": null,
+            "pag": [
+              "49-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-29",
+            "pubLeg": "XII",
+            "pubNr": "107",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/107/2013-06-29/49?pgs=49&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "107",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ],
+    "VotacaoRelatorio": null
+  }
+}
