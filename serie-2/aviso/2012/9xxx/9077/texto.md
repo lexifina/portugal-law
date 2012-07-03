@@ -1,0 +1,8 @@
+Aviso n.º 9077/2012
+Terceira alteração parcial ao Plano Diretor Municipal de Soure
+Alteração ao n.º 3 do artigo 47.º do Regulamento do PDM e à planta de Ordenamento
+João Eduardo Dias Madeira Gouveia, Presidente da Câmara Municipal de Soure, torna público, nos termos e para os efeitos previstos na alínea a) do n.º 4 do art.º 148.º do Decreto-Lei n.º 380/99, de 22/09, alterado e republicado pelo D.-L. n.º 46/2009, de 20/02 com a redação que lhe foi dada pelo D.-L. n.º 181/2009, de 7/08 e D.-L. 2/2011, de 6/01 (RJIGT) que o Executivo Municipal, em sua reunião ordinária pública, realizada no dia 21/06/2012, em cumprimento do disposto nos números 3 e 4 do art.º 77.º do citado Decreto-Lei n.º 380/99, deliberou proceder à abertura de um período de discussão pública referente à terceira alteração parcial ao Plano Diretor Municipal de Soure, pelo período de 30 dias úteis, a contar do 5.º dia útil a seguir à data de publicação do presente Aviso no Diário da República.
+Durante esse período, poderão os interessados apresentar, por escrito, as suas reclamações, observações ou sugestões, dirigidas ao Presidente da Câmara Municipal de Soure e entregues na Divisão de Gestão Urbanística e Planeamento ou remetidas por correio ou correio eletrónico atendimentodou@cmsoure.pt.
+A proposta de alteração ao Plano Diretor Municipal, a ata da reunião de conferência de serviços, os pareceres emitidos e restantes documentos, encontram-se disponíveis para consulta na Divisão antes referida, durante o horário normal de expediente e na página da internet www.cmsoure.pt.
+25/06/2012. - O Presidente da Câmara Municipal, João Eduardo Dias Madeira Gouveia, Dr.
+206209714
