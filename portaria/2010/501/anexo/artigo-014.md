@@ -6,11 +6,11 @@
 
 2 - Em caso de igualdade de pontuações, os pedidos de apoio são hierarquizados por ordem de entrada.
 
-3 - Podem ser solicitados aos candidatos elementos complementares, que devem ser prestados no prazo de 10 dias úteis, se prazo superior não for fixado pelo gestor, decorrido o qual, a ausência de resposta constitui fundamento de indeferimento do pedido.
+3 - São solicitados aos candidatos, quando se justifique, elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
 
 4 - O parecer referido no n.º 1 é emitido no prazo máximo de 40 dias úteis a contar da data do termo do período de apresentação do pedido de apoio ao gestor.
 
-5 - Os pedidos de apoio são objecto de decisão pelo gestor, excepto se o beneficiário for a Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR) ou a autoridade de gestão do PRRN, em que serão objecto de decisão do membro do Governo responsável pela área do desenvolvimento rural.
+5 - Os pedidos de apoio são objeto de decisão pelo gestor, exceto se o beneficiário for a autoridade de gestão do PRRN, caso em que são objeto de decisão pelo membro do Governo responsável pelo PRRN.
 
 6 - O secretariado técnico notifica o beneficiário no prazo máximo de 15 dias úteis a contar da data da recepção da decisão prevista no número anterior.
 

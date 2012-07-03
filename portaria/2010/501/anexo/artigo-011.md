@@ -17,3 +17,5 @@ e) Custo (C), que valoriza a razoabilidade e a estrutura dos custos da operaçã
 2 - Os pedidos de apoio mencionados no número anterior são hierarquizados por ordem decrescente em função do respectivo valor da operação calculada nos termos do anexo ii ao presente Regulamento.
 
 3 - Os pedidos de apoio relativos às operações com classificação de 0 em qualquer um dos parâmetros não são seleccionados.
+
+4 - A alteração dos critérios de seleção referidos no n.º 1, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRRN.

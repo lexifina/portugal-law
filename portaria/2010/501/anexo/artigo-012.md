@@ -6,10 +6,10 @@
 
 ### Apresentação dos pedidos de apoio
 
-1 - Os pedidos de apoio são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, e pelo Decreto-Lei n.º 69/2010, de 16 de Junho.
+1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respetivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.
 
-2 - Os concursos são divulgados pela autoridade de gestão no sítio da Internet do PRRN, com uma antecedência de 10 dias seguidos relativamente à data de publicidade do respectivo aviso de abertura.
+2 - A formalização dos pedidos de apoio efectua-se através da apresentação de formulário disponível no sítio da Internet do PRRN, o qual deve ser acompanhado da documentação no mesmo indicada.
 
-3 - A formalização dos pedidos de apoio efectua-se através da apresentação de formulário disponível no sítio da Internet do PRRN, o qual deve ser acompanhado da documentação no mesmo indicada.
+3 - (Revogado.)
 
-4 - Em derrogação do n.º 1, a apresentação dos pedidos de apoio relativos à avaliação do PRRN, efectua-se em contínuo.
+4 - (Revogado.)

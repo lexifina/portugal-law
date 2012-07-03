@@ -8,4 +8,4 @@
 
 3 - Apenas são aceites os pedidos de pagamento relativos às despesas efectuadas por débito em conta, transferência bancária ou cheques, comprovados pelo respectivo extracto bancário ou mapa dos meios de pagamento, demonstrativos do pagamento, nos termos previstos nas cláusulas contratuais e nos números seguintes.
 
-4 - Quando previsto no contrato de financiamento podem ser apresentados pedidos de pagamento a título de adiantamento, até ao limite de 20 % do valor do investimento elegível.
+4 - Quando previsto no contrato de financiamento podem ser apresentados pedidos de pagamento a título de adiantamento.

@@ -4,4 +4,4 @@
 
 1 - Os apoios são concedidos sob a forma de subsídios não reembolsáveis, de valor igual a 100 % das despesas elegíveis.
 
-2 - A taxa máxima de co-financiamento do FEADER para as operações aprovadas é de 50 %.
+2 - (Revogada.)

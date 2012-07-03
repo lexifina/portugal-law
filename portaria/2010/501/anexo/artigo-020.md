@@ -8,6 +8,6 @@
 
 3 - O pagamento é proporcional à realização do investimento elegível, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % do investimento total elegível da operação.
 
-4 - Os adiantamentos concedidos a entidades públicas, não justificados até 31 de Janeiro do ano seguinte, são devolvidos ou colocados à ordem da entidade contratante (IFAP, I. P.), salvo autorização desta para que transitem para o novo exercício orçamental.
+4 - (Revogado.)
 
 5 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PRRN.

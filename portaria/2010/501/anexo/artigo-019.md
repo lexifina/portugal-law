@@ -14,6 +14,6 @@ c) Entidade a designar pela Secretaria Regional da Agricultura e Florestas, no c
 
 3 - Os relatórios de análise são emitidos no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos, deles resultando o apuramento do investimento elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-4 - O prazo referido no número anterior suspende-se sempre que sejam solicitados aos beneficiários elementos complementares, sendo a ausência de resposta, no prazo de 10 dias úteis, fundamento para o indeferimento do pedido.
+4 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
 
 5 - São realizadas visitas ao local ou ao promotor da operação, pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.

@@ -14,7 +14,7 @@ d) Proceder à publicitação dos apoios que lhe forem atribuídos, nos termos d
 
 e) Cumprir as obrigações legais designadamente as fiscais e para com a segurança social;
 
-f) Manter um sistema de contabilidade nos termos da alínea d) do n.º 1 do artigo 6.º;
+f) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;
 
 g) Não locar, alienar ou por qualquer forma onerar os equipamentos co-financiados, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão do PRRN;
 

@@ -6,11 +6,11 @@
 
 a) Encontrarem-se legalmente constituídos;
 
-b) Possuírem a situação regularizada face à administração fiscal e à segurança social;
+b) [Revogada.]
 
 c) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;
 
-d) Disporem de contabilidade actualizada de acordo com a legislação em vigor;
+d) [Revogada.]
 
 e) Assegurarem os meios humanos e materiais adequados à realização da operação, nomeadamente quadros com aptidão técnica e experiência para as actividades elegíveis;
 
