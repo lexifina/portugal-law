@@ -1,0 +1,341 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "81",
+    "id": "37139",
+    "titulo": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "29254",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-07-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-07-04",
+        "DatafimApreciacaoPublica": "2012-09-15",
+        "DatainicioApreciacaoPublica": "2012-07-07",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-09-26",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 5ª COFAP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a42684e6a6b794e5455334c5468685a5749744e4459774e5331684e6a67354c574e6b5a544d795a5759354e545a6c4d6935775a47593d&fich=0a692557-8aeb-4605-a689-cde32ef956e2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a597a4d44457a5954526a4c5751334d6d59744e4755314d4330354d54497a4c574a6c596d5a6c596a6b795a6a526a4e5335775a47593d&fich=63013a4c-d72f-4e50-9123-bebfeb92f4c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão de Trabalhadores da Câmara Municipal de Oeiras",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245354d4445304e7a6c6c4c544d775a5467744e4463784d6930354e6d55334c57566c4e474d354f5745334d6a41344d7935775a47593d&fich=a901479e-30e8-4712-96e7-ee4c99a72083.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32497a4d7a49784d544a6b4c575530595455744e474d35596930344d54566a4c5459774e4441324e3246694d544d794e6935775a47593d&fich=b332112d-e4a5-4c9b-815c-604067ab1326.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FENPROF - Federação Nacional dos Professores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526a4d546c695a6a63304c5455774e3249744e444d794d4330354e7a59344c544d3459544e6c4e5463344f5755344d4335775a47593d&fich=dc19bf74-507b-4320-9768-38a3e5789e80.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FESAP - Federação de Sindicatos da Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a557a4e4449354f574d7a4c5456685a4751744e446c6d4e4330344d7a59334c5751784f546b7a4e6d4d784e544d304d4335775a47593d&fich=534299c3-5add-49f4-8367-d19936c15340.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Frente Comum de Sindicatos da Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63314e6a526a596a6b344c5755774d5441744e44557a4d533169595441354c57553559574d304d6d45775a5451775a5335775a47593d&fich=7564cb98-e010-4531-ba09-e9ac42a0e40e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da UGT - União Geral de Trabalhadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324534596a41794e6a686d4c546b79597a41744e44426a4e7930344d4749354c54557a4e5455344d47497a596d51344e7935775a47593d&fich=a8b0268f-92c0-40c7-80b9-535580b3bd87.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer de Pedro Miguel Paredes de Carvalho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245774e574e6c4e4464694c544a6c5a4441744e474977597931694e4445304c5751795a44566c4e4745795a44686a596935775a47593d&fich=a05ce47b-2ed0-4b0c-b414-d2d5e4a2d8cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do CES - Conselho Económico e Social",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49794d4446684d4452684c574a6b5a5751744e44466a4d4330355a4759304c54526c5a47517a597a646a59574a694d4335775a47593d&fich=2201a04a-bded-41c0-9df4-4edd3c7cabb0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Enfermeiros da Região Autónoma da Madeira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a413159324d324d6a4d334c574a6d5a5449744e446b354d5331694f4449344c5464684e54633059546b334d444135597935775a47593d&fich=05cc6237-bfe2-4991-b828-7a574a97009c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Professores da Zona Sul - Direção Distrital de Beja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6869595755345a5451304c5755324d6d45744e47466a597931685a6d526b4c54597a596d566c5a54426b4e546b33596935775a47593d&fich=8bae8e44-e62a-4acc-afdd-63beee0d597b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Quadros Técnicos do Estado e Entidades com Fins Públicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566d4f574d314f44566c4c5751774d3259744e444a694d533168597a55784c5751324e4759315a5464694e7a63354e4335775a47593d&fich=ef9c585e-d03f-42b1-ac51-d64f5e7b7794.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores Civis das Forças Armadas, Estabelecimentos Fabris e Empresas de Defesa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324d446b304f446c694c57597a5a6a45744e444d344e7931694d6a686d4c5745304f54686a5a5749314e57566a595335775a47593d&fich=8609489b-f3f1-4387-b28f-a498ceb55eca.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores em Funções Públicas e Sociais do Centro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32593159545577596a68684c57597a4d4449744e475178597930345a4449304c54686d5a5441314d5455795a544d33597935775a47593d&fich=f5a50b8a-f302-4d1c-8d24-8fe05152e37c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores em Funções Públicas e Sociais do Norte",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b324e4446685a574a6c4c574d3459324d744e4449345a6930344d6d4a6d4c545131596a49304d5451794d6d59344e7935775a47593d&fich=9641aebe-c8cc-428f-82bf-45b241422f87.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores em Funções Públicas e Sociais do Sul e Regiões Autónomas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55355a546c6959324a6d4c544d774d6d55744e44686c4f5330354f4745324c546b7a596a4d334f5756695a44566a4d6935775a47593d&fich=59e9bcbf-302e-48e9-98a6-93b379ebd5c2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SPN - Sindicato dos Professores do Norte",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63324f44497a5a6a6b354c5449354e6d4d744e4445345a533034595449314c5463314d575a684e3251305a5464684e5335775a47593d&fich=76823f99-296c-418e-8a25-751fa7d4e7a5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SPRC - Sindicato dos Professores da Região Centro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d7a4e7a4d795a546c6d4c5445784d5451744e475178596930354f444e6c4c54426b596a51325a474d794f4446685a4335775a47593d&fich=33732e9f-1114-4d1b-983e-0db46dc281ad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL - Direção Regional da Horta",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63795a54646b596d45314c544a6b4e7a45744e4451774e4331694e6d4a6d4c5756695a6a637a4d324d79595755324d5335775a47593d&fich=72e7dba5-2d71-4404-b6bf-ebf733c2ae61.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL - Direção Regional de Ponta Delgada",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255784e325979595446694c544e6c593255744e444a6b4e7930345a4441334c5446684f5459335a5463774d5751304d6935775a47593d&fich=e17f2a1b-3ece-42d7-8d07-1a967e701d42.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL - Direção Regional do Porto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a677a5a6a526c5a474a6a4c544a6a4d7a4d744e4445794f5330344d7a5a684c545a6b5a57566d4d574931595749324d6935775a47593d&fich=83f4edbc-2c33-4129-836a-6deef1b5ab62.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL - Direcção Regional de Beja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6d5954646c4e5759354c57497a4d4755744e4751304f5330344e5463324c5755795a6a51304e7a4a6a4d4751784d6935775a47593d&fich=2fa7e5f9-b30e-4d49-8576-e2f4472c0d12.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STCDE - Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686a4e6a63355a6a45344c5449784e5463744e44646c4d4330344e7a51794c5455795a6a6b334d4441355a4755775a4335775a47593d&fich=8c679f18-2157-47e0-8742-52f97009de0d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Sindicato do STML - Sindicato dos Trabalhadores do Município de Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d775a4445794d324d354c57566d596d55744e446b344e7930355a6a426b4c544d784e574e685a546b324d4745325a5335775a47593d&fich=c0d123c9-efbe-4987-9f0d-315cae960a6e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "45-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-27",
+            "pubLeg": "XII",
+            "pubNr": "216",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/216/2012-07-27/45?pgs=45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-66"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2012-09-26",
+            "pubLeg": "XII",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/005S1/2012-09-26/2?pgs=2-66&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "45-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-27",
+            "pubLeg": "XII",
+            "pubNr": "216",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/01/216/2012-07-27/45?pgs=45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-66"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2012-09-26",
+            "pubLeg": "XII",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/005S1/2012-09-26/2?pgs=2-66&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4193",
+            "motivoCessacao": null,
+            "nome": "Maria das Mercês Borges"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-09-24",
+            "dataRemessa": "2012-09-26",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-09-26",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>",
+            "id": "61715",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "100",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-07-04",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285163",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
