@@ -1,0 +1,5 @@
+Edital n.º 621/2012
+Regulamento dos Horários de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviços do Município de Constância
+Máximo de Jesus Afonso Ferreira, presidente da Câmara Municipal de Constância: torna público, que a Câmara Municipal de Constância, em sua reunião ordinária realizada no dia 10 de maio de 2012, aprovou o projeto de Regulamento dos Horários de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviços do Município de Constância, pelo que, para os efeitos do que determinam os artigos 117.º e 118.º do Código do Procedimento Administrativo, o mesmo se encontra em apreciação pública. O Projeto em causa está disponível na Divisão de Gestão e Planeamento Urbanístico da Câmara Municipal, sita no edifício dos Paços do Município, Estrada Nacional 3, em Constância, e no sítio da Internet em www.cm-constancia.pt, devendo os interessados dirigir, por escrito, as suas sugestões à Câmara Municipal, dentro do prazo de 30 (trinta) dias, contados a partir da data deste Edital.
+31 de maio de 2012. - O Presidente da Câmara, Máximo de Jesus Afonso Ferreira.
+306193085
