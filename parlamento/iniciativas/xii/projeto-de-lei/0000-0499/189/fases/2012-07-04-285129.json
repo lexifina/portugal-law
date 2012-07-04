@@ -1,0 +1,552 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "189",
+    "id": "36818",
+    "titulo": "Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8877",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-07-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36817",
+        "leg": "XII",
+        "nr": "188",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1663",
+            "obs": null,
+            "pag": [
+              "47-55"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-05",
+            "pubLeg": "XII",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/47?pgs=47-55&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1663",
+            "obs": null,
+            "pag": [
+              "47-55"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-05",
+            "pubLeg": "XII",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/47?pgs=47-55&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37129",
+        "leg": "XII",
+        "nr": "265",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1663",
+            "obs": null,
+            "pag": [
+              "47-55"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-05",
+            "pubLeg": "XII",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/47?pgs=47-55&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1663",
+            "obs": null,
+            "pag": [
+              "47-55"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-05",
+            "pubLeg": "XII",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/47?pgs=47-55&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:06:44:944&drc=00:03:38:573"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:32:21:623&drc=00:01:54:952"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185941",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48",
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/47?pgs=47-48,54&org=PLC"
+              }
+            ],
+            "sumario": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes; Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais; Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:10:31:174&drc=00:03:53:026"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:34:29:262&drc=00:02:32:974"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185942",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/48?pgs=48,55&org=PLC"
+              }
+            ],
+            "sumario": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes; Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais; Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1264",
+                "nome": "Sérgio Sousa Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:14:27:970&drc=00:02:46:721"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes; Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais; Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4092",
+                "nome": "Odete Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:17:16:389&drc=00:04:40:865"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes; Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais; Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:22:01:281&drc=00:02:59:964"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes; Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais; Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4173",
+                "nome": "Margarida Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:25:13:946&drc=00:04:26:995"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/51?pgs=51-53&org=PLC"
+              }
+            ],
+            "sumario": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes; Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais; Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=03:29:52:502&drc=00:02:20:620"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Proibe a exibição de espetáculos tauromáquicos na televisão pública e altera a lei da televisão, designando estes espetáculos como susceptíveis de influírem negativamente na formação da personalidade de crianças e adolescentes; Impede o apoio institucional à realização de espetáculos que inflijam sofrimento físico ou psíquico ou provoquem a morte de animais; Assume as touradas como espetáculo ilícito e impõe limites à sua emissão televisiva.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285129",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "595930",
+        "obs": null,
+        "pag": [
+          "47-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-05",
+        "pubLeg": "XII",
+        "pubNr": "129",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/47?pgs=47-55&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
