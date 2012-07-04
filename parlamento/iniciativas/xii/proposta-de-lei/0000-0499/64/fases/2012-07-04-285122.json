@@ -1,0 +1,525 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "64",
+    "id": "37019",
+    "titulo": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8870",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-07-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "37020",
+        "leg": "XII",
+        "nr": "65",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1661",
+            "obs": null,
+            "pag": [
+              "19-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-05",
+            "pubLeg": "XII",
+            "pubNr": "129",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/19?pgs=19-28&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:09:10:377&drc=00:05:02:399"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:16:43:106&drc=00:02:05:007"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:51:36:577&drc=00:02:23:545"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO EMPREGO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Silva Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-21",
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/19?pgs=19-21,28&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2092",
+                "nome": "Luísa Salgueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:14:23:402&drc=00:02:19:091"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:19:22:588&drc=00:07:08:100"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:26:52:626&drc=00:06:40:122"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/22?pgs=22-24&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:33:48:998&drc=00:03:23:130"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4290",
+                "nome": "Maria Helena André"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:37:23:628&drc=00:08:07:956"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4306",
+                "nome": "Isabel Simões Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:45:36:927&drc=00:03:00:286"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1801",
+                "nome": "Raúl de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:48:44:776&drc=00:02:46:051"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º 2005/36/CE, do Parlamento e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º 2006/100/CE, do Conselho, de 20 de novembro de 2006, que adapta determinadas diretivas no domínio da livre circulação de pessoas; Aprova os regimes de acesso e de exercício das profissões de técnico superior de segurança do trabalho e de técnico de segurança do trabalho.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285122",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "595923",
+        "obs": null,
+        "pag": [
+          "19-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-05",
+        "pubLeg": "XII",
+        "pubNr": "129",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/19?pgs=19-29&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
