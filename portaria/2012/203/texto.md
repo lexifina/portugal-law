@@ -1,0 +1,25 @@
+Portaria n.º 203/2012
+de 4 de julho
+A Portaria n.º 178-A/2012, de 31 de maio, consagrou diversos apoios às explorações agrícolas que se encontram em situação difícil devido às condições climatéricas adversas que têm atingido Portugal continental desde final do ano de 2011.
+Os referidos apoios, que se concretizam em dispensa ou no diferimento do pagamento de contribuições de segurança social para os produtores agrícolas e para as entidades empregadoras, implicam a obtenção de documentação que pode tornar difícil o cumprimento do prazo previsto para a apresentação dos requerimentos por parte dos potenciais beneficiários da medida.
+Procede-se assim, com a presente alteração, ao alargamento do prazo para apresentação do requerimento de 30 dias para 45 dias.
+Aproveita-se ainda para clarificar o âmbito de aplicação pessoal dos apoios concedidos às explorações agrícolas, definindo-o em exata consonância com o objeto dos apoios previstos.
+Assim:
+Manda o Governo, pelos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o seguinte:
+Artigo 1.º
+Alteração à Portaria n.º 178-A/2012
+Os artigos 3.º e 7.º da Portaria n.º 178-A/2012, de 31 de maio, passam a ter a seguinte redação:
+«Artigo 3.º
+[...]
+1 - ...
+2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade nas explorações que preencham os requisitos referidos no artigo anterior.
+3 - ...
+Artigo 7.º
+[...]
+1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 45 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.)
+2 - ...
+3 - ...»
+Artigo 2.º
+Produção de efeitos
+O disposto na presente portaria produz efeitos desde a data de entrada em vigor da Portaria n.º 178-A/2012, de 31 de maio.
+A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 29 de junho de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 28 de junho de 2012.
