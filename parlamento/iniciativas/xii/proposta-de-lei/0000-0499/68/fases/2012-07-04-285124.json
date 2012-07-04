@@ -1,0 +1,380 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "68",
+    "id": "37047",
+    "titulo": "Procede à terceira alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, por forma a adequá-la à Lei n.º 85/2009, de 27 de agosto, que estabelece o regime de escolaridade obrigatória para as crianças e jovens que se encontram em idade escolar e consagra a universalidade da educação pré-escolar para as crianças a partir dos 5 anos de idade."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8872",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-07-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:54:41:173&drc=00:03:11:461"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=02:16:31:567&drc=00:01:33:749"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO EMPREGO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Silva Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29",
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/28?pgs=28-29,33-34&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, por forma a adequá-la à Lei n.º 85/2009, de 27 de agosto, que estabelece o regime de escolaridade obrigatória para as crianças e jovens que se encontram em idade escolar e consagra a universalidade da educação pré-escolar para as crianças a partir dos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=01:58:00:093&drc=00:02:58:088"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, por forma a adequá-la à Lei n.º 85/2009, de 27 de agosto, que estabelece o regime de escolaridade obrigatória para as crianças e jovens que se encontram em idade escolar e consagra a universalidade da educação pré-escolar para as crianças a partir dos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=02:01:05:143&drc=00:04:26:856"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, por forma a adequá-la à Lei n.º 85/2009, de 27 de agosto, que estabelece o regime de escolaridade obrigatória para as crianças e jovens que se encontram em idade escolar e consagra a universalidade da educação pré-escolar para as crianças a partir dos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=02:05:35:368&drc=00:04:10:127"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, por forma a adequá-la à Lei n.º 85/2009, de 27 de agosto, que estabelece o regime de escolaridade obrigatória para as crianças e jovens que se encontram em idade escolar e consagra a universalidade da educação pré-escolar para as crianças a partir dos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2215",
+                "nome": "Nuno Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=02:09:47:748&drc=00:02:49:153"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, por forma a adequá-la à Lei n.º 85/2009, de 27 de agosto, que estabelece o regime de escolaridade obrigatória para as crianças e jovens que se encontram em idade escolar e consagra a universalidade da educação pré-escolar para as crianças a partir dos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4325",
+                "nome": "José Manuel Canavarro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120704pln&url=l12/sl1/a2012/m07/&tI=02:12:42:173&drc=00:03:46:713"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-05",
+                "pubLeg": "XII",
+                "pubNr": "129",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Procede à terceira alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, por forma a adequá-la à Lei n.º 85/2009, de 27 de agosto, que estabelece o regime de escolaridade obrigatória para as crianças e jovens que se encontram em idade escolar e consagra a universalidade da educação pré-escolar para as crianças a partir dos 5 anos de idade.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285124",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8872",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-05",
+        "pubLeg": "XII",
+        "pubNr": "129",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/129/2012-07-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
