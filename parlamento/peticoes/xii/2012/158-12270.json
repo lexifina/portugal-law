@@ -1,0 +1,645 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12270",
+  "numero": "158",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-07-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-10-10",
+            "entidades": null,
+            "id": "93690",
+            "tipo": null,
+            "titulo": "Audição em 2012-10-10 com João Manuel Duarte Vasconcelos e outros"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-07-25",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério da Economia e do Emprego"
+            ],
+            "nrOficio": "382/CEOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-10-03",
+                "dataResposta": "2013-06-04",
+                "nrOficio": "423/CEOP",
+                "oficioResposta": "3006"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-06-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "635678",
+                "obs": null,
+                "pag": [
+                  "14-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-03-23",
+                "pubLeg": "XII",
+                "pubNr": "175",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/175/2012-03-23/14?pgs=14-17&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-07-25",
+        "DataArquivo": "2013-06-05",
+        "DataBaixaComissao": "2012-07-11",
+        "DataEnvioPAR": "2013-06-05",
+        "DataReaberta": "2012-07-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-07-25",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4a6b5a6a67794d6a59774c5445305a4759744e44566d59533035597a466c4c5751784d7a517a4d6a45355a544d784d7935775a47593d&fich=2df82260-14df-45fa-9c1e-d1343219e313.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-07-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5a6b4d47526d4e5451354c57526a4d5745744e4445334e6931684d6a67324c57526b4e445a6b4f44686b4d5463314e5335775a47593d&fich=6d0df549-dc1a-4176-a286-dd46d88d1755.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a686b59324d7a5a545a6d4c5456695a5449744e4463794e6931694e446b304c54646b4f546b344f475933595451784e5335775a47593d&fich=8dcc3e6f-5be2-4726-b494-7d9988f7a415.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-06-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3251335a47457a4f4463344c5759324e7a59744e4456694d7930344d7a4a6a4c54686b4d6a55784e7a426a4d7a59355a5335515245593d&fich=d7da3878-f676-45b3-832c-8d25170c369e.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-06-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a56684e6a4e6c4f47466a4c545a6b4e4759744e44426a5a5331694d6d55314c5749304d7a6b324f544d774d545a6c4e7935515245593d&fich=5a63e8ac-6d4f-40ce-b2e5-b439693016e7.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-07-25",
+            "gp": "PSD",
+            "id": "2641",
+            "motivoCessacao": null,
+            "nome": "Paulo Cavaleiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-12-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-07-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325533596a59344d475a684c5752684f5749744e4467344d793034597a597a4c54557a596a417a4f444669597a55324d7935775a47593d&fich=e7b680fa-da9b-4883-8c63-53b0381bc563.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38067",
+      "38071",
+      "38067",
+      "38071"
+    ],
+    "Iniciativasoriginadas": [
+      "38071",
+      "38067"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:11:26:975&drc=00:01:41:496"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:25:57:422&drc=00:02:29:232"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22",
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/22?pgs=22,26&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:13:14:887&drc=00:01:36:113"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:28:31:514&drc=00:02:43:291"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23",
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/22?pgs=22-23,26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:14:56:806&drc=00:02:54:194"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:17:56:039&drc=00:02:19:613"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:20:21:884&drc=00:02:56:115"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:23:23:765&drc=00:02:28:234"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:32:03:748&drc=00:01:31:840"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:33:41:412&drc=00:01:13:738"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a isenção de portagens na A22 (Via do Infante); Abolição da cobrança de portagens na Via do Infante; Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12270",
+    "PetAssunto": "Solicitam a suspensão das portagens na A22/Via do Infante de Sagres.",
+    "PetDataEntrada": "2012-07-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12270",
+    "PetLeg": "XII",
+    "PetNr": "158",
+    "PetNrAssinaturas": "13000",
+    "PetNrAssinaturasInicial": "5310",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1830",
+        "obs": null,
+        "pag": [
+          "22-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-07",
+        "pubLeg": "XII",
+        "pubNr": "25",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/22?pgs=22-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "596992",
+        "obs": null,
+        "pag": [
+          "16-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-28",
+        "pubLeg": "XII",
+        "pubNr": "263",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/01/263/2012-07-28/16?pgs=16&org=PLC"
+      }
+    ]
+  }
+}
