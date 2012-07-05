@@ -6,7 +6,7 @@
 
 ### Trânsito de veículos em serviço de urgência
 
-1 - Os condutores de veículos que transitem em missão de polícia, de prestação de socorro ou de serviço urgente de interesse público assinalando adequadamente a sua marcha podem, quando a sua missão o exigir, deixar de observar as regras e os sinais de trânsito, mas devem respeitar as ordens dos agentes reguladores do trânsito.
+1 - Os condutores de veículos que transitem em missão de polícia, de prestação de socorro, de segurança prisional ou de serviço urgente de interesse público assinalando adequadamente a sua marcha podem, quando a sua missão o exigir, deixar de observar as regras e os sinais de trânsito, mas devem respeitar as ordens dos agentes reguladores do trânsito.
 
 2 - Os referidos condutores não podem, porém, em circunstância alguma, pôr em perigo os demais utentes da via, sendo, designadamente, obrigados a suspender a sua marcha:
 

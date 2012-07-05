@@ -1,37 +1,31 @@
 # Artigo 122.º
 
-### Títulos de condução
+### Regime probatório
 
-1 - O documento que titula a habilitação para conduzir automóveis, motociclos, triciclos e quadriciclos designa-se «carta de condução».
+1 - A carta de condução emitida a favor de quem ainda não se encontrava legalmente habilitado a conduzir qualquer categoria de veículos fica sujeita a regime probatório durante os três primeiros anos da sua validade.
 
-2 - Designam-se «licenças de condução» os documentos que titulam a habilitação para conduzir:
+2 - Se, no período referido no número anterior, for instaurado contra o titular da carta de condução procedimento do qual possa resultar a condenação pela prática de crime por violação de regras de circulação rodoviária, contraordenação muito grave ou segunda contraordenação grave, o regime probatório é prorrogado até que a respetiva decisão transite em julgado ou se torne definitiva.
 
-a) Motociclos de cilindrada não superior a 50 cm3;
+3 - O regime probatório não se aplica às cartas de condução emitidas por troca por documento equivalente que habilite o seu titular a conduzir há mais de três anos, salvo se contra ele pender procedimento nos termos do número anterior.
 
-b) Ciclomotores;
+4 - Os titulares de carta de condução das categorias AM e A1 ou quadriciclos ligeiros ficam sujeitos ao regime probatório quando obtenham habilitação para conduzir outra categoria de veículos, ainda que o título inicial tenha mais de três anos de validade.
 
-c) Outros veículos a motor não referidos no número anterior, com excepção dos velocípedes com motor.
+5 - O regime probatório cessa uma vez findos os prazos previstos nos n.os 1 ou 2 sem que o titular seja condenado pela prática de crime, contraordenação muito grave ou por duas contraordenações graves.
 
-3 - Os documentos previstos nos números anteriores são emitidos pela entidade competente e válidos para as categorias ou subcategorias de veículos e períodos de tempo neles averbados, sem prejuízo do disposto nos números seguintes.
+6 - (Revogado.)
 
-4 - A carta de condução emitida a favor de quem não se encontra já legalmente habilitado para conduzir qualquer das categorias ou subcategorias de veículos nela previstas tem carácter provisório e só se converte em definitiva se, durante os três primeiros anos do seu período de validade, não for instaurado ao respectivo titular procedimento pela prática de crime ou contra-ordenação a que corresponda proibição ou inibição de conduzir.
+7 - (Revogado.)
 
-5 - Se, durante o período referido no número anterior, for instaurado procedimento pela prática de crime ou contra-ordenação a que corresponda proibição ou inibição de conduzir, a carta de condução mantém o carácter provisório até que a respectiva decisão transite em julgado ou se torne definitiva.
+8 - (Revogado.)
 
-6 - Os veículos conduzidos por titulares de carta de condução com carácter provisório devem ostentar à retaguarda dístico de modelo a definir em regulamento.
+9 - (Revogado.)
 
-7 - Os titulares de carta de condução válida apenas para as subcategorias A1 ou B1, quando obtenham habilitação em nova categoria, ficam sujeitos ao regime previsto no n.º 4 ainda que o título inicial tenha mais de três anos.
+10 - (Revogado.)
 
-8 - O disposto nos n.os 4 e 5 não se aplica ao título emitido através de troca por documento equivalente que habilite a conduzir há mais de três anos, salvo se contra o respectivo titular estiver pendente procedimento nos termos do n.º 5.
+11 - (Revogado.)
 
-9 - Nos títulos de condução só pode ser feito qualquer averbamento ou aposto carimbo pela entidade competente para a sua emissão.
+12 - (Revogado.)
 
-10 - A entidade competente para a emissão de títulos de condução deve organizar, nos termos fixados em regulamento, um registo nacional de condutores, donde constem todos os títulos emitidos, bem como a identidade e o domicílio dos respectivos titulares.
+13 - (Revogado.)
 
-11 - Sempre que mudarem de domicílio, os condutores devem comunicá-lo, no prazo de 30 dias, à entidade competente para a emissão dos títulos de condução.
-
-12 - Os titulares de título de condução emitido por outro Estado membro do Espaço Económico Europeu que fixem residência em Portugal devem, no prazo de 30 dias, comunicar ao serviço competente para a emissão das cartas de condução a sua residência em território nacional, para efeitos de actualização do registo de condutor.
-
-13 - A revalidação, troca, substituição e a emissão de duplicado do título de condução dependem do prévio cumprimento das sanções aplicadas ao condutor.
-
-14 - Quem infringir o disposto nos n.os 6, 9, 11 e 12 é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável.
+14 - (Revogado.)

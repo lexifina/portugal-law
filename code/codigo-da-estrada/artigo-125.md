@@ -2,28 +2,34 @@
 
 ### Outros títulos
 
-1 - Além dos títulos referidos nos artigos 123.º e 124.º, habilitam também à condução de veículos a motor:
+1 - Além dos títulos referidos nos n.os 4 e 5 do artigo 121.º são ainda títulos habilitantes para a condução de veículos a motor os seguintes:
 
-a) Licenças especiais de condução;
+a) Títulos de condução emitidos pelos serviços competentes pela administração portuguesa do território de Macau;
 
-b) Títulos de condução emitidos pelos serviços competentes da administração portuguesa do território de Macau;
+b) Títulos de condução emitidas por outros Estados membros da União Europeia ou do espaço económico europeu;
 
-c) Licenças de condução emitidas por outros Estados membros do espaço económico europeu;
+c) Títulos de condução emitidos por Estado estrangeiro em conformidade com o anexo n.º 9 da Convenção Internacional de Genebra, de 19 de setembro de 1949, sobre circulação rodoviária, ou com o anexo n.º 6 da Convenção Internacional de Viena, de 8 de novembro de 1968, sobre circulação rodoviária;
 
-d) Licenças de condução emitidas por Estado estrangeiro que o Estado Português se tenha obrigado a reconhecer, por convenção ou tratado internacional;
+d) Títulos de condução emitidas por Estado estrangeiro, desde que este reconheça idêntica validade aos títulos nacionais;
 
-e) Licenças de condução emitidas por Estado estrangeiro, desde que este reconheça idêntica validade aos títulos nacionais;
+e) Licenças internacionais de condução, desde que apresentadas com o título nacional que as suporta;
 
-f) Licenças internacionais de condução, desde que apresentadas com o título nacional que lhes deu origem.
+f) Licenças especiais de condução de ciclomotores;
 
-2 - As condições de emissão das licenças referidas na alínea a) do número anterior, bem como de autorizações especiais para conduzir, são fixadas em regulamento.
+g) Licenças especiais de condução;
 
-3 - O regulamento a que se refere o número anterior pode englobar disposições prevendo iniciativas pedagógicas dirigidas à condução de ciclomotores por condutores com idade não inferior a 14 anos.
+h) Autorizações especiais de condução;
 
-4 - Os titulares das licenças referidas nas alíneas d), e) e f) do n.º 1 não estão autorizados a conduzir veículos a motor se residirem em Portugal há mais de 185 dias.
+i) Autorizações temporárias de condução.
 
-5 - Os titulares das licenças referidas no n.º 1 apenas estão autorizados ao exercício da condução se possuírem a idade mínima exigida para a respectiva habilitação, nos termos deste Código.
+2 - A emissão das licenças e das autorizações especiais de condução bem como as condições em que os títulos estrangeiros habilitam a conduzir em território nacional são fixadas no RHLC.
 
-6 - A condução de veículos afectos a determinados transportes ou serviços pode ainda depender, nos termos fixados em legislação própria, da titularidade do correspondente documento de aptidão ou licenciamento profissional.
+3 - Os titulares das licenças referidas nas alíneas c), d) e e) do n.º 1 só estão autorizados a conduzir veículos a motor em Portugal durante os primeiros 185 dias subsequentes à fixação da sua residência.
 
-7 - Quem infringir o disposto nos n.os 4 e 5 é sancionado com coima de (euro) 300 a (euro) 1500.
+4 - Os títulos referidos no n.º 1 só permitem conduzir em território nacional se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respetiva habilitação.
+
+5 - Quem infringir o disposto nos n.os 3 e 4, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1500.
+
+6 - (Revogado.)
+
+7 - (Revogado.)

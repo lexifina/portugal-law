@@ -1,35 +1,33 @@
 # Artigo 130.º
 
-### Caducidade do título de condução
+### Caducidade e cancelamento dos títulos de condução
 
-1 - O título de condução caduca quando:
+1 - O título de condução caduca se:
 
-a) Sendo provisório nos termos dos n.os 4 e 5 do artigo 122.º, o seu titular tenha sido condenado pela pratica de um crime rodoviário, de uma contra-ordenação muito grave ou de duas contra-ordenações graves;
+a) Não for revalidado, nos termos fixados no RHLC, quanto às categorias abrangidas pela necessidade de revalidação, salvo se o respetivo titular demonstrar ter sido titular de documento idêntico e válido durante esse período;
 
-b) For cassado, nos termos do artigo 148.º
+b) O seu titular não se submeter ou reprovar na avaliação médica ou psicológica, no exame de condução ou em qualquer das suas provas, determinados ao abrigo dos n.os 1 e 5 do artigo anterior.
 
-2 - O título de condução caduca ainda quando:
+2 - A revalidação de título de condução caducado fica sujeita à aprovação do seu titular em exame especial de condução, cujo conteúdo e características são fixados no RHLC, sempre que:
 
-a) Não for revalidado nos termos fixados em regulamento, apenas no que se refere às categorias ou subcategorias abrangidas pela necessidade de revalidação;
+a) A causa de caducidade prevista na alínea a) do número anterior tenha ocorrido há mais de dois anos, com exceção da revalidação dos títulos das categorias AM, A1, A2, A, B1, B, BE cujos titulares não tenham completado 50 anos;
 
-b) O seu titular reprovar na inspecção médica exigida para a revalidação do título ou em exame psicológico determinado por autoridade de saúde;
+b) O título se encontre caducado há mais de um ano, nos termos da alínea b) do número anterior.
 
-c) O seu titular não se submeter ou reprovar em qualquer dos exames a que se referem os n.os 1 e 3 do artigo anterior.
+3 - O título de condução é cancelado quando:
 
-3 - A revalidação do título de condução ou a obtenção de novo título depende de aprovação em exame especial, cujo conteúdo e características são fixados em regulamento, quando o título de condução tenha caducado:
+a) Se encontrar em regime probatório e o seu titular for condenado, por sentença judicial ou decisão administrativa transitadas em julgado, pela prática de crime ligado ao exercício da condução, de uma contraordenação muito grave ou de segunda contraordenação grave;
 
-a) Nos termos do n.º 1;
+b) For cassado nos termos do artigo 148.º do presente Código ou do artigo 101.º do Código Penal;
 
-b) Nos termos da alínea a) do n.º 2, quando a caducidade se tiver verificado há pelo menos dois anos, salvo se os respectivos titulares demonstrarem ter sido titulares de documento idêntico e válido durante esse período;
+c) O titular reprove, pela segunda vez, no exame especial de condução a que for submetido nos termos do n.º 2;
 
-c) Nos termos da alínea b) do n.º 2;
+d) Tenha caducado há mais de cinco anos sem que tenha sido revalidado e o titular não seja portador de idêntico documento de condução válido.
 
-d) Nos termos da alínea c) do n.º 2, por motivo de falta ou reprovação a exame médico ou psicológico quando tenham decorrido mais de dois anos sobre a determinação de submissão àqueles exames.
+4 - São ainda sujeitos ao exame especial previsto no n.º 2 os titulares de títulos de condução cancelados ao abrigo das alíneas a) e b) do número anterior que queiram obter novo título de condução.
 
-4 - Ao novo título emitido nos termos da alínea a) do número anterior é aplicável o regime previsto nos n.os 4 e 5 do artigo 122.º
+5 - Os titulares de título de condução cancelados consideram-se, para todos os efeitos legais, não habilitados a conduzir os veículos para os quais o título fora emitido.
 
-5 - Os titulares de título de condução caducado nos termos do n.º 1 e das alíneas b) e c) do n.º 2 consideram-se, para todos os efeitos legais, não habilitados a conduzir os veículos para que aquele título foi emitido.
+6 - Ao novo título de condução obtido após cancelamento de um anterior é aplicável o regime probatório previsto no artigo 122.º
 
-6 - Salvo o disposto no número seguinte, os titulares de título de condução caducado nos termos da alínea a) do n.º 2 consideram-se, para todos os efeitos legais, não habilitados a conduzir os veículos para que aquele título foi emitido, apenas no que se refere às categorias ou subcategorias abrangidas pela necessidade de revalidação.
-
-7 - Quem conduzir veículo com título não revalidado nos termos da alínea a) do n.º 2, antes do decurso do prazo referido na alínea b) do n.º 3, é sancionado com coima de (euro) 120 a (euro) 600.
+7 - Quem conduzir veículo com título caducado é sancionado com coima de (euro) 120 a (euro) 600.»
