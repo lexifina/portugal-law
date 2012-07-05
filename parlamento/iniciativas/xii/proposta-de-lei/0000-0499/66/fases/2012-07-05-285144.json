@@ -1,0 +1,380 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "66",
+    "id": "37045",
+    "titulo": "Procede à primeira alteração ao Decreto-Lei n.º 286/2009, de 8 de outubro, que regula a assistência e o patrocínio judiciário aos bombeiros, nos processo judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-07-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8885",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-07-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120705pln&url=l12/sl1/a2012/m07/&tI=00:03:12:722&drc=00:02:49:933"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120705pln&url=l12/sl1/a2012/m07/&tI=00:22:15:608&drc=00:01:42:347"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRACAO INTERNA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Filipe Lobo D'Ávila"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4",
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-06",
+                "pubLeg": "XII",
+                "pubNr": "130",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/130/2012-07-06/3?pgs=3-4,7&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração ao Decreto-Lei n.º 286/2009, de 8 de outubro, que regula a assistência e o patrocínio judiciário aos bombeiros, nos processo judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1013",
+                "nome": "João Lobo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120705pln&url=l12/sl1/a2012/m07/&tI=00:06:29:403&drc=00:02:51:483"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-06",
+                "pubLeg": "XII",
+                "pubNr": "130",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/130/2012-07-06/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração ao Decreto-Lei n.º 286/2009, de 8 de outubro, que regula a assistência e o patrocínio judiciário aos bombeiros, nos processo judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1554",
+                "nome": "Filipe Neto Brandão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120705pln&url=l12/sl1/a2012/m07/&tI=00:09:46:010&drc=00:03:49:264"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-06",
+                "pubLeg": "XII",
+                "pubNr": "130",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/130/2012-07-06/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração ao Decreto-Lei n.º 286/2009, de 8 de outubro, que regula a assistência e o patrocínio judiciário aos bombeiros, nos processo judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4289",
+                "nome": "Teresa Anjinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120705pln&url=l12/sl1/a2012/m07/&tI=00:13:48:396&drc=00:02:55:339"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-06",
+                "pubLeg": "XII",
+                "pubNr": "130",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/130/2012-07-06/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração ao Decreto-Lei n.º 286/2009, de 8 de outubro, que regula a assistência e o patrocínio judiciário aos bombeiros, nos processo judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120705pln&url=l12/sl1/a2012/m07/&tI=00:16:52:697&drc=00:01:43:956"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-06",
+                "pubLeg": "XII",
+                "pubNr": "130",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/130/2012-07-06/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração ao Decreto-Lei n.º 286/2009, de 8 de outubro, que regula a assistência e o patrocínio judiciário aos bombeiros, nos processo judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120705pln&url=l12/sl1/a2012/m07/&tI=00:18:43:529&drc=00:03:19:078"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-06",
+                "pubLeg": "XII",
+                "pubNr": "130",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/130/2012-07-06/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração ao Decreto-Lei n.º 286/2009, de 8 de outubro, que regula a assistência e o patrocínio judiciário aos bombeiros, nos processo judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285144",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8885",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-06",
+        "pubLeg": "XII",
+        "pubNr": "130",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/130/2012-07-06?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
