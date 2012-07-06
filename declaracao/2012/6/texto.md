@@ -1,0 +1,3 @@
+Declaração n.º 6/2012
+Em conformidade com o previsto na alínea f) do n.º 1 do artigo 97.º da Lei n.º 2/2008, de 14 de janeiro, declara-se, com referência às personalidades designadas por Resolução da Assembleia da República n.º 136/2011, publicada no Diário da República, 1.ª série, de 24 de outubro, que Ricardo Manuel de Amaral Rodrigues renunciou ao mandato de membro efetivo do conselho geral do Centro de Estudos Judiciários, com efeitos a partir de 26 de junho de 2012, inclusive, sendo substituído nesse cargo pelo membro suplente Pedro Filipe Mota Delgado Simões Alves.
+Assembleia da República, 3 de julho de 2012. - O Secretário-Geral, J. Cabral Tavares.
