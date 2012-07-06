@@ -1,0 +1,711 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "69",
+    "id": "37048",
+    "titulo": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8899",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-07-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:05:15:448&drc=00:05:46:880"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:19:43:562&drc=00:03:30:060"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:52:42:395&drc=00:03:51:887"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:58:26:804&drc=00:01:21:195"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.   DA  CULTURA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Francisco José Viegas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20",
+                  "22-23",
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/19?pgs=19-20,22-23,30-32&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4435",
+                "nome": "Ana Sofia Bettencourt"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:11:18:519&drc=00:01:52:664"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:13:16:872&drc=00:02:03:918"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:15:25:038&drc=00:01:00:250"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4064",
+                "nome": "Inês de Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:16:30:350&drc=00:02:24:500"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/22?pgs=22&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:19:00:100&drc=00:00:37:522"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "185974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/22?pgs=22&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4064",
+                "nome": "Inês de Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:23:18:809&drc=00:06:42:411"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:34:17:536&drc=00:01:38:269"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/23?pgs=23-26&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4051",
+                "nome": "Maria Conceição Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:30:12:095&drc=00:03:58:128"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:35:57:746&drc=00:06:40:849"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/26?pgs=26-28&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:42:44:612&drc=00:03:27:954"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:46:17:383&drc=00:04:00:500"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:56:47:912&drc=00:01:31:418"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/29?pgs=29-32&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2114",
+                "nome": "Emídio Guerreiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=01:50:30:235&drc=00:02:06:128"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285194",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8899",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-07",
+        "pubLeg": "XII",
+        "pubNr": "131",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
