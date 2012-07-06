@@ -1,0 +1,130 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "72",
+    "id": "37063",
+    "titulo": "Define meios de prevenção e combate ao furto e recetação de metais não preciosos, mas com valor comercial, e prevê mecanismos adicionais e de reforço no âmbito da fiscalização pelas forças e serviços de segurança da atividade de gestão de resíduos."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "29304",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-07-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-07-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d6a49354e32566c597931694d6d4e6c4c5452684e6a67744f44426c4e53316a596a55795954526a4e7a4d344d5755756347526d&fich=d2297eec-b2ce-4a68-80e5-cb52a4c7381e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e3251344e6a686c4e6930784d3251314c5452694f474974596a646b4d53316a4d444e694d3246684d475932596a4d756347526d&fich=b7d868e6-13d5-4b8b-b7d1-c03b3aa0f6b3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração PS [Artigo 7.º]",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830596a56695a6a526a5a533032595451324c54526c4d4451744f54497a4f4330304f4459784d574e6b596a4268595467756347526d&fich=4b5bf4ce-6a46-4e04-9238-48611cdb0aa8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Proposta de Alteração PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785932597a4e6d526a4d53307a596a63794c5451314f5749744f4445354f5330775a44677a4e6a6b794f574a6d597a45756347526d&fich=1cf36dc1-3b72-459b-8199-0d836929bfc1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-19",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comaparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a475a68597a55344d79316c4d5759304c545268595441744f5451785a43316d4d324e695a544a695a5441304d324d756347526d&fich=bdfac583-e1f4-4aa0-941d-f3cbe2be043c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final e relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d5455344e32526a597930794d7a46694c54526b595451745957466b4d53316a4d6a6c6c5a4441784f5759794d4745756347526d&fich=b1587dcc-231b-4da4-aad1-c29ed019f20a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2012-07-19",
+            "numeroOficio": "1028/XII/1.ª",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          },
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2012-07-30",
+            "numeroOficio": "1052/XII/1.ª",
+            "observacoes": null,
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2012-07-06",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285350",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
