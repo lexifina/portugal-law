@@ -1,0 +1,485 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "32",
+    "id": "36936",
+    "titulo": "Aprova o Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8902",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-07-06",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "36912",
+        "leg": "XII",
+        "nr": "31",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1674",
+            "obs": null,
+            "pag": [
+              "52-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-07",
+            "pubLeg": "XII",
+            "pubNr": "131",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/52?pgs=52-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1674",
+            "obs": null,
+            "pag": [
+              "52-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-07",
+            "pubLeg": "XII",
+            "pubNr": "131",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/52?pgs=52-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "S",
+        "titulo": "Aprova Anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas em 21 de novembro de 1947."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "36937",
+        "leg": "XII",
+        "nr": "33",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1674",
+            "obs": null,
+            "pag": [
+              "52-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-07",
+            "pubLeg": "XII",
+            "pubNr": "131",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/52?pgs=52-54&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1674",
+            "obs": null,
+            "pag": [
+              "52-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-07",
+            "pubLeg": "XII",
+            "pubNr": "131",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/52?pgs=52-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "S",
+        "titulo": "Aprova o Recesso por Parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:39:33:275&drc=00:02:02:471"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova Anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas em 21 de novembro de 1947; Aprova o Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011; Aprova o Recesso por Parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:41:41:746&drc=00:01:30:081"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Aprova Anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas em 21 de novembro de 1947; Aprova o Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011; Aprova o Recesso por Parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4427",
+                "nome": "José Lino Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:43:17:031&drc=00:01:27:362"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Aprova Anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas em 21 de novembro de 1947; Aprova o Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011; Aprova o Recesso por Parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:44:48:393&drc=00:01:07:824"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Aprova Anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas em 21 de novembro de 1947; Aprova o Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011; Aprova o Recesso por Parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4440",
+                "nome": "Mónica Ferro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:45:59:967&drc=00:01:55:395"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova Anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas em 21 de novembro de 1947; Aprova o Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011; Aprova o Recesso por Parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:48:03:796&drc=00:01:22:141"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO  E DOS ASSUNTOS EUROPEUS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Morais Leitão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova Anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas em 21 de novembro de 1947; Aprova o Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011; Aprova o Recesso por Parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285214",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "598907",
+        "obs": null,
+        "pag": [
+          "52-54"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-07",
+        "pubLeg": "XII",
+        "pubNr": "131",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/52?pgs=52-54&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
