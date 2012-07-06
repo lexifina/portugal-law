@@ -1,0 +1,376 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "71",
+    "id": "37064",
+    "titulo": "Autoriza o Governo a regular o acesso à atividade das instituições de moeda electrónica e da prestação de serviços de emissão de moeda electrónica, no âmbito da transposição da Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda electrónica, ao seu exercício e à sua supervisão prudencial."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8900",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-07-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=02:58:29:823&drc=00:02:30:961"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA   ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Hélder Rosalino"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/43?pgs=43&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a regular o acesso à atividade das instituições de moeda electrónica e da prestação de serviços de emissão de moeda electrónica, no âmbito da transposição da Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda electrónica, ao seu exercício e à sua supervisão prudencial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4336",
+                "nome": "Elsa Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:01:08:414&drc=00:02:38:128"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a regular o acesso à atividade das instituições de moeda electrónica e da prestação de serviços de emissão de moeda electrónica, no âmbito da transposição da Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda electrónica, ao seu exercício e à sua supervisão prudencial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:03:51:933&drc=00:00:40:377"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a regular o acesso à atividade das instituições de moeda electrónica e da prestação de serviços de emissão de moeda electrónica, no âmbito da transposição da Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda electrónica, ao seu exercício e à sua supervisão prudencial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4403",
+                "nome": "Vera Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:04:37:139&drc=00:02:30:101"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a regular o acesso à atividade das instituições de moeda electrónica e da prestação de serviços de emissão de moeda electrónica, no âmbito da transposição da Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda electrónica, ao seu exercício e à sua supervisão prudencial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:07:13:519&drc=00:01:28:630"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a regular o acesso à atividade das instituições de moeda electrónica e da prestação de serviços de emissão de moeda electrónica, no âmbito da transposição da Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda electrónica, ao seu exercício e à sua supervisão prudencial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120706pln&url=l12/sl1/a2012/m07/&tI=03:08:45:900&drc=00:03:56:887"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-07",
+                "pubLeg": "XII",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a regular o acesso à atividade das instituições de moeda electrónica e da prestação de serviços de emissão de moeda electrónica, no âmbito da transposição da Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda electrónica, ao seu exercício e à sua supervisão prudencial.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285198",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8900",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-07",
+        "pubLeg": "XII",
+        "pubNr": "131",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/131/2012-07-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
