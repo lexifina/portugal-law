@@ -1,0 +1,4 @@
+Aviso n.º 9329/2012
+Na sequência do Aviso n.º 6695/2012, publicado no Diário da República, 2.ª série, n.º 94, de 15 de maio de 2012, torna-se público que, em sessão da Assembleia Municipal realizada em 28 de junho de 2012, sob proposta da Câmara Municipal, e após ter decorrido o prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, foi aprovado, o Regulamento de Ocupação do Espaço Público e de Publicidade do Município de Mafra, com o conteúdo constante da citada publicação de 15 de maio de 2012, à exceção do teor do artigo 90.º (Entrada em vigor) que, aonde se lê Decreto-Lei n.º 48/2001, deverá ler-se Decreto-Lei n.º 48/2011, o qual entrará em vigor 15 dias após a sua publicitação nos termos legais, sem prejuízo das disposições regulamentares emanadas ao abrigo do Decreto-Lei n.º 48/2011, de 1 de abril.
+2 de julho de 2012. - O Presidente da Câmara Municipal, José Maria Ministro dos Santos, eng.
+306222674
