@@ -6,7 +6,7 @@
 
 ### Natureza
 
-1 - O Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, abreviadamente designado por IASAÚDE, IP-RAM, é um instituto público integrado na administração indirecta da Região, dotado de autonomia administrativa e financeira e património próprio.
+1 - O Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, abreviadamente designado por IASAÚDE, IP-RAM, é um instituto público integrado na administração indireta da Região, dotado de autonomia administrativa e financeira e património próprio.
 
 2 - O IASAÚDE, IP-RAM, prossegue atribuições da Secretaria Regional dos Assuntos Sociais, sob superintendência e tutela do respectivo Secretário Regional.
 

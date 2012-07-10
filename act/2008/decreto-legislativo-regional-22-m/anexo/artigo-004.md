@@ -4,8 +4,8 @@
 
 São órgãos do IASAÚDE, IP-RAM:
 
-a) O presidente;
+a) O conselho diretivo;
 
-b) O conselho consultivo;
+b) (Revogada.)
 
 c) O fiscal único.
