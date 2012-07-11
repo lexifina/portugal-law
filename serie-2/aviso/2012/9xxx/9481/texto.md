@@ -1,0 +1,4 @@
+Aviso n.º 9481/2012
+Na sequência do Aviso n.º 5813/2012, publicado no Diário da República, 2.ª série, n.º 81, de 24 de abril de 2012, torna-se público que, em sessão da Assembleia Municipal, realizada em 28 de junho de 2012, sob proposta da Câmara Municipal, e após ter decorrido o prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, foi aprovado, o Regulamento Municipal de Utilização, Limpeza e Conservação de Espaços Verdes Públicos ou Privados de Utilização Pública e de Solos Urbanos e Espaços Não Florestais, Privados, o qual entrará em vigor 15 dias após a sua publicitação, com o conteúdo constante da citada publicação de 24 de abril de 2012.
+2 de julho de 2012. - O Presidente da Câmara Municipal, José Maria Ministro dos Santos, Eng.º
+306229349
