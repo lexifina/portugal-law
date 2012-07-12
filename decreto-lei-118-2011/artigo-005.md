@@ -2,7 +2,7 @@
 
 ### Conselho de Administração da Autoridade Tributária e Aduaneira
 
-1 - O conselho de administração da Autoridade Tributária e Aduaneira, abreviadamente designado por CAAT, é constituído pelo diretor-geral, que preside, pelos subdiretores-gerais, pelo diretor do Centro de Estudos Fiscais e Aduaneiros, pelo diretor da Unidade dos Grandes Contribuintes, pelo diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras e pelos diretores de finanças de Lisboa e do Porto, e possui competências decisórias e consultivas.
+1 - O Conselho de Administração da Autoridade Tributária e Aduaneira, abreviadamente designado por CAAT, é constituído pelo director-geral, que preside, pelos subdirectores-gerais, pelo director do Centro de Estudos Fiscais e Aduaneiros, pelo director da Unidade dos Grandes Contribuintes e pelos directores de finanças de Lisboa e do Porto, e possui competências decisórias e consultivas.
 
 2 - O director-geral designa dois dos subdirectores-gerais para o coadjuvar no exercício de funções de coordenação do CAAT.
 
