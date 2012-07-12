@@ -1,0 +1,380 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "84",
+    "id": "37147",
+    "titulo": "Cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-07-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8915",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-07-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:09",
+            "horaTermo": "18:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120712pln&url=l12/sl1/a2012/m07/&tI=04:18:30:705&drc=00:03:51:213"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120712pln&url=l12/sl1/a2012/m07/&tI=04:40:28:306&drc=00:01:53:693"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO DESPORTO E JUVENTUDE",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Alexandre  Mestre"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62",
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-13",
+                "pubLeg": "XII",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/133/2012-07-13/61?pgs=61-62,66&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:09",
+            "horaTermo": "18:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120712pln&url=l12/sl1/a2012/m07/&tI=04:22:25:606&drc=00:03:05:106"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-13",
+                "pubLeg": "XII",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/133/2012-07-13/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4381",
+                "nome": "Paulo Simões Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:09",
+            "horaTermo": "18:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120712pln&url=l12/sl1/a2012/m07/&tI=04:25:35:715&drc=00:02:45:850"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-13",
+                "pubLeg": "XII",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/133/2012-07-13/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:09",
+            "horaTermo": "18:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120712pln&url=l12/sl1/a2012/m07/&tI=04:28:26:252&drc=00:04:00:956"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-13",
+                "pubLeg": "XII",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/133/2012-07-13/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:09",
+            "horaTermo": "18:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120712pln&url=l12/sl1/a2012/m07/&tI=04:32:29:710&drc=00:04:12:801"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-13",
+                "pubLeg": "XII",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/133/2012-07-13/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:09",
+            "horaTermo": "18:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120712pln&url=l12/sl1/a2012/m07/&tI=04:36:47:828&drc=00:03:31:976"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-13",
+                "pubLeg": "XII",
+                "pubNr": "133",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/133/2012-07-13/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "285446",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8915",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-13",
+        "pubLeg": "XII",
+        "pubNr": "133",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/133/2012-07-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
