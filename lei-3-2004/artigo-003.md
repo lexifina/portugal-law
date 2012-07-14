@@ -8,4 +8,4 @@
 
 3 - Não se consideram abrangidas pela presente lei as entidades públicas empresariais previstas no Decreto-Lei n.º 558/99, de 17 de Dezembro.
 
-4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pelo Estado, Regiões Autónomas ou autarquias locais não são abrangidas pela presente lei, devendo essa criação ser sempre autorizada por diploma legal.
+4 - As sociedades e as associações criadas como pessoas coletivas de direito privado pelo Estado, Regiões Autónomas ou autarquias locais não são abrangidas pela presente lei, devendo essa criação ser sempre autorizada por diploma legal.
