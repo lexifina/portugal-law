@@ -1,0 +1,5 @@
+Aviso n.º 9788/2012
+Joaquim José Pinto Moreira, Presidente da Câmara Municipal de Espinho, torna público o seguinte:
+Para os devidos efeitos, torna-se público que a Assembleia Municipal de Espinho, por deliberação tomada na sua reunião de 7 de maio de 2012 (integrada na 2.ª Sessão Ordinária de 2012), ao abrigo do seu poder regulamentar previsto no n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de setembro, e de acordo com o regime previsto nos artigos 114.º a 119.º do Código do Procedimento Administrativo (CPA), e depois de cumprido o período de discussão pública para efeitos do artigo 118.º/1 do CPA revogou o "Plano de Pormenor de Ordenamento e Contenção de Clandestinos dos Lugares de Bouçós e de Coteiro - Guetim", passando a vigorar na respetiva área o disposto no Plano Diretor Municipal de Espinho, em consonância com a proposta aprovada pela Câmara Municipal de Espinho, em sua reunião ordinária de 27 de janeiro de 2012.
+22 de junho de 2012. - O Presidente da Câmara, Dr. Joaquim José Pinto Moreira.
+206233196
