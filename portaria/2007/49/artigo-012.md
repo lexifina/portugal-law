@@ -32,11 +32,11 @@ c) O valor unitário a que se referem as alíneas anteriores será aplicado, con
 
 d) A aplicação do valor referencial por aluno por ano na determinação do valor do subsídio por turma, por curso, será objecto de reapreciação ao fim de cada período de três anos, tendo em conta os custos de formação incorridos, apurados pela análise da média dos custos de funcionamento directamente associados à oferta formativa em causa, constantes das últimas demonstrações financeiras aprovadas e demais documentos contabilísticos correspondentes, relativos às escolas profissionais privadas onde é ministrado o referido curso, assim como as alterações sócio-económicas entretanto ocorridas com impacte significativo ao nível da oferta formativa correspondente.
 
-6 - O acesso efectivo pelas entidades candidatas ao valor do subsídio por turma por curso está dependente dos limites legais definidos nos termos das alíneas seguintes, em matéria de constituição de turmas:
+6 - O acesso efetivo pelas entidades candidatas ao valor do subsídio por turma por curso, está dependente dos limites legalmente estabelecidos em matéria de constituição de turmas.
 
-a) No caso dos cursos profissionais, o respeito pelos limites e condições estabelecidos no capítulo vi do despacho n.º 14 758/2004, de 23 de Julho;
+a) (Revogada.)
 
-b) No caso dos cursos de educação e formação de jovens, o respeito pelos limites e condições estabelecidos no despacho n.º 12 568/2010, publicado no Diário da República, 2.ª série, n.º 150, de 4 de Agosto de 2010, que altera o despacho conjunto n.º 453/2004, publicado no Diário da República, 2.ª série, n.º 175, de 27 de Julho de 2004, rectificado pela declaração de rectificação n.º 1673/2004, de 7 de Setembro.
+b) (Revogada.)
 
 7 - As entidades proprietárias das escolas profissionais privadas não poderão ser beneficiárias de outro tipo de apoios ao mesmo fim destinados relativamente aos alunos que integram as turmas objecto do financiamento.
 

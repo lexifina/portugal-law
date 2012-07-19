@@ -8,13 +8,13 @@
 
 3 - A redução referida nos números anteriores será efectuada sempre que se verifiquem as seguintes situações:
 
-a) No caso dos cursos profissionais, sempre que o número de alunos nas turmas apoiadas seja inferior a 18;
+a) No caso dos cursos profissionais, sempre que o número de alunos nas turmas apoiadas seja inferior a 22;
 
-b) No caso dos cursos profissionais de música, sempre que o número de alunos nas turmas apoiadas seja inferior a 15;
+b) No caso dos cursos profissionais de música, sempre que o número de alunos nas turmas apoiadas seja inferior a 14;
 
 c) No caso dos cursos de educação e formação de jovens, sempre que o número de alunos nas turmas apoiadas seja inferior a 15.
 
-4 - A redução ao valor anual do subsídio por turma por curso prevista no número anterior corresponderá nos cursos profissionais ao quantitativo de 4,35 % por cada aluno abaixo dos limites referidos e nos cursos de educação formação de jovens de 5 % por cada aluno abaixo dos limites referidos.
+4 - A redução ao valor anual do subsídio por turma por curso prevista no número anterior corresponderá, nos cursos profissionais, ao quantitativo de 3,33 % por cada aluno abaixo dos limites referidos e, nos cursos de educação e formação de jovens, de 5 % por cada aluno abaixo dos limites referidos.
 
 5 - Para efeitos de aplicação dos números anteriores e sem embargo do disposto nos números seguintes, são considerados alunos matriculados aqueles que constarem das listas nominais a enviar anualmente à respectiva direcção regional de educação pelas escolas profissionais privadas até à data de 6 de Outubro.
 
