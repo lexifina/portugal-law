@@ -1,0 +1,72 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "85",
+  "id": "37183",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-07-19",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a646a5a5455774e5467744e54566c5a5330304e5449324c546b324f4745744d7a64694d54526a596d526b4e3245304c6e426b5a673d3d&fich=67ce5058-55ee-4526-968a-37b14cbdd7a4.pdf&Inline=true",
+        "anexoNome": "Parecer da Associação Nacional de Municípios Portugueses"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765932566b4f4459315a446b744f5456694d7930305a4451344c5745354d4759745a6a686d4e6d45305a5755794d4746694c6e426b5a673d3d&fich=ced865d9-95b3-4d48-a90f-f8f6a4ee20ab.pdf&Inline=true",
+        "anexoNome": "Parecer da Comissão Nacional de Proteção de Dados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5451774d3259334e4751744e7a67774d6930305a4467354c546b79596a67744f546333596a59314e444d355a4756684c6e426b5a673d3d&fich=1403f74d-7802-4d89-92b8-977b65439dea.pdf&Inline=true",
+        "anexoNome": "Parecer da Federação Nacional das Associações de Feirantes"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a5934597a526a593259744d54686a595330304d6a6b314c5468694e444d744d6a4d345a5467334f4456684d6a466a4c6e426b5a673d3d&fich=f68c4ccf-18ca-4295-8b43-238e8785a21c.pdf&Inline=true",
+        "anexoNome": "Parecer da Ass. de Feiras e Mercados da Região Norte"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e44426b596a52685a5451744d6d56684e4330304f445a6d4c546b334e6d49744d5441344e6a4578597a4d34595445354c6e426b5a673d3d&fich=40db4ae4-2ea4-486f-976b-108611c38a19.pdf&Inline=true",
+        "anexoNome": "Parecer da Associação para o Desenvolvimento das Actividades em Portugal de Circos, Divertimentos e Espectáculos"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d51774d47566b4d544174595467794d4330304d6d4e6b4c546c684e6d5174595755774e4463304e5455304e4755784c6e426b5a673d3d&fich=fd00ed10-a820-42cd-9a6d-ae04745544e1.pdf&Inline=true",
+        "anexoNome": "Parecer da Associação Portuguesa de Hotelaria, Restauração e Turismo"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f445a6b59544d344e4755745a546735596930304e544a6a4c54686859544d745a5749324d7a41345a6a63354d7a4d774c6e426b5a673d3d&fich=86da384e-e89b-452c-8aa3-eb6308f79330.pdf&Inline=true",
+        "anexoNome": "Parecer da Associação de Feirantes do Distrito do Porto"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37183",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595751785954457a4e4459744d6a417a4e4330304e324a684c5467314d4751745a6a566c4d6a63334f44677a4f546c684c6d527659773d3d&fich=ad1a1346-2034-47ba-850d-f5e27788399a.doc&Inline=true",
+    "IniNr": "85",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o regime jurídico a que fica sujeita a atividade de comércio a retalho não sedentária exercida por feirantes e vendedores ambulantes, bem como o regime aplicável às feiras e aos recintos onde as mesmas se realizam.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
