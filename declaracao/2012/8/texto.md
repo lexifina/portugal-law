@@ -1,0 +1,3 @@
+Declaração n.º 8/2012
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 19/XII ao Decreto-Lei n.º 106/2012, de 17 de maio, que procede à primeira alteração ao Decreto-Lei n.º 8/2011, de 11 de janeiro, que aprova os valores devidos pelo pagamento de atos das autoridades de saúde e de serviços prestados por outros profissionais de saúde pública, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que a proposta de alteração apresentada foi rejeitada pela Comissão de Saúde, tendo o Plenário sido informado do facto.
+Assembleia da República, 5 de julho de 2012. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
