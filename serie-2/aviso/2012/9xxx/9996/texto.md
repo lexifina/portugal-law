@@ -1,0 +1,6 @@
+Aviso n.º 9996/2012
+Discussão Pública do Plano de Pormenor de Reconversão da Quinta das Chinelinhas
+Alfredo José Monteiro da Costa, Presidente da Câmara Municipal do Seixal, torna público que, nos termos do n.º 3 do Artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, com as alterações introduzidas pelos Decretos-Lei n.º 316/2007, 46/2009 e 181/2009 de 19 de setembro, 20 de fevereiro e 7 de agosto, respetivamente, está a decorrer, por um período de 30 dias após a data da publicação do presente aviso no Diário da República, um processo de discussão pública da proposta do Plano de Pormenor de Reconversão da Quinta das Chinelinhas.
+Durante aquele período, os interessados poderão consultar no Balcão Único de Atendimento (Urbanismo) nos Serviços Centrais da Câmara e na Comissão de Comproprietários da Quinta das Chinelinhas com sede na Rua Quinta do Sapatão, Fernão Ferro, a proposta, os termos de referência, onde consta nomeadamente, a isenção de avaliação ambiental estratégica, a ata da conferência de serviços, os pareceres emitidos pelas entidades, os resultados da concertação, bem como apresentar as suas reclamações, observações ou sugestões mediante requerimento dirigido ao Sr. Presidente da Câmara Municipal.
+12 de julho de 2012. - O Presidente da Câmara, Alfredo José Monteiro da Costa.
+206258096
