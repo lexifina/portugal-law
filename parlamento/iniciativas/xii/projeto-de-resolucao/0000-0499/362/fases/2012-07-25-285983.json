@@ -1,0 +1,568 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "362",
+    "id": "37052",
+    "titulo": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-07-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8943",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-07-25",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37187",
+        "leg": "XII",
+        "nr": "438",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1680",
+            "obs": null,
+            "pag": [
+              "44-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-26",
+            "pubLeg": "XII",
+            "pubNr": "135",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/44?pgs=44-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1680",
+            "obs": null,
+            "pag": [
+              "44-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-26",
+            "pubLeg": "XII",
+            "pubNr": "135",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/44?pgs=44-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1680",
+            "obs": null,
+            "pag": [
+              "44-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-26",
+            "pubLeg": "XII",
+            "pubNr": "135",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/44?pgs=44-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1680",
+            "obs": null,
+            "pag": [
+              "44-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-07-26",
+            "pubLeg": "XII",
+            "pubNr": "135",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/44?pgs=44-52&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-07-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:55:08:234&drc=00:04:25:586"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste; Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS; Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar; Pretendem a manutenção do Hospital das Caldas da Rainha;Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=02:59:58:876&drc=00:03:27:123"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste; Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS; Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar; Pretendem a manutenção do Hospital das Caldas da Rainha;Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4051",
+                "nome": "Maria Conceição Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=03:03:37:064&drc=00:02:27:502"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste; Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS; Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar; Pretendem a manutenção do Hospital das Caldas da Rainha;Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2259",
+                "nome": "Nuno André Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=03:06:21:878&drc=00:03:08:515"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste; Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS; Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar; Pretendem a manutenção do Hospital das Caldas da Rainha;Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=03:09:42:231&drc=00:03:19:216"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste; Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS; Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar; Pretendem a manutenção do Hospital das Caldas da Rainha;Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4353",
+                "nome": "Manuel Isaac"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=03:13:15:579&drc=00:04:36:897"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/49?pgs=49-51&org=PLC"
+              }
+            ],
+            "sumario": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste; Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS; Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar; Pretendem a manutenção do Hospital das Caldas da Rainha;Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120725pln&url=l12/sl1/a2012/m07/&tI=03:18:15:726&drc=00:02:26:626"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-07-26",
+                "pubLeg": "XII",
+                "pubNr": "135",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Rejeição da proposta de reorganização dos cuidados hospitalares na Região Oeste; Recomenda ao Governo a manutenção das urgências dos Hospitais de Peniche e de Torres Vedras e a continuação do Hospital Termal das Caldas da Rainha como unidade do SNS; Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar; Pretendem a manutenção do Hospital das Caldas da Rainha;Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Discussão conjunta com as Petições n.º 105/XII/1.ª, 109/XII/1.ª e 116/XII/1.ª.",
+    "OevId": "285983",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XII",
+        "nr": "116",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Solicitam a manutenção de todos os serviços do Centro Hospitalar de Torres Vedras, assim como reforço financeiro e o reforço do número de profissionais de saúde."
+      },
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XII",
+        "nr": "109",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Pretendem a manutenção do Hospital das Caldas da Rainha."
+      },
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XII",
+        "nr": "105",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Pretendem que o Ministro da Saúde  reavalie a reforma que pretende levar a cabo nos serviços de saúde do Oeste, criando um único Centro Hospitalar."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "604808",
+        "obs": null,
+        "pag": [
+          "44-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-07-26",
+        "pubLeg": "XII",
+        "pubNr": "135",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/01/135/2012-07-26/44?pgs=44-52&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
