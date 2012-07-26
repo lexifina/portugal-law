@@ -1,0 +1,233 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "86",
+    "id": "37196",
+    "titulo": "Institui a proibição genérica de todas as substâncias psicoativas."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-07-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "29545",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-07-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-07-26",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-10-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Autoridade de Segurança Alimentar e Económica - ASAE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f4751784d6a63325979307a4d6d49794c5451314d446b74596d59784f5330354e4445354d6a4a6d4d6d4e69595463756347526d&fich=08d1276c-32b2-4509-bf19-941922f2cba7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Direção-Geral do Consumidor",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e32466b5a5759775953316c4e324d324c5451774e47517459546c6a4e43316c4e6d4e6a4e6a45315a5441354d7a51756347526d&fich=b7adef0a-e7c6-404d-a9c4-e6cc615e0934.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências - SICAD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d5745784e324d344f53316c4e4759344c54526a4e474574596a41794d5330774d4467335a4746695a47466c4d7a45756347526d&fich=f1a17c89-e4f8-4c4a-b021-0087dabdae31.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo do Observatório Europeu da Droga e Toxicodependência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878593245324d57526d597930354e47517a4c5451314d3249744f47497a4d4331685a6d46684d6d55774e3249794f4745756347526d&fich=1ca61dfc-94d3-453b-8b30-afaa2e07b28a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-04",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação da INFARMED sobre a solicitação de contributo efetuada pela CACDLG.",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f4459794d7a5a69595330325a574a6c4c5452684e7a41744f5456685a5331684e445130596a686b4e6a67304d7a67756347526d&fich=986236ba-6ebe-4a70-95ae-a444b8d68438.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - INFARMED",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d6a4a684e4459344f433032596d55354c54513159324d744f5441304f4330324e3249314d6a51354f5445775a5455756347526d&fich=722a4688-6be9-45cc-9048-67b5249910e5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-28",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a54566a4e6a466b4e6930324d5449784c5451354e6a67744f4442694d433168597a566c4d54566b4e546c6d5a4455756347526d&fich=0e5c61d6-6121-4968-80b0-ac5e15d59fd5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-09-12",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Prorrogação do prazo de apreciação na generalidade por +30 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e324d334e5749785a43316a596a4a684c5451354d5441744f4755324f4330304e6d55775a44457a5a54417a4d6d51756347526d&fich=e7c75b1d-cb2a-4910-8e68-46e0d13e032d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-07-26",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Reapreciação do Despacho pela PAR - Comissão Competente",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a596a566d596a426d4f5330354d5749334c54526d5a54597459546778595330344d325a6c5a446b334d4446684e3249756347526d&fich=cb5fb0f9-91b7-4fe6-a81a-83fed9701a7b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Relatório Anual de 2012 do Observatório Europeu da Droga e da Toxicodependência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334f544d304d3251795a6930324d545a684c5451354f474d744f5459304d6930354e3255354e5451324d7a566b5a574d756347526d&fich=79343d2f-616a-498c-9642-97e954635dec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-08",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º___/2012/M",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a59546b7a4e5463334e533030596a6b7a4c54517a4d6d5974596d5a6b4e69316b5a4755354f57466b4e7a517a4f5749756347526d&fich=ca935775-4b93-432f-bfd6-dde99ad7439b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-21",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Tabela CERDP - Substâncias Psicoativas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968596a557a4f5759304d4330325a6d55794c5452694e4451745957466a5a4330324f57566d4f5749304e57497a5a444d756347526d&fich=ab539f40-6fe2-4b44-aacd-69ef9b45b3d3.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde em 2012-09-14"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde em 2012-07-31"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "17-27"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-06",
+            "pubLeg": "XII",
+            "pubNr": "47",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/047/2012-12-06/17?pgs=17-27&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "17-27"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-06",
+            "pubLeg": "XII",
+            "pubNr": "47",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/047/2012-12-06/17?pgs=17-27&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1537",
+            "motivoCessacao": null,
+            "nome": "Hugo Velosa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-11-28",
+            "dataRemessa": "2012-11-28",
+            "numeroOficio": "1554/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-11-28",
+            "descricao": null,
+            "detalhe": null,
+            "id": "62162",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "108",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-07-26",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Requerida a prorrogação do prazo por mais 30 dias (Of. 1106/XII/1.ª - CACDLG/2012 de 12.09.2012)",
+    "OevId": "286011",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
