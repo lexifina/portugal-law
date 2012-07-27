@@ -1,0 +1,4 @@
+Aviso n.º 10186/2012
+António Almor Branco, Presidente da Câmara Municipal de Mirandela torna público, no cumprimento do disposto na lei, que por deliberação tomada em reunião ordinária da Câmara Municipal em 18 de junho de 2012 e aprovação da Assembleia Municipal, na sua sessão de 29 de junho de 2012, depois de ter sido submetido a consulta pública, através de publicação efetuada no Diário da República, 2.ª série, n.º 49, 8 de março de 2012 - Aviso n.º 3692/2012, foi aprovado o regulamento dos serviços de abastecimento público de água e saneamento de águas residuais urbanas, em conformidade com a versão definitiva que poderá ser consultada na página do Município em http://www.cm-mirandela.pt/index.php?oid=519, o qual entrará em vigor 15 dias após a sua publicação no Diário da República, nos termos do artigo 120.º do regulamento, estando assim cumpridos todos os requisitos necessários.
+6 de julho de 2012. - O Presidente da Câmara, António Almor Branco.
+306264868
