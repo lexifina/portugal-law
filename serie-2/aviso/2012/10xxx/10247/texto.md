@@ -1,0 +1,5 @@
+Aviso n.º 10247/2012
+Regulamento do Mercado Municipal de Pedrógão Grande
+Dr. João Manuel Gomes Marques, presidente da Câmara Municipal de Pedrógão Grande, torna público que, no uso das competências que se encontram previstas na alínea a) do n.º 6 do artigo 64.º, e alínea a) do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de setembro, com a redação introduzida pela Lei n.º 5-A/2002, de 11 de janeiro, o Projeto de Regulamento do Mercado Municipal de Pedrógão Grande, cujo aviso foi publicado na 2.ª série do Diário da República, n.º 59, de 22/03/2012, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento administrativo, com vista à recolha de quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva em Regulamento, em reunião ordinária da Câmara Municipal realizada em 26/04/2012, e em sessão ordinária da Assembleia Municipal realizada em 25/06/2012. O referido Regulamento encontra-se disponível no site do Município (www.cm-pedrogaogrande.pt)
+13 de julho de 2012. - O Presidente da Câmara Municipal, Dr. João Manuel Gomes Marques.
+306258647
