@@ -1,0 +1,17 @@
+Despacho n.º 10192/2012
+Ao Regime de Fruta Escolar (RFE) que visa a distribuição gratuita de frutas e produtos hortícolas, de acordo com a Estratégia Nacional, aos alunos do 1.º ciclo dos estabelecimentos de ensino público, é atribuída uma dotação comunitária, nos termos do Regulamento (CE) n.º 288/2009, da Comissão, de 7 de abril, no montante de (euro) 2 199 600, correspondendo a um cofinanciamento de 68 %, devendo os restantes 32 % obrigatórios (euro) 1 035 105) ser da responsabilidade de Portugal.
+O Regulamento do RFE, aprovado pela Portaria n.º 1242/2009, de 12 de outubro, prevê que a ajuda respeitante aos custos elegíveis é paga até ao limite do montante fixado anualmente por despacho dos ministros responsáveis pelos sectores da agricultura, da educação e da saúde, considerando o número de alunos inscritos no ano letivo anterior indicados pelos estabelecimentos de ensino aderentes, uma vez decidida a dotação definitiva da ajuda comunitária prevista no n.º 4 do artigo 4.º do Regulamento (CE) n.º 288/2009, acima referido.
+Observada a taxa de execução do RFE desde a sua implementação, a partir do ano letivo 2009-2010, verificou-se uma subutilização reiterada das verbas orçamentadas, pelo que importa adaptar o orçamento a aprovar para o ano letivo 2011-2012 às necessidades de execução, sem prejuízo da sua oportuna redefinição, caso venha a ocorrer um crescimento do número de candidaturas e do correspondente número de alunos beneficiários.
+Assim:
+Nos termos do n.º 2 do artigo 5.º do Regulamento do Regime de Fruta Escolar, aprovado pela Portaria n.º 1242/2009, de 12 de outubro, com as alterações introduzidas pela Portaria n.º 1386/2009, de 10 de novembro, determina-se o seguinte:
+1 - Para o ano letivo de 2011-2012, a ajuda respeitante aos custos elegíveis previstos no artigo 5.º do Regulamento (CE) n.º 288/2009, da Comissão, de 7 de abril, para efeitos de aplicação nacional do Regime de Fruta Escolar (RFE) é paga até ao limite total de (euro) 1 608 000, do qual:
+a) (euro) 1 094 000 constitui ajuda comunitária;
+b) 780 mil euros constitui ajuda nacional, repartida em:
+i) Custos previstos no n.º 1 do artigo 5.º do Regulamento (CE) n.º 288/2009, da Comissão, de 7 de abril, até ao limite de 515 mil euros;
+ii) Custos com medidas de acompanhamento: 266 mil euros.
+2 - Os valores previstos no número anterior incluem o pagamento das despesas de monitorização, avaliação e comunicação, bem como de transporte, com os limites estabelecidos no artigo 5.º do Regulamento (CE) n.º 288/2009, da Comissão, de 7 de abril.
+3 - O financiamento da ajuda nacional dos valores executados é da responsabilidade, em partes iguais, dos Ministérios da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, da Saúde e da Educação e Ciência.
+4 - Para efeitos do disposto no número anterior os organismos competentes do Ministério da Saúde e do Ministério da Educação e da Ciência transferem, para o Instituto de Financiamento da Agricultura e Pescas, I. P., os valores relativos à sua comparticipação no prazo de 20 dias a contar da data de entrada em vigor do presente despacho.
+5 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
+19 de julho de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato.
+206267832
