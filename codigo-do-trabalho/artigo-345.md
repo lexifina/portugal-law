@@ -8,6 +8,6 @@
 
 3 - Na falta da comunicação a que se refere o n.º 1, o empregador deve pagar ao trabalhador o valor da retribuição correspondente ao período de aviso prévio em falta.
 
-4 - Em caso de caducidade de contrato a termo incerto, o trabalhador tem direito a compensação calculada nos termos dos n.os 2 e 4 do artigo anterior ou do artigo 366.º-A, consoante o caso.
+4 - Em caso de caducidade de contrato de trabalho a termo incerto, o trabalhador tem direito à compensação prevista no artigo 366.º
 
 5 - Constitui contra-ordenação grave a violação do disposto no número anterior.

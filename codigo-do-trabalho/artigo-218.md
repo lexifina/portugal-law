@@ -16,6 +16,6 @@ c) Teletrabalho e outros casos de exercício regular de actividade fora do estab
 
 2 - O instrumento de regulamentação colectiva de trabalho pode prever outras situações de admissibilidade de isenção de horário de trabalho.
 
-3 - O acordo referido no n.º 1 deve ser enviado ao serviço com competência inspectiva do ministério responsável pela área laboral.
+3 - (Revogado).
 
-4 - Constitui contra-ordenação leve a violação do disposto no número anterior.
+4 - (Revogado).

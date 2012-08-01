@@ -24,7 +24,7 @@ h) Data da celebração do contrato.
 
 3 - O contrato de utilização de trabalho temporário deve ter em anexo cópia da apólice de seguro de acidentes de trabalho que englobe o trabalhador temporário e a actividade a exercer por este, sem o que o utilizador é solidariamente responsável pela reparação dos danos emergentes de acidente de trabalho.
 
-4 - O contrato de utilização de trabalho temporário deve ter ainda em anexo documento comprovativo de vinculação a fundo de compensação do trabalho, sem o que o utilizador é solidariamente responsável pelo pagamento do montante da compensação que caberia àquele fundo por cessação do respectivo contrato.
+4 - O contrato de utilização de trabalho temporário deve ter ainda em anexo documento comprovativo de vinculação a fundo de compensação do trabalho ou a mecanismo equivalente, sem o que o utilizador é solidariamente responsável pelo pagamento do montante da compensação que caberia àquele fundo ou mecanismo equivalente por cessação do respetivo contrato.
 
 5 - O contrato é nulo se não for celebrado por escrito ou omitir a menção exigida pela alínea b) do n.º 1.
 

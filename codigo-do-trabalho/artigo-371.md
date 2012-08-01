@@ -8,9 +8,9 @@
 
 a) Motivo da extinção do posto de trabalho;
 
-b) Confirmação dos requisitos previstos no n.º 1 do artigo 368.º, com menção, sendo caso disso, da recusa de alternativa proposta ao trabalhador;
+b) Confirmação dos requisitos previstos no n.º 1 do artigo 368.º;
 
-c) Prova da aplicação do critério de prioridades, caso se tenha verificado oposição a esta;
+c) Prova da aplicação dos critérios de determinação do posto de trabalho a extinguir, caso se tenha verificado oposição a esta;
 
 d) Montante, forma, momento e lugar do pagamento da compensação e dos créditos vencidos e dos exigíveis por efeito da cessação do contrato de trabalho;
 
@@ -28,4 +28,6 @@ d) 75 dias, no caso de trabalhador com antiguidade igual ou superior a 10 anos.
 
 4 - O pagamento da compensação, dos créditos vencidos e dos exigíveis por efeito da cessação do contrato de trabalho deve ser efectuado até ao termo do prazo de aviso prévio.
 
-5 - Constitui contra-ordenação grave o despedimento efectuado com violação do disposto nos n.os 1 ou 2 ou do aviso prévio referido no n.º 3, e constitui contra-ordenação leve a violação do disposto no n.º 3.
+5 - Constitui contraordenação grave o despedimento efetuado com violação do disposto nos n.os 1 e 2, assim como a falta de comunicação ao trabalhador referida no n.º 3;
+
+6 - Constitui contraordenação leve a falta de comunicação às entidades e ao serviço referidos no n.º 3.

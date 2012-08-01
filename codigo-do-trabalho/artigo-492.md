@@ -18,6 +18,8 @@ f) Valores expressos de retribuição base para todas as profissões e categoria
 
 g) Estimativa dos números de empregadores e de trabalhadores abrangidos pela convenção.
 
+h) Instrumento de regulamentação coletiva de trabalho negocial e respetiva data de publicação, para efeitos do n.º 5 do artigo 482.º
+
 2 - A convenção colectiva deve regular:
 
 a) As relações entre as entidades celebrantes, em particular quanto à verificação do cumprimento da convenção e a meios de resolução de conflitos colectivos decorrentes da sua aplicação ou revisão;

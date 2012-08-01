@@ -2,17 +2,17 @@
 
 ### Decisão de despedimento por inadaptação
 
-1 - Decorridos cinco dias sobre o termo do prazo a que se refere o artigo anterior, o empregador pode proceder ao despedimento, mediante decisão fundamentada e por escrito de que constem:
+1 - Após a receção dos pareceres referidos no artigo anterior ou o termo do prazo para o efeito, o empregador dispõe de 30 dias para proceder ao despedimento, sob pena de caducidade do direito, mediante decisão fundamentada e por escrito de que constem:
 
 a) Motivo da cessação do contrato de trabalho;
 
-b) Confirmação dos requisitos previstos no artigo 375.º, com menção, sendo caso disso, da recusa de alternativa proposta ao trabalhador;
+b) Confirmação dos requisitos previstos no artigo 375.º;
 
 c) Montante, forma, momento e lugar do pagamento da compensação e dos créditos vencidos e dos exigíveis por efeito da cessação do contrato de trabalho;
 
 d) Data da cessação do contrato.
 
-2 - O empregador comunica a decisão, por cópia ou transcrição, ao trabalhador, às entidades referidas no n.º 1 do artigo 376.º e, bem assim, ao serviço com competência inspectiva do ministério responsável pela área laboral, com antecedência mínima, relativamente à data da cessação, de:
+2 - O empregador comunica a decisão, por cópia ou transcrição, ao trabalhador, às entidades referidas nos n.os 1 e 2 do artigo 376.º e, bem assim, ao serviço com competência inspetiva do ministério responsável pela área laboral, com antecedência mínima, relativamente à data da cessação, de:
 
 a) 15 dias, no caso de trabalhador com antiguidade inferior a um ano;
 

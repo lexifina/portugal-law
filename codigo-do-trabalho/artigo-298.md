@@ -19,3 +19,5 @@ a) Um ou mais períodos normais de trabalho, diários ou semanais, podendo dizer
 b) Diminuição do número de horas correspondente ao período normal de trabalho, diário ou semanal.
 
 3 - O regime de redução ou suspensão aplica-se aos casos em que essa medida seja determinada no âmbito de declaração de empresa em situação económica difícil ou, com as necessárias adaptações, em processo de recuperação de empresa.
+
+4 - A empresa que recorra ao regime de redução ou suspensão deve ter a sua situação contributiva regularizada perante a administração fiscal e a segurança social, nos termos da legislação aplicável, salvo quando se encontre numa das situações previstas no número anterior.

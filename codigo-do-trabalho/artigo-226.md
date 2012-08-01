@@ -24,4 +24,6 @@ e) O trabalho prestado nas condições previstas na alínea b) do n.º 1 do arti
 
 f) O trabalho prestado para compensação de períodos de ausência ao trabalho, efectuada por iniciativa do trabalhador, desde que uma e outra tenham o acordo do empregador.
 
+g) O trabalho prestado para compensar encerramento para férias previsto na alínea b) do n.º 2 do artigo 242.º, por decisão do empregador.
+
 4 - Na situação referida na alínea f) do n.º 3, o trabalho prestado para compensação não pode exceder os limites diários do n.º 1 do artigo 228.º

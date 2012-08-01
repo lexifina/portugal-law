@@ -18,6 +18,6 @@ c) No caso de empresa do sector empresarial do Estado, os membros do conselho de
 
 d) As pessoas titulares de mandato escrito com poderes para contratar, conferido por associação sindical ou associação de empregadores, nos termos dos respectivos estatutos, ou por empregador.
 
-3 - Sem prejuízo da possibilidade de delegação noutras associações sindicais, a associação sindical pode conferir a estrutura de representação colectiva dos trabalhadores na empresa poderes para, relativamente aos seus associados, contratar com empresa com, pelo menos, 500 trabalhadores.
+3 - Sem prejuízo da possibilidade de delegação noutras associações sindicais, a associação sindical pode conferir à estrutura de representação coletiva dos trabalhadores na empresa poderes para, relativamente aos seus associados, contratar com empresa com, pelo menos, 150 trabalhadores.
 
 4 - A revogação do mandato só é eficaz após comunicação à outra parte, por escrito e até à assinatura da convenção colectiva.

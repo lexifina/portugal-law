@@ -1,6 +1,6 @@
 # Artigo 208.º
 
-### Banco de horas
+### Banco de horas por regulamentação coletiva
 
 1 - Por instrumento de regulamentação colectiva de trabalho, pode ser instituído um regime de banco de horas, em que a organização do tempo de trabalho obedeça ao disposto nos números seguintes.
 
@@ -10,7 +10,13 @@
 
 4 - O instrumento de regulamentação colectiva de trabalho deve regular:
 
-a) A compensação do trabalho prestado em acréscimo, que pode ser feita mediante redução equivalente do tempo de trabalho, pagamento em dinheiro ou ambas as modalidades;
+a) A compensação do trabalho prestado em acréscimo, que pode ser feita mediante, pelo menos, uma das seguintes modalidades:
+
+i) Redução equivalente do tempo de trabalho;
+
+ii) Aumento do período de férias;
+
+iii) Pagamento em dinheiro;
 
 b) A antecedência com que o empregador deve comunicar ao trabalhador a necessidade de prestação de trabalho;
 

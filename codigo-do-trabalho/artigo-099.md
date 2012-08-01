@@ -6,12 +6,8 @@
 
 2 - Na elaboração do regulamento interno de empresa é ouvida a comissão de trabalhadores ou, na sua falta, as comissões intersindicais, as comissões sindicais ou os delegados sindicais.
 
-3 - O regulamento interno apenas produz efeitos após:
-
-a) Publicitação do respectivo conteúdo, designadamente afixação na sede da empresa e nos locais de trabalho, de modo a possibilitar o seu pleno conhecimento, a todo o tempo, pelos trabalhadores;
-
-b) Enviá-lo ao serviço com competência inspectiva do ministério responsável pela área laboral.
+3 - O regulamento interno produz efeitos após a publicitação do respetivo conteúdo, designadamente através de afixação na sede da empresa e nos locais de trabalho, de modo a possibilitar o seu pleno conhecimento, a todo o tempo, pelos trabalhadores.
 
 4 - A elaboração de regulamento interno de empresa sobre determinadas matérias pode ser tornada obrigatória por instrumento de regulamentação colectiva de trabalho negocial.
 
-5 - Constitui contra-ordenação grave a violação do disposto no n.º 2 e na alínea a) do n.º 3 e leve a violação da alínea b) do n.º 3.
+5 - Constitui contraordenação grave a violação do disposto nos n.os 2 e 3.

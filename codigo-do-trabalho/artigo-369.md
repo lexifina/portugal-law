@@ -8,4 +8,6 @@ a) A necessidade de extinguir o posto de trabalho, indicando os motivos justific
 
 b) A necessidade de despedir o trabalhador afecto ao posto de trabalho a extinguir e a sua categoria profissional.
 
+c) Os critérios para seleção dos trabalhadores a despedir.
+
 2 - Constitui contra-ordenação grave o despedimento efectuado com violação do disposto no número anterior.

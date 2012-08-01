@@ -9,3 +9,5 @@
 a) Designação das entidades que a subscrevem em nome próprio ou em representação de outras;
 
 b) Indicação da convenção que se pretende rever, sendo caso disso, e respectiva data de publicação.
+
+c) Indicação de instrumento de regulamentação coletiva de trabalho negocial e respetiva data de publicação, sendo caso disso, para efeitos do n.º 5 do artigo 482.º

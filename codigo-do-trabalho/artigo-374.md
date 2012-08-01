@@ -11,3 +11,7 @@ b) Avarias repetidas nos meios afectos ao posto de trabalho;
 c) Riscos para a segurança e saúde do trabalhador, de outros trabalhadores ou de terceiros.
 
 2 - Verifica-se ainda inadaptação de trabalhador afecto a cargo de complexidade técnica ou de direcção quando não se cumpram os objectivos previamente acordados, por escrito, em consequência do seu modo de exercício de funções e seja praticamente impossível a subsistência da relação de trabalho.
+
+3 - O disposto nos números anteriores não prejudica a proteção conferida aos trabalhadores com capacidade de trabalho reduzida, deficiência ou doença crónica.
+
+4 - A situação de inadaptação referida nos números anteriores não deve decorrer de falta de condições de segurança e saúde no trabalho imputável ao empregador.

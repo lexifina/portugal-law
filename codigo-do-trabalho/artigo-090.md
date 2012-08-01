@@ -24,6 +24,6 @@ d) Seis horas semanais para período igual ou superior a trinta e oito horas.
 
 7 - Ao trabalhador-estudante que preste trabalho em regime de adaptabilidade, banco de horas ou horário concentrado é assegurado um dia por mês de dispensa, sem perda de direitos, contando como prestação efectiva de trabalho.
 
-8 - O trabalhador-estudante que preste trabalho suplementar tem direito a descanso compensatório de igual número de horas.
+8 - O trabalhador estudante que preste trabalho suplementar tem direito a descanso compensatório com duração de metade do número de horas prestadas.
 
 9 - Constitui contra-ordenação grave a violação do disposto nos n.os 1 a 4 e 6 a 8.

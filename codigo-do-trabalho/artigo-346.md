@@ -12,6 +12,6 @@
 
 5 - Verificando-se a caducidade do contrato em caso previsto num dos números anteriores, o trabalhador tem direito a compensação calculada nos termos do artigo 366.º, pela qual responde o património da empresa.
 
-6 - Tratando-se de novos contratos de trabalho, o trabalhador tem direito à compensação nos termos do artigo 366.º-A.
+6 - (Revogado).
 
-7 - Constitui contra-ordenação grave a violação do disposto nos n.os 5 e 6.
+7 - Constitui contraordenação grave a violação do disposto no n.º 5.
