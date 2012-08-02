@@ -2,7 +2,7 @@
 
 ### Contraordenações graves
 
-1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação grave, punível com coima entre (euro) 2 000 e 10 % do volume de negócios do responsável ou (euro) 75 000, consoante o que for inferior:
+1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação grave, punível com coima de (euro) 1500 a (euro) 3740 ou de (euro) 1500 a (euro) 35 000, consoante o agente seja pessoa singular ou coletiva:
 
 a) A violação do princípio do uso racional do medicamento e do dever de informação sobre o preço dos medicamentos, previstos no artigo 8.º;
 
@@ -16,11 +16,11 @@ e) A violação do dever de implementar e manter um sistema de gestão da qualid
 
 f) A inobservância de forma escrita nos negócios jurídicos previstos no n.º 4 do artigo 18.º, sem prejuízo da nulidade dos mesmos, daí decorrente;
 
-g) A falta de comunicação da alteração da propriedade da farmácia, nos termos do n.º 7 do artigo 18.º ou dos n.os 1 e 2 do artigo 19.º, sem prejuízo de outras sanções que ao caso couberem;
+g) A falta de comunicação dos atos, factos ou negócios jurídicos, nos termos do n.º 7 do artigo 18.º ou dos n.os 1 e 2 do artigo 19.º, sem prejuízo de outras sanções que ao caso couberem;
 
-h) [Revogada];
+h) O incumprimento do disposto no n.º 4 do artigo 19.º-A;
 
-i) A violação do disposto em qualquer dos n.os 1 e 4 do artigo 20.º;
+i) A violação do disposto em qualquer dos n.os 1 e 3 do artigo 20.º;
 
 j) O incumprimento de qualquer dos deveres do diretor técnico, previstos no n.º 1 do artigo 21.º;
 
@@ -32,6 +32,6 @@ m) O fornecimento ao público de produtos não autorizados, em violação do n.�
 
 n) A cobrança de acréscimo de pagamento pela dispensa de medicamentos esgotados, em violação do previsto no n.º 4 do artigo 35.º;
 
-o) A inexistência de livro de reclamações em violação do disposto no n.º 1 do artigo 38.º
+o) A inexistência de livro de reclamações, ou o não envio destas no prazo legal aplicável, em violação do disposto no artigo 38.º
 
 2 - A tentativa e a negligência são puníveis.

@@ -2,7 +2,7 @@
 
 ### Venda ao público
 
-As farmácias podem fornecer ao público os seguintes produtos:
+1 - As farmácias podem fornecer ao público os seguintes produtos:
 
 a) Medicamentos;
 
@@ -22,6 +22,8 @@ h) Produtos fitofarmacêuticos;
 
 i) Produtos cosméticos e de higiene corporal;
 
-j) artigos de puericultura;
+j) Artigos de puericultura;
 
-l) Produtos de conforto.
+k) Produtos de conforto.
+
+2 - As farmácias não podem exportar medicamentos nem desenvolver atividade enquadrável no conceito de distribuição por grosso de medicamentos.

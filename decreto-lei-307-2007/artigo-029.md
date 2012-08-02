@@ -18,4 +18,8 @@ c) Laboratório;
 
 d) Instalações sanitárias.
 
-3 - As áreas mínimas das farmácias e de cada uma das divisões referidas no número anterior são definidas pelo INFARMED, através de regulamento a publicar no Diário da República.
+3 - As farmácias não podem utilizar instalações, para as finalidades a que se destinam as divisões referidas no número anterior, que não se encontrem licenciadas pelo INFARMED e previstas no alvará.
+
+4 - As áreas mínimas das farmácias e de cada uma das divisões referidas no n.º 2 são definidas por regulamento do INFARMED, a publicar no Diário da República.
+
+5 - A transferência das instalações da farmácia para realização de obras, bem como a realização de obras, ampliação ou remodelação que impliquem a alteração da planta aprovada, depende de autorização do INFARMED, em termos a definir por regulamento deste.

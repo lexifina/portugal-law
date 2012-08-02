@@ -1,8 +1,8 @@
 # Artigo 18.º
 
-### Venda, trespasse, arrendamento e cessão de exploração
+### Trespasse, cessão de exploração, sucessão mortis causa e outras situações transitórias
 
-1 - As farmácias não podem ser vendidas, trespassadas ou arrendadas nem a respectiva exploração ser cedida antes de decorridos cinco anos, a contar do dia da respectiva abertura, na sequência de concurso público.
+1 - As farmácias não podem ser trespassadas nem a respetiva exploração ser cedida antes de decorridos cinco anos, a contar do dia da respetiva abertura ao público, na sequência de concurso público.
 
 2 - Ficam excluídas do disposto no número anterior as situações devidamente justificadas perante o INFARMED.
 
@@ -16,6 +16,10 @@ c) A partilha de bens por divórcio ou separação judicial da proprietária;
 
 d) A declaração de insolvência da proprietária.
 
-4 - A venda, o trespasse, o arrendamento e a cessão de exploração devem observar forma escrita.
+4 - O trespasse e a cessão de exploração devem observar forma escrita.
 
-5 - Os negócios jurídicos previstos no número anterior são comunicados ao INFARMED, pelo outorgante referido no alvará ou seu procurador, no prazo de 30 dias a contar da respectiva celebração, para efeitos de averbamento no alvará.
+5 - Falecida a proprietária da farmácia, se algum dos seus herdeiros não puder ser proprietário, os mesmos dispõem do prazo de um ano para requerem inventário ou procederem à adjudicação ou alienação da mesma a favor de quem possa ser seu proprietário, sob pena de caducidade do alvará, procedendo-se, entretanto, ao averbamento transitório da farmácia a favor dos herdeiros, em comum e sem determinação de parte ou direito.
+
+6 - O preceituado no número anterior é aplicável com as necessárias adaptações no caso de partilha de bens por divórcio ou separação judicial da proprietária.
+
+7 - Os atos, factos ou negócios jurídicos que impliquem alteração da propriedade da farmácia são comunicados ao INFARMED, pelo outorgante referido no alvará, ou pelo seu procurador, ou por qualquer interessado, no prazo de 30 dias a contar da respetiva ocorrência ou celebração, para efeitos de averbamento no alvará.
