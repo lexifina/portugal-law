@@ -1,0 +1,32 @@
+Decreto-Lei n.º 168/2012
+de 1 de agosto
+A Lei n.º 2/2008, de 14 de janeiro, alterada pela Lei n.º 60/2011, de 28 de novembro, ao regular o ingresso nas magistraturas, a formação de magistrados e a natureza, estrutura e funcionamento do Centro de Estudos Judiciários, estabelece, no seu artigo 30.º, as regras relativas ao âmbito, local e regime dos cursos de formação inicial de magistrados para os tribunais judiciais e para os tribunais administrativos e fiscais.
+Com o desiderato de permitir a adoção das providências legislativas tendentes a garantir uma gestão eficaz das políticas de colocação de magistrados nas comarcas onde se verifique carência de preenchimento dos respetivos quadros, o n.º 4 do artigo 30.º da referida lei veio determinar que, sob proposta dos Conselhos Superiores respetivos, devidamente fundamentada, o Governo pode reduzir, por decreto-lei, a duração do período de formação inicial de magistrados.
+Considerando o inusitado aumento de pedidos de jubilação, que impediu a recomposição do quadro de magistrados vigente, o Conselho Superior da Magistratura, por deliberação de 14 de fevereiro de 2012, conclui pela existência da necessidade de antecipar para 1 de setembro o termo do estágio do XXVIII Curso Normal de Formação para as Magistraturas Judicial e do Ministério Público - via académica.
+Considerando, igualmente, a necessidade de assegurar a colocação de magistrados do Ministério Público nas 52 comarcas do País onde presentemente o Ministério Público é representado por substitutos, a saída por jubilação, nos anos 2010-2011, de 58 magistrados, e o número significativo de pedidos de jubilação pendentes na Caixa Geral de Aposentações, foi reconhecido o interesse público em assegurar uma mais rápida colocação daqueles magistrados, o que apenas se consegue com a redução do prazo da fase de estágio do curso de formação inicial.
+Nestes termos, a redução do prazo da formação inicial do XXVIII Curso Normal de Formação para as Magistraturas Judicial e do Ministério Público - via académica foi aprovada, em 18 de janeiro de 2012, pelo Conselho Superior do Ministério Público.
+Atendendo, por outro lado, à escassez de juízes na jurisdição administrativa e tributária, o Conselho Superior dos Tribunais Administrativos e Fiscais, por deliberação de 15 de março de 2012, aprovou a redução do período de estágio dos auditores tanto do I como do II Cursos Normais de Formação para a Magistratura dos Tribunais Administrativos e Fiscais.
+Adicionalmente, os compromissos internacionais assumidos pelo Estado Português com o Fundo Monetário Internacional, a Comissão Europeia e o Banco Central Europeu na área da justiça, no âmbito do «Memorando de Entendimento sobre as condicionalidades de política económica», assinado em 17 de maio de 2011, no domínio da redução das pendências reforça, ainda, a necessidade de redução do período de estágio dos auditores do XXVIII Curso Normal de Formação para as Magistraturas Judicial e do Ministério Público - via académica e dos I e II Cursos Normais de Formação para a Magistratura dos Tribunais Administrativos e Fiscais.
+Foram ouvidos o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais, o Conselho Superior do Ministério Público, a Ordem dos Advogados, a Câmara dos Solicitadores e a Associação Sindical dos Juízes Portugueses.
+Foi promovida a audição do Conselho dos Oficiais de Justiça, do Sindicato dos Magistrados do Ministério Público, da Associação dos Oficiais de Justiça, do Sindicato dos Funcionários Judiciais e do Sindicato dos Oficiais de Justiça.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Redução de Estágios do XXVIII Curso Normal de Formação para as Magistraturas Judicial e do Ministério Público - Via académica
+1 - Ao abrigo do n.º 4 do artigo 30.º da Lei n.º 2/2008, de 14 de janeiro, alterada pela Lei n.º 60/2011, de 28 de novembro, a duração do período de formação inicial referido no n.º 1 do mencionado artigo 30.º, no que respeita ao estágio de ingresso, fixada em 18 meses no n.º 1 do artigo 70.º da citada lei, é reduzida para 12 meses, relativamente às vias académicas do XXVIII Curso Normal de Formação para as Magistraturas Judicial e do Ministério Público.
+2 - O termo da fase de estágio, inicialmente previsto para 28 de fevereiro de 2013, quanto ao XXVIII Curso Normal de Formação para as Magistraturas Judicial e do Ministério Público, é antecipado para 15 de julho de 2012, sem prejuízo da possibilidade de prorrogação do estágio, nos termos previstos nos n.os 6 e 7 do artigo 70.º da Lei n. 2/2008, de 14 de janeiro, alterada pela Lei n.º 60/2011, de 28 de novembro.
+3 - Os magistrados em regime de estágio abrangidos pela redução prevista nos números anteriores mantêm o estatuto de estagiários até à sua nomeação em regime de efetividade.
+Artigo 2.º
+Redução de estágios dos I e II Cursos Normais de Formação para a Magistratura dos Tribunais Administrativos e Fiscais
+1 - Ao abrigo do n.º 4 do artigo 30.º da Lei n.º 2/2008, de 14 de janeiro, alterada pela Lei n.º 60/2011, de 28 de novembro, a duração do período de formação inicial referido no n.º 1 do mencionado artigo 30.º, no que respeita ao estágio de ingresso, fixada em 18 meses no n.º 1 do artigo 70.º, é reduzida para 12 meses, relativamente às vias académicas dos I e II Cursos Normais de Formação para a Magistratura dos Tribunais Administrativos e Fiscais.
+2 - Os termos das respetivas fases de estágio, inicialmente previstos para 28 de fevereiro de 2013, quanto ao I Curso, e para 28 de fevereiro de 2014, quanto ao II Curso, são antecipados para 15 de julho de 2012 e 15 de julho de 2013, respetivamente, sem prejuízo da possibilidade de prorrogação dos estágios, nos termos previstos nos n.os 6 e 7 do artigo 70.º da Lei n.º 2/2008, de 14 de janeiro, alterada pela Lei n.º 60/2011, de 28 de novembro.
+3 - Os magistrados em regime de estágio abrangidos pela redução prevista nos números anteriores mantêm o estatuto de estagiários até à sua nomeação em regime de efetividade.
+Artigo 3.º
+Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 21 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz.
+Promulgado em 23 de julho de 2012.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 26 de julho de 2012.
+O Primeiro-Ministro, Pedro Passos Coelho.
