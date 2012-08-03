@@ -1,0 +1,180 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12277",
+  "numero": "165",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-08-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-10-10",
+            "dataResposta": "2012-12-21",
+            "entidades": [
+              "Presidente do Conselho de Administração da RTP"
+            ],
+            "nrOficio": "444/12ªCPECC/2012",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": null,
+                "dataResposta": null,
+                "nrOficio": null,
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-10",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente do Conselho de Administração da ANACOM"
+            ],
+            "nrOficio": "446/12ªCPECC/2012",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-10-22",
+                "dataResposta": null,
+                "nrOficio": "ANACOM-S073750",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-01-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": "2013-01-16",
+              "descricao": null,
+              "detalhe": null,
+              "id": "62664",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "95",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-09-26",
+        "DataArquivo": "2013-01-16",
+        "DataBaixaComissao": "2012-09-12",
+        "DataEnvioPAR": "2013-01-16",
+        "DataReaberta": "2012-09-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-09-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a59573876595759784e5455324e7a5574596a4e6a4e6930305a6d526a4c5467334e5759744d546469597a4e6c5a54466c59575a6a4c6e426b5a673d3d&fich=af155675-b3c6-4fdc-875f-17bc3ee1eafc.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764d7a673159324e6d4d4459744e7a63334d5330304d6d49784c546c6a597a51744e6a67354e7a63784d545a694e6a55344c6e426b5a673d3d&fich=385ccf06-7771-42b1-9cc4-68977116b658.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e546377596d4e69596d51744d7a686b5a4330304e47466a4c5749334e3251744d446c6c4d4749344e7a686d4d54646d4c6e426b5a673d3d&fich=570bcbbd-38dd-44ac-b77d-09e0b878f17f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-01-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764d7a6c6d4d4749324d6d55744d4441344e7930304f474d314c5467314d5467745a6d557a4f44426c4e475a6b4d475a6b4c6c424552673d3d&fich=39f0b62e-0087-48c5-8518-fe380e4fd0fd.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e7a67324d574d784e6a59744e7a646d4d7930304f5756684c574a6d4d5749744f4445344d6a6b784d5455344f5749314c6c424552673d3d&fich=7861c166-77f3-49ea-bf1b-8182911589b5.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f5745334e47497a4e6a41745a4455324d79303059324e6a4c546c6c5a6a59745a6a5535597a6b784d544a6c4e6d45344c6c424552673d3d&fich=9a74b360-d563-4ccc-9ef6-f59c9112e6a8.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3521",
+        "Legislatura": "XII",
+        "Nome": "Comissão para a Ética, a Cidadania e a Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-09-26",
+            "gp": "CDS-PP",
+            "id": "4173",
+            "motivoCessacao": null,
+            "nome": "Margarida Neto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-09-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a56685a44646c5a6d59334c575934596d45744e474e694d7930354e44686a4c544530595449794e7a5a6a4e6a6c684f5335775a47593d&fich=5ad7eff7-f8ba-4cb3-948c-14a2276c69a9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12277",
+    "PetAssunto": "Solicitam que seja instalado um emissor/retransmissor TDT na freguesia de Corte do Pinto.",
+    "PetDataEntrada": "2012-08-03",
+    "PeticoesAssociadas": null,
+    "PetId": "12277",
+    "PetLeg": "XII",
+    "PetNr": "165",
+    "PetNrAssinaturas": "306",
+    "PetNrAssinaturasInicial": "306",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
