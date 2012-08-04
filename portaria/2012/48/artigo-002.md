@@ -12,21 +12,21 @@ c) Técnico responsável pelo projeto de instalações elétricas de serviço pa
 
 d) Técnico responsável pela manutenção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes;
 
-e) Instalador de instalações de gás e de redes e ramais de distribuição de gás;
+e) Instalador de redes de gás;
 
-f) Instalador de aparelhos a gás;
+f) Mecânico de aparelhos de gás;
 
 g) Técnico de gás;
 
-h) Soldador de aços, por fusão;
+h) Soldador;
 
-i) Soldador de polietileno;
+i) (Revogada.)
 
-j) Operador de brasagem forte ou de soldobrasagem;
+j) (Revogada.)
 
-k) Operador de prensagem;
+k) (Revogada.)
 
-l) Projetista de redes de gás;
+l) Projetista na área do gás;
 
 m) Auditor energético e autor de planos de racionalização no âmbito do Sistema de Gestão dos Consumos Intensivos de Energia (SGCIE);
 
@@ -34,4 +34,4 @@ n) Auditor energético e autor de planos de racionalização no âmbito dos tran
 
 o) Auditor de cogeração.
 
-2 - As profissões referidas nas alíneas a) a k) têm impacto na segurança do beneficiário do serviço.
+2 -As profissões referidas nas alíneas a) a l) têm impacto na segurança do beneficiário do serviço.
