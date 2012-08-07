@@ -1,0 +1,9 @@
+Aviso n.º 10598/2012
+Regulamento Municipal de Atribuição e Gestão das Habitações Sociais do Município de Alpiarça
+Mário Fernando Atracado Pereira, Presidente da Câmara Municipal de Alpiarça, torna público que por deliberação da Câmara Municipal de Alpiarça tomada em reunião ordinária de quinze de maio de 2012 foi aprovado o projeto de Regulamento Municipal de Atribuição e Gestão das Habitações Sociais do Município de Alpiarça.
+Assim, nos termos e para os efeitos do disposto no n.º 1 do artigo 117 e dos n.os 1 e 2 do Artigo 118 do Código do Procedimento Administrativo, submete-se o referido projeto de regulamento a discussão pública, pelo prazo de 30 dias úteis contados a partir da data de publicação do presente edital na 2.ª série do Diário da República.
+O referido projeto encontra-se disponível para consulta na Secção de Taxas e Licenças desta Câmara Municipal, sita no edifício dos Paços do Concelho, na Rua José Relvas, n.º 374, em Alpiarça e no site do Município: www.cm-alpiarca.pt.
+As sugestões, propostas, pareceres e ou reclamações, deverão ser apresentadas por escrito no prazo de 30 dias seguidos, contados a partir da data de publicação deste Edital no Diário da República, devendo ser dirigidas ao Presidente da Câmara Municipal de Alpiarça, por via postal para a Rua José Relvas, n.º 374-Apartado 25-2094-909-Alpiarça, entregues pessoalmente nos serviços de atendimento do município, por fax: 243559105 ou por correio eletrónico: atendimento-alpiarca.pt, com identificação do remetente, morada e identificação fiscal.
+Para geral conhecimento se publica este e outros de igual teor, que vão ser afixados nos lugares públicos do costume, publicado no Diário da República e no site deste Município: www.cm-alpiarca.pt.
+19 de julho de 2012. - O Presidente, Mário Fernando Atracado Pereira.
+306266358
