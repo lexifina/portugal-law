@@ -1,0 +1,29 @@
+Resolução do Conselho de Ministros n.º 69/2012
+Com a celebração do acordo quadro para a aquisição de combustíveis rodoviários, em postos de abastecimento públicos e a granel (AQ-CR) pela Agência Nacional de Compras Públicas, E. P. E. (ANCP, E. P. E.), ora Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), foi vedada aos serviços da administração direta do Estado e aos institutos públicos que constituem entidades compradoras vinculadas nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 37/2007, de 19 de fevereiro, alterado pela Lei n.º 3-B/2010, de 28 de abril, e pelo Decreto-Lei n.º 117-A/2012, de 14 de junho, a adoção de procedimentos tendentes à contratação, fora do âmbito do referido acordo quadro, de serviços abrangidos pelo mesmo.
+Os serviços, organismos, entidades e estruturas integrados no Ministério da Administração Interna que constam do anexo à presente resolução estão obrigados a celebrar contratos no âmbito daquele acordo quadro.
+A vigência do atual contrato de aquisição de combustíveis rodoviários para o Ministério da Administração Interna termina a 31 de dezembro de 2012, tornando-se oportuno iniciar as diligências necessárias para o lançamento de novo procedimento aquisitivo para este serviço com efeitos de execução nos anos de 2013 e 2014, e com a possibilidade de renovação para 2015.
+Neste contexto, com vista a garantir a contratação de combustíveis rodoviários a empresas comercializadoras a funcionar em regime de mercado liberalizado, a Secretaria-Geral do Ministério da Administração Interna, enquanto Unidade Ministerial de Compras, procede à abertura do procedimento nos termos do artigo 259.º do Código dos Contratos Públicos, ao abrigo do acordo quadro celebrado entre a ANCP, E. P. E., ora ESPAP, I. P., e os vários prestadores qualificados.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar as entidades adjudicantes constantes do anexo à presente resolução, da qual faz parte integrante, a assumir os encargos orçamentais decorrentes da contratação de combustíveis rodoviários, em postos de abastecimento públicos e a granel até aos montantes nele indicados, no valor total (euro) 53 678 555,22, a que acresce IVA à taxa legal.
+2 - Determinar que os encargos resultantes da aquisição referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
+2013 - (euro) 17 169 501,71;
+2014 - (euro) 17 896 903,51;
+2015 - (euro) 18 612 150,00.
+3 - Determinar que a repartição de encargos relativos aos contratos a celebrar é assegurada por cada uma das entidades adjudicantes, de acordo com o estabelecido no anexo referido no n.º 1.
+4 - Determinar que o Ministro da Administração Interna fica autorizado a fazer alterações entre os montantes afetos a cada entidade de acordo com as necessidades apresentadas.
+5 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas e a inscrever no orçamento das entidades referidas no anexo à presente resolução.
+6 - Estabelecer que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+7 - Determinar, ao abrigo do disposto do n.º 1 do artigo 259.º do Código dos Contratos Públicos (CCP), o recurso ao procedimento pré-contratual adequado para aquisição de combustíveis rodoviários, em postos de abastecimento públicos e a granel, através do acordo quadro da Agência Nacional de Compras Públicas, E. P. E., ora Entidade de Serviços Partilhados da Administração Pública, I. P., no valor global de (euro) 53 678 555,22.
+8 - Delegar, ao abrigo do n.º 1 do artigo 109.º do CCP, na Secretária-Geral do Ministério da Administração Interna, a competência para a prática de todos os atos a realizar no âmbito do procedimento referido no número anterior, designadamente a competência para aprovar as peças do procedimento, designar o júri do procedimento, proferir o correspondente ato de adjudicação, bem como aprovar a minuta do contrato a celebrar pelas várias entidades.
+9 - Delegar, ao abrigo do n.º 1 do artigo 109.º do CCP, nos dirigentes máximos de cada entidade referida no anexo à presente resolução a competência para a outorga do contrato, assim como as competências relativas à liberação ou execução de cauções.
+10 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 26 de julho de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
+ANEXO
+Repartição de encargos por entidades adjudicantes
+Lote 1: Combustíveis em postos de abastecimento públicos
+(ver documento original)
+Lote 2: Combustível a granel
+(ver documento original)
+Total = Lote 1 + Lote 2
+(ver documento original)
