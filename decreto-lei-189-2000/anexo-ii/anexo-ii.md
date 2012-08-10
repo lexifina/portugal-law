@@ -10,6 +10,8 @@ Lista A
 
 2 - Reagentes e produtos reagentes, incluindo os respectivos materiais de controlo e de calibração, para detecção, confirmação e quantificação, em amostras humanas, de marcadores da infecção por HIV (HIV 1 e 2), HTLV I e II, e hepatite B, C e D.
 
+3 - Testes à variante da doença de Creuzfeldt-Jakob (vDCJ) para rastreio sanguíneo, diagnóstico e confirmação.
+
 Lista B
 
 1 - Reagentes e produtos reagentes, incluindo os respectivos materiais de controlo e de calibração, para determinação dos grupos sanguíneos anti-Duffy e anti-Kidd.
