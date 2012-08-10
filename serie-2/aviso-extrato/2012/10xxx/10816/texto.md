@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 10816/2012
+Francisco José Fernandes Leal, Presidente da Câmara Municipal de Olhão, torna público que, por deliberação tomada em reunião extraordinária da Câmara Municipal em 17 de maio de 2012, e aprovação da Assembleia Municipal, em sua sessão de 25 de junho de 2012, depois de ter sido submetido a apreciação pública, após publicitação efetuada no Diário da República 2.ª série n.º 57 de 20 de março de 2012, foram aprovados o Regulamento dos Horários de Funcionamento dos Estabelecimentos de Venda ao Público e Prestação de Serviços do Município de Olhão, a alteração ao Regulamento de Venda Ambulante no Município de Olhão e a alteração ao Regulamento sobre o Exercício das Atividades Diversas no Município de Olhão.
+3 de julho de 2012. - O Presidente da Câmara, Francisco José Fernandes Leal.
+306230977
