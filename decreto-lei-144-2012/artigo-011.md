@@ -10,4 +10,4 @@
 
 4 - Nas situações previstas no número anterior, deve o apresentante entregar ao responsável do centro um documento contendo a descrição pormenorizada dos elementos sobre os quais incidiram as alterações ou reparações efetuadas, designadamente cópia da fatura ou do relatório de peritagem.
 
-5 - (Revogado.)
+5 - A calendarização das inspeções periódicas aos motociclos, triciclos e quadriciclos, bem como reboques e semirreboques referidos no n.º 3.1 do anexo i do presente diploma, é aprovada por portaria do membro do Governo responsável pela área dos transportes.

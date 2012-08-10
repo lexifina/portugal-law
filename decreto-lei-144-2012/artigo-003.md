@@ -4,7 +4,7 @@
 
 1 - Salvo as inspeções para atribuição de nova matrícula, não ficam sujeitos às inspeções referidas no artigo anterior, os veículos de interesse histórico.
 
-2 - (Revogado.)
+2 - Para efeitos do disposto no número anterior, consideram-se de interesse histórico, os veículos construídos antes de 1 de janeiro de 1960, certificados como tal por entidades de utilidade pública, cujos estatutos prevejam o exercício de atividades atinentes a veículos, reconhecidas pelo Instituto da Mobilidade e dos Transportes, I. P., adiante designado por IMT, I. P.
 
 3 - Podem ser dispensados da realização das inspeções periódicas os veículos destinados a fins especiais, que raramente utilizam a via pública e cuja circulação esteja dependente da autorização especial prevista no artigo 58.º do Código da Estrada e na respetiva regulamentação, por apresentarem peso ou dimensão superior ao legalmente fixado.
 
