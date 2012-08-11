@@ -1,16 +1,12 @@
 # Artigo 43.º
 
-### Elementos da solução da obra
+### Caderno de encargos do procedimento de formação de contratos de empreitada
 
-1 - O caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve ser integrado pelos seguintes elementos da solução da obra a realizar:
+1 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve incluir um projeto de execução.
 
-a) Programa;
+2 - Quando a obra seja classificada, nos termos do n.º 7, na categoria iii ou superior, bem como naqueles casos em que o preço base, fixado no caderno de encargos, seja enquadrável na classe 3 de alvará ou em classe superior, o projeto de execução referido no número anterior deve ser objeto de prévia revisão por entidade devidamente qualificada para a sua elaboração, distinta do autor do mesmo.
 
-b) Projecto de execução.
-
-2 - Quando a obra a executar assuma complexidade relevante ou quando sejam utilizados métodos, técnicas ou materiais de construção inovadores, o projecto de execução referido no número anterior deve ser objecto de prévia revisão por pessoa singular ou colectiva devidamente qualificada para a elaboração desse projecto e distinta do autor do mesmo.
-
-3 - Em casos excepcionais devidamente fundamentados, nos quais o adjudicatário deva assumir, nos termos do caderno de encargos, obrigações de resultado relativas à utilização da obra a realizar, ou nos quais a complexidade técnica do processo construtivo da obra a realizar requeira, em razão da tecnicidade própria dos concorrentes, a especial ligação destes à concepção daquela, a entidade adjudicante pode prever, como aspecto da execução do contrato a celebrar, a elaboração do projecto de execução, caso em que o caderno de encargos deve ser integrado apenas por um programa.
+3 - Em casos excecionais devidamente fundamentados, nos quais o adjudicatário deva assumir, nos termos do caderno de encargos, obrigações de resultado relativas à utilização da obra a realizar, ou nos quais a complexidade técnica do processo construtivo da obra a realizar requeira, em razão da tecnicidade própria dos concorrentes, a especial ligação destes à conceção daquela, a entidade adjudicante pode prever, como aspeto da execução do contrato a celebrar, a elaboração do projeto de execução, caso em que o caderno de encargos deve ser integrado apenas por um programa preliminar.
 
 4 - Em qualquer dos casos previstos nos números anteriores, o projecto de execução deve ser acompanhado de:
 
@@ -18,7 +14,7 @@ a) Uma descrição dos trabalhos preparatórios ou acessórios, tal como previst
 
 b) Uma lista completa de todas as espécies de trabalhos necessárias à execução da obra a realizar e do respectivo mapa de quantidades.
 
-5 - Em qualquer dos casos previstos nos n.os 1 a 3, o projecto de execução deve ser acompanhado, sempre que tal se revele necessário:
+5 - Em qualquer dos casos previstos nos n.os 1 a 3, o projeto de execução deve ser acompanhado, para além dos demais elementos legalmente exigíveis, dos que, em função das características específicas da obra, se justifiquem, nomeadamente:
 
 a) Dos levantamentos e das análises de base e de campo;
 

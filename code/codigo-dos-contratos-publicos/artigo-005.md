@@ -10,11 +10,7 @@ a) A entidade adjudicante exerça sobre a actividade desta, isoladamente ou em c
 
 b) Esta entidade desenvolva o essencial da sua actividade em benefício de uma ou de várias entidades adjudicantes que exerçam sobre ela o controlo análogo referido na alínea anterior.
 
-3 - 3 - A parte II do presente Código não é igualmente aplicável à formação dos contratos, a celebrar pelos hospitais E. P. E. e pelas associações de direito privado que prossigam finalidades a título principal de natureza científica e tecnológica, bem como, exclusivamente no âmbito da actividade científica e tecnológica, pelas instituições de ensino superior públicas e pelos laboratórios de Estado:
-
-a) De empreitada de obras públicas cujo valor seja inferior ao referido na alínea c) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março;
-
-b) De locação ou de aquisição de bens móveis e de aquisição de serviços cujo valor seja inferior ao referido na alínea b) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março.
+3 - (Revogado.)
 
 4 - Sem prejuízo do disposto no n.º 2 do artigo 11.º, a parte ii do presente Código não é igualmente aplicável à formação dos seguintes contratos:
 
@@ -34,7 +30,7 @@ g) Contratos que se destinem à satisfação de necessidades de uma entidade adj
 
 h) Contratos a celebrar, ao abrigo de um acordo de cooperação para o desenvolvimento, com uma entidade sediada num dos Estados dele signatários e em benefício desse mesmo Estado, desde que este não seja signatário do Acordo sobre o Espaço Económico Europeu;
 
-i) Contratos abrangidos pelo disposto na alínea b) do n.º 1 e no n.º 2 do artigo 296.º do Tratado da Comunidade Europeia, desde que a respectiva formação seja regulada por lei especial.
+i) Os contratos diretamente abrangidos pelo disposto no artigo 346.º do Tratado sobre o Funcionamento da União Europeia.
 
 5 - À formação dos contratos referidos na alínea f) do número anterior é aplicável o disposto nos artigos 49.º e 78.º
 
@@ -44,4 +40,4 @@ a) Os princípios gerais da actividade administrativa e as normas que concretize
 
 b) Quando estejam em causa contratos com objecto passível de acto administrativo e demais contratos sobre o exercício de poderes públicos, as normas constantes do Código do Procedimento Administrativo, com as necessárias adaptações.
 
-7 - Quando a entidade adjudicante seja uma das referidas no n.º 1 do artigo 2.º, à formação dos contratos referidos nos n.os 1 a 4 é ainda aplicável, com as necessárias adaptações, o disposto nos capítulos viii e ix do título ii da parte ii do presente Código.
+7 - Quando a entidade adjudicante seja uma das referidas no n.º 1 do artigo 2.º, à formação de contratos referidos nos n.os 1, 2 e 4 é ainda aplicável, com as necessárias adaptações, o disposto no capítulo viii do título ii da parte ii do Código.
