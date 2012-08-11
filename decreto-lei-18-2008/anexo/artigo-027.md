@@ -22,7 +22,7 @@ d) Se trate de serviços de arbitragem e de conciliação;
 
 e) Se trate de serviços de investigação e de desenvolvimento, com excepção daqueles cujos resultados se destinem exclusivamente à entidade adjudicante para utilização no exercício da sua própria actividade, desde que a prestação do serviço seja inteiramente remunerada pela referida entidade adjudicante;
 
-f) Se trate de serviços informáticos de desenvolvimento de software e de manutenção ou assistência técnica de equipamentos;
+f) (Revogada.)
 
 g) O contrato, na sequência de um concurso de concepção, deva ser celebrado com o concorrente seleccionado ou com um dos concorrentes seleccionados nesse concurso, desde que tal intenção tenha sido manifestada nos respectivos termos de referência e de acordo com as regras neles estabelecidas;
 
@@ -42,4 +42,4 @@ b) Referido no n.º 2 do artigo 20.º, quando a entidade adjudicante seja o Esta
 
 6 - A entidade adjudicante deve indemnizar os concorrentes pelos encargos em que comprovadamente incorreram com a elaboração das respectivas propostas apresentadas no concurso de concepção quando a decisão de escolha do ajuste directo, ao abrigo do disposto na alínea g) do n.º 1, tenha caducado ou não tenha sido tomada no prazo previsto no número anterior.
 
-7 - A escolha do ajuste directo ao abrigo do disposto na alínea f) do n.º 1 só permite a celebração de contratos de valor inferior ao referido na alínea b) do n.º 1 do artigo 20.º ou ao referido no n.º 2 do artigo 20.º, consoante o caso.
+7 - (Revogado.)

@@ -28,7 +28,7 @@ h) Que sejam apresentadas como variantes quando seja proposta a exclusão da res
 
 i) Que violem o disposto no n.º 7 do artigo 59.º;
 
-j) Que, identificando erros ou omissões das peças do procedimento, não cumpram o disposto no n.º 7 do artigo 61.º;
+j) (Revogada.)
 
 l) Que não observem as formalidades do modo de apresentação das propostas fixadas nos termos do disposto no artigo 62.º;
 

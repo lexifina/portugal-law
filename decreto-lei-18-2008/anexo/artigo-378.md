@@ -6,9 +6,9 @@
 
 2 - Quando o empreiteiro tenha a obrigação de elaborar o projecto de execução, é o mesmo responsável pelos trabalhos de suprimento dos respectivos erros e omissões, excepto quando estes sejam induzidos pelos elementos elaborados ou disponibilizados pelo dono da obra.
 
-3 - O empreiteiro é responsável pelos trabalhos de suprimento de erros e omissões cuja detecção era exigível na fase de formação do contrato nos termos do disposto nos n.os 1 e 2 do artigo 61.º, excepto pelos que hajam sido identificados pelos concorrentes na fase de formação do contrato mas que não tenham sido expressamente aceites pelo dono da obra.
+3 - O empreiteiro é responsável pelos trabalhos de suprimento de erros e omissões cuja deteção era exigível na fase de formação do contrato nos termos do disposto no n.º 2 do artigo 61.º, exceto pelos que hajam sido identificados pelos interessados na fase de formação do contrato mas que não tenham sido expressamente aceites pelo dono da obra.
 
-4 - O empreiteiro é ainda responsável pelos trabalhos de suprimento de erros e omissões que, não sendo exigível que tivessem sido detectados na fase de formação do contrato nos termos do disposto nos n.os 1 e 2 do artigo 61.º, também não tenham sido por ele identificados no prazo de 30 dias a contar da data em lhe fosse exigível a sua detecção.
+4 - O empreiteiro é ainda responsável pelos trabalhos de suprimento de erros e omissões que, não sendo exigível que tivessem sido detetados na fase de formação do contrato nos termos do disposto no n.º 2 do artigo 61.º, também não tenham sido por ele identificados no prazo de 30 dias a contar da data em que lhe fosse exigível a sua deteção.
 
 5 - A responsabilidade do empreiteiro prevista no n.º 3 corresponde a metade do preço dos trabalhos de suprimento dos erros e omissões executados.
 

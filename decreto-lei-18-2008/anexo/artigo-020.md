@@ -2,9 +2,11 @@
 
 ### Escolha do procedimento de formação de contratos de locação ou de aquisição de bens móveis e de aquisição de serviços
 
+Escolha do procedimento de formação de contratos de locação ou de aquisição de bens móveis e de aquisição de serviços
+
 1 - No caso de contratos de locação ou de aquisição de bens móveis e de contratos de aquisição de serviços:
 
-a) A escolha do ajuste directo só permite a celebração de contratos de valor inferior a (euro) 75 000, sem prejuízo do disposto no n.º 4, ou, caso a entidade adjudicante seja o Banco de Portugal ou uma das referidas no n.º 2 do artigo 2.º, de valor inferior ao referido na alínea b) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março;
+a) A escolha do ajuste direto só permite a celebração de contratos de valor inferior a (euro) 75 000;
 
 b) A escolha do concurso público ou do concurso limitado por prévia qualificação permite a celebração de contratos de qualquer valor, excepto quando os respectivos anúncios não sejam publicados no Jornal Oficial da União Europeia, caso em que só permite a celebração de contratos de valor inferior ao referido na alínea b) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março.
 
@@ -22,4 +24,4 @@ iii) Serviços mencionados no anexo ii-B da Directiva n.º 2004/18/CE, do Parlam
 
 3 - À formação dos contratos referidos nas alíneas do número anterior é aplicável o disposto na alínea b) do n.º 1.
 
-4 - No caso de se tratar de contratos de aquisição de planos, de projectos ou de criações conceptuais nos domínios da arquitectura ou da engenharia, a escolha do ajuste directo só permite a celebração, pelas entidades adjudicantes referidas no n.º 1 do artigo 2.º, de contratos de valor inferior a (euro) 25 000.
+4 - (Revogado.)

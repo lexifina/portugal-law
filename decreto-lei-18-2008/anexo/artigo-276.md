@@ -14,6 +14,8 @@ a) Se verificar alguma das situações previstas nos artigos 24.º ou 25.º;
 
 b) O adjudicatário seja uma empresa associada do concessionário de obras públicas, nos termos do disposto no artigo 14.º
 
+c) O adjudicatário seja membro do agrupamento que apresentou a proposta adjudicada no procedimento de formação do contrato de concessão ou uma empresa associada a qualquer dos seus membros nos termos do disposto no artigo 14.º
+
 5 - Para efeitos da formação dos contratos de empreitada de obras públicas referidos no n.º 1, o concessionário não pode fixar um prazo para a apresentação de candidaturas inferior a 37 dias a contar da data do envio do anúncio referido no n.º 2, nem um prazo para a apresentação das propostas inferior a 40 dias a contar daquela mesma data ou do convite à apresentação de propostas.
 
 6 - Aos prazos mínimos previstos no número anterior são aplicáveis as reduções previstas no n.º 3 do artigo 136.º e no n.º 3 do artigo 174.º, consoante o caso.

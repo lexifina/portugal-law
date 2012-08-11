@@ -24,7 +24,17 @@ d) Tem a sua situação regularizada relativamente a contribuições para a segu
 
 e) Tem a sua situação regularizada relativamente a impostos devidos em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (11);
 
-f) Não foi objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, no artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (12);
+f) Tenham sido objeto de aplicação da sanção acessória
+
+prevista na alínea e) do n.º 1 do artigo 21.º do
+
+Decreto -Lei n.º 433/82, de 27 de outubro, na alínea b)
+
+do n.º 1 do artigo 71.º da Lei n.º 19/2012, de 8 de maio,
+
+e no n.º 1 do artigo 460.º do presente Código, durante o
+
+período de inabilidade fixado na decisão condenatória (12);
 
 g) Não foi objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (13);
 
@@ -40,7 +50,13 @@ iii) Fraude, na acepção do artigo 1.º da Convenção relativa à Protecção 
 
 iv) Branqueamento de capitais, na acepção do artigo 1.º da Directiva n.º 91/308/CEE, do Conselho, de 10 de Junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais;
 
-j) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.
+j) Não prestou, a qualquer título, direta ou indiretamente,
+
+assessoria ou apoio técnico na preparação e
+
+elaboração das peças do procedimento que lhe confira
+
+vantagem que falseie as condições normais de concorrência.
 
 5 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da proposta apresentada ou a caducidade da adjudicação que eventualmente sobre ela recaia e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.
 

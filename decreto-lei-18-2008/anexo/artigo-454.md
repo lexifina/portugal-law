@@ -6,17 +6,17 @@
 
 a) Se tenham tornado necessários à prestação dos serviços objecto do contrato na sequência de uma circunstância imprevista; e
 
-b) Não possam ser técnica ou economicamente separáveis do objecto do contrato sem inconvenientes graves para o contraente público ou, embora separáveis, sejam estritamente necessários à conclusão objecto do contrato.
+b) Não possam ser técnica ou economicamente separáveis do objeto do contrato sem inconvenientes graves para o contraente público ou, embora separáveis, sejam estritamente necessários à conclusão do objeto do contrato.
 
-2 - Só pode ser ordenada a execução de serviços a mais quando se verifiquem as seguintes condições:
+2 - Não pode ser ordenada a execução de serviços a mais quando:
 
-a) O contrato tenha sido celebrado na sequência de ajuste directo adoptado ao abrigo do disposto no artigo 24.º ou no n.º 1 do artigo 27.º, de procedimento de negociação adoptado ao abrigo do disposto no artigo 29.º, de diálogo concorrencial, de concurso público ou de concurso limitado por prévia qualificação;
+a) Tendo o contrato sido celebrado na sequência de procedimento de ajuste direto ao abrigo do disposto na alínea a) do n.º 1 do artigo 20.º, o somatório do preço contratual com o preço atribuído aos serviços a mais, incluindo o de anteriores serviços a mais, seja igual ou superior ao valor referido naquela alínea;
 
-b) Quando o contrato tenha sido celebrado na sequência de concurso público ou de concurso limitado por prévia qualificação e o anúncio do concurso tenha sido publicado no Jornal Oficial da União Europeia, no caso de o somatório do preço atribuído aos serviços a mais nos termos do disposto no artigo 373.º com o preço contratual ser igual ou superior ao valor referido na alínea b) do n.º 1 do artigo 20.º;
+b) Tendo o contrato sido celebrado na sequência de concurso público ou de concurso limitado por prévia qualificação e o somatório do preço contratual com o preço atribuído aos serviços a mais, incluindo o de anteriores serviços a mais, seja igual ou superior ao valor referido na alínea b) do n.º 1 do artigo 20.º, o anúncio do concurso não tenha sido publicado no Jornal Oficial da União Europeia;
 
-c) O preço atribuído aos serviços a mais nos termos do disposto no artigo 373.º somado ao preço de anteriores serviços a mais e deduzido do preço dos serviços a menos não exceder 5 % do preço contratual; e
+c) O preço atribuído aos serviços a mais, incluindo o de anteriores serviços a mais, ultrapasse 40 % do preço contratual.
 
-d) O somatório do preço atribuído aos serviços a mais nos termos do disposto no artigo 373.º com o preço de anteriores serviços a mais e de anteriores serviços de suprimento de erros e omissões não exceder 50 % do preço contratual.
+d) d) (Revogada.)
 
 3 - Sempre que o contraente público for o Estado, só pode ser ordenada a execução de serviços a mais quando o somatório referido na alínea b) do número anterior for igual ou superior ao valor referido no n.º 2 do artigo 20.º ou, quando se tratar de um dos contratos mencionados na alínea b) do mesmo n.º 2, ao valor referido na alínea b) do n.º 1 do mesmo artigo.
 

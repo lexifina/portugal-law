@@ -12,17 +12,17 @@ a) Se tenham tornado necessários à execução da mesma obra na sequência de u
 
 b) Não possam ser técnica ou economicamente separáveis do objecto do contrato sem inconvenientes graves para o dono da obra ou, embora separáveis, sejam estritamente necessários à conclusão da obra.
 
-2 - Só pode ser ordenada a execução de trabalhos a mais quando se verifiquem as seguintes condições:
+2 - Não pode ser ordenada a execução de trabalhos a mais quando:
 
-a) O contrato tenha sido celebrado na sequência de ajuste directo adoptado ao abrigo do disposto no artigo 24.º ou no n.º 1 do artigo 25.º, de procedimento de negociação, de diálogo concorrencial, de concurso público ou de concurso limitado por prévia qualificação;
+a) Tendo o contrato sido celebrado na sequência de procedimento de ajuste direto ao abrigo do disposto na alínea a) do artigo 19.º, o somatório do preço contratual com o preço atribuído aos trabalhos a mais, incluindo o de anteriores trabalhos a mais, seja igual ou superior ao valor referido naquela alínea;
 
-b) Quando o contrato tenha sido celebrado na sequência de concurso público ou de concurso limitado por prévia qualificação e o anúncio do concurso tenha sido publicado no Jornal Oficial da União Europeia, no caso de o somatório do preço atribuído aos trabalhos a mais com o preço contratual ser igual ou superior ao valor referido na alínea b) do artigo 19.º;
+b) Tendo o contrato sido celebrado na sequência de concurso público ou de concurso limitado por prévia qualificação e o somatório do preço contratual com o preço atribuído aos trabalhos a mais, incluindo o de anteriores trabalhos a mais, seja igual ou superior ao valor referido na alínea b) do artigo 19.º, o anúncio do concurso não tenha sido publicado no Jornal Oficial da União Europeia;
 
-c) O preço atribuído aos trabalhos a mais, somado ao preço de anteriores trabalhos a mais e deduzido do preço de quaisquer trabalhos a menos, não exceder 5 % do preço contratual; e
+c) O preço atribuído aos trabalhos a mais, incluindo o de anteriores trabalhos a mais, ultrapasse 40 % do preço contratual.
 
-d) O somatório do preço atribuído aos trabalhos a mais com o preço de anteriores trabalhos a mais e de anteriores trabalhos de suprimento de erros e omissões não exceder 50 % do preço contratual.
+d) (Revogada.)
 
-3 - O limite previsto na alínea c) do número anterior é elevado para 25 % quando estejam em causa obras cuja execução seja afectada por condicionalismos naturais com especiais características de imprevisibilidade, nomeadamente as obras marítimas-portuárias e as obras complexas do ponto de vista geotécnico, em especial a construção de túneis, bem como as obras de reabilitação ou restauro de bens imóveis.
+3 - (Revogado.)
 
 4 - Não são considerados trabalhos a mais aqueles que sejam necessários ao suprimento de erros ou omissões, independentemente da parte responsável pelos mesmos.
 
