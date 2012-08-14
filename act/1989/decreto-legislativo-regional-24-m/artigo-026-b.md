@@ -1,31 +1,27 @@
+## Subsecção V
+
+## Departamento de Assessoria Técnica
+
 # Artigo 26.º-B
 
-### Competências
+### Âmbito funcional
 
-1 - Compete ao Arquivo Histórico-Parlamentar:
+1 - O Departamento de Assessoria Técnica é a unidade orgânica de apoio técnico e de assessoria na dependência do secretário-geral.
 
-a) Zelar pela conservação dos documentos da Assembleia Legislativa;
+2 - Ao Departamento de Assessoria Técnica compete:
 
-b) Recolher, registar, catalogar e indexar e conservar as espécies documentais relativas às legislaturas findas;
+a) Prestar apoio técnico e de assessoria aos Gabinetes do Presidente e dos Vice-Presidentes e à Secretaria-Geral;
 
-c) Recolher, seleccionar, tratar e divulgar manuscritos e outras fontes históricas disponíveis;
+b) Verificar quaisquer textos legislativos e normativos cuja apreciação lhe seja solicitada e propor alterações que se mostrem adequadas e anotações técnicas pertinentes;
 
-d) Recolher, tratar e conservar a informação áudio-visual, em estreita colaboração com o Gabinete de Apoio Audiovisual;
+c) Efetuar os estudos e trabalhos de investigação e de informação de que for incumbido;
 
-e) Recolher, seleccionar, tratar e conservar os documentos fotográficos referentes aos deputados e a actos e factos da Assembleia Legislativa;
+d) Assegurar a representação judiciária da Assembleia em Juízo;
 
-f) Prestar informações sobre a documentação existente no Arquivo, quando devidamente autorizadas;
+e) Recolher, selecionar, tratar e difundir a informação do Diário da República e do Jornal Oficial da Região de interesse para a Assembleia Legislativa;
 
-g) Publicar com regularidade instrumentos de trabalho relativos às espécies reunidas;
+f) Recolher e difundir jurisprudência nacional e europeia, obtida através do acesso a bases de dados externas;
 
-h) Elaborar e propor os regulamentos de conservação e eliminação de documentos dos serviços;
+g) Assegurar o escrutínio das iniciativas legislativas europeias, em coordenação com as Comissões especializadas competentes.
 
-i) Promover e colaborar em actividades de divulgação do património documental do Arquivo Histórico-Parlamentar;
-
-j) Propor, planear, editar e difundir as publicações com interesse para a Assembleia Legislativa e as que respeitam à história do Parlamento em estreita colaboração com o Gabinete de Informação e Comunicação;
-
-k) Desenvolver os estudos gráficos adequados à criação de uma imagem de qualidade das edições da Assembleia Legislativa;
-
-l) Executar todo o expediente relativo às publicações, propor os concursos necessários, propor as tiragens e providenciar sobre a composição, impressão e revisão de provas.
-
-2 - O Arquivo Histórico-Parlamentar é dirigido por um director, equiparado a chefe de divisão.
+3 - O Departamento de Assessoria Técnica é superintendido pelo adjunto do secretário-geral.

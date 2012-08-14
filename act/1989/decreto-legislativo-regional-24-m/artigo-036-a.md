@@ -1,27 +1,13 @@
 # Artigo 36.º-A
 
-### Carreira técnica parlamentar
+### Carreira de assistente operacional parlamentar
 
-1 - A carreira técnica parlamentar integra as seguintes áreas de especialidade:
+1 - A carreira de assistente operacional parlamentar desenvolve-se por duas categorias, a de assistente operacional parlamentar e a de encarregado operacional parlamentar.
 
-a) Apoio parlamentar;
+2 - À categoria de assistente operacional parlamentar correspondem oito posições remuneratórias e à de encarregado operacional parlamentar três posições.
 
-b) Documentação e informação;
+3 - O exercício de funções na categoria de encarregado operacional parlamentar é feito em regime de comissão de serviço, por um período de cinco anos, renovável, de entre assistentes operacionais parlamentares com avaliação positiva de desempenho de funções na Assembleia Legislativa da Região Autónoma da Madeira nos últimos cinco anos.
 
-c) Relações públicas;
+4 - O encarregado operacional parlamentar é remunerado pela posição remuneratória da categoria imediatamente superior àquela em que se encontra na categoria de assistente operacional parlamentar se esta for mais favorável.
 
-d) Contabilidade e administração.
-
-2 - O ingresso na carreira de técnico parlamentar faz-se na categoria de técnico parlamentar de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira grau de licenciatura em área de formação adequada ao conteúdo funcional do lugar a prover de entre as áreas previstas no número anterior, aprovados em estágio, nos termos do artigo 34.º deste diploma.
-
-3 - O acesso na carreira técnica parlamentar obedece às seguintes regras:
-
-a) Técnico parlamentar especialista principal e técnico parlamentar especialista, de entre, respectivamente, técnicos parlamentares especialistas e técnicos parlamentares principais com, pelo menos, três anos nas respectivas categorias classificados de Muito bom ou cinco anos classificados de Bom;
-
-b) Técnico parlamentar principal e técnico parlamentar de 1.ª classe de entre, respectivamente técnicos parlamentares de 1.ª classe e de 2.ª classe com, pelo menos, três anos de serviço classificados de Bom.
-
-4 - A área de recrutamento para a categoria de técnico parlamentar de 1.ª classe é alargada a adjuntos parlamentares especialistas principais desde que preencham os requisitos habilitacionais legalmente estabelecidos para a carreira de adjunto parlamentar à data do respectivo ingresso e a chefes de secção, bem como a assistentes administrativos especialistas e aos tesoureiros possuidores, em todos os casos, de 11.º ano de escolaridade ou equivalente e desde que, em qualquer das categorias referidas, habilitados com formação adequada.
-
-5 - As áreas funcionais e o número de lugares que, de entre as vagas a prover, são destinados aos indivíduos com a habilitação legal para ingresso serão fixados no aviso de abertura do concurso.
-
-6 - Enquanto se mantiver a carreira de redactor, constante do anexo I do presente diploma, o acesso à categoria de redactor especialista principal faz-se de entre redactores especialistas com, pelo menos, três anos na respectiva categoria classificados de Muito bom ou cinco anos classificados de Bom.
+5 - Finda a comissão de serviço, o encarregado operacional parlamentar regressa à categoria de origem, relevando para efeitos do respetivo posicionamento remuneratório o tempo de exercício de funções na categoria de encarregado operacional parlamentar.

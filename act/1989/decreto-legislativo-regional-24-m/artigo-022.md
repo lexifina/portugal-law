@@ -1,39 +1,21 @@
 ## Subsecção II
 
-## Gabinete Técnico de Assessoria e Estudos
+## Gabinete da Presidência
 
 # Artigo 22.º
 
 ### Âmbito funcional
 
-1 - O Gabinete Técnico de Assessoria e Estudos é um departamento de apoio técnico e de assessoria na dependência do Gabinete do Presidente da Assembleia Legislativa Regional.
+1 - O Gabinete da Presidência é responsável pelo protocolo institucional da Assembleia Legislativa da Região Autónoma da Madeira e funciona na dependência do Presidente da Assembleia Legislativa.
 
-2 - Ao Gabinete Técnico de Assessoria e Estudos compete:
+2 - Compete-lhe, nomeadamente:
 
-a) Prestar apoio técnico e de assessoria ao Gabinete do Presidente, bem como às Comissões da Assembleia Legislativa Regional;
+a) Assegurar todo o serviço de protocolo e receção da Assembleia Legislativa;
 
-b) Verificar, relativamente aos textos dos processos legislativos e normativos que lhe sejam submetidos para apreciação, o seu rigor técnico-jurídico, propondo as alterações que se mostrem necessárias;
+b) Prestar apoio às delegações parlamentares nas missões oficiais, quer na Região quer no País e no estrangeiro;
 
-c) Verificar a redacção final dos textos da Assembleia Legislativa Regional de acordo com as deliberações dos seus órgãos e promover a preparação dos respectivos autógrafos;
+c) Planear e colaborar na realização de solenidades, comemorações e visitas à Assembleia Legislativa.
 
-d) Efectuar os estudos e trabalhos de investigação e de informação de que for incumbido pelo Presidente da Assembleia Legislativa Regional;
+3 - O Gabinete é constituído por pessoal designado para o efeito por despacho do Presidente.
 
-e) Proceder ao levantamento das necessidades de formação do pessoal afecto ao Gabinete e propor plano de formação ao director de serviços.
-
-3 - O Gabinete Técnico de Assessoria e Estudos é superintendido pelo assessor do Gabinete do Presidente da Assembleia Legislativa Regional, ao qual será atribuído um suplemento a fixar pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração.
-
-4 - Na dependência directa deste Gabinete funciona o Serviço de Apoio às Comissões, a quem incumbe:
-
-a) Dar o apoio administrativo ao Gabinete Técnico de Assessoria e Estudos;
-
-b) Garantir o apoio administrativo e de secretariado às Comissões;
-
-c) Informar da realização das reuniões das Comissões;
-
-d) Lavrar as actas das reuniões das Comissões;
-
-e) Assegurar o registo dos diplomas submetidos à apreciação da Assembleia com anotação dos seus trâmites;
-
-f) Canalizar, para o chefe de gabinete, o expediente decorrente da relação das Comissões com o pessoal e entidades estranhas à Assembleia.
-
-5 - O Serviço de Apoio às Comissões é coordenado por um coordenador parlamentar cujos escalões e índices remuneratórios são os constantes do anexo I do presente diploma.
+4 - O apoio administrativo a este Gabinete é assegurado pela Secretaria-Geral.

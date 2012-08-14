@@ -2,7 +2,9 @@
 
 ### Gabinete do Presidente
 
-2 - O Gabinete do Presidente da Assembleia Legislativa Regional é constituído por um chefe de gabinete, que coordena, por um assessor, dois adjuntos, duas secretárias e um motorista, sendo os seus membros portadores de um cartão de identidade conforme anexo II do presente diploma.
+1 - O Presidente da Assembleia Legislativa dispõe de um gabinete constituído por pessoal de sua livre escolha, nomeação e exoneração.
+
+2 - O Gabinete do Presidente da Assembleia Legislativa é constituído por um chefe de gabinete, que coordena, por dois assessores, um adjunto, duas secretárias e um motorista, sendo os seus membros portadores de um cartão de identidade, conforme o anexo ii do presente diploma.
 
 3 - Sem prejuízo do disposto no número anterior, poderão ser chamados a prestar colaboração ao Gabinete, para a realização de estudos, trabalhos ou missões de carácter eventual ou extraordinário, técnicos para o efeito nomeados por despacho do Presidente da Assembleia Legislativa Regional.
 
