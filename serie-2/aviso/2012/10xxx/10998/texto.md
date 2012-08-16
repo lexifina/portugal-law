@@ -1,0 +1,9 @@
+Aviso n.º 10998/2012
+Alteração ao Plano de Pormenor da Envolvente do Rio Pavia
+Fernando de Carvalho Ruas, Presidente da Câmara Municipal de Viseu, torna público, em conformidade com o disposto no artigo 96.º, conjugado com o n.º 1 do artigo 74.º, ambos do Decreto-Lei n.º 380/99, de 22 de setembro, na redação conferida pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro (Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), que, em reunião ordinária, realizada no dia 30 de outubro de 2008.
+Nos termos dos n.º 3 e 4 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), e por se mostrar concluído o período de acompanhamento, fica através do presente aviso, aberto um período de discussão público, com início no quinto dia a contar da publicação do presente no Diário da República.
+A proposta de alteração ao Plano de Pormenor da Envolvente do Rio Pavia, o respetivo relatório ambiental e o parecer da Conferência de Serviços, de 29 de junho de 2012, encontram-se disponíveis para consulta, nos Serviços Municipais do Departamento de Planeamento e Gestão Urbanística desta Câmara Municipal, onde, também, poderão ser obtidas quaisquer informações ou esclarecimentos que se mostrem necessários.
+As sugestões, reclamações ou observações devem ser apresentadas, por escrito, até ao final do período referido, devidamente fundamentadas e entregues nos Serviços Municipais de Atendimento Único desta Câmara Municipal, durante o horário normal de expediente (segunda a sexta-feira, das 9.00 às 17.30 horas), ou remetidas, por correio, dirigido ao Presidente da Câmara Municipal - Praça da República, 3514-501 Viseu.
+Para constar se lavrou o presente Aviso e outros de igual teor, que vão ser afixados nos lugares públicos de estilo e publicados em dois jornais diários e um semanário.
+9 de agosto de 2012. - O Presidente da Câmara Municipal, Dr. Fernando de Carvalho Ruas.
+206317006
