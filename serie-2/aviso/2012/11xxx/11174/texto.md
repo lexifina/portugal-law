@@ -1,0 +1,4 @@
+Aviso n.º 11174/2012
+Fernando Carlos Ribeiro Monteiro Gomes, Presidente da Assembleia de Freguesia de Agualva, torna público, de harmonia com o disposto no artigo 118.º do Código do Procedimento Administrativo, que se encontra em apreciação pública, pelo prazo de 30 dias contados da data da publicação deste aviso no Diário da República, 2.ª série, o Projeto de Regulamento do Mercado Sustentável de Colaride, assim como a Proposta de alteração ao regulamento, apresentada pela Comissão de Obras, Equipamentos e Qualidade de Vida. Aprovado pela Junta de Freguesia em reunião de 22/03/2012, e remetido à Assembleia de Freguesia. O Projeto e a Proposta de alteração podem ser consultados na sede da Junta de Freguesia na Rua António Nunes Sequeira, n.º 16, durante as horas de expediente (8:30-16:30).
+10 de agosto de 2012. - O Presidente, Fernando Carlos Ribeiro Monteiro Gomes.
+306321112
