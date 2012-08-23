@@ -1,0 +1,4 @@
+Aviso n.º 11275/2012
+Dra. Maria Isabel Fernandes da Silva, Presidente da Câmara Municipal de Silves, pelo presente torna público que a Assembleia Municipal de Silves no uso da competência que lhe é conferida pela alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/02, de 11 de janeiro aprovou, na sua sessão ordinária de 29 de junho de 2012, o Regulamento da Feira Medieval de Silves, o qual foi submetido a inquérito público e publicado nos Diários da República, 2.ª série, n.º 54 de 15 de março de 2012 e n.º 63, de 28 de março de 2012, durante o qual foi introduzida uma alteração na tabela de taxas, que consiste na exclusão da palavra "mercadores" da primeira linha do primeiro quadro "Ruas do Perímetro" e da segunda linha do segundo quadro "Outras Ruas".
+2 de agosto de 2012. - A Presidente da Câmara, Dr.ª Maria Isabel Fernandes da Silva Soares.
+306302029
