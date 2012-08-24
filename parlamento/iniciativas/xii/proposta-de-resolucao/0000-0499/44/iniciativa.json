@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Resolução",
+  "numero": "44",
+  "id": "37215",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-08-24",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2012-09-14",
+    "DataInicioleg": "2011-06-20",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f444d355a5463794e6a45744d6d4e6a4e5330304d6a6c684c574a6c4e5745744d546b304d6a6b334f54646b4d7a426d4c6e426b5a673d3d&fich=839e7261-2cc5-429a-be5a-19429797d30f.pdf&Inline=true",
+        "anexoNome": "Emendas ao Artigo VI e Artigo XIV do Estatuto da Agência Internacional de Energia Atómica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a444d315a446b334d5467744d544d305a4330304f5755304c57466d4d7a4d744d5455794d474d775a6d5930595463354c6d527659773d3d&fich=d35d9718-134d-49e4-af33-1520c0ff4a79.doc&Inline=true",
+        "anexoNome": "Emenda em Inglês do artigo VI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5442684e5759344f5751744d444135597930304e57517a4c5745305a5441745a5467784d4751794d7a566d4d574d354c6d527659773d3d&fich=90a5f89d-009c-45d3-a4e0-e810d235f1c9.doc&Inline=true",
+        "anexoNome": "Emenda em Português do artigo VI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5445344e446b354e44497459544a6a4f4330304d44497a4c5749334d444d744f5745784f446c69596a517a597a41314c6d527659773d3d&fich=11849942-a2c8-4023-b703-9a189bb43c05.doc&Inline=true",
+        "anexoNome": "Emenda em Inglês do artigo XIV"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a466a59324e684e444d74596d4d7a4d5330304f44417a4c574a6d596d51744f44526d59574e694d6a686a4e6a51344c6d527659773d3d&fich=61ccca43-bc31-4803-bfbd-84facb28c648.doc&Inline=true",
+        "anexoNome": "Emenda em Português do artigo XIV"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "37215",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595759794e7a51345a5449744d7a46684d4330304e6a4a684c574532593259744e47466b4d6d4a6b5a4445325a6a42694c6d527659773d3d&fich=af2748e2-31a0-462a-a6cf-4ad2bdd16f0b.doc&Inline=true",
+    "IniNr": "44",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova as Emendas ao Artigo VI e do Artigo XIV do Estatuto da Agência Internacional de Energia Atómica, adotadas pela 43.ª Conferência Geral da Agência Internacional de Energia Atómica, realizada em Viena, a 1 de outubro de 1999.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
