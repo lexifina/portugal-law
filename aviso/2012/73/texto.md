@@ -1,0 +1,4 @@
+Aviso n.º 73/2012
+Por ordem superior se torna público que, em 7 de junho de 2012, a República da Bulgária depositou, nos termos do artigo xiv do Acordo, junto do Departamento de Estado dos Estados Unidos da América, país depositário, a sua decisão de recesso como Estado membro do Acordo Relativo à Organização Internacional de Telecomunicações por Satélite, adotado em Washington, nos Estados Unidos da América, em 20 de agosto de 1971.
+Portugal é Parte do Acordo, aprovado pelo Decreto n.º 124/72, de 19 de abril, publicado no suplemento ao Diário do Governo, 1.ª série, n.º 92, de 19 de abril de 1972, tendo depositado o seu instrumento de ratificação em 29 de junho de 1972, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 250, de 26 de outubro de 1972.
+Direção-Geral de Política Externa, 21 de agosto de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
