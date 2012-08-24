@@ -1,0 +1,5 @@
+Aviso n.º 72/2012
+Por ordem superior se torna público que, em 23 de junho de 2011, o Reino da Dinamarca depositou, nos termos do artigo 26.º da Convenção, junto do Governo da República Francesa, país depositário, o seu instrumento de ratificação às Emendas à Convenção para a Proteção do Meio Marinho do Atlântico Nordeste respeitantes aos Anexos II e III, adotadas em 29 de junho de 2007.
+Nos termos dos artigos 17.º e 15.º da Convenção, as Emendas entraram em vigor no Reino da Dinamarca em 23 de julho de 2011.
+Portugal é Parte da Convenção, aprovada, para ratificação, pelo Decreto n.º 59/97, publicado no Diário da República, 1.ª série-A, n.º 253, de 31 de outubro de 1997, tendo Portugal depositado o seu instrumento de ratificação em 23 de fevereiro de 1998, conforme o Aviso n.º 122/98, publicado no Diário da República, 1.ª série-A, n.º 148, de 30 de junho de 1998.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
