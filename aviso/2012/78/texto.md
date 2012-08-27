@@ -1,0 +1,5 @@
+Aviso n.º 78/2012
+Por ordem superior se torna público que, em 14 de março de 2012, a República da Bulgária depositou, nos termos do artigo xiii do Acordo, junto do Governo do Principado do Mónaco, país depositário, o seu instrumento de aceitação das Alterações ao Acordo sobre a Conservação de Cetáceos no Mar Negro, adotado no Mónaco em 24 de novembro de 1996.
+As Alterações entrarão em vigor na República da Bulgária, nos termos do parágrafo 3 do artigo x do Acordo, no trigésimo dia depois de dois terços dos Estados parte do Acordo terem depositado os seus instrumentos de ratificação, aceitação ou aprovação junto do depositário.
+Portugal é Parte do Acordo, aprovado por Decreto n.º 19/2004, publicado no Diário da República, 1.ª série-A, n.º 180, de 2 de agosto de 2004, tendo Portugal depositado o seu instrumento de ratificação em 15 de outubro de 2004, conforme Aviso n.º 26/2005, publicado no Diário da República, 1.ª série-A, n.º 23 de 2 de fevereiro de 2005.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
