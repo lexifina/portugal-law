@@ -1,0 +1,7 @@
+Edital n.º 797-A/2012
+Dr. João Joaquim Saraiva Ribeiro, Licenciado em Direito, na qualidade de Presidente da Câmara Municipal de Tabuaço,
+Torna público que em conformidade com a deliberação tomada pela Câmara Municipal em sua reunião ordinária realizada em 21 de agosto de 2012 e nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, com as alterações introduzidas pelo Decreto-Lei n.º 06/96, de 31 de janeiro, se encontra em apreciação pública, pelo prazo de 30 dias, contado da publicação do presente aviso no Diário da República, o Projeto de Regulamento de liquidação e cobrança de Taxas do Município de Tabuaço.
+Durante esse período, poderão os interessados consultar na página da Internet (www.cm-tabuaco.pt) ou na Divisão Administrativa (Secção Administrativa) o referido documento, bem como o estudo económico-financeiro que o sustenta nos termos e para os efeitos previstos no artigo 8.º, da Lei n.º 53-E/2006, de 29 de dezembro.
+Nos termos do n.º 2, do citado artigo 118.º, convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões e ou reclamações, dentro do período atrás referido, ao Presidente da Câmara Municipal de Tabuaço, por fax para o n.º 254789142, para o endereço eletrónico cm-tabuaco@cm-tabuaco.pt ou por correio para a morada Rua António José de Almeida, 5120-413 Tabuaço.
+21 de agosto de 2012. - O Presidente da Câmara, Dr. João Joaquim Saraiva Ribeiro.
+306340245
