@@ -12,7 +12,7 @@ c) Elaborar, em colaboração com as entidades referidas nos n.os 2 e 3, a estra
 
 d) Assegurar os deveres de comunicação com a Comissão Europeia e outros organismos internacionais, no âmbito do presente decreto-lei;
 
-e) Realizar e coordenar as reuniões de acompanhamento da aplicação do presente decreto-lei com as entidades referidas nos números seguintes, a realizar pelo menos uma vez por semestre, em conformidade com o artigo seguinte;
+e) Realizar e coordenar as reuniões de acompanhamento da aplicação do presente decreto-lei com as entidades referidas nos números seguintes, a realizar pelo menos uma vez por semestre;
 
 f) Disponibilizar, de acordo com o disposto nas alíneas a), c), d), e), g), l), o) e s) do n.º 2 do artigo 2.º do Decreto-Lei n.º 49-A/2012, de 29 de fevereiro, a informação:
 

@@ -16,8 +16,6 @@ d) Os programas de monitorização estabelecidos ao abrigo do artigo 11.º;
 
 e) Os programas de medidas estabelecidos ao abrigo do artigo 12.º
 
-f) Os relatórios das reuniões de acompanhamento previstos no artigo 4.º-A.
-
 3 - As autoridades competentes referidas nos n.os 1 e 2 do artigo 4.º disponibilizam ao público até 2013, relativamente às subdivisões marinhas, informação relevante sobre as áreas referidas no n.º 6 do artigo 12.º e as áreas que possam ser significativamente afectadas pela gestão de uma actividade humana a nível da União Europeia ou internacional.
 
 4 - A informação referida nos números anteriores é disponibilizada no sítio na Internet da DGRM.
