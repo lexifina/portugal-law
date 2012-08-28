@@ -1,0 +1,5 @@
+Aviso n.º 83/2012
+Por ordem superior se torna público que, em 26 de janeiro de 2012, a República Helénica depositou, nos termos do artigo xix do Estatuto, junto do Governo da República Federal da Alemanha, país depositário, o seu instrumento de ratificação do Estatuto da Agência Internacional das Energias Renováveis (IRENA), adotado em Bona, na Alemanha, em 26 de janeiro de 2009.
+Em cumprimento do artigo xix, parágrafo E do Estatuto, este entrará em vigor na República Helénica no trigésimo dia depois do depósito do instrumento relevante.
+Portugal é Parte do Estatuto, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 105/2011 e ratificada pelo Decreto do Presidente da República n.º 50/2011, ambos publicados no Diário da República, 1.ª série, n.º 89, de 9 de maio de 2011, tendo Portugal depositado o seu instrumento de ratificação em 30 de junho de 2011, conforme Aviso n.º 165/2011, publicado no Diário da República, 1.ª série, n.º 133, de 30 de julho de 2011.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
