@@ -26,22 +26,16 @@ h) Beneficiar de um período de descanso que não exceda os 22 dias úteis por a
 
 i) Receber, por parte das entidades financiadora e acolhedora, todos os esclarecimentos que solicite a respeito do seu estatuto;
 
-j) Suspender o contrato de bolsa em caso de exercício transitório de outra função ou atividade remunerada, pública ou privada, incompatível com o regime de dedicação exclusiva previsto no artigo 5.º;
-
-k) Auferir remuneração pela prestação de serviço docente referida nas alíneas h) e i) do n.º 3 do artigo 5.º;
-
-l) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.
+j) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.
 
 2 - Sem prejuízo do disposto nos números seguintes, os bolseiros que sejam titulares de um vínculo jurídico-laboral têm ainda direito à contagem do tempo durante o qual beneficiaram do presente Estatuto, para todos os efeitos legais, como tempo de serviço efetivo.
 
-3 - Os bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas por tempo indeterminado, suspendem, obrigatoriamente, aquele contrato durante o período de duração da bolsa, ao abrigo do n.º 4 do artigo 278.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual (LTFP).
+3 - Os bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas por tempo indeterminado, suspendem, obrigatoriamente, aquele contrato durante o período de duração da bolsa, ao abrigo do n.º 4 do artigo 232.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de setembro.
 
-4 - O disposto no número anterior é aplicável aos bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas a termo resolutivo, sem prejuízo do disposto no n.º 3 do artigo 277.º da LTFP.
+4 - O disposto no número anterior é aplicável aos bolseiros detentores de uma prévia relação jurídica de emprego público, constituída por contrato de trabalho em funções públicas a termo resolutivo, sem prejuízo do disposto no n.º 3 do artigo 231.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de setembro.
 
 5 - Os bolseiros detentores de uma prévia relação jurídica de emprego pública constituída por nomeação suspendem esta relação jurídica mediante a concessão de licença sem vencimento.
 
-6 - Na suspensão das atividades a que se referem as alíneas f) e g) do n.º 1 pode ser mantido o pagamento da bolsa pelo tempo correspondente, não havendo, nesse caso, lugar ao pagamento de outros subsídios aplicáveis nas eventualidades previstas naquelas disposições, nos termos legais gerais.
+6 - Na suspensão das atividades a que se referem as alíneas f) e g) do n.º 1 pode ser mantido o pagamento da bolsa pelo tempo correspondente, não havendo, nesse caso, lugar ao pagamento de outros subsídios aplicáveis nas eventualidades previstas naquelas disposições, nos termos legais gerais, reiniciando-se a contagem no 1.º dia útil de atividade do bolseiro após a interrupção.
 
-7 - Para efeitos do disposto no número anterior, a contagem do tempo de bolsa reinicia-se no 1.º dia útil de atividade do bolseiro após cessar o motivo que determine a suspensão, não podendo a totalidade dos períodos de suspensão ser superior à duração do contrato de bolsa, salvo nos casos a que se refere a alínea g) do n.º 1.
-
-8 - As importâncias auferidas pelos bolseiros em razão da bolsa relevam para efeitos de candidatura que pressuponham a existência de rendimentos, designadamente para a obtenção de crédito à habitação própria e incentivos ao arrendamento para jovens, devendo, para este fim, a Fundação para a Ciência e a Tecnologia, I. P. passar comprovativo da condição de bolseiro.
+7 - As importâncias auferidas pelos bolseiros em razão da bolsa relevam para efeitos de candidatura que pressuponham a existência de rendimentos, designadamente para a obtenção de crédito à habitação própria e incentivos ao arrendamento para jovens, devendo, para este fim, a Fundação para a Ciência e a Tecnologia, I. P. passar comprovativo da condição de bolseiro.

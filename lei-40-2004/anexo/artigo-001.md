@@ -10,7 +10,7 @@
 
 ### Âmbito de aplicação
 
-1 - O presente Estatuto define o regime aplicável aos beneficiários de subsídios, atribuídos por entidades de natureza pública ou privada, destinados a financiar a realização, pelo próprio, de atividades de investigação, nos termos do artigo seguinte, sem prejuízo do disposto pelo direito da União Europeia e pelo direito internacional.
+1 - O presente Estatuto define o regime aplicável aos beneficiários de subsídios, atribuídos por entidades de natureza pública e ou privada, destinados a financiar a realização, pelo próprio, de actividades de natureza científica, tecnológica e formativa, nos termos do artigo seguinte, sem prejuízo do disposto pelo direito comunitário e pelo direito internacional.
 
 2 - Os subsídios a que se refere o número anterior designam-se por bolsas, sendo concedidos no âmbito de um contrato celebrado entre o bolseiro e uma entidade de acolhimento.
 

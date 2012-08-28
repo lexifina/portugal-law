@@ -12,4 +12,4 @@
 
 5 - O disposto no número anterior é aplicável no caso de desistência de bolsa, por parte do bolseiro, depois de decorrido metade do período da duração da mesma e sem a entrega da tese para a obtenção do grau no período de três anos após a cessação do contrato de bolsa.
 
-6 - A decisão de aplicação das sanções a que se referem os n.os 1 e 2 compete ao conselho diretivo da Fundação para a Ciência e a Tecnologia, I. P., ouvido o provedor do bolseiro.
+6 - A decisão de aplicação das sanções a que se referem os n.os 1 e 2 compete ao membro do Governo responsável pela área da ciência, ouvido o provedor do bolseiro e a Fundação para a Ciência e a Tecnologia, I. P.

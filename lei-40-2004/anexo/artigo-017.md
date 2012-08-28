@@ -6,7 +6,7 @@ São causas de cessação do contrato de bolsa, com o consequente cancelamento d
 
 a) O incumprimento reiterado, por uma das partes;
 
-b) A prestação de falsas declarações pelo bolseiro;
+b) A prestação de falsas declarações pelo bolseiro ou respetivo orientador científico;
 
 c) A conclusão do plano de actividades;
 
