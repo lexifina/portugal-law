@@ -1,0 +1,7 @@
+Edital n.º 800/2012
+Fernando Constantino Moleirinho presidente da Câmara Municipal de Sardoal
+Torna Público que, no uso da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º, conjugado com o artigo 91.º ambos da Lei n.º 169/99, de 18 de setembro, com a nova redação dada pela Lei n.º 5-A/2002, de 11 de janeiro, que a Câmara Municipal, em reunião ordinária realizada no dia 11 de julho de 2012, deliberou por submeter a apreciação pública, o Projeto de Regulamento do Circuito de Transporte Coletivo do Município de Sardoal, para cumprimento do n.º 1 do artigo 118.º do Decreto-Lei n.º 442/91, de 15 de novembro com as alterações introduzidas pelo Decreto-Lei n.º 6/96, de 31 de janeiro.
+Assim, durante o período de 30 dias, a contar da data da publicação do presente Edital no Diário da República, poderá o referido Projeto de Regulamento, ser consultado no Edifício dos Paços do Concelho, na Secção de Expediente Geral e Arquivo, bem como na página da Internet do Município (www.cm-sardoal.pt), sobre o qual os interessados poderão dirigir, por escrito, as suas sugestões ao Presidente da Câmara Municipal de Sardoal, dentro das horas normais de expediente e durante o prazo acima mencionado.
+Para constar se lavrou o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos habituais.
+13 de julho de 2012. - O Presidente da Câmara, Fernando Constantino Moleirinho.
+306255341
