@@ -1,3 +1,7 @@
+## Subcapítulo II
+
+## Exercício de funções docentes por outros funcionários
+
 # Artigo 69.º
 
 ### Exercício a tempo inteiro de funções docentes
