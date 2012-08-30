@@ -2,15 +2,15 @@
 
 ### Processo disciplinar
 
-1 - A instauração de processo disciplinar é da competência do órgão de administração e gestão do estabelecimento de educação ou de ensino.
+1 - A instauração de processo disciplinar é da competência do órgão de administração e gestão da escola.
 
-2 - Sendo o arguido membro do órgão de administração e gestão do estabelecimento de educação ou de ensino, a competência cabe ao director regional de Administração Educativa.
+2 - Sendo o arguido membro do órgão de administração e gestão da escola, a competência cabe ao diretor regional dos Recursos Humanos e da Administração Educativa.
 
-3 - Sendo o docente da educação especial membro do órgão de administração e gestão do estabelecimento de educação ou ensino ou director técnico de instituição de educação especial, a competência referida no número anterior cabe ao director regional de Educação Especial e Reabilitação.
+3 - Sendo diretor técnico de instituição de educação especial, a competência referida no número anterior cabe ao diretor regional de Educação.
 
 4 - A instauração de processo disciplinar em consequência de acções inspectivas da Inspecção Regional de Educação é da competência do respectivo director.
 
-5 - A nomeação do instrutor é da competência da entidade que mandar instaurar o processo disciplinar, nos termos do artigo 51.º do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
+5 - A nomeação do instrutor é da competência da entidade que mandar instaurar o processo disciplinar, nos termos do artigo 42.º do Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas.
 
 6 - Nas situações a que se refere o n.º 1 do artigo 102.º a instrução dos processos disciplinares faz-se nos seguintes termos:
 
@@ -20,12 +20,12 @@ b) Quando se trate de pessoal docente dos estabelecimentos dos 2.º e 3.º ciclo
 
 c) Quando se tratar de docentes de instituição de educação especial os processos disciplinares são instruídos pela Inspecção Regional de Educação.
 
-7 - No caso previsto no n.º 2 do artigo 102.º, a Direcção Regional de Administração Educativa ou a Direcção Regional de Educação Especial e Reabilitação deverá dar conhecimento à Inspecção Regional de Educação, para efeitos de instrução do processo.
+7 - No caso previsto no n.º 2 do artigo 102.º, a Direção Regional dos Recursos Humanos e da Administração Educativa deverá dar conhecimento à Inspeção Regional de Educação para efeitos de instrução do processo.
 
-8 - A suspensão preventiva é proposta pelo órgão de administração e gestão da escola ou pelo instrutor do processo e decidida pelo director regional de Administração Educativa ou pelo Secretário Regional de Educação e Cultura, conforme o arguido seja docente ou membro do órgão de administração e gestão do estabelecimento de educação ou de ensino.
+8 - A suspensão preventiva é proposta pelo órgão de administração e gestão da escola ou pelo instrutor do processo e decidida pelo diretor regional dos Recursos Humanos e da Administração Educativa ou pelo Secretário Regional da Educação e Recursos Humanos, conforme o arguido seja docente ou membro do órgão de administração e gestão do estabelecimento da escola.
 
-9 - Caso se trate de docentes de educação especial em exercício de funções nas escolas, a suspensão preventiva é proposta pelo órgão de administração e gestão da escola ou pelo instrutor do processo e decidida pelo director regional de Educação Especial e Reabilitação ou pelo Secretário Regional de Educação e Cultura, conforme o arguido seja docente ou membro do órgão de administração e gestão do estabelecimento de educação ou de ensino.
+9 - (Revogado.)
 
-10 - Nas situações de instituição de educação especial, a suspensão preventiva é proposta pelo director técnico e decidida pelo director regional de Educação Especial e Reabilitação ou pelo Secretário Regional de Educação e Cultura, conforme o arguido seja docente ou director de instituição.
+10 - Nas situações de instituição de educação especial, a suspensão preventiva é proposta pelo diretor técnico e decidida pelo diretor regional de Educação ou pelo Secretário Regional da Educação e Recursos Humanos, conforme o arguido seja docente ou diretor de instituição.
 
-11 - O prazo previsto no n.º 1 do artigo 54.º do Estatuto Disciplinar da Administração Central, Regional e Local pode ser prorrogado até ao final do ano lectivo, sob proposta da entidade competente para instaurar o processo disciplinar ou do instrutor do processo e com os fundamentos previstos na lei.
+11 - O prazo previsto no n.º 1 do artigo 45.º do Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas pode ser prorrogado até ao final do ano letivo, sob proposta da entidade competente para instaurar o processo disciplinar ou do instrutor do processo e com os fundamentos previstos na lei.

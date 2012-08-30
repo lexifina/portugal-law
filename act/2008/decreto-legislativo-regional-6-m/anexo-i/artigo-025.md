@@ -22,4 +22,4 @@ d) Possuir a robustez física, o perfil psíquico e as características de perso
 
 6 - A existência de alcoolismo ou de toxicodependências, comprovadas nos termos do número anterior, constitui motivo impeditivo do exercício da função docente pelo período de dois anos.
 
-7 - Aos candidatos pode ser exigida a prova de domínio perfeito da língua portuguesa, a qual é obrigatória quando não tenham nacionalidade portuguesa, nos termos a regulamentar por portaria do Secretário Regional de Educação e Cultura.
+7 - Aos candidatos pode ser exigida a prova de domínio perfeito da língua portuguesa, a qual é obrigatória quando não tenham nacionalidade portuguesa, nos termos a regulamentar por portaria do Secretário Regional da Educação e Recursos Humanos.

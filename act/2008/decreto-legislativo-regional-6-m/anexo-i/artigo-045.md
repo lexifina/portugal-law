@@ -2,26 +2,24 @@
 
 ### Âmbito e periodicidade
 
-1 - A avaliação realiza-se segundo critérios previamente definidos que permitam aferir os padrões de qualidade do desempenho profissional, tendo em consideração o contexto sócio-educativo em que se desenvolve a sua actividade.
+1 - A avaliação incide sobre as seguintes dimensões do desempenho do pessoal docente:
 
-2 - A avaliação do desempenho concretiza-se nas seguintes dimensões:
+a) Científica e pedagógica;
 
-a) Vertente profissional e ética;
+b) Participação nas atividades desenvolvidas na escola ou no serviço técnico da Direção Regional de Educação;
 
-b) Desenvolvimento do ensino e da aprendizagem;
+c) Formação contínua e desenvolvimento profissional.
 
-c) Participação na escola e relação com a comunidade escolar;
+2 - Os ciclos de avaliação dos docentes integrados na carreira coincidem com o período correspondente à duração dos escalões da carreira docente, devendo o processo de avaliação do desempenho ser concluído no final do ano escolar anterior ao do termo do ciclo avaliativo.
 
-d) Desenvolvimento e formação profissional ao longo da vida.
+3 - Os docentes integrados na carreira só são sujeitos a avaliação do desempenho desde que tenham prestado serviço docente efetivo durante, pelo menos, metade do período em avaliação a que se refere o número anterior.
 
-3 - A avaliação do desempenho dos docentes realiza-se no final de cada período de dois anos escolares e reporta-se ao tempo de serviço nele prestado.
+4 - A avaliação dos docentes em regime de contrato a termo resolutivo realiza-se no final do período de vigência do respetivo contrato e antes da eventual renovação da sua colocação desde que tenham prestado serviço docente efetivo durante, pelo menos, 180 dias.
 
-4 - Os docentes só são sujeitos a avaliação do desempenho desde que tenham prestado serviço docente efectivo ou equiparado nos termos do artigo 93.º durante, pelo menos, metade do período em avaliação a que se refere o número anterior.
+5 - (Revogado.)
 
-5 - A avaliação dos docentes em período probatório é feita no final do mesmo e reporta-se à actividade desenvolvida no seu decurso.
+6 - (Revogado.)
 
-6 - A avaliação do pessoal docente contratado realiza-se no final do período de vigência do respectivo contrato e antes da sua eventual renovação, desde que tenha prestado serviço docente efectivo durante, pelo menos, seis meses.
+7 - (Revogado.)
 
-7 - Sem prejuízo do disposto nos números anteriores, deve proceder-se em cada ano escolar à recolha de toda a informação relevante para efeitos de avaliação do respectivo desempenho.
-
-8 - Se da recolha de informação prevista no número anterior forem detectadas insuficiências, deverão desde logo ser tomadas as medidas necessárias, no sentido de o docente ser apoiado pedagógica e didacticamente.
+8 - (Revogado.)

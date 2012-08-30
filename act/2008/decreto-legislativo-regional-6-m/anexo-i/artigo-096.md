@@ -2,7 +2,7 @@
 
 ### Licença sem vencimento de longa duração
 
-1 - O docente provido definitivamente num lugar dos quadros com, pelo menos, cinco anos de serviço docente efectivo pode requerer licença sem vencimento de longa duração.
+1 - O docente com contrato por tempo indeterminado com, pelo menos, cinco anos de serviço docente efetivo pode requerer licença sem vencimento de longa duração.
 
 2 - O início e o termo da licença sem vencimento de longa duração são preferencialmente coincidentes com as datas de início e de termo do ano escolar.
 

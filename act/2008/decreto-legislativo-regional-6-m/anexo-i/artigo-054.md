@@ -24,12 +24,12 @@ i) Comunicação Educacional e Gestão da Informação;
 
 j) Inspecção da Educação.
 
-2 - Constitui ainda qualificação para o exercício de outras funções educativas a aquisição, por docentes profissionalizados integrados na carreira, dos graus de mestre e de doutor nas áreas referidas no número anterior.
+2 - Constitui ainda qualificação para o exercício de outras funções educativas a aquisição, por docentes profissionalizados integrados na carreira, dos graus de mestre e de doutor nas áreas referidas no número anterior, determinando a bonificação prevista no artigo 53.º
 
-3 - Podem ainda ser definidas outras áreas de formação especializada, tomando em consideração as necessidades de desenvolvimento do sistema educativo, por despacho do Secretário Regional de Educação e Cultura.
+3 - Podem ainda ser definidas outras áreas de formação especializada, tomando em consideração as necessidades de desenvolvimento do sistema educativo, por despacho do Secretário Regional da Educação e Recursos Humanos.
 
-4 - A aquisição de diploma de estudos superiores especializados que vise a qualificação para o exercício de outras funções educativas nos termos do disposto no n.º 1 por docentes profissionalizados integrados na carreira determina a bonificação de um ano para a progressão e transição para o 6.º escalão da carreira e quando confira os graus académicos de mestre e doutor nos termos do n.º 2 determina a bonificação prevista no artigo 53.º
+4 - (Revogado.)
 
-5 - A bonificação de um ano prevista no número anterior não se aplica quando a aquisição de diploma de estudos superiores especializados que visa a qualificação para o exercício de funções educativas já tenha determinado o reposicionamento do docente na carreira como licenciado.
+5 - (Revogado.)
 
-6 - Os cursos a que se refere o n.º 1 do presente artigo serão definidos por despacho do Secretário Regional de Educação e Cultura.
+6 - Os cursos a que se refere o n.º 1 do presente artigo serão definidos por despacho do Secretário Regional da Educação e Recursos Humanos.

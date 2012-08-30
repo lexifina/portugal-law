@@ -6,7 +6,7 @@
 
 ### Licença sem vencimento até 90 dias
 
-1 - O docente provido definitivamente num lugar dos quadros com, pelo menos, três anos de serviço docente pode requerer em cada ano civil licença sem vencimento até 90 dias, a gozar seguidamente.
+1 - O docente com contrato por tempo indeterminado com, pelo menos, três anos de serviço docente pode requerer em cada ano civil licença sem vencimento até 90 dias, a gozar seguidamente.
 
 2 - A licença sem vencimento é autorizada por períodos de 30, 60 ou 90 dias.
 

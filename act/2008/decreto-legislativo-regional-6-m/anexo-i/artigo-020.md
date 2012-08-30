@@ -12,8 +12,8 @@ a) Profissional e ética;
 
 b) Desenvolvimento do ensino e da aprendizagem;
 
-c) Participação na escola e relação com a comunidade;
+c) Participação na escola e relação com a comunidade educativa;
 
 d) Desenvolvimento profissional ao longo da vida.
 
-4 - A Secretaria Regional de Educação e Cultura coopera com os estabelecimentos de ensino superior que ministram a formação inicial, através da criação de condições para a realização de estágios pedagógicos nos estabelecimentos de educação e ensino dela dependentes.
+4 - A Secretaria Regional da Educação e Recursos Humanos coopera com os estabelecimentos de ensino superior que ministram a formação inicial, através da criação de condições para a realização de estágios pedagógicos nos estabelecimentos de educação e ensino dela dependentes. .

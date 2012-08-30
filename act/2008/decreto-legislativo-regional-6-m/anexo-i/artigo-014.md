@@ -6,7 +6,7 @@
 
 ### Deveres gerais
 
-1 - O pessoal docente está obrigado ao cumprimento dos deveres estabelecidos para os funcionários e agentes da Administração Pública em geral.
+1 - O pessoal docente está obrigado ao cumprimento dos deveres estabelecidos, em geral, para os trabalhadores que exercem funções públicas.
 
 2 - O pessoal docente, no exercício das funções que lhe estão atribuídas nos termos do presente Estatuto, está ainda obrigado ao cumprimento dos seguintes deveres profissionais:
 
@@ -30,7 +30,7 @@ i) Aceitar os cargos de natureza pedagógico-administrativa para que tenha sido 
 
 j) Aceitar o exercício das funções de acompanhamento e apoio à realização do período probatório;
 
-l) Aceitar a designação como júri no procedimento de transição para o 6.º escalão da carreira docente;
+l) (Revogada).
 
 m) Intervir no processo de avaliação nos termos do presente Estatuto;
 

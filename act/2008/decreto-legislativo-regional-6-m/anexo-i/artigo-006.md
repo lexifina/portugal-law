@@ -8,4 +8,4 @@ a) Pelo acesso a acções de formação contínua regulares, destinadas a actual
 
 b) Pelo apoio à autoformação dos docentes, de acordo com os respectivos planos individuais de formação.
 
-2 - Para efeitos do disposto no número anterior, o direito à formação e informação para o exercício da função educativa pode também visar objectivos de reconversão profissional, bem como de mobilidade, progressão e transição para o 6.º escalão da carreira.
+2 - Para efeitos do disposto no número anterior, o direito à formação e informação para o exercício da função educativa pode também visar objetivos de reconversão profissional, bem como de mobilidade e progressão na carreira.

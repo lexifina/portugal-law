@@ -4,10 +4,8 @@
 
 # Artigo 32.º
 
-### Vinculação
+### Modalidades
 
-1 - A relação jurídica de emprego do pessoal docente reveste, em geral, a forma de nomeação.
+1 - A relação jurídica de emprego do pessoal docente reveste, em geral, a forma de contrato por tempo indeterminado.
 
-2 - A nomeação pode ser provisória ou definitiva.
-
-3 - A vinculação do pessoal docente pode ainda revestir qualquer das formas de contrato administrativo de provimento previstas no artigo 36.º
+2 - Nas situações previstas no artigo 36.º a relação jurídica de emprego reveste a forma de contrato a termo resolutivo.

@@ -20,6 +20,6 @@ g) Exercício do direito à greve;
 
 h) Prestação de provas de concurso;
 
-i) Falecimento de familiar.
+j) As ausências não superiores a quatro horas, uma vez por trimestre, para deslocação à escola tendo em vista inteirar-se da situação educativa do filho menor.
 
-2 - São ainda equiparadas a prestação efectiva de serviço as licenças de maternidade, paternidade e parental.
+2 - São ainda equiparadas a prestação efetiva de serviço a licença em situação de risco clínico durante a gravidez, licença por interrupção de gravidez, licença parental, em qualquer das modalidades, licença por adoção e parental complementar, em qualquer das modalidades.

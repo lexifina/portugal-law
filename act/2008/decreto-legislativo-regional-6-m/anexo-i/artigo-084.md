@@ -8,6 +8,6 @@
 
 3 - As férias podem ser gozadas num único período ou em dois interpolados, um dos quais com a duração mínima de oito dias úteis consecutivos.
 
-4 - O período ou períodos de férias são marcados tendo em consideração os interesses dos docentes e a conveniência da escola, sem prejuízo de em todos os casos ser assegurado o funcionamento dos estabelecimentos de educação ou de ensino.
+4 - O período ou períodos de férias são marcados tendo em consideração os interesses dos docentes e a conveniência da escola, sem prejuízo de em todos os casos ser assegurado o funcionamento das escolas.
 
-5 - Não se verificando acordo, as férias serão marcadas pelo órgão de administração e gestão do estabelecimento de educação ou de ensino, nos termos previstos no n.º 1.
+5 - Não se verificando acordo, as férias serão marcadas pelo órgão de administração e gestão da escola, nos termos previstos no n.º 1.

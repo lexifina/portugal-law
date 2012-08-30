@@ -18,4 +18,4 @@ e) O direito de eleger e ser eleito para órgãos colegiais ou singulares dos es
 
 3 - O direito de participação pode ainda ser exercido, através das organizações profissionais e sindicais do pessoal docente, em órgãos que, no âmbito regional, prevejam a representação do pessoal docente.
 
-4 - As direcções das associações sindicais da Região Autónoma da Madeira ou com delegações na mesma, com estatutos publicados respectivamente no Jornal Oficial da RAM, 3.ª série, e no Boletim de Trabalho e Emprego, solicitam a dispensa de serviço docente dos seus membros à Secretaria Regional de Educação e Cultura, sem prejuízo da legislação nacional que lhes é aplicável.
+4 - As direções das associações sindicais representativas dos docentes da RAM solicitam a dispensa de serviço docente dos seus membros à Secretaria Regional da Educação e Recursos Humanos, sem prejuízo da legislação nacional que lhes é aplicável.

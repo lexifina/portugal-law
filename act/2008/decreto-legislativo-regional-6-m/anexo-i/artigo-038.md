@@ -20,7 +20,7 @@ e) Promover, organizar e participar em todas as actividades complementares, curr
 
 f) Organizar, assegurar e acompanhar as actividades de enriquecimento curricular dos alunos;
 
-g) Assegurar as actividades de apoio educativo, executar os planos de acompanhamento de alunos determinados pela administração educativa e cooperar na detecção e acompanhamento de dificuldades de aprendizagem;
+g) Assegurar as atividades de apoio educativo, executar os planos de acompanhamento e ou recuperação de alunos determinados pela administração educativa e cooperar na deteção e acompanhamento de dificuldades de aprendizagem;
 
 h) Acompanhar e orientar as aprendizagens dos alunos, em colaboração com os respectivos pais e encarregados de educação;
 
@@ -36,21 +36,23 @@ n) Organizar e participar, como formando ou formador, em acções de formação 
 
 o) Participar na construção, realização e avaliação do projecto educativo, do plano anual de escola e do projecto curricular de escola e de turma.
 
-4 - Além das previstas no número anterior, são funções que deverão ser atribuídas predominantemente aos docentes do quadro de nomeação definitiva:
+4 - Além das previstas no número anterior, deverão ser atribuídas predominantemente aos docentes posicionados no 5.º escalão ou superior, detentores preferencialmente de formação especializada, as seguintes funções:
 
 a) O exercício de cargos de natureza pedagógico-administrativa, de acordo com o perfil do docente para a função, no quadro do projecto educativo e nos termos do regulamento interno da escola;
 
-b) Exercício das funções de acompanhamento e apoio à realização do período probatório;
+b) (Revogada.)
 
-c) Participação no júri do procedimento de transição para o 6.º escalão da carreira docente.
+c) (Revogada.)
 
-5 - São funções do docente de educação especial, para além das previstas nos números anteriores, as de:
+5 - Os docentes dos três últimos escalões da carreira, desde que detentores de formação especializada, podem candidatar-se, com possibilidade de renúncia a produzir efeitos no termo de cada ano escolar, a uma especialização funcional para o exercício exclusivo ou predominante das funções de supervisão pedagógica, gestão da formação, desenvolvimento curricular, avaliação do desempenho e administração escolar, em termos a definir por portaria do Secretário Regional da Educação e Recursos Humanos, sem prejuízo de os demais docentes da carreira poderem ser opositores a essa candidatura, ainda que em diferente posicionamento e o exercício dessas funções não ser em regime de exclusividade.
 
-a) Colaborar com os pais e outros técnicos especializados na intervenção e acompanhamento precoce de bebés e crianças portadores de deficiência, em situação domiciliária e ou hospitalar;
+6 - São funções do docente de educação especial, para além das previstas nos números anteriores, as de:
+
+a) Colaborar com os pais e outros técnicos especializados na intervenção e acompanhamento precoce de recém-nascidos e crianças com deficiência, em situação domiciliária e ou hospitalar;
 
 b) Colaborar com o docente do ensino regular na identificação de necessidades educativas especiais, limitações e desvantagens sociais, no quadro de desenvolvimento social e educativo dos alunos;
 
-c) Apoiar técnicas de aconselhamento e diferenciação pedagógica;
+c) Promover e apoiar a diferenciação pedagógica;
 
 d) Proceder à avaliação pedagógica especializada;
 
@@ -58,11 +60,11 @@ e) Integrar a equipa transdisciplinar em estratégias de avaliação e interven�
 
 f) Apoiar os docentes do ensino regular na sala de aula em tarefas de diferenciação pedagógica para uma melhor gestão de turmas heterogéneas em processos de educação inclusiva;
 
-g) Colaborar com o docente de educação e ensino regular na transformação e adaptação do currículo regular decorrente das necessidades educativas especiais, desenvolvendo programas em áreas específicas de aprendizagem ou no âmbito de intervenções curriculares alternativas, para alunos portadores de deficiências de baixa incidência;
+g) Colaborar com o docente de educação e ensino regular na transformação e adaptação do currículo regular decorrente das necessidades educativas especiais, desenvolvendo programas em áreas específicas de aprendizagem ou no âmbito de intervenções curriculares alternativas, para alunos com deficiências de baixa incidência;
 
 h) Desenvolver apoio individual e ou individualizado nos casos em que as problemáticas assim o exijam;
 
-i) Colaborar com o docente de educação e ensino regular na implementação das medidas previstas no Decreto-Lei n.º 3/2008, de 7 de Janeiro, relativas a alunos com necessidades educativas especiais;
+i) Colaborar com o docente de educação e ensino regular na implementação das medidas previstas no Decreto Legislativo Regional n.º 33/2009/M, de 31 de dezembro, que estabelece o regime jurídico da educação especial, transição para a vida adulta e reabilitação das pessoas com deficiência ou incapacidade na RAM, relativas a alunos com necessidades educativas especiais;
 
 j) Intervir na educação parental colaborando no processo de desenvolvimento dos pais, na educação precoce, na educação escolar e na formação profissional dos seus filhos e nos respectivos projectos de integração educacional e social;
 

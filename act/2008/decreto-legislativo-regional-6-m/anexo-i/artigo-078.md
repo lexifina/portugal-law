@@ -2,11 +2,11 @@
 
 ### Componente não lectiva
 
-1 - A componente não lectiva do pessoal docente abrange a realização de trabalho a nível individual e a prestação de trabalho a nível do estabelecimento de educação ou de ensino.
+1 - A componente não letiva do pessoal docente abrange a realização de trabalho a nível individual e a prestação de trabalho a nível da escola.
 
 2 - O trabalho a nível individual pode compreender, para além da preparação das aulas e da avaliação do processo ensino-aprendizagem, a elaboração de estudos e de trabalhos de investigação de natureza pedagógica ou científico-pedagógica.
 
-3 - O trabalho desenvolvido a nível do estabelecimento de educação ou de ensino deve ser desenvolvido sob orientação das respectivas estruturas pedagógicas intermédias com o objectivo de contribuir para a realização do projecto educativo da escola, podendo compreender as seguintes actividades:
+3 - O trabalho desenvolvido a nível da escola deve ser desenvolvido sob orientação das respetivas estruturas pedagógicas intermédias com o objetivo de contribuir para a realização do projeto educativo da escola, podendo compreender as seguintes atividades:
 
 a) A colaboração, acompanhamento e supervisão das actividades de complemento curricular que visem promover o enriquecimento cultural e a inserção dos educandos na comunidade;
 
@@ -14,7 +14,7 @@ b) A informação e orientação educacional dos alunos em colaboração com as 
 
 c) A participação em reuniões de natureza pedagógica legalmente convocadas;
 
-d) A participação, devidamente autorizada, em acções de formação contínua que incidam sobre conteúdos de natureza científico-didáctica com ligação à matéria curricular leccionada, bem como as relacionadas com as necessidades de funcionamento da escola definidas no respectivo projecto educativo ou plano de escola;
+d) A participação devidamente autorizada em ações de formação contínua que incidam sobre conteúdos de natureza pedagógica e científico-didática com ligação à matéria curricular lecionada, bem como as relacionadas com as necessidades de funcionamento da escola definidas no respetivo projeto educativo ou plano de escola e ainda as conexas com matérias transversais à educação;
 
 e) A realização de estudos e de trabalhos de investigação que entre outros objectivos visem contribuir para a promoção do sucesso escolar e educativo;
 

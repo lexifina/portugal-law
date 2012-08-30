@@ -2,11 +2,11 @@
 
 ### Autorização da mobilidade
 
-1 - A autorização do destacamento, requisição, comissão de serviço e transferência de docentes é concedida por despacho do Secretário Regional de Educação e Cultura, após parecer do órgão de administração e gestão do estabelecimento de educação ou de ensino a cujo quadro pertencem.
+1 - A autorização do destacamento, requisição, comissão de serviço e transferência de docentes é concedida por despacho do Secretário Regional da Educação e Recursos Humanos, após parecer do órgão de administração e gestão de escola a cujo quadro pertencem.
 
 2 - A autorização prevista no número anterior deverá referir obrigatoriamente que se encontra assegurada a substituição do docente.
 
-3 - Por portaria do Secretário Regional de Educação e Cultura referida no artigo 64.º é fixado o período durante o qual devem, em cada ano escolar, ser requeridos o destacamento e a requisição de pessoal docente.
+3 - Por portaria do Secretário Regional da Educação e Recursos Humanos referida no artigo 64.º é fixado o período durante o qual devem, em cada ano escolar, ser requeridos o destacamento e a requisição de pessoal docente.
 
 4 - O destacamento, a requisição, a comissão de serviço e a transferência só produzem efeitos no início de cada ano escolar.
 

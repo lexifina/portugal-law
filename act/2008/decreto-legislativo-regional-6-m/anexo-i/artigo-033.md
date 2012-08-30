@@ -1,5 +1,5 @@
 # Artigo 33.º
 
-### Nomeação provisória
+### Contrato por tempo indeterminado
 
-O primeiro provimento em lugar de ingresso reveste a forma de nomeação provisória.
+O contrato por tempo indeterminado é celebrado no ingresso na carreira docente, sem prejuízo do disposto no artigo seguinte.

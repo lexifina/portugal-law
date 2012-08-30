@@ -10,7 +10,7 @@
 
 ### Direitos profissionais
 
-1 - São garantidos ao pessoal docente os direitos estabelecidos para os funcionários e agentes do Estado em geral, bem como os direitos profissionais decorrentes do presente Estatuto.
+1 - São garantidos ao pessoal docente os direitos estabelecidos, em geral, para os trabalhadores que exercem funções públicas, bem como os direitos profissionais decorrentes do presente Estatuto.
 
 2 - São direitos profissionais específicos do pessoal docente:
 
