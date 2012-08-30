@@ -1,6 +1,6 @@
 ## Capítulo VIII
 
-## Regime do exercício da actividade de exploração de máquinas de diversão
+## Regime de exercício da atividade de agências de venda de bilhetes para espetáculos públicos
 
 # Artigo 35.º
 

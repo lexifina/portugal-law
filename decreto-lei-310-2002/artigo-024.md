@@ -2,8 +2,8 @@
 
 ### Condições de exploração
 
-1 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos, com intercomunicação interna, vertical ou horizontal.
+1 - (Revogado.)
 
-2 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a prática de jogos lícitos com máquinas de diversão, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.
+2 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento que não se situe a menos de 300 metros de estabelecimentos pré-existentes de educação pré-escolar ou de ensino básico ou secundário, públicos ou privados.
 
-3 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas.
+3 - A distância prevista no número anterior é aferida por referência à distância percorrida pelo caminho pedonal mais curto, obedecendo às regras de circulação pedonal constantes do Código da Estrada.

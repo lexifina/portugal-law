@@ -10,7 +10,7 @@ a) Número de registo;
 
 b) Nome do proprietário;
 
-c) Prazo limite da validade da licença de exploração concedida;
+c) Revogada;
 
 d) Idade exigida para a sua utilização;
 

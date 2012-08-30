@@ -1,6 +1,6 @@
 ## Capítulo VI
 
-## Licenciamento do exercício da actividade de exploração de máquinas de diversão
+## Regime de exercício da atividade de exploração de máquinas de diversão
 
 # Artigo 19.º
 

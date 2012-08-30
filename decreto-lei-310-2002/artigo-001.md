@@ -6,7 +6,7 @@
 
 ### Âmbito
 
-O presente diploma regula o regime jurídico do exercício e da fiscalização das seguintes actividades:
+O presente diploma regula o regime jurídico de acesso, exercício e fiscalização das seguintes atividades:
 
 a) Guarda-nocturno;
 
