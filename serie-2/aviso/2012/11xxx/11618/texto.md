@@ -1,0 +1,8 @@
+Aviso n.º 11618/2012
+Alteração ao Plano Diretor Municipal
+Gil Bernardino Simão das Dores, técnico superior da Divisão de Administração Urbanística, em regime de substituição legal do diretor de departamento, por Despacho n.º 9/2010 do vice-presidente da Câmara Municipal do Concelho de Elvas.
+Faz saber, que esta Câmara Municipal, por deliberação tomada em reunião realizada no dia 22 de agosto de 2012 e nos termos dos n.os 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, deliberou por unanimidade, proceder ao período de discussão pública da alteração ao Plano Diretor Municipal, que consiste na alteração do teor dos artigos 13.º e 21.º do Regulamento em vigor.
+O período de discussão pública terá a duração de 15 dias após a publicação deste aviso na 2.ª série do Diário da República, comunicação social e página da internet www.cm-elvas.pt,
+A alteração ao Plano Diretor Municipal e a informação técnica dos serviços encontram-se disponíveis durante o horário normal de funcionamento na Divisão de Administração Urbanística desta Câmara Municipal, onde poderão ser consultadas para eventuais observações, sugestões e pedidos de esclarecimento, as quais deverão ser devidamente fundamentadas e apresentadas por escrito, mediante identificação completa dos seus autores e entregues durante o período de discussão pública na Divisão de Administração Urbanística desta Câmara Municipal de Elvas, conforme determina o n.º 2 do artigo 77.º do mesmo decreto-lei.
+23 de agosto de 2012. - O Técnico Superior, Gil Bernardino Simão das Dores.
+206343656
