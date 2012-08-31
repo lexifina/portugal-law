@@ -28,6 +28,6 @@ g) Processamento de vencimentos e contabilidade.
 
 4 - Num mesmo departamento do Governo Regional podem ser propostos outros modelos de funcionamento que consubstanciem os princípios de partilha de serviços.
 
-5 - Para efeito dos números anteriores pode ser concretizada a requisição ou transferência do pessoal anteriormente afecto à execução dessas actividades para o serviço prestador, sem prejuízo da manutenção de uma estrutura mínima que permita e facilite o diálogo com este serviço.
+5 - Para efeitos dos números anteriores, pode haver lugar a mobilidade interna, bem como a colocação e afetação dos recursos humanos nos termos previstos no n.º 3 do artigo 25.º
 
-6 - Nos casos em que se verifique o recurso à transferência de funcionários, os respectivos lugares são aditados ao quadro de destino, se necessário, com a inerente extinção no quadro de origem.
+6 - (Revogado.)

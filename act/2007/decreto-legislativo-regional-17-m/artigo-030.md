@@ -2,12 +2,12 @@
 
 ### Adaptação
 
-1 - As referências feitas pela Lei n.º 3/2004, de 15 de Janeiro, a ministérios reportam-se, na Região Autónoma da Madeira, aos departamentos do Governo Regional com competência equivalente.
+1 - As referências feitas pela Lei n.º 3/2004, de 15 de janeiro, aos ministérios e aos membros do Governo, reportam-se aos departamentos governamentais da administração regional autónoma da Madeira e aos correspondentes membros do Governo Regional com competência equivalente.
 
-2 - As referências feitas pela Lei n.º 3/2004, de 15 de Janeiro, ao Primeiro-Ministro reportam-se, na Região Autónoma da Madeira, ao Presidente do Governo Regional.
+2 - (Revogado.)
 
-3 - As referências feitas à Direcção-Geral da Administração Pública consideram-se reportadas à Direcção Regional da Administração Pública e Local.
+3 - (Revogado.)
 
-4 - A base de dados a que se refere o artigo 49.º da Lei n.º 3/2004 será disponibilizada no portal do Governo Regional.
+4 - A base de dados a que se refere o artigo 49.º reporta-se ao sistema de informação e base de dados dos trabalhadores das entidades públicas regionais, que funciona através do serviço do Governo Regional com competência em matéria de informática da administração pública, nos termos do artigo 7.º da Lei n.º 57/2011, de 28 de novembro, que institui e regula o funcionamento do Sistema de Informação da Organização do Estado (SIOE).
 
-5 - Os diplomas regulamentares mencionados nos artigos 11.º, 12.º, 34.º, n.º 5, e 41.º, n.º 4, alíneas a) e b), todos da Lei n.º 3/2004, de 15 de Janeiro serão aprovados, em conjunto, pelo departamento do Governo Regional de tutela do instituto bem como dos que tiverem a seu cargo as finanças e a Administração Pública.
+5 - (Revogado.)
