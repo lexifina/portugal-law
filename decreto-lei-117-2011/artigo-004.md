@@ -18,7 +18,7 @@ f) A Autoridade Tributária e Aduaneira;
 
 g) A Direcção-Geral da Administração e do Emprego Público;
 
-h) (Revogada.)
+h) A Direcção-Geral de Protecção Social aos Trabalhadores em Funções Públicas;
 
 i) Os Serviços Sociais da Administração Pública;
 

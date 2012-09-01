@@ -24,6 +24,4 @@ h) Assegurar o controlo da fronteira externa da União Europeia e o licenciament
 
 i) Exercer a acção de justiça tributária e assegurar a representação da Fazenda Pública junto dos órgãos judiciais.
 
-j) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.
-
 3 - A AT é dirigida por um director-geral, coadjuvado por doze subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
