@@ -17,3 +17,5 @@
 7 - O título de utilização para implantação de infra-estruturas hidráulicas é emitido simultaneamente com o título de captação de água.
 
 8 - O título de utilização de captação de águas subterrâneas é emitido no prazo de 15 dias a contar da aprovação do relatório referido no n.º 3 do artigo 41.º do presente decreto-lei.
+
+9 - Nos casos previstos na alínea b) do n.º 1 do artigo 20.º, o titular da licença será dispensado da prestação da caução.
