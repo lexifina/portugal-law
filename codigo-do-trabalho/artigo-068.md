@@ -2,11 +2,11 @@
 
 ### Admissão de menor ao trabalho
 
-1 - Só pode ser admitido a prestar trabalho o menor que tenha completado a idade mínima de admissão, tenha concluído a escolaridade obrigatória e disponha de capacidades físicas e psíquicas adequadas ao posto de trabalho.
+1 - Só pode ser admitido a prestar trabalho o menor que tenha completado a idade mínima de admissão, tenha concluído a escolaridade obrigatória ou esteja matriculado e a frequentar o nível secundário de educação e disponha de capacidades físicas e psíquicas adequadas ao posto de trabalho.
 
 2 - A idade mínima de admissão para prestar trabalho é de 16 anos.
 
-3 - O menor com idade inferior a 16 anos que tenha concluído a escolaridade obrigatória pode prestar trabalhos leves que consistam em tarefas simples e definidas que, pela sua natureza, pelos esforços físicos ou mentais exigidos ou pelas condições específicas em que são realizadas, não sejam susceptíveis de o prejudicar no que respeita à integridade física, segurança e saúde, assiduidade escolar, participação em programas de orientação ou de formação, capacidade para beneficiar da instrução ministrada, ou ainda ao seu desenvolvimento físico, psíquico, moral, intelectual e cultural.
+3 - O menor com idade inferior a 16 anos que tenha concluído a escolaridade obrigatória ou esteja matriculado e a frequentar o nível secundário de educação pode prestar trabalhos leves que consistam em tarefas simples e definidas que, pela sua natureza, pelos esforços físicos ou mentais exigidos ou pelas condições específicas em que são realizadas, não sejam suscetíveis de o prejudicar no que respeita à integridade física, segurança e saúde, assiduidade escolar, participação em programas de orientação ou de formação, capacidade para beneficiar da instrução ministrada, ou ainda ao seu desenvolvimento físico, psíquico, moral, intelectual e cultural.
 
 4 - Em empresa familiar, o menor com idade inferior a 16 anos deve trabalhar sob a vigilância e direcção de um membro do seu agregado familiar, maior de idade.
 

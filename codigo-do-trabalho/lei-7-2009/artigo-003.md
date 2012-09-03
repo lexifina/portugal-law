@@ -2,7 +2,7 @@
 
 ### Trabalho autónomo de menor
 
-1 - O menor com idade inferior a 16 anos não pode ser contratado para realizar uma actividade remunerada prestada com autonomia, excepto caso tenha concluído a escolaridade obrigatória e se trate de trabalhos leves.
+1 - O menor com idade inferior a 16 anos não pode ser contratado para realizar uma atividade remunerada prestada com autonomia, exceto caso tenha concluído a escolaridade obrigatória ou esteja matriculado e a frequentar o nível secundário de educação e se trate de trabalhos leves.
 
 2 - À celebração do contrato previsto no número anterior aplicam-se as regras gerais previstas no Código Civil.
 

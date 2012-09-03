@@ -2,9 +2,9 @@
 
 ### Capacidade do menor para celebrar contrato de trabalho e receber a retribuição
 
-1 - É válido o contrato de trabalho celebrado por menor que tenha completado 16 anos de idade e tenha concluído a escolaridade obrigatória, salvo oposição escrita dos seus representantes legais.
+1 - É válido o contrato de trabalho celebrado por menor que tenha completado 16 anos de idade e tenha concluído a escolaridade obrigatória ou esteja matriculado e a frequentar o nível secundário de educação, salvo oposição escrita dos seus representantes legais.
 
-2 - O contrato celebrado por menor que não tenha completado 16 anos de idade ou não tenha concluído a escolaridade obrigatória só é válido mediante autorização escrita dos seus representantes legais.
+2 - O contrato celebrado por menor que não tenha completado 16 anos de idade, não tenha concluído a escolaridade obrigatória ou não esteja matriculado e a frequentar o nível secundário de educação só é válido mediante autorização escrita dos seus representantes legais.
 
 3 - O menor tem capacidade para receber a retribuição, salvo oposição escrita dos seus representantes legais.
 

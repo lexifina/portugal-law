@@ -1,8 +1,8 @@
 # Artigo 69.º
 
-### Admissão de menor sem escolaridade obrigatória ou sem qualificação profissional
+### Admissão de menor sem escolaridade obrigatória, frequência do nível secundário de educação ou sem qualificação profissional
 
-1 - O menor com idade inferior a 16 anos que tenha concluído a escolaridade obrigatória mas não possua qualificação profissional, ou o menor com pelo menos 16 anos idade mas que não tenha concluído a escolaridade obrigatória ou não possua qualificação profissional só pode ser admitido a prestar trabalho desde que frequente modalidade de educação ou formação que confira, consoante o caso, a escolaridade obrigatória, qualificação profissional, ou ambas, nomeadamente em Centros Novas Oportunidades.
+1 - O menor com idade inferior a 16 anos que tenha concluído a escolaridade obrigatória ou esteja matriculado e a frequentar o nível secundário de educação mas não possua qualificação profissional, ou o menor com pelo menos 16 anos de idade mas que não tenha concluído a escolaridade obrigatória, não esteja matriculado e a frequentar o nível secundário de educação ou não possua qualificação profissional só pode ser admitido a prestar trabalho desde que frequente modalidade de educação ou formação que confira, consoante o caso, a escolaridade obrigatória, qualificação profissional, ou ambas.
 
 2 - O disposto no número anterior não é aplicável a menor que apenas preste trabalho durante as férias escolares.
 
@@ -12,4 +12,4 @@
 
 5 - Constitui contra-ordenação muito grave a violação do disposto no n.º 1, contra-ordenação grave a violação do disposto no n.º 3 e contra-ordenação leve a falta de comunicação prevista no número anterior.
 
-6 - Em caso de admissão de menor com idade inferior a 16 anos e sem escolaridade obrigatória, é aplicada a sanção acessória de privação do direito a subsídio ou benefício outorgado por entidade ou serviço público, por período até dois anos.
+6 - Em caso de admissão de menor com idade inferior a 16 anos e sem que tenha concluído a escolaridade obrigatória ou esteja matriculado e a frequentar o nível secundário de educação, é aplicada a sanção acessória de privação do direito a subsídio ou benefício outorgado por entidade ou serviço público, por período até dois anos.
