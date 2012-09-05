@@ -1,0 +1,4 @@
+Aviso n.º 88/2012
+Por ordem superior se torna público que, em 29 de setembro de 2011, a República do Sudão do Sul depositou, nos termos do artigo 11.º, n.º 1, da Constituição da União Postal Universal, junto do Diretor-Geral da Secretaria Internacional da União Postal Universal, na qualidade de depositário, o seu instrumento de adesão ao Quinto Protocolo Adicional à Constituição da União Postal Universal, adotado em Seul, na Coreia do Sul, em 14 de setembro de 1994.
+Portugal é Parte do Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 24-A/98 e ratificado pelo Decreto do Presidente da República n.º 17-A/98, ambos publicados no Diário da República, 1.ª série-A, n.º 114 (suplemento), de 18 de maio de 1998.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
