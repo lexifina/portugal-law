@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2012-09-05, processo 0387/12
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0387/12
+
+**Data do Acordão:** 09/05/2012
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** COSTA REIS
+
+**Descritores:** PROVIDÊNCIA CAUTELAR; FUNDAMENTO; MEDICAMENTO GENÉRICO; AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+
+**Nº Convencional:** JSTA000P14478
+
+**Nº do Documento:** SA1201209050387
+
+**Data de Entrada:** 06/01/2012
+
+**Recorrente:** A...
+
+**Recorrido 1:** MINISTÉRIO DA ECONOMIA E DA INOVAÇÃO E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – As providências cautelares destinam-se, unicamente, a assegurar a utilidade da sentença a proferir no processo principal impedindo que esta fique desprovida do seu poder regulador em virtude da alteração substancial da realidade de facto, entretanto, ocorrida.
+
+II – O que quer dizer que, a proceder a pretensão formulada nestes autos, as medidas decretadas não só terão natureza precária – visto regularem provisoriamente os interesses envolvidos no litígio desenhado (ou a desenhar) na acção – como a tutela que delas resultará não poderá ser diferente nem exceder aquilo que se alcançará na acção.
+
+III – Entre as razões que poderão determinar a adopção daquelas providências, encontra-se “a evidente procedência da pretensão formulada ou a formular no processo principal” (art.º 120.º/1/a) do CPTA) como, a contrario, entre as razões que conduzirão à rejeição daquela adopção está a evidência de que tal pretensão carece de qualquer fundamento.
+
+IV – A «evidência» de que fala o citado normativo não deixa de ser uma «evidência» provisória, sempre susceptível de ser revista na acção em função dos novos elementos que aí se recolham ou, mesmo, em função de uma reapreciação mais aprofundada e mais ponderada dos elementos já existentes.
+
+V – Ou seja, a «evidência» de que fala o art.º 120.º/1/a) do CPTA não exige a eliminação de todas as dúvidas nem garante de forma inquestionável que a acção não poderá ter diferente solução do que a antecipada no processo cautelar. A eliminação de todas essas dúvidas e a garantia do bom direito só são alcançáveis na acção principal.
+
+VI – Sendo assim, e sendo que parte da doutrina e da jurisprudência têm entendido que a legislação em obriga o INFARMED a sindicar a eventual colisão do medicamento genérico com a patente em vigor, ainda que o EM não lhe imponha expressamente tal actuação, não é possível indeferir a suspensão do acto do INFARMED que concedeu uma AIM de um genérico no facto de que não faz parte das atribuições daquele debruçar-se sobre o direito de propriedade da patente do medicamento original.
