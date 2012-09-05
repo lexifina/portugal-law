@@ -1,0 +1,4 @@
+Aviso n.º 87/2012
+Por ordem superior se torna público que, em 29 de setembro de 2011, a República do Sudão do Sul depositou, nos termos do artigo 11.º, n.º 1, da Constituição da União Postal Universal, junto do Diretor-Geral da Secretaria Internacional da União Postal Universal, na qualidade de depositário, o seu instrumento de adesão à Constituição da União Postal Universal, adotada em Viena, na Áustria, em 10 de julho de 1964.
+Portugal é Parte da Constituição, aprovada, para ratificação, pelo Decreto-Lei n.º 47 597, publicado no Diário da República, 1.ª série, n.º 68, de 21 de março de 1967, tendo Portugal depositado o seu instrumento de ratificação em 7 de setembro de 1958, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 303, de 26 de dezembro de 1968.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
