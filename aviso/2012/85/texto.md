@@ -1,0 +1,5 @@
+Aviso n.º 85/2012
+Por ordem superior se torna público que, em 28 de março de 2011, o Reino de Espanha depositou, nos termos do artigo 15.º da Convenção, junto do Ministério dos Negócios Estrangeiros do Governo do Reino da Bélgica, na qualidade de depositário, o seu instrumento de denúncia da Convenção Internacional para a Unificação de Certas Regras sobre o Arresto de Navios de Mar, adotada em Bruxelas, no Reino da Bélgica, em 10 de maio de 1952.
+De acordo com o artigo 15.º da Convenção, a denúncia do Reino de Espanha entrou em vigor no dia 28 de março de 2012.
+Portugal é Parte da Convenção, aprovada pelo Decreto-Lei n.º 41 007, publicado no Diário do Governo, 1.ª série, n.º 38, de 16 de fevereiro de 1957, tendo Portugal depositado o seu instrumento de ratificação em 4 de maio de 1957, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 122, de 17 de maio de 1957.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
