@@ -1,0 +1,27 @@
+Decreto n.º 23/2012
+de 5 de setembro
+A junta de freguesia de Covas, do concelho de Vila Nova de Cerveira, solicitou a desafetação do regime florestal parcial de uma parcela de terreno baldio, com a área de 61,20 ha, integrada no perímetro florestal das serras de Vieira e Monte Crasto, ao qual foi submetida pelo Decreto de 12 de maio de 1944, publicado no Diário do Governo, 2.ª série, n.º 113, de 17 de maio de 1944.
+A referida parcela de terreno destina-se à implementação de um empreendimento denominado «Campo de golfe», conforme deliberação, por unanimidade, da assembleia de compartes dos baldios da freguesia de Covas, de 18 de outubro de 2010, e tomada ao abrigo dos artigos 18.º e 19.º da Lei n.º 68/93, de 4 de setembro, alterada pela Lei n.º 89/97, de 30 de julho.
+A alteração em questão implica que a parcela de terreno deixe de ter uso florestal, para efeitos do disposto no artigo 25.º do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro de 1901.
+Foram ouvidos a Autoridade Florestal Nacional, o Instituto da Conservação da Natureza e da Biodiversidade, I. P., a Comissão de Coordenação e Desenvolvimento Regional do Norte, entidades competentes à época, e a Câmara Municipal de Vila Nova de Cerveira, que sobre o pedido emitiram o respetivo parecer favorável.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Exclusão do regime florestal parcial
+1 - É excluída do regime florestal parcial, a que se encontra submetida pelo Decreto de 12 de maio de 1944, publicado no Diário do Governo, 2.ª série, n.º 113, de 17 de maio de 1944, a parcela de terreno, com a área de 61,20 ha, integrada no perímetro florestal das serras de Vieira e Monte Crasto, situada em Covas, da freguesia de Covas, concelho de Vila Nova de Cerveira, conforme planta em anexo ao presente diploma, do qual faz parte integrante.
+2 - A exclusão prevista no número anterior visa permitir a implementação na parcela em questão de um empreendimento denominado «Campo de golfe».
+Artigo 2.º
+Medidas a adotar
+1 - A retirada do material lenhoso existente na parcela de terreno referida no artigo anterior só pode ser efetuada após a Autoridade Florestal Nacional proceder à respetiva venda, repartindo-se a receita bruta nos termos previstos na lei.
+2 - O proprietário da parcela de terreno é responsável pela promoção e cumprimento de todas as medidas e ações previstas no âmbito do Sistema Nacional de Defesa da Floresta contra Incêndios.
+3 - O incumprimento do disposto no n.º 2 do artigo anterior, no prazo de seis anos a contar da data da publicação do presente decreto, implica a reintegração da parcela de terreno no perímetro florestal das serras de Vieira e Monte Crasto e a sua consequente submissão ao regime florestal parcial.
+4 - Para além do disposto no número anterior e sem prejuízo de outras condições legalmente aplicáveis, a implementação do empreendimento está sujeita aos condicionalismos fixados pelo Instituto da Conservação da Natureza e da Biodiversidade, I. P.
+Visto e aprovado em Conselho de Ministros de 26 de julho de 2012. - Vítor Louçã Rabaça Gaspar. - Maria de Assunção Oliveira Cristas Machado da Graça.
+Assinado em 24 de agosto de 2012.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 28 de agosto de 2012.
+O Primeiro-Ministro, Pedro Passos Coelho.
+ANEXO
+(a que se refere o n.º 1 do artigo 1.º)
+(ver documento original)
