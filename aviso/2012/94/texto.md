@@ -1,0 +1,4 @@
+Aviso n.º 94/2012
+Por ordem superior se torna público que, em 9 de dezembro de 2010, a República da Estónia depositou, nos termos do artigo xxiii do Acordo, junto do Secretário-Geral da OCDE, na qualidade de depositário, o seu instrumento de acessão ao Acordo para a Criação de Um Fundo de Suporte Financeiro da Organização de Cooperação e Desenvolvimento Económico (OCDE), adotado em Paris, França, em 9 de abril de 1975.
+Portugal é Parte do Acordo, aprovado, para ratificação, pelo Decreto n.º 162/76, publicado no Diário do Governo, 1.ª série, n.º 49, de 27 de fevereiro de 1976, tendo Portugal depositado o seu instrumento de ratificação a 3 de maio de 1976, conforme Aviso publicado no Diário da República, 1.ª série, n.º 151, de 30 de junho de 1976.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
