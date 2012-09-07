@@ -1,0 +1,6 @@
+Aviso n.º 90/2012
+Por ordem superior se torna público que, em 28 de julho de 2008, a República Unida da Tanzânia depositou junto do Governo do Reino Unido o seu instrumento de acessão à Convenção sobre Poluição Marinha Provocada por Imersão de Detritos e Outros Produtos, Emendada, adotada em Londres em 29 de dezembro de 1972 e modificada na cidade do México, em Moscovo e em Washington.
+A Convenção entrou em vigor na República Unida da Tanzânia em 27 de agosto de 2008.
+Portugal é Parte da Convenção, aprovada, para ratificação, pelo Decreto n.º 2/78, publicado no Diário da República, 1.ª série, n.º 6, de 7 de janeiro de 1978, tendo Portugal depositado o seu instrumento de ratificação em 14 de abril de 1978, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 27, de 1 de fevereiro de 1979.
+Portugal é Parte das Emendas, aprovadas pelo Decreto n.º 33/88, publicado no Diário da República, 1.ª série, n.º 214, de 15 de setembro de 1988, tendo Portugal depositado o seu instrumento de ratificação das Emendas em 10 de março de 1989, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 130, de 7 de junho de 1979.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
