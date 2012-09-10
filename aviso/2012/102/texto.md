@@ -1,0 +1,5 @@
+Aviso n.º 102/2012
+Por ordem superior se torna público que, em 31 de outubro de 2011, a Federação da Malásia depositou, nos termos do artigo xiii do Tratado, junto do Governo dos Estados Unidos da América, país depositário, o seu instrumento de acessão ao Tratado para a Antártida, adotado em Washington, nos Estados Unidos da América, em 1 de dezembro de 1959.
+Em cumprimento do artigo xiii, parágrafo 5, do Tratado, este entrará em vigor na Federação da Malásia no dia do depósito do instrumento de acessão.
+Portugal é Parte do Tratado, aprovado para ratificação, por Resolução da Assembleia da República n.º 96/2009 e ratificada pelo Decreto do Presidente da República n.º 107/2009, ambos publicados no Diário da República, 1.ª série, n.º 217, de 9 de novembro de 2009, tendo Portugal depositado o seu instrumento de ratificação em 16 de dezembro de 2009, conforme o Aviso n.º 28/2010, publicado no Diário da República, 1.ª série, n.º 28, de 10 de fevereiro de 2010.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
