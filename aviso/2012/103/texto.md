@@ -1,0 +1,4 @@
+Aviso n.º 103/2012
+Por ordem superior se torna público que, em 7 de outubro de 2011, o Reino de Espanha depositou junto do Governo do Reino da Bélgica, país depositário, o seu instrumento de denúncia à Convenção Internacional para a Unificação de Certas Regras em Matéria de Conhecimentos de Carga e Protocolo de Assinatura, adotada em Bruxelas, no Reino da Bélgica, em 25 de agosto de 1924.
+Portugal é Parte da Convenção, aprovada, para adesão, pelo Decreto n.º 19 857, publicado no Diário do Governo, 1.ª série, n.º 131, de 6 de junho de 1931, tendo Portugal depositado o seu instrumento de adesão em 24 de dezembro de 1931, conforme Aviso publicado no Diário do Governo, 1.ª série, n.º 128, de 2 de junho de 1932.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
