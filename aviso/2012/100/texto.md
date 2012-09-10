@@ -1,0 +1,5 @@
+Aviso n.º 100/2012
+Por ordem superior se torna público que, em 8 de dezembro de 2011, a Irlanda depositou, nos termos do artigo 32.º da Convenção, junto do Secretário-Geral da União Internacional para a Proteção das Obtenções Vegetais, na qualidade de depositário, o seu instrumento de ratificação da Convenção Internacional para a Proteção das Obtenções Vegetais, adotada em Genebra, na Suíça, em 2 de dezembro de 1961 e revista em 10 de novembro de 1972 e em 19 de março de 1991.
+A Convenção entrou em vigor na Irlanda em 8 de janeiro de 2012.
+Portugal é Parte da Convenção, aprovada pelo Decreto n.º 20/95, publicado no Diário da República, 1.ª série-A, n.º 156, de 8 de julho de 1995, tendo depositado o seu instrumento de adesão em 14 de setembro de 1995, conforma o Aviso n.º 12/96, publicado no Diário da República, 1.ª série-A, n.º 1, de 2 de janeiro de 1996.
+Direção-Geral de Política Externa, 20 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
