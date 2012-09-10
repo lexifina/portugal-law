@@ -1,0 +1,6 @@
+Aviso n.º 104/2012
+Por ordem superior se torna público que em 23 de dezembro de 2011 a República da Turquia depositou, nos termos do artigo 21.º da Convenção, junto do Governo da Dinamarca, país depositário, o seu instrumento de ratificação à Convenção para a Criação do Gabinete Europeu de Comunicações, adotada na Haia, nos Países Baixos, em 23 de junho de 1993, e emendada em Copenhaga, na Dinamarca, em 9 de abril de 2002.
+A Convenção entrou em vigor no dia 1 de junho de 2012.
+Portugal é Parte da Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 41/95 e ratificada pelo Decreto do Presidente da República n.º 75/95, ambos publicados no Diário da República, 1.ª série-A, n.º 240, de 17 de outubro de 1995.
+Portugal é Parte da Emenda, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 5/2009 e ratificada pelo Decreto do Presidente da República n.º 11/2009, ambos publicados no Diário da República, 1.ª série, n.º 40, de 26 de fevereiro de 2009, tendo depositado o seu instrumento de ratificação em 15 de abril de 2009, conforme o Aviso n.º 20/2009, publicado no Diário da República, 1.ª série, n.º 107, de 3 de junho de 2009.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
