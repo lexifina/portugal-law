@@ -1,0 +1,5 @@
+Aviso n.º 110/2012
+Por ordem superior se torna público que, em 23 de novembro de 2011, a República da Índia depositou, nos termos do artigo 5.º do Protocolo, junto do Secretário-Geral da Organização Marítima Internacional, na qualidade de depositário, o seu instrumento de acessão ao Protocolo de 1997 relativo à Convenção Internacional para a Prevenção da Poluição por Navios, Modificada pelo Protocolo de 1978, adotado em Londres, no Reino Unido, em 26 de setembro de 1997.
+De acordo com o artigo 6.º do Protocolo e com o n.º 5 do artigo 15.º da Convenção Internacional para a Prevenção da Poluição por Navios, o Protocolo entrou em vigor na Índia em 23 de fevereiro de 2012.
+Portugal é Parte do Protocolo, aprovado pelo Decreto n.º 1/2008, publicado no Diário da República, 1.ª série, n.º 6, de 9 de janeiro de 2008, tendo Portugal depositado o seu instrumento de ratificação em 22 de maio de 2008, conforme o Aviso n.º 89/2009, publicado no Diário da República, 1.ª série, n.º 177, de 11 de setembro de 2009.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
