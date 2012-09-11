@@ -1,0 +1,514 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12278",
+  "numero": "166",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-09-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-10-19",
+            "dataResposta": "2013-01-03",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "352/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-01-08",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "614466",
+                "obs": null,
+                "pag": [
+                  "3-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-12",
+                "pubLeg": "XII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/079/2013-01-12/3?pgs=3-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-09-19",
+        "DataArquivo": "2013-01-09",
+        "DataBaixaComissao": "2012-09-11",
+        "DataEnvioPAR": "2013-01-10",
+        "DataReaberta": "2012-09-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-09-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938345a6d55784f444a6c4d53316b4e6a6b794c54526a4e3245744f4759324e5330325a6a59344d7a55354e6d5535596a63756347526d&fich=8fe182e1-d692-4c7a-8f65-6f683596e9b7.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793968595442694d7a4a6b4d7930305a6a42694c5451334e544574595751355a53316d4d4467794f44457a4d5755324e6d457555455247&fich=aa0b32d3-4f0b-4751-ad9e-f0828131e66a.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-04-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939695a4446684d4463354f4330774d444d324c54526d5a5459744f545a6b5979316c4d4749355a446b304e44466b596a6b756347526d&fich=bd1a0798-0036-4fe6-96dc-e0b9d9441db9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-01-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b5a6d45794d4746685a53316d4e6d49794c5451324e6a51744f444178595330344e6a41354d474a6c597a597a4d47457555455247&fich=dfa20aae-f6b2-4664-801a-86090bec630a.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-09-19",
+            "gp": "PSD",
+            "id": "4442",
+            "motivoCessacao": null,
+            "nome": "Maria da Conceição Caldeira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-04-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-09-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4e694d6d4a6b5a6a67354c546b7a4e574d744e44457a5a5330354e446b344c544a6d4d474d7a4f5745794e544d344f4335775a47593d&fich=3b2bdf89-935c-413e-9498-2f0c39a25388.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37631",
+      "37633",
+      "37638"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130412pln&url=l12/sl2/a2013/m04/&tI=01:21:17:983&drc=00:02:40:411"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130412pln&url=l12/sl2/a2013/m04/&tI=01:45:18:426&drc=00:01:39:482"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189480",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-13",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/078/2013-04-13?org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a suspensão imediata do processo de desmantelamento e encerramento da Maternidade Alfredo da Costa; Pela continuidade do funcionamento da Maternidade Alfredo da Costa; Recomenda ao Governo a manutenção em funcionamento da Maternidade Alfredo da Costa até à sua transferência para o futuro Hospital Oriental de Lisboa; Solicitam a continuação em funcionamento da Maternidade Dr. Alfredo da Costa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130412pln&url=l12/sl2/a2013/m04/&tI=01:24:04:209&drc=00:03:13:364"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-13",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/078/2013-04-13/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a suspensão imediata do processo de desmantelamento e encerramento da Maternidade Alfredo da Costa; Pela continuidade do funcionamento da Maternidade Alfredo da Costa; Recomenda ao Governo a manutenção em funcionamento da Maternidade Alfredo da Costa até à sua transferência para o futuro Hospital Oriental de Lisboa; Solicitam a continuação em funcionamento da Maternidade Dr. Alfredo da Costa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130412pln&url=l12/sl2/a2013/m04/&tI=01:27:19:883&drc=00:03:41:117"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-13",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/078/2013-04-13/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a suspensão imediata do processo de desmantelamento e encerramento da Maternidade Alfredo da Costa; Pela continuidade do funcionamento da Maternidade Alfredo da Costa; Recomenda ao Governo a manutenção em funcionamento da Maternidade Alfredo da Costa até à sua transferência para o futuro Hospital Oriental de Lisboa; Solicitam a continuação em funcionamento da Maternidade Dr. Alfredo da Costa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130412pln&url=l12/sl2/a2013/m04/&tI=01:31:08:734&drc=00:04:39:313"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-13",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/078/2013-04-13/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a suspensão imediata do processo de desmantelamento e encerramento da Maternidade Alfredo da Costa; Pela continuidade do funcionamento da Maternidade Alfredo da Costa; Recomenda ao Governo a manutenção em funcionamento da Maternidade Alfredo da Costa até à sua transferência para o futuro Hospital Oriental de Lisboa; Solicitam a continuação em funcionamento da Maternidade Dr. Alfredo da Costa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130412pln&url=l12/sl2/a2013/m04/&tI=01:35:54:365&drc=00:04:10:331"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-13",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/078/2013-04-13/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a suspensão imediata do processo de desmantelamento e encerramento da Maternidade Alfredo da Costa; Pela continuidade do funcionamento da Maternidade Alfredo da Costa; Recomenda ao Governo a manutenção em funcionamento da Maternidade Alfredo da Costa até à sua transferência para o futuro Hospital Oriental de Lisboa; Solicitam a continuação em funcionamento da Maternidade Dr. Alfredo da Costa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130412pln&url=l12/sl2/a2013/m04/&tI=01:40:09:035&drc=00:05:02:738"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-13",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/078/2013-04-13/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a suspensão imediata do processo de desmantelamento e encerramento da Maternidade Alfredo da Costa; Pela continuidade do funcionamento da Maternidade Alfredo da Costa; Recomenda ao Governo a manutenção em funcionamento da Maternidade Alfredo da Costa até à sua transferência para o futuro Hospital Oriental de Lisboa; Solicitam a continuação em funcionamento da Maternidade Dr. Alfredo da Costa.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12278",
+    "PetAssunto": "Solicitam a continuação em funcionamento da Maternidade Dr. Alfredo da Costa",
+    "PetDataEntrada": "2012-09-11",
+    "PeticoesAssociadas": null,
+    "PetId": "12278",
+    "PetLeg": "XII",
+    "PetNr": "166",
+    "PetNrAssinaturas": "5555",
+    "PetNrAssinaturasInicial": "5555",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1757",
+        "obs": null,
+        "pag": [
+          "22-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-04-13",
+        "pubLeg": "XII",
+        "pubNr": "78",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/078/2013-04-13/22?pgs=22-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "609260",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-20",
+        "pubLeg": "XII",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/017/2012-10-20/10?pgs=10-11&org=PLC"
+      }
+    ]
+  }
+}
