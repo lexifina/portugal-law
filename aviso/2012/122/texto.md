@@ -1,0 +1,5 @@
+Aviso n.º 122/2012
+Por ordem superior se torna público que, em 7 de junho de 2012, a República do Panamá depositou, nos termos do artigo 15.º do Tratado, junto do Secretariado da Organização Mundial de Propriedade Intelectual, o seu instrumento de adesão ao Tratado de Budapeste sobre o Reconhecimento Internacional do Depósito de Microrganismos para Efeitos do Procedimento em Matéria de Patentes, adotado em Budapeste, na Hungria, em 28 de abril de 1977 e alterado em 26 de setembro de 1980.
+O Tratado entra em vigor no Estado do Brunei Darussalam em 7 de setembro de 2012.
+Portugal é parte do Tratado, aprovado para adesão pela Resolução da Assembleia da República n.º 32/97 e ratificada pelo Decreto do Presidente da República n.º 29/97, ambos publicados no Diário da República, 1.ª série-A, n.º 115, de 19 de maio de 1997, tendo Portugal depositado o seu instrumento de ratificação em 16 de julho de 1997, conforme o Aviso n.º 255/97, publicado no Diário da República, 1.ª série-A, n.º 207, de 8 de setembro de 1997.
+Direção-Geral de Política Externa, 8 de agosto de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
