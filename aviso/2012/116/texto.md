@@ -1,0 +1,5 @@
+Aviso n.º 116/2012
+Por ordem superior se torna público que, em 4 de fevereiro de 2009, o Turquemenistão depositou, nos termos do artigo iv do Protocolo, junto do Secretário-Geral da Organização Marítima Internacional, na qualidade de depositário, o seu instrumento de acessão do Protocolo de 1978 Relativo à Convenção Internacional para a Prevenção da Poluição por Navios, adotado em Londres em 17 de fevereiro de 1978.
+De acordo com o n.º 2 do seu artigo 5.º, o Protocolo entrou em vigor no Turquemenistão em 4 de maio de 2009.
+Portugal é Parte do Protocolo, aprovado, para adesão, pelo Decreto n.º 25/87, publicado no Diário da República, 1.ª série, n.º 156, suplemento, de 10 de julho de 1987, tendo Portugal depositado o seu instrumento de ratificação em 22 de outubro de 1987, conforme Aviso publicado no Diário da República, 1.ª série-A, n.º 176, de 1 de agosto de 1988.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
