@@ -1,0 +1,5 @@
+Aviso n.º 124/2012
+Por ordem superior se torna público que, em 24 de abril de 2012, o Estado do Brunei Darussalam depositou, nos termos do artigo 62.º do Tratado, junto do Diretor-Geral da Organização Mundial de Propriedade Intelectual, na qualidade de depositário, o seu instrumento de adesão ao Tratado de Cooperação em Matéria de Patentes, adotado em Washington, nos Estados Unidos da América, a 19 de junho de 1970.
+O Tratado entra em vigor no Estado do Brunei Darussalam a 24 de julho de 2012.
+Portugal é Parte do Tratado, aprovado, para adesão, pelo Decreto n.º 29/92, publicado no Diário da República, 1.ª série-A, n.º 144, de 25 de junho de 1992, tendo Portugal depositado o seu instrumento de confirmação e adesão a 24 de agosto de 1992, conforme o Aviso n.º 157/92, publicado no Diário da República, 1.ª série-A, n.º 235, de 12 de outubro de 1992.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
