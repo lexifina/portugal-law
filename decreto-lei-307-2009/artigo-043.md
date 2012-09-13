@@ -6,7 +6,7 @@
 
 2 - O contrato de reabilitação urbana pode prever a transferência para a entidade contratada dos direitos de comercialização dos imóveis reabilitados e de obtenção dos respectivos proventos, bem como, nomeadamente, a aquisição do direito de propriedade ou a constituição do direito de superfície sobre os bens a reabilitar por esta, ou a atribuição de um mandato para a venda destes bens por conta da entidade gestora.
 
-3 - O contrato de reabilitação urbana está sujeito a registo predial, dependendo o seu cancelamento da apresentação de declaração, emitida pela entidade gestora, que autorize esse cancelamento.
+3 - O contrato de reabilitação urbana está sujeito a registo, dependendo o seu cancelamento da apresentação de declaração, emitida pela entidade gestora, que autorize esse cancelamento.
 
 4 - O contrato de reabilitação urbana deve regular, designadamente:
 
@@ -16,7 +16,7 @@ b) A preparação dos processos expropriativos que se revelem necessários para 
 
 c) A repartição dos encargos decorrentes das indemnizações devidas pelas expropriações;
 
-d) A obrigação de preparar os projetos de operações urbanísticas a submeter a controlo prévio, quando aplicável, de os submeter a controlo prévio, de promover as operações urbanísticas compreendidas nas ações de reabilitação.
+d) A obrigação de preparar os projectos de operações urbanísticas a submeter a controlo prévio, de os submeter a controlo prévio, de promover as operações urbanísticas compreendidas nas acções de reabilitação e de requerer as respectivas autorizações de utilização;
 
 e) Os prazos em que as obrigações das partes devem ser cumpridas;
 

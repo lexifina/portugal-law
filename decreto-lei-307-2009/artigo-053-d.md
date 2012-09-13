@@ -6,4 +6,4 @@
 
 2 - A entidade gestora pode, a título meramente facultativo e não vinculativo, realizar consultas ou solicitar pareceres às entidades externas ou aos serviços da organização autárquica municipal que considere adequados, para obtenção de esclarecimentos.
 
-3 - (Revogado).
+3 - O disposto no número anterior não suspende o prazo legalmente fixado para a admissão ou rejeição da comunicação prévia.

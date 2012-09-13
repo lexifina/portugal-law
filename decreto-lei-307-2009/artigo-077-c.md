@@ -12,7 +12,7 @@ a) A realização de operação urbanística de reabilitação urbana sujeita a 
 
 b) A realização de quaisquer operações urbanísticas de reabilitação de edifícios em desconformidade com o respetivo projeto ou com as condições da admissão da comunicação prévia;
 
-c) (Revogada.)
+c) A ocupação de edifícios ou das suas frações autónomas objeto do presente decreto-lei sem autorização de utilização, quando exigida, ou em desacordo com o uso nela fixado;
 
 d) As falsas declarações dos autores e coordenadores de projetos no termo de responsabilidade relativamente à observância das normas técnicas gerais e específicas de construção, bem como das disposições legais e regulamentares aplicáveis ao projeto;
 

@@ -2,7 +2,7 @@
 
 ### Entidades gestoras de tipo empresarial
 
-1 - É aplicável às empresas do setor empresarial local a que se refere a alínea b) do n.º 1 do artigo 10.º o regime jurídico da atividade empresarial local e das participações locais, aprovado pela Lei n.º 50/2012, de 31 de agosto, com exceção do disposto nos n.os 1 e 2 do artigo 20.º, no artigo 32.º e no n.º 1 do artigo 62.º daquele diploma.
+1 - É aplicável às empresas do setor empresarial local a que se refere a alínea b) do n.º 1 do artigo 10.º o regime jurídico do setor empresarial local, aprovado pela Lei n.º 53-F/2006, de 29 de dezembro, alterada pelas Leis n.os 67-A/2007, de 31 de dezembro, 64-A/2008, de 31 de dezembro, e 55/2011, de 15 de novembro.
 
 2 - Em caso de excepcional interesse público, é admitida a participação de capitais do Estado nas sociedades de reabilitação urbana.
 

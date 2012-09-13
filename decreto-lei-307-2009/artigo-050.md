@@ -14,6 +14,6 @@
 
 6 - Os pareceres, autorizações e aprovações que as entidades representadas na comissão de apreciação devam prestar são consignados na acta da reunião da comissão, que os substitui para todos os efeitos, e deve ser assinada por todos os membros presentes na reunião com menção expressa da respectiva qualidade.
 
-7 - A falta de comparência de um dos membros da comissão de apreciação não obsta à apreciação do pedido e à elaboração da ata, considerando-se que as entidades cujo representante tenha faltado nada têm a opor ao deferimento do pedido.
+7 - A falta de comparência de um dos membros da comissão de apreciação não obsta à apreciação do pedido e à elaboração da acta, considerando-se que as entidades cujo representante tenha faltado nada têm a opor ao deferimento do pedido, salvo se parecer escrito em sentido contrário seja emitido no prazo de 10 dias após a reunião da comissão de apreciação.
 
-8 - Em caso de pronúncia desfavorável, as entidades referidas no n.º 1 devem indicar expressamente as razões da sua discordância e quais as alterações necessárias para a viabilização do projeto.
+8 - Em caso de pronúncia desfavorável, as entidades referidas no n.º 1 devem indicar expressamente as razões da sua discordância e, sempre que possível, quais as alterações necessárias para a viabilização do projecto.
