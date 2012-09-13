@@ -8,4 +8,6 @@
 
 3 - As despesas relativas aos diversos lanços de escadas ou às partes comuns do prédio que sirvam exclusivamente algum dos condóminos ficam a cargo dos que delas se servem.
 
-4. Nas despesas dos ascensores só participam os condóminos cujas fracções por eles possam ser servidas.
+4- Nas despesas dos ascensores só participam os condóminos cujas fracções por eles possam ser servidas.
+
+5 - Nas despesas relativas às rampas de acesso e às plataformas elevatórias, quando colocadas nos termos do n.º 3 do artigo seguinte, só participam os condóminos que tiverem procedido à referida colocação.
