@@ -1,0 +1,137 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12286",
+  "numero": "172",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-09-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-10-25",
+            "entidades": null,
+            "id": "93811",
+            "tipo": null,
+            "titulo": "Audição em 2012-10-25 com Alberto Jorge Carregã Cancelino"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-10-10",
+        "DataArquivo": "2012-12-19",
+        "DataBaixaComissao": "2012-09-16",
+        "DataEnvioPAR": "2012-12-19",
+        "DataReaberta": "2012-10-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-11-09",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938304d4746685a4746685a4330304e6a646b4c5452694e3255744f5451354f53307a4d7a6b3559574e6b4e5759334d6a63756347526d&fich=40aadaad-467d-4b7e-9499-3399acd5f727.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396d59574d7a4f545178596931684e6a417a4c54526b4d4451744f475a694e4330304e6a51774e54526a4e4749355a54517555455247&fich=fac3941b-a603-4d04-8fb4-464054c4b9e4.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-13",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396c4e7a42694e7a49355979307a5a475a694c54517a5a574574596d566c4f5330344e5755324e575a6c4f57526c4d446b756347526d&fich=e70b729c-3dfb-43ea-bee9-85e65fe9de09.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938325a5745334d445533596930325a4459794c54517a4d3255744f44453059533034597a513159574d304e7a67334e546b756347526d&fich=6ea7057b-6d62-433e-814a-8c45ac478759.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-10-10",
+            "gp": "PSD",
+            "id": "4152",
+            "motivoCessacao": null,
+            "nome": "Fernando Virgílio Macedo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-10-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a46694d444a684d6d49344c5456685a6d51744e4459355a693034595445304c544e6b4f475a6a4e32566b4e54686b4d7935515245593d&fich=1b02a2b8-5afd-469f-8a14-3d8fc7ed58d3.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12286",
+    "PetAssunto": "Solicita à Assembleia da República, enquanto Órgão Legislativo, que adote as medidas necessárias no sentido de recomendar ao Governo a definição de um Plano Plurianual de Reposição dos Subsídios de Férias e de Natal referentes  a 2012 cujo pagamento foi suspenso pelos artigos 21.º e 25.º do Orçamento de Estado para 2012, aprovado pela Lei n.º 64-B/2011, de 30 de dezembro, a ser cumprido até final da XII Legislatura e tendo como início, o exercício orçamental para 2013.",
+    "PetDataEntrada": "2012-09-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12286",
+    "PetLeg": "XII",
+    "PetNr": "172",
+    "PetNrAssinaturas": "2",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
