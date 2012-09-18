@@ -1,0 +1,580 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12280",
+  "numero": "168",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-09-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-11-23",
+            "dataResposta": "2013-01-07",
+            "entidades": [
+              "Diretor da Faculdade de Medicina da Universidade de Coimbra"
+            ],
+            "nrOficio": "397/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-23",
+            "dataResposta": "2012-12-13",
+            "entidades": [
+              "Diretor do Instituto de Ciências Biomédicas Abel Salazar da Universidade do Porto"
+            ],
+            "nrOficio": "398/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-23",
+            "dataResposta": "2012-12-14",
+            "entidades": [
+              "Presidente da Escola de Ciências da Saúde da Universidade do Minho"
+            ],
+            "nrOficio": "400/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-23",
+            "dataResposta": "2012-12-21",
+            "entidades": [
+              "Diretor da Faculdade de Medicina da Universidade do Porto"
+            ],
+            "nrOficio": "401/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-23",
+            "dataResposta": "2013-01-28",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "394/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-23",
+            "dataResposta": null,
+            "entidades": [
+              "Bastonário da Ordem dos Médicos"
+            ],
+            "nrOficio": "395/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-23",
+            "dataResposta": "2013-03-06",
+            "entidades": [
+              "Presidente da Faculdade de Ciências da Saúde da Universidade da Beira Interior"
+            ],
+            "nrOficio": "402/COM/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-03-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "625137",
+                "obs": null,
+                "pag": [
+                  "8-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-09",
+                "pubLeg": "XII",
+                "pubNr": "113",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/113/2013-03-09/8?pgs=8-13&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-09-26",
+        "DataArquivo": "2013-03-06",
+        "DataBaixaComissao": "2012-09-18",
+        "DataEnvioPAR": "2013-03-07",
+        "DataReaberta": "2012-09-26",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-11-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938344f444a68596a68684f5330794e32566d4c54517a4d446374596d51314e69316c5a5745784d546c6b4e4749315a57597555455247&fich=882ab8a9-27ef-4307-bd56-eea119d4b5ef.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396a4d4464694d6d51354d69307859544a684c5451784d6a5174595451354e6930314e7a6333596a4d334f574d35597a557555455247&fich=c07b2d92-1a2a-4124-a496-5777b379c9c5.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938325a444e6b4e324d794e4330354d6d52694c5451794f5755744f5459784f4330314e7a426a5a444e6b4d4745334d32457555455247&fich=6d3d7c24-92db-429e-9618-570cd3d0a73a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938334e6a45314e6a5534596930314d54646a4c54526b5a6a63745957466c5a4330334d7a59775a475a684e324d774f47517555455247&fich=7615658b-517c-4df7-aaed-7360dfa7c08d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938774e7a4e6b4d6a417a4d79316c4e5459304c5451315a574d744f544d355979316c5a6a4e6c4f5449304e7a4d334f57557555455247&fich=073d2033-e564-45ec-939c-ef3e9247379e.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396d4e6a4d774e4749775a6930784d5455784c5451334d7a41744f4759314e5330794d474a6a5a575a684e6a6c69597a457555455247&fich=f6304b0f-1151-4730-8f55-20bcefa69bc1.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938314d4451334e47566b5979307a4f474a6a4c5451314d6a51745957566b4f5330324e444a685a5463314d446b775a54457555455247&fich=50474edc-38bc-4524-aed9-642ae75090e1.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-03-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938354d44677a595441344f43316a4e44597a4c5451354e6a6774596a51785a69316d4f5445304d6a4a6c4e6d51334f5449756347526d&fich=9083a088-c463-4968-b41f-f91422e6d792.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-01-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793878596d56694d574a6a4e4330304e7a49344c5452684f444d7459574a684e7930324f544e6a5a574d325a5755334e474d7555455247&fich=1beb1bc4-4728-4a83-aba7-693cec6ee74c.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-01-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938785954566c597a6b794d53316d4e3252684c5451774d6a6774595467774e79316d5a445132595449354d4746694d7a557555455247&fich=1a5ec921-f7da-4028-a807-fd46a290ab35.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938794d6d4a6b4e6a6c6c4d4331694d5463304c5451304e5459744f4459784d7931684e544d344e3252684e5751344e574d7555455247&fich=22bd69e0-b174-4456-8613-a5387da5d85c.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-01-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939695a544d325a574d314e79316c5a44566c4c5451794e445174596d466d596930334d6a56694e7a526b4d445a6b4f57497555455247&fich=be36ec57-ed5e-4244-bafb-725b74d06d9b.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938334f54526c4d44426c4e4331684e6a457a4c54513059324974596a67305a6931684f4459785a546b305a5449314f47497555455247&fich=794e00e4-a613-44cb-b84f-a861e94e258b.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938314e6a55775a6a67324e7930314e544d784c54526b596d4974596a67304d53316a4e4759355a5463314e47526a4d44597555455247&fich=5650f867-5531-4dbb-b841-c4f9e754dc06.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-09-26",
+            "gp": "PS",
+            "id": "2098",
+            "motivoCessacao": null,
+            "nome": "Manuel Pizarro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-05-31",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-09-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4d324d6a686d4d546b784c5749344d6a6b744e474d79596931684d5467354c5449354d7a45334d5749794d7a426d4d4335775a47593d&fich=3628f191-b829-4c2b-a189-293171b230f0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37754",
+      "37749"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:03:21:102&drc=00:02:06:771"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que assegure a qualidade da formação médica garantindo formação pós-graduada adequada a todos os médicos; Recomenda ao Governo que assegure as condições necessárias à formação dos novos médicos; Requerem o planeamento integrado da formação de medicina.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:05:43:089&drc=00:02:37:756"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:18:33:471&drc=00:00:49:499"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23",
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/22?pgs=22-23,25&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que assegure a qualidade da formação médica garantindo formação pós-graduada adequada a todos os médicos; Recomenda ao Governo que assegure as condições necessárias à formação dos novos médicos; Requerem o planeamento integrado da formação de medicina.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:08:31:654&drc=00:03:23:058"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que assegure a qualidade da formação médica garantindo formação pós-graduada adequada a todos os médicos; Recomenda ao Governo que assegure as condições necessárias à formação dos novos médicos; Requerem o planeamento integrado da formação de medicina.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:12:01:111&drc=00:02:59:478"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que assegure a qualidade da formação médica garantindo formação pós-graduada adequada a todos os médicos; Recomenda ao Governo que assegure as condições necessárias à formação dos novos médicos; Requerem o planeamento integrado da formação de medicina.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130531pln&url=l12/sl2/a2013/m05/&tI=01:15:11:460&drc=00:03:15:707"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-01",
+                "pubLeg": "XII",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que assegure a qualidade da formação médica garantindo formação pós-graduada adequada a todos os médicos; Recomenda ao Governo que assegure as condições necessárias à formação dos novos médicos; Requerem o planeamento integrado da formação de medicina.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12280",
+    "PetAssunto": "Requerem o planeamento integrado da formação de medicina.",
+    "PetDataEntrada": "2012-09-18",
+    "PeticoesAssociadas": null,
+    "PetId": "12280",
+    "PetLeg": "XII",
+    "PetNr": "168",
+    "PetNrAssinaturas": "6867",
+    "PetNrAssinaturasInicial": "5122",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1788",
+        "obs": null,
+        "pag": [
+          "22-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-01",
+        "pubLeg": "XII",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/097/2013-06-01/22?pgs=22-25&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "609261",
+        "obs": null,
+        "pag": [
+          "11-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-20",
+        "pubLeg": "XII",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/017/2012-10-20/11?pgs=11-12&org=PLC"
+      }
+    ]
+  }
+}
