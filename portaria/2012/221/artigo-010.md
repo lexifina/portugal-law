@@ -14,6 +14,6 @@ d) Escoamento de águas nas fossas;
 
 e) Via de fuga.
 
-2 - As entidades gestoras de CITV mencionadas no artigo anterior, dispõem do prazo de um ano, após a publicação da presente portaria, para promover o cumprimento dos requisitos nela estabelecidos, salvo no que se refere ao disposto nas alíneas a) a e) do número anterior.
+2 - As entidades gestoras de CITV mencionadas no artigo anterior dispõem do prazo de um ano, após a publicação da presente portaria, para promover o cumprimento dos novos requisitos nela estabelecidos, salvo no que se refere ao disposto nas alíneas a) a e) do número anterior.
 
 3 - Os frenómetros para veículos ligeiros e pesados, aprovados ao abrigo de anterior regulamentação, são considerados como frenómetros para veículos pesados.

@@ -62,7 +62,7 @@ e) Verificação tridimensional simultânea, em tempo real, de, pelo menos, 10 c
 
 f) Exatidão: erro máximo admissível deve ser inferior a 2 mm;
 
-g) Resolução: (menor que) 1,0 mm;
+g) Resolução: (igual ou menor que) 1,0 mm;
 
 h) Acessórios: adaptadores para montagem nos elementos fundamentais do quadro, designadamente os pontos de fixação dos elementos de suspensão;
 
@@ -94,9 +94,9 @@ ii) O erro máximo admissível para os restantes ângulos não pode ser superior
 
 j) Resolução:
 
-i) Ângulo de viragem em veículos pesados: (menor que) 10';
+i) Ângulo de viragem em veículos pesados: (igual ou menor que) 10';
 
-ii) Restantes ângulos: (menor que) 1';
+ii) Restantes ângulos: (igual ou menor que) 1';
 
 k) Acessórios: os necessários para a adequada determinação dos ângulos, nomeadamente inclinómetro, barra de tensão, ferramenta de tração e pesos;
 
@@ -108,7 +108,7 @@ a) Sistema informatizado para medição em tempo real do binário e da potência
 
 b) Monitor e teclado;
 
-c) Grupo de rolos com capacidade máxima de carga por eixo (maior que) 2500 kg;
+c) Grupo de rolos com capacidade máxima de carga por eixo (igual ou maior que) 2500 kg;
 
 d) Grupo de rolos com distância entre eixos variável e com capacidade para todos os tipos de tração, nomeadamente tração integral às quatro rodas;
 
@@ -116,9 +116,9 @@ e) Sensores conta-rotações para motores otto e diesel;
 
 f) Exatidão das medições:
 
-i) Dispositivo de medição do número de rotações do motor: o erro máximo admissível não pode ser superior a (mais ou menos)2 % do valor lido (maior que) 2000 rpm);
+i) Dispositivo de medição do número de rotações do motor: o erro máximo admissível não pode ser superior a (mais ou menos)2 % do valor lido (igual ou maior que) 2000 rpm);
 
-ii) Contador de impulsos acoplado ao rolo (descodificador): o erro máximo admissível deve ser inferior a (mais ou menos)2 km/h (para velocidades (menor que)100 km/h) e de (mais ou menos)2 % do valor lido (para velocidades (maior que) 100 km/h);
+ii) Contador de impulsos acoplado ao rolo (descodificador): o erro máximo admissível deve ser inferior a (mais ou menos)2 km/h (para velocidades (igual ou menor que)100 km/h) e de (mais ou menos)2 % do valor lido (para velocidades (igual ou maior que) 100 km/h);
 
 iii) Sensor de pressão: o erro máximo admissível não pode ser superior a (mais ou menos)2 % do valor lido;
 
@@ -150,9 +150,9 @@ j) Na impressão de relatório previsto na alínea anterior, deve constar a data
 
 a) Sistema de elevação de dupla tesoura;
 
-b) Capacidade de elevação: (maior que) 3500 kg;
+b) Capacidade de elevação: (igual ou maior que) 3500 kg;
 
-c) Plataformas com comprimento: (maior que) 4,5 m;
+c) Plataformas com comprimento: (igual ou maior que) 4,5 m;
 
 d) Nas condições de realização do ensaio de verificação da geometria do alinhamento e variação angular das rodas, deve garantir um alinhamento:
 
