@@ -1,0 +1,5 @@
+Aviso n.º 135/2012
+Por ordem superior se torna público que, em 2 de dezembro de 2011, a República de Vanuatu depositou, nos termos do artigo 14.º da Convenção, junto do Diretor-Geral da Organização Mundial de Propriedade Intelectual, na qualidade de depositário, o seu instrumento de adesão à Convenção que Institui a Organização Mundial da Propriedade Intelectual, adotada em Estocolmo, na Suécia, em 14 de julho de 1967 e modificada em 28 de setembro de 1979.
+A Convenção entrou em vigor na República de Vanuatu no dia 2 de março de 2012.
+Portugal é Parte da Convenção, aprovada para ratificação pelo Decreto n.º 9/75, publicado no Diário do Governo, 1.ª série, n.º 11, de 14 de janeiro de 1975, tendo depositado o seu instrumento de ratificação em 27 de janeiro de 1975, conforme Aviso publicado no Diário do Governo, 1.ª série, n.º 63, suplemento, de 15 de março de 1975.
+Direção-Geral de Política Externa, 23 de julho de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
