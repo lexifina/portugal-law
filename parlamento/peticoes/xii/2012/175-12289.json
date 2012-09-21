@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12289",
+  "numero": "175",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-09-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-01-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-10-24",
+        "DataArquivo": "2013-01-09",
+        "DataBaixaComissao": "2012-09-21",
+        "DataEnvioPAR": "2013-01-09",
+        "DataReaberta": "2012-10-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-10-25",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764f5459784e546c6b4d6d55744f574e695a5330305a575a6c4c546c6c5a6a4d744e544d314e5441314e6d4e694d32466b4c6e426b5a673d3d&fich=96159d2e-9cbe-4efe-9ef3-5355056cb3ad.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-25",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e446b354e47466b5a574d744d6a49314e7930304d6a55784c5467794e6a51744e4751784f4745774e7a4d785a6d4e6b4c6e426b5a673d3d&fich=4994adec-2257-4251-8264-4d18a0731fcd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d6d4d784e6a55785a5755744e44517a4d4330304d5755344c5467314e4755744d7a59314d325a6c5a57566d596a45314c6c424552673d3d&fich=2c1651ee-4430-41e8-854e-3653feeefb15.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-06",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e474a6d4e6a526a4d5441744e6a526c4e793030597a67784c546b7a4d6a63744d6d49354f4451314e3252685a546b354c6e426b5a673d3d&fich=4bf64c10-64e7-4c81-9327-2b98457dae99.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-01-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e544d314d544d324e574d744f4451784e6930305a574e6b4c574a6d4e6d55745a5463314e475a6d597a466d4f4449774c6e426b5a673d3d&fich=5351365c-8416-4ecd-bf6e-e754ffc1f820.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-02-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d6a55354e446c6b4e6a63744d6a4d794e533030595449334c5749344e7a67745a47566a4e6d5979596d51335a6a6c684c6c424552673d3d&fich=25949d67-2325-4a27-b878-dec6f2bd7f9a.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3510",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-10-24",
+            "gp": "PSD",
+            "id": "4146",
+            "motivoCessacao": null,
+            "nome": "Margarida Almeida"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-10-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325a6c597a51774e475a694c544d345a4745744e475a6d595331684e5449794c57466d4d474e695a4459314f574578596935515245593d&fich=fec404fb-38da-4ffa-a522-af0cbd659a1b.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12289",
+    "PetAssunto": "Solicita a apreciação da constitucionalidade da alínea o) do artigo 3.º do regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional (aprovado pela Lei n.º 23/2007, de 4 de Julho e alterado e republicado pela Lei n.º 29/2012, de 9 de Agosto), por violação do direito à reserva da vida privada, e da sua legalidade, por violação da Lei de Proteção de Dados.",
+    "PetDataEntrada": "2012-09-21",
+    "PeticoesAssociadas": null,
+    "PetId": "12289",
+    "PetLeg": "XII",
+    "PetNr": "175",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
