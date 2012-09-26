@@ -1,0 +1,174 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "35",
+  "id": "37255",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-09-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "438",
+        "nome": "Carlos Zorrinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4064",
+        "nome": "Inês de Medeiros"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "152",
+        "nome": "António Braga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1512",
+        "nome": "Mota Andrade"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1435",
+        "nome": "José Junqueiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2098",
+        "nome": "Manuel Pizarro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4134",
+        "nome": "Manuel Seabra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2051",
+        "nome": "Pedro Nuno Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "179",
+        "nome": "Jorge Lacão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "163",
+        "nome": "Ferro Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4133",
+        "nome": "Isabel Oneto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2263",
+        "nome": "Ana Paula Vitorino"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1679",
+        "nome": "Renato Sampaio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2103",
+        "nome": "Isabel Santos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Cessação da vigência do Decreto-Lei n.º 208/2012, de 7 de setembro, que \"Procede à transformação da Cinemateca Portuguesa - Museu do Cinema, I. P., em entidade pública empresarial, à cisão da Companhia Nacional de Bailado do Organismo de Produção Artística, E. P. E., e à sua transformação em entidade pública empresarial, à alteração da denominação do Organismo de Produção Artística, E. P. E., para Teatro Nacional de São Carlos, E. P. E., à aprovação dos Estatutos da Cinemateca Portuguesa - Museu do Cinema, E. P. E., da Companhia Nacional de Bailado, E. P. E., do Teatro Nacional D. Maria II, E. P. E., do Teatro Nacional de São Carlos, E. P. E., e do Teatro Nacional de São João, E. P. E., e à constituição de agrupamento complementar de empresas formado pelas entidades públicas empresariais da área da cultura\"",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37406",
+        "legislatura": "XII",
+        "numero": "543",
+        "sessao": "2",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Cessação da vigência do Decreto-Lei n.º 208/2012, de 7 de setembro, que \"Procede à transformação da Cinemateca Portuguesa - Museu do Cinema, I. P., em entidade pública empresarial, à cisão da Companhia Nacional de Bailado do Organismo de Produção Artística, E. P. E., e à sua transformação em entidade pública empresarial, à alteração da denominação do Organismo de Produção Artística, E. P. E., para Teatro Nacional de São Carlos, E. P. E., à aprovação dos Estatutos da Cinemateca Portuguesa - Museu do Cinema, E. P. E., da Companhia Nacional de Bailado, E. P. E., do Teatro Nacional D. Maria II, E. P. E., do Teatro Nacional de São Carlos, E. P. E., e do Teatro Nacional de São João, E. P. E., e à constituição de agrupamento complementar de empresas formado pelas entidades públicas empresariais da área da cultura\"",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37407",
+        "legislatura": "XII",
+        "numero": "544",
+        "sessao": "2",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Cessação da vigência do Decreto-Lei n.º 208/2012, de 7 de setembro, que \"Procede à transformação da Cinemateca Portuguesa - Museu do Cinema, I. P., em entidade pública empresarial, à cisão da Companhia Nacional de Bailado do Organismo de Produção Artística, E. P. E., e à sua transformação em entidade pública empresarial, à alteração da denominação do Organismo de Produção Artística, E. P. E., para Teatro Nacional de São Carlos, E. P. E., à aprovação dos Estatutos da Cinemateca Portuguesa - Museu do Cinema, E. P. E., da Companhia Nacional de Bailado, E. P. E., do Teatro Nacional D. Maria II, E. P. E., do Teatro Nacional de São Carlos, E. P. E., e do Teatro Nacional de São João, E. P. E., e à constituição de agrupamento complementar de empresas formado pelas entidades públicas empresariais da área da cultura\"",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37408",
+        "legislatura": "XII",
+        "numero": "545",
+        "sessao": "2",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Cessação da vigência do Decreto-Lei n.º 208/2012, de 7 de setembro, que \"Procede à transformação da Cinemateca Portuguesa - Museu do Cinema, I. P., em entidade pública empresarial, à cisão da Companhia Nacional de Bailado do Organismo de Produção Artística, E. P. E., e à sua transformação em entidade pública empresarial, à alteração da denominação do Organismo de Produção Artística, E. P. E., para Teatro Nacional de São Carlos, E. P. E., à aprovação dos Estatutos da Cinemateca Portuguesa - Museu do Cinema, E. P. E., da Companhia Nacional de Bailado, E. P. E., do Teatro Nacional D. Maria II, E. P. E., do Teatro Nacional de São Carlos, E. P. E., e do Teatro Nacional de São João, E. P. E., e à constituição de agrupamento complementar de empresas formado pelas entidades públicas empresariais da área da cultura\"",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37409",
+        "legislatura": "XII",
+        "numero": "546",
+        "sessao": "2",
+        "tipo": "R"
+      }
+    ],
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "37255",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a545a6c5a6d4d30597a6b744e7a5a6a4d7930304e474d7a4c54686d4f5467744f4756694e3249795a5445324d47466a4c6d527659773d3d&fich=e6efc4c9-76c3-44c3-8f98-8eb7b2e160ac.doc&Inline=true",
+    "IniNr": "35",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Decreto-Lei n.º 208/2012, de 7 de setembro, que \"Procede à transformação da Cinemateca Portuguesa - Museu do Cinema, I. P., em entidade pública empresarial, à cisão da Companhia Nacional de Bailado do Organismo de Produção Artística, E. P. E., e à sua transformação em entidade pública empresarial, à alteração da denominação do Organismo de Produção Artística, E. P. E., para Teatro Nacional de São Carlos, E. P. E., à aprovação dos Estatutos da Cinemateca Portuguesa - Museu do Cinema, E. P. E., da Companhia Nacional de Bailado, E. P. E., do Teatro Nacional D. Maria II, E. P. E., do Teatro Nacional de São Carlos, E. P. E., e do Teatro Nacional de São João, E. P. E., e à constituição de agrupamento complementar de empresas formado pelas entidades públicas empresariais da área da cultura\".",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
