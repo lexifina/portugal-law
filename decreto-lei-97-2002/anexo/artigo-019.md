@@ -1,11 +1,11 @@
-## Secção III
+## Secção V
 
-## Competências comuns
+## Competências sancionatórias
 
 # Artigo 19.º
 
-### Competência consultiva
+### Poderes sancionatórios
 
-1 - A ERSE pronunciar-se-á sobre todos os assuntos da sua esfera de atribuições que lhe sejam submetidos pela Assembleia da República ou pelo Governo e pode, por sua iniciativa, sugerir ou propor medidas de natureza política ou legislativa nas matérias atinentes às suas atribuições.
+1 - Estão sujeitos ao poder sancionatório da ERSE todas as entidades intervenientes no Sistema Elétrico Nacional (SEN) e no Sistema Nacional de Gás Natural (SNGN), cujas atividades estejam sujeitas à regulação da ERSE, nos termos da legislação que estabelece as bases dos sectores, da legislação complementar, destes Estatutos e dos regulamentos identificados no n.º 2 do artigo 9.º ou dos regulamentos cuja aprovação, aplicação ou supervisão sejam da competência da ERSE.
 
-2 - A ERSE responderá no prazo máximo de 60 dias às consultas que lhe sejam feitas pelas concessionárias ou entidades licenciadas sobre assuntos da sua competência.
+2 - O regime sancionatório do sector energético é objeto de diploma próprio.

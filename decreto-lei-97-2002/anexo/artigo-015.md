@@ -1,9 +1,11 @@
+## Secção IV
+
+## Competências consultivas
+
 # Artigo 15.º
 
-### Competências sobre o relacionamento comercial dos operadores
+### Pareceres no âmbito de cooperação administrativa e jurisdicional
 
-1 - O relacionamento comercial entre as concessionárias e as entidades licenciadas de serviço público, e entre elas e os consumidores, processa-se nos termos da legislação aplicável ao sector do gás natural, nomeadamente das bases das concessões, bem como nos contratos de concessão e nas licenças.
+1 - Sem prejuízo das consultas ou pareceres previstos na lei, a ERSE deve, no âmbito das matérias das suas atribuições, prestar apoio, designadamente através da emissão de pareceres, a outras entidades da administração pública, em especial à Autoridade da Concorrência, à Direção-Geral de Energia e Geologia, à Direção-Geral do Consumidor e à Comissão do Mercado dos Valores Mobiliários.
 
-2 - No quadro legal previsto no número anterior, compete à ERSE proceder à aprovação do regulamento de relações comerciais, assim como às suas revisões.
-
-3 - As entidades concessionárias ou licenciadas podem apresentar à ERSE propostas de revisão do referido regulamento.
+2 - No âmbito das suas atribuições, a ERSE emite os pareceres que lhe forem solicitados pelos tribunais, nomeadamente sobre matérias de natureza regulatória.

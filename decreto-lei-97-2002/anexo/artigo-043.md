@@ -2,32 +2,26 @@
 
 ### Competência
 
-1 - Compete ao conselho consultivo, reunido em plenário, dar parecer sobre:
+1 - Compete ao conselho consultivo, reunido em plenário, emitir parecer sobre:
 
-a) O plano de actividades e o orçamento da ERSE;
+a) O plano de atividades e o orçamento anual da ERSE;
 
-b) O relatório de actividades e as contas da ERSE;
+b) O relatório e contas da ERSE;
 
-c) Outras matérias comuns ao sector da electricidade e ao sector do gás natural.
+c) Os regulamentos tarifários, cujas propostas para o efeito lhe sejam submetidas pelo conselho de administração;
 
-2 - À secção do sector eléctrico compete pronunciar-se sobre as seguintes matérias:
+d) Outras matérias comuns ao sector da eletricidade e ao sector do gás natural, nomeadamente de natureza regulamentar que lhe sejam submetidas pelo conselho de administração.
 
-a) Propostas dos pareceres da ERSE relativos à fixação dos padrões de segurança da produção e do transporte de energia eléctrica;
+2 - Compete ainda ao plenário do conselho consultivo formular recomendações e promover trabalhos de interesse para os sectores regulados.
 
-b) Propostas sobre a aprovação ou alteração dos regulamentos cuja emissão seja da competência da ERSE no âmbito do sector eléctrico, com excepção do regulamento tarifário;
+3 - Compete ao conselho consultivo, reunido em secções, pronunciar-se sobre as seguintes matérias:
 
-c) Definição das regras para acesso ao SENV, nos termos do artigo 10.º do presente diploma;
+a) Propostas de aprovação ou alteração dos regulamentos cuja emissão seja da competência da ERSE, no âmbito do sector elétrico ou do sector do gás natural, com exceção do regulamento tarifário;
 
-d) Outras matérias relacionadas com o sector eléctrico que lhe sejam submetidas pelo conselho de administração, à excepção das compreendidas na competência do conselho tarifário.
+b) Propostas de pareceres da competência da ERSE e que o conselho de administração entenda submeter-lhe;
 
-3 - À secção do sector do gás natural compete pronunciar-se sobre as seguintes matérias:
-
-a) Propostas sobre a aprovação ou alteração dos regulamentos cuja emissão seja da competência da ERSE no âmbito do gás natural, à excepção do regulamento tarifário;
-
-b) Propostas relativas aos padrões de segurança e qualidade dos sistemas de transporte, armazenamento, distribuição e fornecimento de gás natural;
-
-c) Propostas sobre a emissão de pareceres cuja competência seja da ERSE e que o conselho de administração entenda submeter-lhe;
-
-d) Outras matérias que o conselho de administração entenda submeter-lhe, à excepção das compreendidas na competência do conselho tarifário.
+c) Outras matérias relacionadas com o sector elétrico ou com o sector do gás natural que lhe sejam submetidas pelo conselho de administração, à exceção das compreendidas na competência do conselho tarifário.
 
 4 - Os pareceres do conselho consultivo não são vinculativos.
+
+5 - Os pareceres do conselho consultivo são publicitados pela ERSE na sua página na Internet, bem como por outros meios considerados adequados.

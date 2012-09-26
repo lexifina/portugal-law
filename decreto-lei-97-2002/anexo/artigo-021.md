@@ -1,7 +1,13 @@
 # Artigo 21.º
 
-### Cumprimento das obrigações legais ou contratuais
+### Inspeção dos registos de queixas
 
-1 - Nos casos em que considere haver incumprimento das obrigações do serviço público, das obrigações legais e contratuais em geral ou dos padrões de segurança e qualidade regulamentarmente definidas, a ERSE pode recomendar às entidades concessionárias ou licenciadas a adopção das competentes medidas correctivas.
+1 - A ERSE deve regularmente inspecionar os registos de queixas dos consumidores apresentadas aos operadores sujeitos à sua regulação, designadamente aos comercializadores.
 
-2 - Se as acções definidas não forem executadas ou não houver cumprimento do calendário estabelecido para a sua execução, a ERSE pode, conforme os casos, accionar ou propor ao Governo o accionamento das medidas sancionatórias previstas para a violação da lei ou o incumprimento do contrato de concessão ou das condições da licença.
+2 - Para efeitos do número anterior, os operadores sujeitos à regulação da ERSE devem manter adequados registos das queixas recebidas.
+
+3 - A ERSE pode recorrer à contratação de profissionais para a realização de auditorias com vista a proceder à inspeção dos registos de queixas, ficando aqueles obrigados a guardar sigilo profissional dos factos cujo conhecimento lhes advenha da realização das referidas auditorias.
+
+4 - A ERSE pode igualmente ordenar a investigação das queixas ou reclamações apresentadas contra as entidades referidas no n.º 1, desde que aquelas se integrem no âmbito das suas competências.
+
+5 - A ERSE, na sequência do tratamento das queixas ou reclamações, pode, consoante os casos, ordenar ou recomendar aos operadores sujeitos à sua regulação as providências necessárias à reparação justa dos direitos dos consumidores.

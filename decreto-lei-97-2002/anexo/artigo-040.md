@@ -1,4 +1,4 @@
-## Secção III
+## Secção IV
 
 ## Conselho consultivo
 
@@ -6,4 +6,4 @@
 
 ### Função
 
-O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação da ERSE.
+O conselho consultivo é o órgão de consulta na definição das linhas gerais de atuação da ERSE e nas deliberações adotadas pelo conselho de administração.

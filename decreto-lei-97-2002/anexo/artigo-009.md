@@ -1,11 +1,39 @@
+## Secção II
+
+## Competências regulamentares
+
 # Artigo 9.º
 
-### Competências em relação ao Sistema Eléctrico não Vinculado
+### Regulamentos da ERSE
 
-Compete à ERSE, em relação ao Sistema Eléctrico não Vinculado (SENV):
+1 - A ERSE dispõe de competência para a elaboração e aprovação de regulamentos destinados à aplicação da legislação que disciplina a organização e o funcionamento dos sectores que integram o âmbito da regulação da ERSE.
 
-a) Definir as regras de acesso ao SENV, de acordo com os princípios estabelecidos no Decreto-Lei n.º 182/95, de 27 de Julho;
+2 - No quadro das suas atribuições e ao abrigo do disposto nas normas habilitantes constantes da legislação referida no número anterior, a ERSE tem, nomeadamente, competência para a elaboração e aprovação dos seguintes regulamentos:
 
-b) Assegurar o cumprimento das regras de funcionamento do SENV;
+a) No âmbito do Sistema Elétrico Nacional (SEN):
 
-c) Emitir parecer sobre a construção de linhas a tensão superior a 110 kV por um distribuidor não vinculado, para os efeitos de autorização pela DGE, nos termos do Decreto-Lei n.º 184/95, de 27 de Julho.
+i) Regulamento de Acesso às Redes e às Interligações;
+
+ii) Regulamento de Relações Comerciais;
+
+iii) Regulamento Tarifário;
+
+iv) Regulamento da Qualidade de Serviço;
+
+v) Regulamento de Operação das Redes;
+
+b) No âmbito do Sistema Nacional de Gás Natural (SNGN):
+
+i) Regulamento de Acesso às Redes, às Infraestruturas e às Interligações;
+
+ii) Regulamento de Relações Comerciais;
+
+iii) Regulamento Tarifário;
+
+iv) Regulamento da Qualidade de Serviço;
+
+v) Regulamento de Operação das Infraestruturas.
+
+3 - Os regulamentos da ERSE podem remeter determinadas matérias para documentos complementares e manuais de procedimentos, adotando-se na sua elaboração, quando a abrangência e a importância externa das matérias a regulamentar o justifique e não interfira com a eventual urgência dos mesmos, um procedimento simplificado semelhante ao adotado para aprovação do respetivo regulamento.
+
+4 - Os regulamentos da ERSE podem prever procedimentos de autorregulação das entidades intervenientes nos sectores regulados, possibilitando-lhes a adoção de regulamentos internos que, conformando-se com a regulamentação da ERSE, desenvolvam os seus princípios, tendo em vista a sua eficiente e adequada aplicação, designadamente em matérias que confiram aos agentes e aos consumidores melhores condições na prestação do serviço regulado.

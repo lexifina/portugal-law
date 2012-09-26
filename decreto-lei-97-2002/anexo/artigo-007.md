@@ -1,5 +1,7 @@
 # Artigo 7.º
 
-### Cooperação com outras entidades
+### Divulgação da informação
 
-A ERSE pode estabelecer relações de cooperação ou associação, no âmbito das suas atribuições, com outras entidades públicas ou privadas, nacionais ou estrangeiras, nomeadamente no quadro da União Europeia, desde que isso não implique delegação ou partilha das suas competências reguladoras ou potencial limitação à sua independência e imparcialidade.
+1 - A ERSE pode proceder à divulgação da informação recolhida no âmbito das suas atividades regulatórias junto dos operadores cujas atividades estejam sujeitas a regulação, sem prejuízo do respeito pelas informações que pela sua natureza estejam sujeitas a segredo comercial ou industrial ou relativo à propriedade intelectual, bem como das regras aplicáveis em matéria de tratamento de dados pessoais.
+
+2 - A informação referida na parte final do número anterior pode ser partilhada com as demais entidades reguladoras da União Europeia, incluindo as entidades de supervisão financeira e as autoridades da concorrência, desde que estas se comprometam a manter a confidencialidade da informação partilhada.
