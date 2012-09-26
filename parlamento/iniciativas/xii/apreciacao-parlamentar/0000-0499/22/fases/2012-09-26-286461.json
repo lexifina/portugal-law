@@ -1,0 +1,480 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "22",
+    "id": "37108",
+    "titulo": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2012-09-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8952",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2012-09-26",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "37115",
+        "leg": "XII",
+        "nr": "24",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1683",
+            "obs": null,
+            "pag": [
+              "27-34"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-27",
+            "pubLeg": "XII",
+            "pubNr": "4",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/27?pgs=27-34&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a taxa de segurança alimentar mais\"."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-09-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2250",
+                "nome": "Miguel Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:28:57:561&drc=00:04:56:931"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-27",
+                "pubLeg": "XII",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:34:03:100&drc=00:01:47:899"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:52:39:524&drc=00:03:05:056"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186118",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28",
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-27",
+                "pubLeg": "XII",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/28?pgs=28,32-33&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:35:56:131&drc=00:03:19:838"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-27",
+                "pubLeg": "XII",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:39:36:814&drc=00:02:51:768"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:55:54:082&drc=00:00:27:881"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-27",
+                "pubLeg": "XII",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/29?pgs=29-30,33&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4318",
+                "nome": "Nuno Serra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:42:31:460&drc=00:02:45:104"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186121",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-27",
+                "pubLeg": "XII",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:45:18:853&drc=00:03:11:349"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-27",
+                "pubLeg": "XII",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:48:37:619&drc=00:03:50:257"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120926pln&url=l12/sl2/a2012/m09/&tI=01:56:30:150&drc=00:01:25:941"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DAS FLORESTAS E DESENVOLVIMENTO RURAL",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Daniel Campelo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-27",
+                "pubLeg": "XII",
+                "pubNr": "4",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/32?pgs=32,34&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 119/2012, de 15 de Junho, que \"Cria, no âmbito do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o Fundo Sanitário e de Segurança Alimentar Mais, bem como a Taxa de Segurança Alimentar Mais\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "286461",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "603870",
+        "obs": null,
+        "pag": [
+          "27-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-09-27",
+        "pubLeg": "XII",
+        "pubNr": "4",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/004/2012-09-27/27?pgs=27-34&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
