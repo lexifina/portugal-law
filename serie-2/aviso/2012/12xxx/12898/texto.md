@@ -1,0 +1,10 @@
+Aviso n.º 12898/2012
+Manuel Luís da Rosa Narra, Presidente da Câmara Municipal de Vidigueira, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de setembro, na redação atual, que esta Câmara Municipal em sua reunião ordinária pública de 12 de setembro de 2012, deliberou por unanimidade:
+Iniciar o procedimento de revisão do plano de urbanização de Vidigueira nos termos do disposto no n.º 1 do artigo 74.º do RJIGT, por remissão do artigo 98.º do mesmo diploma legal;
+Aprovar os Termos de Referência da revisão do plano de urbanização de Vidigueira, incluindo o prazo previsto para a elaboração da revisão (90 dias);
+Dispensar o plano de urbanização de Vidigueira do procedimento de avaliação ambiental estratégica nos termos do n.º 5 do artigo 74.º do RJIGT, tendo por base o Relatório de Dispensa de Avaliação Ambiental Estratégica elaborado pela equipa;
+Fixar o período de participação preventiva com o prazo de 15 (quinze) dias a contar da data da publicação do Aviso no Diário da República, de modo a permitir ao público a formulação de sugestões e a apresentação de informações que possam ser consideradas no âmbito do procedimento de revisão, conforme o previsto no n.º 2 do artigo 77.º do mesmo diploma legal.
+Durante o referido período de participação preventiva o processo de revisão do plano de urbanização estará disponível para consulta na Subunidade Orgânica de Gestão e Planeamento Urbanístico de Câmara Municipal de Vidigueira, podendo os interessados apresentar as suas sugestões e pedir informações pelo correio, para Câmara Municipal de Vidigueira - Praça da República, 7960-225 Vidigueira, através do fax 284436110, ou por correio eletrónico para o endereço geral@cm-vidigueira.pt
+Para conhecimento e devidos efeitos se mandou publicar este aviso no Diário da República, na comunicação social de âmbito regional e na página da internet em www.cm-vidigueira.pt (em Apoio ao munícipe - Editais e Avisos).
+19 de setembro de 2012. - O Presidente da Câmara Municipal, Manuel Luís da Rosa Narra.
+206399214
