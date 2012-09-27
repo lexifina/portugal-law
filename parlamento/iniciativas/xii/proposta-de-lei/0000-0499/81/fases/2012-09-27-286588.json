@@ -1,0 +1,547 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "81",
+    "id": "37139",
+    "titulo": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-09-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8979",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-09-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-09-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/22?pgs=22&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:14:19:434&drc=00:03:48:646"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:38:01:446&drc=00:01:23:560"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA   ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Hélder Rosalino"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24",
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/23?pgs=23-24,29&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4193",
+                "nome": "Maria das Mercês Borges"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:18:41:852&drc=00:03:09:301"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:42:40:047&drc=00:00:39:384"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25",
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/24?pgs=24-25,30-31&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:21:58:496&drc=00:02:29:914"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:39:31:087&drc=00:01:29:911"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/25?pgs=25,29-30&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:24:37:849&drc=00:03:37:266"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4403",
+                "nome": "Vera Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:28:23:991&drc=00:03:25:751"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2103",
+                "nome": "Isabel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:31:58:616&drc=00:02:55:770"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:41:06:378&drc=00:00:28:998"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/27?pgs=27-28,30&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:34:59:694&drc=00:02:49:594"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4555",
+                "nome": "Lurdes Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120927pln&url=l12/sl2/a2012/m09/&tI=01:41:47:924&drc=00:00:36:747"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-28",
+                "pubLeg": "XII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Altera vários diplomas aplicáveis a trabalhadores que exercem funções públicas e determina a aplicação a estes dos regimes regra dos feriados e do Estatuto do Trabalhador Estudante previstos no Código do Trabalho.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "286588",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8979",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-09-28",
+        "pubLeg": "XII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/005/2012-09-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
