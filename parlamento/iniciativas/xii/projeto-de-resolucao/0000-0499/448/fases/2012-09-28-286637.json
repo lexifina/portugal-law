@@ -1,0 +1,365 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "448",
+    "id": "37204",
+    "titulo": "Recomenda ao Governo que suspenda, com efeitos imediatos, o processo de reordenamento da rede escolar no Município de Paredes e que, através da Direção Regional de Educação do Norte, envolva a comunidade escolar e as respetivas autarquias no desenho de uma proposta de reordenamento que contemple critérios de natureza pedagógica e que possibilite a concretização de um projeto educativo comum."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-09-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8991",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-09-28",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37241",
+        "leg": "XII",
+        "nr": "459",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1688",
+            "obs": null,
+            "pag": [
+              "28-34"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-29",
+            "pubLeg": "XII",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/28?pgs=28-34&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a suspensão imediata da constituição de mega-agrupamentos, a revogação do Despacho n.º 5634 de 26 de Abril de 2012 e o cumprimento da Resolução n.º 94/2010 da Assembleia da República."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-09-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:36:58:772&drc=00:04:47:569"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que suspenda, com efeitos imediatos, o processo de reordenamento da rede escolar no Município de Paredes e que, através da Direção Regional de Educação do Norte, envolva a comunidade escolar e as respetivas autarquias no desenho de uma proposta de reordenamento que contemple critérios de natureza pedagógica e que possibilite a concretização de um projeto educativo comum; Recomenda ao Governo a suspensão imediata da constituição de mega-agrupamentos, a revogação do Despacho n.º 5634 de 26 de Abril de 2012 e o cumprimento da Resolução n.º 94/2010 da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4555",
+                "nome": "Lurdes Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:41:57:855&drc=00:04:10:687"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/29?pgs=29-31&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que suspenda, com efeitos imediatos, o processo de reordenamento da rede escolar no Município de Paredes e que, através da Direção Regional de Educação do Norte, envolva a comunidade escolar e as respetivas autarquias no desenho de uma proposta de reordenamento que contemple critérios de natureza pedagógica e que possibilite a concretização de um projeto educativo comum; Recomenda ao Governo a suspensão imediata da constituição de mega-agrupamentos, a revogação do Despacho n.º 5634 de 26 de Abril de 2012 e o cumprimento da Resolução n.º 94/2010 da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:46:18:446&drc=00:03:10:228"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que suspenda, com efeitos imediatos, o processo de reordenamento da rede escolar no Município de Paredes e que, através da Direção Regional de Educação do Norte, envolva a comunidade escolar e as respetivas autarquias no desenho de uma proposta de reordenamento que contemple critérios de natureza pedagógica e que possibilite a concretização de um projeto educativo comum; Recomenda ao Governo a suspensão imediata da constituição de mega-agrupamentos, a revogação do Despacho n.º 5634 de 26 de Abril de 2012 e o cumprimento da Resolução n.º 94/2010 da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4394",
+                "nome": "Emília Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:49:37:734&drc=00:04:17:265"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que suspenda, com efeitos imediatos, o processo de reordenamento da rede escolar no Município de Paredes e que, através da Direção Regional de Educação do Norte, envolva a comunidade escolar e as respetivas autarquias no desenho de uma proposta de reordenamento que contemple critérios de natureza pedagógica e que possibilite a concretização de um projeto educativo comum; Recomenda ao Governo a suspensão imediata da constituição de mega-agrupamentos, a revogação do Despacho n.º 5634 de 26 de Abril de 2012 e o cumprimento da Resolução n.º 94/2010 da Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:54:33:836&drc=00:03:22:559"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que suspenda, com efeitos imediatos, o processo de reordenamento da rede escolar no Município de Paredes e que, através da Direção Regional de Educação do Norte, envolva a comunidade escolar e as respetivas autarquias no desenho de uma proposta de reordenamento que contemple critérios de natureza pedagógica e que possibilite a concretização de um projeto educativo comum; Recomenda ao Governo a suspensão imediata da constituição de mega-agrupamentos, a revogação do Despacho n.º 5634 de 26 de Abril de 2012 e o cumprimento da Resolução n.º 94/2010 da Assembleia da República.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "286637",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "605949",
+        "obs": null,
+        "pag": [
+          "28-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-09-29",
+        "pubLeg": "XII",
+        "pubNr": "6",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/28?pgs=28-34&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
