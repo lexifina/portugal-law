@@ -1,0 +1,503 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "116",
+    "id": "36612",
+    "titulo": "Altera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional de Urânio S.A., contemplando o direito a indemnizações por morte ou doença"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-09-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8987",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-09-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36334",
+        "leg": "XII",
+        "nr": "14",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1687",
+            "obs": null,
+            "pag": [
+              "17-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-29",
+            "pubLeg": "XII",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/17?pgs=17-24&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1687",
+            "obs": null,
+            "pag": [
+              "17-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-29",
+            "pubLeg": "XII",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/17?pgs=17-24&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Consagra o direito a uma indemnização emergente de doença profissional aos trabalhadores da empresa nacional de Urânio."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36847",
+        "leg": "XII",
+        "nr": "199",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1687",
+            "obs": null,
+            "pag": [
+              "17-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-29",
+            "pubLeg": "XII",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/17?pgs=17-24&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1687",
+            "obs": null,
+            "pag": [
+              "17-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-09-29",
+            "pubLeg": "XII",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/17?pgs=17-24&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Procede à 2.ª alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de Invalidez e Velhice dos trabalhadores da Empresa Nacional de Urânio (ENU), S.A., e estabelece o direito a indemnização em caso de doença"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-09-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=00:53:44:476&drc=00:01:49:723"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:12:51:154&drc=00:03:05:092"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17",
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/17?pgs=17,22-23&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o direito a uma indemnização emergente de doença profissional aos trabalhadores da empresa nacional de Urânio; Altera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional de Urânio S.A., contemplando o direito a indemnizações por morte ou doença; Procede à 2.ª alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de Invalidez e Velhice dos trabalhadores da Empresa Nacional de Urânio (ENU), S.A., e estabelece o direito a indemnização em caso de doença.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=00:55:42:512&drc=00:02:37:998"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:17:44:111&drc=00:02:10:944"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18",
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/17?pgs=17-18,24&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o direito a uma indemnização emergente de doença profissional aos trabalhadores da empresa nacional de Urânio; Altera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional de Urânio S.A., contemplando o direito a indemnizações por morte ou doença; Procede à 2.ª alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de Invalidez e Velhice dos trabalhadores da Empresa Nacional de Urânio (ENU), S.A., e estabelece o direito a indemnização em caso de doença.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=00:58:28:010&drc=00:03:19:934"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:16:05:063&drc=00:01:31:141"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18",
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/18?pgs=18,23-24&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o direito a uma indemnização emergente de doença profissional aos trabalhadores da empresa nacional de Urânio; Altera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional de Urânio S.A., contemplando o direito a indemnizações por morte ou doença; Procede à 2.ª alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de Invalidez e Velhice dos trabalhadores da Empresa Nacional de Urânio (ENU), S.A., e estabelece o direito a indemnização em caso de doença.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4208",
+                "nome": "Acácio Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:01:55:447&drc=00:03:41:715"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/19?pgs=19&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o direito a uma indemnização emergente de doença profissional aos trabalhadores da empresa nacional de Urânio; Altera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional de Urânio S.A., contemplando o direito a indemnizações por morte ou doença; Procede à 2.ª alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de Invalidez e Velhice dos trabalhadores da Empresa Nacional de Urânio (ENU), S.A., e estabelece o direito a indemnização em caso de doença.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4214",
+                "nome": "João Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:05:44:702&drc=00:03:29:934"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o direito a uma indemnização emergente de doença profissional aos trabalhadores da empresa nacional de Urânio; Altera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional de Urânio S.A., contemplando o direito a indemnizações por morte ou doença; Procede à 2.ª alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de Invalidez e Velhice dos trabalhadores da Empresa Nacional de Urânio (ENU), S.A., e estabelece o direito a indemnização em caso de doença.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20120928pln&url=l12/sl2/a2012/m09/&tI=01:09:22:380&drc=00:03:16:337"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-09-29",
+                "pubLeg": "XII",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Consagra o direito a uma indemnização emergente de doença profissional aos trabalhadores da empresa nacional de Urânio; Altera o regime jurídico de acesso às pensões de invalidez e velhice pelos trabalhadores da Empresa Nacional de Urânio S.A., contemplando o direito a indemnizações por morte ou doença; Procede à 2.ª alteração ao Decreto-Lei n.º 28/2005, de 10 de fevereiro, sobre o Regime Jurídico de Acesso às Pensões de Invalidez e Velhice dos trabalhadores da Empresa Nacional de Urânio (ENU), S.A., e estabelece o direito a indemnização em caso de doença.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "286632",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "605943",
+        "obs": null,
+        "pag": [
+          "17-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-09-29",
+        "pubLeg": "XII",
+        "pubNr": "6",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/006/2012-09-29/17?pgs=17-24&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
