@@ -1,0 +1,221 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "88",
+    "id": "37208",
+    "titulo": "Aprova o regime sancionatório do sector energético, transpondo, em complemento com a alteração aos Estatutos da Entidade Reguladora dos Serviços Energéticos, as Diretivas n.ºs 2009/72/CE e 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, que estabelecem as regras comuns para o mercado interno da eletricidade e do gás natural e revogam as Diretivas n.ºs 2003/54/CE e 2003/55/CE, do Parlamento Europeu e do Conselho, de 26 de junho de 2003."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-09-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "29706",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2012-10-25",
+            "id": "93810",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-10-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-09-28",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-11-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer 2 - AGN - Associação Portuguesa de Empresas de Gás Natural",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444d344d54466b596a67744e6d51324f4330304d5749784c574930597a67744f545a6c4e7a4d3259575530596a5a6c4c6e426b5a673d3d&fich=83811db8-6d68-41b1-b4c8-96e736ae4b6e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer AGN - Associação Portuguesa de Empresas de Gás Natural",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5751774e4467775a4459744e446b324d6930305a54646a4c57466a4e7a5574597a45324e6d4e6c4e6a63335a6a67774c6e426b5a673d3d&fich=9d0480d6-4962-4e7c-ac75-c166ce677f80.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer Comissão Nacional Protecção Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44466c4e6a677a4d445574595467794e4330304d6a41334c57466a4d7a51745a574a6c5a4755334d324e6c4f5755784c6e426b5a673d3d&fich=81e68305-a824-4207-ac34-ebede73ce9e1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer Cons Superior Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44557a596d517a5a6d51744d7a41314d4330304e6a5a694c5467344e6a4174596a67774f5455304e5449335a5442684c6e426b5a673d3d&fich=853bd3fd-3050-466b-8860-b80954527e0a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765954466d4d3251314e5759744d6a6b785a6930305a574a6d4c57497759324d744e475a695a6a637a59545577593249774c6e426b5a673d3d&fich=a1f3d55f-291f-4ebf-b0cc-4fbf73a50cb0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a51304e7a4a6c4e6a6b744f544d31597930304f47526c4c5468684d544d744e5463324d4459305a47526a4e7a5a6b4c6e426b5a673d3d&fich=24472e69-935c-48de-8a13-576064ddc76d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer ERSE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4467355954526d4f5751744e3255355a693030597a41324c5749785a4745744d7a4932596d45305a5455774f546c6b4c6e426b5a673d3d&fich=489a4f9d-7e9f-4c06-b1da-326ba4e5099d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-10-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5759354d6d59304e4467744d546b315a6930305a546b314c546b794e4445744e6d4d304d32566c5a6a597a5a4463794c6e426b5a673d3d&fich=1f92f448-195f-4e95-9241-6c43eef63d72.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "PPL 88 - Proposta alteração PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5468685a44466d4e4463744e574534597930304e4451304c5749314e324974596d4d304f4442694d7a49344d44526b4c6e426b5a673d3d&fich=98ad1f47-5a8c-4444-b57b-bc480b32804d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-06",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "PPL 88 - Relatório Votação Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4d78596d466b595451744d324a6d5a4330304e6a67784c546b334d5467744e7a6b774e3249335a6d45314f57597a4c6e426b5a673d3d&fich=c31bada4-3bfd-4681-9718-7907b7fa59f3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-06",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "PPL 88 - Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f446c6d595463344f4467744d54566a59533030597a45334c546c685a6d4d744e7a6c6a4d5455314f474d315a54566b4c6e426b5a673d3d&fich=89fa7888-15ca-4c17-9afc-79c1558c5e5d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "18-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-07",
+            "pubLeg": "XII",
+            "pubNr": "48",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/048/2012-12-07/18?pgs=18-60&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "18-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-07",
+            "pubLeg": "XII",
+            "pubNr": "48",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/048/2012-12-07/18?pgs=18-60&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-12-05",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-12-05",
+            "dataRemessa": "2012-12-06",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-12-05",
+            "descricao": "Texto Final aprovado Artigo a Artigo - Ausências do BE e PEV",
+            "detalhe": null,
+            "id": "62249",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "101",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-09-28",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "286685",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
