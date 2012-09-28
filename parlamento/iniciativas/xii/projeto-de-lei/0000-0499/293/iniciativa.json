@@ -1,0 +1,153 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Lei",
+  "numero": "293",
+  "id": "37260",
+  "fases": 17,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-09-28",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a63784e54466d4d4459744f446c69596930304d54686d4c57466a595451745a546b784e6d4d314f474d30597a6b324c6d527659773d3d&fich=27151f06-89bb-418f-aca4-e916c58c4c96.doc&Inline=true",
+        "anexoNome": "Ofício"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5449794f474a6c4d6a4174597a41784e4330304d6a56684c5467314d6a45744e6d49344e54526c4e57566c4d4455314c6e426b5a673d3d&fich=9228be20-c014-425a-8521-6b854e5ee055.pdf&Inline=true",
+        "anexoNome": "Comunicado da Comissão de Defesa Limites Junta Freguesia Almancil"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a4d344e47526c4f4455744e6a6c6d4d5330304e3259774c574668596d55744d474668595442694e7a686a4f446b314c6e426b5a673d3d&fich=3384de85-69f1-47f0-aabe-0aaa0b78c895.pdf&Inline=true",
+        "anexoNome": "Listagem de documentos de suporte"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4446694e574d7959574d744d574a6d5a6930304f44646d4c5749794d6d5174597a55334e7a566d595459354e6a646a4c6e426b5a673d3d&fich=81b5c2ac-1bff-487f-b22d-c5775fa6967c.pdf&Inline=true",
+        "anexoNome": "Documento Aprovação Limites Junta de Freguesia Almancil"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e474e694d545535597a55744f4445304e79303059324d324c574a6d5a5441744e3249344e446b35596a41795a575a6a4c6e426b5a673d3d&fich=4cb159c5-8147-4cc6-bfe0-7b8499b02efc.pdf&Inline=true",
+        "anexoNome": "Moção Junta de Freguesia Almancil"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a546b7a5957566c4d324d744e474d314e5330304e54426d4c546b3059546374596a4e6a4e6a67304f5456694d4751794c6e426b5a673d3d&fich=e93aee3c-4c55-450f-94a7-b3c68495b0d2.pdf&Inline=true",
+        "anexoNome": "Auto Delimitação Concelhos de Faro e Loulé"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5749774d44426a596a4d745a54426c595330304d7a67794c5745794e6a5574593251794d6d59344d7a646a5a6d466d4c6e426b5a673d3d&fich=1b000cb3-e0ea-4382-a265-cd22f837cfaf.pdf&Inline=true",
+        "anexoNome": "Descrição Limite Concelhos de Faro e Loulé"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d4d325a6a686d595749744e4745354d7930304d544d344c546b324e5749744e7a55775a475a684d574e684d4467344c6e426b5a673d3d&fich=6c6f8fab-4a93-4138-965b-750dfa1ca088.pdf&Inline=true",
+        "anexoNome": "Planta Delimitação  Concelhos de Faro e Loulé"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5759314f5445794d6a51745a6a4177596930304f5459354c5745304e546774595459774e546c6959544e6c4e5445304c6e426b5a673d3d&fich=ef591224-f00b-4969-a458-a6059ba3e514.pdf&Inline=true",
+        "anexoNome": "Acta da Camara Municipal de  Loulé"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765957526b5a4445304d3249744d5456694f5330304d6a49784c574932596a45744d47566d5a546c6b5a444d774f5749314c6e426b5a673d3d&fich=addd143b-15b9-4221-b6b1-0efe9dd309b5.pdf&Inline=true",
+        "anexoNome": "Relatório Técnico"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47466d596a426d595451744e6a51354e4330304e5445314c57466c4f446374597a4a6c5a574a6c4d6a637a4f5467774c6e426b5a673d3d&fich=dafb0fa4-6494-4515-ae87-c2eebe273980.pdf&Inline=true",
+        "anexoNome": "Acta  da Junta de Freguesia de Montenegro"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a474577597a526b4f4451744e7a55344e6930304d6a51314c574a694e7a637459544a6d59545133595445324d474d774c6e426b5a673d3d&fich=da0c4d84-7586-4245-bb77-a2fa47a160c0.pdf&Inline=true",
+        "anexoNome": "Acta  da Junta de Freguesia de Sao Pedro-Faro"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d544a68596d5a6d4d544d744e446b784d5330305a6d4a6c4c5467324d446b74596d59784e6a417a4e7a6379596a566c4c6e426b5a673d3d&fich=12abff13-4911-4fbe-8609-bf1603772b5e.pdf&Inline=true",
+        "anexoNome": "Acta  da Junta de Freguesia de Santa Bárbara de Nexe"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d55305957557a4e575174596a566d5a4330304d6a526b4c546b7a597a63745a6a42684d446c6b4d474d334d7a49774c6e426b5a673d3d&fich=6e4ae35d-b5fd-424d-93c7-f0a09d0c7320.pdf&Inline=true",
+        "anexoNome": "Acta  da Camara Municipal de Faro-Parte 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d546334597a5268595751744e7a4d334e7930304e6a4d324c5749314e6a63744d474d304e6a4d35596a646d596a52684c6e426b5a673d3d&fich=178c4aad-7377-4636-b567-0c4639b7fb4a.pdf&Inline=true",
+        "anexoNome": "Acta  da Camara Municipal de Faro-Parte 2"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d526a4e54646d5a4755745954457a4e5330305a446b794c5745315a544d74596a68694d446b315a6a497a4d7a6b354c6e426b5a673d3d&fich=fdc57fde-a135-4d92-a5e3-b8b095f23399.pdf&Inline=true",
+        "anexoNome": "Acta da Assembleia da Junta de Freguesia de Montenegro"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d57526a4e474d7a4e7a55744d4464695979303059544e694c546778595455744e6a49324d6d49314f574d795a6d45314c6e426b5a673d3d&fich=1dc4c375-07bc-4a3b-81a5-6262b59c2fa5.pdf&Inline=true",
+        "anexoNome": "Acta da Assembleia da Junta de Freguesia de Sao Pedro"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5759324e6d4e694d6a49744d574934596930305a57466a4c5467774d6d5574595467344f57466d4f4751304f5759344c6e426b5a673d3d&fich=1f66cb22-1b8b-4eac-802e-a889af8d49f8.pdf&Inline=true",
+        "anexoNome": "Deliberação da Assembleia Municipal de Faro"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4463784f4451334e6a45744e7a46694d5330304d324e684c5467774e6d49745a4459334e4442684d6a4e6c5a54426c4c6e426b5a673d3d&fich=07184761-71b1-43ca-806b-d6740a23ee0e.pdf&Inline=true",
+        "anexoNome": "Certidão da Assembleia Municipal de Loulé"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1992",
+        "nome": "Pedro Roque"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4018",
+        "nome": "Artur Rêgo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4336",
+        "nome": "Elsa Cordeiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2297",
+        "nome": "Cristóvão Norte"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37260",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5455354e6a45354e5759745a4749334d5330304e32566c4c54686d4e4467744d6a49304f574e684e544a6b597a5a6d4c6d527659773d3d&fich=5596195f-db71-47ee-8f48-2249ca52dc6f.doc&Inline=true",
+    "IniNr": "293",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Fixação dos limites territoriais entre os municípios de Faro e Loulé.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
