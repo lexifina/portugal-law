@@ -12,33 +12,57 @@
 
 2 - Certificados de admissibilidade de firma ou denominação:
 
-2.1 - Pelo pedido de emissão do certificado - (euro) 56.
+2.1 - Pelo pedido de emissão do certificado - (euro) 75;
 
-2.2 - Pela urgência na emissão do certificado são acrescidos em 50 % os respectivos emolumentos.
+2.2 - Pela urgência na emissão de certificado de admissibilidade de firma ou denominação é devido o
 
-2.3 - Invalidação da emissão do certificado - (euro) 8.
+valor do emolumento correspondente ao acto;
 
-2.4 - A desistência do pedido de emissão do certificado não dá lugar à restituição dos emolumentos cobrados.
+2.3 - Invalidação da emissão do certificado - (euro) 15;
 
-2.5 - O indeferimento do pedido de emissão do certificado não dá lugar à restituição dos emolumentos cobrados.
+2.4 - A desistência do pedido de emissão do certificado não dá lugar à restituição dos emolumentos
 
-2.6 - No caso previsto no número anterior o emolumento pago pode ser transferido, uma única vez, para o novo pedido do mesmo requerente a apresentar no prazo máximo de 10 dias úteis.
+cobrados.
 
-3 - Inscrição no ficheiro central de pessoas colectivas ... 20
+2.5 - O indeferimento do pedido de emissão do certificado não dá lugar à restituição dos emolumentos
 
-4 - (Revogado.)
+cobrados.
 
-5 - (Revogado.)
+2.6 - No caso previsto no número anterior o emolumento pago pode ser transferido, uma única vez,
+
+para o novo pedido do mesmo requerente a apresentar no prazo máximo de 10 dias úteis.
+
+2.7 - Pela comunicação de nome comercial - (euro) 60.
+
+3 - Inscrição no ficheiro central de pessoas coletivas:
+
+3.1 - De entidades sujeitas a registo comercial - (euro) 20;
+
+3.2 - De entidades não sujeitas a registo comercial, bem como de identificação, para efeitos fiscais, de
+
+pessoas coletivas estrangeiras que não exerçam habitualmente atividade em Portugal, sua alteração ou
+
+cancelamento - (euro) 50.
+
+4 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
+
+5 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
 
 6 - Registo de pessoas colectivas religiosas:
 
-6.1 - Inscrição ... 56
+6.1 - Inscrição - (euro) 60;
 
-6.2 - Averbamento de cancelamento ... 36
+6.2 - Averbamento de cancelamento - (euro) 40;
 
-6.3 - Outros averbamentos à inscrição ... 24
+6.3 - Outros averbamentos à inscrição - (euro) 25;
 
-6.4 - Desistência do pedido de registo ... 12,50
+6.4 - Pela desistência do pedido de inscrição - (euro) 60;
+
+6.5 - Pela urgência na realização do registo de pessoa colectiva religiosa é devido o valor do
+
+emolumento correspondente ao acto.
+
+6.6 - Aos emolumentos previstos nos números anteriores acresce o emolumento previsto no n.º 3.1, quando se mostre devido.
 
 7 - Certidões e cópias de registo informático e de documentos:
 
@@ -89,3 +113,7 @@
 8.4.1 - A nível nacional ... 500
 
 8.4.2 - A nível concelhio ... 150
+
+9 - Os emolumentos previstos nos n.os 8.1.1, 8.2 e 8.4.3 constituem receita do IRN, I. P., e do IGFEJ, I. P., na proporção de 85 % e 15 %, respetivamente.
+
+10 - Os emolumentos previstos nos n.os 8.3, 8.4.1 e 8.4.2 constituem receita do IRN, I. P.

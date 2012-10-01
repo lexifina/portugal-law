@@ -44,50 +44,54 @@
 
 10.3 - Municípios com mais de 50000 e menos de 100000 eleitores - em um quarto.
 
-11 - Os emolumentos devidos pelo fornecimento de cópias totais do ficheiro central de pessoas colectivas (FCPC) e do registo de pessoas colectivas religiosas (RPCR), quando solicitadas por pessoas colectivas religiosas são reduzidos a metade.
+11 - (Revogado.)
 
 12 – (Revogado.)
 
 13 – (Revogado.)
 
-14 - Estão isentos de tributação emolumentar os actos notariais e de registo relacionados com a aquisição e administração de bens imóveis pertencentes ao domínio privado do Estado em que a Direcção-Geral do Património ou outros serviços da administração directa ou indirecta do Estado tenham intervenção ou sejam por eles requeridos.
+14 - (Revogado.)
 
 15 - (Revogado.)
 
 16 - (Revogado.)
 
-17 - As isenções emolumentares previstas nos n.os 14 a 16 vigoram até ao dia 2 de Dezembro de 2011, sendo as previstas no n.º 14 aplicáveis, no que respeita aos actos notariais, apenas aos actos praticados pelos notários públicos, durante o período transitório previsto no artigo 106.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro.
+17 - (Revogado.)
 
 18 - Estão isentos de tributação emolumentar os actos notariais e de registo exigidos para execução de providências integradoras ou decorrentes de plano de insolvência judicialmente homologado que visem o saneamento da empresa, através da recuperação do seu titular ou da sua transmissão, total ou parcial, a outra ou outras entidades.
 
-19 - Os emolumentos devidos pelos regimes especiais de constituição imediata e de constituição on-line de sociedades são reduzidos em (euro) 60 quando a actividade principal da sociedade seja classificada como actividade informática ou conexa, ou ainda como de investigação e desenvolvimento, não sendo devida participação emolumentar pela referida redução. 20 - Sem prejuízo da redução prevista no número anterior, o emolumento devido pelo regime especial de constituição online de sociedades é reduzido em 50 %, quanto a todas as verbas que o compõem, quando se verifique a opção por pacto ou acto constitutivo de modelo aprovado.
+19 - (Revogado.)
+
+20 - (Revogado.)
 
 21 - O emolumento devido pela prática dos actos compreendidos no regime especial de constituição imediata de associações de estudantes é reduzido em (euro) 100, não sendo devida participação emolumentar pela referida redução.
 
-22 - Os registos relativos a veículo que utilize exclusivamente energia eléctrica ou solar, ou outra forma não poluente de energia, estão isentos de emolumentos.
+22 - (Revogado.)
 
-23 - Os registos relativos a veículo que utilize exclusivamente combustível de petróleo liquefeito (GPL) ou gás natural beneficiam de uma redução de 60 % do valor do emolumento.
+23 - (Revogado.)
 
-24 - Os registos relativos a veículos que, no acto da entrada do consumo interno, se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de gás de petróleo liquefeito (GPL), gás natural, energia eléctrica ou solar, quer de gasolina ou gasóleo, beneficiam de uma redução de 30 % do valor do emolumento.
+24 - (Revogado.)
 
-25 - Os emolumentos devidos por actos de registo previstos nos artigos 22.º e 25.º, quando promovidos por via electrónica, são reduzidos em 40 %, quanto a todas as verbas que os compõem.
+25 - Os emolumentos devidos por atos de registo previstos nos artigos 22.º e 25.º, quando promovidos por via eletrónica, são reduzidos em 15 %, quanto a todas as verbas que os compõem.
 
-26 - Os emolumentos devidos por actos de registo predial previstos no n.º 2.1 do artigo 21.º, quando promovidos por via electrónica, são reduzidos em 20 %, quando não sejam requeridos, nem devam ser efectuados como provisórios, nos termos da alínea g), h), i) e j) do n.º 1 do artigo 92.º do Código do Registo Predial.
+26 - Os emolumentos devidos por atos de registo predial previstos nos n.os 2.1 e 2.12 do artigo 21.º, quando promovidos por via eletrónica, são reduzidos em 10 %, quando não sejam requeridos, nem devam ser efetuados como provisórios, nos termos da alínea g), h), i) e j) do n.º 1 do artigo 92.º do Código do Registo Predial.
 
-27 - Os emolumentos devidos por actos de registo predial previstos nos n.os 2.7, 2.12, 2.15, 2.17 e 3 do artigo 21.º, quando promovidos por via electrónica, são reduzidos em 20 %.
+27 - Os emolumentos devidos por atos de registo predial previstos nos n.os 2.7, 2.16.2, 2.17 e 3 do artigo 21.º, quando promovidos por via eletrónica, são reduzidos em 10 %.
 
 28 - O registo por depósito promovido pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial, não está sujeito ao pagamento do emolumento previsto no n.º 3 do artigo 22.º
 
-29 - Os emolumentos devidos pelo fornecimento em suporte electrónico de mapas estatísticos de registo de veículos a entidades sem fins lucrativos são reduzidos a um quarto.
+29 - (Revogado.)
 
-30 - Se o registo for solicitado por entidades licenciadas que exerçam a actividade de transportes rodoviários de mercadorias por conta de outrem, o primeiro registo de transmissão de reboques está isento de tributação emolumentar e os emolumentos devidos pelos subsequentes registos de transmissão de reboques são reduzidos a três quartos.
+30 - (Revogado.)
 
 31 - As certidões e outros documentos de carácter probatório requeridos para fins eleitorais, bem como os reconhecimentos de assinaturas e outros actos respeitantes a documentos destinados a apresentação para os mesmos fins estão isentos de emolumentos.
 
 32 - Pelo acesso em linha por parte das entidades responsáveis pelas bases de dados do dispositivo electrónico de matrícula às bases de dados do registo automóvel, o montante decorrente do n.º 5.3.2.5 do artigo 25.º terá um limite mensal fixado por despacho do membro do Governo responsável pela área da Justiça.
 
-33 - Os emolumentos devidos por actos de registo previstos no artigo 21.º são reduzidos em 60 % quando o facto respeite apenas a prédios rústicos de valor inferior a (euro) 25 000;
+33 - Os emolumentos previstos nos n.os 2.1, 2.12, 2.16.2, 2.17, 3, 4, 5 e 12 do artigo 21.º, bem como o emolumento previsto nos n.os 7.7, 7.7.1, 7.7.2 e 7.7.3 do artigo 27.º, são reduzidos em 65 % quando o facto respeite apenas a prédios rústicos de valor inferior a (euro) 10 000.
 
-33.1 - Os emolumentos devidos pelo procedimento especial de transmissão, oneração e registo previstos no artigo 27.º-A, n.os 1 e 2, são reduzidos em 50 % quando respeitem apenas a prédios rústicos de valor inferior a (euro) 25 000;
+33.1 - Os emolumentos devidos pelo procedimento especial de transmissão, oneração e registo previstos no artigo 27.º-A, n.os 1 e 2, são reduzidos em 50 % quando respeitem apenas a prédios rústicos de valor inferior a (euro) 10 000.
+
+33.1.1 - Os emolumentos devidos pelos procedimentos previstos no artigo 18.º, n.os 6.2, 6.2.1, 6.2.2, 6.10.2, 6.10.3, 6.10.4 e 6.10.5.1, são reduzidos em 50 % quando respeitem apenas a prédios rústicos de valor inferior a (euro) 10 000.
 
 33.2 - Para efeitos do disposto nos números anteriores, o valor do prédio é o do seu valor patrimonial, o valor declarado ou aquele que as partes lhe atribuírem se for superior.

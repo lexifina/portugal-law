@@ -8,7 +8,7 @@
 
 São gratuitos os seguintes actos:
 
-a) A emissão do primeiro bilhete de identidade, desde que o requerente seja menor;
+a) (Revogado.)
 
 b) A emissão do bilhete de identidade quando o requerente comprove insuficiência económica ou se encontre internado em instituição de assistência ou de beneficência;
 

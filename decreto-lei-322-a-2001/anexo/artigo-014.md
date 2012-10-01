@@ -24,4 +24,4 @@ b) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de
 
 c) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-d) A recusa de actos de registo quando o facto já se encontrar registado.
+d) A recusa e a desistência de atos de registo quando o facto já se encontrar registado.

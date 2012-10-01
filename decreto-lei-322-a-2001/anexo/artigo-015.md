@@ -22,7 +22,7 @@ f) Averbamentos de actualização da sede, de situação de estabelecimento prin
 
 g) Os registos realizados oficiosamente nos termos do artigo 67.º-A do Código do Registo Comercial;
 
-h) O reconhecimento presencial das assinaturas no contrato de sociedade efectuado no momento do pedido de registo.
+h) (Revogada.)
 
 2 - São ainda gratuitos os seguintes actos:
 
@@ -34,10 +34,10 @@ c) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de
 
 d) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-e) As certidões a entregar aos interessados na sequência da conclusão do procedimento previsto no regime especial de constituição imediata de sociedades.
+e) (Revogada.)
 
-f) As certidões emitidas nos termos do n.º 6 do artigo 75.º do Código do Registo Comercial;
+f) (Revogada.)
 
-g) A certidão a entregar aos interessados na sequência da conclusão do procedimento especial de extinção imediata de entidades comerciais.
+g) (Revogada.)
 
-h) Suprimento de deficiências nos actos de registo requeridos por via electrónica.
+h) (Revogada.)

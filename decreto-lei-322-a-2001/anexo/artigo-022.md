@@ -10,7 +10,7 @@
 
 2 - Inscrições e averbamentos previstos no n.º 1 do artigo 69.º do Código do Registo Comercial:
 
-2.1 - Constituição de pessoas colectivas - (euro) 400;
+2.1 - Constituição de pessoas coletivas - (euro) 360;
 
 2.2 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
 
@@ -22,13 +22,13 @@
 
 2.5 - Fusão ou cisão:
 
-2.5.1 - Pelo depósito do projecto de fusão ou cisão - (euro) 100;
+2.5.1 - Pelo depósito do projeto de fusão ou cisão - (euro) 120;
 
-2.5.2 - Pela inscrição da fusão ou cisão - (euro) 150;
+2.5.2 - Pela inscrição da fusão ou da cisão - (euro) 200;
 
 2.6 - Dissolução - (euro) 200;
 
-2.7 - Designação dos órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, nos termos do n.º 2 do artigo 262.º do Código das Sociedades Comerciais, e de gestores judiciais - (euro) 175;
+2.7 - Designação ou recondução dos órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, nos termos do n.º 2 do artigo 262.º do Código das Sociedades Comerciais, e de gestores judiciais - (euro) 175;
 
 2.8 - Registo de acções - (euro) 130;
 
@@ -44,7 +44,7 @@
 
 4 - Averbamento a inscrição - (euro) 80;
 
-4.1 - (Revogado.)
+4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;
 
 4.2 - (Revogado.)
 
@@ -78,7 +78,7 @@
 
 9 - Procedimento especial de extinção imediata de entidades comerciais:
 
-Pela decisão do procedimento, incluindo o registo - (euro) 250.
+Pela decisão do procedimento, incluindo o registo - (euro) 300.
 
 10 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao acto.
 
@@ -104,7 +104,9 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 
 13.4.4 - Assinatura por quatro anos - (euro) 70;
 
-13.5 - Requisição e emissão de certidão ou fotocópia de documentos - (euro) 30;
+13.5 - Requisição e emissão de certidão ou fotocópia de documentos, até 10 páginas - (euro) 30;
+
+13.5.1 - Por cada página a mais, (euro) 1, até ao limite de (euro) 150.
 
 13.6 - Requisição e emissão de certidão ou fotocópia do acto constitutivo e dos estatutos de associação constituída ao abrigo do regime de constituição imediata de associações - (euro) 15;
 
@@ -128,7 +130,7 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 
 20 - Pela oposição da sociedade ao registo por depósito a promover pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial - (euro) 150.
 
-21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3 ou 5, do Código do Registo Comercial - (euro) 30.
+21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3, 5 ou 6, do Código do Registo Comercial - (euro) 30.
 
 22 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
 
@@ -136,6 +138,6 @@ Pela decisão do procedimento, incluindo o registo - (euro) 250.
 
 24 - O facto de a taxa das publicações obrigatórias se encontrar incluída no valor dos emolumentos previstos neste artigo não prejudica o seu tratamento autónomo, designadamente no que respeita ao facto de constituírem receita do IRN, I. P.
 
-25 - Para fazer face ao encargo com a gestão dos sistemas informáticos necessários à sua disponibilização, constitui receita do Instituto das Tecnologias de Informação na Justiça (ITIJ) o montante de (euro) 5, a deduzir, por cada acto de registo requerido por via electrónica, aos emolumentos previstos neste artigo.
+25 -(Revogado.)
 
 26 - As taxas previstas no n.º 13 constituem receita do IRN, I. P.

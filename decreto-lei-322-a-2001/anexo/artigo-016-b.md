@@ -8,7 +8,7 @@
 
 1 - São gratuitos os seguintes actos:
 
-a) Cancelamento de ónus ou encargos por efeito de decisão judicial ou administrativa;
+a) Cancelamento dos ónus ou encargos que caducam nos termos do n.º 2 do artigo 824.º do Código Civil, na sequência de transmissão em processo de execução ou de insolvência;
 
 b) Cancelamento oficioso do registo de propriedade, em virtude de cancelamento da matrícula;
 
