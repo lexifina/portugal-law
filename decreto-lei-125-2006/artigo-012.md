@@ -16,7 +16,7 @@ a) Comunicação do código de acesso do cartão electrónico da empresa e do n�
 
 b) Caso tenha havido aquisição de marca registada e independentemente da qualificação do correspondente acto de registo comercial, emissão e envio do documento comprovativo dessa aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.);
 
-c) Disponibilização gratuita de código de acesso à certidão permanente da sociedade pelo período de um ano;
+c) Disponibilização gratuita de código de acesso à certidão permanente da sociedade, pelo período de três meses;
 
 d) Promoção das publicações legais, as quais se devem efectuar automaticamente e por via electrónica;
 
@@ -26,12 +26,12 @@ f) Caso tenha havido aquisição de marca registada, comunicação ao INPI, I. P
 
 g) Promoção das restantes diligências que venham a ser fixadas por via regulamentar ou protocolar;
 
-h) Envio da pasta da sociedade à conservatória do registo comercial da área da respectiva sede.
+h) (Revogada).
 
 4 - Nos casos referidos na alínea b) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.
 
 5 - Para os efeitos previstos na alínea e) do n.º 3, os serviços da administração tributária devem notificar, por via electrónica, os serviços de segurança social dos elementos relativos ao início de actividade.
 
-6 - O envio referido na alínea h) do n.º 3 só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.
+6 - (Revogado).
 
 7 - A realização dos actos previstos nos n.os 2 e 3 é da competência do conservador e dos oficiais de registo.
