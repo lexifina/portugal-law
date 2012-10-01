@@ -1,5 +1,5 @@
 # Artigo 4.º
 
-### Gratuitidade
+### Código de acesso
 
-O acesso e a consulta da certidão permanente são gratuitos.
+Após o pedido de certidão permanente, é disponibilizado ao requerente um código que permite a sua visualização no sítio da Internet referido no artigo anterior, a partir do momento em que seja confirmado o pagamento dos montantes devidos.

@@ -2,4 +2,6 @@
 
 ### Acesso à certidão permanente de registo de procurações
 
-O acesso previsto no n.º 1 do artigo anterior efectua-se mediante a introdução do código de identificação disponibilizado aos mandantes e mandatários nos termos do artigo 4.º do Decreto Regulamentar n.º 3/2009, de 3 de Fevereiro, no sítio www.procuracoesonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P.
+1 - O acesso previsto no n.º 1 do artigo anterior efetua-se mediante a disponibilização de um código de acesso, que permite a visualização da informação através da Internet, durante o prazo de validade da certidão permanente.
+
+2 - O pedido de acesso à certidão permanente é efetuado no sítio da Internet com o endereço www.procuracoesonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)
