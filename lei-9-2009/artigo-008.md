@@ -12,4 +12,4 @@
 
 1 - O presente regime aplica-se a todas as profissões não abrangidas pelas secções ii e iii do presente capítulo e aplica-se subsidiariamente às profissões abrangidas por essas secções, sempre que o requerente não satisfaça as condições para o reconhecimento das qualificações nelas previstas.
 
-2 - O presente regime aplica-se também aos profissionais detentores dos títulos de formação previstos na parte final da alínea u) do n.º 1 do artigo 2.º
+2 - O presente regime aplica-se também aos profissionais detentores dos títulos de formação previstos na parte final da alínea l) do artigo 2.º

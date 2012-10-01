@@ -14,7 +14,7 @@ d) No que respeita aos enfermeiros responsáveis por cuidados gerais e aos enfer
 
 e) No que respeita aos enfermeiros especializados que não possuam formação de enfermeiro responsável por cuidados gerais, no caso de o requerente pretender o reconhecimento noutro Estado membro em que as actividades profissionais em causa sejam exercidas por enfermeiros responsáveis por cuidados gerais, enfermeiros especializados que não possuam formação de enfermeiro responsável por cuidados gerais ou enfermeiros especializados que possuam um título de formação especializada e se tenham submetido a formação conducente à obtenção de um dos títulos referidos no ponto 2.2 do anexo ii.
 
-2 - O disposto no n.º 6 do artigo 11.º é aplicável nos casos a que se referem as alíneas a) e b) do número anterior, bem como nos casos seguintes:
+2 - O disposto no n.º 5 do artigo 11.º é aplicável nos casos a que se referem as alíneas a) e b) do número anterior, bem como nos casos seguintes:
 
 a) Os casos a que se refere a alínea c) do mesmo número, no que respeita aos médicos e dentistas;
 

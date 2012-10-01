@@ -8,9 +8,9 @@
 
 1 - A admissão à formação de base de dentista depende da posse de um diploma ou certificado que faculte o acesso aos estudos em causa em estabelecimentos universitários ou em institutos superiores de um Estado membro que tenham um nível reconhecido como equivalente.
 
-2 - A formação de base de dentista compreende um mínimo de cinco anos, que podem, complementarmente, ser expressos sob a forma de créditos ECTS equivalentes e devem consistir em, pelo menos, 5000 horas de formação teórica e prática a tempo inteiro ministrada numa universidade ou instituto superior de nível equivalente ou sob a orientação de uma universidade, que correspondam, pelo menos, ao programa constante do ponto 3.1 do anexo ii.
+2 - A formação de base de dentista compreende um mínimo de cinco anos de estudos teóricos e práticos a tempo inteiro, numa universidade ou instituto superior de nível equivalente ou sob a orientação de uma universidade, que correspondam, pelo menos, ao programa constante do ponto 3.1 do anexo ii.
 
-3 - (Revogado.)
+3 - As listas de disciplinas constantes do ponto 3.1 do anexo ii podem ser actualizadas pelo comité referido no n.º 2 do artigo 52.º, para adaptação ao progresso científico e técnico, sem implicar a alteração da regulamentação nacional respeitante à formação e às condições de acesso.
 
 4 - A formação de base de dentista garante que o requerente adquiriu os conhecimentos e as competências seguintes:
 

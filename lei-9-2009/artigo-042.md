@@ -4,7 +4,7 @@
 
 1 - As actividades de farmacêutico são aquelas cujo acesso e exercício estão sujeitos, em um ou mais Estados membros, a uma qualificação profissional e só podem ser realizadas pelo titular de um título de formação referido no ponto 6.2 do anexo ii.
 
-2 - A autoridade competente assegura que o detentor de um título de formação de farmacêutico, de nível universitário equivalente, que satisfaça as condições do artigo anterior, esteja habilitado, pelo menos, para o acesso e o exercício das atividades a seguir mencionadas, sob reserva, sendo caso disso, da exigência de experiência profissional complementar:
+2 - A autoridade competente assegura que o detentor de um título de formação em farmácia, de nível universitário equivalente, que satisfaça as condições do artigo anterior, esteja habilitado, pelo menos, para o acesso e o exercício das actividades a seguir mencionadas, sob reserva, sendo caso disso, da exigência de experiência profissional complementar:
 
 a) Preparação da forma farmacêutica dos medicamentos;
 
@@ -14,17 +14,11 @@ c) Controlo de medicamentos em laboratório de ensaio de medicamentos;
 
 d) Armazenamento, conservação e distribuição de medicamentos na fase do comércio por grosso;
 
-e) Aprovisionamento, preparação, controlo, armazenamento, distribuição e venda de medicamentos seguros, eficazes e com a qualidade exigida nas farmácias abertas ao público;
+e) Preparação, ensaio, armazenamento e distribuição de medicamentos em farmácias abertas ao público;
 
-f) Preparação, ensaio, armazenamento e distribuição de medicamentos seguros, eficazes e com a qualidade exigida em hospitais;
+f) Preparação, ensaio, armazenamento e distribuição de medicamentos em hospitais;
 
-g) Prestação de informação e aconselhamento sobre medicamentos e produtos de saúde, incluindo a sua utilização apropriada;
-
-h) Notificação às autoridades competentes de reações adversas a produtos farmacêuticos;
-
-i) Apoio personalizado a doentes que administram a sua própria medicação;
-
-j) Contribuição para campanhas de saúde pública locais ou nacionais.
+g) Difusão de informações e conselhos sobre medicamentos.
 
 3 - Quando, num Estado membro, o acesso a uma das actividades de farmacêutico, ou o seu exercício, depender, para além do título de formação referido no ponto 6.2 do anexo ii, de experiência profissional complementar, a autoridade competente reconhece como prova suficiente dessa experiência um certificado emitido por autoridade competente do Estado membro de origem, comprovando que o requerente nele exerceu as referidas actividades durante um período equivalente.
 

@@ -8,7 +8,7 @@
 
 1 - A admissão à formação médica de base depende da posse de um diploma ou certificado que faculte o acesso aos estudos em causa em estabelecimentos universitários.
 
-2 - A formação médica de base compreende, no total, pelo menos, cinco anos de estudos, que podem, complementarmente, ser expressos sob a forma de créditos ECTS equivalentes, e consiste em 5500 horas de ensino teórico e prático, ministrados numa universidade ou sob a orientação de uma universidade.
+2 - A formação médica de base compreende, no total, pelo menos, seis anos de estudos ou 5500 horas de ensino teórico e prático, ministrados numa universidade ou sob a orientação de uma universidade.
 
 3 - Para os requerentes que tenham iniciado os estudos antes de 1 de Janeiro de 1972, a formação referida no número anterior pode incluir uma formação prática de nível universitário de seis meses, efectuada a tempo inteiro sob a orientação dos organismos competentes.
 

@@ -6,23 +6,19 @@
 
 ### Formação de enfermeiro responsável por cuidados gerais
 
-1 - A admissão à formação de enfermeiro responsável por cuidados gerais depende de:
-
-a) Uma formação escolar geral de 12 anos, comprovada por um diploma, certificado ou outro título emitido pelas autoridades ou organismos competentes de um Estado membro, ou por um certificado comprovativo da aprovação em exame de admissão, de nível equivalente, que dê acesso a universidades ou institutos de ensino superior de um nível reconhecido como equivalente; ou
-
-b) Uma formação escolar geral de 10 anos, comprovada por um diploma, certificado ou outro título emitido pelas autoridades ou organismos competentes de um Estado membro, ou por um certificado comprovativo da aprovação em exame de admissão, de nível equivalente, a escolas profissionais de enfermagem ou a programas de formação profissional para profissionais de enfermagem.
+1 - A admissão à formação de enfermeiro responsável por cuidados gerais depende de uma formação escolar geral de 10 anos, comprovada por um diploma, certificado ou outro título emitido pelos organismos competentes de um Estado membro, ou por um certificado comprovativo da aprovação em exame de admissão, de nível equivalente, a escolas de enfermagem.
 
 2 - A formação de enfermeiro responsável por cuidados gerais é efectuada a tempo inteiro e inclui, pelo menos, o programa constante do ponto 2.1 do anexo ii.
 
-3 - A formação de enfermeiro responsável por cuidados gerais compreende, pelo menos, três anos de estudos, que pode, complementarmente, ser expressa com os créditos ECTS equivalentes, e que deve consistir em 4600 horas de ensino teórico e clínico, devendo o ensino teórico constituir, pelo menos, um terço e o ensino clínico, pelo menos, metade da duração mínima.
+3 - A formação de enfermeiro responsável por cuidados gerais compreende, pelo menos, três anos de estudos ou 4600 horas de ensino teórico e clínico, sendo a coordenação do conjunto do programa de estudos da responsabilidade das instituições que ministram a formação, de cuja duração mínima o ensino teórico deve constituir, pelo menos, um terço e o ensino clínico, pelo menos, metade.
 
 4 - Sem prejuízo do disposto no número anterior, podem ser concedidas dispensas parciais ao requerente na medida de outras formações de nível equivalente que tenha adquirido.
 
 5 - Para efeitos do disposto no presente artigo, entende-se por:
 
-a) «Ensino teórico» a vertente da formação em enfermagem através da qual o candidato a enfermeiro adquire os conhecimentos, as aptidões e as competências profissionais exigidas pelos n.os 8 e 9, sendo esta formação ministrada pelo pessoal docente de cuidados de enfermagem, bem como por outras pessoas competentes, nas universidades, institutos de ensino superior de nível reconhecido como equivalente ou escolas de enfermagem e através de programas de formação profissional para profissionais de enfermagem;
+a) «Ensino teórico» a vertente da formação em enfermagem através da qual o candidato a enfermeiro adquire os conhecimentos, a compreensão e as competências profissionais necessárias para planear, dispensar e avaliar os cuidados de saúde globais, sendo esta formação ministrada pelo pessoal docente de cuidados de enfermagem, bem como por outras pessoas competentes, nas escolas de enfermagem e noutros estabelecimentos de ensino designados pela instituição responsável pela formação;
 
-b) «Ensino clínico» a vertente da formação em enfermagem através da qual o candidato a enfermeiro aprende, no seio de uma equipa e em contacto direto com um indivíduo, em bom estado de saúde ou doente, ou uma coletividade, a planear, dispensar e avaliar cuidados de enfermagem globais, com base nos conhecimentos, aptidões e competências adquiridas, aprendendo, de igual modo, não só a trabalhar em equipa, mas também a dirigi-la e a organizar os cuidados de enfermagem globais, incluindo a educação para a saúde destinada a indivíduos e a pequenos grupos no seio de uma instituição de saúde ou da comunidade.
+b) «Ensino clínico» a vertente da formação em enfermagem através da qual o candidato a enfermeiro aprende, no seio de uma equipa e em contacto directo com um indivíduo, em bom estado de saúde ou doente, ou uma colectividade, a planear, dispensar e avaliar cuidados de enfermagem globais, com base nos conhecimentos e competências adquiridas, aprendendo, de igual modo, não só a trabalhar em equipa, mas também a dirigi-la e a organizar os cuidados de enfermagem globais, incluindo a educação para a saúde destinada a indivíduos e a pequenos grupos no seio de uma instituição de saúde ou da comunidade.
 
 6 - O ensino clínico é ministrado em hospitais e outras instituições de saúde e na comunidade, sob a responsabilidade de enfermeiros docentes e com a cooperação e a assistência de outros enfermeiros qualificados, sem prejuízo de outros profissionais qualificados poderem ser integrados no processo de ensino.
 
@@ -30,30 +26,12 @@ b) «Ensino clínico» a vertente da formação em enfermagem através da qual o
 
 8 - A formação de enfermeiro responsável por cuidados gerais tem por objectivo garantir a aquisição dos conhecimentos e das competências seguintes:
 
-a) Conhecimentos globais das ciências em que se baseiam os cuidados gerais de enfermagem, incluindo conhecimentos suficientes do organismo, das funções fisiológicas e do comportamento das pessoas, em bom estado de saúde ou doentes, bem como das relações existentes entre o estado de saúde e o ambiente físico e social do ser humano;
+a) Conhecimentos adequados das ciências em que se baseiam os cuidados gerais de enfermagem, incluindo conhecimentos suficientes do organismo, das funções fisiológicas e do comportamento das pessoas, em bom estado de saúde ou doentes, bem como das relações existentes entre o estado de saúde e o ambiente físico e social do ser humano;
 
-b) Conhecimentos suficientes da natureza e da deontologia da profissão e dos princípios gerais sobre a saúde e respetivos cuidados;
+b) Conhecimentos suficientes da natureza e da ética da profissão e dos princípios gerais sobre a saúde e respectivos cuidados;
 
 c) Experiência clínica adequada, escolhida pelo seu valor formativo e adquirida sob a orientação de pessoal de enfermagem qualificado em locais onde a quantidade de pessoal qualificado e o equipamento sejam adequados aos cuidados de enfermagem a dispensar ao doente;
 
 d) Capacidade para participar na formação de pessoal de saúde e experiência de trabalho com esse pessoal;
 
 e) Experiência de trabalho com outros profissionais do sector da saúde.
-
-9 - Os títulos de formação de enfermeiro responsável por cuidados gerais comprovam que o profissional em questão é capaz de aplicar, pelo menos, as seguintes competências, independentemente do facto de a formação ter tido lugar numa universidade, numa instituição de ensino superior de nível reconhecido como equivalente ou numa escola profissional ou através de um programa de formação profissional de enfermagem:
-
-a) Competência para diagnosticar com autonomia os cuidados de enfermagem necessários, usando os conhecimentos teóricos e clínicos atuais, e para planear, organizar e ministrar cuidados de enfermagem, ao tratar de doentes, com base nos conhecimentos e aptidões adquiridos nos termos das alíneas a), b) e c) do número anterior, com vista a melhorar o desempenho profissional;
-
-b) Competência para colaborar eficazmente com outros agentes do sector da saúde, incluindo a participação na formação prática de pessoal de saúde, com base nos conhecimentos e nas aptidões adquiridos nos termos das alíneas d) e e) do número anterior;
-
-c) Competência para capacitar pessoas, famílias e grupos a adotar estilos de vida saudáveis e cuidados pessoais, com base nos conhecimentos e aptidões adquiridos nos termos das alíneas a) e b) do número anterior;
-
-d) Competência para encetar de forma autónoma medidas imediatas de suporte básico de vida e empreender medidas em situações de crise e catástrofe;
-
-e) Competência para, de forma autónoma, dar conselhos, instruções e apoio a pessoas que necessitem de cuidados e aos seus cuidadores;
-
-f) Competência para, de forma autónoma, garantir a qualidade dos cuidados de enfermagem e avaliar os cuidados de enfermagem;
-
-g) Competência para, de forma transversal, comunicar profissionalmente e cooperar com outros profissionais de saúde;
-
-h) Competência para analisar a qualidade dos cuidados com vista a melhorar o seu próprio desempenho profissional enquanto enfermeiro responsável por cuidados gerais.

@@ -6,13 +6,9 @@
 
 ### Formação de arquitecto
 
-1 - A formação de arquiteto compreende:
+1 - A formação de arquitecto compreende, pelo menos, quatro anos de estudos a tempo inteiro, ou seis anos de estudos dos quais pelo menos três a tempo inteiro em universidade ou estabelecimento de ensino equivalente.
 
-a) Um total de, pelo menos, cinco anos de estudos a tempo inteiro numa universidade ou estabelecimento de ensino comparável, formação que deve ser comprovada pela aprovação num exame de nível universitário; ou
-
-b) Pelo menos quatro anos de estudos a tempo inteiro numa universidade ou estabelecimento de ensino comparável, formação que deve ser comprovada pela aprovação num exame de nível universitário, acompanhados de um certificado comprovativo da realização de um estágio profissional de dois anos, nos termos do n.º 4.
-
-2 - A formação referida no número anterior deve ter a arquitetura como elemento principal, mantendo o equilíbrio entre os aspetos teóricos e práticos e assegurando a aquisição dos seguintes conhecimentos, aptidões e competências:
+2 - A formação referida no número anterior deve ser atestada pela aprovação num exame de nível universitário e ter a arquitectura como elemento principal, mantendo o equilíbrio entre os aspectos teóricos e práticos e assegurando a aquisição dos seguintes conhecimentos e competências:
 
 a) Capacidade para conceber projectos de arquitectura que satisfaçam exigências estéticas e técnicas;
 
@@ -30,22 +26,10 @@ g) Conhecimento dos métodos de investigação e de preparação do caderno de e
 
 h) Conhecimento dos problemas de concepção estrutural, de construção e de engenharia civil relacionados com a concepção dos edifícios;
 
-i) Conhecimento adequado dos problemas físicos e das tecnologias, bem como da função dos edifícios, no sentido de os dotar de todos os elementos de conforto interior e de proteção climática, no quadro do desenvolvimento sustentável;
+i) Conhecimento adequado dos problemas físicos e das tecnologias, bem como da função dos edifícios, no sentido de os dotar de todos os elementos de conforto interior e de protecção climatérica;
 
 j) Capacidade técnica que permita conceber construções que satisfaçam as exigências dos utentes, dentro dos limites impostos pelo custo e pelas regulamentações da construção;
 
 l) Conhecimento adequado das indústrias, organizações, regulamentações e procedimentos implicados na concretização dos projectos em construção e na integração dos planos na planificação geral.
 
-3 - O número de anos de estudos universitários referido nos números anteriores pode, além disso, ser expresso com os créditos ECTS equivalentes.
-
-4 - O estágio profissional a que se refere a alínea b) do n.º 1 deve:
-
-a) Ser apenas realizado após a conclusão dos primeiros três anos de estudos;
-
-b) Fundar-se nos conhecimentos, aptidões e competências adquiridos no decurso dos estudos referidos no n.º 2;
-
-c) Ter a duração de pelo menos um ano;
-
-d) Ser efetuado em qualquer país, sob a orientação de uma pessoa ou entidade autorizada pela autoridade competente do Estado membro de origem;
-
-e) Ser avaliado pela autoridade competente do Estado membro de origem.
+3 - Os conhecimentos e as competências referidos no ponto 7 do anexo ii podem ser actualizados, pelo comité referido no n.º 2 do artigo 52.º, para adaptação ao progresso científico e técnico, sem implicar a alteração da regulamentação nacional respeitante à formação e às condições de acesso à profissão.

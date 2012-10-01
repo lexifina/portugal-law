@@ -6,7 +6,7 @@
 
 ### Princípio da livre prestação de serviços
 
-1 - Sem prejuízo do disposto nos artigos 4.º a 6.º, pode prestar livremente serviços no território nacional o profissional legalmente estabelecido noutro Estado membro para nele exercer a profissão em causa e, no caso de nem a profissão nem a formação conducente à profissão estarem regulamentadas no Estado membro de estabelecimento, o profissional que neste a tenha exercido durante pelo menos um ano no decurso dos 10 anos precedentes.
+1 - Sem prejuízo do disposto nos artigos 4.º a 6.º, pode prestar livremente serviços no território nacional o profissional legalmente estabelecido noutro Estado membro para nele exercer a profissão em causa ou, no caso de nem a profissão nem a sua formação conducente à profissão estarem regulamentadas no Estado membro de estabelecimento, o profissional que neste tenha exercido a profissão em causa durante pelo menos dois anos no decurso dos 10 anos precedentes.
 
 2 - O profissional prestador de serviços, adiante designado por prestador de serviços, fica sujeito às normas legais ou regulamentares sobre conduta profissional, directamente relacionadas com as qualificações profissionais, designadamente as respeitantes à definição das profissões, ao uso de títulos e aos erros profissionais graves directa e especificamente relacionados com a defesa e segurança do consumidor, incluindo as disposições disciplinares aplicáveis aos profissionais que exercem a mesma profissão no referido território.
 

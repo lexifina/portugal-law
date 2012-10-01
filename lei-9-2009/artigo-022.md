@@ -2,7 +2,7 @@
 
 ### Formação médica especializada
 
-1 - A admissão à formação médica especializada depende da realização completa e com êxito do ciclo de formação médica de base referido no artigo anterior, no decurso do qual tenham sido adquiridos conhecimentos adequados de medicina de base.
+1 - A admissão à formação médica especializada depende da realização completa e com êxito de seis anos de estudos ou 5500 horas no âmbito do ciclo de formação referido no artigo anterior, no decurso do qual tenham sido adquiridos conhecimentos adequados de medicina de base.
 
 2 - A formação médica especializada compreende ensino teórico e prático, ministrado numa universidade, num hospital universitário ou num estabelecimento de cuidados de saúde reconhecido para esse efeito pelos organismos competentes, os quais asseguram que a duração mínima das formações médicas especializadas enumeradas no ponto 1.3 do anexo ii não sejam inferiores aos períodos aí previstos.
 

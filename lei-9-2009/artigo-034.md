@@ -23,13 +23,3 @@ c) O requerente estar autorizado a exercer, ou exercer já de modo efectivo, lí
 5 - O requisito previsto na alínea a) do número anterior não é exigível ao requerente que tenha tido aproveitamento em estudos com a duração de pelo menos três anos cuja equivalência à formação referida no artigo 31.º seja atestada pelas competentes autoridades italianas.
 
 6 - O disposto no número anterior é aplicável ao requerente que tenha iniciado a formação universitária de médico após 31 de Dezembro de 1984, desde que os três anos de estudos tenham sido iniciados antes de 31 de Dezembro de 1994.
-
-7 - Nos casos em que os requerentes tenham iniciado a sua formação até 18 de janeiro de 2016, os títulos de formação dos dentistas devem ser reconhecidos nos termos do artigo 17.º
-
-8 - Os títulos de formação de médico emitidos em Espanha aos profissionais que tenham iniciado a sua formação universitária de médico entre 1 de janeiro de 1986 e 31 de dezembro de 1997 devem ser reconhecidos quando estejam acompanhados de um certificado emitido pelas autoridades competentes espanholas que ateste que:
-
-a) O profissional em questão concluiu com êxito pelo menos três anos de estudos, reconhecidos pelas autoridades competentes espanholas como sendo equivalentes à formação referida no artigo 31.º;
-
-b) O profissional em questão dedicou-se, em Espanha, de modo efetivo, lícito e a título principal, às atividades referidas no artigo 33.º, durante, pelo menos, três anos consecutivos no decurso dos cinco anos que precederam a emissão do certificado;
-
-c) O profissional em questão está autorizado a exercer, ou exerce já de modo efetivo, lícito e a título principal, as atividades referidas no artigo 33.º, nas mesmas condições que os detentores do título de formação relativo a Espanha constante do ponto 3.2 do anexo ii.

@@ -1,4 +1,4 @@
-## Secção V
+## Secção IV
 
 ## Disposições comuns em matéria de estabelecimento
 
@@ -22,18 +22,18 @@ f) Se o exercício da profissão depender da verificação da capacidade finance
 
 g) No caso do reconhecimento com base na coordenação das condições mínimas de formação, a autoridade competente pode solicitar ao requerente que, além do título de formação, apresente certificado da autoridade competente do Estado membro de origem confirmativo de que o título corresponde ao disposto na secção iii do presente capítulo.
 
-2 - Os documentos referidos nas alíneas d) a f) do número anterior devem, no momento da sua apresentação, ter sido emitidos, no máximo, há três meses.
+2 - Os documentos referidos nas alíneas d) a f) do número anterior devem, no momento da sua apresentação, ter sido emitidos há não mais de 90 dias.
 
-3 - A autoridade competente comunica ao requerente a receção do requerimento e, sendo caso disso, solicita documentos em falta, no prazo de um mês.
+3 - A autoridade competente comunica ao requerente a recepção do requerimento e, sendo caso disso, solicita documentos em falta, no prazo de 30 dias.
 
-4 - O pedido de autorização para o exercício de uma profissão regulamentada deve ser decidido no prazo de três meses, prorrogável por mais um mês nos casos abrangidos pelas secções i e ii do presente capítulo.
+4 - O pedido de autorização para o exercício de uma profissão regulamentada deve ser decidido no prazo de 90 dias, prorrogável por mais 30 dias nos casos abrangidos pelas secções i e ii do presente capítulo.
 
 5 - A decisão ou falta de decisão no prazo previsto é susceptível de recurso judicial de direito interno.
 
 6 - Quando o título corresponda a formação recebida total ou parcialmente em Estado membro diferente daquele em que foi emitido, a autoridade competente pode, em caso de dúvida, verificar junto do organismo competente do Estado membro em que o título foi emitido se este permite exercer, no território deste último, a mesma profissão que o requerente pretende exercer no território nacional.
 
-7 - Em caso de dúvida justificada, a autoridade competente pode, através do IMI:
+7 - (Revogado.)
 
-a) Solicitar à autoridade competente do Estado membro em causa a confirmação da autenticidade de certificado ou título de formação emitido nesse Estado e a confirmação de que o requerente satisfaz, no que respeita a qualquer das profissões contempladas na secção iii do presente capítulo, as condições mínimas de formação estabelecidas, respetivamente, nos artigos 21.º, 22.º, 25.º, 28.º, 31.º, 32.º, 35.º, 37.º, 41.º e 43.º;
+8 - (Revogado.)
 
-b) Solicitar às autoridades competentes de outro Estado membro a confirmação de que o requerente não tem o exercício da profissão proibido, suspenso ou restringido devido a violação grave de deveres profissionais ou condenação por ilícito penal no exercício de qualquer uma das suas atividades profissionais.
+9 - Em caso de dúvida justificada, a autoridade competente pede à autoridade competente do Estado membro em causa a confirmação da autenticidade de certificado ou título de formação emitido nesse Estado e, eventualmente, a confirmação de que o requerente satisfaz, no que respeita a qualquer das profissões contempladas na secção iii do presente capítulo, as condições mínimas de formação estabelecidas, respectivamente, nos artigos 21.º, 22.º, 25.º, 28.º, 31.º, 32.º, 35.º, 37.º, 41.º e 43.º
