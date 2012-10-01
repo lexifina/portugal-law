@@ -1,5 +1,7 @@
 # Artigo 10.º
 
-### Certidão permanente de registo comercial
+### Certidões permanentes
 
-No caso de serem efectuados registos de participações sociais é disponibilizada gratuitamente por um ano uma certidão permanente de registo comercial.
+1 - A certidão do registo predial a entregar no âmbito do procedimento é aquela a que se refere o n.º 6 do artigo 110.º do Código do Registo Predial, podendo o interessado fazer a opção nele prevista.
+
+2 - A certidão de registo comercial a entregar no âmbito do procedimento é aquela a que se refere o n.º 6 do artigo 75.º do Código do Registo Comercial.
