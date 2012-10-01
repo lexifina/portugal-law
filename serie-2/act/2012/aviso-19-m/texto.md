@@ -1,0 +1,4 @@
+Aviso n.º 19/2012/M
+No cumprimento dos termos do disposto no n.º 1 do artigo 104.º do Decreto Legislativo Regional n.º 43/2008/M, de 23 de dezembro, que institui o sistema regional de gestão territorial da Região Autónoma da Madeira, torna-se público que foi publicada no Jornal Oficial da RAM, 1.ª série, n.º 125, de 21 de setembro de 2012, a Resolução n.º 819/2012, aprovada na reunião do Conselho do Governo realizada no dia 13 de setembro, que prorroga por mais um ano o prazo de vigência das medidas preventivas a que ficaram sujeitas as áreas abrangidas pela suspensão parcial do zonamento e do respetivo Regulamento do Plano Diretor Municipal do concelho da Ribeira Brava, determinada pela Resolução n.º 1072/2010, de 17 de setembro.
+24 de setembro de 2012. - O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
+206409671
