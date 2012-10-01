@@ -4,8 +4,8 @@
 
 # Artigo 65.º
 
-1 - Constitui receita líquida de cada conservatória, secretaria ou cartório notarial e arquivo central o total dos emolumentos cobrados em cada mês, incluindo, pelo que respeita às conservatórias e cartórios, a parte que lhes couber na receita do arquivo central, depois de deduzidas as verbas que, nos termos da lei, devam reverter para os funcionários, para a Conservatória dos Registos Centrais ou para outras entidades.
+1 - Sem prejuízo do disposto no Decreto Regulamentar n.º 55/80, de 8 de outubro, e em lei especial, e com exceção da receita cobrada a título de emolumentos pessoais, os emolumentos cobrados em cada mês, por cada conservatória, secretaria ou cartório notarial e arquivo central, incluindo, no que respeita às conservatórias e cartórios, a parte que lhes couber na receita do arquivo central, constituem integralmente receita do Instituto de Gestão Financeira e Patrimonial da Justiça.
 
-2 - Da receita líquida de cada serviço sai a participação emolumentar do conservador ou notário, revertendo o restante, integralmente, para o Cofre dos Conservadores, Notários e Funcionários de Justiça.
+2 - (Revogado).
 
 3 - Os emolumentos arrecadados pelos serviços de registo e do notariado estão unicamente sujeitos aos descontos previstos neste diploma.
