@@ -1,0 +1,7 @@
+Aviso n.º 13083/2012
+José Manuel Velhinho Amarelinho, Presidente da Câmara Municipal de Aljezur, faz saber que, para cumprimento do disposto no artigo 27.º do Decreto-Lei n.º 555/99, de 16 de dezembro, com a redação que lhe foi conferida pelo Decreto-Lei n.º 26/2010, de 30 de março, e em conformidade com a deliberação tomada em reunião camarária realizada no dia 24 de julho de 2012, irá decorrer o período de discussão pública relativa a alteração ao n.º 1 da alínea b) do artigo 5.º do regulamento do loteamento titulado pelo alvará n.º 1/99, emitido em 04 de março de 1999, cujo titular é SAGRIMO - Sociedade Agrícola e Imobiliária, Lda., sito em Cerca do Moinho, Carrapateira, freguesia de Bordeira, concelho de Aljezur.
+O período de discussão pública terá início no 8.º dia a contar da data da publicação do Aviso no Diário da República e decorrerá pelo período de 15 dias.
+Os interessados poderão consultar a proposta de alteração ao regulamento, na Divisão de Gestão Urbanística e de Obras Particulares, nos dias úteis das 9 horas às 15 horas e 30 minutos.
+As observações, reclamações ou sugestões a apresentar, deverão ser dirigidas ao Presidente da Câmara Municipal de Aljezur, formuladas por escrito e apresentadas na Divisão de Gestão Urbanística e de Obras Particulares desta Câmara Municipal.
+25 de setembro de 2012. - O Presidente da Câmara, José Manuel Velhinho Amarelinho.
+306410942
