@@ -16,6 +16,6 @@ d) Ano de exercício a que respeita a prestação de contas.
 
 3 - A BDCA deve estar organizada de forma a permitir o registo e a publicação automáticas da prestação de contas, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-4 - A certidão de registo comercial a enviar ou a entregar ao apresentante do registo da prestação de contas nos termos do n.º 6 do artigo 75.º do Código do Registo Comercial, é a prevista no n.º 5 do mesmo artigo e tem a validade de 16 meses.
+4 - Por cada registo de prestação de contas é disponibilizada uma certidão permanente gratuita, válida pelo período de três meses.
 
 5 - A BDCA é de acesso público, designadamente através da emissão de certidões, nos termos, condições e custo a definir na portaria referida no n.º 3.
