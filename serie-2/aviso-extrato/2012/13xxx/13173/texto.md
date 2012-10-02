@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 13173/2012
+José Maria Rodrigues Figueira, Presidente da Câmara Municipal de Vendas Novas torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/02, de 11 de janeiro, que a Câmara Municipal, na sua reunião realizada dia 22 de agosto de 2012, deliberou, aprovar uma proposta de "Regulamento Municipal de Uso da Marca Bifanas de Vendas Novas - Alentejo", no sentido de submeter a mesma à apreciação pública, para recolha de sugestões, pelo prazo de 30 dias úteis, para cumprimento do disposto no artigo 118 do Código do Procedimento Administrativo.
+O documento acima referenciado, encontra-se exposto para efeitos de recolha de sugestões de todos os interessados na Junta de Freguesia da Landeira e no Centro de Atendimento ao Publico da Câmara Municipal onde poderá ser consultado todos os dias úteis das 9.00 às 12.30 e das 14.00 às 17,30 horas, bem como no sítio do Município de Vendas Novas na Internet (www.cm-vendasnovas.pt).
+As sugestões deverão ser formuladas, por escrito e enviadas à Câmara Municipal, dirigidas ao seu Presidente, até às 17,30 horas do último dia do prazo acima referido.
+Para constar se publica o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+13 de setembro de 2012. - O Presidente da Câmara Municipal, José Maria Rodrigues Figueira.
+306385858
