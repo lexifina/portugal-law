@@ -1,0 +1,145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12285",
+  "numero": "171",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-10-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-10-10",
+            "dataResposta": "2012-11-06",
+            "entidades": [
+              "Ministro da Defesa Nacional"
+            ],
+            "nrOficio": "60/CDN/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-11-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-10-10",
+        "DataArquivo": "2012-12-04",
+        "DataBaixaComissao": "2012-10-10",
+        "DataEnvioPAR": "2012-12-04",
+        "DataReaberta": "2012-10-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-10-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4e44524534765247396a6457316c626e52766331426c64476c6a595738765a6d55345a6a67314e444d744e54466d4d7930304d3249314c546b77595459744d5751784f4445354f546b334e6a51774c6e426b5a673d3d&fich=fe8f8543-51f3-43b5-90a6-1d1819997640.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4e44524534765247396a6457316c626e52766331426c64476c6a595738765932466a5a4456694e6a4974596a677a4d433030597a51774c5467784d324d744e4751334e445a6d5a6a646b596a45304c6e426b5a673d3d&fich=cacd5b62-b830-4c40-813c-4d746ff7db14.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4e44524534765247396a6457316c626e52766331426c64476c6a595738764f5455334f546c6d4d6d59745a6d49784d4330304e3251774c5467784e5759744e6a49345a4755314d54497a4e6a51784c6e426b5a673d3d&fich=95799f2f-fb10-47d0-815f-628de5123641.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-11-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4e44524534765247396a6457316c626e52766331426c64476c6a59573876593249304e7a45795a575174597a51774f4330304e5455344c546b7a5a5463744f54566a4e44466a5932526a4f545a6d4c6c424552673d3d&fich=cb4712ed-c408-4558-93e7-95c41ccdc96f.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3512",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Defesa Nacional",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-10-10",
+            "gp": "CDS-PP",
+            "id": "2867",
+            "motivoCessacao": null,
+            "nome": "João Gonçalves Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-10-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a426d4f444a6c5a546b794c575a6a4d5459744e4455354e7930344f4441334c5449324e4751344d7a64694d6a6b33596935515245593d&fich=0f82ee92-fc16-4597-8807-264d837b297b.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12285",
+    "PetAssunto": "Solicita à Assembleia da República que dê parecer favorável à condecoração a título póstumo do Major de Cavalaria João Luis Laia Nogueira Mendes Paulo.",
+    "PetDataEntrada": "2012-10-02",
+    "PeticoesAssociadas": null,
+    "PetId": "12285",
+    "PetLeg": "XII",
+    "PetNr": "171",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
