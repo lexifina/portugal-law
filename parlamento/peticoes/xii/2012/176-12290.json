@@ -1,0 +1,621 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12290",
+  "numero": "176",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-10-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-11-06",
+            "entidades": null,
+            "id": "93880",
+            "tipo": null,
+            "titulo": "Audição em 2012-11-06 com Corina Vaz Salvador, Maria Teresa Lima de Oliveira Freitas da Fonseca, Silvia Maria Silvestre Duarte"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "387/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "FEPECI - Federação Portuguesa dos Profissionais da Educação, Ensino, Cultura e Investigação"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ordem dos Psicólogos Portugueses"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SNP - Sindicato Nacional dos Psicólogos"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "FERLAP - Federação Regional de Lisboa das Associações de Pais"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": "2012-11-05",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "389/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "609239",
+                "obs": null,
+                "pag": [
+                  "10-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-10",
+                "pubLeg": "XII",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/056/2012-12-10/10?pgs=10-12&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-10-24",
+        "DataArquivo": "2012-12-04",
+        "DataBaixaComissao": "2012-10-09",
+        "DataEnvioPAR": "2012-12-04",
+        "DataReaberta": "2012-10-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a6c4d6d49794d574e684c5749774d4745744e445131596930344f44466c4c5752694e6d56695a44566b4f546b785a4335515245593d&fich=6e2b21ca-b00a-445b-881e-db6ebd5d991d.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e695a4751775a6a45304c5745354d5441744e4467775a533034596d59304c5749304f545535596a6b304e7a4d795a6935515245593d&fich=cbdd0f14-a910-480e-8bf4-b4959b94732f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566d4f4756694d544d324c57466d4f4449744e4449345a5331684e6d466b4c57566b4e6d55314e6a63775a4745354e5335515245593d&fich=5f8eb136-af82-428e-a6ad-ed6e5670da95.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251344d7a55784f5464684c5449325a4463744e47466c595331684e4468694c575a685a6d51314d6a49344f575a6c5a6935515245593d&fich=d835197a-26d7-4aea-a48b-fafd52289fef.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526a4e4759304e6d497a4c5455354e7a6b744e446b7a5a4331694f4442684c5449304f5445324f474d354d546b354e4335775a47593d&fich=dc4f46b3-5979-493d-b80a-249168c91994.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67305a6a4a6d595467774c5749314d6d49744e44417a5a4330344d4745344c5445344d6a49324d6d4e6d5932457a597935515245593d&fich=84f2fa80-b52b-403d-80a8-182262cfca3c.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a6c4f5759784e3249794c5467774f5449744e47526859693034596a55784c57597a5a6a68694d54646c4f54466a4e4335515245593d&fich=be9f17b2-8092-4dab-8b51-f3f8b17e91c4.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b324d324e684d4749334c54526a4e5463744e444e6d4d6931684f4745324c5755305954517a4d6a55345a6a6b315a6935515245593d&fich=963ca0b7-4c57-43f2-a8a6-e4a43258f95f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41784d3249334d5749794c574a6d4d6d55744e444d794e7931684d4755794c544d304e5459345a47466d5a54646a4e6935515245593d&fich=013b71b2-bf2e-4327-a0e2-34568dafe7c6.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e684f5759354d6a45794c574e684e574d744e444d314d5331684d6a63324c544e6d4f5449304d4455334d4442685a6935515245593d&fich=3a9f9212-ca5c-4351-a276-3f92405700af.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6a596d4a68593249334c5463354e7a67744e4759794e7930354e57557a4c545a6c5a6d55314e444e6c4d7a51354d7935515245593d&fich=2cbbacb7-7978-4f27-95e3-6efe543e3493.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d354d32466c595746684c5449794d7a45744e4463775a4331684e4467324c54457a4f4459304e7a426c4e6a4a694f5335775a47593d&fich=c93aeaaa-2231-470d-a486-1386470e62b9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45314e324e6959324e684c5467324e6d4d744e444d78595330355a444a6c4c5745354f4464694d6a6c695a5445354f5335515245593d&fich=157cbcca-866c-431a-9d2e-a987b29be199.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a68684e7a41794e575a6d4c54517a597a4d744e474d785a5330344d7a67794c5751794d4449354e5445354d446b30596935515245593d&fich=8a7025ff-43c3-4c1e-8382-d2029519094b.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2012-12-04",
+            "dataNomeacao": "2012-10-24",
+            "gp": "CDS-PP",
+            "id": "4157",
+            "motivoCessacao": null,
+            "nome": "Michael Seufert"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-03-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-10-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a49354f44466a5a474e6c4c546c6b4d5467744e4449354f433169597a56694c5445354e6a41774f54426c4d474a6a4d4335515245593d&fich=2981cdce-9d18-4298-bc5b-1960090e0bc0.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37597"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:57:15:155&drc=00:01:36:564"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um regime de habilitação própria para docência da psicologia por psicólogos; Pretendem que a disciplina de psicologia seja lecionada por psicólogos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=01:58:56:867&drc=00:03:01:144"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um regime de habilitação própria para docência da psicologia por psicólogos; Pretendem que a disciplina de psicologia seja lecionada por psicólogos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:02:04:190&drc=00:03:02:625"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um regime de habilitação própria para docência da psicologia por psicólogos; Pretendem que a disciplina de psicologia seja lecionada por psicólogos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:05:11:690&drc=00:03:50:310"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um regime de habilitação própria para docência da psicologia por psicólogos; Pretendem que a disciplina de psicologia seja lecionada por psicólogos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:09:09:483&drc=00:03:27:704"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a criação de um regime de habilitação própria para docência da psicologia por psicólogos; Pretendem que a disciplina de psicologia seja lecionada por psicólogos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12290",
+    "PetAssunto": "Pretendem que a disciplina de psicologia seja lecionada por psicólogos.",
+    "PetDataEntrada": "2012-10-03",
+    "PeticoesAssociadas": null,
+    "PetId": "12290",
+    "PetLeg": "XII",
+    "PetNr": "176",
+    "PetNrAssinaturas": "4184",
+    "PetNrAssinaturasInicial": "4184",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "421",
+        "obs": null,
+        "pag": [
+          "29-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-28",
+        "pubLeg": "XII",
+        "pubNr": "71",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/29?pgs=29-33&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "609269",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-03",
+        "pubLeg": "XII",
+        "pubNr": "28",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/028/2012-11-03/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
