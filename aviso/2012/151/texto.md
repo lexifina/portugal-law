@@ -1,0 +1,5 @@
+Aviso n.º 151/2012
+Por ordem superior se torna público que, em 4 de janeiro de 2012, a República Democrática e Popular da Argélia invocou, nos termos do artigo i do anexo da Convenção, junto do diretor-geral da Organização Mundial de Propriedade Intelectual, na qualidade de depositário, o benefício previsto pelo artigo ii da Convenção de Berna para a Proteção das Obras Literárias e Artísticas, adotada em 9 de Setembro de 1886, revista em Paris a 24 de Julho de 1971 e modificada em 28 de Setembro de 1979.
+A declaração da República Argelina Democrática e Popular será válida a seu respeito entre 4 de abril de 2012 e 10 de Outubro de 2014.
+Portugal é Parte da Convenção, aprovada para adesão pelo Decreto n.º 73/78, publicado no Diário da República, 1.ª série, n.º 170, de 26 de Julho de 1978, tendo Portugal depositado o seu instrumento de ratificação, conforme Aviso publicado no Diário da República, 1.ª série, n.º 1, de 26 de Janeiro de 1979.
+Direção-Geral de Política Externa, 18 de setembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
