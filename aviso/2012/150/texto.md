@@ -1,0 +1,5 @@
+Aviso n.º 150/2012
+Por ordem superior se torna público que, em 21 de novembro de 2011, a República Democrática e Popular da Argélia depositou, nos termos do artigo v do Protocolo, junto do Secretário-Geral da Organização Marítima Internacional, na qualidade de depositário, o seu instrumento de acessão ao Protocolo de 1973 Relativo à Intervenção em Alto Mar em Casos de Poluição por Substâncias Diferentes dos Hidrocarbonetos, adotado em Londres em 2 de novembro de 1973.
+De acordo com o seu artigo vi, o Protocolo entrou em vigor na Argélia a 19 de fevereiro de 2012.
+Portugal é Parte do Protocolo, aprovado pelo Decreto do Governo n.º 17/87, publicado no Diário da República, 1.ª série, n.º 93, de 22 de abril de 1987, tendo Portugal depositado o seu instrumento de ratificação a 8 de julho de 1987, conforme o Aviso n.º 119/98, publicado no Diário da República, 1.ª série-A, n.º 136, de 16 de Junho de 1998.
+Direção-Geral de Política Externa, 18 de setembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
