@@ -1,0 +1,6 @@
+Aviso n.º 13230/2012
+Victor Manuel Alves Mendes, presidente da Câmara Municipal de Ponte de Lima, torna público, nos termos e para os efeitos previstos no artigo 118.º do Código do Procedimento Administrativo, que a Câmara Municipal, em reunião ordinária de 3 de setembro de 2012, deliberou dar início ao período de discussão pública do Projeto de Regulamento Municipal - Centro COM VIDA, Incentivo ao arrendamento no centro histórico de Ponte de Lima, pelo período de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República.
+O documento encontra-se disponível para consulta no Gabinete de Atendimento ao Munícipe do Município de Ponte de Lima, de segunda a sexta-feira das 09:00 h às 12:00 h, das 14:00h às 16:00h, sito no Edifício dos Paços do Concelho de Ponte de Lima, e no site da Internet, desta Câmara Municipal, endereço www.cm-pontedelima.pt.
+Durante esse período, qualquer interessado poderá formular as reclamações, observações ou sugestões que entenda por convenientes, as quais deverão ser apresentadas por escrito, dirigidas ao presidente da Câmara.
+20 de setembro de 2012. - O Presidente da Câmara Municipal de Ponte de Lima, Eng.º Victor Mendes.
+306411217
