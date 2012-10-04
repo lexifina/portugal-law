@@ -1,0 +1,484 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12287",
+  "numero": "173",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-10-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-04-11",
+            "entidades": null,
+            "id": "94986",
+            "tipo": null,
+            "titulo": "Audição em 2013-04-11 com Associação Animal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-05-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-11-28",
+        "DataArquivo": "2013-05-08",
+        "DataBaixaComissao": "2012-10-04",
+        "DataEnvioPAR": "2013-05-08",
+        "DataReaberta": "2012-11-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-11-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e6d49335a5751794d5459744e6d4578596930304e7a5a694c5749794d7a6b744f5455335a6a4e694d544d33595749304c6e426b5a673d3d&fich=6b7ed216-6a1b-476b-b239-957f3b137ab4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-05-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d574d7a4d4759304d5441744d6a426b4f4330304d54466d4c546c6a4d5745744f57566c4d6d5179596d45345a6a63774c6e426b5a673d3d&fich=1c30f410-20d8-411f-9c1a-9ee2d2ba8f70.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3510",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-11-28",
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-12-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-10-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a55794e325a6c4d4445314c5467784e5755744e4449325a5330355954466a4c5451354e6d566c5a4755795a5755334e7935515245593d&fich=527fe015-815e-426e-9a1c-496eede2ee77.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38076",
+      "38087",
+      "38076",
+      "38087",
+      "38076",
+      "38087"
+    ],
+    "Iniciativasoriginadas": [
+      "38076",
+      "38087"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:19:35:459&drc=00:03:01:540"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:43:39:550&drc=00:00:36:069"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14",
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/8?pgs=8-9,14&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o regime sancionatório aplicável aos maus-tratos contra animais e alarga os direitos das associações zoófilas, procedendo à 2.ª Alteração à Lei n.º 92/95, de 12 de setembro; Altera o Código Penal, criminalizando os maus tratos a animais de companhia; Solicitam a aprovação de uma nova lei de proteção dos animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:23:07:438&drc=00:04:22:048"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o regime sancionatório aplicável aos maus-tratos contra animais e alarga os direitos das associações zoófilas, procedendo à 2.ª Alteração à Lei n.º 92/95, de 12 de setembro; Altera o Código Penal, criminalizando os maus tratos a animais de companhia; Solicitam a aprovação de uma nova lei de proteção dos animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:28:02:997&drc=00:03:57:828"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/10?pgs=10-11&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o regime sancionatório aplicável aos maus-tratos contra animais e alarga os direitos das associações zoófilas, procedendo à 2.ª Alteração à Lei n.º 92/95, de 12 de setembro; Altera o Código Penal, criminalizando os maus tratos a animais de companhia; Solicitam a aprovação de uma nova lei de proteção dos animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:32:12:888&drc=00:04:06:112"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o regime sancionatório aplicável aos maus-tratos contra animais e alarga os direitos das associações zoófilas, procedendo à 2.ª Alteração à Lei n.º 92/95, de 12 de setembro; Altera o Código Penal, criminalizando os maus tratos a animais de companhia; Solicitam a aprovação de uma nova lei de proteção dos animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:36:23:973&drc=00:03:15:867"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o regime sancionatório aplicável aos maus-tratos contra animais e alarga os direitos das associações zoófilas, procedendo à 2.ª Alteração à Lei n.º 92/95, de 12 de setembro; Altera o Código Penal, criminalizando os maus tratos a animais de companhia; Solicitam a aprovação de uma nova lei de proteção dos animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:39:50:262&drc=00:03:48:801"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "Sumario": "Aprova o regime sancionatório aplicável aos maus-tratos contra animais e alarga os direitos das associações zoófilas, procedendo à 2.ª Alteração à Lei n.º 92/95, de 12 de setembro; Altera o Código Penal, criminalizando os maus tratos a animais de companhia; Solicitam a aprovação de uma nova lei de proteção dos animais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12287",
+    "PetAssunto": "Solicitam a aprovação de uma nova lei de proteção dos animais.",
+    "PetDataEntrada": "2012-10-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12287",
+    "PetLeg": "XII",
+    "PetNr": "173",
+    "PetNrAssinaturas": "41511",
+    "PetNrAssinaturasInicial": "41511",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1827",
+        "obs": null,
+        "pag": [
+          "8-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-07",
+        "pubLeg": "XII",
+        "pubNr": "25",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/8?pgs=8-14&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "635131",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-12-01",
+        "pubLeg": "XII",
+        "pubNr": "50",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/050/2012-12-01/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
