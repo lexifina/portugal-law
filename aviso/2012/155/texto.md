@@ -1,0 +1,5 @@
+Aviso n.º 155/2012
+Por ordem superior se torna público que, em 2 de agosto de 2012, a Bósnia e Herzegovina depositou, nos termos do artigo 39.º da Convenção, junto do Diretor-Geral da Agência Internacional de Energia Atómica, na qualidade de depositário, o seu instrumento de adesão à Convenção Conjunta sobre a Segurança da Gestão de Combustível Usado e a Segurança da Gestão dos Resíduos Radioativos, adotada em Viena, Áustria, em 5 de setembro de 1997.
+A Convenção entrará em vigor na Bósnia e Herzegovina, de acordo com o n.º 2 do artigo 40.º da Convenção, em 31 de outubro de 2012.
+Portugal é Parte da Convenção, aprovada, para adesão, pelo Decreto n.º 12/2009, publicado no Diário da República, 1.ª série, n.º 77, de 21 de abril de 2009, tendo Portugal depositado o seu instrumento de ratificação em 15 de maio de 2009, conforme o Aviso n.º 94/2009, publicado no Diário da República, 1.ª série, n.º 200, de 15 de outubro de 2009.
+Direção-Geral de Política Externa, 18 de setembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
