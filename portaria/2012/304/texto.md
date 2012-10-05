@@ -1,0 +1,94 @@
+Portaria n.º 304/2012
+de 4 de outubro
+O Decreto-Lei n.º 68/2012, de 20 de março, definiu a missão e as atribuições do Instituto Português do Mar e da Atmosfera, I. P.
+Importa, agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.
+Assim:
+Ao abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o seguinte:
+Artigo 1.º
+Objeto
+São aprovados, em anexo à presente portaria e da qual fazem parte integrante, os estatutos do Instituto Português do Mar e da Atmosfera, I. P., abreviadamente designado por IPMA, I. P.
+Artigo 2.º
+Norma revogatória
+É revogada a Portaria n.º 555/2007, de 30 de abril.
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 21 de setembro de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 19 de setembro de 2012.
+ANEXO
+ESTATUTOS DO INSTITUTO PORTUGUÊS DO MAR E DA ATMOSFERA, I. P.
+Artigo 1.º
+Estrutura
+1 - A organização interna dos serviços do IPMA, I. P., é constituída pelas seguintes unidades orgânicas de primeiro nível, que se subordinam hierárquica e funcionalmente ao conselho diretivo:
+a) Departamento do Mar e Recursos Marinhos;
+b) Departamento de Meteorologia e Geofísica;
+c) Departamento de Operações, Infraestruturas e Desenvolvimento Tecnológico.
+2 - Por deliberação do conselho diretivo, a publicar no Diário da República, podem ser criadas unidades orgânicas de segundo nível, integradas ou não em unidades orgânicas de primeiro nível, sendo as respetivas competências definidas naquela deliberação.
+3 - Sem prejuízo do disposto no número anterior, são desde já criadas a Divisão de Recursos Humanos e a Divisão Financeira, que se subordinam hierárquica e funcionalmente ao conselho diretivo.
+4 - O número de unidades orgânicas de segundo nível não pode exceder, em cada momento, o limite máximo de 13, incluindo as referidas no número anterior.
+5 - O IPMA, I. P., dispõe de três serviços territorialmente desconcentrados, designados por delegações.
+6 - São delegações do IPMA, I. P., a Delegação Regional dos Açores e a Delegação Regional da Madeira.
+7 - A terceira delegação do IPMA, I. P., é criada por deliberação do conselho diretivo, a publicar no Diário da República, nela se fixando as respetivas competências.
+Artigo 2.º
+Cargos dirigentes intermédios
+1 - As unidades orgânicas de primeiro nível são dirigidas por diretores de serviço, cargos de direção intermédia de 1.º grau.
+2 - As unidades orgânicas de segundo nível são dirigidas por chefes de divisão, cargos de direção intermédia de 2.º grau.
+3 - As Delegações Regionais dos Açores e da Madeira são dirigidas por delegados regionais, cargos de direção intermédia de 1.º grau.
+Artigo 3.º
+Coordenador
+A delegação prevista no n.º 7 do artigo 1.º é dirigida por um coordenador, designado por deliberação do conselho diretivo, não implicando a criação de cargo dirigente, nem dando origem à atribuição de qualquer adicional à remuneração.
+Artigo 4.º
+Departamento do Mar e Recursos Marinhos
+Compete ao Departamento do Mar e Recursos Marinhos, abreviadamente designado por DMRM:
+a) Promover e realizar iniciativas de investigação e desenvolvimento nas áreas do Mar e dos recursos marinhos vivos e não vivos;
+b) Assegurar a vigilância ambiental marinha;
+c) Assegurar a produção, recolha, qualidade e disponibilidade da informação científica e técnica necessária à definição das políticas nacionais relacionadas com o Mar;
+d) Aprofundar o conhecimento no domínio da oceanografia, da biodiversidade, do funcionamento e dinâmica dos ecossistemas marinhos;
+e) Aprofundar o conhecimento da geologia do território imerso nacional e das implicações em termos de avaliação de riscos e recursos;
+f) Aprofundar o conhecimento para a exploração dos recursos genéticos, da pesca, minerais e energéticos, de forma a contribuir para o estabelecimento de modelos de gestão integrada compatíveis com o uso sustentado do oceano;
+g) Realizar estudos sobre o cultivo de organismos marinhos, com vista à otimização da sua produção, e desenvolver ações de assistência técnica aos aquacultores;
+h) Desenvolver estudos com a finalidade de promover a valorização de espécies comerciais e a inovação e avanço tecnológico no domínio da conservação e processamento do pescado;
+i) Estudar os impactos das mudanças climáticas nos ecossistemas oceânicos e litorais, e propor medidas adaptativas.
+Artigo 5.º
+Departamento de Meteorologia e Geofísica
+Compete ao Departamento de Meteorologia e Geofísica, abreviadamente designado por DMG:
+a) Promover e realizar iniciativas de investigação e desenvolvimento nas áreas da Meteorologia e Geofísica, exercendo as funções de serviço meteorológico nacional;
+b) Assegurar a vigilância meteorológica, climática, sísmica e geomagnética;
+c) Assegurar a produção, recolha, qualidade e disponibilidade da informação científica e técnica necessária à definição das políticas nacionais relacionadas com os riscos naturais, o ambiente e o território imerso e emerso;
+d) Promover a monitorização espacial e as suas aplicações à vigilância meteorológica, ao estudo dos processos atmosféricos e marinhos e da interface oceano-atmosfera;
+e) Elaborar e difundir previsões do estado do tempo e, em particular, assistir a navegação aérea e marítima com a informação necessária à sua segurança e operações;
+f) Emitir avisos de mau tempo e alertas meteorológicos;
+g) Emitir avisos de fenómenos geofísicos;
+h) Estudar o clima e as alterações climáticas em todas as escalas temporais e contribuir para a caracterização de cenários climáticos futuros.
+Artigo 6.º
+Departamento de Operações, Infraestruturas e Desenvolvimento Tecnológico
+Compete ao Departamento de Operações, Infraestruturas e Desenvolvimento Tecnológico, abreviadamente designado por DOIDT:
+a) Garantir as condições para a otimização da atividade nuclear do IPMA, I. P., designadamente assegurando a manutenção do respetivo património mobiliário, imobiliário e naval;
+b) Apoiar os fluxos de informação do IPMA, I. P., nomeadamente no que respeita à identificação de oportunidades de financiamento e à elaboração dos processos de candidatura;
+c) Promover o desenvolvimento de equipamentos, sensores e redes de comunicação em ambientes terrestres e marinhos, necessários para suportar as atividades do IPMA, I. P.;
+d) Planear e desenvolver as ações necessárias à realização de missões e campanhas, bem como assegurar a disponibilização dos meios por elas requeridos;
+e) Assegurar e sustentar as infraestruturas físicas e virtuais para a gestão, salvaguarda e disponibilização de informação;
+f) Preparar os processos de obtenção, armazenamento e distribuição de material;
+g) Preparar as peças processuais necessárias à contratação de bens e serviços;
+h) Promover serviços externos, contratos e parcerias e controlar a sua pontual execução, em colaboração com os outros departamentos do IPMA, I. P.;
+i) Apoiar, iniciativas empreendedoras no domínio das atribuições do IPMA, I. P.
+Artigo 7.º
+Divisão de Recursos Humanos
+Compete à Divisão de Recursos Humanos, abreviadamente designada por DRH, assegurar as ações relativas aos recursos humanos do IPMA, I. P.:
+a) Assegurando os procedimentos relativos à gestão e administração de pessoal do IPMA, I. P.;
+b) Exercendo as competências previstas na alínea anterior, quando aplicável, relativamente a bolseiros.
+Artigo 8.º
+Divisão Financeira
+Compete à Divisão Financeira, abreviadamente designada por DF, assegurar todas as ações de natureza orçamental, financeira, contabilística e patrimonial do IPMA, I. P.:
+a) Assegurando a gestão e controlo orçamental, financeiro e contabilístico;
+b) Elaborando a proposta de orçamento;
+c) Gerindo o património mobiliário, imobiliário e naval;
+d) Assegurando a gestão e controlo financeiro dos projetos de investigação e desenvolvimento, em apoio aos coordenadores científicos de projeto;
+e) Assegurando as atividades de faturação;
+f) Procedendo ao pagamento de despesas, recebimento de receitas, requisições de fundos e efetuar, em geral, a todas as ações de tesouraria;
+g) Assegurando o cumprimento das obrigações fiscais do IPMA, I. P.;
+h) Organizando e manter atualizados o cadastro e os inventários;
+i) Procedendo ao abate e alienação de bens.
+Artigo 9.º
+Delegações Regionais
+1 - As Delegações Regionais, desenvolvem, na respetiva região, atividades técnicas e científicas, nos domínios de competência do IPMA, I. P., em particular nos domínios da meteorologia, da climatologia e da geofísica, sob a orientação técnica e científica das unidades orgânicas centrais correspondentes do IPMA, I. P.
+2 - Às Direções Regionais compete desenvolver nas respetivas regiões as atividades que se enquadram no âmbito do IPMA, I. P., promovendo o desenvolvimento das metodologias de observação, modelação e investigação às condições específicas da Região, bem como a boa cooperação com os organismos competentes do Governo Regional, em particular os que intervêm nas áreas de proteção civil e da aeronáutica.
