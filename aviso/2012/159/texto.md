@@ -1,0 +1,7 @@
+Aviso n.º 159/2012
+Por ordem superior se torna público que, em 11 de janeiro de 2012, a República Portuguesa recebeu, nos termos da alínea d) do artigo 2.º da Convenção, do Governo da Confederação Helvética, na qualidade de depositário da Convenção Relativa à Constituição da EUROFIMA, Sociedade Europeia para o Financiamento de Material Ferroviário, adotada em Berna em 20 de outubro de 1955, notificação de modificação dos Estatutos nos seguintes termos:
+a) Em 16 de dezembro de 2011, em Zurique, na Confederação Helvética, a assembleia geral extraordinária da EUROFIMA decidiu modificar o parágrafo 2.º do artigo 18.º dos estatutos. Este parágrafo 2.º passou a ter a seguinte redação:
+«Os administradores são designados, independentemente da sua nacionalidade, pela assembleia geral, mediante proposta de cada um dos acionistas, sendo designado um administrador por cada acionista titular de, pelo menos, 2 % do capital registado.»
+Portugal é Parte da Convenção, aprovada, para ratificação, pelo Decreto-Lei n.º 40 629 publicado em Diário do Governo, 1.ª série, n.º 112, de 2 de junho de 1956, tendo Portugal depositado o seu instrumento de ratificação em 25 de julho de 1955, conforme Aviso publicado no Diário do Governo, n.º 218, 1.ª série, de 10 de outubro de 1956.
+Portugal é Parte das Emendas, por força das alíneas b) e d) do artigo 2.º da Convenção.
+Direção-Geral de Política Externa, 18 de setembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
