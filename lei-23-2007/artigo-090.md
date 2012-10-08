@@ -1,17 +1,15 @@
 # Artigo 90.º
 
-### Autorização de residência para atividade de docência, altamente qualificada ou cultural
+### Autorização de residência para actividade de investigação ou altamente qualificada
 
-1 - É concedida autorização de residência a nacionais de Estados terceiros para efeitos de exercício de uma atividade docente em instituição de ensino superior ou estabelecimento de ensino ou de formação profissional, de atividade altamente qualificada ou de atividade cultural que, para além das condições estabelecidas no artigo 77.º, preencham ainda as seguintes condições:
+1 - É concedida autorização de residência a nacionais de Estados terceiros para efeitos de exercício de uma atividade de investigação, uma atividade docente num estabelecimento de ensino superior ou altamente qualificada que, para além das condições estabelecidas no artigo 77.º, preencham um dos seguintes requisitos:
 
-a) Disponham de contrato de trabalho ou de prestação de serviços compatível com a atividade docente ou altamente qualificada;
+a) Sejam admitidos a colaborar num centro de investigação oficialmente reconhecido, nomeadamente através de um contrato de trabalho, de um contrato de prestação de serviços ou de uma bolsa de investigação científica; ou
 
-b) Carta convite emitida por instituição de ensino ou de formação profissional;
+b) Disponham de contrato de trabalho ou de prestação de serviços compatível com o exercício de uma atividade docente num estabelecimento de ensino superior, ou de contrato de prestação de serviços compatível com uma atividade altamente qualificada;
 
-c) Apresentem termo de responsabilidade de empresa certificada nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas das migrações, da economia e da modernização administrativa; ou
+c) Estejam inscritos na segurança social.
 
-d) Estejam a colaborar em atividade cultural exercida em território nacional no âmbito de um projeto reconhecido pelo membro do Governo responsável pela área da cultura como de interesse para o País.
+2 - O requerente pode ser dispensado do requisito a que se refere a alínea a) do n.º 1 do artigo 77.º sempre que tenha entrado e permanecido legalmente em território nacional.
 
-2 - O requerente é dispensado de visto de residência sempre que tenha entrado e permanecido legalmente em território nacional.
-
-3 - (Revogado.)
+3 - O titular de uma autorização de residência concedida ao abrigo da alínea a) do n.º 1 pode exercer uma actividade docente, nos termos da lei.

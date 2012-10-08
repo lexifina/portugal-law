@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo de aplicação de disposições especiais e de outros direitos previstos na lei ou em convenção internacional de que Portugal seja Parte, o titular de autorização de residência tem direito, sem necessidade de autorização especial relativa à sua condição de estrangeiro, designadamente:
 
-a) À educação, ensino e formação profissional, incluindo subsídios e bolsas de estudo em conformidade com a legislação aplicável;
+a) À educação e ensino;
 
 b) Ao exercício de uma actividade profissional subordinada;
 

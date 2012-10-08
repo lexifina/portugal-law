@@ -10,4 +10,4 @@ a) Dos membros do agregado familiar do cidadão estrangeiro objeto da decisão d
 
 b) Dos cidadãos estrangeiros em situação de carência de meios de subsistência, desde que não seja possível obter o necessário apoio das representações diplomáticas dos seus países.
 
-3 - Para satisfação dos encargos resultantes da aplicação desta lei é inscrita a necessária dotação nos orçamentos privativos da GNR, da PSP e da AIMA, I. P.
+3 - Para satisfação dos encargos resultantes da aplicação desta lei é inscrita no orçamento do SEF a necessária dotação.

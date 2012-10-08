@@ -2,7 +2,7 @@
 
 ### Isenção ou redução de taxas
 
-1 - Sem prejuízo do disposto no artigo anterior, o comandante-geral da GNR, o diretor nacional da PSP e o conselho diretivo da AIMA, I. P., no âmbito das suas atribuições, podem, excecionalmente, conceder a isenção ou redução do montante das taxas devidas pelos procedimentos previstos na presente lei.
+1 - Sem prejuízo do disposto no artigo anterior, o director-geral do SEF pode, excepcionalmente, conceder a isenção ou redução do montante das taxas devidas pelos procedimentos previstos na presente lei.
 
 2 - Estão isentos de taxa:
 

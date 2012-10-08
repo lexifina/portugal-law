@@ -8,4 +8,4 @@ a) Por razões de ordem pública ou de segurança pública, devendo ser tomada e
 
 b) Quando deixarem de estar preenchidas as condições previstas nos artigos 116.º e 118.º
 
-2 - O cancelamento ou a não renovação de autorização de residência do residente de longa duração bem como a dos membros da sua família é comunicado pela AIMA, I. P., às autoridades competentes do Estado membro que concedeu o estatuto de residente de longa duração.
+2 - O cancelamento ou a não renovação de autorização de residência do residente de longa duração bem como a dos membros da sua família é comunicação pelo SEF às autoridades competentes do Estado membro que concedeu o estatuto de residente de longa duração.

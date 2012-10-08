@@ -2,10 +2,6 @@
 
 ### Autorização de residência temporária
 
-1 - Sem prejuízo das disposições legais especiais aplicáveis, a autorização de residência temporária é válida pelo período de dois anos contados a partir da data da emissão do respetivo título e é renovável por períodos sucessivos de três anos.
+1 - Sem prejuízo das disposições legais especiais aplicáveis, a autorização de residência temporária é válida pelo período de um ano contado a partir da data da emissão do respectivo título e é renovável por períodos sucessivos de dois anos.
 
-2 - Se o requerente estiver abrangido pelo Acordo CPLP e for titular de um visto de residência pode solicitar uma autorização de residência temporária.
-
-3 - Nos casos previstos no número anterior, para efeitos de emissão da autorização de residência temporária, os serviços competentes consultam oficiosamente o registo criminal português do requerente.
-
-4 - O título de residência deve, porém, ser renovado sempre que se verifique a alteração dos elementos de identificação nele registados.
+2 - O título de residência deve, porém, ser renovado sempre que se verifique a alteração dos elementos de identificação nele registados.

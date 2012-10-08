@@ -20,4 +20,4 @@ e) A presença do nacional de um Estado terceiro em território nacional constit
 
 4 - As autorizações de trânsito aeroportuário já concedidas podem ser revogadas se posteriormente se tornarem conhecidos factos que, nos termos do n.º 2, justifiquem a recusa de trânsito.
 
-5 - A PSP comunica às autoridades competentes do Estado membro requerente, sem demora, a recusa ou revogação da autorização de trânsito aeroportuário, nos termos do n.º 2 ou do número anterior, ou a impossibilidade da sua realização por qualquer outro motivo, fundamentando a decisão.
+5 - O SEF comunica às autoridades competentes do Estado membro requerente, sem demora, a recusa ou revogação da autorização de trânsito aeroportuário, nos termos do n.º 2 ou do número anterior, ou a impossibilidade da sua realização por qualquer outro motivo, fundamentando a decisão.

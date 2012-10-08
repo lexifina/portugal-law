@@ -21,5 +21,3 @@ c) Visto de curta duração;
 d) Visto de estada temporária;
 
 e) Visto para obtenção de autorização de residência, adiante designado visto de residência.
-
-f) Visto para procura de trabalho qualificado.

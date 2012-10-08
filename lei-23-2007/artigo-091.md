@@ -1,31 +1,21 @@
 ## Subsecção III
 
-## Autorização de residência para investigação, estudo, estágio profissional ou voluntariado
+## Autorização de residência para estudo, estágio profissional não remunerado ou voluntariado
 
 # Artigo 91.º
 
-### Autorização de residência para estudantes do ensino superior
+### Autorização de residência emitida a estudantes do ensino superior
 
-1 - Ao estudante do ensino superior titular de visto de residência emitido em conformidade com o disposto no artigo 62.º e que preencha as condições gerais do artigo 77.º é concedida autorização de residência, desde que apresente comprovativo:
+1 - É concedida uma autorização de residência ao estudante do ensino superior titular de um visto de residência emitido ao abrigo do disposto nos n.os 2 e 4 do artigo 62.º, desde que o requerente:
 
-a) Da matrícula em instituição de ensino superior;
+a) Apresente prova de matrícula e do pagamento das propinas exigidas pelo estabelecimento;
 
-b) Do pagamento de propinas, se aplicável;
+b) Disponha de meios de subsistência, tal como definidos pela portaria a que se refere a alínea d) do n.º 1 do artigo 52.º;
 
-c) De meios de subsistência, tal como definidos na portaria a que se refere a alínea d) do n.º 1 do artigo 52.º;
+c) Esteja abrangido pelo Serviço Nacional de Saúde ou disponha de seguro de saúde.
 
-d) Em como está abrangido pelo Serviço Nacional de Saúde ou dispõe de seguro de saúde.
+2 - A autorização de residência é válida por um período de um ano e é renovável, por iguais períodos, se o seu titular continuar a preencher as condições estabelecidas no número anterior.
 
-2 - A autorização de residência concedida ao abrigo do presente artigo a estudantes do ensino superior é válida por três anos, renovável por iguais períodos e, nos casos em que a duração do programa de estudos seja inferior a três anos, é emitida pelo prazo da sua duração.
+3 - Excepcionalmente, pode ser concedida uma autorização de residência para efeitos de estudo em estabelecimento de ensino superior com dispensa do requisito previsto na alínea a) do n.º 1 do artigo 77.º, sempre que o nacional de Estado terceiro tenha entrado e permaneça legalmente em Portugal e preencha as condições estabelecidas no n.º 1.
 
-3 - A autorização de residência concedida a estudantes do ensino superior abrangidos por programas da União Europeia ou multilaterais que incluam medidas de mobilidade, ou por um acordo entre duas ou mais instituições do ensino superior, é de dois anos ou tem a duração do programa de estudos se for inferior, podendo ser de um ano no caso de não se encontrarem reunidas à data da concessão as condições do n.º 4 do artigo 62.º
-
-4 - [Revogado.]
-
-5 - O estudante do ensino superior admitido em instituição do ensino superior aprovada para efeitos de aplicação da presente lei nos termos de portaria dos membros do Governo responsáveis pelas áreas das migrações, do ensino superior e da modernização administrativa está dispensado da apresentação de documentos comprovativos do pagamento de propinas e de meios de subsistência.
-
-6 - Para efeitos do disposto no número anterior, a aprovação da instituição de ensino superior é decidida mediante apresentação de requerimento e precedida de parecer favorável da AIMA, I. P., sendo válida por cinco anos.
-
-7 - A aprovação deve ser cancelada ou não renovada sempre que a instituição de ensino superior deixe de exercer atividade em território nacional, tenha obtido a aprovação de forma fraudulenta ou admita estudantes do ensino superior de forma fraudulenta ou negligente.
-
-8 - O membro do Governo responsável pela área da ciência e ensino superior mantém junto da AIMA, I. P., uma lista atualizada das instituições de ensino superior aprovadas para efeitos do disposto na presente lei.
+4 - Se a duração do programa de estudos for inferior a um ano, a autorização de residência tem a duração necessária para cobrir o período de estudos.

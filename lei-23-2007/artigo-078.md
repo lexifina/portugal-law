@@ -20,8 +20,8 @@ d) Não tenham sido condenados em pena ou penas que, isolada ou cumulativamente,
 
 5 - Não é renovada a autorização de residência a qualquer cidadão estrangeiro declarado contumaz, enquanto o mesmo não fizer prova de que tal declaração caducou.
 
-6 - [Revogado.]
+6 - No caso de indeferimento do pedido deve ser enviada cópia da decisão, com os respectivos fundamentos, ao ACIDI, I. P., e ao Conselho Consultivo.
 
 7 - O recibo do pedido de renovação de autorização de residência produz os mesmos efeitos do título de residência durante um prazo de 60 dias, renovável.
 
-8 - A AIMA, IP, pode celebrar protocolos com as autarquias locais, bem como com os órgãos e serviços das regiões autónomas e outros órgãos da Administração Pública, com vista a facilitar e simplificar os procedimentos de receção e encaminhamento de pedidos de renovação de autorização de residência e respetivos títulos.
+8 - O SEF pode celebrar protocolos com as autarquias locais, bem como com os órgãos e serviços das Regiões Autónomas, com vista a facilitar e simplificar os procedimentos de recepção e encaminhamento de pedidos de renovação de autorização de residência e respectivos títulos.

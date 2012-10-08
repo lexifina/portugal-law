@@ -1,6 +1,6 @@
 # Artigo 89.º
 
-### Autorização de residência para exercício de atividade profissional independente ou para imigrantes empreendedores
+### Autorização de residência para exercício de actividade profissional independente
 
 1 - Para além dos requisitos gerais estabelecidos no artigo 77.º, só é concedida autorização de residência para exercício de actividade profissional independente a nacionais de Estados terceiros que preencham os seguintes requisitos:
 
@@ -14,12 +14,6 @@ d) Estejam inscritos na segurança social;
 
 e) Quando exigível, apresentem declaração da ordem profissional respectiva de que preenchem os respectivos requisitos de inscrição.
 
-2 - (Revogado.)
+2 - Excepcionalmente, mediante proposta do director-geral do SEF ou por iniciativa do Ministro da Administração Interna, pode ser dispensado o requisito previsto na alínea a) do n.º 1 do artigo 77.º, desde que se verifique a entrada e a permanência legais em território nacional.
 
 3 - O titular de uma autorização de residência para exercício de uma actividade profissional independente pode exercer uma actividade profissional subordinada, sendo aplicável, com as necessárias adaptações, o disposto no artigo anterior, mediante substituição do título de residência.
-
-4 - É concedida autorização de residência ao nacional de Estado terceiro que desenvolva projeto empreendedor, incluindo a criação de empresa de base inovadora, integrado em incubadora certificada nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas das migrações, administração interna e da economia, desde que preencha os requisitos gerais do artigo 77.º, com dispensa do estabelecido na alínea a) do seu n.º 1.
-
-5 - (Revogado.)
-
-6 - O titular de autorização de residência para exercício de atividade profissional independente pode alterar a natureza da atividade mediante comunicação à AIMA, IP, sem necessidade de emissão de novo título.

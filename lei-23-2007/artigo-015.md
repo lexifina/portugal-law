@@ -8,6 +8,6 @@
 
 3 - Não é obrigatório o preenchimento e a assinatura pessoal dos boletins por ambos os cônjuges e menores que os acompanhem, bem como por todos os membros de um grupo de viagem, podendo esta obrigação ser cumprida por um dos cônjuges ou por um membro do referido grupo.
 
-4 - Com vista a simplificar o envio dos boletins de alojamento, os estabelecimentos hoteleiros e similares devem proceder ao seu registo junto da Unidade de Coordenação de Fronteiras e Estrangeiros (UCFE) como utilizadores do Sistema de Informação de Boletins de Alojamento, por forma a poderem proceder à respetiva comunicação eletrónica em condições de segurança.
+4 - Com vista a simplificar o envio dos boletins de alojamento, os estabelecimentos hoteleiros e similares devem proceder ao seu registo junto do SEF como utilizadores do Sistema de Informação de Boletins de Alojamento, por forma a poderem proceder à respectiva comunicação electrónica em condições de segurança.
 
 5 - Os boletins e respectivos duplicados, bem como os suportes substitutos referidos no número anterior, são conservados pelo prazo de um ano contado a partir do dia seguinte ao da comunicação da saída.

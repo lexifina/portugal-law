@@ -14,4 +14,4 @@
 
 6 - Quando o pedido seja indeferido com fundamento na alínea a) do n.º 4 do artigo 121.º-B, a responsabilidade pelas despesas referidas no número anterior é exclusiva da entidade empregadora.
 
-7 - As decisões proferidas sobre os pedidos apresentados nos termos do presente artigo são comunicadas, por escrito, pela AIMA, I. P., às autoridades do Estado membro do qual provém o titular do 'cartão azul UE', preferencialmente por via eletrónica.
+7 - As decisões proferidas sobre os pedidos apresentados nos termos do presente artigo são comunicadas, por escrito, pelo SEF, às autoridades do Estado membro do qual provém o titular do 'cartão azul UE', preferencialmente por via eletrónica.

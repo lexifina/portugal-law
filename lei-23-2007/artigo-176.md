@@ -2,7 +2,7 @@
 
 ### Decisão de concessão de apoio ao trânsito aeroportuário
 
-1 - A decisão de autorização ou recusa de trânsito aeroportuário compete ao diretor nacional da PSP, com faculdade de delegação.
+1 - A decisão de autorização ou recusa de trânsito aeroportuário compete ao director-geral do SEF, com faculdade de delegação.
 
 2 - A decisão de autorização ou recusa de trânsito aeroportuário é comunicada às autoridades competentes do Estado membro requerente, no prazo de quarenta e oito horas, prorrogável por igual período, em casos devidamente justificados.
 

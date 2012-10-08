@@ -1,19 +1,11 @@
 # Artigo 96.º
 
-### Procedimento, acesso à informação e garantias processuais
+### Garantias processuais e transparência
 
-1 - O pedido de concessão ou renovação de autorização de residência ao abrigo da presente subsecção é apresentado pelo nacional de Estado terceiro junto dos serviços descentralizados da AIMA, IP.
+1 - A decisão sobre um pedido de concessão ou renovação de uma autorização de residência é adoptada e comunicada ao requerente num prazo que não impeça o prosseguimento dos estudos em causa, sem prejuízo de um prazo suficiente para o processamento do pedido.
 
-2 - O pedido é acompanhado dos documentos comprovativos de que o requerente preenche as condições previstas na presente subsecção.
+2 - Se as informações fornecidas pelo requerente forem insuficientes, a análise do pedido pode ser suspensa, sendo-lhe solicitadas as informações suplementares necessárias.
 
-3 - Ao requerente é disponibilizada informação sobre a documentação legalmente exigida no âmbito dos procedimentos previstos na presente subsecção, as normas de entrada e permanência em território nacional, os respetivos direitos, obrigações e garantias processuais, graciosas ou contenciosas, incluindo, se for caso disso, relativamente aos membros da sua família e, bem assim, informação sobre os recursos necessários para cobrir as despesas de estudo ou de formação e taxas aplicáveis.
+3 - A decisão de indeferimento de autorização de residência é notificada ao requerente, com indicação dos seus fundamentos, dela devendo constar o direito de impugnação judicial e o respectivo prazo.
 
-4 - Se as informações ou a documentação apresentadas pelo requerente forem insuficientes, a análise do pedido é suspensa, sendo-lhe solicitadas as informações ou os documentos suplementares necessários, que devem ser disponibilizados no prazo de 10 dias.
-
-5 - A decisão sobre o pedido de concessão ou renovação de uma autorização de residência é adotada e comunicada ao requerente num prazo que não impeça o prosseguimento da atividade em causa, não podendo exceder 90 dias a contar da apresentação do pedido ou 60 dias, no caso de estudante do ensino superior ou investigador admitido em entidade de acolhimento oficialmente reconhecida nos termos dos artigos 91.º e 91.º-B.
-
-6 - A decisão de indeferimento da concessão ou renovação das autorizações de residência previstas na presente subsecção, bem como a decisão de cancelamento, são notificadas por escrito ao requerente, com indicação dos respetivos fundamentos, do direito de impugnação judicial e do respetivo prazo e tribunal competente.
-
-7 - Ao titular de autorização de residência concedida ao abrigo da presente subsecção é emitido um título de residência de acordo com o modelo uniforme de título de residência para nacionais de Estados terceiros, previsto no Regulamento (CE) n.º 1030/2002, do Conselho, de 13 de junho de 2002, devendo ser inscrita na rubrica «tipo de título» a menção «investigador», «estudante do ensino superior», «estudante do ensino secundário», «estagiário» ou «voluntário», consoante o caso.
-
-8 - Quando ao investigador seja concedida autorização de residência no quadro de um programa da União Europeia ou multilateral específico que inclua medidas de mobilidade, deve o título de residência incluir a menção «mobilidade-investigador».
+4 - A decisão de indeferimento ou de cancelamento de autorização de residência nos termos da presente secção é susceptível de impugnação judicial, com efeito devolutivo, perante os tribunais administrativos.

@@ -1,19 +1,13 @@
 # Artigo 138.º
 
-### Dever de abandono do território nacional
+### Abandono voluntário do território nacional
 
-1 - O cidadão estrangeiro notificado de decisão administrativa que indefira o pedido de permanência ou de residência, ou da decisão administrativa de cancelamento do respetivo visto ou título de residência, deve abandonar o território nacional no prazo que lhe for fixado, entre 20 e 30 dias.
+1 - O cidadão estrangeiro que entre ou permaneça ilegalmente em território nacional é notificado pelo SEF para abandonar voluntariamente o território nacional no prazo que lhe for fixado, entre 10 a 20 dias.
 
-2 - [Revogado.]
+2 - O cidadão estrangeiro a quem tenha sido cancelada a autorização de residência é notificado pelo SEF para abandonar voluntariamente o território nacional no prazo que lhe for fixado, entre 10 e 20 dias.
 
-3 - O prazo referido no n.º 1 pode ser prorrogado por despacho do diretor nacional da PSP, com faculdade de delegação, tendo em conta, designadamente, a duração da permanência, a existência de filhos que frequentem a escola, a existência de outros membros da família e de laços sociais, sendo o cidadão estrangeiro notificado dessa decisão.
+3 - O prazo referido nos números anteriores pode ser prorrogado pelo SEF tendo em conta, designadamente, a duração da permanência, a existência de filhos que frequentem a escola e a existência de outros membros da família e de laços sociais, disso sendo notificado o cidadão estrangeiro.
 
-4 - [Revogado.]
+4 - Em caso de decisão de cancelamento de autorização de residência nos termos do artigo 85.º, havendo perigo de fuga, tiver sido indeferido pedido de prorrogação de permanência por manifestamente infundado ou fraudulento ou se a pessoa em causa constituir uma ameaça para a ordem ou segurança públicas ou para a segurança nacional, o cidadão estrangeiro é notificado para abandonar imediatamente o território nacional, sob pena de incorrer no crime de desobediência qualificada.
 
-5 - [Revogado.]
-
-6 - [Revogado.]
-
-7 - O dever de abandono é registado no SII UCFE e é introduzido no SIS com averbamento do prazo para o abandono, enquanto indicação de regresso, por um período de um ano.
-
-8 - No âmbito do disposto no número anterior, a indicação é imediatamente eliminada se o cidadão estrangeiro fizer cessar a permanência ilegal, nomeadamente quando o próprio confirmar que abandonou o território nacional e o dos Estados onde vigore a Convenção de Aplicação, ou quando a AIMA, I. P., a PSP ou a GNR tenham conhecimento por qualquer meio ou em virtude da sua comunicação por outro Estado-Membro da União Europeia ou Estado onde vigore a Convenção de Aplicação.
+5 - O cumprimento da ordem de abandono imediato do território nacional pressupõe a utilização pelo cidadão estrangeiro do primeiro meio de viagem disponível e adequado à sua situação.

@@ -6,15 +6,15 @@
 
 a) Até cinco dias, se o interessado for titular de um visto de trânsito;
 
-b) Até 60 dias, se o interessado for titular de um visto especial ou de um visto para procura de trabalho;
+b) Até 60 dias, se o interessado for titular de um visto especial;
 
 c) Até 90 dias, se o interessado for titular de um visto de residência;
 
 d) Até 90 dias, prorrogáveis por um igual período, se o interessado for titular de um visto de curta duração ou tiver sido admitido no País sem exigência de visto;
 
-e) Até um ano, se o interessado for titular de um visto de estada temporária.
+e) Até um ano, prorrogável por igual período, se o interessado for titular de um visto de estada temporária, com excepção dos casos previstos na alínea c) do n.º 1 do artigo 54.º, em que a prorrogação só é admitida até 90 dias.
 
-2 - A prorrogação de permanência pode ser concedida, para além dos limites previstos no número anterior, na pendência de pedido de autorização de residência, bem como em casos devidamente fundamentados, nomeadamente no caso de titulares de estada temporária para tratamento médico e de quem os acompanhe.
+2 - A prorrogação de permanência pode ser concedida, para além dos limites previstos no número anterior, na pendência de pedido de autorização de residência, bem como em casos devidamente fundamentados.
 
 3 - Por razões excepcionais ocorridas após a entrada legal em território nacional, pode ser concedida a prorrogação de permanência aos familiares de titulares de visto de estada temporária, não podendo a validade e a duração da prorrogação de permanência ser superior à validade e duração do visto concedido ao familiar.
 
@@ -22,4 +22,4 @@ e) Até um ano, se o interessado for titular de um visto de estada temporária.
 
 5 - Sem prejuízo das sanções previstas na presente lei e salvo quando ocorram circunstâncias excepcionais, não são deferidos os pedidos de prorrogação de permanência quando sejam apresentados decorridos 30 dias após o termo do período de permanência autorizado.
 
-6 - A prorrogação de permanência é concedida sob a forma de vinheta autocolante de modelo a aprovar por portaria do membro do Governo responsável pela área das migrações.
+6 - A prorrogação de permanência é concedida sob a forma de vinheta autocolante de modelo a aprovar por portaria do Ministro da Administração Interna.
