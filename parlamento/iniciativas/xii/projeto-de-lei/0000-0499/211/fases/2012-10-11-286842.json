@@ -1,0 +1,559 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "211",
+    "id": "36891",
+    "titulo": "Revê o regime laboral das amas"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-10-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9011",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-10-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36401",
+        "leg": "XII",
+        "nr": "38",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Decreto-Lei n.º 141/89, de 28 de Abril, repondo a legalidade na relação de trabalho dos ajudantes familiares."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36765",
+        "leg": "XII",
+        "nr": "168",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revê o regime laboral dos ajudantes familiares."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37186",
+        "leg": "XII",
+        "nr": "273",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1690",
+            "obs": null,
+            "pag": [
+              "56-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-12",
+            "pubLeg": "XII",
+            "pubNr": "10",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico das amas de creche familiar permitindo a estas trabalhadoras a falso recibo verde o acesso a contratos de trabalho."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-10-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=02:50:44:461&drc=00:03:06:128"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:09:17:596&drc=00:02:05:270"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57",
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-57,60-61&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime laboral dos ajudantes familiares; Altera o Decreto-Lei n.º 141/89, de 28 de Abril, repondo a legalidade na relação de trabalho dos ajudantes familiares; Revê o regime laboral das amas; Altera o regime jurídico das amas de creche familiar permitindo a estas trabalhadoras a falso recibo verde o acesso a contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=02:54:01:468&drc=00:03:48:520"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:11:29:226&drc=00:02:26:166"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57",
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/57?pgs=57,61&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime laboral dos ajudantes familiares; Altera o Decreto-Lei n.º 141/89, de 28 de Abril, repondo a legalidade na relação de trabalho dos ajudantes familiares; Revê o regime laboral das amas; Altera o regime jurídico das amas de creche familiar permitindo a estas trabalhadoras a falso recibo verde o acesso a contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=02:57:55:049&drc=00:04:06:596"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime laboral dos ajudantes familiares; Altera o Decreto-Lei n.º 141/89, de 28 de Abril, repondo a legalidade na relação de trabalho dos ajudantes familiares; Revê o regime laboral das amas; Altera o regime jurídico das amas de creche familiar permitindo a estas trabalhadoras a falso recibo verde o acesso a contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2132",
+                "nome": "Idália Salvador Serrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:02:08:499&drc=00:03:23:504"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime laboral dos ajudantes familiares; Altera o Decreto-Lei n.º 141/89, de 28 de Abril, repondo a legalidade na relação de trabalho dos ajudantes familiares; Revê o regime laboral das amas; Altera o regime jurídico das amas de creche familiar permitindo a estas trabalhadoras a falso recibo verde o acesso a contratos de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1801",
+                "nome": "Raúl de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121011pln&url=l12/sl2/a2012/m10/&tI=03:05:37:561&drc=00:03:33:123"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-12",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime laboral dos ajudantes familiares; Altera o Decreto-Lei n.º 141/89, de 28 de Abril, repondo a legalidade na relação de trabalho dos ajudantes familiares; Revê o regime laboral das amas; Altera o regime jurídico das amas de creche familiar permitindo a estas trabalhadoras a falso recibo verde o acesso a contratos de trabalho.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "286842",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "608952",
+        "obs": null,
+        "pag": [
+          "56-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-12",
+        "pubLeg": "XII",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/010/2012-10-12/56?pgs=56-61&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
