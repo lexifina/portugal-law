@@ -1,0 +1,12 @@
+Despacho n.º 13399/2012
+Tendo em consideração o disposto nos artigos 26.º, n.º 1, alínea e) dos Estatutos do Instituto Politécnico de Lisboa (IPL), homologados pelo Despacho Normativo n.º 20/2009, publicado pelo Diário da República, 2.ª série, n.º 98, de 21 de maio, 92.º e 109.º do Regime Jurídico das Instituições de Ensino Superior (RJIES), aprovado pela Lei n.º 62/2007, de 10 de setembro, que atribuem ao Presidente do IPL a competência para a gestão da frota automóvel do IPL, 1.º e 2.º do Decreto-Lei n.º 490/99, de 7 de novembro, que veio conferir genericamente a possibilidade de condução de viaturas oficiais por funcionários e agentes que não possuem a categoria profissional de motoristas, 12.º do Decreto-Lei n.º 170/2008, de 26 de agosto, que estabelece o regime jurídico do parque de veículos automóveis do Estado (PVE), nos termos do qual, compete aos serviços e entidades utilizadores assegurar a correta e adequada utilização dos veículos por parte dos seus trabalhadores, independentemente da modalidade da constituição da relação jurídica de emprego público, bem como o cumprimento dos termos de utilização contratualmente estabelecidos, 5.º do Despacho n.º 8593/2010, de 20 de maio, que aprovou o Regulamento de Uso de Veículos do IPL, 35.º e 40.º do Código de Procedimento Administrativo (CPA) e Despacho n.º 7938/2009, de 19 de março, determino que:
+1 - Para além dos mencionados no Despacho n.º 9022/2011, de 11 de julho, ficam autorizados a conduzir as viaturas que se encontram afetas ao Instituto Politécnico (Serviços da Presidência e suas Unidades Orgânicas) os seguintes trabalhadores/colaboradores:
+a) Dos Serviços da Presidência do IPL:
+Manuel de Almeida Correia (Vice-Presidente do IPL);
+João Ricardo Bárrios Luz (Técnico Superior).
+b) Dos Serviços de Ação Social (SAS)
+Hugo Emanuel Marques Gomes (Técnico Superior).
+2 - A permissão referida no número anterior é concedida sempre que, para a realização de tarefas de serviço externo, se verifique que não há pessoal habilitado com a categoria profissional de motorista disponível ou desde que, razões de eficácia, de funcionalidade e a natureza do serviço em causa, o aconselhem e ou determinem.
+3 - Os Trabalhadores supra identificados sempre que conduzam as viaturas oficiais do IPL são civilmente responsáveis perante terceiros, nos mesmos termos em que o são os Trabalhadores com a categoria de motorista.
+24 de setembro de 2012. - O Presidente do IPL, Prof. Doutor Luís Manuel Vicente Ferreira.
+206436377
