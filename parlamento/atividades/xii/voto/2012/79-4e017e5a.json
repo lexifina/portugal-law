@@ -1,0 +1,130 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "79",
+  "data_registo": "2012-10-12",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de pesar  pelo faecimento de Aquilino Ribeiro Machado",
+    "AutoresGP": [
+      "PS",
+      "Maria Helena André (PS)",
+      "Rosa Maria Bastos Albernaz (PS)",
+      "Filipe Neto Brandão (PS)",
+      "Maria Gabriela Canavilhas (PS)",
+      "Miguel Laranjeiro (PS)",
+      "Hortense Martins (PS)",
+      "Carlos Zorrinho (PS)",
+      "Ferro Rodrigues (PS)",
+      "Jorge Lacão (PS)",
+      "Marcos Perestrello (PS)",
+      "Miguel Coelho (PS)",
+      "Pedro Farmhouse (PS)",
+      "José Lello (PS)",
+      "Isabel Oneto (PS)",
+      "Miranda Calha (PS)",
+      "Manuel Seabra (PS)",
+      "Nuno André Figueiredo (PS)",
+      "Fernando Jesus (PS)",
+      "Carlos Enes (PS)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2012-10-12",
+    "DataAnuncio": null,
+    "DataEntrada": "2012-10-12",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "79",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "609246",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-13",
+        "pubLeg": "XII",
+        "pubNr": "12",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/012/2012-10-13/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "28155",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-13",
+        "pubLeg": "XII",
+        "pubNr": "11",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/011/2012-10-13?org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2012-10-12",
+        "descricao": null,
+        "detalhe": null,
+        "id": "61825",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "603885",
+            "obs": null,
+            "pag": [
+              "29-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-13",
+            "pubLeg": "XII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/011/2012-10-13/29?pgs=29&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "11",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
