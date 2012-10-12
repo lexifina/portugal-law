@@ -2,18 +2,20 @@
 
 ### Denúncia para remodelação ou restauro
 
-1 - Quando optar por denunciar o contrato para remodelação ou restauro profundos, nos termos do artigo anterior, o senhorio fica obrigado, em alternativa:
+1 - A denúncia do contrato de duração indeterminada para realização de obra de remodelação ou restauro profundos, nos termos da alínea b) do artigo 1101.º do Código Civil, obriga o senhorio, mediante acordo e em alternativa:
 
-a) Ao pagamento de uma indemnização; ou
+a) Ao pagamento de uma indemnização correspondente a um ano de renda;
 
-b) À garantia do realojamento do arrendatário por período não inferior a cinco anos.
+b) A garantir o realojamento do arrendatário por período não inferior a dois anos.
 
-2 - O valor da indemnização referida na alínea a) do número anterior deve abranger todas as despesas e danos, patrimoniais e não patrimoniais, suportados pelo arrendatário, incluindo o valor das benfeitorias realizadas e dos investimentos efectuados em função do locado, não podendo ser inferior ao de dois anos de renda.
+2 - Caso as partes não cheguem a acordo no prazo de 30 dias a contar da receção da comunicação prevista no n.º 1 do artigo 1103.º do Código Civil, aplica-se o disposto na alínea a) do n.º 1.
 
-3 - A opção por uma das alíneas do n.º 1 deve ser precedida de acordo com o arrendatário.
+3 - O realojamento do arrendatário previsto na alínea b) do n.º 1 é feito em condições análogas às que aquele já detinha, quer quanto ao local, quer quanto ao valor da renda e encargos.
 
-4 - Na falta de acordo entre as partes referido no número anterior fica o senhorio obrigado ao pagamento de uma indemnização nos termos da alínea a) do n.º 1 e do n.º 2.
+4 - Para efeitos do disposto no número anterior, considera-se realojamento em condição análogas quanto ao local o realojamento do arrendatário na área da mesma freguesia ou de freguesia limítrofe, em fogo em estado de conservação igual ou superior ao do locado primitivo e adequado às necessidades do agregado familiar do arrendatário.
 
-5 - O realojamento do arrendatário previsto na alínea b) do n.º 1 é feito no mesmo concelho e em condições análogas às que aquele já detinha, quer quanto ao local quer quanto ao valor da renda e encargos.
+5 - Para efeitos do disposto nos n.os 3 e 4, presume-se adequado às necessidades do agregado familiar do arrendatário o fogo cujo tipo se situe entre o mínimo e o máximo previstos no quadro seguinte, de modo que não se verifique sobreocupação:
+
+(ver documento original)
 
 6 - Tratando-se de obra realizada no âmbito do regime da reabilitação urbana aplica-se o disposto no artigo 73.º daquele regime.

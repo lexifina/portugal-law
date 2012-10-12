@@ -1,9 +1,13 @@
 # Artigo 26.º
 
-### Denúncia no arrendamento para fim não habitacional
+### Suspensão do contrato para remodelação ou restauro
 
-1 - Em caso de denúncia do contrato para realização de obras de remodelação ou restauro profundo ou para demolição do locado, o arrendatário não habitacional tem direito a uma indemnização no valor de todas as despesas e danos, patrimoniais e não patrimoniais, tendo em conta o valor das benfeitorias realizadas e dos investimentos efectuados em função do locado, não podendo o valor da indemnização ser inferior ao valor de cinco anos de renda, com o limite mínimo correspondente a 60 vezes a retribuição mínima mensal garantida.
+1 - Se optar pela suspensão da execução do contrato nos termos do n.º 5 do artigo anterior, o senhorio fica obrigado a garantir o realojamento do arrendatário durante esse período, aplicando-se o disposto no n.º 1 do artigo anterior quanto às condições do realojamento ou, se for caso disso, no artigo 73.º do regime jurídico da reabilitação urbana.
 
-2 - No caso previsto no número anterior, o senhorio deposita o valor correspondente a 60 vezes a retribuição mínima mensal garantida, nos 15 dias seguintes à propositura da acção.
+2 - Sem prejuízo da manutenção da obrigação de pagamento da renda, o contrato de arrendamento suspende-se no momento da desocupação do locado pelo arrendatário.
 
-3 - No caso de a indemnização apurada ser de montante superior ao referido no número anterior, a denúncia do contrato não produz efeitos sem que se comprove depositada a totalidade daquela quantia.
+3 - O senhorio comunica ao arrendatário a conclusão das obras, devendo o arrendatário reocupar o locado no prazo de três meses, salvo justo impedimento, sob pena de caducidade do contrato de arrendamento.
+
+4 - À desocupação do locado em consequência da suspensão da execução do contrato nos termos dos números anteriores é aplicável, com as necessárias adaptações, o disposto nos artigos 15.º-A a 15.º-S do NRAU.
+
+5 - Para efeitos do disposto no número anterior, o requerimento de despejo a que se refere o artigo 15.º-B do NRAU deve ser acompanhado da comunicação prevista nos n.os 5 e 6 do artigo anterior.
