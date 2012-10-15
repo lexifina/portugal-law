@@ -1,0 +1,812 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12298",
+  "numero": "184",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-10-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-12-06",
+            "entidades": null,
+            "id": "93882",
+            "tipo": null,
+            "titulo": "Audição em 2012-12-06 com Conselho Nacional das Asociações de Professores e Profissionais de Educação Física -CNAPEF, João Lourenço, Nuno Fialho, Zélia Nunes, Nuno Ferro, Luis Fernandes, Ana Quitério, Sociedade Portuguesa de Educação Física-SPEF"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-12-05",
+                "dataResposta": "2012-12-07",
+                "nrOficio": "419/CECC/2012",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": "2012-11-02",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SNESup - Sindicato Nacional do Ensino Superior"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SNPL - Sindicato Nacional dos Professores Licenciados"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "ASPL - Associação Sindical de Professores Licenciados"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SINAPE - Sindicato Nacional dos Profissionais da Educação"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SINDEP - Sindicato Nacional e Democrático dos Professores"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SPLIU - Sindicato Nacional dos Professores Licenciados pelos Politécnicos e Universidades"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": "2012-11-20",
+            "entidades": [
+              "SEPLEU - Sindicato Nacional dos Educadores e Professores Licenciados pelas Escolas Superiores de Educação e Universidades"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SINPROF - Sindicato Nacional dos Professores"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "SINPROFE - Sindicato Nacional dos Professores e Educadores"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-10-30",
+            "dataResposta": null,
+            "entidades": [
+              "CONFNAES - Confederação Nacional de Associações de Estudantes do Ensino Básico e Secundário"
+            ],
+            "nrOficio": "392/CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-10",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "609241",
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-10",
+                "pubLeg": "XII",
+                "pubNr": "56",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/056/2012-12-10/16?pgs=16-17&org=PLC"
+              },
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "614447",
+                "obs": null,
+                "pag": [
+                  "8-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/061/2012-12-15/8?pgs=8-12&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-10-24",
+        "DataArquivo": "2012-12-11",
+        "DataBaixaComissao": "2012-10-18",
+        "DataEnvioPAR": "2012-12-11",
+        "DataReaberta": "2012-10-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259345a545977597a51354c545a6d595459744e474e6c4e7930354d6a5a6d4c54646a4e44466b597a677a5a574e6a4e6935515245593d&fich=f8e60c49-6fa6-4ce7-926f-7c41dc83ecc6.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49304f54417a4f5749344c5451304e6d55744e4463774d4330344d44417a4c544d79596d5a6859545669595745335a4335515245593d&fich=249039b8-446e-4700-8003-32bfaa5baa7d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5177596d4d78596d55314c54646c4d4463744e4751785a4331684e6d4d784c544d354d474d334e545a6b5a444d325a4335515245593d&fich=40bc1be5-7e07-4d1d-a6c1-390c756dd36d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63314e6a49784e6d526a4c5467325a4745744e445669596930354e7a51344c5445344e444135597a41304d5451324e7935515245593d&fich=756216dc-86da-45bb-9748-18409c041467.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259314d324e6c5a6a4d354c574e6c4f4441744e446734597930355a5456684c54646c4e6d49324e57526d4e7a4d344d7935515245593d&fich=f53cef39-ce80-488c-9e5a-7e6b65df7383.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a56694d7a56694e7a6c6d4c546c6d4f5751744e446c6d4d4331684d6d45774c544d334f5455774e7a6b774e7a5a6a596935515245593d&fich=5b35b79f-9f9d-49f0-a2a0-3795079076cb.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3255795a4452684d6d45794c5745774f5751744e4459355a6931694e4463344c54426a4e7a646d4e6a426a4e7a42694d4335515245593d&fich=e2d4a2a2-a09d-469f-b478-0c77f60c70b0.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249325a5449345a57566d4c546c694d5445744e47526c4e5330344e5451784c544e6b5a6a4e6d4d6d4e6a59324532596935515245593d&fich=b6e28eef-9b11-4de5-8541-3df3f2ccca6b.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55344d4445354f474d784c546b314f5463744e4751315a4331694d446b784c544d7959575a6a5a54557a4f4759324e6935515245593d&fich=580198c1-9597-4d5d-b091-32afce538f66.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a46694d6d5a6c4e5455314c5759314d446b744e474d794f4331694e4459784c5745304f574d784e446378595455324d6935515245593d&fich=1b2fe555-f509-4c28-b461-a49c1471a562.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6730595445354e6a63324c5451304d3245744e44426c5a5330344d7a6b7a4c5749344f474d314e5759344e7a45794e7935515245593d&fich=84a19676-443a-40ee-8393-b88c55f87127.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a557859575a6b5a5759354c574a6b4e6a59744e444a684f4331685a6d4a6c4c5455794d444d77595463334e5449344e6935515245593d&fich=51afdef9-bd66-42a8-afbe-52030a775286.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d7859546c6c597a466b4c5451354d6a67744e4449325a5330344f54686d4c5749314e444a6d5a6a6778597a51325a5335515245593d&fich=c1a9ec1d-4928-426e-898f-b542ff81c46e.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4532596d5534595459314c546379593249744e4455324d6931684e574d354c574d30596a4d78596d52684d47457a595335515245593d&fich=16be8a65-72cb-4562-a5c9-c4b31bda0a3a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49304e6d59354d44457a4c57566c595459744e446c6d4d5331695a446c6b4c5749334e54513459574931596a5a6a4e6935515245593d&fich=246f9013-eea6-49f1-bd9d-b7548ab5b6c6.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51795a5467315a6d4a6a4c574d314e3259744e4751324e7931684e444e6a4c546c6c4d545a694d4752684e7a68695a6935515245593d&fich=42e85fbc-c57f-4d67-a43c-9e16b0da78bf.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63334e544d324d7a41334c5749794d4459744e47466c4e7931694e7a59334c5451305a4755325a47566c595751794f4335515245593d&fich=77536307-b206-4ae7-b767-44de6deead28.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67334e474934597a4a6c4c545534596a45744e47557a4d7931694d47466d4c546b785a4459315a6a42695954677a4d7935515245593d&fich=874b8c2e-58b1-4e33-b0af-91d65f0ba833.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41344d324a6d4d32566b4c5445354d544d744e475a684e7930354d445a6d4c54417a5a5455314d4467344e444d304e7935515245593d&fich=083bf3ed-1913-4fa7-906f-03e550884347.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51784e574e6b5a6a63334c5467355a5445744e446732597931694d6a52694c544d7a4d6d56694e5749324e6d557a4d4335515245593d&fich=415cdf77-89e1-486c-b24b-332eb5b66e30.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-12-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d31596a68695a446b774c575268596a51744e444d775a5331684f544a6d4c5455334d4745774f4755334f5463355a4335775a47593d&fich=35b8bd90-dab4-430e-a92f-570a08e7979d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249794d6a466c597a63314c546b30593255744e446868595331684d7a6c6c4c546b7a4d6d466d595463334e7a67784d6935775a47593d&fich=b221ec75-94ce-48aa-a39e-932afa777812.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a526a5a6d4d334e5751324c54426a5a6d55744e44646a4e4330355a6a4e6c4c5455794d7a51794d6a51795a5464694e7935775a47593d&fich=4cfc75d6-0cfe-47c4-9f3e-52342242e7b7.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-10-24",
+            "gp": "PSD",
+            "id": "2641",
+            "motivoCessacao": null,
+            "nome": "Paulo Cavaleiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-03-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-10-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4d30596d5977597a517a4c54646d5a4441744e446c6d4d6930344d5751784c54637a4e574e684e3255305a545a6c4d5335775a47593d&fich=34bf0c43-7fd0-49f2-81d1-735ca7e4e6e1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37596",
+      "37412",
+      "37457"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:13:54:567&drc=00:04:05:925"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que promova e valorize a prática de atividade física e desportiva no espaço-escola; Recomenda ao Governo a manutenção da carga letiva da disciplina de Educação Física no currículo do 3º ciclo do ensino básico e do ensino secundário e a valorização do desporto escolar; Recomenda ao Governo a qualificação da educação física como elemento central da escola pública; Em defesa da Educação Física - Não há Educação sem Educação Física.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:18:12:242&drc=00:02:38:120"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:34:27:629&drc=00:01:21:370"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35",
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/34?pgs=34-35,38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que promova e valorize a prática de atividade física e desportiva no espaço-escola; Recomenda ao Governo a manutenção da carga letiva da disciplina de Educação Física no currículo do 3º ciclo do ensino básico e do ensino secundário e a valorização do desporto escolar; Recomenda ao Governo a qualificação da educação física como elemento central da escola pública; Em defesa da Educação Física - Não há Educação sem Educação Física.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:20:58:855&drc=00:03:00:460"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que promova e valorize a prática de atividade física e desportiva no espaço-escola; Recomenda ao Governo a manutenção da carga letiva da disciplina de Educação Física no currículo do 3º ciclo do ensino básico e do ensino secundário e a valorização do desporto escolar; Recomenda ao Governo a qualificação da educação física como elemento central da escola pública; Em defesa da Educação Física - Não há Educação sem Educação Física.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:24:08:861&drc=00:03:26:690"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que promova e valorize a prática de atividade física e desportiva no espaço-escola; Recomenda ao Governo a manutenção da carga letiva da disciplina de Educação Física no currículo do 3º ciclo do ensino básico e do ensino secundário e a valorização do desporto escolar; Recomenda ao Governo a qualificação da educação física como elemento central da escola pública; Em defesa da Educação Física - Não há Educação sem Educação Física.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:27:44:160&drc=00:03:21:870"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que promova e valorize a prática de atividade física e desportiva no espaço-escola; Recomenda ao Governo a manutenção da carga letiva da disciplina de Educação Física no currículo do 3º ciclo do ensino básico e do ensino secundário e a valorização do desporto escolar; Recomenda ao Governo a qualificação da educação física como elemento central da escola pública; Em defesa da Educação Física - Não há Educação sem Educação Física.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-03-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130327pln&url=l12/sl2/a2013/m03/&tI=02:31:12:692&drc=00:03:06:765"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-28",
+                "pubLeg": "XII",
+                "pubNr": "71",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que promova e valorize a prática de atividade física e desportiva no espaço-escola; Recomenda ao Governo a manutenção da carga letiva da disciplina de Educação Física no currículo do 3º ciclo do ensino básico e do ensino secundário e a valorização do desporto escolar; Recomenda ao Governo a qualificação da educação física como elemento central da escola pública; Em defesa da Educação Física - Não há Educação sem Educação Física.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12298",
+    "PetAssunto": "Em defesa da Educação Física - Não há Educação sem Educação Física.",
+    "PetDataEntrada": "2012-10-15",
+    "PeticoesAssociadas": null,
+    "PetId": "12298",
+    "PetLeg": "XII",
+    "PetNr": "184",
+    "PetNrAssinaturas": "12594",
+    "PetNrAssinaturasInicial": "12594",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1750",
+        "obs": null,
+        "pag": [
+          "33-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-28",
+        "pubLeg": "XII",
+        "pubNr": "71",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/071/2013-03-28/33?pgs=33-39&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "609270",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-03",
+        "pubLeg": "XII",
+        "pubNr": "28",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/028/2012-11-03/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
