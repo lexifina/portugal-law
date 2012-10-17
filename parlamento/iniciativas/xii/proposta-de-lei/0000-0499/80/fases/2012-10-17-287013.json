@@ -1,0 +1,327 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "80",
+    "id": "37138",
+    "titulo": "Aprova o regime de acesso e exercício das atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso, nomeadamente mediante a emissão de relatórios de execução e progresso, no âmbito do sistema de gestão dos consumos intensivos de energia (SGCIE) e no âmbito de aplicação do regulamento da gestão do consumo de energia para o setor dos transportes, aprovado pela Portaria n.º 228/90, de 27 de março, alterando o Decreto-Lei n.º 71/2008, de 15 de abril."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9024",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-10-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-10-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121017pln&url=l12/sl2/a2012/m10/&tI=02:19:44:335&drc=00:02:12:435"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121017pln&url=l12/sl2/a2012/m10/&tI=02:38:15:849&drc=00:01:55:966"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ENERGIA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Artur Trindade"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40",
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-18",
+                "pubLeg": "XII",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/012/2012-10-18/39?pgs=39-40,43-44&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime de acesso e exercício das atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso, nomeadamente mediante a emissão de relatórios de execução e progresso, no âmbito do sistema de gestão dos consumos intensivos de energia (SGCIE) e no âmbito de aplicação do regulamento da gestão do consumo de energia para o setor dos transportes, aprovado pela Portaria n.º 228/90, de 27 de março, alterando o Decreto-Lei n.º 71/2008, de 15 de abril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121017pln&url=l12/sl2/a2012/m10/&tI=02:22:03:425&drc=00:04:28:383"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-18",
+                "pubLeg": "XII",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/012/2012-10-18/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime de acesso e exercício das atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso, nomeadamente mediante a emissão de relatórios de execução e progresso, no âmbito do sistema de gestão dos consumos intensivos de energia (SGCIE) e no âmbito de aplicação do regulamento da gestão do consumo de energia para o setor dos transportes, aprovado pela Portaria n.º 228/90, de 27 de março, alterando o Decreto-Lei n.º 71/2008, de 15 de abril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121017pln&url=l12/sl2/a2012/m10/&tI=02:26:35:372&drc=00:04:19:308"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-18",
+                "pubLeg": "XII",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/012/2012-10-18/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime de acesso e exercício das atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso, nomeadamente mediante a emissão de relatórios de execução e progresso, no âmbito do sistema de gestão dos consumos intensivos de energia (SGCIE) e no âmbito de aplicação do regulamento da gestão do consumo de energia para o setor dos transportes, aprovado pela Portaria n.º 228/90, de 27 de março, alterando o Decreto-Lei n.º 71/2008, de 15 de abril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4086",
+                "nome": "António Leitão Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121017pln&url=l12/sl2/a2012/m10/&tI=02:30:59:305&drc=00:04:06:643"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-18",
+                "pubLeg": "XII",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/012/2012-10-18/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime de acesso e exercício das atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso, nomeadamente mediante a emissão de relatórios de execução e progresso, no âmbito do sistema de gestão dos consumos intensivos de energia (SGCIE) e no âmbito de aplicação do regulamento da gestão do consumo de energia para o setor dos transportes, aprovado pela Portaria n.º 228/90, de 27 de março, alterando o Decreto-Lei n.º 71/2008, de 15 de abril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2327",
+                "nome": "João Paulo Viegas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121017pln&url=l12/sl2/a2012/m10/&tI=02:35:10:109&drc=00:03:00:056"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-18",
+                "pubLeg": "XII",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/012/2012-10-18/43?pgs=43&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o regime de acesso e exercício das atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso, nomeadamente mediante a emissão de relatórios de execução e progresso, no âmbito do sistema de gestão dos consumos intensivos de energia (SGCIE) e no âmbito de aplicação do regulamento da gestão do consumo de energia para o setor dos transportes, aprovado pela Portaria n.º 228/90, de 27 de março, alterando o Decreto-Lei n.º 71/2008, de 15 de abril.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287013",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9024",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-18",
+        "pubLeg": "XII",
+        "pubNr": "12",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/012/2012-10-18?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
