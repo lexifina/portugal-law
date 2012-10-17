@@ -37,3 +37,9 @@ v) Instalações com turbina a vapor: 5;
 vi) Instalações de ciclo combinado: 2,5;
 
 vii) Instalações de cogeração renovável: 5.
+
+3 - O prémio de eficiência apurado nos termos da fórmula prevista no n.º 1 tem como limite máximo os valores a seguir indicados para cada tipo de instalação:
+
+(ver documento original)
+
+4 - A não instalação ou o não funcionamento e calibração dos contadores e equipamentos de medição previstos no guia técnico referido no artigo 17.º-B impossibilita o cálculo correto do prémio de eficiência e, consequentemente, a sua atribuição e pagamento.

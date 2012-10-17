@@ -2,7 +2,7 @@
 
 ### Tarifa de referência
 
-A tarifa de referência (Tref) a que se refere a alínea b) do n.º 3 do artigo 4.º do Decreto-Lei n.º 23/2010, de 25 de março, calculada de acordo com as fórmulas constantes do anexo a esta portaria, corresponde aos valores indicados nas alíneas seguintes, em função da potência elétrica instalada da cogeração (P) e do combustível utilizado, integrando os benefícios ambientais, as perdas evitadas nas redes e a utilização reduzida da rede de transporte, e aplicando o regime de atualização e de modulação tarifária, definidos nos artigos 3.º e 4.º:
+A tarifa de referência (Tref) a que se refere a alínea b) do n.º 3 do artigo 4.º do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, calculada de acordo com as fórmulas constantes do anexo a esta portaria, corresponde aos valores indicados nas alíneas seguintes, em função da potência elétrica instalada da cogeração (P) e do combustível utilizado, integrando os benefícios ambientais, as perdas evitadas nas redes e a utilização reduzida da rede de transporte:
 
 a) Para instalações que utilizem como combustível gás natural, gases de petróleo liquefeitos (GPL) ou combustíveis líquidos, com exceção do fuelóleo, o valor da Tref é o seguinte:
 
