@@ -2,4 +2,4 @@
 
 ### Adesão ao sistema
 
-O membro do Governo responsável pela área da defesa do consumidor, o Banco de Portugal e as instituições de crédito celebrarão protocolos nos termos das bases a ser aprovadas pelo Governo no prazo de 90 dias após a publicação do presente diploma.
+Os protocolos a celebrar entre o membro do Governo responsável pela área da defesa do consumidor, o Banco de Portugal e as instituições de crédito que pretendam aderir a este sistema devem observar as bases constantes no anexo ao presente diploma, que dele faz parte integrante.

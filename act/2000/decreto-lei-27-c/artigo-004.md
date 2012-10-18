@@ -1,19 +1,33 @@
 # Artigo 4.º
 
-### Abertura da conta, recusa legítima e resolução
+### Abertura da conta de serviços mínimos bancários e recusa legítima
 
-1 - As instituições de crédito aderentes farão inserir nos impressos de abertura de conta, ou em documento a eles anexo, uma declaração emitida pelo candidato à conta e por este assinada, donde conste que não é titular de outra conta bancária, bem como autoriza a instituição de crédito a confirmar, através do respectivo número de identificação fiscal, junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, a inexistência de qualquer cartão daquela natureza a favor do declarante.
+1 - A prestação de serviços mínimos bancários a pessoa singular que não seja titular de conta de depósito à ordem depende da abertura de conta de serviços mínimos bancários junto de instituição de crédito aderente, através da celebração do respetivo contrato de depósito à ordem.
 
-2 - A recusa da declaração ou da assinatura referidas no número anterior impede o acesso aos serviços mínimos bancários.
+2 - O interessado deve declarar nos impressos de abertura de conta, ou em documento a eles anexo, que não é titular de outra conta de depósito à ordem e que autoriza a instituição de crédito a confirmar, através do respetivo número de identificação fiscal, junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, a inexistência de qualquer cartão daquela natureza em nome do declarante.
 
-3 - As instituições de crédito aderentes, previamente à declaração e autorização referidas no n.º 1, informam o candidato à titularidade da conta do carácter facultativo das mesmas e as consequências enunciadas no número anterior.
+3 - As instituições de crédito aderentes, previamente à declaração referida no número anterior, prestam informação ao interessado mediante comunicação em papel ou noutro suporte duradouro sobre:
 
-4 - As instituições de crédito não podem recusar a conversão de uma conta já existente, quer esta ocorra através do encerramento da conta e imediata abertura de nova conta, quer através da conversão directa da conta existente, em conta de depósito à ordem de serviços mínimos bancários, sendo aplicáveis à conversão de conta bancária as normas previstas no presente diploma para a abertura de conta nova, com as necessárias adaptações.
+a) O carácter facultativo da declaração;
 
-5 - A conversão de contas bancárias e a transferência do respectivo saldo, prevista no número anterior, não poderão ter custos para as pessoas singulares.
+b) As consequências da eventual recusa da emissão da declaração;
 
-6 - As instituições de crédito aderentes recusam a abertura da conta à ordem nos termos deste protocolo, sempre que a pessoa singular candidata à sua titularidade possua, à data do respectivo pedido de abertura, uma ou mais contas de depósito bancário, à ordem ou não, em instituição de crédito.
+c) A possibilidade de a consulta de dados junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito poder ocorrer tanto no momento da abertura de conta de serviços mínimos bancários como durante a vigência do contrato de depósito à ordem;
 
-7 - As instituições de crédito aderentes podem resolver o contrato de depósito celebrado ao abrigo deste diploma caso o seu titular possua, durante a vigência daquele contrato, uma outra conta bancária em instituição de crédito, podendo ainda exigir do seu titular, se a ele houver lugar, o pagamento dos custos, taxas, encargos ou despesas, nas condições normalmente praticadas pela instituição de crédito para os serviços entretanto disponibilizados, desde que a instituição de crédito tenha advertido, previamente, o titular da conta desta possibilidade.
+d) As consequências decorrentes da eventual deteção de outra conta de depósito à ordem titulada pelo interessado e, bem assim, da eventual identificação de cartões de crédito ou débito em seu nome no momento da abertura de conta de serviços mínimos bancários ou, posteriormente, durante a vigência do contrato de depósito à ordem.
 
-8 - As instituições de crédito aderentes não poderão exigir às pessoas singulares que solicitem os referidos serviços mínimos bancários, para efeitos de abertura ou conversão de conta, quaisquer outros documentos, impressos ou comprovativos, adicionais aos que são necessários para abertura de uma conta de depósito normal.
+4 - Para além das situações previstas na lei e nos regulamentos em vigor, as instituições de crédito aderentes apenas podem recusar a abertura de conta de serviços mínimos bancários se:
+
+a) À data do pedido de abertura de conta, o interessado for titular de uma ou mais contas de depósito à ordem em instituição de crédito;
+
+b) O interessado recusar a emissão da declaração prevista no n.º 2;
+
+c) As entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, no âmbito da consulta prevista no n.º 2, confirmarem a existência de cartão de débito ou de crédito em nome do interessado.
+
+5 - Em caso de recusa da abertura de uma conta de serviços mínimos bancários, as instituições de crédito informam imediatamente o interessado, mediante comunicação em papel ou noutro suporte duradouro, e de forma gratuita, sobre os motivos que justificaram aquela recusa.
+
+6 - É expressamente vedado às instituições de crédito aderentes:
+
+a) Exigir às pessoas singulares que solicitem a abertura de conta de serviços mínimos bancários documentos, impressos ou comprovativos adicionais aos que são necessários para a abertura de uma conta de depósito à ordem fora dos termos e condições previstos no presente diploma;
+
+b) Condicionar a abertura de conta de serviços mínimos bancários à aquisição de produtos ou serviços adicionais.
