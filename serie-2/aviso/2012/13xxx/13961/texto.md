@@ -1,0 +1,7 @@
+Aviso n.º 13961/2012
+Projeto de Regulamento Municipal das zonas de estacionamento de duração limitada e estacionamento privativo
+Manuel José Torcato Soares Baptista, Presidente da Câmara Municipal da Póvoa de Lanhoso, torna público ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da lei n.º 169/99, de 18 de setembro, na redação dada pela lei n.º 5-A/2002, de 11 de janeiro, nos termos e para os efeitos do disposto nos artigos 7.º, 8.º e 118.º do código do procedimento administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, que se encontra em fase de apreciação pública, o Projeto de Regulamento Municipal das Zonas de Estacionamento de Duração Limitada e Estacionamento Privativo, aprovado em reunião ordinária da câmara municipal de 01 de outubro de 2012.
+O projeto de regulamento estará disponível, nas horas de expediente, na divisão administrativa desta câmara municipal e no sítio do município (www.mun-planhoso.pt), para efeito e recolha de sugestões de todos os interessados.
+A apresentação de sugestões, bem como apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, devem ser formuladas por escrito e enviadas à câmara municipal, dirigidas ao Presidente da Câmara, durante trinta dias, contados a partir do dia de publicação do presente aviso no Diário da República.
+9 de outubro de 2012. - O Presidente da Câmara, Manuel José Torcato Soares Baptista.
+306441447
