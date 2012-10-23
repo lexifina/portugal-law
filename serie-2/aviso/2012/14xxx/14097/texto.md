@@ -1,0 +1,13 @@
+Aviso n.º 14097/2012
+José Carlos Barbosa Carreiro, Presidente da Câmara Municipal de Nordeste:
+Torna público que a Assembleia Municipal do Concelho de Nordeste, em sua sessão ordinária de 26 de setembro de 2012, aprovou, sob proposta da Câmara Municipal, a prorrogação do prazo de vigência da Suspensão Parcial do Plano Diretor Municipal de Nordeste e respetivas Medidas Preventivas, por mais um ano - relativamente à Suspensão Parcial do Plano Diretor Municipal de Nordeste e respetivas Medidas Preventivas já publicadas no Diário da República através do Aviso n.º 19941/2010, de 8 de outubro, e em Jornal Oficial através do Aviso n.º 143/2010, de 11 de outubro - nos termos do disposto no Regime Jurídico dos Instrumentos de Gestão Territorial atualmente em vigor na Região Autónoma dos Açores (Decreto Legislativo Regional n.º 35/2012/A, de 16 de agosto).
+Assim, em cumprimento do disposto no n.º 5 do artigo 141.º e no artigo 179.º do Decreto Legislativo Regional n.º 35/2012/A, de 16 de agosto, publica-se a certidão da deliberação da Assembleia Municipal que aprovou a referida prorrogação de prazo por mais um ano.
+16 de outubro de 2012. - O Presidente da Câmara Municipal de Nordeste, José Carlos Barbosa Carreiro.
+Cópia autêntica de parte da ata da sessão ordinária da Assembleia Municipal de Nordeste, realizada a vinte e seis de setembro de dois mil e doze
+Prorrogação do prazo de vigência da suspensão parcial do Plano Diretor Municipal de Nordeste e respetivas medidas preventivas
+Presente o ofício número dois mil quinhentos oitenta e oito, de doze de setembro corrente, da Câmara Municipal de Nordeste, propondo a este Órgão a prorrogação do prazo de vigência da Suspensão Parcial do Plano Diretor Municipal de Nordeste e respetivas Medidas Preventivas, por mais um ano, nos termos do disposto no artigo 112.º, n.º 1 do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, e posteriormente alterado pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, adaptado à Região pelo Decreto Legislativo Regional n.º 35/2012, de 16 de agosto.
+A Assembleia tomou conhecimento e deliberou, por unanimidade, autorizar a prorrogação do prazo de vigência da Suspensão Parcial do Plano Diretor Municipal de Nordeste e respetivas Medidas Preventivas, por mais um ano.
+Esta deliberação foi aprovada em minuta para efeitos de execução imediata, de acordo com o que dispõe o n.º 3 do artigo 92.ºda Lei n.º 169/99, de 18 de setembro.
+Está conforme o original.
+Paços do Município e Divisão Administrativa e Financeira da Câmara Municipal de Nordeste, 26 de setembro de 2012. - A Coordenadora Técnica da Secção de Expediente, Maria de Deus Pacheco de Melo Franco.
+206458782
