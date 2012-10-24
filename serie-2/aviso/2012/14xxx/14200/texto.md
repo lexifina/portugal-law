@@ -1,0 +1,6 @@
+Aviso n.º 14200/2012
+Luís Manuel Barbosa Marques Leal, Dr., Presidente da Câmara Municipal de Montemor-o-Velho:
+Faz público, que de harmonia com a decisão tomada em reunião de Câmara de 8 de outubro de 2012, foi deliberado, nos termos do artigo 118.º do Código de Procedimento Administrativo, submeter à apreciação pública pelo prazo de 30 dias úteis contados a partir da data da afixação do presente Edital, a proposta de alteração do "Regulamento de Atribuição de Bolsas de Estudo".
+Assim, nos termos do n.º 2 do artigo 118.º do Código de Procedimento Administrativo, os interessados, querendo, poderão consultar o mencionado documento na Unidade de Ação Social, da Divisão de Educação e Ação Social, desta Autarquia e no sítio da Internet deste Município, em www.cm-montemorvelho.pt podendo solicitar esclarecimentos ou formular sugestões sobre o conteúdo do mesmo, por escrito, até ao final do prazo acima fixado, fazendo o seu envio para a Câmara Municipal de Montemor-o-Velho, Unidade de Ação Social da Divisão de Educação e Ação Social, edifício dos Paços do Município, 3140-258 Montemor-o-Velho.
+9 de outubro de 2012. - O Presidente da Câmara Municipal, Luís Manuel Barbosa Marques Leal, Dr.
+306453735
