@@ -1,0 +1,6 @@
+Aviso n.º 14313/2012
+Projeto de Regulamento do Centro Municipal de Recolha e Proteção Animal do Concelho de Ansião
+Rui Alexandre Novo e Rocha, Presidente da Câmara Municipal de Ansião, torna público, de harmonia com o artigo 91.º da Lei n.º 169/99, de 18 de Setembro, com a alteração dada pela Lei n.º 5-A/2002, de 11 de Janeiro, que, por deliberação tomada em reunião camarária de 22 de setembro de 2012, e para os efeitos do prescrito no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91,de 15 de Novembro e alterado pelo Decreto-Lei n.º 6/96 de 31 de Janeiro, que se encontra em apreciação pública, pelo prazo de 20 dias(seguidos)contados da data de publicação deste anúncio na 2.ª série do Diário da República, o Projeto de Regulamento do Centro Municipal de Recolha e Proteção Animal do Concelho de Ansião, o qual poderá ser consultado nos serviços da Câmara Municipal de Ansião, dentro das horas de expediente dos mesmos, devendo os interessados dirigir, por escrito, as suas sugestões à Câmara Municipal de Ansião, Praça do Município, 3240-143 Ansião ou pelo email (geral@cm-ansiao.pt).
+Para constar e devidos efeitos se publica este aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+4 de outubro de 2012. - O Presidente da Câmara Municipal, Rui Alexandre Novo e Rocha.
+306437162
