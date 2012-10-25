@@ -1,0 +1,499 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "308",
+    "id": "37313",
+    "titulo": "Regula o cultivo de variedades agrícolas geneticamente modificadas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-10-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9048",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-10-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37275",
+        "leg": "XII",
+        "nr": "470",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1694",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-26",
+            "pubLeg": "XII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1694",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-26",
+            "pubLeg": "XII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/49?pgs=49-56&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proiba a importação, comercialização e cultivo dos organismos geneticamente modificados milho MON810 e batata amflora."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37311",
+        "leg": "XII",
+        "nr": "492",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1694",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-26",
+            "pubLeg": "XII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1694",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-26",
+            "pubLeg": "XII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/49?pgs=49-56&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Prevê a aplicação do princípio da precaução relativamente ao milho transgénico NK 603."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-10-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=02:42:06:934&drc=00:03:20:818"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=03:05:41:410&drc=00:03:21:043"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-26",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/49?pgs=49-50,54-55&org=PLC"
+              }
+            ],
+            "sumario": "Prevê a aplicação do princípio da precaução relativamente ao milho transgénico NK 603; Recomenda ao Governo que proiba a importação, comercialização e cultivo dos organismos geneticamente modificados milho MON810 e batata amflora; Regula o cultivo de variedades agrícolas geneticamente modificadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=02:45:33:753&drc=00:04:01:628"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=03:09:09:659&drc=00:02:25:341"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-26",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/50?pgs=50,55-56&org=PLC"
+              }
+            ],
+            "sumario": "Prevê a aplicação do princípio da precaução relativamente ao milho transgénico NK 603; Recomenda ao Governo que proiba a importação, comercialização e cultivo dos organismos geneticamente modificados milho MON810 e batata amflora; Regula o cultivo de variedades agrícolas geneticamente modificadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=02:49:41:383&drc=00:04:15:189"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-26",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Prevê a aplicação do princípio da precaução relativamente ao milho transgénico NK 603; Recomenda ao Governo que proiba a importação, comercialização e cultivo dos organismos geneticamente modificados milho MON810 e batata amflora; Regula o cultivo de variedades agrícolas geneticamente modificadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1733",
+                "nome": "Luís Pedro Pimentel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=02:54:03:133&drc=00:04:00:402"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-26",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Prevê a aplicação do princípio da precaução relativamente ao milho transgénico NK 603; Recomenda ao Governo que proiba a importação, comercialização e cultivo dos organismos geneticamente modificados milho MON810 e batata amflora; Regula o cultivo de variedades agrícolas geneticamente modificadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4134",
+                "nome": "Manuel Seabra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=02:58:09:252&drc=00:03:09:489"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-26",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Prevê a aplicação do princípio da precaução relativamente ao milho transgénico NK 603; Recomenda ao Governo que proiba a importação, comercialização e cultivo dos organismos geneticamente modificados milho MON810 e batata amflora; Regula o cultivo de variedades agrícolas geneticamente modificadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121025pln&url=l12/sl2/a2012/m10/&tI=03:01:25:186&drc=00:04:11:773"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "186528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-26",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Prevê a aplicação do princípio da precaução relativamente ao milho transgénico NK 603; Recomenda ao Governo que proiba a importação, comercialização e cultivo dos organismos geneticamente modificados milho MON810 e batata amflora; Regula o cultivo de variedades agrícolas geneticamente modificadas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287177",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "606180",
+        "obs": null,
+        "pag": [
+          "49-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-26",
+        "pubLeg": "XII",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/016/2012-10-26/49?pgs=49-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
