@@ -1,0 +1,6 @@
+Edital n.º 938/2012
+Maria Irene da Conceição Barata Joaquim, presidente da Câmara Municipal de Vila de Rei:
+Torna público, no uso da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º, conjugado com o artigo 91.º, ambos da Lei n.º 169/99, de 18 de setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de janeiro, que a Câmara Municipal de Vila de Rei, na reunião camarária, realizada a 8 de outubro de 2012, deliberou submeter a apreciação pública uma proposta de "Projeto de regulamento do serviço de teleassistência a idosos", em cumprimento do n.º 1 do artigo 118.º do Código do Procedimento Administrativo (Decreto-Lei n.º 6/96, de 31 de janeiro).
+Assim, durante o período de 30 dias, a contar da data da publicação do presente edital, no Diário da República, poderá a Proposta de Projeto de Regulamento, ser consultada no Edifício dos Paços do Concelho, na Divisão de Coordenação Planeamento Estratégico e Auditoria, sobre a qual os interessados devem dirigir por escrito as suas sugestões à Presidente da Câmara Municipal de Vila de Rei, nos termos do n.º 2 do artigo 118.º do Decreto-Lei n.º 6/96 de 31 de janeiro.
+10 de outubro de 2012. - A Presidente da Câmara, Maria Irene da Conceição Barata Joaquim.
+306460774
