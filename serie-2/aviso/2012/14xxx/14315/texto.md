@@ -1,0 +1,9 @@
+Aviso n.º 14315/2012
+Alterações a Regulamentos Municipais no âmbito do Licenciamento Zero
+Carlos Alberto Oliveira Henriques, Vereador a Tempo Inteiro da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.os 1 e 2 do citado artigo, não tendo sido registadas quaisquer reclamações às alterações efetuadas aos seguintes Regulamentos, por necessidade de adaptação regulamentar ao Decreto-Lei n.º 48/2011, de 01 de abril (diploma que simplifica o regime do exercício de diversas atividades económicas, no âmbito da iniciativa "Licenciamento Zero"), alterações essas que foram aprovadas pelo Executivo na sua reunião ordinária de 30/08/2012, conforme deliberação n.º 2012/0457/D.A.G. /D.O.T. (SAA) e pela Assembleia Municipal na sua reunião ordinária realizada em 21/09/2012:
+Alterações ao Regulamento Municipal da Atividade de Exploração de Máquinas Automáticas, Mecânicas, Elétricas e Eletrónicas de Diversão previstas no Decreto-Lei n.º 264/2002, de 25 de novembro, e no Decreto-Lei n.º 310/2002, de 18 de dezembro - publicadas no D.R., 2.ª série, n.º 90, de 09/05/2012 (Aviso n.º 6341/2012);
+Alterações ao Regulamento Municipal de Licenciamento das Atividades Diversas previstas no Decreto-Lei n.º 264/2002, de 25 de novembro, e no Decreto-Lei n.º 310/2002, de 18 de dezembro - publicadas no D.R., 2.ª série, n.º 90, de 09/05/2012 (Aviso n.º 6342/2012);
+Alterações ao Regulamento Municipal de Operações Urbanísticas - publicadas no D.R., 2.ª série, n.º 84, de 30/04/2012 (Aviso n.º 5985/2012)
+Mais se torna público que as citadas alterações poderão ser consultadas no portal do Município (www.cm-batalha.pt).
+10 de outubro de 2012. - O Vereador a Tempo Inteiro da Câmara Municipal da Batalha, Carlos Alberto Oliveira Henriques.
+306447239
