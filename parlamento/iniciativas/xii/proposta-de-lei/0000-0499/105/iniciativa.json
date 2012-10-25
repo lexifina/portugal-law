@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "105",
+  "id": "37329",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-10-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595755315a474d35596a55744f544d354e7930304d6a41334c574a685a446b744e5463324d574d7a4e57566b596a4d794c6e426b5a673d3d&fich=ae5dc9b5-9397-4207-bad9-5761c35edb32.pdf&Inline=true",
+        "anexoNome": "Parecer da ASCR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a4d794d7a59344d4463744e544e6b5a533030596a4d324c546b78596a63744d7a4d334d7a68695a6a45315a444e6b4c6e426b5a673d3d&fich=c3236807-53de-4b36-91b7-33738bf15d3d.pdf&Inline=true",
+        "anexoNome": "Parecer da ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47566b4d7a41314e6a59744f4745304e6930305a6d45314c574a695a6d51744e4451344d6a5a695a57497a4d57466c4c6e426b5a673d3d&fich=ded30566-8a46-4fa5-bbfd-44826beb31ae.pdf&Inline=true",
+        "anexoNome": "Parecer da ASOR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a59344d6d526c4e6a4d745a445577596930305a6a4e6b4c5749354e4467744e32457a5a5455794d7a6b324e6d566b4c6e426b5a673d3d&fich=f682de63-d50b-4f3d-b948-7a3e523966ed.pdf&Inline=true",
+        "anexoNome": "Parecer da ASOR (2)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a6c6c4f444a694e7a67744e7a4531596930304d4463304c57466a5a5467744e6a457959544d785a5449784e7a5a694c6e426b5a673d3d&fich=69e82b78-715b-4074-ace8-612a31e2176b.pdf&Inline=true",
+        "anexoNome": "Parecer do CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a5178595445324e4463744e5755324e4330305a44566d4c57466a5a5441744e6a4d354d6a4135597a49334f445a6a4c6e426b5a673d3d&fich=641a1647-5e64-4d5f-ace0-639209c2786c.pdf&Inline=true",
+        "anexoNome": "Parecer do CSMP (Aditamento)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5755304f544e684d5451744d6a6379597930305a6a63344c546730595441744d6a566a59574d775a4451354e4755784c6e426b5a673d3d&fich=9e493a14-272c-4f78-84a0-25cac0d494e1.pdf&Inline=true",
+        "anexoNome": "Parecer do CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a67304e47566c4e6a6b74597a6b34597930304e444d334c5745324d325574596a6c6c59545530596d526c593249324c6e426b5a673d3d&fich=7844ee69-c98c-4437-a63e-b9ea54bdecb6.pdf&Inline=true",
+        "anexoNome": "Parecer do CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d55774e325932596a51745957466d5a6930304e5456694c5467774d3249744f5441774e4451354d4467784e4755334c6e426b5a673d3d&fich=6e07f6b4-aaff-455b-803b-9004490814e7.pdf&Inline=true",
+        "anexoNome": "Parecer da Ordem Notários"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d474d344d6a41354e546b744e7a5933596930305a44466a4c5749334d446b744f545a6d4d6a4d335a4441784d54646b4c6e426b5a673d3d&fich=0c820959-767b-4d1c-b709-96f237d0117d.pdf&Inline=true",
+        "anexoNome": "Parecer da Camara dos Solicitadores"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37329",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659544130597a646b4e6a6b744e4445354f5330304f546c6c4c546b784e3249744d5455354d475a68595464695a6d5a684c6d527659773d3d&fich=a04c7d69-4199-499e-917b-1590faa7bffa.doc&Inline=true",
+    "IniNr": "105",
+    "IniObs": "Texto inicial substituído a pedido do autor da iniciativa em 14-11-2012.",
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova o Regime Jurídico do Processo de Inventário.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
