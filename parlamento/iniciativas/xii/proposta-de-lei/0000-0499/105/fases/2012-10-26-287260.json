@@ -1,0 +1,251 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "105",
+    "id": "37329",
+    "titulo": "Aprova o Regime Jurídico do Processo de Inventário."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-10-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "29908",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-11-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-11-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Câmara dos Solicitadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a6d56684d4451784d4330304e4455794c5451774e7a5574596a55334e4330355a6a55324d544d794e6a4d314d7a67756347526d&fich=7fea0410-4452-4075-b574-9f5613263538.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e6a566b596d49304d7930334d6d45334c5451335a6a45744f57526d5a69307a4f4451354d4455354f5455784f5445756347526d&fich=565dbb43-72a7-47f1-9dff-384905995191.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6d56694e575130595331694d7a6b794c5451774d6a6b744f545579596930314e7a677a5a54597a595449774f544d756347526d&fich=16eb5d4a-b392-4029-952b-5783e63a2093.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d6d59784d57517a5a43316a595463334c5451344e4449744f5449334e43316b596d4d794e4749354d57526d4d7a51756347526d&fich=32f11d3d-ca77-4842-9274-dbc24b91df34.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a5755784f446b7a596930315a6d46684c545134597a51744f5449354e5330324d6a49315a6a526d5954526d4d3255756347526d&fich=6ee1893b-5faa-48c4-9295-6225f4fa4f3e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Notários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e6a6c684f446b314e793168596d4d324c5451354e7a41744f54497a4e69316c4e5749344e6a466d4d6a646b4e3259756347526d&fich=e69a8957-abc6-4970-9236-e5b861f27d7f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e6d59355a5463314f5330304d6a67304c5451354e3245744f4441775a6930344f574d774e7a566d4f5755354d7a59756347526d&fich=26f9e759-4284-497a-800f-89c075f9e936.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-11-16"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-11-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-11-14"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2012-11-27"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2012-11-21"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Notários em 2012-11-27"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-10-31"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-10-31"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-10-31"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2012-10-31"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2012-10-31"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Notários em 2012-10-31"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "52-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-12",
+            "pubLeg": "XII",
+            "pubNr": "50",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/050/2012-12-12/52?pgs=52-63&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "52-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-12",
+            "pubLeg": "XII",
+            "pubNr": "50",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/050/2012-12-12/52?pgs=52-63&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4030",
+            "motivoCessacao": null,
+            "nome": "Carlos Peixoto"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2195",
+            "motivoCessacao": null,
+            "nome": "Ricardo Rodrigues"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-12-12",
+            "dataRemessa": "2012-12-12",
+            "numeroOficio": "1657/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-12-12",
+            "descricao": null,
+            "detalhe": null,
+            "id": "62267",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "111",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-10-26",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287260",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
