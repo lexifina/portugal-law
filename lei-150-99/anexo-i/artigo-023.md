@@ -13,3 +13,5 @@
 5 - Não obstante o disposto nos n.os 1 e 4, havendo simultaneamente sujeição ao imposto das verbas 1.1 e 1.2 da tabela geral, à liquidação do imposto são aplicáveis as regras do artigo 25.º
 
 6 - Nos documentos e títulos sujeitos a imposto são mencionados o valor do imposto e a data da liquidação.
+
+7 - Tratando-se do imposto devido pelas situações previstas na verba n.º 28 da Tabela Geral, o imposto é liquidado anualmente, em relação a cada prédio urbano, pelos serviços centrais da Autoridade Tributária e Aduaneira, aplicando-se, com as necessárias adaptações, as regras contidas no CIMI.

@@ -9,3 +9,5 @@
 3 - No caso de o imposto ser devido pela herança, o documento de cobrança é extraído em nome do autor da herança com o aditamento «Cabeça-de-casal da herança de» e identificado pelo número fiscal que for atribuído à herança, nos termos do artigo 81.º do CIMI.
 
 4 - O documento de cobrança de cada prestação ou da totalidade do imposto é enviado ao interessado até ao fim do mês anterior ao do pagamento.
+
+5 - Havendo lugar a liquidação do imposto a que se refere verba n.º 28 da Tabela Geral, o documento de cobrança é emitido nos prazos, termos e condições definidos no artigo 119.º do CIMI, com as devidas adaptações.

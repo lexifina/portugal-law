@@ -44,4 +44,6 @@ r) Nas aquisições por usucapião, na data em que transitar em julgado a acçã
 
 s) (Revogada.)
 
-Nos prémios do bingo, das rifas e do jogo do loto, bem como em quaisquer prémios de sorteios ou de concursos, no momento da atribuição.
+t)Nos prémios do bingo, das rifas e do jogo do loto, bem como em quaisquer prémios de sorteios ou de concursos, no momento da atribuição.
+
+u) Nas situações previstas na verba n.º 28 da Tabela Geral, no momento e de acordo com as regras previstas no CIMI, com as devidas adaptações.

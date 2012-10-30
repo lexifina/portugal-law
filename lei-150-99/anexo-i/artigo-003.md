@@ -46,4 +46,6 @@ s) Em quaisquer outros actos, contratos e operações, o requerente, o requisita
 
 t) Nos prémios do bingo, das rifas e do jogo do loto, bem como em quaisquer prémios de sorteios ou de concursos, o beneficiário.
 
+u) Nas situações previstas na verba n.º 28 da Tabela Geral, o sujeito passivo referido no n.º 4 do artigo anterior.
+
 4 - (Revogado.)

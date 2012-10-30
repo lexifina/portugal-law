@@ -49,3 +49,5 @@ t) As aquisições onerosas ou a título gratuito de imóveis por entidades púb
 4 - O disposto na alínea p) do n.º 1 não se aplica quando se trate de imposto devido nos termos da verba n.º 11.2 da Tabela Geral.
 
 5 - Mantêm-se em vigor as isenções nas transmissões gratuitas, constantes de acordos entre o Estado e quaisquer pessoas, de direito público ou privado.
+
+6 - São ainda aplicáveis às situações previstas na verba n.º 28 da Tabela Geral as isenções previstas no artigo 44.º do Estatuto dos Benefícios Fiscais.

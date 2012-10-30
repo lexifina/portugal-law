@@ -9,3 +9,5 @@
 3 - Havendo lugar a liquidação do imposto pelos serviços da administração fiscal, o sujeito passivo é notificado para efectuar o seu pagamento no prazo de 30 dias, sem prejuízo do disposto no n.º 1 do artigo 45.º
 
 4 - Havendo lugar a liquidação do imposto pelos sujeitos passivos referidos no n.º 3 do artigo 2.º, excepto tratando-se de situações em que há lugar à sujeição simultânea das verbas 1.1 e 1.2 da tabela geral, o imposto é pago nos prazos, termos e condições definidos no artigo 36.º do CIMT.
+
+5 - Havendo lugar a liquidação do imposto a que se refere verba n.º 28 da Tabela Geral, o imposto é pago nos prazos, termos e condições definidos no artigo 120.º do CIMI.

@@ -10,7 +10,7 @@
 
 ### Incidência objectiva
 
-1 - O imposto do selo incide sobre todos os actos, contratos, documentos, títulos, papéis e outros factos previstos na Tabela Geral, incluindo as transmissões gratuitas de bens.
+1 - O imposto do selo incide sobre todos os atos, contratos, documentos, títulos, papéis e outros factos ou situações jurídicas previstos na Tabela Geral, incluindo as transmissões gratuitas de bens.
 
 2 - Não são sujeitas a imposto as operações sujeitas a imposto sobre o valor acrescentado e dele não isentas.
 
