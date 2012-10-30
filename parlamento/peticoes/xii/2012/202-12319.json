@@ -1,0 +1,796 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12319",
+  "numero": "202",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-10-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-11-28",
+            "entidades": null,
+            "id": "96287",
+            "tipo": null,
+            "titulo": "Audição em 2012-11-28 com Fernando Eduardo Rodrigues Batista, Plataforma \"Mantenham a Brandoa no mapa das freguesias\" - Pet 187/XII, Luís Filipe Rodrigues Lima - Pet 202/XII, Plataforma pelas Freguesias de Cascais - Pet 201/XII"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2012-12-07",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "614454",
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/061/2012-12-15?org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-11-20",
+        "DataArquivo": "2012-12-11",
+        "DataBaixaComissao": "2012-11-02",
+        "DataEnvioPAR": "2012-12-11",
+        "DataReaberta": "2012-11-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-11-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6c6a5a5459305a47517a4c5445324e3249744e444d784f4331695a5459784c54646a4e7a63774e7a4a6d596a4579596935775a47593d&fich=9ce64dd3-167b-4318-be61-7c77072fb12b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2012-12-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6b794e5445334e4451344c57466d4e7a63744e4467304e7931694e324d304c545131596d59315a57457a5a474d304e7935775a47593d&fich=92517448-af77-4847-b7c4-45bf5ea3dc47.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-11-20",
+            "gp": "PSD",
+            "id": "4327",
+            "motivoCessacao": null,
+            "nome": "Carlos Abreu Amorim"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2012-12-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-11-22",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a63314e7a4d355a6d49324c544d7a4d7a55744e4463325a4331685a6d4e6a4c544a6d4d6d526959575a6a4f4449334d6935775a47593d&fich=75739fb6-3335-476d-afcc-2f2dbafc8272.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=01:31:30:414&drc=00:05:00:230"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=01:36:37:455&drc=00:03:25:697"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:24:31:595&drc=00:02:58:641"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/29?pgs=29-30,44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=01:40:14:326&drc=00:03:24:972"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=01:43:44:418&drc=00:04:23:068"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=01:48:15:280&drc=00:12:35:764"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/33?pgs=33-36&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:01:15:197&drc=00:04:41:073"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/36?pgs=36-38&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:06:08:961&drc=00:04:30:162"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:10:55:222&drc=00:04:41:493"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:15:49:280&drc=00:00:44:000"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:17:14:189&drc=00:01:13:183"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:18:33:851&drc=00:04:38:207"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187734",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2012-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:23:43:227&drc=00:00:39:870"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121214pln&url=l12/sl2/a2012/m12/&tI=02:27:38:135&drc=00:00:12:029"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-15",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Projetos de Lei - Revoga a Lei n.º 22/2012, de 30 de maio, que aprova o regime jurídico da reorganização administrativa territorial autárquica (PCP); Revoga o regime jurídico da reorganização administrativa territorial autárquica, aprovado pela Lei n.º 22/2012, de 30 de maio (BE);  Procede à revogação da Lei n.º 22/2012, de 30 de maio (Regime jurídico da reorganização administrativa territorial autárquica) (Os Verdes) e Petições: Apresentada por Ana Cristina Pardal Ribeiro (Presidente da Câmara Municipal de Salvaterra de Magos) e outros, solicitando à Assembleia da República a adoção de medidas para defesa das freguesias do concelho de Salvaterra de Magos; Apresentada pela Junta de Freguesia de Arez, manifestando-se à Assembleia da República contra a extinção de freguesias; Apresentada por António Joaquim da Silva Danado (Presidente da Junta de Freguesia de Nossa Senhora da Vila) e outros, manifestando-se à Assembleia da República contra o Livro Verde da Reforma Administrativa; Apresentada pela Plataforma Freguesias SIMtra, solicitando à Assembleia da República a suspensão do processo de reorganização administrativa territorial autárquica; Apresentada por Ana Teresa Vicente (Presidente da Câmara Municipal de Palmela) e outros, manifestando-se à Assembleia da República contra a extinção de freguesias no concelho de Palmela; Apresentada pelo Movimento Freguesias SIM, pela Nossa Terra, solicitando à Assembleia da República a promoção de diligências com vista à revogação à Lei n.º 22/2012, em defesa das freguesias e das suas populações; Apresentada por Nuno Miguel Fialho Cavaco (Presidente da Junta de Freguesia de Baixa da Banheira) e outros, solicitando à Assembleia da República que promovam todas as iniciativas de âmbito legislativo, por forma a garantir a revogação de toda a legislação que vise a extinção, fusão ou agregação de freguesias; ...",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12319",
+    "PetAssunto": "Reorganização Administrativa Territorial Autárquica do Concelho de Loulé - União de Freguesias de Querença, Tôr e Benafim.",
+    "PetDataEntrada": "2012-10-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12319",
+    "PetLeg": "XII",
+    "PetNr": "202",
+    "PetNrAssinaturas": "1311",
+    "PetNrAssinaturasInicial": "1311",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1727",
+        "obs": null,
+        "pag": [
+          "28-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-12-15",
+        "pubLeg": "XII",
+        "pubNr": "31",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/031/2012-12-15/28?pgs=28-45&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "607178",
+        "obs": null,
+        "pag": [
+          "7-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-24",
+        "pubLeg": "XII",
+        "pubNr": "45",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/045/2012-11-24/7?pgs=7-9&org=PLC"
+      }
+    ]
+  }
+}
