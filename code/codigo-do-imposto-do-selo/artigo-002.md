@@ -41,3 +41,5 @@ a) Nas sucessões por morte, o imposto é devido pela herança, representada pel
 b) Nas demais transmissões gratuitas, incluindo as aquisições por usucapião, o imposto é devido pelos respectivos beneficiários.
 
 3 - Não obstante o disposto no n.º 1, nos actos ou contratos da verba 1.1 da tabela geral, são sujeitos passivos do imposto as pessoas singulares ou colectivas para quem se transmitam os bens.
+
+4 - Nas situações previstas na verba n.º 28 da Tabela Geral, são sujeitos passivos do imposto os referidos no artigo 8.º do CIMI.

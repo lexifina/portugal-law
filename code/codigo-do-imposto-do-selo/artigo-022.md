@@ -8,4 +8,4 @@
 
 3 - Quando mais de uma taxa estiver prevista, aplica-se a maior.
 
-4 - O disposto nos n.os 2 e 3 não se aplica aos factos previstos nas verbas n.os 1.1, 1.2 e 11.2 da Tabela Geral.
+4 - O disposto nos n.os 2 e 3 não se aplica aos factos previstos nas verbas n.os 1.1, 1.2, 11.2 e 28 da Tabela Geral.

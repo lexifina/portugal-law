@@ -33,3 +33,5 @@ e) Os valores monetários depositados em instituições com sede, direcção efe
 f) Os direitos de propriedade industrial, direitos de autor e direitos conexos registados ou sujeitos a registo em território nacional.
 
 5 - Nas transmissões gratuitas, consideram-se domiciliadas em território nacional as pessoas referidas no artigo 16.º do Código do IRS.
+
+6 - Nas situações previstas na verba n.º 28 da Tabela Geral, o imposto é devido sempre que os prédios estejam situados em território português.
