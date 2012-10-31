@@ -2,4 +2,4 @@
 
 ### Definição da rede
 
-A rede de cursos de ensino português no estrangeiro referidos no n.º 2 do artigo 5.º é aprovada por despacho conjunto dos Ministros dos Negócios Estrangeiros e da Educação, por proposta do serviço da administração central do Estado responsável pela organização do ensino português no estrangeiro, uma vez ouvidas as estruturas de coordenação referidas no capítulo II do presente decreto-lei.
+A rede de cursos do ensino português no estrangeiro referidos no n.º 1 do artigo 5.º é aprovada por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, publicado no Diário da República, mediante proposta do Camões, I. P., ouvidas as estruturas de coordenação referidas no capítulo ii.

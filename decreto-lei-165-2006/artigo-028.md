@@ -2,6 +2,6 @@
 
 ### Acumulações
 
-1 - Aos docentes de ensino português no estrangeiro só pode ser autorizada a acumulação de funções desde que não se verifique incompatibilidade material ou prejuízo para o serviço, nos termos previstos no Estatuto da Carreira Docente e na Portaria n.º 814/2005, de 13 de Setembro.
+1 - O exercício das funções de docente do ensino português no estrangeiro pode ser acumulado com outras funções nos termos previstos na Lei n.º 12-A/2008, de 27 de Fevereiro, mediante despacho de autorização do presidente do Camões, I. P., obtida a concordância da instituição em que preste serviço.
 
-2 - Compete ao ministro com a tutela da organização do ensino português no estrangeiro a autorização de acumulação de funções, mediante parecer do coordenador responsável pelo país ou área consular em que o docente exerça funções.
+2 - Ao leitor e professor da rede do ensino português no estrangeiro pode ser cometida, pelo presidente do Camões, I. P., a gestão de um centro de língua e a inerente responsabilidade pela elaboração e execução do correspondente plano anual de atividades.
