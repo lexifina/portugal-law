@@ -1,0 +1,403 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "103",
+    "id": "37290",
+    "titulo": "Aprova o Orçamento do Estado para 2013."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-10-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "29930",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2012-11-05",
+            "id": "93852",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-05",
+            "id": "93850",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-06",
+            "id": "93854",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-07",
+            "id": "93865",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-08",
+            "id": "93873",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-08",
+            "id": "93872",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-08",
+            "id": "93871",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-09",
+            "id": "93893",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-09",
+            "id": "93892",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-09",
+            "id": "93891",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-12",
+            "id": "93896",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-13",
+            "id": "93899",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-13",
+            "id": "93898",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-14",
+            "id": "93912",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-14",
+            "id": "93910",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-11-15",
+            "id": "93932",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2012-11-02",
+            "id": "93849",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-02",
+            "id": "93847",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-02",
+            "id": "93846",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-02",
+            "id": "93845",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-02",
+            "id": "93844",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-07",
+            "id": "93881",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-07",
+            "id": "93878",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-07",
+            "id": "93875",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-08",
+            "id": "93879",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-09",
+            "id": "93895",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-09",
+            "id": "93894",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-13",
+            "id": "93907",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-13",
+            "id": "93906",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-15",
+            "id": "93933",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2012-11-22",
+            "id": "94015",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-11-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-10-31",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-11-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da ANMP - Associação Nacional dos Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6c4d325133596d466a4c57566d4d6a4d744e445a6b5a6930345a4459344c5451345a6a55315a6a6c684e6a566d4e5335775a47593d&fich=fe3d7bac-ef23-46df-8d68-48f55f9a65f5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP - Confederação Geral dos Trabalhadores Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b774e6d55784d6d46684c5455775a5445744e475a6d597931685a6a6b774c5441784e5745344e5759775a54566a4e4335775a47593d&fich=906e12aa-50e1-4ffc-af90-015a85f0e5c4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FEBASE - Federação do Setor Financeiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49354d7a6c6d4d324e6a4c5759324e4455744e444d784d5331685a6a6b314c544d785a44646d4e475a685a4755335a6935775a47593d&fich=2939f3cc-f645-4311-af95-31d7f4fade7f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FS - Frente Sindical",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526b5a44426b5a6a45314c57566a4d7a63744e4463304f533168596a4d314c544a6b4d3255794e7a426c4d32526d5a4335775a47593d&fich=ddd0df15-ec37-4749-ab35-2d3e270e3dfd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da UGT - União Geral dos Trabalhadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a694d3249784e7a5a6b4c5459335a6a41744e47566d4f4330355a6d45784c5759774e6d59314d474a6c4f546c694f4335775a47593d&fich=2b3b176d-67f0-4ef8-9fa1-f06f50be99b8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SFP - Sindicato dos Funcionários Parlamentares",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d4d54686d4e7a55344c546b33596d51744e446b794e6930344f5464684c544e6d4f5449355a5746685a444934596935775a47593d&fich=9f18f758-97bd-4926-897a-3f929eaad28b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-11-30",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Discussão e Votação na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259354f4446694f44686b4c5459314e5451744e4445784e4331685a4467354c544a6b4f445a6c597a526c4e6a45784e5335515245593d&fich=f981b88d-6554-4114-ad89-2d86ec4e6115.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e anexos",
+            "pag": [
+              "102-104"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-03",
+            "pubLeg": "XII",
+            "pubNr": "43",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/043/2012-12-03/102?pgs=102-104&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e anexos",
+            "pag": [
+              "102-104"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-03",
+            "pubLeg": "XII",
+            "pubNr": "43",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/043/2012-12-03/102?pgs=102-104&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-11-28",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2012-11-28",
+            "dataRemessa": "2012-11-30",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2012-11-28",
+            "descricao": "Relatório de Discussão e Votação na Especialidade - Artigo a Artigo",
+            "detalhe": null,
+            "id": "62194",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "126",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-10-31",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287323",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960697",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-23",
+        "pubLeg": "XII",
+        "pubNr": "1",
+        "pubSL": "2",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/02/001/2012-11-23?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960698",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-24",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "2",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/02/002/2012-11-24?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960699",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-27",
+        "pubLeg": "XII",
+        "pubNr": "3",
+        "pubSL": "2",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/02/003/2012-11-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
