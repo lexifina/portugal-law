@@ -1,0 +1,6 @@
+Aviso n.º 14667/2012
+Dr. Manuel da Silva Soares, Presidente da Câmara Municipal de Sever do Vouga, torna público, em cumprimento do disposto no artigo 91.º da Lei n.º 169/99, de 18 de setembro, com as alterações da Lei n.º 5-A/2002, de 11 de janeiro, que por deliberação da reunião de Câmara, de 10 de outubro de 2012, foi aprovado o projeto de revisão do Regulamento e Tabela de Taxas e Outras Receitas Municipais, bem como a fundamentação económica das mesmas.
+Foi ainda deliberado, nos termos do artigo 118.º do Código do Procedimento Administrativo, proceder à discussão pública do referido projeto de revisão, pelo que, convidam-se todos os interessados a consultarem-no, no Departamento Administrativo e Financeiro da Autarquia ou na página eletrónica do Município de Sever do Vouga (http://www.cm-sever.pt) e a formularem as sugestões e observações que entenderem convenientes, dentro do prazo de 30 dias a contar da presente publicação no Diário da República 2.ª série, por requerimento escrito dirigido ao senhor Presidente da Câmara ou por correio eletrónico para o endereço: cm.sever@cm-sever.pt.
+E para constar e demais efeitos se publicam este aviso e outros de igual teor, que vão ser afixados nos locais habituais, num jornal local e na página do Município de Sever do Vouga.
+23 de outubro de 2012. - O Presidente da Câmara, Dr. Manuel da Silva Soares.
+306480181
