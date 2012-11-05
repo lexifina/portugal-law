@@ -1,0 +1,5 @@
+Despacho n.º 14333/2012
+Fernanda Maria Pereira Asseiceira, Presidente da Câmara Municipal de Alcanena, torna público que, no cumprimento do artigo 10.º do Decreto-Lei n.º 305/2009, de 23 de outubro, a Assembleia Municipal de Alcanena, deliberou na sessão ordinária de 28 de setembro de 2012, aprovar o modelo de estrutura orgânica dos serviços municipais, bem como a estrutura nuclear constituída por cinco unidades orgânicas flexíveis e uma subunidade orgânica. Aprovou ainda, as competências genéricas dos cargos de direção intermédia de 3.º grau, o recrutamento, seleção e contratação e respetiva remuneração, cumpridas as regras e critérios agora previstos na Lei n.º 49/2012, de 29 de agosto.
+Mais torna público que, conforme disposto no n.º 1 do artigo 25.º da Lei n.º 49/2012, de 29 de agosto e bem assim, do artigo 7.º do Decreto-Lei n.º 305/2009, de 23 de outubro, a Câmara Municipal de Alcanena, na reunião de 22 de outubro de 2012, aprovou, sob proposta da Presidente, o Regulamento de Organização dos Serviços Municipais.
+23 de outubro de 2012. - A Presidente da Câmara Municipal, Fernanda Maria Pereira Asseiceira.
+206489879
