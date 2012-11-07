@@ -1,0 +1,9 @@
+Aviso n.º 14983/2012
+Plano de pormenor do bairro das Sortes em Mogadouro
+João Manuel dos Santos Henriques, Vereador com Competências Delegadas da Câmara Municipal de Mogadouro, torna público, para os efeitos consignados no Decreto-Lei n.º 380/99 de 22 de setembro, com as alterações introduzidas pelo Decreto-Lei n.º 310/03 de 10 de dezembro, pelo Decreto-Lei n.º 316/07 de 19 de setembro, e pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, que a Câmara Municipal de Mogadouro, em reunião realizada em 25 de setembro de 2012, tendo por base a informação n.º 453/2012 da Unidade Orgânica de Ordenamento do Território e Urbanismo, deliberou por unanimidade, proceder à abertura do período de Discussão Pública do Plano de pormenor do bairro das Sortes em Mogadouro.
+De igual modo se leva ao conhecimento do público em geral que o referido Plano, acompanhado das necessários pareceres das entidades externas, estará exposto para consulta na Unidade Orgânica de Ordenamento de Território e Urbanismo da Câmara Municipal de Mogadouro, localizada no rés do chão do edifício dos Paços do Concelho no Largo do convento de S. Francisco em horário das 9h00 m às 17h30 de segunda a sexta.
+O período de discussão/consulta pública, nos termos da legislação supra mencionada, será de22 dias úteis, contados a partir do 6.º dia após a data de publicação do aviso correspondente em Diário da República.
+Todas as sugestões, observações ou pedidos de esclarecimentos deverão ser apresentados por escrito, dirigidos ao Senhor Presidente da Câmara Municipal de Mogadouro, com a identificação do assunto, devendo, igualmente, ser acompanhados da identificação do munícipe com a residência completa e o número de contribuinte. Poderão ainda ser remetidos para o endereço presidente@mogadouro.pt.
+Não serão considerados os documentos que forem apresentados sem os elementos solicitados.
+31 de outubro de 2012. - O Vereador, com competências delegadas, João Henriques, Dr.
+206499039
