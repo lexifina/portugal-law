@@ -1,0 +1,557 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12329",
+  "numero": "212",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-11-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2012-12-18",
+            "entidades": null,
+            "id": "94198",
+            "tipo": null,
+            "titulo": "Audição em 2012-12-18 com António Vicente, Raúl Jorge, Paulo Peixoto"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2012-11-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "410/8ªCECC/2012",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2012-12-27",
+                "dataResposta": "2013-03-14",
+                "nrOficio": "452/CECC/2012",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-30",
+            "dataResposta": "2012-12-20",
+            "entidades": [
+              "Secretário de Estado da Administração Pública"
+            ],
+            "nrOficio": "410/8ªCECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-30",
+            "dataResposta": "2012-12-27",
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "411/8ªCECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2012-11-30",
+            "dataResposta": null,
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "412/8ªCECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-01-22",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "614470",
+                "obs": null,
+                "pag": [
+                  "8-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/089/2013-01-26/8?pgs=8-11&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2012-11-28",
+        "DataArquivo": "2013-01-22",
+        "DataBaixaComissao": "2012-11-16",
+        "DataEnvioPAR": "2013-01-23",
+        "DataReaberta": "2012-11-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-11-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325178595759334d7a55774c5451304e5459744e474a684d6930354e6a4d7a4c54497a4d32566c4d7a56694e6a4d784d6935775a47593d&fich=d1af7350-4456-4ba2-9633-233ee35b6312.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-01-21",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41335a6a67785a6a55354c5467784e6a45744e444e694d6930355a6d55314c5459784f5467334f5459314d6a49794e5335775a47593d&fich=07f81f59-8161-43b2-9fe5-619879652225.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2012-11-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6335596d4e694e575a684c54417a4e6a41744e444d324f4330354e6d51314c5455794d7a45315a6a63354d6a5a684f5335515245593d&fich=79bcb5fa-0360-4368-96d5-52315f7926a9.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6a4d7a45315a57566a4c5459774e3245744e47497a4e7930355a4449324c5751774e4455355a4463784d325a6a4d6935515245593d&fich=cc315eec-607a-4b37-9d26-d0459d713fc2.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a684d6d526a5957466a4c546b304e6a55744e4759314d4330345a474a694c5467784d4751795a5463314d546b794e5335515245593d&fich=6a2dcaac-9465-4f50-8dbb-810d2e751925.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686a4d6d466a4d474a684c5751775a6d51744e44557a5a5331695a4449344c544d335a4749304e575a69596a41314e6935515245593d&fich=8c2ac0ba-d0fd-453e-bd28-37db45fbb056.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-11-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526a4d3255355a546b784c54526d596d55744e444a684d6931694d7a51304c574d794d324e6c4e5749354e7a4d7a4f5335515245593d&fich=dc3e9e91-4fbe-42a2-b344-c23ce5b97339.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-01-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b344e4749354e5755304c546b31593255744e47453559693034596d4d324c5451785a5459354e6d5534597a59794d5335775a47593d&fich=984b95e4-95ce-4a9b-8bc6-41e696e8c621.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-01-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67304d544933596a51304c5441304d6a55744e4759344d6931695a6a63304c544e6d4f54426d4d7a59794e574a6b4d7935515245593d&fich=84127b44-0425-4f82-bf74-3f90f3625bd3.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259774e7a59354d32566d4c575579597a6b744e445a6d4e4330354d4759794c5756695a4749345954493159574d7a4e5335515245593d&fich=f07693ef-e2c9-46f4-90f2-ebdb8a25ac35.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566c4d54686c5a6a637a4c546b77595451744e445978597930354e5745774c57466a4e5441795a444d784e475978595335515245593d&fich=5e18ef73-90a4-461c-95a0-ac502d314f1a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2012-12-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6c694d574d355a4745774c54517a597a41744e445930595330354f54557a4c5442694d7a67314d5463304d54646b5a5335515245593d&fich=9b1c9da0-43c0-464a-9953-0b38517417de.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2012-11-28",
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-04-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2012-11-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325935596a51795a6a457a4c5451775a5745744e445a694e7931684e6a4d314c5459354d446c6c4f44686d5a6d45774e6935515245593d&fich=f9b42f13-40ea-46b7-a635-6909e88ffa06.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "37649"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130418pln&url=l12/sl2/a2013/m04/&tI=02:02:34:914&drc=00:02:39:930"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130418pln&url=l12/sl2/a2013/m04/&tI=02:19:30:634&drc=00:01:16:153"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-19",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/080/2013-04-19/31?pgs=31-32,36&org=PLC"
+              }
+            ],
+            "Sumario": "Adequação das remunerações universitárias aos graus e títulos académicos; Pelo cumprimento das obrigações legais do Estado para com o ensino superior e a ciência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130418pln&url=l12/sl2/a2013/m04/&tI=02:05:19:224&drc=00:02:06:775"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189530",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-19",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/080/2013-04-19/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Adequação das remunerações universitárias aos graus e títulos académicos; Pelo cumprimento das obrigações legais do Estado para com o ensino superior e a ciência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130418pln&url=l12/sl2/a2013/m04/&tI=02:07:32:027&drc=00:02:26:250"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130418pln&url=l12/sl2/a2013/m04/&tI=02:18:11:394&drc=00:01:16:240"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33",
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-19",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/080/2013-04-19/33?pgs=33,35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Adequação das remunerações universitárias aos graus e títulos académicos; Pelo cumprimento das obrigações legais do Estado para com o ensino superior e a ciência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130418pln&url=l12/sl2/a2013/m04/&tI=02:10:03:625&drc=00:03:51:128"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-19",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/080/2013-04-19/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Adequação das remunerações universitárias aos graus e títulos académicos; Pelo cumprimento das obrigações legais do Estado para com o ensino superior e a ciência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-04-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130418pln&url=l12/sl2/a2013/m04/&tI=02:13:58:441&drc=00:04:07:829"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-19",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/080/2013-04-19/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Adequação das remunerações universitárias aos graus e títulos académicos; Pelo cumprimento das obrigações legais do Estado para com o ensino superior e a ciência.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12329",
+    "PetAssunto": "Pelo cumprimento das obrigações legais do Estado para com o ensino superior e a ciência.",
+    "PetDataEntrada": "2012-11-07",
+    "PeticoesAssociadas": null,
+    "PetId": "12329",
+    "PetLeg": "XII",
+    "PetNr": "212",
+    "PetNrAssinaturas": "5161",
+    "PetNrAssinaturasInicial": "5161",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "426",
+        "obs": null,
+        "pag": [
+          "31-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-04-19",
+        "pubLeg": "XII",
+        "pubNr": "80",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/080/2013-04-19/31?pgs=31-36&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "635136",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-12-01",
+        "pubLeg": "XII",
+        "pubNr": "50",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/050/2012-12-01/10?pgs=10-11&org=PLC"
+      }
+    ]
+  }
+}
