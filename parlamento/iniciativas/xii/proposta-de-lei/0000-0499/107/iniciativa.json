@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "107",
+  "id": "37337",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-11-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d54646b4e6d51354e5451744d4755324f5330304e5441784c546c6b4f4755744d47566a4e4459325a5449325a6a6c6a4c6e426b5a673d3d&fich=17d6d954-0e69-4501-9d8e-0ec466e26f9c.pdf&Inline=true",
+        "anexoNome": "Parecer da APAJ"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d474a6c4d3251314e5467744d5445324d7930305a6a45334c54677a4d474974596a526a597a5a694d325a6b4d54466a4c6e426b5a673d3d&fich=0be3d558-1163-4f17-830b-b4cc6b3fd11c.pdf&Inline=true",
+        "anexoNome": "Parecer do CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a544269597a6b334d7a41744f47466b4f5330304e7a67324c57457a5a4441745a44417a4f5751774f44466d595449784c6e426b5a673d3d&fich=e0bc9730-8ad9-4786-a3d0-d039d081fa21.pdf&Inline=true",
+        "anexoNome": "Parecer da ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d3259314f4445315a6d55745a47526c4d5330305a57466c4c5749354e4451744f575a6c596d5931597a63774d7a417a4c6e426b5a673d3d&fich=3f5815fe-dde1-4eae-b944-9febf5c70303.pdf&Inline=true",
+        "anexoNome": "Parecer do CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595755325a6a4d7a4e4749744e54566a4d6930305954497a4c5467795954597459544a694d47453259324530596a566c4c6e426b5a673d3d&fich=ae6f334b-55c2-4a23-82a6-a2b0a6ca4b5e.pdf&Inline=true",
+        "anexoNome": "Parecer da Câmara dos Solicitadores"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a444a6a4d44686b5a6a67745a4449334e4330304d6a6b334c5467774d4441744d44686d5957557a59324d344d3252684c6e426b5a673d3d&fich=d2c08df8-d274-4297-8000-08fae3cc83da.pdf&Inline=true",
+        "anexoNome": "Parecer da Ordem dos Advogados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5759334f54646b596a45744e7a41344f533030596a5a6b4c546c695a544d745a6d566c596a63324e6a45325a6d51794c6e426b5a673d3d&fich=5f797db1-7089-4b6d-9be3-feeb76616fd2.pdf&Inline=true",
+        "anexoNome": "Parecer da CACAAI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a544a6b4e44686b4f444174596a6c684d4330304d4759304c5467794d4455744d7a63784e546b784f5459354d32557a4c6e426b5a673d3d&fich=e2d48d80-b9a0-40f4-8205-3715919693e3.pdf&Inline=true",
+        "anexoNome": "Parecer do CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659544a684e6a686b4d5451745a545a6c5a6930304e3249794c546b31595467745a446b794e6d51794e575a6d4d5449314c6e426b5a673d3d&fich=a2a68d14-e6ef-47b2-95a8-d926d25ff125.pdf&Inline=true",
+        "anexoNome": "Parecer da CRAP"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37337",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a67324f44646d4d324974595441344e4330304e444e6b4c5467304f5759744d6a67314e545533597a466b595745304c6d527659773d3d&fich=f8687f3b-a084-443d-849f-285557c1daa4.doc&Inline=true",
+    "IniNr": "107",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o Estatuto do Administrador Judicial.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
