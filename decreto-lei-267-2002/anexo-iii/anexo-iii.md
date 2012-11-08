@@ -32,7 +32,7 @@ Classe B1 - sem prejuízo da aplicação dos regulamentos de segurança em vigor
 
 a) Parques de garrafas e postos de garrafas de gases de petróleo liquefeitos (GPL) com capacidade inferior a 0,520 m3;
 
-b) Postos de reservatórios de GPL com capacidade inferior a 1,500 m3;
+b) Instalações de armazenamento de GPL, gasolinas e outros produtos com ponto de inflamação inferior a 38ºC, com capacidade inferior a 1,500 m3;
 
 c) Instalações de armazenamento de combustíveis líquidos e outros produtos de petróleo com capacidade inferior a 5 m3, com excepção da gasolina e outros produtos com ponto de inflamação inferior a 38ºC.
 

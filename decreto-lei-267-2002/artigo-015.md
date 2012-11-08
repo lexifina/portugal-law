@@ -2,14 +2,14 @@
 
 ### Validade e renovação da licença de exploração
 
-1 - As licenças de exploração das instalações a que este diploma respeita terão a duração de 20 anos, salvo o disposto no número seguinte.
+1 - Sem prejuízo do disposto nos números seguintes, as licenças de exploração das instalações a que este diploma respeita, incluindo as autorizações de utilização referidas no n.º 4 do artigo 5.º, não caducam com o decurso do tempo.
 
-2 - A fixação da validade da licença em prazo inferior a 20 anos deverá ser fundamentada e comunicada ao promotor juntamente com a decisão prevista no artigo 13.º
+2 - Nas situações em que se mostre haver condicionantes urbanísticas e de ordenamento do território que justifiquem a limitação no tempo, em determinada zona, da presença de instalações abrangidas por este diploma, as licenças de exploração estão sujeitas ao prazo de caducidade resultante dessas condicionantes, cujo teor é comunicado ao promotor com a decisão de aprovação do projeto.
 
-3 - No caso de licenciamento de alterações de instalações detentoras de alvará concedido nos termos do Decreto n.º 29034, de 1 de Outubro de 1938, aquele será substituído por licença nos termos deste diploma, com duração não inferior à do prazo não decorrido desse alvará.
+3 - Nas situações em que, no decurso do prazo de caducidade a que se refere o número anterior, as condicionantes se alterem de modo a permitir a manutenção da instalação para além desse prazo, a entidade competente para a aplicação das condicionantes comunica-o, no prazo de 30 dias, à entidade licenciadora, a qual determina a sua prorrogação.
 
-4 - A renovação da licença de exploração ou alvará deve ser requerida até 90 dias antes de terminada a sua validade.
+4 - Caso as condicionantes cessem durante o prazo de caducidade, a entidade competente para a sua aplicação comunica-o, no prazo de 30 dias, à entidade licenciadora, a qual determina que a licença de exploração deixa de estar sujeita a um prazo.
 
-5 - A renovação da licença, nos casos previstos no artigo 5.º, segue o procedimento administrativo aplicável à respectiva instalação.
+5 - As licenças de exploração das instalações cujo terreno de implantação pertença ao domínio público caducam imediata e automaticamente com a cessação de efeitos, por qualquer causa, dos correspondentes títulos de utilização privativa dos bens do domínio público, cuja cópia deve ser entregue à entidade licenciadora juntamente com os demais elementos exigidos na portaria a que se refere o n.º 2 do artigo 4.º
 
-Artigo 23.º
+6 - Para além das situações previstas nos termos gerais da lei, a entidade licenciadora pode revogar as licenças de exploração quando sejam falsos os dados ou as informações que integram ou acompanham o pedido de licenciamento, quando deixem de verificar-se os factos que justificaram a sua emissão ou quando o respetivo titular viole gravemente normas legais ou regulamentares aplicáveis.

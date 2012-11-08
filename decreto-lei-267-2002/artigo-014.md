@@ -13,3 +13,9 @@
 5 - No caso de o técnico responsável pela exploração cessar a responsabilidade que assumiu nos termos do número anterior, ou no seu impedimento ou morte, o titular da licença de exploração deve comunicar à entidade licenciadora, no prazo máximo de 15 dias, o novo responsável pela exploração e entregar o respectivo termo de responsabilidade.
 
 6 - O disposto nos n.os 4 e 5 só se aplica às instalações identificadas nos anexos i e ii do presente decreto-lei.
+
+7 - O silêncio da entidade licenciadora vale como deferimento tácito após o decurso do prazo previsto no n.º 1 do presente artigo ou, caso a vistoria final não seja convocada ou caso a guia para pagamento da respetiva taxa não seja emitida nos prazos referidos no n.º 12 do artigo 12.º, após 10 dias a contar do termo do prazo aplicável.
+
+8 - O deferimento tácito formado nos termos do número anterior apenas produz efeitos com o cumprimento pelo requerente das obrigações constantes dos n.os 3 e 4.
+
+9 - A formação de deferimento tácito nos termos previstos no n.º 7 não impede a realização da vistoria final pela entidade licenciadora, nas situações em que essa vistoria não tenha sido previamente realizada, com vista à verificação da conformidade da instalação com o projeto aprovado.
