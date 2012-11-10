@@ -1,7 +1,11 @@
 # Artigo 32.º
 
-### Valor do locado
+### Comprovação da alegação
 
-1 - O valor do locado é o produto do valor da avaliação realizada nos termos dos artigos 38.º e seguintes do Código do Imposto Municipal sobre Imóveis (CIMI), realizada há menos de três anos, multiplicado pelo coeficiente de conservação previsto no artigo seguinte.
+1 - O arrendatário que invoque a circunstância prevista na alínea a) do n.º 4 do artigo anterior faz acompanhar a sua resposta de documento comprovativo emitido pelo serviço de finanças competente, do qual conste o valor do RABC do seu agregado familiar.
 
-2 - Se a avaliação fiscal tiver sido realizada mais de um ano antes da fixação da nova renda, o valor previsto no artigo anterior é actualizado de acordo com os coeficientes de actualização das rendas que tenham entretanto vigorado.
+2 - O arrendatário que não disponha, à data da sua resposta, do documento referido no número anterior faz acompanhar a resposta do comprovativo de ter o mesmo sido já requerido, devendo juntá-lo no prazo de 15 dias após a sua obtenção.
+
+3 - O RABC refere-se ao ano civil anterior ao da comunicação.
+
+4 - O arrendatário que invoque as circunstâncias previstas na alínea b) do n.º 4 do artigo anterior faz acompanhar a sua resposta, conforme os casos, de documento comprovativo de ter completado 65 anos ou de documento comprovativo da deficiência alegada, sob pena de não poder prevalecer-se das referidas circunstâncias.

@@ -1,9 +1,15 @@
-## Subsecção II
+## Secção III
 
-## Arrendamento para fim não habitacional
+## Transmissão
 
 # Artigo 50.º
 
-### Regime aplicável
+### Iniciativa do senhorio
 
-Aos arrendamentos para fim diverso de habitação aplicam-se as normas constantes da subsecção anterior, com as necessárias adaptações, bem como o disposto nos artigos seguintes.
+A transição para o NRAU e a atualização da renda dependem de iniciativa do senhorio, que deve comunicar a sua intenção ao arrendatário, indicando:
+
+a) O valor da renda, o tipo e a duração do contrato propostos;
+
+b) O valor do locado, avaliado nos termos dos artigos 38.º e seguintes do CIMI constante da caderneta predial urbana;
+
+c) Cópia da caderneta predial urbana.
