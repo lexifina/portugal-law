@@ -4,12 +4,12 @@
 
 1 - A oposição à renovação tem de ser comunicada ao outro contraente com a antecedência mínima seguinte:
 
-a) Seis meses, se o prazo for igual ou superior a seis anos;
+a) 120 dias, se o prazo de duração inicial do contrato ou da sua renovação for igual ou superior a seis anos;
 
-b) Sessenta dias, se o prazo for de um a seis anos;
+b) 60 dias, se o prazo de duração inicial do contrato ou da sua renovação for igual ou superior a um ano e inferior a seis anos;
 
-c) Trinta dias, quando o prazo for de três meses a um ano;
+c) 30 dias, se o prazo de duração inicial do contrato ou da sua renovação for igual ou superior a três meses e inferior a um ano;
 
-d) Um terço do prazo, quando este for inferior a três meses.
+d) Um terço do prazo de duração inicial do contrato ou da sua renovação, tratando-se de prazo inferior a três meses.
 
-2- A antecedência a que se refere o número anterior reporta-se ao fim do prazo do contrato ou da renovação.
+2 - A antecedência a que se refere o número anterior reporta-se ao termo do prazo de duração inicial do contrato ou da sua renovação.

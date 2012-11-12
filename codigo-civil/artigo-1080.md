@@ -2,4 +2,4 @@
 
 ### Imperatividade
 
-O disposto nesta subsecção tem natureza imperativa, salvo disposição legal em contrário.
+As normas sobre a resolução, a caducidade e a denúncia do arrendamento urbano têm natureza imperativa, salvo disposição legal em contrário.
