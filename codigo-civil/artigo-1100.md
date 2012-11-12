@@ -2,6 +2,14 @@
 
 ### Denúncia pelo arrendatário
 
-1 - O arrendatário pode denunciar o contrato, independentemente de qualquer justificação, mediante comunicação ao senhorio com antecedência não inferior a 120 dias sobre a data em que pretenda a cessação, produzindo essa denúncia efeitos no final de um mês do calendário gregoriano.
+1 - Sem prejuízo do disposto no número seguinte, após seis meses de duração efetiva do contrato, o arrendatário pode denunciá-lo, independentemente de qualquer justificação, mediante comunicação ao senhorio com a antecedência mínima seguinte:
 
-2 - À denúncia pelo arrendatário é aplicável, com as necessárias adaptações, o disposto no n.º 3 do artigo 1098.º
+a) 120 dias do termo pretendido do contrato, se, à data da comunicação, este tiver um ano ou mais de duração efetiva;
+
+b) 60 dias do termo pretendido do contrato, se, à data da comunicação, este tiver até um ano de duração efetiva.
+
+2 - Quando o senhorio denunciar o contrato nos termos da alínea c) do artigo seguinte, o arrendatário pode denunciá-lo, independentemente de qualquer justificação, mediante comunicação ao senhorio com antecedência não inferior a 30 dias do termo pretendido do contrato.
+
+3 - A denúncia do contrato, nos termos dos números anteriores, produz efeitos no final de um mês do calendário gregoriano, a contar da comunicação.
+
+4 - À denúncia pelo arrendatário é aplicável, com as necessárias adaptações, o disposto no n.º 6 do artigo 1098.º
