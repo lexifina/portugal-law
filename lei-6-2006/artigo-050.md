@@ -1,6 +1,6 @@
 ## Secção III
 
-## Transmissão
+## Arrendamento para fim não habitacional
 
 # Artigo 50.º
 

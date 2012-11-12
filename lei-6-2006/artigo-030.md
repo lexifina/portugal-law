@@ -1,6 +1,6 @@
 ## Secção II
 
-## Actualização de rendas
+## Arrendamento para habitação
 
 # Artigo 30.º
 
