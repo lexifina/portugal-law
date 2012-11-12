@@ -12,8 +12,8 @@
 
 1 - As obras, nomeadamente de conservação e reconstrução, que obrigam, para a sua realização, à desocupação do locado são consideradas, para efeitos do presente decreto-lei, obras de remodelação ou restauro profundos.
 
-2 - As obras referidas no número anterior podem ser qualificadas como estruturais ou não estruturais.
+2 - (Revogado.)
 
-3 - Para efeito do número anterior, são consideradas obras estruturais as que originem uma distribuição de fogos sem correspondência ou equivalência com a distribuição anterior, sendo consideradas não estruturais as restantes.
+3 - (Revogado.)
 
-4 - As obras referidas nos números anteriores podem decorrer de intervenções urbanísticas realizadas em área de reabilitação urbana, no âmbito do regime jurídico da reabilitação urbana.
+4 - As obras referidas no n.º 1 podem decorrer de intervenções urbanísticas realizadas em área de reabilitação urbana, no âmbito do regime jurídico da reabilitação urbana.

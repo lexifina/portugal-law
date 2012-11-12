@@ -6,7 +6,7 @@
 
 ### Actuação do arrendatário
 
-1 - Quando ao locado tenha sido atribuído nível de conservação mau ou péssimo, nos termos do Decreto-Lei n.º 156/2006, de 8 de Agosto, o arrendatário pode intimar o senhorio à realização das obras necessárias à obtenção de um nível mínimo de médio.
+1 - Quando ao locado tenha sido atribuído nível de conservação mau ou péssimo, nos termos definidos em diploma próprio, o arrendatário pode intimar o senhorio à realização das obras necessárias à obtenção de um nível médio ou superior.
 
 2 - Se o senhorio, sendo a tal intimado, não iniciar as obras dentro do prazo de seis meses ou declarar não o pretender fazer dentro desse prazo, o arrendatário pode solicitar ao município competente a realização de obras coercivas ou tomar a iniciativa da sua realização, nos termos dos artigos seguintes.
 

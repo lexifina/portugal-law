@@ -8,4 +8,6 @@
 
 3 - Havendo pluralidade de arrendatários em prédio não sujeito a propriedade horizontal, a realização de obras, relativamente às partes comuns, depende do assentimento de, pelo menos, metade deles, ficando os restantes vinculados a tal decisão e aos correspondentes encargos.
 
-4 - O arrendatário só pode realizar as obras necessárias para se atingir o nível médio de conservação, nos termos do Decreto-Lei n.º 156/2006, de 8 de Agosto.
+4 - O arrendatário só pode realizar as obras necessárias para se atingir o nível médio de conservação, nos termos definidos em diploma próprio.
+
+5 - Encontrando-se o edifício constituído em propriedade horizontal, o arrendatário pode substituir-se ao senhorio na execução de obras nas partes comuns, determinadas pela assembleia de condóminos ou impostas nos termos previstos no artigo 89.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, e no artigo 55.º do regime jurídico da reabilitação urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro.

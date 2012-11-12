@@ -2,12 +2,14 @@
 
 ### Denúncia para demolição
 
-1 - Quando o senhorio optar por denunciar o contrato para demolição do locado, nos termos do artigo 5.º, aplica-se o regime previsto no artigo anterior.
+1 - Quando o senhorio denunciar o contrato para demolição do locado, nos termos da alínea b) do artigo 1101.º do Código Civil, aplica-se o regime previsto no artigo anterior.
 
 2 - Exceptua-se do disposto no número anterior as situações em que a demolição:
 
-a) É necessária por força da degradação do prédio, incompatível tecnicamente com a sua reabilitação e geradora de risco para os respectivos ocupantes, a atestar pelo município, ouvida a comissão arbitral municipal (CAM);
+a) Seja ordenada nos termos do n.º 3 do artigo 89.º do regime jurídico da urbanização e da edificação ou do artigo 57.º do regime jurídico da reabilitação urbana;
 
-b) Decorra de plano de pormenor de reabilitação urbana.
+b) Seja necessária por força da degradação do prédio, a atestar pelo município;
 
-3 - A aplicação do regime de demolição regulado nos números anteriores não prejudica, caso se trate de edifício abrangido em área de reabilitação urbanística, a aplicação do regime jurídico da reabilitação urbanística.
+c) Decorra de plano de pormenor de reabilitação urbana.
+
+3 - Quando a ordem ou a necessidade de demolição previstas nas alíneas a) e b) do número anterior resultem de ação ou omissão culposa do proprietário ou de terceiro, o arrendatário tem direito a ser indemnizado pelo responsável, nos termos gerais.
