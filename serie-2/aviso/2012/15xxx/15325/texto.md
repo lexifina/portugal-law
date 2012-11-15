@@ -1,0 +1,6 @@
+Aviso n.º 15325/2012
+Nuno Miguel Rodrigues Costa, Presidente da Junta de Freguesia de S. Sebastião, torna público, nos termos da alínea j) do n.º 2 do artigo 17.º e 91.º da Lei n.º 169/99, de 18 de setembro com a redação atualizada pela Lei n.º 5-A/2002, de 11 de janeiro e com as alterações que lhe foram introduzidas pela Lei n.º 67/2007, de 31 de dezembro e pela Lei Orgânica n.º 1/2011, de 30 de novembro, que a Assembleia de Freguesia de S. Sebastião aprovou na terceira sessão ordinária, realizada no dia 27 de setembro de 2012, a alteração às alíneas c) e e) do artigo 24.º do Capítulo IV do Regulamento de Canídeos e Gatídeos da Junta de Freguesia de S. Sebastião, publicado na 2.ª serie do Diário da República de 24 de janeiro de 2006.
+Mais faz saber que a referida alteração ao Regulamento produz efeitos a partir da sua publicação em edital e pode ser consultada na página da Internet da Junta de Freguesia de S. Sebastião, em www.jfss.pt.
+Para constar e devidos efeitos, publica-se o presente aviso e outros de igual teor, que vão ser afixados nos locais de costume e na página da Internet da Junta de Freguesia de S. Sebastião.
+2 de outubro de 2012. - O Presidente da Junta, Nuno Miguel Rodrigues Costa.
+306473807
