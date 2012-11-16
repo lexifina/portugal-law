@@ -1,0 +1,65 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=90IHzJ7HA9a0ZSrtQz8mXDcvzfGefpOheVnMt6DfMKmi5J7vfg77wnSXQNcT7rEjNyMHPex0BA7bnfxtr4bW0sGCld5aVsA6dxKaAv7jS5WSdAIs3%2fHcw%2fG26CkkgscDraQ%2bsdnb83HDQ2scbRd%2biiECrwP3kle5c9nvIw%2beOE5atJR94QIJJasn0xyEZOZ%2fx95LY92djtdtFBVhLj%2bxFRg%2fKtBI%2fQwgwPj2TDf6vpxYBrin68LmmU7Bx5y5a0nrScksrbmK3dYKweXzJaQtd%2fYTPOp6NBP2pki8HV9y2eoqfg2r5Xgg9hKYa2%2ftp2KVHDMULTvkILBTvlx%2fpctxWEayPgimp145UBnTk7npXEQ%3d&fich=DiplomasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f97159af77766c70321336f77959bdef03c4ce38a2ea5bc71549d97d9e5f98a",
+  "legislatura": "XII",
+  "id": "17318",
+  "tipo": "Resolução da Assembleia da República",
+  "numero": "138",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2012",
+    "Id": "17318",
+    "Iniciativas": null,
+    "Legislatura": "XII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369387a595745774e574d314d79316d4f5755774c54526d4d3251744f545a6b5a6930344e44597a4f4464694d6a646a4f5441756347526d&fich=3aa05c53-f9e0-4f3d-96df-846387b27c90.pdf&Inline=true",
+    "Numero": "138",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": [
+      {
+        "anexos": null,
+        "ano": null,
+        "dtAgendamento": null,
+        "dtAprovacaoCA": null,
+        "id": "40",
+        "leg": "XII",
+        "obs": null,
+        "SL": null,
+        "textosAprovados": null,
+        "tipo": "Orçamento da A.R.",
+        "titulo": "Orçamento da Assembleia da República para 2013",
+        "tp": "OAR",
+        "votacao": null
+      }
+    ],
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "604229",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-16",
+        "pubLeg": "XII",
+        "pubNr": "222",
+        "pubSL": "2",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/222/2012/0/pt/html"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução da Assembleia da República",
+    "Titulo": "Orçamento da Assembleia da República para 2013",
+    "Tp": "A",
+    "Versao": null
+  }
+}
