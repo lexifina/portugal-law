@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3FwgC6DQ68Qqmou6dW0qBv8T%2fJjNlns7Q9C2MIpb7ri1Bc%2fFPcs92cQb2nc%2b0HKuHMG6CNNUSqhVccy3kuCx%2bExebebfQGaQlFOx62VCp9MlVc7KZ%2bG5%2flKdqJ%2fzLskR6TlANivNJd5gNXlc0Zo6IA5AWtCDEQH%2b7eFUwQ8o%2bAcSz5RICD1NCc6EoMTKbhyuiSg%2fvFUcTC9CtSYmK6theU4s14SQ%2frcWFkNWljWqOcUh3bRR8vCNb1rLfk9Ccx8F%2fLDDoKZZsHMCBqUn26gilQ0oiW5U2qzBB%2fDRFBuZdAkOW2rtv9c5Is7Jg4KKQgDk3N2%2fhAtwAZLewRSA9fE%2begylRMnhawGzbbKSnezuvlcVa%2fGwZ3w4het2%2bQIUaR5nEvjg%2fBSdUkv8054bLxDdIg%3d%3d&fich=OEPropostasAlteracao2013Or_json.txt&Inline=true",
+  "ficheiro_sha256": "172b3faac1a3eab90a0fb1d4b733a73683ca6b2d0e2607823af32bc83b178361",
+  "legislatura": "XII",
+  "id": "7544",
+  "numero": "187C",
+  "orcamento": "2013",
+  "versao": "Or",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7544",
+    "Numero": "187C",
+    "Data": "16/11/2012 14:13:00",
+    "Titulo": "Novo Artigo 142.º-A (Passe 4_18@escola.tp e Passe sub23@superior.tp) da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 142.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554545765a546b774e7a4d324f4451744e545a695a6930304e7a466a4c5745335954497459574a68596d4d795954466a5a474a6d4c6e426b5a673d3d&Fich=e9073684-56bf-471c-a7a2-ababc2a1cdbf.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "RITA RATO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 142.º-A",
+        "Titulo": "Passe 4_18@escola.tp e Passe sub23@superior.tp",
+        "Texto": "É reposto o apoio de 50% no pagamento do passe 4_18@escola.tp e do passe sub23@superior.tp aos estudantes com idade entre os 4 e os 18 anos, inclusive, e aos estudantes do ensino superior até aos 23 anos, inclusive, nos termos do artigo 3.º-A do Decreto-Lei n.º 299/84, de 5 de Setembro, aditado pelo Decreto -",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 142.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Passe 4_18@escola.tp e Passe sub23@superior.tp",
+        "Data": "26/11/2012 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
