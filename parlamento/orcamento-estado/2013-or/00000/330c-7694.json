@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3FwgC6DQ68Qqmou6dW0qBv8T%2fJjNlns7Q9C2MIpb7ri1Bc%2fFPcs92cQb2nc%2b0HKuHMG6CNNUSqhVccy3kuCx%2bExebebfQGaQlFOx62VCp9MlVc7KZ%2bG5%2flKdqJ%2fzLskR6TlANivNJd5gNXlc0Zo6IA5AWtCDEQH%2b7eFUwQ8o%2bAcSz5RICD1NCc6EoMTKbhyuiSg%2fvFUcTC9CtSYmK6theU4s14SQ%2frcWFkNWljWqOcUh3bRR8vCNb1rLfk9Ccx8F%2fLDDoKZZsHMCBqUn26gilQ0oiW5U2qzBB%2fDRFBuZdAkOW2rtv9c5Is7Jg4KKQgDk3N2%2fhAtwAZLewRSA9fE%2begylRMnhawGzbbKSnezuvlcVa%2fGwZ3w4het2%2bQIUaR5nEvjg%2fBSdUkv8054bLxDdIg%3d%3d&fich=OEPropostasAlteracao2013Or_json.txt&Inline=true",
+  "ficheiro_sha256": "172b3faac1a3eab90a0fb1d4b733a73683ca6b2d0e2607823af32bc83b178361",
+  "legislatura": "XII",
+  "id": "7694",
+  "numero": "330C",
+  "orcamento": "2013",
+  "versao": "Or",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7694",
+    "Numero": "330C",
+    "Data": "16/11/2012 16:37:00",
+    "Titulo": "Novo Artigo 136.º-B (Linha de capitalização de pequenas e médias empresas) da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 136.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554545765a474e684e7a566c4d4751745a544d334d7930305954637a4c546b7a4e6a4574595455304e7a5a69597a526d4d7a59774c6e426b5a673d3d&Fich=dca75e0d-e373-4a73-9361-a5476bc4f360.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PS",
+          "Deputado": "JOÃO GALAMBA"
+        },
+        {
+          "GP_Partido": "PS",
+          "Deputado": "PEDRO JESUS MARQUES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 136.º-B",
+        "Titulo": "Linha de capitalização de pequenas e médias empresas",
+        "Texto": "1 — O Governo enceta um processo para criação de um Fundo de Capitalização das PME participado pelo Estado e pelas principais instituições financeiras portuguesas, especialmente pelos capitais de risco.\r\n2 – Esta linha de apoio à Recapitalização das Pequenas e Médias Empresas portuguesas deve ter no mínimo 3 ",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": [
+        {
+          "Descricoes": {
+            "Descricao": "Artigo 136.º-B"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": "Linha de capitalização de pequenas e médias empresas",
+          "Data": "26/11/2012 00:00:00",
+          "ResultadoCompleto": "Rejeitado(a) em Comissão",
+          "Resultado": "Rejeitado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Social Democrata",
+              "Partido Socialista",
+              "Partido Popular",
+              "Partido Comunista Português",
+              "Bloco de Esquerda"
+            ],
+            "Voto": [
+              "Contra",
+              "Favor",
+              "Contra",
+              "Abstenção",
+              "Abstenção"
+            ]
+          }
+        },
+        {
+          "Descricoes": null,
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": null,
+          "Data": "26/11/2012 00:00:00",
+          "ResultadoCompleto": "Rejeitado(a) em Comissão",
+          "Resultado": "Rejeitado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Social Democrata",
+              "Partido Socialista",
+              "Partido Popular",
+              "Partido Comunista Português",
+              "Bloco de Esquerda"
+            ],
+            "Voto": [
+              "Contra",
+              "Favor",
+              "Contra",
+              "Favor",
+              "Favor"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
