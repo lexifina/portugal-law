@@ -1,0 +1,120 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3FwgC6DQ68Qqmou6dW0qBv8T%2fJjNlns7Q9C2MIpb7ri1Bc%2fFPcs92cQb2nc%2b0HKuHMG6CNNUSqhVccy3kuCx%2bExebebfQGaQlFOx62VCp9MlVc7KZ%2bG5%2flKdqJ%2fzLskR6TlANivNJd5gNXlc0Zo6IA5AWtCDEQH%2b7eFUwQ8o%2bAcSz5RICD1NCc6EoMTKbhyuiSg%2fvFUcTC9CtSYmK6theU4s14SQ%2frcWFkNWljWqOcUh3bRR8vCNb1rLfk9Ccx8F%2fLDDoKZZsHMCBqUn26gilQ0oiW5U2qzBB%2fDRFBuZdAkOW2rtv9c5Is7Jg4KKQgDk3N2%2fhAtwAZLewRSA9fE%2begylRMnhawGzbbKSnezuvlcVa%2fGwZ3w4het2%2bQIUaR5nEvjg%2fBSdUkv8054bLxDdIg%3d%3d&fich=OEPropostasAlteracao2013Or_json.txt&Inline=true",
+  "ficheiro_sha256": "172b3faac1a3eab90a0fb1d4b733a73683ca6b2d0e2607823af32bc83b178361",
+  "legislatura": "XII",
+  "id": "7905",
+  "numero": "523C-1",
+  "orcamento": "2013",
+  "versao": "Or",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7905",
+    "Numero": "523C-1",
+    "Data": "16/11/2012 23:35:00",
+    "Titulo": "N.º 1, Artigo 13.º da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554545764f5445314d6a4d79597a4574595752684e6930304d7a67304c546b794f5451744f4449775a446c6b595445784d446c6b4c6e426b5a673d3d&Fich=915232c1-ada6-4384-9294-820d9da1109d.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 523C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45764d47457a5a6a6b315a6d55745a444a6b5a6930304e574a694c57493059544d744f4449774d6d51354d7a4e694d32597a4c6e426b5a673d3d&Fich=0a3f95fe-d2df-45bb-b4a3-8202d933b3f3.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 523C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45764e574e6b4d5755785a575574595752694e5330304d7a55794c546c6c4e6d55744e3251324f574d344e3252685a54526c4c6e426b5a673d3d&Fich=5cd1e1ee-adb5-4352-9e6e-7d69c87dae4e.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 523C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b4576596a646b4f54557a4d5459745a6a4d774e4330305a5449314c5749795a4755744d57466a4d7a45774f5745784d6a45324c6e426b5a673d3d&Fich=b7d95316-f304-4e25-b2de-1ac3109a1216.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 523C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45764e44493059574d784e6a41744e325a684e4330305a6d4a6b4c54686b4d446b744e474a6d597a4a6a593249795a6a4d7a4c6e426b5a673d3d&Fich=424ac160-7fa4-4fbd-8d09-4bfc2ccb2f33.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 523C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45764f54517959324a684e324d744e7a4e694e793030596d51784c5468694e474d744e7a553459546734595751304d445a6a4c6e426b5a673d3d&Fich=942cba7c-73b7-4bd1-8b4c-758a88ad406c.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 13.º",
+        "Titulo": "Transferências para fundações",
+        "Texto": "1 - Em execução das decisões tomadas nos termos do n.º 4 do artigo 5.º da Lei n.º 1/2012, de 3 de janeiro, ficam as transferências para as fundações identificadas na Resolução do Conselho de Ministros n.º 79-A/2012, de 25 de setembro, reduzidas no valor aí determinado.\r\n\r\n2 - Ficam ainda proibidas quaisquer t",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 1, Artigo 13.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "22/11/2012 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
