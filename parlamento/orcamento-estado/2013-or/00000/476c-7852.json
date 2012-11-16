@@ -1,0 +1,140 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3FwgC6DQ68Qqmou6dW0qBv8T%2fJjNlns7Q9C2MIpb7ri1Bc%2fFPcs92cQb2nc%2b0HKuHMG6CNNUSqhVccy3kuCx%2bExebebfQGaQlFOx62VCp9MlVc7KZ%2bG5%2flKdqJ%2fzLskR6TlANivNJd5gNXlc0Zo6IA5AWtCDEQH%2b7eFUwQ8o%2bAcSz5RICD1NCc6EoMTKbhyuiSg%2fvFUcTC9CtSYmK6theU4s14SQ%2frcWFkNWljWqOcUh3bRR8vCNb1rLfk9Ccx8F%2fLDDoKZZsHMCBqUn26gilQ0oiW5U2qzBB%2fDRFBuZdAkOW2rtv9c5Is7Jg4KKQgDk3N2%2fhAtwAZLewRSA9fE%2begylRMnhawGzbbKSnezuvlcVa%2fGwZ3w4het2%2bQIUaR5nEvjg%2fBSdUkv8054bLxDdIg%3d%3d&fich=OEPropostasAlteracao2013Or_json.txt&Inline=true",
+  "ficheiro_sha256": "172b3faac1a3eab90a0fb1d4b733a73683ca6b2d0e2607823af32bc83b178361",
+  "legislatura": "XII",
+  "id": "7852",
+  "numero": "476C",
+  "orcamento": "2013",
+  "versao": "Or",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7852",
+    "Numero": "476C",
+    "Data": "16/11/2012 22:53:00",
+    "Titulo": "Artigo 2.º da Lei 57/2011, constante do Artigo 55.º da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554545764d4455784d444d354e474d745a6a566b5a6930304e5759304c546868597a67744e6a466b4d4456694d6d51355a444e6b4c6e426b5a673d3d&Fich=0510394c-f5df-45f4-8ac8-61d05b2d9d3d.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 476C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45764d54526c596d59784d5759744d6a4d314d5330304d6d4e6a4c5467305a4751744f4749304f444e685a6a63344e47457a4c6e426b5a673d3d&Fich=14ebf11f-2351-42cc-84dd-8b483af784a3.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 476C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45764e7a45314e7a5a6a595445745a6d4d355a5330305932557a4c5749354d6a41744d5755785a6a49304e6d5a6c5a54466d4c6e426b5a673d3d&Fich=71576ca1-fc9e-4ce3-b920-1e1f246fee1f.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 476C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45764e4459324f5449304e7a63744d445978597930304f4463784c5467304e6d59745932466a4d7a45354d5467314f5467324c6e426b5a673d3d&Fich=46692477-061c-4871-846f-cac319185986.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 476C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b45765a546b335a444d324d6a4974596a63344e5330304d3259334c5467354f4449744f544d7a5a4749334d4751344e7a51314c6e426b5a673d3d&Fich=e97d3622-b785-43f7-8982-933db70d8745.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 476C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554746795a574e6c636d567a556b4576596a4d324e474931595759744d32597a4f5330304d5745304c5467785a5449744f546b314f544e69596a56685a44646a4c6e426b5a673d3d&Fich=b364b5af-3f39-41a4-81e2-99593bb5ad7c.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 55.º",
+        "Titulo": "Alteração à Lei n.º 57/2011, de 28 de novembro",
+        "Texto": "1 - O artigo 2.º da Lei n.º 57/2011, de 28 de novembro, passa a ter a seguinte redação:\r\n\r\n«Artigo 2.º\r\n\r\n[…]\r\n\r\nA presente lei aplica-se a todos os serviços integrados, serviços e fundos autónomos, regiões autónomas, autarquias locais, outras entidades que integrem o universo das administrações públicas em c",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": {
+      "DiplomaMedida": {
+        "Titulo": "Institui e regula o funcionamento do Sistema de Informação da Organização do Estado (SIOE)",
+        "NumerosMedidas": {
+          "NumeroMedida": [
+            {
+              "Designacao": "Lei n.º 57/2011, de 28 de novembro"
+            },
+            {
+              "Designacao": "Artigo 2.º - Âmbito de aplicação"
+            }
+          ]
+        },
+        "Texto": "A presente lei aplica-se a todos os serviços integrados, serviços e fundos autónomos, Regiões Autónomas, autarquias locais e outras entidades que integrem o universo das administrações públicas em contas nacionais."
+      }
+    },
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 1, Artigo 55.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": {
+          "Diploma": [
+            "S1VP11400",
+            "Artigo 2.º do Lei n.º 57/2011, de 28 de novembro (Institui e regula o funcionamento do Sistema de Informação da Organização do Estado (SIOE))"
+          ]
+        },
+        "SubDescricao": "Âmbito de aplicação",
+        "Data": "22/11/2012 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Abstenção",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
