@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3FwgC6DQ68Qqmou6dW0qBv8T%2fJjNlns7Q9C2MIpb7ri1Bc%2fFPcs92cQb2nc%2b0HKuHMG6CNNUSqhVccy3kuCx%2bExebebfQGaQlFOx62VCp9MlVc7KZ%2bG5%2flKdqJ%2fzLskR6TlANivNJd5gNXlc0Zo6IA5AWtCDEQH%2b7eFUwQ8o%2bAcSz5RICD1NCc6EoMTKbhyuiSg%2fvFUcTC9CtSYmK6theU4s14SQ%2frcWFkNWljWqOcUh3bRR8vCNb1rLfk9Ccx8F%2fLDDoKZZsHMCBqUn26gilQ0oiW5U2qzBB%2fDRFBuZdAkOW2rtv9c5Is7Jg4KKQgDk3N2%2fhAtwAZLewRSA9fE%2begylRMnhawGzbbKSnezuvlcVa%2fGwZ3w4het2%2bQIUaR5nEvjg%2fBSdUkv8054bLxDdIg%3d%3d&fich=OEPropostasAlteracao2013Or_json.txt&Inline=true",
+  "ficheiro_sha256": "172b3faac1a3eab90a0fb1d4b733a73683ca6b2d0e2607823af32bc83b178361",
+  "legislatura": "XII",
+  "id": "7827",
+  "numero": "454C",
+  "orcamento": "2013",
+  "versao": "Or",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7827",
+    "Numero": "454C",
+    "Data": "16/11/2012 21:48:00",
+    "Titulo": "N.º 5, Artigo 149.º da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554545764e7a6c6b4d4468684e4755744e324e6b4e5330304f5441304c5467794e6a4174595455354e6d4d344e6a6b794e5468684c6e426b5a673d3d&Fich=79d08a4e-7cd5-4904-8260-a596c869258a.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 149.º",
+        "Titulo": "Encargos dos sistemas de assistência na doença",
+        "Texto": "1 - A comparticipação às farmácias, por parte dos sistemas de assistência na doença dos Militares das Forças Armadas, da Guarda Nacional Republicana e da Polícia de Segurança Pública, relativamente a medicamentos, passa a constituir encargo integral assumido pelo SNS.\r\n\r\n2 - A comparticipação, por parte dos s",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": {
+          "Numero": "N.º 5",
+          "Titulo": null,
+          "Texto": "5 - O montante a transferir nos termos do número anterior é determinado por despacho dos\r\nmembros do Governo responsáveis pelas áreas das finanças, da saúde e da tutela.",
+          "Estado": "Aguarda Voto em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 5, Artigo 149.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "26/11/2012 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Abstenção",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
