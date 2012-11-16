@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3FwgC6DQ68Qqmou6dW0qBv8T%2fJjNlns7Q9C2MIpb7ri1Bc%2fFPcs92cQb2nc%2b0HKuHMG6CNNUSqhVccy3kuCx%2bExebebfQGaQlFOx62VCp9MlVc7KZ%2bG5%2flKdqJ%2fzLskR6TlANivNJd5gNXlc0Zo6IA5AWtCDEQH%2b7eFUwQ8o%2bAcSz5RICD1NCc6EoMTKbhyuiSg%2fvFUcTC9CtSYmK6theU4s14SQ%2frcWFkNWljWqOcUh3bRR8vCNb1rLfk9Ccx8F%2fLDDoKZZsHMCBqUn26gilQ0oiW5U2qzBB%2fDRFBuZdAkOW2rtv9c5Is7Jg4KKQgDk3N2%2fhAtwAZLewRSA9fE%2begylRMnhawGzbbKSnezuvlcVa%2fGwZ3w4het2%2bQIUaR5nEvjg%2fBSdUkv8054bLxDdIg%3d%3d&fich=OEPropostasAlteracao2013Or_json.txt&Inline=true",
+  "ficheiro_sha256": "172b3faac1a3eab90a0fb1d4b733a73683ca6b2d0e2607823af32bc83b178361",
+  "legislatura": "XII",
+  "id": "7788",
+  "numero": "419C",
+  "orcamento": "2013",
+  "versao": "Or",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7788",
+    "Numero": "419C",
+    "Data": "16/11/2012 20:12:00",
+    "Titulo": "Novo Artigo 127.º-B (Certificados do Tesouro) da PPL",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 127.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d5455765545457659574934597a457a4d6d55744e4751354e5330304e6a497a4c57466a4e6a59744f4464684e4745774f474932595755354c6e426b5a673d3d&Fich=ab8c132e-4d95-4623-ac66-87a4a08b6ae9.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "HONÓRIO NOVO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 127.º-B",
+        "Titulo": "Certificados do Tesouro",
+        "Texto": "As condições de subscrição dos Certificados do Tesouro (CT) são definidas da seguinte forma:\r\nValores e subscrição:\r\nValor nominal - € 1;\r\nMínimo de subscrição – 250 unidades;\r\nMáximo por conta de tesouro – 1 000 000 unidades;\r\nMínimo por conta de tesouro – 250 unidades;\r\nPrazo e Juros:\r\nPrazo – 10 anos;\r\nTax",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 127.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Certificados do Tesouro",
+        "Data": "23/11/2012 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
