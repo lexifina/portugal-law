@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=3FwgC6DQ68Qqmou6dW0qBv8T%2fJjNlns7Q9C2MIpb7ri1Bc%2fFPcs92cQb2nc%2b0HKuHMG6CNNUSqhVccy3kuCx%2bExebebfQGaQlFOx62VCp9MlVc7KZ%2bG5%2flKdqJ%2fzLskR6TlANivNJd5gNXlc0Zo6IA5AWtCDEQH%2b7eFUwQ8o%2bAcSz5RICD1NCc6EoMTKbhyuiSg%2fvFUcTC9CtSYmK6theU4s14SQ%2frcWFkNWljWqOcUh3bRR8vCNb1rLfk9Ccx8F%2fLDDoKZZsHMCBqUn26gilQ0oiW5U2qzBB%2fDRFBuZdAkOW2rtv9c5Is7Jg4KKQgDk3N2%2fhAtwAZLewRSA9fE%2begylRMnhawGzbbKSnezuvlcVa%2fGwZ3w4het2%2bQIUaR5nEvjg%2fBSdUkv8054bLxDdIg%3d%3d&fich=OEPropostasAlteracao2013Or_json.txt&Inline=true",
+  "ficheiro_sha256": "172b3faac1a3eab90a0fb1d4b733a73683ca6b2d0e2607823af32bc83b178361",
+  "legislatura": "XII",
+  "id": "7821",
+  "numero": "448C",
+  "orcamento": "2013",
+  "versao": "Or",
+  "data_registo": "2012-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "7821",
+    "Numero": "448C",
+    "Data": "16/11/2012 21:40:00",
+    "Titulo": "Artigo 48.º",
+    "Tema": null,
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Eliminação",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d44457a4d6a41784d6a45774d545576554545765a6a64695a44526b4d4449744d6a4131597930304e32466a4c57466d596d59744e44426c4f445579597a4a6a5a4455304c6e426b5a673d3d&Fich=f7bd4d02-205c-47ac-afbf-40e852c2cd54.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 48.º",
+        "Titulo": "Manutenção da inscrição na Caixa Geral de Aposentações, I.P.",
+        "Texto": "1 - Os titulares de cargos dirigentes designados ao abrigo da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.ºs 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro, ou cuja comissão de serviço seja renovada ao abrigo da mesma lei, ou da Lei n",
+        "Estado": "Prejudicado(a)"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 48.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Manutenção da inscrição na Caixa Geral de Aposentações, I.P.",
+        "Data": "22/11/2012 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
