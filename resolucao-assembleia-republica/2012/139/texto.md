@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 139/2012
+Recomenda ao Governo orientação aos serviços na aplicação do artigo 32.º do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que oriente os serviços no sentido de aplicarem o artigo 32.º do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior às situações descritas, aceitando que os cortes nos subsídios dos funcionários da Administração Pública e de empresas públicas constituem alterações significativas da situação económica do agregado familiar do estudante em relação ao ano anterior ao do início do ano letivo, podendo os estudantes interessados submeter, consoante os casos, requerimentos de reapreciação do valor da bolsa de estudo atribuída, após decisão final da candidatura.
+Aprovada em 26 de outubro de 2012.
+O Presidente da Assembleia da República, em exercício, António Filipe.
