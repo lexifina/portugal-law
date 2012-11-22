@@ -1,0 +1,4 @@
+Aviso n.º 164/2012
+Por ordem superior se torna público que em 31 de janeiro de 2012 e em 22 de maio de 2012 foram recebidas notas pela Embaixada da República Democrática e Popular da Argélia e pela Embaixada de Portugal em Argel, respetivamente, pelas quais ambos os Estados comunicam terem sido cumpridas as formalidades internas de aprovação do Acordo entre a República Portuguesa e a República Democrática e Popular da Argélia sobre Transportes Internacionais Rodoviários e de Trânsito de Passageiros e Mercadorias, assinado em Argel em 9 de junho de 2008.
+O referido Acordo foi aprovado por Resolução da Assembleia da República n.º 67/2011, de 4 de abril, publicado no Diário da República, 1.ª série, n.º 66, de 4 de abril de 2011, e, nos termos do seu artigo 20.º, entrou em vigor no dia 21 de junho de 2012.
+Direção-Geral de Política Externa, 30 de outubro de 2012. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
