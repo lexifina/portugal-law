@@ -32,18 +32,8 @@ f) Empresas de 1001 a 1500 trabalhadores - seis representantes;
 
 g) Empresas com mais de 1500 trabalhadores - sete representantes.
 
-5 - Em companhia responsável pela exploração de navios abrangidos pela Convenção do Trabalho Marítimo, 2006, o número de representantes dos trabalhadores é determinado do seguinte modo:
+5 - O mandato dos representantes dos trabalhadores é de três anos.
 
-a) Em cada navio com cinco ou mais marítimos e menos de 50, um;
+6 - A substituição dos representantes só é admitida no caso de renúncia ou impedimento definitivo, cabendo a mesma aos candidatos efectivos e suplentes pela ordem indicada na respectiva lista.
 
-b) Em cada navio com 50 a 200 marítimos, três;
-
-c) Em cada navio com mais de 200 marítimos, cinco;
-
-d) Em relação aos demais marítimos, o resultante da aplicação do número anterior.
-
-6 - O mandato dos representantes dos trabalhadores é de três anos.
-
-7 - A substituição dos representantes só é admitida no caso de renúncia ou impedimento definitivo, cabendo a mesma aos candidatos efectivos e suplentes pela ordem indicada na respectiva lista.
-
-8 - Os representantes dos trabalhadores dispõem, para o exercício das suas funções, de um crédito de cinco horas por mês.
+7 - Os representantes dos trabalhadores dispõem, para o exercício das suas funções, de um crédito de cinco horas por mês.

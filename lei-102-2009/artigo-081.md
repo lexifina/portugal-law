@@ -6,19 +6,19 @@
 
 2 - Nas situações referidas no número anterior, o empregador pode designar um ou mais trabalhadores para se ocuparem de todas ou algumas das actividades de segurança no trabalho desde que possuam formação adequada e disponham do tempo e dos meios necessários.
 
-3 - O exercício das atividades previsto nos n.os 1 e 2 depende de autorização concedida pelo organismo competente para a promoção da segurança e saúde no trabalho do ministério responsável pela área laboral.
+3 - O exercício das actividades previsto nos n.os 1 e 2 depende de autorização ou de renovação de autorização concedida pelo organismo competente para a promoção da segurança e saúde no trabalho do ministério responsável pela área laboral, pelo período de cinco anos.
 
-4 - Para efeitos do número anterior, o requerimento de autorização deve ser, preferencialmente, efetuado por via eletrónica, nos termos do artigo 96.º-A.
+4 - Para efeitos do número anterior, o requerimento de autorização ou renovação da autorização deve ser, preferencialmente, efectuado por via electrónica.
 
-5 - (Revogado.)
+5 - A renovação prevista no número anterior deve ser requerida até 60 dias antes do termo da autorização, sob pena de caducidade.
 
-6 - A autorização referida no n.º 3 deve ser revogada sempre que se verifique alguma das seguintes circunstâncias:
+6 - A autorização referida no n.º 3 deve ser revogada sempre que a empresa, estabelecimento ou conjunto dos estabelecimentos:
 
-a) Na empresa, no estabelecimento ou conjunto de estabelecimentos tiver ocorrido um acidente de trabalho mortal por violação de regras de segurança e de saúde no trabalho imputável ao empregador;
+a) Apresentar taxas de incidência e de gravidade de acidentes de trabalho, em cinco anos seguidos, superiores à média do respectivo sector;
 
-b) O empregador tiver sido condenado, nos dois últimos anos, pela prática de contraordenação muito grave em matéria de segurança e de saúde no trabalho ou em reincidência pela prática de contraordenação grave em matéria de segurança e de saúde no trabalho;
+b) Tiver sido condenada, nos dois últimos anos, pela prática de contra-ordenação muito grave em matéria de segurança e de saúde no trabalho ou em reincidência pela prática de contra-ordenação grave em matéria de segurança e de saúde no trabalho;
 
-c) O empregador não tiver comunicado ao organismo com competência em matéria de promoção da segurança e saúde no trabalho do ministério responsável pela área laboral a verificação da alteração dos elementos que fundamentaram a autorização, no prazo de 30 dias.
+c) Não tiver comunicado ao organismo com competência em matéria de prevenção da segurança e saúde no trabalho do ministério responsável pela área laboral a verificação da alteração dos elementos que fundamentaram a autorização, no prazo de 30 dias.
 
 7 - No caso referido no número anterior, o empregador deve adoptar outra modalidade de organização do serviço de segurança e de saúde no trabalho, no prazo de 90 dias.
 
@@ -26,6 +26,6 @@ c) O empregador não tiver comunicado ao organismo com competência em matéria 
 
 9 - Os trabalhadores designados nos termos do n.º 2 não podem ser prejudicados por se encontrarem no exercício das actividades mencionadas.
 
-10 - O organismo com competência para a promoção da segurança e saúde no trabalho do ministério responsável pela área laboral dispõe de 45 dias a contar da data de entrada do requerimento para conceder a autorização referida no n.º 3, considerando-se a mesma, na ausência de decisão expressa, tacitamente deferida.
+10 - O organismo com competência para a promoção da segurança e saúde no trabalho do ministério responsável pela área laboral dispõe de 60 dias a contar da data de entrada do requerimento para conceder a autorização ou a renovação de autorização referidas no n.º 3.
 
-11 - Constitui contraordenação muito grave o exercício das atividades referidas nos n.os 1 e 2 sem autorização.
+11 - Constitui contra-ordenação muito grave o exercício das actividades referidas nos n.os 1 e 2 sem autorização ou com a autorização caducada.

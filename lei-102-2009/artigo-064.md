@@ -1,6 +1,6 @@
 # Artigo 64.º
 
-### Agentes químicos, substâncias e misturas
+### Agentes, substâncias e preparações químicos
 
 1 - São proibidas ao menor as actividades em que haja risco de exposição aos seguintes agentes químicos:
 
@@ -16,42 +16,32 @@ e) Hidrocarbonetos policíclicos aromáticos presentes na fuligem, no alcatrão 
 
 f) Poeiras, fumos ou névoas produzidos durante a calcinação e electrorrefinação de mates de níquel.
 
-2 - São proibidas ao menor as atividades em que haja risco de exposição a substâncias e misturas que preencham os critérios de classificação ao abrigo do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, numa ou em várias das seguintes classes e categorias de perigo com uma ou várias das seguintes advertências de perigo:
+2 - São proibidas ao menor as actividades em que haja risco de exposição a substâncias e preparações que, nos termos da legislação aplicável sobre classificação, embalagem e rotulagem das substâncias e preparações perigosas, sejam classificadas como tóxicas (T), muito tóxicas (T+), corrosivas (C) ou explosivas (E).
 
-a) Toxicidade aguda, categoria 1, 2 ou 3 (H300, H310, H330, H301, H311, H331);
+3 - São proibidas ao menor as actividades em que haja risco de exposição a substâncias e preparações que, nos termos da legislação aplicável sobre classificação, embalagem e rotulagem das substâncias e preparações perigosas, sejam classificadas como nocivas (Xn) e qualificadas por uma ou mais das seguintes advertências de risco:
 
-b) Corrosão cutânea, categoria 1A, 1B ou 1C (H314);
+a) «R 39 - perigo de efeitos irreversíveis muito graves»;
 
-c) Gás inflamável, categoria 1 ou 2 (H220, H221);
+b) «R 40 - possibilidade de efeitos irreversíveis»;
 
-d) Aerossóis inflamáveis, categoria 1 (H222);
+c) «R 42 - pode causar sensibilização por inalação»;
 
-e) Líquido inflamável, categoria 1 ou 2 (H224, H225);
+d) «R 43 - pode causar sensibilização por contacto com a pele»;
 
-f) Explosivos, categorias «explosivo instável», ou explosivos das divisões 1.1, 1.2, 1.3, 1.4 e 1.5 (H200, H201, H202, H203, H204, H205);
+e) «R 45 - pode causar cancro»;
 
-g) Substâncias e misturas auto-reativas, tipo A, B, C ou D (H240, H241, H242);
+f) «R 46 - pode causar alterações genéticas hereditárias»;
 
-h) Peróxidos orgânicos, tipo A ou B (H240, H241);
+g) «R 48 - riscos de efeitos graves para a saúde em caso de exposição prolongada»;
 
-i) Toxicidade para órgãos-alvo específicos após exposição única, categoria 1 ou 2 (H370, H371);
+h) «R 60 - pode comprometer a fertilidade»;
 
-j) Toxicidade para órgãos-alvo específicos após exposição repetida, categoria 1 ou 2 (H372, H373);
+i) «R 61 - risco durante a gravidez, com efeitos adversos na descendência».
 
-l) Sensibilização respiratória, categoria 1, subcategoria 1A ou 1B (H334);
+4 - São proibidas ao menor as actividades em que haja risco de exposição a substâncias e preparações que, nos termos da legislação aplicável sobre classificação, embalagem e rotulagem das substâncias e preparações perigosas, sejam classificadas como irritantes (Xi) e qualificadas por uma ou mais das seguintes advertências de risco:
 
-m) Sensibilização cutânea, categoria 1, subcategoria 1A ou 1B (H317);
+a) «R 12 - extremamente inflamável»;
 
-n) Carcinogenicidade, categoria 1A, 1B ou 2 (H350, H350i, H351);
+b) «R 42 - pode causar sensibilização por inalação»;
 
-o) Mutagenicidade em células germinativas, categoria 1A, 1B ou 2 (H340, H341);
-
-p) Toxicidade reprodutiva, categoria 1A ou 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).
-
-3 - [Revogado].
-
-4 - [Revogado].
-
-5 - [Revogado].
-
-6 - [Revogado].
+c) «R 43 - pode causar sensibilização em contacto com a pele».

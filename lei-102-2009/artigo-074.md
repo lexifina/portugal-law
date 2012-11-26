@@ -2,7 +2,7 @@
 
 ### Modalidades dos serviços
 
-1 - A organização do serviço de segurança e saúde no trabalho pode adotar, nos termos do número seguinte, uma das seguintes modalidades:
+1 - Na organização do serviço de segurança e saúde no trabalho, o empregador pode adoptar, sem prejuízo do disposto no número seguinte, uma das seguintes modalidades:
 
 a) Serviço interno;
 
@@ -10,7 +10,7 @@ b) Serviço comum;
 
 c) Serviço externo.
 
-2 - Sem prejuízo do disposto no n.º 3 do artigo 78.º, a organização do serviço de segurança e saúde no trabalho deve adotar a modalidade de serviço interno, sendo admitido o recurso a serviço comum ou externo, nos termos, respetivamente, da secção iii e da secção iv do presente capítulo, que assegure no todo ou em parte o desenvolvimento daquelas atividades e, ainda, a técnicos qualificados em número suficiente para assegurar o desenvolvimento daquelas atividades apenas nos casos em que na empresa ou no estabelecimento não houver meios suficientes para desenvolver as atividades integradas no funcionamento do serviço de segurança e de saúde no trabalho por parte do serviço interno ou estando em causa o regime definido no artigo 81.º
+2 - Se na empresa ou no estabelecimento não houver meios suficientes para desenvolver as actividades integradas no funcionamento do serviço de segurança e de saúde no trabalho por parte do serviço interno ou estando em causa o regime definido no artigo 81.º, deve o empregador utilizar serviço comum ou externo ou, ainda, técnicos qualificados em número suficiente para assegurar no todo ou em parte o desenvolvimento daquelas actividades.
 
 3 - O empregador pode adoptar diferentes modalidades de organização em cada estabelecimento.
 
@@ -20,6 +20,6 @@ c) Serviço externo.
 
 6 - A utilização de serviço comum ou de serviço externo não isenta o empregador da responsabilidade específica em matéria de segurança e de saúde que a lei lhe atribui.
 
-7 - (Revogado.)
+7 - O empregador notifica o respectivo organismo competente da modalidade adoptada para a organização do serviço de segurança e de saúde no trabalho, bem como da sua alteração, nos 30 dias seguintes à verificação de qualquer dos factos.
 
-8 - Constitui contraordenação muito grave a violação do disposto no n.º 5.
+8 - Constitui contra-ordenação muito grave a violação do disposto no n.º 5 e contra-ordenação leve a violação do disposto no número anterior.

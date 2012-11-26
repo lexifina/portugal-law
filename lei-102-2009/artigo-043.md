@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo das obrigações gerais em matéria de informação e consulta, o empregador deve disponibilizar informação actualizada aos trabalhadores e aos seus representantes para a segurança e saúde no trabalho sobre:
 
-a) As substâncias e misturas perigosas, os equipamentos de trabalho e os materiais ou matérias-primas presentes nos locais de trabalho que possam representar perigo de agressão ao património genético;
+a) As substâncias e preparações químicas perigosas, os equipamentos de trabalho e os materiais ou matérias-primas presentes nos locais de trabalho que possam representar perigo de agressão ao património genético;
 
 b) Os resultados da avaliação dos riscos;
 

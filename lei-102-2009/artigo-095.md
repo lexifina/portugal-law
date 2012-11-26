@@ -14,6 +14,4 @@ c) Do organismo competente para promoção da segurança e da saúde no trabalho
 
 3 - Os serviços referidos no número anterior podem recorrer à contratação externa de serviços de técnicos especializados, atendendo à complexidade ou especialização técnica das tarefas a realizar.
 
-4 - No âmbito das auditorias, a qualidade dos serviços pode ser avaliada através de visitas de controlo aos locais de trabalho das empresas a quem são prestados os serviços.
-
-5 - Os serviços externos que exerçam atividade em território nacional nos termos do n.º 8 do artigo 84.º podem ser avaliados através de auditoria, nos termos do n.º 4, por iniciativa dos organismos referidos no n.º 2, para verificação do cumprimento dos requisitos de exercício aplicáveis.
+4 - No âmbito das auditorias, a qualidade dos serviços prestados pode ser avaliada através de visitas de controlo às condições de segurança e de saúde nos locais de trabalho das empresas a quem são prestados os serviços.

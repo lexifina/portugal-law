@@ -1,10 +1,10 @@
-## Capítulo VIII
+## Secção IV
 
-## Atividades proibidas ou condicionadas a menor
+## Actividades proibidas ou condicionadas a menor
 
-## Secção I
+## Subsecção I
 
-## Atividades, agentes, processos e condições de trabalho proibidos a menor
+## Actividades, agentes, processos e condições de trabalho proibidos a menor
 
 # Artigo 61.º
 

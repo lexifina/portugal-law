@@ -18,12 +18,12 @@ e) Auditoria de avaliação da capacidade e da qualidade da prestação dos serv
 
 3 - O pagamento da taxa deve ser efectuado:
 
-a) Nos 10 dias úteis após notificação do organismo competente, nos casos previstos nas alíneas a) a d) do n.º 1;
+a) Nos 10 dias úteis após notificação do organismo competente, nos casos previstos nas alíneas a) a c) do n.º 1;
 
-b) Nos 10 dias úteis após ter sido proferida a decisão de alteração, quando a mesma não implique vistoria;
+b) Antes de proferida a decisão de alteração, quando a mesma não implique vistoria;
 
-c) Nos 10 dias úteis após notificação da data da realização da auditoria referida na alínea e) do n.º 1.
+c) Nos 10 dias úteis após notificação da data da realização da auditoria referida na alínea d) do n.º 1.
 
 4 - A vistoria é efectuada por estabelecimento, incluindo unidades móveis.
 
-5 - O não pagamento das taxas referidas nos números anteriores dá lugar à extinção do procedimento de autorização em curso ou, caso a decisão de autorização ou de alteração de autorização tenha sido proferida, determina a sua ineficácia.
+5 - O não pagamento das taxas referidas nos números anteriores dá lugar à extinção do pedido de autorização.

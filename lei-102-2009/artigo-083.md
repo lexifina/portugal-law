@@ -14,14 +14,14 @@
 
 2 - O serviço externo pode compreender os seguintes tipos:
 
-a) Associativos - prestados por associações com personalidade jurídica sem fins lucrativos, cujo fim estatutário compreenda a atividade de prestação de serviços de segurança e saúde no trabalho;
+a) Associativos - prestados por associações com personalidade jurídica sem fins lucrativos, cujo fim estatutário compreenda, expressamente, a prestação de serviço de segurança e saúde no trabalho;
 
-b) Cooperativos - prestados por cooperativas cujo objeto estatutário compreenda a atividade de prestação de serviços de segurança e saúde no trabalho;
+b) Cooperativos - prestados por cooperativas cujo objecto estatutário compreenda, expressamente, a actividade de segurança e saúde no trabalho;
 
-c) Privados - prestados por sociedades cujo objeto social compreenda a atividade de prestação de serviços de segurança e de saúde no trabalho ou por pessoa singular que detenha as qualificações legalmente exigidas para o exercício da atividade;
+c) Privados - prestados por sociedades de cujo pacto social conste, expressamente, o exercício de actividades de segurança e de saúde no trabalho ou por pessoa individual detentora das qualificações legais adequadas;
 
 d) Convencionados - prestados por qualquer entidade da administração pública central, regional ou local, instituto público ou instituição integrada no Serviço Nacional de Saúde.
 
-3 - (Revogado.)
+3 - O empregador pode adoptar um modo de organização dos serviços externos diferente dos tipos previstos no número anterior desde que seja previamente autorizado, nos termos dos artigos 84.º a 96.º
 
 4 - O contrato entre o empregador e a entidade prestadora de serviços externos é celebrado por escrito.

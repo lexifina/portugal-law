@@ -18,10 +18,4 @@ c) Exames ocasionais, sempre que haja alterações substanciais nos componentes 
 
 5 - O médico do trabalho deve ter em consideração o resultado de exames a que o trabalhador tenha sido submetido e que mantenham actualidade, devendo instituir a cooperação necessária com o médico assistente.
 
-6 - A realização do exame de admissão prevista na alínea a) do n.º 3 pode ser dispensada nos seguintes casos:
-
-a) Em que haja transferência da titularidade da relação laboral, desde que o trabalhador se mantenha no mesmo posto de trabalho e não haja alterações substanciais nas componentes materiais de trabalho que possam ter repercussão nociva na saúde do trabalhador;
-
-b) Em que o trabalhador seja contratado, por um período não superior a 45 dias, para um trabalho idêntico, esteja exposto aos mesmos riscos e não seja conhecida qualquer inaptidão desde o último exame médico efetuado nos dois anos anteriores, devendo a ficha clínica desse mesmo exame ser do conhecimento do médico do trabalho.
-
-7 - Constitui contraordenação grave a violação do disposto nos n.os 1 e 3, bem como a utilização de serviço de médico não habilitado nos termos do artigo 103.º, imputável ao empregador.
+6 - Constitui contra-ordenação grave a violação do disposto nos n.os 1 e 3, bem como a utilização de serviço de médico não habilitado nos termos do artigo 103.º, imputável ao empregador.

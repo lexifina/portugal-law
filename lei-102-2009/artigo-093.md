@@ -10,6 +10,6 @@
 
 4 - Se os elementos constantes do procedimento conduzirem a uma decisão desfavorável ao requerente, este deve ser informado, nomeadamente em audiência de interessados, da possibilidade de reduzir o pedido, quer quanto à área de actividade quer quanto aos sectores de actividade potencialmente abrangidos, consoante o caso.
 
-5 - A autorização para o exercício das atividades de segurança e de saúde na modalidade de serviços externos e a sua alteração que implique vistoria devem ser decididas no prazo de 90 dias ou, no caso de alteração de autorização que não implique vistoria, no prazo 60 dias, em ambas as situações a contar da data de entrada do respetivo pedido.
+5 - A autorização para o exercício das actividades de segurança e de saúde na modalidade de serviços externos deve ser decidida no prazo de 90 dias a contar da data de entrada do pedido.
 
-6 - Caso a decisão não seja proferida nos prazos referidos no número anterior, considera-se a autorização ou a respetiva alteração tacitamente deferida, sendo contudo ineficaz até ao pagamento das taxas devidas pelos atos que tenham sido praticados.
+6 - Sem prejuízo do disposto na presente lei, é subsidiariamente aplicável o Código do Procedimento Administrativo.

@@ -10,27 +10,23 @@
 
 2 - O empregador deve zelar, de forma continuada e permanente, pelo exercício da actividade em condições de segurança e de saúde para o trabalhador, tendo em conta os seguintes princípios gerais de prevenção:
 
-a) Evitar os riscos;
+a) Identificação dos riscos previsíveis em todas as actividades da empresa, estabelecimento ou serviço, na concepção ou construção de instalações, de locais e processos de trabalho, assim como na selecção de equipamentos, substâncias e produtos, com vista à eliminação dos mesmos ou, quando esta seja inviável, à redução dos seus efeitos;
 
-b) Planificar a prevenção como um sistema coerente que integre a evolução técnica, a organização do trabalho, as condições de trabalho, as relações sociais e a influência dos fatores ambientais;
+b) Integração da avaliação dos riscos para a segurança e a saúde do trabalhador no conjunto das actividades da empresa, estabelecimento ou serviço, devendo adoptar as medidas adequadas de protecção;
 
-c) Identificação dos riscos previsíveis em todas as atividades da empresa, estabelecimento ou serviço, na conceção ou construção de instalações, de locais e processos de trabalho, assim como na seleção de equipamentos, substâncias e produtos, com vista à eliminação dos mesmos ou, quando esta seja inviável, à redução dos seus efeitos;
+c) Combate aos riscos na origem, por forma a eliminar ou reduzir a exposição e aumentar os níveis de protecção;
 
-d) Integração da avaliação dos riscos para a segurança e a saúde do trabalhador no conjunto das atividades da empresa, estabelecimento ou serviço, devendo adotar as medidas adequadas de proteção;
+d) Assegurar, nos locais de trabalho, que as exposições aos agentes químicos, físicos e biológicos e aos factores de risco psicossociais não constituem risco para a segurança e saúde do trabalhador;
 
-e) Combate aos riscos na origem, por forma a eliminar ou reduzir a exposição e aumentar os níveis de proteção;
+e) Adaptação do trabalho ao homem, especialmente no que se refere à concepção dos postos de trabalho, à escolha de equipamentos de trabalho e aos métodos de trabalho e produção, com vista a, nomeadamente, atenuar o trabalho monótono e o trabalho repetitivo e reduzir os riscos psicossociais;
 
-f) Assegurar, nos locais de trabalho, que as exposições aos agentes químicos, físicos e biológicos e aos fatores de risco psicossociais não constituem risco para a segurança e saúde do trabalhador;
+f) Adaptação ao estado de evolução da técnica, bem como a novas formas de organização do trabalho;
 
-g) Adaptação do trabalho ao homem, especialmente no que se refere à conceção dos postos de trabalho, à escolha de equipamentos de trabalho e aos métodos de trabalho e produção, com vista a, nomeadamente, atenuar o trabalho monótono e o trabalho repetitivo e reduzir os riscos psicossociais;
+g) Substituição do que é perigoso pelo que é isento de perigo ou menos perigoso;
 
-h) Adaptação ao estado de evolução da técnica, bem como a novas formas de organização do trabalho;
+h) Priorização das medidas de protecção colectiva em relação às medidas de protecção individual;
 
-i) Substituição do que é perigoso pelo que é isento de perigo ou menos perigoso;
-
-j) Priorização das medidas de proteção coletiva em relação às medidas de proteção individual;
-
-l) Elaboração e divulgação de instruções compreensíveis e adequadas à atividade desenvolvida pelo trabalhador.
+i) Elaboração e divulgação de instruções compreensíveis e adequadas à actividade desenvolvida pelo trabalhador.
 
 3 - Sem prejuízo das demais obrigações do empregador, as medidas de prevenção implementadas devem ser antecedidas e corresponder ao resultado das avaliações dos riscos associados às várias fases do processo produtivo, incluindo as actividades preparatórias, de manutenção e reparação, de modo a obter como resultado níveis eficazes de protecção da segurança e saúde do trabalhador.
 
@@ -50,7 +46,7 @@ l) Elaboração e divulgação de instruções compreensíveis e adequadas à at
 
 11 - As prescrições legais ou convencionais de segurança e de saúde no trabalho estabelecidas para serem aplicadas na empresa, estabelecimento ou serviço devem ser observadas pelo próprio empregador.
 
-12 - O empregador suporta a totalidade dos encargos com a organização e o funcionamento do serviço de segurança e de saúde no trabalho e demais sistemas de prevenção, incluindo exames de vigilância da saúde, avaliações de exposições, testes e todas as ações necessárias no âmbito da promoção da segurança e saúde no trabalho, sem impor aos trabalhadores quaisquer encargos financeiros.
+12 - O empregador suporta os encargos com a organização e o funcionamento do serviço de segurança e de saúde no trabalho e demais medidas de prevenção, incluindo exames, avaliações de exposições, testes e outras acções dos riscos profissionais e vigilância da saúde, sem impor aos trabalhadores quaisquer encargos financeiros.
 
 13 - Para efeitos do disposto no presente artigo, e salvaguardando as devidas adaptações, o trabalhador independente é equiparado a empregador.
 

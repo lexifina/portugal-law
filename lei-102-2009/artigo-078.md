@@ -8,9 +8,9 @@
 
 1 - O serviço interno da segurança e saúde no trabalho é instituído pelo empregador e abrange exclusivamente os trabalhadores por cuja segurança e saúde aquele é responsável.
 
-2 - Sem prejuízo da sua autonomia técnica, os técnicos que asseguram o serviço referido no número anterior prestam a sua atividade no âmbito da organização e sob autoridade do empregador.
+2 - O serviço interno faz parte da estrutura da empresa e funciona na dependência do empregador.
 
-3 - Salvo nos casos em que obtiver dispensa nos termos do artigo 80.º, o empregador deve instituir serviço interno que abranja:
+3 - O empregador deve instituir serviço interno que abranja:
 
 a) O estabelecimento que tenha pelo menos 400 trabalhadores;
 

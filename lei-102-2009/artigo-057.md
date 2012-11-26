@@ -1,6 +1,6 @@
-## Secção II
+## Subsecção II
 
-## Atividades condicionadas
+## Actividades condicionadas
 
 # Artigo 57.º
 

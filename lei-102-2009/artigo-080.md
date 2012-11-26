@@ -16,7 +16,7 @@ e) Se verifique, pela análise dos relatórios de avaliação de risco apresenta
 
 2 - O requerimento de autorização deve ser enviado ao organismo competente, nomeadamente por via electrónica, acompanhado de parecer fundamentado dos representantes dos trabalhadores para a segurança e saúde no trabalho ou, na sua falta, dos próprios trabalhadores, sem prejuízo do disposto nos n.os 3 e 5 do artigo 18.º
 
-3 - O organismo competente, depois de verificada a conformidade dos requisitos suscetíveis de apreciação documental e nos 45 dias posteriores à apresentação do requerimento, pode, caso o entenda necessário:
+3 - O organismo competente, depois de verificada a conformidade dos requisitos susceptíveis de apreciação documental e nos 45 dias posteriores à apresentação do requerimento, deve:
 
 a) Marcar a data da vistoria;
 
@@ -24,18 +24,16 @@ b) Informar do facto o requerente e o outro organismo de modo que tenham conheci
 
 c) Notificar o requerente para pagamento de taxa referente à vistoria.
 
-4 - A autorização referida no n.º 1 deve ser revogada sempre que se verifique alguma das seguintes circunstâncias:
+4 - A autorização referida no n.º 1 deve ser revogada sempre que:
 
-a) Tiver ocorrido um acidente de trabalho mortal por violação de regras de segurança e de saúde no trabalho imputado ao empregador;
+a) A empresa apresente taxas de incidência e de gravidade de acidentes de trabalho nos dois últimos anos superiores à média do respectivo sector;
 
-b) O empregador apresentar taxas de incidência e de gravidade de acidentes de trabalho nos dois últimos anos superiores à média do respetivo setor, sempre que existam dados disponíveis;
+b) Na empresa ou conjunto de estabelecimentos tiver ocorrido, nos dois últimos anos, um acidente de trabalho mortal por violação de regras de segurança e de saúde no trabalho imputável ao empregador;
 
-c) Se verifiquem doenças profissionais contraídas ao serviço da empresa ou para as quais tenham contribuído direta e decisivamente as condições de trabalho da empresa;
-
-d) O empregador tiver sido condenado, nos dois últimos anos, pela prática de contraordenação muito grave ou em reincidência pela prática de contraordenação grave em matéria de segurança e de saúde no trabalho.
+c) A empresa tiver sido condenada, nos dois últimos anos, pela prática de contra-ordenação muito grave ou em reincidência pela prática de contra-ordenação grave em matéria de segurança e de saúde no trabalho.
 
 5 - O organismo competente nos termos do n.º 1 dispõe de 60 dias a contar da data de entrada do requerimento para conceder a autorização referida no n.º 1.
 
-6 - (Revogado.)
+6 - O requerimento de dispensa cumulativo para os domínios da segurança e da saúde pode ser apresentado junto de qualquer dos organismos competentes para efeitos da presente lei, que procede à imediata remessa para o outro organismo competente.
 
 7 - Se a autorização referida no n.º 1 for revogada, a empresa ou estabelecimento deve adoptar serviços internos no prazo de seis meses.
