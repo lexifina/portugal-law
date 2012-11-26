@@ -10,8 +10,16 @@
 
 a) Existência de vaga no quadro do corpo de destino;
 
-b) Autorização pela Autoridade Nacional de Protecção Civil, ouvidos os comandantes dos corpos de bombeiros de origem e de destino;
+b) (Revogada.)
 
 c) O pedido não ser feito por motivos disciplinares.
 
-2 - O bombeiro transferido mantém a carreira, a categoria e os demais direitos adquiridos.
+2 - Aos bombeiros do quadro de reserva é também permitida a transferência desde que:
+
+a) Seja para ocupar vaga no quadro ativo do corpo de bombeiro de destino; e
+
+b) O pedido não seja efetuado por motivos disciplinares.
+
+3 - Os pedidos de transferência referidos nos números anteriores são efetuados a requerimento dos interessados, dirigido à Autoridade Nacional de Proteção Civil, acompanhado de parecer dos comandantes e das entidades detentoras, tanto de origem, como de destino.
+
+4 - O bombeiro transferido mantém a carreira, a categoria, antiguidade e demais direitos adquiridos.

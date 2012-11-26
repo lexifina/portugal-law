@@ -25,3 +25,7 @@ i) Ter acesso a um sistema de segurança, higiene e saúde no trabalho organizad
 j) Beneficiar da bonificação em tempo, para efeitos de aposentação ou reforma, relativamente aos anos de serviço prestado como bombeiro.
 
 2 - São ainda direitos dos bombeiros os que resultem de outras leis ou regulamentos aplicáveis, nomeadamente de esquemas de incentivos ao voluntariado.
+
+3 - Os bombeiros que integram os quadros de reserva e honra beneficiam dos direitos referidos nas alíneas a), b), d), f) e h) do n.º 1.
+
+4 - Os elementos pertencentes à carreira de bombeiro especialista beneficiam dos direitos referidos nas alíneas a), b), d), e), f), g) e h) do n.º 1.

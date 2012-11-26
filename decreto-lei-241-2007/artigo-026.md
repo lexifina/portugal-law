@@ -21,3 +21,5 @@
 5 - As faltas ao serviço dos bombeiros voluntários que ocorram nos termos dos n.os 1, 2 e 4 consideram-se justificadas.
 
 6 - A Autoridade Nacional de Protecção Civil, quando proceda à requisição de bombeiros voluntários, compensa estes dos salários e outras remunerações perdidos.
+
+7 - A organização dos processos referidos nos n.os 4 e 6 é definida por regulamento aprovado pela Autoridade Nacional de Proteção Civil.

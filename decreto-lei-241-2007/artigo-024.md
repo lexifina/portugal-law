@@ -2,4 +2,4 @@
 
 ### Informação
 
-As entidades detentoras de corpos de bombeiros prestam, por via informática, à Autoridade Nacional de Protecção Civil os elementos de informação necessários à manutenção de relação permanentemente actualizada de beneficiários do seguro de acidentes pessoais.
+As entidades detentoras de corpos de bombeiros devem manter, permanentemente atualizada, no Recenseamento Nacional dos Bombeiros Portugueses, a informação necessária dos beneficiários do seguro de acidentes pessoais.

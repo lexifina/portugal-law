@@ -15,3 +15,5 @@ d) Demissão.
 2 - As penas de advertência e repreensão escrita são aplicadas por faltas leves de serviço, sem dependência de processo escrito mas com audiência e defesa do arguido.
 
 3 - As penas de suspensão e de demissão são aplicadas mediante processo disciplinar.
+
+4 - A pena de demissão determina, sem prejuízo de anulação da pena, a impossibilidade de novo ingresso em qualquer corpo de bombeiros.

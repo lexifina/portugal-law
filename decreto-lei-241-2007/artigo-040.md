@@ -2,8 +2,8 @@
 
 ### Competência disciplinar
 
-1 - A aplicação das penas de advertência e de repreensão escrita é da competência de todos os superiores hierárquicos em relação aos bombeiros que lhes estejam subordinados.
+1 - A aplicação da pena de advertência é da competência de todos os superiores hierárquicos em relação aos bombeiros que lhes estejam subordinados.
 
-2 - A aplicação das penas de suspensão e de demissão é da competência do comandante do corpo de bombeiros.
+2 - A aplicação das penas de repreensão escrita, de suspensão e de demissão é da competência do comandante do corpo de bombeiros.
 
 3 - A aplicação de qualquer pena disciplinar ao comandante do corpo de bombeiros é da competência do comandante operacional distrital.
