@@ -1,0 +1,3322 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "103",
+    "id": "37290",
+    "titulo": "Aprova o Orçamento do Estado para 2013."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2012-11-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9061",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2012-11-26",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-11-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:03:27:125&drc=00:02:29:146"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:05:19:557&drc=00:02:05:782"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:22:57:777&drc=00:01:13:967"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:24:49:547&drc=00:03:45:694"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=05:01:02:582&drc=00:01:30:006"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2-2",
+                  "49-49",
+                  "69-69",
+                  "79-79",
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/2?pgs=2,8,49,69,79&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:06:12:563&drc=00:01:53:548"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:16:31:524&drc=00:03:41:917"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-3",
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/3?pgs=3,34-35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:08:11:100&drc=00:03:12:295"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:35:26:843&drc=00:01:40:936"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:17:20:068&drc=00:01:55:686"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:40:39:694&drc=00:02:01:049"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11",
+                  "3-4",
+                  "52-52",
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/3?pgs=3-4,10-11,52,59&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:11:36:087&drc=00:04:56:443"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:37:13:594&drc=00:02:13:653"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12",
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/4?pgs=4-5,11-12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:16:43:505&drc=00:02:20:351"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:43:56:699&drc=00:01:17:534"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.   DO  ORÇAMENTO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Luís Morais Sarmento"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13",
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/5?pgs=5,13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:19:27:424&drc=00:01:13:368"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:50:02:678&drc=00:01:48:476"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:03:21:690&drc=00:00:44:987"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "31-31",
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/6?pgs=6,27-28,31&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:20:47:421&drc=00:01:18:882"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:40:50:492&drc=00:00:37:769"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41",
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/6?pgs=6,41&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:22:10:217&drc=00:02:29:891"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:38:02:579&drc=00:02:39:354"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:41:36:935&drc=00:00:50:649"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:43:44:813&drc=00:00:31:344"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:53:52:523&drc=00:01:39:177"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DA SOLIDARIEDADE E DA SEGURANÇA SOCIAL",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Marco António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42",
+                  "45-46",
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/7?pgs=7,40-42,45-46&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:28:46:357&drc=00:03:56:774"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/8?pgs=8-10&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:32:54:319&drc=00:02:23:233"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:04:41:612&drc=00:02:23:541"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:09:00:766&drc=00:00:35:669"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:15:45:269&drc=00:01:28:817"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:03:35:648&drc=00:02:24:548"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:38:46:484&drc=00:00:56:313"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10",
+                  "32-33",
+                  "51-51",
+                  "65-65",
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/10?pgs=10,32-33,51,65,74&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:39:31:786&drc=00:02:39:481"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:42:21:104&drc=00:01:26:282"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/12?pgs=12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=00:45:45:548&drc=00:01:27:721"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4187",
+                "nome": "Pedro Jesus Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:01:04:711&drc=00:00:27:289"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:05:16:092&drc=00:01:00:688"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:01:48:022&drc=00:00:34:713"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:03:37:639&drc=00:00:59:795"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:07:42:805&drc=00:00:17:195"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:16:41:063&drc=00:00:49:936"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17",
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/16?pgs=16-17,19&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:08:09:363&drc=00:01:27:637"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:09:43:265&drc=00:01:29:501"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:11:16:517&drc=00:00:20:381"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:36:27:868&drc=00:02:05:131"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:38:47:457&drc=00:03:48:542"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:42:52:666&drc=00:01:35:686"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:52:19:717&drc=00:00:38:984"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:59:09:898&drc=00:02:21:627"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:14:34:772&drc=00:01:11:804"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25",
+                  "59-60",
+                  "62-62",
+                  "64-64",
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/25?pgs=25,59-60,62,64,67-68&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:44:26:564&drc=00:00:00:435"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:02:36:193&drc=00:00:38:867"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO EMPREENDEDORISMO, COMPETITIVIDADE E INOVAÇÃO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26",
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/26?pgs=26,31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2201",
+                "nome": "Jacinto Serrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:44:26:722&drc=00:01:57:971"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/26?pgs=26&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:46:52:357&drc=00:00:49:990"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:48:01:875&drc=00:01:53:006"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4187",
+                "nome": "Pedro Jesus Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:51:57:993&drc=00:02:06:287"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:00:38:142&drc=00:01:46:962"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28",
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/28?pgs=28,30-31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:54:10:081&drc=00:03:48:868"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:06:09:896&drc=00:02:56:724"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30",
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/28?pgs=28-30,65-66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4145",
+                "nome": "Luís Menezes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=01:58:06:216&drc=00:02:24:867"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:07:08:900&drc=00:01:48:301"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:58:15:553&drc=00:01:50:260"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Afonso De Paulo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32",
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/32?pgs=32,47&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:09:54:435&drc=00:01:44:364"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:14:04:133&drc=00:00:59:371"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:01:41:191&drc=00:01:34:154"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/33?pgs=33-34,64-65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:11:50:667&drc=00:02:08:754"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:15:07:189&drc=00:00:48:146"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:22:12:843&drc=00:02:14:255"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.   DA   SAÚDE",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Ferreira Teixeira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/33?pgs=33-34,36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2092",
+                "nome": "Luísa Salgueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:20:19:992&drc=00:01:44:263"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "3995",
+                "nome": "João Serpa Oliva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:24:34:777&drc=00:01:24:635"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:26:10:792&drc=00:00:34:781"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2092",
+                "nome": "Luísa Salgueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:26:52:499&drc=00:00:12:025"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:27:10:832&drc=00:00:51:710"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:53:14:187&drc=00:00:20:174"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38",
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/37?pgs=37-38,77&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:28:24:473&drc=00:01:08:577"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.   DA   SAÚDE",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Ferreira Teixeira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:30:36:969&drc=00:02:39:045"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4193",
+                "nome": "Maria das Mercês Borges"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:33:24:275&drc=00:01:51:220"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2215",
+                "nome": "Nuno Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:35:30:497&drc=00:02:22:836"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:44:53:880&drc=00:02:48:615"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:49:22:789&drc=00:00:34:060"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:51:37:079&drc=00:00:35:433"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/43?pgs=43-45&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2114",
+                "nome": "Emídio Guerreiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:52:26:132&drc=00:01:18:998"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=02:57:10:223&drc=00:00:54:154"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:57:50:868&drc=00:01:13:752"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:46:37:707&drc=00:02:40:450"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47",
+                  "64-64",
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/47?pgs=47,64,76&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:00:19:041&drc=00:00:27:063"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:07:33:157&drc=00:02:41:212"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:53:05:890&drc=00:00:47:004"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47",
+                  "49-50",
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/47?pgs=47,49-50,62-63&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:02:31:491&drc=00:01:53:750"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:10:24:588&drc=00:05:10:432"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:33:16:516&drc=00:01:10:449"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:36:55:424&drc=00:00:16:890"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:27:41:000&drc=00:01:45:503"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:32:44:146&drc=00:00:35:134"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51",
+                  "57-58",
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/50?pgs=50-51,57-58,71-72&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2849",
+                "nome": "Adolfo Mesquita Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:19:26:322&drc=00:02:57:477"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/52?pgs=52-54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:22:34:858&drc=00:05:50:373"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:44:38:480&drc=00:07:34:813"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:11:12:831&drc=00:03:13:066"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:33:41:782&drc=00:02:56:501"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:50:54:952&drc=00:02:11:047"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Paulo Núncio"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55",
+                  "60-62",
+                  "67-67",
+                  "73-73",
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/54?pgs=54-55,60-62,67,73,77&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:28:55:107&drc=00:04:10:844"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:34:34:278&drc=00:02:11:247"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/56?pgs=56-58&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4152",
+                "nome": "Fernando Virgílio Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:38:04:569&drc=00:02:26:488"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=03:54:33:970&drc=00:03:11:289"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:09:14:058&drc=00:01:49:960"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59",
+                  "63-63",
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/58?pgs=58-59,63,66-67&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4336",
+                "nome": "Elsa Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:16:42:016&drc=00:01:50:311"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:18:49:328&drc=00:00:56:541"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:49:25:061&drc=00:01:08:811"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68",
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/68?pgs=68,76&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:24:18:819&drc=00:03:11:941"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:29:42:353&drc=00:01:40:196"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/71?pgs=71&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:31:29:774&drc=00:01:04:486"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=05:07:33:842&drc=00:01:23:760"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72",
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/72?pgs=72,81&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4435",
+                "nome": "Ana Sofia Bettencourt"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:37:11:063&drc=00:01:12:564"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4129",
+                "nome": "Cristóvão Crespo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:40:07:471&drc=00:04:32:528"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:44:51:868&drc=00:00:39:591"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=04:57:35:719&drc=00:00:58:012"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=05:03:05:247&drc=00:01:58:313"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-78",
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/78?pgs=78,80&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "15:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121126pln&url=l12/sl2/a2012/m11/&tI=05:05:10:685&drc=00:02:08:359"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-11-27",
+                "pubLeg": "XII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27/80?pgs=80&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento de Estado para 2013",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287441",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9061",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-11-27",
+        "pubLeg": "XII",
+        "pubNr": "23",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/023/2012-11-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
