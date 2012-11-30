@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "114",
+  "id": "37371",
+  "fases": 25,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-11-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5464684e7a6b304f444d744f5451315a6930305a6d51314c546c6a4e7a637459544a6a5a4441314d6a56694e4759354c6e426b5a673d3d&fich=57a79483-945f-4fd5-9c77-a2cd0525b4f9.pdf&Inline=true",
+        "anexoNome": "Parecer Câmara dos Solicitadores"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e444d344e7a45774d4755745a6a64694e5330304d544a6a4c546c6b5a4755744f5455344e444d334d4745314d4441324c6e426b5a673d3d&fich=4387100e-f7b5-412c-9dde-9584370a5006.pdf&Inline=true",
+        "anexoNome": "Parecer do CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4467315a6a6779597a55744d6a67324d433030597a526a4c546777597a55744f54677a4e6d59335a544e694e6a686a4c6e426b5a673d3d&fich=d85f82c5-2860-4c4c-80c5-9836f7e3b68c.pdf&Inline=true",
+        "anexoNome": "Parecer da Ordem dos Advogados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a63794d44637a595749744e5745344e7930304d574d314c5468694d7a4d745a47466d4f574a6c4e7a59304e6a56684c6e426b5a673d3d&fich=672073ab-5a87-41c5-8b33-daf9be76465a.pdf&Inline=true",
+        "anexoNome": "Parecer do SFJ"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659574d315a6d517a5a4463745a5749794e5330305a6a4e6d4c5467334e5441744d6a686a4f574e6a5a6d4e684d6a4d324c6e426b5a673d3d&fich=ac5fd3d7-eb25-4f3f-8750-28c9ccfca236.pdf&Inline=true",
+        "anexoNome": "Parecer do CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4745774f5746684d6a67744e3249304d433030596d59784c54686859324d745a6d59334d5759795a474e6c4e4745314c6e426b5a673d3d&fich=8a09aa28-7b40-4bf1-8acc-ff71f2dce4a5.pdf&Inline=true",
+        "anexoNome": "Parecer do CSTAFISCAIS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4755355a6a45794f546b745a474e6b4e6930304f544e6c4c574a6a595455745a6a55324e4755324f4452694f54526d4c6e426b5a673d3d&fich=de9f1299-dcd6-493e-bca5-f564e684b94f.pdf&Inline=true",
+        "anexoNome": "Parecer da Odem dos Notários"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a55334d7a45325a4751744d6d49304e5330304e32566a4c5467784e544d74596d49344e7a4d3259575a6c4e5745784c6e426b5a673d3d&fich=657316dd-2b45-47ec-8153-bb8736afe5a1.pdf&Inline=true",
+        "anexoNome": "Parecer da ANM"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37371",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e446379596a45344f4467745a5759775a533030595449344c546b7a4e6a67744d544d304e4759314e446b784f474d774c6d527659773d3d&fich=472b1888-ef0e-4a28-9368-1344f54918c0.doc&Inline=true",
+    "IniNr": "114",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova a Lei de Organização do Sistema Judiciário.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
