@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "115",
+  "id": "37370",
+  "fases": 18,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-11-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d4e6859324d35596a41744d475534597930304f44466a4c5745355a4449745a5449314e54566d596d4931593255774c6e426b5a673d3d&fich=6cacc9b0-0e8c-481c-a9d2-e2555fbb5ce0.pdf&Inline=true",
+        "anexoNome": "Parecer da ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a5a6c59546c6d596d55744e7a59774e4330304e324a6c4c5467354f446774596a4d31596d49304f4749314f574a6c4c6e426b5a673d3d&fich=76ea9fbe-7604-47be-8988-b35bb48b59be.pdf&Inline=true",
+        "anexoNome": "Parecer da ABP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659546730595464694e324574596d56694d5330304f57497a4c546c6a597a6b744d6a686b5a57566a4d5441795a6a45344c6e426b5a673d3d&fich=a84a7b7a-beb1-49b3-9cc9-28deec102f18.pdf&Inline=true",
+        "anexoNome": "Parecer da  ACRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a44466b5a6d49314e544d74595446684e6930305a44457a4c5467794e7a6b744f544e6d4d4751334d5467774d6a466c4c6e426b5a673d3d&fich=d1dfb553-a1a6-4d13-8279-93f0d718021e.pdf&Inline=true",
+        "anexoNome": "Parecer da AJPP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a45784e7a52684e4449745a4755334e7930305a47466a4c54686c4f4449745a4759345a544d794d544d314e4455354c6e426b5a673d3d&fich=b1174a42-de77-4dac-8e82-df8e32135459.pdf&Inline=true",
+        "anexoNome": "Parecer da ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a49324e4449354d5455744e545a6c4d6930304e5441334c57466d4e7a49744f444d774f44646a596a526c4d4749784c6e426b5a673d3d&fich=b2642915-56e2-4507-af72-83087cb4e0b1.pdf&Inline=true",
+        "anexoNome": "Parecer da Câmara dos Solicitadores"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f47526a4f54566c4d5441744d6a6c6c597930304d7a67794c57497a597a4d744e5445785a475a694d7a5a6a4d7a49334c6e426b5a673d3d&fich=8dc95e10-29ec-4382-b3c3-511dfb36c327.pdf&Inline=true",
+        "anexoNome": "Parecer da CACCDC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f54517a4e6a55794d6a5174597a67774e79303059574d304c5749334f5755744e3255774e7a4a6d597a5a6a4e4463334c6e426b5a673d3d&fich=94365224-c807-4ac4-b79e-7e072fc6c477.pdf&Inline=true",
+        "anexoNome": "Parecer da CAJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a466d5954526a4e5745744f5449304d6930304e6d55354c5749344e444974596d55334f4445304d5755334f47566a4c6e426b5a673d3d&fich=61fa4c5a-9242-46e9-b842-be78141e78ec.pdf&Inline=true",
+        "anexoNome": "Parecer da CCP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e445a6b4e546332595759744f475a6c4d433030593245314c5467334e3255744f444935596a6c6a4d6a4d794e6d526d4c6e426b5a673d3d&fich=46d576af-8fe0-4ca5-877e-829b9c2326df.pdf&Inline=true",
+        "anexoNome": "Parecer da CICAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a4d344d324e6c59574d744d7a56684f4330304e5445354c546b774e7a41744d6d4a6b4f54493359546c6d4e7a63354c6e426b5a673d3d&fich=f383ceac-35a8-4519-9070-2bd927a9f779.pdf&Inline=true",
+        "anexoNome": "Parecer da CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a54646a4f474d774d544574595441305a4330304f4455354c5467314f575174597a6b324e7a41344d7a42694e54566c4c6e426b5a673d3d&fich=e7c8c011-a04d-4859-859d-c9670830b55e.pdf&Inline=true",
+        "anexoNome": "Parecer da CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a6331596a426c59546b744e5755335a533030596a49344c5746685a546b744e6d4d3459546c694d7a417a4d7a59774c6e426b5a673d3d&fich=675b0ea9-5e7e-4b28-aae9-6c8a9b303360.pdf&Inline=true",
+        "anexoNome": "Parecer da DECO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e57566d59544d795a6a59745a444d32595330305a6d51334c5749304e6a59745a474a694f4441354f57526b4f574a6a4c6e426b5a673d3d&fich=5efa32f6-d36a-4fd7-b466-dbb8099dd9bc.pdf&Inline=true",
+        "anexoNome": "Parecer da DGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f444a6a4d6d4e6b596d59744d4446684d6930304d4759324c5467305a6a55745a6a49355a4459794d7a686b4d6a41774c6e426b5a673d3d&fich=82c2cdbf-01a2-40f6-84f5-f29d6238d200.pdf&Inline=true",
+        "anexoNome": "Parecer da Ordem dos Advogados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a55344d546377593251745a444d7a5a4330304d5749794c57466d4f4751745a6a51344e6a55334e3249795a6a526d4c6e426b5a673d3d&fich=258170cd-d33d-41b2-af8d-f486577b2f4f.pdf&Inline=true",
+        "anexoNome": "Parecer da da UGC"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37370",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5449335a57466c4d475574596d4d355a4330304e474d344c546b34593255744d7a41795a474e6a596a51325a6a686c4c6d527659773d3d&fich=527eae0e-bc9d-44c8-98ce-302dccb46f8e.doc&Inline=true",
+    "IniNr": "115",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à primeira alteração à Lei de Organização, Competência e Funcionamento dos Julgados de Paz, aprovada pela Lei n.º 78/2001, de 13 de julho, aperfeiçoando alguns aspetos de organização e funcionamento dos julgados de paz.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
