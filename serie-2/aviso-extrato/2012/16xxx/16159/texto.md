@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 16159/2012
+José Maria Rodrigues Figueira, Presidente da Câmara Municipal de Vendas Novas torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/02, de 11 de janeiro, que após aprovação pela Câmara Municipal, na sua reunião realizada dia 13 de junho de 2012, a Assembleia Municipal, em 8 de novembro de 2012, deliberou aprovar uma alteração à Tabela de Taxas Administrativas do Regulamento Municipal de Taxas. A referida alteração, que poderá ser consultada na Junta de Freguesia da Landeira, no Centro de Atendimento ao Publico da Câmara Municipal e no sítio do Município de Vendas Novas na Internet (www.cm-vendasnovas.pt), entra em vigor no dia imediato à publicação do presente aviso no Diário da República.
+21 de novembro de 2012. - O Presidente da Câmara Municipal, José Maria Rodrigues Figueira.
+306547306
