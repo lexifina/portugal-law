@@ -16,7 +16,7 @@ c) Vias de comunicação;
 
 d) Escavações e aterros;
 
-e) Destruição do revestimento vegetal, não incluindo as ações necessárias ao normal e regular desenvolvimento das operações culturais de aproveitamento agrícola do solo, das operações correntes de condução e exploração dos espaços florestais e de ações extraordinárias de proteção fitossanitária previstas em legislação específica.
+e) Destruição do revestimento vegetal, não incluindo as ações necessárias ao normal e regular desenvolvimento das operações culturais de aproveitamento agrícola do solo e das operações correntes de condução e exploração dos espaços florestais.
 
 2 - Excetuam-se do disposto no número anterior os usos e as ações que sejam compatíveis com os objetivos de proteção ecológica e ambiental e de prevenção e redução de riscos naturais de áreas integradas em REN.
 
@@ -28,12 +28,8 @@ b) Constem do anexo ii do presente decreto-lei, que dele faz parte integrante, n
 
 i) Isentos de qualquer tipo de procedimento; ou
 
-ii) Sujeitos à realização de comunicação prévia;
+ii) Sujeitos à realização de uma mera comunicação prévia; ou
 
 iii) (Revogada.)
 
-4 - Consideram-se ainda dispensadas da aplicação do disposto no n.º 1 as ações de arborização e rearborização com espécies florestais, bem como a implantação de infraestruturas no seu âmbito, quando decorrentes de projetos autorizados pelo Instituto da Conservação da Natureza e das Florestas, I.P., ou aprovados pelas entidades competentes no âmbito de programas públicos de apoio ao desenvolvimento florestal, nos termos da lei.
-
-5 - Para efeitos do disposto no número anterior, a análise das ações inerente aos projetos submetidos a autorização ou aprovação deve incorporar os princípios e objetivos da REN.
-
-6 - Compete aos membros do Governo responsáveis pelas áreas do ambiente, do ordenamento do território, da agricultura, do desenvolvimento rural, das pescas, da economia, das obras públicas e dos transportes aprovar, por portaria, as condições a observar para a viabilização dos usos e ações referidos nos n.os 2 e 3.
+4 - Compete aos membros do Governo responsáveis pelas áreas do ambiente, do ordenamento do território, da agricultura, do desenvolvimento rural, das pescas, da economia, das obras públicas e dos transportes aprovar, por portaria, as condições a observar para a viabilização dos usos e ações referidos nos n.os 2 e 3.

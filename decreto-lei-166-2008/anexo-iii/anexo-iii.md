@@ -1,10 +1,10 @@
 # Anexo III
 
-### Áreas sujeitas a autorização, nos termos do artigo 42.º, no caso de inexistência de delimitação municipal ao abrigo do Decreto-Lei n.º 93/90, de 19 de março
+### Áreas sujeitas a autorização, nos termos do artigo 42.º, no caso de inexistência de delimitação municipal ao abrigo do Decreto-Lei n.º 93/90, de 19 de Março
 
 a) Praias.
 
-b) Dunas costeiras litorais, primárias e secundárias.
+b) Dunas litorais, primárias e secundárias.
 
 c) Arribas e falésias, incluindo faixas de proteção com largura igual a 200 m, medidas a partir do rebordo superior e da base.
 

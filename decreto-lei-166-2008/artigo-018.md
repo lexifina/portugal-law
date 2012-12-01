@@ -6,7 +6,7 @@
 
 a) No prazo de cinco anos, quando a exclusão tenha ocorrido no âmbito de procedimento de delimitação ou alteração da delimitação para a execução de projetos e a obra ainda não se tenha iniciado;
 
-b) No prazo para a execução de plano territorial de âmbito municipal ou intermunicipal, quando a exclusão tenha ocorrido no âmbito da elaboração desse plano e a obra ainda não se tenha iniciado.
+b) No prazo para a execução de plano municipal de ordenamento do território, quando a exclusão tenha ocorrido no âmbito da elaboração desse plano e a obra ainda não se tenha iniciado.
 
 2 - Nos casos de projetos com título válido para a sua execução, a reintegração só ocorre com a caducidade do título.
 

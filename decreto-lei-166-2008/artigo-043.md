@@ -9,5 +9,3 @@
 3 - A correspondência das áreas definidas no Decreto-Lei n.º 93/90, de 19 de Março, com as novas categorias das áreas integradas na REN é identificada no anexo iv do presente decreto-lei, que dele faz parte integrante.
 
 4 - (Revogado.)
-
-5 - No âmbito da revisão de planos territoriais de âmbito municipal ou intermunicipal é obrigatória a adaptação da delimitação da REN às orientações estratégicas nacionais e regionais em vigor.
