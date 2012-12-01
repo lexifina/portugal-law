@@ -30,4 +30,6 @@ d) Parecer do órgão de fiscalização, quando exista.
 
 6 - Relativamente às representações permanentes em Portugal de sociedades com sede no estrangeiro, a acta de aprovação é substituída por declaração da entidade representada, de onde conste que os documentos referidos no n.º 1 lhe foram apresentados.
 
-7 - O acesso por meios electrónicos, nos termos legalmente previstos, à informação constante dos documentos referidos nos n.os 1 e 2, substitui, para todos os efeitos legais, os correspondentes documentos em suporte de papel.
+7 - O preenchimento dos modelos oficiais com a informação constante dos documentos referidos nos números anteriores permite a utilização dessa informação para fins de investigação científica ou de estatística, ainda que o registo não possa ser efetuado por falta de pagamento da taxa devida.
+
+8 - O acesso por meios electrónicos, nos termos legalmente previstos, à informação constante dos documentos referidos nos n.os 1 e 2, substitui, para todos os efeitos legais, os correspondentes documentos em suporte de papel.

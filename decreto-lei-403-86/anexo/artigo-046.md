@@ -29,3 +29,5 @@ d) Quando o facto não estiver sujeito a registo.
 6 - Nos casos em que a entidade se encontre registada sem número de identificação de pessoa colectiva atribuído, a conservatória comunica tal facto ao Registo Nacional de Pessoas Colectivas de modo que se proceda, no próprio dia, à inscrição da entidade no ficheiro central de pessoas colectivas.
 
 7 - A verificação das causas de rejeição previstas no n.º 2 pode efectuar-se até à realização do registo.
+
+8 - Sem prejuízo do disposto no n.º 8 do artigo 114.º, a verificação da causa de rejeição prevista na alínea b) do n.º 1 após a apresentação do pedido no diário dá lugar à recusa.
