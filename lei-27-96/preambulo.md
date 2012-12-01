@@ -1,0 +1,7 @@
+Lei n.º 27/96
+
+de 1 de Agosto
+
+Regime jurídico da tutela administrativa
+
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:
