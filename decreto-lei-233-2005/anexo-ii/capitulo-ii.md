@@ -1,6 +1,6 @@
 # Capítulo II
 
-### Órgãos sociais
+### Órgãos
 
 Artigo 5.º
 

@@ -2,7 +2,7 @@
 
 ### Director clínico
 
-Ao director clínico compete a direcção de produção clínica do hospital E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correcção e prontidão dos cuidados de saúde prestados, designadamente:
+1 - Ao director clínico compete a direcção de produção clínica do hospital E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correcção e prontidão dos cuidados de saúde prestados, designadamente:
 
 a) Coordenar a elaboração dos planos de acção apresentados pelos vários serviços e departamentos de acção médica a integrar no plano de acção global do hospital;
 
@@ -25,3 +25,7 @@ i) Participar na gestão do pessoal médico, designadamente nos processos de adm
 j) Velar pela constante actualização do pessoal médico;
 
 l) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da medicina e com a formação dos médicos.
+
+2 - O diretor clínico pode exercer, a título excecional e não remunerado, atividade médica, apenas no âmbito da entidade pública empresarial em que ocupe cargo de administração e desde que por sua iniciativa e no seu próprio interesse o solicite, especificando os atos a realizar e o tempo a dedicar.
+
+3 - O exercício da atividade prevista no número anterior depende de autorização prévia do conselho de administração, mediante pedido detalhado expresso por escrito do próprio diretor clínico quanto aos atos a realizar e ao tempo a dedicar, com demonstração do interesse público.

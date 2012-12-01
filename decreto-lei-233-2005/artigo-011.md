@@ -1,10 +1,14 @@
+## Capítulo III
+
+## Regime financeiro
+
 # Artigo 11.º
 
 ### Controlo financeiro
 
-Sem prejuízo do disposto nos artigos 12.º e 13.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, devem os hospitais E. P. E. submeter aos Ministros das Finanças e da Saúde:
+Sem prejuízo do disposto na legislação aplicável às empresas públicas em matéria de controlo financeiro e deveres especiais de informação e controlo, devem os hospitais E. P. E. submeter aos membros do Governo responsáveis pelas áreas das finanças e da saúde:
 
-a) Os planos de actividades e os orçamentos, até ao final do mês de Outubro de cada ano;
+a) Os planos de atividades e os orçamentos, até ao final do mês de novembro de cada ano;
 
 b) Os documentos de prestação de contas, até ao final do mês de Março de cada ano;
 

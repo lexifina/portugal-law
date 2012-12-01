@@ -1,5 +1,5 @@
 # Artigo 8.º
 
-### Órgãos sociais
+### Órgãos
 
-Os hospitais E. P. E. dispõem dos órgãos sociais previstos nos Estatutos constantes do anexo II do presente decreto-lei.
+Os hospitais E. P. E. dispõem dos órgãos previstos nos Estatutos constantes do anexo ii do presente decreto-lei.
