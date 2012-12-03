@@ -4,7 +4,7 @@
 
 O procedimento administrativo de dissolução é instaurado oficiosamente pelo conservador, mediante auto que especifique as circunstâncias que determinaram a instauração do procedimento e que identifique a entidade e a causa de dissolução, quando resulte da lei e ainda quando:
 
-a) Durante dois anos consecutivos, a sociedade não tenha procedido ao depósito dos documentos de prestação de contas e a administração tributária tenha comunicado ao serviço de registo competente a omissão de entrega da declaração fiscal de rendimentos pelo mesmo período;
+a) Durante dois anos consecutivos, a sociedade não tenha procedido ao registo da prestação de contas;
 
 b) A administração tributária tenha comunicado ao serviço de registo competente a ausência de actividade efectiva da sociedade, verificada nos termos previstos na legislação tributária;
 
@@ -20,4 +20,6 @@ g) Ocorra a comunicação da ausência de actividade efectiva da cooperativa ver
 
 h) Ocorra a comunicação da declaração oficiosa de cessação de actividade da cooperativa nos termos previstos na legislação tributária, efectuada pela administração tributária junto do serviço de registo competente;
 
-i) As cooperativas não tenham procedido ao registo do capital social actualizado nos termos previstos nos n.os 3 e 4 do artigo 91.º do Código Cooperativo.
+i) As cooperativas não tenham procedido ao registo do capital social actualizado nos termos previstos nos n.os 3 e 4 do artigo 91.º do Código Cooperativo;
+
+j) A entidade competente para a concessão da licença para operar no âmbito institucional da Zona Franca da Madeira comunique à conservatória do registo comercial privativa a caducidade ou revogação da respetiva licença.

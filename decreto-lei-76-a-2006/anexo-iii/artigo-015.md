@@ -20,7 +20,7 @@ a) A dissolução tenha sido realizada em procedimento administrativo de dissolu
 
 b) Se verifique terem decorrido os prazos previstos no artigo 150.º do Código das Sociedades Comerciais para a duração da liquidação sem que tenha sido requerido o respectivo registo de encerramento;
 
-c) Durante dois anos consecutivos, o titular do estabelecimento individual de responsabilidade limitada não tenha procedido ao depósito dos documentos de prestação de contas e a administração tributária tenha comunicado ao serviço de registo competente a omissão de entrega da declaração fiscal de rendimentos pelo mesmo período;
+c) Durante dois anos consecutivos, o titular do estabelecimento individual de responsabilidade limitada não tenha procedido ao registo da prestação de contas;
 
 d) A administração tributária tenha comunicado ao serviço de registo competente a ausência de actividade efectiva do estabelecimento individual de responsabilidade limitada, verificada nos termos previstos na legislação tributária;
 
