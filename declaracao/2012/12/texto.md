@@ -1,0 +1,3 @@
+Declaração n.º 12/2012
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à apreciação parlamentar n.º 29/XII, ao Decreto-Lei n.º 145/2012, de 11 de julho, que «[a]prova a orgânica do Laboratório Nacional de Energia e Geologia, I. P.», apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que as propostas de alteração apresentadas foram rejeitadas pela Comissão de Economia e Obras Públicas, tendo o Plenário sido informado do facto.
+Assembleia da República, 22 de novembro de 2012. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
