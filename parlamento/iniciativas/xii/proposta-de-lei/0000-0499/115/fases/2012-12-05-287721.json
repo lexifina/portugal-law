@@ -1,0 +1,288 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "115",
+    "id": "37370",
+    "titulo": "Procede à primeira alteração à Lei de Organização, Competência e Funcionamento dos Julgados de Paz, aprovada pela Lei n.º 78/2001, de 13 de julho, aperfeiçoando alguns aspetos de organização e funcionamento dos julgados de paz."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-12-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "30130",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2013-01-16",
+            "id": "94326",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-01-16",
+            "id": "94325",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-12-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-12-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-01-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação dos Juízes de Paz Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4f574d785a6a51794e6931694e7a686a4c5451785a6a51744f5459355a6930314e5751354f5463304f474d33595463756347526d&fich=e9c1f426-b78c-41f4-969f-55d99748c7a7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação dos Juízes de Paz Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a544d7a4e44497959693168596a41794c545268597a4574596a49344e7931684f4449324d5455774d325178597a45756347526d&fich=8e33422b-ab02-4ac1-b287-a8261503d1c1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Nacional de Freguesias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e325932597a4a684d4330334d5751354c5451794e444d7459574d784d53316b4e474933597a56694e546b33596d49756347526d&fich=87f6c2a0-71d9-4243-ac11-d4b7c5b597bb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Nacional Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e7a55784d325a694f533034596d51784c54526b5a6d5174596a526d5a43316a4f446b344e6d526a5a6a45795a546b756347526d&fich=87513fb9-8bd1-4dfd-b4fd-c8986dcf12e9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Sindical dos Juizes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d574e6a4f444d314e4330324d6a426d4c54517a4e32557459545578596930784d7a55314e325132596a45334f4755756347526d&fich=b1cc8354-620f-437e-a51b-13557d6b178e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho de Acompanhamento dos Julgados de Paz",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a4449794e5451344d6930334d7a51324c5451334e6a5174595445334f5331694e7a6b795a44646b4f54526b4e4749756347526d&fich=ed225482-7346-4764-a179-b792d7d94d4b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a6d4533595751785a5330354d44526d4c54526d4d445174595751784e4330774d4455794d7a41774e545533597a63756347526d&fich=cfa7ad1e-904f-4f04-ad14-0052300557c7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e4451314e7a526b5a43307a4d544d304c5451794d5755744f5456684d79316c4d544978596a6c6d59546335595467756347526d&fich=044574dd-3134-421e-95a3-e121b9fa79a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6d55314d7a42684f43316b4d446c6c4c5451354f5459744f475a694d43307a4f5467315a6d457959574d31596d4d756347526d&fich=16e530a8-d09e-4996-8fb0-3985fa2ac5bc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a597a4a695a544d305a4330354d32466a4c5451324f575974596a5a6c5a43316b4f444133597a45304d4756685a6d45756347526d&fich=3c2be34d-93ac-469f-b6ed-d807c140eafa.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-12-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-12-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-12-28"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Acompanhamento dos Julgados de Paz em 2012-12-12"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2013-01-07"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2012-12-19"
+          },
+          {
+            "link": "",
+            "nome": "Associação de Juízes de Paz Portugueses em 2013-01-11"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2012-12-26"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Acompanhamento dos Julgados de Paz em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Juízes Portugueses em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Associação de Juízes de Paz Portugueses em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2012-12-14"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "70-89"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-23",
+            "pubLeg": "XII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/070/2013-01-23/70?pgs=70-89&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "70-89"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-23",
+            "pubLeg": "XII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/070/2013-01-23/70?pgs=70-89&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1554",
+            "motivoCessacao": null,
+            "nome": "Filipe Neto Brandão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-01-22",
+            "dataRemessa": "2013-01-23",
+            "numeroOficio": "101/XII/1.ª - CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-01-23",
+            "descricao": null,
+            "detalhe": null,
+            "id": "62718",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "116",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-12-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287721",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
