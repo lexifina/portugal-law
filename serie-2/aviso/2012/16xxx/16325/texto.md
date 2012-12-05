@@ -1,0 +1,8 @@
+Aviso n.º 16325/2012
+Discussão pública do Plano de Pormenor da Zona Industrial de Pereira
+Nos termos do Decreto-Lei n.º 380/99, de 22 de setembro, na redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, o Município de Miranda do Corvo informa todos os interessados que na sequência da Reunião de Câmara Municipal de 08/11/2012, foi deliberado abrir um período de Discussão Pública relativo ao Plano de Pormenor da Zona Industrial de Pereira, que terá uma duração de 22 dias úteis, a contar do 5.º dia útil a seguir à data de publicação do presente Aviso no Diário da República.
+Durante todo o período em que decorrer a Discussão Pública os documentos estarão disponíveis junto da Secretaria do Município de Miranda do Corvo, onde poderão ser consultados pelos interessados nos dias úteis das 9H00 às 12H30 e das 14H30 às 17H30.
+No âmbito da discussão pública serão consideradas e apreciadas todas as reclamações, observações ou sugestões que, apresentadas por escrito, especificamente se relacionem com o Plano de Pormenor em apreço, devendo ser dirigidas ao Vereador com Competências Delegadas e remetidas por correio ou endereço eletrónico para camara@cm-mirandadocorvo.pt ou entregues no local acima indicado durante o período de discussão pública, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que se apresentam.
+Para se constar e demais efeitos se publica o presente aviso no Diário da República, 2.ª série, e outros de igual teor serão afixados nos locais do costume e publicados noutros órgãos de comunicação social.
+29 de novembro de 2012. - O Vereador com Competências Delegadas, Sérgio Luís Rodrigues Sêco, Dr.
+206563588
