@@ -1,0 +1,215 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "113",
+    "id": "37372",
+    "titulo": "Aprova o Código de Processo Civil."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-12-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "30149",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-12-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-12-07",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-12-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596a59794f446b7a4d5330354d6a67334c5451795a6d5574596d55795a4330794e6a526b597a63325a6a51345a474d756347526d&fich=6b628931-9287-42fe-be2d-264dc76f48dc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e5746685a5459795a6930314d6a55784c5451354f444d744f574d334e43316b5a5749774e574e6d5a6a4d7a4e5463756347526d&fich=c5aae62f-5251-4983-9c74-deb05cff3357.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-03-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público (aditamento)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e546c6b4d7a46684e4330344d475a694c5451314f575974595464694e693034596d55324e444e6d4e6a67795a6a49756347526d&fich=859d31a4-80fb-459f-a7b6-8be643f682f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a6a4a6b4d574d304e6930324d3245334c545178597a6774596d59304d6930344d54526b4f4463314f445932596d55756347526d&fich=8f2d1c46-63a7-41c8-bf42-814d875866be.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d5449775a4752685979303259574d334c54526a4e5463744f5456694e4330314d6a466c4e7a4577597a5a6d5a4749756347526d&fich=7120ddac-6ac7-4c57-95b4-521e710c6fdb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-01-09"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-12-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-01-07"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2013-02-12"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-12-11"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2012-12-11"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "23-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-16",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/066/2013-01-16/23?pgs=23-46&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "23-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-16",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/066/2013-01-16/23?pgs=23-46&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "413",
+            "motivoCessacao": null,
+            "nome": "Luís Pita Ameixa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-01-16",
+            "dataRemessa": "2013-01-16",
+            "numeroOficio": "n.º40/XII/1.ª/CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-01-16",
+            "descricao": null,
+            "detalhe": null,
+            "id": "62659",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "115",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-12-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287799",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
