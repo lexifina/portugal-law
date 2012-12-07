@@ -1,0 +1,254 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "320",
+    "id": "37360",
+    "titulo": "Reorganização Administrativa do Território das Freguesias."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "30160",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2012-12-11",
+            "id": "94388",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-12-12",
+            "id": "94389",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-12-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-12-07",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Ofício-Relatório da 11ª CAOTPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d546b334e6a4132595441745957557a4e433030596a686b4c5467794d4751744d6a56695932557a5a47557a4d7a4d794c6e426b5a673d3d&fich=197606a0-ae34-4b8d-820d-25bce3de3332.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta Deputado Laurentino Dias do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765957526a5a4445334d5455745a6d5977597930304f4451774c54686b4d4759744f5467774f5441774e6d457a59546b354c6c424552673d3d&fich=adcd1715-ff0c-4840-8d0f-9809006a3a99.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4467355a446c6c4f5451744d6a5977595330305a444a6c4c57497a4d4463744d6a55324e7a6735597a51784d7a6c6d4c6c424552673d3d&fich=d89d9e94-260a-4d2e-b307-256789c4139f.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659545535596d593359324d744d5746684f4330304e7a4d354c5745774e4755744e545a6b4f5749784e544d794f44466c4c6c424552673d3d&fich=a59bf7cc-1aa8-4739-a04e-56d9b153281e.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - B",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a6c6c4d5441794e6d4d744d6a41324d533030595745794c5749784e5749744d446b795a44566a596d517a4f4464684c6c424552673d3d&fich=29e1026c-2061-4aa2-b15b-092d5cbd387a.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - C",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a41304e5449774d5455744e6a4d774d7930304e7a4d774c57497a4e445974597a51324d6d4d34595745345a444e684c6c424552673d3d&fich=f0452015-6303-4730-b346-c462c8aa8d3a.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - E",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e474d334f5455774e5441744d6d4a6a5a4330304d4759354c574a6c595441744e6d59314e574d324f44466d597a526b4c6c424552673d3d&fich=4c795050-2bcd-40f9-bea0-6f55c681fc4d.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - F",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d446333596d5131595749744e574e684d5330304d4463334c5749345a6a517459574d784d3251305a6d45334d6d5a6b4c6c424552673d3d&fich=077bd5ab-5ca1-4077-b8f4-ac13d4fa72fd.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - G",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4441774e6a51334e7a67745a6a5a695a4330305a44646c4c546b7a5a544d744f474d344d6d5577596d52694e6d51304c6c424552673d3d&fich=40064778-f6bd-4d7e-93e3-8c82e0bdb6d4.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - I",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d446335597a4d345a6d59744d5441775a5330304f44426a4c546b784e4755744d47466b597a63774d574d775a6a51334c6c424552673d3d&fich=079c38ff-100e-480c-914e-0adc701c0f47.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f47457a4e4755344d3251745a6d4d305a533030597a6c6d4c5749354d6a51744d575a6a4d7a6b7759546b7a4f4467344c6c424552673d3d&fich=8a34e83d-fc4e-4c9f-b924-1fc390a93888.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - M",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4467344f446c69596a55744e5455335a4330305a6a68684c5745354d6a4574597a597a5a4467324d6a45784e5755334c6c424552673d3d&fich=08889bb5-557d-4f8a-a921-c63d862115e7.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - N",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a63334e7a6469596a51744e4459774d6930305a5441334c574a6c5a5445744e446c6b5a44686b4e325977596a59334c6c424552673d3d&fich=67777bb4-4602-4e07-bee1-49dd8d7f0b67.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - O",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a59795a444e6a596a5574596d45304e5330304e7a6c694c5467354e546b74597a566d5a4441794e6d4e6c4f5446684c6c424552673d3d&fich=262d3cb5-ba45-479b-8959-c5fd026ce91a.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - P",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a41784d5467794d546b744d574d785a4330304e6d466d4c574534596a55744d54517a4e5745774e54426b595751324c6c424552673d3d&fich=c0118219-1c1d-46af-a8b5-1435a050dad6.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - S",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446c6d596d466a4f5445744e7a4d314e6930304f47466a4c5745794d6a67745a6d4532596a4a6a4f5455355a54466d4c6c424552673d3d&fich=d9fbac91-7356-48ac-a228-fa6b2c959e1f.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - T",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544d33597a426c4e446b745a47566b4d6930305a474d334c5745334d7a6b745a57566d4e324d344d6a466b4d47526a4c6c424552673d3d&fich=137c0e49-ded2-4dc7-a739-eef7c821d0dc.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas do GP PCP - V",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5449334f5751304d6a67744d44466d4f4330304e6d4a6c4c546b354d444d744d4751325a57566a4f546b344d7a417a4c6c424552673d3d&fich=1279d428-01f8-46be-9903-0d6eec998303.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-12-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas dos GP's PSD, CDS/PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a5a684f5456694d6a6b745a4756694e5330305a544d344c574669597a63744e4746694d6d52694e6a49335932517a4c6c424552673d3d&fich=76a95b29-deb5-4e38-abc7-4ab2db627cd3.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "45-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-19",
+            "pubLeg": "XII",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/053/2012-12-19/45?pgs=45&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "45-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-19",
+            "pubLeg": "XII",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/053/2012-12-19/45?pgs=45&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2012-12-19",
+            "dataRemessa": "2012-12-19",
+            "numeroOficio": "1201/11ª-CAOTPL",
+            "observacoes": "Ofício-Relatório enviado à PAR",
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2012-12-07",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287828",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
