@@ -1,3 +1,11 @@
+## Capítulo V
+
+## Aquisição de terreno
+
+## Capítulo VI
+
+## Regras complementares
+
 # Artigo 23.º
 
 ### Garantia do empréstimo

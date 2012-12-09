@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Regime geral de crédito
+
 # Artigo 7.º
 
 ### Condições de empréstimo
