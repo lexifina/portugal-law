@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "117",
+  "id": "37389",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2012-12-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4755315a4455354e444974596d55774e433030596a63314c546777596a41744e475532597a5931595749324e475a694c6e426b5a673d3d&fich=de5d5942-be04-4b75-80b0-4e6c65ab64fb.pdf&Inline=true",
+        "anexoNome": "Parecer  GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595442684f544d325a4449745a6a526b597930304d7a4a694c574a6b5a6a63745a6a68685a6a41354e4756694d6a41334c6e426b5a673d3d&fich=a0a936d2-f4dc-432b-bdf7-f8af094eb207.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a544e694e54597a4d5445744e4749794e6930304f444d354c574978596d59745a5459304d4463315a4459344d6a4d354c6e426b5a673d3d&fich=e3b56311-4b26-4839-b1bf-e64075d68239.pdf&Inline=true",
+        "anexoNome": "Parecer ANAREC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d55354e4751354e4441744d54677a4e6930304d6d46684c574a6d4e4467744d4755304d6a45304f4464684d44426c4c6e426b5a673d3d&fich=be94d940-1836-42aa-bf48-0e421487a00e.pdf&Inline=true",
+        "anexoNome": "Parecer ANF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e546b774e7a46684e4759744d6a67794d4330304e47526a4c546c6b59325174597a68684d6a4d345a4756694d7a41354c6e426b5a673d3d&fich=59071a4f-2820-44dc-9dcd-c8a238deb309.pdf&Inline=true",
+        "anexoNome": "Parecer APB"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595463794f5455794e7a41744e6d51314f4330304d7a41304c546778596a67744d7a6b31596d5a6d5a6d45354e6d466a4c6e426b5a673d3d&fich=a7295270-6d58-4304-81b8-395bfffa96ac.pdf&Inline=true",
+        "anexoNome": "Parecer APETRO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a63344e6d453359575174595455784d7930305a4451354c546b314e6d45744d6a6b334e5468684d6a67355954466b4c6e426b5a673d3d&fich=f786a7ad-a513-4d49-956a-29758a289a1d.pdf&Inline=true",
+        "anexoNome": "Parecer APS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a54566c596d526a5a6a6b744d7a417a4d7930304d5467334c5745794f5449744e4752684f544531596d5a694e4445324c6e426b5a673d3d&fich=e5ebdcf9-3033-4187-a292-4da915bfb416.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a4a6b4e5455354e5455744d32517a5a693030596a51784c5467304e6a6774596a646d4e6a41784d574d795a6a67304c6e426b5a673d3d&fich=22d55955-3d3f-4b41-8468-b7f6011c2f84.pdf&Inline=true",
+        "anexoNome": "Parecer CSP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a4d315a6a466c4d4441744e7a686b4d4330304f44637a4c5468694e6a59744f5759794d546c6c4e54457a4f575a684c6e426b5a673d3d&fich=635f1e00-78d0-4873-8b66-9f219e5139fa.pdf&Inline=true",
+        "anexoNome": "Parecer PGR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a51335a44526b4d6a41744f4441324e6930304f57566b4c574933595459744e5467784d6a59774e474979596a637a4c6e426b5a673d3d&fich=f47d4d20-8066-49ed-b7a6-5812604b2b73.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4456694e6a63774f4449745a6d497a4e7930305954566d4c57466a4f545174596d51304d4759334f4452695a5464694c6e426b5a673d3d&fich=85b67082-fb37-4a5f-ac94-bd40f784be7b.pdf&Inline=true",
+        "anexoNome": "Parecer CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d3245794e574e6d597a55744d7a6c6c4e7930304f574a694c54686b5a5751745a54677a4f5445314e574d32596a4e6b4c6e426b5a673d3d&fich=3a25cfc5-39e7-49bb-8ded-e839155c6b3d.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37389",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a646d4f57526d4f4449744d5759334f5330304e6a4a6c4c574a6b4f5749744e575578595755324e47466d5a54526a4c6d527659773d3d&fich=c7f9df82-1f79-462e-bd9b-5e1ae64afe4c.doc&Inline=true",
+    "IniNr": "117",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o regime do exercício da atividade de segurança privada.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
