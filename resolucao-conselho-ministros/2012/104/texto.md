@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 104/2012
+Através do Decreto-Lei n.º 404/98, de 18 de dezembro, alterado pela Lei n.º 35/99, de 26 de maio, e pelos Decretos-Leis n.os 74/2003, de 16 de abril, e 33/2010, 14 de abril, foi atribuída à ANA - Aeroportos de Portugal, S.A. (ANA, S.A.), a concessão do serviço público aeroportuário de apoio à aviação civil em Portugal, que atualmente compreende a gestão dos aeroportos civis de Lisboa (Portela), do Porto (Francisco Sá Carneiro), de Faro, de Ponta Delgada (João Paulo II), de Santa Maria, da Horta e das Flores, bem como do designado Terminal Civil de Beja.
+O contrato de concessão, referente à concessão de serviço público legalmente atribuída à ANA, S.A., nunca chegou, contudo, por vicissitudes diversas, a ser formalizado.
+Ora, tendo sido recentemente aprovado, pelo Decreto-Lei n.º 254/2012, de 28 de novembro, o quadro jurídico geral da concessão de serviço público aeroportuário de apoio à aviação civil em Portugal, impõe-se formalizar o aludido contrato de concessão, tendo a respetiva minuta sido submetida à apreciação do Conselho de Ministros.
+Assim:
+Nos termos da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a celebração do contrato de concessão de serviço público aeroportuário entre o Estado Português e a ANA - Aeroportos de Portugal, S.A. (ANA, S.A.), com o seguinte objeto:
+a) Prestação das atividades e serviços aeroportuários nos aeroportos de Lisboa (Portela), do Porto (Francisco Sá Carneiro), de Faro, de Ponta Delgada (João Paulo II), de Santa Maria, da Horta, das Flores e do designado Terminal Civil de Beja;
+b) Prestação de atividades de conceção, de projeto, de construção, de reforço, de reconstrução, de extensão, de desativação e de encerramento de infraestruturas, nos termos estabelecidos no contrato de concessão;
+c) Realização das atividades comerciais que possam ser desenvolvidas nos referidos Aeroportos ou noutras áreas afetas à concessão, nos termos previstos no contrato de concessão;
+d) Atribuição à ANA, S.A., do direito exclusivo de apresentação ao Estado de propostas de conceção, construção, financiamento e ou exploração e gestão do novo aeroporto de Lisboa, de acordo com o previsto no contrato de concessão.
+2 - Determinar que o Estado seja representado, na celebração do contrato de concessão indicado no número anterior, pelo Ministro de Estado e das Finanças, com faculdade de delegação na Secretária de Estado do Tesouro, e pelo Ministro da Economia e do Emprego, com faculdade de delegação no Secretário de Estado das Obras Públicas, Transportes e Comunicações.
+3 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
+Presidência do Conselho de Ministros, 11 de dezembro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
