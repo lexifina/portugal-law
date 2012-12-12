@@ -1,0 +1,202 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12341",
+  "numero": "222",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2012-12-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-01-29",
+            "entidades": null,
+            "id": "96908",
+            "tipo": null,
+            "titulo": "Audição em 2014-01-29 com Associação Comercial e Industrial de Vila Real, Câmara Municipal de Bragança, Câmara Municipal de Vila Real, Instituto Politécnico de Bragança, NERBA - Núcleo Empresarial da Região de Bragança, NERVIR - Associação Empresarial, Reitor da Universidade de Trás-os-Montes e Alto Douro, Subscritores da Petição"
+          },
+          {
+            "data": "2014-02-07",
+            "entidades": null,
+            "id": "96948",
+            "tipo": null,
+            "titulo": "Audição em 2014-02-07 com INAC - Instituto Nacional de Aviação Civil, I.P., Peticionários"
+          },
+          {
+            "data": "2014-02-11",
+            "entidades": null,
+            "id": "96960",
+            "tipo": null,
+            "titulo": "Audição em 2014-02-11 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-01-09",
+            "dataResposta": null,
+            "entidades": [
+              "Secretária de Estado dos Assuntos Parlamentares e da Igualdade"
+            ],
+            "nrOficio": "7/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-07-30",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "749849",
+                "obs": null,
+                "pag": [
+                  "2-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-08-04",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/063/2015-08-04/2?pgs=2-9&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-01-09",
+        "DataArquivo": "2015-12-18",
+        "DataBaixaComissao": "2012-12-18",
+        "DataEnvioPAR": "2015-08-03",
+        "DataReaberta": "2013-01-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-01-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5a6c4d3251785a5751794c5467355a5745744e4446685a4331684e5749354c574a6d4e546c68596d566d5a474533595335515245593d&fich=6e3d1ed2-89ea-41ad-a5b9-bf59abefda7a.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-01-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3252694e7a4532597a6c684c544d344d574d744e47497a4e7931695a444d324c574a6b4d6a6b335a6a49344e6a56685a5335515245593d&fich=db716c9a-381c-4b37-bd36-bd297f2865ae.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-08-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a6b794d7a63774d6a49334c574e694e6a49744e446c6a596930354e5749304c54417a4f5441345a546b304d6d5a694e5335775a47593d&fich=92370227-cb62-49cb-95b4-03908e942fb5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-01-09",
+            "gp": "PS",
+            "id": "4368",
+            "motivoCessacao": null,
+            "nome": "Paulo Ribeiro de Campos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2012-12-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3252694d324a6c595755314c57557a4d4449744e44566d4f533034595467334c574e6c4d4441304e6a4e6c596d51794f4335515245593d&fich=db3beae5-e302-45f9-8a87-ce00463ebd28.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12341",
+    "PetAssunto": "Não ao fim da linha aérea Bragança-Lisboa.",
+    "PetDataEntrada": "2012-12-12",
+    "PeticoesAssociadas": null,
+    "PetId": "12341",
+    "PetLeg": "XII",
+    "PetNr": "222",
+    "PetNrAssinaturas": "4094",
+    "PetNrAssinaturasInicial": "3008",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "614467",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-01-19",
+        "pubLeg": "XII",
+        "pubNr": "85",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/085/2013-01-19/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
