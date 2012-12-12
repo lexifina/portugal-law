@@ -1,0 +1,791 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "317",
+    "id": "37342",
+    "titulo": "Altera o regime de funcionamento dos órgãos das freguesias e dos municípios procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9086",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-12-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "37320",
+        "leg": "XII",
+        "nr": "104",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1710",
+            "obs": null,
+            "pag": [
+              "18-33"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-10-13",
+            "pubLeg": "XII",
+            "pubNr": "29",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/18?pgs=18-33&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-12-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:06:20:594&drc=00:09:08:639"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:22:45:781&drc=00:05:36:157"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  ADJUNTO E DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Relvas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-20",
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/18?pgs=18-20,22-23&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1943",
+                "nome": "Ramos Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:16:01:734&drc=00:01:46:849"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:17:55:123&drc=00:02:02:649"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:20:01:273&drc=00:02:35:319"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:28:24:262&drc=00:01:26:912"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187660",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2071",
+                "nome": "Miguel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:33:30:222&drc=00:01:34:984"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187662",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:35:19:700&drc=00:01:54:367"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=02:02:48:765&drc=00:01:53:987"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187664",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25",
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/25?pgs=25,31-32&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1943",
+                "nome": "Ramos Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:37:28:931&drc=00:07:44:349"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187666",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/25?pgs=25-27&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:45:26:972&drc=00:05:12:418"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1048",
+                "nome": "Altino Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:50:45:633&drc=00:04:49:822"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4439",
+                "nome": "António Prôa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=01:55:58:021&drc=00:06:35:791"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=02:04:48:564&drc=00:03:12:122"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121212pln&url=l12/sl2/a2012/m12/&tI=02:08:07:546&drc=00:04:07:854"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-10-13",
+                "pubLeg": "XII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico; Altera o regime de funcionamento dos órgãos das freguesias e dos municípios, procedendo à quarta alteração à Lei n.º 169/99, de 18 de setembro, e à sexta alteração à Lei n.º 2/2007, de 15 de janeiro (BE).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287863",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "613375",
+        "obs": null,
+        "pag": [
+          "18-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-10-13",
+        "pubLeg": "XII",
+        "pubNr": "29",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/029/2012-10-13/18?pgs=18-34&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
