@@ -1,0 +1,319 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "117",
+    "id": "37389",
+    "titulo": "Estabelece o regime do exercício da atividade de segurança privada."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2012-12-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "30205",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-12-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2013-02-04",
+        "DatainicioApreciacaoPublica": "2013-01-05",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-02-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Comentário - AES - Associação de Empresas de Segurança",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d7a49785954497a4d4331694f54637a4c5451304d545174596a633459793031596a67324f5755344d4441774e6a55756347526d&fich=4321a230-b973-4414-b78c-5b869e800065.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Comentário - APSEI - Associação Portuguesa de Segurança",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a54686d4e6a63325a6930774d5445314c54526c596a4d744f54646b5953307a595449304d4745344f4455344d6a45756347526d&fich=fe8f676f-0115-4eb3-97da-3a240a885821.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação de Estabelecimentos de Ensino Particular e Cooperativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e6d59324f4755314d5330324e44686a4c54517a593259744f5455335953307a4d47466c4f54593159574a6a4d5451756347526d&fich=e6f68e51-648c-43cf-957a-30ae965abc14.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação dos Formadores de Segurança Privada",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f4442694e54566c597930774f474a6c4c54526a5a445574596a59324f4330334f4751334d446777596a51354f5745756347526d&fich=f80b55ec-08be-4cd5-b668-78d7080b499a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Nacional Agentes Segurança Privada - ANASP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d4745334e5746684f4331694d6d45784c545268595449744f4441314d79316b4e6a49784e5755334f574d325a47597555455247&fich=00a75aa8-b2a1-4aa2-8053-d6215e79c6df.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Comissão de Trabalhadores do Metropolitano de Lisboa, E.P.E.",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d5749324e5759304e43316a4f574d774c545135596a63744f546c6d597930784d5451304f5451785a6d4e694d444d756347526d&fich=21b65f44-c9c0-49b7-99fc-1144941fcb03.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Comissão Intersindical da Carris",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b593255355a546b775a4330324d44466d4c5451334e3259744f5751354e43316c4f575579596a4d774d7a5979596d59756347526d&fich=dce9e90d-601f-477f-9d94-e9e2b30362bf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Comissão Intersindical do Metropolitano de Lisboa, E.P.",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877595745314d44466a597930344f474a6b4c5451304e6d49744f544d304f43316a4d575934596d4d315a6a6468596a55756347526d&fich=0aa501cc-88bd-446b-9348-c1f8bc5f7ab5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Federação dos Sindicatos de Transportes e Comunicações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d325a6c4e6d526d4d53316b4f47566a4c5451335a6a417459545a6c4e5331695954686a5a6a67325a6a67314d6a49756347526d&fich=93fe6df1-d8ec-47f0-a6e5-ba8cf86f8522.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato da Carreira de Investigação e Fiscalização do SEF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d546c694e6a526b597930314e54526b4c54517a4d545574596d4d78597931684d544e6a597a413359574a6b4f4459756347526d&fich=e19b64dc-554d-4315-bc1c-a13cc07abd86.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato dos Trabalhadores de Transportes Rodoviários e Urbanos de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d4759344e446468597930325a5759344c5451314d6d5574596a6b35596930344e5755354d7a68684d6a59315a6a59756347526d&fich=10f847ac-6ef8-452e-b99b-85e938a265f6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato Ferroviário da Revisão Comercial Itinerante",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d57566a4e5441334e6930344e7a67314c54526a4e6d51744f544d7959533168593249304d7a686b5a446731595467756347526d&fich=f1ec5076-8785-4c6d-932a-acb438dd85a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato Nacional dos Trabalhadores do Sector Ferroviário",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a6d5534595752684e4330344e544d304c54526d4d7a41744f574e6a4e533168597a59775a4749314d6d5979597a51756347526d&fich=5fe8ada4-8534-4f30-9cc5-ac60db52f2c4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato Serviços Portaria, Vigilância, Limpeza, Domésticas e Atvividades Diversas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a6d4d304e7a6b784e4331685a5759324c5451314e574d74596a41335953307a4d5468695a5452694d7a41304f5451756347526d&fich=efc47914-aef6-455c-b07a-318be4b30494.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributos - Cidadãos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a47566a5a6a566b596930334e7a67324c5452695a54417459546c6c5a5330774d444d304f5451324d7a4a6b4f4759756347526d&fich=bdecf5db-7786-4be0-a9ee-003494632d8f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Protecção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a5751784d7a49774e5330344d4745774c5451325a574d74596d5269596930354e6a41324d574a6c4f5459774d324d756347526d&fich=0ed13205-80a0-46ec-bdbb-96061be9603c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d44686a5a6a426c5a4331694d7a4a6a4c54526b5a444d744f5755774f433169597a4a694d6a6b334f445a6a4d444d756347526d&fich=808cf0ed-b32c-4dd3-9e08-bc2b29786c03.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d57566c596d4533596930794f5451784c54526b4d32517459546b304f53316d595449354e7a566c5a475a685a6d4d756347526d&fich=e1eeba7b-2941-4d3d-a949-fa2975edfafc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2012-01-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e4459794e5459325979307a4e5749794c5451325a6a5174596d4669595331695954466c4e4449794d544132596a55756347526d&fich=1462566c-35b2-46f4-baba-ba1e422106b5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e6a5a6d597a67785969316b5a444d304c5451774d445174596a59355969316c595451355a4455784d4456694d4459756347526d&fich=d66fc81b-dd34-4004-b69b-ea49d5105b06.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e3245355a6d59324e43316d4d4446684c545179596a5574596a4a6a5a5330795a4751794e574d3059575a6b4d6a41756347526d&fich=d7a9ff64-f01a-42b5-b2ce-2dd25c4afd20.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-01-17"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-01-17"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-01-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2012-01-22"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2013-01-15"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2012-12-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2012-12-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2012-12-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2012-12-27"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2012-12-27"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "52-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-02-06",
+            "pubLeg": "XII",
+            "pubNr": "78",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/078/2013-02-06/52?pgs=52-67&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "52-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-02-06",
+            "pubLeg": "XII",
+            "pubNr": "78",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/078/2013-02-06/52?pgs=52-67&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1554",
+            "motivoCessacao": null,
+            "nome": "Filipe Neto Brandão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-02-05",
+            "dataRemessa": "2013-02-06",
+            "numeroOficio": "184/XII/1.ª - CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-02-06",
+            "descricao": null,
+            "detalhe": null,
+            "id": "62869",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "122",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-12-13",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287911",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
