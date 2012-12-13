@@ -1,0 +1,431 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "527",
+    "id": "37383",
+    "titulo": "Para que o Governo proceda ao pagamento das compensações por caducidade dos contratos de professores."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2012-12-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9091",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2012-12-13",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37385",
+        "leg": "XII",
+        "nr": "529",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1708",
+            "obs": null,
+            "pag": [
+              "39-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2012-12-14",
+            "pubLeg": "XII",
+            "pubNr": "30",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14/39?pgs=39-47&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o pagamento das compensações por caducidade de contrato devidas aos professores contratados."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-12-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:24:30:485&drc=00:01:59:407"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:42:07:913&drc=00:03:12:113"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187529",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-14",
+                "pubLeg": "XII",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14?org=PLC"
+              }
+            ],
+            "sumario": "Para que o Governo proceda ao pagamento das compensações por caducidade dos contratos de professores; Recomenda ao Governo o pagamento das compensações por caducidade de contrato devidas aos professores contratados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:26:36:521&drc=00:01:51:375"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:40:00:314&drc=00:02:02:166"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187530",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40",
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-14",
+                "pubLeg": "XII",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14/40?pgs=40,44&org=PLC"
+              }
+            ],
+            "sumario": "Para que o Governo proceda ao pagamento das compensações por caducidade dos contratos de professores; Recomenda ao Governo o pagamento das compensações por caducidade de contrato devidas aos professores contratados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4322",
+                "nome": "Isilda Aguincha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:28:31:332&drc=00:02:52:500"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-14",
+                "pubLeg": "XII",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Para que o Governo proceda ao pagamento das compensações por caducidade dos contratos de professores; Recomenda ao Governo o pagamento das compensações por caducidade de contrato devidas aos professores contratados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:31:31:128&drc=00:02:56:016"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-14",
+                "pubLeg": "XII",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Para que o Governo proceda ao pagamento das compensações por caducidade dos contratos de professores; Recomenda ao Governo o pagamento das compensações por caducidade de contrato devidas aos professores contratados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:34:34:289&drc=00:02:35:394"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:45:24:217&drc=00:01:33:398"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43",
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-14",
+                "pubLeg": "XII",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14/42?pgs=42-43,46&org=PLC"
+              }
+            ],
+            "sumario": "Para que o Governo proceda ao pagamento das compensações por caducidade dos contratos de professores; Recomenda ao Governo o pagamento das compensações por caducidade de contrato devidas aos professores contratados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "18:05",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:37:14:621&drc=00:02:38:230"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121213pln&url=l12/sl2/a2012/m12/&tI=02:47:07:578&drc=00:02:17:769"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187534",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44",
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-14",
+                "pubLeg": "XII",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14/43?pgs=43-44,46-47&org=PLC"
+              }
+            ],
+            "sumario": "Para que o Governo proceda ao pagamento das compensações por caducidade dos contratos de professores; Recomenda ao Governo o pagamento das compensações por caducidade de contrato devidas aos professores contratados.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287868",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "612544",
+        "obs": null,
+        "pag": [
+          "39-47"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-12-14",
+        "pubLeg": "XII",
+        "pubNr": "30",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/030/2012-12-14/39?pgs=39-47&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
