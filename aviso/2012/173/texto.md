@@ -1,0 +1,4 @@
+Aviso n.º 173/2012
+Por ordem superior se torna público que em 19 de outubro de 2008 e em 28 de abril de 2011, foram recebidas notas pela Embaixada do Estado do Kuwait em Riade e pelo Ministério dos Negócios Estrangeiros, respetivamente, pelas quais ambos os Estados comunicam terem sido cumpridas as formalidades internas de aprovação do Acordo entre a República Portuguesa e o Governo do Estado do Kuwait sobre a Promoção e a Proteção Recíproca de Investimentos, assinado em Lisboa a 23 de julho de 2007.
+O referido Acordo foi aprovado pelo Governo, em Conselho de Ministros de 31 de julho de 2008, e publicado no Diário da República 1.ª série, n.º 198 de 13 de outubro de 2008, e nos termos do seu artigo 15.º, entrou em vigor em 28 de maio de 2011.
+Direção-Geral de Política Externa, 5 de dezembro de 2012. - A Subdiretora-Geral de Política Externa, Helena Maria Rodrigues Fernandes Malcata.
