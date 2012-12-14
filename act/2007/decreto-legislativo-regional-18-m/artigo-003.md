@@ -2,6 +2,6 @@
 
 ### Jurisdição territorial e sede
 
-1 - O IDR tem a sua sede no Funchal.
+1 - O IDR, IP-RAM tem a sua sede na cidade do Funchal e jurisdição na Região Autónoma da Madeira.
 
-2 - O presidente do IDR poderá criar e encerrar delegações ou representações, com autorização prévia do secretário regional da tutela, adiante designado abreviadamente por secretário regional.
+2 - (Revogado.)

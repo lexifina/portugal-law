@@ -2,7 +2,7 @@
 
 ### Atribuições
 
-São atribuições do IDR:
+São atribuições do IDR, IP-RAM:
 
 a) Analisar a evolução económico-social mundial, em geral, e comunitária e nacional, em particular, e acompanhar os estudos de prospectiva realizados no âmbito respectivo;
 
@@ -24,34 +24,34 @@ i) Estabelecer a necessária ligação aos organismos de planeamento do desenvol
 
 j) Assegurar a representação da Região nos órgãos de planeamento de âmbito nacional;
 
-l) Assegurar uma correcta articulação na aplicação dos fundos comunitários na RAM;
+k) Assegurar uma correcta articulação na aplicação dos fundos comunitários na RAM;
 
-m) Exercer as funções técnico-administrativas inerentes à coordenação da gestão, do acompanhamento e da avaliação dos programas operacionais;
+l) Exercer as funções técnico-administrativas inerentes à coordenação da gestão, do acompanhamento e da avaliação dos programas operacionais;
 
-n) Exercer as funções de interlocutor regional do Fundo Europeu de Desenvolvimento Regional (FEDER), do Fundo Social Europeu (FSE) e do Fundo de Coesão, perante as autoridades nacionais e a Comissão Europeia, no âmbito das suas competências e no quadro dos mecanismos de representação junto desses órgãos;
+m) Exercer as funções de interlocutor regional do Fundo Europeu de Desenvolvimento Regional (FEDER), do Fundo Social Europeu (FSE) e do Fundo de Coesão, perante as autoridades nacionais e a Comissão Europeia, no âmbito das suas competências e no quadro dos mecanismos de representação junto desses órgãos;
 
-o) Assegurar as funções de pagamento e certificação de despesas dos programas de cooperação, em cujo âmbito espacial a RAM se integra;
+n) Assegurar as funções de pagamento e certificação de despesas dos programas de cooperação, em cujo âmbito espacial a RAM se integra;
 
-p) Assegurar a representação da Região nos órgãos do Quadro de Referência Estratégico Nacional (QREN), nos casos em que lhe sejam atribuídos tais poderes;
+o) Assegurar a representação da Região nos órgãos do Quadro de Referência Estratégico Nacional (QREN), nos casos em que lhe sejam atribuídos tais poderes;
 
-q) Assegurar as funções de apoio técnico, administrativo e financeiro às acções co-financiadas pelo FEDER, pelo Fundo de Coesão e pelo FSE;
+p) Assegurar as funções de apoio técnico, administrativo e financeiro às acções co-financiadas pelo FEDER, pelo Fundo de Coesão e pelo FSE;
 
-r) Contribuir para a definição das linhas gerais de orientação dos fundos estruturais e para a eficácia das respectivas intervenções operacionais;
+q) Contribuir para a definição das linhas gerais de orientação dos fundos estruturais e para a eficácia das respectivas intervenções operacionais;
 
-s) Contribuir para a definição e harmonização de normas de acesso e de gestão relativas aos apoios comunitários, no respeito pelas normas e orientações emitidas pelos órgãos competentes;
+r) Contribuir para a definição e harmonização de normas de acesso e de gestão relativas aos apoios comunitários, no respeito pelas normas e orientações emitidas pelos órgãos competentes;
 
-t) Assegurar o cumprimento das regras nacionais e comunitárias aplicáveis aos fundos comunitários em matéria de informação e publicidade;
+s) Assegurar o cumprimento das regras nacionais e comunitárias aplicáveis aos fundos comunitários em matéria de informação e publicidade;
 
-u) Garantir sistemas de informação eficazes para o acompanhamento das intervenções dos fundos comunitários na RAM que permitam, nomeadamente, a recolha e o tratamento dos indicadores físicos e financeiros necessários à gestão e avaliação dos apoios concedidos;
+t) Garantir sistemas de informação eficazes para o acompanhamento das intervenções dos fundos comunitários na RAM que permitam, nomeadamente, a recolha e o tratamento dos indicadores físicos e financeiros necessários à gestão e avaliação dos apoios concedidos;
 
-v) Apoiar os organismos intermédios de gestão das intervenções operacionais e as respectivas estruturas de apoio técnico, quer na formação dos seus técnicos quer no desenvolvimento de actividades e ou resolução de questões de maior complexidade;
+u) Apoiar os organismos intermédios de gestão das intervenções operacionais e as respectivas estruturas de apoio técnico, quer na formação dos seus técnicos quer no desenvolvimento de actividades e ou resolução de questões de maior complexidade;
 
-x) Assegurar o apoio a missões promovidas pelas instâncias nacionais e comunitárias, no âmbito das intervenções co-financiadas pelos fundos comunitários;
+v) Assegurar o apoio a missões promovidas pelas instâncias nacionais e comunitárias, no âmbito das intervenções co-financiadas pelos fundos comunitários;
 
-z) Promover a elaboração de estudos que se tornem necessários à boa aplicação dos fundos comunitários na RAM e, quando necessário, propor medidas de apoio à actividade económica regional, participar e acompanhar a sua aplicação e avaliar o respectivo impacte:
+w) Promover a elaboração de estudos que se tornem necessários à boa aplicação dos fundos comunitários na RAM e, quando necessário, propor medidas de apoio à actividade económica regional, participar e acompanhar a sua aplicação e avaliar o respectivo impacte:
 
-i) Promover a avaliação do impacte e dos efeitos da aplicação dos instrumentos de desenvolvimento, em particular das intervenções co-financiadas pelos fundos comunitários, em estreita articulação com as entidades mais directamente envolvidas;
+x) Promover a avaliação do impacte e dos efeitos da aplicação dos instrumentos de desenvolvimento, em particular das intervenções co-financiadas pelos fundos comunitários, em estreita articulação com as entidades mais directamente envolvidas;
 
-ii) Promover a difusão dos estudos e trabalhos elaborados no âmbito das suas competências ou com a sua colaboração;
+y) Promover a difusão dos estudos e trabalhos elaborados no âmbito das suas competências ou com a sua colaboração;
 
-iii) Exercer as demais atribuições que lhe forem legalmente cometidas.
+z) Exercer as demais atribuições que lhe forem legalmente cometidas.
