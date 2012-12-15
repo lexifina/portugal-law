@@ -95,3 +95,5 @@
 33.1.1 - Os emolumentos devidos pelos procedimentos previstos no artigo 18.º, n.os 6.2, 6.2.1, 6.2.2, 6.10.2, 6.10.3, 6.10.4 e 6.10.5.1, são reduzidos em 50 % quando respeitem apenas a prédios rústicos de valor inferior a (euro) 10 000.
 
 33.2 - Para efeitos do disposto nos números anteriores, o valor do prédio é o do seu valor patrimonial, o valor declarado ou aquele que as partes lhe atribuírem se for superior.
+
+34 - Os emolumentos devidos pela realização de atos de registo de factos relativos a prédio rústico ou misto a disponibilizar, ou disponibilizado, na bolsa de terras a que se refere a lei que cria a bolsa nacional de terras para utilização agrícola, florestal ou silvopastoril, designada por 'Bolsa de terras' e relacionados com a finalidade dessa disponibilização, são reduzidos em 75 %
