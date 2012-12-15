@@ -20,9 +20,9 @@ g) Autorização, devidamente assinada pelos pais ou por quem exerça as respons
 
 h) Identificação e contacto do médico assistente;
 
-i) Declaração médica comprovativa do estado de saúde da criança e outras informações tais como dieta, medicação, alergias;
+i) Declaração médica em caso de patologia que determine a necessidade de cuidados especiais;
 
-j) Comprovação da situação das vacinas e grupo sanguíneo;
+j) Comprovação da situação das vacinas;
 
 l) Informação sobre a situação sociofamiliar;
 

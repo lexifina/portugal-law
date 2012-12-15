@@ -8,4 +8,4 @@ a) Sistema de aquecimento e ventilação;
 
 b) Iluminação natural e sistema de iluminação artificial;
 
-c) Sistema de aquecimento de águas, para fins domésticos e sanitários, de preferência centralizado e dotado de retorno para recirculação da água.
+c) Sistema de aquecimento de águas, para fins domésticos e sanitários, de preferência centralizado e dotado de retorno para recirculação da água, bem como ser servido de infraestruturas de saneamento básico, abastecimento de água canalizada, rede eléctrica e telefónica.

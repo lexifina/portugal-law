@@ -10,7 +10,7 @@ a) Ser ampla, com iluminação suficiente e adequada para espaço de transição
 
 b) Ser proporcional à dimensão da área total da creche, possuir mobiliário e equipamento adequados e dispor de vigilância para apoiar o controlo de entrada e saída de pessoas e ajudar a manter a segurança das instalações;
 
-c) Na área de recepção devem existir instalações sanitárias separadas por sexo e acessíveis a pessoas com mobilidade condicionada;
+c) Na área de recepção devem existir instalações sanitárias separadas por sexo, devendo pelo menos uma delas, ser acessível a pessoas com mobilidade condicionada;
 
 d) Prever a existência de um espaço para cabides individuais, acessíveis aos pais ou a quem exerça as responsabilidades parentais.
 
@@ -56,7 +56,7 @@ a) Salas de actividades, organizadas de modo flexível e adequado às necessidad
 
 b) Sala de refeições, preferencialmente situada perto da cozinha. Esta sala pode ser utilizada também para reuniões, festas ou recreio interior. Deve dispor de lugares sentados e mesas, bancadas auxiliares devidamente protegidas do acesso das crianças e painéis nas paredes que possibilitem a decoração de desenhos, sem risco para as crianças;
 
-c) Instalações sanitárias com lavatórios e sanitas de tamanho infantil na proporção de um lavatório para cada grupo de sete crianças e uma sanita para cada grupo de cinco crianças. As creches em funcionamento que aumentem a capacidade das salas ao abrigo do presente diploma ficam dispensadas de observar os rácios atrás estabelecidos, caso não seja possível efectuar as respectivas adaptações nas instalações sanitárias;
+c) Instalações sanitárias com lavatórios e sanitas de tamanho infantil na proporção de um lavatório para cada grupo de sete crianças e uma sanita para cada grupo de cinco crianças;
 
 d) Recreio constituído por um espaço exterior vedado, com uma zona coberta, com zonas de interesse para as crianças e que permita a utilização de brinquedos com rodas. Quando a utilização do recreio for partilhada com bebés, deve prever a separação de espaços. Deve, ainda, contemplar equipamento diverso, estruturas fixas ou móveis, que permitam subir, trepar e escorregar, bebedouros, bancos para adultos, bancos e mesas para as crianças, recipientes para recolha selectiva de lixo e iluminação.
 
