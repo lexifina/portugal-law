@@ -8,7 +8,7 @@
 
 1 - O atraso na comunicação à autoridade competente pelos detentores de bovinos, no prazo legalmente estabelecido, de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 50 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 250 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote, no caso das pessoas singulares, e de (euro) 22440, no caso das pessoas colectivas.
 
-2 - O atraso na comunicação à autoridade competente pelos detentores de ovinos, caprinos, suínos, aves, leporídeos e outras espécies no prazo legalmente estabelecido de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 25 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 125 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote, no caso das pessoas singulares, e de (euro) 22 440, no caso das pessoas colectivas.
+2 - O atraso na comunicação à autoridade competente pelos detentores de bovinos, no prazo legalmente estabelecido, de todos os nascimentos, mortes, desaparecimentos e quedas de marcas auriculares, bem como a data dessas ocorrências, constitui contraordenação punível com coima cujo montante mínimo é de (euro) 50 por animal, até ao montante máximo de (euro) 1870, no caso de pessoas singulares, e de (euro) 22 440, no caso de pessoas coletivas.
 
 3 - O atraso na comunicação à autoridade competente pelos detentores de ovinos, caprinos, suínos, aves, leporídeos e outras espécies no prazo legalmente estabelecido de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contra ordenação punível com coima cujo montante mínimo é de (euro) 25 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 125 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote no caso das pessoas singulares e de (euro) 22 440 no caso das pessoas colectivas.
 
@@ -48,48 +48,50 @@ i) Revogada;
 
 j) O exercício da actividade por comerciantes que não se encontrem registados nos termos do artigo 11.º;
 
-l) O desrespeito das obrigações relativas aos comerciantes, previstas no artigo 11.º;
+l) O desrespeito das obrigações relativas a comerciantes previstas no artigo 11.º;
 
-m) O desrespeito das obrigações relativas aos transportadores previstas no artigo 12.º;
+m) A venda ambulante de espécies pecuárias;
 
-n) O transporte de animais que não se encontrem identificados ou acompanhados dos documentos exigidos nos termos do presente decreto lei;
+n) O desrespeito das obrigações relativas aos transportadores previstas no artigo 12.º;
 
-o) A não entrega pelo transportador das marcas auriculares que se tenham danificado ou caído durante o transporte;
+o) O transporte de animais que não se encontrem identificados ou acompanhados dos documentos exigidos nos termos do presente decreto lei;
 
-p) O desrespeito das obrigações relativas à circulação de animais constantes dos artigos 13.º e 14.º;
+p) A não entrega pelo transportador das marcas auriculares que se tenham danificado ou caído durante o transporte;
 
-q) A não permissão do cumprimento do disposto no artigo 17.º;
+q) O desrespeito das obrigações relativas à circulação de animais constantes dos artigos 13.º e 14.º;
 
-r) O desrespeito das normas fixadas para a transumância nos termos do artigo 18.º;
+r) A não permissão do cumprimento do disposto no artigo 17.º;
 
-s) O desrespeito das medidas dimanadas da DGV nos termos do artigo 19.º;
+s) O desrespeito das normas fixadas para a transumância nos termos do artigo 18.º;
 
-t) A introdução no mercado ou a aplicação de meios de identificação electrónicos não autorizados nos termos do artigo 20.º;
+t) O desrespeito das medidas dimanadas da DGV nos termos do artigo 19.º;
 
-u) O impedimento ou criação de obstáculos aos controlos e o desrespeito da obrigação previstos no artigo 22.º;
+u) A introdução no mercado ou a aplicação de meios de identificação electrónicos não autorizados nos termos do artigo 20.º;
 
-v) O desrespeito às sanções administrativas impostas nos termos do artigo 23.º;
+v) O impedimento ou criação de obstáculos aos controlos e o desrespeito da obrigação previstos no artigo 22.º;
 
-x) O desrespeito das obrigações relativas à identificação e registo de bovinos constantes dos artigos 2.º, 3.º, 4.º e 9.º do anexo I, com excepção da situação prevista no n.º 4 do artigo 5.º do mesmo anexo;
+x) O desrespeito às sanções administrativas impostas nos termos do artigo 23.º;
 
-z) A remoção ou substituição de meios de identificação sem autorização da DGV ou em desconformidade com o previsto nos artigos 5.º do anexo I e 6.º do anexo II;
+z) O desrespeito das obrigações relativas à identificação e registo de bovinos constantes dos artigos 2.º, 3.º, 4.º e 9.º do anexo I, com excepção da situação prevista no n.º 4 do artigo 5.º do mesmo anexo;
 
-aa) O desrespeito das normas relativas a animais das espécies bovina, ovina e caprina provenientes de outros Estados membros ou de países terceiros previstas nos artigos 6.º do anexo I e 7.º do anexo II;
+aa) A remoção ou substituição de meios de identificação sem autorização da DGV ou em desconformidade com o previsto nos artigos 5.º do anexo I e 6.º do anexo II;
 
-bb) A circulação de animais da espécie bovina sem que sejam acompanhados pelo passaporte devidamente preenchido ou dos documentos de acompanhamento, nos termos dos artigos 7.º e 10.º do anexo I;
+bb) O desrespeito das normas relativas a animais das espécies bovina, ovina e caprina provenientes de outros Estados membros ou de países terceiros previstas nos artigos 6.º do anexo I e 7.º do anexo II;
 
-cc) A não devolução do passaporte nos termos do artigo 8.º do anexo I;
+cc) A circulação de animais da espécie bovina sem que sejam acompanhados pelo passaporte devidamente preenchido ou dos documentos de acompanhamento, nos termos dos artigos 7.º e 10.º do anexo I;
 
-dd) O desrespeito das obrigações relativas à identificação e registo de ovinos e caprinos constantes dos artigos 2.º, 3.º e 8.º do anexo II;
+dd) A não devolução do passaporte nos termos do artigo 8.º do anexo I;
 
-ee) A circulação de animais das espécies ovina e caprina sem que sejam acompanhados de passaporte de rebanho ou destacável ou dos documentos de acompanhamento, nos termos dos artigos 4.º e 9.º do anexo II;
+ee) O desrespeito das obrigações relativas à identificação e registo de ovinos e caprinos constantes dos artigos 2.º, 3.º e 8.º do anexo II;
 
-ff) O desrespeito das obrigações relativas à identificação e registo de suínos constantes dos artigos 2.º e 3.º do anexo III;
+ff) A circulação de animais das espécies ovina e caprina sem que sejam acompanhados de passaporte de rebanho ou destacável ou dos documentos de acompanhamento, nos termos dos artigos 4.º e 9.º do anexo II;
 
-gg) O desrespeito das obrigações relativas à expedição, transporte e embalagem de ovos de incubação, aves do dia e aves para abate e ovos de consumo, constantes dos artigos 1.º, 2.º e 3.º, bem como dos documentos de acompanhamento, constantes no artigo 4.º do anexo v;
+gg) O desrespeito das obrigações relativas à identificação e registo de suínos constantes dos artigos 2.º e 3.º do anexo III;
 
-hh) O desrespeito das obrigações relativas à expedição, transporte e embalagem de leporídeos, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo vi;
+hh) O desrespeito das obrigações relativas à expedição, transporte e embalagem de ovos de incubação, aves do dia e aves para abate e ovos de consumo, constantes dos artigos 1.º, 2.º e 3.º, bem como dos documentos de acompanhamento, constantes no artigo 4.º do anexo v;
 
-ii) O desrespeito das obrigações relativas à expedição, transporte e embalagem de "outras espécies" pecuárias, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo vii.
+ii) O desrespeito das obrigações relativas à expedição, transporte e embalagem de leporídeos, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo vi;
+
+jj) O desrespeito das obrigações relativas à expedição, transporte e embalagem de "outras espécies" pecuárias, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo vii.
 
 7 - A tentativa e a negligência são puníveis, sendo os montantes mínimos e máximos das coimas reduzidos a metade.
