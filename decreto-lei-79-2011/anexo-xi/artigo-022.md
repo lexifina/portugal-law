@@ -8,6 +8,6 @@
 
 1 - As condições aplicáveis às importações de animais, sémen, óvulos e embriões abrangidos pelo presente regulamento devem ser, pelo menos, equivalentes às previstas no capítulo II.
 
-2 - No caso dos cães, gatos e furões, as condições de importação devem ser, pelo menos, equivalentes às previstas nas alíneas a) a d) do n.º 1 do artigo 10.º e na alínea a) do n.º 1 do artigo 12.º do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia.
+2 - No caso dos gatos, cães e furões, as condições de importação devem ser, pelo menos, equivalentes às do capítulo III do Regulamento (CE) n.º 998/2003, do Parlamento Europeu e do Conselho, de 26 de Maio de 2003.
 
-3 - Para além das condições referidas no número anterior, os cães, gatos e furões, durante o transporte para o local de destino, devem ser acompanhados de um certificado sanitário, preenchido e assinado por um veterinário oficial, que declare que, no período de 48 horas anterior à hora de expedição dos animais, foi realizado um exame clínico por um veterinário autorizado pela autoridade competente, tendo sido verificado que, no momento do exame clínico, os animais estavam aptos a ser transportados na viagem prevista.
+3 - O certificado que acompanha os animais deve comprovar também a realização, 24 horas antes da expedição, por um veterinário habilitado pela DGV, de um exame clínico cuja conclusão indica que os animais são saudáveis e estão aptos a ser transportados até ao local de destino.

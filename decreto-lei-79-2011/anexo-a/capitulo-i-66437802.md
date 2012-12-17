@@ -1,6 +1,6 @@
 ## Anexo A
 
-## Critérios para o reconhecimento e de fiscalização das associações, organizações de criadores e empresas privadas que mantêm ou estabeleçam livros genealógicos ou registos zootécnicos relativos aos reprodutores suínos de raça pura ou híbridos
+## Critérios para o reconhecimento e de fiscalização das associações, organizações de criadores e empresas privadas que mantêm ou estabeleçam livros genealógicos ou registos zootécnicos relativos aos reprodutores suínos de raça pura ou híbridos.
 
 # Capítulo I
 

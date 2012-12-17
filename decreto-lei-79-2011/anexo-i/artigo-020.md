@@ -6,7 +6,7 @@
 
 2 - Para cada animal, a base de dados informatizada deve conter, pelo menos, as seguintes informações:
 
-a) Código ou códigos de identificação único, para os casos previstos no n.º 1 do artigo 4.º, no artigo 4.º-B, no n.º 1 do artigo 4.º-C e no artigo 4.º-D do Regulamento (CE) n.º 1760/2000, do Parlamento Europeu e do Conselho, de 17 de julho de 2000;
+a) Código de identificação;
 
 b) Data de nascimento;
 
@@ -14,17 +14,15 @@ c) Sexo;
 
 d) Raça ou cor;
 
-e) Código de identificação da mãe ou, no caso de um animal importado de um país terceiro, o código de identificação único do meio de identificação individual atribuído ao animal pelo Estado-Membro de destino, nos termos do Regulamento (CE) n.º 1760/2000, do Parlamento Europeu e do Conselho, de 17 de julho de 2000;
+e) Código de identificação de mãe ou, no caso de um animal importado de um país terceiro, número de identificação atribuído após o controlo efectuado em conformidade com o Decreto-Lei n.º 142/2006, de 27 de Julho, alterado pelos Decretos-Leis n.os 214/2008, 10 de Novembro, e 316/2009, de 29 de Outubro, e que esteja relacionado com o número de identificação de origem;
 
 f) Número de identificação da exploração em que nasceu;
 
-g) Números de identificação de todas as explorações em que permaneceu e datas de cada mudança de exploração;
+g) Números de identificação de todas as explorações em que permaneceu;
 
 h) Datas de cada transporte;
 
-i) Data da morte ou do abate;
-
-j) O tipo de identificador eletrónico, se aplicado ao animal.
+i) Data da morte ou do abate.
 
 3 - Para cada exploração, a base de dados informatizada deve conter, pelo menos, as seguintes informações:
 
