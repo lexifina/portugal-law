@@ -6,8 +6,8 @@ A afectação do produto das coimas far-se-á da seguinte forma:
 
 a) 10% para a autoridade autuante;
 
-b) 10% para a DGV;
+b) 30 % para a DGAV;
 
-c) 20% para a entidade que instruiu o processo;
+c) (Revogada);
 
 d) 60% para o Estado.

@@ -2,7 +2,7 @@
 
 ### Cuidados de saúde animal
 
-1 - Sem prejuízo de quaisquer medidas determinadas pela DGV, deve existir um programa de profilaxia médica e sanitária devidamente elaborado e supervisionado pelo médico veterinário responsável e executado por profissionais competentes.
+1 - Sem prejuízo de quaisquer medidas determinadas pela DGAV, deve existir um programa de profilaxia médica e sanitária devidamente elaborado e supervisionado pelo médico veterinário responsável e executado por profissionais competentes.
 
 2 - No âmbito do número anterior, os animais devem ser sujeitos a exames médico-veterinários de rotina, vacinações e desparasitações sempre que aconselhável.
 

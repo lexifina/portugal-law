@@ -1,9 +1,9 @@
 # Artigo 67.º
 
-### Inspecções
+### Plano de controlo
 
-1 - As DRA efectuam anualmente inspecções periódicas aos alojamentos de hospedagem sem fins lucrativos, comerciais, médico-veterinários, higiénicos e aos seus animais de companhia, devendo abranger pelo menos 5% das existências nas respectivas áreas de jurisdição.
+1 - A DGAV define e coordena o plano de controlo das normas de proteção dos animais de companhia, executando-o em colaboração com as autoridades referidas no artigo anterior, designadamente através de inspeções e de ações de controlo.
 
-2 - Os relatórios anuais daquelas inspecções devem ser enviados à DGV o mais tardar até ao final do mês de Março do ano seguinte.
+2 - Os relatórios anuais das inspeções ou ações de controlo a que se refere o número anterior devem ser remetidos à DGAV até ao final do mês de março do ano seguinte àquele a que respeitam.
 
-3 - As autoridades administrativas, policiais e as pessoas singulares e colectivas devem prestar toda a colaboração necessária às inspecções a efectuar no âmbito do presente diploma.
+3 - As autoridades administrativas, policiais e as pessoas singulares e coletivas devem prestar toda a colaboração necessária às inspeções e ações de controlo a efetuar no âmbito do presente diploma.

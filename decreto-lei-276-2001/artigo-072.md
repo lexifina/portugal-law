@@ -1,5 +1,5 @@
 # Artigo 72.º
 
-### Competências das Regiões Autónomas dos Açores e da Madeira
+### Regiões Autónomas
 
-Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à DGV no presente diploma são exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas funções e competências, constituindo receita das Regiões Autónomas o produto das coimas aí cobradas e o produto das taxas devidas pela aprovação dos alojamentos dos animais a que se referem o n.º 2 do artigo 3.º e o n.º 3 do artigo 73.º
+Os atos e os procedimentos necessários à execução do presente diploma nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa, constituindo receita das mesmas o produto das coimas aí cobradas e o produto das taxas devidas pela aprovação dos alojamentos dos animais a que se refere o n.º 1 do artigo 3.º

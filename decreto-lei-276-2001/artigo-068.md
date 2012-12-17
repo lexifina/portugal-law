@@ -8,15 +8,15 @@
 
 1 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima cujo montante mínimo é de (euro) 25 e o máximo de (euro) 3740:
 
-a) A falta da licença de alojamento prevista no artigo 3.º;
+a) A falta da mera comunicação prévia ou da permissão administrativa previstas no n.º 1 do artigo 3.º;
 
-b) A falta de licença para a venda de animais em feiras e mercados fixos prevista no artigo 35.º;
+b) O incumprimento do disposto no artigo 35.º;
 
 c) A realização de circos, espectáculos, competições, concursos ou manifestações similares em que intervenham animais de companhia em incumprimento das normas regulamentares deste diploma, bem como das previstas na Convenção;
 
 d) A negação ou inviabilização de dados ou de informações requeridas pelas autoridades competentes ou seus agentes, em ordem ao cumprimento de funções estabelecidas neste diploma, assim como a prestação de informações inexactas ou falsas;
 
-e) A venda ambulante, que não em feiras e mercados fixos;
+e) A venda ambulante de animais de companhia;
 
 f) O alojamento de animais de companhia em desrespeito das condições fixadas no presente diploma;
 
@@ -28,25 +28,29 @@ i) O abate em desrespeito das disposições do artigo 19.º
 
 j) A violação do dever de cuidado previsto no artigo 6.º que crie perigo para a vida ou integridade física de outro animal;
 
-l) A recusa de transporte de animais que se encontrem nas condições estabelecidas no n.º 3 do artigo 10.º
+k) A recusa de transporte de animais que se encontrem nas condições estabelecidas no n.º 3 do artigo 10.º;
+
+l) (Revogada).
 
 2 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima cujo montante mínimo é (euro) 500 e o máximo de (euro) 3740:
 
-a) A violação do dever de cuidado previsto no artigo 6.º que crie perigo para a vida ou integridade física de outrem;
+a) A violação do disposto nos n.os 3 e 4 do artigo 2.º;
 
-b) O abandono de animais de companhia nos termos do disposto no artigo 6.º-A;
+b) A violação do dever de cuidado previsto no artigo 6.º que crie perigo para a vida ou integridade física de outrem;
 
-c) A violação do disposto nos n.os 3 e 4 do artigo 7.º;
+c) O abandono de animais de companhia nos termos do disposto no artigo 6.º-A;
 
-d) O maneio e treino dos animais com brutalidade, nomeadamente as pancadas e os pontapés;
+d) A violação do disposto nos n.os 3 e 4 do artigo 7.º;
 
-e) As intervenções cirúrgicas e as amputações destinadas a modificar a aparência de um animal de companhia, excepto as previstas nos artigos 17.º e 18.º;
+e) O maneio e treino dos animais com brutalidade, nomeadamente as pancadas e os pontapés;
 
-f) Os espectáculos ou outras manifestações similares que envolvam lutas entre animais de companhia.
+f) As intervenções cirúrgicas e as amputações destinadas a modificar a aparência de um animal de companhia, excepto as previstas nos artigos 17.º e 18.º;
 
-3 - A tentativa e a negligência são punidas.
+g) Os espectáculos ou outras manifestações similares que envolvam lutas entre animais de companhia.
 
-4 - O comportamento negligente será sancionado até metade do montante máximo da coima prevista.
+3 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
 
 5 - As coimas aplicadas às pessoas colectivas poderão elevar-se até ao montante máximo de (euro) 44890.
 
