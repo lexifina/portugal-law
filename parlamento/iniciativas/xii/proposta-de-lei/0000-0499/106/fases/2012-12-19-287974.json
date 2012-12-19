@@ -1,0 +1,762 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "106",
+    "id": "37332",
+    "titulo": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2012-12-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9109",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2012-12-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2012-12-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=02:52:45:866&drc=00:07:11:772"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:17:46:805&drc=00:03:48:985"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:43:58:038&drc=00:02:15:709"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:48:51:833&drc=00:02:04:891"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Luís Albuquerque"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-50",
+                  "53-56",
+                  "62-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/48?pgs=48-50,53-56,62-64&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:00:23:981&drc=00:02:48:947"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:03:15:553&drc=00:04:04:313"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:07:22:750&drc=00:02:58:950"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2103",
+                "nome": "Isabel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:10:24:448&drc=00:02:56:422"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:13:23:354&drc=00:04:18:416"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2103",
+                "nome": "Isabel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:21:41:883&drc=00:00:25:117"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/56?pgs=56&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:22:35:315&drc=00:04:31:814"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:27:10:065&drc=00:02:33:753"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2103",
+                "nome": "Isabel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:29:52:068&drc=00:03:48:512"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:46:19:491&drc=00:00:28:176"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59",
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/58?pgs=58-59,63&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4403",
+                "nome": "Vera Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:33:45:882&drc=00:04:15:204"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4397",
+                "nome": "Afonso Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:38:08:150&drc=00:05:31:302"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1384",
+                "nome": "Paulo Batista Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "19:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20121219pln&url=l12/sl2/a2012/m12/&tI=03:46:55:384&drc=00:00:43:416"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2012-12-20",
+                "pubLeg": "XII",
+                "pubNr": "32",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a aprovar os princípios e regras gerais aplicáveis ao sector público empresarial, incluindo as bases gerais do estatuto das empresas públicas, bem como a alterar os regimes jurídicos do sector empresarial do Estado e das empresas públicas e a complementar o regime jurídico da atividade empresarial local e das participações locais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "287974",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9109",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2012-12-20",
+        "pubLeg": "XII",
+        "pubNr": "32",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/032/2012-12-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
