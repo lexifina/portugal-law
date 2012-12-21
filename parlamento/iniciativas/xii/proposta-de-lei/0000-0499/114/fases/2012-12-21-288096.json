@@ -1,0 +1,260 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "114",
+    "id": "37371",
+    "titulo": "Aprova a Lei de Organização do Sistema Judiciário."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-12-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "30258",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-04-03",
+            "id": "94929",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-04-09",
+            "id": "94967",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-04-09",
+            "id": "94959",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-04-09",
+            "id": "94958",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-04-10",
+            "id": "94971",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-04-10",
+            "id": "94970",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2013-05-08",
+            "id": "95190",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-05-14",
+            "id": "95230",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-05-14",
+            "id": "95229",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-05-14",
+            "id": "95228",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-12-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-12-21",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-05-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e54637a596d5930595330344f544e684c54526a4e3251744f574d314d693031596d4e6a59544177596d51314d44517555455247&fich=5573bf4a-893a-4c7d-9c52-5bcca00bd504.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d5455314e6a55325a433034597a526c4c54517a4f4755744f4755304f43316c59546b304f5445324e5759314d5441756347526d&fich=c155656d-8c4e-438e-8e48-ea949165f510.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e7a56695a6d5a6b5a6930324e5445784c54517a4d474974596d59775a6930344d6d4d784d446b774d324e68597a637555455247&fich=875bffdf-6511-430b-bf0f-82c10903cac7.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383359545a6a5a6d45794e4330324d6d4d334c545132596d51744f545a684e5330324e6a4d794e7a41325a5463774d6d497555455247&fich=7a6cfa24-62c7-46bd-96a5-6632706e702b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Propostas de Alteração PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334f54526d4e6d4d344f43316c4e47557a4c54526d4d5749744f5449324e4330344d7a49325a6a426c4d44566c4f44517555455247&fich=794f6c88-e4e3-4f1b-9264-8326f0e05e84.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Sindical dos Juízes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e6d55334d7a55344f4331685a6d4d794c5451315a444d744f445178597931684d4451314e57457a4e57566a5a4451756347526d&fich=66e73588-afc2-45d3-841c-a0455a35ecd4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-03-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Sindicato dos Magistrados do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d574532595759324f5330315a446c684c5451354f544d744f5755314e7930354f57566a4e446c6d597a55795a4463756347526d&fich=31a6af69-5d9a-4993-9e57-99ec49fc52d7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - Faculdade de Direito da Universidade de Coimbra",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f4451795932566c5a53316c5a4755304c5451304f446b744f4455334e43316b596d59354d44646c4e7a41314d4759756347526d&fich=0842ceee-ede4-4489-8574-dbf907e7050f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a6d45355a446b795a6930334e57466a4c545178597a6774596a51775a433077596d55794e5445334d446b354f4459756347526d&fich=2fa9d92f-75ac-41c8-b40d-0be251709986.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório da Discussão e Votação na Especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f47526c5a6a4977596930775a4468694c5451775a5745744f4749315a5331695a4449304d6d52684d3256685a6d497555455247&fich=b8def20b-0d8b-40ea-8b5e-bd242da3eafb.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Faculdade de Direito da Universidade de Coimbra em 2013-04-29"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Faculdade de Direito da Universidade de Coimbra em 2013-03-14"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD/CDS-PP, PS, PCP e BE",
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-26",
+            "pubLeg": "XII",
+            "pubNr": "157",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/157/2013-06-26?org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD/CDS-PP, PS, PCP e BE",
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-26",
+            "pubLeg": "XII",
+            "pubNr": "157",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/157/2013-06-26?org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2013-06-26",
+            "numeroOficio": "802/XII/1.ª-CACDLG",
+            "observacoes": "Aprovado com a ausência do PEV nas reuniões da CACDLG de 18, 19 e 26 de junho de 2013",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-06-26",
+            "descricao": "Aprovado com a ausência do PEV nas reuniões da CACDLG de 18, 19 e 26 de junho de 2013",
+            "detalhe": null,
+            "id": "64257",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "158",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-12-21",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288096",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
