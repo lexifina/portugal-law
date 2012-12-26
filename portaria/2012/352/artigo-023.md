@@ -10,7 +10,7 @@
 
 4 - O INFARMED, I. P., dispõe do prazo de 30 dias para realizar a vistoria requerida.
 
-5 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, notifica o proprietário da farmácia, no prazo de 5 dias, para, no prazo de 10 dias, proceder ao pagamento da quantia referida na alínea e) do n.º 2 do artigo 28.º
+5 - Se o INFARMED, I. P., considerar que a farmácia cumpre as normas legais e regulamentares, notifica o proprietário da farmácia, no prazo de 5 dias, para, no prazo de 10 dias, proceder ao pagamento da quantia referida na alínea d) do n.º 2 do artigo 28.º.
 
 6 - No prazo de cinco dias a contar do pagamento referido no número anterior, o INFARMED, I. P., averba a nova localização da farmácia no respetivo alvará.
 
