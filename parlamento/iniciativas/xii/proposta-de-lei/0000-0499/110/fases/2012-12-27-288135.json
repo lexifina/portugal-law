@@ -1,0 +1,217 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "110",
+    "id": "37358",
+    "titulo": "Estabelece um regime temporário de pagamento dos subsídios de Natal e de férias para vigorar durante o ano de 2013."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2012-12-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "30265",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2012-12-28",
+            "id": "94234",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-12-28",
+            "id": "94233",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-12-28",
+            "id": "94232",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-12-28",
+            "id": "94231",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2012-12-28",
+            "id": "94230",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2012-12-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2012-12-27",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-01-09",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Ficheiro áudio_Discussão e votação na especialidade da PPL n.º 110/XII (GOV)",
+            "URL": "http://media.parlamento.pt/www/XIILEG/2SL/COM/10-CSST/CSST_20130109_1.mp3"
+          },
+          {
+            "DataDocumento": "2013-01-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245315a4441774d3255784c575177596a51744e446c694d5331684e5759784c54417a596d4d7859324d794f5459784e4335515245593d&fich=a5d003e1-d0b4-49b1-a5f1-03bc1cc29614.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526c5a5459784d544d794c544134595751744e4751354d4330355a6a55784c5455774f4459784d7a517a4e324a6d597935515245593d&fich=4ee61132-08ad-4d90-9f51-508613437bfc.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP do PSD e do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d324f574e6a4e6a466d4c57526d5a4751744e444e694f4331695a6a646d4c5459304f4756694e544a684d475978597935515245593d&fich=c69cc61f-dfdd-43b8-bf7f-648eb52a0f1c.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Propostas de Alteração dos GP's votadas na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466c5a6a4177597a517a4c5759324d6d55744e4749334f5330354f4751774c5467314e5441354e546734595468684e6935515245593d&fich=aef00c43-f62e-4b79-98d0-85509588a8a6.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6b4d546c6b4e6a5a6c4c5755794f546b744e4749324e7930344e6d46694c57566d4d4759334e474d794f4749794e5335515245593d&fich=9d19d66e-e299-4b67-86ab-ef0f74c28b25.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-09",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 10ª CSST",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67334e4455325a474a684c5451305a6a67744e444a6c596930345a6a63324c544d7a5a546731595459334d474e694e7935775a47593d&fich=87456dba-44f8-42eb-8f76-33e85a670cb7.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialiade, texto final e propostas de alteração",
+            "pag": [
+              "12-19"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-09",
+            "pubLeg": "XII",
+            "pubNr": "60",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/060/2013-01-09/12?pgs=12-19&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialiade, texto final e propostas de alteração",
+            "pag": [
+              "12-19"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-09",
+            "pubLeg": "XII",
+            "pubNr": "60",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/060/2013-01-09/12?pgs=12-19&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-01-10",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-01-10",
+            "dataRemessa": "2013-01-09",
+            "numeroOficio": "203/10ª-CSST",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-01-09",
+            "descricao": "Texto Final aprovado Artigo a Artigo",
+            "detalhe": null,
+            "id": "62520",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "107",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2012-12-27",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288135",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
