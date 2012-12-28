@@ -2,7 +2,7 @@
 
 ### Idoneidade
 
-1 - A idoneidade é aferida pela inexistência de impedimentos legais, nomeadamente a condenação por determinados ilícitos praticados pelos administradores, directores ou gerentes.
+1 - A idoneidade é aferida pela inexistência de impedimentos legais, nomeadamente a condenação por determinados ilícitos praticados pelos administradores, diretores, gerentes e gestores de transportes.
 
 2 - São consideradas idóneas as pessoas relativamente às quais não se verifique algum dos seguintes impedimentos:
 
@@ -16,4 +16,4 @@ d) Condenação, com trânsito em julgado, por infracções graves à regulament
 
 e) Condenação, com trânsito em julgado, por infracções cometidas às normas relativas ao regime das prestações de natureza retributiva ou às condições de higiene e segurança no trabalho, à protecção do ambiente e à responsabilidade profissional, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador.
 
-3 - Para efeitos do presente decreto legislativo regional, quando seja decretada a sanção acessória de interdição do exercício da actividade, os administradores, directores ou gerentes em funções à data da infracção que originou a sanção acessória deixam de preencher o requisito de idoneidade durante o período de interdição fixado na decisão condenatória.
+3 - Para efeitos do presente decreto legislativo regional, quando seja decretada a sanção acessória de interdição do exercício da atividade, os administradores, diretores, gerentes e gestores de transportes em funções à data da infração que originou a sanção acessória deixam de preencher o requisito de idoneidade durante o período de interdição fixado na decisão condenatória.

@@ -2,6 +2,6 @@
 
 ### Falta superveniente de requisitos
 
-1 - A falta superveniente de qualquer um dos requisitos de idoneidade, capacidade profissional e capacidade financeira deve ser suprida no prazo de um ano a contar da data da sua ocorrência.
+1 - A falta superveniente de qualquer um dos requisitos de idoneidade, capacidade profissional e capacidade financeira deve ser suprida no prazo de seis meses a contar da data da sua ocorrência.
 
-2 - Para efeitos de suprimento do requisito de capacidade financeira de exercício da actividade pode ser concedido o prazo adicional de um ano, desde que a situação económica da empresa o justifique e mediante a apresentação de um plano financeiro.
+2 - O prazo referido no número anterior é renovável por mais três meses quando a falta superveniente decorra de morte ou incapacidade física do gestor de transportes.

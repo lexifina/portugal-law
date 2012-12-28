@@ -2,7 +2,7 @@
 
 ### Renovação e caducidade do alvará de licenciamento da actividade
 
-1 - Os pedidos de renovação de alvará devem ser requeridos na DRTT com a antecedência mínima de 60 dias relativamente ao termo do respectivo prazo de validade.
+1 - Os pedidos de renovação de alvará devem ser requeridos na DRTT com a antecedência mínima de 30 dias relativamente ao termo do respetivo prazo de validade.
 
 2 - O alvará de licenciamento da actividade caduca:
 
