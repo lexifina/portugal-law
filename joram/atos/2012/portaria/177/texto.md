@@ -1,0 +1,64 @@
+# Portaria n.º 177/2012
+
+**Emissor:** SECRETARIA REGIONAL DA CULTURA, TURISMO E TRANSPORTES
+
+**Publicação:** JORAM, I série, n.º 175/2012, de 2012-12-28
+
+**Sumário:** Aprova o tarifário aplicável às carreiras regulares de transporte público coletivo de passageiros na ilha do Porto Santo.
+
+## Texto
+
+Portaria n.º 177/2012
+De 28 de dezembro
+As tarifas em vigor desde o dia 1 de fevereiro de 2012, nas carreiras regulares de transporte público coletivo de passageiros na ilha do Porto Santo, foram fixadas pela Portaria n.º 4-C/2012, de 23 de janeiro.
+Atendendo ao aumento dos custos de exploração da atividade, designadamente ao nível da manutenção e aquisição de equipamentos, dos custos com recursos humanos e do fator energia a que acresce a manifesta impossibilidade de tais encargos não serem suportados em parte pelos utentes, importa proceder à atualização tarifária, ainda que por valor inferior à taxa de inflação registada, por forma a manter as condições necessárias para que as empresas possam continuar a assegurar o serviço público de transporte de passageiros.
+Nestes termos, manda o Governo da Região Autónoma da Madeira, pela Secretária Regional da Cultura, Turismo e Transportes, ao abrigo, ao abrigo da alínea d) do artigo 69.º e do artigo 142.º ambos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.ºs 130/99, de 21 de agosto, e 12/2000, de 21 de junho, conjugado com o disposto na alínea a) do n.º 2 do artigo 10.º do Decreto-Lei n.º 8/93, de 11 de janeiro, das alíneas g) e i) do n.º 2 do artigo 4.º do anexo I do Decreto Regulamentar Regional nº 1/2012/M, de 8 de março, e do n.º 1 do artigo 1.º do anexo ao Decreto Regulamentar Regional nº 4/2012/M, de 9 de abril, aprovar o seguinte:
+1.º Os transportes relativos às carreiras regulares de transporte público coletivo de passageiros no Porto Santo estão sujeitos ao sistema tarifário que integra obrigatoriamente os títulos de transporte constantes do Anexo I à presente portaria, que desta é parte integrante.
+2.º Para além dos mencionados no anexo I, a empresa concessionária das carreiras regulares pode adotar outros títulos de transporte, desde que comunicado à Direção Regional de Transportes Terrestres, com antecedência prévia mínima de 10 dias úteis, indicando as respetivas tarifas e demais condições de utilização.
+
+3.º A empresa concessionária das carreiras regulares pode ainda possibilitar a aquisição dos títulos de transporte constantes do anexo I, pela mesma tarifa ou inferior, a outros utentes.
+4.º As tarifas máximas a cobrar pela prestação dos serviços regulares de transporte público de passageiros no Porto Santo são as constantes do Anexo II ao presente diploma, que deste é parte integrante.
+5.º Nas carreiras regulares de transporte público coletivo de passageiros no Porto Santo é gratuito o transporte de crianças até ao dia anterior à data em que perfizerem 6 anos, desde que não ocupem lugar.
+6.º Nas carreiras regulares de transporte público coletivo de passageiros no Porto Santo, as crianças com idades compreendidas entre os 6 e os 12 anos beneficiam na aquisição do bilhete de bordo de uma tarifa igual a metade da tarifa geral, nunca inferior a 0,75 €. Caso não exista bilhete com tarifa igual a metade, aplicar-se-á a tarifa imediatamente superior existente.
+7.º Para efeito do disposto no número anterior as crianças beneficiam da tarifa reduzida até ao dia em que perfazem 12 anos, tendo direito à ocupação de lugar, nas condições previstas no artigo 163.º do Regulamento de Transportes em Automóveis.
+8.º Para efeito de aplicação do sistema tarifário constante do presente diploma, o rendimento médio mensal é calculado com base no rendimento bruto e no agregado familiar que constam da declaração de rendimentos a que se refere o artigo 57.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), do ano em relação ao qual decorreu há menos tempo o termo do respetivo prazo de entrega, previsto no artigo 60.º do Código do IRS, de acordo com as seguintes regras: a) O rendimento médio mensal resulta da divisão do rendimento médio anual do agregado familiar por 14 meses; b) O rendimento médio anual do agregado familiar resulta de uma fração que
+
+comporta, no numerador, o rendimento bruto anual do agregado familiar e, no denominador, o número de sujeitos passivos do agregado familiar.
+9.º Relativamente às pessoas dispensadas da apresentação de declaração de rendimentos a que se refere o artigo 57.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, no cálculo a que se refere a alínea b) do número anterior, o valor anual das prestações recebidas substitui, no numerador da fórmula, o item rendimento bruto anual do agregado familiar.
+10.º A venda do título de transporte é efetuada pelo operador de transporte coletivo de passageiros, constituindo responsabilidade do operador a validação do preenchimento dos requisitos necessários à sua atribuição, sendo que, nos casos referidos nos números seguintes, tal se realiza no seguimento de requerimento do interessado.
+11.º Os requerimentos com vista à obtenção do Passe Social I, Sénior I, Invalidez I ou Pensionista, deverão ser instruídos com os seguintes documentos: a) Cópia do cartão de identificação civil; b) Cópia do cartão de identificação fiscal; c) Quando aplicável, cópia da última declaração de rendimentos e respetiva nota de liquidação; d) Quando aplicável, declaração emitida pelos competentes serviços da Administração Fiscal que ateste a dispensa de apresentação da declaração de rendimentos dos sujeitos passivos do agregado familiar; e) Quando aplicável, documento comprovativo da titularidade de alguma das seguintes prestações sociais: - Complemento solidário para idosos; - Rendimento social de inserção; - Subsídio Social de desemprego; - Primeiro Escalão do abono de família; - Pensão social de invalidez e velhice; - Pensão de aposentação.
+12.º Quando dos documentos referidos no número anterior não for possível reunir os dados necessários com vista à aplicação das fórmulas de cálculo prevista no número 8, para efeito de atribuição do título de transporte, em vez do rendimento médio mensal deverá o operador de transporte ter em conta o valor do rendimento mensal do requerente.
+13.º Para efeito de aplicação do tarifário previsto no presente diploma, em caso de não apresentação pelo interessado dos documentos comprovativos do seu rendimento médio mensal, presume-se que esse seja superior a uma, vírgula, cinco vezes o valor do indexante de apoios sociais.
+14.º Os requerimentos com vista à obtenção do Passe Social Sénior II ou Invalidez II deverão ser instruídos com os seguintes documentos: a) Cópia do cartão de identificação civil;
+
+b) Cópia do cartão de identificação fiscal; c) Consoante o caso, documento comprova-
+tivo da titularidade de pensão social de invalidez, pensão social de velhice ou pensão de aposentação.
+15.º Os requerimentos com vista à obtenção do passe social estudante, deverão ser instruídos com declaração emitida pelo estabelecimento de ensino ou instituição de educação especial confirmativa de que o estudante se encontra matriculado no ano letivo a decorrer.
+16.º O passe social é intransmissível e emitido por um prazo de 12 meses, contados a partir da data de emissão do respetivo cartão de suporte, renovável, se for o caso, mediante comprovação de que se mantêm os requisitos da sua atribuição.
+17.º Todas as entidades e respetivos trabalhadores, que tenham acesso a informação de natureza tributária dos titulares do Passe Social, encontram-se obrigados ao dever de sigilo nos mesmos termos do dever de sigilo estabelecido para os dirigentes, funcionários e agentes da administração tributária, de acordo com o disposto no artigo 64.º da lei geral tributária.
+18.º É revogada Portaria n.º 4-C/2012, de 23 de janeiro.
+19.º O presente diploma entra em vigor no dia 1 de janeiro de 2013.
+Secretaria Regional da Cultura, Turismo e Transportes, 17 de dezembro de 2012.
+A SECRETÁRIA REGIONAL DA CULTURA, TURISMO E TRANSPORTES, Conceição Almeida Estudante
+Anexo I da Portaria n.º 177/2012, de 28 de dezembro
+Sistema tarifário
+Títulos de Transporte
+PASSE - Tarifa mensal única. Título adquirido por entidades para fornecimento a terceiros que serão os utilizadores do transporte. Válido, para os passageiros, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL I - Tarifa mensal única. Válido, para os passageiros cujo comprovado rendimento médio mensal seja igual ou inferior a uma, vírgula, cinco vezes o valor do indexante de apoios sociais, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL II - Tarifa mensal única. Válido, para os passageiros cujo rendimento médio mensal, comprovado ou presumido, seja superior a uma, vírgula, cinco vezes o valor do indexante de
+
+apoios sociais, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL INVALIDEZ I - Tarifa mensal única. Válido para os passageiros, beneficiários de pensão de invalidez por incapacidade permanente para o trabalho, cujo comprovado rendimento médio mensal seja igual ou inferior a uma, vírgula, cinco vezes o valor do indexante de apoios sociais, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL INVALIDEZ II - Tarifa mensal única. Válido para os passageiros, beneficiários de pensão de invalidez por incapacidade permanente para o trabalho, cujo rendimento médio mensal, comprovado ou presumido, seja superior a uma, vírgula, cinco vezes o valor do indexante de apoios sociais, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL SÉNIOR I - Tarifa mensal única. Válido para os passageiros, com idade igual ou superior a 65 anos beneficiários de pensão de reforma, cujo comprovado rendimento médio mensal seja igual ou inferior a uma, vírgula, cinco vezes o valor do indexante de apoios sociais, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL SÉNIOR II - Tarifa mensal única. Válido para os passageiros, com idade igual ou superior a 65 anos beneficiários de pensão de reforma, cujo rendimento médio mensal, comprovado ou presumido, seja superior a uma,
+
+vírgula, cinco vezes o valor do indexante de apoios sociais, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL PENSIONISTA - Tarifa mensal única. Aplicável aos reformados ou pensionistas, de qualquer regime de Segurança Social, com idade igual ou superior a 65 anos beneficiários de pensão de reforma, cujo comprovado rendimento mensal seja igual ou inferior a uma vez o valor do indexante de apoios sociais. Válido nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, para os percursos adquiridos, sem limitação do número de viagens.
+PASSE SOCIAL ESTUDANTE - Tarifa mensal única. Aplicável aos estudantes que não beneficiem de Ação Social Escolar nos transportes e comprovem que estão matriculados no ano letivo a decorrer em qualquer estabelecimento de ensino ou instituição de educação especial da Região Autónoma da Madeira. Válido nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, nos percursos para o qual foi adquirido, sem limitação do número de viagens.
+PASSE SOCIAL CRIANÇA - Tarifa mensal única. Válido, para todas as crianças com idades compreendidas entre os 6 e os 12 anos, nas carreiras de transporte regular concessionadas à empresa fornecedora do título de transporte, nos percursos para o qual foi adquirido, sem limitação do número de viagens. São consideradas crianças até ao mês (inclusive) em que fazem 12 anos.
+BILHETE DE BORDO - Tarifa única. Válido para uma viagem no percurso adquirido em carreira de transporte regular concessionada à empresa fornecedora do título de transporte.
+
+Anexo II da Portaria n.º 177/2012, de 28 de dezembro
+Tarifas máximas a cobrar pela prestação dos serviços regulares de transporte público coletivo de passageiros na ilha do Porto Santo
+NOTAS: 1 - A vigorar a partir de 1 de janeiro de 2013 2 - Os valores das tarifas já incluem o I.V.A. à taxa legal
