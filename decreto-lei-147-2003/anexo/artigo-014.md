@@ -16,8 +16,10 @@
 
 5 - Sempre que o transportador dos bens em circulação em situação irregular não identifique o seu remetente, ser-lhe-á imputada a respectiva infracção.
 
-6 - Presume-se não emitido o documento de transporte que não seja imediatamente exibido pelo transportador.
+6 - Consideram-se não emitidos os documentos de transporte sempre que não tenham sido observadas as normas de emissão ou de comunicação constantes dos artigos 5.º e 8.º
 
 7 - Somente são aplicáveis as sanções referidas no presente artigo quando as infracções forem verificadas durante a circulação dos bens.
 
 8 - É sempre competente para a aplicação de coimas por infracções ao presente diploma o chefe do serviço de finanças da área onde foram detectadas.
+
+9 - Sempre que aplicável, considera-se falta de exibição do documento de transporte a não apresentação imediata do código previsto no n.º 7 do artigo 5.º

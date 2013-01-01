@@ -6,7 +6,7 @@
 
 a) «Bens» os que puderem ser objecto de transmissão nos termos do artigo 3.º do Código do Imposto sobre o Valor Acrescentado;
 
-b) «Documento de transporte» a factura, guia de remessa, nota de venda a dinheiro, nota de devolução, guia de transporte ou documentos equivalentes;
+b) 'Documento de transporte' a fatura, guia de remessa, nota de devolução, guia de transporte ou documentos equivalentes;
 
 c) «Valor normal» o preço de aquisição ou de custo devidamente comprovado pelo sujeito passivo ou, na falta deste o valor normal determinado nos termos do n.º 4 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado;
 

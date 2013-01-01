@@ -2,7 +2,7 @@
 
 ### Regularização das apreensões
 
-1 - Nos 15 dias seguintes à apreensão ou à notificação referida no n.º 7 do artigo anterior, podem os infractores regularizar a situação encontrada em falta, mediante a exibição do original e do duplicado do documento de transporte ou dos documentos referidos no n.º 2 do artigo 7.º, ou dos documentos comprovativos da regularização das situações previstas nos n.os 2 e 4 do artigo 6.º e do pagamento das coimas aplicáveis, com redução a metade, no serviço de finanças a que se refere o n.º 4 do mesmo artigo.
+1 - Nos 15 dias seguintes à apreensão ou à notificação referida no n.º 7 do artigo anterior, podem os infratores regularizar a situação encontrada em falta, mediante exibição ou emissão dos documentos em falta nos termos do presente diploma, bem como dos documentos referidos no n.º 2 do artigo 7.º, ou dos documentos comprovativos da regularização das situações previstas nos n.os 2 e 4 do artigo 6.º e do pagamento das coimas aplicáveis, com redução a metade, no serviço de finanças a que se refere o n.º 4 do mesmo artigo.
 
 2 - As despesas originadas pela apreensão são da responsabilidade do infractor, sendo cobradas conjuntamente com a coima.
 
