@@ -14,7 +14,7 @@ b) «Dirigentes máximos do serviço» os titulares de cargos de direcção supe
 
 c) «Dirigentes superiores» os dirigentes máximos dos serviços, os titulares de cargo de direcção superior do 2.º grau ou legalmente equiparados e os vice-presidentes ou vogais de órgão de direcção colegial;
 
-d) «Dirigentes intermédios» os titulares de cargos de direcção intermédia dos 1.º e 2.º graus ou legalmente equiparados, o pessoal integrado em carreira, enquanto se encontre em exercício de funções de direcção ou equiparadas inerentes ao conteúdo funcional da carreira, os chefes de equipas multidisciplinares cujo exercício se prolongue por prazo superior a seis meses no ano em avaliação e outros cargos e chefias de unidades orgânicas;
+d) 'Dirigentes intermédios' os titulares de cargos de direção intermédia ou legalmente equiparados;
 
 e) «Objectivos» o parâmetro de avaliação que traduz a previsão dos resultados que se pretendem alcançar no tempo, em regra quantificáveis;
 

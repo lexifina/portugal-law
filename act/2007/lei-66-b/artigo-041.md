@@ -14,6 +14,6 @@
 
 ### Periodicidade
 
-1 - A avaliação do desempenho dos trabalhadores é de carácter anual, sem prejuízo do disposto na presente lei para a avaliação a efectuar em modelos adaptados do SIADAP.
+1 - A avaliação do desempenho dos trabalhadores é de caráter bienal, sem prejuízo do disposto na presente lei para a avaliação a efetuar em modelos adaptados do SIADAP.
 
-2 - A avaliação respeita ao desempenho do ano civil anterior.
+2 - A avaliação respeita ao desempenho dos dois anos civis anteriores.
