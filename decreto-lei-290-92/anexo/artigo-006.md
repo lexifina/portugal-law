@@ -14,4 +14,4 @@ a) A transmissão seja efectuada mais de três ou seis meses após a data da pri
 
 b) O meio de transporte tenha percorrido mais de 6000 km, tratando-se de um veículo terrestre, navegado mais de cem horas, tratando-se de uma embarcação, ou voado mais de quarenta horas, tratando-se de uma aeronave.
 
-3 - Para efeitos do disposto na alínea a) do número anterior, a data da primeira utilização é a constante do título de registo de propriedade ou documento equivalente, quando se trate de bens sujeitos a registo, licença ou matrícula, ou, na sua falta, a da factura ou documento equivalente emitidos aquando da aquisição pelo primeiro proprietário.
+3 - Para efeitos do disposto na alínea a) do número anterior, a data da primeira utilização é a constante do título de registo de propriedade ou documento equivalente quando se trate de bens sujeitos a registo, licença ou matrícula, ou, na sua falta, a da fatura emitida aquando da aquisição pelo primeiro proprietário.
