@@ -2,7 +2,7 @@
 
 ### Benefício relativo ao imposto do selo
 
-Estão isentos de imposto do selo, quando a ele se encontrassem sujeitos, os seguintes actos, desde que previstos em planos de insolvência ou de pagamentos ou praticados no âmbito da liquidação da massa insolvente:
+Estão isentos de imposto do selo, quando a ele se encontrem sujeitos, os seguintes atos, desde que previstos em planos de insolvência, de pagamentos ou de recuperação ou praticados no âmbito da liquidação da massa insolvente:
 
 a) As modificações dos prazos de vencimento ou das taxas de juro dos créditos sobre a insolvência;
 
