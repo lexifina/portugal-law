@@ -22,4 +22,4 @@
 
 a) País, território ou região sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, que devendo ser declarados à administração tributária o não sejam; ou
 
-b) Contas de depósito ou de títulos abertas em instituições financeiras não residentes em Estados membros da União Europeia cuja existência e identificação não seja mencionada pelos sujeitos passivos de IRS na correspondente declaração de rendimentos do ano em que ocorram os factos tributários.
+b) Contas de depósito ou de títulos abertas em instituições financeiras não residentes em Estados membros da União Europeia, ou em sucursais localizadas fora da União Europeia de instituições financeiras residentes, cuja existência e identificação não seja mencionada pelos sujeitos passivos do IRS na correspondente declaração de rendimentos do ano em que ocorram os factos tributários.

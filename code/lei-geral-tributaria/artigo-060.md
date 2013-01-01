@@ -26,6 +26,6 @@ b) No caso de a liquidação se efectuar oficiosamente, com base em valores obje
 
 5 - Em qualquer das circunstâncias referidas no n.º 1, para efeitos do exercício do direito de audição, deve a administração tributária comunicar ao sujeito passivo o projecto da decisão e sua fundamentação.
 
-6 - O prazo do exercício oralmente ou por escrito do direito de audição, não pode ser inferior a 8 nem superior a 15 dias.
+6 - O prazo do exercício oralmente ou por escrito do direito de audição é de 15 dias, podendo a administração tributária alargar este prazo até o máximo de 25 dias em função da complexidade da matéria.
 
 7 - Os elementos novos suscitados na audição dos contribuintes são tidos obrigatoriamente em conta na fundamentação da decisão.
