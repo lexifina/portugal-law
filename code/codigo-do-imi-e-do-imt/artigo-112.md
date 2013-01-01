@@ -40,7 +40,7 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 
 11 - Constitui competência dos municípios proceder ao levantamento dos prédios rústicos com áreas florestais em situação de abandono e à identificação dos respectivos proprietários, até 30 de Março de cada ano, para posterior comunicação à Direcção-Geral dos Impostos.
 
-12 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 50% da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios classificados como de interesse público, de valor municipal ou património cultural, nos termos da legislação em vigor, desde que estes prédios não se encontrem abrangidos pela alínea n) do n.º 1 do artigo 40.º do Estatuto dos Benefícios Fiscais.
+12 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 50 % da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios classificados como de interesse público, de valor municipal ou património cultural, nos termos da respetiva legislação em vigor, desde que estes prédios não se encontrem abrangidos pela alínea n) do n.º 1 do artigo 44.º do Estatuto dos Benefícios Fiscais.
 
 13 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos, por transmissão electrónica de dados, para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
 

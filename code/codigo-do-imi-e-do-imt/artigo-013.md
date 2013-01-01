@@ -20,7 +20,7 @@ g) Verificarem-se eventos determinantes da cessação de uma isenção;
 
 h) Ser ordenada uma actualização geral das matrizes;
 
-i) Ter-se verificado uma mudança de proprietário, por ter ocorrido uma transmissão onerosa ou gratuita de um prédio ou parte de prédio;
+i) (Revogada.)
 
 j) Verificar-se a ocorrência prevista no n.º 2 do artigo 9.º;
 

@@ -46,7 +46,7 @@ b) Na constituição do direito de superfície, bem como na transmissão deste d
 
 12.ª Nos actos previstos nas alíneas e) e f) do n.º 5 do artigo 2.º, o valor dos imóveis é o valor patrimonial tributário ou aquele por que os mesmos entrarem para o activo das sociedades, consoante o que for maior;
 
-13.ª Na fusão ou na cisão das sociedades referidas na alínea g) do n.º 5 do artigo 2.º, o imposto incide sobre o valor patrimonial tributário de todos os imóveis das sociedades fusionadas ou cindidas que se transfiram para o activo das sociedades que resultarem da fusão ou cisão, ou sobre o valor por que esses bens entrarem para o activo das sociedades, se for superior;
+13.ª Na fusão ou na cisão das sociedades ou dos fundos de investimento referidos na alínea g) do n.º 5 do artigo 2.º, o imposto incide sobre o valor patrimonial tributário de todos os imóveis das sociedades ou dos fundos de investimento objeto de fusão ou cisão que se transfiram para o ativo das sociedades ou dos fundos de investimento que resultarem da fusão ou cisão, ou sobre o valor por que esses bens entrarem para o ativo das sociedades ou dos fundos de investimento, se for superior;
 
 14.ª O valor dos bens imóveis ou do direito de superfície constituído sobre os imóveis locados, adquiridos pelo locatário, através de contrato de compra e venda, no termo da vigência do contrato de locação financeira e nas condições nele estabelecidas, será o valor residual determinado ou determinável, nos termos do respectivo contrato;
 

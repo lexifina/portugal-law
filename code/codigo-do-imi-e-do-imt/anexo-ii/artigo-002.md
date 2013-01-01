@@ -38,11 +38,11 @@ c) O excesso da quota-parte que ao adquirente pertencer, nos bens imóveis, em a
 
 d) A venda ou cessão do direito a determinadas águas, ainda que sob a forma de autorização para as explorar ou para minar em terreno alheio;
 
-e) As entradas dos sócios com bens imóveis para a realização do capital das sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica e, bem assim, a adjudicação dos bens imóveis aos sócios, na liquidação dessas sociedades;
+e) As entradas dos sócios com bens imóveis para a realização do capital das sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica e, bem assim, a adjudicação dos bens imóveis aos sócios na liquidação dessas sociedades e a adjudicação de bens imóveis como reembolso em espécie de unidades de participação decorrente da liquidação de fundos de investimento imobiliário fechados de subscrição particular;
 
 f) As entradas dos sócios com bens imóveis para a realização do capital das restantes sociedades civis, na parte em que os outros sócios adquirirem comunhão, ou qualquer outro direito, nesses imóveis, bem como, nos mesmos termos, as cessões de partes sociais ou de quotas ou a admissão de novos sócios;
 
-g) As transmissões de bens imóveis por fusão ou cisão das sociedades referidas na antecedente alínea e), ou por fusão de tais sociedades entre si ou com sociedade civil;
+g) As transmissões de bens imóveis por fusão ou cisão das sociedades referidas na alínea e), ou por fusão de tais sociedades entre si ou com sociedade civil, bem como por fusão de fundos de investimento imobiliário fechados de subscrição particular;
 
 h) As transmissões de benfeitorias e as aquisições de bens imóveis por acessão.
 
