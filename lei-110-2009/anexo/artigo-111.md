@@ -4,13 +4,13 @@
 
 Para efeitos do presente Código consideram-se entidades sem fins lucrativos, nomeadamente, as seguintes:
 
-a) Administração directa e indirecta do Estado;
+a) (Revogada).
 
-b) Instituições personalizadas do Estado;
+b) (Revogada).
 
-c) Instituições de utilidade pública do Estado;
+c) (Revogada).
 
-d) Instituições de segurança social e de previdência social;
+d) (Revogada).
 
 e) Instituições particulares de solidariedade social;
 

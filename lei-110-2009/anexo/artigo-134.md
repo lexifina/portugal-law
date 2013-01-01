@@ -2,7 +2,11 @@
 
 ### Categorias de trabalhadores especialmente abrangidos
 
-1 - São obrigatoriamente abrangidos pelo regime dos trabalhadores independentes, com as especificidades previstas no presente título, os produtores agrícolas que exerçam efectiva actividade profissional na exploração agrícola ou equiparada, bem como os respectivos cônjuges que exerçam efectiva e regularmente actividade profissional na exploração.
+1 - São obrigatoriamente abrangidos pelo regime dos trabalhadores independentes, com as especificidades previstas no presente título:
+
+a) Os produtores agrícolas que exerçam efetiva atividade profissional na exploração agrícola ou equiparada, bem como os respetivos cônjuges que exerçam efetiva e regularmente atividade profissional na exploração;
+
+b) Os empresários em nome individual com rendimentos decorrentes do exercício de qualquer atividade comercial ou industrial, nos termos da alínea a) do n.º 1 do artigo 3.º do Código do IRS, e os titulares de Estabelecimento Individual de Responsabilidade Limitada, bem como os respetivos cônjuges que com eles exerçam efetiva atividade profissional com caráter de regularidade e de permanência.
 
 2 - Para efeitos do número anterior:
 
