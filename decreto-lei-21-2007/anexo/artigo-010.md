@@ -6,8 +6,8 @@
 
 a) O bem imóvel seja afecto a fins alheios à actividade exercida pelo sujeito passivo;
 
-b) Ainda que não seja afecto a fins alheios à actividade exercida pelo sujeito passivo, o bem imóvel não seja efectivamente utilizado em fins da empresa por um período superior a dois anos consecutivos.
+b) Ainda que não seja afeto a fins alheios à atividade exercida pelo sujeito passivo, o bem imóvel não seja efetivamente utilizado em fins da empresa por um período superior a três anos consecutivos.
 
 2 - O montante das regularizações referidas no número anterior deve ser incluído na declaração de imposto relativa ao último período do ano em que ocorrer a situação que lhes dá origem.
 
-3 - O disposto na alínea b) do n.º 1 não prejudica o dever de proceder às regularizações anuais previstas no n.º 1 do artigo 25.º do Código do IVA até ao decurso do prazo de dois anos referido nessa alínea.
+3 - O disposto na alínea b) do n.º 1 não prejudica o dever de proceder às regularizações anuais previstas no n.º 1 do artigo 26.º do Código do IVA até ao decurso do prazo de três anos referido nessa alínea.
