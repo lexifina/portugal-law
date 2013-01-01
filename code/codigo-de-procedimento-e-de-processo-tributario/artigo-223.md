@@ -6,10 +6,12 @@
 
 2 - A instituição detentora do depósito penhorado deve comunicar ao órgão da execução fiscal o saldo da conta ou contas objecto de penhora na data em que esta se considere efectuada.
 
-3 - Salvo nos casos de depósitos existentes em instituição de crédito competente, em que se aplica o disposto no Código de Processo Civil, a penhora efectua-se por meio de carta registada, com aviso de recepção, dirigida ao depositário, devendo a notificação conter ainda a indicação de que as quantias depositadas nas contas referidas nos números anteriores ficam indisponíveis desde a data da penhora, salvo nos casos previstos na lei.
+3 - Salvo nos casos de depósitos existentes em instituição de crédito competente, em que se aplica o disposto no Código de Processo Civil, a penhora efetua-se por meio de carta registada, com aviso de receção, dirigida ao depositário, devendo a notificação conter ainda a indicação de que as quantias depositadas nas contas referidas nos números anteriores ficam indisponíveis desde a data da penhora, salvo nos casos previstos na lei, mantendo-se válida por período não superior a um ano, sem prejuízo de renovação.
 
-4 - Verificando-se novas entradas, o depositário comunicá-las-á ao órgão da execução fiscal, para que este, imediatamente, ordene a penhora ou o informe da sua desnecessidade.
+4 - Salvo comunicação em contrário do órgão da execução fiscal, verificando-se novas entradas, o depositário deve proceder imediatamente à sua penhora, após consulta do valor em dívida penhorável e apenas até esse montante.
 
-5 - Quando, por culpa do depositário, não for possível cobrar a dívida exequenda e o acrescido, incorrerá ele em responsabilidade subsidiária.
+5 - Para efeitos do previsto nos n.os 3 e 4, a Autoridade Tributária e Aduaneira disponibiliza ao depositário, para consulta no Portal das Finanças, informação atualizada sobre o valor em dívida.
 
-6 - Além das coisas que obrigatoriamente são depositadas em instituição de crédito competente, poderão também ser ali guardadas outras, desde que isso se mostre conveniente.
+6 - Quando, por culpa do depositário, não for possível cobrar a dívida exequenda e o acrescido, incorrerá ele em responsabilidade subsidiária.
+
+7 - Além das coisas que obrigatoriamente são depositadas em instituição de crédito competente, poderão também ser ali guardadas outras, desde que isso se mostre conveniente.

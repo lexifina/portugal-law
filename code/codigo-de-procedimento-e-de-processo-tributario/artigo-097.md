@@ -28,7 +28,7 @@ l) A produção antecipada de prova;
 
 m) A intimação para um comportamento;
 
-n) O recurso, no próprio processo, dos actos praticados na execução fiscal;
+n) O recurso dos atos praticados na execução fiscal, no próprio processo ou, nos casos de subida imediata, por apenso;
 
 o) A oposição, os embargos de terceiros e outros incidentes, bem como a reclamação da decisão da verificação e graduação de créditos;
 

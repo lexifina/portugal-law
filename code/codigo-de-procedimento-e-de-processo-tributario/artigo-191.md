@@ -12,6 +12,8 @@
 
 5 - As citações efectuadas nos termos do número anterior consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
 
-6 - Se a citação for efectuada através de transmissão electrónica de dados e esta for equivalente à efectuada através de carta registada com aviso de recepção, o seu destinatário considera-se citado caso se confirme o acesso à caixa postal electrónica.
+6 - A citação considera-se efetuada no 25.º dia posterior ao seu envio caso o contribuinte não aceda à caixa postal eletrónica em data anterior.
 
-7 - As citações efectuadas por transmissão electrónica de dados são sempre autenticadas com a assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, da entidade competente.
+7 - A presunção do número anterior só pode ser ilidida pelo citado quando, por facto que não lhe seja imputável, a citação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
+
+8 - As citações efectuadas por transmissão electrónica de dados são sempre autenticadas com a assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, da entidade competente.

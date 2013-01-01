@@ -19,3 +19,5 @@ b) Por amnistia da contra-ordenação;
 c) Pela prescrição das coimas e sanções acessórias;
 
 d) Pela anulação da decisão condenatória em processo de revisão.
+
+3 - O disposto na alínea a) do n.º 1 não prejudica o controlo jurisdicional da atividade do órgão de execução fiscal, nos termos legais, caso se mantenha a utilidade da apreciação da lide.

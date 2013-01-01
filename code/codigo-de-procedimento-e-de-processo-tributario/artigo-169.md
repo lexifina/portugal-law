@@ -28,8 +28,6 @@
 
 11 - O disposto no presente artigo não se aplica às dívidas de recursos próprios comunitários.
 
-12 - Considera-se que têm a situação tributária regularizada os contribuintes que obtenham a
+12 - Considera-se que têm a situação tributária regularizada os contribuintes que obtenham a suspensão do processo de execução fiscal nos termos do presente artigo, sem prejuízo do disposto quanto à dispensa de garantia.
 
-suspensão do processo de execução fiscal nos termos do presente artigo, sem prejuízo do disposto
-
-quanto à dispensa de garantia.
+13 - O valor da garantia é o que consta da citação, nos casos em que seja apresentada nos 30 dias posteriores à citação.

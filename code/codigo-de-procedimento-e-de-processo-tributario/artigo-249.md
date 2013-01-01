@@ -26,7 +26,9 @@ f) Designação e endereço do órgão a quem devem ser entregues ou enviadas as
 
 g) Data e hora limites para recepção das propostas;
 
-h) Data, hora e local de abertura das propostas.
+h) Data, hora e local de abertura das propostas;
+
+i) Qualquer condição prevista em lei especial para a aquisição, detenção ou comercialização dos bens.
 
 6 - Os bens devem estar patentes no local indicado, pelo menos até ao dia e hora limites para recepção das propostas, sendo o depositário obrigado a mostrá-los a quem pretenda examiná-los, durante as horas fixadas nos meios de publicitação da venda.
 

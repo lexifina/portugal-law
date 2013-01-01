@@ -20,8 +20,10 @@
 
 9 - As notificações efectuadas por transmissão electrónica de dados consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
 
-10 - Em caso de ausência de acesso à caixa postal electrónica, a notificação considera-se efectuada no 25.º dia posterior ao seu envio, salvo nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º ou que este demonstre ter sido impossível essa comunicação.
+10 - A notificação considera-se efetuada no 25.º dia posterior ao seu envio, caso o contribuinte não aceda à caixa postal eletrónica em data anterior.
 
-11 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
+11 - A presunção do número anterior só pode ser ilidida pelo notificado quando, por facto que não lhe seja imputável, a notificação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
 
-12 - O presente artigo não prejudica a aplicação do disposto no n.º 6 do artigo 45.º da Lei Geral Tributária.
+12 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
+
+13 - O presente artigo não prejudica a aplicação do disposto no n.º 6 do artigo 45.º da Lei Geral Tributária.
