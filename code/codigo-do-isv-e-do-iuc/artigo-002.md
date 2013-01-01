@@ -22,6 +22,6 @@ a) Veículos não motorizados, bem como os veí-culos exclusivamente eléctricos
 
 b) Ambulâncias, considerando-se como tais os automóveis destinados ao transporte de pessoas doentes ou feridas dotados de equipamentos especiais para tal fim;
 
-c) Automóveis ligeiros de mercadorias, de caixa aberta ou sem caixa, com peso bruto de 3500 kg, sem tracção às quatro rodas;
+c) Automóveis ligeiros de mercadorias, de caixa aberta, sem caixa ou de caixa fechada que não apresentem cabina integrada na carroçaria, com peso bruto de 3500 kg, sem tração às quatro rodas;
 
 d) (Revogada.)
