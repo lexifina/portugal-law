@@ -6,4 +6,4 @@
 
 2 - O valor da compensação referida no número anterior não pode exceder o valor correspondente ao do referido aumento do valor locativo dos prédios.
 
-3 - O arrendatário não tem direito a qualquer indemnização ou compensação nos casos em que venha a ocupar imóvel disponibilizado pelo Estado que reúna condições funcionalmente idênticas às do imóvel desocupado.
+3 - O arrendatário não tem direito a qualquer indemnização ou compensação nos casos em que venha a ocupar imóvel disponibilizado pelo Estado ou pelo instituto público que reúna condições funcionalmente idênticas às do imóvel desocupado.

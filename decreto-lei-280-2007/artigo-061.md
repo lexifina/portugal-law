@@ -18,4 +18,8 @@ f) Por motivos de interesse público, devidamente fundamentado.
 
 2 - O membro do Governo responsável pela área das finanças fixa, com base em proposta da Direcção-Geral do Tesouro e Finanças, a importância da respectiva renda e as condições a que o arrendamento fica sujeito.
 
-3 - Ao arrendamento por ajuste directo é aplicável, com as devidas adaptações, o procedimento previsto nos artigos 105.º e seguintes.
+3 - Tratando-se de imóvel de instituto público, a proposta referida no número anterior é apresentada pelo instituto público proprietário do imóvel, competindo aos membros do Governo responsáveis pelas áreas das finanças e da tutela autorizar o arrendamento por ajuste direto e fixar a importância da respetiva renda e as condições a que o arrendamento fica sujeito.
+
+4 - Os institutos públicos devem remeter à Direção-Geral do Tesouro e Finanças os contratos de arrendamento que celebrem.
+
+5 - Ao arrendamento por ajuste directo é aplicável, com as devidas adaptações, o procedimento previsto nos artigos 105.º e seguintes.
