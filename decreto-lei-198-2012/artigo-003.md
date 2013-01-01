@@ -2,29 +2,29 @@
 
 ### Comunicação dos elementos das faturas
 
-1 - As pessoas, singulares ou coletivas, que se encontrem sujeitas às regras de emissão de faturação em território português nos termos do artigo 35.º-A do Código do IVA e aqui pratiquem operações sujeitas a IVA, são obrigadas a comunicar à Autoridade Tributária a Aduaneira (AT), por transmissão eletrónica de dados, os elementos das faturas emitidas nos termos do Código do IVA, bem como os elementos dos documentos que possibilitem a conferência de mercadorias ou de prestação de serviços e recibos, por uma das seguintes vias:
+1 - As pessoas, singulares ou coletivas, que tenham sede, estabelecimento estável ou domicílio fiscal em território português e aqui pratiquem operações sujeitas a IVA, são obrigadas a comunicar à Autoridade Tributária a Aduaneira (AT), por transmissão eletrónica de dados, os elementos das faturas emitidas nos termos do Código do IVA, por uma das seguintes vias:
 
-a) Por transmissão eletrónica de dados em tempo real;
+a) Por transmissão eletrónica de dados em tempo real, integrada em programa de faturação eletrónica;
 
-b) Por transmissão eletrónica de dados, mediante remessa de ficheiro normalizado estruturado com base no ficheiro SAF-T (PT), criado pela Portaria n.º 321-A/2007, de 26 de março, na sua redação atual;
+b) Por transmissão eletrónica de dados, mediante remessa de ficheiro normalizado estruturado com base no ficheiro SAF-T (PT), criado pela Portaria n.º 321-A/2007, de 26 de março, alterada pela Portaria n.º 1192/2009, de 8 de outubro, contendo os elementos das faturas;
 
 c) Por inserção direta no Portal das Finanças;
 
-d) (Revogada.)
+d) Por outra via eletrónica, nos termos a definir por portaria do Ministro das Finanças.
 
-2 - A comunicação dos documentos referidos no número anterior deve ser efetuada até ao dia 5 do mês seguinte ao da sua emissão.
+2 - A comunicação referida no número anterior deve ser efetuada até ao dia 25 do mês seguinte ao da emissão da fatura, não sendo possível alterar a via de comunicação no decurso do ano civil.
 
 3 - Os sujeitos passivos que sejam obrigados a produzir o ficheiro SAF-T (PT), criado pela Portaria n.º 321-A/2007, de 26 de março, alterada pela Portaria n.º 1192/2009, de 8 de outubro, devem optar por uma das modalidades constantes das alíneas a) e b) do n.º 1.
 
-4 - A AT disponibiliza no Portal das Finanças o modelo de dados para os efeitos previstos nos n.os 1 e 2, devendo dele constar os seguintes elementos relativamente a cada fatura, documento que possibilite a conferência de mercadorias ou de prestação de serviços ou recibo:
+4 - A AT disponibiliza no Portal das Finanças o modelo de dados para os efeitos previstos nos n.os 1 e 2, devendo dele constar os seguintes elementos relativamente a cada fatura:
 
 a) Número de identificação fiscal do emitente;
 
-b) Número da fatura ou do documento;
+b) Número da fatura;
 
 c) Data de emissão;
 
-d) Tipo de documento, nos termos referidos na estrutura de dados a que se refere a Portaria n.º 321-A/2007, de 26 de março, que regula o ficheiro normalizado, designado SAF-T (PT);
+d) Tipo de documento, nos termos referidos na Portaria n.º 321-A/2007, de 26 de março, alterada pela Portaria n.º 1192/2009, de 8 de outubro, que regula o ficheiro normalizado, designado SAF-T (PT);
 
 e) Número de identificação fiscal do adquirente que seja sujeito passivo de IVA, quando tenha sido inserido no ato de emissão;
 
@@ -36,19 +36,7 @@ h) Taxas aplicáveis;
 
 i) O motivo justificativo da não aplicação do imposto, se aplicável;
 
-j) Montante de IVA ou Imposto do Selo liquidado;
-
-k) A menção «IVA - regime de caixa», se aplicável.
-
-l) O número do certificado do programa que os emitiu;
-
-m) Identificação do documento de origem.
-
-n) Identificação do documento retificado;
-
-o) Identificação do país ou região do imposto;
-
-p) Código único de documento.
+j) Montante de IVA liquidado.
 
 5 - Até ao final do mês seguinte ao da sua emissão, a AT disponibiliza às pessoas singulares, no Portal das Finanças, os elementos indicados no número anterior relativamente às faturas que titulem prestações de serviços em que constem como adquirentes e que sejam emitidas por sujeitos passivos enquadrados para efeitos fiscais, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3, CAE - Rev. 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
 
@@ -65,11 +53,3 @@ d) Secção S, Classe 9602 - Atividades de salões de cabeleireiro e institutos 
 7 - As pessoas singulares devem indicar no Portal das Finanças, a partir da data referida no n.º 5, quais as faturas em que constem como adquirentes que titulam prestações de serviços enquadradas nos setores de atividade mencionados naquele número, sempre que o sujeito passivo emitente esteja também enquadrado, para efeitos fiscais, noutros setores de atividade, sob pena de aquelas faturas não serem elegíveis para o incentivo fiscal.
 
 8 - As pessoas singulares que sejam sujeitos passivos de IVA devem também indicar no Portal das Finanças, a partir da data referida no n.º 5, quais as faturas que titulam aquisições efetuadas fora do âmbito da sua atividade empresarial ou profissional, sob pena de todas as faturas em que constam como adquirentes não serem elegíveis para o incentivo fiscal.
-
-9 - Os sujeitos passivos referidos no n.º 1, que durante o mês não tenham emitidos documentos, devem comunicar esse facto à AT, através do Portal das Finanças, no prazo referido no n.º 2.
-
-10 - Sem prejuízo do disposto no n.º 1, a obrigação de comunicação dos elementos das faturas emitidas nos termos do n.º 14 do artigo 29.º do Código do IVA pode ser cumprida pelo adquirente, desde que previsto no âmbito do acordo prévio de autofaturação previsto na alínea a) do n.º 11 do artigo 36.º do Código do IVA.
-
-11 - A obrigação de comunicação dos elementos das faturas emitidas nos termos do n.º 15 do artigo 29.º do Código do IVA deve ser cumprida pelo adquirente, tendo o transmitente dos bens ou prestador de serviços a faculdade de indicar, no Portal das Finanças, até ao dia 25 de fevereiro do ano seguinte ao da sua emissão, as faturas que não titulam transmissões de bens ou prestações de serviços por si realizadas.
-
-12 - A faculdade prevista no número anterior não exclui a possibilidade de o transmitente dos bens ou prestador de serviços efetuar prova da existência de faturas que não titulam transmissões de bens ou prestações de serviços por si realizadas.
