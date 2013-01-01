@@ -1,0 +1,29 @@
+# Artigo 258.º
+
+### Alteração à Lei da Liberdade Religiosa
+
+O artigo 32.º da Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de junho, alterada pelas Leis n.os 91/2009, de 31 de agosto, 3-B/2010, de 28 de abril, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, passa a ter a seguinte redação:
+
+«Artigo 32.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - As verbas referidas nos n.os 4 e 6, respeitantes a imposto sobre o rendimento das pessoas singulares liquidado com base nas declarações de rendimentos entregues dentro do prazo legal, devem ser transferidas para as entidades beneficiárias até 31 de março do ano seguinte à da entrega da referida declaração.»

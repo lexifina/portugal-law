@@ -1,0 +1,35 @@
+## Secção VI
+
+## Proteção social e aposentação ou reforma
+
+# Artigo 76.º
+
+### Alteração ao Decreto-Lei n.º 100/99, de 31 de março
+
+O artigo 29.º do Decreto-Lei n.º 100/99, de 31 de março, alterado pela Lei n.º 117/99, de 11 de agosto, passa a ter a seguinte redação:
+
+«Artigo 29.º
+
+[...]
+
+1 - A falta por motivo de doença devidamente comprovada não afeta qualquer direito do trabalhador, salvo o disposto nos números seguintes.
+
+2 - Sem prejuízo de outras disposições legais, a falta por motivo de doença devidamente comprovada determina:
+
+a) A perda da totalidade da remuneração base diária no 1.º, 2.º e 3.º dias de incapacidade temporária, nas situações de faltas seguidas ou interpoladas;
+
+b) A perda de 10 % da remuneração base diária a partir do 4.º dia e até ao 30.º dia de incapacidade temporária.
+
+3 - A contagem dos períodos de 3 e 27 dias a que se referem, respetivamente, as alíneas a) e b) do número anterior é interrompida sempre que se verifique a retoma da prestação de trabalho.
+
+4 - A aplicação da alínea b) do n.º 2 depende da prévia ocorrência de três dias sucessivos e não interpolados de faltas por incapacidade temporária nos termos da alínea a) do mesmo número.
+
+5 - O disposto na alínea a) do n.º 2 não implica a perda da remuneração base diária nos casos de internamento hospitalar, faltas por motivo de cirurgia ambulatória, doença por tuberculose e doença com início no decurso do período de atribuição do subsídio parental que ultrapasse o termo deste período.
+
+6 - As faltas por doença descontam na antiguidade para efeitos de carreira quando ultrapassem 30 dias seguidos ou interpolados em cada ano civil.
+
+7 - O disposto nos n.os 2 a 6 não se aplica às faltas por doença dadas por pessoas com deficiência, quando decorrentes da própria incapacidade.
+
+8 - As faltas por doença implicam sempre a perda do subsídio de refeição.
+
+9 - O disposto nos números anteriores não prejudica o recurso a faltas por conta do período de férias.»

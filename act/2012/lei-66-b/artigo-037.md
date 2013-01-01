@@ -1,0 +1,11 @@
+# Artigo 37.º
+
+### Prémios de gestão
+
+Durante o período de execução do PAEF, não podem retribuir os seus gestores ou titulares de órgãos diretivos, de administração ou outros órgãos estatutários, com remunerações variáveis de desempenho:
+
+a) As empresas do setor empresarial do Estado, as empresas públicas, as empresas participadas e ainda as empresas detidas, direta ou indiretamente, por quaisquer entidades públicas estaduais, nomeadamente as dos setores empresariais regionais e municipais;
+
+b) Os institutos públicos de regime comum e especial;
+
+c) As pessoas coletivas de direito público dotadas de independência decorrente da sua integração nas áreas da regulação, supervisão ou controlo, incluindo as entidades reguladoras independentes.
