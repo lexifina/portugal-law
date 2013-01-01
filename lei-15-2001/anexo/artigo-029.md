@@ -13,3 +13,11 @@ c) Se o pedido de pagamento for apresentado até ao termo do procedimento de ins
 2 - Nos casos das alíneas a) e b) do número anterior, é considerado sempre montante mínimo da coima o estabelecido para os casos de negligência.
 
 3 - Para o fim da alínea c) do n.º 1 deste artigo, o requerente deve dar conhecimento do pedido ao funcionário da inspecção tributária, que elabora relatório sucinto das faltas verificadas, com a sua qualificação, que será enviado à entidade competente para a instrução do pedido.
+
+4 - Nas situações a que se refere o n.º 1, pode não ser aplicada coima quando o agente seja uma pessoa singular e desde que, nos cinco anos anteriores, o agente não tenha:
+
+a) Sido condenado por decisão transitada em julgado, em processo de contraordenação ou de crime por infrações tributárias;
+
+b) Beneficiado de pagamento de coima com redução nos termos deste artigo;
+
+c) Beneficiado da dispensa prevista no artigo 32.º
