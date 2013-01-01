@@ -1,0 +1,5 @@
+# Anexo II
+
+### CÓDIGO DO IMPOSTO SOBRE O RENDIMENTO DAS PESSOAS COLECTIVAS
+
+(ver documento original)

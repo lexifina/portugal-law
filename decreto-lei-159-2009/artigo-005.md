@@ -1,0 +1,15 @@
+# Artigo 5.º
+
+### Regime transitório
+
+1 - Os efeitos nos capitais próprios decorrentes da adopção, pela primeira vez, das normas internacionais de contabilidade adoptadas nos termos do artigo 3.º do Regulamento n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, que sejam considerados fiscalmente relevantes nos termos do Código do IRC e respectiva legislação complementar, resultantes do reconhecimento ou do não reconhecimento de activos ou passivos, ou de alterações na respectiva mensuração, concorrem, em partes iguais, para a formação do lucro tributável do primeiro período de tributação em que se apliquem aquelas normas e dos quatro períodos de tributação seguintes.
+
+2 - No caso dos investimentos que, no momento da transição, estejam a representar provisões técnicas do seguro de vida com participação nos resultados, e dos investimentos relativos a seguros de vida em que o risco de investimento seja suportado pelo tomador de seguro, bem como daqueles que, em exercícios anteriores, tenham estado afectos a essas carteiras de investimento, considera-se que o seu custo de aquisição, para efeitos fiscais, é o que corresponda ao valor contabilístico no momento da transição, ou ao valor de mercado da data da transferência de ou para essas carteiras, respectivamente.
+
+3 - Os ajustamentos a que se referem os números anteriores devem ser devidamente evidenciados no processo de documentação fiscal previsto no artigo 130.º do Código do IRC, de acordo com a renumeração introduzida.
+
+4 - Às mais-valias ou menos-valias de elementos do activo imobilizado que tenham beneficiado do regime de reinvestimento previsto no anterior artigo 45.º do Código do IRC e cujos valores de realização ainda não tenham sido objecto de reinvestimento é aplicável o disposto na nova redacção deste artigo, mantendo-se, todavia, o prazo original para a concretização desse reinvestimento.
+
+5 - O regime transitório estabelecido nos números anteriores é igualmente aplicável à adopção, pela primeira vez, do Sistema de Normalização Contabilística, aprovado pelo Decreto-Lei n.º 158/2009, de 13 de Julho, das Normas de Contabilidade Ajustadas, aprovadas pelo Aviso do Banco de Portugal n.º 1/2005, ou do Plano de Contas para as Empresas de Seguros, aprovado pela Norma Regulamentar n.º 4/2007-R, de 27 de Abril, do Instituto de Seguros de Portugal, sem prejuízo de, relativamente às entidades que já vinham aplicando estes novos referenciais contabilísticos, o período referido no n.º 1 se contar a partir do período de tributação em que os mesmos tenham sido adoptados pela primeira vez.
+
+6 - Relativamente às entidades que tenham optado, nos termos do Decreto-Lei n.º 35/2005, de 17 de Fevereiro, por elaborar as respectivas contas individuais em conformidade com as normas internacionais de contabilidade adoptadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho, os efeitos a que se refere o n.º 1 deste artigo são apurados tomando por referência as contas individuais, organizadas de acordo com a normalização contabilística nacional, previstas no artigo 14.º daquele decreto-lei.
