@@ -14,7 +14,7 @@
 
 a) Esteja em aplicação plano de recuperação económica legalmente previsto de que decorra a imprescindibilidade da medida, podendo neste caso, se tal for tido como adequado pela entidade competente para autorizar o plano, haver lugar a dispensa da obrigação de substituição dos administradores ou gerentes; ou
 
-b) Se demonstre a dificuldade financeira excepcional e previsíveis consequências económicas gravosas, não podendo o número das prestações mensais exceder 12 e o valor de qualquer delas ser inferior a uma unidade de conta no momento da autorização.
+b) Se demonstre a dificuldade financeira excecional e previsíveis consequências económicas gravosas, não podendo o número das prestações mensais exceder 24 e o valor de qualquer delas ser inferior a 1 unidade de conta no momento da autorização.
 
 4 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações em caso algum exceder 36 e o valor de qualquer delas ser inferior a 1 unidade de conta no momento
 

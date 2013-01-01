@@ -10,7 +10,9 @@ b) Quando se impugne o acto de fixação da matéria colectável, o valor contes
 
 c) Quando se impugne o acto de fixação dos valores patrimoniais, o valor contestado;
 
-d) No recurso contencioso do indeferimento total ou parcial ou da revogação de isenções ou outros benefícios fiscais, o do valor da isenção ou benefício.
+d) No recurso contencioso do indeferimento total ou parcial ou da revogação de isenções ou outros benefícios fiscais, o do valor da isenção ou benefício;
+
+e) No contencioso associado à execução fiscal, o valor correspondente ao montante da dívida exequenda ou da parte restante, quando haja anulação parcial, exceto nos casos de compensação, penhora ou venda de bens ou direitos, em que corresponde ao valor dos mesmos, se inferior.
 
 2 - Nos casos não previstos nos números anteriores, o valor é fixado pelo juiz, tendo em conta a complexidade do processo e a condição económica do impugnante, tendo como limite máximo o valor da alçada da 1.ª instância dos tribunais judiciais.
 

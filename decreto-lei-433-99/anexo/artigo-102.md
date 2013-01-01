@@ -6,7 +6,7 @@
 
 ### Impugnação judicial. Prazo de apresentação
 
-1 - A impugnação será apresentada no prazo de 90 dias contados a partir dos factos seguintes:
+1 - A impugnação será apresentada no prazo de três meses contados a partir dos factos seguintes:
 
 a) Termo do prazo para pagamento voluntário das prestações tributárias legalmente notificadas ao contribuinte;
 

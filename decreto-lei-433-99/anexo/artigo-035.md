@@ -11,3 +11,5 @@
 2 - A citação é o acto destinado a dar conhecimento ao executado de que foi proposta contra ele determinada execução ou a chamar a esta, pela primeira vez, pessoa interessada.
 
 3 - Os despachos a ordenar citações ou notificações podem ser impressos e assinados por chancela.
+
+4 - Qualquer funcionário da administração tributária, no exercício das suas funções, promove a notificação e a citação.
