@@ -44,6 +44,8 @@ r) Nas aquisições por usucapião, na data em que transitar em julgado a acçã
 
 s) (Revogada.)
 
-t)Nos prémios do bingo, das rifas e do jogo do loto, bem como em quaisquer prémios de sorteios ou de concursos, no momento da atribuição.
+t) Nos prémios do bingo, das rifas, do jogo do loto e dos jogos sociais do Estado, bem como em quaisquer prémios de sorteios ou de concursos, no momento da atribuição;
 
 u) Nas situações previstas na verba n.º 28 da Tabela Geral, no momento e de acordo com as regras previstas no CIMI, com as devidas adaptações.
+
+2 - Caso os prémios referidos na alínea t) do número anterior sejam pagos de forma fracionada, a obrigação tributária considera-se constituída no momento de cada pagamento, por referência à parte proporcional do imposto calculado nos termos da verba 11.4 da Tabela Geral sobre a totalidade do prémio.

@@ -32,7 +32,7 @@ n) O crédito concedido por meio de conta poupança-ordenado, na parte em que n�
 
 o) Os actos, contratos e operações em que as instituições comunitárias ou o Banco Europeu de Investimentos sejam intervenientes ou destinatários;
 
-p) O jogo do bingo e os jogos organizados por instituições de solidariedade social, pessoas colectivas legalmente equiparadas ou pessoas colectivas de utilidade pública que desempenhem única e, exclusiva ou predominantemente, fins de caridade, de assistência ou de beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades, com excepção dos jogos sociais do Estado;
+p) O jogo do bingo e os jogos organizados por instituições de solidariedade social, pessoas coletivas legalmente equiparadas ou pessoas coletivas de utilidade pública que desempenhem, única e exclusiva ou predominantemente, fins de caridade, de assistência ou de beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades;
 
 q) (Revogada.);
 
@@ -46,7 +46,7 @@ t) As aquisições onerosas ou a título gratuito de imóveis por entidades púb
 
 3 - O disposto na alínea i) do n.º 1 não se aplica quando o sócio seja entidade domiciliada em território sujeito a regime fiscal privilegiado, a definir por portaria do Ministério das Finanças.
 
-4 - O disposto na alínea p) do n.º 1 não se aplica quando se trate de imposto devido nos termos da verba n.º 11.2 da Tabela Geral.
+4 - O disposto na alínea p) do n.º 1 não se aplica quando se trate de imposto devido nos termos das verbas n.os 11.2, 11.3 e 11.4 da Tabela Geral.
 
 5 - Mantêm-se em vigor as isenções nas transmissões gratuitas, constantes de acordos entre o Estado e quaisquer pessoas, de direito público ou privado.
 

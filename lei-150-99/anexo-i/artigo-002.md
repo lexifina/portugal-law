@@ -30,7 +30,7 @@ m) (Revogada.)
 
 n) (Revogada.)
 
-o) A Santa Casa da Misericórdia de Lisboa, relativamente aos contratos de jogo celebrados no âmbito dos jogos sociais do Estado, cuja organização e exploração se lhe encontre atribuída em regime de direito exclusivo.
+o) A Santa Casa da Misericórdia de Lisboa, relativamente aos contratos de jogo celebrados no âmbito dos jogos sociais do Estado, cuja organização e exploração se lhe encontre atribuída em regime de direito exclusivo, bem como relativamente aos prémios provenientes dos jogos sociais do Estado;
 
 p) As entidades que concedem os prémios do bingo, das rifas e do jogo do loto, bem como quaisquer prémios de sorteios ou de concursos.
 
