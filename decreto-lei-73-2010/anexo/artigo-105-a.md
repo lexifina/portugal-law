@@ -8,7 +8,7 @@ a) Elemento específico - (euro) 58;
 
 b) Elemento ad valorem - 10 %.
 
-2 - Os cigarros ficam sujeitos, no mínimo, a 65 % do montante do imposto que resulte da aplicação do disposto no n.º 5 do artigo 103.º
+2 - Os cigarros ficam sujeitos, no mínimo, a 80 % do montante de imposto que resulte da aplicação do disposto no n.º 5 do artigo 103.º
 
 3 - A todos os cigarros consumidos na Região Autónoma da Madeira, às taxas previstas no n.º 1 deste artigo ou no n.º 4 do artigo 103.º, consoante o caso, adicionam-se as seguintes taxas:
 

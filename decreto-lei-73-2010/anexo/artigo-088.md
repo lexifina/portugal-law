@@ -20,7 +20,7 @@ d) A electricidade abrangida pelo código NC 2716.
 
 a) Os produtos abrangidos pelos códigos NC 1507 a 1518, quando destinados a serem utilizados como carburante ou combustível;
 
-b) Os produtos abrangidos pelos códigos NC 2701, 2702 e 2704 a 2715, com excepção do gás natural utilizado como combustível;
+b) Os produtos abrangidos pelos códigos 2701, 2702 e 2704 a 2715;
 
 c) Os produtos abrangidos pelos códigos NC 2901 e 2902;
 

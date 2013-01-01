@@ -2,19 +2,31 @@
 
 ### Restantes produtos de tabaco manufacturado
 
-1 - O imposto sobre o tabaco relativo a charutos, cigarrilhas, tabaco de corte fino destinado a cigarros de enrolar e restantes tabacos de fumar reveste a forma ad valorem, resultando da aplicação ao respectivo preço de venda ao público nas percentagens seguintes:
+1 - O imposto sobre o tabaco relativo a charutos e cigarrilhas reveste a forma ad valorem, resultando da aplicação ao respetivo preço de venda ao público nas percentagens seguintes:
 
-a) Charutos - 15 %;
+a) Charutos - 20 %;
 
-b) Cigarrilhas - 15 %;
+b) Cigarrilhas - 20 %;
 
-c) Tabaco de corte fino destinado a cigarros de enrolar - 61,4 %;
+c) (Revogada.)
 
-d) Restantes tabacos de fumar - 50 %.
+d) (Revogada.)
 
-2 - O imposto relativo ao tabaco de corte fino destinado a cigarros de enrolar resultante da aplicação da alínea c) do número anterior não pode ser inferior a (euro) 0,075/g.
+2 - O imposto sobre o tabaco de corte fino destinado a cigarros de enrolar e sobre os restantes tabacos de fumar tem dois elementos: um específico e outro ad valorem.
 
-3 - Para efeitos do número anterior, caso o peso dos módulos de venda ao público, expresso em gramas, constitua um número decimal, esse peso é arredondado:
+3 - A unidade tributável do elemento específico é o grama.
+
+4 - O elemento ad valorem resulta da aplicação de uma percentagem única aos preços de venda ao público de todos os tipos de tabaco de corte fino destinado a cigarros de enrolar e de todos os tipos de tabaco dos restantes tabacos de fumar.
+
+5 - As taxas dos elementos específico e ad valorem são as seguintes:
+
+a) Elemento específico - (euro) 0,065/g;
+
+b) Elemento ad valorem - 20 %.
+
+6 - O imposto relativo ao tabaco de corte fino destinado a cigarros de enrolar e aos restantes tabacos de fumar, resultante da aplicação do número anterior, não pode ser inferior a (euro) 0,09/g.
+
+7 - Para efeitos do número anterior, caso o peso dos módulos de venda ao público, expresso em gramas, constitua um número decimal, esse peso é arredondado:
 
 a) Por excesso, para o número inteiro imediatamente superior, quando o algarismo da primeira casa decimal for igual ou superior a cinco;
 

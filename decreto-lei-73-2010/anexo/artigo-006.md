@@ -8,7 +8,7 @@ a) A ser utilizados no âmbito das relações diplomáticas ou consulares;
 
 b) A organismos internacionais reconhecidos como tal pelo Estado Português, bem como aos membros desses organismos, dentro dos limites e nas condições fixadas pelas convenções internacionais que criam esses organismos ou pelos acordos de sede;
 
-c) Às forças de qualquer Estado Parte no Tratado do Atlântico Norte para uso dessas forças ou dos civis que as acompanhem ou para o abastecimento das suas messes ou cantinas, com exclusão das Forças Armadas nacionais;
+c) Às forças de outros Estados que sejam Partes no Tratado do Atlântico Norte para uso dessas forças ou dos civis que as acompanhem ou para o abastecimento das suas messes ou cantinas, excluindo os membros dessa força que tenham nacionalidade portuguesa;
 
 d) A ser consumidos no âmbito de um acordo concluído com países terceiros ou com organismos internacionais, desde que esse acordo seja admitido ou autorizado em matéria de isenção do imposto sobre o valor acrescentado;
 

@@ -18,6 +18,8 @@ f) A cessação ou violação dos pressupostos de um benefício fiscal;
 
 g) O fornecimento de electricidade ao consumidor final, o autoconsumo e a aquisição de electricidade por consumidores finais em mercados organizados.
 
+h) O fornecimento de gás natural ao consumidor final.
+
 2 - O momento da introdução no consumo corresponde:
 
 a) No caso de produtos que circulem, em regime de suspensão do imposto, de um entreposto fiscal com destino a um destinatário registado, ao momento da recepção desses produtos pelo referido destinatário;

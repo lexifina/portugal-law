@@ -10,11 +10,11 @@ b) Sejam utilizados na navegação aérea, com excepção da aviação de recrei
 
 c) Sejam utilizados na navegação marítima costeira e na navegação interior, incluindo a pesca, mas com excepção da navegação de recreio privada, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49 e 2710 19 61 a 2710 19 69;
 
-d) Sejam utilizados na produção de electricidade ou de electricidade e calor (co-geração), ou de gás de cidade, por entidades que desenvolvam tais actividades e que as mesmas constituam a sua actividade principal, no que se refere aos produtos classificados pelas posições NC 2701, 2702 e 2704 e pelos códigos NC 2710 19 61 a 2710 19 69, bem como os classificados pelos códigos NC 2710 19 41 a 2710 19 49, consumidos na Região Autónoma dos Açores e na Região Autónoma da Madeira;
+d) Sejam utilizados na produção de eletricidade, de eletricidade e calor (cogeração), ou de gás de cidade, por entidades que desenvolvam tais atividades como sua atividade principal, no que se refere aos produtos classificados pelos códigos NC 2701, 2702 e 2704, pelos códigos NC 2710 19 61 a 2710 19 69, pelo código NC 2711, bem como os produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49, consumidos nas Regiões Autónomas dos Açores e da Madeira;
 
 e) Sejam utilizados em transportes públicos, no que se refere aos produtos classificados pelo código NC 2711 00 00, com inclusão do gás natural;
 
-f) Sejam utilizados em instalações sujeitas ao Plano Nacional de Atribuição de Licenças de Emissão (PNALE), incluindo as novas instalações, ou a um acordo de racionalização dos consumos de energia (ARCE), no que se refere aos produtos energéticos classificados pelos códigos NC 2701, 2702, 2704 e 2713, ao fuelóleo com teor de enxofre igual ou inferior a 1 %, classificado pelo código NC 2710 19 61 e aos gases de petróleo classificados pelo código NC 2711;
+f) Sejam utilizados em instalações sujeitas ao Plano Nacional de Atribuição de Licenças de Emissão (PNALE), incluindo as novas instalações, ou a um acordo de racionalização dos consumos de energia (ARCE), no que se refere aos produtos energéticos classificados pelos códigos NC 2701, 2702, 2704 e 2713, ao fuelóleo com teor de enxofre igual ou inferior a 1 %, classificado pelo código NC 2710 19 61 e aos produtos classificados pelo código NC 2711;
 
 g) Contidos nos reservatórios normais e nos contentores especiais dos veículos automóveis procedentes de outros Estados membros;
 
@@ -22,7 +22,9 @@ h) Sejam utilizados em operações de dragagem em portos e vias navegáveis, mas
 
 i) Sejam utilizados no transporte de passageiros e de mercadorias por caminhos de ferro, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49;
 
-j) Sejam utilizados como carburantes no âmbito do fabrico, projecto, ensaio e manutenção de aeronaves e embarcações.
+j) Sejam utilizados como carburantes no âmbito do fabrico, projecto, ensaio e manutenção de aeronaves e embarcações;
+
+l) Sejam utilizados pelos clientes finais economicamente vulneráveis, beneficiários da tarifa social, nos termos do Decreto-Lei n.º 101/2011, de 30 de setembro, no que se refere ao gás natural classificado pelo código NC 2711 21 00.
 
 2 - Está isenta do imposto a electricidade que, comprovadamente, seja:
 

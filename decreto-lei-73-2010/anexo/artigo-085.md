@@ -8,6 +8,8 @@ a) É proibida a circulação de produtos em regime suspensivo entre entrepostos
 
 b) A circulação de produtos entre o continente e as Regiões Autónomas dos Açores e da Madeira, e vice-versa, e entre as Regiões Autónomas, efectua-se obrigatoriamente em regime de suspensão do imposto;
 
-c) Exceptuam-se do previsto na alínea anterior as bebidas sujeitas à taxa 0 e os produtos referidos no artigo 77.º, quando destinados ao consumo fora da Região Autónoma dos Açores, podendo, neste caso, a declaração de introdução no consumo ser apresentada junto das estâncias aduaneiras da Região.
+c) Excetuam-se do previsto na alínea anterior os vinhos tranquilos, as outras bebidas tranquilas fermentadas e os produtos referidos no artigo 77.º quando destinados ao consumo fora da Região Autónoma dos Açores, podendo, neste caso, a declaração de introdução no consumo ser apresentada junto das estâncias aduaneiras da Região;
+
+d) Por razões de interesse económico, devidamente justificadas, e mediante autorização prévia das estâncias aduaneiras competentes, a circulação dos produtos referidos na alínea b) pode ser efetuada fora do regime de suspensão do imposto, aplicando-se nesse caso as regras estabelecidas para a circulação de produtos já introduzidos no consumo.
 
 2 - A circulação do álcool está subordinada à regulamentação aplicável ao transporte de mercadorias perigosas.

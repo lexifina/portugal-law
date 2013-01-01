@@ -20,4 +20,6 @@ g) Os produtos abrangidos pelos códigos 2905 11 00, que não sejam de origem si
 
 h) Os produtos abrangidos pelos códigos NC 3824 90 91 e 3824 90 97, quando destinados a ser utilizados como carburante ou combustível.
 
+i) Os produtos abrangidos pelos códigos NC 3811 11 10, 3811 11 90, 3811 19 00 e 3811 90 00.
+
 2 - Ficam dispensados do documento administrativo electrónico previsto no artigo 36.º os produtos petrolíferos e energéticos que circulem em regime de suspensão do imposto por condutas fixas em território nacional.
