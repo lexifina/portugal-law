@@ -2,7 +2,7 @@
 
 ### Incentivos à reabilitação urbana
 
-1 - Ficam isentos de IRC os rendimentos de qualquer natureza obtidos por fundos de investimento imobiliário que operem de acordo com a legislação nacional, desde que se constituam entre 1 de Janeiro de 2008 e 31 de Dezembro de 2012 e pelo menos 75 % dos seus activos sejam bens imóveis sujeitos a acções de reabilitação realizadas nas áreas de reabilitação urbana.
+1 - Ficam isentos do IRC os rendimentos de qualquer natureza obtidos por fundos de investimento imobiliário que operem de acordo com a legislação nacional desde que constituídos entre 1 de janeiro de 2008 e 31 de dezembro de 2013 e pelo menos 75 % dos seus ativos sejam bens imóveis sujeitos a ações de reabilitação realizadas nas áreas de reabilitação urbana.
 
 2 - Os rendimentos respeitantes a unidades de participação nos fundos de investimento referidos no número anterior, pagos ou colocados à disposição dos respectivos titulares, quer seja por distribuição ou mediante operação de resgate, são sujeitos a retenção na fonte de IRS ou de IRC, à taxa de 10 %, excepto quando os titulares dos rendimentos sejam entidades isentas quanto aos rendimentos de capitais ou entidades não residentes sem estabelecimento estável em território português ao qual os rendimentos sejam imputáveis, excluindo:
 
@@ -36,7 +36,7 @@ b) Imóveis arrendados passíveis de actualização faseada das rendas nos termo
 
 11 - A prova da qualidade de não residente em território português é feita nos termos previstos nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de Novembro.
 
-12 - Os titulares de rendimentos respeitantes a unidades de participação nos fundos de investimento referidos no n.º 1, quando englobem os rendimentos que lhes sejam distribuídos, têm direito a deduzir 50 % dos rendimentos relativos a dividendos, nos termos e condições previstos no artigo 40.º-A do Código do IRS e no n.º 8 do artigo 46.º do Código do IRC.
+12 - Os titulares de rendimentos respeitantes a unidades de participação nos fundos de investimento referidos no n.º 1, quando englobem os rendimentos que lhes sejam distribuídos, têm direito a deduzir 50 % dos rendimentos relativos a dividendos, nos termos e condições previstos no artigo 40.º-A do Código do IRS.
 
 13 - As obrigações previstas no artigo 119.º e no n.º 1 do artigo 125.º do Código do IRS devem ser cumpridas pelas entidades gestoras ou registadoras.
 

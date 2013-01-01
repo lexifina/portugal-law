@@ -18,7 +18,7 @@ a) Tratando-se de rendimentos que não sejam mais-valias, obtidos em território
 
 b) Tratando-se de rendimentos que não sejam mais-valias, obtidos fora do território português, há lugar a tributação, autonomamente, à taxa de 20 %, relativamente a rendimentos de títulos de dívida, a lucros distribuídos e a rendimentos de fundos de investimento, e à taxa de 25 %, nos restantes casos, incidente sobre o respectivo valor líquido obtido em cada ano, sendo o imposto entregue ao Estado pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
 
-c) Tratando-se de mais-valias, obtidas em território português ou fora dele, há lugar a tributação, autonomamente, nas mesmas condições em que se verificaria se desses rendimentos fossem titulares pessoas singulares residentes em território português, à taxa de 21,5 %, sobre a diferença positiva entre as mais-valias e as menos-valias obtidas em cada ano, sendo o imposto entregue ao Estado pela respectiva entidade gestora, até ao fim do mês de Abril do ano seguinte àquele a que respeitar.
+c) Tratando-se de mais-valias, obtidas em território português ou fora dele, há lugar a tributação, autonomamente, nas mesmas condições em que se verificaria se desses rendimentos fossem titulares pessoas singulares residentes em território português, à taxa de 25 %, sobre a diferença positiva entre as mais-valias e as menos-valias obtidas em cada ano, sendo o imposto entregue ao Estado pela respetiva entidade gestora, até ao fim do mês de abril do ano seguinte àquele a que respeitar.
 
 2 - Os sujeitos passivos de IRS que sejam titulares de unidades de participação nos fundos referidos no n.º 1, fora do âmbito de uma actividade comercial, industrial ou agrícola, são isentos de IRS relativamente aos rendimentos respeitantes a unidades de participação nesses fundos, podendo, porém, os respectivos titulares, residentes em território português, englobá-los para efeitos deste imposto, caso em que o imposto retido ou devido, nos termos do n.º 1, tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
 
@@ -30,7 +30,7 @@ c) Tratando-se de mais-valias, obtidas em território português ou fora dele, h
 
 6 - Os rendimentos dos fundos de investimento imobiliário, que se constituam e operem de acordo com a legislação nacional, têm o seguinte regime fiscal:
 
-a) Tratando-se de rendimentos prediais, que não sejam relativos à habitação social sujeita a regimes legais de custos controlados, há lugar a tributação, autonomamente, à taxa de 20 %, que incide sobre os rendimentos líquidos dos encargos de conservação e manutenção efectivamente suportados, devidamente documentados, bem como do imposto municipal sobre imóveis, sendo a entrega do imposto efectuada pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar, e considerando-se o imposto eventualmente retido como pagamento por conta deste imposto;
+a) Tratando-se de rendimentos prediais, que não sejam relativos à habitação social sujeita a regimes legais de custos controlados, há lugar a tributação, autonomamente, à taxa de 25 %, que incide sobre os rendimentos líquidos dos encargos de conservação e manutenção efetivamente suportados, devidamente documentados, bem como do imposto municipal sobre imóveis, sendo a entrega do imposto efetuada pela respetiva entidade gestora, até ao fim do mês de abril do ano seguinte àquele a que respeitar, e considerando-se o imposto eventualmente retido como pagamento por conta deste imposto;
 
 b) Tratando-se de mais-valias prediais, que não sejam relativas a habitação social sujeita a regimes legais de custos controlados, há lugar a tributação, autonomamente, à taxa de 25 %, que incide sobre 50 % da diferença positiva entre as mais-valias e as menos-valias realizadas, apuradas de acordo com o Código do IRS, sendo a entrega do imposto efectuada pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
 
@@ -42,7 +42,7 @@ c) Tratando-se de outros rendimentos, há lugar a tributação nos termos mencio
 
 9 - Se, em consequência do disposto no n.º 8 ou na parte final da alínea a) do n.º 6, resultar imposto a recuperar, pode ser pedido o reembolso até ao fim do mês de Abril do ano seguinte, o qual é efectuado de acordo com o previsto nos n.os 3 e 6 do artigo 96.º do Código do IRC, ou ser feita a dedução, nos termos referidos no número anterior, em entregas posteriores.
 
-10 - Os titulares de rendimentos respeitantes a unidades de participação em fundos de investimento mobiliário e em fundos de investimento imobiliário, quando englobem esses rendimentos, têm direito a deduzir 50 % dos rendimentos previstos no artigo 40.º-A do Código do IRS e no n.º 8 do artigo 46.º do Código do IRC que lhes sejam distribuídos, nas condições aí descritas.
+10 - Os titulares de rendimentos, pessoas singulares, respeitantes a unidades de participação em fundos de investimento mobiliário e em fundos de investimento imobiliário, quando englobem esses rendimentos, têm direito a deduzir 50 % dos rendimentos previstos no artigo 40.º-A do Código do IRS.
 
 11 - As sociedades gestoras dos fundos de investimento são obrigadas a publicar o valor do rendimento distribuído, o valor do imposto retido ou devido nos termos do n.º 1 ou do n.º 6 e o valor da dedução que lhes corresponder para efeitos do disposto do n.º 10.
 
@@ -78,4 +78,4 @@ d) Os rendimentos que dão direito ao crédito de imposto devem ser considerados
 
 e) As sociedades gestoras dos fundos de investimento são obrigadas a manter um registo apropriado que evidencie os montantes dos rendimentos obtidos no estrangeiro, discriminados por país, e os montantes do imposto sobre o rendimento efectivamente pago.
 
-16 - O saldo positivo entre as mais-valias e menos-valias resultante da alienação de acções detidas por fundos de investimento durante mais de 12 meses, obrigações e outros títulos de dívida, está excluído de tributação, excepto quando obtido por fundos de investimento mistos ou fechados de subscrição particular aos quais se aplicam as regras previstas no Código do IRS.
+16 - (Revogado.)
