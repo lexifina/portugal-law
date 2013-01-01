@@ -2,7 +2,7 @@
 
 ### Substitutos legais
 
-1 - Os titulares dos cargos de chefia tributária são substituídos nos seguintes termos:
+1 - Nos casos previstos no nº 1 do artigo 11º, os titulares dos cargos de chefia tributária, são substituídos nos seguintes termos:
 
 a) Os chefes de finanças, por um adjunto de chefe de finanças ou, no caso de não haver adjuntos, pelo funcionário com categoria mais elevada;
 
@@ -12,4 +12,4 @@ b) Os adjuntos de chefes de finanças, pelo funcionário de categoria mais eleva
 
 3 - Quando a substituição se efectuar de entre os funcionários com a categoria mais elevada, o substituto será o que for mais antigo, em caso de igualdade de categoria.
 
-4 - No caso de ocorrerem circunstâncias que não permitam a substituição nos termos dos números anteriores ou quando se reconheça ser conveniente adoptar procedimento diferente, o substituto será designado pelo director regional da DRAF, sob proposta dos chefes de finanças.
+4 - No caso de ocorrerem circunstâncias que não permitam a substituição nos termos dos números anteriores ou quando se reconheça ser conveniente adotar procedimento diferente, o substituto será designado pelo secretário regional, sob proposta do diretor regional.
