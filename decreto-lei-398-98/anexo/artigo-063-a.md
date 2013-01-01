@@ -12,4 +12,6 @@
 
 5 - A informação a submeter, nos termos do n.º 1, inclui a identificação das contas, o número de identificação fiscal dos titulares, o valor dos depósitos no ano, o saldo em 31 de Dezembro, bem como outros elementos que constem da declaração de modelo oficial.
 
-6 - Os sujeitos passivos de IRS são obrigados a mencionar na correspondente declaração de rendimentos a existência e identificação de contas de depósitos ou de títulos abertas em instituição financeira não residente em território português.
+6 - Os sujeitos passivos do IRS são obrigados a mencionar na correspondente declaração de rendimentos a existência e a identificação de contas de depósitos ou de títulos abertas em instituição financeira não residente em território português ou em sucursal localizada fora do território português de instituição financeira residente, de que sejam titulares, beneficiários ou que estejam autorizados a movimentar.
+
+7 - Para efeitos do disposto no número anterior, entende-se por 'beneficiário' o sujeito passivo que controle, direta ou indiretamente, e independentemente de qualquer título jurídico mesmo que através de mandatário, fiduciário ou interposta pessoa, os direitos sobre os elementos patrimoniais depositados nessas contas.

@@ -2,7 +2,7 @@
 
 ### Manifestações de fortuna
 
-1 - Há lugar a avaliação indirecta da matéria colectável quando falte a declaração de rendimentos e o contribuinte evidencie as manifestações de fortuna constantes da tabela prevista no n.º 4 ou quando o rendimento líquido declarado mostre uma desproporção superior a 50%, para menos, em relação ao rendimento padrão resultante da referida tabela.
+1 - Há lugar a avaliação indireta da matéria coletável quando falte a declaração de rendimentos e o contribuinte evidencie as manifestações de fortuna constantes da tabela prevista no n.º 4 ou quando o rendimento líquido declarado mostre uma desproporção superior a 30 %, para menos, em relação ao rendimento padrão resultante da referida tabela.
 
 2 - Na aplicação da tabela prevista no n.º 4 tomam-se em consideração:
 
@@ -12,11 +12,13 @@ b) Os bens de que frua no ano em causa o sujeito passivo ou qualquer elemento do
 
 c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em causa, ou por qualquer elemento do seu agregado familiar.
 
+d) A soma dos montantes transferidos de e para contas de depósito ou de títulos abertas pelo sujeito passivo em instituições financeiras residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável, constante da lista aprovada por portaria do Ministro das Finanças, cuja existência e identificação não seja mencionada nos termos previstos no artigo 63.º-A, no ano em causa.
+
 3 - Verificadas as situações previstas no n.º 1 deste artigo, bem como na alínea f) do n.º 1 do artigo 87.º, cabe ao sujeito passivo a comprovação de que correspondem à realidade os rendimentos declarados e de que é outra a fonte das manifestações de fortuna ou do acréscimo de património ou da despesa efectuada.
 
 4 - Quando o sujeito passivo não faça a prova referida no número anterior relativamente às situações previstas no n.º 1 deste artigo, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, no ano em causa, e no caso das alíneas a) e b) do n.º 2, nos três anos seguintes, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, o rendimento padrão apurado nos termos da tabela seguinte:
 
-(ver tabela no documento original)
+(ver documento original)
 
 5 - Para efeitos da alínea f) do n.º 1 do artigo 87.º:
 

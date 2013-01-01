@@ -14,7 +14,7 @@ b) A acção para reconhecimento de direito ou interesse legítimo em matéria t
 
 c) O recurso, no próprio processo, de actos de aplicação de coimas e sanções acessórias;
 
-d) O recurso, no próprio processo, de actos praticados na execução fiscal;
+d) O recurso dos atos praticados na execução fiscal, no próprio processo ou, nos casos de subida imediata, por apenso;
 
 e) Os procedimentos cautelares de arrolamento e de arresto;
 

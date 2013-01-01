@@ -22,6 +22,6 @@ b) Para as pessoas colectivas, o local da sede ou direcção efectiva ou, na fal
 
 8 - A administração tributária poderá rectificar oficiosamente o domicílio fiscal dos sujeitos passivos se tal decorrer dos elementos ao seu dispor.
 
-9 - Os sujeitos passivos do imposto sobre o rendimento das pessoas colectivas com sede ou direcção efectiva em território português e os estabelecimentos estáveis de sociedades e outras entidades não residentes, bem como os sujeitos passivos residentes enquadrados no regime normal do imposto sobre o valor acrescentado, são obrigados a possuir caixa postal electrónica, nos termos do n.º 2, e a comunicá-la à administração fiscal.
+9 - Os sujeitos passivos do imposto sobre o rendimento das pessoas coletivas com sede ou direção efetiva em território português e os estabelecimentos estáveis de sociedades e outras entidades não residentes, bem como os sujeitos passivos residentes enquadrados no regime normal do imposto sobre o valor acrescentado, são obrigados a possuir caixa postal eletrónica, nos termos do n.º 2, e a comunicá-la à administração tributária no prazo de 30 dias a contar da data do início de atividade ou da data do início do enquadramento no regime normal do imposto sobre o valor acrescentado, quando o mesmo ocorra por alteração.
 
 10 - O Ministro das Finanças regula, por portaria, o regime de obrigatoriedade do domicílio fiscal electrónico dos sujeitos passivos não referidos no n.º 9.
