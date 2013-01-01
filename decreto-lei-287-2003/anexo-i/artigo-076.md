@@ -10,13 +10,13 @@
 
 2 - A segunda avaliação é realizada com observância do disposto nos artigos 38.º e seguintes, por uma comissão composta por um perito regional designado pelo director de finanças em função da sua posição na lista organizada por ordem alfabética para esse efeito, que preside à comissão, um vogal nomeado pela respectiva câmara municipal e o sujeito passivo ou seu representante.
 
-3 - Pelo pedido da segunda avaliação é devida pelo requerente uma taxa inicial, a fixar entre 7,5 e 30 unidades de conta, tendo em conta a complexidade da matéria.
+3 - Não obstante o disposto no número anterior, desde que o valor patrimonial tributário, determinado nos termos dos artigos 38.º e seguintes, se apresente distorcido relativamente ao valor normal de mercado, a comissão efetua a avaliação em causa e fixa novo valor patrimonial tributário que releva apenas para efeitos de IRS, IRC e IMT, devidamente fundamentada, de acordo com as regras constantes do n.º 2 do artigo 46.º, quando se trate de edificações, ou por aplicação do método comparativo dos valores de mercado no caso dos terrenos para construção e dos terrenos previstos no n.º 3 do mesmo artigo.
 
-4 - Não obstante o disposto no n.º 2, desde que o valor patrimonial tributário, determinado nos termos dos artigos 38.º e seguintes, se apresente distorcido relativamente ao valor normal de mercado, a comissão efectua a avaliação em causa e fixa novo valor patrimonial tributário que releva apenas para efeitos de IRS, IRC e IMT, devidamente fundamentada, de acordo com as regras constantes do n.º 2 do artigo 46.º, quando se trate de edificações, ou por aplicação do método comparativo dos valores de mercado no caso dos terrenos para construção e dos terrenos previstos no n.º 3 do mesmo artigo.
+4 - Pelo pedido da segunda avaliação é devida pelo requerente uma taxa inicial, a fixar entre 7,5 e 30 unidades de conta, tendo em conta a complexidade da matéria.
 
 5 - Para efeitos dos números anteriores, o valor patrimonial tributário considera-se distorcido quando é superior em mais de 15 % do valor normal de mercado, ou quando o prédio apresenta características valorativas que o diferenciam do padrão normal para a zona, designadamente a sumptuosidade, as áreas invulgares e a arquitectura, e o valor patrimonial tributário é inferior em mais de 15 % do valor normal de mercado.
 
-6 - Sempre que o pedido ou promoção da segunda avaliação sejam efectuados nos termos do n.º 4, devem ser devidamente fundamentados.
+6 - Sempre que o pedido ou promoção da segunda avaliação sejam efetuados nos termos do n.º 3, devem ser devidamente fundamentados.
 
 7 - É aplicável o disposto nos n.os 3 a 6 do artigo 74.º
 
