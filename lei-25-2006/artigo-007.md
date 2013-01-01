@@ -6,4 +6,4 @@
 
 2 - Para efeitos do disposto no número anterior, sempre que for variável a determinação da taxa de portagem em função do percurso percorrido e não for possível, no caso concreto, a sua determinação, é considerado o valor máximo cobrável na respectiva barreira de portagem ou, no caso de infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, no sublanço ou conjunto de sublanços abrangido pelo respectivo local de detecção de veículos para efeitos de cobrança electrónica de portagens.
 
-3 - A negligência é punível, sendo reduzido de um terço o limite máximo da coima aplicável nos termos do presente artigo.
+3 - As infrações previstas nos artigos 5.º e 6.º são puníveis a título de negligência.

@@ -16,4 +16,6 @@ d) 15 % para as entidades a que se refere o artigo 11.º
 
 3 - (Revogado.)
 
-4 - A Direcção-Geral dos Impostos (DGCI) entrega mensalmente os quantitativos das taxas de portagem, das coimas e das custas administrativas às entidades a que pertencem.
+4 - A Autoridade Tributária e Aduaneira entrega mensalmente os quantitativos das taxas de portagem, das coimas e das custas administrativas às entidades a que pertencem, de acordo com o n.º 1.
+
+5 - Se por efeito de arguição de alguma nulidade processual, por preterição ou erro na execução de alguma das formalidades essenciais previstas na presente lei, se vier a decretar a anulação do processado, tanto no âmbito dos processos de contraordenação, como nos processos de execução, a entidade que tiver dado azo à referida nulidade suportará os encargos efetuados com a tramitação dos respetivos processos, procedendo para o efeito a Autoridade Tributária e Aduaneira ao correspondente acerto nas entregas mensais dos quantitativos cobrados.
