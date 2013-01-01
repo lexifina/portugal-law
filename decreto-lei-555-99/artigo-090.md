@@ -10,8 +10,10 @@
 
 4 - Da vistoria é imediatamente lavrado auto, do qual consta obrigatoriamente a identificação do imóvel, a descrição do estado do mesmo e as obras preconizadas e, bem assim, as respostas aos quesitos que sejam formuladas pelo proprietário.
 
-5 - O auto referido no número anterior é assinado por todos os técnicos e pelo perito que hajam participado na vistoria e, se algum deles não quiser ou não puder assiná-lo, faz-se menção desse facto.
+5 - A descrição do estado do imóvel, a que se refere o número anterior, inclui a identificação do seu estado de conservação, apurado através da determinação do nível de conservação do imóvel de acordo com o disposto no artigo 5.º do Decreto-Lei n.º 266-B/2012, de 31 de Dezembro, e na respectiva regulamentação.
 
-6 - Quando o proprietário não indique perito até à data referida no número anterior, a vistoria é realizada sem a presença deste, sem prejuízo de, em eventual impugnação administrativa ou contenciosa da deliberação em causa, o proprietário poder alegar factos não constantes do auto de vistoria, quando prove que não foi regularmente notificado nos termos do n.º 2.
+6 - O auto referido no n.º 4 é assinado por todos os técnicos e pelo perito que hajam participado na vistoria e, se algum deles não quiser ou não puder assiná-lo, faz-se menção desse facto.
 
-7 - As formalidades previstas no presente artigo podem ser preteridas quando exista risco iminente de desmoronamento ou grave perigo para a saúde pública, nos termos previstos na lei para o estado de necessidade.
+7 - Quando o proprietário não indique perito até à data referida no n.º 3, a vistoria é realizada sem a presença deste, sem prejuízo de, em eventual impugnação administrativa ou contenciosa da deliberação em causa, o proprietário poder alegar factos não constantes do auto de vistoria, quando prove que não foi regularmente notificado nos termos do n.º 2.
+
+8 - As formalidades previstas no presente artigo podem ser preteridas quando exista risco iminente de desmoronamento ou grave perigo para a saúde pública, nos termos previstos na lei para o estado de necessidade.
