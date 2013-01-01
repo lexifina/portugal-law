@@ -1,18 +1,14 @@
 # Artigo 7.º
 
-### Documentos de habilitação ou de candidatura
+### Documentos de habilitação
 
-1 - Nos procedimentos de formação de quaisquer contratos a celebrar com entidades adjudicantes sediadas no território da RAM e sem prejuízo do disposto no artigo 81.º e no n.º 1 do artigo 168.º do Código dos Contratos Públicos, o adjudicatário e ou candidato devem apresentar as seguintes declarações e ou seguintes documentos de habilitação e candidatura:
+1 - A declaração prevista na alínea a) do nº 1 do artigo 81º do Código dos Contratos Públicos a apresentar pelo adjudicatário deve ser elaborada em conformidade com o modelo constante do anexo II ao Código dos Contratos Públicos, adaptada de acordo com o anexo II - M ao presente diploma.
 
-a) Declaração emitida conforme, respetivamente, os modelos constantes dos anexos ii-M e v-M ao presente diploma;
+2 - Sem prejuízo do disposto no artigo 81º do Código dos Contratos Públicos, na Região Autónoma da Madeira o adjudicatário está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira, apresentando os seguintes documentos:
 
-b) Documentos comprovativos de que não se encontra nas situações previstas nas alíneas b), d), e) e f) do artigo 55.º do Código dos Contratos Públicos, adaptado à RAM pelo artigo 5.º do presente diploma.
+a) Declaração de rendimentos (modelo 3 ou modelo 22, este último acompanhado do Anexo C, se for o caso);
 
-2 - O adjudicatário, quando legalmente exigível, está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da RAM, através da apresentação dos seguintes documentos, relativamente ao último exercício económico disponível:
-
-a) Declaração periódica de rendimentos (modelo n.º 22) acompanhada do anexo C;
-
-b) Declaração relativa a rendimentos e retenções de residentes (modelo n.º 10);
+b) -Declaração de rendimentos e retenções residentes (modelo 10);
 
 c) Anexo Q da informação empresarial simplificada (IES).
 
@@ -20,4 +16,4 @@ c) Anexo Q da informação empresarial simplificada (IES).
 
 4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação o incorrecto ou inadequado preenchimento dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.
 
-5 - Os adjudicatários que não estejam legalmente obrigados ao cumprimento das obrigações declarativas relativas a rendimentos gerados no território da RAM devem apresentar declaração sob compromisso de honra, subscrita por quem os obriga, referindo expressamente essa situação.
+5 - Quando o adjudicatário tenha declarado nos termos do artigo anterior que não preenche os pressupostos de incidência, previstos nos artigos 16º, 17º e 21º da Lei da Finanças Regionais, aprovada pela Lei Orgânica nº 1/2007, de 19 de fevereiro, não está obrigado a apresentar os documentos referidos nas alíneas a), b) e c) do número anterior.

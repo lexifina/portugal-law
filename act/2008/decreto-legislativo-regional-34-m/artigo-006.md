@@ -1,5 +1,5 @@
 # Artigo 6.º
 
-### Documentos da proposta
+### Documentos da proposta e da candidatura
 
-Na decorrência do disposto no artigo anterior, a declaração prevista na alínea a) do n.º 1 do artigo 57.º do Código dos Contratos Públicos a apresentar pelos concorrentes, deve ser elaborada em conformidade com o modelo constante do anexo i ao Código dos Contratos Públicos, adaptada de acordo com o modelo constante do anexo i-M ao presente diploma.
+Na decorrência do artigo anterior, a declaração prevista na alínea a) do nº 1 do artigo 57º e a declaração prevista no nº 1 do artigo 168º do Código dos Contratos Públicos a apresentar, respetivamente, pelo concorrente e pelo candidato, devem ser elaboradas em conformidade com os modelos constantes dos anexos I e V ao referido Código, adaptadas de acordo com os modelos constantes dos anexos I-M e V-M ao presente diploma.
