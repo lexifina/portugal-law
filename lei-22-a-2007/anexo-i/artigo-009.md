@@ -8,6 +8,6 @@ a) Automóveis ligeiros de utilização mista que, cumulativamente, apresentem p
 
 b) Automóveis ligeiros de mercadorias, de caixa aberta ou sem caixa, com lotação superior a três lugares, incluindo o do condutor e sem tracção às quatro rodas, permanente ou adaptável;
 
-c) Autocaravanas.
+c) (Revogada.)
 
 2 - É aplicável uma taxa reduzida correspondente a 10 % do imposto resultante da aplicação da tabela B, aos automóveis ligeiros de mercadorias, de caixa aberta, fechada ou sem caixa, com lotação máxima de três lugares, incluindo o do condutor, com excepção dos abrangidos pelo n.º 2 do artigo 7.º

@@ -6,7 +6,7 @@
 
 2 - Os veículos referidos no número anterior que se encontrem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás de petróleo liquefeito, gás natural ou de energia eléctrica, ou com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia eléctrica ou solar quer de gasolina ou gasóleo, ficam integralmente isentos de imposto.
 
-3 - A isenção prevista no número anterior é aplicável também aos veículos adaptados ao acesso e transporte de deficientes nos termos definidos regulamentarmente, por portaria conjunta dos membros do Governo responsáveis pelas áreas das Finanças e da Reabilitação, independentemente do respectivo sistema de combustão.
+3 - A isenção prevista no número anterior é aplicável também aos veículos adaptados ao acesso e transporte de pessoas com deficiência, independentemente dos níveis de emissão de CO(índice 2), devendo os mesmos apresentar as características que se encontram definidas regulamentarmente pela entidade competente em matéria de circulação e segurança rodoviária, para os veículos destinados ao transporte em táxi de pessoas com mobilidade reduzida.
 
 4 - O reconhecimento das isenções previstas no presente artigo depende de pedido dirigido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, anterior ou concomitante à apresentação da DAV, instruído com cópia do alvará para o exercício da actividade, licença de táxi e prova da qualidade da forma societária do sujeito passivo.
 
