@@ -58,6 +58,8 @@
 
 11.2.3 - Cartões modelo C ... 400$00
 
+11.4 - Jogos sociais do Estado: Euromilhões, Lotaria Nacional, Lotaria Instantânea, Totobola, Totogolo, Totoloto e Joker - sobre a parcela do prémio que exceder (euro) 5000 - 20 %
+
 12 - Licenças:
 
 12.1 - Para instalação de máquinas electrónicas de diversão - por cada máquina ... 15000$00
