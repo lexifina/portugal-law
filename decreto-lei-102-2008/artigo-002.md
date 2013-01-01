@@ -14,7 +14,7 @@ a) ...
 
 b) 'Comunidade e território da Comunidade' o conjunto dos territórios nacionais dos Estados membros, tal como são definidos no artigo 299.º do Tratado que institui a Comunidade Europeia, com excepção dos territórios mencionados nas alíneas c) e d);
 
-c) 'País terceiro' um país não pertencente à Comunidade, incluindo os seguintes territórios de Estados membros da Comunidade: ilha de Helgoland e território de Busingen, da República Federal da Alemanha, Ceuta e Melilha, do Reino de Espanha, Livigno, Campione d'Italia e águas nacionais do lago de Lugano, da República Italiana;
+c) As pessoas singulares ou coletivas que mencionem indevidamente IVA em fatura;
 
 d) 'Território terceiro' os seguintes territórios de Estados membros da Comunidade, os quais, salvo disposição especial, são tratados como países terceiros: ilhas Canárias, do Reino de Espanha, departamentos ultramarinos da República Francesa, Monte Atos, da República Helénica, ilhas Anglo-Normandas do Reino Unido da Grã-Bretanha e Irlanda do Norte, e ilhas Aland, da República da Finlândia;
 

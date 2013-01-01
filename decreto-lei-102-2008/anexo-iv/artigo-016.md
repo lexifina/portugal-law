@@ -56,11 +56,11 @@ b) Os descontos, abatimentos e bónus concedidos;
 
 c) As quantias pagas em nome e por conta do adquirente dos bens ou do destinatário dos serviços, registadas pelo sujeito passivo em contas de terceiros apropriadas;
 
-d) As quantias respeitantes a embalagens, desde que as mesmas não tenham sido efectivamente transaccionadas e da factura ou documento equivalente constem os elementos referidos na parte final da alínea b) do n.º 5 do artigo 36.º
+d) As quantias respeitantes a embalagens, desde que as mesmas não tenham sido efetivamente transacionadas e da fatura constem os elementos referidos na parte final da alínea b) do n.º 5 do artigo 36.º
 
 7 - Em legislação especial é regulamentado o apuramento do imposto quando o valor tributável for determinado de harmonia com o disposto na alínea f) do n.º 2.
 
-8 - Sempre que os elementos necessários à determinação do valor tributável sejam expressos em moeda diferente da moeda nacional, as taxas de câmbio a utilizar são as constantes das tabelas indicativas divulgadas pelo Sistema Europeu dos Bancos Centrais (SEBC) ou as de venda praticadas por qualquer banco estabelecido no território nacional.
+8 - Quando os elementos necessários à determinação do valor tributável sejam expressos em moeda diferente da moeda nacional, a taxa de câmbio a utilizar é a última divulgada pelo Banco Central Europeu ou a de venda praticada por qualquer banco estabelecido no território nacional.
 
 9 - Para os efeitos previstos no número anterior, os sujeitos passivos podem ainda optar entre considerar a taxa do dia em que se verificou a exigibilidade do imposto ou a do 1.º dia útil do respectivo mês.
 

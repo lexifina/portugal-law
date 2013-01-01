@@ -46,7 +46,7 @@ a) Por actores, chefes de orquestra, músicos e outros artistas, actuando quer i
 
 b) Por desportistas e artistas tauromáquicos, actuando quer individualmente quer integrados em grupos, em competições desportivas e espectáculos tauromáquicos;
 
-16) A transmissão do direito de autor e a autorização para a utilização da obra intelectual, definidas no Código de Direito de Autor, quando efectuadas pelos próprios autores, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, salvo quando o autor for pessoa colectiva;
+16) A transmissão do direito de autor e a autorização para a utilização da obra intelectual, definidas no Código de Direito de Autor, quando efetuadas pelos próprios autores, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, ainda que o autor seja pessoa coletiva;
 
 17) A transmissão de exemplares de qualquer obra literária, científica, técnica ou artística editada sob forma bibliográfica pelo autor, quando efectuada por este, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, salvo quando o autor for pessoa colectiva;
 
@@ -104,7 +104,7 @@ e) A locação de espaços para exposições ou publicidade;
 
 32) As transmissões de bens afectos exclusivamente a uma actividade isenta, quando não tenham sido objecto do direito à dedução e bem assim as transmissões de bens cuja aquisição ou afectação tenha sido feita com exclusão do direito à dedução nos termos do n.º 1 do artigo 21.º;
 
-33) As transmissões de bens efectuadas no âmbito das explorações enunciadas no anexo A ao presente Código, bem como as prestações de serviços agrícolas definidas no anexo B, quando efectuadas com carácter acessório por um produtor agrícola que utiliza os seus próprios recursos de mão-de-obra e equipamento normal da respectiva exploração agrícola e silvícola;
+33) (Revogada.)
 
 34) As prestações de serviços efectuadas por cooperativas que, não sendo de produção agrícola, desenvolvam uma actividade de prestação de serviços aos seus associados agricultores;
 

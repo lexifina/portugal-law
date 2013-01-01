@@ -16,7 +16,11 @@ c) Para as restantes importações, transmissões de bens e prestações de serv
 
 2 - Estão sujeitas à taxa a que se refere a alínea a) do n.º 1 as importações e transmissões de objectos de arte previstas em legislação especial.
 
-3 - As taxas a que se referem as alíneas a), b) e c) do n.º 1 são, respectivamente, de 4 %, 9 % e 16 %, relativamente às operações que, de acordo com a legislação especial, se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira.
+3 - As taxas a que se referem as alíneas a), b) e c) do n.º 1 são, respetivamente, de:
+
+a) 4 %, 9 % e 16 %, relativamente às operações que, de acordo com a legislação especial, se considerem efetuadas na Região Autónoma dos Açores;
+
+b) 5 %, 12 % e 22 %, relativamente às operações que, de acordo com a legislação especial, se considerem efetuadas na Região Autónoma da Madeira.
 
 4 - Nas transmissões de bens constituídos pelo agrupamento de várias mercadorias, formando um produto comercial distinto, aplicam-se as seguintes taxas:
 

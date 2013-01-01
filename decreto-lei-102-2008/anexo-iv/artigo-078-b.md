@@ -1,12 +1,12 @@
 # Artigo 78.º-B
 
-### Procedimento de regularização
+### Procedimento de dedução
 
 1 - A dedução do imposto associado a créditos considerados de cobrança duvidosa, nos termos da alínea a) do n.º 2 do artigo anterior, é efetuada mediante pedido de autorização prévia a apresentar, por via eletrónica, no prazo de seis meses contados a partir da data em que os créditos sejam considerados de cobrança duvidosa, nos termos do referido número.
 
-2 - Sem prejuízo do disposto no n.º 4, o pedido de autorização prévia deve ser apreciado pela Autoridade Tributária e Aduaneira no prazo máximo de quatro meses, findo o qual se considera indeferido.
+2 - Sem prejuízo do disposto no n.º 4, o pedido de autorização prévia deve ser apreciado pela Autoridade Tributária e Aduaneira no prazo máximo de oito meses, findo o qual se considera indeferido.
 
-3 - No caso de créditos abrangidos pela alínea b) do n.º 2 e pelo n.º 4 do artigo anterior, a dedução é efetuada pelo sujeito passivo sem necessidade de pedido de autorização prévia, no prazo de dois anos a contar do 1.º dia do ano civil seguinte, reservando-se à Autoridade Tributária e Aduaneira a faculdade de controlar posteriormente a legalidade da pretensão do sujeito passivo.
+3 - No caso de créditos abrangidos pela alínea b) do n.º 2 e pelo n.º 4 do artigo anterior, a dedução é efetuada pelo sujeito passivo sem necessidade de pedido de autorização prévia, reservando-se a Autoridade Tributária e Aduaneira a faculdade de controlar posteriormente a legalidade da pretensão do sujeito passivo.
 
 4 - No caso de créditos não abrangidos pelo número anterior que sejam inferiores a (euro) 150 000, IVA incluído, por fatura, decorrido o prazo previsto no n.º 2, o pedido de autorização prévia é considerado deferido, reservando-se a Autoridade Tributária e Aduaneira a faculdade de controlar posteriormente a legalidade da pretensão do sujeito passivo.
 
@@ -18,6 +18,4 @@
 
 8 - A dedução do imposto a favor do sujeito passivo deve ser efetuada na respetiva declaração periódica, até ao final do período seguinte àquele em que se verificar o deferimento do pedido de autorização prévia pela Autoridade Tributária e Aduaneira.
 
-9 - No caso previsto no n.º 4 do artigo anterior, é comunicado ao adquirente do bem ou serviço, que seja um sujeito passivo do imposto, a anulação total ou parcial do imposto, para efeitos de retificação da dedução inicialmente efetuada, devendo esta comunicação identificar as faturas, o montante do crédito e do imposto a ser regularizado, o processo ou acordo em causa, bem como o período em que a regularização é efetuada.
-
-10 - Os procedimentos para apresentação do pedido de autorização prévia e os modelos a utilizar são aprovados por portaria do membro do Governo responsável pela área das finanças.
+9 - Os procedimentos para apresentação do pedido de autorização prévia e os modelos a utilizar são aprovados por portaria do membro do Governo responsável pela área das finanças.

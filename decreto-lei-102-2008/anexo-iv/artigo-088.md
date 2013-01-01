@@ -14,6 +14,8 @@ a) Se o sujeito passivo, dentro do prazo referido no n.º 2, apresentar a declar
 
 b) Se a liquidação vier a ser corrigida com base nos elementos recolhidos em procedimento de inspecção tributária ou outros ao dispor dos serviços.
 
+c) Se for declarada a cessação oficiosa referida no n.º 2 do artigo 34.º e a liquidação disser respeito ao período decorrido desde o momento em que a cessação deveria ter ocorrido.
+
 5 - Se o imposto apurado nos termos do n.º 1 ou constante de certidão de dívida a que se refere o n.º 3 tiver sido pago, a respectiva importância é tomada em conta no pagamento das liquidações previstas nas alíneas a) e b) do número anterior.
 
-6 - Relativamente à diferença que resultar da compensação prevista no número anterior, é extraída certidão de dívida nos termos do n.º 5 do artigo 27.º ou creditada a importância correspondente se essa diferença for a favor do sujeito passivo.
+6 - Relativamente à diferença que resultar da compensação prevista no número anterior, é extraída certidão de dívida nos termos do n.º 6 do artigo 27.º ou creditada a importância correspondente se essa diferença for a favor do sujeito passivo.

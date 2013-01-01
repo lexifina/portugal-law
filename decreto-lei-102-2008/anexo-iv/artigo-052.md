@@ -8,10 +8,10 @@
 
 3 - Os sujeitos passivos com sede, estabelecimento estável ou domicílio em território nacional são obrigados a manter os livros, registos e demais documentos referidos no n.º 1 em estabelecimento ou instalação situado em território nacional, salvo se o arquivamento for efectuado por meios electrónicos.
 
-4 - É permitido o arquivamento em suporte electrónico das facturas ou documentos equivalentes emitidos por via electrónica desde que se encontre garantido o acesso completo e em linha aos dados e assegurada a integridade da origem e do seu conteúdo.
+4 - É permitido o arquivamento em suporte eletrónico das faturas emitidas por via eletrónica desde que se encontre garantido o acesso completo e em linha aos dados e assegurada a integridade da origem e do conteúdo e a sua legibilidade.
 
-5 - Os sujeitos passivos com sede, estabelecimento estável ou domicílio em território nacional que pretendam proceder ao arquivamento em suporte electrónico dos documentos referidos no número anterior fora do território da Comunidade devem solicitar autorização prévia à Direcção-Geral dos Impostos, a qual pode fixar condições específicas para a sua efectivação.
+5 - Os sujeitos passivos com sede, estabelecimento estável ou domicílio em território nacional que pretendam proceder ao arquivamento em suporte eletrónico dos documentos referidos no número anterior fora do território da Comunidade devem solicitar autorização prévia à Autoridade Tributária e Aduaneira, a qual pode fixar condições específicas para a sua efetivação.
 
-6 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou domicílio em território nacional que pretendam manter o arquivo dos livros, registos e demais documentos, incluindo os referidos no n.º 4, fora do território da Comunidade, devem solicitar autorização prévia à Direcção-Geral dos Impostos, a qual pode fixar condições específicas para a sua efectivação.
+6 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou domicílio em território nacional que pretendam manter o arquivo dos livros, registos e demais documentos, incluindo os referidos no n.º 4, fora do território da Comunidade, devem solicitar autorização prévia à Autoridade Tributária e Aduaneira, a qual pode fixar condições específicas para a sua efetivação.
 
-7 - É ainda permitido o arquivamento em suporte electrónico das facturas ou documentos equivalentes, dos talões de venda ou de quaisquer outros documentos com relevância fiscal desde que processados por computador, nos termos definidos por portaria do Ministro das Finanças.
+7 - É ainda permitido o arquivamento em suporte eletrónico das faturas ou de quaisquer outros documentos com relevância fiscal desde que processados por computador, nos termos definidos por portaria do Ministro das Finanças.

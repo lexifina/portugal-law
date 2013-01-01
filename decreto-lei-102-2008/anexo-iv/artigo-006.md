@@ -70,6 +70,8 @@ e) Prestações de serviços efectuadas por intermediários agindo em nome e por
 
 f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 7, compreendendo as dos organizadores daquelas actividades e as prestações de serviços que lhes sejam acessórias, que não tenham lugar no território nacional.
 
+g) Locação de um meio de transporte, que não seja de curta duração, quando o destinatário for uma pessoa estabelecida ou domiciliada fora do território nacional.
+
 10 - Não obstante o disposto na alínea b) do n.º 6, são tributáveis as seguintes operações:
 
 a) Prestações de serviços de transporte de bens, com excepção do transporte intracomunitário de bens, pela distância percorrida no território nacional;
@@ -83,6 +85,8 @@ d) Prestações de serviços que consistam em trabalhos efectuados sobre bens m�
 e) Prestações de serviços efectuadas por intermediários agindo em nome e por conta de outrem, quando a operação a que se refere a intermediação tenha lugar no território nacional.
 
 f) Prestações de serviços de carácter cultural, artístico, científico, desportivo, recreativo, de ensino e similares, incluindo feiras e exposições, não abrangidas pela alínea e) do n.º 8, compreendendo as dos organizadores daquelas actividades e as prestações de serviços que lhes sejam acessórias, que tenham lugar no território nacional.
+
+g) Locação de um meio de transporte, que não seja de curta duração, quando o destinatário for uma pessoa estabelecida ou domiciliada no território nacional.
 
 11 - Não obstante o disposto na alínea b) do n.º 6, não são tributáveis as prestações de serviços adiante enumeradas, quando o adquirente for uma pessoa estabelecida ou domiciliada fora da Comunidade:
 
@@ -116,11 +120,13 @@ a) Locação de bens móveis corpóreos, com excepção de meios de transporte, 
 
 b) Locação de curta duração de um meio de transporte, efectuada a pessoa que não seja um sujeito passivo, quando a respectiva colocação à disposição do destinatário tenha ocorrido fora da Comunidade e a utilização ou exploração efectivas do meio de transporte ocorram no território nacional;
 
-c) Locação de um meio de transporte, que não seja de curta duração, efectuada a pessoa que não seja um sujeito passivo, quando o locador não tenha no território da Comunidade sede, estabelecimento estável ou, na sua falta, o domicílio, a partir do qual os serviços são prestados, e a utilização ou exploração efectivas do meio de transporte ocorram no território nacional;
+c) Locação de um meio de transporte, que não seja de curta duração, efetuada a pessoa que não seja um sujeito passivo, quando este esteja estabelecido ou domiciliado fora da Comunidade e a utilização ou exploração efetivas do meio de transporte ocorram no território nacional;
 
 d) Prestações de serviços de telecomunicações, de radiodifusão e de televisão, e as prestações de serviços por via electrónica, nomeadamente as descritas no anexo D, cujo prestador seja um sujeito passivo que não tenha, no território da Comunidade, sede, estabelecimento estável ou, na sua falta, o domicílio, a partir do qual os serviços são prestados, quando o adquirente for uma pessoa singular ou colectiva com sede, estabelecimento estável ou, na sua falta, o domicílio no território nacional, que não seja um sujeito passivo dos referidos no n.º 5 do artigo 2.º
 
-13 - (Revogado.)
+e) Locação de uma embarcação de recreio, que não seja de curta duração, efetuada a pessoa que não seja um sujeito passivo, quando o locador tenha no território nacional sede, estabelecimento estável ou, na sua falta, domicílio, a partir do qual os serviços são prestados, e a efetiva colocação da embarcação à disposição do destinatário ocorra no território nacional.
+
+13 - O disposto na alínea g) do n.º 10 não tem aplicação relativamente à locação de uma embarcação de recreio, que não seja de curta duração, quando o locador tenha sede, estabelecimento estável ou, na sua falta, domicílio fora do território nacional, a partir do qual os serviços são prestados, e a efetiva colocação da embarcação à disposição do destinatário ocorra no mesmo território.
 
 14 - (Revogado.)
 

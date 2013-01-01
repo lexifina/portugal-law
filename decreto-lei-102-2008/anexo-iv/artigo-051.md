@@ -20,7 +20,7 @@ f) Percentagem definitiva de dedução de cada um dos anos do período de regula
 
 3 - O registo a que se referem os números anteriores deve ser efectuado no prazo constante dos artigos 45.º e 48.º, contado a partir:
 
-a) Da data de recepção da factura ou documento equivalente que certifique a aquisição;
+a) Da data da receção da fatura que certifique a aquisição;
 
 b) Da data da conclusão das obras em bens imóveis;
 

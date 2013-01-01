@@ -29,3 +29,5 @@ c) Nas importações, no momento determinado pelas disposições aplicáveis aos
 10 - Sempre que, em momento posterior à transmissão, aquisição intracomunitária ou importação de veículos automóveis, se mostre devido imposto sobre veículos pela sua transformação, alteração de cilindrada ou de chassis, o imposto é devido e exigível no momento em que ocorra essa transformação ou alteração.
 
 11 - Nas transmissões de combustíveis à consignação efectuadas por distribuidores, o imposto é devido e exigível na data da leitura dos contadores de bombas, a efectuar pelo consignatário, pelo menos uma vez por semana.
+
+12 - Nas transmissões de bens isentas nos termos do artigo 14.º do Regime do IVA nas Transações Intracomunitárias, efetuadas de forma continuada por um período superior a um mês, o imposto é devido e torna-se exigível no final de cada mês, pelo montante correspondente.

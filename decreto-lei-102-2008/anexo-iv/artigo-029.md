@@ -6,11 +6,11 @@
 
 ### Obrigações em geral
 
-1 - Para além da obrigação do pagamento do imposto, os sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º são obrigados, sem prejuízo do previsto em disposições especiais, a:
+1 - Para além da obrigação do pagamento do imposto, os sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º devem, sem prejuízo do previsto em disposições especiais:
 
 a) Entregar, segundo as modalidades e formas prescritas na lei, uma declaração de início, de alteração ou de cessação da sua actividade;
 
-b) Emitir uma factura ou documento equivalente por cada transmissão de bens ou prestação de serviços, tal como vêm definidas nos artigos 3.º e 4.º do presente diploma, bem como pelos pagamentos que lhes sejam efectuados antes da data da transmissão de bens ou da prestação de serviços;
+b) Emitir obrigatoriamente uma fatura por cada transmissão de bens ou prestação de serviços, tal como vêm definidas nos artigos 3.º e 4.º, independentemente da qualidade do adquirente dos bens ou destinatário dos serviços, ainda que estes não a solicitem, bem como pelos pagamentos que lhes sejam efetuados antes da data da transmissão de bens ou da prestação de serviços;
 
 c) Enviar mensalmente uma declaração relativa às operações efectuadas no exercício da sua actividade no decurso do segundo mês precedente, com a indicação do imposto devido ou do crédito existente e dos elementos que serviram de base ao respectivo cálculo;
 
@@ -36,7 +36,7 @@ i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1
 
 6 - Quando o julgue conveniente, o sujeito passivo pode recorrer ao processamento de facturas globais, respeitantes a cada mês ou a períodos inferiores, desde que por cada transacção seja emitida guia ou nota de remessa e do conjunto dos dois documentos resultem os elementos referidos no n.º 5 do artigo 36.º
 
-7 - Deve ainda ser emitida factura ou documento equivalente quando o valor tributável de uma operação ou o imposto correspondente sejam alterados por qualquer motivo, incluindo inexactidão.
+7 - Quando o valor tributável de uma operação ou o imposto correspondente sejam alterados por qualquer motivo, incluindo inexatidão, deve ser emitido documento retificativo de fatura.
 
 8 - As transmissões de bens e as prestações de serviços isentas ao abrigo das alíneas a) a j), p) e q) do n.º 1 do artigo 14.º e das alíneas b), c), d) e e) do n.º 1 do artigo 15.º devem ser comprovadas através dos documentos alfandegários apropriados ou, não havendo obrigação legal de intervenção dos serviços aduaneiros, de declarações emitidas pelo adquirente dos bens ou utilizador dos serviços, indicando o destino que lhes irá ser dado.
 
@@ -48,9 +48,9 @@ i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1
 
 12 - São regulamentados por portaria do Ministro das Finanças o âmbito de obrigatoriedade, os suportes, o início de vigência e os procedimentos do envio de declarações por transmissão electrónica de dados.
 
-13 - Consideram-se documentos equivalentes a facturas os documentos e, no caso da facturação electrónica, as mensagens que, contendo os requisitos exigidos para as facturas, visem alterar a factura inicial e para ela façam remissão.
+13 - (Revogado.)
 
-14 - Para cumprimento do disposto na alínea b) do n.º 1, as facturas ou documentos equivalentes podem ser elaborados pelo próprio adquirente dos bens ou serviços ou por um terceiro, em nome e por conta do sujeito passivo.
+14 - Para cumprimento do disposto na alínea b) do n.º 1, as faturas podem ser elaboradas pelo próprio adquirente dos bens ou serviços ou por um terceiro, em nome e por conta do sujeito passivo.
 
 15 - Os sujeitos passivos referidos na alínea i) do n.º 1 do artigo 2.º são obrigados a emitir uma factura por cada aquisição de bens ou de serviços aí mencionados quando o respectivo transmitente ou prestador não seja um sujeito passivo, não se aplicando, nesse caso, os condicionalismos previstos no n.º 11 do artigo 36.º
 
@@ -65,3 +65,5 @@ b) As prestações de serviços a declarar são as efectuadas no período a que 
 c) Podem não ser incluídas as prestações de serviços que sejam isentas do imposto no Estado membro em que as operações são tributáveis.
 
 18 - Os sujeitos passivos a que seja aplicável o regime de normalização contabilística para microentidades ficam dispensados da obrigação de entrega da declaração de informação contabilística e fiscal e anexos respeitantes à aplicação do Decreto-Lei n.º 347/85, de 23 de Agosto.
+
+19 - Não é permitida aos sujeitos passivos a emissão e entrega de documentos de natureza diferente da fatura para titular a transmissão de bens ou prestação de serviços aos respetivos adquirentes ou destinatários, sob pena de aplicação das penalidades legalmente previstas.

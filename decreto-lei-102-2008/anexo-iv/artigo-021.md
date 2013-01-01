@@ -12,7 +12,7 @@ i) Veículos pesados de passageiros;
 
 ii) Veículos licenciados para transportes públicos, exceptuando-se os rent-a-car;
 
-iii) Máquinas consumidoras de gasóleo, GPL, gás natural ou biocombustíveis, que não sejam veículos matriculados;
+iii) Máquinas consumidoras de gasóleo, GPL, gás natural ou biocombustíveis, bem como as máquinas que possuam matrícula atribuída pelas autoridades competentes, desde que, em qualquer dos casos, não sejam veículos matriculados;
 
 iv) Tractores com emprego exclusivo ou predominante na realização de operações culturais inerentes à actividade agrícola;
 

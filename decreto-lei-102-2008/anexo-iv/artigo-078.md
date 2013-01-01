@@ -2,7 +2,7 @@
 
 ### Regularizações
 
-1 - As disposições dos artigos 36.º e seguintes devem ser observadas sempre que, emitida a factura ou documento equivalente, o valor tributável de uma operação ou o respectivo imposto venham a sofrer rectificação por qualquer motivo.
+1 - As disposições dos artigos 36.º e seguintes devem ser observadas sempre que, emitida a fatura, o valor tributável de uma operação ou o respetivo imposto venham a sofrer retificação por qualquer motivo.
 
 2 - Se, depois de efectuado o registo referido no artigo 45.º, for anulada a operação ou reduzido o seu valor tributável em consequência de invalidade, resolução, rescisão ou redução do contrato, pela devolução de mercadorias ou pela concessão de abatimentos ou descontos, o fornecedor do bem ou prestador do serviço pode efectuar a dedução do correspondente imposto até ao final do período de imposto seguinte àquele em que se verificarem as circunstâncias que determinaram a anulação da liquidação ou a redução do seu valor tributável.
 
@@ -18,7 +18,11 @@
 
 a) Em processo de execução, após o registo a que se refere a alínea c) do n.º 2 do artigo 806.º do Código do Processo Civil;
 
-b) Em processo de insolvência quando a mesma seja decretada.
+b) Em processo de insolvência, quando a mesma for decretada de caráter limitado ou após a homologação da deliberação prevista no artigo 156.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março;
+
+c) Em processo especial de revitalização, após homologação do plano de recuperação pelo juiz, previsto no artigo 17.º-F do Código da Insolvência e da Recuperação de Empresas;
+
+d) Nos termos previstos no Sistema de Recuperação de Empresas por Via Extrajudicial (SIREVE), após celebração do acordo previsto no artigo 12.º do Decreto-Lei n.º 178/2012, de 3 de agosto.
 
 8 - Os sujeitos passivos podem igualmente deduzir o imposto respeitante a outros créditos desde que se verifique qualquer das seguintes condições:
 
@@ -32,7 +36,7 @@ d) Os créditos sejam inferiores a (euro) 6000, IVA incluído, deles sendo deved
 
 e) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA incluído, quando o devedor, sendo um particular ou um sujeito passivo que realize exclusivamente operações isentas que não conferem direito a dedução, conste da lista de acesso público de execuções extintas com pagamento parcial ou por não terem sido encontrados bens penhoráveis no momento da dedução.
 
-9 - O valor global dos créditos referidos no número anterior, o valor global do imposto a deduzir, a realização de diligências de cobrança por parte do credor e o insucesso, total ou parcial, de tais diligências devem encontrar-se documentalmente comprovados e ser certificados por revisor oficial de contas.
+9 - O valor global dos créditos referidos no número anterior, o valor global do imposto a deduzir, a realização de diligências de cobrança por parte do credor e o insucesso, total ou parcial, de tais diligências devem encontrar-se documentalmente comprovados e ser certificados por revisor oficial de contas, devendo este certificar, ainda, que se encontram verificados os requisitos legais para a dedução do imposto respeitante a créditos considerados incobráveis nos termos do n.º 7 deste artigo.
 
 10 - A certificação por revisor oficial de contas a que se refere o número anterior deve ser efectuada por cada um dos períodos em que foi feita a regularização e até ao termo do prazo estabelecido para a entrega da declaração periódica ou até à data de entrega da mesma, quando esta ocorra fora do prazo.
 

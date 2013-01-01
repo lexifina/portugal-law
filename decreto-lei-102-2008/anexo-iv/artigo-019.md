@@ -24,16 +24,18 @@ e) O imposto pago pelo sujeito passivo à saída dos bens de um regime de entrep
 
 2 - Só confere direito a dedução o imposto mencionado nos seguintes documentos, em nome e na posse do sujeito passivo:
 
-a) Em facturas e documentos equivalentes passados em forma legal;
+a) Em faturas passadas na forma legal;
 
-b) No recibo de pagamento de IVA que faz parte das declarações de importação, bem como em documentos emitidos por via electrónica pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, nos quais conste o número e data do movimento de caixa.
+b) No recibo de pagamento do IVA que faz parte das declarações de importação, bem como em documentos emitidos por via eletrónica pela Autoridade Tributária e Aduaneira, nos quais constem o número e a data do movimento de caixa.
 
-3 - Não pode deduzir-se imposto que resulte de operação simulada ou em que seja simulado o preço constante da factura ou documento equivalente.
+3 - Não pode deduzir-se imposto que resulte de operação simulada ou em que seja simulado o preço constante da fatura.
 
 4 - Não pode igualmente deduzir-se o imposto que resulte de operações em que o transmitente dos bens ou prestador dos serviços não entregar nos cofres do Estado o imposto liquidado, quando o sujeito passivo tenha ou devesse ter conhecimento de que o transmitente dos bens ou prestador de serviços não dispõe de adequada estrutura empresarial susceptível de exercer a actividade declarada.
 
-5 - No caso de facturas ou documentos equivalentes emitidos pelos próprios adquirentes dos bens ou serviços, o exercício do direito à dedução fica condicionado à verificação das condições previstas no n.º 11 do artigo 36.º
+5 - No caso de faturas emitidas pelos próprios adquirentes dos bens ou serviços, o exercício do direito à dedução fica condicionado à verificação das condições previstas no n.º 11 do artigo 36.º
 
-6 - Para efeitos do exercício do direito à dedução, consideram-se passados em forma legal as facturas ou documentos equivalentes que contenham os elementos previstos no artigo 36.º
+6 - Para efeitos do exercício do direito à dedução, consideram-se passadas na forma legal as faturas que contenham os elementos previstos nos artigos 36.º ou 40.º, consoante os casos.
 
 7 - Não pode deduzir-se o imposto relativo a bens imóveis afectos à empresa, na parte em que esses bens sejam destinados a uso próprio do titular da empresa, do seu pessoal ou, em geral, a fins alheios à mesma.
+
+8 - Nos casos em que a obrigação de liquidação e pagamento do imposto compete ao adquirente dos bens e serviços, apenas confere direito a dedução o imposto que for liquidado por força dessa obrigação.
