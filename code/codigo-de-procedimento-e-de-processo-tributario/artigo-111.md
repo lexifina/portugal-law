@@ -15,3 +15,5 @@ c) Outros documentos de que disponha e repute convenientes para o julgamento, in
 3 - Caso haja sido apresentada, anteriormente à recepção da petição de impugnação, reclamação graciosa relativamente ao mesmo acto, esta deve ser apensa à impugnação judicial, no estado em que se encontrar, sendo considerada, para todos os efeitos, no âmbito do processo de impugnação.
 
 4 - Caso, posteriormente à recepção da petição de impugnação, seja apresentada reclamação graciosa relativamente ao mesmo acto e com diverso fundamento, deve esta ser apensa à impugnação judicial, sendo igualmente considerada, para todos os efeitos, no âmbito do processo de impugnação.
+
+5 - O disposto nos n.os 3 e 4 é igualmente aplicável, com as necessárias adaptações, no caso de recurso hierárquico interposto da decisão da reclamação graciosa ao abrigo do artigo 76.º

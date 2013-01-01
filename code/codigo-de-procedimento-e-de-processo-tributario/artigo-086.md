@@ -1,6 +1,6 @@
 # Artigo 86.º
 
-### Termo do pagamento voluntário
+### Termo do prazo de pagamento voluntário. Pagamentos por conta
 
 1 - Findo o prazo de pagamento voluntário, começarão a vencer-se juros de mora nos termos das leis tributárias.
 
