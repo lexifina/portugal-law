@@ -1,0 +1,166 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "122",
+    "id": "37420",
+    "titulo": "Estabelece o regime financeiro das autarquias locais e das entidades intermunicipais."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-01-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "30278",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-01-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-01-03",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-01-31",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "ANMP - Anexo I",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5467315957526a4d5745744e4749354d4330304e6a55784c54686b5a6a59744e474532596a67314e44566b4e4449334c6e426b5a673d3d&fich=585adc1a-4b90-4651-8df6-4a6b8545d427.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-31",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "ANMP - Anexo II",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4749784e3245314f446b74593252694f533030593246694c546869597a637459546b344e546734595463784f5455334c6e426b5a673d3d&fich=8b17a589-cdb9-4cab-8bc7-a98588a71957.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-31",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "ANMP - Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6c6a4f444a6d4e6a4574596d4e6a4d433030596a63324c54686b4e6a557459325a6a59545669595745355a4459794c6e426b5a673d3d&fich=b9c82f61-bcc0-4b76-8d65-cfca5baa9d62.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-31",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "ANMP - Resolução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d446b355a6d5a6a4d6a45744f444a6b4e5330304d6a51344c5467774f444174595452694f545131597a67324d6d5a6b4c6e426b5a673d3d&fich=099ffc21-82d5-4248-8080-a4b945c862fd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-28",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "JM-AMLisboa - Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4e694d6d45324e545574597a5135596930304d3259314c57497a5a6a4174597a41314e475979596d59344e7a49344c6e426b5a673d3d&fich=c3b2a655-c49b-43f5-b3f0-c054f2bf8728.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 11ª CAOTPL e Nota Técnica - Em anexo o Parecer da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e575532596d55314f4449744e546468596930304e44677a4c5749344e5451745a6d5a6c4d54557a4d574e6d5a5746694c6e426b5a673d3d&fich=5e6be582-57ab-4483-b854-ffe1531cfeab.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4031",
+            "motivoCessacao": null,
+            "nome": "Ângela Guerra"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-02-04",
+            "dataRemessa": "2013-02-06",
+            "numeroOficio": "22/11ª-CAOTPL",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-02-06",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+            "id": "62889",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "93",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-01-03",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 5.ª Comissão",
+    "OevId": "288196",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "621807",
+        "obs": null,
+        "pag": [
+          "67-91"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-02-06",
+        "pubLeg": "XII",
+        "pubNr": "78",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/078/2013-02-06/67?pgs=67-91&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
