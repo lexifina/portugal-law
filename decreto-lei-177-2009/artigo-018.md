@@ -2,7 +2,7 @@
 
 ### Posições remuneratórias
 
-1 - (Revogado.)
+1 - A cada categoria da carreira especial médica corresponde um número variável de posições remuneratórias, as quais constam do anexo i ao presente decreto-lei, do qual faz parte integrante.
 
 2 - A determinação da posição remuneratória na categoria de recrutamento é objecto de negociação, nos termos previstos no artigo 55.º da Lei n.º 12-A/2008, de 27 de Fevereiro.
 
