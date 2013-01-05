@@ -12,7 +12,7 @@ b) Acompanhar, coordenar e apoiar a organização e funcionamento das escolas e 
 
 c) Participar no planeamento da rede escolar;
 
-d) Revogada;
+d) Assegurar a concretização da política nacional no domínio das instalações e equipamentos escolares;
 
 e) Definir, gerir e acompanhar a requalificação, modernização e conservação da rede de escolas;
 

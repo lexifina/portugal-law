@@ -2,7 +2,7 @@
 
 ### Direcção-Geral da Educação
 
-1 - A Direcção-Geral da Educação, abreviadamente designada por DGE, tem por missão assegurar a concretização das políticas relativas à componente pedagógica e didáctica da educação pré-escolar, dos ensinos básico e secundário e da educação extra-escolar, prestando apoio técnico à sua formulação e acompanhando e avaliando a sua concretização, coordenar a planificação das diversas provas e exames, conceber, organizar e executar as medidas de prevenção do risco, segurança e controlo da violência nas escolas.
+1 - A DGE tem por missão assegurar a concretização das políticas relativas à componente pedagógica e didática da educação pré-escolar, dos ensinos básico e secundário e da educação extra-escolar, prestando apoio técnico à sua formulação e acompanhando e avaliando a sua concretização, bem como coordenar a planificação das diversas provas e exames.
 
 2 - A DGE prossegue, designadamente, as seguintes atribuições:
 
@@ -22,7 +22,7 @@ g) Identificar as necessidades de material didáctico, incluindo manuais escolar
 
 h) Contribuir para o planeamento das necessidades de formação inicial, contínua e especializada do pessoal docente, em articulação com a Direcção-Geral de Estatísticas da Educação e Ciência e a Direcção-Geral da Administração Escolar;
 
-i) Promover, coordenar e acompanhar a prevenção e intervenção na área da segurança escolar e assegurar a actividade de vigilância no espaço escolar, garantindo a necessária articulação com o Programa Escola Segura e com o Observatório da Segurança, promovendo a formação de pessoal docente e não docente na área da segurança escolar;
+i) [Revogada];
 
 j) Assegurar na sua área de actuação as relações internacionais, sem prejuízo da coordenação exercida pela SG e das atribuições próprias do Ministério dos Negócios Estrangeiros, bem como promover a cooperação internacional.
 

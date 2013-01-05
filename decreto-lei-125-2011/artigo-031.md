@@ -24,6 +24,8 @@ e) A Direcção-Geral de Estatísticas da Educação e Ciência;
 
 f) A Direcção-Geral de Planeamento e Gestão Financeira.
 
+g) A Direção-Geral dos Estabelecimentos Escolares.
+
 3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:
 
 a) A Secretaria-Geral do Ministério da Educação, sendo as suas atribuições integradas na Secretaria-Geral;
@@ -62,7 +64,7 @@ j) O Gabinete Coordenador de Segurança Escolar, sendo as suas atribuições int
 
 l) A Direcção-Geral dos Recursos Humanos da Educação, sendo as suas atribuições integradas na Direcção-Geral da Administração Escolar;
 
-m) As Direcções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, sendo as suas atribuições integradas na Direcção-Geral da Administração Escolar;
+m) As Direções Regionais de Educação do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, sendo as suas atribuições integradas na Direção-Geral dos Estabelecimentos Escolares;
 
 n) O Instituto de Meteorologia, I. P., sendo as suas atribuições integradas no Instituto Português do Mar e da Atmosfera, I. P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;
 
@@ -78,6 +80,8 @@ q) A Agência Nacional para a Qualificação, I. P., que passa a designar-se Ag�
 
 4 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.
 
-5 - O Museu Nacional da Ciência e da Técnica Doutor Mário Silva é integrado na Universidade de Coimbra.
+5 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.
 
-6 - São ainda objecto de reestruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º
+6 - O Museu Nacional da Ciência e da Técnica Doutor Mário Silva é integrado na Universidade de Coimbra.
+
+7 - São ainda objeto de reestruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º

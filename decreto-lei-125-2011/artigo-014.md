@@ -16,8 +16,8 @@ d) Promover a formação do pessoal docente e não docente das escolas;
 
 e) Decidir sobre questões relativas ao pessoal docente do ensino particular, cooperativo e solidário, incluindo os ensinos profissional e artístico e a educação de adultos, nomeadamente autorizações provisórias de leccionação, acumulação de funções e certificação do tempo de serviço;
 
-f) Definir, gerir e acompanhar a requalificação, modernização e conservação da rede escolar;
+f) [Revogada];
 
 g) Assegurar o serviço jurídico-contencioso, no âmbito das suas atribuições em articulação com a SG.
 
-3 - A DGAE é dirigida por um director-geral, coadjuvado por dois subdirectores gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
+3 - A DGAE é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.

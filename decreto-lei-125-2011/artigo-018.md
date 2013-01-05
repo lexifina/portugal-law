@@ -6,7 +6,7 @@
 
 ### Fundação para a Ciência e a Tecnologia, I. P.
 
-1 - A Fundação para a Ciência e a Tecnologia, I. P., abreviadamente designada por FCT, I. P., tem por missão o desenvolvimento, o financiamento e a avaliação de instituições, redes, infra-estruturas, equipamentos científicos, programas, projectos e recursos humanos em todos os domínios da ciência e da tecnologia, bem como o desenvolvimento da cooperação científica e tecnológica internacional e, ainda, a coordenação das políticas públicas de ciência e tecnologia.
+1 - A Fundação para a Ciência e a Tecnologia, I.P., abreviadamente designada por FCT, I.P., tem por missão o desenvolvimento, o financiamento e a avaliação de instituições, redes, infraestruturas, equipamentos científicos, programas, projetos e recursos humanos em todos os domínios da ciência e da tecnologia, bem como o desenvolvimento da cooperação científica e tecnológica internacional, a coordenação das políticas públicas de ciência e tecnologia, e ainda o desenvolvimento dos meios nacionais de computação científica, promovendo a instalação e utilização de meios avançados e a sua articulação em rede.
 
 2 - A FCT, I. P., prossegue, designadamente, as seguintes atribuições:
 
@@ -26,6 +26,6 @@ g) Promover a participação da comunidade científica, tecnológica e de inova�
 
 h) Promover a articulação das iniciativas de natureza central, regional e local nas áreas da ciência e da tecnologia;
 
-i) Promover e apoiar a criação e a modernização de infra-estruturas de apoio às actividades de investigação científica e de desenvolvimento tecnológico, nomeadamente o desenvolvimento da Rede Ciência, Tecnologia e Sociedade (RCTS), assegurando a sua evolução como rede integrada de apoio à investigação e ensino com os serviços necessários e a apropriada conectividade nacional e internacional.
+i) Promover e apoiar a criação e a modernização de infraestruturas de apoio às atividades de ensino e de investigação científica e de desenvolvimento tecnológico, nomeadamente o desenvolvimento da Rede Ciência, Tecnologia e Sociedade (RCTS) e Rede Escolar, assegurando a sua evolução como rede integrada de apoio à investigação e ensino com os serviços necessários e a apropriada conectividade nacional e internacional.
 
-3 - A FCT, I. P., é dirigida por um conselho directivo, constituído por um presidente e dois vogais.
+3 - A FCT, I.P., é dirigida por um conselho diretivo, constituído por um presidente e quatro vogais.
