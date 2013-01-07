@@ -1,0 +1,14 @@
+Despacho n.º 259/2013
+Considerando que:
+a) A Lei n.º 37/2003, de 22 de agosto, que estabelece as bases do financiamento do ensino superior, refere, no seu artigo 16.º, o pagamento por parte dos estudantes às instituições onde estão matriculados de uma taxa de frequência, designada por propina;
+b) O Decreto-Lei n.º 107/2008, de 25 de junho, que alterou o Decreto-Lei n.º 74/2006, de 24 de março, e foi alterado pelo Decreto-Lei n.º 230/2009, de 14 de setembro, retificado pela Declaração de Retificação n.º 81/2009, de 27 de outubro, define, no seu artigo 46.º-C, que os estabelecimentos de ensino superior facultam aos seus estudantes a inscrição e frequência dos seus ciclos de estudos em regime de tempo parcial, devendo, para o efeito, aprovar, entre outras condições, o regime de propinas, que deve resultar da adequação proporcionada das regras gerais aplicáveis ao ciclo de estudos em causa;
+c) O n.º 3 do meu Despacho R-25-2011, de 15 de junho, permite que os alunos em regime geral a tempo integral inscritos até 30 ECTS, que estejam em condições de concluir o respetivo ciclo de estudos, possam requerer a mudança para regime geral a tempo parcial, exceto nos casos em que tenham ingressado para conclusão do ciclo de estudos nesse mesmo ano letivo,
+Determino, nos termos da alínea s) do n.º 1 do artigo 31.º dos Estatutos da Universidade de Lisboa, publicados no Diário da República, 2.ª série, n.º 148, de 1 de agosto de 2008, pelo Despacho normativo n.º 36/2008, alterados pelo Despacho normativo n.º 15/2011, publicado no Diário da República, 2.ª série, n.º 229, de 29 de novembro de 2011, ouvido o Conselho Universitário, bem como o Senado, conforme previsto na alínea b) do n.º 2 do artigo 41.º dos mesmos Estatutos:
+A alteração do artigo 11.º do Regulamento de Propinas da Universidade de Lisboa, publicado no Diário da República, 2.ª série, n.º 197, de 11 de outubro, pelo Despacho n.º 13358/2012, com entrada em vigor a partir do início do ano letivo de 2012/2013,
+Artigo 11.º
+Alunos em regime geral a tempo parcial
+1 - A propina anual a pagar pelo aluno em regime geral a tempo parcial é a que corresponde a 65 % da propina devida pelo aluno em regime geral a tempo integral.
+2 - O valor a pagar pelo aluno em regime geral a tempo parcial inscrito num máximo de duas unidades curriculares, correspondentes no máximo a 20 créditos (ECTS), e que esteja em condições de concluir, nesse ano, o ciclo de estudos de licenciatura ou o mestrado integrado, é correspondente à taxa fixada para frequência em regime livre das unidades curriculares dos referidos ciclos de estudos.
+3 - A possibilidade prevista no número anterior aplica-se apenas à conclusão do mestrado integrado, e não ao ciclo de estudos de licenciatura, no caso dos cursos que tenham esta organização.
+13 de dezembro de 2012. - O Reitor, Prof. Doutor António Sampaio da Nóvoa.
+206628493
