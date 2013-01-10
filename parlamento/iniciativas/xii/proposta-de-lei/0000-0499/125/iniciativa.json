@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "125",
+  "id": "37438",
+  "fases": 18,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-01-10",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a466b5a544d785a6d4d744e7a4e6a5a6930304d6a6b794c5749334e4463745a444d334e57497a595446684e545a6d4c6e426b5a673d3d&fich=21de31fc-73cf-4292-b747-d375b3a1a56f.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a466b4e5751335a446b744f446b354d7930304d4755784c5745345a5467744d54686b4d4759344e44686a4e4445314c6e426b5a673d3d&fich=21d5d7d9-8993-40e1-a8e8-18d0f848c415.pdf&Inline=true",
+        "anexoNome": "Oficio do Parecer"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a4930597a4d324e6a49744f44566d4e4330304d6a4d334c574669596d51744e5467324d7a59344e7a526b5a574d324c6e426b5a673d3d&fich=624c3662-85f4-4237-abbd-58636874dec6.pdf&Inline=true",
+        "anexoNome": "Parecer da Proposta de lei organica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4449795a5746684d5755745a54426a4d693030596a67334c574979596a59744e6d55344e5456684f44497959574a6b4c6e426b5a673d3d&fich=d22eaa1e-e0c2-4b87-b2b6-6e855a822abd.pdf&Inline=true",
+        "anexoNome": "Comentários da Proposta de lei organica"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a59324e3245335a6a6b744e6a686d4e6930305a6a4e684c54686a4f5455744d6a466b596a59774e574a6d4d57517a4c6e426b5a673d3d&fich=2667a7f9-68f6-4f3a-8c95-21db605bf1d3.pdf&Inline=true",
+        "anexoNome": "Parecer da ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a686a5a6d566a4d4459744d325a684e5330304d7a6b794c5745334e4467744d6a4e6b4f47566d4d6d526d596d4d774c6e426b5a673d3d&fich=c8cfec06-3fa5-4392-a748-23d8ef2dfbc0.pdf&Inline=true",
+        "anexoNome": "Parecer (ERSAR.LP)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f44466a4d6a55784e5755744d6a5a6b595330305a445a684c57466b4e5755744f5751785a4467304e6a6b77593251304c6e426b5a673d3d&fich=81c2515e-26da-4d6a-ad5e-9d1d84690cd4.pdf&Inline=true",
+        "anexoNome": "ERSAR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595463304d574d775a6d45744d6a566b4d4330304d7a6b334c546b354d544d74595449774d44686d4e4751304d6a4d354c6e426b5a673d3d&fich=a741c0fa-25d0-4397-9913-a2008f4d4239.pdf&Inline=true",
+        "anexoNome": "Ofício RAAPG"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37438",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a6b784d6a417a5a5751744e6d466c4d6930304e7a4d7a4c5467794e4441745a6a51794e7a63314d6d45344f546b324c6d527659773d3d&fich=f91203ed-6ae2-4733-8240-f427752a8996.doc&Inline=true",
+    "IniNr": "125",
+    "IniObs": "Texto inicial substituído a pedido do autor da iniciativa em 18-01-2013.",
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Texto inicial substituído a pedido do autor da iniciativa em 18-01-2013.",
+    "IniTipo": "P",
+    "IniTitulo": "Aprova os Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
