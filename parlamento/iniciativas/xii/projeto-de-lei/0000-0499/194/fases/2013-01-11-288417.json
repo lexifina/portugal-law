@@ -1,0 +1,546 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "194",
+    "id": "36830",
+    "titulo": "Reforça as medidas de proteção às vítimas de violência doméstica."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2013-01-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9158",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2013-01-11",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "37088",
+        "leg": "XII",
+        "nr": "75",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1712",
+            "obs": null,
+            "pag": [
+              "47-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-12",
+            "pubLeg": "XII",
+            "pubNr": "40",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/47?pgs=47-54&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-01-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4133",
+                "nome": "Isabel Oneto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=02:41:03:079&drc=00:00:24:921"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=02:45:00:376&drc=00:00:17:623"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-12",
+                "pubLeg": "XII",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4133",
+                "nome": "Isabel Oneto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=02:41:56:806&drc=00:02:08:461"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=03:02:13:162&drc=00:02:17:390"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48",
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-12",
+                "pubLeg": "XII",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/47?pgs=47-48,53-54&org=PLC"
+              }
+            ],
+            "sumario": "Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=02:45:23:220&drc=00:03:45:958"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-12",
+                "pubLeg": "XII",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=02:49:11:418&drc=00:04:02:324"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-12",
+                "pubLeg": "XII",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=02:53:17:304&drc=00:04:11:085"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-12",
+                "pubLeg": "XII",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4289",
+                "nome": "Teresa Anjinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130111pln&url=l12/sl2/a2013/m01/&tI=02:57:31:888&drc=00:04:34:737"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187948",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-12",
+                "pubLeg": "XII",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Reforça as medidas de proteção às vítimas de violência doméstica.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288417",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "615047",
+        "obs": null,
+        "pag": [
+          "47-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-01-12",
+        "pubLeg": "XII",
+        "pubNr": "40",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/040/2013-01-12/47?pgs=47-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PS de eliminação do n.º 3 do artigo 120.º (Suspensão da Prescrição) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "62599",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PCP de alteração do n.º 3 do artigo 120.º (Suspensão da Prescrição) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>",
+        "id": "62600",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PS de alteração do n.º 4 do artigo 120.º (Suspensão da Prescrição) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "62601",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PCP de alteração do n.º 4 do artigo 120.º (Suspensão da Prescrição) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>",
+        "id": "62602",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PS de eliminação do n.º 5 do artigo 120.º (Suspensão da Prescrição) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "62603",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação do artigo 120.º (Suspensão da Prescrição) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "62604",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PCP de eliminação do artigo 207.º (Acusação particular) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "62605",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo BE de eliminação do n.º 1 do artigo 347.º (Resistência e coação sobre funcionário) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "62606",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PCP de eliminação do n.º 1 do artigo 347.º (Resistência e coação sobre funcionário) do Código Penal constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "62607",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-01-11",
+        "descricao": "Votação da proposta apresentada pelo PCP de alteração do artigo 348.º-A (Falsas declarações) ao Código Penal constante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "62608",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "40",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
