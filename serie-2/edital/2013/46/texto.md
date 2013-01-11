@@ -1,0 +1,5 @@
+Edital n.º 46/2013
+Dário Figueiredo Acúrcio, presidente da Junta de Freguesia de Bom Sucesso, Município de Figueira da Foz, torna público, nos termos e para os efeitos previstos nos artigos 117.º e 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto -Lei n.º 442/91, de 15 de novembro, com as alterações introduzidas pelo Decreto-Lei n.º 6/96, de 31 de janeiro, que, cumprido o prazo de apreciação pública para recolha de sugestões, e não tendo havido sugestões ou alterações a efetuar ao Projeto de Regulamento de Inventário e Cadastro do Património da Junta Freguesia de Bom Sucesso, publicado através do anúncio n.º 13721/2012", foi o mesmo aprovado na integra pelo executivo em reunião de 7 de novembro de 2012 e homologado pela Assembleia de Freguesia realizada em 21 de dezembro de 2012.
+O Regulamento entra em vigor no dia após esta publicação no Diário da República, sendo afixado na secretária desta Freguesia onde poderá ser consultado no horário normal de expediente e no site www.freguesiabomsucesso.pt.
+3 de janeiro de 2013. - O Presidente da Junta de Freguesia de Bom Sucesso, Dário Figueiredo Acúrcio.
+306648484
