@@ -1,0 +1,207 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "125",
+    "id": "37438",
+    "titulo": "Aprova os Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-01-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "30317",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-01-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-01-11",
+        "DatafimApreciacaoPublica": "2013-02-25",
+        "DatainicioApreciacaoPublica": "2013-01-26",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-04-24",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Comentários da CNADS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3245314e7a557a4d4759744d325a68595330304e6a59784c5745354e6a6b74597a41354e5749784e545268593245794c6c424552673d3d&fich=3a57530f-3faa-4661-a969-c095b154aca2.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer AEPSA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a4130596d51784d4451744e5467344e4330304e6d4d304c574a6c4e3249744e474a6d59325a6b597a6c6b4f44646b4c6e426b5a673d3d&fich=b04bd104-5884-46c4-be7b-4bfcfdc9d87d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-26",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 11ª CAOTPL e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54686b593251324d3249744e32566d4f5330305a5751784c574a6c4f5441745932526c597a417a5a474534593245334c6e426b5a673d3d&fich=58dcd63b-7ef9-4ed1-be90-cdec03da8ca7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a55345a4745324d5445744e7a5a6d4e4330304e6a55774c546b34596a55744d474e6b595749305a5451305a5749774c6e426b5a673d3d&fich=f58da611-76f4-4650-98b5-0cdab4e44eb0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-01-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d474d325a6a63304e7a59744d7a41794e7930304d6d597a4c546b334e6a67744d7a4a6d4d5449775a6d4e6b5a54457a4c6e426b5a673d3d&fich=0c6f7476-3027-42f3-9768-32f120fcde13.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d5130596d4531595449744e444d314f4330304e7a41324c5467314e4751744d5452685a6d4d784e7a4d794d7a45344c6c524a52673d3d&fich=fd4ba5a2-4358-4706-854d-14afc1732318.TIF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d49334d7a46684d6a6b745a6a5a6c595330304d6a51784c5467344e7a4d744e6a67344d4449784e54466a4f4442684c6e426b5a673d3d&fich=6b731a29-f6ea-4241-8873-68802151c80a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da UGT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d51334f44417a5a475574596a6c6a4f43303059544d314c5749774f574d74595467784e6d55324d4749315a574a6b4c6e426b5a673d3d&fich=fd7803de-b9c8-4a35-b09c-a816e60b5ebd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593245344e446379597a49744d446b784d7930304e6a68694c574a684d7a51744d7a59344e7a63304d324d324d44566c4c6e426b5a673d3d&fich=ca8472c2-0913-468b-ba34-3687743c605e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "14-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-02-26",
+            "pubLeg": "XII",
+            "pubNr": "88",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/088/2013-02-26/14?pgs=14-25&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "14-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-02-26",
+            "pubLeg": "XII",
+            "pubNr": "88",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/088/2013-02-26/14?pgs=14-25&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2264",
+            "motivoCessacao": null,
+            "nome": "Pedro Farmhouse"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-02-25",
+            "dataRemessa": "2013-02-26",
+            "numeroOficio": "28/11ª-CAOTPL",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2013-02-26",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "63051",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "99",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-01-11",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288372",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
