@@ -8,7 +8,7 @@
 
 a) De segunda-feira a sexta-feira, das 10 às 13 horas e das 15 às 19 horas;
 
-b) Ao sábado, das 10 às 13 horas.
+b) [Revogada].
 
 3 - O período de funcionamento semanal das farmácias de oficina em turno de regime de disponibilidade tem o limite mínimo de 40 horas, distribuído pelos períodos diurnos de todos os dias da semana, exceto o domingo.
 
@@ -16,4 +16,4 @@ b) Ao sábado, das 10 às 13 horas.
 
 a) De segunda-feira a sexta-feira, das 10 às 12 horas e 30 minutos e das 15 às 18 horas e 30 minutos;
 
-b) Ao sábado, das 10 às 12 horas e 30 minutos.
+b) [Revogada].
