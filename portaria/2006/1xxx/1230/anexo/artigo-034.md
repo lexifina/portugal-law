@@ -6,14 +6,12 @@
 
 a) Na modalidade de apoio anual e no ano seguinte ao da candidatura:
 
-i) 30 % até 31 de Maio;
+i) 60 % do valor total, numa primeira tranche, entre até 30 de Maio;
 
-ii) 30 % até 30 de Setembro;
-
-iii) 40 %, até 31 de Dezembro e após a entrega do relatório intercalar, em formato a disponibilizar pelo IPJ;
+ii) 40% do valor total numa segunda tranche até 31 de dezembro, após entrega do relatório intercalar, em formato a disponibilizar pelo IPDJ, I. P..
 
 b) Na modalidade de apoio pontual:
 
-i) 100%, 30 dias antes do início da actividade aprovada.
+i) 100% da verba de apoio aprovada, a transferir até 20 dias depois da comunicação da aprovação do projeto.
 
 2 - As associações beneficiárias devem publicitar, de forma visível, o apoio concedido pelo IPJ.

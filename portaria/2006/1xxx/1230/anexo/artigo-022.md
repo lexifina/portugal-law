@@ -6,14 +6,8 @@
 
 a) Na modalidade de apoio anual:
 
-i) 70% do valor total, de uma única vez, entre 15 de Abril e 30 de Maio do ano seguinte ao da candidatura;
+i) 60 % do valor total do apoio, numa primeira tranche, entre 15 e 30 de julho do ano seguinte ao da candidatura;
 
-ii) Os restantes 30% 15 dias após entrega do relatório intercalar, em formato a disponibilizar pelo IPJ;
-
-b) Na modalidade de apoio bienal:
-
-i) 50% do valor total, de uma única vez, entre 15 de Abril e 30 de Maio, no 1.º ano de execução de candidatura;
-
-ii) 50% do valor total, de uma única vez, entre 15 de Abril e 30 de Maio, no 2.º ano de execução de candidatura e após entrega do relatório intercalar.
+ii) Os restantes 40 %, em segunda tranche, a transferir até 15 de novembro, do ano seguinte ao da candidatura, após entrega do relatório intercalar, em formato a disponibilizar pelo IPDJ, I. P..
 
 2 - As associações beneficiárias devem publicitar, de forma visível, o apoio concedido pelo IPJ.

@@ -6,15 +6,11 @@
 
 a) Na modalidade de apoio anual e no ano seguinte ao da candidatura:
 
-i) Elaborar e entregar obrigatoriamente um relatório intercalar até 15 de Novembro do ano de execução da candidatura, em formato a disponibilizar pelo IPJ;
+i)Elaborar e entregar obrigatoriamente um relatório intercalar até 15 de novembro do ano de execução da candidatura, em formato a disponibilizar pelo IPDJ, I. P.;
 
-ii) 30 % até 30 de Setembro;
+ii) Elaborar e entregar obrigatoriamente um relatório final, em formato a disponibilizar pelo IPDJ, I. P., até 1 de março do ano seguinte ao de execução da candidatura, contendo elementos quantitativos e qualitativos sobre as atividades desenvolvidas e a aplicação do apoio atribuído, o qual deve ser acompanhado de um relatório e contas do ano económico em causa, bem como conter os documentos comprovativos das despesas efetuadas, certificado, quando houver contabilidade organizada, por um TOC, e validado em Assembleia-geral, mediante apresentação da respectiva ata;
 
-iii) Substituir, excepcionalmente, o relatório intercalar pelo relatório final, a entregar até 15 de Novembro, sempre que a conclusão do projecto se verifique até 1 de Novembro;
-
-b) Na modalidade de apoio pontual:
-
-i) Elaborar e entregar obrigatoriamente um relatório final, em formato a disponibilizar pelo IPJ, até 60 dias após o término da actividade, contendo elementos quantitativos e qualitativos quanto às actividades desenvolvidas e aplicação do subsídio atribuído, acompanhado dos documentos comprovativos das despesas.
+iii)Substituir, excecionalmente, o relatório intercalar, por um relatório final, a entregar até 15 de novembro, sempre que o projeto for concluído até 1 de novembro.
 
 2 - Os documentos comprovativos de despesa, legalmente aceites, são os correspondentes aos que figuram nos Códigos do IVA e das Sociedades Comerciais, de acordo com as normas fiscais e contabilísticas em vigor.
 
