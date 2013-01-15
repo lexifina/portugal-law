@@ -4,4 +4,4 @@
 
 1 - O titular de cargo político ou de alto cargo público que no exercício das suas funções ou por causa delas, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para a prática de um qualquer acto ou omissão contrários aos deveres do cargo, ainda que anteriores àquela solicitação ou aceitação, é punido com pena de prisão de 2 a 8 anos.
 
-2 - Se o acto ou omissão não forem contrários aos deveres do cargo e vantagem não lhe for devida, o titular de cargo político é punido com pena de prisão de 2 a 5 anos.
+2 - Se o ato ou omissão não forem contrários aos deveres do cargo e vantagem não lhe for devida, o titular de cargo político ou de alto cargo público é punido com pena de prisão de 2 a 5 anos.
