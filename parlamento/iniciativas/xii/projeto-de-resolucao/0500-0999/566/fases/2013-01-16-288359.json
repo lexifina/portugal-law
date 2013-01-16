@@ -1,0 +1,761 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "566",
+    "id": "37440",
+    "titulo": "Recomenda ao Governo a salvaguarda da qualidade e diversidade da produção e informação do Centro de Produção da RTP no Porto, nomeadamente no que concerne ao seu importante papel junto das regiões, bem como a manutenção do atual número de conteúdos programáticos especialmente direcionados para a promoção de entidades e projetos de âmbito local e regional a emitir em sinal aberto"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-01-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9153",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-01-16",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37410",
+        "leg": "XII",
+        "nr": "549",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Exige a manutenção da produção de informação e de programas no centro de produção da RTP-Porto.."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37422",
+        "leg": "XII",
+        "nr": "554",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que não limite ou não restrinja o centro de produção da RTP Norte."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37435",
+        "leg": "XII",
+        "nr": "564",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que mantenha e reforce a utilização do Centro de Produção do Porto da RTP, assegurando os postos de trabalho."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37447",
+        "leg": "XII",
+        "nr": "572",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1713",
+            "obs": null,
+            "pag": [
+              "49-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-17",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a manutenção da Produção de Informação e de Programas do Centro de Produção da RTP no Porto."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-01-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:11:24:539&drc=00:03:51:094"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:38:28:548&drc=00:01:06:921"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187370",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-50,56&org=PLC"
+              }
+            ],
+            "sumario": "Projetos de resolução n.os 549/XII (2.ª) - Exige a manutenção da produção de informação e de programas no centro de produção da RTP-Porto (BE), 554/XII (2.ª) - Recomenda ao Governo que não limite ou não restrinja o centro de produção da RTP Norte (PSD e CDS-PP), 564/XII (2.ª) - Recomenda ao Governo que mantenha e reforce a utilização do Centro de Produção do Porto da RTP, assegurando os postos de trabalho (PCP), 566/XII (2.ª) - Recomenda ao Governo a salvaguarda da qualidade e diversidade da produção e informação do Centro de Produção da RTP no Porto, nomeadamente no que concerne ao seu importante papel junto das regiões, bem como a manutenção do atual número de conteúdos programáticos especialmente direcionados para a promoção de entidades e projetos de âmbito local e regional a emitir em sinal aberto (PS), e 572/XII (2.ª) - Recomenda ao Governo a manutenção da produção de informação e de programas do Centro de Produção da RTP no Porto (Os Verdes).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4392",
+                "nome": "Paulo Rios de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:15:29:516&drc=00:04:40:192"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187371",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Projetos de resolução n.os 549/XII (2.ª) - Exige a manutenção da produção de informação e de programas no centro de produção da RTP-Porto (BE), 554/XII (2.ª) - Recomenda ao Governo que não limite ou não restrinja o centro de produção da RTP Norte (PSD e CDS-PP), 564/XII (2.ª) - Recomenda ao Governo que mantenha e reforce a utilização do Centro de Produção do Porto da RTP, assegurando os postos de trabalho (PCP), 566/XII (2.ª) - Recomenda ao Governo a salvaguarda da qualidade e diversidade da produção e informação do Centro de Produção da RTP no Porto, nomeadamente no que concerne ao seu importante papel junto das regiões, bem como a manutenção do atual número de conteúdos programáticos especialmente direcionados para a promoção de entidades e projetos de âmbito local e regional a emitir em sinal aberto (PS), e 572/XII (2.ª) - Recomenda ao Governo a manutenção da produção de informação e de programas do Centro de Produção da RTP no Porto (Os Verdes).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4403",
+                "nome": "Vera Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:20:20:211&drc=00:04:53:911"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187372",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/51?pgs=51-53&org=PLC"
+              }
+            ],
+            "sumario": "Projetos de resolução n.os 549/XII (2.ª) - Exige a manutenção da produção de informação e de programas no centro de produção da RTP-Porto (BE), 554/XII (2.ª) - Recomenda ao Governo que não limite ou não restrinja o centro de produção da RTP Norte (PSD e CDS-PP), 564/XII (2.ª) - Recomenda ao Governo que mantenha e reforce a utilização do Centro de Produção do Porto da RTP, assegurando os postos de trabalho (PCP), 566/XII (2.ª) - Recomenda ao Governo a salvaguarda da qualidade e diversidade da produção e informação do Centro de Produção da RTP no Porto, nomeadamente no que concerne ao seu importante papel junto das regiões, bem como a manutenção do atual número de conteúdos programáticos especialmente direcionados para a promoção de entidades e projetos de âmbito local e regional a emitir em sinal aberto (PS), e 572/XII (2.ª) - Recomenda ao Governo a manutenção da produção de informação e de programas do Centro de Produção da RTP no Porto (Os Verdes).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:25:21:242&drc=00:04:09:895"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187373",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Projetos de resolução n.os 549/XII (2.ª) - Exige a manutenção da produção de informação e de programas no centro de produção da RTP-Porto (BE), 554/XII (2.ª) - Recomenda ao Governo que não limite ou não restrinja o centro de produção da RTP Norte (PSD e CDS-PP), 564/XII (2.ª) - Recomenda ao Governo que mantenha e reforce a utilização do Centro de Produção do Porto da RTP, assegurando os postos de trabalho (PCP), 566/XII (2.ª) - Recomenda ao Governo a salvaguarda da qualidade e diversidade da produção e informação do Centro de Produção da RTP no Porto, nomeadamente no que concerne ao seu importante papel junto das regiões, bem como a manutenção do atual número de conteúdos programáticos especialmente direcionados para a promoção de entidades e projetos de âmbito local e regional a emitir em sinal aberto (PS), e 572/XII (2.ª) - Recomenda ao Governo a manutenção da produção de informação e de programas do Centro de Produção da RTP no Porto (Os Verdes).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "487",
+                "nome": "Fernando Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:29:36:095&drc=00:01:44:078"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187374",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Projetos de resolução n.os 549/XII (2.ª) - Exige a manutenção da produção de informação e de programas no centro de produção da RTP-Porto (BE), 554/XII (2.ª) - Recomenda ao Governo que não limite ou não restrinja o centro de produção da RTP Norte (PSD e CDS-PP), 564/XII (2.ª) - Recomenda ao Governo que mantenha e reforce a utilização do Centro de Produção do Porto da RTP, assegurando os postos de trabalho (PCP), 566/XII (2.ª) - Recomenda ao Governo a salvaguarda da qualidade e diversidade da produção e informação do Centro de Produção da RTP no Porto, nomeadamente no que concerne ao seu importante papel junto das regiões, bem como a manutenção do atual número de conteúdos programáticos especialmente direcionados para a promoção de entidades e projetos de âmbito local e regional a emitir em sinal aberto (PS), e 572/XII (2.ª) - Recomenda ao Governo a manutenção da produção de informação e de programas do Centro de Produção da RTP no Porto (Os Verdes).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2098",
+                "nome": "Manuel Pizarro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130116pln&url=l12/sl2/a2013/m01/&tI=03:35:33:674&drc=00:02:49:936"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "187375",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Projetos de resolução n.os 549/XII (2.ª) - Exige a manutenção da produção de informação e de programas no centro de produção da RTP-Porto (BE), 554/XII (2.ª) - Recomenda ao Governo que não limite ou não restrinja o centro de produção da RTP Norte (PSD e CDS-PP), 564/XII (2.ª) - Recomenda ao Governo que mantenha e reforce a utilização do Centro de Produção do Porto da RTP, assegurando os postos de trabalho (PCP), 566/XII (2.ª) - Recomenda ao Governo a salvaguarda da qualidade e diversidade da produção e informação do Centro de Produção da RTP no Porto, nomeadamente no que concerne ao seu importante papel junto das regiões, bem como a manutenção do atual número de conteúdos programáticos especialmente direcionados para a promoção de entidades e projetos de âmbito local e regional a emitir em sinal aberto (PS), e 572/XII (2.ª) - Recomenda ao Governo a manutenção da produção de informação e de programas do Centro de Produção da RTP no Porto (Os Verdes).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288359",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "615060",
+        "obs": null,
+        "pag": [
+          "49-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-01-17",
+        "pubLeg": "XII",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/041/2013-01-17/49?pgs=49-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
