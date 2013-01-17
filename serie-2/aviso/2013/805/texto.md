@@ -1,0 +1,5 @@
+Aviso n.º 805/2013
+Luís Manuel Barbosa Marques Leal, Dr., Presidente da Câmara Municipal de Montemor-o-Velho, torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/2002, de 11 de setembro e nos termos e para os efeitos do disposto no artigo 91.º da referida lei, que a Assembleia Municipal, em sessão ordinária de 20 de dezembro de 2012, sob proposta da Câmara Municipal, aprovada em reunião de 03 de dezembro de 2012 deliberou, por unanimidade, aprovar o Regulamento de Atribuição de Bolsas de Estudo do Concelho de Montemor-o-Velho.
+Mais faz saber que o mencionado Regulamento, de acordo com o disposto no seu artigo 13.º, entra em vigor no primeiro dia útil, subsequente à sua aprovação pela Assembleia Municipal e ainda que o texto integral se encontra disponível nos serviços e no sítio do Município (www.cm-montemorvelho.pt).
+4 de janeiro de 2013. - O Presidente da Câmara Municipal, Luís Manuel Barbosa Marques Leal, Dr.
+306656113
