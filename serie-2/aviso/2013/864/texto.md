@@ -1,0 +1,7 @@
+Aviso n.º 864/2013
+Período de discussão pública na 2.ª série do Diário da República
+Aires António Fagundes Reis, Presidente da Câmara Municipal da Calheta, torna público que esta Autarquia deliberou, na reunião ordinária de 20 de dezembro de 2012, proceder à abertura de um período de discussão pública da Alteração do Plano Diretor Municipal, de acordo com o artigo 92.º do Decreto Legislativo Regional n.º 35/2012/A, de 16 de agosto.
+Mais se informa que o período de discussão pública é de 30 dias seguidos, a contar do quinto dia útil da publicação do presente aviso na 2.ª série do Diário da República, podendo todos os cidadãos interessados consultar a proposta de alteração do Plano Diretor Municipal da Calheta, a ata da conferência de serviços, e demais pareceres emitidos pelas entidades envolvidas, na página da internet desta autarquia (www.cm-calheta.pt), bem como nos Paços do Concelho, nos Serviços Técnicos Municipais, e na sede da Junta de Freguesia de Santo Antão, durante as horas de expediente.
+Os cidadãos interessados poderão apresentar as suas participações, reclamações, observações ou sugestões, sobre o conteúdo da proposta e documentos anexos, por escrito, dirigidas ao Presidente da Câmara Municipal da Calheta, por correio eletrónico (geral@cm-calheta.pt), por carta, ou entregues pessoalmente, na Câmara Municipal da Calheta - Rua 25 de abril, 9850-032 Calheta, ou nos Serviços Técnicos Municipais - Rua Nova, 9850-042 Calheta.
+10 de janeiro de 2013. - O Presidente, Aires António Fagundes Reis.
+206670223
