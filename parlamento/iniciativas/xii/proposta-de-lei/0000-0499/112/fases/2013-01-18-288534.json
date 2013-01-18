@@ -1,0 +1,232 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "112",
+    "id": "37366",
+    "titulo": "Estabelece o regime jurídico das áreas regionais de turismo de Portugal continental, a sua delimitação e características, bem como o regime jurídico da organização e funcionamento das Entidades Regionais de Turismo."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-01-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "30376",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-01-29",
+            "id": "94417",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-01-29",
+            "id": "94413",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-02-26",
+            "id": "94679",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-02-26",
+            "id": "94678",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-02-26",
+            "id": "94677",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-02-27",
+            "id": "94682",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-02-27",
+            "id": "94680",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2013-03-06",
+            "id": "94705",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-03-06",
+            "id": "94704",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-01-23",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-01-18",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-03-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a646b593255335a4451745a546c69595330304e545a6c4c5467354d6a49744e7a55334d6d5a6d596a51314e5755304c6e426b5a673d3d&fich=27dce7d4-e9ba-456e-8922-7572ffb455e4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-03-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a5579593256684e7a45745a445a694e7930305a6a4d794c5749794e4455744f4463305a6d4669596a4e69595749304c6e426b5a673d3d&fich=252cea71-d6b7-4f32-b245-874fabb3bab4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-03-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f474e6d596d4d33593245744d44426a5a4330304d3249314c546c68595441744d5456685a54646c4e546c694e7a637a4c6e426b5a673d3d&fich=8cfbc7ca-00cd-43b5-9aa0-15ae7e59b773.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-03-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração PSD + CDS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f575a6c4d544d334e7a51744d7a56684d5330304e6a51774c5467314d6a45744d32466c5a6a466c4d54413259575a694c6e426b5a673d3d&fich=9fe13774-35a1-4640-8521-3aef1e106afb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-03-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração PSD + CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a4d784e325978597a63745a47517a4e5330304d5467304c546c6b4e7a59745a4442684e6a686c5a57466c4d4445794c6e426b5a673d3d&fich=7317f1c7-dd35-4184-9d76-d0a68eeae012.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-03-13",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade e Texto Final da 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a546b33596a6c6d4e5441745a5755314d693030596a51784c574977595755745a6d51774e6a4e6a4f47457a4f5467324c6e426b5a673d3d&fich=e97b9f50-ee52-4b41-b0ae-fd063c8a3986.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final da comissão, bem como propostas e alteração apresentadas pelo PSD/CDS-PP, PS, PCP e BE",
+            "pag": [
+              "19-99"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-03-14",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/099/2013-03-14/19?pgs=19-99&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final da comissão, bem como propostas e alteração apresentadas pelo PSD/CDS-PP, PS, PCP e BE",
+            "pag": [
+              "19-99"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-03-14",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/099/2013-03-14/19?pgs=19-99&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-03-08",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-03-08",
+            "dataRemessa": "2013-03-13",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-03-08",
+            "descricao": "Texto Final aprovado Artigo a Artigo - Ausência do PEV",
+            "detalhe": null,
+            "id": "63197",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "121",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-01-18",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288534",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
