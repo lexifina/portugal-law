@@ -1,0 +1,11 @@
+Declaração de Retificação n.º 4/2013
+Nos termos das disposições conjugadas da alínea r) do n.º 2 do artigo 2.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, declara-se que o Decreto-Lei n.º 248/2012, de 21 de novembro, publicado no Diário da República, n.º 225, 1.ª série, de 21 de novembro de 2012, saiu com as seguintes inexatidões que, mediante declaração da entidade emitente, assim se retificam:
+1- No artigo 2.º, na parte em que altera o artigo 5.º do Decreto-Lei n.º 247/2007, de 27 de junho, e bem assim no artigo 5.º do anexo que republica o referido diploma, onde se lê:
+«3 - Havendo no mesmo município um corpo de bombeiros profissional ou misto detido por município e um ou mais corpos de bombeiros voluntários ou misto detidos por associações humanitárias, a responsabilidade de atuação prioritária cabe ao corpo de bombeiros profissional ou, quando este não exista, ao corpo de bombeiros misto detido por município, sem prejuízo de eventual primeira intervenção de algum dos outros em benefício da rapidez e prontidão do socorro.»
+deve ler-se:
+«3 - Havendo no mesmo município um corpo de bombeiros profissional ou misto detido por município e um ou mais corpos de bombeiros voluntários ou mistos detidos por associações humanitárias, a responsabilidade de atuação prioritária cabe ao corpo de bombeiros profissional ou, quando este não exista, ao corpo de bombeiros misto detido por município, sem prejuízo de eventual primeira intervenção de algum dos outros em benefício da rapidez e prontidão do socorro.»
+2- No artigo 2.º, na parte em que altera o artigo 10.º do Decreto-Lei n.º 247/2007, de 27 de junho, e bem assim no artigo 10.º do anexo que republica o referido diploma, onde se lê:
+«2 - A estrutura do quadro de comando dos corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias de bombeiros têm a dotação máxima de cinco elementos.»
+deve ler-se:
+«2 - A estrutura do quadro de comando dos corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias de bombeiros tem a dotação máxima de cinco elementos.»
+Secretaria-Geral, 17 de janeiro de 2013. - Pelo Secretário-Geral, a Secretária-Geral-Adjunta, em substituição, Ana Palmira Antunes de Almeida.
