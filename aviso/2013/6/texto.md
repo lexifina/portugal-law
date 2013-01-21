@@ -1,0 +1,5 @@
+Aviso n.º 6/2013
+Por ordem superior se torna público que, em 20 de agosto de 2012, o Reino do Bahrein depositou, nos termos do artigo 15.º do Tratado de Budapeste sobre o Reconhecimento Internacional do Depósito de Microrganismos para efeitos do Procedimento em Matéria de Patentes, junto do Diretor-Geral da Organização Mundial de Propriedade Intelectual, o seu instrumento de adesão ao Tratado, concluído em Budapeste, em 28 de abril de 1977 e alterado em 26 de setembro de 1980.
+O Tratado entrou em vigor no Reino do Bahrein em 20 de novembro de 2012.
+Portugal é Parte do Tratado, aprovado para adesão, por Resolução da Assembleia da República n.º 32/97, ratificada por Decreto do Presidente da República n.º 29/97, ambos publicados em Diário da República, 1.ª Série A, n.º 115, de 19 de maio de 1997, tendo depositado o respetivo instrumento de ratificação em 16 de julho de 1997, conforme Aviso n.º 255/97, publicado em Diário da República, 1.ª série A, n.º 207, de 8 de setembro de 1997.
+Direção-Geral de Política Externa, 10 de dezembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
