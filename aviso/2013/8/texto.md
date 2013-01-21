@@ -1,0 +1,5 @@
+Aviso n.º 8/2013
+Por ordem superior se torna público que, em 29 de junho de 2012, a República Árabe Síria depositou, nos termos do n.º 2, do artigo 15.º do Protocolo referente ao Acordo de Madrid sobre o Registo Internacional de Marcas, junto do Diretor-Geral da Organização Mundial de Propriedade Industrial, na qualidade de depositário, o seu instrumento de denúncia ao Protocolo, concluído em Madrid, em 27 de junho de 1989.
+De acordo com n.º 3, do artigo 15.º do Protocolo, a denúncia da República Árabe Síria entrará em vigor no dia 29 de junho de 2013.
+Portugal é Parte do Protocolo, aprovado por Decreto n.º 31/98, publicado em Diário da República, 1.ª série A, n.º 248/96, de 25 de outubro de 1996, tendo Portugal depositado o respetivo instrumento de confirmação e ratificação em 20 de dezembro de 1996, conforme o Aviso n.º 23/97, publicado no Diário da República, 1ª série A, n.º 22/97, de 27 de janeiro de 1997.
+Direção-Geral de Política Externa, 10 de dezembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
