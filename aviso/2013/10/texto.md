@@ -1,0 +1,4 @@
+Aviso n.º 10/2013
+Por ordem superior se torna público que, em 4 de outubro de 2012, a República da Somália depositou, nos termos do Artigo XVIII da Convenção de Cooperação Aduaneira, junto do Governo do Reino da Bélgica, país depositário, o seu instrumento de adesão à Convenção Para a Criação de Um Conselho de Cooperação Aduaneira e Anexo, concluída em Bruxelas, no Reino da Bélgica, a 15 de dezembro de 1950.
+Portugal é Parte da Convenção aprovada, para ratificação, pelo Decreto 39006, publicado no Diário do Governo n.º 264, 1.ª série, de 24 de novembro de 1952, tendo depositado o respetivo instrumento de ratificação em 26 de janeiro de 1953, conforme Aviso publicado no Diário do Governo, n.º 137, 1.ª série, de 30 de junho de 1953.
+Direção-Geral de Política Externa, 10 de dezembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
