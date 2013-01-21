@@ -1,0 +1,5 @@
+Aviso n.º 3/2013
+Por ordem superior se torna público que, em 27 de setembro de 2012, o Governo da Malásia depositou, nos termos do artigo 25.º do Tratado da Organização Mundial da Propriedade Intelectual sobre Direitos de Autor, junto do Diretor-Geral da Organização Mundial de Propriedade Intelectual, na qualidade de depositário, o seu instrumento de adesão ao Tratado, concluído em Genebra, em 20 de dezembro de 1996.
+O Tratado entra em vigor na Malásia em 27 de dezembro de 2012.
+Portugal é Parte do Tratado, aprovado para adesão, pela Resolução da Assembleia da Republica n.º 53/2009, ratificada por Decreto do Presidente da República n.º 68/2009, ambos publicados em Diário da República, 1.ª Série, n.º 146, de 30 de julho, tendo Portugal depositado o respetivo instrumento de ratificação a 14 de dezembro de 2009, conforme Aviso n.º 14/2010, publicado em Diário da Republica, 1.ª Série, n.º 24, de 4 de fevereiro de 2010.
+Direção-Geral de Política Externa, 10 de dezembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
