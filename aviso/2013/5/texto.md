@@ -1,0 +1,5 @@
+Aviso n.º 5/2013
+Por ordem superior se torna público que, em 29 de abril de 2012, a República do Sudão do Sul depositou, nos termos do artigo 1.º, parágrafo 3, do Tratado de Paz entre as Potencias Aliadas e a Alemanha, junto do Diretor-Geral da Organização Internacional do Trabalho, o seu instrumento de aceitação formal das obrigações da Constituição da Organização Internacional do Trabalho, estabelecida pelo Tratado, assinado em Versailles, em 28 de junho de 1919.
+A Republica do Sudão do Sul tornou-se, assim, o 184.º Membro da Organização Internacional do Trabalho, em 29 de abril de 2012.
+Portugal é Membro da Organização, aprovado por Carta de Confirmação e Ratificação, publicada no Diário do Governo, 1.ª série, n.º 67, de 2 de abril de 1921, tendo Portugal depositado o respetivo instrumento de ratificação em 8 de abril de 1920, conforme Aviso publicado no Diário do Governo, 1.ª série, n.º 76, de 12 de abril de 1920.
+Direção-Geral de Política Externa, 10 de dezembro de 2012. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
