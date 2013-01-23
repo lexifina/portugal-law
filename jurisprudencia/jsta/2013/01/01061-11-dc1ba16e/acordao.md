@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2013-01-23, processo 01061/11
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01061/11
+
+**Data do Acordão:** 01/23/2013
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** CASIMIRO GONÇALVES
+
+**Descritores:** SISA; ISENÇÃO; REVENDA; CONTRATO PROMESSA
+
+**Nº Convencional:** JSTA00068064
+
+**Nº do Documento:** SAP2013012301061
+
+**Data de Entrada:** 09/19/2012
+
+**Recorrente:** FAZENDA PÚBLICA E MINISTÉRIO PÚBLICO
+
+**Recorrido 1:** A..., S.A.
+
+**Votação:** MAIORIA COM 1 DEC VOT E 1 VOT VENC
+
+**Meio Processual:** REC OPOS JULGADOS
+
+**Objecto:** AC STA
+
+**Decisão:** PROVIDO
+
+**Área Temática 1:** DIR PROC TRIBUT CONT; DIR FISC - SISA
+
+**Legislação Nacional:** CIMSISD91 ART11 N3 ART13-A ART16 ART2 N2; CIMT03 ART2 N2; LGT98 ART11 N2 N3; CCIV66 ART11
+
+**Jurisprudência Nacional:** AC STA PROC015334 DE 1993/10/13.; AC STA PROC016201 DE 1970/11/04; AC STA PROC0957/11 DE 2012/11/21; AC STA PROC0303/11 DE 2011/11/16; AC STA PROC0234/09 DE 2009/05/13; AC STA PROC0924/09 DE 2010/04/21
+
+**Referência a Doutrina:** SOARES MARTINEZ DIREITO FISCAL 7ED PAG67; FERNANDES PIRES LIÇÕES DE IMPOSTOS SOBRE O PATRIMÓNIO E DO SELO PAG263/266 PAG422/424.; SÁ GOMES CADUCIDADE DE ISENÇÃO DE SISA PARECER N119/05 CTF380 PAG488.; SILVÉRIO MATEUS E CORVELO DE FREITAS OS IMPOSTOS SOBRE O PATRIMÓNIO O IMPOSTO DO SELO ANOTADOS E COMENTADOS 2005 PAG385/386.; SALDANHA SANCHES MANUAL DE DIREITO FISCAL 3ED PAG133.; PINTO FERNANDES CARDOSO DOS SANTOS CÓDIGO DE SISA E DO IMPOSTO SOBRE AS SUCESSÕES E DOAÇÕES ED IMPRENSA NACIONAL I PAG371.; CASALTA NABAIS DIREITO FISCAL 5ED PAG215/216.; LEITE DE CAMPOS BENJAMIM RODRIGUES JORGE DE SOUSA LEI GERAL TRIBUTÁRIA ANOTADA E COMENTADA 4ED PAG121/122.
+
+## Sumário
+
+A celebração de contrato promessa de compra e venda de imóvel no período de três anos subsequente à aquisição para revenda, ainda que acompanhado da tradição do bem, não obsta à caducidade da isenção da sisa, a qual apenas subsiste com a celebração do contrato de compra e venda.
