@@ -1,0 +1,5 @@
+Aviso n.º 14/2013
+Por ordem superior se torna público que, em 20 de novembro de 2012, a República da Colômbia depositou, nos termos do artigo 14.º da Convenção sobre a Luta contra a Corrupção de Agentes Públicos Estrangeiros nas Transacções Comerciais Internacionais, junto do Secretário-Geral da Organização para a Cooperação e Desenvolvimento Económico, na qualidade de depositário, o seu instrumento de adesão à Convenção, concluída em Paris, em 17 de dezembro de 1997.
+A Convenção entrará em vigor na República da Colômbia em 19 de janeiro de 2013.
+Portugal é Parte da Convenção, aprovada para ratificação pela Resolução da Assembleia da Republica n.º 32/2000, ratificada por Decreto do Presidente da República n.º 19/2000, ambos publicados em Diário da República, 1.ª série A, n.º 77, de 31 de março de 2000, tendo depositado o respetivo instrumento de ratificação em 21 de novembro de 2000, conforme Aviso n.º 253/2000, publicado em Diário da República, 1.ª série A, n.º 293, de 21 de dezembro de 2010.
+Direção-Geral de Política Externa, 4 de janeiro de 2013. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
