@@ -1,0 +1,430 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "331",
+    "id": "37458",
+    "titulo": "Combate a precariedade laboral e reforça a protecção dos trabalhadores na contratação a termo."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-01-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9186",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-01-24",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37229",
+        "leg": "XII",
+        "nr": "285",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1718",
+            "obs": null,
+            "pag": [
+              "45-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-25",
+            "pubLeg": "XII",
+            "pubNr": "45",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/45?pgs=45-52&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Clarifica os contratos a prazo, protegendo os trabalhadores quarta alteração à Lei n.º 7/2009, de 12 fevereiro, que aprova a revisão do Código do Trabalho."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-01-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=02:43:53:119&drc=00:02:51:880"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=03:03:26:715&drc=00:02:20:762"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45",
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-25",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/45?pgs=45,50-51&org=PLC"
+              }
+            ],
+            "sumario": "Clarifica os contratos a prazo, protegendo os trabalhadores (Quarta alteração à Lei n.º 7/2009, de 12 fevereiro, que aprova a revisão do Código do Trabalho); Combate a precariedade laboral e reforça a proteção dos trabalhadores na contratação a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=02:46:49:926&drc=00:03:05:807"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=03:05:56:057&drc=00:01:53:752"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46",
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-25",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/45?pgs=45-46,51-52&org=PLC"
+              }
+            ],
+            "sumario": "Clarifica os contratos a prazo, protegendo os trabalhadores (Quarta alteração à Lei n.º 7/2009, de 12 fevereiro, que aprova a revisão do Código do Trabalho); Combate a precariedade laboral e reforça a proteção dos trabalhadores na contratação a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=02:50:03:106&drc=00:03:13:209"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-25",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Clarifica os contratos a prazo, protegendo os trabalhadores (Quarta alteração à Lei n.º 7/2009, de 12 fevereiro, que aprova a revisão do Código do Trabalho); Combate a precariedade laboral e reforça a proteção dos trabalhadores na contratação a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=02:53:27:391&drc=00:03:14:114"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-25",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Clarifica os contratos a prazo, protegendo os trabalhadores (Quarta alteração à Lei n.º 7/2009, de 12 fevereiro, que aprova a revisão do Código do Trabalho); Combate a precariedade laboral e reforça a proteção dos trabalhadores na contratação a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=02:56:45:746&drc=00:03:52:911"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-25",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Clarifica os contratos a prazo, protegendo os trabalhadores (Quarta alteração à Lei n.º 7/2009, de 12 fevereiro, que aprova a revisão do Código do Trabalho); Combate a precariedade laboral e reforça a proteção dos trabalhadores na contratação a termo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "456",
+                "nome": "João Paulo Pedrosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:22",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=03:00:46:172&drc=00:02:32:421"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130124pln&url=l12/sl2/a2013/m01/&tI=03:07:58:022&drc=00:00:43:938"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50",
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-25",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/50?pgs=50,52&org=PLC"
+              }
+            ],
+            "sumario": "Clarifica os contratos a prazo, protegendo os trabalhadores (Quarta alteração à Lei n.º 7/2009, de 12 fevereiro, que aprova a revisão do Código do Trabalho); Combate a precariedade laboral e reforça a proteção dos trabalhadores na contratação a termo.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288581",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "620414",
+        "obs": null,
+        "pag": [
+          "45-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-01-25",
+        "pubLeg": "XII",
+        "pubNr": "45",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/045/2013-01-25/45?pgs=45-52&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
