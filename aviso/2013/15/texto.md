@@ -1,0 +1,15 @@
+Aviso n.º 15/2013
+Por ordem superior se torna público que de acordo com o Artigo 38, parágrafo 2 da Convenção Penal sobre a Corrupção, aberta à assinatura em Estrasburgo, a 27 de janeiro de 1999, o Reino Unido declarou, junto do Secretário-Geral do Conselho da Europa, a 12 de dezembro de 2012, que mantém as reservas emitidas de acordo com o artigo 37 relativas aos artigos 12 e 17 parágrafo 1.c da Convenção e que modifica a reserva relativa ao artigo 17 parágrafo 1.b da Convenção.
+Reservas
+Tradução
+«De acordo com o Artigo 12, o âmbito de aplicação da conduta prevista neste artigo não é penalmente punido na sua totalidade no Reino Unido.
+Assim, de acordo com o Artigo 38, parágrafo 2 , o Reino Unido renova as reservas emitidas nos termos do artigo 37, parágrafo 1, e reserva-se o direito de não considerar infrações penais todas as condutas referidas no Artigo 12
+Quanto ao Artigo 17 da Convenção, a secção 12 da lei de 2010 relativa à corrupção (Bribery Act 2010) estabelece a competência de jurisdição dos tribunais do Reino Unido sobre os delitos previstos na secção 1, 2 e 6, cometidos fora do Reino Unido por pessoas com uma estreita ligação com o Reino Unido.
+Considera-se que têm uma estreita ligação com ao Reino Unido as pessoas que tenham a nacionalidade britânica nas suas várias formas, tal como estabelecido na secção 12 e também outras pessoas que tenham residência habitual no Reino Unido.
+O Reino Unido aplica, portanto, a regra de competência jurisdicional prevista no artigo 17, paragrapo1.b da Convenção, mas esta jurisdição é limitada aos funcionários públicos ou membros de assembleias públicas nacionais que sejam nacionais do Reino Unido ou aí habitualmente residentes.
+Assim, o Reino Unido altera a declaração formulada nos termos do artigo 17, parágrafo 2, de modo a reservar-se o direito de aplicar a regra de competência estabelecida no parágrafo 1.b apenas quando o ofensor seja nacional do Reino Unido ou seja outra pessoa com residência habitual no Reino Unido.
+A alteração legislativa verificada pela secção 12 da lei de 2010 relativa à corrupção não tem qualquer incidência sobre a reserva referente ao artigo 17, parágrafo 1.c.
+Assim, o Reino Unido mantém a declaração formulada nos termos do artigo 17,parágrafo 2 reserva-se o direito de não aplicar a regra de competência estabelecida no parágrafo 1.c. »
+Portugal é Parte nesta Convenção, aprovada para ratificação pela Resolução da Assembleia da República n.º 68/2001, publicada no Diário da República nº 249, I Série A, de 26 de outubro de 2001 e ratificada pelo Decreto do Presidente da República nº 56/2001, publicado no Diário da República nº 249, I Série-A, de 26 de outubro, tendo depositado o seu instrumento de ratificação a 7 de maio de 2002, conforme o Aviso nº 60/2002, publicado no Diário da República nº 150, I Série-A, de 2 de julho de 2002.
+A Convenção entrou em vigor na ordem jurídica Portuguesa a 1 de setembro de 2002.
+Direção-Geral de Política Externa, 8 de janeiro de 2013. - O Subdiretor-Geral, Rui Manuel Vinhas Tavares Gabriel.
