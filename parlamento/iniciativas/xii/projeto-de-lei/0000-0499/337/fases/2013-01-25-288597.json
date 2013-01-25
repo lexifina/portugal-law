@@ -1,0 +1,1282 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "337",
+    "id": "37464",
+    "titulo": "Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-01-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9194",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-01-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37227",
+        "leg": "XII",
+        "nr": "284",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37335",
+        "leg": "XII",
+        "nr": "315",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37334",
+        "leg": "XII",
+        "nr": "316",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Criminaliza o recurso aos \"falsos recibos verdes\"."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37455",
+        "leg": "XII",
+        "nr": "578",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pelo relançamento do emprego e por boas práticas de contratação laboral."
+      },
+      {
+        "autor": "Cidadãos",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "36683",
+        "leg": "XII",
+        "nr": "142",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1720",
+            "obs": null,
+            "pag": [
+              "22-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-01-26",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei contra a precariedade."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-01-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:10:01:072&drc=00:04:56:846"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:15:10:555&drc=00:06:20:420"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:24:51:359&drc=00:01:34:082"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:49:35:780&drc=00:02:01:867"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:06:59:579&drc=00:00:42:405"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-36",
+                  "33-33",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/23?pgs=23-36,33,37&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "26",
+                "nome": "Arménio Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:21:54:313&drc=00:02:48:796"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:26:39:319&drc=00:05:41:565"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:34:30:475&drc=00:01:09:637"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/26?pgs=26-29&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:32:29:786&drc=00:01:53:310"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:35:52:092&drc=00:03:47:445"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:39:50:731&drc=00:03:37:443"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4319",
+                "nome": "Mário Ruivo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:43:35:673&drc=00:05:51:819"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4064",
+                "nome": "Inês de Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:51:51:469&drc=00:04:29:543"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188118",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1801",
+                "nome": "Raúl de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=01:56:28:828&drc=00:04:13:631"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:00:50:567&drc=00:03:50:685"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130125pln&url=l12/sl2/a2013/m01/&tI=02:04:49:423&drc=00:02:00:592"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-01-26",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Lei contra a precariedade; Combate os falsos recibos verdes e desenvolve os poderes da autoridade para as condições do trabalho; Combate os \"falsos recibos verdes\" convertendo-se em contratos efectivos; Criminaliza o recurso aos \"falsos recibos verdes\"; Restringe o recurso a trabalho temporário e combate o falso trabalho temporário (quinta alteração à Lei n.º 7/2009, de 12 de fevereiro); Pelo relançamento do emprego e por boas práticas de contratação laboral.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "288597",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "620429",
+        "obs": null,
+        "pag": [
+          "22-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-01-26",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/046/2013-01-26/22?pgs=22-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
