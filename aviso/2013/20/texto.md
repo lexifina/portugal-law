@@ -1,0 +1,8 @@
+Aviso n.º 20/2013
+Por ordem superior se torna público que, em 19 de novembro de 2012, o Governo dos Estados-Unidos do México depositou, nos termos do n.º 2, do artigo 15.º do Protocolo referente ao Acordo de Madrid sobre o Registo Internacional de Marcas, junto do Diretor-Geral da Organização Mundial de Propriedade Industrial, na qualidade de depositário, o seu instrumento de adesão ao Protocolo, concluído em Madrid, em 27 de junho de 1989, modificado em 3 de outubro de 2006 e em 12 de novembro de 2007.
+O instrumento de adesão é acompanhado pelas seguintes declarações:
+a. Conforme o artigo 5.2 d) do Protocolo e em aplicação do artigo 5.2 b), o prazo previsto na alínea a) do artigo 5.º do Protocolo para exercício do direito de declarar uma notificação de recusa de proteção é substituído por 18 meses;
+b. Conforme o artigo 8.7 a) do Protocolo, os Estados-Unidos do México, a respeito de cada registo internacional no qual seja mencionado, nos termos do artigo 3-ter do Protocolo, assim como a respeito da renovação de tal registo, pretende receber uma taxa individual em lugar das taxas suplementares e dos seus complementos.
+O Protocolo entrará em vigor nos Estados-Unidos do México em 19 de fevereiro de 2013.
+Portugal é Parte do Protocolo, aprovado para ratificação pelo Decreto n.º 31/96, publicado em Diário da República, 1.ª série A, n.º 248, de 25 de outubro de 1996, tendo depositado o respetivo instrumento de confirmação e ratificação em 20 de dezembro de 1996, conforme o Aviso n.º 23/97, publicado no Diário da República, 1ª série A, n.º 22, de 27 de janeiro de 1997.
+Direção-Geral de Política Externa, 4 de janeiro de 2013. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
