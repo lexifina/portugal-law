@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 1336/2013
+Para os devidos efeitos, torna-se público que, por meu despacho de 7 de janeiro de 2013, ao abrigo do disposto na alínea a) do n.º 2 do art.º 68.º da Lei n.º 169/99, de 18 de setembro, alterada e republicada pela Lei n.º 5-A/2002, de 11 de janeiro, conjugado com o art.º 8.º e n.º 3 do art.º 10.º do Decreto-Lei n.º 305/2009, de 23 de outubro, procedi à afetação/reafetação dos trabalhadores do Mapa de Pessoal do Município de Vila Viçosa, com referência ao Regulamento da Estrutura e Organização dos Serviços desta Autarquia, publicado no Diário da República, n.º 251, 3.º suplemento, série II, de 28 de dezembro de 2012, encontrando-se a mesma publicitada na página eletrónica do Município e nos locais públicos do costume.
+7 de janeiro de 2013. - O Presidente da Câmara Municipal, Luís Filipe Braguez Caldeirinha Roma.
+306654486
