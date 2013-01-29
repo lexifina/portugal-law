@@ -2,6 +2,8 @@
 
 ### Retribuição do período de férias e subsídio
 
+*(Suspenso)*
+
 1 - A retribuição do período de férias corresponde à que o trabalhador receberia se estivesse em serviço efectivo.
 
 2 - Além da retribuição mencionada no número anterior, o trabalhador tem direito a subsídio de férias, compreendendo a retribuição base e outras prestações retributivas que sejam contrapartida do modo específico da execução do trabalho, correspondentes à duração mínima das férias.

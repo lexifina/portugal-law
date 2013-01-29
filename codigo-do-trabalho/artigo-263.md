@@ -2,6 +2,8 @@
 
 ### Subsídio de Natal
 
+*(Suspenso)*
+
 1 - O trabalhador tem direito a subsídio de Natal de valor igual a um mês de retribuição, que deve ser pago até 15 de Dezembro de cada ano.
 
 2 - O valor do subsídio de Natal é proporcional ao tempo de serviço prestado no ano civil, nas seguintes situações:
