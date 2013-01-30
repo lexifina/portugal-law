@@ -2,7 +2,7 @@
 
 ### Deveres gerais dos fabricantes
 
-1 - Os fabricantes devem assegurar que os brinquedos que colocam no mercado foram projetados e fabricados em conformidade com os requisitos enunciados no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, considerando-se «colocação no mercado» a primeira disponibilização de um brinquedo no mercado comunitário.
+1 - Os fabricantes devem assegurar que os brinquedos que colocam no mercado foram projectados e fabricados em conformidade com os requisitos enunciados no artigo 13.º e no anexo ii ao presente decreto-lei, do qual faz parte integrante, considerando-se «colocação no mercado» a primeira disponibilização de um brinquedo no mercado comunitário.
 
 2 - Os fabricantes devem:
 

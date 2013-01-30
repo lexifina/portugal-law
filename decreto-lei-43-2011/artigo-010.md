@@ -12,11 +12,11 @@ b) Se vem acompanhado dos necessários documentos e das instruções e informaç
 
 c) Se o fabricante e o importador observaram os requisitos previstos nos n.os 8 e 9 do artigo 5.º e no n.º 5 do artigo 8.º
 
-3 - Sempre que o distribuidor considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que um brinquedo não está conforme com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, não pode disponibilizar o brinquedo no mercado até que este seja posto em conformidade.
+3 - Sempre que o distribuidor considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que um brinquedo não está conforme com os requisitos previstos no artigo 13.º e no anexo ii ao presente decreto-lei, não pode disponibilizar o brinquedo no mercado até que este seja posto em conformidade.
 
 4 - Se o brinquedo representar um risco, o distribuidor deve informar desse facto o fabricante ou o importador, bem como a ASAE, fornecendo-lhes informações, sobretudo no que se refere à não conformidade e às medidas correctivas aplicadas.
 
-5 - Enquanto um brinquedo estiver sob a responsabilidade do distribuidor, este deve garantir que as condições de armazenamento ou transporte não prejudicam a conformidade do brinquedo com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+5 - Enquanto um brinquedo estiver sob a responsabilidade do distribuidor, este deve garantir que as condições de armazenamento ou transporte não prejudicam a conformidade do brinquedo com os requisitos previstos no artigo 13.º e no anexo ii ao presente decreto-lei.
 
 6 - O distribuidor que considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que determinado brinquedo que disponibilizou no mercado não está em conformidade com a legislação comunitária de harmonização aplicável, deve assegurar que são tomadas as medidas correctivas necessárias para assegurar a conformidade do brinquedo ou para proceder à respectiva retirada ou recolha, se for esse o caso.
 

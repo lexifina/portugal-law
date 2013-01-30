@@ -2,7 +2,7 @@
 
 ### Documentação técnica do brinquedo
 
-1 - A documentação técnica a que se refere o n.º 2 do artigo 5.º deve conter todos os dados ou informações detalhadas relevantes sobre os meios utilizados pelo fabricante para assegurar a conformidade dos brinquedos com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, devendo conter, em especial, os documentos enumerados no anexo IV à portaria a que se refere o artigo 40.º-A.
+1 - A documentação técnica a que se refere o n.º 2 do artigo 5.º deve conter todos os dados ou informações detalhadas relevantes sobre os meios utilizados pelo fabricante para assegurar a conformidade dos brinquedos com os requisitos previstos no artigo 13.º e no anexo ii ao presente decreto-lei, devendo conter, em especial, os documentos enumerados no anexo v ao presente decreto-lei, do qual faz parte integrante.
 
 2 - A documentação técnica é redigida numa das línguas oficiais da União Europeia, sob reserva do disposto no n.º 9 do artigo anterior.
 

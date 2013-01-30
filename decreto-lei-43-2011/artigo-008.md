@@ -14,7 +14,7 @@ c) O brinquedo vem acompanhado dos necessários documentos;
 
 d) O fabricante respeitou os requisitos previstos nos n.os 8 e 9 do artigo 5.º
 
-3 - Sempre que o importador considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que um brinquedo não está conforme com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, o importador não pode colocar o brinquedo no mercado até que este seja posto em conformidade.
+3 - Sempre que o importador considere, ou deva saber, com base nas informações de que dispõe e enquanto profissional, que um brinquedo não está conforme com os requisitos previstos no artigo 13.º e no anexo ii ao presente decreto-lei, o importador não pode colocar o brinquedo no mercado até que este seja posto em conformidade.
 
 4 - Se o brinquedo representar um risco o importador deve informar o fabricante e a ASAE.
 
@@ -22,7 +22,7 @@ d) O fabricante respeitou os requisitos previstos nos n.os 8 e 9 do artigo 5.º
 
 6 - Os importadores devem assegurar que o brinquedo é acompanhado de instruções e informações de segurança, em língua portuguesa.
 
-7 - Enquanto um brinquedo estiver sob a responsabilidade do importador, este deve assegurar que as condições de armazenamento ou transporte não prejudicam a conformidade do brinquedo com os requisitos enunciados no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
+7 - Enquanto um brinquedo estiver sob a responsabilidade do importador, este deve assegurar que as condições de armazenamento ou transporte não prejudicam a conformidade do brinquedo com os requisitos enunciados no artigo 13.º e no anexo ii ao presente decreto-lei.
 
 8 - Sempre que se considere apropriado em função do risco que o brinquedo representa, os importadores devem:
 

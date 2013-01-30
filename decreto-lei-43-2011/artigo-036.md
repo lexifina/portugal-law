@@ -2,7 +2,7 @@
 
 ### Contra-ordenações
 
-1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+1 - Constitui contra-ordenação punível, com coima de (euro) 1000 a (euro) 2500 se o infractor for pessoa singular e de (euro) 3000 a (euro) 20 000 se o infractor for pessoa colectiva:
 
 a) A violação dos deveres dos operadores económicos, previstos nos n.os 5 e 6 do artigo 5.º, nos n.os 5 e 7 do artigo 8.º, no n.º 2 do artigo 9.º e nos n.os 2 a 7 do artigo 10.º;
 
@@ -10,7 +10,7 @@ b) A violação do dever de informação, previsto no artigo 12.º;
 
 c) A violação das obrigações relativas à documentação técnica, previstas nos n.os 2 e 3 do artigo 24.º
 
-2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:
+2 - Constitui contra-ordenação punível com coima de (euro) 1500 a (euro) 3740,98 se o infractor for pessoa singular e de (euro) 5000 a (euro) 44 891,81 se o infractor for pessoa colectiva:
 
 a) A violação dos deveres dos operadores económicos previstos nos n.os 2, 3 e 7 a 10 do artigo 5.º, nos n.os 1 e 2 do artigo 6.º, nos n.os 2 a 4, 6, 8 e 9 do artigo 8.º e nos n.os 1 e 3 do artigo 9.º ;
 
@@ -32,4 +32,4 @@ i) A violação do cumprimento das regras relativas à publicidade, previstas no
 
 3 - Às infracções previstas nas alíneas a) e b) do n.º 2 do artigo 19.º do presente decreto-lei aplicam-se as disposições do artigo 6.º do Decreto-Lei n.º n.º 23/2011, de 11 de Fevereiro, que dá execução na ordem jurídica nacional ao Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de Julho.
 
-4 - A tentativa e a negligência são puníveis nos termos do RJCE.
+4 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos para metade.

@@ -4,4 +4,4 @@
 
 1 - São competentes para a instrução dos processos de contra-ordenação a ASAE e a Direcção-Geral do Consumidor, no que respeita a ilícitos publicitários.
 
-2 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE e, no que respeita a ilícitos publicitários, ao diretor-geral do Consumidor.
+2 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP).

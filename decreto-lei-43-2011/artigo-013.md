@@ -10,7 +10,7 @@
 
 a) Os requisitos essenciais de segurança previstos nos n.os 2, 3 e 4, no que diz respeito ao requisito geral de segurança;
 
-b) Os requisitos específicos de segurança previstos no anexo I à portaria a que se refere o artigo 40.º-A.
+b) Os requisitos específicos de segurança previstos no anexo ii ao presente decreto-lei.
 
 2 - Os brinquedos, incluindo as substâncias químicas que estes contêm, não podem pôr em perigo a saúde e a segurança dos utilizadores ou de terceiros, quando forem utilizados para o fim a que se destinam ou quando deles for feita uma utilização previsível, tendo em conta o comportamento das crianças.
 
