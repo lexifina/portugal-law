@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 1486/2013
+José Maria Rodrigues Figueira, Presidente da Câmara Municipal de Vendas Novas torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/02, de 11 de janeiro, que após aprovação pela Câmara Municipal, na sua reunião realizada dia 19 de dezembro de 2012, a Assembleia Municipal, em 27 de dezembro de 2012, deliberou aprovar o "Regulamento Municipal de Uso da Marca Bifanas de Vendas Novas - Alentejo". O documento, que poderá ser consultada na Junta de Freguesia da Landeira, no Centro de Atendimento ao Publico da Câmara Municipal e no sítio do Município de Vendas Novas na Internet (www.cm-vendasnovas.pt), entra em vigor no dia imediato à publicação do presente aviso no Diário da República.
+3 de janeiro de 2013. - O Presidente da Câmara Municipal, José Maria Rodrigues Figueira.
+306649561
