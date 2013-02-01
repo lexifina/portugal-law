@@ -6,4 +6,4 @@
 
 ### Montante do subsídio
 
-O subsídio por morte é igual a seis vezes o valor da remuneração de referência calculada nos termos do artigo seguinte, com o limite máximo de seis vezes o indexante dos apoios sociais.
+O montante do subsídio por morte é igual a três vezes o valor do indexante dos apoios sociais (IAS).
