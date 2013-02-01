@@ -36,6 +36,6 @@ j) Aplicar advertência escrita e decidir da anulação da inscrição no centro
 
 7 - As notificações efetuadas por transmissão eletrónica de dados consideram-se feitas no momento em que o destinatário aceda à caixa postal eletrónica.
 
-8 - Em caso de ausência de acesso à caixa postal eletrónica, deve ser efetuada nova transmissão eletrónica de dados, no prazo de 15 dias seguintes ao respetivo conhecimento por parte do centro de emprego que tenha procedido à emissão da notificação, considerando-se esta efetuada no 25.º dia posterior ao do seu envio, salvo nos casos em que se comprove que o beneficiário comunicou a alteração daquela ao Centro de Emprego ou que demonstre ter sido impossível essa comunicação.
+8 - Em caso de ausência de acesso à caixa postal eletrónica, deve ser efetuada nova transmissão eletrónica de dados, no prazo de 3 dias seguintes ao respetivo conhecimento por parte do centro de emprego que tenha procedido à emissão da notificação, considerando-se esta efetuada no 3.º dia posterior à data do segundo envio, salvo nos casos em que se comprove que o beneficiário comunicou a alteração daquela ao centro de emprego ou que demonstre ter sido impossível essa comunicação.
 
 9 - Para o exercício da sua função de verificação e controlo das situações de desemprego, os centros de emprego podem estabelecer formas concertadas de cooperação com outras entidades.

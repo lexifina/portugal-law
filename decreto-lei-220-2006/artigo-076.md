@@ -18,10 +18,12 @@ b) Prova dos rendimentos da actividade profissional exercida.
 
 4 - Os requerentes podem ser dispensados da apresentação de alguns dos documentos exigíveis caso esteja salvaguardado o acesso à informação em causa por parte da segurança social, designadamente por efeito de processos de interconexão de dados com outros organismos da Administração Pública, em termos a regulamentar.
 
-5 - A manutenção do direito ao subsídio social de desemprego depende de os beneficiários renovarem, no sítio da Internet da segurança social ou no serviço de segurança social da respetiva área de residência, a prova da composição do agregado familiar e dos respetivos rendimentos durante o mês em que completem cada período de 180 dias consecutivos de atribuição do subsídio.
+5 - A manutenção do direito ao subsídio social de desemprego depende de os beneficiários renovarem, no sítio na Internet da segurança social ou no serviço de segurança social da respetiva área de residência, a prova da composição do agregado familiar e dos respetivos rendimentos durante o mês em que completem cada período de 360 dias consecutivos de atribuição do subsídio.
 
 6 - A falta da renovação da prova prevista no número anterior determina a suspensão do pagamento da prestação a partir do início do mês seguinte àquele em que a prova devia ter sido efetuada.
 
 7 - A não renovação da prova durante o mês seguinte àquele em que a prova devia ter sido efetuada determina a cessação da prestação.
 
-8 - O disposto nos números anteriores não prejudica a obrigação de apresentação de quaisquer outros meios de prova quando solicitados pelos serviços ou instituições de segurança social.
+8 - Os rendimentos do agregado familiar são, periodicamente, objeto de reavaliação oficiosa, tendo em conta a informação disponível no sistema de segurança social, bem como através de interconexão de dados entre as bases de dados da segurança social e da administração fiscal, nos termos previstos no Decreto-Lei n.º 92/2004, de 20 de abril.
+
+9 - O disposto nos números anteriores não prejudica a obrigação de apresentação de quaisquer outros meios de prova quando solicitados pelos serviços ou instituições de segurança social.

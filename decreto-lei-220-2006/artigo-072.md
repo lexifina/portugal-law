@@ -16,7 +16,7 @@
 
 5 - Nas situações previstas no número anterior, o representante deve fazer prova do impedimento do beneficiário através do certificado de incapacidade temporária (CIT) emitido por médico dos serviços competentes do Serviço Nacional de Saúde.
 
-6 - Quando a situação de doença se prolongue para além da data inicialmente prevista, os beneficiários devem remeter ao competente serviço de segurança social a respetiva certificação médica no prazo de 5 dias úteis.
+6 - Quando a situação de doença se prolongue para além da data inicialmente prevista, os beneficiários devem remeter ao centro de emprego a respetiva certificação médica no prazo de cinco dias úteis.
 
 7 - Após o termo do período de incapacidade temporária para o trabalho, os beneficiários devem atualizar a respetiva inscrição no centro de emprego da área da sua residência no prazo de 5 dias úteis.
 

@@ -6,7 +6,7 @@
 
 2 - A certificação das situações de doença previstas no número anterior é efetuada nos mesmos termos em que é certificada a incapacidade temporária para o trabalho nos termos do regime jurídico de proteção social na eventualidade doença no âmbito do sistema previdencial, na qual deve constar o período previsível de duração da incapacidade temporária.
 
-3 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, às situações de incapacidade temporária para assistência inadiável e imprescindível em caso de doença ou acidente, a filhos, adotados ou a enteados menores de 10 anos, ou deficientes, nos termos do Código do Trabalho.
+3 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, às situações de incapacidade temporária para assistência inadiável e imprescindível em caso de doença ou acidente, a filhos, adotados ou a enteados menores de 12 anos, ou deficientes, nos termos do Código do Trabalho.
 
 4 - A situação de incapacidade por doença está sujeita à intervenção dos serviços de verificação de incapacidades da segurança social.
 
