@@ -14,4 +14,4 @@ c) Emitir declarações comprovativas das atividades desenvolvidas pelo bolseiro
 
 d) Elaborar, no âmbito das suas funções de supervisão, um relatório final de avaliação da atividade do bolseiro, a remeter à Fundação para a Ciência e a Tecnologia, I. P.
 
-3 - As falsas declarações são punidas nos termos da lei.
+3 - As falsas declarações do orientador científico impedem a continuidade da supervisão e são punidas nos termos da lei.
