@@ -1,0 +1,253 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12356",
+  "numero": "237",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-02-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-03-06",
+            "entidades": null,
+            "id": "94720",
+            "tipo": null,
+            "titulo": "Audição em 2013-03-06 com António Alves Martinho"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-02-21",
+            "dataResposta": "2013-03-12",
+            "entidades": [
+              "Secretário de Estado da Cultura"
+            ],
+            "nrOficio": "103/8ªCECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-21",
+            "dataResposta": null,
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "104/8ª CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-21",
+            "dataResposta": "2013-03-12",
+            "entidades": [
+              "Fundação Museu do Douro"
+            ],
+            "nrOficio": "105/8ª CECC/2012",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-22",
+            "dataResposta": "2013-03-12",
+            "entidades": [
+              "Estrutura de Missão para a Demarcada do Douro"
+            ],
+            "nrOficio": "108/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-04-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "632280",
+                "obs": null,
+                "pag": [
+                  "15-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-13",
+                "pubLeg": "XII",
+                "pubNr": "134",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/134/2013-04-13/15?pgs=15-19&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-02-19",
+        "DataArquivo": "2013-04-09",
+        "DataBaixaComissao": "2013-02-08",
+        "DataEnvioPAR": "2013-04-10",
+        "DataReaberta": "2013-02-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-02-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32566b597a51334e7a597a4c5459345a474d744e446b3059693035596d4e6c4c54426a4e57557a4f4445784d6d49304d7935775a47593d&fich=edc47763-68dc-494b-9bce-0c5e38112b43.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-02-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67794e6d4a6c5a44646a4c54457a4f4755744e4449334e6930354e575a6c4c544d325a544531596d4e6a4d4449344d6935775a47593d&fich=826bed7c-138e-4276-95fe-36e15bcc0282.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6b5a5463314e444a684c57526c597a59744e4459325a693035596d4d344c5451315a4441324e6d59354e4756684f5335775a47593d&fich=2de7542a-dec6-466f-9bc8-45d066f94ea9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a646b4e6a4d774f5459324c5467334e324d744e44457a4f4331694d3249354c5445775a5756684e6a41304e7a466a4e4335775a47593d&fich=7d630966-877c-4138-b3b9-10eea60471c4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b775a57517a5a5459784c574a6c4f544d744e445130596931685a4455334c546c694f4451784f4755304d7a686d5a4335775a47593d&fich=90ed3e61-be93-444b-ad57-9b8418e438fd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-04-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6c684e7a466b4d7a41784c5459774e546b744e446b7a4e693169596a4a6d4c544d354d545a6d4e474e6d4d47466d4f5335775a47593d&fich=9a71d301-6059-4936-bb2f-3916f4cf0af9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-03-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6d4f5468684f4745324c5749794d574d744e47566b5a6931684e6a51304c54686d597a4d334d6a4668596a6c6a5a4335775a47593d&fich=2f98a8a6-b21c-4edf-a644-8fc3721ab9cd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a526d4e5755314d324d784c5451774d4451744e4755334f4331694d544a6c4c575a6a4d474d334d6d45335a6d51784e4335775a47593d&fich=4f5e53c1-4004-4e78-b12e-fc0c72a7fd14.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466a597a6b304e7a63774c545a694e3259744e474d78597930354d47497a4c5467344d324a684d6a4d325a474979595335775a47593d&fich=1cc94770-6b7f-4c1c-90b3-883ba236db2a.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-02-19",
+            "gp": "PSD",
+            "id": "4365",
+            "motivoCessacao": null,
+            "nome": "Maria Manuela Tender"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2013-02-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324a6c595749324d475a6c4c5445355a4745744e4449304e4331684d6a63774c546c694d6a426c4e5759794d444e6c4e5335775a47593d&fich=beab60fe-19da-4244-a270-9b20e5f203e5.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12356",
+    "PetAssunto": "Pretendem a continuidade da Fundação Museu do Douro, criada pela Lei 125/97, de 2 de dezembro.",
+    "PetDataEntrada": "2013-02-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12356",
+    "PetLeg": "XII",
+    "PetNr": "237",
+    "PetNrAssinaturas": "1596",
+    "PetNrAssinaturasInicial": "1596",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "622055",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-02-23",
+        "pubLeg": "XII",
+        "pubNr": "106",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/106/2013-02-23/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
