@@ -14,7 +14,7 @@ a) Explorem uma superfície agrícola ou agro-florestal, que não exclusivamente
 
 b) Tenham, na unidade de produção, um encabeçamento de animais em pastoreio inferior ou igual 2 CN por hectare de superfície forrageira;
 
-c) Candidatem, caso exista, a área de rotação de sequeiro que inclua um cereal praganoso em parcelas com IQFP menor ou igual a 2 e com uma densidade máxima de 60 árvores por hectare;
+c) Candidatem, caso exista, a área de rotação de sequeiro que inclua um cereal praganoso em parcelas com IQFP menor ou igual a 3 e com uma densidade máxima de 60 árvores por hectare;
 
 d) Candidatem, caso exista, a área de pastagem permanente com alto valor natural, quando superior ou igual a 0,10 ha;
 

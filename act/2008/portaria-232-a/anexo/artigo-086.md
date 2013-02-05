@@ -20,6 +20,10 @@ c) Destruição parcial de instalações pecuárias não imputável ao benefici�
 
 d) Epizootia que afecte parte do efectivo ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem da incúria do beneficiário.
 
-4 - Os beneficiários devem, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, proceder à alteração do pedido de apoio no caso de redução da área objecto de apoio, quando esta não exceda 20 % relativamente à área sujeita a compromissos no primeiro ano do apoio, o que determina a devolução dos apoios recebidos indevidamente.
+4 - A redução de área aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, determina a devolução proporcional dos apoios recebidos.
 
 5 - Para feitos do número anterior, o montante a que o beneficiário tem direito resulta da aplicação, por tipo de apoio, ao montante de cada anuidade anteriormente paga, do quociente entre as áreas determinadas, nesse ano e em cada um dos anos anteriores, devendo devolver a diferença relativamente ao montante que anteriormente lhe foi pago.
+
+6 - O disposto no número 4 não é aplicável nos casos de cedência da exploração referidos no n.º 1 do artigo 44.º do Regulamento (CE) n.º 1974/2006 que determina o reembolso da totalidade da ajuda recebida.
+
+7 - O disposto no número anterior não é aplicável nos casos em que a redução da área seja igual ou inferior a 10%, ou quando o compromisso seja retomado pelo cessionário, bem como nos casos referidos na alínea b) do n.º 2 do artigo 44.º do Regulamento (CE) n.º 1974/2006.

@@ -20,7 +20,7 @@ g) Não efectuar queimadas;
 
 h) Proteger os abrigos dos núcleos populacionais de morcegos, identificados cartograficamente pelo ICNB e de acordo com as indicações deste organismo;
 
-i) Registar no caderno de registos e manter as árvores longevas, cavernosas e de porte singular, com vista a beneficiar vários grupos da fauna, nomeadamente carnívoras, morcegos, aves e invertebrados, desde que não constituam focos de problemas sanitários.
+i) (Revogada.)
 
 2 - Para além do disposto no número anterior e para toda a área objecto do apoio designado «Ajuda à conservação da estrutura ecológica de base», os beneficiários devem ainda comprometer-se a:
 

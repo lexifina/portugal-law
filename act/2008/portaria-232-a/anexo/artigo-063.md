@@ -10,7 +10,7 @@
 
 a) Explorem uma superfície agrícola ou agro-florestal, que não exclusivamente espaço agro-florestal não arborizado com aproveitamento forrageiro, situada na área geográfica de aplicação, definida no artigo anterior;
 
-b) Tenham, na unidade de produção, um encabeçamento de animais em pastoreio inferior ou igual a 2 CN/ha de superfície forrageira e um efectivo pecuário, excepto pequenos ruminantes, inferior ou igual a 5 CN;
+b) Tenham, na unidade de produção, um encabeçamento de animais em pastoreio inferior ou igual a 2 CN/ hectare de superfície forrageira;
 
 c) Candidatem, caso exista, a área que apresente as seguintes formações, identificadas e cartografadas pela ELA, quando igual ou superior a 0,50 ha:
 
@@ -60,4 +60,4 @@ c) Que as limpezas complementares necessárias à preservação dos valores flor
 
 9 - Para efeitos do apoio previsto no n.º 5, considera-se área elegível a superfície agrícola e agro-florestal da unidade de produção, com excepção do espaço agro-florestal não arborizado com aproveitamento forrageiro.
 
-10 - O plano de gestão específico referido no n.º 4 deve ser mantido actualizado, sendo as respectivas alterações aprovadas pela ELA e apresentadas com o pedido de pagamento subsequente.
+10 - O plano de gestão específico referido no n.º 4 deve ser mantido actualizado, sendo as respectivas alterações ser aprovadas pela ELA e apresentadas com o pedido de pagamento subsequente.

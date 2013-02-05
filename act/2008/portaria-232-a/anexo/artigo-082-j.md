@@ -16,7 +16,7 @@ e) Não efectuar queimadas;
 
 f) Manter as árvores, os muros de pedra posta e outros elementos patrimoniais importantes para a paisagem e ainda as sebes arbustivas ou arbóreas, de espécies autóctones, entre as parcelas e nas extremas, não tratando com herbicidas;
 
-g) Proteger os abrigos dos núcleos populacionais de morcegos, de acordo com as indicações da ELA, identificados cartograficamente pelo ICNB e de acordo com as indicações deste organismo;
+g) Proteger os abrigos dos núcleos populacionais de morcegos, identificados cartograficamente pelo ICNB e de acordo com as indicações do mesmo;
 
 h) Registar a localização de exemplares de sobreiro e azinheira em mau estado fitossanitário, transmitindo essa informação quando solicitado.
 

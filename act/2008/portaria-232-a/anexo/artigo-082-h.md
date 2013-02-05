@@ -10,7 +10,7 @@ A área geográfica de aplicação da presente acção é a seguinte:
 
 a) Área delimitada pelo polígono da Zona de Protecção Especial para Aves Selvagens de Moura-Mourão-Barrancos, criada através do Decreto-Lei n.º 384-B/99, de 23 de Setembro;
 
-b) Área delimitada pelo polígono resultante da sobreposição:
+b) Área delimitada pelos polígonos:
 
 i) Da Zona de Protecção Especial para Aves Selvagens de Campo Maior, criada através do Decreto-Lei n.º 384-B/99, de 23 de Setembro;
 
@@ -20,7 +20,7 @@ iii) Da Zona de Protecção Especial para Aves Selvagens de São Vicente, criada
 
 c) Área delimitada pelo polígono da Zona de Protecção Especial para Aves Selvagens do Vale do Guadiana, criada pelo Decreto Regulamentar n.º 6/2008, de 26 de Fevereiro;
 
-d) Área delimitada pelo polígono resultante da sobreposição:
+d) Área delimitada pelos polígonos:
 
 i) Da Zona de Protecção Especial para Aves Selvagens de Monforte, criada através do Decreto Regulamentar n.º 6/2008, de 26 de Fevereiro;
 
@@ -38,7 +38,7 @@ vii) Da Zona de Protecção Especial para Aves Selvagens de Piçarras, criada at
 
 e) Área delimitada pelo polígono do Sítio de Importância Comunitário de Moura-Barrancos, criado através do Decreto Regulamentar n.º 6/2008, de 26 de Fevereiro;
 
-f) Área delimitada pelo polígono resultante da sobreposição:
+f) Área delimitada pelos polígonos:
 
 i) Do Sítio de Importância Comunitária de Monfurado, criado através da Resolução do Conselho de Ministros n.º 76/2000, de 5 de Julho;
 
@@ -46,7 +46,7 @@ ii) Do Sítio de Importância Comunitária de Cabrela, criado através da Resolu
 
 iii) Do Sítio de Importância Comunitária de Cabeção, criado através da Resolução do Conselho de Ministros n.º 142/97, de 28 de Agosto;
 
-g) Área delimitada pelo polígono resultante da sobreposição:
+g) Área delimitada pelos polígonos:
 
 i) Do Sítio de Importância Comunitária de São Mamede, criado através da Resolução do Conselho de Ministros n.º 142/97, de 28 de Agosto;
 

@@ -26,7 +26,7 @@ j) «Exploração agrícola» o conjunto de unidades de produção submetidas a 
 
 l) «Formações reliquiais» as comunidades vegetais de espécies que se encontrem em regressão populacional, permanecendo apenas em pequeno número, com distribuição limitada em pequenas bolsas isoladas e em locais de difícil acesso ou com microclimas específicos, típicos de refúgio biológico;
 
-m) «Galeria ripícola» o mesmo que galeria ribeirinha. Formação de espécies lenhosas arbóreas ou arbustivas autóctones, de forma comprida e estreita, ao longo das margens de um curso de água, e constituindo uma galeria de copas mais ou menos fechada sobre esse curso de água;
+m) «Galeria ripícola» o mesmo que galeria ribeirinha. Formação de espécies lenhosas arbóreas ou arbustivas autóctones, de forma comprida e estreita, ao longo das margens de um curso de água;
 
 n) 'Habitat' o espaço geográfico com factores bióticos que condicionam um ecossistema, determinando a distribuição e o estabelecimento de populações de uma ou mais espécies;
 
@@ -56,9 +56,9 @@ ad) «Zona tampão» a faixa envolvente da superfície florestal onde ocorrem os
 
 ae) «Área de protecção aos ninhos de águia-de-bonelli» a área com raio de 100 m a 300 m, tendo por centro o ninho, onde pode existir condicionamento de actividades;
 
-af) «Área de refúgio do lince-ibérico» a área de matagal que possua cumulativamente coberto arbustivo que ocupe mais de 50 % da área, cuja altura seja superior a 1 m em mais de 50 % da área e com densidade arbórea mínima de 30 árvores por hectare;
+af) «Área de refúgio do lince-ibérico» área de matagal, que possua cumulativamente coberto arbustivo que ocupe mais de 50% da área, cuja altura seja superior a 1 metro em mais de 50% do coberto arbustivo existente e com densidade arbórea mínima de 30 árvores por hectare;
 
-ag) «Caderno de registos» o caderno onde são registadas todas as operações realizadas e toda a informação relevante para a atribuição dos apoios agro e silvo-ambientais, previstos no presente Regulamento;
+ag) (Revogado)
 
 ah) «Estrutura local de apoio (ELA)» a estrutura de natureza técnica com o objectivo de promover a dinamização e aconselhamento técnico das populações alvo da respectiva ITI, constituída por representantes das direcções regionais de agricultura e pescas (DRAP), que presidem e a representam em todos os actos, da Autoridade Florestal Nacional (AFN), do Instituto da Conservação da Natureza e da Biodiversidade (ICNB), de organizações locais representativas de produtores agrícolas e florestais e de organizações não governamentais de ambiente (ONGA);
 

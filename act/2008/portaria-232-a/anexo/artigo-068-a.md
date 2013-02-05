@@ -8,7 +8,7 @@
 
 1 - Podem beneficiar do apoio previsto nesta subsecção, designado «Gestão do pastoreio em formações arbustivas mediterrâneas», os candidatos que reúnam cumulativamente as seguintes condições:
 
-a) Possuam uma superfície forrageira ou florestal, com área mínima de 0,50 ha, em parcelas agrícolas ou agro-florestais na área geográfica de aplicação definida no artigo 62.º deste Regulamento e que apresente as seguintes formações:
+a) Possuam uma superfície forrageira, com área mínima de 0,5 hectare, em parcelas agrícolas ou agro-florestais na área geográfica de aplicação definida no artigo 62.º deste regulamento e que apresente as seguintes formações:
 
 i) Áreas com formações arbustivas mediterrânicas ou habitats constituídos por charcos temporários mediterrânicos, matos termomediterrânicos pré-desérticos e medronhais;
 

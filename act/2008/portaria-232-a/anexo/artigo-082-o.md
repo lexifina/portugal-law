@@ -54,7 +54,7 @@ i) (euro) 80 - até 25 ha;
 
 ii) (euro) 40 - superior a 25 ha e até 50 ha.
 
-2 - As áreas elegíveis para efeito dos apoios referidos na alínea e) do número anterior são as áreas com ocupação arvense e pastagem, no limite de 30 % da área candidata.
+2 - As áreas elegíveis para efeito dos apoios referidos na alínea e) do número anterior, são as áreas com ocupação herbácea e área de refúgio, no limite de 35% da área candidata.
 
 3 - Os montantes a conceder ao apoio designado «Manutenção e desenvolvimento do habitat do Lince-ibérico» são comuláveis com os seguintes:
 

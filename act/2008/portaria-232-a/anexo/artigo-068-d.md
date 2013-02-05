@@ -32,6 +32,6 @@ a) Áreas com formações de folhosas autóctones em que a espécie arbórea bio
 
 b) Áreas adjacentes às formações de folhosas autóctones elegíveis e que apresentem regeneração natural do bioindicador.
 
-4 - Para efeitos da alínea a) do n.º 1, as parcelas identificadas no âmbito do SIP interceptadas pelo limite da área geográfica de aplicação são integralmente elegíveis se tiverem uma área inferior ou igual a 3 ha.
+4 - (Revogado.)
 
 5 - O PGP deve ser mantido actualizado, sendo as respectivas alterações aprovadas pela ELA e apresentadas com o pedido de pagamento subsequente.

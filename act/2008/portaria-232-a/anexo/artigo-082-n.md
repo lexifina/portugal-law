@@ -46,7 +46,7 @@ f) Não proceder à instalação ou manutenção de culturas agrícolas ou aplic
 
 a) Proteger a regeneração natural das espécies alvo, com cercas, protectores individuais, ou outro meio adequado;
 
-b) Garantir que nas áreas referidas na alínea anterior existe, no termo do período de compromisso, a existência de uma densidade mínima, com distribuição uniforme, de 20 indivíduos viáveis das espécies alvo por hectare;
+b) Garantir que nas áreas referidas na alínea anterior existe, no termo do período de compromisso, uma densidade mínima, com distribuição uniforme, de 20 indivíduos viáveis das espécies alvo por hectare;
 
 c) Assegurar a manutenção dos protectores individuais ou cercas instalados;
 
@@ -88,7 +88,7 @@ f) Promover ou autorizar a realização de acções, quando previstas no PIP, qu
 
 7 - Para além do disposto nos n.os 1 e 2 do presente artigo, os beneficiários, para toda a área objecto do apoio designado «Manutenção e desenvolvimento do habitat do lince-ibérico», devem ainda comprometer-se a:
 
-a) Sem prejuízo do referido na alínea f) do n.º 1 do artigo 82.º-N, manter 20 % a 25 % da superfície candidata remanescente, tal como definida na alínea e) do n.º 2 do artigo 82.º-M, com ocupação de culturas arvenses ou vegetação herbácea, devendo estas áreas possuir uma forma alongada e sinuosa e uma largura máxima de 25 m;
+a) Sem prejuízo do referido na alínea f) do n.º 1 do artigo 82.º-N, manter 20 a 25% da superfície candidata remanescente, tal como definida na alínea e) do n.º 2 do artigo 82.º-M, com uma ocupação de vegetação herbácea, devendo estas áreas ser em manchas, com dimensão máxima de 2 hectares, ou em faixas com largura máxima de 50 metros, sem limite de área;
 
 b) Garantir a constituição de áreas de refúgio do lince-ibérico, em 10 % a 15 % das áreas, e respectivas características, definidas no âmbito da alínea e) do n.º 2 do artigo 82.º-M;
 
@@ -112,7 +112,7 @@ e) Diminuir a área de Pinus pinaster no mínimo em 5 % relativamente à área e
 
 f) Garantir a manutenção dos charcos temporários existentes, registados cartograficamente pelo ICNB, associando a cada charco temporário uma zona tampão, com largura de 20 m, sem mobilização do solo nem utilização pelo gado, procedendo à vedação sempre que necessário para o cumprimento do compromisso;
 
-g) Proteger a área de urzais (habitat Rede Natura 4020), identificados cartograficamente pelo ICNB, garantindo o aumento mínimo de 10 % da área do habitat;
+g) Proteger a área de urzais (habitat Rede Natura 4020), identificados cartograficamente pelo ICNB, garantindo as condições de proteção necessárias a um aumento mínimo de 10% da área do habitat;
 
 h) Cumprir os compromissos referidos nos n.os 3 e 4, nas áreas elegíveis para efeito dos apoios «Manutenção de galerias ripícolas» e «Renovação de povoamentos de Quercus spp. e Castanea sativa», respectivamente.
 

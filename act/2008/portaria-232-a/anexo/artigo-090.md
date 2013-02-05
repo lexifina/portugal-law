@@ -2,7 +2,7 @@
 
 ### Redução ou exclusão do apoio
 
-1 - Nos casos de divergência entre as áreas declaradas e as áreas determinadas em sede de controlo, aplicam-se as reduções e exclusões previstas nos Regulamentos (CE) n.os 1975/2006, da Comissão, de 7 de Dezembro, 796/2004, da Comissão, de 21 de Abril e 1122/2009, da Comissão, de 30 de Novembro.
+1 - Nos casos de divergências entre as áreas declaradas e as determinadas em sede de controlo, aplicam-se as reduções e as exclusões previstas nos Regulamentos n.º 1122/2009 da Comissão de 30 de Novembro de 2009 e (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.
 
 2 - (Revogado.)
 
@@ -22,6 +22,6 @@
 
 10 - O incumprimento pelos beneficiários dos requisitos à condicionalidade, nos termos do disposto no artigo 5.º, determina a redução do montante do apoio nos termos da legislação nacional aplicável.
 
-11 - Quando a redução prevista no n.º 4 do artigo 86.º exceda 20 % da área inicial de compromisso, há lugar à devolução total dos apoios e à exclusão do beneficiário do respectivo tipo de apoio.
+11 - (Revogado)
 
-12 - Para efeito da aplicação do n.º 3 do artigo 85.º, o incumprimento dos critérios de elegibilidade determina a devolução total dos apoios e a exclusão do beneficiário de cada apoio para o qual não tenha sido apresentado pedido de pagamento.
+12 - Nos casos previstos no n.º 3 do artigo 85.º, o incumprimento dos critérios de elegibilidade ou dos compromissos determinam a devolução total dos apoios e a exclusão do beneficiário de cada apoio para o qual não tenha sido apresentado pedido de pagamento.

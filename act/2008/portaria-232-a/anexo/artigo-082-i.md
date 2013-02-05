@@ -8,15 +8,13 @@
 
 1 - Podem beneficiar dos apoios previstos nesta subsecção os candidatos que reúnam as seguintes condições:
 
-a) Apoio designado «Manutenção da rotação de sequeiro cereal - pousio» - explorem uma superfície agrícola ou agro-florestal, situada nas áreas geográficas de aplicação, definidas na alínea a), subáreas de Ferrarias-Mourão, Airoso-Penascosa, Granja, Machados e Moura-Safara, nas alíneas b) e c), subáreas de Moreanes, Algodor, Álamo, Tacão, Corte da Velha, Namorados, Corte Gafo 1, Corte Gafo 2, Vale de Évora e Neves, nas alíneas d) e j) do artigo 82.º-H, com excepção das parcelas de aplicação do apoio «Gestão de pastagem permanente extensiva»;
+a) Apoio designado «Manutenção da rotação de sequeiro cereal-pousio» - explorem uma superfície agrícola ou agro-florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas a), b), c), d) e j) do artigo 82.º-H, com exceção das parcelas de aplicação do apoio «Gestão de pastagem permanente extensiva»;
 
-b) Apoio designado «Gestão de pastagem permanente extensiva» - explorem uma superfície agrícola ou agro-florestal, situada nas áreas geográficas de aplicação, definidas na alínea a), subárea Mentiras, nas alíneas b), c), d) e j) do artigo 82.º-H, com excepção das parcelas de aplicação do apoio «Manutenção da rotação de sequeiro cereal - pousio» nas áreas geográficas b), c), d) e j) do artigo 82.º-H;
+b) Apoio designado «Gestão de pastagem permanente extensiva» - explorem uma superfície agrícola ou agro-florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas a), b), c), d) e j) do artigo 82.º-H, com exceção das parcelas de aplicação do apoio «Manutenção da rotação de sequeiro cereal-pousio» nas áreas geográficas b), c), d) e j) do artigo 82.º-H;
 
 c) Apoio designado «Extensificação do pastoreio e regeneração do montado»:
 
 i) Explorem uma superfície agrícola ou agro-florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas c), g), h), i) e j) do artigo 82.º-H;
-
-ii) Possuam um PIP para a superfície candidata, aprovado pela ELA, conforme modelo disponibilizado pela autoridade de gestão em www.proder.pt.;
 
 d) Apoio designado «Restrição do pastoreio e manutenção de núcleos de vegetação»:
 
@@ -24,7 +22,7 @@ i) Explorem uma superfície agrícola ou agro-florestal, situada nas áreas geog
 
 ii) Possuam um PIP para a superfície candidata, aprovado pela ELA, conforme modelo disponibilizado pela autoridade de gestão em www.proder.pt;
 
-iii) A área candidata não esteja incluída em zona de caça com exploração de caçamaior.
+iii) (Revogado)
 
 2 - As superfícies referidas no número anterior devem ter, conforme o apoio, uma das seguintes ocupações:
 

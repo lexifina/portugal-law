@@ -16,25 +16,29 @@ c) Apoio designado «Manutenção de matagais» - explorem uma superfície flore
 
 d) Apoio designado «Habitat de grandes águias»:
 
-i) Explorem uma superfície florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas a), c), e), nas subalíneas i) e ii) da alínea g) e nas alíneas h) e j) do artigo 82.º-H;
+i) Explorem uma superfície florestal ou agro-florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas a), c), e), g), h) e j) do artigo 82.º-H;
 
 ii) Incluir no PGF, quando este seja legalmente exigível, evidência de condicionamento dos cortes de povoamentos, incluindo cortes para reconversão ou rearborização, às necessidades da protecção e manutenção de locais de nidificação para as águias;
 
 e) Apoio designado «Manutenção e desenvolvimento do habitat do lince-ibérico»:
 
-i) Explorem uma superfície florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas a), c), e), h) e j) do artigo 82.º-H, com excepção das parcelas de aplicação dos apoios «Manutenção da rotação de sequeiro cereal - pousio» e «Gestão de pastagem permanente extensiva»;
+i) Explorem uma superfície florestal ou agro-florestal situada nas áreas geográficas de aplicação, definidas nas alíneas a), c), e), h) e j) do artigo 82.º-H, com exceção das parcelas de aplicação dos apoios «Manutenção da rotação de sequeiro cereal-pousio» e «Gestão de pastagem permanente extensiva»;
 
 ii) Garantir que a área candidata se encontra submetida ao regime cinegético ordenado ou se encontra em área de refúgio de caça, zona de interdição à caça ou área de direito à não caça;
 
 iii) Incluir no PGF, quando este seja legalmente exigível, uma componente de controlo do risco estrutural de incêndio, com evidência de articulação entre esta e a necessidade de conservação do habitat do lince-ibérico;
 
-iv) Tenham na unidade de produção um encabeçamento superior a 0,5 CN por hectare de superfície forrageira;
+iv) Tenham na unidade de produção um encabeçamento inferior ou igual a 0,5 CN por hectare de superfície forrageira;
+
+v) Identificar no PIP as áreas elegíveis às medidas dos apoios «Manutenção de galerias ripícolas», «Renovação de povoamentos de Quercus spp. e Castanea sativa», «Manutenção de Matagais» e «Habitat de grandes águias»;
+
+vi) Identificar no PIP as áreas ocupadas com vegetação herbácea.
 
 f) Apoio designado «Biodiversidade florestal - Serra de São Mamede» - explorem uma superfície florestal, situada na área geográfica de aplicação, definida nas subalíneas i) e ii) da alínea g) e na alínea i) do artigo 82.º-H;
 
 g) Apoio designado «Manutenção e beneficiação de floresta autóctone»:
 
-i) Explorem uma superfície agro-florestal ou florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas e), f), h) e j) do artigo 82.º-H,com excepção das parcelas de aplicação dos apoios «Manutenção da rotação de sequeiro cereal - pousio» e «Gestão de pastagem permanente extensiva» nas áreas geográficas e) do n.º 1 do artigo 82.-H;
+i) Explorem uma superfície florestal, situada nas áreas geográficas de aplicação, definidas nas alíneas e), f), h) e j) do artigo 82.º-H;
 
 ii) Garantir que a área candidata não estar incluída em zona de caça com exploração de caça maior;
 
@@ -48,7 +52,9 @@ b) Apoio designado «Renovação de povoamentos de Quercus spp. e Castanea sativ
 
 c) Apoio designado «Manutenção de matagais» - superfície ocupada pelos habitats «Charnecas secas europeias» (habitat Rede Natura 4030), «Matagais arborescentes de Juniperus spp.» (habitat Rede Natura 5210) e «Matos termomediterrânicos pré-desérticos» (habitat Rede Natura 5330), com uma área mínima de 1 ha;
 
-d) Apoio designado «Habitat de grandes águias» - superfície, com uma área igual ou superior a 1 ha abrangida pela área de influência de um ninho de águia, identificado pelo ICNB, correspondendo essa área de influência a um círculo com um raio de 300 m, tendo por centro esse ninho;
+d) Apoio designado «Habitat de grandes águias» - superfície florestal ou agro-florestal, com uma área igual ou superior a 1 hectare abrangida pela área de influência de um ninho de águia, identificado pelo ICNB, correspondendo essa área de influência a um círculo com um raio de 300 metros, tendo por centro esse ninho;
+
+e) Apoio designado «Manutenção e desenvolvimento do habitat do lince-ibérico» - superfície florestal ou agro-florestal, com uma área igual ou superior a 50 hectares sob gestão comum, incluindo a com ocupação herbácea e áreas de refúgio do lince-ibérico;
 
 e) Apoio designado «Manutenção e desenvolvimento do habitat do lince-ibérico» - superfície florestal, com uma área igual ou superior a 50 ha sob gestão comum, incluindo a com ocupação herbácea e áreas de refúgio do lince-ibérico;
 

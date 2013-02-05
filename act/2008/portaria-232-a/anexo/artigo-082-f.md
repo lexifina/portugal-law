@@ -28,7 +28,7 @@ h) Não efectuar queimadas;
 
 i) Proteger os abrigos dos núcleos populacionais de morcegos, identificados cartograficamente pelo ICNB e de acordo com as indicações deste organismo;
 
-j) Manter as árvores longevas, cavernosas e de porte singular, registadas no PIP, com vista a beneficiar vários grupos da fauna, nomeadamente carnívoras, morcegos, aves e invertebrados, desde que não constituam focos de problemas sanitários.
+j) (Revogado)
 
 2 - Para além do disposto no número anterior, os beneficiários comprometem-se ainda a:
 
@@ -84,7 +84,7 @@ e) Promover ou autorizar a realização de acções, quando previstas no PIP, qu
 
 7 - Para além do disposto nos n.os 1 e 2 do presente artigo, os beneficiários, para toda a área objecto do apoio designado «Manutenção e desenvolvimento do habitat do lince-ibérico», devem ainda comprometer-se a:
 
-a) Sem prejuízo do referido na alínea d) do n.º 1 do artigo 82.º-F, manter 20 % a 25 % da superfície candidata remanescente, tal como definida na alínea e) do n.º 2 do artigo 82.º-E, com ocupação de culturas arvenses ou vegetação herbácea, devendo estas áreas possuir forma alongada e sinuosa e uma largura máxima de 25 m;
+a) Sem prejuízo do referido na alínea d) do n.º 1 do artigo 82.º-F, manter 20 a 25% da superfície candidata remanescente, tal como definida na alínea e) do n.º 2 do artigo 82.º-E, com ocupação de vegetação herbácea, devendo estas áreas ser em manchas, com dimensão máxima de 2 hectares, ou em faixas com largura máxima de 50 metros, sem limite de área;
 
 b) Garantir a constituição de áreas de refúgio do lince-ibérico, em 10 % a 15 % das áreas, e respectivas características, definidas no âmbito da alínea d) do n.º 1 do artigo 82.º-F;
 

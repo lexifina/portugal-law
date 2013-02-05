@@ -12,7 +12,7 @@
 
 3 - Para efeitos do n.º 1, o montante total de pagamento corresponde à soma dos montantes de cada apoio.
 
-4 - Para efeitos do n.º 2, o montante total de pagamento corresponde à soma de 80 % do montante de cada apoio, excepto no caso da acção relativa à Intervenção Territorial Integrada Douro Vinhateiro em que o montante total de pagamento corresponde à soma dos montantes de cada apoio.
+4 - Para efeitos do n.º 2, o montante total de pagamento corresponde à soma de 80% do montante de cada apoio apurado no pedido de pagamento, excepto no caso da ação relativa à Intervenção Territorial Integrada Douro Vinhateiro e do apoio relativo à ação 2.2.2 «Proteção da biodiversidade doméstica» em que o montante total do pagamento corresponde à soma dos montantes de cada apoio declarado no pedido de pagamento.
 
 5 - Caso o montante a pagar, calculado com base no disposto no n.º 4, seja inferior ao valor de um dos montantes dos apoios, é pago o apoio com maior valor.
 

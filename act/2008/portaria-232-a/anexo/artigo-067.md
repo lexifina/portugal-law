@@ -50,7 +50,7 @@ h) Eliminar as espécies invasoras lenhosas e alóctones, promovendo a sua errad
 
 a) Preservar os exemplares adultos das espécies alvos e proteger a respectiva regeneração natural, através da instalação de cercas ou protectores individuais;
 
-b) Promover o aumento das espécies arbóreas e alvo, através de adensamento sempre que necessário e de acordo com as indicações da ELA;
+b) Promover o aumento das espécies arbóreas e arbustivas alvo através de adensamento, sempre que necessário, e de acordo com as indicações da ELA;
 
 c) Não efectuar cortes da espécie alvo, excepto quando os exemplares estiverem afectados sanitariamente ou tendo em vista a condução de manchas de regeneração natural, a validar pela ELA;
 
@@ -116,7 +116,7 @@ d) Não efectuar os cortes da espécie alvo, excepto quando os exemplares estive
 
 e) (Revogada.)
 
-f) Controlar, em áreas sujeitas a pastoreio, o acesso de animais a zonas de regeneração natural através da colocação de cercas temporárias e protecções individuais e interditá-lo em áreas com exemplares e formações reliquiais.
+f) Controlar, em áreas sujeitas a pastoreio, o acesso de animais a zonas de regeneração natural através da colocação de cercas temporárias e protecções individuais e interditá-lo em áreas com exemplares e formações reliquiais;
 
 g) (Revogada.)
 
