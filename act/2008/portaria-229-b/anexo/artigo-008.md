@@ -40,7 +40,7 @@ b) Outras áreas ou animais que o OC considere como tecnicamente não aptos à p
 
 a) Terem uma ocupação agrícola cuja produção se destine directa ou indirectamente ao consumo humano;
 
-b) Terem, no caso das culturas permanentes, as seguintes densidades mínimas por parcela:
+b) (Revogada.)
 
 i) Pomóideas, citrinos e prunóideas, excepto cerejeira - 200 árvores por hectare;
 

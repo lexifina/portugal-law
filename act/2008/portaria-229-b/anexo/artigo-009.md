@@ -6,7 +6,7 @@
 
 a) Na unidade de produção:
 
-i) Manter os critérios de elegibilidade expressos nos n.os 1 e 2 do artigo 8.º;
+i) Manter os critérios de elegibilidade;
 
 ii) Manter actualizado o caderno de campo, cujo modelo foi divulgado ou validado pela autoridade de gestão do PRODER, registando toda a informação relativa às práticas agrícolas adoptadas e maneio do efectivo pecuário;
 
@@ -14,7 +14,7 @@ b) Nas áreas candidatas, para além do disposto na alínea a):
 
 i) Manter os critérios de elegibilidade expressos no n.º 5 do artigo 8.º, nas áreas objecto de apoio;
 
-ii) Manter actualizado o caderno de campo, utilizando o modelo divulgado pela autoridade de gestão do PRODER, ou modelo próprio que respeite a informação constante de orientação técnica específica;
+ii) (Revogado);
 
 iii) Adoptar as práticas culturais e de gestão relacionadas com a preservação dos recursos naturais de acordo com o quadro constante do anexo ii a este Regulamento;
 
@@ -30,4 +30,18 @@ c) Comunicar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP,
 
 5 - Para a definição do período prévio à plena produção referido no número anterior é utilizada a tabela de referência divulgada no sítio da Internet do PRODER, em www.proder.pt.
 
-6 - A produção obtida durante o período de conversão para modo de produção biológico fica dispensada da certificação referida na subalínea ii) da alínea b) do n.º 1.
+6 - (Revogado)
+
+7 - Manterem, no caso das culturas permanentes, as seguintes densidades mínimas por parcela:
+
+i) Pomóideas, citrinos e prunóideas, excepto cerejeira - 200 árvores por hectare;
+
+ii) Pequenos frutos, exceto sabugueiro - 1000 plantas por hectares;
+
+iii) Actinídeas - 400 plantas por hectare;
+
+iv) Outros frutos frescos e sabugueiro - 80 árvores por hectare;
+
+v) Frutos secos e olival - 60 árvores por hectare;
+
+vi) Vinha - 2000 cepas por hectare, exceto nos casos de áreas ocupadas com vinhas conduzida em pérgula ou de áreas situadas na Região Demarcada do Vinhos Verdes, em que a densidade mínima é de 1000 cepas por hectare.

@@ -8,9 +8,9 @@ a) Na unidade de produção:
 
 i) Manter os critérios de elegibilidade;
 
-ii) Participar num plano de conservação, caso se trate de raças raras ou muito ameaçadas, ou num plano de melhoramento, caso se trate de raças ameaçadas ou em risco, quando tal seja solicitado pela Direcção-Geral de Veterinária;
+ii) Assegurar a realização das ações decorrentes das atividades diretamente relacionadas com a execução de um programa de conservação genética animal ou de um programa de melhoramento genético animal aprovado pela Direção-Geral de Alimentação e Veterinária (DGAV).
 
-iii) Comunicar à entidade responsável do livro genealógico ou registo zootécnico todas as alterações do efectivo;
+iii) Comunicar à entidade responsável pela gestão do livro genealógico ou registo zootécnico todas as alterações do efetivo de forma a assegurar que os animais detidos a 1 de Junho de cada ano estão em conformidade com os registos mantidos pela entidade gestora;
 
 iv) (Revogada.)
 
@@ -24,7 +24,7 @@ b) Comunicar ao IFAP, I. P., a redução de animais objecto de apoio, excepto se
 
 2 - O disposto nas alíneas a) e b) do número anterior produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
 
-3 - Manter anualmente o número de CN inicialmente declaradas, nos seguintes períodos de compromisso:
+3 - Manter anualmente o número de CN inicialmente declaradas, nos seguintes períodos do compromisso:
 
 a) De 1 de Fevereiro a 1 de Agosto para os bovinos e os equídeos declarados;
 

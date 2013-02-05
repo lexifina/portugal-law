@@ -45,3 +45,11 @@ t) «Unidade de produção» o conjunto de parcelas agrícolas, agro-florestais 
 u) «Zona de montanha» as regiões definidas na Portaria n.º 377/88, de 11 de Junho, de acordo com a Directiva n.º 75/268/CEE, do Conselho, de 28 de Abril.
 
 v) «Requisitos mínimos relativos à utilização de adubos e produtos fitossanitários» as condições base exigidas para o acesso e atribuição dos apoios agro-ambientais, relativas à utilização dos adubos e produtos fitossanitários e em zonas classificadas como protecção às captações de água para abastecimento público, complementares às normas obrigatórias estabelecidas nos termos dos artigos 5.º e 6.º e os anexos ii e iii do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro.
+
+x) «Fêmeas reprodutoras exploradas em linha pura»: fêmeas que:
+
+i) Estejam inscritas, a 1 de Junho de cada ano, no Livro de Adultos como reprodutoras da raça e o último parto seja de uma cria ou ninhada inscrita no Livro Genealógico ou Registo Zootécnico;
+
+ii) Não tendo ainda reproduzido, já estejam inscritas no Livro de Adultos e possuam, no início dos períodos de compromisso referidos no n.º 3 do artigo 16.º, respetivamente, 12 meses nos casos previstos nas alíneas a) e b), e 6 meses para os suínos, no caso da alínea c);
+
+z) «Machos reprodutores» os machos que, a 1 de Junho de cada ano, estejam inscritos no Livro de Adultos como reprodutores da raça, aprovados pelo Livro Genealógico ou pelo Registo Zootécnico como reprodutores e possuam mais de 16 meses.

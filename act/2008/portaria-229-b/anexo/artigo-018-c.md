@@ -20,8 +20,8 @@ b) Utilização de técnicas de mobilização mínima sempre que seja adequado a
 
 c) Utilização de técnicas de mobilização mínima nas culturas de girassol, cártamo, hortícolas, horto-industriais, algodão e beterraba;
 
-d) Utilização de outra técnica de mobilização, quando não exista alternativa viável, e sempre após parecer favorável da respectiva Direcção Regional de Agricultura e Pescas (DRAP).
+d) Utilização de outra técnica de mobilização, quando não exista alternativa viável, e sempre após parecer favorável da respectiva Direcção Regional de Agricultura
 
-4 - As situações mencionadas no número anterior devem ser previamente comunicadas ao IFAP, I. P.
+4- As situações mencionadas no número anterior devem ser comunicadas ao IFAP, I.P. no prazo máximo de 10 dias úteis após a sua realização.
 
 5 - O disposto no n.º 1 do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
