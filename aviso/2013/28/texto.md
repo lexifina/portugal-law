@@ -1,0 +1,7 @@
+Aviso n.º 28/2013
+Por ordem superior se torna público que, em 15 de novembro de 2012, a República Portuguesa depositou, junto do Governo Italiano, o seu instrumento de recesso do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de Julho de 2000.
+Nos termos das disposições do artigo 36º. do Tratado, o recesso da República Portuguesa produz efeitos a partir de 15 de Maio de 2013.
+A adesão da República Portuguesa a este Tratado foi autorizada pela Resolução da Assembleia da República nº. 18/2002, de 8 de Março e ratificado pelo Decreto do Presidente da República nº. 16/2002, de 8 de Março, ambos publicados no Diário da República, 1ª. série-A, nº.57, de 8 de março de 2002.
+Este recesso foi aprovado pela Resolução da Assembleia da República nº.126/2012 e ratificado pelo Decreto do Presidente da República nº.153/2012, ambos publicados no Diário da República, 1ª. série-A, nº.188, de 27 de Setembro de 2012.
+O Protocolo Adicional ao Tratado sobre o Estatuto da EUROFOR, assinado em Lisboa em 12 de Julho de 2005, aprovado pela Resolução da Assembleia da República nº. 43/2009, publicada no Diário da República, 1ª. Série, nº. 116, de 18 de junho de 2009, relativo ao estatuto jurídico da EUROMARFOR, não será afetado por este recesso, mantendo-se o âmbito de aplicação das disposições do Tratado sobre o Estatuto da EUROFOR referidas no seu artigo 2º.
+Direção-Geral de Política Externa, 15 de Janeiro de 2013. - O Subdiretor-Geral, Rui Manuel Vinhas Tavares Gabriel.
