@@ -1,0 +1,4 @@
+Aviso n.º 29/2013
+Por ordem superior se torna público que a 21 de abril de 1994 e 2 de abril de 1995, foram recebidas notas pela Embaixada de Portugal em Telavive e pelo Ministério dos Negócios Estrangeiros de Israel, respetivamente, pelas quais ambos os Estados comunicam terem sido cumpridas as formalidades internas de aprovação do Acordo entre o Governo da República Portuguesa e o Governo do Estado de Israel sobre a Cooperação Económica, Industrial e Técnico-Científica, assinado em Jerusalém, a 25 de outubro de 1992.
+O referido Acordo foi aprovado por Decreto nº11/94 de 7 de abril de 1994, publicado no Diário da República 1.ª série, n.º 81 de 7 de abril de 1994, e, nos termos do seu artigo 8.º, entrou em vigor no dia 2 de maio de 1995.
+Direção-Geral de Política Externa, 22 de janeiro de 2013. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
