@@ -1,0 +1,620 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12360",
+  "numero": "241",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-02-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-03-19",
+            "entidades": null,
+            "id": "94815",
+            "tipo": null,
+            "titulo": "Audição em 2013-03-19 com Professores Doutores Luís Magalhães,Carlos Salema,João Sentieiro"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-02-28",
+            "dataResposta": "2013-03-13",
+            "entidades": [
+              "Secretária de Estado da Ciência"
+            ],
+            "nrOficio": "127/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-28",
+            "dataResposta": "2013-03-13",
+            "entidades": [
+              "Fundação para a Ciência e a Tecnologia"
+            ],
+            "nrOficio": "128/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-28",
+            "dataResposta": "2013-03-15",
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "129/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-28",
+            "dataResposta": "2013-04-04",
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "130/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-28",
+            "dataResposta": null,
+            "entidades": [
+              "LNEC - Laboratório Nacional de Engenharia Civil"
+            ],
+            "nrOficio": "131/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-02-28",
+            "dataResposta": null,
+            "entidades": [
+              "ABIC - Associação dos Bolseiros de Investigação Científica"
+            ],
+            "nrOficio": "132/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-03-13",
+            "dataResposta": "2013-03-21",
+            "entidades": [
+              "Universidade do Porto"
+            ],
+            "nrOficio": "148/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-03-13",
+            "dataResposta": null,
+            "entidades": [
+              "Professor Doutor Mariano Gago"
+            ],
+            "nrOficio": "150/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-03-13",
+            "dataResposta": "2013-03-25",
+            "entidades": [
+              "CLA - Conselho dos Laboratórios Associados"
+            ],
+            "nrOficio": "151/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "633129",
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-20",
+                "pubLeg": "XII",
+                "pubNr": "140",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/140/2013-04-20/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-02-26",
+        "DataArquivo": "2013-04-16",
+        "DataBaixaComissao": "2013-02-15",
+        "DataEnvioPAR": "2013-04-17",
+        "DataReaberta": "2013-02-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-02-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5579597a566a4e4745304c5749784e4449744e44426b5a693035596d59304c544d305a6d4e6d4d6d457a4e325533595335775a47593d&fich=52c5c4a4-b142-40df-9bf4-34fcf2a37e7a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55314d5759784d6a566a4c574a694e7a63744e4442684f4330354e7a55334c574a6959544d795a6d4e6c4e6d5a6d5a4335775a47593d&fich=551f125c-bb77-40a8-9757-bba32fce6ffd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249354f4759304d5459354c5749774d4745744e4746684e693169595459304c54686a4f5463774f5445314f5451785a4335775a47593d&fich=b98f4169-b00a-4aa6-ba64-8c970915941d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51774f446b79593255314c545a6a5a6d45744e47466a5a533034596d4a6b4c544a6c5a5755774f474d7a4d7a6c6c4e7935775a47593d&fich=40892ce5-6cfa-4ace-8bbd-2eee08c339e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a695a44466d4d7a4a684c544e6a4e6d51744e4463304f533169597a55314c57493059545a694f47566c593246695a6935775a47593d&fich=2bd1f32a-3c6d-4749-bc55-b4a6b8eecabf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3255344e446b354d6a55304c57526b595755744e47566b595331685a44466d4c54466d4d54597a596a4d354f4445305a6935775a47593d&fich=e8499254-ddae-4eda-ad1f-1f163b39814f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686d597a59344f5451794c5442685a5449744e4467354d7930344d446b334c574e6a4f5445304d6a4d324e324669596935775a47593d&fich=8fc68942-0ae2-4893-8097-cc9142367abb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d34593255775a6a4d334c5749354f4451744e4752684d793168597a41334c5745354d5456694d445a6d5a4756684d4335775a47593d&fich=c8ce0f37-b984-4da3-ac07-a915b06fdea0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a6c4f4452694d3251784c57566a5a6a49744e47466c4e7931684e44497a4c5463354e544d7a595449784e474a6d4e6935775a47593d&fich=fe84b3d1-ecf2-4ae7-a423-79533a214bf6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e6c596a4d304d5441314c574e6b4f4745744e44526b4f4331694d32466d4c544e6959325133595467324e6a42695a5335775a47593d&fich=3eb34105-cd8a-44d8-b3af-3bcd7a8660be.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-04-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3246685a5441335a544e6a4c574e6b595759744e47466b4f5330355a5746694c54517a596a6b324e446b334e6a49354f5335775a47593d&fich=aae07e3c-cdaf-4ad9-9eab-43b964976299.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-04-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566b4d5746685a54526d4c5445334d5459744e4751334d4331684f574d794c5449344f5445794e5445344e4445335a4335775a47593d&fich=5d1aae4f-1716-4d70-a9c2-28912518417d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251774d4451314e574e6d4c5463304d7a4d744e4463314e6930345a4759334c574d7a59575a694d7a686d59574a6a4d4335515245593d&fich=d00455cf-7433-4756-8df7-c3afb38fabc0.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49784d4441314f5745794c544930593259744e4445774e5331684d3259304c5441325a5449314d7a51354d47557a4d5335775a47593d&fich=210059a2-24cf-4105-a3f4-06e253490e31.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55354e3251784d5449784c5445794f546b744e4451345a5331685a4468694c54526c4d7a453159545a6c4f545a684f5335775a47593d&fich=597d1121-1299-448e-ad8b-4e315a6e96a9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d31596a59304d325a6b4c54646b4e5755744e4745334f5331684f5749314c546379596d45314f4449345a6d526c4f5335775a47593d&fich=35b643fd-7d5e-4a79-a9b5-72ba5828fde9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d305a54526a4e6a63334c5441784f4467744e47557a4f5331684d4445324c5455775a5459354e7a67344e544a6a4e4335775a47593d&fich=c4e4c677-0188-4e39-a016-50e6978852c4.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-02-26",
+            "gp": "PCP",
+            "id": "2184",
+            "motivoCessacao": null,
+            "nome": "Miguel Tiago"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-10-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-02-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259344e7a45784d445a6d4c5749304f4467744e4759334d5330354f4468694c574d794d7a5a6a5a57466d597a63325a6935515245593d&fich=f871106f-b488-4f71-988b-c236ceafc76f.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131011pln&url=l12/sl3/a2013/m10/&tI=02:01:31:115&drc=00:04:31:850"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-12",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/009/2013-10-12/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a não integração da Fundação para a Computação Científica Nacional (FCCN) na Fundação para a Ciência e a Tecnologia, IP (FCT).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131011pln&url=l12/sl3/a2013/m10/&tI=02:06:12:922&drc=00:04:04:142"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-12",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/009/2013-10-12/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a não integração da Fundação para a Computação Científica Nacional (FCCN) na Fundação para a Ciência e a Tecnologia, IP (FCT).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131011pln&url=l12/sl3/a2013/m10/&tI=02:10:25:716&drc=00:04:12:753"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-12",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/009/2013-10-12/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a não integração da Fundação para a Computação Científica Nacional (FCCN) na Fundação para a Ciência e a Tecnologia, IP (FCT).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131011pln&url=l12/sl3/a2013/m10/&tI=02:14:44:453&drc=00:03:01:946"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-12",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/009/2013-10-12/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a não integração da Fundação para a Computação Científica Nacional (FCCN) na Fundação para a Ciência e a Tecnologia, IP (FCT).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131011pln&url=l12/sl3/a2013/m10/&tI=02:17:55:339&drc=00:02:27:759"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192814",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-12",
+                "pubLeg": "XII",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/009/2013-10-12/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a não integração da Fundação para a Computação Científica Nacional (FCCN) na Fundação para a Ciência e a Tecnologia, IP (FCT).",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12360",
+    "PetAssunto": "Solicitam a não integração da Fundação para a Computação Científica Nacional (FCCN) na Fundação para a Ciência e a Tecnologia, IP (FCT).",
+    "PetDataEntrada": "2013-02-07",
+    "PeticoesAssociadas": null,
+    "PetId": "12360",
+    "PetLeg": "XII",
+    "PetNr": "241",
+    "PetNrAssinaturas": "7636",
+    "PetNrAssinaturasInicial": "7636",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "446",
+        "obs": null,
+        "pag": [
+          "31-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-12",
+        "pubLeg": "XII",
+        "pubNr": "9",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/009/2013-10-12/31?pgs=31-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "622063",
+        "obs": null,
+        "pag": [
+          "7-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-02",
+        "pubLeg": "XII",
+        "pubNr": "109",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/109/2013-03-02/7?pgs=7-8&org=PLC"
+      }
+    ]
+  }
+}
