@@ -10,4 +10,6 @@
 
 2 - A autorização prevista no artigo 217.º do Código dos Valores Mobiliários e o registo de mercados regulamentados e dos sistemas de negociação multilateral só são concedidos às respectivas sociedades gestoras após o registo destas.
 
-3 - A CMVM, através de regulamento, define os termos e o conteúdo a que obedece o registo das sociedades gestoras previsto no n.º 1.
+3 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados o registo das sociedades gestoras que exerçam a atividade de gestão de sistemas de negociação multilateral.
+
+4 - A CMVM, através de regulamento, define os termos e o conteúdo a que obedece o registo das sociedades gestoras previsto no n.º 1.

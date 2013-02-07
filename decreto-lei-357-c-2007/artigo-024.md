@@ -27,3 +27,5 @@ i) Extinção do mercado regulamentado gerido pela sociedade.
 3 - O membro do Governo responsável pela área das finanças estabelece, no acto de revogação, o regime de gestão provisória da sociedade, podendo, designadamente, nomear a maioria dos membros dos órgãos de administração e de fiscalização da sociedade e determinar a adopção de quaisquer medidas que assegurem a defesa do mercado.
 
 4 - Havendo recurso da decisão de revogação, presume-se que a suspensão da execução determina grave lesão do interesse público.
+
+5 - A revogação da autorização é comunicada à Autoridade Europeia dos Valores Mobiliários e dos Mercados.
