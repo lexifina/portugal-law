@@ -6,7 +6,7 @@
 
 2 - A identificação dos conglomerados financeiros cabe às autoridades de supervisão que autorizaram as entidades regulamentadas desse grupo, as quais cooperam estreitamente entre si.
 
-3 - Se uma autoridade de supervisão considerar que uma entidade regulamentada, por si autorizada, é membro de um grupo que pode ser considerado um conglomerado financeiro, que não tenha ainda sido identificado como tal, informa de tal facto as demais autoridades de supervisão interessadas e o Comité Conjunto das Autoridades Europeias de Supervisão.
+3 - Se uma autoridade de supervisão considerar que uma entidade regulamentada, por si autorizada, é membro de um grupo que pode ser considerado um conglomerado financeiro, que não tenha ainda sido identificado como tal, informa de tal facto as demais autoridades competentes interessadas.
 
 4 - Compete ao coordenador informar as seguintes entidades da identificação de determinado grupo como conglomerado financeiro e da sua nomeação como coordenador:
 

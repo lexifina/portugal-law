@@ -1,3 +1,7 @@
+Decreto-Lei n.º 145/2006
+
+de 31 de Julho
+
 A recente evolução dos mercados financeiros tem conduzido à criação de grupos que fornecem serviços e produtos em diferentes sectores, denominados «conglomerados financeiros». Alguns destes conglomerados encontram-se entre os maiores grupos financeiros prestadores de serviços ao nível mundial. Se as instituições de crédito, empresas de seguros e empresas de investimento que pertencem a estes conglomerados forem confrontadas com dificuldades financeiras, estas podem desestabilizar seriamente o sistema financeiro e afectar os depositantes, os tomadores de seguros e os investidores.
 
 Até agora a legislação comunitária apenas previa um conjunto global de regras sobre a supervisão prudencial das instituições de crédito, empresas de seguros e empresas de investimento numa base individual e das entidades integradas num grupo bancário e de investimento ou num grupo segurador, ou seja, grupos com actividades financeiras homogéneas. Não existia qualquer regulamentação prudencial que permitisse a supervisão, ao nível do conglomerado, das entidades nele integradas, nomeadamente quanto a solvabilidade, concentração de riscos, operações intragrupo, processos internos de gestão de riscos e aptidão e idoneidade dos dirigentes.

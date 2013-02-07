@@ -4,13 +4,11 @@
 
 1 - Para efeitos da identificação de um conglomerado financeiro nos termos do artigo anterior, as autoridades de supervisão relevantes podem, de comum acordo:
 
-a) Excluir uma entidade do cálculo dos rácios, nos casos referidos no n.º 1 do artigo 12.º, a menos que a entidade se tenha deslocado de um Estado-Membro para um país terceiro e haja provas de que tal mudança se destinou a evitar a regulação;
+a) Excluir uma entidade do cálculo dos rácios, nos casos referidos no n.º 1 do artigo 12.º;
 
 b) Tomar em consideração o cumprimento dos limiares previstos na alínea b) do n.º 1 do artigo anterior e na subalínea i) da alínea b) do n.º 2 do mesmo artigo durante três anos consecutivos, de modo a evitar alterações súbitas de regime, e não ter em conta esse cumprimento verificando-se alterações significativas da estrutura do grupo;
 
-c) Em casos excecionais, substituir ou acrescentar ao critério baseado no total do balanço a estrutura dos proveitos, as atividades extrapatrimoniais e ou o total de ativos sob gestão, desde que estes assumam especial importância para efeitos da supervisão complementar prevista nos termos do presente decreto-lei;
-
-d) Excluir uma ou mais participações do subsetor de menor dimensão, caso tais participações sejam determinantes para a identificação de um conglomerado financeiro e, no seu conjunto, sejam de interesse negligenciável a respeito dos objetivos da supervisão complementar.
+c) Em casos excepcionais, substituir ou acrescentar ao critério baseado no total do balanço a estrutura dos proveitos e ou as rubricas extrapatrimoniais, desde que estes assumam especial importância para efeitos da supervisão complementar prevista nos termos do presente decreto-lei.
 
 2 - Identificado um conglomerado financeiro nos termos do disposto na alínea b) do n.º 1 do artigo anterior e na subalínea i) da alínea b) do n.º 2 do mesmo artigo, as decisões referidas nas alíneas a) e b) do número anterior tomam-se com base numa proposta apresentada pelo respectivo coordenador.
 

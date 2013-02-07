@@ -14,4 +14,4 @@
 
 4 - Nos restantes casos, o cálculo realiza-se segundo o método a decidir pelo coordenador, após consulta das restantes autoridades de supervisão relevantes e do conglomerado financeiro.
 
-5 - As companhias financeiras mistas e todas as entidades do conglomerado financeiro que integram o setor financeiro são incluídas no cálculo da adequação de fundos próprios, na forma e na medida definidas no anexo ao presente decreto-lei.
+5 - Todas as entidades do conglomerado financeiro que integram o sector financeiro são incluídas no cálculo da adequação de fundos próprios, na forma e na medida definidas no anexo.
