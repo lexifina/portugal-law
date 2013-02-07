@@ -10,7 +10,7 @@ b) Ordenar à entidade gestora de mercado regulamentado ou de sistema de negocia
 
 c) Estender a suspensão ou a exclusão a todos os mercados regulamentados e sistemas de negociação multilateral onde instrumentos financeiros da mesma categoria são negociados.
 
-2 - Imediatamente após ordem de suspensão ou exclusão da negociação em mercado regulamentado, ao abrigo do número anterior, a CMVM torna pública a respectiva decisão e informa as autoridades competentes dos outros Estados membros da União Europeia.
+2 - Imediatamente após uma ordem de suspensão ou exclusão da negociação em mercado regulamentado, ao abrigo do número anterior, a CMVM torna pública a respetiva decisão e informa a Autoridade Europeia dos Valores Mobiliários e dos Mercados e as autoridades competentes dos outros Estados membros da União Europeia.
 
 3 - (Revogado).
 

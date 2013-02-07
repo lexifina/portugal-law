@@ -16,6 +16,6 @@ b) De valores mobiliários não representativos de capital social que dêem dire
 
 3 - Para a aprovação do prospecto de oferta pública de distribuição, cujo emitente tenha sido constituído num país que não pertença à União Europeia, de valores mobiliários que não sejam referidos no número anterior, é competente o Estado membro em que esses valores mobiliários se destinam a ser objecto de oferta ao público pela primeira vez ou em que é apresentado o primeiro pedido de admissão à negociação num mercado regulamentado, à escolha do emitente ou do oferente, consoante o caso, sob reserva de escolha subsequente pelos emitentes constituídos num país terceiro se o Estado membro de origem não tiver sido determinado por escolha destes.
 
-4 - A CMVM pode decidir delegar a aprovação do prospecto de oferta pública de distribuição na autoridade competente de outro Estado membro, obtido o prévio acordo desta.
+4 - A CMVM pode decidir delegar a aprovação do prospecto de oferta pública de distribuição na autoridade competente de outro Estado Membro, obtido o prévio acordo desta e notificada a Autoridade Europeia dos Valores Mobiliários e dos Mercados.
 
 5 - A delegação de competência prevista no número anterior deve ser notificada ao emitente ou ao oferente no prazo de três dias úteis a contar da data da decisão pela CMVM.

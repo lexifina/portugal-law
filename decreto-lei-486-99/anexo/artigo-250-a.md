@@ -6,7 +6,7 @@
 
 a) Estados, autoridades regionais, autoridades locais, organismos públicos internacionais de que faça parte pelo menos um Estado membro, Banco Central Europeu, bancos centrais nacionais dos Estados membros;
 
-b) Emitentes de valores mobiliários representativos de dívida admitidos à negociação num mercado regulamentado, cujo valor nominal unitário seja, pelo menos, de (euro) 50 000 ou de valor equivalente na data da emissão.
+b) Emitentes de valores mobiliários representativos de dívida admitidos à negociação num mercado regulamentado cujo valor nominal unitário seja, pelo menos, de (euro) 100 000 ou de valor equivalente na data da emissão.
 
 2 - O disposto nas alíneas b) e d) do n.º 2 e no n.º 4 do artigo 249.º não se aplica ao Estado e suas autoridade regionais e locais.
 

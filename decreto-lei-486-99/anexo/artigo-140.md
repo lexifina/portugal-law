@@ -20,7 +20,7 @@ a) Através de publicação num ou mais jornais de difusão nacional ou de grand
 
 b) Sob forma impressa, colocado gratuitamente à disposição do público nas instalações do mercado em que é solicitada a admissão à negociação dos valores mobiliários, ou na sede estatutária do emitente e nas agências dos intermediários financeiros responsáveis pela sua colocação, incluindo os responsáveis pelo serviço financeiro do emitente; ou
 
-c) Sob forma electrónica no sítio da Internet do emitente e, se for caso disso, no sítio da Internet dos intermediários financeiros responsáveis pela colocação ou venda dos valores mobiliários, incluindo os responsáveis pelo serviço financeiro do emitente; ou
+c) Sob forma eletrónica no sítio na Internet do emitente ou, se for caso disso, no sítio na Internet dos intermediários financeiros responsáveis pela colocação ou venda dos valores mobiliários, incluindo os responsáveis pelo serviço financeiro do emitente; ou
 
 d) Sob forma electrónica no sítio da Internet do mercado regulamentado em que se solicita a admissão à negociação; ou
 
@@ -34,4 +34,6 @@ e) Sob forma electrónica no sítio da Internet da CMVM.
 
 9 - Se o prospecto for disponibilizado sob forma electrónica, o emitente, o oferente ou intermediários financeiros responsáveis pela colocação dos valores devem disponibilizar ao investidor, gratuitamente, uma versão em suporte de papel, sempre que este o solicite.
 
-10 - A divulgação do prospecto obedece ao disposto no Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.
+10 - A CMVM divulga a versão final do prospeto através do sistema de difusão de informação referido no artigo 367.º.
+
+11- A divulgação do prospecto obedece ao disposto no Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.

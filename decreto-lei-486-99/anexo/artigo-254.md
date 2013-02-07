@@ -1,8 +1,8 @@
 # Artigo 254.º
 
-### Classes de acções
+### Classes de ações
 
-1 - Nos casos em que o mercado português seja considerado, para uma determinada acção, o mercado mais relevante em termos de liquidez, a CMVM, anualmente, deve determinar e divulgar a classe de acções a que a mesma pertence, tal como definida no n.º 3 do artigo anterior.
+1 - Nos casos em que o mercado português seja considerado, para uma determinada ação, o mercado mais relevante em termos de liquidez, a CMVM, anualmente, deve determinar e divulgar e comunicar à Autoridade Europeia dos Valores Mobiliários e dos Mercados a classe de ações a que a mesma pertence, tal como definida no n.º 3 do artigo anterior.
 
 2 - A determinação prevista no número anterior deve ter por base:
 

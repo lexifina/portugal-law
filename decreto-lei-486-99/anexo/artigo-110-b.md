@@ -1,3 +1,15 @@
+## Título III
+
+## Ofertas públicas
+
+## Capítulo I
+
+## Disposições comuns
+
+## Secção I
+
+## Princípios gerais
+
 # Artigo 110.º-B
 
 ### Ofertas públicas de distribuição em cascata

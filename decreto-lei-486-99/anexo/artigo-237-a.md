@@ -4,7 +4,7 @@
 
 1 - O prospecto de admissão pode ser, no todo ou em parte, redigido numa língua de uso corrente nos mercados financeiros internacionais:
 
-a) Se os valores mobiliários a admitir tiverem um valor nominal igual ou superior a (euro) 50000, ou, em caso de valores mobiliários sem valor nominal, se o valor inicial previsto de admissão for igual ou superior àquele montante;
+a) Se os valores mobiliários a admitir tiverem um valor nominal igual ou superior a (euro) 100 000 ou, em caso de valores mobiliários sem valor nominal, se o valor inicial previsto de admissão for igual ou superior àquele montante;
 
 b) Se tiver sido elaborado no âmbito de um pedido de admissão dirigido a mercados de vários Estados;
 

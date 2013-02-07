@@ -17,3 +17,5 @@ a) Os critérios e ou as condições segundo os quais o preço e o número de va
 b) A aceitação da aquisição ou subscrição de valores mobiliários possa ser revogada durante um prazo não inferior a dois dias úteis após a notificação do preço definitivo da oferta e do número de valores mobiliários objecto da oferta ao público.
 
 2 - Logo que sejam apurados, o preço definitivo da oferta e o número dos valores mobiliários devem ser comunicados à CMVM e divulgados nos termos do artigo 140.º
+
+3 - Sempre que os valores mobiliários objeto de oferta pública sejam garantidos por um Estado Membro, o oferente pode omitir a informação relativa a esse garante no caso de optar por elaborar um prospeto.

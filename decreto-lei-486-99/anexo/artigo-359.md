@@ -22,7 +22,9 @@ h) Sociedades de capital de risco;
 
 i) Entidades que se proponham a celebrar ou mediar contratos de seguro ligados a fundos de investimento ou a comercializar contratos de adesão individual a fundos de pensões abertos, no âmbito destas actividades;
 
-j) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
+j) Titulares de posições curtas relevantes sobre ações e dívida soberana e adquirentes de proteção em swaps de risco de incumprimento soberano;
+
+k) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
 
 2 - As pessoas ou entidades que exerçam actividades de carácter transnacional ficam sujeitas à supervisão da CMVM sempre que essas actividades tenham alguma conexão relevante com mercados regulamentados, sistemas de negociação multilateral, operações ou instrumentos financeiros sujeitos à lei portuguesa.
 
