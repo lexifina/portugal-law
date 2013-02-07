@@ -1,15 +1,3 @@
-## Título III
-
-## Ofertas públicas
-
-## Capítulo I
-
-## Disposições comuns
-
-## Secção I
-
-## Princípios gerais
-
 # Artigo 108.º
 
 ### Direito aplicável

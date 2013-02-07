@@ -12,7 +12,7 @@ a) Não solicitar expressamente o tratamento como investidor não qualificado, �
 
 b) Solicitar expressamente o tratamento como investidor qualificado, pode, a todo o tempo, solicitar o tratamento como investidor não qualificado nos termos do artigo 317.º-A.
 
-4 - O intermediário financeiro pode também tratar como contrapartes elegíveis as pessoas colectivas mencionadas na alínea b) do n.º 3 do artigo 30.º, desde que tal tratamento tenha sido por estas expressamente aceite, por escrito, em relação a um tipo de operação ou a operações específicas.
+4 - O intermediário financeiro pode também tratar como contrapartes elegíveis as pessoas colectivas mencionadas na alínea k) do n.º 1 do artigo 30.º, desde que tal tratamento tenha sido por estas expressamente aceite, por escrito, em relação a um tipo de operação ou a operações específicas.
 
 5 - O reconhecimento do estatuto de contraparte elegível por intermediário financeiro relativamente a pessoa colectiva referida no número anterior, cuja sede se situe noutro Estado, depende da consagração de tal estatuto no respectivo ordenamento.
 

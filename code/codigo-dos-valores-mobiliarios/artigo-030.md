@@ -6,7 +6,7 @@
 
 ### Investidores qualificados
 
-1 - Sem prejuízo do disposto nos números subsequentes, consideram-se investidores qualificados as seguintes entidades:
+1 - Sem prejuízo do disposto nos artigos 317.º e 317.º-A, consideram-se investidores qualificados as seguintes entidades:
 
 a) Instituições de crédito;
 
@@ -26,30 +26,22 @@ h) Entidades que negoceiem em instrumentos financeiros sobre mercadorias;
 
 i) Governos de âmbito nacional e regional, bancos centrais e organismos públicos que administram a dívida pública, instituições supranacionais ou internacionais, designadamente o Banco Central Europeu, o Banco Europeu de Investimento, o Fundo Monetário Internacional e o Banco Mundial.
 
-2 - Para os efeitos do disposto na alínea c) do n.º 3 do artigo 109.º, no n.º 3 do artigo 112.º, na alínea a) do n.º 2 do artigo 134.º e na alínea d) do n.º 1 do artigo 237.º-A, as seguintes entidades são também consideradas investidores qualificados:
+j) Pessoas referidas na alínea f) do n.º 3 do artigo 289.º;
 
-a) Outras entidades que tenham por objecto principal o investimento em valores mobiliários;
+k) Pessoas coletivas cuja dimensão, de acordo com as suas últimas contas individuais, satisfaça dois dos seguintes critérios:
 
-b) Empresas que, de acordo com as suas últimas contas individuais ou consolidadas, preencham dois dos seguintes critérios:
+i) Capital próprio de dois milhões de euros;
 
-i) Número médio de trabalhadores, ao longo do exercício financeiro, igual ou superior a 250;
+ii) Ativo total de 20 milhões de euros;
 
-ii) Activo total superior a 43 milhões de euros;
+iii) Volume de negócios líquido de 40 milhões de euros.
 
-iii) Volume de negócios líquido superior a 50 milhões de euros.
+l) Pessoas a quem tenha sido conferido esse tratamento, nos termos do artigo 317.º-B.
 
-3 - Para efeitos do título vi, são também considerados investidores qualificados:
+2 - (Revogado).
 
-a) As pessoas referidas na alínea f) do n.º 3 do artigo 289.º;
-
-b) As pessoas colectivas, cuja dimensão, de acordo com as suas últimas contas individuais, satisfaça dois dos seguintes critérios:
-
-i) Situação líquida de (euro) 2 milhões;
-
-ii) Activo total de (euro) 20 milhões;
-
-iii) Volume de negócios líquido de (euro) 40 milhões.
-
-c) As pessoas que tenham solicitado o tratamento como tal, nos termos previstos na secção iv do capítulo i daquele título.
+3 - (Revogado).
 
 4 - A CMVM pode, por regulamento, qualificar como investidores qualificados outras entidades dotadas de uma especial competência e experiência relativas a instrumentos financeiros, nomeadamente emitentes de valores mobiliários, definindo os indicadores económico-financeiros que permitem essa qualificação.
+
+5 - Para efeitos da qualificação da oferta e sem prejuízo da legislação aplicável em matéria da proteção de dados pessoais, os intermediários financeiros comunicam ao emitente, a pedido deste, a respetiva categorização dos seus clientes.

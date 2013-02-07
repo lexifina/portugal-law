@@ -16,6 +16,14 @@ e) Entidades gestoras de fundos de garantia e de sistemas de indemnização dos 
 
 f) Auditores e autoridades com competência para a sua supervisão.
 
-2 - A CMVM pode também trocar informações, ainda que sujeitas a segredo, com o Banco Central Europeu, com as autoridades de supervisão do Estados membros da União Europeia ou com as entidades que aí exerçam funções equivalentes às referidas no n.º 1.
+2 - A CMVM pode também trocar informações, ainda que sujeitas a segredo, com as seguintes entidades:
+
+a) A Autoridade Europeia dos Valores Mobiliários e dos Mercados, a Autoridade Bancária Europeia e a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma;
+
+b) O Comité Europeu do Risco Sistémico;
+
+c) O Banco Central Europeu e o Sistema Europeu de Bancos Centrais;
+
+d) As autoridades de supervisão dos Estados membros da União Europeia ou as entidades que aí exerçam funções equivalentes às referidas no número anterior.
 
 3 - A CMVM pode ainda trocar informações com as autoridades de supervisão de Estados que não sejam membros da Comunidade Europeia e com as entidades que aí exerçam funções equivalentes às referidas no n.º 1, se, e na medida em que, for necessário para a supervisão dos mercados de instrumentos financeiros e para a supervisão, em base individual ou consolidada, de intermediários financeiros.

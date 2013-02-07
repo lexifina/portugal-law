@@ -12,4 +12,6 @@ c) A cessação de actividade ou a desconformidade entre o objecto e a actividad
 
 2 - A decisão de cancelamento que não seja fundamentada na revogação ou caducidade da autorização deve ser precedida de parecer favorável do Banco de Portugal, a emitir no prazo de 15 dias, salvo no que respeita às sociedades de consultoria para investimento.
 
-3 - A decisão de cancelamento deve ser comunicada ao Banco de Portugal e às autoridades competentes dos Estados membros da União Europeia onde o intermediário financeiro tenha sucursais ou preste serviços.
+3 - A decisão de cancelamento é comunicada ao Banco de Portugal, às autoridades competentes dos Estados Membros da União Europeia onde o intermediário financeiro tenha sucursais ou exerça atividade em livre prestação de serviços e à Autoridade Europeia dos Valores Mobiliários e dos Mercados.
+
+4 - A CMVM divulga o cancelamento do registo por um período de cinco anos, através do sistema de difusão de informação referido no artigo 367.º.

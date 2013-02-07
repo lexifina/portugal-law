@@ -18,4 +18,6 @@ d) Formação de quadros e troca de experiências no âmbito das respectivas atr
 
 4 - A cooperação a que se refere o presente artigo deve ser desenvolvida nos termos da lei, do direito comunitário e das convenções internacionais que vinculam o Estado Português.
 
-5 - O disposto no presente artigo é aplicável, com as necessárias adaptações, às relações decorrentes da participação da CMVM em organizações internacionais.
+5 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados a celebração de acordos de cooperação para a troca de informações com instituições congéneres ou equiparadas de Estados que não sejam membros da União Europeia.
+
+6 - O disposto no presente artigo é aplicável, com as necessárias adaptações, às relações decorrentes da participação da CMVM em organizações internacionais.

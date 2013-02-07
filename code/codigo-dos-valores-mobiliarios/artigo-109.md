@@ -12,4 +12,4 @@ a) A oferta dirigida à generalidade dos accionistas de sociedade aberta, ainda 
 
 b) A oferta que, no todo ou em parte, seja precedida ou acompanhada de prospecção ou de recolha de intenções de investimento junto de destinatários indeterminados ou de promoção publicitária;
 
-c) A oferta dirigida a, pelo menos, 100 pessoas que sejam investidores não qualificados com residência ou estabelecimento em Portugal.
+c) A oferta dirigida a, pelo menos, 150 pessoas que sejam investidores não qualificados com residência ou estabelecimento em Portugal.

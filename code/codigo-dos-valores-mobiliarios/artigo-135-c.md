@@ -16,6 +16,8 @@ ii) Em caso de falência da respectiva instituição de crédito, os referidos m
 
 3 - O prospecto de base deve ser complementado, se necessário, com informação actualizada sobre o emitente e sobre os valores mobiliários que são objecto de oferta pública, através de adenda.
 
-4 - Quando as condições finais da oferta não estiverem incluídas no prospecto de base ou numa adenda, devem as mesmas ser divulgadas aos investidores e comunicadas à CMVM logo que tal seja viável e, se possível, antes do início da oferta.
+4 - Quando as condições finais da oferta não estiverem incluídas no prospeto de base ou numa adenda, devem as mesmas ser, logo que viável e, se possível, antes do início da oferta, divulgadas aos investidores e comunicadas à CMVM e, quando for o caso, às autoridades competentes dos Estados Membros de acolhimento.
 
-5 - O conteúdo do prospecto de base e das respectivas condições finais e a divulgação destas obedecem ao disposto no Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.
+5 - As condições finais contêm apenas informações relativas à nota sobre os valores mobiliários e não podem ser usadas como adenda ao prospeto de base.
+
+6 - O conteúdo do prospecto de base e das respectivas condições finais e a divulgação destas obedecem ao disposto no Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.
