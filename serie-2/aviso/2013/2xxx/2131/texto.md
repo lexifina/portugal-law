@@ -1,0 +1,14 @@
+Aviso n.º 2131/2013
+Correção material ao Plano Diretor Municipal de Loures na área do concelho de Odivelas
+Susana de Carvalho Amador, Presidente da Câmara Municipal de Odivelas, torna público que a Câmara Municipal de Odivelas aprovou por maioria, na sua 17.ª reunião, realizada em 5 de setembro de 2012, duas correções materiais ao Plano Diretor Municipal de Loures, ao abrigo do disposto na alínea a) do n.º 1 do artigo 97.º-A do Dec. Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Dec. Lei n.º 46/2009 de 20 de fevereiro, a saber: correção material à Carta de Ordenamento do Plano Diretor Municipal de Loures, na área abrangida pelo espaço do bairro da Tomada do Capão, na freguesia de Caneças, município de Odivelas, e que consiste concretamente na identificação dos limites da ocupação edificada de génese ilegal, comprovável através de cartografia adequada e datada anteriormente à aprovação do PDM de Loures, classificando e qualificando o uso do solo da respetiva área como Espaço Urbano a Recuperar ou a Legalizar, verificados os pressupostos de sustentabilidade ambiental e de modo a enquadrar a respetiva reconversão urbanística;
+21 de janeiro de 2013. - A Presidente da Câmara Municipal de Odivelas, Dr.ª Susana de Carvalho Amador.
+Deliberação da 17.ª Reunião Ordinária da Câmara Municipal de Odivelas
+No dia 05 de setembro de 2012, pelas nove horas e vinte minutos, reuniu-se a Câmara Municipal de Odivelas nas instalações dos Paços do Concelho - Quinta da Memória, em Odivelas:
+3.7 - Proc. 102/GPE/EPPDMPEE - Proposta de Alteração ao PDM - 2012.03 - BAIRRO TOMADA DO CAPÃO. (GPE)
+Deliberado, por maioria, com os votos a favor da Senhora Presidente, dos Senhores Vereadores das bancadas do PS e do PSD e a abstenção dos Senhores Vereadores da bancada da CDU, de acordo com o proposto na informação n.º 8047 de 14-08-2012, com despacho da Senhora Presidente, aprovar uma correção material à Carta de Ordenamento do Plano Diretor Municipal de Loures, na área correspondente dos limites do bairro da Tomada do Capão, em Caneças, município de Odivelas, de acordo com as plantas em anexo e que consiste concretamente no seguinte:
+Identificação dos limites da ocupação edificada existente comprovável através de cartografia adequada e datada anteriormente à aprovação do PDM de Loures, classificando e qualificando o uso do solo da respetiva área como Espaço Urbano a Recuperar ou a Legalizar, verificados os pressupostos de sustentabilidade ambiental e de modo a enquadrar a normal e devida gestão territorial.
+Identificadores das imagens e respectivos endereços nos sítio do SNIT
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+15484 - http://ssaigt.dgotdu.pt/i/Planta_de_Ordenamento_15484_1.jpg
+15484 - http://ssaigt.dgotdu.pt/i/Planta_de_Ordenamento_15484_2.jpg
+606735242
