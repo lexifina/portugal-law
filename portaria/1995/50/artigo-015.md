@@ -1,6 +1,6 @@
-# 15.º
+# Artigo 15.º
 
-1 - No caso de não regularização de qualquer factura, na data do seu vencimento, ao montante em dívida passam a acrescer juros de mora à taxa de 11,58 % ao ano.
+1 - Caso qualquer fatura não tenha sido regularizada na data do seu vencimento, o montante em dívida começará a vencer juros de mora à taxa de 10,89% ao ano.
 
 2 - A taxa de juros de mora a que se refere o número anterior é uma taxa simples, calculada dia a dia sobre o montante em dívida.
 
