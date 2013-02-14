@@ -1,0 +1,441 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12359",
+  "numero": "240",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-02-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-02-28",
+            "entidades": null,
+            "id": "94671",
+            "tipo": null,
+            "titulo": "Audição em 2013-02-28 com Associação Portuguesa para a Igualdade Parental e Direitos dos Filhos, Sr. Luís Martins; Sr. Pedro Martins; Sr. Tiago Rodrigues; Sr. Domingos Farinho"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-03-13",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "625139",
+                "obs": null,
+                "pag": [
+                  "2-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-16",
+                "pubLeg": "XII",
+                "pubNr": "117",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/117/2013-03-16/2?pgs=2-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-02-20",
+        "DataArquivo": "2013-03-13",
+        "DataBaixaComissao": "2013-02-15",
+        "DataEnvioPAR": "2013-03-13",
+        "DataReaberta": "2013-02-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-02-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d6d466a5a4446694d5463745a6d5535595330304e6d566d4c546b785a5755744f5745795a5745334d7a6c6a4f4449354c6c424552673d3d&fich=2acd1b17-fe9a-46ef-91ee-9a2ea739c829.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-03-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a6d4e6b5a574530596a4d744e6a6b774f5330304d4759324c546b345a446774596a49784e7a63334e4467354e6a4d774c6e426b5a673d3d&fich=fcdea4b3-6909-40f6-98d8-b21777489630.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3510",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-02-20",
+            "gp": "PSD",
+            "id": "4300",
+            "motivoCessacao": null,
+            "nome": "Hugo Lopes Soares"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-10-10",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-02-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a557a59324e695a57466c4c5749775a5751744e44593059533034593249774c54457a596a466a59324e6d59324d32597935515245593d&fich=53ccbeae-b0ed-464a-8cb0-13b1cccfcc6c.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-10-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131010pln&url=l12/sl3/a2013/m10/&tI=01:42:29:211&drc=00:03:54:956"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-11",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/008/2013-10-11/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do artigo 151.º da Constituição da República Portuguesa de modo a permitir a candidatura de cidadãos independentes à Assembleia da República.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131010pln&url=l12/sl3/a2013/m10/&tI=01:46:32:232&drc=00:03:06:346"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-11",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/008/2013-10-11/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do artigo 151.º da Constituição da República Portuguesa de modo a permitir a candidatura de cidadãos independentes à Assembleia da República.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131010pln&url=l12/sl3/a2013/m10/&tI=01:49:46:768&drc=00:06:11:997"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-11",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/008/2013-10-11/29?pgs=29-31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do artigo 151.º da Constituição da República Portuguesa de modo a permitir a candidatura de cidadãos independentes à Assembleia da República.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131010pln&url=l12/sl3/a2013/m10/&tI=01:56:11:141&drc=00:03:14:252"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-11",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/008/2013-10-11/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do artigo 151.º da Constituição da República Portuguesa de modo a permitir a candidatura de cidadãos independentes à Assembleia da República.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-10-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131010pln&url=l12/sl3/a2013/m10/&tI=01:59:32:371&drc=00:03:13:990"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-11",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/008/2013-10-11/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração do artigo 151.º da Constituição da República Portuguesa de modo a permitir a candidatura de cidadãos independentes à Assembleia da República.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12359",
+    "PetAssunto": "Solicitam a alteração do artigo 151.º da Constituição da República Portuguesa de modo a permitir a candidatura de cidadãos independentes à Assembleia da República.",
+    "PetDataEntrada": "2013-02-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12359",
+    "PetLeg": "XII",
+    "PetNr": "240",
+    "PetNrAssinaturas": "6285",
+    "PetNrAssinaturasInicial": "6285",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "443",
+        "obs": null,
+        "pag": [
+          "28-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-11",
+        "pubLeg": "XII",
+        "pubNr": "8",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/008/2013-10-11/28?pgs=28-33&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "622056",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-02-23",
+        "pubLeg": "XII",
+        "pubNr": "106",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/106/2013-02-23/10?pgs=10&org=PLC"
+      }
+    ]
+  }
+}
