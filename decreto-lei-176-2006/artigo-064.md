@@ -2,7 +2,7 @@
 
 ### Aquisição de serviços
 
-1 - O INFARMED, I.P., pode autorizar o fabricante a contratar com terceiro ou terceiros a realização de certas fases do processo de fabrico de um medicamento ou de um medicamento experimental ou de atos de controlo previstos no n.º 1 do artigo 62.º, segundo os métodos descritos no processo de fabrico.
+1 - O INFARMED pode autorizar o fabricante a contratar com terceiro ou terceiros a realização de certas fases do processo de fabrico de um medicamento ou de um medicamento experimental ou de actos de controlo previstos no n.º 1 do artigo 62.º, segundo os métodos descritos no processo de fabrico.
 
 2 - O contrato é escrito e inclui obrigatoriamente:
 
@@ -14,6 +14,6 @@ c) As obrigações de cada uma das partes, e, em particular, a sujeição à obs
 
 d) O modo como o responsável pela certificação dos lotes exerce as suas responsabilidades.
 
-3 - O prestador de serviços não pode subcontratar qualquer das prestações que para ele resultem do contrato sem autorização escrita do fabricante, o qual notificará do facto o INFARMED, I.P., junto com os elementos relevantes para a identificação do subcontratado.
+3 - O prestador de serviços não pode subcontratar qualquer das prestações que para ele resultem do contrato sem autorização escrita do fabricante, o qual notificará do facto o INFARMED, junto com os elementos relevantes para a identificação do subcontratado.
 
-4 - O prestador de serviços fica obrigado a cumprir os princípios e diretrizes relevantes das boas práticas de fabrico e está sujeito a inspeções por parte do INFARMED, I.P., ou de outras autoridades competentes, nos termos previstos no presente decreto-lei ou na legislação aplicável aos ensaios clínicos.
+4 - O prestador de serviços fica obrigado a cumprir os princípios e directrizes relevantes das boas práticas de fabrico e está sujeito a inspecções por parte do INFARMED ou de outras autoridades competentes, nos termos previstos no presente decreto-lei ou na legislação aplicável aos ensaios clínicos.

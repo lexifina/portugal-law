@@ -19,5 +19,3 @@ c) São preparados de forma não rotineira, de acordo com padrões de qualidade 
 3 - O fabrico e utilização dos medicamentos de terapia avançada que reúnam as condições referidas no n.º 1 estão sujeitos a autorização do INFARMED, I.P., em termos a definir por portaria do membro do Governo responsável pela área da saúde.
 
 4 - A portaria a que se refere o número anterior define os requisitos de rastreabilidade e farmacovigilância, bem como as normas de qualidade a que devem obedecer os medicamentos de terapia avançada que reúnam as condições referidas no n.º 1.
-
-5 - No fabrico de medicamentos de terapia avançada devem ser tidas em consideração as orientações das boas práticas de fabrico específicas para este tipo de medicamentos referidas no artigo 5.º do Regulamento (CE) n.º 1394/2007, do Parlamento Europeu e do Conselho, de 13 de novembro de 2007.

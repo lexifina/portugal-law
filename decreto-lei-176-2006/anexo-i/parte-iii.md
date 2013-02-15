@@ -186,7 +186,7 @@ No entanto, devem ser apresentadas informações demonstrando a utilidade clíni
 
 3 - Medicamentos homeopáticos.
 
-Esta secção estabelece disposições específicas quanto à aplicação dos módulos 3 e 4 aos medicamentos homeopáticos, conforme definidos na alínea ww) do n.º 1 do artigo 3.º
+Esta secção estabelece disposições específicas quanto à aplicação dos módulos 3 e 4 aos medicamentos homeopáticos, conforme definidos na alínea oo) do n.º 1 do artigo 3.º.
 
 Módulo 3.
 

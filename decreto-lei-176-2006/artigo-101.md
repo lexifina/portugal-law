@@ -12,8 +12,6 @@ a) Revogação da autorização;
 
 b) Interdição do exercício da actividade de distribuição em território nacional, nos casos previstos no artigo 95.º
 
-4 - Em casos devidamente justificados por razões de saúde pública, o INFARMED, I. P., pode revogar ou suspender de imediato a autorização de distribuição por grosso de medicamentos, dispensando, neste caso, o prazo e procedimentos previstos nos números anteriores.
+4 - As decisões adoptadas ao abrigo do presente artigo são notificadas ao titular da autorização, para os devidos efeitos legais.
 
-5 - As decisões adotadas nos termos do presente artigo são devidamente fundamentadas e notificadas ao titular da autorização, para os devidos efeitos legais.
-
-6 - O INFARMED comunica as decisões de suspensão, revogação da autorização ou de interdição do exercício da actividade à Comissão Europeia e às autoridades competentes dos restantes Estados membros.
+5 - O INFARMED comunica as decisões de suspensão, revogação da autorização ou de interdição do exercício da actividade à Comissão Europeia e às autoridades competentes dos restantes Estados membros.

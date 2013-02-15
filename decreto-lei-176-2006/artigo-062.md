@@ -12,7 +12,7 @@ b) Efectuar os controlos segundo os métodos descritos no processo e referidos n
 
 3 - Compete ainda ao fabricante assegurar o respeito pelas boas práticas de fabrico e, em particular:
 
-a) Criar, aplicar e manter um sistema eficaz de qualidade farmacêutica que envolva a participação ativa da gestão e do pessoal dos vários departamentos e implique a realização reiterada de autoinspeções;
+a) Criar e aplicar um sistema eficaz de garantia da qualidade farmacêutica que envolva a participação activa da gestão e do pessoal dos vários departamentos e implique a realização reiterada de auto-inspecções;
 
 b) Assegurar que as instalações e equipamentos respeitam as exigências previstas no presente decreto-lei;
 
@@ -34,13 +34,13 @@ j) Proceder à análise periódica dos métodos de fabrico, à luz do progresso 
 
 l) Estabelecer e manter um sistema de documentação;
 
-m) Criar e manter um sistema de controlo da qualidade sob a responsabilidade de uma pessoa que preencha os requisitos necessários em termos de qualificações e seja independente da produção.
+m) Criar e manter um sistema de controlo da qualidade independente da produção, sob a responsabilidade de uma pessoa que preencha os requisitos necessários em termos de qualificações;
 
 n) Implementar um sistema de registo e análise das reclamações.
 
 4 - O fabricante coloca um ou mais laboratórios de controlo da qualidade, com pessoal e equipamento adequados à execução do exame e ensaio das matérias-primas e dos materiais de embalagem e do ensaio de produtos intermédios e acabados, à disposição da pessoa responsável a que se referem as alíneas d) e m) do número anterior, ou garante o acesso desta pessoa aos mesmos.
 
-5 - Aquando do controlo final dos medicamentos acabados que precede a libertação para venda ou distribuição ou o uso em ensaios clínicos, o sistema de controlo de qualidade deve tomar em consideração, além dos resultados analíticos, dados essenciais, como as condições de produção, os resultados dos controlos durante o fabrico, o exame dos documentos relativos ao fabrico e a conformidade dos produtos com as respetivas especificações, incluindo a embalagem acabada final.
+5 - Aquando do controlo final dos produtos acabados que precede a saída para venda, a distribuição ou o uso em ensaios clínicos, o sistema de controlo de qualidade toma em consideração, além dos resultados analíticos, outros dados essenciais, como as condições de produção, os resultados dos controlos durante o fabrico, a análise dos documentos relativos ao fabrico e a conformidade dos produtos com as respectivas especificações, incluindo a embalagem final.
 
 6 - Se, na sequência da aplicação do disposto na alínea j) do n.º 3, se revelar necessário alterar os termos da autorização de introdução no mercado ou introduzir uma alteração ao pedido apresentado pelo promotor do ensaio clínico, de acordo com o disposto na respectiva legislação, a proposta de alteração é submetida ao INFARMED, nos termos previstos na legislação aplicável.
 

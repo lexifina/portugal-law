@@ -14,7 +14,7 @@ d) Conterem as menções «Amostra gratuita» e «Venda proibida», ou outras se
 
 e) Serem acompanhadas de um exemplar do resumo das características do medicamento.
 
-2 - O limite previsto na alínea a) do número anterior pode constar da autorização de introdução no mercado do medicamento ou ser definido em termos genéricos pelo INFARMED, I. P., e não pode ser, em cada ano, superior a 4 unidades.
+2 - O limite previsto na alínea a) do número anterior pode constar da autorização de introdução no mercado do medicamento ou ser definido em termos genéricos pelo INFARMED, I.P., e não pode ser, em cada ano, superior a 12 unidades.
 
 3 - As amostras gratuitas de medicamentos sujeitos a receita médica só podem ser cedidas durante os dois anos subsequentes à data de início da respectiva comercialização efectiva.
 

@@ -6,7 +6,7 @@
 
 a) Nome ou firma e domicílio ou sede do requerente;
 
-b) Número de identificação de pessoa coletiva ou número de identificação fiscal;
+b) Número de identificação atribuído pelo Registo Nacional de Pessoas Colectivas ou número fiscal de contribuinte, excepto se o requerente tiver a sua sede, domicílio ou estabelecimento principal noutro Estado membro;
 
 c) Identificação do director técnico;
 
@@ -26,8 +26,6 @@ e) Prova do cumprimento das exigências legais em matéria de prevenção do ris
 
 f) Cópia dos contratos celebrados com a pessoa que assume a direção técnica e, quando for caso disso, com o distribuidor por grosso que assegura a armazenagem dos medicamentos;
 
-g) [Revogada.];
-
-h) Cópia do contrato celebrado com a entidade responsável pela implementação e operação do sistema nacional de verificação de medicamentos, com produção de efeitos condicionada à emissão da autorização de distribuição, caso o requerente pretenda vir a distribuir os medicamentos previstos nos n.os 1 e 2 do artigo 105.º-A.
+g) Comprovativo do pagamento da taxa devida.
 
 3 - Após a apresentação do requerimento, o INFARMED verifica, no prazo de 10 dias úteis, a regularidade da apresentação do mesmo, solicitando ao interessado, quando for caso disso, que forneça os elementos e os esclarecimentos adicionais considerados necessários, sob pena de aquele ser rejeitado.

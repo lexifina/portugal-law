@@ -12,4 +12,4 @@ c) Às informações concretas e aos documentos de referência relativos às alt
 
 d) Às informações relativas à saúde humana ou a doenças humanas, desde que não façam referência, ainda que indirecta, a um medicamento.
 
-2 - O presente capítulo não se aplica às medidas ou práticas comerciais em matéria de margens, preços e descontos, sem prejuízo do disposto no n.º 6 do artigo 153.º
+2 - O presente capítulo não se aplica às medidas ou práticas comerciais em matéria de margens, preços e descontos.

@@ -12,10 +12,6 @@ a) Prescrição de medicamento com margem ou índice terapêutico estreito, de a
 
 b) Fundada suspeita, previamente reportada ao INFARMED, I. P., de intolerância ou reação adversa a um medicamento com a mesma substância ativa, mas identificado por outra denominação comercial;
 
-c) [Revogada.]
+c) Prescrição de medicamento destinado a assegurar a continuidade de um tratamento com duração estimada superior a 28 dias.
 
 4 - A prescrição de medicamentos é feita por via eletrónica ou, em casos excecionais, por via manual, sendo definidas por portaria do membro do Governo responsável pela área da saúde as regras de prescrição e modelos de receita médica, a informação sobre os medicamentos de preço mais baixo disponíveis no mercado, bem como a indicação da opção por parte do doente, face a eventual alteração do medicamento a ser vendido na farmácia.
-
-5 - A prescrição de medicamentos comparticipados pelo SNS, nas unidades de saúde com gestão social, privada e por parte dos médicos no exercício da medicina privada, deve obedecer às condições e orientações aplicáveis à prescrição nas unidades de saúde do SNS.
-
-6 - O membro do Governo responsável pela área da saúde aprova, por portaria, a regulamentação necessária à concretização do disposto no número anterior.

@@ -2,7 +2,7 @@
 
 ### Reclamações
 
-1 - O fabricante fica obrigado a dispor de um sistema de registo e de análise de reclamações, bem como um sistema eficaz para retirar prontamente e a qualquer momento os medicamentos já colocados na rede de distribuição.
+1 - O fabricante fica obrigado a dispor de um sistema de registo e de análise de reclamações.
 
 2 - Todas as reclamações relativas a deficiências de qualidade de medicamentos e de medicamentos experimentais são devidamente registadas e investigadas pelo fabricante.
 

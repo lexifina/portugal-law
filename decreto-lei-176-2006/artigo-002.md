@@ -2,7 +2,7 @@
 
 ### Âmbito de aplicação
 
-1 - Sem prejuízo do disposto no artigo 101.º-A e nas alíneas b) e c) do n.º 2 do artigo 178.º, em legislação especial e nos números seguintes, o presente decreto-lei aplica-se aos medicamentos preparados industrialmente ou em cujo fabrico intervenha um processo industrial.
+1 - Sem prejuízo do disposto em legislação especial e nos números seguintes, o presente decreto-lei aplica-se aos medicamentos preparados industrialmente ou em cujo fabrico intervenha um processo industrial.
 
 2 - Excluem-se do âmbito de aplicação do presente decreto-lei:
 

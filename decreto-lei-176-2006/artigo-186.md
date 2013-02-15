@@ -1,6 +1,6 @@
 ## Capítulo XII
 
-## INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P.
+## Instituto Nacional da Farmácia e do Medicamento
 
 ## Secção I
 

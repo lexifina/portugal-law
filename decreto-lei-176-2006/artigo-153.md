@@ -40,8 +40,6 @@ l) Utilize de forma abusiva, assustadora ou enganosa representações visuais da
 
 5 - É proibida qualquer forma de publicidade comparativa.
 
-6 - Sem prejuízo do dever de informação previsto no artigo 28.º do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual, é proibida qualquer forma de publicidade aos descontos efetuados no preço dos medicamentos abrangidos pelo n.º 2 do artigo anterior.
+6 - É proibida a distribuição directa de medicamentos para fins promocionais.
 
-7 - É proibida a distribuição directa de medicamentos para fins promocionais.
-
-8 - O titular de uma autorização, ou registo, de introdução no mercado, a empresa responsável pela informação ou pela promoção de um medicamento ou o distribuidor por grosso não podem dar, ou prometer, direta ou indiretamente, ao público em geral, prémios, ofertas, bónus ou benefícios pecuniários ou em espécie.
+7 - O titular de uma autorização, ou registo, de introdução no mercado, a empresa responsável pela informação ou pela promoção de um medicamento ou o distribuidor por grosso não podem dar, ou prometer, direta ou indiretamente, ao público em geral, prémios, ofertas, bónus ou benefícios pecuniários ou em espécie.
