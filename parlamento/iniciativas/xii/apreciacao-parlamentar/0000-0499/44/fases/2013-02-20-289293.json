@@ -1,0 +1,178 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "44",
+    "id": "37472",
+    "titulo": "Decreto-Lei n.º 7/2013, de 17 de janeiro \"Estabelece um regime excecional para a seleção e o recrutamento do pessoal docente dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação e Ciência\"."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-02-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "30951",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-02-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-02-20",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-03-21",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos recebidos sobre esta iniciativa",
+            "URL": "http://www.parlamento.pt/sites/com/xiileg/8cecc/paginas/contributosiniciativasii.aspx?id_ini=49"
+          },
+          {
+            "DataDocumento": "2013-04-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Discussão e votação na especialidade - 26-03-2013 (Gravação áudio)",
+            "URL": "http://media.parlamento.pt/www/XIILEG/2SL/COM/08-CECC/CECC_20130326_3.mp3"
+          },
+          {
+            "DataDocumento": "2013-04-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3252684e574a684d3251744d324d33597930304e4456694c5745335a6d45744d54497a4e54566c4d4463794e4455324c6e426b5a673d3d&fich=7da5ba3d-3c7c-445b-a7fa-12355e072456.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5759344f5751354f5459744d54566a4f4330304d47526c4c5749774d7a51744e7a51774d6d55794d5467354d7a5a694c6e426b5a673d3d&fich=1f89d996-15c8-40de-b034-7402e218936b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-01",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659546b334d44526b4d3255745a544d774f5330304e5755324c5467794e4449744e544d7a4d6d55334d3245784f47566d4c6e426b5a673d3d&fich=a9704d3e-e309-45e6-8242-5332e73a18ef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-01",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações na Especialidade da CECC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d55334d444532596d5174596d51784f43303059324a6a4c574a69595745745a4468684e575a6b5a6a426a4d6a41344c6e426b5a673d3d&fich=fe7016bd-bd18-4cbc-bbaa-d8a5fdf0c208.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3517",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "Numero": "3517",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, propostas de alteração apresentadas pelo PCP, BE e PS,  bem como o mapa comparativo das propostas de alteração e a sua votação",
+            "pag": [
+              "3-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-03-30",
+            "pubLeg": "XII",
+            "pubNr": "124",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/124/2013-03-30/3?pgs=3-8&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, propostas de alteração apresentadas pelo PCP, BE e PS,  bem como o mapa comparativo das propostas de alteração e a sua votação",
+            "pag": [
+              "3-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-03-30",
+            "pubLeg": "XII",
+            "pubNr": "124",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/124/2013-03-30/3?pgs=3-8&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-03-26",
+            "dataRemessa": "2013-03-26",
+            "numeroOficio": "167/8ª-CECC",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-03-26",
+            "descricao": "Propostas de Alteração dos GP's do PCP, do BE e do PS foram rejeitadas",
+            "detalhe": null,
+            "id": "63324",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "214",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-02-20",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289293",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
