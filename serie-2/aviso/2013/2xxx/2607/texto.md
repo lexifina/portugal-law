@@ -1,0 +1,5 @@
+Aviso n.º 2607/2013
+Regulamento Municipal de Urbanização, Edificação e de Taxas e Compensações Urbanísticas do concelho de Portalegre (RMUETCU) - Alteração
+Maria Adelaide de Aguiar Marques Teixeira, presidente da Câmara Municipal de Portalegre, faz público, no uso das competências que lhe são atribuídas pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99 de 18 de setembro, na sua atual redação, que, em execução do que dispõe o artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 6/96 de 31 de janeiro e para efeitos do disposto no artigo 3.º do Decreto-Lei n.º 555/99 de 16 de dezembro, na sua atual redação e legislação que se mostre como aplicável, que a alteração aos artigos 4.º, 6.º e 35.º e aos quadros VI, VII, XIII, XIV da tabela anexa do RMUETCU, mereceu aprovação pela Câmara Municipal por deliberação tomada na reunião ordinária realizada em 01 de outubro de 2012 e sessão da Assembleia Municipal de Portalegre realizada a 28 de dezembro de 2012.
+3 de janeiro de 2013. - A Presidente da Câmara Municipal de Portalegre, Maria Adelaide de Aguiar Marques Teixeira.
+306682739
