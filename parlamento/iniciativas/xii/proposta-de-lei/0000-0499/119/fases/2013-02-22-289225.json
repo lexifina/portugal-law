@@ -1,0 +1,380 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "119",
+    "id": "37391",
+    "titulo": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-02-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9248",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-02-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-02-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130222pln&url=l12/sl2/a2013/m02/&tI=00:01:07:556&drc=00:04:07:442"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130222pln&url=l12/sl2/a2013/m02/&tI=00:26:53:281&drc=00:02:07:849"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO DESPORTO E JUVENTUDE",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Alexandre  Mestre"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4",
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-23",
+                "pubLeg": "XII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/058/2013-02-23/3?pgs=3-4,8&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130222pln&url=l12/sl2/a2013/m02/&tI=00:05:35:375&drc=00:03:57:042"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188435",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-23",
+                "pubLeg": "XII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/058/2013-02-23/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130222pln&url=l12/sl2/a2013/m02/&tI=00:09:42:106&drc=00:04:55:616"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-23",
+                "pubLeg": "XII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/058/2013-02-23/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130222pln&url=l12/sl2/a2013/m02/&tI=00:14:45:701&drc=00:04:42:423"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-23",
+                "pubLeg": "XII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/058/2013-02-23/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130222pln&url=l12/sl2/a2013/m02/&tI=00:19:37:022&drc=00:04:27:679"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188438",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-23",
+                "pubLeg": "XII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/058/2013-02-23/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4318",
+                "nome": "Nuno Serra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130222pln&url=l12/sl2/a2013/m02/&tI=00:24:10:190&drc=00:02:38:155"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-23",
+                "pubLeg": "XII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/058/2013-02-23/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289225",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9248",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-02-23",
+        "pubLeg": "XII",
+        "pubNr": "58",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/058/2013-02-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
