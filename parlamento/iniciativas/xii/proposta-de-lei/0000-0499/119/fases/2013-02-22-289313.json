@@ -1,0 +1,237 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "119",
+    "id": "37391",
+    "titulo": "Procede à primeira alteração à Lei n.º 103/97, de 13 de setembro, que estabelece o regime fiscal específico das sociedades desportivas."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-02-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "30672",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-03-21",
+            "id": "94837",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-04-11",
+            "id": "94995",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-04-18",
+            "id": "95054",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-05-09",
+            "id": "95201",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-05-23",
+            "id": "95295",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-05-30",
+            "id": "95358",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-02-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-02-22",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Regime Fiscal das Sociedades Desportivas (PPL-119-GOV)",
+            "num": "2",
+            "orgId": "3603",
+            "publicacao": null,
+            "sigla": "GT-RFSD"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2013-05-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Comentário da ANAF - Associação Nacioal de Agentes de Futebol",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d775a445a6c4d4749324c57466a597a45744e4449315a6930354d44557a4c544a6b5a6d497a4d6d55304e5445784d7935775a47593d&fich=c0d6e0b6-acc1-425f-9053-2dfb32e45113.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Correção à proposta de alteração apresentada pelo GP PCP ao artigo 2.º  da Proposta de Lei n.º 119/XII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251784d32597759544e6c4c54426a596a51744e474e6c4d5331694e6a4a6a4c5456694e6a566b595755334d6d55324d5335775a47593d&fich=d13f0a3e-0cb4-4ce1-b62c-5b65dae72e61.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-27",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Mapa comparativo dos pareceres recebidos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255314e4759784d7a45334c54466d4f4463744e474d784f4331684e324a6a4c545668596a67785957497859546b314e7935775a47593d&fich=e54f1317-1f87-4c18-a7bc-5ab81ab1a957.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49344f4745784e6a646a4c5459774e6a51744e4455784e533035595759774c5441774e3246694d3259344d57526c597935775a47593d&fich=288a167c-6064-4515-9af0-007ab3f81dec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a684e446b314f446c6d4c574d304d6a55744e4755354e6930354e446c684c54566b4d6a55324d444d784f5759345a5335515245593d&fich=2a49589f-c425-4e96-949a-5d2560319f8e.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-28",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo das propostas de alteração",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b775a4463324e44686d4c544d354d3259744e444e684f4331684f4755774c5759335a6a59794e7a686c4f5455325a5335775a47593d&fich=90d7648f-393f-43a8-a8e0-f7f6278e956e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255334e7a4669596a59334c5449305a4749744e4445794d7931694f474e694c546c6d4e7a49344f575a6c4e6a686c4d7935515245593d&fich=e771bb67-24db-4123-b8cb-9f7289fe68e3.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55774d446b314d54526d4c5759774f4467744e444e6c5a43303459324a6d4c544d344e7a51335a6a67344d324e6d4d7935515245593d&fich=5009514f-f088-43ed-8cbf-38747f883cf3.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "2",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração aprexsentadas pelo PSD/CDS-PP, PCP",
+            "pag": [
+              "3-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-29",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/160/2013-06-29/3?pgs=3-21&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração aprexsentadas pelo PSD/CDS-PP, PCP",
+            "pag": [
+              "3-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-29",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/160/2013-06-29/3?pgs=3-21&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-06-28",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-06-28",
+            "dataRemessa": "2013-06-28",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-06-28",
+            "descricao": "Texto Final votado Artigo a Artigo",
+            "detalhe": null,
+            "id": "64296",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "191",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-02-22",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289313",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
