@@ -1,0 +1,1570 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "348",
+    "id": "37503",
+    "titulo": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei nº 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-02-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9261",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e474d324e5467794f4759744d7a4e6c4e533030596a6b334c54686b4f546b744e444d324f544a6d4e575a6c597a4d304c6e426b5a673d3d&fich=4c65828f-33e5-4b97-8d99-43692f5fec34.pdf&Inline=true",
+        "anexoNome": "Texto inicial substituído a pedido do autor da iniciativa"
+      }
+    ],
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-02-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-02-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:04:33:314&drc=00:10:52:141"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:20:34:872&drc=00:02:50:504"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:40:18:236&drc=00:04:16:066"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14",
+                  "2-5",
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/2?pgs=2-5,7-8,13-14&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1512",
+                "nome": "Mota Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:16:04:943&drc=00:04:16:293"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/5?pgs=5-7&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1512",
+                "nome": "Mota Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:23:32:188&drc=00:00:19:680"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:24:08:588&drc=00:00:40:704"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2297",
+                "nome": "Cristóvão Norte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:25:02:420&drc=00:06:07:367"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:31:29:679&drc=00:05:03:371"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/10?pgs=10-12&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:36:42:590&drc=00:03:32:409"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:44:46:806&drc=00:04:24:087"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4439",
+                "nome": "António Prôa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:49:25:371&drc=00:07:04:389"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:04:17:577&drc=00:03:40:747"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-17",
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/15?pgs=15-17,20-21&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=00:56:47:136&drc=00:03:27:608"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:00:21:712&drc=00:01:45:152"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/19?pgs=19&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:02:10:862&drc=00:01:57:527"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1943",
+                "nome": "Ramos Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:08:09:450&drc=00:13:11:784"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/21?pgs=21-25&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1048",
+                "nome": "Altino Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:21:32:421&drc=00:04:56:787"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-27",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/25?pgs=25-27,29-30&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1943",
+                "nome": "Ramos Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:26:46:383&drc=00:01:57:672"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:28:51:460&drc=00:03:37:502"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:32:30:241&drc=00:01:27:712"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188988",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:35:20:008&drc=00:04:35:454"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:40:01:274&drc=00:03:15:980"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188990",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1164",
+                "nome": "Miguel Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:43:29:786&drc=00:04:11:259"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188991",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:47:47:170&drc=00:03:02:364"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:50:57:198&drc=00:03:11:622"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188993",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1512",
+                "nome": "Mota Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:54:11:634&drc=00:01:11:824"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:55:32:215&drc=00:00:28:813"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1512",
+                "nome": "Mota Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:56:14:217&drc=00:00:25:126"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4086",
+                "nome": "António Leitão Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=01:56:44:263&drc=00:07:54:440"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=02:10:29:759&drc=00:01:35:240"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-39",
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/37?pgs=37-39,41-42&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=02:04:48:142&drc=00:05:33:404"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/39?pgs=39-41&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:11",
+            "horaTermo": "17:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130227pln&url=l12/sl2/a2013/m02/&tI=02:12:24:693&drc=00:01:10:126"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "188999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-02-28",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289333",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9261",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-02-28",
+        "pubLeg": "XII",
+        "pubNr": "59",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/059/2013-02-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
