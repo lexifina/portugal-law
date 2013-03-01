@@ -1,0 +1,72 @@
+Portaria n.º 90/2013
+de 28 de fevereiro
+A Portaria n.º 1466/2007, de 15 de novembro, estabeleceu os critérios e as condições para o licenciamento de embarcações para a pesca de espadarte com palangre de superfície no Oceano Atlântico e no Mar Mediterrâneo e a forma de repartição da quota de espadarte, relativamente às unidades populacionais do Atlântico Norte e do Atlântico Sul.
+A experiência entretanto adquirida na gestão destas pescarias e o agravamento das condições de segurança da frota licenciada para operar no Oceano Índico, tornam adequada a alteração dos critérios e das condições em vigor a favor de soluções capazes de promover uma melhor utilização das quotas disponíveis pela frota portuguesa. Nesse sentido, o presente diploma estabelece um novo regime de gestão flexível da quota portuguesa de espadarte no Oceano Atlântico Norte e no Oceano Atlântico Sul, atribuindo competências específicas às organizações de produtores e às associações neste domínio, o que reforça a importância reconhecida a estas organizações.
+Esta nova regulamentação implica alterações profundas ao regime em vigor, pelo que se justifica a aprovação de uma nova Portaria, com a consequente revogação da Portaria n.º 1466/2007, de 15 de novembro.
+Assim, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, na redação dada pelo Decreto-Lei n.º 383/98, de 27 de novembro e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território no despacho n.º 12412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011, manda o Governo, pelo Secretário de Estado do Mar, o seguinte:
+Artigo 1.º
+Objecto
+A presente Portaria define o modelo de gestão, incluindo a repartição das quotas, para a pesca de espadarte com palangre de superfície no Oceano Atlântico e no Mar Mediterrâneo.
+Artigo 2.º
+Repartição da quota de espadarte do Oceano Atlântico a Norte de 5ºN
+1 - A quota de espadarte disponível para Portugal continental, no Oceano Atlântico a Norte de 5ºN é repartida pelas embarcações licenciadas para a pesca dirigida ao espadarte de acordo com a chave de repartição constante do Anexo I à presente Portaria e que dela faz parte integrante.
+2 - As embarcações registadas em portos do continente que não constem do Anexo I à presente Portaria mas que sejam titulares de licença para operar com palangre de superfície no Oceano Atlântico a Norte de 5ºN, apenas podem capturar espadarte como captura acessória, sendo a quantidade máxima desta espécie permitida a bordo igual a 5 % do peso das capturas retidas a bordo, ou a um exemplar caso o peso deste ultrapasse aquele valor.
+Artigo 3.º
+Repartição da quota de espadarte no Oceano Atlântico a Sul de 5ºN
+1 - A quota portuguesa de espadarte relativa ao Oceano Atlântico a Sul de 5ºN é repartida da seguinte forma:
+a) 81 % destina-se a embarcações licenciadas para a pesca dirigida ao espadarte, sendo repartida de acordo com a chave de repartição constante do Anexo II à presente Portaria que dela faz parte integrante;
+b) 19 % destina-se a ser utilizada para capturas acessórias, nos termos dos números seguintes.
+2 - Qualquer embarcação que seja titular de licença para palangre de superfície no Oceano Atlântico Norte pode, através de requerimento, ser licenciada para o Oceano Atlântico Sul, desde que se comprove que possui as características e os requisitos necessários para operar nesta área.
+3 - As embarcações licenciadas nos termos do número anterior apenas podem capturar espadarte no Oceano Atlântico Sul, a Sul de 5º Norte, como capturas acessórias, sendo a quantidade máxima desta espécie permitida a bordo igual a 5 % do peso das capturas retidas a bordo, ou a um exemplar caso o peso deste ultrapasse aquele valor.
+Artigo 4.º
+Gestão Conjunta das quotas de espadarte
+1 - As organizações de produtores ou as associações de profissionais da pesca podem optar por exercer a gestão conjunta das quotas de espadarte das embarcações dos seus membros ou associados que para tal manifestem a sua vontade.
+2 - A gestão conjunta prevista no número anterior está sujeita a comunicação prévia à Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca e pelos proprietários ou armadores das embarcações envolvidas, até 20 dias úteis antes do início do ano civil a que as quotas se referem.
+3 - As organizações de produtores e as associações de profissionais da pesca que tenham optado pela gestão conjunta são responsáveis pela gestão da respetiva quota, que corresponde ao somatório das quotas individuais das embarcações detidas pelos respectivos membros ou associados que participem na gestão conjunta, devendo comunicar à DGRM a data a partir da qual estimam que a quota seja atingida, assegurando que os seus membros ou associados não capturam após o atingir da quota.
+4 - Os membros de organizações de produtores ou de associações de profissionais da pesca que optem pela gestão conjunta não estão sujeitos ao limite da quota individual atribuída nos termos do disposto nos Anexos I e II.
+Artigo 5.º
+Transferência de Quotas
+1 - É admitida a transferência de quotas ou de parte de quotas de cada uma das unidades populacionais de espadarte nas seguintes condições:
+a) Entre organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta;
+b) Entre uma organização de produtores ou associação de profissionais da pesca que tenham optado pela gestão conjunta e embarcações com quota não integradas neste modelo de gestão;
+c) Entre embarcações com quota e não integradas na gestão conjunta;
+d) Entre embarcações com quota ou organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e embarcações sem quota atribuída;
+e) No Oceano Atlântico a Sul de 5º N, entre embarcações detentoras de quota, organizações de produtores ou associações de profissionais da pesca que tenham optado pela gestão conjunta e as embarcações que pescam espadarte como captura acessória, referidas no n.º 3 do artigo 3.º, a favor destas últimas.
+2 - A transferência de quotas prevista no número anterior está sujeita a comunicação prévia à DGRM, mediante documento subscrito pelos representantes das organizações de produtores ou das associações de profissionais da pesca ou, se for caso disso, pelos proprietários/armadores das embarcações envolvidas.
+3 - A transferência de quotas produz efeitos no dia seguinte ao da comunicação prévia à DGRM.
+4 - Uma embarcação, organização de produtores ou associação de profissionais da pesca que receba quotas por transferência não pode ser responsabilizada por quantidades capturadas em excesso pela parte que tenha efetuado a cedência.
+Artigo 6.º
+Condições específicas de utilização das quotas
+1 - A repartição de quotas efectuada nos termos da presente Portaria não é constitutiva de direitos, podendo a todo o tempo ser alterada ou retirada, em resultado de decisões nacionais ou comunitárias, no âmbito da conservação dos recursos.
+2 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II à presente Portaria que sejam definitivamente retiradas da frota de pesca com recurso a ajuda pública, são repartidas pelas restantes embarcações constantes do mesmo Anexo que a embarcação retirada da frota, de acordo com a chave de repartição no mesmo prevista.
+3 - Por despacho do Diretor-geral da DGRM, as quotas das embarcações constantes dos Anexos I e II que sejam definitivamente retiradas da frota de pesca sem recurso a ajuda pública e sem que sejam construídas outras em sua substituição, podem ser transferidas para outras embarcações licenciadas para a mesma arte, constantes dos mesmos Anexos que a embarcação retirada da frota e pertencentes ao mesmo proprietário ou armador.
+4 - Por despacho do Diretor-geral da DGRM, sempre que, à data de 31 de outubro de cada ano, a taxa de utilização da quota de espadarte relativa ao Oceano Atlântico a Norte ou a Sul de 5 º N for inferior a 70 %, a pesca desta espécie pode ser aberta a todas as embarcações licenciadas para operar em cada área com palangre de superfície.
+5 - Por despacho do Diretor-geral da DGRM as embarcações, organizações de produtores ou associações de profissionais da pesca, que num determinado ano, excedam as quotas de espadarte de cuja gestão sejam responsáveis, ficam sujeitas à diminuição da mesma quantidade na quota do ano ou anos seguintes para compensar, dentro das possibilidades, os que, em consequência daquele excesso, não tenham podido capturar o pescado a que correspondem as quotas que lhes foram atribuídas.
+6 - Para efeitos do disposto no número anterior, e sem prejuízo da transferência de quotas prevista no artigo 5.º, as organizações de produtores ou associações de profissionais da pesca comunicam à DGRM a identificação das embarcações cujas capturas determinaram o exceder da quota sujeita a gestão conjunta por aquelas, bem como o volume de capturas em excesso.
+7 - As embarcações referidas no número anterior, caso saiam da gestão conjunta, ficam obrigadas a compensar a organização de produtores ou associação de profissionais, no ano ou anos seguintes, nas condições fixadas por despacho do Diretor-geral da DGRM.
+Artigo 7.º
+Proibição de pesca
+1 - É proibida a pesca de espadarte das unidades populacionais do Oceano Atlântico sempre que se verifique uma das seguintes situações:
+a) Quando, tratando-se de embarcação cuja quota não é gerida por uma organização de produtores ou associação de profissionais da pesca nos termos do n.º 1 do artigo 4.º, a mesma haja pescado a totalidade da respectiva quota individual ou quando, independentemente de tal facto, haja sido encerrada a captura da unidade populacional em causa;
+b) Quando, tratando-se de embarcação referida no n.º 3 do artigo 3.º, haja sido atingido o limite dos 19 % da quota de espadarte da unidade populacional do Oceano Atlântico Sul, estabelecido no n.º 1 do artigo 3.º;
+c) Quando, tratando-se de embarcações cujas quotas estão em gestão conjunta por uma organização de produtores ou associação de profissionais da pesca, haja sido atingida a quota gerida por estas.
+2 - Sempre que a pesca de espadarte tenha sido aberta ao abrigo do disposto no n.º 4 do artigo 6.º, a pesca é proibida logo que seja atingida a totalidade da quota disponível no Oceano Atlântico Norte ou Sul para Portugal continental.
+3 - A proibição a que se refere o número anterior abrange a proibição de manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda, devendo os espécimes indevidamente capturados ser imediatamente devolvidos ao mar.
+Artigo 8.º
+Norma revogatória
+É revogada a Portaria n.º 1466/2007, de 15 de novembro.
+Artigo 9.º
+Norma transitória
+As organizações de produtores ou as associações de profissionais da pesca que pretendam optar pela gestão conjunta em 2013 comunicam a sua intenção à DGRM no prazo de 15 dias após a entrada em vigor da presente Portaria.
+Artigo 10.º
+Entrada em vigor
+A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2013.
+ANEXO I
+(a que se refere o n.º 1 do artigo 2.º)
+Embarcações licenciadas para pesca com palangre de superfície no Atlântico a Norte de 5 º N
+(ver documento original)
+ANEXO II
+(a que se refere a alínea a) do n.º 1 do artigo 3.º)
+Embarcações licenciadas para pesca com palangre de superfície no Atlântico a Sul de 5 º N
+(ver documento original)
