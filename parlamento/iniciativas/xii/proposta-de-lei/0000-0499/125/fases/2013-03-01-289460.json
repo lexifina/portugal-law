@@ -1,0 +1,151 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "125",
+    "id": "37438",
+    "titulo": "Aprova os Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2013-03-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "30751",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-03-13",
+            "id": "95501",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-13",
+            "id": "95499",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-19",
+            "id": "95504",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-19",
+            "id": "95503",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-20",
+            "id": "95505",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-26",
+            "id": "95507",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-26",
+            "id": "95506",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-27",
+            "id": "95509",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-03-27",
+            "id": "95508",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-03-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-03-01",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": "2014-01-14",
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "ANMP - Parecer Prof Gomes Canotilho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a6b34597a566c4f5467745a544579596930304f54677a4c57466b4e4459744e6d51345a6d55314e4745314e44566a4c6e426b5a673d3d&fich=c98c5e98-e12b-4983-ad46-6d8fe54a545c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-14",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Votação na Generalidade em Plenário",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a4d324d446779596d55744d6a63794f4330305a6a637a4c574a6b4e7a51744d6a49355a6a63784e4455354d7a45324c6e426b5a673d3d&fich=336082be-2728-4f73-bd74-229f71459316.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-18",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Prorrogação do prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5464694e6a6c6a59325974596a55304e5330304e6a646c4c5467784f4745745932466b4e324a6a4e6d5933595755354c6e52705a673d3d&fich=97b69ccf-b545-467e-818a-cad7bc6f7ae9.tif&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": "Votação na Generalidade em Plenário",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-01-14",
+            "numeroOficio": "01/11ª-CAOTPL",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2013-03-01",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289460",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
