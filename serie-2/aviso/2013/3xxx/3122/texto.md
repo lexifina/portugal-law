@@ -1,0 +1,9 @@
+Aviso n.º 3122/2013
+Alteração dos Termos de Referência do Plano de Pormenor do Espaço de Reestruturação Urbanística de Carcavelos Sul
+Carlos Carreiras, Presidente da Câmara Municipal de Cascais, faz público que no seguimento da deliberação da Câmara Municipal de Cascais de 18.02.2013, através da proposta n.º 190/2013, foi deliberado proceder à Alteração dos Termos de Referência do Plano de Pormenor do Espaço de Reestruturação Urbanística de Carcavelos Sul.
+De acordo com a citada deliberação e nos termos do disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, encontra-se aberto um período de 15 dias, a contar da publicação na 2.ª série do Diário da República, para formulação de sugestões ou obtenção de informações.
+A proposta está disponível para consulta no sítio da internet http://www.cm-cascais.pt/plano-de-pormenor-do-espaco-de-reestruturacao-urbanis tica-de-carcavelos-sul-0e no Departamento de Planeamento e Qualificação Ambiental/Divisão de Planeamento e Ordenamento do Território, sito no Edifício Tardoz dos Paços do Concelho, no Largo 5 de Outubro, em Cascais, todos os dias úteis das 10 às 12 horas e das 14 às 16 horas.
+Nesse sentido, todos os interessados poderão apresentar as suas reclamações, observações ou sugestões, mediante requerimento dirigido ao Senhor Presidente de Câmara Municipal devidamente identificado ou em livro de consulta pública, disponível na Divisão de Planeamento e Ordenamento do Território, sita no Edifício Tardoz dos Paços do Concelho, no Largo 5 de Outubro, em Cascais ou, então, via correio eletrónico enviada para o endereço:dpq@cm-cascais.pt.
+Para constar se publica o presente Edital e outros de igual teor, que vão ser afixados nos lugares de estilo.
+22 de fevereiro de 2013. - O Presidente da Câmara Municipal de Cascais, Carlos Carreiras.
+206784864
