@@ -1,0 +1,189 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "131",
+    "id": "37564",
+    "titulo": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-03-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "30779",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-03-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-03-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-04-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Nacional de Municipios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d32457a5a545a6a595749745a574a6d595330304d6d4a684c546c6c4e446b744d444e6a5a47557a4e6a466c4f5751774c6e426b5a673d3d&fich=3a3e6cab-ebfa-42ba-9e49-03cde361e9d0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer ANAFRE - Associação Nacional de Freguesias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e545a6b4e5467795a6d4d744d6a677a596930305a444a694c5468694f4455744e6a5668596a59305a474e695954426b4c6e426b5a673d3d&fich=56d582fc-283b-4d2b-8b85-65ab64dcba0d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CSMP - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765932513559324d31596a51745a475669597930304d4746684c5467774e324d74597a64684e444e6d596d526b4d47457a4c6e426b5a673d3d&fich=cd9cc5b4-debc-40aa-807c-c7a43fbdd0a3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CSTAF - Conselho Superoir do Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f546c6b5a44457a4d6a6b744d446c6d5a6930304e6a67334c57497959324d74597a466d4d3255794e7a55784e6a4d344c6e426b5a673d3d&fich=99dd1329-09ff-4687-b2cc-c1f3e2751638.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 6ª CEOP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a59304f4459334e7a51744e5459784e5330304d7a55324c5745775a4755744e574533597a526c4d4745355a6d45334c6e426b5a673d3d&fich=66486774-5615-4356-a0de-5a7c4e0a9fa7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a63334f4749325a5455744f5455314d4330305a544d314c5749314e575174596a4a6d4e4751775a6a55344d574e6d4c6e426b5a673d3d&fich=f778b6e5-9550-4e35-b55d-b2f4d0f581cf.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "83-93"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "117",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/117/2013-04-11/83?pgs=83-93&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "83-93"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "117",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/117/2013-04-11/83?pgs=83-93&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2165",
+            "motivoCessacao": null,
+            "nome": "Jorge Fão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-03-27",
+            "dataRemessa": "2013-04-10",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2013-04-10",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "63457",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "132",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-03-06",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289493",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
