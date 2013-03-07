@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 20/2013
+Recomenda que o Governo Português disponibilize todos os meios técnicos que permitam produzir a informação necessária para argumentar, junto do Comité Fitossanitário da Comissão Europeia, a revisão da listagem de espécies hospedeiras de nemátodo da madeira do pinheiro.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que disponibilize todos os meios técnicos que permitam produzir a informação necessária para argumentar, junto do Comité Fitossanitário da Comissão Europeia, a revisão da listagem de espécies hospedeiras de nemátodo da madeira do pinheiro, tendo como objetivo isentar da obrigatoriedade de cumprir com as exigências fitossanitárias impostas pela legislação comunitária de controlo do nemátodo a espécie Pinus pinea (pinheiro-manso), possibilitando assim a exportação e circulação de madeira, casca e fruto provenientes desta espécie.
+Aprovada em 8 de fevereiro de 2013.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
