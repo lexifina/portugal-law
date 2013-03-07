@@ -1,0 +1,135 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "109",
+  "data_registo": "2013-03-07",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de pesar pelo falecimento de Eduardo Nery",
+    "AutoresGP": [
+      "PSD",
+      "PS",
+      "CDS-PP",
+      "PCP",
+      "BE",
+      "PEV",
+      "Amadeu Soares Albergaria (PSD)",
+      "Emídio Guerreiro (PSD)",
+      "Maria de Belém Roseira (PS)",
+      "Jorge Lacão (PS)",
+      "Inês de Medeiros (PS)",
+      "Maria Conceição Pereira (PSD)",
+      "Maria José Castelo Branco (PSD)",
+      "Luís Menezes (PSD)",
+      "Miguel Santos (PSD)",
+      "Inês Teotónio Pereira (CDS-PP)",
+      "João Pinho de Almeida (CDS-PP)",
+      "Michael Seufert (CDS-PP)",
+      "Isilda Aguincha (PSD)",
+      "Miguel Tiago (PCP)",
+      "Maria Ester Vargas (PSD)",
+      "José Luís Ferreira (PEV)",
+      "Catarina Martins (BE)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2013-03-08",
+    "DataAnuncio": null,
+    "DataEntrada": "2013-03-07",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "109",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "625129",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-09",
+        "pubLeg": "XII",
+        "pubNr": "113",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/113/2013-03-09/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "28357",
+        "obs": null,
+        "pag": [
+          "42-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-09",
+        "pubLeg": "XII",
+        "pubNr": "64",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/064/2013-03-09/42?pgs=42&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2013-03-08",
+        "descricao": null,
+        "detalhe": null,
+        "id": "63144",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "630585",
+            "obs": null,
+            "pag": [
+              "42-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-03-09",
+            "pubLeg": "XII",
+            "pubNr": "64",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/064/2013-03-09/42?pgs=42&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "64",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
