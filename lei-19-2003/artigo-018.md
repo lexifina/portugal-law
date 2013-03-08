@@ -11,3 +11,5 @@
 4 - A subvenção não pode, em qualquer caso, ultrapassar o valor das despesas efectivamente realizadas.
 
 5 - O eventual excedente proveniente de acções de angariação de fundos, relativamente às despesas realizadas, reverte para o Estado.
+
+6 - Apenas 25 % da subvenção pode ser canalizada para despesas com a conceção, produção e afixação de estruturas, cartazes e telas que se destinam à utilização na via pública.
