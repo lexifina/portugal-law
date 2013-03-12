@@ -14,4 +14,4 @@ d) Ao pagamento de contrapartidas resultantes da implementação do princípio d
 
 e) À despesa com a utilização de imóveis.
 
-2 - Quando, nos termos do número anterior, se verifique a consignação parcial, o remanescente da receita é considerado receita do Estado.
+2 - É consignada à Direção-Geral do Tesouro e Finanças 5% da receita proveniente de operações imobiliárias realizadas sobre imóveis do Estado ou de institutos públicos.
