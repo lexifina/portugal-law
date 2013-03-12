@@ -12,4 +12,4 @@
 
 3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo aqueles no exercício das suas funções até efectiva substituição.
 
-4 - (Revogado.)
+4 - Um dos membros do conselho de administração pode assumir as funções de director artístico, mediante despacho conjunto dos membros do Governo responsáveis pelas áreas da cultura e das finanças.

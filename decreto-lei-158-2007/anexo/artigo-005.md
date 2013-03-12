@@ -12,4 +12,4 @@ a) O conselho de administração;
 
 b) O fiscal único.
 
-2 - A estrutura orgânica do TNDM II, E. P. E., integra obrigatoriamente o diretor artístico do Teatro Nacional D. Maria II.
+2 - A estrutura orgânica da TNDM II, E. P. E., integra obrigatoriamente as funções de director artístico.
