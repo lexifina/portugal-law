@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "132",
+  "id": "37580",
+  "fases": 25,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-03-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a51784e6a6c6d4e574d744e54466c596930305a5755314c5749315a6d4d744e7a41774e474531595745305a6a5a684c6e426b5a673d3d&fich=64169f5c-51eb-4ee5-b5fc-7004a5aa4f6a.pdf&Inline=true",
+        "anexoNome": "Parecer da Autoridade da Concorrência"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a45785a544e695a544974595449334e693030595463304c574934595755744d47566c4d6a4978596a4e6b5a6d49334c6e426b5a673d3d&fich=b11e3be2-a276-4a74-b8ae-0ee221b3dfb7.pdf&Inline=true",
+        "anexoNome": "Parecer da CMVM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595752684d474e68595467744e47466b4d6930304d474a6a4c574a684d6a49744e6a4e6c4f4463325a574e6d4d3259304c6e426b5a673d3d&fich=ada0caa8-4ad2-40bc-ba22-63e876ecf3f4.pdf&Inline=true",
+        "anexoNome": "Parecer da ERSE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4751355a446b794d4751744d4455794d7930304d7a67334c546c685a6d51744e32466d4e4451345a6d59774e5459784c6e426b5a673d3d&fich=8d9d920d-0523-4387-9afd-7af448ff0561.pdf&Inline=true",
+        "anexoNome": "Parecer do IMTT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5756685954646d4f4455744d4451344d4330305a444a6b4c5749325a5749744e6d4e6b597a6c6d4d6d4d305a4463344c6e426b5a673d3d&fich=1eaa7f85-0480-4d2d-b6eb-6cdc9f2c4d78.pdf&Inline=true",
+        "anexoNome": "Parecer do INAC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a59304e544530597a55744e545a6c4e7930304e544d304c5745344f5463744e7a46694f544a6c4d3245354e6d4d304c6e426b5a673d3d&fich=764514c5-56e7-4534-a897-71b92e3a96c4.pdf&Inline=true",
+        "anexoNome": "Parecer do ISP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f446b79596a426a4e6a6b745a44646b4f4330304d6d51344c57457a5a4455744e6d59305954453259324a6c5a574a6d4c6e426b5a673d3d&fich=892b0c69-d7d8-42d8-a3d5-6f4a16cbeebf.pdf&Inline=true",
+        "anexoNome": "Parecer da Anacom"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a475a69595455304d5449744d5445314e6930304e5752694c5749314d5745744e574a6a5a44566b4d6a566b4d5467334c6e426b5a673d3d&fich=dfba5412-1156-45db-b51a-5bcd5d25d187.pdf&Inline=true",
+        "anexoNome": "Parecer da ERSAR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576593245314d54497a596a45744e446b314d4330304f4467774c5749794d4459744f4459774f444a6c59545577595463314c6e426b5a673d3d&fich=ca5123b1-4950-4880-b206-86082ea50a75.pdf&Inline=true",
+        "anexoNome": "Parecer da ERSE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5759354d7a637a5a6d55744e444d775a5330304d545a684c5745314d545574596a41794d575133596a4269596d4a6a4c6e426b5a673d3d&fich=5f9373fe-430e-416a-a515-b021d7b0bbbc.pdf&Inline=true",
+        "anexoNome": "Parecer da ERS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659574d314f5451335a6d51744e7a4a684f5330304e44646b4c57493559546b744e57526a4e6d566c4e54426a4e7a55794c6e426b5a673d3d&fich=ac5947fd-72a9-447d-b9a9-5dc6ee50c752.pdf&Inline=true",
+        "anexoNome": "Parecer CMVM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d475a695a4451304d3245745a446b304d6930304d4441794c546c694f4751744d544a694d3255354e544e6d4f54686a4c6e426b5a673d3d&fich=0fbd443a-d942-4002-9b8d-12b3e953f98c.pdf&Inline=true",
+        "anexoNome": "Parecer CMVM-LQER Final"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37580",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a51324d5463775a5449745a544d794d7930304f545a694c546c6a4f5755744f47597a4e6d4d354d5445784f444e684c6d527659773d3d&fich=b46170e2-e323-496b-9c9e-8f36c911183a.doc&Inline=true",
+    "IniNr": "132",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos sectores privado, público e cooperativo.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
