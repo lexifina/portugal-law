@@ -4,7 +4,7 @@
 
 1 - O conselho de administração reúne, pelo menos, quinzenalmente e extraordinariamente sempre que convocado pelo presidente ou por solicitação de dois membros do conselho de administração ou do fiscal único, sem prejuízo de fixação pelo conselho de calendário de reuniões com maior frequência.
 
-2 - Os diretores artísticos do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado, assim como o diretor dos EVC, podem participar nas reuniões do conselho de administração relativas a matérias das suas competências, sem direito de voto.
+2 - Os directores artísticos do Teatro Nacional de São Carlos e da Companhia Nacional de Bailado participam nas reuniões do conselho de administração relativas a matérias das suas competências, sem direito de voto.
 
 3 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno do OPART, E. P. E.
 
