@@ -1,0 +1,8 @@
+Aviso n.º 3721/2013
+Plano de Urbanização da Cidade de Albufeira
+A Câmara Municipal de Albufeira faz saber que foi deliberado, na sua reunião pública realizada a 05/03/2013, dar início ao período de discussão pública da proposta de Plano de Urbanização da Cidade de Albufeira e respetivo procedimento de Avaliação Ambiental Estratégica, nos termos dos n.os 3 e 4 do Artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na redação do Decreto-Lei n.º 46/2009, de 20 de fevereiro e do n.º 7 do artigo 7.º do Decreto-Lei n.º 232/2007, de 15 de junho.
+Nos termos da referida legislação, o período de discussão pública terá início 5 dias úteis após a data de publicação do presente Aviso no Diário da República, decorrendo durante os 30 dias úteis subsequentes.
+Os documentos referentes à proposta de Plano de Urbanização da Cidade de Albufeira estarão disponíveis em www.cm-albufeira.pt e patentes para consulta durante o horário de expediente no Gabinete de Apoio ao Munícipe do Município de Albufeira e na Junta de Freguesia da Albufeira.
+No decurso do período de discussão pública, os interessados poderão formular, reclamações, observações ou sugestões sobre quaisquer questões no âmbito da referida proposta de plano, por escrito, devendo, para o efeito, utilizar a ficha de participação disponibilizada, com o signatário devidamente identificado e dirigido ao Exmo. Sr. Presidente da Câmara Municipal de Albufeira, entregue no Gabinete de Apoio ao Munícipe do Município de Albufeira, remetido por correio eletrónico para geral@cm-albufeira.pt ou endereçado para Município de Albufeira, Paços do Concelho, Rua do Município, 8200-863 Albufeira.
+6 de março de 2013. - O Presidente da Câmara Municipal, Dr. José Carlos Martins Rolo.
+206810661
