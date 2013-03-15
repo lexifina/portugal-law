@@ -1,0 +1,3 @@
+Declaração n.º 2/2013
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 42/XII ao Decreto-Lei n.º 234/2012, de 30 de outubro, que «Procede à segunda alteração ao Decreto-Lei n.º 165/2006, de 11 de agosto, que estabelece o regime do ensino português no estrangeiro», apresentada pelo Grupo Parlamentar do Partido Socialista, uma vez que as propostas de alteração apresentadas foram rejeitadas pela Comissão de Negócios Estrangeiros e Comunidades Portuguesas, tendo o Plenário sido informado do facto.
+Assembleia da República, 28 de fevereiro de 2013. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
