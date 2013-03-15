@@ -1,0 +1,382 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "104",
+    "id": "37320",
+    "titulo": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2013-03-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9311",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2013-03-15",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-03-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:03",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130315pln&url=l12/sl2/a2013/m03/&tI=02:30:40:760&drc=00:03:18:174"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-16",
+                "pubLeg": "XII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/067/2013-03-16/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1512",
+                "nome": "Mota Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:03",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130315pln&url=l12/sl2/a2013/m03/&tI=02:34:08:099&drc=00:02:48:297"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130315pln&url=l12/sl2/a2013/m03/&tI=02:51:03:349&drc=00:01:59:213"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39",
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-16",
+                "pubLeg": "XII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/067/2013-03-16/38?pgs=38-39,42&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4439",
+                "nome": "António Prôa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:03",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130315pln&url=l12/sl2/a2013/m03/&tI=02:37:06:352&drc=00:04:56:546"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-16",
+                "pubLeg": "XII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/067/2013-03-16/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1048",
+                "nome": "Altino Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:03",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130315pln&url=l12/sl2/a2013/m03/&tI=02:42:11:807&drc=00:04:48:213"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-16",
+                "pubLeg": "XII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/067/2013-03-16/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:03",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130315pln&url=l12/sl2/a2013/m03/&tI=02:47:10:083&drc=00:03:42:329"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-03-16",
+                "pubLeg": "XII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/067/2013-03-16/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico das autarquias locais, aprova o estatuto das entidades intermunicipais, estabelece o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais e aprova o regime jurídico do associativismo autárquico.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289805",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9311",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-03-16",
+        "pubLeg": "XII",
+        "pubNr": "67",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/067/2013-03-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2013-03-15",
+        "descricao": "Votação da Proposta 48C apresentada pelo PCP, de substituição do Título III (Entidades intermunicipais) e artigos 63.º a 93.º do Anexo da PPL (pelos artigos 63.º a 77.º constantes da proposta de alteração)",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "63240",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-03-15",
+        "descricao": "Votação da Proposta 1P apresentada pelo PS, de aditamento de um Anexo II à PPL",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "63241",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-03-15",
+        "descricao": "Votação da Proposta 2P apresentada pelo PS, de aditamento de um Anexo III à PPL",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "63242",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-03-15",
+        "descricao": "Votação da assunção pelo Plenário das restantes votações indiciárias realizadas em sede de Comissão",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "63243",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
