@@ -1,0 +1,5 @@
+Aviso n.º 33/2013
+Por ordem superior se torna público que, em 15 de dezembro de 2011 e em 16 de maio de 2012, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros do Reino da Noruega e pela Embaixada de Portugal em Oslo, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e o Reino da Noruega para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 10 de Março de 2011.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 44/2012, de 24 de fevereiro, e ratificada pelo Decreto do Presidente da República n.º 75/2012, de 12 de abril, ambos publicados no Diário da República, Iª Série, n.º 73, de 12 de abril de 2012.
+Nos termos do artigo 29 da referida Convenção, esta entra em vigor a 15 de junho de 2012.
+Direção-Geral dos Assuntos Europeus, 25 de fevereiro de 2013. - O Diretor-Geral, Francisco Duarte Lopes.
