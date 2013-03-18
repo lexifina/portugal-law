@@ -1,0 +1,6 @@
+Aviso n.º 3928/2013
+João Teresa Ribeiro, Presidente da Câmara Municipal do Crato, torna público em cumprimento da deliberação da Câmara Municipal de 20 de fevereiro de 2013, nos termos e para os efeitos do disposto no n.º 3 do artigo 62.º do Decreto-Lei n.º 194/2009 de 20 de agosto, conjugado com o artigo 118.º do Código do Procedimento Administrativo, que se encontra em discussão pública, por um período de 30 dias contados a partir da data da publicação do presente Edital no Diário da República, os projetos relativos aos Regulamentos de Abastecimento de Água, Gestão de Resíduos, Limpeza e Higiene Urbana e de Drenagem de Águas Residuais do Município do Crato.
+Durante o referido período, poderão os interessados consultar o documento no Sector de Taxas e Licenças ou ainda na página da Autarquia, através do endereço: www.cm-crato.pt. As sugestões que os interessados entendam formular deverão ser entregues no Município ou enviadas para o correio eletrónico aguas@cm-crato.pt, até ao término daquele prazo.
+Para constar se publica o presente Edital, sendo ainda divulgado nos lugares habituais, através da internet e nas Juntas de Freguesia deste Município.
+6 de março de 2013. - O Presidente da Câmara Municipal, João Teresa Ribeiro.
+306813634
