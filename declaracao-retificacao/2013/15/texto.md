@@ -1,0 +1,19 @@
+Declaração de Retificação n.º 15/2013
+Para os devidos efeitos, observado o disposto no n.º 2 do artigo 115.º do Regimento da Assembleia da República, declara-se que a Lei n.º 19/2013, de 21 de fevereiro, «29.ª alteração ao Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, e primeira alteração à Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas», publicada no Diário da República, 1.ª série, n.º 37, de 21 de fevereiro de 2013, saiu com as seguintes incorreções, que assim se retificam:
+No artigo 35.º da Lei n.º 112/2009, de 16 de setembro, constante do artigo 5.º, onde se lê:
+«Artigo 35.º
+[...]
+1 - O tribunal, com vista à aplicação das medidas e penas previstas nos artigos 52.º e 152.º do Código Penal e no artigo 31.º da presente lei, deve, sempre que tal se mostre imprescindível para a vítima, determinar que o cumprimento daquelas medidas seja fiscalizado por meios técnicos de controlo à distância.
+2 - ...
+3 - ...
+4 - ...
+5 - ...»
+deve ler-se:
+«Artigo 35.º
+[...]
+1 - O tribunal, com vista à aplicação das medidas e penas previstas nos artigos 52.º e 152.º do Código Penal, no artigo 281.º do Código de Processo Penal e no artigo 31.º da presente lei, deve, sempre que tal se mostre imprescindível para a proteção da vítima, determinar que o cumprimento daquelas medidas seja fiscalizado por meios técnicos de controlo à distância.
+2 - ...
+3 - ...
+4 - ...
+5 - ...»
+Assembleia da República, 14 de março de 2013. - O Secretário-Geral, J. Cabral Tavares.
