@@ -1,0 +1,5 @@
+Aviso n.º 4036/2013
+Nos termos do n.º 2 do Artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação, torna-se público que a Câmara Municipal de Vila Real de Santo António, deliberou, na sua reunião extraordinária de 19 de fevereiro de 2013, aprovar a realização da Alteração ao Plano de Pormenor de Salvaguarda do Núcleo Pombalino de Vila Real de Santo António (PPSNPVRSA), no sentido de ser alterado o Regulamento do Plano de Pormenor.
+Uma vez assegurado o enquadramento acima descrito, convidam-se todos os interessados a formular sugestões, assim como a apresentar informações, por escrito, até 20 dias úteis contados a partir da data de publicação deste aviso no Diário da República, na Equipa Multidisciplinar de Gestão Territorial e Urbanística da Câmara Municipal de Vila Real de Santo António, sobre quaisquer questões que possam ser equacionadas no âmbito deste processo de Alteração.
+11 de março de 2013. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
+206822163
