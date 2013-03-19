@@ -1,3 +1,7 @@
+## Secção II
+
+## Reconhecimento mútuo de decisões de expulsão
+
 # Artigo 83.º
 
 ### Processo de reconhecimento de decisões de expulsão

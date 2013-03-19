@@ -1,3 +1,7 @@
+## Secção III
+
+## Apoio ao afastamento por via aérea durante o trânsito aeroportuário
+
 # Artigo 89.º
 
 ### Encargos com apoio ao trânsito

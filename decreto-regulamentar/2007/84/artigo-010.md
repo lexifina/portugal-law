@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Vistos
+
 ## Secção I
 
 ## Vistos concedidos no estrangeiro

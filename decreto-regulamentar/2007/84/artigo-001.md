@@ -1,3 +1,7 @@
+## Capítulo I
+
+## Entrada e saída de território nacional
+
 # Artigo 1.º
 
 ### Controlo fronteiriço
