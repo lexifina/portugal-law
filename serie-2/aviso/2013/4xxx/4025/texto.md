@@ -1,0 +1,5 @@
+Aviso n.º 4025/2013
+Regulamento Municipal de Urbanização, Edificação e de Taxas e Compensações Urbanísticas do Concelho de Portalegre (RMUETCU) - Alteração
+Maria Adelaide de Aguiar Marques Teixeira, presidente da Câmara Municipal de Portalegre, faz público, no uso das competências que lhe são atribuídas pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99 de 18/09, na sua atual redação, que, em execução do que dispõe o artigo 118.º do CPA, aprovado pelo Decreto-Lei n.º 6/96 de 31/01 e para efeitos do disposto no artigo 3.º do Decreto-Lei n.º 555/99 de 16/12, na sua atual redação e legislação que se mostre como aplicável, que a alteração ao artigo 16.º do RMUETCU, relativa à isenção de taxas municipais para as operações urbanísticas localizadas na Área de Reabilitação Urbana, mereceu aprovação pela Câmara Municipal por deliberação tomada na reunião ordinária realizada em 04 de fevereiro de 2013 e sessão da Assembleia Municipal de Portalegre realizada a 25 de fevereiro de 2013.
+26 de fevereiro de 2013. - A Presidente da Câmara Municipal de Portalegre, Maria Adelaide de Aguiar Marques Teixeira.
+306794908
