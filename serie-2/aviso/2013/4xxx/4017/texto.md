@@ -1,0 +1,8 @@
+Aviso n.º 4017/2013
+Joaquim José Pinto Moreira, Presidente da Câmara Municipal de Espinho:
+Faz público, em cumprimento do disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 316/2007, de 19 de setembro, na sua atual redação publicada através do Decreto-Lei n.º 46/2009, de 20 de fevereiro [Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT)], que a Câmara Municipal de Espinho, em sua reunião ordinária de 27 de fevereiro de 2013, deliberou abrir o procedimento de Elaboração do Plano de Pormenor do Aglomerado da Praia de Paramos.
+Mais deliberou a Câmara Municipal estabelecer um prazo de 18 meses para a elaboração do referido procedimento e prazo de 20 dias úteis para o período de participação pública, contados a partir do primeiro dia útil seguinte ao da publicação do presente Aviso no Diário da República, conforme previsto no n.º 2 do artigo 77.º do RJIGT.
+Durante o período de participação pública, os interessados poderão proceder à apresentação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração do Plano de Pormenor, devendo as mesmas ser apresentadas por escrito e dirigidas ao Presidente da Câmara Municipal de Espinho, Praça Dr. José Salvador, Apartado 700, 4501-901 Espinho, ou por correio eletrónico para o endereço geral@cm-espinho.pt.
+Os interessados poderão consultar os documentos relativos a este processo na página da Internet do Município, com o endereço eletrónico www.cm-espinho.pt, ou no Edifício dos Paços do Concelho, durante o horário de expediente.
+13 de março de 2013. - O Presidente da Câmara, Dr. Joaquim José Pinto Moreira.
+206826562
