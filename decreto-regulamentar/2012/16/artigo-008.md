@@ -27,3 +27,5 @@ i) Quaisquer outras receitas que por lei, contrato ou outro título lhes sejam a
 3 - As quantias cobradas pela CNU são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
 
 4 - A prestação de serviços, assim como a aceitação de comparticipações ou subsídios, só poderão ser efectuadas em relação a entidades estrangeiras, mediante autorização do membro do Governo responsável pela área dos negócios estrangeiros.
+
+5 - A gestão das receitas da CNU é assegurada pelo Departamento Geral de Administração da Secretaria-Geral do MNE.

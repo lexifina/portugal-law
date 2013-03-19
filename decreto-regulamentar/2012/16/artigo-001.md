@@ -2,4 +2,4 @@
 
 ### Natureza
 
-A Comissão Nacional da UNESCO, abreviadamente designada por CNU, é uma estrutura do Ministério dos Negócios Estrangeiros (MNE) dotada de autonomia administrativa.
+A Comissão Nacional da UNESCO, abreviadamente designada por CNU, é uma estrutura do Ministério dos Negócios Estrangeiros.
