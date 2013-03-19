@@ -1,0 +1,7 @@
+Edital n.º 270/2013
+Alteração ao Regulamento de Urbanização e Edificação do Município de Pinhel
+António Luís Monteiro Ruas, Presidente da Câmara Municipal de Pinhel, torna público, e submete a discussão pública a alteração à alínea h) do ponto 2 do artigo 4.º do Regulamento de Urbanização e Edificação do Município de Pinhel, onde se lê: «Edificações de carácter não permanente, a erigir em área rural destinadas ou não a fins comerciais com área igual ou inferior a 10 % da área do terreno» passa a ter a seguinte redação: «As edificações de caráter não permanente, a erigir em área rural, destinadas, ou não, a fins comerciais, terão que ser implantadas, por forma a respeitar obrigatoriamente em qualquer ponto do terreno, o afastamento mínimo de 3.00 metros ao seu limite; apenas será permitida a construção no limite, se houver precedentes edificados nos terrenos confinantes.»
+Assim, os interessados deverão no prazo de 30 dias a contar da data do presente edital, publicado na 2.ª série do Diário da República, dirigir as suas sugestões à referida alteração, por escrito para a morada de: Município de Pinhel, Largo Ministro Duarte Pacheco, n.º 8, 6400-358 Pinhel, ou através do e-mail da Câmara Municipal de Pinhel com o endereço - cm-pinhel@cm-pinhel.pt.
+A presente alteração encontra-se disponível para consulta, na Loja do Munícipe, todos os dias úteis e nas horas normais de expediente, bem como na página de internet do município de Pinhel em www.cm-pinhel.pt.
+5 de março de 2013. - O Presidente da Câmara, Engenheiro António Luís Monteiro Ruas.
+306810912
