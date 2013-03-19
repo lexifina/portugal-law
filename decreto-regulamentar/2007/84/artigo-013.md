@@ -26,9 +26,9 @@ j) Verificar se o requerente se deslocou a Portugal em ocasiões anteriores e se
 
 l) Emitir o respectivo parecer devidamente fundamentado;
 
-m) Registar o pedido no sistema de informação de vistos, previsto no artigo 39.º
+m) Registar o pedido no sistema nacional de vistos, previsto no artigo 39.º.
 
-2 - A autoridade diplomática ou consular pode fazer depender a aceitação do termo de responsabilidade previsto na alínea g) do número anterior de prova de capacidade financeira do seu subscritor.
+2 - A autoridade diplomática ou consular faz depender a aceitação do termo de responsabilidade previsto na alínea g) do número anterior de prova de capacidade financeira do seu subscritor.
 
 3 - A autoridade consular competente pode, em qualquer fase do processo, exigir a presença do requerente na missão diplomática ou posto consular de carreira, tendo em vista a recolha de elementos cujo conhecimento seja conveniente para a instrução e decisão do pedido.
 

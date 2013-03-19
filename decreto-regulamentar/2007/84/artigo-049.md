@@ -30,4 +30,18 @@ e) Informação necessária para verificação da inscrição na administração
 
 5 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para actividade desportiva amadora deve ser acompanhado de documento emitido pela respectiva federação confirmando o exercício da actividade desportiva e de termo de responsabilidade subscrito pela associação ou clube desportivo assumindo a responsabilidade pelo alojamento e pelo pagamento de eventuais cuidados de saúde e despesas de repatriamento.
 
-6 - A decisão sobre os pedidos de prorrogação de permanência apresentado por titular de visto de estada temporária para efeitos de acompanhamento de cidadão em tratamento médico é tomada em consonância com a adoptada quanto ao cidadão acompanhado.
+6 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para frequência de um programa de estudo de duração inferior a um ano em estabelecimento de ensino, ou no âmbito de intercâmbio de estudantes com a mesma duração, é acompanhado de:
+
+a) Documento emitido pelo estabelecimento de ensino, comprovativo da matrícula e frequência;
+
+b) Declaração comprovativa de manutenção do acolhimento por família, nas condições previstas na alínea c) do n.º 5 do artigo 62.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto; ou,
+
+c) Comprovativo de alojamento.
+
+7 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para estágio profissional é acompanhado de documento emitido por empresa, ou organismo de formação profissional oficialmente reconhecido, atestando a frequência do programa de estágio em função da calendarização definida naquele.
+
+8 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para voluntariado obedece à comprovação da idade mínima fixada em portaria do membro do Governo responsável pela área da administração interna, sendo acompanhado de documento emitido pela organização responsável em Portugal pelo programa de voluntariado, oficialmente reconhecida, que ateste a continuidade daquele, sem que possa ultrapassar um ano.
+
+9 - A decisão sobre os pedidos de prorrogação de permanência apresentados por titular de visto de estada temporária para efeitos de acompanhamento de cidadão em tratamento médico é tomada em consonância com a adotada quanto ao cidadão acompanhado.
+
+10 - Para efeitos da alínea e) do n.º 1 e do n.º 2 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, a validade do visto de estada temporária, incluindo a respetiva prorrogação de permanência, não pode exceder um ano.

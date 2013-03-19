@@ -14,6 +14,12 @@ b) Motivos de força maior;
 
 c) Razões pessoais ou profissionais atendíveis.
 
-4 - A prorrogação de permanência requerida com validade para os Estados Partes na Convenção de Aplicação do Acordo de Schengen depende da verificação dos requisitos referidos no n.º 2 do presente artigo e do facto de o visto se encontrar válido, não podendo ser alterado o motivo do mesmo.
+4 - A prorrogação da duração da estada ou da validade de um Visto Schengen depende da verificação dos requisitos previstos no n.º 2 e da validade do visto, não podendo exceder 90 dias em 180 dias, sendo o pedido apreciado tendo em conta, designadamente:
+
+a) Razões humanitárias;
+
+b) Motivos de força maior;
+
+c) Motivos pessoais sérios.
 
 5 - A prorrogação de permanência a que se refere o número anterior só é admitida a quem tenha beneficiado de um visto uniforme, com validade inferior ao limite previsto na Convenção de Aplicação do Acordo de Schengen, em função da natureza do visto e desde que o período de prorrogação não ultrapasse esse limite.

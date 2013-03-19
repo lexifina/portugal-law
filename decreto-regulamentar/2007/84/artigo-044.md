@@ -16,6 +16,8 @@ e) Título de transporte que assegure o regresso, salvo nas situações prevista
 
 f) Quando em visita familiar, comprovativo do respectivo vínculo invocado.
 
-2 - Nos pedidos de prorrogação de permanência é dispensada a entrega de documentos já integrados antes no fluxo de trabalho electrónico do SEF e que se mantenham válidos.
+2 - Em situações devidamente comprovadas e documentadas, o documento solicitado na alínea e) do n.º 1, pode ser substituído por comprovativo de reserva de viagem com indicação da data de regresso.
 
-3 - Os cidadãos menores de 16 anos estão isentos de junção ao processo de informação sobre registo criminal.
+3 - Nos pedidos de prorrogação de permanência é dispensada a entrega de documentos já integrados antes no fluxo de trabalho electrónico do SEF e que se mantenham válidos.
+
+4 - Os cidadãos menores de 16 anos estão isentos de junção ao processo de informação sobre registo criminal.

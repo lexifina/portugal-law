@@ -10,7 +10,7 @@ b) Contrato de sociedade ou de prestação de serviços no âmbito de uma activi
 
 c) Quando aplicável, declaração emitida pela entidade competente para a verificação dos requisitos do exercício de profissão que, em Portugal, se encontre sujeita a qualificações especiais;
 
-d) Declaração, a emitir pelo IEFP, de que a promessa ou contrato de trabalho se refere a oferta disponível para cidadãos nacionais de países terceiros.
+d) Declaração, a emitir pelo Instituto do Emprego e da Formação Profissional, I.P. (IEFP, I.P.), de que a promessa ou contrato de trabalho se refere a oferta disponível para cidadãos nacionais de países terceiros.
 
 2 - O IEFP aprecia as ofertas de emprego para actividade de carácter temporário apresentadas pelas entidades empregadoras ao abrigo do artigo 56.º da Lei n.º 23/2007, de 4 de Julho, e publicita-as, depois de devidamente identificadas e numeradas, em local próprio do seu sítio na Internet, 30 dias após a apresentação da oferta de emprego.
 
@@ -26,4 +26,4 @@ d) Declaração, a emitir pelo IEFP, de que a promessa ou contrato de trabalho s
 
 8 - Com vista a monitorizar as promessas de contrato de trabalho emitidas por entidade patronal, o sistema de informação que gere as comunicações e procedimentos regista o histórico disponível.
 
-9 - A Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas regista o visto no sistema de informação de vistos previsto no artigo 39.º e informa o IEFP sobre a sua concessão, no prazo máximo de cinco dias.
+9 - A Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas regista o visto no sistema nacional de vistos, previsto no artigo 39.º, e informa o IEFP, I.P., sobre a sua concessão no prazo máximo de cinco dias.

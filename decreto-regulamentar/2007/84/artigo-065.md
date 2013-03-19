@@ -8,4 +8,4 @@
 
 3 - No caso de o pedido de renovação do título ser apresentado após o decurso do seu prazo de validade, o pedido deve ser sempre acompanhado de prova de permanência em território nacional ou comprovativo dos motivos de ausência.
 
-4 - À renovação do título de residência permanente por alteração dos elementos de identificação aplica-se o disposto nos n.os 8 e 9 do artigo 63.º
+4 - À renovação do título de residência permanente por alteração dos elementos de identificação aplica-se o disposto nos n.os 10 e 11 do artigo 63.º

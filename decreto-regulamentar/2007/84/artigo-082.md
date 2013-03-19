@@ -2,9 +2,9 @@
 
 ### Cumprimento da decisão
 
-1 - Notificada a decisão de expulsão, o SEF procede à sua execução, no mais curto espaço de tempo possível, conduzindo o cidadão à fronteira.
+1 - Notificada a decisão de afastamento e após o decurso do prazo referido no n.º 1 do artigo 160.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o SEF procede à sua execução, conduzindo o cidadão à fronteira.
 
-2 - No caso de ser concedido prazo para o cidadão abandonar voluntariamente o território nacional, o mesmo não deve exceder 20 dias.
+2 - Nas circunstâncias referidas no n.º 2 do artigo 160.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o SEF procede à execução da decisão de afastamento no mais curto espaço de tempo possível, conduzindo o cidadão à fronteira.
 
 3 - A execução da decisão ou o final do prazo previsto no número anterior implica a inscrição do cidadão na lista nacional de pessoas não admissíveis e no Sistema de Informação Schengen para efeitos de não admissão ou, no caso de aquele não ter abandonado o território dos Estados membros da União Europeia, para efeitos de detenção e condução à fronteira ou reconhecimento da decisão de expulsão.
 

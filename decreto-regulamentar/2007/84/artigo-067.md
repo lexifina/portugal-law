@@ -30,7 +30,7 @@ e) Certidão da decisão que decretou a tutela, acompanhada de certidão da deci
 
 f) Autorização escrita do progenitor não residente autenticada por autoridade consular portuguesa ou cópia da decisão que atribui a confiança legal do filho menor ou a tutela do incapaz ao residente ou ao seu cônjuge, quando aplicável;
 
-g) Qualquer prova indiciária de união de facto que deva ser tomada em consideração para os efeitos do n.º 2 do artigo 104.º da Lei n.º 23/2007, de 4 de Julho.
+g) Prova da união de facto, conforme prevista no artigo 2.º-A da Lei n.º 7/2001, de 11 de maio, alterada pela Lei n.º 23/2010, de 30 de agosto, acompanhada, sempre que possível, de quaisquer elementos indiciários da união de facto que devam ser tomados em consideração para os efeitos do n.º 2 do artigo 104.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 
 3 - Nos casos de menores referidos na alíneas b) e f) do n.º 1 do artigo 99.º da Lei n.º 23/2007, de 4 de Julho, que tenham entrado legalmente em território nacional, os pedidos podem ser acompanhados, em alternativa aos documentos referidos nas alíneas do número anterior, por original ou cópia autenticada da decisão de promoção e protecção do menor, proferida pela Comissão de Protecção de Crianças e Jovens.
 

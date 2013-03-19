@@ -2,7 +2,7 @@
 
 ### Segunda via do título de residência
 
-1 - Pode ser solicitada segunda via do título de residência em caso de mau estado de conservação, perda, destruição, furto ou roubo, salvo se houver lugar à sua renovação, nos termos do artigo 78.º da Lei n.º 23/2007, de 4 de Julho.
+1 - Pode ser solicitada segunda via do título de residência em caso de mau estado de conservação, perda, destruição, furto ou roubo, salvo se houver lugar à sua renovação, nos termos dos artigos 78.º ou 121.º-E da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 
 2 - O pedido é instruído com a declaração dos motivos que o fundamentam e, no caso de furto ou roubo, com cópia da respectiva participação à autoridade policial.
 

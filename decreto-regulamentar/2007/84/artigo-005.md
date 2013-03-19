@@ -6,10 +6,18 @@
 
 2 - O termo de responsabilidade constitui prova da posse de meios de subsistência suficientes, sem prejuízo da possibilidade de apresentação de outros meios válidos de prova.
 
-3 - O SEF pode fazer depender a aceitação dos termos de responsabilidade de prova de capacidade financeira do seu subscritor.
+3 - O SEF pode fazer depender a aceitação dos termos de responsabilidade de prova da capacidade financeira do seu subscritor, atestada, designadamente, através de um dos seguintes documentos:
+
+a) Declaração de liquidação do Imposto sobre o Rendimento das Pessoas Singulares (IRS) do ano anterior;
+
+b) Extrato de remunerações emitido pelos serviços da segurança social;
+
+c) Declaração com o saldo médio bancário;
+
+d) Os três últimos recibos de quitação dos valores auferidos pela prestação de atividade subordinada ou independente.
 
 4 - O termo de responsabilidade a apresentar pelos agentes de navegação, nos termos do n.º 6 do artigo 8.º da Lei n.º 23/2007, de 4 de Julho, está sujeito às condições previstas nos n.os 2 a 4 do artigo 12.º do mesmo diploma legal.
 
-5 - O termo de responsabilidade deve ser redigido em conformidade com modelo a aprovar por despacho do director-geral do SEF.
+5 - [Revogado].
 
-6 - O SEF cria e mantém um registo dos termos de responsabilidade apresentados nos termos dos números anteriores.
+6 - [Revogado].

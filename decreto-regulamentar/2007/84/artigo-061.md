@@ -14,51 +14,53 @@ d) Requerimento para consulta de registo criminal português pelo SEF;
 
 e) Certificado do registo criminal do país de origem, salvo quando os pedidos sejam apresentados ao abrigo das alíneas b), c), d) e j) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho.
 
-2 - O pedido de autorização de residência nos termos da alínea a) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é acompanhado de certidão de registo de nascimento do menor, com dispensa dos documentos previstos no número anterior.
+2 - O pedido de autorização de residência nos termos da alínea a) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é acompanhado de certidão de registo de nascimento do menor e de certificado de inscrição consular com fotografia, com dispensa dos documentos previstos no número anterior.
 
-3 - O pedido de autorização de residência nos termos da alínea b) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
+3 - Nas situações em que não exista representação Consular em Portugal, pode a inscrição referida no número anterior ser substituída por outro meio de prova, incluindo declaração sob compromisso de honra subscrita por um dos progenitores.
 
-a) Certidão de registo de nascimento do menor;
+4 - O pedido de autorização de residência nos termos da alínea b) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado dos seguintes documentos:
+
+a) Certidão de registo de nascimento do menor e de certificado de inscrição consular com fotografia;
 
 b) Comprovativo da frequência de estabelecimento pré-escolar, do ensino básico, secundário ou profissional.
 
-4 - O pedido de autorização de residência nos termos da alínea c) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de comprovativo da actividade desenvolvida durante a permanência em território nacional, designadamente do percurso escolar.
+5 - O pedido de autorização de residência nos termos da alínea c) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de comprovativo da actividade desenvolvida durante a permanência em território nacional, designadamente do percurso escolar.
 
-5 - O pedido de autorização de residência nos termos da alínea d) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
+6 - O pedido de autorização de residência nos termos da alínea d) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
 
 a) Certidão de registo de nascimento;
 
 b) Comprovativos da actividade desenvolvida durante a permanência em território nacional, designadamente do percurso escolar.
 
-6 - O pedido de autorização de residência nos termos da alínea e) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
+7 - O pedido de autorização de residência nos termos da alínea e) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
 
 a) Certidão de decisão que atribui a tutela do menor; ou
 
 b) Original ou cópia autenticada da decisão de promoção e protecção do menor, proferida pela Comissão de Protecção de Crianças e Jovens.
 
-7 - O pedido de autorização de residência apresentado por cidadão estrangeiro abrangido pela alínea f) do n.º 1 artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é apresentado com dispensa dos documentos previstos nas alíneas a) e e) do n.º 1.
+8 - O pedido de autorização de residência apresentado por cidadão estrangeiro abrangido pela alínea f) do n.º 1 artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é apresentado com dispensa dos documentos previstos nas alíneas a) e e) do n.º 1.
 
-8 - O pedido de autorização de residência nos termos da alínea g) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de atestado médico emitido em estabelecimento de saúde oficial ou oficialmente reconhecido, comprovativo de doença prolongada que obste ao retorno ao país, a fim de evitar risco para a saúde do requerente.
+9 - O pedido de autorização de residência nos termos da alínea g) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado de atestado médico emitido em estabelecimento de saúde oficial ou oficialmente reconhecido, comprovativo de doença prolongada que obste ao retorno ao país, a fim de evitar risco para a saúde do requerente.
 
-9 - O pedido de autorização de residência nos termos da alínea h) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de documento comprovativo do cumprimento de serviço militar efectivo nas Forças Armadas Portuguesas.
+10 - O pedido de autorização de residência nos termos da alínea h) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de documento comprovativo do cumprimento de serviço militar efectivo nas Forças Armadas Portuguesas.
 
-10 - O pedido de autorização de residência nos termos da alínea i) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de documento comprovativo da perda da nacionalidade portuguesa ou, na sua falta, de declaração sobre as circunstâncias que determinaram a sua perda, bem como de documento comprovativo da presença em território nacional, designadamente da actividade profissional desenvolvida pelo requerente.
+11 - O pedido de autorização de residência nos termos da alínea i) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de documento comprovativo da perda da nacionalidade portuguesa ou, na sua falta, de declaração sobre as circunstâncias que determinaram a sua perda, bem como de documento comprovativo da presença em território nacional, designadamente da actividade profissional desenvolvida pelo requerente.
 
-11 - O pedido de autorização de residência nos termos da alínea j) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de documento comprovativo da presença em território nacional, designadamente da actividade profissional desenvolvida pelo requerente.
+12 - O pedido de autorização de residência nos termos da alínea j) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado de documento comprovativo da presença em território nacional.
 
-12 - O pedido de autorização de residência nos termos da alínea l) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
+13 - O pedido de autorização de residência nos termos da alínea k) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado dos seguintes documentos:
 
 a) Certidão de nascimento do menor, salvo quando já conste do processo do mesmo;
 
 b) Prova do exercício efectivo do poder paternal e da contribuição para o sustento do menor, nomeadamente através de declaração do progenitor não requerente, confirmando o exercício do poder paternal pelo progenitor requerente, podendo, em casos devidamente, fundamentados, ser dispensado.
 
-13 - O pedido de autorização de residência apresentado por cidadão estrangeiro abrangido pela alínea m) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
+14 - O pedido de autorização de residência nos termos da alínea l) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado dos seguintes documentos:
 
 a) Comprovativo da acreditação em Portugal durante um período não inferior a três anos;
 
 b) Comprovativo do vínculo familiar quando se trate de cônjuge, ascendente ou descendente a cargo.
 
-14 - O pedido de autorização de residência nos termos da alínea n) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado dos seguintes documentos:
+15 - O pedido de autorização de residência nos termos da alínea m) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado dos seguintes documentos:
 
 a) Cópia do auto de denúncia;
 
@@ -66,18 +68,24 @@ b) Declaração emitida pela Autoridade para as Condições de Trabalho ou autor
 
 c) Declaração emitida pela Autoridade para as Condições de Trabalho atestando a existência de uma situação de desprotecção social, exploração salarial e de horário.
 
-15 - O pedido de autorização de residência nos termos da alínea o) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de declaração emitida pela autoridade judicial de onde se conclua a cessação da necessidade de colaboração ou pela certidão da sentença judicial.
+16 - O pedido de autorização de residência nos termos da alínea n) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado de declaração emitida pela autoridade judicial de onde se conclua a cessação da necessidade de colaboração, ou pela certidão da sentença judicial.
 
-16 - O pedido de autorização de residência nos termos da alínea p) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de comprovativo da conclusão do plano de estudos ao nível secundário ou superior.
+17 - O pedido de autorização de residência nos termos da alínea o) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado de comprovativo da conclusão do plano de estudos ao nível secundário ou superior, e contrato de trabalho ou promessa de contrato de trabalho, contrato de prestação de serviços ou declaração de início de atividade independente.
 
-17 - O pedido de autorização de residência nos termos da alínea q) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, é ainda acompanhado de contrato de trabalho ou de prestação de serviços referente à actividade de investigação, docência, num estabelecimento de ensino superior ou altamente qualificada.
+18 - O pedido de autorização de residência nos termos da alínea p) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado de contrato de trabalho ou de prestação de serviços referente à atividade de investigação, docência num estabelecimento de ensino superior ou altamente qualificada, ou de comprovativo que o cidadão estrangeiro se encontra nas condições previstas no n.º 2 do artigo 18.º da Convenção de Aplicação do Acordo de Schengen.
 
-18 - O pedido de autorização de residência nos termos do n.º 3 do artigo 122.º da Lei n.º 23/2007, de 4 de Julho, pode ser feito em simultâneo com o previsto no n.º 3 do presente artigo e deve ser acompanhado dos seguintes documentos:
+19 - O pedido de autorização de residência nos termos da alínea q) do n.º 1 do artigo 122.º da Lei 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é acompanhado dos documentos definidos no despacho a que se refere o n.º 3 do artigo 90.º-A da mesma lei.
 
-a) Certidão de nascimento do menor, salvo quando já conste do processo do mesmo;
+20 - O pedido de autorização de residência nos termos do n.º 4 do artigo 122.º da Lei 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, pode ser feito em simultâneo com o previsto no n.º 3 do presente artigo e ser acompanhado dos seguintes documentos:
 
-b) Prova de que o ascendente do menor exerce sobre ele efectivamente o poder paternal, nomeadamente através de declaração do progenitor não requerente confirmando o facto.
+a) Certidão de nascimento do menor, salvo se constar do respetivo processo;
 
-19 - O pedido de autorização de residência apresentado por cidadão estrangeiro cujo estatuto de residente de longa duração foi cancelado sem decisão de afastamento de território nacional, é acompanhado dos documentos referidos nas alíneas a) a e) do n.º 1.
+b) Prova de que o ascendente do menor exerce efetivamente o poder paternal, nomeadamente, através de declaração do progenitor não requerente confirmando o facto.
 
-20 - Enquanto não for proferida decisão sobre o pedido mencionado no número anterior e se o período autorizado de permanência do requerente em território nacional tiver terminado, pode ser concedida prorrogação de permanência.
+21 - O pedido de autorização de residência apresentado por cidadão estrangeiro cujo estatuto de residente de longa duração ou o cartão azul UE foi cancelado, sem decisão de afastamento de território nacional, é acompanhado dos documentos referidos no n.º 1.
+
+22 - Enquanto não for proferida decisão sobre o pedido mencionado no número anterior e se o período autorizado de permanência do requerente em território nacional tiver terminado, pode ser concedida prorrogação de permanência.
+
+23 - O pedido de concessão de autorização de residência com dispensa de visto ao abrigo do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, não obriga à prorrogação de permanência em território nacional nos termos dos artigos 71.º e seguintes da mesma lei.
+
+24 - Para efeitos da alínea d) do n.º 1, só é concedida autorização de residência com dispensa de visto aos cidadãos estrangeiros que não tenham sido condenados em pena ou penas que, isolada ou cumulativamente, ultrapassem um ano de prisão, ainda que, no caso de condenação por crime doloso previsto no presente diploma ou com este conexo, ou por crime de terrorismo, por criminalidade violenta ou por criminalidade especialmente violenta ou altamente organizada, a respetiva execução tenha sido suspensa.
