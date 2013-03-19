@@ -2,4 +2,4 @@
 
 ### Natureza
 
-A Inspecção-Geral Diplomática e Consular, abreviadamente designada por IGDC, é um serviço central da administração directa do Estado dotado de autonomia administrativa.
+A Inspeção-Geral Diplomática e Consular, abreviadamente designada por IGDC, é um serviço central da administração direta do Estado.
