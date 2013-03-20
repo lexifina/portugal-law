@@ -8,6 +8,6 @@
 
 3 - No caso de estabelecimento industrial sujeito à aprovação de relatório de segurança no âmbito da prevenção de acidentes graves que envolvam substâncias perigosas, a entidade coordenadora estabelece um calendário de reexame das condições de exploração que seja adequado ao preenchimento dos requisitos específicos previstos na legislação aplicável.
 
-4 - O reexame das condições de exploração do estabelecimento industrial contempla a realização de vistorias cuja agenda deve ser comunicada pela entidade coordenadora, com a antecedência mínima de 90 dias relativamente à data prevista para a sua realização, ao requerente, à câmara municipal territorialmente competente e a todas as entidades públicas que, nos termos da lei, se devem pronunciar sobre as condições de exploração do estabelecimento em causa.
+4 - O reexame das condições de exploração do estabelecimento industrial contempla a realização de vistorias cuja agenda deve ser comunicada pela entidade coordenadora, com a antecedência mínima de 20 dias relativamente à data prevista para a sua realização, ao requerente, à câmara municipal territorialmente competente e a todas as entidades públicas que, nos termos da lei, se devem pronunciar sobre as condições de exploração do estabelecimento em causa.
 
 5 - É aplicável às vistorias de reexame a disciplina estabelecida nos artigos 22.º e 23.º, com as devidas adaptações.

@@ -14,7 +14,7 @@ d) «Alteração de estabelecimento industrial» a modificação ou a ampliaçã
 
 e) «Áreas sensíveis» os espaços situados em áreas protegidas;
 
-f) «Eco-eficiência» a estratégia de actuação conducente ao fornecimento de bens e serviços competitivos que satisfaçam as necessidades humanas e que, em simultâneo e progressivamente, reduzam os impactes ambientais negativos e a intensidade de recursos ao longo do ciclo de vida dos produtos para um nível de conformidade com a capacidade receptora do planeta;
+f) [Revogada.]
 
 g) «Entidade acreditada» a entidade reconhecida formalmente pelo organismo nacional de acreditação, no âmbito do Sistema Português da Qualidade, com competência para realizar actividades específicas que o industrial lhe solicita ou que lhe são atribuídas ou delegadas pelas entidades com atribuições no âmbito do presente decreto legislativo regional, nomeadamente para a avaliação da conformidade com a legislação aplicável do projecto descrito no pedido de autorização, na declaração prévia ou no registo, e para a avaliação da conformidade das instalações com o projecto aprovado e a com a legislação aplicável;
 
@@ -30,13 +30,7 @@ m) «Instalação industrial» a unidade técnica dentro de um estabelecimento i
 
 n) «Licença de exploração» a decisão da entidade coordenadora que habilita ao exercício da actividade dos estabelecimentos industriais sujeitos ao procedimento de autorização prévia;
 
-o) «Melhores técnicas disponíveis» a fase de desenvolvimento mais avançada e eficaz das actividades e dos respectivos modos de exploração, que demonstre a aptidão prática de técnicas específicas para constituir, em princípio, a base dos valores limite de emissão com vista a evitar e, quando tal não seja possível, a reduzir de um modo geral as emissões e o impacte no ambiente no seu todo, entendendo-se por:
-
-i) «Melhores» as técnicas mais eficazes para alcançar um nível geral elevado de protecção do ambiente no seu todo;
-
-ii) «Técnicas» o modo como a instalação é projectada, construída, conservada, explorada e desactivada, bem como as técnicas utilizadas no processo de produção;
-
-iii) «Disponíveis» as técnicas desenvolvidas a uma escala que possibilite a sua aplicação no contexto do sector económico em causa em condições económica e tecnicamente viáveis, tendo em conta os custos e os benefícios, quer sejam ou não utilizadas ou produzidas a nível nacional ou comunitário e desde que acessíveis ao operador em condições razoáveis;
+o) [Revogada.]
 
 p) «Número de trabalhadores» o número total de trabalhadores do estabelecimento industrial que, independentemente da natureza do vínculo, se encontram afectos à actividade industrial, excluindo os afectos aos sectores administrativo e comercial;
 
@@ -52,4 +46,4 @@ u) «Sistema de gestão de segurança alimentar» o sistema que possibilita a ge
 
 v) «Sistema de gestão de segurança e saúde no trabalho» o sistema que possibilita a gestão dos riscos para a segurança e saúde no trabalho relacionados com as actividades da organização e compreendendo a estrutura operacional, as actividades de planeamento, as responsabilidades, as práticas, os procedimentos, os processos e os recursos para desenvolver e implementar as condições de segurança e saúde no trabalho;
 
-x) «Título de exploração» o documento que habilita a instalação e exploração de estabelecimentos industriais, estabelecimentos da actividade produtiva similar, actividade temporária e operadores da actividade produtiva local sujeitos aos procedimentos de declaração prévia ou de registo previstos no presente diploma.
+x) «Título de exploração» o documento que habilita a instalação e exploração de estabelecimentos industriais, atividade temporária e operadores da atividade produtiva local sujeitos aos procedimentos de declaração prévia ou de registo previstos no presente diploma.

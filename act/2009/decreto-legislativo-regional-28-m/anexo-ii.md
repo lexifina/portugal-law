@@ -1,7 +1,3 @@
-## Capítulo XI
-
-## Disposições finais
-
 # Anexo II
 
 ### Factores de conversão e coeficientes de equivalência

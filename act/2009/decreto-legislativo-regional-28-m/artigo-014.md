@@ -22,6 +22,6 @@ d) Zona portuária - zona sob jurisdição da Administração dos Portos da RAM.
 
 4 - Os estabelecimentos anexos de pedreiras estão dispensados de autorização de localização, desde que se situem dentro das respectivas áreas licenciadas.
 
-5 - Os estabelecimentos a localizar em zona portuária, nos leitos de margens de cursos de água, ou em área de servidão militar, necessitam de autorização de localização a emitir pelas entidades que detêm a jurisdição sobre aquelas zonas.
+5 - Os estabelecimentos a localizar em zona portuária, nos leitos e margens de cursos de água, em área do domínio público marítimo, ou em área de servidão militar, necessitam de autorização de localização a emitir pelas entidades que detêm a jurisdição sobre aquelas zonas.
 
 6 - Sempre que se aplique o regime jurídico de avaliação de impacte ambiental ou o regime de prevenção de acidentes graves que envolvam substâncias perigosas, a consulta de entidades da administração regional e local que se devam pronunciar em razão da localização é efectuada no âmbito daqueles regimes.

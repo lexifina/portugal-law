@@ -36,7 +36,7 @@ n) Vistorias para verificação do cumprimento das medidas impostas aquando da d
 
 o) Vistorias de controlo das condições impostas aos estabelecimentos que obtiveram a exclusão do regime de prevenção e controlo integrados da poluição;
 
-p) Apreciação dos pedidos de regularização de estabelecimento industrial.
+p) [Revogada];
 
 2 - O montante das taxas previstas no número anterior para os actos relativos aos estabelecimentos industriais é fixado nos termos do anexo V do presente diploma, do qual faz parte integrante, o qual inclui as regras para o seu cálculo e actualização, com base na aplicação de factores multiplicativos sobre uma taxa base.
 

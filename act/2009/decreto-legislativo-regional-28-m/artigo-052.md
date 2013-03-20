@@ -6,7 +6,7 @@
 
 ### Contra-ordenações e coimas
 
-1 - Constitui contra-ordenação, punível com coima cujo montante mínimo é de (euro) 50 a (euro) 100 e máximo de (euro) 3700 a (euro) 44 000, consoante se trate de pessoas singulares ou colectivas:
+1 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 3700, tratando-se de pessoa singular, ou de (euro) 1000 a (euro) 44 000, tratando-se de pessoa coletiva:
 
 a) A execução de projecto de instalação industrial sujeita ao regime de autorização prévia sem que tenha sido efectuado o pedido referido no n.º 2 do artigo 16.º;
 
@@ -34,6 +34,6 @@ m) A infracção ao disposto no n.º 4 do artigo 48.º
 
 2 - No caso das infracções referidas nas alíneas a) a e) do número anterior, os valores mínimos das coimas referidas no corpo do mesmo número são agravados para o dobro.
 
-3 - Constitui contra-ordenação, punível com coima cujo montante mínimo é de (euro) 250 e máximo de (euro) 3700, a inobservância das obrigações previstas no n.º 4 do artigo 6.º
+3 - Constitui contraordenação punível com coima cujo montante mínimo é de (euro) 250 e máximo de (euro) 3700, a inobservância das obrigações previstas no nº 4 do artigo 6º.
 
-4 - A negligência é punível.
+4 - A negligência é punível com coima de valor reduzido a metade.

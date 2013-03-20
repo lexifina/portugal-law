@@ -14,4 +14,4 @@ a) Termo de responsabilidade do responsável técnico do projecto no qual este d
 
 b) Título de autorização de utilização do prédio ou fracção ou cópia do pedido de autorização de utilização apresentado à câmara municipal territorialmente competente.
 
-3 - Considera-se que a data do pedido de licença de exploração é a data aposta no respectivo recibo comprovativo de recebimento que a entidade coordenadora emite no momento do pagamento da taxa prevista no artigo 55.º
+3 - (Revogado);

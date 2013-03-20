@@ -10,7 +10,7 @@
 
 4 - Ocorrendo o deferimento tácito, é remetida ao requerente certidão donde conste a data de apresentação do pedido e a menção expressa àquele deferimento, não havendo lugar ao pagamento de qualquer taxa pela emissão e remessa da certidão.
 
-5 - O operador pode iniciar a exploração logo que tenha em seu poder a notificação do registo ou a certidão prevista no número anterior, documentos que constituem título bastante para o exercício da actividade.
+5 - O operador pode iniciar a exploração logo que tenha em seu poder a notificação do registo ou a certidão prevista no número anterior, bem como o título de autorização de utilização emitido pela câmara municipal territorialmente competente, ou de certidão comprovativa do respetivo deferimento, documentos que constituem título bastante para o exercício da atividade.
 
 6 - A exploração de actividade agro-alimentar que utilize matéria-prima de origem animal não transformada só pode ser iniciada após vistoria da autoridade responsável pela gestão do sistema de segurança alimentar, no prazo máximo de 20 dias, findo o qual o requerente poderá recorrer a vistoria por entidade acreditada, nos termos do presente diploma, e iniciar a exploração após a entrega dos documentos previstos no n.º 3 do artigo 24.º
 
