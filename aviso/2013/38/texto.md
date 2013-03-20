@@ -1,0 +1,4 @@
+Aviso n.º 38/2013
+Por ordem superior se torna público que, em 19 de novembro de 2012, a República da Polónia depositou, nos termos do artigo 22º da Convenção Relativa à Criação de Uma Agência Espacial Europeia (ESA), junto do Governo da República Francesa, país depositário, o seu instrumento de ratificação da Convenção, concluída em Paris, em 30 de maio de 1975.
+Portugal é Parte da Convenção, aprovada para adesão, por Resolução da Assembleia da República n.º 66/2000, ratificada por Decreto do Presidente da República n.º 42/2000, ambos publicados em Diário da República, 1.ª série A, n.º 242, de 19 de outubro de 2000, tendo depositado o respetivo instrumento de ratificação em 14 de novembro de 2000, conforme Aviso n.º 252/2000, publicado em Diário da República, n.º 293, 1.ª série A, de 21 de dezembro de 2000.
+Direção-Geral de Política Externa, 19 de fevereiro de 2013. - O Diretor de Serviços das Organizações Económicas Internacionais, João Pedro Fins do Lago.
