@@ -1,0 +1,4 @@
+Aviso n.º 37/2013
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral do Conselho da Europa, a 5 de fevereiro de 2013, o seu instrumento de ratificação à Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica, adotada em Istambul, a 11 de maio de 2011.
+A Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 4/2013, de 14 de dezembro de 2012, e ratificada pelo Decreto do Presidente da República n.º 13/2013, publicados no Diário da República, 1.ª série, n.º 14, de 21 de janeiro de 2013.
+Direção-Geral de Política Externa, 12 de fevereiro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
