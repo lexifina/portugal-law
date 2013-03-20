@@ -1,7 +1,3 @@
-## Capítulo XI
-
-## Disposições finais
-
 # Anexo I
 
 ### Actividade industrial
