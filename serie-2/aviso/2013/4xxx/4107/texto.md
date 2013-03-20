@@ -1,0 +1,7 @@
+Aviso n.º 4107/2013
+Dinis Manuel da Silva Costa, Presidente da Câmara Municipal de Vizela, torna público, nos termos do disposto nos n.os 3 e 4, do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação e em cumprimento da deliberação da Câmara Municipal de Vizela de 21 de fevereiro de 2013, que a partir do 5.º dia útil a seguir à publicação deste aviso no Diário da República e durante 15 dias úteis, se encontra aberto um período de Discussão Pública da Alteração do Plano de Pormenor do Poço Quente.
+A proposta do Plano, está disponível para consulta na Divisão de Planeamento e Gestão Urbanística da Câmara Municipal de Vizela.
+Durante o período de Discussão Pública, qualquer reclamação, observação, sugestão ou pedido de esclarecimento deve ser apresentado por escrito e entregue diretamente na Divisão de Planeamento e Gestão Urbanística, sita Praça do Município, n.º 552 freguesia de S. Miguel, ou remeter por correio registado, endereçado ao Presidente da Câmara de Vizela - Alteração ao Plano de Pormenor do Poço Quente - Praça do Município, n.º 552 freguesia de S. Miguel, 4815-013 Vizela.
+Para constar se publica o presente aviso no Diário da República, sítio da Câmara Municipal de Vizela e na comunicação social, sendo ainda afixado nos lugares de estilo e outros de igual teor.
+14 de março de 2013. - O Presidente da Câmara, Dinis Manuel da Silva Costa.
+206829495
