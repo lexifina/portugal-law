@@ -1,0 +1,33 @@
+Resolução do Conselho de Ministros n.º 16/2013
+O Programa do XIX Governo Constitucional inclui o compromisso de manter e reforçar o rumo de sucesso da ciência em Portugal, assegurando designadamente a sustentabilidade ao que de melhor se faz no país, criando condições para fazer crescer a nossa competitividade e facilitando a transferência tecnológica dos conhecimentos gerados na investigação científica para o tecido produtivo.
+É neste âmbito que o Governo pretende continuar o Programa de Parceiras Internacionais com as universidades norte-americanas Massachusetts Institute of Technology, Carnegie Mellon University e University of Texas at Austin. Inicia-se, no entanto, uma segunda fase do Programa, reorientada para o empreendedorismo e a inovação, tal como recomendado pela avaliação independente solicitada pelo Governo à Academia da Finlândia, tendo a renegociação com as referidas universidades conduzido a uma redução de custos de cerca de 20 000 000,00 EUR (vinte milhões de euros)/ano.
+No mesmo sentido, assegura-se a continuidade da participação de Portugal em organizações científicas e tecnológicas internacionais de que é membro, na medida em que tal contribui para o desenvolvimento de projetos de I&DT relevantes não apenas para a comunidade científica mas, também, para o tecido empresarial nacional.
+Do mesmo modo, através da autorização concedida pela presente resolução, o Governo assegura a continuidade do projeto Biblioteca Científica Online (b-on), proporcionando à comunidade de ensino e de investigação nacional o acesso on line a um conjunto muito relevante de conteúdos científicos disponibilizados por algumas das mais reputadas editoras e titulares de bases de dados internacionais.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, alterada pelas Leis n.os 20/2012, de 14 de maio, 64/2012, de 20 de dezembro, e 66-B/2012, de 31 de dezembro, e do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, alterado pelas Leis n.os 64/2012, de 20 de dezembro, e 66-B/2012, de 31 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a celebração dos contratos relativos à segunda fase do Programa de Parceiras Internacionais entre a Fundação para a Ciência e a Tecnologia, I.P. (FCT, I.P.), e o Massachusetts Institute of Technology, a Carnegie Mellon University e a University of Texas at Austin, incluído o biz.pt/Global Acceleration Innovation Network.
+2 - Autorizar a realização da despesa inerente à execução, em 2013-2017, dos contratos referidos no número anterior, no montante global de 53 750 000,00 EUR (cinquenta e três milhões e setecentos e cinquenta mil euros), e faseada de acordo com o estabelecido no anexo à presente resolução, que dela faz parte integrante.
+3 - Autorizar a realização da despesa correspondente às quotizações de Portugal nas Organizações Internacionais, de 2013-2018, no montante global de 210 319 000,00 EUR (duzentos e dez milhões e trezentos e dezanove mil euros), e faseada de acordo com o estabelecido no anexo à presente resolução, que dela faz parte integrante.
+4 - Determinar que os encargos referidos nos n.ºs 2 e 3 são suportados por verbas adequadas inscritas e a inscrever no orçamento da FCT, I.P.
+5 - Autorizar a FCT, I.P., a assumir a posição contratual da Fundação para a Computação Científica Nacional (FCCN) e a realizar a despesa inerente à execução, em 2013-2015, dos contratos celebrados entre esta Fundação e os editores Association for Computing Machinery, American Chemical Society, American Institute of Physics, Annual Reviews, Cambridge University Press, EBSCO, Elsevier, Emerald Group Publishing, IEEE, Institute of Physics Publishing, Nature Publishing Group, Royal Society of Chemistry, Sage, Society for Industrial and Applied Mathematics, Springer Science and Business Media, Taylor & Francis Group, Wiley e Thomson Reuters (Scientific), no montante global de 40 629 000,00 EUR (quarenta milhões e seiscentos e vinte nove mil euros).
+6 - Determinar que a despesa referida no número anterior é repartida nos termos do anexo à presente resolução, que dela faz parte integrante, sendo os encargos suportados da seguinte forma:
+a) Em 2013, por verbas a transferir para o orçamento da FCT, I.P., no valor de:
+i) 1 645 000,00 EUR (um milhão e seiscentos e quarenta e cinco mil euros), correspondente a receitas próprias cobradas pela FCCN no âmbito da prestação de serviços a entidades terceiras;
+ii) 6 500 000,00 EUR (seis milhões e quinhentos mil euros), a suportar pelas instituições de ensino superior públicas.
+b) Determinar que às verbas referidas na alínea anterior acrescem ainda:
+i) 1 500 000,00 EUR (um milhão e quinhentos mil euros) do orçamento da FCT, I.P.;
+ii) 3 500 000,00 EUR (três milhões e quinhentos mil euros) do FEDER no âmbito da reprogramação estratégica do QREN, correspondente ao financiamento comunitário Sistema de Apoios à Modernização Administrativa (SAMA).
+c) Em 2014, por verbas a transferir para o orçamento da FCT, I.P., no valor de:
+i) 11 900 000,00 EUR (onze milhões e novecentos mil euros) a suportar pelas instituições de ensino superior públicas.
+d) Determinar que às verbas referidas na alínea anterior acresce ainda:
+i) 1 639 000,00 EUR (um milhão e seiscentos e trinta e nove mil euros) correspondente a receitas próprias cobradas pela FCT, I.P., no âmbito da prestação de serviços a entidades terceiras.
+e) Em 2015, por verbas a transferir para o orçamento da FCT, I.P., no valor de:
+i) 12 300 000,00 EUR (doze milhões e trezentos mil euros) a suportar pelas instituições de ensino superior públicas.
+f) Determinar que às verbas referidas na alínea anterior acresce ainda:
+i) 1 645 000,00 EUR (um milhão e seiscentos e quarenta e cinco mil euros) correspondente a receitas próprias cobradas pela FCT, I.P., no âmbito da prestação de serviços a entidades terceiras.
+7 - Delegar no Ministro da Educação e Ciência, com a faculdade de subdelegação, a competência para aprovar as minutas e celebrar os contratos necessários à execução do disposto na presente resolução.
+8 - Mandatar o Ministro da Educação e Ciência para, através da FCT, I. P., acompanhar, monitorizar e avaliar a execução dos contratos referidos na presente resolução.
+9 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 7 de março de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
+ANEXO
+(ver documento original)
