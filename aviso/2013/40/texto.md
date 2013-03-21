@@ -1,0 +1,5 @@
+Aviso n.º 40/2013
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral das Nações Unidas, a 15 de janeiro de 2013, o seu instrumento de ratificação ao Protocolo Facultativo à Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adotado pela Assembleia Geral das Nações Unidas, em Nova Iorque, em 18 de dezembro de 2002.
+Nos termos do n.º 2 do seu artigo 28º, o Protocolo Facultativo à Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes entra em vigor para a República Portuguesa no dia 14 de fevereiro de 2013.
+O Protocolo Facultativo à Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 143/2012, de 26 de outubro de 2012, e ratificado pelo Decreto do Presidente da República n.º 167/2012, publicados no Diário da República, 1.ª série, n.º 241, de 13 de dezembro de 2012.
+Direção-Geral de Política Externa, 12 de fevereiro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
