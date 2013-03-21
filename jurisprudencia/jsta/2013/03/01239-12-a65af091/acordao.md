@@ -1,0 +1,53 @@
+# Acórdão do Supremo Tribunal Administrativo de 2013-03-21, processo 01239/12
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01239/12
+
+**Data do Acordão:** 03/21/2013
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** MADEIRA DOS SANTOS
+
+**Descritores:** ORDEM DOS ARQUITECTOS; RECONHECIMENTO DE LICENCIATURA; NULIDADE PROCESSUAL; INUTILIDADE DA LIDE; ESTABILIDADE DA INSTÂNCIA; ARQUITECTO; INSCRIÇÃO; PEDIDO DE INDEMNIZAÇÃO
+
+**Nº Convencional:** JSTA000P15474
+
+**Nº do Documento:** SA12013032101239
+
+**Data de Entrada:** 02/01/2013
+
+**Recorrente:** ORDEM DOS ARQUITECTOS
+
+**Recorrido 1:** A......
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – As «quaestiones juris» só existem como tais quando interferem na resolução dos casos, de modo que o tribunal, para raciocinar «secundum logicam», não possa abster-se de as enfrentar e resolver, salvo se as considerar prejudicadas.
+
+II – Assim, não incorreu em omissão de pronúncia o aresto que ajuizou da legalidade do acto impugnado sem conhecer da alegada vinculação do seu autor às normas, mesmo que inconstitucionais, que aplicou, pois esta vinculação nenhuma interferência tinha naquele juízo nem fora alegado que tivesse.
+
+III – As atribuições da Ordem dos Arquitectos de «admitir e certificar a inscrição dos arquitectos, bem como conceder o respectivo título profissional» não abrangem a possibilidade de rejeitar a inscrição de titulares de certas licenciaturas, reconhecidas pelo Estado Português.
+
+IV – É nulo o acto que, fundando-se numa discriminação desse tipo, indeferiu o pedido de inscrição nessa Ordem de um licenciado em Arquitectura por uma universidade portuguesa privada.
+
+V – Tem natureza impugnatória a acção administrativa especial em que o autor, para além de formular o pedido de anulação do acto impugnado, deduz o pedido complementar de condenação da Ordem dos Arquitectos a reconhecer o seu «direito» a ser inscrito, com efeitos «ex tunc», «como membro efectivo» dela, se este pedido se apresentava como consequência do primeiro e exclusivamente partia dos vícios causais da ilegalidade do acto.
+
+VI – A invocada retroactividade do pedido condenatório dito em V exclui a inutilidade da respectiva instância, desde que essa inutilidade se baseie em vicissitudes reportadas a um tempo posterior ao da pretendida eficácia do pedido.
+
+VII – O pedido condenatório dito em V era inviável, por haver um claro «non sequitur» entre a causa de pedir e a consequência jurídica pretendida.
+
+VIII – E era processualmente inadmissível que o autor, na alegação de direito oferecida na 1.ª instância, alterasse a «causa petendi» por forma a que o mesmo pedido condenatório se fundasse, «ex novo», na inconstitucionalidade das normas que, impossibilitando uma inscrição imediata «como membro efectivo», impunham a prévia realização de um estágio.
+
+IX – Se na apreciação do dito pedido não estavam implicadas certas normas, torna-se impossível que tal apreciação se estenda à constitucionalidade delas.
+
+X – Não pode reconhecer-se o dano fundado no não reconhecimento de uma qualidade profissional se não se demonstrar que esta já existia ou era devida – pois os danos resultam de lesões e estas haveriam de incidir sobre a referida qualidade.
+
+XI – Assim, as perdas que o autor filia no facto de não ter podido exercer, em 2005, a profissão de arquitecto não constituem danos reais se não estiver assegurado que ele, então, tinha o direito de ser admitido pela Ordem a tal exercício.
+
+XII – Ao editar, «motu proprio» e «contra legem», um regulamento discriminativo do curso universitário do autor, a Ordem dos Arquitectos agiu ilícita e culposamente, ilicitude e culpa que não se esfumam pelo facto dela estar vinculada a aplicá-lo por via do princípio da inderrogabilidade singular dos regulamentos.
+
+XIII – Se essa actuação ilícita e culposa causou danos morais ao autor, justifica-se que se condene a Ordem dos Arquitectos a pagar-lhe a correspondente indemnização.
