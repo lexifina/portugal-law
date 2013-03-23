@@ -12,8 +12,16 @@ c) Vigorar a declaração de contumácia; ou
 
 d) A sentença não puder ser notificada ao arguido julgado na ausência;
 
-e) O delinquente cumprir no estrangeiro pena ou medida de segurança privativas da liberdade.
+e) A sentença condenatória, após notificação ao arguido, não transitar em julgado;
+
+f) O delinquente cumprir no estrangeiro pena ou medida de segurança privativas da liberdade.
 
 2 - No caso previsto na alínea b) do número anterior a suspensão não pode ultrapassar 3 anos.
 
-3 - A prescrição volta a correr a partir do dia em que cessar a causa da suspensão.
+3 - No caso previsto na alínea c) do n.º 1 a suspensão não pode ultrapassar o prazo normal de prescrição.
+
+4 - No caso previsto na alínea e) do n.º 1 a suspensão não pode ultrapassar 5 anos, elevando-se para 10 anos no caso de ter sido declarada a excecional complexidade do processo.
+
+5 - Os prazos a que alude o número anterior são elevados para o dobro se tiver havido recurso para o Tribunal Constitucional.
+
+6 - A prescrição volta a correr a partir do dia em que cessar a causa da suspensão.

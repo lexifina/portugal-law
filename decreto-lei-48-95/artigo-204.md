@@ -24,6 +24,8 @@ i) Deixando a vítima em difícil situação económica;
 
 é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.
 
+j) Impedindo ou perturbando, por qualquer forma, a exploração de serviços de comunicações ou de fornecimento ao público de água, luz, energia, calor, óleo, gasolina ou gás;
+
 2 - Quem furtar coisa móvel alheia:
 
 a) De valor consideravelmente elevado;

@@ -28,6 +28,6 @@ d) Que possua significado importante para o desenvolvimento tecnológico ou econ
 
 é punido com pena de prisão de 2 a 8 anos.
 
-3 - É correspondentemente aplicável o disposto nos n.os 3 e 4 do artigo 204.º, nos n.os 2 e 3 do artigo 206.º e na alínea a) do artigo 207.º
+3 - É correspondentemente aplicável o disposto nos n.os 3 e 4 do artigo 204.º e 2 e 3 do artigo 206.º e na alínea a) do n.º 1 do artigo 207.º
 
 4 - O n.º 1 do artigo 206.º aplica-se nos casos da alínea a) do n.º 1 e da alínea a) do n.º 2.

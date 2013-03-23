@@ -16,7 +16,7 @@ d) Empregar tortura ou acto de crueldade para aumentar o sofrimento da vítima;
 
 e) Ser determinado por avidez, pelo prazer de matar ou de causar sofrimento, para excitação ou para satisfação do instinto sexual ou por qualquer motivo torpe ou fútil;
 
-f) Ser determinado por ódio racial, religioso, político ou gerado pela cor, origem étnica ou nacional, pelo sexo ou pela orientação sexual da vítima;
+f) Ser determinado por ódio racial, religioso, político ou gerado pela cor, origem étnica ou nacional, pelo sexo, pela orientação sexual ou pela identidade de género da vítima;
 
 g) Ter em vista preparar, facilitar, executar ou encobrir um outro crime, facilitar a fuga ou assegurar a impunidade do agente de um crime;
 
