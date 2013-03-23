@@ -2,7 +2,7 @@
 
 ### Acolhimento
 
-1 - A admissão das vítimas nas casas de abrigo processa-se por indicação da equipa técnica das entidades que integram a rede nacional e, em situação de emergência, também por indicação dos órgãos de polícia criminal na sequência de pedido da vítima, de acordo com a avaliação de grau de risco.
+1 - A admissão das vítimas nas casas de abrigo processa-se, quer por indicação da equipa técnica dos centros de atendimento, quer através dos técnicos que asseguram o serviço de atendimento telefónico da linha verde, na sequência de pedido da vítima.
 
 2 - O acolhimento é assegurado pela instituição que melhor possa garantir as necessidades de apoio efectivo à vítima de acordo com a análise da competente equipa técnica.
 

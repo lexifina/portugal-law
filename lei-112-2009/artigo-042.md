@@ -16,4 +16,4 @@ b) Saída da casa de morada de família no momento em que se efective a transfer
 
 5 - O disposto nos números anteriores é aplicável, com as devidas adaptações, aos trabalhadores que exercem funções públicas, independentemente da modalidade de constituição da relação jurídica de emprego público ao abrigo da qual exercem as respectivas funções.
 
-6 - Na situação de suspensão a que se refere o n.º 3, são aplicáveis aos trabalhadores que exercem funções públicas, com as necessárias adaptações, os efeitos previstos no artigo 277.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho.
+6 - Na situação de suspensão a que se refere o n.º 3 são aplicáveis aos trabalhadores que exercem funções públicas na modalidade de nomeação, com as necessárias adaptações, os efeitos previstos no artigo 231.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro.

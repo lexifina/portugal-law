@@ -5,5 +5,3 @@
 1 - A denúncia de natureza criminal é feita nos termos gerais, sempre que possível, através de formulários próprios, nomeadamente autos de notícia padrão, criados no âmbito da prevenção, da investigação criminal e do apoio às vítimas.
 
 2 - É ainda assegurada a existência de formulários próprios no âmbito do sistema de queixa electrónica, que garante a conexão com um sítio da Internet de acesso público com informações específicas sobre violência doméstica.
-
-3 - A denúncia é de imediato elaborada pela entidade que a receber e, quando feita a entidade diversa do Ministério Público, é a este imediatamente transmitida, acompanhada da primeira avaliação de risco da vítima efetuada pelos órgãos de polícia criminal, sendo igualmente remetidas ao Ministério Público as reavaliações subsequentes que forem realizadas.

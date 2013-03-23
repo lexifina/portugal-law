@@ -2,18 +2,14 @@
 
 ### Direito à protecção
 
-1 - É assegurado um nível adequado de proteção à vítima e, sendo caso disso, à sua família ou a pessoas em situação equiparada, nomeadamente no que respeita à segurança e salvaguarda da vida privada, sempre que as autoridades competentes considerem que existe uma ameaça séria de represálias, de situações de revitimação ou fortes indícios de que essa privacidade possa ser perturbada.
+1 - É assegurado um nível adequado de protecção à vítima e, sendo caso disso, à sua família ou a pessoas em situação equiparada, nomeadamente no que respeita à segurança e salvaguarda da vida privada, sempre que as autoridades competentes considerem que existe uma ameaça séria de actos de vingança ou fortes indícios de que essa privacidade pode ser grave e intencionalmente perturbada.
 
 2 - O contacto entre vítimas e arguidos em todos os locais que impliquem a presença em diligências conjuntas, nomeadamente nos edifícios dos tribunais, deve ser evitado, sem prejuízo da aplicação das regras processuais estabelecidas no Código de Processo Penal.
 
 3 - Às vítimas especialmente vulneráveis deve ser assegurado o direito a beneficiarem, por decisão judicial, de condições de depoimento, por qualquer meio compatível, que as protejam dos efeitos do depoimento prestado em audiência pública.
 
-4 - O juiz, ou, durante a fase de inquérito, o Ministério Público, deve determinar, sempre que tal se mostre imprescindível à proteção da vítima e obtido o seu consentimento, que lhe seja assegurado apoio psicossocial e proteção por teleassistência, por período não superior a seis meses, prorrogável se as circunstâncias associadas à proteção da vítima o justificarem.
+4 - O juiz ou, durante a fase de inquérito, o Ministério Público, podem determinar, sempre que tal se mostre imprescindível à protecção da vítima e obtido o seu consentimento, que lhe seja assegurado apoio psicossocial e protecção por teleassistência, por período não superior a seis meses, salvo se circunstâncias excepcionais impuserem a sua prorrogação.
 
-5 - A vítima pode requerer que a sua morada seja ocultada nas notificações das autoridades competentes que tenham o suspeito ou o arguido como destinatário.
+5 - O organismo da Administração Pública responsável pela área da cidadania e da igualdade de género pode recorrer a regimes de parceria para instalar, assegurar e manter em funcionamento sistemas técnicos de teleassistência.
 
-6 - Por regulamentação do Governo é definido o organismo da Administração Pública responsável pelos sistemas técnicos de teleassistência, que pode recorrer a regimes de parceria para os instalar, assegurar e manter em funcionamento.
-
-7 - A proteção por teleassistência considera-se automaticamente extinta decorrido um período equivalente ao prazo inicialmente determinado, acrescido de duas prorrogações, quando não tenha ocorrido a comunicação fundamentada da decisão de extinção ou prorrogação ao organismo referido no número anterior.
-
-8 - O disposto nos números anteriores não prejudica a aplicação das demais soluções constantes do regime especial de protecção de testemunhas, nomeadamente no que se refere à protecção dos familiares da vítima.
+6 - O disposto nos números anteriores não prejudica a aplicação das demais soluções constantes do regime especial de protecção de testemunhas, nomeadamente no que se refere à protecção dos familiares da vítima.

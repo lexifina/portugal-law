@@ -34,7 +34,7 @@ b) Os elementos pertinentes que lhe permitam, após a acusação ou a decisão i
 
 c) A sentença do tribunal.
 
-3 - Devem ser promovidos os mecanismos adequados para fornecer à vítima a informação sobre a libertação de agente detido, preso preventivamente ou condenado pela prática do crime de violência doméstica, no âmbito do processo penal.
+3 - Devem ser promovidos os mecanismos adequados para fornecer à vítima a informação sobre a libertação de agente detido ou condenado pela prática do crime de violência doméstica, no âmbito do processo penal.
 
 4 - A vítima deve ainda ser informada, sempre que tal não perturbe o normal desenvolvimento do processo penal, sobre o nome do agente responsável pela investigação, bem como da possibilidade de entrar em contacto com o mesmo para obter informações sobre o estado do processo penal.
 

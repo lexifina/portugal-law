@@ -6,7 +6,7 @@
 
 2 - O controlo à distância é efectuado, no respeito pela dignidade pessoal do arguido, por monitorização telemática posicional, ou outra tecnologia idónea, de acordo com os sistemas tecnológicos adequados.
 
-3 - O controlo à distância cabe aos serviços de reinserção social e é executado em estreita articulação com os serviços de apoio à vítima, sem prejuízo do uso dos sistemas complementares de teleassistência referidos no n.º 6 do artigo 20.º
+3 - O controlo à distância cabe aos serviços de reinserção social e é executado em estreita articulação com os serviços de apoio à vítima, sem prejuízo do uso dos sistemas complementares de teleassistência referidos no n.º 5 do artigo 20.º
 
 4 - Para efeitos do disposto no n.º 1, o juiz solicita prévia informação aos serviços encarregados do controlo à distância sobre a situação pessoal, familiar, laboral e social do arguido ou do agente.
 

@@ -8,7 +8,7 @@
 
 A presente lei estabelece um conjunto de medidas que têm por fim:
 
-a) Desenvolver políticas de sensibilização nas áreas da educação, da informação, da saúde, da segurança, da justiça e do apoio social, dotando os poderes públicos de instrumentos adequados para atingir esses fins;
+a) Desenvolver políticas de sensibilização nas áreas da educação, da informação, da saúde e do apoio social, dotando os poderes públicos de instrumentos adequados para atingir esses fins;
 
 b) Consagrar os direitos das vítimas, assegurando a sua protecção célere e eficaz;
 
@@ -29,5 +29,3 @@ i) Assegurar a aplicação de medidas de coacção e reacções penais adequadas
 j) Incentivar a criação e o desenvolvimento de associações e organizações da sociedade civil que tenham por objectivo actuar contra a violência doméstica, promovendo a sua colaboração com as autoridades públicas;
 
 l) Garantir a prestação de cuidados de saúde adequados às vítimas de violência doméstica.
-
-m) Prever a análise retrospetiva de situações de homicídio ocorrido em contexto de violência doméstica e que tenham sido já objeto de decisão judicial transitada em julgado ou de decisão de arquivamento, com vista a retirar conclusões que permitam a implementação de novas metodologias preventivas ao nível dos procedimentos dos serviços da Administração Pública com intervenção na proteção das vítimas.
