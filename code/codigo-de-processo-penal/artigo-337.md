@@ -10,6 +10,4 @@
 
 4 - Ao arresto é correspondentemente aplicável o disposto no artigo 228.º, n.os 2, 3, 4 e 5.
 
-5 - O despacho que declarar a contumácia é anunciado nos termos do artigo 113.º, n.º 9, parte final, e notificado, com indicação dos efeitos previstos no n.º 1, ao defensor e a parente ou a pessoa da confiança do arguido.
-
-6 - O despacho que declarar a contumácia, com especificação dos respectivos efeitos, e aquele que declarar a sua cessação são registados no registo de contumácia.
+5 - O despacho que declarar a contumácia é anunciado nos termos da parte final do n.º 12 do artigo 113.º e notificado, com indicação dos efeitos previstos no n.º 1, ao defensor e a parente ou a pessoa da confiança do arguido.

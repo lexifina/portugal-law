@@ -6,7 +6,7 @@
 
 2 - Se, na vista a que se refere o artigo anterior, o Ministério Público não se limitar a apor o seu visto, o arguido e os demais sujeitos processuais afectados pela interposição do recurso são notificados para, querendo, responder no prazo de 10 dias.
 
-3 - Se a motivação do recurso não contiver conclusões ou destas não for possível deduzir total ou parcialmente as indicações previstas nos n.os 2 a 5 do artigo 412.º, o relator convida o recorrente a apresentar, completar ou esclarecer as conclusões formuladas, no prazo de 10 dias, sob pena de o recurso ser rejeitado ou não ser conhecido na parte afectada.
+3 - Se das conclusões do recurso não for possível deduzir total ou parcialmente as indicações previstas nos n.os 2 a 5 do artigo 412.º, o relator convida o recorrente a completar ou esclarecer as conclusões formuladas, no prazo de 10 dias, sob pena de o recurso ser rejeitado ou não ser conhecido na parte afetada. Se a motivação do recurso não contiver as conclusões e não tiver sido formulado o convite a que se refere o n.º 2 do artigo 414.º, o relator convida o recorrente a apresentá-las em 10 dias, sob pena de o recurso ser rejeitado.
 
 4 - O aperfeiçoamento previsto no número anterior não permite modificar o âmbito do recurso que tiver sido fixado na motivação.
 
