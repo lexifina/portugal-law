@@ -4,7 +4,7 @@
 
 1 - É condenado na proibição de conduzir veículos com motor por um período fixado entre três meses e três anos quem for punido:
 
-a) Por crime previsto nos artigos 291.º ou 292.º;
+a) Por crimes de homicídio ou de ofensa à integridade física cometidos no exercício da condução de veículo motorizado com violação das regras de trânsito rodoviário e por crimes previstos nos artigos 291.º e 292.º;
 
 b) Por crime cometido com utilização de veículo e cuja execução tiver sido por este facilitada de forma relevante; ou
 
@@ -20,4 +20,4 @@ c) Por crime de desobediência cometido mediante recusa de submissão às provas
 
 6 - Não conta para o prazo da proibição o tempo em que o agente estiver privado da liberdade por força de medida de coacção processual, pena ou medida de segurança.
 
-7 - Cessa o disposto no n.º 1 quando, pelo mesmo facto, tiver lugar a aplicação da cassação ou da interdição da concessão do título de condução, nos termos dos artigos 101.º e 102.º
+7 - Cessa o disposto no n.º 1 quando, pelo mesmo facto, tiver lugar a aplicação de cassação ou de interdição da concessão do título de condução nos termos do artigo 101.º
