@@ -22,6 +22,8 @@ e) Os actos relativos à concessão da liberdade condicional, quando se encontra
 
 f) Os actos de mero expediente, bem como as decisões das autoridades judiciárias, sempre que necessário.
 
+g) Os atos considerados urgentes em legislação especial.
+
 3 - O interrogatório do arguido não pode ser efectuado entre as 0 e as 7 horas, salvo em acto seguido à detenção:
 
 a) Nos casos da alínea a) do n.º 5 do artigo 174.º; ou

@@ -14,8 +14,10 @@
 
 4 - Os requerimentos de prova são ainda indeferidos se for notório que:
 
-a) As provas requeridas são irrelevantes ou supérfluas;
+a) As provas requeridas já podiam ter sido juntas ou arroladas com a acusação ou a contestação, exceto se o tribunal entender que são indispensáveis à descoberta da verdade e boa decisão da causa;
 
-b) O meio de prova é inadequado, de obtenção impossível ou muito duvidosa; ou
+b) As provas requeridas são irrelevantes ou supérfluas;
 
-c) O requerimento tem finalidade meramente dilatória.
+c) O meio de prova é inadequado, de obtenção impossível ou muito duvidosa; ou
+
+d) O requerimento tem finalidade meramente dilatória.

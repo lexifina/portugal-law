@@ -2,6 +2,6 @@
 
 ### (Notificações)
 
-1 - A autoridade judiciária ou a entidade policial que tiverem procedido à detenção notificam verbalmente, no próprio acto, as testemunhas da ocorrência, em número não superior a cinco, e o ofendido, se a sua presença for útil, para comparecerem perante o Ministério Público junto do tribunal competente para o julgamento.
+1 - A autoridade judiciária ou a entidade policial que tiverem procedido à detenção notificam verbalmente, no próprio ato, as testemunhas presentes, em número não superior a sete, e o ofendido para comparecerem perante o Ministério Público junto do tribunal competente para o julgamento.
 
-2 - No mesmo acto o arguido é informado de que pode apresentar ao Ministério Público junto do tribunal competente para o julgamento até cinco testemunhas, sendo estas, se presentes, verbalmente notificadas.
+2 - No mesmo ato, o arguido é notificado de que tem direito a prazo não superior a 15 dias para apresentar a sua defesa, o que deve comunicar ao Ministério Público junto do tribunal competente para o julgamento e de que pode apresentar até sete testemunhas, sendo estas verbalmente notificadas caso se achem presentes.

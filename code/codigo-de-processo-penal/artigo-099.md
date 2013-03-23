@@ -12,7 +12,7 @@ a) Identificação das pessoas que intervieram no acto;
 
 b) Causas, se conhecidas, da ausência das pessoas cuja intervenção no acto estava prevista;
 
-c) Descrição especificada das operações praticadas, da intervenção de cada um dos participantes processuais, das declarações prestadas, do modo como o foram e das circunstâncias em que o foram, dos documentos apresentados ou recebidos e dos resultados alcançados, de modo a garantir a genuína expressão da ocorrência;
+c) Descrição especificada das operações praticadas, da intervenção de cada um dos participantes processuais, das declarações prestadas, do modo como o foram e das circunstâncias em que o foram, incluindo, quando houver lugar a registo áudio ou audiovisual, à consignação do início e termo de cada declaração, dos documentos apresentados ou recebidos e dos resultados alcançados, de modo a garantir a genuína expressão da ocorrência;
 
 d) Qualquer ocorrência relevante para apreciação da prova ou da regularidade do acto.
 

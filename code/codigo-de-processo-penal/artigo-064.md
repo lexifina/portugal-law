@@ -6,17 +6,19 @@
 
 a) Nos interrogatórios de arguido detido ou preso;
 
-b) No debate instrutório e na audiência, salvo tratando-se de processo que não possa dar lugar à aplicação de pena de prisão ou de medida de segurança de internamento;
+b) Nos interrogatórios feitos por autoridade judiciária;
 
-c) Em qualquer acto processual, à excepção da constituição de arguido, sempre que o arguido for cego, surdo, mudo, analfabeto, desconhecedor da língua portuguesa, menor de 21 anos, ou se suscitar a questão da sua inimputabilidade ou da sua imputabilidade diminuída;
+c) No debate instrutório e na audiência;
 
-d) Nos recursos ordinários ou extraordinários;
+d) Em qualquer acto processual, à excepção da constituição de arguido, sempre que o arguido for cego, surdo, mudo, analfabeto, desconhecedor da língua portuguesa, menor de 21 anos, ou se suscitar a questão da sua inimputabilidade ou da sua imputabilidade diminuída;
 
-e) Nos casos a que se referem os artigos 271.º e 294.º;
+e) Nos recursos ordinários ou extraordinários;
 
-f) Na audiência de julgamento realizada na ausência do arguido;
+f) Nos casos a que se referem os artigos 271.º e 294.º;
 
-g) Nos demais casos que a lei determinar.
+g) Na audiência de julgamento realizada na ausência do arguido;
+
+h) Nos demais casos que a lei determinar.
 
 2 - Fora dos casos previstos no número anterior pode ser nomeado defensor ao arguido, a pedido do tribunal ou do arguido, sempre que as circunstâncias do caso revelarem a necessidade ou a conveniência de o arguido ser assistido.
 

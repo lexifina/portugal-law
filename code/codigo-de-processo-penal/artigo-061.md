@@ -28,7 +28,7 @@ i) Recorrer, nos termos da lei, das decisões que lhe forem desfavoráveis.
 
 a) Comparecer perante o juiz, o Ministério Público ou os órgãos de polícia criminal sempre que a lei o exigir e para tal tiver sido devidamente convocado;
 
-b) Responder com verdade às perguntas feitas por entidade competente sobre a sua identidade e, quando a lei o impuser, sobre os seus antecedentes criminais;
+b) Responder com verdade às perguntas feitas por entidade competente sobre a sua identidade;
 
 c) Prestar termo de identidade e residência logo que assuma a qualidade de arguido;
 

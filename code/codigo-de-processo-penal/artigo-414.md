@@ -2,9 +2,9 @@
 
 ### Admissão do recurso
 
-1 - Recebida a resposta dos sujeitos processuais afectados pela interposição do recurso ou expirado o prazo para o efeito, o juiz profere despacho e, em caso de admissão, fixa o seu efeito e regime de subida.
+1 - Interposto o recurso e junta a motivação ou expirado o prazo para o efeito, o juiz profere despacho e, em caso de admissão, fixa o seu efeito e regime de subida.
 
-2 - O recurso não é admitido quando a decisão for irrecorrível, quando for interposto fora de tempo, quando o recorrente não tiver as condições necessárias para recorrer ou quando faltar a motivação.
+2 - O recurso não é admitido quando a decisão for irrecorrível, quando for interposto fora de tempo, quando o recorrente não reunir as condições necessárias para recorrer, quando faltar a motivação ou, faltando as conclusões, quando o recorrente não as apresente em 10 dias após ser convidado a fazê-lo.
 
 3 - A decisão que admita o recurso ou que determine o efeito que lhe cabe ou o regime de subida não vincula o tribunal superior.
 

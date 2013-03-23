@@ -4,7 +4,7 @@
 
 1 - Durante o inquérito compete exclusivamente ao juiz de instrução ordenar ou autorizar:
 
-a) A efectivação de perícias, nos termos do n.º 2 do artigo 154.º;
+a) A efetivação de perícias, nos termos do n.º 3 do artigo 154.º;
 
 b) A efectivação de exames, nos termos do n.º 2 do artigo 172.º;
 

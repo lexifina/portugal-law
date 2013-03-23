@@ -10,4 +10,6 @@ b) Que coordenar por factos diversos dos descritos na acusação ou na pronúnci
 
 c) Quando o tribunal deixe de pronunciar-se sobre questões que devesse apreciar ou conheça de questões de que não podia tomar conhecimento.
 
-2 - As nulidades da sentença devem ser arguidas ou conhecidas em recurso, sendo lícito ao tribunal supri-las, aplicando-se, com as necessárias adaptações, o disposto no artigo 414.º, n.º 4.
+2 - As nulidades da sentença devem ser arguidas ou conhecidas em recurso, devendo o tribunal supri-las, aplicando-se, com as necessárias adaptações, o disposto no n.º 4 do artigo 414.º
+
+3 - Se, em consequência de nulidade de sentença conhecida em recurso, tiver de ser proferida nova decisão no tribunal recorrido, o recurso que desta venha a ser interposto é sempre distribuído ao mesmo relator, exceto em caso de impossibilidade.

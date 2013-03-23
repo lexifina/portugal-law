@@ -1,6 +1,6 @@
 # Artigo 356.º
 
-### (Leitura permitida de autos e declarações)
+### Reprodução ou leitura permitidas de autos e declarações
 
 1 - Só é permitida a leitura em audiência de autos:
 
@@ -16,13 +16,13 @@ b) Se o Ministério Público, o arguido e o assistente estiverem de acordo no su
 
 c) Tratando-se de declarações obtidas mediante rogatórias ou precatórias legalmente permitidas.
 
-3 - É também permitida a leitura de declarações anteriormente prestadas perante o juiz:
+3 - É também permitida a reprodução ou leitura de declarações anteriormente prestadas perante autoridade judiciária:
 
 a) Na parte necessária ao avivamento da memória de quem declarar na audiência que já não recorda certos factos; ou
 
 b) Quando houver, entre elas e as feitas em audiência, contradições ou discrepâncias.
 
-4 - É ainda permitida a leitura de declarações prestadas perante o juiz ou o Ministério Público, se os declarantes não tiverem podido comparecer por falecimento, anomalia psíquica superveniente ou impossibilidade duradoira.
+4 - É permitida a reprodução ou leitura de declarações prestadas perante a autoridade judiciária se os declarantes não tiverem podido comparecer por falecimento, anomalia psíquica superveniente ou impossibilidade duradoira, designadamente se, esgotadas as diligências para apurar o seu paradeiro, não tiver sido possível a sua notificação para comparecimento.
 
 5 - Verificando-se o pressuposto do n.º 2, alínea b), a leitura pode ter lugar mesmo que se trate de declarações prestadas perante o Ministério Público ou perante órgãos de polícia criminal.
 

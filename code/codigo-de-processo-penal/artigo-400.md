@@ -10,9 +10,9 @@ b De decisões que ordenam actos dependentes da livre resolução do tribunal;
 
 c) De acórdãos proferidos, em recurso, pelas relações que não conheçam, a final, do objecto do processo;
 
-d) De acórdãos absolutórios proferidos, em recurso, pelas relações, que confirmem decisão de 1.ª instância;
+d) De acórdãos absolutórios proferidos, em recurso, pelas relações, exceto no caso de decisão condenatória em 1.ª instância em pena de prisão superior a 5 anos;
 
-e) De acórdãos proferidos, em recurso, pelas relações, que apliquem pena não privativa da liberdade;
+e) De acórdãos proferidos, em recurso, pelas relações que apliquem pena não privativa de liberdade ou pena de prisão não superior a 5 anos;
 
 f) De acórdãos condenatórios proferidos, em recurso, pelas relações, que confirmem decisão de 1.ª instância e apliquem pena de prisão não superior a 8 anos;
 

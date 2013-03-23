@@ -10,6 +10,6 @@ b) Presidido a debate instrutório;
 
 c) Participado em julgamento anterior;
 
-d) Proferido ou participado em decisão de recurso ou pedido de revisão anteriores;
+d) Proferido ou participado em decisão de recurso anterior que tenha conhecido, a final, do objeto do processo, de decisão instrutória ou de decisão a que se refere a alínea a), ou proferido ou participado em decisão de pedido de revisão anterior.
 
 e) Recusado o arquivamento em caso de dispensa de pena, a suspensão provisória ou a forma sumaríssima por discordar da sanção proposta.

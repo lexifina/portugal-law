@@ -42,12 +42,16 @@ l) Não ter em seu poder determinados objectos capazes de facilitar a prática d
 
 m) Qualquer outro comportamento especialmente exigido pelo caso.
 
-3 - Não são oponíveis injunções e regras de conduta que possam ofender a dignidade do arguido.
+3 - Sem prejuízo do disposto no número anterior, tratando-se de crime para o qual esteja legalmente prevista pena acessória de proibição de conduzir veículos com motor, é obrigatoriamente oponível ao arguido a aplicação de injunção de proibição de conduzir veículos com motor.
 
-4 - Para apoio e vigilância do cumprimento das injunções e regras de conduta podem o juiz de instrução e o Ministério Público, consoante os casos, recorrer aos serviços de reinserção social, a órgãos de polícia criminal e às autoridades administrativas.
+4 - Não são oponíveis injunções e regras de conduta que possam ofender a dignidade do arguido.
 
-5 - A decisão de suspensão, em conformidade com o n.º 1, não é susceptível de impugnação.
+5 - Para apoio e vigilância do cumprimento das injunções e regras de conduta podem o juiz de instrução e o Ministério Público, consoante os casos, recorrer aos serviços de reinserção social, a órgãos de polícia criminal e às autoridades administrativas.
 
-6 - Em processos por crime de violência doméstica não agravado pelo resultado, o Ministério Público, mediante requerimento livre e esclarecido da vítima, determina a suspensão provisória do processo, com a concordância do juiz de instrução e do arguido, desde que se verifiquem os pressupostos das alíneas b) e c) do n.º 1.
+6 - A decisão de suspensão, em conformidade com o n.º 1, não é susceptível de impugnação.
 
-7 - Em processos por crime contra a liberdade e autodeterminação sexual de menor não agravado pelo resultado, o Ministério Público, tendo em conta o interesse da vítima, determina a suspensão provisória do processo, com a concordância do juiz de instrução e do arguido, desde que se verifiquem os pressupostos das alíneas b) e c) do n.º 1.
+7 - Em processos por crime de violência doméstica não agravado pelo resultado, o Ministério Público, mediante requerimento livre e esclarecido da vítima, determina a suspensão provisória do processo, com a concordância do juiz de instrução e do arguido, desde que se verifiquem os pressupostos das alíneas b) e c) do n.º 1.
+
+8 - Em processos por crime contra a liberdade e autodeterminação sexual de menor não agravado pelo resultado, o Ministério Público, tendo em conta o interesse da vítima, determina a suspensão provisória do processo, com a concordância do juiz de instrução e do arguido, desde que se verifiquem os pressupostos das alíneas b) e c) do n.º 1.
+
+9 - No caso do artigo 203.º do Código Penal, é dispensada a concordância do assistente prevista na alínea a) do n.º 1 do presente artigo quando a conduta ocorrer em estabelecimento comercial, durante o período de abertura ao público, relativamente à subtração de coisas móveis de valor diminuto e desde que tenha havido recuperação imediata destas, salvo quando cometida por duas ou mais pessoas.

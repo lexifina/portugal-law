@@ -24,4 +24,6 @@ c) De que as posteriores notificações serão feitas por via postal simples par
 
 d) De que o incumprimento do disposto nas alíneas anteriores legitima a sua representação por defensor em todos os actos processuais nos quais tenha o direito ou o dever de estar presente e bem assim a realização da audiência na sua ausência, nos termos do artigo 333.º
 
+e) De que, em caso de condenação, o termo de identidade e residência só se extinguirá com a extinção da pena.
+
 4 - A aplicação da medida referida neste artigo é sempre cumulável com qualquer outra das previstas no presente livro.

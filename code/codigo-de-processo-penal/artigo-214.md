@@ -12,7 +12,7 @@ c) Com a prolação do despacho que rejeitar a acusação, nos termos da alínea
 
 d) Com a sentença absolutória, mesmo que dela tenha sido interposto recurso; ou
 
-e) Com o trânsito em julgado da sentença condenatória.
+e) Com o trânsito em julgado da sentença condenatória, à exceção do termo de identidade e residência que só se extinguirá com a extinção da pena.
 
 2 - As medidas de prisão preventiva e de obrigação de permanência na habitação extinguem-se igualmente de imediato quando for proferida sentença condenatória, ainda que dela tenha sido interposto recurso, se a pena aplicada não for superior à prisão ou à obrigação de permanência já sofridas.
 

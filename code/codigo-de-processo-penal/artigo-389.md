@@ -2,12 +2,14 @@
 
 ### (Tramitação)
 
-1 - Se o Ministério Público não estiver presente no início da audiência e não puder comparecer de imediato, o tribunal procede à sua substituição pelo substituto legal. 2 - O Ministério Público pode substituir a apresentação da acusação pela leitura do auto de notícia da autoridade que tiver procedido à detenção.
+1 - O Ministério Público pode substituir a apresentação da acusação pela leitura do auto de notícia da autoridade que tiver procedido à detenção, exceto em caso de crime punível com pena de prisão cujo limite máximo seja superior a 5 anos, ou em caso de concurso de infrações cujo limite máximo seja superior a 5 anos de prisão, situação em que deverá apresentar acusação.
 
-3 - A acusação, a contestação, o pedido de indemnização e a sua contestação, quando verbalmente apresentados, são documentados na acta, nos termos dos artigos 363.º e 364.º
+2 - Caso seja insuficiente, a factualidade constante do auto de notícia pode ser completada por despacho do Ministério Público proferido antes da apresentação a julgamento, sendo tal despacho igualmente lido em audiência.
 
-4 - A apresentação da acusação e da contestação substituem as exposições introdutórias referidas no artigo 339.º
+3 - Nos casos em que tiver considerado necessária a realização de diligências, o Ministério Público, se não apresentar acusação, deve juntar requerimento donde conste, consoante o caso, a indicação das testemunhas a apresentar, ou a descrição de qualquer outra prova que junte, ou protesta juntar, neste último caso com indicação da entidade encarregue do exame, ou perícia, ou a quem foi requisitado o documento.
 
-5 - Finda a produção da prova, a palavra é concedida, por uma só vez, ao Ministério Público, aos representantes do assistente e das partes civis e ao defensor, os quais podem usar dela por um máximo de 30 minutos, improrrogáveis.
+4 - A acusação, a contestação, o pedido de indemnização e a sua contestação, quando verbalmente apresentados, são documentados na acta, nos termos dos artigos 363.º e 364.º
 
-6 - (Revogado.)
+5 - A apresentação da acusação e da contestação substituem as exposições introdutórias referidas no artigo 339.º
+
+6 - Finda a produção de prova, a palavra é concedida por uma só vez, ao Ministério Público, aos representantes dos assistentes e das partes civis e ao defensor pelo prazo máximo de 30 minutos.
