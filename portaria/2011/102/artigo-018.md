@@ -2,38 +2,40 @@
 
 ### Pagamento dos prémios
 
-1 - Os prémios são pagos pelos mediadores dos jogos sociais do Estado ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos nas condições que este determine.
+1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.
 
-2 - O pagamento dos prémios, no caso de apostas registadas através do sistema de registo e validação informático, obedece aos seguintes trâmites:
+2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.
 
-a) O mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes no sistema central, apresenta mensagem, indicando o valor do prémio e, após confirmação do mediador, emite recibo de pagamento do prémio pelo mediador, ou dá informação de que o prémio é pago num estabelecimento bancário autorizado;
+3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:
 
-b) Quando esse valor for igual ou inferior a (euro) 150, é pago em qualquer mediador dos jogos sociais do Estado, independentemente daquele onde foi registada a aposta;
+a) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;
 
-c) Caso o mediador de jogos sociais do Estado não tenha disponibilidade de caixa para fazer o pagamento, o jogador pode dirigir-se a qualquer outro estabelecimento onde se exerce a actividade de mediação dos jogos sociais do Estado, dirigir-se directamente ao Departamento de Jogos ou aguardar que exista disponibilidade por parte do mediador primeiramente solicitado;
+b) No caso de o recibo apresentar um prémio igual ou inferior a (euro) 150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra "PAGO", valor do prémio, data e hora, e o mediador ou o Departamento de Jogos procedem ao pagamento do prémio;
 
-d) A efectivação do pagamento ficará sempre registada no sistema central e dará origem à emissão de um recibo comprovativo que ficará na posse do mediador dos jogos sociais do Estado;
+c) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 5.000 o pagamento pode ser feito através de ordem de pagamento, emitida pelo Departamento de Jogos, que é remetida para o mediador, ou tem de ser por este solicitada, ou através de depósito na conta do portador do título premiado, nos termos definidos pelo Departamento de Jogos;
 
-e) Quando o valor do prémio for superior a (euro) 150 e inferior a (euro) 5000, é pago num estabelecimento bancário, através de cheque ou ordem de pagamento emitida pelo Departamento de Jogos, a qual é enviada ao mediador através do qual a aposta foi efectuada;
+d) Os prémios de valor superior a (euro) 150 e inferior a (euro) 5.000 também podem ser pagos pelos mediadores dos jogos sociais do Estado, que posteriormente recebem as importâncias desembolsadas no estabelecimento bancário através do qual se processam as demais transações entre aqueles e o Departamento de Jogos;
 
-f) Os prémios superiores a (euro) 150 e inferior a (euro) 5000 podem ser pagos por crédito na conta bancária do jogador, mediante solicitação deste, nos termos definidos pelo Departamento de Jogos;
+e) Os prémios de valor igual ou superior a (euro) 5.000 apenas podem ser pagos junto do Departamento de Jogos e mediante identificação pessoal do portador do título premiado, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;
 
-g) Quando o recibo emitido pelo terminal do sistema de registo e validação informático não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprovará a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emitirá outro documento que permita o respectivo pagamento.
+f) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um recibo comprovativo, que fica na posse do mediador dos jogos sociais do Estado;
 
-3 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia seguinte à realização dos respectivos concursos, para os prémios de montante inferior ou igual a (euro) 150.
+g) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.
 
-4 - Os prémios de valor superior a (euro) 150 também podem ser pagos pelos mediadores dos jogos sociais do Estado, que posteriormente recebem as importâncias desembolsadas no estabelecimento bancário através do qual se processem as demais transacções entre aqueles e o Departamento de Jogos.
+4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia -se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.
 
-5 - As ordens de pagamento não reclamadas de valor superior a (euro) 150 têm de ser devolvidas pelos mediadores dos jogos sociais do Estado ao Departamento de Jogos 45 dias após a data do respectivo concurso.
+5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.
 
-6 - Os prémios iguais ou superiores a (euro) 5000 são pagos após o julgamento das reclamações.
+6 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.
 
-7 - O direito aos prémios caduca decorridos 90 dias sobre a data da realização do respectivo concurso.
+7 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão do jogador:
 
-8 - A verificação do direito a um prémio no sistema central, mediante apresentação e leitura de um recibo premiado em qualquer mediador de jogos sociais do Estado, impede a verificação da caducidade, independentemente do momento em que o valor do prémio, por ordem de pagamento, cheque ou transferência bancária, entre na posse do jogador.
+a) Os prémios de valor igual ou inferior a (euro) 150 são transferidos automaticamente para o cartão do jogador;
 
-9 - As normas constantes dos números anteriores são aplicadas, com as devidas adaptações, às apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, de acordo com as respectivas regras de utilização.
+b) Os prémios de valor superior a (euro) 150 e inferior a (euro) 5.000 são pagos por depósito na conta bancária do jogador por este indicada ou através da rede Multibanco;
 
-10 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.
+c) Os prémios de valor igual ou superior a (euro) 5.000 são pagos após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.
 
-11 - Sempre que o prémio seja de valor igual ou superior ao previsto na Lei n.º 25/2008, de 5 de Junho, é obrigatória a identificação do apresentante do título pelo Departamento de Jogos, através de documento de identificação que comprove a sua identidade, nos termos e para os efeitos da referida lei.
+8 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.
+
+9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 19.º e 20.º.

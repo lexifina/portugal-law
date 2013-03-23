@@ -8,7 +8,7 @@
 
 3 - É sempre obrigatória a marcação de uma única cruz no conjunto de 13 números do bilhete, denominado «Número da Sorte», para que os prognósticos nas apostas simples e nas apostas múltiplas estejam completos.
 
-4 - Sem prejuízo do número anterior, as apostas simples são inscritas nos conjuntos de 49 números existentes no bilhete, nos termos do n.º 4 do artigo seguinte.
+4 - Sem prejuízo do número anterior, as apostas simples são inscritas nos conjuntos de 49 números existentes no bilhete, nos termos do artigo seguinte.
 
 5 - Sem prejuízo do n.º 3, as apostas múltiplas são inscritas, obrigatoriamente, no primeiro conjunto de 49 números.
 

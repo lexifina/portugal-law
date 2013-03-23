@@ -2,4 +2,4 @@
 
 ### Casos omissos
 
-Os casos omissos e os duvidosos são resolvidos pelo Departamento de Jogos, ouvido o júri de reclamações.
+Os casos omissos e os duvidosos são resolvidos pelo Administrador Executivo do Departamento de Jogos, exceto em matéria de atribuição de prémios, em que é competente o júri de reclamações

@@ -44,9 +44,9 @@ g) Dia e hora em que é efectuado o registo e validação no sistema central.
 
 10 - O mediador dos jogos sociais do Estado não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.
 
-11 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas efectuadas, as mesmas serão anuladas; tal facto constará de um novo recibo emitido pelo terminal que, juntamente com o recibo anulado, será enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado, não podendo em caso algum ser entregue ao jogador.
+11 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas efetuadas, as mesmas serão anuladas pelo mediador através da reintrodução do recibo no terminal que imprimirá a palavra "ANULADO" ou "CANCELADO", valor da aposta, data e hora, e que será enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado, não podendo em caso algum ser entregue ao jogador.
 
-12 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitam, conforme a que ocorrer primeiro, sendo sempre emitido recibo de cancelamento.
+12 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitam, conforme a que ocorrer primeiro.
 
 13 - O recibo anulado nunca é entregue ao jogador.
 
