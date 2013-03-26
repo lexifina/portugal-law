@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "133",
+  "id": "37600",
+  "fases": 25,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-03-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659544e6a4f4755325a4745744f546b354f5330305a6d55304c54686d4e5449744d546c6b597a526a597a45344e3245354c6e426b5a673d3d&fich=a3c8e6da-9999-4fe4-8f52-19dc4cc187a9.pdf&Inline=true",
+        "anexoNome": "Parecer da ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595445314e575931596d49745a54637a4d7930304e7a63774c5745774d6a67744d574a694e6a6b344e6a526d593249354c6e426b5a673d3d&fich=a155f5bb-e733-4770-a028-1bb69864fcb9.pdf&Inline=true",
+        "anexoNome": "Parecer da GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f44426c4e324d314d4467744d6a45794d7930305a544d354c5467334f5445744d7a45304e3251315a5451344e544a6b4c6e426b5a673d3d&fich=80e7c508-2123-4e39-8791-3147d5e4852d.pdf&Inline=true",
+        "anexoNome": "Parecer da ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4446685a6d4a684e4755744e7a59325a5330304f574d324c546731597a49744e54566b4e32497a4e32526c59574a6a4c6e426b5a673d3d&fich=41afba4e-766e-49c6-85c2-55d7b37deabc.pdf&Inline=true",
+        "anexoNome": "Parecer  da GRM_SRARN"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a466d597a51334d575174593259775a4330304e44526d4c5749794e7a49745a47526a595456684e324e6a4d6a59324c6e426b5a673d3d&fich=71fc471d-cf0d-444f-b272-ddca5a7cc266.pdf&Inline=true",
+        "anexoNome": "Parecer da ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4746684d6d466c4f5745744f545130595330304e6d4d344c546b33596a45744e4751784e7a4a6a596a5668597a4a694c6e426b5a673d3d&fich=daa2ae9a-944a-46c8-97b1-4d172cb5ac2b.pdf&Inline=true",
+        "anexoNome": "Parecer  da GRA_SAI_GAPS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4752694e4755784e4463745a6a52695a4330304d6a4e6b4c57466b4f574d74597a6b354d7a6b314e6a466b4e5449774c6e426b5a673d3d&fich=0db4e147-f4bd-423d-ad9c-c9939561d520.pdf&Inline=true",
+        "anexoNome": "Parecer da GRM_SRGTT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a45324d6d4935597a49744d5459304d43303059324e6d4c546b7a4d544d744d324d7a4d6a59314f44466d4f44557a4c6e426b5a673d3d&fich=2162b9c2-1640-4ccf-9313-3c326581f853.pdf&Inline=true",
+        "anexoNome": "Parecer da CNADS"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37600",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e3249324d47566b5a5467744d7a646c4d5330305a54646a4c574534597a63744d4445355a6a67314e6a6332597a6b7a4c6d527659773d3d&fich=7b60ede8-37e1-4e7c-a8c7-019f85676c93.doc&Inline=true",
+    "IniNr": "133",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece as bases do ordenamento e da gestão do espaço marítimo nacional.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
