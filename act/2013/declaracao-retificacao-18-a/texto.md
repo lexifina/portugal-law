@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 18-A/2013
+Nos termos das disposições conjugadas da alínea r) do n.º 2 do artigo 2.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei nº 41/2013 de 21 de março, declara-se sem efeito a Portaria n.º 117/2013 de 25 de março, publicada no Diário da República, 1.ª série, n.º 59 de 25 de março de 2013, por corresponder à publicação em duplicado do texto da Portaria n.º 107/2013 de 15 de março, publicada no Diário da República n.º 53 de 15 de março.
+Secretaria-Geral, 25 de março de 2013. - O Secretário-Geral, José Maria Belo de Sousa Rego.
