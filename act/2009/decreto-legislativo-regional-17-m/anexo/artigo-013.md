@@ -20,7 +20,7 @@ c) Perfil físico e psicológico para o exercício da função.
 
 6 - Para efeitos dos números anteriores, são consideradas especialidades médicas preferenciais, designadamente as de medicina interna, medicina intensiva, cirurgia, anestesiologia e cardiologia.
 
-7 - Após a selecção a que se refere o n.º 1, o pessoal a recrutar para a EMIR será sujeito a um estágio obrigatório e eliminatório, em serviços e viaturas do SEMER, cujo regulamento será aprovado por despacho do presidente do SRPC, IP-RAM, sob proposta do coordenador do SEMER.
+7 - Após a seleção a que se refere o nº 1, o pessoal a recrutar para a EMIR será sujeito a um estágio obrigatório e eliminatório, em serviços e viaturas do SEMER, cujo regulamento será aprovado por despacho do presidente do conselho diretivo do SRPC, IP-RAM, sob proposta do coordenador do SEMER.
 
 8 - O disposto no número anterior é igualmente aplicável às situações a que se referem os n.os 2 e 3, dando-se por finda a requisição, ou rescindindo-se o contrato, respectivamente, caso o candidato seja eliminado.
 
@@ -28,6 +28,6 @@ c) Perfil físico e psicológico para o exercício da função.
 
 10 - O exercício de funções no SEMER é considerado compatível com o regime de trabalho de dedicação exclusiva do pessoal das carreiras médicas, para efeitos do artigo 9.º do Decreto-Lei n.º 73/90, de 6 de Março.
 
-11 - As remunerações do pessoal médico e de enfermagem, em regime de acumulação, serão objecto de um valor hora, a definir por despacho conjunto dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, mediante proposta do presidente do SRPC, IP-RAM.
+11 - As remunerações do pessoal médico e de enfermagem, em regime de acumulação, serão objeto de um valor hora, a definir por despacho conjunto dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, mediante proposta do presidente do conselho diretivo do SRPC, IP-RAM.
 
 12 - O pessoal do SEMER pode renunciar unilateralmente ao exercício de funções, mediante aviso prévio escrito, dirigido ao coordenador do SEMER, com a antecedência mínima de 60 dias.

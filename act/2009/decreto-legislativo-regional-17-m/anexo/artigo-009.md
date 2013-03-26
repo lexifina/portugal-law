@@ -1,6 +1,6 @@
 # Artigo 9.º
 
-### Competências do inspector
+### Poderes de autoridade
 
 1 - O IRB, quando no exercício de funções de inspecção e fiscalização, goza dos seguintes poderes de autoridade:
 

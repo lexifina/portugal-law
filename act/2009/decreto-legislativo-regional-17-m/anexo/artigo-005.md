@@ -4,9 +4,9 @@
 
 São órgãos do SRPC, IP-RAM:
 
-a) O presidente;
+a) O conselho diretivo;
 
-b) O vice-presidente;
+b) (Revogada).
 
 c) O fiscal único;
 
