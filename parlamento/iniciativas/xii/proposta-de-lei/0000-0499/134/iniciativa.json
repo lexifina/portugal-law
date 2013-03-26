@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "134",
+  "id": "37601",
+  "fases": 25,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-03-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47466c4d6a59795a545174596a6b3459533030597a686b4c546b774d4459745a6d526b4f445130597a646d5a54557a4c6e426b5a673d3d&fich=dae262e4-b98a-4c8d-9006-fdd844c7fe53.pdf&Inline=true",
+        "anexoNome": "Parecer CCP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5449304f446b324d54557459546b304f5330304d47566d4c5746694d7a51744e446b324d7a45305a4467794d7a6c6a4c6e426b5a673d3d&fich=12489615-a949-40ef-ab34-496314d8239c.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d56694f4463314e3245744d4445344d5330304d474e684c5467794e3259744d4449304d7a4d334f4452694d6a59334c6e426b5a673d3d&fich=beb8757a-0181-40ca-827f-02433784b267.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a45785a5455334e3259744f4449304f5330304f475a6a4c546779596a49744d54566c597a41794e7a68684d6a4d774c6e426b5a673d3d&fich=711e577f-8249-48fc-82b2-15ec0278a230.pdf&Inline=true",
+        "anexoNome": "Parecer CGTP - Agências Privadas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d474d33597a67794d6a67744e574e6a4f5330304d7a68684c574932597a517459324d324d546b335a5751794d7a51304c6e426b5a673d3d&fich=0c7c8228-5cc9-438a-b6c4-cc6197ed2344.pdf&Inline=true",
+        "anexoNome": "Parecer CIP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d56684d7a46695a6a55744e6a67324e4330305a546b7a4c5746694e5441744e7a63344d6d4d344e4751304d325a684c6e426b5a673d3d&fich=6ea31bf5-6864-4e93-ab50-7782c84d43fa.pdf&Inline=true",
+        "anexoNome": "Parecer UGT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5445784d5455784f475974596a63784f4330305a6a63324c574a6d4e324d744f54426a5a474534596a4d7a4d4459784c6e426b5a673d3d&fich=1111518f-b718-4f76-bf7c-90cda8b33061.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5459794e7a51354d3255744f545a6a4e7930304e5445794c5467324e7a51745954426b4d4745314e6d557a5a6d566a4c6e426b5a673d3d&fich=1627493e-96c7-4512-8674-a0d0a56e3fec.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37601",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a426d4e3255784d325574596a5a685a4330304e5451774c5467304d7a67744d5451794f574e6b4d6a45325954517a4c6d527659773d3d&fich=b0f7e13e-b6ad-4540-8438-1429cd216a43.doc&Inline=true",
+    "IniNr": "134",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à simplificação do regime de acesso e exercício da atividade das agências privadas de colocação de candidatos a empregos, conformando o disposto no Decreto-Lei n.º 260/2009, de 25 de setembro, com o Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs a Diretiva n.º 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
