@@ -1,0 +1,6 @@
+Resolução da Assembleia da República n.º 38/2013
+Aprova parecer fundamentado sobre a violação do princípio da subsidiariedade pela proposta de diretiva do Parlamento Europeu e do Conselho relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros no que respeita ao fabrico, à apresentação e à venda de produtos do tabaco e produtos afins.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição e do n.º 3 do artigo 3.º da Lei n.º 43/2006, de 25 de agosto, alterada e republicada pela Lei n.º 21/2012, de 17 de maio, dirigir aos Presidentes do Parlamento Europeu, do Conselho e da Comissão Europeia o seguinte parecer fundamentado sobre a inobservância do princípio da subsidiariedade pela proposta de diretiva do Parlamento Europeu e do Conselho no que respeita ao fabrico, à apresentação e à venda de produtos do tabaco e produtos afins [COM(2012)788]:
+A proposta de diretiva do Parlamento Europeu e do Conselho viola o princípio da subsidiariedade na medida em que o objetivo a alcançar não é mais eficazmente atingido através desta ação da União.
+Aprovada em 1 de março de 2013.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
