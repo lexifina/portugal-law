@@ -1,0 +1,6 @@
+Aviso n.º 46/2013
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral das Nações Unidas, a 28 de janeiro de 2013, o seu instrumento de ratificação ao Protocolo Facultativo ao Pacto Internacional sobre os Direitos Económicos, Sociais e Culturais, adotado em Nova Iorque, em 10 de dezembro de 2008.
+A República Portuguesa reconheceu as competências do Comité dos Direitos Económicos, Sociais e Culturais, nos termos e para os efeitos previstos nos artigos 10.º e 11.º do Protocolo Facultativo ao Pacto Internacional sobre os Direitos Económicos, Sociais e Culturais.
+Nos termos do n.º 1 do seu artigo 18º, o Protocolo Facultativo ao Pacto Internacional sobre os Direitos Económicos, Sociais e Culturais entra em vigor para a República Portuguesa no dia 5 de maio de 2013.
+O Protocolo Facultativo ao Pacto Internacional sobre os Direitos Económicos, Sociais e Culturais foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 3/2013, e ratificada pelo Decreto do Presidente da República n.º 12/2013, publicados no Diário da República, 1.ª série, n.º 14, de 21 janeiro de 2013.
+Direção-Geral de Política Externa, 12 de fevereiro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
