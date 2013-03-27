@@ -1,0 +1,4 @@
+Aviso n.º 47/2013
+Por ordem superior se torna público que a 7 de outubro de 2009 e 19 de junho de 2010, foram recebidas notas pela Embaixada de Portugal em Paris e a Embaixada do Qatar em Riade, respetivamente, pelas quais ambos os Estados comunicam terem sido cumpridas as formalidades internas de aprovação do Acordo entre o Governo da República Portuguesa e o Governo do Estado do Qatar sobre a Promoção e a Proteção Recíproca de Investimentos, assinado em Lisboa, a 21 de abril de 2009.
+O referido Acordo foi aprovado por Decreto nº 10/2010 de 11 de junho de 2010 publicado no Diário da República 1.ª série, n.º 112 de 11 de junho de 2010, e nos termos do seu artigo 14.º, entrou em vigor no dia 19 de julho de 2010.
+Direção-Geral de Política Externa, 28 de fevereiro de 2013. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
