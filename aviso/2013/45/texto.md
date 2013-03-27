@@ -1,0 +1,5 @@
+Aviso n.º 45/2013
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral do Conselho da Europa, a 23 de agosto de 2012, o seu instrumento de ratificação da Convenção do Conselho da Europa para a Proteção das Crianças contra a Exploração Sexual e os Abusos Sexuais, assinada em Lanzarote, em 25 de outubro de 2007.
+Nos termos do n.º 4 do seu artigo 45.º, a Convenção do Conselho da Europa para a Proteção das Crianças contra a Exploração Sexual e os Abusos Sexuais entrou em vigor para a República Portuguesa no dia 1 de dezembro de 2012.
+A Convenção do Conselho da Europa para a Proteção das Crianças contra a Exploração Sexual e os Abusos Sexuais foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 75/2012, de 9 de março de 2012, e ratificada pelo Decreto do Presidente da República n.º 90/2012, publicados no Diário da República, 1.ª série, n.º 103, de 28 de maio de 2012.
+Direção-Geral de Política Externa, 12 de fevereiro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
