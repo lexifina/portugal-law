@@ -1,0 +1,155 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "353",
+    "id": "37523",
+    "titulo": "Revoga a transição para as carreiras gerais dos trabalhadores do IFAP,I.P. e das direções regionais de agricultura e pescas (Revoga o Decreto-Lei n.º 19/2013, de 6 de fevereiro)."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-03-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d49785a6a526a4f546b745954686d4f5330304e546b334c546c69597a417459544d785a4459774f5451774e7a6b304c6e426b5a673d3d&fich=6b1f4c99-a8f9-4597-9bc0-a31d60940794.pdf&Inline=true",
+        "anexoNome": "Ofício para redistribuição a outra Comissão"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "30624",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2013-05-23",
+            "id": "95294",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-04-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-03-28",
+        "DatafimApreciacaoPublica": "2013-05-08",
+        "DatainicioApreciacaoPublica": "2013-04-08",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-05-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5135596d526c4f444d334c544a6b4d7a4d744e47526c4e5330354f5745794c5749304e6a45354e44566d4d54517a4e6935775a47593d&fich=49bde837-2d33-4de5-99a2-b461945f1436.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão de Trabalhadores do IFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466d5a6a59354e5759354c574d305a544d744e4755314e4331695a4446694c546b344d6d51305a6a466d4d7a646b4d4335775a47593d&fich=1ff695f9-c4e3-4e54-bd1b-982d4f1f37d0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Federação dos Sindicatos Independentes da Banca",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6d4d325a685a6a677a4c57566859546b744e444e6b4e4331695a5451314c5445334d4455794f5751774e54526c596935775a47593d&fich=3f3faf83-eaa9-43d4-be45-170529d054eb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a42684d5455325a4441324c546c6c5a4459744e444932596931694d6d4d344c5745335a47566a5a6a5579596a5977596935775a47593d&fich=0a156d06-9ed6-426b-b2c8-a7decf52b60b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer de Ester Emília da Silva Mendes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526b5a6a426b4d4749354c574e6d5a5451744e4441315a5330344e7a51354c5441794d6d4d344d7a68694e474a6c4f4335515245593d&fich=ddf0d0b9-cfe4-405e-8749-022c838b4be8.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer de Maria Leonor Carvalho de Sá Gomes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251354e474a684e544d7a4c544e694d5441744e474a695a4331694d6d45324c5455305a6d466c4d544d324d444a6d596935515245593d&fich=d94ba533-3b10-4bbd-b2a6-54fae13602fb.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer de um conjunto de trabalhadores do IFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51324e3251785a4445784c5745315a5459744e47497a5a5331694e324d304c5746684f444d344e54566c4f4451784d5335775a47593d&fich=467d1d11-a5e6-4b3e-b7c4-aa83855e8411.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-04-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer dos funcionários da EX- ACACSA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d304e6a68694d446b334c5451324f5459744e4755784d533035595455794c54466a4e3251304e7a49335a544d32597935775a47593d&fich=3468b097-4696-4e11-9a52-1c7d4727e36c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2297",
+            "motivoCessacao": null,
+            "nome": "Cristóvão Norte"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1365",
+            "motivoCessacao": null,
+            "nome": "Carlos Silva e Sousa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2013-03-28",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "289267",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
