@@ -6,7 +6,7 @@
 
 ### Alteração do pedido
 
-1 - Os beneficiários podem proceder, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, à alteração do pedido de apoio, com efeitos a partir de 1 de Outubro seguinte, sem que haja lugar à devolução dos apoios já recebidos ou a alteração do período de compromisso, no caso de aumento da área objecto de apoio.
+1 - Os beneficiários podem proceder, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, à alteração do pedido de apoio, sem que haja lugar à devolução dos apoios já recebidos ou à alteração do período de compromisso, no caso de aumento da área objeto de apoio.
 
 2 - Os aumentos de área referidos no número anterior não podem ultrapassar o dobro da área candidata até ao limite de 20 ha.
 
