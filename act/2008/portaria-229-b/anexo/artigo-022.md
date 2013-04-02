@@ -40,10 +40,10 @@ e) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da man
 
 9 - Para aumentos de área superiores aos limites referidos no n.º 4, o beneficiário deve apresentar um novo pedido de apoio relativo à totalidade da área da unidade de produção, iniciando-se, caso venha a ser admitido, um novo período de compromisso de cinco anos que determina a extinção automática dos compromissos anteriores.
 
-10 - Para os efeitos do disposto no n.º 2 do artigo 18.º do Regulamento (UE) n.º 65/2011, a falta de manutenção da densidade mínima prevista no nº 7 do artigo 9.º nas áreas das parcelas de culturas permanentes, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, determina a devolução proporcional dos apoios recebidos.
+10 - A falta de manutenção da densidade mínima prevista no nº 7 do artigo 9.º nas áreas das parcelas de culturas permanentes, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, determina a redução proporcional do montante de apoio na parcela em causa, calculada pela aplicação do quociente entre a densidade constatada e a densidade mínima.
 
 11- Para os efeitos do disposto no n.º 2 do artigo 18.º do Regulamento (UE) n.º 65/2011, a redução de área, ou de efetivo pecuário objecto de compromisso, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, determina a devolução proporcional dos apoios recebidos.
 
 12 - O disposto no número anterior não é aplicável nos casos de cedência da exploração referidos no n.º 1 do artigo 44.º do Regulamento (CE) n.º 1974/2006 que determina o reembolso da totalidade da ajuda recebida.
 
-13 - O disposto no número anterior não é aplicável nos casos em que a redução da área seja igual ou inferior a 10%, ou quando o compromisso seja retomado pelo cessionário, bem como nos casos referidos na alínea b) do n.º 2 do artigo 44.º do Regulamento (CE) n.º 1974/2006.
+13 - Não há lugar à devolução de verbas nos casos em que a redução da área seja igual ou inferior a 10%, ou quando o compromisso seja retomado pelo cessionário, bem como nos casos referidos na alínea b) do n.º 2 do artigo 44.º do Regulamento (CE) n.º 1974/2006.

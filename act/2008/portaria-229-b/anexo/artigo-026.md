@@ -12,7 +12,7 @@
 
 a) No caso do n.º 1 do anexo viii, nas áreas de culturas temporárias relativamente às quais não foi candidata toda a área;
 
-b) (Revogado)
+b) (Revogado.)
 
 c) No caso do n.º 3 do anexo viii, nas áreas objecto de apoio em que a produção não se destinou, directa ou indirectamente, ao consumo humano;
 
@@ -30,20 +30,20 @@ d) No caso dos n.os 4, 5, 6 e 7 do anexo viii, para a totalidade dos animais da 
 
 10 - (Revogado.)
 
-11 - (Revogado)
+11 - (Revogado.)
 
-12- (Revogado)
+12- (Revogado.)
 
 13 - O incumprimento pelos beneficiários dos requisitos referidos no artigo 5.º determina a redução do montante do apoio nos termos da legislação nacional aplicável.
 
-14 - (Revogado)
+14 - (Revogado.)
 
 15 - Para efeitos de aplicação do n.º 3 do artigo 21.º, o incumprimento dos critérios de elegibilidade determina a devolução total dos apoios e a exclusão do beneficiário de cada acção ou, no caso da acção n.º 2.2.1, do modo de produção, em que não se verificou a apresentação de pedido de pagamento.
 
-16 - As reduções e exclusões previstas nos artigos 16º e 18.º do Regulamento (UE) n.º 65/2011 aplicam-se às irregularidades detetadas em sede de controlo relativamente às áreas objecto de compromisso.
+16 - Sem prejuízo do disposto no n.º1, a redução de área ou de efetivo pecuário objeto de compromisso, detetada em sede de controlo, determina a devolução proporcional dos apoios recebidos.
 
-17 - Quando a divergência entre as CN declaradas e as CN verificadas em sede de controlo implique a redução da área anual objeto de apoio nos termos do disposto nos nºs 8 e 10 do artigo 12.º, são aplicáveis as reduções e sanções previstas no artigo 16º do Regulamento (UE) n.º65/2011.
+17 - Quando a divergência entre as CN declaradas e as CN verificadas em sede de controlo implique a redução da área anual objeto de apoio nos termos do disposto nos nºs 8 e 10 do artigo 12.º, aplica-se uma redução adicional igual à diferença apurada.
 
-18 - Nas áreas das parcelas de culturas permanentes relativamente às quais não tenha sido mantida a densidade mínima prevista no nº 7 do artigo 9.º, a divergência de densidade apurada na sequência de controlo, implica a redução das áreas objecto do apoio, calculada em função da diferença entre a densidade verificada e a densidade mínima aplicável, ficando o apoio sujeito às reduções e sanções previstas nos artigos 16º e 18.º do Regulamento (UE) n.º65/2011.
+18 - Nas áreas das parcelas de culturas permanentes relativamente às quais não tenha sido mantida a densidade mínima prevista no n.º 7 do artigo 9.º, a divergência de densidade apurada na sequência de controlo, implica a redução proporcional do montante de apoio relativo à parcela em causa, calculada pela aplicação do dobro do quociente entre a densidade constatada e a densidade mínima.
 
-19 - As reduções e exclusões previstas nos artigos 17.º e 18.º do Regulamento (UE) n.º 65/2011 aplicam-se às irregularidades detetadas em sede de controlo relativamente ao compromisso referido no n.º3 do artigo 16.º para qualquer espécie animal.
+19 - (Revogado.)
