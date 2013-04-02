@@ -2,4 +2,4 @@
 
 ### Registo da nacionalidade
 
-Os registos de nacionalidade são efetuados em suporte eletrónico, sendo aplicável, com as necessárias adaptações, o disposto no Código do Registo Civil.
+O registo da nacionalidade pode ser efectuado em livro ou em suporte informático, sendo aplicável, com as necessárias adaptações, o disposto no Código do Registo Civil.

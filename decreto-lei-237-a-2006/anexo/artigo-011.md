@@ -6,6 +6,6 @@
 
 2 - Sempre que assim o pretendam, aqueles a quem for atribuída a nacionalidade portuguesa podem manter a composição originária do seu nome.
 
-3 - No caso de atribuição da nacionalidade mediante declaração ou de inscrição de nascimento atributiva da nacionalidade, deve mencionar-se no texto do assento de nascimento o novo nome quando o interessado tiver indicado a composição que pretende adotar, e averbar-se a forma originária, quando demonstrada.
+3 - No caso de atribuição de nacionalidade mediante declaração, o interessado deve indicar a composição que pretende adoptar para o nome, a qual é averbada ao assento de nascimento respectivo, já lavrado ou a lavrar por transcrição, sempre que o nome seja alterado.
 
-4 - (Revogado.)
+4 - Tratando-se de inscrição de nascimento atributiva da nacionalidade ou de assento de nacionalidade, deve mencionar-se no texto o novo nome e averbar-se a forma originária, quando demonstrada.

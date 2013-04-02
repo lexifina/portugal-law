@@ -6,7 +6,7 @@
 
 a) Pelo conhecimento pessoal do funcionário perante quem são prestadas as declarações;
 
-b) Pela exibição do cartão de cidadão, bilhete de identidade, título ou autorização de residência, passaporte ou documento de identificação equivalente do declarante;
+b) Pela exibição do bilhete de identidade, título ou autorização de residência, passaporte ou documento de identificação equivalente do declarante;
 
 c) Supletivamente, pela abonação de duas testemunhas idóneas.
 

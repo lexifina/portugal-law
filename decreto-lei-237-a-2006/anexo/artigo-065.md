@@ -2,6 +2,6 @@
 
 ### Aquisição em caso de perda por efeito do casamento
 
-1 - A mulher que tiver perdido a nacionalidade portuguesa por efeito do casamento, nos termos da Lei n.º 2098, de 29 de julho de 1959, e legislação precedente, adquire-a mediante declaração, quando tenha sido lavrado registo definitivo da perda.
+1 - A mulher que tiver perdido a nacionalidade portuguesa por efeito do casamento, no domínio do direito anterior, e quiser adquiri-la, deve declará-lo.
 
-2 - (Revogado.)
+2 - Se não tiver sido lavrado registo de perda da nacionalidade, a declaração é instruída com documento comprovativo da aquisição da nacionalidade estrangeira e com certidão do assento de nascimento, com o casamento averbado.

@@ -2,28 +2,20 @@
 
 ### Naturalização de menores nascidos no território português
 
-1 - O membro do Governo responsável pela área da justiça concede a nacionalidade portuguesa, por naturalização, aos menores, à face da lei portuguesa, nascidos em território português, filhos de estrangeiros, quando, no momento do pedido, satisfaçam uma das seguintes condições:
+1 - O Governo concede a nacionalidade portuguesa, por naturalização, aos menores, à face da lei portuguesa, nascidos no território português, filhos de estrangeiros, quando satisfaçam os seguintes requisitos:
 
-a) Um dos progenitores resida em território português, independentemente de título, pelo menos durante os cinco anos imediatamente anteriores ao pedido;
+a) Conheçam suficientemente a língua portuguesa, nos termos do disposto no artigo 25.º;
 
-b) Um dos progenitores tenha residência legal em território português;
+b) Não tenham sido condenados, com trânsito em julgado da sentença, pela prática de crime punível com pena de prisão de máximo igual ou superior a três anos, segundo a lei portuguesa;
 
-c) O menor tenha frequentado em território português, pelo menos, um ano da educação pré-escolar ou ensino básico, secundário ou profissional.
+c) No momento do pedido, um dos progenitores resida legalmente no território português há pelo menos cinco anos ou o menor aqui tenha concluído o primeiro ciclo do ensino básico.
 
-2 - Os menores referidos no número anterior, que já tenham completado a idade de imputabilidade penal no momento do pedido, devem satisfazer também os seguintes requisitos:
-
-a) Não terem sido condenados, com trânsito em julgado da sentença, em pena de prisão igual ou superior a três anos, por crime punível segundo a lei portuguesa;
-
-b) Não constituírem perigo ou ameaça para a segurança ou a defesa nacional, pelo seu envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei;
-
-c) (Revogada.)
-
-d) (Revogada.)
-
-3 - O requerimento é instruído com os seguintes documentos, sem prejuízo da dispensa da sua apresentação pelo interessado nos termos do artigo 37.º:
+2 - O requerimento é instruído com os seguintes documentos, sem prejuízo da dispensa da sua apresentação pelo interessado nos termos do artigo 37.º:
 
 a) Certidão do registo de nascimento;
 
-b) Certificados do registo criminal emitidos pelos serviços competentes portugueses, do país da naturalidade e da nacionalidade, exceto nos casos previstos no n.º 8 do artigo 37.º, bem como dos países onde tenha tido e tenha residência, sempre que o menor tenha completado a idade de imputabilidade penal;
+b) Documento comprovativo de que conhece suficientemente a língua portuguesa, nos termos do disposto no artigo 25.º;
 
-c) Documentos comprovativos de que, nos cinco anos imediatamente anteriores ao pedido, um dos progenitores residiu, independentemente de título, em território português, designadamente atestado de residência emitido pela junta de freguesia ou documentos que comprovem o cumprimento de obrigações contributivas ou fiscais perante, respetivamente, a segurança social ou a Autoridade Tributária e Aduaneira, ou documento comprovativo da residência legal do progenitor, ou ainda documento que comprove a frequência de, pelo menos, um ano da educação pré-escolar ou ensino básico, secundário ou profissional pelo menor.
+c) Certificados do registo criminal emitidos pelos serviços competentes portugueses, do país da nacionalidade, bem como dos países onde tenha tido e tenha residência;
+
+d) Documento emitido pelo Serviço de Estrangeiros e Fronteiras, comprovativo de que um dos progenitores reside legalmente no território português há pelo menos cinco anos, ao abrigo de qualquer dos títulos, vistos ou autorizações previstos no regime de entrada, permanência, saída e afastamento de estrangeiros e no regime do direito de asilo ou ao abrigo de regimes especiais resultantes de tratados ou convenções de que Portugal seja Parte, designadamente no âmbito da União Europeia e da Comunidade dos Países de Língua Portuguesa, ou documento comprovativo de que o menor aqui concluiu o primeiro ciclo do ensino básico.

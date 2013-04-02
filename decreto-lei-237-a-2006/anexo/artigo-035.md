@@ -1,8 +1,8 @@
 # Artigo 35.º
 
-### Conteúdo das declarações apresentadas por via eletrónica ou constantes de impresso de modelo aprovado
+### Conteúdo das declarações constantes de impresso de modelo aprovado
 
-1 - As declarações para fins de atribuição, aquisição e perda da nacionalidade portuguesa apresentadas nos termos previstos no n.º 2 do artigo 32.º devem conter obrigatoriamente:
+1 - As declarações para fins de atribuição, aquisição e perda da nacionalidade portuguesa, prestadas nos termos previstos no n.º 2 do artigo 32.º devem conter obrigatoriamente:
 
 a) Os elementos previstos nas alíneas c), e), e g) do n.º 1 do artigo 33.º;
 
@@ -12,10 +12,6 @@ c) A indicação dos elementos que permitam identificar o registo de nascimento 
 
 d) A relação dos documentos apresentados;
 
-e) A assinatura do declarante, ou do advogado ou solicitador que o represente.
+e) A assinatura do declarante, reconhecida presencialmente, salvo se for feita na presença de funcionário de serviço ou posto de atendimento com competência para receber a declaração.
 
-2 - (Revogado.)
-
-3 - Quando a declaração seja enviada por via eletrónica, nos termos do n.º 2 do artigo 32.º, a assinatura a que se refere a alínea e) do n.º 1 é aposta por via eletrónica.
-
-4 - Quando as declarações constem de impresso de modelo aprovado, a assinatura do declarante a que se refere a alínea e) do n.º 1 tem de ser reconhecida presencialmente, salvo se for feita na presença de funcionário de serviço ou posto de atendimento com competência para receber a declaração.
+2 - Quando as declarações forem prestadas por advogado ou solicitador é suficiente, para a confirmação da assinatura, a indicação do número da respectiva cédula profissional.

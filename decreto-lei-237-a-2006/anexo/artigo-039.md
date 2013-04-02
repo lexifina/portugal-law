@@ -10,6 +10,6 @@
 
 4 - Se quem pretender adquirir a nacionalidade portuguesa usar vários nomes completos deve optar por um deles.
 
-5 - Sempre que o nome seja alterado, a nova composição é averbada ao assento de nascimento, se já lavrado.
+5 - Sempre que o nome seja alterado, a nova composição é averbada ao assento de nascimento, se já lavrado ou a lavrar por transcrição e, tratando-se de assento a lavrar por inscrição ou de assento de nacionalidade, menciona-se no texto o novo nome e averba-se a forma originária.
 
-6 - Tratando-se de assento a lavrar por transcrição ou por inscrição, menciona-se no texto o novo nome e averba-se a forma originária.
+6 - Quando o registo de nacionalidade seja lavrado por averbamento, deve constar deste a nova composição do nome.
