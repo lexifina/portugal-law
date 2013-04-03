@@ -1,0 +1,8 @@
+Resolução da Assembleia da República n.º 40/2013
+Recomenda ao Governo que determine uma clarificação por parte da Autoridade Tributária e Aduaneira quanto ao regime de isenção do IVA aplicável à cobrança e gestão de direitos de autor e atividades conexas.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Determine uma clarificação por parte da Autoridade Tributária e Aduaneira quanto ao regime de isenção do IVA aplicável à cobrança e gestão de direitos de autor e atividades conexas, com referência aos exercícios anteriores à vigência do Orçamento do Estado de 2012.
+2 - No âmbito das suas atribuições e no uso das competências hierárquicas previstas na lei geral tributária e no Código de Procedimento e de Processo Tributário, o Ministro das Finanças proceda à suspensão das ações inspetivas e de quaisquer outros procedimentos iniciados pela administração tributária, relacionados com a interpretação fiscal do aludido regime de isenção do IVA, até que a administração fiscal possa tomar posição definitiva sobre o tema.
+3 - Perante a necessidade de esclarecer retroativamente esta questão, a administração fiscal considere o sentido da clarificação da aludida norma fiscal realizada pela Assembleia da República na Lei n.º 66-B/2012, de 31 de dezembro (Orçamento do Estado para 2013), bem como seja devidamente acautelada a especificidade da atividade de cobrança e gestão de direitos de autor e atividades conexas, e assegure igual tratamento aos diversos agentes, independentemente da natureza jurídica do titular dos direitos.
+Aprovada em 8 de março de 2013.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
