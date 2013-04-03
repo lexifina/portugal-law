@@ -1,0 +1,6 @@
+Aviso n.º 4554/2013
+Dr. Afonso Sequeira Abrantes, Presidente da Câmara Municipal de Mortágua, torna público, que esta Câmara Municipal em reunião ordinária de 20 de março de 2013 aprovou o Projeto de Alteração ao Regulamento de Liquidação e Cobrança de Taxas e Outras Receitas Municipais e Tabela de Taxas e Outras Receitas Municipais, e respetiva Fundamentação Económico-Financeira, o qual, nos termos do artigo 118.º do Código do Procedimento Administrativo, é submetido à apreciação pública durante o período de 30 dias a contar da publicação do presente aviso no Diário da República.
+Durante o referido período o Projeto de Alteração ao Regulamento de Liquidação e Cobrança de Taxas e Outras Receitas Municipais e Tabela de Taxas e Outras Receitas Municipais, e respetiva Fundamentação Económico-Financeira, poderão ser consultados nos Serviços Administrativos da Câmara Municipal de Mortágua, dentro das horas de expediente, bem como no sítio do Município de Mortágua na Internet (www.cm-mortagua.pt).
+As sugestões ou observações que os interessados entendam formular, deverão ser reduzidas a suporte escrito endereçado ao Presidente da Câmara Municipal de Mortágua.
+22 de março de 2013. - O Presidente da Câmara, Dr. Afonso Sequeira Abrantes.
+306853608
