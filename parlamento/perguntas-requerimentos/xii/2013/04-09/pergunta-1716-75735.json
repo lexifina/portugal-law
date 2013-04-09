@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "75735",
+  "tipo": "Pergunta",
+  "numero": "1716",
+  "data_registo": "2013-04-09",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Innovation Union Scoreboard",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2569",
+        "nome": "Rui Paulo Figueiredo"
+      }
+    ],
+    "DataEnvio": "2013-04-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2013-04-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  ECONOMIA E DO EMPREGO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2014-01-02",
+            "docRemetida": null,
+            "entidade": "MIN. DA ECONOMIA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a45304f4751344d475a684c546778596d4d744e44566b4d5330354f5751324c546b31593245774f5455314f54466b4e5335775a47593d&fich=148d80fa-81bc-45d1-99d6-95ca095591d5.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2013-04-09",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c3249325a4751324d5745354c5749324e6a59744e4745344d7930345a4449784c57466c4e7a67774d6d59784e7a56685a5335775a47593d&fich=b6dd61a9-b666-4a83-8d21-ae7802f175ae.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "75735",
+    "Legislatura": "XII",
+    "Nr": "1716",
+    "Observacoes": "mau desempenho; crescimento moderado",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "628595",
+        "obs": null,
+        "pag": [
+          "64-65"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013",
+        "pubLeg": "XII",
+        "pubNr": "132",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/132/2013-04-10/64?pgs=64-65&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
