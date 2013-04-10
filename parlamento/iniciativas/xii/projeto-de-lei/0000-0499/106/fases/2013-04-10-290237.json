@@ -1,0 +1,870 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "106",
+    "id": "36591",
+    "titulo": "Altera as normas para velocípedes sem motor do Código da Estrada."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-04-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9332",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-04-10",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37467",
+        "leg": "XII",
+        "nr": "336",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Afirma os direitos dos ciclistas e peões no Código da Estrada."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37635",
+        "leg": "XII",
+        "nr": "391",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "37564",
+        "leg": "XII",
+        "nr": "131",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1758",
+            "obs": null,
+            "pag": [
+              "35-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-11",
+            "pubLeg": "XII",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-04-10",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:07:30:810&drc=00:06:51:579"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:23:02:423&drc=00:07:28:838"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRACAO INTERNA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Filipe Lobo D'Ávila"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189442",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36",
+                  "38-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-36,38-40&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:14:34:516&drc=00:03:30:810"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189443",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:18:10:714&drc=00:02:47:784"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4381",
+                "nome": "Paulo Simões Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:21:04:439&drc=00:01:50:611"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189445",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:30:48:143&drc=00:08:38:490"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1941",
+                "nome": "Ana Drago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:39:34:431&drc=00:04:55:070"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4169",
+                "nome": "Carina Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:44:37:066&drc=00:04:48:566"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189448",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2165",
+                "nome": "Jorge Fão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:49:35:267&drc=00:10:11:573"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/44?pgs=44-46&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2327",
+                "nome": "João Paulo Viegas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=02:59:53:290&drc=00:04:49:572"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=03:04:47:924&drc=00:06:02:673"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4052",
+                "nome": "Pedro Pimpão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130410pln&url=l12/sl2/a2013/m04/&tI=03:10:56:147&drc=00:03:34:335"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-11",
+                "pubLeg": "XII",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, e o Decreto-Lei n.º 44/2005, de 23 de fevereiro; Altera as normas para velocípedes sem motor do Código da Estrada; Afirma os direitos dos ciclistas e peões no Código da Estrada; Garante que os veículos em fim de vida não tenham como destino sucatas ilegais, alterando o Código da Estrada, aprovado pelo Decreto-Lei nº 114/94, de 3 de maio, republicado pelo Decreto-Lei nº 44/2005, de 23 de fevereiro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290237",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "632748",
+        "obs": null,
+        "pag": [
+          "35-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-04-11",
+        "pubLeg": "XII",
+        "pubNr": "76",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/076/2013-04-11/35?pgs=35-49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
