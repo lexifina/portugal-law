@@ -1,0 +1,6 @@
+Edital n.º 355/2013
+Graça Guerreiro Nunes, Presidente da Câmara Municipal de Grândola, faz público que, em cumprimento da deliberação de Câmara de 21 de março de 2013, e nos termos das disposições conjugadas do artigo 91.º da Lei n.º 169/99, de 18 de setembro, com a redação que lhe foi dada pela Lei n.º 5-A/2002, de 11 de janeiro, artigos 117.º e 118.º do Código do Procedimento Administrativo, que se encontra em apreciação pública pelo prazo de 30 dias úteis a contar da data de publicação no Diário da República do presente Edital, o "Projeto de Regulamento de Circulação e Estacionamento de Melides".
+Qualquer interessado poderá consultar o citado Regulamento, durante o horário de expediente, (das 9 às 16 horas), na Divisão de Ambiente, sita no Largo Manuel Sobral - Edifício Ex-GAT - 1.º Andar, em Grândola, ou na página da Internet do Município - www.cm-grandola.pt - e apresentar sugestões que entender convenientes, devendo estas serem formuladas por escrito e dirigidas à Presidente da Câmara Municipal de Grândola, ou remetidas por correio eletrónico para o endereço geral@cm-grandola.pt.
+Para constar, se lavrou o presente Edital, e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+25 de março de 2013. - A Presidente da Câmara, Graça Guerreiro Nunes.
+306856873
