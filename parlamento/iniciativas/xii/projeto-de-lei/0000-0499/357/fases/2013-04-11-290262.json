@@ -1,0 +1,438 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "357",
+    "id": "37527",
+    "titulo": "Cria a Comissão Nacional dos Direitos das Crianças e Jovens."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-04-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9344",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-04-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37525",
+        "leg": "XII",
+        "nr": "355",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1752",
+            "obs": null,
+            "pag": [
+              "48-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-12",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/48?pgs=48-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1752",
+            "obs": null,
+            "pag": [
+              "48-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-12",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/48?pgs=48-52&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Cria um Programa Extraordinário de Combate à Pobreza Infantil e reforça a proteção dos Direitos das Crianças e Jovens."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37526",
+        "leg": "XII",
+        "nr": "356",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1752",
+            "obs": null,
+            "pag": [
+              "48-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-12",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/48?pgs=48-52&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1752",
+            "obs": null,
+            "pag": [
+              "48-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-04-12",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/48?pgs=48-52&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Estabelece a obrigatoriedade de elaboração e apresentação de um Relatório Anual sobre os Direitos da Criança e a situação da Infância em Portugal."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-04-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130411pln&url=l12/sl2/a2013/m04/&tI=02:44:16:439&drc=00:04:07:567"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-12",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Cria um Programa Extraordinário de Combate à Pobreza Infantil e reforça a proteção dos Direitos das Crianças e Jovens; Estabelece a obrigatoriedade de elaboração e apresentação de um Relatório Anual sobre os Direitos da Criança e a situação da Infância em Portugal; Cria a Comissão Nacional dos Direitos das Crianças e Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130411pln&url=l12/sl2/a2013/m04/&tI=02:48:32:173&drc=00:03:31:721"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-12",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Cria um Programa Extraordinário de Combate à Pobreza Infantil e reforça a proteção dos Direitos das Crianças e Jovens; Estabelece a obrigatoriedade de elaboração e apresentação de um Relatório Anual sobre os Direitos da Criança e a situação da Infância em Portugal; Cria a Comissão Nacional dos Direitos das Crianças e Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2132",
+                "nome": "Idália Salvador Serrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130411pln&url=l12/sl2/a2013/m04/&tI=02:52:07:771&drc=00:03:38:369"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-12",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Cria um Programa Extraordinário de Combate à Pobreza Infantil e reforça a proteção dos Direitos das Crianças e Jovens; Estabelece a obrigatoriedade de elaboração e apresentação de um Relatório Anual sobre os Direitos da Criança e a situação da Infância em Portugal; Cria a Comissão Nacional dos Direitos das Crianças e Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130411pln&url=l12/sl2/a2013/m04/&tI=02:55:51:830&drc=00:03:01:916"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-12",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/51?pgs=51&org=PLC"
+              }
+            ],
+            "sumario": "Cria um Programa Extraordinário de Combate à Pobreza Infantil e reforça a proteção dos Direitos das Crianças e Jovens; Estabelece a obrigatoriedade de elaboração e apresentação de um Relatório Anual sobre os Direitos da Criança e a situação da Infância em Portugal; Cria a Comissão Nacional dos Direitos das Crianças e Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130411pln&url=l12/sl2/a2013/m04/&tI=02:59:02:405&drc=00:03:57:703"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-04-12",
+                "pubLeg": "XII",
+                "pubNr": "77",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Cria um Programa Extraordinário de Combate à Pobreza Infantil e reforça a proteção dos Direitos das Crianças e Jovens; Estabelece a obrigatoriedade de elaboração e apresentação de um Relatório Anual sobre os Direitos da Criança e a situação da Infância em Portugal; Cria a Comissão Nacional dos Direitos das Crianças e Jovens.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290262",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "632792",
+        "obs": null,
+        "pag": [
+          "47-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-04-12",
+        "pubLeg": "XII",
+        "pubNr": "77",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/077/2013-04-12/47?pgs=47-52&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
