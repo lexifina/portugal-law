@@ -1,0 +1,280 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "135",
+    "id": "37602",
+    "titulo": "Procede à segunda alteração ao Decreto-Lei n.º 315/2009, de 29 de outubro, que aprovou o regime jurídico da criação, reprodução e detenção de animais perigosos e potencialmente perigosos, enquanto animais de companhia reforçando os requisitos da detenção e os regimes penal e contraordenacional."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-04-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "31078",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-04-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-04-12",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a6d5a6b4d7a41325a43316a5a4745314c54526d4d444574595449344d5330324d6a426c5a54526a4e6d49344e546b756347526d&fich=2ffd306d-cda5-4f01-a281-620ee4c6b859.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de alteração - PSD, CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d6a4268596a4177597931685a6a677a4c54526d4d4445744f445a68597930305a54686d4d6a6468597a45314e4451756347526d&fich=d20ab00c-af83-4f01-86ac-4e8f27ac1544.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Rottweiler Clube de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4f5749304f54426a5a4330314d7a45324c5452694f5449744f47566b597930314e7a45324f5749354e6a51775a6a55756347526d&fich=c9b490cd-5316-4b92-8edc-57169b9640f5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Informação - Ordem dos Notários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e6d557a5a6a417a4d5330344d474a694c5451344d475974596a5931595330344f446b324d7a64694d6a4935597a41756347526d&fich=66e3f031-80bb-480f-b65a-889637b229c0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANMP - Associação Nacional dos Municipios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a5746685a6a566d597930335a444d354c54526c4f574d74596a4930596930794e6a68684d7a566a4e7a646d4f5463756347526d&fich=6eaaf5fc-7d39-4e9c-b24b-268a35c77f97.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Nacional de Freguesias - ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d44686d4d3259354f43316a4e7a45324c5451785a4751745957517a5979316b4e4755345a4749784e6d4935595459756347526d&fich=108f3f98-c716-41dd-ad3c-d4e8db16b9a6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793835595749315a57557a4d6931684d54677a4c5451314f475574596a41354d5330794d54646b5a4459794d7a41344d4441756347526d&fich=9ab5ee32-a183-458e-b091-217dd6230800.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a6a46695a6d4e695a43316a5a4445314c54526b59544d745957566c4d533169596a4e6c4f5459784d4749325a4445756347526d&fich=8f1bfcbd-cd15-4da3-aee1-bb3e9610b6d1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793879596a55324e7a5a6b5979316b4d5441344c5451314d7a59744f474d314d793035596d566c596a67324d7a41345a574d756347526d&fich=2b5676dc-d108-4536-8c53-9beeb86308ec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d5755794d3246684e6930784d6d51344c545134597a5174595449305953316a5a444e6b4f4745784e7a457a4d3255756347526d&fich=f1e23aa6-12d8-48c4-a24a-cd3d8a17133e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d44566b5a6a466c4f5330334d6a63324c54526a4d5751744f57457859693169597a55794d32466c4f446735593251756347526d&fich=705df1e9-7276-4c1d-9a1b-bc523ae889cd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório da Discussão e Votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4f444a6b4e7a4933597930774e6d59774c54517a596a4974596d55324e4330354d3249324e54526c4d3259784d7a6b7555455247&fich=e82d727c-06f0-43b2-be64-93b654e3f139.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-05-10"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-05-13"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2013-05-27"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2013-05-10"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2013-05-07"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2013-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Notários em 2013-05-03"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2013-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2013-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2013-04-23"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2013-04-23"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Notários em 2013-04-23"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e anexo, contendo propostas de alteração apresentadas pelo PSD/CDS-PP e PS",
+            "pag": [
+              "127-159"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2013-05-22",
+            "pubLeg": "XII",
+            "pubNr": "137",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/137S1/2013-05-22/127?pgs=127-159&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e anexo, contendo propostas de alteração apresentadas pelo PSD/CDS-PP e PS",
+            "pag": [
+              "127-159"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2013-05-22",
+            "pubLeg": "XII",
+            "pubNr": "137",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/137S1/2013-05-22/127?pgs=127-159&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2013-05-22",
+            "numeroOficio": "669/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-05-22",
+            "descricao": null,
+            "detalhe": null,
+            "id": "63816",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "147",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-04-12",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290410",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
