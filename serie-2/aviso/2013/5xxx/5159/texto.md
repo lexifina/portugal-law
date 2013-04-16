@@ -1,0 +1,8 @@
+Aviso n.º 5159/2013
+João António de Sousa Pais Lourenço, Presidente da Câmara Municipal do Concelho de Santa Comba Dão:
+Torna público, nos termos do artigo 91.º da Lei n.º 169/99, de 18 de setembro, com a alteração que lhe foi produzida pela Lei n.º 5-A/2002, de 11 de janeiro, e ao abrigo da alínea a) do n.º 4 do artigo 148.º do Decreto-Lei n.º 380/99, de 22 de setembro, com a alteração produzida pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, que a Câmara Municipal, em sua reunião ordinária de 09 de abril de 2013, no cumprimento do disposto nos números 3 e 4 do artigo 77.º do citado Decreto-Lei n.º 380/99, deliberou submeter a apreciação pública a proposta do Plano de Pormenor da Senhora da Ribeira, para recolha de sugestões, pelo prazo de 22 dias úteis a contar do 5.º dia da sua publicação na 2.ª série do Diário da República.
+Os interessados devem formular por escrito e dirigir ao Presidente da Câmara Municipal as eventuais observações ou sugestões dentro do período atrás referido, para Câmara Municipal de Santa Comba Dão, Largo do Município, n.º 13,3440-337 Santa Comba Dão ou para o e-mail geral@cm.santacombadao.pt.
+A proposta do Plano de Pormenor da Senhora da Ribeira, encontra-se à disposição do público, para consulta, no Gabinete de Planeamento e Urbanismo, edifício dos Serviços Técnicos, durante as horas normais de expediente e ainda no sítio www.cm-santacombadao.pt.
+Para conhecimento geral se torna público o presente aviso e outros de igual teor que vão ser afixados nos lugares públicos de estilo e ainda no sítio www.cm-santacombadao.pt.
+10 de abril de 2013. - O Presidente da Câmara Municipal, João António de Sousa Pais Lourenço.
+206885328
