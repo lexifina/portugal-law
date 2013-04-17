@@ -1,0 +1,1 @@
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 9 de abril de 2013. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 3 de março de 2013.
