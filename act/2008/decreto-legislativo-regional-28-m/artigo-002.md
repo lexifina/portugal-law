@@ -4,7 +4,7 @@
 
 1 - Na ilha da Madeira a dragagem de materiais inertes, quando efectuada a uma distância de até 200 m para o interior a contar da linha da costa e até os 200 m no sentido do mar a contar da mesma linha, tem de destinar-se a alimentação artificial do litoral, para efeitos da sua protecção.
 
-2 - Na ilha da Madeira a extracção de materiais inertes pode ser realizada fora das zonas definidas no número anterior desde que sustentada em estudos da plataforma marítima que quantifiquem e caracterizem os sedimentos e respectiva dinâmica sedimentar.
+2 - Na ilha da Madeira é autorizada a extração de materiais inertes para fins comerciais fora das zonas definidas no número anterior, desde que sustentada em estudos da plataforma marítima que quantifiquem e caracterizem os sedimentos e respetiva dinâmica sedimentar e nos demais termos e condições previstos no presente diploma.
 
 3 - Na ilha do Porto Santo a dragagem de materiais inertes na praia e leito do mar apenas será destinada à alimentação artificial da praia.
 

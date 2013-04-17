@@ -2,7 +2,7 @@
 
 ### Revogação
 
-1 - Sem prejuízo do disposto no n.º 2 do artigo 7.º, as licenças poderão, em qualquer altura, ser revogadas pela Secretaria Regional do Equipamento Social sempre que se verifique alguma das seguintes situações:
+1 - Sem prejuízo do disposto no nº 2 do artigo 7º, as licenças poderão, em qualquer altura, ser revogadas pela entidade licenciadora sempre que se verifique alguma das seguintes situações:
 
 a) O não início da utilização no prazo de seis meses a contar da data de emissão do título ou a não utilização durante um ano;
 

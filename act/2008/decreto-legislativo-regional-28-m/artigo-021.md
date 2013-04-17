@@ -6,4 +6,4 @@
 
 ### Fiscalização
 
-As funções de fiscalização, para efeitos do presente diploma, competem à Secretaria Regional do Equipamento Social, à Capitania do Porto do Funchal e à Alfândega do Funchal.
+As funções de fiscalização, para efeitos do presente diploma, competem à entidade licenciadora, à Capitania do Porto do Funchal e à Alfândega do Funchal.

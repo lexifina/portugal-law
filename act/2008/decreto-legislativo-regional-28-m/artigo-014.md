@@ -2,4 +2,4 @@
 
 ### Valor de venda
 
-O valor de venda ao público dos materiais inertes será fixado anualmente por portaria conjunta dos Secretários Regionais do Plano e Finanças e do Equipamento Social.
+O valor de venda ao público dos materiais inertes será fixado anualmente por portaria conjunta dos membros do Governo Regional com competência em matéria de finanças e de litoral.
