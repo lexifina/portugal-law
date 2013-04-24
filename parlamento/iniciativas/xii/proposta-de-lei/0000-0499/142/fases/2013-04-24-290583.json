@@ -1,0 +1,225 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "142",
+    "id": "37671",
+    "titulo": "Regula a reposição, em 2013, do subsídio de férias para os trabalhadores públicos, aposentados, reformados e demais pensionistas."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "31132",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-04-24",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-04-24",
+        "DatafimApreciacaoPublica": "2013-05-15",
+        "DatainicioApreciacaoPublica": "2013-04-26",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-05-22",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 5ª COFAP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d795a44517a4d54426c4c575a695a5749744e44497a4d4330354d7a686c4c54526d5a444a6a4d5759314d6d557a4e4335775a47593d&fich=c2d4310e-fbeb-4230-938e-4fd2c1f52e34.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da ANAFRE - Associação Nacional de Freguesias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466b4f474d345a574d314c5467345a4451744e4441314d5330344f44426d4c5467784f575577597a67344d44646c4e7935775a47593d&fich=ad8c8ec5-88d4-4051-880f-819e0c8807e7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55334e324a6d597a646d4c5749314d5467744e4463354d5331685a5749304c544d794d6d56694d6d5535596a5930597935775a47593d&fich=577bfc7f-b518-4791-aeb4-322eb2e9b64c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP-IN - Confederação Geral dos Trabalhadores Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251304e7a566c596a55314c545a6a4d4467744e4459344d4330344e7a526a4c5449324e474d334d544668595451334e7935775a47593d&fich=d475eb55-6c08-4680-874c-264c711aa477.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Febase - Federação do Sector Financeiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324d3255354d7a5a6d4c5467355a4451744e4456694f533035597a6b354c5463354d544e684d575a6d5a6d4530595335515245593d&fich=863e936f-89d4-45b9-9c99-7913a1fffa4a.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Fectrans - Federação dos Sindicatos de Transportes e Comunicações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59774d44417a5a6a55794c5451784d446b744e44453359693035596a466c4c57526c4e7a56684f54686b4d5463305a4335775a47593d&fich=60003f52-4109-417b-9b1e-de75a98d174d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FESAHT - Federação dos Sindicatos de Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d4d6d45314e7a51354c5467354f5449744e4751314f4331684d324e694c5463774d7a6778595463785a5459354f4335515245593d&fich=bf2a5749-8992-4d58-a3cb-70381a71e698.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Frente Comum de Sindicatos da Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249334e6a64694f575a684c544978595445744e4463304d7930344e4752684c5751794f4759784d3251794d5441314e6935515245593d&fich=b767b9fa-21a1-4743-84da-d28f13d21056.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da UGT - União Geral de Trabalhadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56684d47453259574d324c574a6c4f5449744e474e6d4d433035597a6b314c574977595445354d474d79596a5130596935515245593d&fich=5a0a6ac6-be92-4cf0-9c95-b0a190c2b44b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos de Coimbra",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d334e7a4a695a5451334c544e6a4e3259744e445931597931695a6d51314c5755315a474e684d5745794e7a5131596935515245593d&fich=3772be47-3c7f-465c-bfd5-e5dca1a2745b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer de Gonçalo Patrocínio",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259354e7a5a6c4e325a694c5759304e7a51744e4463324f4330344e3245784c54426d4e57553259546c6a4f474d794d4335775a47593d&fich=f976e7fb-f474-4768-87a1-0f5e6a9c8c20.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do FENTCOP - Sindicato Nacional dos Transportes, Comunicações e Obras Públicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41794d6a5a6b4e446b774c5445334d7a6b744e4755344e533168596a566a4c57566d4d446779596d49304d3256684d7935515245593d&fich=0226d490-1739-4e85-ab5c-ef082bb43ea3.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SINCOR - Sindicato Independente dos Correios de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6a4e6a566d4e6a68684c54566b5a5749744e474935596930354e5759774c5441775a5441304e444178596a5a6d4e7935515245593d&fich=2c65f68a-5deb-4b9b-95f0-00e04401b6f7.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato das Indústrias Transformadoras, Energia e Atividades do Ambiente",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b7959324e6d4d6a41354c5455794e6a49744e474d34595331685957566c4c57466b4e5745354d6a4d315a6d5933596935515245593d&fich=92ccf209-5262-4c8a-aaee-ad5a9235ff7b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Quadros Técnicos do Estado e Entidades com Fins Públicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566b4e6a42684e6a59794c54646d4e5755744e47457a5a5330345a446b314c5441354e544d7a4e5759314e444a694f4335775a47593d&fich=5d60a662-7f5e-4a3e-8d95-095335f542b8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sinquadros - Sindicato de Quadros das Comunicações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566d4e4755314e6a67354c5755794f474d744e4456694e6931684f54597a4c5463354d6a41794d7a6868595442684f5335515245593d&fich=5f4e5689-e28c-45b6-a963-7920238aa0a9.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sinttav - Sindicato nacional dos Trabalhadores das Telecomunicações e Audiovisual",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d354f5452685a5441314c57566d4e6a55744e445132595330355a57466b4c5751344e4456694e6d56684e6a45354e7935515245593d&fich=3994ae05-ef65-446a-9ead-d845b6ea6197.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SNTCT - Sindicato Nacional dos Trabalhadores dos Correios e Telecomunicações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a637a4d6a646d4d3256694c5749305a5459744e47566d4d6930355a5441784c54637a5a6a45324f5755314e7a5530596935515245593d&fich=7327f3eb-b4e6-4ef2-9e01-73f169e5754b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45314d324e6b597a63334c544a684e4467744e4445314e4331695932517a4c54566d4d6a67794e7a63345a4751774e4335775a47593d&fich=153cdc77-2a48-4154-bcd3-5f282778dd04.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "42",
+            "motivoCessacao": null,
+            "nome": "Duarte Pacheco"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-05-21",
+            "dataRemessa": "2013-05-21",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE"
+            ],
+            "data": "2013-05-22",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I><BR>Ausência: <I>BE</I>",
+            "id": "63808",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "177",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-04-24",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "conexão com 10.ª Comissão",
+    "OevId": "290583",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
