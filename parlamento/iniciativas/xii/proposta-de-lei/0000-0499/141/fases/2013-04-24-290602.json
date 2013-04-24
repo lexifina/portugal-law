@@ -1,0 +1,205 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "141",
+    "id": "37670",
+    "titulo": "Aprova os regimes jurídicos do ensino da condução, regulando o acesso e o exercício da atividade de exploração de escolas de condução, da profissão de instrutor de condução, da profissão de diretor de escola de condução e da certificação das respetivas entidades formadoras."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "31146",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-05-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-04-24",
+        "DatafimApreciacaoPublica": "2013-06-09",
+        "DatainicioApreciacaoPublica": "2013-05-11",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-06-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Alexandre José Dias Braga",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a4d785a6a466a4d4749745a4464695a5330304e6d45774c57466c4d4467744e57526b4f5467335a5468684d324a6b4c6e426b5a673d3d&fich=f31f1c0b-d7be-46a0-ae08-5dd987e8a3bd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-05-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - ANIECA - Associação Nacional dos Industriais do Ensino da Condução Automóvel",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3251794e544a69596a55744e47526a595330304d4449324c54677a5a4455744e575a694e446c694e5455314e444e6c4c6e426b5a673d3d&fich=3d252bb5-4dca-4026-83d5-5fb49b55543e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - António Borges",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a646c596a59335a4459744d47526b4d7930304e7a5a694c574a6c4e54497459325179596a5a6c4f47466b4d6a566b4c6e426b5a673d3d&fich=b7eb67d6-0dd3-476b-be52-cd2b6e8ad25d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - APdEC - Associação de Profissionais do Ensino da Condução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5449774d7a4d784d6a63744e6a46684d7930304d324a6d4c5745355a6d51744d6a566b5a6a55775a44457a4e6d51354c6e426b5a673d3d&fich=52033127-61a3-43bf-a9fd-25df50d136d9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Joaquim Paulo Leal e Sousa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595751314e3251314e4745744d7a5579595330305a444d774c546b314e7a5574595752684e44646c4e5463305a6a526c4c6e426b5a673d3d&fich=ad57d54a-352a-4d30-9575-ada47e574f4e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Luis Filipe Estrela da Câmara Jardim",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5455324e6d51774e546b744f544e6b4f5330304d6a67304c5749304e446b74596a4a684e4751334e325a6d5957526a4c6e426b5a673d3d&fich=1566d059-93d9-4284-b449-b2a4d77ffadc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - UGT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3249344e3251334e5755744d4445354e6930304e6d5a694c574a6b4e4467744d4749335a6a5a6b597a4268595446694c6e426b5a673d3d&fich=7b87d75e-0196-46fb-bd48-0b7f6dc0aa1b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a5a69596a5a6c5a5751744f545a684e4330304e47457a4c5749774d4445744f474e684f474d304f54426a4d7a51334c6e426b5a673d3d&fich=f6bb6eed-96a4-44a3-b001-8ca8c490c347.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 6ª CEOP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e574d784f545977593259745a4755784d6930304e4451344c546c6d4e5749744d6a646b596d4a6d4f5463324e7a64694c6e426b5a673d3d&fich=5c1960cf-de12-4448-9f5b-27dbbf97677b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "24-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-12",
+            "pubLeg": "XII",
+            "pubNr": "150",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/150/2013-06-12/24?pgs=24-36&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "24-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-12",
+            "pubLeg": "XII",
+            "pubNr": "150",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/150/2013-06-12/24?pgs=24-36&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2165",
+            "motivoCessacao": null,
+            "nome": "Jorge Fão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-06-06",
+            "dataRemessa": "2013-06-12",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-06-12",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+            "id": "64151",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "146",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-04-24",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290602",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
