@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "75930",
+  "tipo": "Pergunta",
+  "numero": "1895",
+  "data_registo": "2013-04-25",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Operação de recapitalização do Banif",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "1941",
+        "nome": "Ana Drago"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3926",
+        "nome": "Pedro Filipe Soares"
+      }
+    ],
+    "DataEnvio": "2013-04-29",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2013-04-29",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2014-06-12",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a59314d6d49315a6d4e6a4c54566a5a5449744e444d354f5331694e7a45334c575130595451304f446b344f57466c4d5335775a47593d&fich=652b5fcc-5ce2-4399-b717-d4a448989ae1.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2013-04-25",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c324a69596a45324d44466c4c546c6a4d444d744e444d34595331684e6a5a694c5467354e6d4e6d5a54426a4d6d55794f4335775a47593d&fich=bbb1601e-9c03-438a-a66b-896cfe0c2e28.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "75930",
+    "Legislatura": "XII",
+    "Nr": "1895",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "629628",
+        "obs": null,
+        "pag": [
+          "37-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013",
+        "pubLeg": "XII",
+        "pubNr": "144",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/144/2013-04-30/37?pgs=37-38&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
