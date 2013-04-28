@@ -2,7 +2,7 @@
 
 ### Obrigações
 
-As empresas produtoras de software, antes da comercialização dos programas, para efeitos de certificação, devem enviar à DGCI:
+As empresas produtoras de software, antes da comercialização dos programas, para efeitos de certificação, devem enviar à AT:
 
 a) Uma declaração de modelo oficial, aprovado por despacho do Ministro das Finanças;
 
