@@ -1,4 +1,4 @@
-# Artigo 7.º
+# Artigo 10.º
 
 ### Revogação do certificado
 
