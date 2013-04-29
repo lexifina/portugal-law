@@ -1,0 +1,111 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Relatórios Externos",
+  "numero": null,
+  "data_registo": "2013-04-29",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Relatório anual do Provedor de Justiça de 2012",
+    "Audicoes": [
+      "95618"
+    ],
+    "Comissao": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+    "DataAgendamentoDebate": "2013-07-24",
+    "DataEntrada": "2013-04-29",
+    "DataParecerUTAO": null,
+    "DataPedidoParecer": null,
+    "DescTipo": "Relatórios Externos",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-07-23 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer CACDLG",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a4a6d4d32493359574a6a4c5467774d4445744e47466a5a6931684e4442694c57453459545a684e6a5a684e5445315a6935515245593d&fich=2f3b7abc-8001-4acf-a40b-a8a6a66a515f.PDF&Inline=true"
+      }
+    ],
+    "EntidadesExternas": [
+      "Provedor de Justiça"
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Links": null,
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "642485",
+        "obs": "Apreciação",
+        "pag": [
+          "50-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-25",
+        "pubLeg": "XII",
+        "pubNr": "115",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/115/2013-07-25/50?pgs=50-57&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "59",
+        "obs": null,
+        "pag": [
+          "51-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-25",
+        "pubLeg": "XII",
+        "pubNr": "115",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/115/2013-07-25/51?pgs=51-57&org=PLC"
+      }
+    ],
+    "Relatores": [
+      {
+        "dataCessacao": null,
+        "dataNomeacao": null,
+        "gp": "PCP",
+        "id": "2234",
+        "motivoCessacao": null,
+        "nome": "João Oliveira"
+      }
+    ],
+    "Sessao": "2",
+    "TextoRelatorio": null,
+    "TextosAprovados": null,
+    "Tipo": "PRC",
+    "VotacaoDebate": null,
+    "VotacaoRelatorio": {
+      "ausencias": null,
+      "data": "2013-07-23",
+      "descricao": null,
+      "detalhe": null,
+      "id": "64592",
+      "publicacao": null,
+      "resultado": "Aprovado",
+      "reuniao": "168",
+      "tipoReuniao": null,
+      "unanime": null
+    }
+  }
+}
