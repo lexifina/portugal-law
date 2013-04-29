@@ -1,0 +1,8 @@
+Aviso n.º 5665/2013
+Maria das Dores Meira, presidente da Câmara Municipal de Setúbal:
+Faz público que, sob proposta da Câmara Municipal de 9 de janeiro de 2013, a Assembleia Municipal de Setúbal em sessão ordinária de 28 de janeiro e 1 de março de 2013, deliberou aprovar o Regulamento de Edificação e Urbanização do Município de Setúbal (REUMS), nos termos da alínea a) do n.º 2 do artigo 53.º, das alíneas a), dos n.os 6 e 7 do artigo 64.º da Lei n.º 169/99, de 18 de setembro, alterada e republicada pela Lei n.º 5-A/2002, de 11 de janeiro e do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, alterado e republicado pelo Decreto-Lei n.º 26/2010, de 30 de março e alterado pela Lei n.º 28/10, de 2 de setembro, que consagra o Regime Jurídico da Urbanização e Edificação, adiante abreviadamente designado por RJUE.
+O projeto de Regulamento foi submetido a discussão pública através da publicação do Edital n.º 946/2012 na 2.ª série do Diário da República -n.º 208- de 26 de outubro de 2012 e da publicitação nos locais de estilo, pelo prazo de 30 dias úteis, tudo conforme o previsto nos n.os 3 e 4 do já referido artigo 3.º do RJUE.
+Decorrido o prazo de discussão pública não foram apresentadas nesta Câmara Municipal quaisquer reclamações, observações ou sugestões sobre a proposta do REUMS. Estando assim cumpridos todos os requisitos necessários, a seguir se publica o mencionado Regulamento.
+Mais se informa que o referido Regulamento poderá ser consultado no sítio da internet da Câmara Municipal, www.mun-setubal.pt. Para constar se publica o presente aviso e outros de igual teor que vão ser afixados nos lugares públicos de estilo e na página da internet deste Município.
+8 de abril de 2013. - A Presidente da Câmara, Maria das Dores Meira.
+306899796
