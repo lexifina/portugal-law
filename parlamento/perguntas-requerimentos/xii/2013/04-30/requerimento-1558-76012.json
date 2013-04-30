@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "76012",
+  "tipo": "Requerimento",
+  "numero": "1558",
+  "data_registo": "2013-04-30",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Taxa Turística",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1584",
+        "nome": "José Ribeiro e Castro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2419",
+        "nome": "Cecília Meireles"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4157",
+        "nome": "Michael Seufert"
+      }
+    ],
+    "DataEnvio": "2013-05-02",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2013-05-02",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Trofa",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2013-05-15",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Trofa",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a42684d474a6c5a54457a4c5441304f5749744e4463794f4330344d446b784c5449324d6a4a6b59574977597a4d304d7935775a47593d&fich=0a0bee13-049b-4728-8091-2622dab0c343.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2013-04-30",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a4e6c4f444a6c4f546b354c546732596a51744e444a684e6931684e446c684c5455334d4441315a44426b4d7a5a6a4e5335775a47593d&fich=3e82e999-86b4-42a6-a49a-57005d0d36c5.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "76012",
+    "Legislatura": "XII",
+    "Nr": "1558",
+    "Observacoes": "Trofa",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "629704",
+        "obs": null,
+        "pag": [
+          "66-67"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013",
+        "pubLeg": "XII",
+        "pubNr": "146",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/146/2013-05-03/66?pgs=66-67&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
