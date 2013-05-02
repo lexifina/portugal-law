@@ -1,0 +1,140 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12379",
+  "numero": "260",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-05-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-06-26",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "639482",
+                "obs": null,
+                "pag": [
+                  "4-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-06",
+                "pubLeg": "XII",
+                "pubNr": "189",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/189/2013-07-06/4?pgs=4-8&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-05-22",
+        "DataArquivo": "2013-07-03",
+        "DataBaixaComissao": "2013-05-08",
+        "DataEnvioPAR": "2013-07-03",
+        "DataReaberta": "2013-05-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-05-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e5468685a5745355a474d745a6a59784d5330305a446b314c5745784e6d51745a6a553059575978597a5a6b59546c6c4c6c424552673d3d&fich=58aea9dc-f611-4d95-a16d-f54af1c6da9e.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-07-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764e6d51325a545a694e4463744e7a6b304e7930304d5441334c574a6a4d6d59744d7a6c6b4d4445354d575931596a63794c6e426b5a673d3d&fich=6d6e6b47-7947-4107-bc2f-39d0191f5b72.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3521",
+        "Legislatura": "XII",
+        "Nome": "Comissão para a Ética, a Cidadania e a Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-05-22",
+            "gp": "PSD",
+            "id": "4095",
+            "motivoCessacao": null,
+            "nome": "Sérgio Azevedo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2013-05-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a457959574a6c596d59334c54466c4d6a45744e446b78595330344d574d344c546c694d7a41354d44526d4d54526b4f5335775a47593d&fich=12abebf7-1e21-491a-81c8-9b30904f14d9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12379",
+    "PetAssunto": "Solicita reflexão profunda ao artigo 19.º da Lei 7/93, de 1 de março (Estatuto dos Deputados).",
+    "PetDataEntrada": "2013-05-02",
+    "PeticoesAssociadas": null,
+    "PetId": "12379",
+    "PetLeg": "XII",
+    "PetNr": "260",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
