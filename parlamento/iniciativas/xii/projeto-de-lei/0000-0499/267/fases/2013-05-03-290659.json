@@ -1,0 +1,377 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "267",
+    "id": "37164",
+    "titulo": "Estabelece um regime de suficiência do formato digital para e entrega de trabalhos, teses e dissertações."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-05-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9381",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-05-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37678",
+        "leg": "XII",
+        "nr": "697",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1763",
+            "obs": null,
+            "pag": [
+              "3-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-05-04",
+            "pubLeg": "XII",
+            "pubNr": "85",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/085/2013-05-04/3?pgs=3-8&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda a criação de um regime de suficiência do documento eletrónico para a entrega de trabalhos, teses e dissertações, garantindo a gratuitidade para os estudantes."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-05-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:47",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:02:08:393&drc=00:02:08:220"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:18:37:141&drc=00:02:48:733"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4",
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-04",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/085/2013-05-04/3?pgs=3-4,7&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um regime de suficiência do formato digital para e entrega de trabalhos, teses e dissertações; Recomenda a criação de um regime de suficiência do documento eletrónico para a entrega de trabalhos, teses e dissertações, garantindo a gratuitidade para os estudantes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:47",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:04:32:803&drc=00:03:28:557"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:21:34:436&drc=00:02:07:868"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4",
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-04",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/085/2013-05-04/4?pgs=4,7-8&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um regime de suficiência do formato digital para e entrega de trabalhos, teses e dissertações; Recomenda a criação de um regime de suficiência do documento eletrónico para a entrega de trabalhos, teses e dissertações, garantindo a gratuitidade para os estudantes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:47",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:08:12:708&drc=00:02:18:600"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:23:49:803&drc=00:00:53:793"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5",
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-04",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/085/2013-05-04/4?pgs=4-5,8&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um regime de suficiência do formato digital para e entrega de trabalhos, teses e dissertações; Recomenda a criação de um regime de suficiência do documento eletrónico para a entrega de trabalhos, teses e dissertações, garantindo a gratuitidade para os estudantes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4209",
+                "nome": "Elza Pais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:47",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:10:45:144&drc=00:03:42:650"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-04",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/085/2013-05-04/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um regime de suficiência do formato digital para e entrega de trabalhos, teses e dissertações; Recomenda a criação de um regime de suficiência do documento eletrónico para a entrega de trabalhos, teses e dissertações, garantindo a gratuitidade para os estudantes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:47",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130503pln&url=l12/sl2/a2013/m05/&tI=00:14:37:485&drc=00:03:46:594"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-04",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/085/2013-05-04/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece um regime de suficiência do formato digital para e entrega de trabalhos, teses e dissertações; Recomenda a criação de um regime de suficiência do documento eletrónico para a entrega de trabalhos, teses e dissertações, garantindo a gratuitidade para os estudantes.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290659",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "641894",
+        "obs": null,
+        "pag": [
+          "3-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-05-04",
+        "pubLeg": "XII",
+        "pubNr": "85",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/085/2013-05-04/3?pgs=3-8&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
