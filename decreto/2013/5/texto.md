@@ -1,0 +1,23 @@
+Decreto n.º 5/2013
+de 6 de maio
+Pelo Decreto de 16 de junho de 1910, publicado no Diário do Governo, n.º 136, de 23 de junho de 1910, foram classificados como monumentos nacionais 35 marcos miliários (série Capela) da Via Romana XVIII (Geira), indicados no diploma como localizados nos concelhos de Amares e Braga, distrito de Braga.
+Considerada uma das vias romanas mais relevantes do noroeste peninsular, a Via Nova, classificada e descrita no Itinerário, de Antonino, como a XVIII, saía de Bracara Augusta (Braga) para Asturica (Astorga), a cerca de 215 milhas, e foi aberta sob a dinastia dos Flávios (segunda metade do século I d.C.), como passo importante no processo de romanização do território. A Via Nova surgiu assim como rota estratégica de circulação de bens e de defesa, num período de expansão e crescimento global da economia do Império, ao qual a riqueza aurífera da região galaica não seria estranha.
+Hoje vulgarmente conhecida por Geira, e após séculos de intensa utilização, esta via e os seus vestígios monumentais são justamente considerados como um dos exemplares mais notáveis em todo o mundo romano, detendo a maior concentração de miliários historiados que se conhece.
+Tendo em conta que a classificação em causa se limitou a um conjunto de miliários, sem inclusão da própria via, manifestamente insuficiente face à importância do conjunto, pelo presente diploma procede-se à ampliação da área classificada, de forma a passar a abranger a totalidade da via e todas as estruturas arqueológicas a elas associadas, como as ruínas das pontes sobre a ribeira do Forno e a ribeira da Macieira, bem como os arranques da ponte de São Miguel, esta sobre o rio Homem, mutatio (milha XXX) e diversas pedreiras, juntamente com as ruínas arqueológicas do Adro de São João, no concelho de Terras do Bouro, e à redenominação do sítio classificado.
+A ampliação da área classificada da Via Romana XVIII (Geira), no seu traçado por Terras de Bouro, da milha XIV (Santa Cruz) à milha XXXIV (Albergaria), incluindo todas as estruturas arqueológicas associadas, reflete os critérios constantes do artigo 17.º da Lei n.º 107/2001, de 8 de setembro, relativos ao interesse do bem como testemunho notável de vivências ou factos históricos, ao seu valor estético, técnico e material intrínseco, à sua conceção arquitetónica e paisagística, à sua extensão e ao que nela se reflete do ponto de vista da memória coletiva, à sua importância do ponto de vista da investigação histórica ou científica
+A zona especial de proteção do sítio cuja área classificada é ampliada pelo presente decreto é fixada por portaria, nos termos do disposto no artigo 43.º da Lei n.º 107/2001, de 8 de setembro.
+Foram cumpridos os procedimentos de audição dos interessados, previstos no artigo 27.º da Lei n.º 107/2001, de 8 de setembro, de acordo com o disposto nos artigos 100.º e seguintes do Código do Procedimento Administrativo.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 28.º da Lei n.º 107/2001, de 8 de setembro, e nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+Artigo único
+Ampliação da classificação
+1 - É ampliada a área classificada dos 35 marcos miliários (série Capela) da Via Romana XVIII (Geira), classificados como monumentos nacionais pelo Decreto de 16 de junho de 1910, publicado no Diário do Governo, n.º 136, de 23 de junho de 1910, passando a abranger a totalidade da via e todas as estruturas arqueológicas a elas associadas, como as ruínas das pontes sobre a ribeira do Forno e a ribeira da Macieira, bem como os arranques da ponte de São Miguel, esta sobre o rio Homem, mutatio (milha XXX) e diversas pedreiras, juntamente com as ruínas arqueológicas do Adro de São João, no concelho de Terras do Bouro, e à redenominação do sítio classificado, conforme planta de delimitação constante do anexo ao presente decreto, do qual faz parte integrante.
+2 - Os monumentos nacionais referidos no número anteriores passam a ser designados por Via Romana XVIII (Geira), no seu traçado por Terras de Bouro, da milha XIV (Santa Cruz) à milha XXXIV (Albergaria), incluindo todas as estruturas arqueológicas associadas, nas freguesias de Souto, Ribeira, Balança, Chourense, Vilar, Chamoim, Carvalheira, Covide e Campo do Gerês, concelho de Terras de Bouro, distrito de Braga.
+Visto e aprovado em Conselho de Ministros de 27 de março de 2013. - Pedro Passos Coelho.
+Assinado em 23 de abril de 2013.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 26 de abril de 2013.
+O Primeiro-Ministro, Pedro Passos Coelho.
+ANEXO
+(ver documento original)
