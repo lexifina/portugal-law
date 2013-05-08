@@ -1,0 +1,450 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "710",
+    "id": "37693",
+    "titulo": "Recomenda ao Governo a criação da rede pública de cinema e a modernização dos cineteatros municipais, cineclubes e outros recintos de cinema."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9408",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-05-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37690",
+        "leg": "XII",
+        "nr": "407",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1768",
+            "obs": null,
+            "pag": [
+              "36-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-05-09",
+            "pubLeg": "XII",
+            "pubNr": "86",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/36?pgs=36-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1768",
+            "obs": null,
+            "pag": [
+              "36-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-05-09",
+            "pubLeg": "XII",
+            "pubNr": "86",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/36?pgs=36-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera a Lei n.º 55/2012, de 6 e Setembro que «Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais» apoiando a projeção e difusão do cinema digital criando mecanismos de apoio a cineclubes e associações sem fins lucrativos."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37504",
+        "leg": "XII",
+        "nr": "604",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1768",
+            "obs": null,
+            "pag": [
+              "36-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-05-09",
+            "pubLeg": "XII",
+            "pubNr": "86",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/36?pgs=36-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1768",
+            "obs": null,
+            "pag": [
+              "36-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-05-09",
+            "pubLeg": "XII",
+            "pubNr": "86",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/36?pgs=36-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação de uma Rede de Cinema Digital e o estabelecimento de parcerias com as autarquias locais e os exibidores cinematográficos para a promoção e recuperação de recintos de cinema."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-05-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1851",
+                "nome": "Maria Gabriela Canavilhas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:05:00:010&drc=00:03:20:971"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:24:31:999&drc=00:01:00:207"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37",
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/36?pgs=36-37,42&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma Rede de Cinema Digital e o estabelecimento de parcerias com as autarquias locais e os exibidores cinematográficos para a promoção e recuperação de recintos de cinema; Altera a Lei n.º 55/2012, de 6 e Setembro que «Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais» apoiando a projeção e difusão do cinema digital criando mecanismos de apoio a cineclubes e associações sem fins lucrativos; Recomenda ao Governo a criação da rede pública de cinema e a modernização dos cineteatros municipais, cineclubes e outros recintos de cinema.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:08:25:858&drc=00:03:34:188"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:23:33:644&drc=00:00:51:983"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38",
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/37?pgs=37-38,41-42&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma Rede de Cinema Digital e o estabelecimento de parcerias com as autarquias locais e os exibidores cinematográficos para a promoção e recuperação de recintos de cinema; Altera a Lei n.º 55/2012, de 6 e Setembro que «Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais» apoiando a projeção e difusão do cinema digital criando mecanismos de apoio a cineclubes e associações sem fins lucrativos; Recomenda ao Governo a criação da rede pública de cinema e a modernização dos cineteatros municipais, cineclubes e outros recintos de cinema.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:12:06:543&drc=00:03:36:025"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:23:08:958&drc=00:00:18:416"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39",
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/38?pgs=38-39,41&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma Rede de Cinema Digital e o estabelecimento de parcerias com as autarquias locais e os exibidores cinematográficos para a promoção e recuperação de recintos de cinema; Altera a Lei n.º 55/2012, de 6 e Setembro que «Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais» apoiando a projeção e difusão do cinema digital criando mecanismos de apoio a cineclubes e associações sem fins lucrativos; Recomenda ao Governo a criação da rede pública de cinema e a modernização dos cineteatros municipais, cineclubes e outros recintos de cinema.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:15:47:131&drc=00:03:16:877"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma Rede de Cinema Digital e o estabelecimento de parcerias com as autarquias locais e os exibidores cinematográficos para a promoção e recuperação de recintos de cinema; Altera a Lei n.º 55/2012, de 6 e Setembro que «Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais» apoiando a projeção e difusão do cinema digital criando mecanismos de apoio a cineclubes e associações sem fins lucrativos; Recomenda ao Governo a criação da rede pública de cinema e a modernização dos cineteatros municipais, cineclubes e outros recintos de cinema.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4435",
+                "nome": "Ana Sofia Bettencourt"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:19:07:927&drc=00:03:52:406"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de uma Rede de Cinema Digital e o estabelecimento de parcerias com as autarquias locais e os exibidores cinematográficos para a promoção e recuperação de recintos de cinema; Altera a Lei n.º 55/2012, de 6 e Setembro que «Estabelece os princípios de ação do Estado no Quadro de Fomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais» apoiando a projeção e difusão do cinema digital criando mecanismos de apoio a cineclubes e associações sem fins lucrativos; Recomenda ao Governo a criação da rede pública de cinema e a modernização dos cineteatros municipais, cineclubes e outros recintos de cinema.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290791",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "635493",
+        "obs": null,
+        "pag": [
+          "36-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-05-09",
+        "pubLeg": "XII",
+        "pubNr": "86",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/36?pgs=36-42&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
