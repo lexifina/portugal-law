@@ -1,0 +1,390 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "688",
+    "id": "37661",
+    "titulo": "Recomenda ao Governo que tome medidas no sentido de clarificar a missão das diferentes instituições de ensino superior e articular a oferta formativa no ensino superior."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9404",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a444e6a4e446b304f4759744e7a55304d6930304d4456694c546c695a4449744d574d345957466d4f47457a596a426a4c6d527659773d3d&fich=d3c4948f-7542-405b-9bd2-1c8aaf8a3b0c.doc&Inline=true",
+        "anexoNome": "Texto substituído a pedido dos autores em 7-05-2013"
+      }
+    ],
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-05-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37688",
+        "leg": "XII",
+        "nr": "702",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1767",
+            "obs": null,
+            "pag": [
+              "30-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-05-09",
+            "pubLeg": "XII",
+            "pubNr": "86",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/30?pgs=30-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Valorização e reconhecimento efetivo do papel da rede de Ensino Superior Público em Portugal."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-05-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=01:43:10:315&drc=00:02:54:383"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:01:18:238&drc=00:01:27:411"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/30?pgs=30-31,35&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que tome medidas no sentido de clarificar a missão das diferentes instituições de ensino superior e articular a oferta formativa no ensino superior; Valorização e reconhecimento efetivo do papel da rede de Ensino Superior Público em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=01:46:07:133&drc=00:03:42:293"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:00:23:835&drc=00:00:51:395"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/31?pgs=31-32,34&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que tome medidas no sentido de clarificar a missão das diferentes instituições de ensino superior e articular a oferta formativa no ensino superior; Valorização e reconhecimento efetivo do papel da rede de Ensino Superior Público em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1517",
+                "nome": "Rui Jorge Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=01:49:52:676&drc=00:02:55:391"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=01:59:50:813&drc=00:00:25:358"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32",
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/32?pgs=32,34-35&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que tome medidas no sentido de clarificar a missão das diferentes instituições de ensino superior e articular a oferta formativa no ensino superior; Valorização e reconhecimento efetivo do papel da rede de Ensino Superior Público em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=01:52:52:506&drc=00:02:55:530"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:02:50:270&drc=00:00:24:654"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/33?pgs=33,36&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que tome medidas no sentido de clarificar a missão das diferentes instituições de ensino superior e articular a oferta formativa no ensino superior; Valorização e reconhecimento efetivo do papel da rede de Ensino Superior Público em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=01:55:51:223&drc=00:03:51:548"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130508pln&url=l12/sl2/a2013/m05/&tI=02:03:19:787&drc=00:00:33:018"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-09",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/33?pgs=33-34,36&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que tome medidas no sentido de clarificar a missão das diferentes instituições de ensino superior e articular a oferta formativa no ensino superior; Valorização e reconhecimento efetivo do papel da rede de Ensino Superior Público em Portugal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290787",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "635441",
+        "obs": null,
+        "pag": [
+          "30-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-05-09",
+        "pubLeg": "XII",
+        "pubNr": "86",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/086/2013-05-09/30?pgs=30-36&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
