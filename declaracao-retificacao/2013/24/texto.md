@@ -1,0 +1,8 @@
+Declaração de Retificação n.º 24/2013
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei nº 41/2013 de 21 de março, declara-se que a Portaria n.º 120/2013, de 26 de março, publicada no Diário da República n.º 60, 1.ª série de 26 de março de 2013, saiu com inexatidões que, mediante declaração da entidade emitente, assim se retificam:
+Nos n.os 3 e 4 do artigo 15.º-A, republicado no ANEXO (que republica a Portaria n.º 92/2011, de 28 de fevereiro), onde se lê:
+«3- São ainda considerados como de interesse estratégico para a economia nacional, os projetos reconhecidos como 'Projetos de Potencial Interesse Nacional' (PIN), nos termos do Decreto-Lei n.º 174/2008, de 26 de agosto, com a redação que lhe foi dada pelo Decreto-Lei n.º 76/2011, de 20 de junho.»
+deve ler-se:
+«3- Pode também ser considerado de interesse estratégico o projeto comum de estágios apresentado por diversas entidades promotoras, não se aplicando, neste caso, o critério definido na alínea a) do número anterior, e devendo o critério referido na alínea c) do mesmo número reportar-se ao projeto e não a cada uma das entidades.
+4- São ainda considerados como de interesse estratégico para a economia nacional, os projetos reconhecidos como 'Projetos de Potencial Interesse Nacional' (PIN), nos termos do Decreto-Lei n.º 174/2008, de 26 de agosto, com a redação que lhe foi dada pelo Decreto-Lei n.º 76/2011, de 20 de junho.»
+Secretaria-Geral, 6 de maio de 2013. - Pelo Secretário-Geral, a Secretária-Geral Adjunta, Catarina Maria Romão Gonçalves.
