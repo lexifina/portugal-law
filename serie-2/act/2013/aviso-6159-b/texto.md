@@ -1,0 +1,7 @@
+Aviso n.º 6159-B/2013
+Projeto de Regulamento de Liquidação e Cobrança de Taxas Municipais do Município da Póvoa de Lanhoso
+Manuel José Torcato Soares Baptista, Presidente da Câmara Municipal da Póvoa de Lanhoso, torna público ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/2002, de 11 de janeiro, nos termos e para os efeitos do disposto nos artigos 7.º, 8.º e 118.º do código do procedimento administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, que se encontra em fase de apreciação pública, o projeto de regulamento de liquidação e cobrança de taxas municipais do município da Póvoa de Lanhoso, aprovado em reunião ordinária da Câmara Municipal em 6 de maio de 2013.
+O projeto de regulamento estará disponível, nas horas de expediente, na divisão administrativa desta Câmara Municipal e no sítio do Município (www.mun-planhoso.pt), para efeito de recolha de sugestões de todos os interessados.
+A apresentação de sugestões, bem como apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, devem ser formuladas por escrito e enviadas à Câmara Municipal, dirigidas ao Presidente da Câmara, durante trinta dias, contados a partir do dia de publicação do presente aviso no Diário da República.
+7 de maio de 2013. - O Presidente da Câmara, Manuel José Torcato Soares Baptista.
+306947309
