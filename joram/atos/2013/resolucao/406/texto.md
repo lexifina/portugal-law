@@ -1,0 +1,23 @@
+# Resolução n.º 406/2013
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 56/2013, de 2013-05-13
+
+**Sumário:** Resolve unilateralmente, e com efeitos imediatos, o contrato de concessão do “Exclusivo de exploração de jogos de fortuna ou azar no casino do Porto Santo”, entre a Região e a Sociedade Imobiliária e Turística do Campo de Baixo, S.A..
+
+## Texto
+
+Resolução n.º 406/2013
+Considerando que corre termos no 4.º Juízo Cível do Tribunal Judicial do Funchal, sob o n.º 2174/10.3TBFUN, o processo de insolvência em que é insolvente a Sociedade Imobiliária e Turística do Campo de Baixo S.A.;
+
+Considerando que, o Conselho de Governo reunido em plenário, em 9 de junho de 2011, resolveu, através da Resolução n.º 827/2011, publicada no JORAM de 16 de junho de 2011, suspender o procedimento administrativo para a apreciação da manutenção do contrato de concessão do “Exclusivo de exploração de jogos de fortuna e azar no casino do Porto Santo e a concessão do seu exclusivo”, assinado a 10 de agosto de 2004 entre a Região Autónoma da Madeira e a Sociedade Imobiliária e Turística do Campo de Baixo S.A., nos termos do n.º 1, do artigo 31.º do Código de Procedimento Administrativo (CPA), até que o plano de insolvência seja apreciado nos respetivos autos, sendo que a não apresentação do plano em juízo no prazo de 30 dias, a contar da data da notificação do conteúdo da presente resolução determinará, nos termos da al. a) do n.º 2, do artigo 31.º, do CPA, a imediata cessação da suspensão e a consequente retoma da normal tramitação do procedimento;
+Considerando que até à data não foi apresentado qualquer plano de insolvência no referido processo de insolvência e que a Comissão de Credores da Insolvência da Sociedade Imobiliária e Turística do Campo de Baixo S.A., em 15/12/2011, fazendo-o constar na ata n.º 4, deliberou comunicar aos autos que a insolvente deixou de ter intenção de apresentar plano de insolvência, encerrando de imediato o estabelecimento e dando inicio aos normais procedimentos de liquidação;
+Considerando que já foi celebrada escritura pública de venda de ativos da insolvente, e que com a liquidação a consequência necessária será a extinção da pessoa coletiva Sociedade Imobiliária e Turística do Campo de Baixo S.A., por falta de personalidade jurídica;
+Considerando que o incumprimento do prazo de 30 dias para apresentação do plano de insolvência determinou a imediata cessação da suspensão do procedimento administrativo para a apreciação da manutenção do referido contrato de concessão e a consequente retoma da normal tramitação, concluindo-se pela impossibilidade de cumprimento deste contrato por parte da Sociedade Imobiliária e Turística do Campo de Baixo S.A.;
+Considerando que se prevê, em caso de incumprimento, no artigo 329.º, do Decreto-Lei n.º 18/2008, de 29 de janeiro, com as alterações introduzidas pela Retificação n.º 18-A/2008, de 28/03, pela Lei n.º 59/2008, de 11/09, pelo Decreto-Lei n.º 223/2009, de 11/09, pelo Decreto-Lei n.º 278/2009, de 02/10 e pela Lei n.º 3/2010, de 27/04, pelo Decreto-Lei n.º 13/2010, de 14/12, pela Lei n.º 64-B/2011, de 30/12 e pelo Decreto-Lei n.º 149/2012, de 12/07, e no caso da insolvência do co-contratante (alínea h) do n.º 1, do artigo 333.º desse diploma), a aplicação da sanção de resolução do contrato;
+Considerando ainda que o Decreto-Lei n.º 422/89, de 2 de dezembro, com as alterações introduzidas pelos Decreto-Lei n.º 10/95, de 19 de janeiro, 28/2004, de 16 de junho, 40/2005, de 17 de fevereiro, e 114/2011, de 30/11, regime aplicável às Zonas de Jogo, aplicável por via do n.º 1, do artigo 4.º do Decreto Legislativo Regional n.º 15/2003/M, de 4 de julho, prevê, inclusive no artigo 118.º, que o incumprimento pelas concessionárias das obrigações, legalmente estabelecidas, nomeadamente nas situações previstas no artigo 119.º, constitui uma infração administrativa, punida com multa e rescisão do contrato, decisão administrativa que é tomada por Resolução do Conselho do Governo, conforme os artigos 120.º e 166.º;
+O Conselho do Governo reunido em plenário em 9 de maio de 2013, decide resolver unilateralmente, e com efeitos imediatos, o contrato de concessão do “Exclusivo de
+
+exploração de jogos de fortuna ou azar no casino do Porto Santo”, assinado em 10 de agosto de 2004, e publicado no Diário da República, III Série, n.º 200, de 25 de agosto de 2004, entre a Região Autónoma da Madeira e a Sociedade Imobiliária e Turística do Campo de Baixo, S.A.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
