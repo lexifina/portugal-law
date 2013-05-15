@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "76280",
+  "tipo": "Pergunta",
+  "numero": "2037",
+  "data_registo": "2013-05-15",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Salários em atraso no âmbito da avaliação extraordinária IMI",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "1941",
+        "nome": "Ana Drago"
+      }
+    ],
+    "DataEnvio": "2013-05-15",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2013-05-15",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2013-07-05",
+            "docRemetida": null,
+            "entidade": "MIN.  DE ESTADO E DAS FINANÇAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a59794f5745335a444e6c4c5455354d4467744e4755314f533034596a51344c5451774f4441304d3245784d5451355a4335775a47593d&fich=629a7d3e-5908-4e59-8b48-408043a1149d.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2013-05-15",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c324e694e4751325a6d4e684c574535595445744e444a6a4d5331694f4755354c574a6a5a6a55344f44466d4f5755774e7935775a47593d&fich=cb4d6fca-a9a1-42c1-b8e9-bcf5881f9e07.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "76280",
+    "Legislatura": "XII",
+    "Nr": "2037",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "631986",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013",
+        "pubLeg": "XII",
+        "pubNr": "160",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/160/2013-05-22/10?pgs=10&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
