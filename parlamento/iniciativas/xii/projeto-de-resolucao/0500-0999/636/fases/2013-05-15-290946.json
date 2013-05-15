@@ -1,0 +1,276 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "636",
+    "id": "37567",
+    "titulo": "Recomenda ao Governo a adoção de medidas de divulgação e apoio à prática de Ano Sabático (Gap Year) em Portugal."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9419",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-05-15",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-05-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4321",
+                "nome": "Rui Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130515pln&url=l12/sl2/a2013/m05/&tI=03:21:45:144&drc=00:04:25:289"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189713",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-16",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/089/2013-05-16/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas de divulgação e apoio à prática de Ano Sabático (Gap Year) em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130515pln&url=l12/sl2/a2013/m05/&tI=03:26:13:184&drc=00:03:29:628"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189714",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-16",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/089/2013-05-16/55?pgs=55&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas de divulgação e apoio à prática de Ano Sabático (Gap Year) em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130515pln&url=l12/sl2/a2013/m05/&tI=03:26:13:184&drc=00:03:29:628"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189715",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-16",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/089/2013-05-16/56?pgs=56&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas de divulgação e apoio à prática de Ano Sabático (Gap Year) em Portugal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130515pln&url=l12/sl2/a2013/m05/&tI=03:33:20:254&drc=00:03:42:745"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "189716",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-05-16",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/089/2013-05-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a adoção de medidas de divulgação e apoio à prática de Ano Sabático (Gap Year) em Portugal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "290946",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9419",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-05-16",
+        "pubLeg": "XII",
+        "pubNr": "89",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/089/2013-05-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
