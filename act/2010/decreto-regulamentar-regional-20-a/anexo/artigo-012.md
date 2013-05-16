@@ -30,7 +30,7 @@ l) Determinar medidas adequadas sobre as reclamações e queixas dos utentes;
 
 m) Avaliar sistematicamente o desempenho global do funcionamento da USICorvo.
 
-2 - O conselho de administração exerce também as seguintes competências, que pode delegar no seu presidente, com possibilidade de subdelegação nos vogais:
+2- O conselho de administração exerce também as seguintes competências, que pode delegar no seu presidente, com possibilidade de subdelegação no vogal a designar:
 
 a) Gerir os recursos humanos, financeiros, materiais e patrimoniais da USICorvo;
 
@@ -42,4 +42,6 @@ d) Promover a organização da contabilidade e o cadastro dos bens;
 
 e) Contratar a prestação de serviços com terceiros.
 
-3 - O conselho de administração pode delegar nos vogais, na direcção clínica e na de enfermagem as competências para orientar e coordenar projectos, programas e sectores de actividade específicos, tendo em conta as respectivas áreas de recrutamento.
+3- O conselho de administração pode delegar no vogal a designar, na direção clínica e na de enfermagem, as competências para orientar e coordenar projetos, programas e setores de atividade específicos, tendo em conta as respetivas áreas de recrutamento.
+
+4- Em situação de ausência ou impedimento de ambos os membros do conselho de administração pode o membro do Governo Regional com competência em matéria de saúde exercer as competências previstas no n.º 1 ao abrigo de competência tutelar substitutiva.
