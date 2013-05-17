@@ -1,0 +1,7 @@
+Edital n.º 492/2013
+Alteração ao Regulamento para a Cedência de Lotes de Terreno do Designado Parque Industrial da Figueira da Foz
+João Albino Rainho Ataíde das Neves, Presidente da Câmara Municipal da Figueira da Foz, no uso da competência que me é conferida pela alínea b), do n.º 1, do artigo 68.º, da Lei n.º 169/99, de 18 de setembro, na sua última redação, e em cumprimento das disposições emergentes do n.º 4, do artigo 55.º, da Lei n.º 2/2007, de 15 de janeiro e artigo 119.º da Constituição da República Portuguesa, torna público que a Assembleia Municipal da Figueira da Foz na sua sessão ordinária de 29 de abril de 2013 e sob proposta da Câmara Municipal deliberada em reunião de 23 de abril de 2013 aprovou a alteração ao "Regulamento para a Cedência de Lotes de Terreno no designado Parque Industrial da Figueira da Foz", que entrará em vigor no dia útil seguinte após a publicação deste edital no Diário da República.
+O Regulamento poderá ser consultado na Divisão de Gestão Administrativa e Património da Câmara Municipal da Figueira da Foz, estando também disponível na página eletrónica do Município da Figueira da Foz no seguinte endereço: http://www.figueiradigital.com/municipe/?mid=98
+Para constar se publica o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos do estilo.
+3 de maio de 2013. - O Presidente da Câmara Municipal, João Ataíde.
+306952347
