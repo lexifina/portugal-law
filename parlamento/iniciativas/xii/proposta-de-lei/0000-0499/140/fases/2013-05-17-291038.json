@@ -1,0 +1,233 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "140",
+    "id": "37655",
+    "titulo": "Procede à segunda alteração ao Decreto-Lei n.º 194/2009, de 20 de agosto, que estabelece o regime jurídico dos serviços municipais de abastecimento público de água, de saneamento de águas residuais urbanas e de gestão de resíduos urbanos, modificando os regimes de faturação e contraordenacional."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-05-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "31294",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-12-10",
+            "id": "96575",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-11",
+            "id": "96577",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-11",
+            "id": "96576",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-17",
+            "id": "96649",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-17",
+            "id": "96648",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-18",
+            "id": "96651",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-18",
+            "id": "96650",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-05-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-05-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-12-10",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "AEPSA - apresentação Powerpoint",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4749314d544577595751744d6a64694e7930305a6d566b4c574a6d5a4445744d574d32596d566a4f4455794f4745334c6e42776448673d&fich=8b5110ad-27b7-4fed-bfd1-1c6bec8528a7.pptx&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-10",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "AEPSA - Comentário sobre a PPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5759345a44466d5a6a51745a475a6a4e7930304e6d4d314c546b7a4e7a4d744f44526b597a4d324f445a6a4e47466d4c6d52765933673d&fich=5f8d1ff4-dfc7-46c5-9373-84dc3686c4af.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "AEPSA - Proposta de alteração à redação da PPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5751785a574e694e4459744e32497a4f433030597a6b354c546c6b5a6a45744e3251794d4749354f474a684d3245344c6d52765933673d&fich=ed1ecb46-7b38-4c99-9df1-7d20b98ba3a8.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "AEPSA - Sugestões de Revisão do DL 194-2009",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a4d314d5459324d6a41744d6a59334d433030597a4e6d4c546732596d4d74595449774f546b354d4463324d6a5a684c6d52765933673d&fich=63516620-2670-4c3f-86bc-a2099907626a.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "DECO - ComissãoParlamentar",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595755345a446c6b4e5755744e47526b59793030595459304c5467314f5441744e6d4e6b4f54677a4d546c684e54426c4c6e426b5a673d3d&fich=ae8d9d5e-4ddc-4a64-8590-6cd98319a50e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-20",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "DECO - estudo atridaseanalises",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d4a684e6d55304e5755744d544e684e6930304d7a426d4c5467324d7a49744d7a566b5a444e68596a51324f4459344c6e426b5a673d3d&fich=6ba6e45e-13a6-430f-8632-35dd3ab46868.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-20",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "DECO - guiaosobreanaliseregulamentosfornecimentoagua",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d49334f544e6c597a45744d7a6730597930304f4455354c546c6d4d5759745a5464684e6a42695a4455324e7a597a4c6e426b5a673d3d&fich=2b793ec1-384c-4859-9f1f-e7a60bd56763.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-20",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "DECO - porumapoliticadefesadosconsumidores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e324d355a546b354d4455744d44597a4d7930304d474e6d4c5745774e6a55744e44566d593259795a6a426959574a6a4c6e426b5a673d3d&fich=7c9e9905-0633-40cf-a065-45fcf2f0babc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "ERSAR  - comentários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a4e68597a686b4d4759745957557a4e5330304e32597a4c5745304e6a55744d4452684d7a4a684d7a4e68595749334c6d52765933673d&fich=63ac8d0f-ae35-47f3-a465-04a32a33aab7.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-23",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Guião das votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d566c5a54557a4e4445744f474e684f4330304f44646b4c546b79597a4d745a575a6a4e4441325a544a6a4f546b304c6d527659773d3d&fich=2eee5341-8ca8-487d-92c3-efc406e2c994.doc&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-23",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Ofício/Relatório da 11ª CAOTPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5455344f474d77593245744d7a6c6d596930304e6a51334c5749774e324974596a6468597a677a4d574e684f4441784c6e52705a673d3d&fich=e588c0ca-39fb-4647-b07b-b7ac831ca801.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659545a684e444d774f5445744d6d526d5a69303059545a684c57457a4f4745745a4459784f446b304e4749784d6a417a4c6d527659773d3d&fich=a6a43091-2dff-4a6a-a38a-d618944b1203.doc&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d55784e44426859546374596a6b334d5330304e7a41344c5745775a5755745a6a4a6a4d5459344d324d324e5456694c6c424552673d3d&fich=2e140aa7-b971-4708-a0ee-f2c1683c655b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-18",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Prorrogação do prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54426d4d7a59345a5463745957517a4f4330304e6d4a6d4c574a6d4d5455744d3249794d54426b5a4459304e5455774c6e52705a673d3d&fich=50f368e7-ad38-46bf-bf15-3b210dd64550.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-23",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e574d784d4749304f444d744d47466a596930305a546b304c5745324d6d55744d6a4e6a4e475a6a4e474e6b4e6a6c6a4c6d52765933673d&fich=5c10b483-0acb-4e94-a62e-23c4fc4cd69c.docx&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-01-23",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2014-01-23",
+            "dataRemessa": "2014-01-23",
+            "numeroOficio": "14/11ª-CAOTPL",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-01-21",
+            "descricao": "Texto Final aprovado artigo a artigo",
+            "detalhe": null,
+            "id": "65733",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "161",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-05-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "291038",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
