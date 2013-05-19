@@ -12,6 +12,6 @@ a) Ser o interlocutor dos mediadores penais junto do GRAL;
 
 b) Solicitar e prestar informação ao GRAL em assuntos relacionados com o funcionamento dos serviços de mediação penal;
 
-c) Solicitar e prestar informação à Comissão de Fiscalização dos Mediadores de Conflitos em assuntos relacionados com o funcionamento dos serviços de mediação penal;
+c) Revogada;
 
 d) Organizar, com periodicidade trimestral, reuniões entre todos os mediadores inscritos nas listas da área geográfica da sua comarca, com o objectivo de promover a troca de experiências e o aperfeiçoamento das técnicas de mediação penal.
