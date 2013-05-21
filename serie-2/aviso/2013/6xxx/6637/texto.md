@@ -1,0 +1,10 @@
+Aviso n.º 6637/2013
+Elaboração de alteração do Plano Diretor Municipal
+Dr. Rui Alexandre Novo e Rocha, Presidente da Câmara Municipal de Ansião, torna público que foi deliberado por unanimidade, na reunião de câmara ordinária de 3 de maio de 2013, nos termos e para os efeitos do disposto do n.º 1 do artigo 96.º conjugado com o n.º 1 do artigo 74.º, do Decreto-Lei n.º 380/99 de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, aprovar a elaboração de alteração do Plano Diretor Municipal de Ansião.
+Para efeitos do n.º 2 do artigo 77.º do diploma anteriormente citado, decorrerá um período de participação pública, por um prazo de 15 dias contados a partir da data da publicação, no Diário da República, da deliberação do procedimento de alteração, para a formulação de sugestões por qualquer interessado, ou para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano.
+Foi, ainda, deliberado dispensar a alteração do Plano Diretor Municipal de Avaliação Ambiental, nos termos do n.º 3 e 4 do artigo 96.º do Decreto-Lei n.º 380/99 de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, com a redação que lhe foi conferida pelo Decreto-Lei n.º 2/2011, de 6 de janeiro e Decreto-Lei n.º 181/2009, de 7 de agosto, uma vez que a referida alteração não é suscetível de ter efeitos significativos no ambiente.
+O referido período de participação terá início no 1.º dia útil após a publicação do presente aviso no Diário da República.
+As participações deverão ser apresentadas por escrito e dirigidas ao Presidente do Município de Ansião, entregues no balcão de atendimento do Município, remetidas por correio ou pelo correio eletrónico: geral@cm-ansiao.pt.
+Para conhecimento geral se mandou publicitar este aviso no Diário da República, 2.ª série, na imprensa nacional e local, na página da internet do Município, bem como nos locais de estilo.
+8 de maio do ano 2013. - O Presidente da Câmara, Dr. Rui Alexandre Novo e Rocha.
+206961832
