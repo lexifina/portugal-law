@@ -1,0 +1,514 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12382",
+  "numero": "263",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-05-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-07-03",
+            "entidades": null,
+            "id": "96294",
+            "tipo": null,
+            "titulo": "Audição em 2013-07-03 com Associação de Moradores da Zona Urbana da Conceição"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-07-09",
+            "dataResposta": "2013-07-23",
+            "entidades": [
+              "Instituto da Habitação e da Reabilitação Urbana, I.P."
+            ],
+            "nrOficio": "158/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-09-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-06-18",
+        "DataArquivo": "2013-10-08",
+        "DataBaixaComissao": "2013-05-23",
+        "DataEnvioPAR": "2013-10-08",
+        "DataReaberta": "2013-06-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-06-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4931595467775a574d784c54426c4e7a6b744e4463335969316859546c6a4c574d7a4e6a5933593249315957597a5a6935775a47593d&fich=25a80ec1-0e79-477b-aa9c-c3667cb5af3f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a466b4f4467314f54686c4c57526c4e7a6b744e44677a4e6930354f4759354c54686c4e6a457a4d6d59324e3245324f5335515245593d&fich=1d88598e-de79-4836-98f9-8e6132f67a69.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-10-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a51784e7a457a4e4441774c545178596a45744e4756685a6931694e6a6b774c544d345a6a55354e7a6c6a4d474d334e7935775a47593d&fich=41713400-41b1-4eaf-b690-38f5979c0c77.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-07-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4d794d3255354d47566a4c5745775a6a4d744e446b314f5331695a47597a4c574e684d574d314f54426b5a4441335a4335515245593d&fich=323e90ec-a0f3-4959-bdf3-ca1c590dd07d.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-06-18",
+            "gp": "PSD",
+            "id": "2665",
+            "motivoCessacao": null,
+            "nome": "Jorge Paulo Oliveira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-01-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-05-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6c6a4f544a6c4d6a6b314c5749344e6a45744e4749344d6930354d47597a4c5455344e6a5a6b5a6d517a4d3245344d4335515245593d&fich=9c92e295-b861-4b82-90f3-5866dfd33a80.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38170"
+    ],
+    "Iniciativasoriginadas": [
+      "37821",
+      "38164",
+      "38170"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:44:31:729&drc=00:02:54:271"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:04:52:935&drc=00:01:28:131"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51",
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/51?pgs=51,56&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão da aplicação do regime de renda apoiada; Recomenda ao Governo que proceda à revisão do Regime de Renda Apoiada; Suspende os aumentos das rendas das habitações sociais; Pela revisão do regime de renda apoiada e suspensão da actualização das rendas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:47:37:326&drc=00:02:35:254"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:06:33:127&drc=00:01:36:870"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52",
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/52?pgs=52,57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão da aplicação do regime de renda apoiada; Recomenda ao Governo que proceda à revisão do Regime de Renda Apoiada; Suspende os aumentos das rendas das habitações sociais; Pela revisão do regime de renda apoiada e suspensão da actualização das rendas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:50:23:415&drc=00:03:03:285"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:08:14:269&drc=00:00:59:948"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53",
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/52?pgs=52-53,57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão da aplicação do regime de renda apoiada; Recomenda ao Governo que proceda à revisão do Regime de Renda Apoiada; Suspende os aumentos das rendas das habitações sociais; Pela revisão do regime de renda apoiada e suspensão da actualização das rendas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:53:33:014&drc=00:03:59:699"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão da aplicação do regime de renda apoiada; Recomenda ao Governo que proceda à revisão do Regime de Renda Apoiada; Suspende os aumentos das rendas das habitações sociais; Pela revisão do regime de renda apoiada e suspensão da actualização das rendas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:57:38:353&drc=00:03:47:221"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão da aplicação do regime de renda apoiada; Recomenda ao Governo que proceda à revisão do Regime de Renda Apoiada; Suspende os aumentos das rendas das habitações sociais; Pela revisão do regime de renda apoiada e suspensão da actualização das rendas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:01:29:474&drc=00:03:14:059"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a suspensão da aplicação do regime de renda apoiada; Recomenda ao Governo que proceda à revisão do Regime de Renda Apoiada; Suspende os aumentos das rendas das habitações sociais; Pela revisão do regime de renda apoiada e suspensão da actualização das rendas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12382",
+    "PetAssunto": "Pela revisão do regime de renda apoiada e suspensão da actualização das rendas.",
+    "PetDataEntrada": "2013-05-23",
+    "PeticoesAssociadas": null,
+    "PetId": "12382",
+    "PetLeg": "XII",
+    "PetNr": "263",
+    "PetNrAssinaturas": "4585",
+    "PetNrAssinaturasInicial": "4585",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1834",
+        "obs": null,
+        "pag": [
+          "51-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-25",
+        "pubLeg": "XII",
+        "pubNr": "41",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/51?pgs=51-57&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "639958",
+        "obs": null,
+        "pag": [
+          "9-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-22",
+        "pubLeg": "XII",
+        "pubNr": "181",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/181/2013-06-22/9?pgs=9&org=PLC"
+      }
+    ]
+  }
+}
