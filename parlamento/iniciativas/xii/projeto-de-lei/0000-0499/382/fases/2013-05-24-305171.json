@@ -1,0 +1,209 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "382",
+    "id": "37610",
+    "titulo": "Quinta alteração à Lei n.º 37/81, de 3 de outubro (Lei da Nacionalidade) - estende a nacionalidade portuguesa originária aos netos de portugueses nascidos no estrangeiro."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2013-05-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "35550",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-05-24",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-05-24",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-05-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração (PSD_CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e5464685a6a4a6d5a6930304f4464694c5452695a4451744f5749324d693034597a466d4d446b785a6d5531595749756347526d&fich=d57af2ff-487b-4bd4-9b62-8c1f091fe5ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-27",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1-Proposta de Alteração (PSD_CDS-PP) [Substituída]",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e5759774e324e694e5331694d6d59774c5451784d7a4974596a63784d7930794d6a497a4d4445784f5745354e7a63756347526d&fich=25f07cb5-b2f0-4132-b713-22230119a977.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1-Proposta de Alteração (PSD_CDS-PP) [Substituída]",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d57526d4d32526a4d79316b4d4749304c5452695a6d457459545179596931694e7a646c595755795a546b335a6a55756347526d&fich=c1df3dc3-d0b4-4bfa-a42b-b77eae2e97f5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e3259355a44426959693078593249344c5451324d575574595746684d43316b4d6d52685a4449304d6d4a6b595445756347526d&fich=d7f9d0bb-1cb8-461e-aaa0-d2dad242bda1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho das Comunidades Portuguesas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354e57466d4e446b354d5330774e6a49794c5451334d6a5174596a59315a43316b5a5451344d325133595452695a4459756347526d&fich=95af4991-0622-4724-b65d-de483d7a4bd6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-27",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e6a6c6b5a6a59314e5331684d7a4d354c5451324e3251744f5441344f4330354e6a686c4e6a4e6b4e3245354e3245756347526d&fich=d69df655-a339-467d-9088-968e63d7a97a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-27",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto de substituição e relatório da nova apreciação CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e3255334f5463345a5330334d546c6a4c54526a4e4455744f444a685a5330335a5445324f575135595759314e324d756347526d&fich=b7e7978e-719c-4c45-82ae-7e169d9af57c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas em 2015-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho das Comunidades Portuguesas em 2015-05-22"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas em 2015-05-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho das Comunidades Portuguesas em 2015-05-06"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação, texto de  substituição e propostas de alteração apresentadas pelo PSD/CDS-PP",
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-05-27",
+            "pubLeg": "XII",
+            "pubNr": "138",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/138/2015-05-27/4?pgs=4-18&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação, texto de  substituição e propostas de alteração apresentadas pelo PSD/CDS-PP",
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-05-27",
+            "pubLeg": "XII",
+            "pubNr": "138",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/138/2015-05-27/4?pgs=4-18&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-05-27",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-05-27",
+            "dataRemessa": "2015-05-27",
+            "numeroOficio": "648/XII/1.ª- CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-05-27",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69603",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "315",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-05-24",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305171",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
