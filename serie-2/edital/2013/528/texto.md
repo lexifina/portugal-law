@@ -1,0 +1,6 @@
+Edital n.º 528/2013
+Júlia Paula Pires Pereira Costa, Presidente da Câmara Municipal de Caminha, torna público, para cumprimento no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de setembro, alterado pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, que se submete à apreciação pública, para recolha de sugestões e apresentação de informações, o Procedimento para Alteração ao Plano Diretor Municipal - das alíneas do n.º 1 do Artigo 39.º do Regulamento - aprovada por deliberação da Câmara Municipal de Caminha tomada em reunião ordinária, realizada no dia dois de maio de 2013, anexo ao presente Edital.
+O Procedimento para Alteração ao Regulamento deste Plano encontra-se disponível para consulta pública, na Secretaria da Câmara Municipal de Caminha, durante o horário normal de funcionamento dos serviços, devendo os interessados dirigir, por escrito, as sugestões e informações à Câmara Municipal de Caminha, no prazo de trinta dias a contar da publicação deste Edital no Diário da República.
+Para constar se lavrou o presente Edital e outros de igual teor que vão ser afixados nos locais do costume.
+16 de maio de 2013. - A Presidente da Câmara, Júlia Paula Pires Pereira Costa, Dr.ª
+206973748
