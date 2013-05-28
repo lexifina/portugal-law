@@ -2,4 +2,4 @@
 
 ### Critérios de selecção
 
-Os factores de ponderação dos critérios de selecção e avaliação dos pedidos, no caso de realização de concurso limitado para a atribuição de licença de distribuição local, constam do anexo ii desta portaria e dela faz parte integrante.
+Os critérios de seleção e de avaliação das propostas e os respetivos fatores de ponderação, aplicáveis no caso de realização de concurso limitado para a atribuição de licença de distribuição local, constam do anexo II desta portaria, que dela faz parte integrante.

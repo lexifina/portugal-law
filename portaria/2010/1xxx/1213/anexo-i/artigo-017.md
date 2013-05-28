@@ -37,3 +37,5 @@ a) Dispor dos terrenos necessários à construção das instalações de recepç
 b) Manter em bom estado de funcionamento, conservação e segurança, a expensas suas e durante todo o prazo de vigência da licença, as infra-estruturas necessárias ao exercício da actividade objecto da licença;
 
 c) Dispor de seguro de responsabilidade civil nos termos fixados na licença.
+
+d) Lançar concurso público ou concurso limitado por prévia qualificação para fins de aquisição de equipamentos ou obras afetos à licença, bem como serviços relacionados com o investimento a realizar no polo, salvo se, de acordo com os princípios e regras gerais da contratação pública, estiverem reunidas condições para o recurso a outro procedimento adjudicatório.

@@ -2,7 +2,7 @@
 
 ### Publicidade
 
-1 - Não havendo lugar a indeferimento liminar, a DGEG publica o aviso a que se refere o artigo 25.º do Decreto-Lei n.º 140/2006, de 26 de Julho, na 2.ª série do Diário da República e no Jornal Oficial da União Europeia, bem como no respectivo sítio da Internet, anunciando a apresentação da declaração inicial de interesse para obtenção de licença de distribuição em pólo de consumo e mencionando a possibilidade de terceiros, até ao limite do prazo nele fixado, desde que superior a seis meses mas inferior a sete meses, poderem manifestar o seu interesse na obtenção da licença de distribuição para este mesmo pólo de consumo.
+1 - Não havendo lugar a indeferimento liminar, a DGEG publica o aviso a que se refere o n.º 1 do artigo 25.º do Decreto-Lei n.º 140/2006, de 26 de julho, na redação dada pelo Decreto-Lei n.º 231/2012, de 26 de outubro, na 2.ª série do Diário da República, bem como no respetivo sítio na Internet, através do qual dá a conhecer a eventuais interessados a existência de uma declaração inicial de interesse para obtenção de licença de distribuição em polo de consumo, permitindo que os mesmos, até ao limite do prazo nele fixado, desde que superior a seis meses mas inferior a sete meses, possam manifestar o seu interesse na obtenção da licença de distribuição para este mesmo polo de consumo.
 
 2 - O aviso a que se refere o número anterior deve ainda conter:
 
@@ -16,7 +16,7 @@ d) A data e hora limites para a apresentação, na DGEG, da manifestação de in
 
 e) A indicação de que, caso exista mais do de um interessado na obtenção de licença para a mesma área geográfica, haverá lugar à realização de concurso limitado por prévia qualificação, a promover nos termos do artigo 8.º;
 
-f) Indicação de que, além de todos os requisitos a cumprir, haverá lugar à aplicação de critérios de selecção e avaliação, cuja ponderação, de acordo com previsto no artigo 25.º do Decreto-Lei n.º 140/2006, de 26 de Julho, se efectua nos termos do anexo ii da presente portaria.
+f) Indicação de que, além de todos os requisitos a cumprir, haverá lugar à aplicação de critérios de seleção e avaliação das propostas e respetiva ponderação, de acordo com o previsto nos n.os 2 e 3 do artigo 25.º do Decreto-Lei n.º 140/2006, de 26 de julho, na redação dada pelo Decreto-Lei n.º 231/2012, de 26 de outubro, e com o anexo II da presente portaria.
 
 3 - O declarante inicial é informado da publicação do aviso, mediante envio de cópia do mesmo.
 
