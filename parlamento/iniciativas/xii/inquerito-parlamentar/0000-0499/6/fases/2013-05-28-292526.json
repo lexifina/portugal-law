@@ -1,0 +1,262 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "6",
+    "id": "37706",
+    "titulo": "Comissão Eventual de Inquérito à celebração de contratos de gestão de risco financeiro por empresas do sector público."
+  },
+  "fase": "Constituição de uma Comissão de Inquérito",
+  "codigo_fase": "603",
+  "data_registo": "2013-05-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "603",
+    "Comissao": [
+      {
+        "AccId": "31756",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-05-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-05-28",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-12-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a47466c5a5451304f4745744f4449354d6930304e5467354c546c6d5a446374597a4534596a41304d7a4e685a446c6a4c6e426b5a673d3d&fich=daee448a-8292-4589-9fd7-c18b0433ad9c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a59774f446c6a597a55744d7a51355a5330304d5749334c5749354e4749745954426c4f44466d597a6b785a4467784c6e426b5a673d3d&fich=c6089cc5-349e-41b7-b94b-a0e81fc91d81.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-27",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a49795a4451345a5459745a44457a4d7930305a6a63334c574530596a41744d5745784e4455774d6d59324e3252694c6e426b5a673d3d&fich=f22d48e6-d133-4f77-a4b0-1a14502f67db.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d466a5a6a6b794d4459744f54686c5a4330304d3245354c546777596d55744e324d7a5a444a6d4e5467774d4449314c6e426b5a673d3d&fich=2acf9206-98ed-43a9-80be-7c3d2f580025.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Propostas de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6733595456684d4459744e7a51794e433030596d51774c5745354d5467745a4755795a5463344d544a6d4d3249784c6e426b5a673d3d&fich=b87a5a06-7424-4bd0-a918-de2e7812f3b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Propostas de Alteração Conclusões - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d445132597a67314f574d74595756684d433030595445784c546b354e6a63744d544d335a4467324d4449324f57466d4c6e426b5a673d3d&fich=046c859c-aea0-4a11-9967-137d860269af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7 - Propostas de Alteração Conclusões - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d4e6b4d5463304e446774597a5a694d6930305a6a51344c5749335a6d49744e575a6c4f5749304d544d344e5751794c6e426b5a673d3d&fich=6cd17448-c6b2-4f48-b7fb-5fe9b41385d2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-07",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Declaração de Voto - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324d344f4446685a6d4d744d47526d4e79303059574d324c57497a4d6a51744d6d51324d324d794f4441344e3255784c6e426b5a673d3d&fich=cc881afc-0df7-4ac6-b324-2d63c28087e1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-07",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Declaração de Voto - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a57526c4e4751325a6d51745a6a5a6d4e6930305a575a684c5745304e7a63745a6d4a694e6a4d314f4745774e6a637a4c6e426b5a673d3d&fich=ede4d6fd-f6f6-4efa-a477-fbb6358a0673.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-07",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Declaração de Voto - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e47553559574a6b4e7a4174596a45334d4330305a6a41784c5745334d5449744d6d4d334d44637a4d4463305a6a67324c6e426b5a673d3d&fich=4e9abd70-b170-4f01-a712-2c7073074f86.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-04",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Nomeação de Relatora",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a67314d475934596a637459546b785a4330305a5451304c54686d4e3249744e6a67794e6d59325932466c595755344c6e426b5a673d3d&fich=b850f8b7-a91d-4e44-8f7b-6826f6caeae8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-08",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c304e5153554e4452314a4752564e514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a46684d6d51345a6a49744d546b7a4f4330304e446b334c5746695a5451744e32566b4d7a4d7a4e5441304f574e6a4c6e426b5a673d3d&fich=b1a2d8f2-1938-4497-abe4-7ed3335049cc.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3609",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Sector Público",
+        "Numero": "3609",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4299",
+            "motivoCessacao": null,
+            "nome": "Clara Marques Mendes"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-01-06",
+            "dataRemessa": "2014-01-08",
+            "numeroOficio": "1/XII/CPICCRFESP",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-01-06",
+            "descricao": null,
+            "detalhe": "A Favor: <I>Clara Marques Mendes (PSD)</I>, <I> Hugo Lopes Soares (PSD)</I>, <I> Adão Silva (PSD)</I>, <I> Maria José Moreno (PSD)</I>, <I> Carlos Santos Silva (PSD)</I>, <I> Teresa Leal Coelho (PSD)</I>, <I> Afonso Oliveira (PSD)</I>, <I> Cecília Meireles (CDS-PP)</I>, <I> Helder Amaral (CDS-PP)</I><BR>Contra:<I>Filipe Neto Brandão (PS)</I>, <I> Jorge Lacão (PS)</I>, <I> Inês De Medeiros (PS)</I>, <I> João Galamba (PS)</I>, <I> Ana Catarina Mendonça Mendes (PS)</I>, <I> Paulo Sá (PCP)</I>, <I> Bruno Dias (PCP)</I>, <I> Pedro Filipe Soares (BE)</I>",
+            "id": "65960",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "48",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-05-28",
+    "EvtId": "94",
+    "Fase": "Constituição de uma Comissão de Inquérito",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292526",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "644714",
+        "obs": "Despacho n.º 60/XII",
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-05-18",
+        "pubLeg": "XII",
+        "pubNr": "8",
+        "pubSL": "2",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/12/02/008/2013-05-18/3?pgs=3&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "644715",
+        "obs": "Composição da Mesa",
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-01",
+        "pubLeg": "XII",
+        "pubNr": "169",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/169/2013-06-01/3?pgs=3&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "644717",
+        "obs": "Regulamento da Comissão",
+        "pag": [
+          "5-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-08",
+        "pubLeg": "XII",
+        "pubNr": "175",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/175/2013-06-08/5?pgs=5-8&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "668576",
+        "obs": "Relatório final e anexos",
+        "pag": [
+          "2-195"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-10",
+        "pubLeg": "XII",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/021/2014-01-10/2?pgs=2-195&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
