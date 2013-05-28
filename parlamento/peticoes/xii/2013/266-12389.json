@@ -1,0 +1,486 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12389",
+  "numero": "266",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-05-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-05-27",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "682921",
+                "obs": null,
+                "pag": [
+                  "2-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-07",
+                "pubLeg": "XII",
+                "pubNr": "51",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/051/2014-06-07/2?pgs=2-4&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-06-04",
+        "DataArquivo": "2014-05-27",
+        "DataBaixaComissao": "2013-05-28",
+        "DataEnvioPAR": "2014-06-02",
+        "DataReaberta": "2013-06-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-06-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4a44546b56445543394562324e31625756756447397a5547563061574e68627939694e7a67344e47526d5a69316b4e7a67794c5451304d475574595441324d5330774d4464684e6a6c6d4d7a49344d4455756347526d&fich=b7884dff-d782-440e-a061-007a69f32805.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-06-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4a44546b56445543394562324e31625756756447397a5547563061574e68627938344e546c6959324a694e43307a4d6d566b4c5451324d544574596d4d785a4330314e7a6b7a4f5455305a446b32597a67756347526d&fich=859bcbb4-32ed-4611-bc1d-5793954d96c8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3511",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-06-04",
+            "gp": "BE",
+            "id": "2191",
+            "motivoCessacao": null,
+            "nome": "Helena Pinto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-10-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-06-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4e6a4d6a4d7a4e445a6c4c574d354e5451744e44526c4f433169596a686a4c54426a4e54426d5a44426a4f4442694f5335515245593d&fich=3c23346e-c954-44e8-bb8c-0c50fd0c80b9.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38723",
+      "38729"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141008pln&url=l12/sl4/a2014/m10/&tI=04:02:54:667&drc=00:03:33:827"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-09",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/010/2014-10-09/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a propina de 120 euros e pela manutenção do Ensino do Português nas Comunidades Portuguesas; Revoga a Propina do Ensino de Português no Estrangeiro (Procede à terceira alteração ao Decreto-Lei n.º 165/2006, de 11 de Agosto); Recomenda ao Governo que garanta o ensino gratuito do português nas Comunidades Portuguesas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141008pln&url=l12/sl4/a2014/m10/&tI=04:06:36:494&drc=00:04:08:505"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-09",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/010/2014-10-09/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a propina de 120 euros e pela manutenção do Ensino do Português nas Comunidades Portuguesas; Revoga a Propina do Ensino de Português no Estrangeiro (Procede à terceira alteração ao Decreto-Lei n.º 165/2006, de 11 de Agosto); Recomenda ao Governo que garanta o ensino gratuito do português nas Comunidades Portuguesas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141008pln&url=l12/sl4/a2014/m10/&tI=04:10:47:101&drc=00:04:10:727"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196034",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-09",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/010/2014-10-09/62?pgs=62&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a propina de 120 euros e pela manutenção do Ensino do Português nas Comunidades Portuguesas; Revoga a Propina do Ensino de Português no Estrangeiro (Procede à terceira alteração ao Decreto-Lei n.º 165/2006, de 11 de Agosto); Recomenda ao Governo que garanta o ensino gratuito do português nas Comunidades Portuguesas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141008pln&url=l12/sl4/a2014/m10/&tI=04:15:00:777&drc=00:03:34:754"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196035",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-09",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/010/2014-10-09/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a propina de 120 euros e pela manutenção do Ensino do Português nas Comunidades Portuguesas; Revoga a Propina do Ensino de Português no Estrangeiro (Procede à terceira alteração ao Decreto-Lei n.º 165/2006, de 11 de Agosto); Recomenda ao Governo que garanta o ensino gratuito do português nas Comunidades Portuguesas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141008pln&url=l12/sl4/a2014/m10/&tI=04:18:37:578&drc=00:03:25:759"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-09",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/010/2014-10-09/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a propina de 120 euros e pela manutenção do Ensino do Português nas Comunidades Portuguesas; Revoga a Propina do Ensino de Português no Estrangeiro (Procede à terceira alteração ao Decreto-Lei n.º 165/2006, de 11 de Agosto); Recomenda ao Governo que garanta o ensino gratuito do português nas Comunidades Portuguesas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141008pln&url=l12/sl4/a2014/m10/&tI=04:22:05:882&drc=00:04:02:042"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-09",
+                "pubLeg": "XII",
+                "pubNr": "10",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/010/2014-10-09/64?pgs=64-66&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a propina de 120 euros e pela manutenção do Ensino do Português nas Comunidades Portuguesas; Revoga a Propina do Ensino de Português no Estrangeiro (Procede à terceira alteração ao Decreto-Lei n.º 165/2006, de 11 de Agosto); Recomenda ao Governo que garanta o ensino gratuito do português nas Comunidades Portuguesas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12389",
+    "PetAssunto": "Contra a propina de 120 euros e pela manutenção do Ensino do Português nas Comunidades Portuguesas.",
+    "PetDataEntrada": "2013-05-28",
+    "PeticoesAssociadas": null,
+    "PetId": "12389",
+    "PetLeg": "XII",
+    "PetNr": "266",
+    "PetNrAssinaturas": "4513",
+    "PetNrAssinaturasInicial": "4513",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1920",
+        "obs": null,
+        "pag": [
+          "60-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-10-09",
+        "pubLeg": "XII",
+        "pubNr": "10",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/010/2014-10-09/60?pgs=60-66&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "639519",
+        "obs": null,
+        "pag": [
+          "17-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-20",
+        "pubLeg": "XII",
+        "pubNr": "197",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/197/2013-07-20/17?pgs=17-18&org=PLC"
+      }
+    ]
+  }
+}
