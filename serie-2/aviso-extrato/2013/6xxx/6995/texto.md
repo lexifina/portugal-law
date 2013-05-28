@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 6995/2013
+Luís Manuel Barbosa Marques Leal, Dr., Presidente da Câmara Municipal de Montemor-o-Velho, torna público, ao abrigo da competência que lhe confere a alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/2002, de 11 de setembro, nos termos e para os efeitos do disposto no artigo 91.º da referida lei, que a Assembleia Municipal em sessão ordinária de 29 de abril de 2013, sob proposta da Câmara Municipal, aprovada em reunião de 25 de março de 2013, deliberou, por maioria, aprovar o Regulamento de Liquidação e Cobrança de Taxas Municipais, bem como a fundamentação económico-financeira, nos termos da Lei n.º 53-E/2006, de 29 de dezembro.
+Mais faz saber que o mencionado Regulamento, de acordo com o disposto no seu artigo 41.º, entra em vigor 15 dias após a publicação do presente aviso e ainda que o texto integral se encontra disponível nos serviços e no sítio do Município, em www.cm-montemorvelho.pt.
+9 de maio de 2013. - O Presidente da Câmara Municipal, Luís Manuel Barbosa Marques Leal, Dr.
+306975716
