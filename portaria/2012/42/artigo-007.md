@@ -16,4 +16,6 @@ d) Riscos cobertos, montante do prémio e valor do apoio solicitado;
 
 e) Declaração de compromisso de reporte ao IFAP, I. P., da informação relativa a sinistros, prejuízos e indemnizações devidas.
 
-3 - A ordem de prioridade no acesso à ajuda é a data de entrada dos processos completos no IFAP, I. P.
+3 - O prazo previsto no n.º 2 pode ser prorrogado pelo IFAP, I.P., sempre que as circunstâncias concretas o justifiquem, sendo a prorrogação do prazo publicitada nos sítios do IFAP, I.P., e do IVV, I.P., na Internet.
+
+4 - A ordem de prioridade no acesso à ajuda é a data de entrada dos processos completos no IFAP, I. P.
