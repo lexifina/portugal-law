@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "420",
+    "id": "37751",
+    "titulo": "Alteração dos limites territoriais entre as Freguesias de Mombeja, e, de Ferreira do Alentejo, e, os Municípios de Beja, e, de Ferreira do Alentejo."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-05-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "31370",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-06-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-05-29",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-07-21",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Deliberação da JF UF Santa Vitória e Mombeja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a526b4e5459344e4755744e7a466b4d4330305a6a4d334c57466d4f4745745a54686d4d7a67305a6a5a6d4e54466c4c6e52705a673d3d&fich=64d5684e-71d0-4f37-af8a-e8f384f6f51e.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 11ª CAOTPL e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a57566c596d5132597a59744e5452694e4330304d6a526a4c546b775a6a49744d3245334e7a56685a6a6b344e546c6c4c6e52705a673d3d&fich=eeebd6c6-54b4-424c-90f2-3a775af9859e.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-28",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da AF da UF Santa Vitória e Mombeja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a4a6a4d4759795a5463744d4759355a5330305a6d466a4c546b30593245745a57597a4d57566c59324d354e44597a4c6e52705a673d3d&fich=62c0f2e7-0f9e-4fac-94ca-ef31eecc9463.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da AF Ferreira do Alentejo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324d7a4d6d5979595467744e6a597a5a5330305a6a45784c5467304e6a67744d6a426d4e6d5a694f5455774d4745354c6e426b5a673d3d&fich=3c32f2a8-663e-4f11-8468-20f6fb9500a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da AF Mombeja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765932557a4f47497a4e4451744d7a6c6a5a693030596a6b7a4c5749324d6d55744d6d4e6d596a426a597a4a6d4d4745774c6e426b5a673d3d&fich=ce38b344-39cf-4b93-b62e-2cfb0cc2f0a0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-02",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da AF UF Ferreira do Alentejo e Canhestros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659574d324e445a6d4e4449745a54526c4d793030596a526a4c57466a4e7a4174593249794e324d774e6a4d7a4e7a526d4c6e52705a673d3d&fich=ac646f42-e4e3-4b4c-ac70-cb27c063374f.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da AF UF Santa Vitória e Mombeja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f574a6a4f57526b59324574597a633259793030593255324c5749344d7a49744e32566d4f4755784e5441344d6a55354c6e52705a673d3d&fich=9bc9ddca-c76c-4ce6-b832-7ef8e1508259.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-05-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da AM Ferreira do Alentejo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44417a4d475933597a45744e7a59305a4330304f57526a4c5749344e446b744e6d51334e6d59794e6a51335a6a45334c6e52705a673d3d&fich=0030f7c1-764d-49dc-b849-6d76f2647f17.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CM Ferreira do Alentejo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444e684e574d324d5445744e445a695a5330304e7a55354c5746695a4455744d57566c4e5441774d6a6333597a59794c6e426b5a673d3d&fich=83a5c611-46be-4759-abd5-1ee500277c62.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da JF Ferreira do Alentejo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4755334e3245324e444d744e5449304f5330304d544e684c5746694e6d51744e6a6b315a4456684f575578593245344c6e426b5a673d3d&fich=0e77a643-5249-413a-ab6d-695d5a9e1ca8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-02",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da JF UF Ferreira do Alentejo e Canhestros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d55354e6d4e694f446b745932526c4e5330304e7a686d4c57457759546b744f4755324e546b304e574d344e5451344c6e52705a673d3d&fich=fe96cb89-cde5-478f-a0a9-8e65945c8548.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da JF UF Santa Vitória e Mombeja",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4752694d6a42685a6d59745a6a6b774f5330304e5459354c546b79596d4574595755344e474e6d4d6a4d334f44526d4c6e52705a673d3d&fich=ddb20aff-f909-4569-92ba-ae84cf23784f.tif&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2665",
+            "motivoCessacao": null,
+            "nome": "Jorge Paulo Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-02-21",
+            "dataRemessa": "2014-03-18",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2014-03-18",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "66179",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "173",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-05-29",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "291303",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "676126",
+        "obs": null,
+        "pag": [
+          "2-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-19",
+        "pubLeg": "XII",
+        "pubNr": "83",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/083/2014-03-19/2?pgs=2-9&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
