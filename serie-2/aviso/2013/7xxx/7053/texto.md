@@ -1,0 +1,5 @@
+Aviso n.º 7053/2013
+António Carlos Saraiva Esteves de Carvalho, Presidente da Câmara Municipal de Penedono torna público, nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, que a Câmara Municipal de Penedono deliberou, em reunião realizada no dia 20 de maio de 2013, submeter à apreciação pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicitação do presente Aviso no Diário da República, uma proposta de alteração à Tabela de Taxas Administrativas e Urbanísticas do Município de Penedono, que se encontra disponível para consulta nos Serviços da Divisão Administrativa e Financeira da Câmara Municipal, durante as horas de expediente, das 9.00 às 17.00 horas e na página eletrónica do Município, em www.cm-penedono.pt.
+Os interessados podem endereçar as suas sugestões, por escrito, dirigidas ao presidente da Câmara Municipal de Penedono, Largo da Devesa, 3630-253 Penedono.
+20 de maio de 2013. - O Presidente da Câmara Municipal, António Carlos Saraiva Esteves de Carvalho.
+306983995
