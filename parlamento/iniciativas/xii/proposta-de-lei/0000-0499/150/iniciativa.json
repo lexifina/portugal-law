@@ -1,0 +1,72 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "150",
+  "id": "37765",
+  "fases": 23,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-05-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a51774e32466d4e4745744d6a6b325a4330304e7a59314c5745794d6a45744d4449324f47526c4f4451324d6a6c694c6e426b5a673d3d&fich=f407af4a-296d-4765-a221-0268de84629b.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5441794d6d4d774e474574596a4a6a4f5330304e7a6b304c5467344d4755744f5464684e7a51345954426a5a4745794c6e426b5a673d3d&fich=9022c04a-b2c9-4794-880e-97a748a0cda2.pdf&Inline=true",
+        "anexoNome": "Parecer ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a546c6b5a6a49794d5441745a6d4d335a5330304e7a4d304c574a684d6d55745a54686a4d6d59775a5752684d4745324c6e426b5a673d3d&fich=e9df2210-fc7e-4734-ba2e-e8c2f0eda0a6.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a63775a6d46695a4759744e6a45794e4330304d7a6c6b4c54677a4d6d59744e474d354f47526c596a4d7a4e6d566d4c6e426b5a673d3d&fich=670fabdf-6124-439d-832f-4c98deb336ef.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e446c694e6a566b4f4467744d7a55784f4330304d7a646a4c546b345a6a49744e6a4a6a595751774e7a55324e54426a4c6e426b5a673d3d&fich=49b65d88-3518-437c-98f2-62cad075650c.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a44597a4e544535597a5574595451334e4330304e5451774c546c695a6a49744d7a41354e446b334e544d30596d51794c6e426b5a673d3d&fich=d63519c5-a474-4540-9bf2-309497534bd2.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e474e694d7a686b4e44517459325a6d4f4330304e5451314c54686c4e6a55745a5459774d44566c4e7a45774f54557a4c6e426b5a673d3d&fich=4cb38d44-cff8-4545-8e65-e6005e710953.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD (Deliberação)"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37765",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e44686c4e5464685a6a59744d6a4577597930304e7a55324c5745794e7a6b744e6a49344d6a49344d4451334e5745324c6d527659773d3d&fich=48e57af6-210c-4756-a279-6282280475a6.doc&Inline=true",
+    "IniNr": "150",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Regula a obrigatoriedade de publicitação dos benefícios concedidos pela Administração Pública a particulares, procede à primeira alteração ao Decreto-Lei n.º 167/2008, de 26 de agosto, e revoga a Lei n.º 26/94, de 19 de agosto, e a Lei n.º 104/97, de 13 de setembro.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
