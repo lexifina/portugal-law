@@ -1,0 +1,6 @@
+Aviso n.º 7326/2013
+Torna público que a Câmara Municipal de Murça, em sua reunião ordinária de 03 de maio de 2013, e nos termos da alínea a) do n.º 6 do artigo 64.º da Lei n.º 169/99, de 18 de setembro, na sua atual redação, aprovou a alteração à tabela de taxas e licenças. Para os efeitos previstos na alínea a) do n.º 2 do artigo 53.º do já citado diploma legal, submete-se a apreciação pública pelo prazo de 30 dias, contados desde a data da publicação deste aviso no Diário da República, nos termos do disposto nos artigos 117.º e 118.º do Código do Procedimento Administrativo.
+O processo administrativo, pode ser consultado todos os dias úteis, dentro das horas de normais de expediente, na Secção Administrativa da Divisão do Planeamento e Gestão Urbana da Câmara Municipal de Murça.
+As sugestões, reclamações ou observações que, eventualmente, venham a ser apresentadas, devem ser formuladas através de requerimento escrito dirigido ao Presidente da Câmara Municipal, devendo neste contar a identificação completa, os endereços dos seus autores e a qualidade em que se apresentam, as quais deverão ser entregues na Câmara Municipal, ou remetidas por correio, sob registo.
+10 de maio de 2013. - O Vereador do Pelouro do Urbanismo, Eduardo José Correia Lopes.
+306960099
