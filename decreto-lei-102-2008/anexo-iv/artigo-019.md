@@ -28,6 +28,8 @@ a) Em faturas passadas na forma legal;
 
 b) No recibo de pagamento do IVA que faz parte das declarações de importação, bem como em documentos emitidos por via eletrónica pela Autoridade Tributária e Aduaneira, nos quais constem o número e a data do movimento de caixa.
 
+c) Nos recibos emitidos a sujeitos passivos enquadrados no «regime de IVA de caixa», passados na forma legal prevista neste regime.
+
 3 - Não pode deduzir-se imposto que resulte de operação simulada ou em que seja simulado o preço constante da fatura.
 
 4 - Não pode igualmente deduzir-se o imposto que resulte de operações em que o transmitente dos bens ou prestador dos serviços não entregar nos cofres do Estado o imposto liquidado, quando o sujeito passivo tenha ou devesse ter conhecimento de que o transmitente dos bens ou prestador de serviços não dispõe de adequada estrutura empresarial susceptível de exercer a actividade declarada.

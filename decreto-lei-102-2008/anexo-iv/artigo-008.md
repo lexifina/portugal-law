@@ -2,7 +2,7 @@
 
 ### Exigibilidade do imposto em caso de obrigação de emitir factura
 
-1 - Não obstante o disposto no artigo anterior, sempre que a transmissão de bens ou prestação de serviços dê lugar à obrigação de emitir uma fatura nos termos do artigo 29.º, o imposto torna-se exigível:
+1 - Não obstante o disposto no artigo anterior e no regime de IVA de caixa, sempre que a transmissão de bens ou prestação de serviços dê lugar à obrigação de emitir uma fatura nos termos do artigo 29.º, o imposto torna-se exigível:
 
 a) Se o prazo previsto para a emissão da fatura for respeitado, no momento da sua emissão;
 
