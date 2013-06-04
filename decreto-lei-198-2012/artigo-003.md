@@ -38,6 +38,8 @@ i) O motivo justificativo da não aplicação do imposto, se aplicável;
 
 j) Montante de IVA liquidado.
 
+k) A menção «IVA - regime de caixa», se aplicável.
+
 5 - Até ao final do mês seguinte ao da sua emissão, a AT disponibiliza às pessoas singulares, no Portal das Finanças, os elementos indicados no número anterior relativamente às faturas que titulem prestações de serviços em que constem como adquirentes e que sejam emitidas por sujeitos passivos enquadrados para efeitos fiscais, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3, CAE - Rev. 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
 
 a) Secção G, Classe 4520 - Manutenção e reparação de veículos automóveis;
