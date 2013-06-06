@@ -1,0 +1,5 @@
+Edital n.º 597/2013
+Miguel Alexandre Ferreira Rasquinho, Presidente da Câmara Municipal de Monforte, torna público que, por deliberação tomada em Reunião Pública de Câmara, de vinte e dois de maio de dois mil e treze e nos termos do artigo 118.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, com a redação dada pelo Decreto-Lei n.º 6/96, de 31 de janeiro, é submetido a inquérito público o projeto de Regulamento Municipal sobre a Venda Ambulante no Município de Monforte, pelo período de trinta dias a contar da publicação do presente Edital no Diário da República, 2.ª série, durante o qual poderá o mesmo ser consultado nos Serviços Administrativos e de Licenciamento de Obras Particulares desta Câmara Municipal, durante o horário normal de expediente, e sobre ele serem formuladas por escrito as observações tidas por convenientes, dirigidas ao Presidente da Câmara Municipal de Monforte.
+Para constar, se lavrou este edital e outros de igual teor que irão ser afixados nos locais públicos do costume.
+22.05.2013. - O Presidente da Câmara, Miguel Alexandre Ferreira Rasquinho.
+306999474
