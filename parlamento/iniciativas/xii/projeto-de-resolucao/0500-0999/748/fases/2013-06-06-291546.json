@@ -1,0 +1,551 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "748",
+    "id": "37768",
+    "titulo": "Dinamização da atividade portuária no Algarve como instrumento de desenvolvimento da economia regional"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9466",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-06-06",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37480",
+        "leg": "XII",
+        "nr": "594",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que conclua os procedimentos necessários à construção urgente do Porto de Pesca de Tavira e ao desassoreamento dos canais de navegação"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37658",
+        "leg": "XII",
+        "nr": "687",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que desenvolva uma política de investimentos portuários no Algarve, fundamentais para a dinamização económica da região."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37728",
+        "leg": "XII",
+        "nr": "725",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1778",
+            "obs": null,
+            "pag": [
+              "68-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-07",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-73&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a realização de investimentos com potencial efetivo de desenvolvimento económico previstos para o sector portuário na região do Algarve e clarifique o modelo de gestão dos Portos daquela Região"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "249",
+                "nome": "Mendes Bota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:46",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130606pln&url=l12/sl2/a2013/m06/&tI=04:10:42:537&drc=00:06:06:369"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-07",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a realização de investimentos com potencial efetivo de desenvolvimento económico previstos para o sector portuário na região do Algarve e clarifique o modelo de gestão dos Portos daquela Região; Recomenda ao Governo que desenvolva uma política de investimentos portuários no Algarve, fundamentais para a dinamização económica da região; Recomenda ao Governo que conclua os procedimentos necessários à construção urgente do Porto de Pesca de Tavira e ao desassoreamento dos canais de navegação; Dinamização da atividade portuária no Algarve como instrumento de desenvolvimento da economia regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:46",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130606pln&url=l12/sl2/a2013/m06/&tI=04:16:56:789&drc=00:04:10:998"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-07",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a realização de investimentos com potencial efetivo de desenvolvimento económico previstos para o sector portuário na região do Algarve e clarifique o modelo de gestão dos Portos daquela Região; Recomenda ao Governo que desenvolva uma política de investimentos portuários no Algarve, fundamentais para a dinamização económica da região; Recomenda ao Governo que conclua os procedimentos necessários à construção urgente do Porto de Pesca de Tavira e ao desassoreamento dos canais de navegação; Dinamização da atividade portuária no Algarve como instrumento de desenvolvimento da economia regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2250",
+                "nome": "Miguel Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:46",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130606pln&url=l12/sl2/a2013/m06/&tI=04:21:15:809&drc=00:04:46:191"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-07",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a realização de investimentos com potencial efetivo de desenvolvimento económico previstos para o sector portuário na região do Algarve e clarifique o modelo de gestão dos Portos daquela Região; Recomenda ao Governo que desenvolva uma política de investimentos portuários no Algarve, fundamentais para a dinamização económica da região; Recomenda ao Governo que conclua os procedimentos necessários à construção urgente do Porto de Pesca de Tavira e ao desassoreamento dos canais de navegação; Dinamização da atividade portuária no Algarve como instrumento de desenvolvimento da economia regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:46",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130606pln&url=l12/sl2/a2013/m06/&tI=04:26:10:167&drc=00:05:33:516"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-07",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a realização de investimentos com potencial efetivo de desenvolvimento económico previstos para o sector portuário na região do Algarve e clarifique o modelo de gestão dos Portos daquela Região; Recomenda ao Governo que desenvolva uma política de investimentos portuários no Algarve, fundamentais para a dinamização económica da região; Recomenda ao Governo que conclua os procedimentos necessários à construção urgente do Porto de Pesca de Tavira e ao desassoreamento dos canais de navegação; Dinamização da atividade portuária no Algarve como instrumento de desenvolvimento da economia regional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:46",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130606pln&url=l12/sl2/a2013/m06/&tI=04:31:54:871&drc=00:05:15:129"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-06-07",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a realização de investimentos com potencial efetivo de desenvolvimento económico previstos para o sector portuário na região do Algarve e clarifique o modelo de gestão dos Portos daquela Região; Recomenda ao Governo que desenvolva uma política de investimentos portuários no Algarve, fundamentais para a dinamização económica da região; Recomenda ao Governo que conclua os procedimentos necessários à construção urgente do Porto de Pesca de Tavira e ao desassoreamento dos canais de navegação; Dinamização da atividade portuária no Algarve como instrumento de desenvolvimento da economia regional.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "291546",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "638991",
+        "obs": null,
+        "pag": [
+          "67-74"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-07",
+        "pubLeg": "XII",
+        "pubNr": "99",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/099/2013-06-07/67?pgs=67-74&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
