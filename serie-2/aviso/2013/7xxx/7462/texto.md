@@ -1,0 +1,9 @@
+Aviso n.º 7462/2013
+1.ª Revisão do Plano de Pormenor da Zona Nordeste da Cidade de Ponte de Sor
+Abertura do Período de Discussão Pública
+João José de Carvalho Taveira Pinto, Presidente da Câmara Municipal de Ponte de Sor, torna público que, no âmbito do procedimento de Revisão do Plano de Pormenor da Zona Nordeste da Cidade de Ponte de Sor, cuja proposta de plano obteve parecer favorável da Comissão de Coordenação e Desenvolvimento Regional do Alentejo (CCDRA), a Câmara Municipal de Ponte de Sor deliberou, na sua reunião realizada no dia 24 de abril de 2013, submetê-la a discussão pública, em conformidade com o disposto nos n.os 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na atual redação do Decreto-Lei n.º 46/2009, de 20 de fevereiro.
+Nestes termos, será aberto um período de discussão pública com a duração de 22 dias, a ter início 5 dias após a data da publicação do presente aviso na 2.ª série do Diário da República.
+Durante o referido período os interessados poderão apresentar as suas reclamações, observações ou sugestões, devendo para o efeito dirigir-se por escrito ao Presidente da Câmara Municipal de Ponte de Sor, Campo da Restauração, 7400-223 Ponte de Sor, por carta, por via eletrónica para o endereço geral@cm-pontedesor.pt ou entregues em mão naquela morada, contendo, em qualquer uma das formas, a identificação completa do seu subscritor.
+Os documentos que compõem a proposta de Revisão do Plano de Pormenor da Zona Nordeste da Cidade de Ponte de Sor, bem como a respetiva Ata da Conferência de Serviços que contém o parecer da CCDRA, encontrar-se-ão disponíveis para consulta na Divisão de Projetos e Obras Municipais no edifício dos Paços do Concelho, durante as horas de expediente, e na página da Internet da autarquia, em http://www.cm-pontedesor.pt.
+28 de maio de 2013. - O Presidente da Câmara, João José de Carvalho Taveira Pinto.
+207003821
