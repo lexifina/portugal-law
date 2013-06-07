@@ -1,0 +1,6 @@
+Edital n.º 602/2013
+Maria de Fátima Simões Ramos do Vale Ferreira, Presidente da Câmara Municipal de Miranda do Corvo, torna público que, nos termos e para o disposto no artigo 241.º da Constituição da República Portuguesa, alíneas a) e h), do n.º 2 do artigo 53.º e alínea a) do n.º 64.º da Lei n.º 169/99 de 18 de setembro, na redação dada pela Lei n.º 5-A/2002, de 11 de janeiro, a Assembleia Municipal de Miranda do Corvo na sua sessão extraordinária de 28 de maio de 2013 e sob proposta da Câmara Municipal de 23 de maio de 2013, aprovou a seguinte alteração ao artigo 5.º, do Regulamento de Taxas, Preços e Outras Receitas do Município de Miranda do Corvo, que versa sobre "A aplicação do IVA e do Imposto de Selo", nos seguintes termos: Um aditamento ao artigo 5.º, passando a ter um n.º 2 "No que diz respeito aos valores a aplicar nas entradas do recinto da Expo Miranda, no ano de 2013, será considerado que o IVA se encontra incluído"
+Apresente alteração ao regulamento entra em vigor no dia 30 de maio de 2013.
+Para conhecimento geral e devidos efeitos, se torna público que o Edital e respetiva alteração ao Regulamento, se encontram afixados nos locais do costume, página da Internet do Município e publicação no Diário da República
+29 de maio de 2013. - A Presidente do Município, Maria de Fátima Simões Ramos do Vale Ferreira, Dr.ª
+207008155
