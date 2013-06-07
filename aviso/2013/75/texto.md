@@ -1,0 +1,5 @@
+Aviso n.º 75/2013
+Por ordem superior se torna público que, por notificação datada de 27 de novembro de 2012, o Governo dos Estados Unidos da América comunicou ter a República das Ilhas Marshall depositado, a 15 de novembro de 2012, o instrumento de adesão à Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento das Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, de 10 de abril de 1972.
+A Convenção entrou em vigor para a República das Ilhas Marshall na data do depósito do instrumento de adesão, ou seja, 15 de novembro de 2012, de acordo com o n.º 4 do artigo XIV, da referida Convenção.
+Portugal é Parte da mesma Convenção, aprovada para ratificação pelo Decreto n.º 208/73, de 8 de maio, publicado no Diário da República, 1.ª série, n.º 108, de 8 de maio de 1973, tendo depositado o respetivo instrumento de ratificação em 15 de maio de 1975, conforme o Aviso de 6 de abril, publicado no Diário da República, 1.ª série, n.º 104, de 6 de maio de 1978.
+Direção-Geral de Política Externa, 20 de maio de 2013. - O Subdiretor-Geral de Política Externa, Rui Manuel Vinhas Tavares Gabriel.
