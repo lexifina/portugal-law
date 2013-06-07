@@ -1,0 +1,5 @@
+Edital n.º 603/2013
+José Ismael Fernandes, Presidente da Câmara Municipal da Ribeira Brava, no uso da competência que lhe é conferida pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na atual redação, torna público de que a Assembleia Municipal em sessão ordinária de 26 de abril de 2013, mediante proposta da Câmara Municipal aprovada em reunião ordinária pública de 7 de março de 2013, aprovou a atualização dos valores das taxas e outras receitas previstas no regulamento e tabela de taxas e outras receitas do Município de Ribeira Brava, com a exceção dos artigos 29.º e 30.º, de acordo com a taxa de variação média da inflação verificada em 2012, que foi de 2,8 %, publicada pelo Instituto Nacional de Estatística em 11 de janeiro de 2013, com efeito a partir de 1 de junho de 2013.
+Para conhecimento geral se publica o presente e outros de igual teor que vão ser afixados nos lugares de costume.
+6 de maio de 2013. - O Presidente da Câmara Municipal, José Ismael Fernandes.
+307009719
