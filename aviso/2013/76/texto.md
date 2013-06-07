@@ -1,0 +1,4 @@
+Aviso n.º 76/2013
+Por ordem superior se torna público que, a 17 de abril de 2012 e a 4 de junho de 2012, foram recebidas notas pelo Ministério dos Negócios Estrangeiros dos Emirados Árabes Unidos e pela Embaixada de Portugal em Abu Dhabi, respetivamente, pelas quais ambos os Estados comunicam terem sido cumpridas as formalidades internas de aprovação do Acordo entre a República Portuguesa e os Emirados Árabes Unidos sobre a Promoção e a Proteção Recíproca de Investimentos, assinado em Abu Dhabi, a 19 de novembro de 2011.
+O referido Acordo foi aprovado por Decreto nº 5/2012, de 1 de março de 2012, publicado no Diário da República 1.ª série, n.º 52 de 13 de março de 2012, e nos termos do seu artigo 14.º, entrou em vigor no dia 4 de julho de 2012.
+Direção-Geral de Política Externa, 27 de maio de 2013. - A Subdiretora-Geral de Política Externa, Helena Maria Rodrigues Fernandes Malcata.
