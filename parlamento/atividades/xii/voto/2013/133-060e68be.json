@@ -1,0 +1,127 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "133",
+  "data_registo": "2013-06-07",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Relativo aos acontecimentos ocorridos na Turquia.",
+    "AutoresGP": [
+      "PSD",
+      "PS",
+      "CDS-PP",
+      "Luís Montenegro (PSD)",
+      "António Braga (PS)",
+      "Francisca Almeida (PSD)",
+      "Carlos Zorrinho (PS)",
+      "Nilza de Sena (PSD)",
+      "Maria de Belém Roseira (PS)",
+      "Alberto Martins (PS)",
+      "António Rodrigues (PSD)",
+      "Mónica Ferro (PSD)",
+      "João Pinho de Almeida (CDS-PP)",
+      "Nuno Magalhães (CDS-PP)",
+      "Helder Amaral (CDS-PP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2013-06-07",
+    "DataAnuncio": null,
+    "DataEntrada": "2013-06-07",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "133",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "635675",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-08",
+        "pubLeg": "XII",
+        "pubNr": "175",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/175/2013-06-08/4?pgs=4&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "28647",
+        "obs": null,
+        "pag": [
+          "45-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-08",
+        "pubLeg": "XII",
+        "pubNr": "100",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/100/2013-06-08/45?pgs=45-46&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2013-06-07",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> PEV</I><BR>Abstenção:<I>BE</I>",
+        "id": "64029",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "642166",
+            "obs": null,
+            "pag": [
+              "45-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-06-08",
+            "pubLeg": "XII",
+            "pubNr": "100",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/100/2013-06-08/45?pgs=45&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "100",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
