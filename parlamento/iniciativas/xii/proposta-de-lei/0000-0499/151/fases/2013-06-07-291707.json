@@ -1,0 +1,295 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "151",
+    "id": "37767",
+    "titulo": "Procede à primeira alteração à Lei do Orçamento do Estado para 2013, aprovada pela Lei n.º 66-B/2012, de 31 de dezembro."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-06-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "31456",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-06-11",
+            "id": "95444",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-06-11",
+            "id": "95442",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-06-12",
+            "id": "95455",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-06-14",
+            "id": "95458",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-06-18",
+            "id": "95467",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2013-06-18",
+            "id": "95468",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-06-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-06-07",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-06-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466b4f5463344e54466d4c5449305a6a41744e475933596931684d44686c4c54646c597a4e6b4e47597a4e4445314d4335775a47593d&fich=ad97851f-24f0-4f7b-a08e-7ec3d4f34150.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CNPD à proposta de aditamento de um artigo 13.º-A apresentada pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32497a4f474d774f545a6b4c5751784e4467744e475a6c596930345a444e6d4c54566d59324e69596a63314e325a684f4335515245593d&fich=b38c096d-d148-4feb-8d3f-5fccbb757fa8.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Conselho das Finanças Públicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259784f544a694f5751344c5745794f446b744e4441774d4330355a54417a4c5755324d575534596a557a4e5449795a6935515245593d&fich=f192b9d8-a289-4000-9e03-e61e8b53522f.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Conselho Económico e Social",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d4e545935597a6b314c57466a593255744e445533597930354e57457a4c546c684d544a6d4d445a6a4f575a685a5335775a47593d&fich=9f569c95-acce-457c-95a3-9a12f06c9fae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-12",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Parecer Técnico da UTAO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6b595441304e7a49784c545a684e4751744e47566b5a4331685a6a46684c546c694f444d34597a4d785a4445334e5335775a47593d&fich=fda04721-6a4d-4edd-af1a-9b838c31d175.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração apresentada pelo BE, que substitui a incidente sobre o artigo 51.º",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251334d7a6c6a5a5464694c57497a4e7a49744e4467315a4331695a546c6c4c544a6d5a44497a5a474e6c59574d31595335775a47593d&fich=d739ce7b-b372-485d-be9e-2fd23dceac5a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração apresentada pelo PSD e CDS-PP, que substitui a de aditamento de um novo artigo 13.º-A",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32557a4e7a426c5932517a4c5745344d5451744e44633459533034597a4a6c4c546b795a4467354e474e6b5a6a67785a6935515245593d&fich=e370ecd3-a814-478a-8c2e-92d894cdf81f.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração apresentada pelo PSD e CDS-PP, que substitui a incidente sobre o artigo 31.º",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6377593246694d475a6c4c545133596d4d744e4449304f4331694d4451354c57557a4f546c6b4d47526d4e3259784f4335775a47593d&fich=70cab0fe-47bc-4248-b049-e399d0df7f18.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração apresentadas pelos Senhores Deputados Couto dos Santos (PSD), José Lello (PS), João Rebelo (CDS-PP) e Mariana Aiveca (BE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d4e444e6d4d7a4a684c57566a59574d744e44426a4d7930355a47566d4c575930596d59325a4751324e4749344f4335775a47593d&fich=bf43f32a-ecac-40c3-9def-f4bf6dd64b88.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51774e6a4578596a52694c545a6c4f5459744e4441334d5331694f5751324c57513059325a6c597a6c6b5a474668595335515245593d&fich=40611b4b-6e96-4071-b9d6-d4cfec9ddaaa.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PCP (1)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41324f5463324e5441334c574e694e4745744e4463774f5331695a574d344c54466b5a474e6b4f444577596a6c69597935515245593d&fich=06976507-cb4a-4709-bec8-1ddcd810b9bc.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PCP (2)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6b4e7a4e6c5a54566a4c57566b597a41744e445a6a4e7931684e5445794c5441335a6a426d596a4d324d6d49304d4335515245593d&fich=2d73ee5c-edc0-46c7-a512-07f0fb362b40.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PEV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49354d32597a4d4459354c545a6b4d5463744e4451325a4330344d44597a4c5755784d7a63794d6a6c6d595745315a5335515245593d&fich=293f3069-6d17-446d-8063-e137229faa5e.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6c595745334d6a49324c57526b4e7a41744e4467344d43316959575a6c4c5464694e4459794e546c695a6d45304d6935515245593d&fich=beaa7226-dd70-4880-bafe-7b46259bfa42.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e CDS (1)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4577596a6b7759545a684c5759304d5751744e444e6c4d4330344d44646c4c5445325a6d49795a446b794e7a45785a5335515245593d&fich=10b90a6a-f41d-43e0-807e-16fb2d92711e.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e do CDS-PP (2)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45314e5751354d7a55774c544d304f4451744e44597a597930354d6a526b4c574a6d4d6a63334f5452695a6a4579595335515245593d&fich=155d9350-3484-463c-924d-bf27794bf12a.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo das propostas de alteração",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6a4e7a4d314e7a63304c54686c596a6b744e4459784f5331684e544e684c5441345a6a59795a5445314d4463314e7935775a47593d&fich=9c735774-8eb9-4619-a53a-08f62e150757.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a46684e444577595745324c5756695a6d4d744e475a694e7930344e6a6c6c4c574a694f4463334e6a466c4e7a686d596935515245593d&fich=1a410aa6-ebfc-4fb7-869e-bb87761e78fb.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686a5a6a5a6c4f47497a4c574d325a4749744e444a6c4f5330345954557a4c5759305a6a4d78596a63314e7a41315a5335515245593d&fich=8cf6e8b3-c6db-42e9-8a53-f4f31b75705e.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração aprexsentadas pelo PSD/CDS-PP, PS, PCP, BE e Os Verdes",
+            "pag": [
+              "2-72"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2013-06-20",
+            "pubLeg": "XII",
+            "pubNr": "155",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/155S1/2013-06-20/2?pgs=2-72&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração aprexsentadas pelo PSD/CDS-PP, PS, PCP, BE e Os Verdes",
+            "pag": [
+              "2-72"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2013-06-20",
+            "pubLeg": "XII",
+            "pubNr": "155",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/155S1/2013-06-20/2?pgs=2-72&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-06-19",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-06-19",
+            "dataRemessa": "2013-06-19",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-06-19",
+            "descricao": "Texto Final aprovado Artigo a Artigo",
+            "detalhe": null,
+            "id": "64210",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "188",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-06-07",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "291707",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
