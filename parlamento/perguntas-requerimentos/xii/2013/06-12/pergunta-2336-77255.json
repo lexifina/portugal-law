@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "77255",
+  "tipo": "Pergunta",
+  "numero": "2336",
+  "data_registo": "2013-06-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Incubadora de Empresas",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "3943",
+        "nome": "Nuno Reis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Lopes Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1013",
+        "nome": "João Lobo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2665",
+        "nome": "Jorge Paulo Oliveira"
+      }
+    ],
+    "DataEnvio": "2013-06-12",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2013-06-12",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Secretaria de Estado do Desenvolvimento Regional",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2013-07-08",
+            "docRemetida": null,
+            "entidade": "Secretaria de Estado do Desenvolvimento Regional",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a45794f444a69596d466a4c5751314f5467744e44646c5a4330344d44466d4c546779596a517a5a444d775a4445345a5335775a47593d&fich=1282bbac-d598-47ed-801f-82b43d30d18e.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2013-06-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a51794e54526d4d3255354c5749774d4463744e474d35595330354d7a6b774c5441354d57597a4d3255334f444e694d6935775a47593d&fich=4254f3e9-b007-4c9a-9390-091f33e783b2.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "77255",
+    "Legislatura": "XII",
+    "Nr": "2336",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "635447",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013",
+        "pubLeg": "XII",
+        "pubNr": "180",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/180/2013-06-21/13?pgs=13-14&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
