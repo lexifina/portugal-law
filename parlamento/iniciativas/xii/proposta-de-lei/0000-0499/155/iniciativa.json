@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "155",
+  "id": "37802",
+  "fases": 23,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-06-14",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a553059546c695a474974596a597a4d6930304d6a52684c546c6959324d744d7a41335a54526d59544d795a4441304c6e426b5a673d3d&fich=654a9bdb-b632-424a-9bcc-307e4fa32d04.pdf&Inline=true",
+        "anexoNome": "Parecer RAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e3259774d446b78593255744e444d344d6930304f544e684c546b344e6a67745a57466a4e5441794d54497a597a5a6d4c6e426b5a673d3d&fich=7f0091ce-4382-493a-9868-eac502123c6f.pdf&Inline=true",
+        "anexoNome": "Parecer CRAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765957526b4d57513059574d74596a63314e4330304d444e6d4c574a6d4e4759745a5751304d445a6a4e6a56694d7a49344c6e426b5a673d3d&fich=add1d4ac-b754-403f-bf4f-ed406c65b328.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576593245784d5445784d4755744d3251344d5330304f4749334c574578596a59745a4441354f5745304f546b354f5463324c6e426b5a673d3d&fich=ca11110e-3d81-48b7-a1b6-d099a4999976.pdf&Inline=true",
+        "anexoNome": "Parecer  ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a426c4e474a6859544574596a6c6b4d5330304f4459794c57497a4e4751745a6a41784e6d4578596d566a4e4455344c6e426b5a673d3d&fich=30e4baa1-b9d1-4862-b34d-f016a1bec458.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37802",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a5a6c4e6d59785a4749744e4463794d7930304f546b7a4c574932597a63744d6a59314e6d4a6a5a6a5a684d7a5a6a4c6d527659773d3d&fich=26e6f1db-4723-4993-b6c7-2656bcf6a36c.doc&Inline=true",
+    "IniNr": "155",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova os requisitos de acesso e de exercício da atividade de perito qualificado para a certificação energética e de técnico de instalação e manutenção de edifícios e sistemas, conformando-o com a disciplina da Lei n.º 9/2009, de 4 de março, que transpôs a Diretiva n.ºs 2005/36/CE, relativa ao reconhecimento das qualificações profissionais.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
