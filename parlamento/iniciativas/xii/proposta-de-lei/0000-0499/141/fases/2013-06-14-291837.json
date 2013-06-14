@@ -1,0 +1,198 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "141",
+    "id": "37670",
+    "titulo": "Aprova os regimes jurídicos do ensino da condução, regulando o acesso e o exercício da atividade de exploração de escolas de condução, da profissão de instrutor de condução, da profissão de diretor de escola de condução e da certificação das respetivas entidades formadoras."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-06-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "31495",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-10-09",
+            "id": "96054",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-10-09",
+            "id": "96053",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-10-15",
+            "id": "96099",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-10-15",
+            "id": "96098",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-10-23",
+            "id": "96157",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-10-24",
+            "id": "96171",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-06-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-06-14",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-01-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 1ª CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4442685a47526b4e4755744d6a6b345a5330304e5452684c54686b5a5467744d4452684e6d45775a6d4a684f4468694c6e426b5a673d3d&fich=80addd4e-298e-454a-8de8-04a6a0fba88b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-08",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Solitado parecer à 1ª CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d4e695a5755775a4441744e6a49774d7930304e57517a4c546b324e6d51744d7a5179596a68684f4445305a6d46694c6e426b5a673d3d&fich=bcbee0d0-6203-45d3-966d-342b8a814fab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final, Relatório de Votações na Especialidade e Propostas de Alteração dos GP's do PSD e CDS-PP (conjuntas), do PCP e do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4467345a57566c4d5751744f5451774e6930305a5459344c546b31596d49744e4445354d6a526d4d6a677a4e47526b4c6e426b5a673d3d&fich=088eee1d-9406-4e68-95bb-41924f2834dd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da votação na especialidade, texto final e anexo incluindo propostas de alteração apresentadas pelo PSD/CDS-PP, PCP e PS",
+            "pag": [
+              "2-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-01-22",
+            "pubLeg": "XII",
+            "pubNr": "52",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/052/2014-01-22/2?pgs=2-77&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da votação na especialidade, texto final e anexo incluindo propostas de alteração apresentadas pelo PSD/CDS-PP, PCP e PS",
+            "pag": [
+              "2-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-01-22",
+            "pubLeg": "XII",
+            "pubNr": "52",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/052/2014-01-22/2?pgs=2-77&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-01-22",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2014-01-22",
+            "dataRemessa": "2014-01-22",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-01-22",
+            "descricao": "Texto Final votado artigo a artigo",
+            "detalhe": null,
+            "id": "65722",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "176",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-06-14",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "291837",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
