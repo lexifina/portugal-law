@@ -1,0 +1,616 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12394",
+  "numero": "271",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-06-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-12-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2016-12-21",
+        "DataBaixaComissao": "2015-11-17",
+        "DataEnvioPAR": "2016-12-22",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-12-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d546b334e7a6b795a6d49744e6a417a59693030595755304c57497a4d574d744d574a69596a6c6b596a59345a6d49304c6e426b5a673d3d&fich=197792fb-603b-4ae4-b31c-1bbb9db68fb4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-11-18",
+            "gp": "PS",
+            "id": "1974",
+            "motivoCessacao": null,
+            "nome": "Ricardo Bexiga"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-03-11",
+            "entidades": null,
+            "id": "99686",
+            "tipo": null,
+            "titulo": "Audição em 2015-03-11 com Peticionário da Petição n.º 271/XII/2ª - Sr. Rui Miguel Bartolomeu Maio"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-03-17",
+            "dataResposta": "2015-03-30",
+            "entidades": [
+              "Instituto do Emprego e Formação Profissional"
+            ],
+            "nrOficio": "53/CSST/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-17",
+            "dataResposta": "2015-04-20",
+            "entidades": [
+              "DGAE - Direção-Geral da Administração Escolar"
+            ],
+            "nrOficio": "54/CSST/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-31",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "140/CSST/2013",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-02-12",
+                "dataResposta": null,
+                "nrOficio": "16/CSST/2014",
+                "oficioResposta": null
+              },
+              {
+                "dataOficio": "2014-12-03",
+                "dataResposta": null,
+                "nrOficio": "100/CSST/2014",
+                "oficioResposta": null
+              },
+              {
+                "dataOficio": "2015-01-20",
+                "dataResposta": null,
+                "nrOficio": "10/CSST/2015",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-31",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "140/CSST/2013",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-02-12",
+                "dataResposta": null,
+                "nrOficio": "16/CSST/2014",
+                "oficioResposta": null
+              },
+              {
+                "dataOficio": "2014-12-03",
+                "dataResposta": "2015-03-18",
+                "nrOficio": "100/CSST/2014",
+                "oficioResposta": "1030"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-07-10",
+        "DataArquivo": "2015-11-17",
+        "DataBaixaComissao": "2013-06-19",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2013-07-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-07-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279387a4e6a426b5932566a5a533077593251794c54526c596d4d745954557a5979307a4d544d305a5445784d47526d4e47557555455247&fich=360dcece-0cd2-4ebc-a53c-3134e110df4e.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396b4e7a55324d3255324e4330774f474d304c5451325a5467744f5452695979316d596a56694d574e6d4f446c694e47497555455247&fich=d7563e64-08c4-46e8-94bc-fb5b1cf89b4b.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396c4e4749324f446c6c5979316c4e7a55304c5451315a44497459544a69595330774e5751334d575535593255325957557555455247&fich=e4b689ec-e754-45d2-a2ba-05d71e9ce6ae.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938344d546b794e7a41345a43316d5a544d314c54526a4d324d74596a6b7a4f4330354d5745794d3259354e3259304d6a4d7555455247&fich=8192708d-fe35-4c3c-b938-91a23f97f423.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627939685a6a417a4d7a67775a6931684d44426c4c54517a5a545974595745344e6930354e4455354f444d31596a466b4f4445756347526d&fich=af03380f-a00e-43e6-aa86-9459835b1d81.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-02-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627939684d4459334f4441795979316c4f475a6c4c5451344d444d744f54526b596930784f44686a4d6a6b794e4751345a47597555455247&fich=a067802c-e8fe-4803-94db-188c2924d8df.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627939684d324d354e5755784d79307a4d5745354c54526d5a544d745954426a4e5330304f5745355a6a646c4f5467355957497555455247&fich=a3c95e13-31a9-4fe3-a0c5-49a9f7e989ab.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396a4d6a63354d4464694d6930354d5467314c5451304d6d4d744f54686a4e6930784e7a67334d325a695a444e6d5a57517555455247&fich=c27907b2-9185-442c-98c6-17873fbd3fed.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279387a596a4a6a5a47526a5a5330344d6a6b324c5451334e5751744f47517a4e79316d4d6d4a6b4d6a4d795a445a6c595467756347526d&fich=3b2cddce-8296-475d-8d37-f2bd232d6ea8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-02-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396d4e6a59355a44426d4e5330314d6a4d794c5451344d445174596d5933595330334d6d4d354f546b334e6d59354f57457555455247&fich=f669d0f5-5232-4804-bf7a-72c99976f99a.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-04-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938354f5751774e54566c4f4330774e44686c4c5451344d5463745954646c4d7930325a6a63775a5463324f5755344e6d4d756347526d&fich=99d055e8-048e-4817-a7e3-6f70e769e86c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938774d574d304d574e694f4330314d5451314c54517a5a4451744f574668595330354e4456684e7a5532596d5a6c4f5449756347526d&fich=01c41cb8-5145-43d4-9aaa-945a756bfe92.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938774f54646a5a6a646b5a4330344d4745774c54526b4e6d55744f474d784d79316c59546b355a4463314d7a6b354d4467756347526d&fich=097cf7dd-80a0-4d6e-8c13-ea99d7539908.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3519",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2015-10-22",
+            "dataNomeacao": "2013-07-31",
+            "gp": "PS",
+            "id": "4319",
+            "motivoCessacao": null,
+            "nome": "Mário Ruivo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Trabalho e Segurança Social da XIII Legislatura."
+      }
+    ],
+    "DataDebate": "2017-03-01",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-06-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a526d596a49775a6a67774c546b785a5745744e4467335a6931694e5755794c575268597a6c694e4455784e5445334e4335775a47593d&fich=4fb20f80-91ea-487f-b5e2-dac9b4515174.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:29:39:893&drc=00:03:35:106"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o despedimento dos formadores externos do IEFP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:33:24:788&drc=00:02:52:211"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o despedimento dos formadores externos do IEFP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:36:23:305&drc=00:03:35:694"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o despedimento dos formadores externos do IEFP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:41:00:211&drc=00:03:11:789"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o despedimento dos formadores externos do IEFP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:44:21:129&drc=00:03:35:870"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/48?pgs=48-50&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o despedimento dos formadores externos do IEFP.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12394",
+    "PetAssunto": "Contra o despedimento dos formadores externos do IEFP.",
+    "PetDataEntrada": "2013-06-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12394",
+    "PetLeg": "XII",
+    "PetNr": "271",
+    "PetNrAssinaturas": "5015",
+    "PetNrAssinaturasInicial": "5015",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "603",
+        "obs": null,
+        "pag": [
+          "3-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-02",
+        "pubLeg": "XIII",
+        "pubNr": "57",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/3?pgs=3-50&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "639520",
+        "obs": null,
+        "pag": [
+          "19-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-20",
+        "pubLeg": "XII",
+        "pubNr": "197",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/197/2013-07-20/19?pgs=19-20&org=PLC"
+      }
+    ]
+  }
+}
