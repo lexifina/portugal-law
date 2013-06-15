@@ -48,7 +48,7 @@ v) «Marca» o código que permite individualizar, no território nacional, a ex
 
 x) «Meio de transporte» as partes de veículos automóveis, veículos sobre carris, navios e aeronaves utilizados para o carregamento e transporte dos animais, bem como os contentores para transporte por terra, mar ou ar;
 
-z) «Número de registo» o número atribuído pelo sistema informático às explorações e centros de agrupamento, permitindo a sua identificação naquele sistema, e que agrega as marcas atribuídas com base nas espécies animais presentes na mesma exploração ou centro de agrupamento;
+z) (Revogada).
 
 aa) «Parcelário» a referência geográfica constante do documento P1 - «Documento de identificação de parcelas», emitido pelo Instituto Nacional de Intervenção e Garantia Agrícola (INGA);
 
