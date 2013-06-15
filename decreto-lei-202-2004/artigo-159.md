@@ -20,7 +20,7 @@ e) Emissão de segunda via de carta de caçador, por deterioração, extravio, a
 
 f) Atribuição de licenças de caça;
 
-g) Atribuição dos alvarás para reprodução, criação e detenção de espécies cinegéticas em cativeiro e sua renovação.
+g) Atribuição das autorizações, com exceção de centros de recuperação de animais, a que se refere o n.º 4 do artigo 107.º
 
 2 - Os montantes das taxas são fixados por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
