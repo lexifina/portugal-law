@@ -1,0 +1,5 @@
+Aviso n.º 7806/2013
+Regulamento Municipal de Urbanização, Edificação e de Taxas e Compensações Urbanísticas do Concelho de Portalegre - Alteração
+Ana Cristina Carrilho Manteiga, vice-presidente da Câmara Municipal de Portalegre, faz público, no uso das competências que lhe são atribuídas pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na sua atual redação, que, em execução do que dispõe o artigo 118.º do CPA, aprovado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, e para efeitos do disposto no artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação e legislação que se mostre como aplicável, que a alteração ao RMUETCU, relativa à articulação com o sistema de industria responsável - SIR, mereceu aprovação pela Câmara Municipal por deliberação tomada na reunião ordinária realizada em 15 de abril de 2013 e sessão da Assembleia Municipal de Portalegre realizada a 29 de abril de 2013.
+6 de maio de 2013. - A Vice-Presidente da Câmara, Ana Cristina Carrilho Manteiga.
+306955125
