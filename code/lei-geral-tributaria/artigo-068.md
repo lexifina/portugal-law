@@ -4,7 +4,7 @@
 
 1 - As informações vinculativas sobre a situação tributária dos sujeitos passivos, incluindo, nos termos da lei, os pressupostos dos benefícios fiscais, são requeridas ao dirigente máximo do serviço, sendo o pedido acompanhado da descrição dos factos cuja qualificação jurídico-tributária se pretenda.
 
-2 - Mediante solicitação justificada do requerente, a informação vinculativa pode ser prestada com carácter de urgência, no prazo de 120 dias, desde que o pedido seja acompanhado de uma proposta de enquadramento jurídico-tributário.
+2 - Mediante solicitação justificada do requerente, a informação vinculativa pode ser prestada com carácter de urgência, no prazo de 90 dias, desde que o pedido seja acompanhado de uma proposta de enquadramento jurídico-tributário.
 
 3 - As informações vinculativas não podem compreender factos abrangidos por procedimento de inspecção tributária cujo início tenha sido notificado ao contribuinte antes do pedido.
 
