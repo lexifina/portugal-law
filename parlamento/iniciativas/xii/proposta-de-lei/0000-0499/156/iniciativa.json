@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "156",
+  "id": "37805",
+  "fases": 25,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-06-18",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d3259354d44686c4f4745745a575535596930304e4755354c5467304f574d745a546869597a51784e544d7859574e6b4c6e426b5a673d3d&fich=3f908e8a-ee9b-44e9-849c-e8bc41531acd.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4449325a54646a4f5755744e545132595330304d444d784c5468695a6d55745a6a59794d7a6c6d4e54466b4e7a59334c6e426b5a673d3d&fich=d26e7c9e-546a-4031-8bfe-f6239f51d767.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5445344d5449304f5445744d4441794f4330304e6d466b4c57466c4d574d744d544d334e6d51784d4749324e5749314c6e426b5a673d3d&fich=11812491-0028-46ad-ae1c-1376d10b65b5.pdf&Inline=true",
+        "anexoNome": "Parecer CAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f445a6b5a6a4a6b4e5745744d54646b4e7930304d6d49794c574a684e7a67744e6a466c4e7a6b335a5441785a6a51344c6e426b5a673d3d&fich=86df2d5a-17d7-42b2-ba78-61e797e01f48.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4759334d545932595759744e6a59314f4330304d4452694c54686a4e7a41744e57466b5a4463354d6a41314e7a466c4c6e426b5a673d3d&fich=df7166af-6658-404b-8c70-5add7920571e.pdf&Inline=true",
+        "anexoNome": "Parecer CCP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f546b354f544e6c59546374596a557a59693030593259304c57466d4f44677459574d345a6a6c6c5a4459784d7a4a6a4c6e426b5a673d3d&fich=99993ea7-b53b-4cf4-af88-ac8f9ed6132c.pdf&Inline=true",
+        "anexoNome": "Parecer UGT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a545931597a63794d4759744e6a637a5a4330304e5455774c57466d4d544574597a566b4d7a5a684e6a6b794d7a41304c6e426b5a673d3d&fich=e65c720f-673d-4550-af11-c5d36a692304.pdf&Inline=true",
+        "anexoNome": "Parecer CGTP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5755315a5755334e6a55744d5467775a693030597a6b7a4c57466b4d574d744e6d56694d444669597a517a4d6a67774c6e426b5a673d3d&fich=ee5ee765-180f-4c93-ad1c-6eb01bc43280.pdf&Inline=true",
+        "anexoNome": "Parecer CIP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a677a5a6a49324d6d55745a4445314f433030597a59794c57466b595463744e446c68596a526a597a51314d5451334c6e426b5a673d3d&fich=683f262e-d158-4c62-ada7-49ab4cc45147.pdf&Inline=true",
+        "anexoNome": "Parecer CTP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e546c6a4f4464684f546b744d575531595330305a445a6b4c546734595451745a4467784e7a63334f5456694e6d59794c6e426b5a673d3d&fich=59c87a99-1e5a-4d6d-88a4-d8177795b6f2.pdf&Inline=true",
+        "anexoNome": "Parecer SGTP-SST"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37805",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a49344d444d335a4451744d7a41794f533030596d59304c574532595445745a5467784d44646a4d57453359324d794c6d527659773d3d&fich=328037d4-3029-4bf4-a6a1-e8107c1a7cc2.doc&Inline=true",
+    "IniNr": "156",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Texto inicial substituído a pedido do autor da iniciativa em 13-09-2013.",
+    "IniTipo": "P",
+    "IniTitulo": "Procede à segunda alteração à Lei n.º 102/2009, de 10 de setembro, que aprova o Regime jurídico da promoção da segurança e saúde no trabalho, conformando-o com a disciplina do Decreto-Lei n.º 92/2010, de 26 de junho, que transpôs a Diretiva n.º 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
