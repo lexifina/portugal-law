@@ -6,7 +6,7 @@
 
 ### Benefícios fiscais ao investimento de natureza contratual
 
-1 - Os projectos de investimento em unidades produtivas realizados até 31 de Dezembro de 2020, de montante igual ou superior a (euro) 5 000 000, que sejam relevantes para o desenvolvimento dos sectores considerados de interesse estratégico para a economia nacional e para a redução das assimetrias regionais, que induzam a criação de postos de trabalho e que contribuam para impulsionar a inovação tecnológica e a investigação científica nacional, podem beneficiar de incentivos fiscais, em regime contratual, com período de vigência até 10 anos, a conceder nos termos, condições e procedimentos definidos no Código Fiscal do Investimento, de acordo com os princípios estabelecidos nos n.os 2 e 3.
+1 - Os projetos de investimento em unidades produtivas realizados até 31 de dezembro de 2020, de montante igual ou superior a 3 000 000,00 EUR, que sejam relevantes para o desenvolvimento dos sectores considerados de interesse estratégico para a economia nacional e para a redução das assimetrias regionais, que induzam à criação de postos de trabalho e que contribuam para impulsionar a inovação tecnológica e a investigação científica nacional, podem beneficiar de incentivos fiscais, em regime contratual, com período de vigência até 10 anos, a conceder nos termos, condições e procedimentos definidos no Código Fiscal do Investimento, de acordo com os princípios estabelecidos nos n.os 2 e 3.
 
 2 - Aos projectos de investimento previstos no n.º 1 podem ser concedidos, cumulativamente, os incentivos fiscais seguintes:
 
