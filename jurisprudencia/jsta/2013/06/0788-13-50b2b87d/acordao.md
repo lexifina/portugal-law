@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2013-06-18, processo 0788/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0788/13
+
+**Data do Acordão:** 06/18/2013
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ASCENSÃO LOPES
+
+**Descritores:** PRESCRIÇÃO; LEI GERAL TRIBUTÁRIA
+
+**Nº Convencional:** JSTA000P15931
+
+**Nº do Documento:** SA2201306180788
+
+**Data de Entrada:** 05/06/2013
+
+**Recorrente:** A............
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE COM 1 DEC VOT
+
+## Sumário
+
+I - As causas de interrupção ou suspensão da prescrição atendíveis para o cômputo em concreto do prazo de prescrição são as previstas na lei vigente à data da respectiva ocorrência, em conformidade com o disposto no n.º 2 do artigo 12.º do Código Civil.
+
+II - Assim as causas de interrupção da prescrição que ocorreram antes da alteração ao nº 3 do art. 49º da LGT, introduzida pela Lei 53-A/2006, ou seja, antes de 01.01.2007, produzem os efeitos que a lei vigente no momento em que elas ocorreram associava à sua ocorrência: eliminam o período de tempo anterior à sua ocorrência e obstam ao decurso do prazo de prescrição, enquanto o respectivo processo estiver pendente ou não estiver parado por mais de um ano por facto não imputável ao contribuinte.
+
+III - Ocorrendo sucessivas causas de interrupção da prescrição, antes da entrada em vigor da referida redacção do nº 3 do art. 49º da LGT, devem todos elas ser consideradas autonomamente, para efeitos de contagem do respectivo prazo, desde que susceptíveis de influir no seu decurso.
+
+IV - A dívida de imposto de selo proveniente de facto tributário ocorrido em 4 de Junho de 2001 está sujeita ao prazo prescricional de oito anos contados da data em que esse facto tributário ocorreu.
+
+V - Tendo sido deduzida impugnação judicial contra o acto de liquidação desse imposto em 28/09/2005, ocorreu nessa data um primeiro acto interruptivo do prazo de prescrição à luz das normas contidas no art. 49.º da LGT, na redacção então vigente, interrupção que, determina que todo o tempo decorrido até ao acto interruptivo é inutilizado para efeitos de prescrição.
+
+VI- Sucedendo novo facto interruptivo (citação) há que lhe dar a devida relevância.
+
+VII - Enquanto vigorou o nº 2 do art. 49º da LGT (até 31/12/2006, dada a sua eliminação pela Lei nº 53-A/2006, de 29.12), o acto interruptivo a considerar só cessava se sobreviesse uma paragem do processo por período superior a um ano por facto não imputável ao devedor, (degradando-se o efeito interruptivo em suspensivo) havendo então que somar ao tempo que viesse a decorrer após o ano de paragem todo aquele que decorrera até à data da autuação do processo.
+
+IV - A Lei n.º 53.º-A/2006 (LOE para 2007), que entrou em vigor em 1 de Janeiro de 2007, revogou o n.º 2 do art.º 49.º da LGT, deixando salvaguardados dos efeitos dessa revogação apenas os casos em que, na data da sua entrada em vigor, tivesse já decorrido período superior a um ano de paragem do processo por facto não imputável ao sujeito passivo (art.º 91º), o que não sucedeu no caso dos autos.
