@@ -10,7 +10,7 @@ b) Quando se verifiquem indícios da falta de veracidade do declarado ou esteja 
 
 c) Quando se verifiquem indícios da existência de acréscimos de património não justificados, nos termos da alínea f) do n.º 1 do artigo 87.º;
 
-d) Quando se trate da verificação de conformidade de documentos de suporte de registos contabilísticos dos sujeitos passivos de IRS e IRC que se encontrem sujeitos a contabilidade organizada;
+d) Quando se trate da verificação de conformidade de documentos de suporte de registos contabilísticos dos sujeitos passivos de IRS e IRC que se encontrem sujeitos a contabilidade organizada ou dos sujeitos passivos de IVA que tenham optado pelo regime de IVA de caixa;
 
 e) Quando exista a necessidade de controlar os pressupostos de regimes fiscais privilegiados de que o contribuinte usufrua;
 
