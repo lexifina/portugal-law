@@ -1,0 +1,623 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12393",
+  "numero": "270",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-06-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-07-09",
+            "entidades": null,
+            "id": "95685",
+            "tipo": null,
+            "titulo": "Audição em 2013-07-09 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-06-25",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação e Ciência"
+            ],
+            "nrOficio": "273/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-06-25",
+            "dataResposta": "2013-07-02",
+            "entidades": [
+              "Presidente da Câmara Municipal de Setúbal"
+            ],
+            "nrOficio": "274/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-07-08",
+            "dataResposta": "2013-07-16",
+            "entidades": [
+              "Agrupamento Escolas de Azeitão"
+            ],
+            "nrOficio": "289/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-07-08",
+            "dataResposta": null,
+            "entidades": [
+              "Serviço Municipal Proteção Civil e Bombeiros de Setúbal"
+            ],
+            "nrOficio": "290/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-07-08",
+            "dataResposta": "2013-07-12",
+            "entidades": [
+              "Empresa Águas do Sado"
+            ],
+            "nrOficio": "291/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "641366",
+                "obs": null,
+                "pag": [
+                  "9-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-27",
+                "pubLeg": "XII",
+                "pubNr": "201",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/201/2013-07-27/9?pgs=9-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "2013-07-23",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-06-25",
+        "DataArquivo": "2013-07-24",
+        "DataBaixaComissao": "2013-06-20",
+        "DataEnvioPAR": "2013-07-24",
+        "DataReaberta": "2013-06-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2012-06-25",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a68684e5455324e6d4a6a4c5451334e6d49744e4459774e5331694e6d5a6b4c57497a4d7a4533596a417a4d445268595335775a47593d&fich=8a5566bc-476b-4605-b6fd-b3317b0304aa.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41794d445979597a67784c546c6d4e4455744e4463784d5331684d7a42684c5459314d5463345a474a6c4d3252694e4335515245593d&fich=02062c81-9f45-4711-a30a-65178dbe3db4.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d304d4441305a5752694c574a68597a51744e4467334e7930354d4463774c5455784d6a5131596d51315a4751785a4335515245593d&fich=c4004edb-bac4-4877-9070-51245bd5dd1d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-07-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a42694d54466c4f545a6c4c5455305a574d744e474a695a5330355a5745344c57526b5a474d79595459775a6a4a6c5a4335515245593d&fich=0b11e96e-54ec-4bbe-9ea8-dddc2a60f2ed.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d344e54686c4e474d354c575a69596d49744e446b344e6931684d7a566a4c546b794f5751794d6a68694e6a59304e5335515245593d&fich=c858e4c9-fbbb-4986-a35c-929d228b6645.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41774d474d314f4467794c5455315a474d744e44426a4e533035595441774c5749325a6a67784f5441354e546c6a5a4335515245593d&fich=000c5882-55dc-40c5-9a00-b6f8190959cd.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59344f4459324d54526a4c546c684d7a45744e4755324d533168595755784c54686d4d446469596d5a6b596a49334e7935515245593d&fich=6886614c-9a31-4e61-aae1-8f07bbfdb277.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-07-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466d596a557a4d5468684c57526a595459744e4451304e4330354d47526a4c5455325a6a63344e4459315a6d49774f5335775a47593d&fich=1fb5318a-dca6-4444-90dc-56f78465fb09.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-07-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a597a5a6d4e684d5759314c5759354d546b744e4749324d4330344d5749324c5751304e446c6d4d475a6d4d4467334d6935775a47593d&fich=63fca1f5-f919-4b60-81b6-d449f0ff0872.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-07-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67794e6a466b4f5463784c5755334d4467744e474d32596930344e6a566a4c574535597a6b7a4d545a6d4e4441315a5335775a47593d&fich=8261d971-e708-4c6b-865c-a9c9316f405e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2013-07-07",
+            "dataNomeacao": "2013-06-25",
+            "gp": "PSD",
+            "id": "3919",
+            "motivoCessacao": null,
+            "nome": "Amadeu Soares Albergaria"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-07-08",
+            "gp": "PSD",
+            "id": "4322",
+            "motivoCessacao": null,
+            "nome": "Isilda Aguincha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-01-10",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-06-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4130597a6b784f57466b4c5459324e7a55744e444e6b4d4331694f4445794c5449315a5749794e7a59304e4755334e7935775a47593d&fich=04c919ad-6675-43d0-b812-25eb27644e77.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "37866"
+    ],
+    "Iniciativasoriginadas": [
+      "37866"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-01-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140110pln&url=l12/sl3/a2014/m01/&tI=01:32:49:341&drc=00:02:06:188"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140110pln&url=l12/sl3/a2014/m01/&tI=01:52:17:564&drc=00:02:20:389"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24",
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-11",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/035/2014-01-11/24?pgs=24,28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Requalificação da Escola Básica do 2º e 3º ciclo de Azeitão, no Concelho de Setúbal; Solicitam a realização de obras na Escola Básica 2,3 de Azeitão e a implementação do ensino secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140110pln&url=l12/sl3/a2014/m01/&tI=01:34:57:107&drc=00:03:01:823"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-11",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/035/2014-01-11/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Requalificação da Escola Básica do 2º e 3º ciclo de Azeitão, no Concelho de Setúbal; Solicitam a realização de obras na Escola Básica 2,3 de Azeitão e a implementação do ensino secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140110pln&url=l12/sl3/a2014/m01/&tI=01:38:03:057&drc=00:03:29:253"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-11",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/035/2014-01-11/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Requalificação da Escola Básica do 2º e 3º ciclo de Azeitão, no Concelho de Setúbal; Solicitam a realização de obras na Escola Básica 2,3 de Azeitão e a implementação do ensino secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140110pln&url=l12/sl3/a2014/m01/&tI=01:41:39:540&drc=00:03:24:175"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-11",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/035/2014-01-11/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Requalificação da Escola Básica do 2º e 3º ciclo de Azeitão, no Concelho de Setúbal; Solicitam a realização de obras na Escola Básica 2,3 de Azeitão e a implementação do ensino secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140110pln&url=l12/sl3/a2014/m01/&tI=01:45:12:339&drc=00:03:06:661"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-11",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/035/2014-01-11/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Requalificação da Escola Básica do 2º e 3º ciclo de Azeitão, no Concelho de Setúbal; Solicitam a realização de obras na Escola Básica 2,3 de Azeitão e a implementação do ensino secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-01-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140110pln&url=l12/sl3/a2014/m01/&tI=01:48:27:518&drc=00:03:42:481"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-11",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/035/2014-01-11/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Requalificação da Escola Básica do 2º e 3º ciclo de Azeitão, no Concelho de Setúbal; Solicitam a realização de obras na Escola Básica 2,3 de Azeitão e a implementação do ensino secundário.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12393",
+    "PetAssunto": "Solicitam a realização de obras na Escola Básica 2,3 de Azeitão e a implementação do ensino secundário.",
+    "PetDataEntrada": "2013-06-19",
+    "PeticoesAssociadas": null,
+    "PetId": "12393",
+    "PetLeg": "XII",
+    "PetNr": "270",
+    "PetNrAssinaturas": "6140",
+    "PetNrAssinaturasInicial": "6140",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "456",
+        "obs": null,
+        "pag": [
+          "24-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-11",
+        "pubLeg": "XII",
+        "pubNr": "35",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/035/2014-01-11/24?pgs=24-29&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "639959",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-06-22",
+        "pubLeg": "XII",
+        "pubNr": "181",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/181/2013-06-22/10?pgs=10-11&org=PLC"
+      }
+    ]
+  }
+}
