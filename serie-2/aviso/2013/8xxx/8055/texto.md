@@ -1,0 +1,6 @@
+Aviso n.º 8055/2013
+José António Marcos Soares, presidente da Câmara Municipal da Madalena do Pico, torna público, ao abrigo da competência que lhe foi delegada e conferida pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/2002, de 11 de janeiro, que a Câmara Municipal, na sua reunião realizada no dia 13 de maio de 2013, deliberou aprovar o Projeto de Regulamento do Transporte Público de Aluguer em Veículos Automóveis Ligeiros de Passageiros - Transportes em Táxi, no sentido de submeter o mesmo à apreciação pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso, para cumprimento do disposto no artigo 118.º do Código do Procedimento Administrativo.
+Os documentos acima referenciados encontram-se expostos para efeitos de consulta e recolha de sugestões de todos os interessados, nos Serviços de Atendimento ao Público da Câmara Municipal da Madalena, onde poderão ser consultados todos os dias úteis das 9 às 17 horas, bem como no sítio do Município na Internet (www.cm-madalena.pt).
+As sugestões deverão ser formuladas por escrito e enviadas à Câmara Municipal até às 17 horas do último dia do prazo acima referido.
+17 de maio de 2013. - O Presidente da Câmara Municipal, José António Marcos Soares.
+306990611
