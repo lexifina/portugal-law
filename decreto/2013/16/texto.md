@@ -1,0 +1,23 @@
+Decreto n.º 16/2013
+de 24 de junho
+O Menir da Meada é o mais impressionante monumento megalítico da região de Castelo de Vide, e o maior menir totalmente talhado pelo homem em toda a Península Ibérica. O monólito, com cerca de quatro metros de altura a partir do solo, 7,15 metros de comprimento total e um diâmetro máximo de 1,25 metros, está implantado de forma isolada no patamar granítico do rio Sever. O referido monólito faz parte de um conjunto de antas e menires de material lítico, estes últimos implantados sequencialmente na linha de contacto entre granitos e xistos que delimita a mancha megalítica da serra de São Mamede.
+Embora sem datação precisa, é seguro afirmar que o Menir da Meada foi erguido no intervalo de tempo correspondente aos períodos Neolítico e Calcolítico, na mesma altura em que se construíram as grandes sepulturas megalíticas da região, incluindo a necrópole de Coureleiros. O Menir da Meada forma um conjunto com outros menires de grande volume, todos distribuídos com assinalável regularidade ao longo do limite do corredor granítico da serra, demarcando a área sepulcral dos granitos. A sua altura excecional poderá estar justamente relacionada com a visibilidade dos alinhamentos, uma vez que o menir se eleva num outeiro de menor altura em relação aos restantes.
+O menir foi restaurado e reerguido na década de 90 do século XX, tendo, nesta ocasião, sido possível devolver a sua aparência original, unindo-se as duas partes em que se encontrava fraturado aquando da sua descoberta em 1965, e possivelmente desde o domínio romano da região e consequente intensificação das práticas agrícolas. A pedra apresenta configuração cilindriforme, de nítidos contornos fálicos, acentuados por um ressalto semelhante a uma glande envolvendo a extremidade superior. A superfície alisada teria sido, originalmente, quase polida, sendo ainda visíveis as marcas deixadas pelo instrumento de fricção nas zonas melhor conservadas.
+O Menir da Meada, de notável imponência, ilustra de forma singular a importância da região na época pré-histórica, de resto atestada por muitos outros vestígios da monumentalização do território pelas populações locais. Ainda que se desconheça a real dimensão da sua carga simbólica e das suas prováveis multifuncionalidades, este monólito interliga-se perfeitamente no ambiente geográfico e cultural das sepulturas megalíticas da área de influência do rio Sever, distinguindo-se tanto de forma individual como na relação que estabelece com os restantes monumentos da mesma tipologia. Constitui testemunho privilegiado do ambiente socioeconómico, da capacidade organizativa, das condicionantes naturais, dos conhecimentos, dos sistemas de crenças e do contexto ritual e simbólico da comunidade que o gerou, apresentando-se como uma forma ímpar de expressão do Mito pelo homem do Neolítico, e como vestígio material de valor inquestionável no contexto peninsular.
+A classificação do Menir da Meada reflete os critérios constantes do artigo 17.º da Lei n.º 107/2001, de 8 de setembro, relativos ao seu interesse como testemunho simbólico ou religioso, ao seu interesse como testemunho notável de vivências ou factos históricos, ao seu valor estético, técnico e material intrínseco, à sua conceção paisagística e à sua importância do ponto de vista da investigação histórica ou científica.
+A zona especial de proteção do monumento agora classificado será fixada por portaria, nos termos do disposto no artigo 43.º da Lei n.º 107/2001, de 8 de setembro.
+Procedeu-se à audiência escrita dos interessados, nos termos gerais do artigo 101.º do Código do Procedimento Administrativo e de acordo com o previsto no artigo 25.º do Decreto-Lei n.º 309/2009, de 23 de outubro, alterado pelos Decretos-Leis n.os 115/2011, de 5 de dezembro, e 265/2012, de 28 de dezembro.
+Foi igualmente promovida a audiência prévia da Câmara Municipal de Castelo de Vide.
+Assim:
+Nos termos do n.º 1 do artigo 28.º da Lei n.º 107/2001, de 8 de setembro, e da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+Artigo único
+Classificação
+É classificado como monumento nacional o Menir da Meada, na Tapada do Cilindro, freguesia de Santa Maria da Devesa, concelho de Castelo de Vide, distrito de Portalegre, conforme planta constante do anexo ao presente decreto, do qual faz parte integrante.
+Visto e aprovado em Conselho de Ministros de 23 de maio de 2013. - Pedro Passos Coelho.
+Assinado em 17 de junho de 2013.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 19 de junho de 2013.
+O Primeiro-Ministro, Pedro Passos Coelho.
+ANEXO
+(ver documento original)
