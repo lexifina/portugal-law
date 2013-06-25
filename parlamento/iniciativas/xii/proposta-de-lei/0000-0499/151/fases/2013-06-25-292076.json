@@ -1,0 +1,196 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "151",
+    "id": "37767",
+    "titulo": "Procede à primeira alteração à Lei do Orçamento do Estado para 2013, aprovada pela Lei n.º 66-B/2012, de 31 de dezembro."
+  },
+  "fase": "Envio à Comissão para fixação da Redação final",
+  "codigo_fase": "348",
+  "data_registo": "2013-06-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "348",
+    "Comissao": [
+      {
+        "AccId": "31595",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-06-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-06-25",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa I",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a637a4e4445334f575a6a4c544e6d4f4445744e47526d595330354e5463794c574d33596d51344e32526b5a6d4d774d7935775a47593d&fich=734179fc-3f81-4dfa-9572-c7bd87ddfc03.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa II",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6c5a44646d4f44466a4c57526d5a4749744e4442684d7930344d5445314c544d774e6a557859574e6d597a51324f4335775a47593d&fich=6ed7f81c-dfdb-40a3-8115-30651acfc468.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa III",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6c596d45304d6a4d324c546c694e7a59744e4459315a5331684f444d344c5749355a6a4e6a4e474a6a4f574d785a4335775a47593d&fich=9eba4236-9b76-465e-a838-b9f3c4bc9c1d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa IV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251304f5459334e6a59354c57526b4e6a55744e475a6c4e6930345a47497a4c54417a5a6a426a4d5746685a4456684e6935775a47593d&fich=d4967669-dd65-4fe6-8db3-03f0c1aad5a6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa IX",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63335a6a63325a5441324c54466a5a446b744e47497a597931684d474e684c546b7a4f574a6b4d475a694e6a67314d6935775a47593d&fich=77f76e06-1cd9-4b3c-a0ca-939bd0fb6852.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa V",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b314e6d526c4e546c6b4c544e695a5451744e4463784e5331694d32466b4c5745775a4745334f5463324f57466b596935775a47593d&fich=956de59d-3be4-4715-b3ad-a0da79769adb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa VI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55784e474a6a5a4745774c5442685a5449744e4745354e793035596d49354c546b324d6d4e6c4f4445304f54426d4d4335775a47593d&fich=514bcda0-0ae2-4a97-9bb9-962ce81490f0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa VII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324d5441354d4451784c54526a4e5467744e474a6b5a5331694f445a684c5745314f5467794d7a646a4f574a6b4d7935775a47593d&fich=86109041-4c58-4bde-b86a-a598237c9bd3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa VIII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51784e445a6a4d5455334c545177595449744e44673559693034595452694c5459354e474978595467344d7a526a5a6935775a47593d&fich=4146c157-40a2-489b-8a4b-694b1a8834cf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa X",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526d5a6a55324e6a4e6d4c54677a4f5449744e44637a4e5330344e545a6a4c5752684d6d45335a6a6c6c5a4449305a4335775a47593d&fich=4ff5663f-8392-4735-856c-da2a7f9ed24d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa XI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51344d44526b59544d784c546c6c59324d744e446b354d4330344e6a646a4c546b334e6d4d7a5a544d305a6a64685a4335775a47593d&fich=4804da31-9ecc-4990-867c-976c3e34f7ad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa XII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67314e7a426d4f4449344c54637a4f4755744e446b304d693168596a6b344c54413059546732597a426b597a67304f4335775a47593d&fich=8570f828-738e-4942-ab98-04a86c0dc848.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa XIII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6c4d6d526d4d4752694c5752694f5751744e4749304e4330344e44686d4c574d324d7a4d784d3251785a4467794e6935775a47593d&fich=fe2df0db-db9d-4b44-848f-c63313d1d826.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa XIV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45305a474d7a4e5467354c574e6a4f5755744e44686d4d4331684d7a59774c575930597a51784e474a6b4e5745345a6935775a47593d&fich=14dc3589-cc9e-48f0-a360-f4c414bd5a8f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Mapa XV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3246684e7a67784e7a67314c5459784e4749744e474d785a4330344d7a4d774c546b794d7a45304d6a4e6a596a6c694f5335775a47593d&fich=aa781785-614b-4c1d-8330-9231423cb9b9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-06-26",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Redação Final da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51334f4455794d7a677a4c5745324e4449744e47457a4e433034596a59784c544e6d4d4759774f4749324d474a685a6935775a47593d&fich=47852383-a642-4a34-8b61-3f0f08b60baf.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2013-06-26",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-06-26",
+            "descricao": "Redação Final fixada nos termos regimentais - Ausência do BE",
+            "detalhe": null,
+            "id": "64391",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "190",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-06-25",
+    "EvtId": "133",
+    "Fase": "Envio à Comissão para fixação da Redação final",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292076",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
