@@ -1,0 +1,5 @@
+Aviso n.º 8170/2013
+Nos termos do n.º 2 do Artigo 77.º, do Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação, torna-se público que a Câmara Municipal de Vila Real de Santo António, deliberou, na sua reunião de 4 de junho de 2013, aprovar a realização da Alteração ao Plano de Pormenor da Zona do Cemitério de Vila Real de Santo António (PPZCVRSA), de modo a dotar os lotes já existentes de índices e parâmetros urbanísticos suscetíveis de permitirem a continuidade das empresas neste concelho, concedendo um prazo indicativo de 6 meses para a conclusão deste procedimento.
+Uma vez assegurado o enquadramento acima descrito, convidam-se todos os interessados a formular sugestões, assim como a apresentar informações, por escrito, até 20 dias úteis contados a partir da data de publicação deste aviso no Diário da República, na Equipa Multidisciplinar de Gestão Territorial e Urbanística da Câmara Municipal de Vila Real de Santo António, sobre quaisquer questões que possam ser equacionadas no âmbito deste processo de Alteração.
+7 de junho de 2013. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
+207044808
