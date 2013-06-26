@@ -1,0 +1,34 @@
+Despacho (extrato) n.º 8348/2013
+Nos termos do disposto no artigo 77.º do Estatuto da Carreira Docente Universitária (ECDU) e das alíneas a) e b) do n.º 3 do artigo 7.º dos Estatutos da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, publicado pelo Despacho n.º 3484/2009, no D. R. n.º 18, 2.ª série, de 27 de janeiro, e após ter sido promovida a discussão pública do presente Regulamento, de acordo com o previsto no n.º 3 do artigo 110.º do RJIES, aprovo o Regulamento de Licenças Sabáticas, o qual vai ser publicado.
+12 de junho de 2013. - O Diretor, Fernando Santana.
+Regulamento de Licenças Sabáticas da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa
+Considerando que, conforme estabelece o artigo 77.º do ECDU, o período de licença sabática é um direito disponível sob condição, ou seja que para ser eficaz exige a vontade de ambas as partes (Instituição e Docente que o requer);
+Considerando a importância da Licença Sabática na construção e valorização da carreira académica;
+Considerando que os recursos disponibilizados pela Tutela de há muito não satisfazem o custo total do pessoal docente e, consequentemente, não acautelam o eventual acréscimo de necessidades de pessoal correspondentes à concessão de licenças sabáticas, importa assegurar:
+(i) Que os períodos de licença sabática satisfazem, de facto, os objetivos preconizados no ECDU;
+(ii) Que seja equitativa, entre áreas científicas, a alocação de recursos extraordinários para suprir necessidades de serviço docente resultantes da concessão de licenças sabáticas.
+Assim, o Conselho Executivo, ouvido o Conselho Científico, aprova o presente Regulamento, que entra em vigor a partir da data da publicação no Diário da República, aplicando-se já aos pedidos de licença sabática respeitantes ao ano escolar 2013/14.
+1 - Os professores de carreira (Catedráticos, Associados e Auxiliares) poderão, no termo de três ou seis anos completos de serviço docente efetivo, respetivamente requerer um semestre ou um ano de licença sabática;
+2 - As licenças sabáticas de um ano poderão ser gozadas em semestres consecutivos ou interpolados de dois anos curriculares consecutivos;
+3 - O semestre ou o ano de licença sabática coincidirão com os correspondentes períodos letivos do ano escolar;
+4 - O número de licenças sabáticas a conceder por departamento e por ano letivo não poderá exceder 1/7 do número de professores de carreira do departamento;
+5 - Para a concessão de licença sabática, o requerente deverá apresentar um Projeto de Licença Sabática (PLS), no qual justificará a necessidade de dispor de dispensa de serviço docente para a execução dos seus objetivos, nomeadamente:
+(i) Realização de atividades de investigação, podendo incluir estadia(s) noutra(s) Instituição(ões), incompatíveis com a normal atividade docente;
+(ii) Publicação de obra de vulto, de cariz pedagógico ou científico, a qual exija a realização de um volume de trabalho incompatível com a normal atividade docente;
+6 - A apreciação dos pedidos de licença sabática pelos Departamentos deverá incidir na respetiva relevância para a carreira académica dos requerentes e na inerente contribuição para os objetivos da Escola, tendo em consideração, entre outros, os seguintes aspetos:
+Desempenho no período que precedeu o pedido de licença sabática, relevando o eventual esforço adicional realizado por solicitação do Departamento, que possa ter interferido com o desenvolvimento de outras atividades da carreira académica;
+Oportunidade para usufruir de condições especiais e inadiáveis de trabalho noutra Instituição;
+Objetivos, âmbito e qualidade das atividades previstas no PLS, incluindo, se for o caso, a qualidade das instituições ou equipas com quem se materializará colaboração durante o período de Licença;
+Necessidade de realizar atividades e, ou de criar condições pertinentes à consolidação da progressão na carreira;
+Necessidade de intensificar a continuação de determinada atividade, nomeadamente de investigação, por razões de oportunidade de publicação de resultados, de registo de patente, de construção de protótipo, etc.;
+7 - Os resultados do trabalho realizado durante a licença sabática, de acordo com o PLS, serão apresentados, no prazo de dois anos, ao Conselho Científico, o qual se pronunciará quanto ao nível de cumprimento dos objetivos do PLS, com base na apreciação previamente efetuada pelo Conselho do Departamento a que o requerente pertencer;
+8 - Quando a apreciação do Conselho Científico, referida no n.º 7, for desfavorável, o Conselho Executivo poderá determinar, ao docente, a reposição da quantia auferida em salários correspondentes ao período de licença sabática ou registar o incumprimento para efeitos de definição de prioridades na análise de futuros pedidos de licença sabática que o docente venha a submeter;
+9 - Os pedidos de licença sabática serão dirigidos ao Reitor da UNL, sendo entregues ao respetivo Presidente de Departamento, o qual, após audição do Conselho de Departamento, se pronunciará sobre os mesmos e os seriará, encaminhando-os para o Conselho Científico;
+10 - A primeira posição na seriação, referida no número anterior, poderá ser preenchida ex-aequo por um máximo de 1/10 do número dos professores de carreira do departamento, arredondado para o inteiro mais próximo;
+11 - Cabe ao Conselho Científico, com base em parecer da Comissão dos Assuntos Científicos, pronunciar-se sobre os pedidos de licença sabática, tendo presente a informação dos Departamentos;
+12 - Com base na apreciação do Conselho Científico, na disponibilidade de recursos para suprir eventuais carências de serviço docente resultantes da concessão de licenças sabáticas, na comparação do valor médio de licenças sabáticas não gozadas por docente e por departamento, calculado conforme indicado no n.º 16, na avaliação de desempenho (RAD) dos requerentes e na apreciação do relatório da última licença sabática, caso exista, o Conselho Executivo decidirá sobre os pedidos a submeter ao Reitor da UNL;
+13 - As licenças sabáticas reportam ao triénio ou sexénio transatos à data do pedido, consoante os casos, não sendo cumulativas;
+14 - O Conselho Executivo poderá, a título excecional e por conveniência de serviço, atestada pelo departamento do requerente, propor ao Reitor da UNL o diferimento de licenças sabáticas pelo prazo máximo de um ano;
+15 - A informação dos Presidentes de Departamento sobre os pedidos de licença sabática será apresentada através do impresso em anexo ao presente Regulamento;
+16 - O cálculo do valor médio de licenças sabáticas não gozadas por departamento será efetuado dividindo a diferença, entre o número de licenças sabáticas que todos os professores de carreira do departamento poderiam ter gozado e o número de licenças usufruídas, pelo número de professores de carreira do departamento.
+207046306
