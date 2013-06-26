@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2013-06-26, processo 01245/12
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01245/12
+
+**Data do Acordão:** 06/26/2013
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** VALENTE TORRÃO
+
+**Descritores:** TAXA; PROMOÇÃO; VINHO; AUXILIO DO ESTADO; VIOLAÇÃO; NOTIFICAÇÃO; COMISSÃO EUROPEIA; ÓNUS DE PROVA
+
+**Nº Convencional:** JSTA000P16022
+
+**Nº do Documento:** SA22013062601245
+
+**Data de Entrada:** 11/13/2012
+
+**Recorrente:** A..., LDA
+
+**Recorrido 1:** INST DA VINHA E DO VINHO, I.P.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A taxa de promoção do vinho, tendo sido criada essencialmente para financiar as atribuições do Instituto da Vinha e do Vinho, I.P., cobrada aos agentes do setor e representando mais de 62% do orçamento afeto ao financiamento dos serviços de coordenação geral do mesmo, ao não implicar à partida um auxílio concedido pelo Estado ou proveniente de recursos estatais, característica típica associada à qualificação dos auxílios, não estava sujeita a comunicação prévia no decurso do respetivo procedimento legislativo de criação.
+
+2º) - A Comissão concluiu, logo no início do procedimento de averiguação, que a parte da taxa de promoção do vinho afeta ao financiamento do IVV, I.P., não constituía um auxílio de Estado, tendo apenas considerado auxílio a parte referente aos auxílios à promoção e à publicidade do vinho português nos mercados dos outros Estados-Membros e de países terceiros e ao financiamento dos auxílios tratados na presente decisão (isto até 31.12.2006).”
+
+3º) De todo o modo, nem todos os auxílios carecem de notificação à Comissão, devendo os Estados-Membros proceder aos registos dos auxílios concedidos e que se enquadrem nos Regulamentos que estabeleçam auxílios “de minimis”.
+
+4º) Assim sendo, apesar de a Comissão não se ter pronunciado relativamente ao período posterior a 1 de Janeiro de 2007 (ou mesmo que venha a pronunciar-se em sentido idêntico ao das taxas do período anterior), a pretensão da recorrente nunca poderia proceder pois que sempre teria de alegar e provar que os auxílios concedidos – isto aceitando que estamos perante auxílios para os efeitos em causa nos autos – ultrapassavam os limites estabelecidos no Regulamento nº 1998/2006 acima citado.
