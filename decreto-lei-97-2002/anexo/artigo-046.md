@@ -52,18 +52,20 @@ c) Um representante dos consumidores da Região Autónoma dos Açores;
 
 d) Um representante dos consumidores da Região Autónoma da Madeira.
 
-3 - A designação dos membros do conselho tarifário é da competência das entidades referidas nos números anteriores, devendo ser efectuada nos 30 dias anteriores ao termo do mandato dos membros cessantes ou nos 30 dias subsequentes à vagatura.
+3 - Caso se verifique uma relação de domínio ou de grupo entre quaisquer entidades representadas referidas nos n.os 1 e 2, nos termos do artigo 21.º do Código dos Valores Mobiliários ou, ainda que não se verifique uma tal relação, se determine a existência de acionistas comuns com as quais se relacionem nesses termos, as referidas entidades não podem, no seu conjunto, designar mais do que dois representantes por secção do conselho tarifário.
 
-4 - A designação dos representantes referidos nas alíneas c), e), f), g), h) e i) do n.º 1 e c) e d) do n.º 2 é efectuada em reunião das entidades interessadas convocada pelo presidente do conselho de administração da ERSE.
+4 - A ERSE pode estabelecer, em regulamentação, as regras aplicáveis à designação, pelas entidades indicadas nos n.os 1 e 2, dos respetivos representantes, bem como as características destes, devendo observar, em qualquer caso, as regras seguidamente indicadas:
 
-3 - Caso se verifique uma relação de domínio ou de grupo entre quaisquer entidades representadas referidas nos n.os 1 e 2, nos termos do artigo 21.º do Código dos Valores Mobiliários, ou, ainda que não se verifique uma tal relação, se determine a existência de acionistas comuns com as quais se relacionem nesses termos, as referidas entidades não podem, no seu conjunto, designar mais do que dois representantes.
+a) Os representantes das entidades que exercem a sua atividade em regime de concessão de serviço público devem ser obrigatoriamente indicados pela ordem indicada nos n.os 1 e 2, até que seja atingido o limite máximo previsto no número anterior;
 
-4 - Caso se verifique que o número de representantes dos intervenientes no SEN e no SNGN, com exceção dos consumidores, excede o número de representantes dos consumidores, as entidades referidas nas alíneas c), j) e s) do n.º 1 e nas alíneas c) e d) do n.º 2 têm o direito de indicar, conjuntamente, o número de representantes necessário para que os representantes dos consumidores igualem numericamente os referidos representantes dos intervenientes no SEN e no SNGN.
+b) Os membros do conselho tarifário devem ser pessoas singulares e representar diretamente as entidades previstas nos n.os 1 e 2.
 
-5 - A designação dos membros do conselho tarifário é da competência das entidades representadas, sem prejuízo do disposto no número seguinte, devendo ser efetuada entre os 30 dias anteriores e os 30 dias subsequentes ao termo do mandato dos membros cessantes.
+5 - Caso se verifique que o número de representantes dos intervenientes no SEN e no SNGN, com exceção dos consumidores, excede o número de representantes dos consumidores, as entidades referidas nas alíneas c), j) e s) do n.º 1 e nas alíneas c) e d) do n.º 2 têm o direito de indicar, conjuntamente, o número de representantes necessário para que os representantes dos consumidores igualem numericamente, na secção respetiva, os referidos representantes dos intervenientes no SEN e no SNGN.
 
-6 - Nos casos previstos nas alíneas c), g), i), j), l), m), n), o), q), r) e s) do n.º 1 e no n.º 2, a designação dos representantes é feita em reunião de interessados convocada pelo presidente do conselho de administração da ERSE através de anúncio publicado no sítio da ERSE e num jornal de âmbito nacional, com a antecedência mínima de 15 dias relativamente à data da reunião.
+6 - A designação dos membros do conselho tarifário é da competência das entidades representadas, sem prejuízo do disposto no número seguinte, devendo ser efetuada entre os 30 dias anteriores e os 30 dias subsequentes ao termo do mandato dos membros cessantes.
 
-7 - No caso de correspondência, os membros do conselho tarifário podem ser os mesmos do conselho consultivo.
+7 - Nos casos previstos nas alíneas c), g), i), j), l), m), n), o), q), r) e s) do n.º 1 e no n.º 2, a designação dos representantes é feita em reunião de interessados convocada pelo presidente do conselho de administração da ERSE através de anúncio publicado no sítio da ERSE e num jornal de âmbito nacional, com a antecedência mínima de 15 dias relativamente à data da reunião.
 
-8 - A designação dos membros do conselho tarifário é feita por um período de três anos, renovável, sem prejuízo de os referidos membros poderem ser substituídos a qualquer momento pelas entidades que os designam.
+8 - No caso de correspondência, os membros do conselho tarifário podem ser os mesmos do conselho consultivo.
+
+9 - A designação dos membros do conselho tarifário é feita por um período de três anos, renovável, sem prejuízo de os referidos membros poderem ser substituídos a qualquer momento pelas entidades que os designam.

@@ -4,7 +4,7 @@
 
 1 - Antes da aprovação ou alteração de qualquer regulamento cuja emissão seja da sua competência, e sem prejuízo da consulta ao conselho consultivo ou ao conselho tarifário em razão das matérias da competência de cada um destes conselhos, a ERSE deve comunicar o procedimento em curso ao membro do Governo responsável pela área da energia, à Direção-Geral de Energia e Geologia (DGEG), às entidades concessionárias, licenciadas, aos comercializadores, às associações de consumidores de interesse genérico e ao público em geral, facultando-lhes o acesso aos textos respetivos e disponibilizando-os na sua página na Internet.
 
-2 - Para efeitos do número anterior, é fixado um prazo de 30 dias contínuos durante o qual os interessados podem emitir os seus comentários e apresentar sugestões.
+2 - Para efeitos do número anterior, é fixado um prazo de 30 dias durante o qual os interessados podem emitir os seus comentários e apresentar sugestões.
 
 3 - As entidades previstas no n.º 1 podem ter acesso às sugestões que tenham sido apresentadas, salvo se o seu autor declarar reserva de identificação manifestando expressamente a vontade que não seja divulgada a autoria do seu comentário ou sugestão.
 

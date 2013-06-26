@@ -1,12 +1,20 @@
 # Artigo 54.º
 
-### Estatuto do pessoal
+### Estatuto dos trabalhadores
 
-1 - O pessoal da ERSE está sujeito ao regime jurídico do contrato individual de trabalho, com as ressalvas previstas neste diploma, sendo abrangido pelo regime geral da segurança social.
+1 - Os trabalhadores da ERSE estão sujeitos ao regime jurídico do contrato individual de trabalho, nos termos estabelecidos no Código de Trabalho e sua regulamentação, bem como aos regulamentos internos previstos nos presentes Estatutos, sendo abrangido pelo regime geral da segurança social.
 
-2 - As condições de prestação e de disciplina do trabalho são definidas em regulamento próprio da ERSE, com observância das disposições legais imperativas do regime do contrato individual de trabalho e das normas relativas à negociação colectiva.
+2 - As condições de recrutamento, prestação e disciplina do trabalho são definidas em regulamento próprio da ERSE, aprovado pelo conselho de administração, com observância das disposições legais imperativas do regime jurídico do contrato individual de trabalho e das normas relativas à negociação coletiva.
 
-3 - O regulamento de carreiras e o regime retributivo do pessoal da ERSE carece de homologação dos Ministros das Finanças, da Economia e da Reforma do Estado e da Administração Pública.
+3 - O recrutamento dos trabalhadores da ERSE está sujeito a procedimento de tipo concursal, em conformidade com os seguintes princípios:
+
+a) Publicitação da oferta de emprego na página eletrónica da ERSE e na Bolsa de Emprego Público;
+
+b) Igualdade de condições e oportunidade dos candidatos;
+
+c) Aplicação de métodos e critérios objetivos e detalhados de avaliação e seleção;
+
+d) Fundamentação da decisão tomada.
 
 4 - A ERSE pode ser parte em instrumentos de negociação colectiva de trabalho.
 
@@ -18,4 +26,8 @@ b) Manter com as entidades referidas na alínea anterior qualquer espécie de v�
 
 c) Deter quaisquer interesses de natureza económica ou financeira nas entidades intervenientes nos sectores regulados.
 
-6 - Sem prejuízo do disposto no número anterior, os trabalhadores da ERSE podem, nos termos da lei e a título excecional, prestar funções em entidades intervenientes nos sectores regulados, por um período determinado, no âmbito do desenvolvimento de projetos especiais ou da formação em áreas com relevância para as atividades desenvolvidas pela ERSE.
+6 - O disposto no número anterior aplica-se a todos os prestadores de serviços relativamente aos quais possa existir conflito de interesses, designadamente quando se trate da prestação de serviços nas áreas jurídica e económico-financeira, cabendo ao conselho de administração aferir e acautelar a existência daquele conflito.
+
+7 - Sem prejuízo do disposto no n.º 5, os trabalhadores da ERSE podem, nos termos da lei, a título excecional e mediante autorização do conselho de administração, prestar funções em entidades intervenientes nos setores regulados, por um período determinado, no âmbito do desenvolvimento de projetos especiais ou da formação em áreas com relevância para as atividades desenvolvidas pela ERSE.
+
+8 - Os trabalhadores da ERSE podem, nos termos da lei, ser requisitados ou prestar funções em entidades da administração pública ou em instituições da União Europeia, mediante autorização do conselho de administração.

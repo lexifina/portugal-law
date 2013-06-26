@@ -6,7 +6,7 @@
 
 2 - O conselho de administração pode deliberar com a presença de dois dos seus membros, sendo um deles o seu presidente ou o substituto legal deste.
 
-3 - O conselho de administração pode delegar competências no seu presidente ou em qualquer outro membro, desde que a maioria inclua o voto favorável do presidente.
+3 - O conselho de administração pode delegar competências em qualquer um dos seus membros.
 
 4 - As votações não admitem abstenções.
 

@@ -2,8 +2,8 @@
 
 ### Mandato e estatuto
 
-1 - O mandato do fiscal único tem a duração de três anos e é renovável por iguais períodos mediante despacho dos membros do Governo competentes para a respectiva nomeação.
+1 - O mandato do fiscal único tem a duração de quatro anos, não sendo renovável, sem prejuízo de um anterior fiscal único poder ser designado para desempenhar cargos nos órgãos da ERSE decorridos quatro anos após a cessação do mandato anterior.
 
-2 - No caso de cessação do mandato, o fiscal único mantém-se no exercício das suas funções até à efectiva substituição, salvo declaração ministerial de cessação de funções.
+2 - No caso de cessação do mandato por decurso do prazo ou renúncia, o fiscal único mantém-se no exercício de funções até à efetiva substituição ou emissão de despacho de cessação de funções por parte dos membros do Governo responsáveis pelas áreas das finanças e da energia.
 
-3 - A remuneração do fiscal único é estabelecida por despacho conjunto dos Ministros das Finanças, da Economia e da Reforma do Estado e da Administração Pública, ouvida a Câmara dos Revisores Oficiais de Contas.
+3 - [Revogado].

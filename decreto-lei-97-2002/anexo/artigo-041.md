@@ -68,14 +68,20 @@ e) Um representante das empresas do sistema eléctrico da Região Autónoma dos 
 
 f) Um representante das empresas do sistema eléctrico da Região Autónoma da Madeira;
 
-3 - Caso se verifique uma relação de domínio ou de grupo entre quaisquer entidades representadas referidas nos n.os 1 e 2, nos termos do artigo 21.º do Código dos Valores Mobiliários, ou, ainda que não se verifique uma tal relação, se determine a existência de acionistas comuns com as quais se relacionem nesses termos, as referidas entidades não podem, no seu conjunto, designar mais do que dois representantes.
+3 - Caso se verifique uma relação de domínio ou de grupo entre quaisquer entidades representadas referidas nos n.os 1 e 2, nos termos do artigo 21.º do Código dos Valores Mobiliários, ou, ainda que não se verifique uma tal relação, se determine a existência de acionistas comuns com as quais se relacionem nesses termos, as referidas entidades não podem, no seu conjunto, designar mais do que dois representantes por secção do conselho consultivo.
 
-4 - Caso se verifique que o número de representantes dos intervenientes no SEN e no SNGN, com exceção dos consumidores, excede o número de representantes dos consumidores, as entidades referidas nas alíneas i), r) e y) do n.º 1 e c) e d) do n.º 2 têm o direito de indicar, conjuntamente, o número de representantes necessário para que os representantes dos consumidores igualem numericamente os referidos representantes dos intervenientes no SEN e no SNGN.
+4 - A ERSE pode estabelecer, em regulamentação, as regras aplicáveis à designação, pelas entidades indicadas nos n.os 1 e 2, dos respetivos representantes, bem como as características destes, devendo observar, em qualquer caso, as regras seguidamente indicadas:
 
-5 - A designação dos membros do conselho consultivo é da competência das entidades representadas, sem prejuízo do disposto no número seguinte, devendo ser efetuada entre os 30 dias anteriores e os 30 dias subsequentes ao termo do mandato dos membros cessantes.
+a) Os representantes das entidades que exercem a sua atividade em regime de concessão de serviço público devem ser obrigatoriamente indicados pela ordem indicada nos n.os 1 e 2, até que seja atingido o limite máximo previsto no número anterior;
 
-6 - Nos casos previstos nas alíneas i), j), k), n), q), r), t), u), v), w), x) e y) do n.º 1 e c) a f) do n.º 2, a designação dos representantes é feita em reunião de interessados convocada pelo presidente do conselho de administração da ERSE através de anúncio publicado no sítio da ERSE e num jornal de âmbito nacional, com a antecedência mínima de 15 dias relativamente à data da reunião.
+b) Os membros do conselho consultivo devem ser pessoas singulares e representar diretamente as entidades previstas nos n.os 1 e 2.
 
-7 - A designação dos membros do conselho consultivo é feita por um período de três anos, renovável, sem prejuízo de poderem ser substituídos a qualquer momento pelas entidades que os designam.
+5 - Caso se verifique que o número de representantes dos intervenientes no SEN e no SNGN, com exceção dos consumidores, excede o número de representantes dos consumidores, as entidades referidas nas alíneas i), r) e y) do n.º 1 e nas alíneas c) e d) do n.º 2 têm o direito de indicar, conjuntamente, o número de representantes necessário para que os representantes dos consumidores igualem numericamente, na secção respetiva, os referidos representantes dos intervenientes no SEN e no SNGN.
 
-8 - O representante do operador logístico de mudança de comercializador de eletricidade e de gás natural passa a integrar o conselho consultivo a partir da data em que a respetiva entidade representada inicie as suas funções, nos termos da legislação aplicável.
+6 - A designação dos membros do conselho consultivo é da competência das entidades representadas, sem prejuízo do disposto no número seguinte, devendo ser efetuada entre os 30 dias anteriores e os 30 dias subsequentes ao termo do mandato dos membros cessantes.
+
+7 - Nos casos previstos nas alíneas i), j), k), n), q), r), t), u), v), w), x) e y) do n.º 1 e c) a f) do n.º 2, a designação dos representantes é feita em reunião de interessados convocada pelo presidente do conselho de administração da ERSE através de anúncio publicado no sítio da ERSE e num jornal de âmbito nacional, com a antecedência mínima de 15 dias relativamente à data da reunião.
+
+8 - A designação dos membros do conselho consultivo é feita por um período de três anos, renovável, sem prejuízo de poderem ser substituídos a qualquer momento pelas entidades que os designam.
+
+9 - O representante do operador logístico de mudança de comercializador de eletricidade e de gás natural passa a integrar o conselho consultivo a partir da data em que a respetiva entidade representada inicie as suas funções, nos termos da legislação aplicável.

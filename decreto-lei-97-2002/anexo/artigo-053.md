@@ -6,4 +6,6 @@
 
 ### Serviços
 
-A ERSE dispõe de serviços de apoio administrativo e técnico, definidos por regulamento submetido a aprovação dos Ministros das Finanças, da Economia e da Reforma do Estado e da Administração Pública.
+1 - A ERSE dispõe de serviços de apoio técnico e administrativos necessários à prossecução das suas atribuições.
+
+2 - Os serviços e respetivas estruturas, organização e funcionamento constam de regulamento interno aprovado pelo conselho de administração.

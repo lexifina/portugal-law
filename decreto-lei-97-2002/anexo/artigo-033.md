@@ -12,7 +12,9 @@ c) Representar a ERSE em juízo e fora dele;
 
 d) Assegurar as relações da ERSE com a Assembleia da República, o Governo e demais entidades públicas ou privadas;
 
-e) Exercer as competências que lhe sejam delegadas pelo conselho de administração.
+e) Solicitar pareceres ao fiscal único, ao conselho consultivo e ao conselho tarifário;
+
+f) Exercer as competências que lhe sejam delegadas pelo conselho de administração.
 
 2 - O presidente pode delegar o exercício de parte das suas competências nos demais membros do conselho de administração.
 

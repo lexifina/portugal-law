@@ -44,7 +44,7 @@ r) Coordenar o desenvolvimento de todos os códigos de rede para os operadores d
 
 s) Supervisionar a cooperação técnica entre o gestor ou operador da rede nacional de transporte, os gestores ou operadores das redes de transporte da União Europeia e os gestores ou operadores das redes de transporte de países terceiros;
 
-t) Decidir os litígios que surjam entre os intervenientes nos sectores da eletricidade e do gás natural, no quadro das competências que lhe estão atribuídas na legislação e regulamentação aplicáveis;
+t) Promover a resolução dos litígios que surjam entre os intervenientes nos setores da eletricidade e do gás natural, no quadro das competências que lhe estão atribuídas na legislação e regulamentação aplicáveis;
 
 u) Promover a realização da arbitragem entre os operadores e os consumidores, nos termos da legislação aplicável, com vista à resolução de litígios relativos a matérias sobre as quais não esteja obrigada a decidir nos termos da alínea anterior;
 

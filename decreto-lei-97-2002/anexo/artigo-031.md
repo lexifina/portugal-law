@@ -18,22 +18,38 @@ e) Praticar todos os atos integrados na esfera das atribuições e competências
 
 f) Aprovar os regulamentos internos necessários ao exercício das suas atividades;
 
-g) Definir a organização dos serviços e os mapas do respetivo pessoal e proceder ao seu recrutamento;
+g) Definir a organização interna da ERSE e os mapas do respetivo pessoal, proceder aos seu recrutamento, aprovar as normas e os regulamentos internos de pessoal, do regime retributivo e de carreiras, de avaliação do desempenho, de proteção social e de organização e disciplina do trabalho;
 
 h) Exercer os poderes de direção, gestão e disciplina do pessoal;
 
-i) Elaborar os planos de atividades e os orçamentos, bem como os relatórios de atividades e contas;
+i) Elaborar os planos de atividades anuais e plurianuais, assegurando a respetiva execução, e elaborar os relatórios de atividades e as contas;
 
-j) Assegurar a elaboração dos pareceres, estudos e informações que sejam solicitados à ERSE no âmbito das suas atribuições e competências;
+j) Elaborar o orçamento anual e o respetivo plano plurianual e assegurar a respetiva execução;
 
-k) Designar os representantes da ERSE junto de outras entidades ou instituições;
+k) Elaborar a conta de gerência;
 
-l) Arrecadar, gerir as receitas e autorizar as despesas;
+l) Elaborar o balanço social, nos termos da legislação aplicável;
 
-m) Gerir o património da ERSE;
+m) Elaborar os planos e relatórios a enviar anualmente à Assembleia da República e ao Governo e assegurar a respetiva execução;
 
-n) Aceitar doações, heranças ou legados;
+n) Acompanhar e avaliar sistematicamente a atividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos;
 
-o) Praticar os demais atos de gestão corrente necessários ao bom funcionamento da ERSE;
+o) Assegurar a elaboração dos pareceres, estudos e informações que sejam solicitados à ERSE no âmbito das suas atribuições e competências;
 
-p) Tomar decisões no âmbito de processos de contraordenação que corram os seus termos ao abrigo do regime sancionatório do sector energético, incluindo as relativas à aplicação de coimas e sanções acessórias.
+p) Designar os representantes da ERSE junto de outras entidades ou instituições;
+
+q) Constituir mandatários, em juízo e fora dele, incluindo com a faculdade de substabelecer;
+
+r) Designar um secretário, a quem cabe certificar os atos e deliberações;
+
+s) Arrecadar, gerir as receitas e autorizar as despesas;
+
+t) Gerir o património da ERSE;
+
+u) Aceitar doações, heranças ou legados;
+
+v) Praticar os demais atos de gestão corrente necessários ao bom funcionamento da ERSE;
+
+w) Tomar decisões no âmbito de processos de contraordenação que corram os seus termos ao abrigo do regime sancionatório do sector energético, incluindo as relativas à aplicação de coimas e sanções acessórias.
+
+x) Exercer os demais poderes previstos na lei e nos presentes Estatutos que não estejam atribuídos a outro órgão da ERSE.

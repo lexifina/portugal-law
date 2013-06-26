@@ -2,6 +2,6 @@
 
 ### Arbitragem
 
-1 - Compete à ERSE fomentar a arbitragem para a resolução dos conflitos emergentes dos contratos entre as entidades intervenientes nos sectores regulados e os consumidores, designadamente entre estes e os comercializadores no âmbito do fornecimento de energia, assegurando aos consumidores os meios para a sua realização.
+1 - Compete à ERSE fomentar a arbitragem para a resolução de litígios emergentes dos contratos entre as entidades intervenientes nos setores regulados e os consumidores, designadamente entre estes e os comercializadores no âmbito do fornecimento de energia, assegurando aos consumidores os meios para a sua realização.
 
-2 - Na ausência de lei especial que enquadre a forma e os termos de funcionamento da arbitragem prevista neste artigo, aplicam-se as disposições relativas à resolução extrajudicial dos conflitos constantes da Lei dos Serviços Públicos Essenciais, aprovada pela Lei n.º 23/96, de 23 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, e 6/2011, de 10 de março.
+2 - A arbitragem referida no número anterior tem a natureza prevista no artigo 15.º da Lei n.º 23/96, de 23 de julho, e segue, subsidiariamente, os termos da lei da arbitragem voluntária previstos na Lei n.º 63/2011, de 14 de dezembro.

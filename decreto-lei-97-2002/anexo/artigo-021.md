@@ -6,7 +6,7 @@
 
 2 - Para efeitos do número anterior, os operadores sujeitos à regulação da ERSE devem manter adequados registos das queixas recebidas.
 
-3 - A ERSE pode recorrer à contratação de profissionais para a realização de auditorias com vista a proceder à inspeção dos registos de queixas, ficando aqueles obrigados a guardar sigilo profissional dos factos cujo conhecimento lhes advenha da realização das referidas auditorias.
+3 - (Revogado).
 
 4 - A ERSE pode igualmente ordenar a investigação das queixas ou reclamações apresentadas contra as entidades referidas no n.º 1, desde que aquelas se integrem no âmbito das suas competências.
 

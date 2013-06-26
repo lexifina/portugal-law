@@ -1,14 +1,14 @@
 ## Secção VI
 
-## Resolução de conflitos
+## Resolução de litígios
 
 # Artigo 20.º
 
-### Resolução de conflitos
+### Resolução de litígios
 
 1 - No exercício das suas competências em matéria de resolução de conflitos entre os operadores sujeitos à regulação da ERSE, ou entre eles e os seus clientes ou terceiros, cabe à ERSE:
 
-a) Efetuar ações de conciliação ou promover o recurso à arbitragem sempre que tal esteja previsto na lei ou mediante solicitação dos interessados;
+a) Efetuar ações de conciliação e mediação ou promover o recurso à arbitragem sempre que tal esteja previsto na lei ou mediante solicitação dos interessados;
 
 b) Tomar conhecimento das queixas dos clientes e adotar as providências necessárias, nos termos da lei.
 
