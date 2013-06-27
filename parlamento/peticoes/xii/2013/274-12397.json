@@ -1,0 +1,782 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12397",
+  "numero": "274",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-06-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-10-10",
+            "entidades": null,
+            "id": "96295",
+            "tipo": null,
+            "titulo": "Audição em 2013-10-10 com FAPAS - João Morais, GEOTA - João Joanaz de Melo, LPN - João Camargo, Movimento de Cidadãos de Defesa da Linha do Tua - Graciela Nunes, PST - Susana Damasceno, QUERCUS - Carla Graça"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Vila Flor"
+            ],
+            "nrOficio": "215/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2015-01-31",
+                "dataResposta": null,
+                "nrOficio": "27/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Murça"
+            ],
+            "nrOficio": "216/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-01-31",
+                "dataResposta": null,
+                "nrOficio": "28/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Mirandela"
+            ],
+            "nrOficio": "217/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-01-31",
+                "dataResposta": null,
+                "nrOficio": "29/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Carrazeda de Ansiães"
+            ],
+            "nrOficio": "218/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-01-31",
+                "dataResposta": null,
+                "nrOficio": "30/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Alijó"
+            ],
+            "nrOficio": "219/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-01-31",
+                "dataResposta": null,
+                "nrOficio": "31/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": "2014-01-29",
+            "entidades": [
+              "Conselho de Administração da EDP - Gestão da Produção de Energia, S.A."
+            ],
+            "nrOficio": "220/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "ICOMOS - Comissão Nacional Portuguesa do Conselho Internacional dos Monumentos e dos Sítios"
+            ],
+            "nrOficio": "221/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-01-31",
+                "dataResposta": null,
+                "nrOficio": "26/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "Conselho Diretivo da Agência Portuguesa do Ambiente, I.P."
+            ],
+            "nrOficio": "222/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-01-31",
+                "dataResposta": "2014-04-11",
+                "nrOficio": "24/CAOTPL",
+                "oficioResposta": "78/CAOTPL"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": "2014-01-13",
+            "entidades": [
+              "Comissão de Coordenação e Desenvolvimento Regional do Norte"
+            ],
+            "nrOficio": "223/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": null,
+            "entidades": [
+              "Direção da Agência de Desenvolvimento Regional do Vale do Tua"
+            ],
+            "nrOficio": "224/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-01-31",
+                "dataResposta": null,
+                "nrOficio": "25/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-11",
+            "dataResposta": "2014-05-05",
+            "entidades": [
+              "Dr. Orlando Borges - ex-Coordenador do Plano Nacional de Barragens de Elevado Potencial Hidroelétrico"
+            ],
+            "nrOficio": "79/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-25",
+            "dataResposta": "2013-12-20",
+            "entidades": [
+              "MIN. DO AMBIENTE, ORDENAMENTO DO TERRITÓRIO E ENERGIA"
+            ],
+            "nrOficio": "214/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-07-01",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "687235",
+                "obs": null,
+                "pag": [
+                  "2-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-07-05",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/055/2014-07-05/2?pgs=2-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-07-16",
+        "DataArquivo": "2014-07-01",
+        "DataBaixaComissao": "2013-06-26",
+        "DataEnvioPAR": "2014-07-03",
+        "DataReaberta": "2013-07-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-07-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3246684e3249344e5467774c5746684f444d744e4749794e6931684d7a5a684c544d314d7a4e6b4d6d4d774f5451775a6935515245593d&fich=aa7b8580-aa83-4b26-a36a-3533d2c0940f.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324d355a4467794d444d774c5451334f5451744e4452684e7931684d6d46684c5745324f444d784e7a41304d54426a4d7935775a47593d&fich=c9d82030-4794-44a7-a2aa-a683170410c3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4a694e7a4579597a42684c57466c4e4759744e4467344d433034595749314c545669593245304e7a526c4d7a5179595335515245593d&fich=2b712c0a-ae4f-4880-8ab5-5bca474e342a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3251334d6a67785a6a637a4c54677a4f4463744e4467304d6930344d7a42694c575578593249304e546c6b597a49795a6935775a47593d&fich=d7281f73-8387-4842-830b-e1cb459dc22f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a55335a444e6a4d54466d4c5749354d474d744e445a6c595331684e6d4d324c5759795a6d4d325a5463794f475131595335515245593d&fich=57d3c11f-b90c-46ea-a6c6-f2fc6e728d5a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4e6a4d6a6b794f446b334c5445774d444d744e444d795a4330355a5456694c5449774d6d526d4f54593459545532596935775a47593d&fich=3c292897-1003-432d-9e5b-202df968a56b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a45794d444d784e54526d4c54597a5a474d744e44646b597931684f5463324c544d794d324d324f475532596a55355a4335515245593d&fich=1203154f-63dc-47dc-a976-323c68e6b59d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6c6b4e6a55324f5752684c5467344d7a41744e475a6b4e7931694d4441794c574935596d4a6c4f445669596a67784f4335775a47593d&fich=9d6569da-8830-4fd7-b002-b9bbe85bb818.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a63324e6d4d304f4749334c57466a5a546b744e4749304d793168597a686d4c544e6d4d44566b595459784f5751344d4335515245593d&fich=766c48b7-ace9-4b43-ac8f-3f05da619d80.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a637759324534595745304c5451794e4467744e4755344f5331684f474a6c4c54466a4d54646a4e5755334d3255305a6935775a47593d&fich=70ca8aa4-4248-4e89-a8be-1c17c5e73e4f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a55304d7a4d314f4445324c54646c4f4463744e4745354e5330354d5455784c5752694d4445304d6a51774e445978596935515245593d&fich=54335816-7e87-4a95-9151-db014240461b.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a67334f445a6c4e4459324c545a6d595459744e47517a4d7930355a6d566d4c574a6a4e6d4a6b5a545a6c4d6a64684d4335775a47593d&fich=8786e466-6fa6-4d33-9fef-bc6bde6e27a0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a426c4d6a4d32596d526c4c5455304f5745744e44526a4f5331694d6a557a4c54417a5a44457a5a57517a595441774e6935775a47593d&fich=0e236bde-549a-44c9-b253-03d13ed3a006.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a42694e6d55344e6a6b354c546731597a67744e44566b597931694e6a457a4c5759344e446b7a4f54513559324a6c5a4335775a47593d&fich=0b6e8699-85c8-45dc-b613-f8493949cbed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-07-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6777595751355a444a6d4c54417a595451744e4467784e7930355a474d784c5745354d4751784e4746694f4445344e5335775a47593d&fich=80ad9d2f-03a4-4817-9dc1-a90d14ab8185.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3245334d324d794e6d49344c54646b4f4745744e474669595330345a6a46694c54457a4e574d78597a5a684e3249794d4335515245593d&fich=a73c26b8-7d8a-4aba-8f1b-135c1c6a7b20.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6b78595755344e545a6a4c544d354d6d49744e4451324e7931694f57566b4c5445794e6a526c4e7a6c6c59575a6a4e6935775a47593d&fich=91ae856c-392b-4467-b9ed-1264e79eafc6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a45774d7a45344e6a466a4c5451334d3251744e474a6d4d5331694e44426d4c5445304e6d52694e4463324d3251794e7935515245593d&fich=1031861c-473d-4bf1-b40f-146db4763d27.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-07-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a49344e6a49324d54686d4c544e6c596d4d744e44566b596931684d574d334c546c6c59325a6d4e6d49794d7a59344e6935775a47593d&fich=2862618f-3ebc-45db-a1c7-9ecff6b23686.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a41774d5446694e5463304c5442684e6a45744e4441355a5330354e324d774c5449325954686d4e54426c5a4445774e6935775a47593d&fich=0011b574-0a61-409e-97c0-26a8f50ed106.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a646d4d7a6335597a41794c574d354e4459744e44457859693035595459354c5749794d3259334d5746695a4445304d6935515245593d&fich=7f379c02-c946-411b-9a69-b23f71abd142.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a466c4e4759784d7a51774c5759355a5751744e4755345a693169597a45334c54686a5954466d596d4e6c4d6d59315a4335775a47593d&fich=1e4f1340-f9ed-4e8f-bc17-8ca1fbce2f5d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-07-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3246684e575177593259354c5449344d6a45744e47597a4d693169595449314c546c6c5a6a686d5a6d51314d6d45774e5335515245593d&fich=aa5d0cf9-2821-4f32-ba25-9ef8ffd52a05.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-01-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c324d775a544d354e6a526a4c5755774d4449744e4463794d6931684d54646d4c5463784d7a63324e4459784f5449304d4335775a47593d&fich=c0e3964c-e002-4722-a17f-713764619240.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a45334f4452684d7a646c4c5745774d446b744e4455334e5330354e54426a4c5467314d4467324e7a686d595749314f5335775a47593d&fich=1784a37e-a009-4575-950c-8508678fab59.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c3251784f546b345a444d7a4c574a694f4755744e444e695a5330345a574d7a4c5442694e32566d4d4755794e7a4268595335775a47593d&fich=d1998d33-bb8e-43be-8ec3-0b7ef0e270aa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6c6d5a4749314e6d517a4c546b314d5749744e4442694d7930345a4759784c54566d4e6a526a4e44453059575530595335775a47593d&fich=9fdb56d3-951b-40b3-8df1-5f64c414ae4a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a55795954566b4e5755794c546c6c4d6a55744e4455305a4330344d6a63324c5441304d7a4a6b5a574e685a6a4d324e4335775a47593d&fich=52a5d5e2-9e25-454d-8276-0432decaf364.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6b7a597a4d785a6a426c4c575532595441744e44566b4d5331685a6d566d4c574d774d3249324d546b335a6a6379595335775a47593d&fich=93c31f0e-e6a0-45d1-afef-c03b6197f72a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-07-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a4533597a6c694d5745344c5463314d7a59744e4445794e4330345a6d5a6d4c5467315a54526c4d6d4a6c4d544d345a6935775a47593d&fich=17c9b1a8-7536-4124-8fff-85e4e2be138f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a6c6c4d474e6c596a67774c575931595449744e44466a5a5331684e6a63324c575132596a45314e5459335a5446694e6935775a47593d&fich=9e0ceb80-f5a2-41ce-a676-d6b15567e1b6.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-07-16",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": null,
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-01-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-06-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a55355a6d5a6d5932466c4c54526a4f5749744e4752695a4330345a4463314c574a6b4e3246695a4456685a6d566c4e4335775a47593d&fich=59fffcae-4c9b-4dbd-8d75-bd7abd5afee4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38926",
+      "38227"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:06:58:833&drc=00:02:44:166"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão imediata das obras da barragem de Foz Tua; Recomenda ao Governo a suspensão das obras da barragem de Foz Tua; Manifesto pelo Vale do Tua.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:09:55:870&drc=00:03:39:471"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/19?pgs=19&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão imediata das obras da barragem de Foz Tua; Recomenda ao Governo a suspensão das obras da barragem de Foz Tua; Manifesto pelo Vale do Tua.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:14:22:090&drc=00:03:00:511"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão imediata das obras da barragem de Foz Tua; Recomenda ao Governo a suspensão das obras da barragem de Foz Tua; Manifesto pelo Vale do Tua.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:17:31:799&drc=00:03:25:175"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão imediata das obras da barragem de Foz Tua; Recomenda ao Governo a suspensão das obras da barragem de Foz Tua; Manifesto pelo Vale do Tua.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:25:02:164&drc=00:02:51:230"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196743",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão imediata das obras da barragem de Foz Tua; Recomenda ao Governo a suspensão das obras da barragem de Foz Tua; Manifesto pelo Vale do Tua.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12397",
+    "PetAssunto": "Manifesto pelo Vale do Tua.",
+    "PetDataEntrada": "2013-06-27",
+    "PeticoesAssociadas": null,
+    "PetId": "12397",
+    "PetLeg": "XII",
+    "PetNr": "274",
+    "PetNrAssinaturas": "5484",
+    "PetNrAssinaturasInicial": "5484",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1950",
+        "obs": null,
+        "pag": [
+          "18-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-01-09",
+        "pubLeg": "XII",
+        "pubNr": "35",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/18?pgs=18-24&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "639522",
+        "obs": null,
+        "pag": [
+          "22-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-20",
+        "pubLeg": "XII",
+        "pubNr": "197",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/197/2013-07-20/22?pgs=22-23&org=PLC"
+      }
+    ]
+  }
+}
