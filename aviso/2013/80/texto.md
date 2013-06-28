@@ -1,0 +1,4 @@
+Aviso n.º 80/2013
+Por ordem superior se torna público que se encontram cumpridas as formalidades exigidas na República Portuguesa e na República Federativa do Brasil para a entrada em vigor do Acordo que Altera o Acordo sobre Segurança Social ou Seguridade Social entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil, assinado em Brasília em 9 de agosto de 2006.
+O referido Acordo foi aprovado pela Resolução da Assembleia da República nº 6/2009, de 9 de janeiro de 2009 e publicado no Diário da República, 1.ª série, n.º 40, de 26 de fevereiro de 2009, tendo entrado em vigor a 1 de maio de 2013, na sequência das notificações a que se refere o seu Artigo 3º.
+Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas, 14 de junho de 2013. - O Diretor-Geral, João Maria Rebelo de Andrade Cabral.
