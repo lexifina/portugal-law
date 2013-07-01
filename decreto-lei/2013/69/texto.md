@@ -1,0 +1,64 @@
+Decreto-Lei n.º 69/2013
+de 17 de maio
+A reorganização da rede hospitalar figura entre as medidas estratégicas e prioritárias do XIX Governo Constitucional para a área da saúde, prosseguindo uma política de avaliação de oportunidades de fusão e concentração de serviços que revelem sobreposição de capacidades instaladas.
+Neste domínio e através de uma visão integrada e racional, pretende-se concretizar maior equidade territorial, levando a cabo uma utilização mais racional e eficiente dos recursos disponíveis.
+Tendo em conta o atual contexto económico-financeiro do País, o período de crise e austeridade que Portugal atravessa, impõe-se desenvolver processos de centralização de gestão de unidades hospitalares, em territórios geográficos com caraterísticas afins, como forma de racionalização e adequação de meios, redução imediata de custos, criação de sinergias, obtenção de maior eficácia, eficiência e efetividade na operacionalização de objetivos únicos para os cuidados hospitalares da região.
+Na região do Algarve atentas as caraterísticas demográficas e sócio económicas da população residente, a tipologia de afluência da população deslocalizada no Algarve, a capacidade instalada nos atuais hospitais, as vias de acesso dos utentes e a estratégia de gestão loco-regional versus a nacional, aconselham à criação de um centro hospitalar que integre o Centro Hospitalar do Barlavento Algarvio, E.P.E., e o Hospital de Faro, E.P.E.
+As mais-valias decorrentes da criação do novo Centro Hospitalar do Algarve, E.P.E., são múltiplas e situam-se aos níveis assistencial, de qualidade clínica, organizacional e gestionário, com particular enfoque nas vertentes económica-financeira, designadamente, de racionalização e adequação de atos clínicos e referenciação de doentes.
+Neste contexto, o presente decreto-lei procede à criação do Centro Hospitalar do Algarve, E.P.E., implementando um novo modelo organizacional para esta região, com vista à otimização dos recursos e consequente melhoria da prestação de cuidados de saúde à população.
+Assim:
+Ao abrigo do disposto no n.º 3 do artigo 18.º do regime jurídico da gestão hospitalar, aprovado pela Lei n.º 27/2002, de 8 de novembro, nos artigos 24.º e 33.º do Decreto-Lei n.º 558/99, de 17 de dezembro, republicado em anexo ao Decreto-Lei n.º 300/2007, de 23 de agosto, e alterado pelas Leis n.os 64-A/2008, de 31 de dezembro, e 55-A/2010, de 31 de dezembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+1 - É criado com a natureza de entidade pública empresarial o Centro Hospitalar do Algarve, E.P.E., por fusão do Centro Hospitalar do Barlavento Algarvio, E.P.E., e do Hospital de Faro, E.P.E., constante do anexo ao presente decreto-lei, que dele faz parte integrante.
+2 - Os estatutos do Centro Hospitalar do Algarve, E.P.E., são os constantes do anexo II ao Decreto-Lei n.º 233/2005, de 29 de dezembro, republicado em anexo ao Decreto-Lei n.º 244/2012, de 9 de novembro, com as especificidades estatutárias que constam do anexo ao presente decreto-lei.
+3 - A extinção do Centro Hospitalar do Barlavento Algarvio, E.P.E., e do Hospital de Faro, E.P.E., opera-se nos termos do presente diploma, com dispensa de todas as formalidades legais, na data da entrada em vigor do presente decreto-lei.
+Artigo 2.º
+Sucessão
+O Centro Hospitalar do Algarve, E.P.E, sucede ao Centro Hospitalar do Barlavento Algarvio, E.P.E., e ao Hospital de Faro, E.P.E., em todos os direitos e obrigações, independentemente de quaisquer formalidades.
+Artigo 3.º
+Capital estatutário
+1 - O capital estatutário do Centro Hospitalar do Algarve, E.P.E, é o fixado no anexo ao presente decreto-lei.
+2 - O capital estatutário do Centro Hospitalar do Algarve, E.P.E, pode ser realizado ou aumentado por entradas em espécie através dos bens imóveis pertencentes ao domínio privado do Estado atualmente afetos ao Centro Hospitalar do Barlavento Algarvio, E.P.E., e ao Hospital de Faro, E.P.E, que ficam afetos ao Centro Hospitalar do Algarve, E.P.E., até a realização das entradas em espécie.
+3 - Para efeitos do número anterior, deve ser realizada uma avaliação prévia pela Direção-Geral do Tesouro e Finanças.
+Artigo 4.º
+Registo
+O presente decreto-lei e o seu anexo constituem título bastante para todos os efeitos legais, designadamente os de registo.
+Artigo 5.º
+Transição de pessoal
+1 - Os trabalhadores em funções públicas que, à data da entrada em vigor do presente decreto-lei, pertencem ao mapa de pessoal do Centro Hospitalar do Barlavento Algarvio, E.P.E., e do Hospital de Faro, E.P.E., transitam para o Centro Hospitalar do Algarve, E.P.E, sendo garantida a manutenção integral do respetivo estatuto jurídico.
+2 - O disposto no número anterior não prejudica a aplicação das regras gerais de mobilidade e racionalização de efetivos em vigor para os trabalhadores que exercem funções públicas, designadamente as constantes da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, 64-B/2011, de 30 de dezembro, e do Decreto-Lei n.º 200/2006, de 25 de outubro, com as necessárias adaptações.
+3 - É fixado como critério geral e abstrato de seleção do pessoal a que se refere o n.º 1 o exercício de funções que corresponda às atribuições e competências transferidas para o Centro Hospitalar do Algarve, E.P.E.
+4 - Os trabalhadores a que se refere o n.º 1 podem, a todo o tempo, optar pela celebração de contrato de trabalho com o Centro Hospitalar do Algarve, E.P.E, individual e definitivamente, nos termos do Código do Trabalho e demais legislação laboral, mediante acordo escrito com o conselho de administração, sem sujeição a período experimental.
+5 - A publicação da celebração do contrato de trabalho no Diário da República implica a cessação do vínculo de direito público, data em que o contrato de trabalho celebrado com o Centro Hospitalar do Algarve, E.P.E., produz efeitos.
+6 - Mantêm-se válidos os estágios e cursos de especialização a decorrer à data da entrada em vigor do presente decreto-lei.
+Artigo 6.º
+Regulamento interno
+O regulamento interno do Centro Hospitalar do Algarve, E.P.E., deve ser elaborado e submetido a homologação do membro do Governo responsável pela área da saúde no prazo de 120 dias a contar da data de entrada em vigor do presente decreto-lei.
+Artigo 7.º
+Regime aplicável
+Em tudo o que não se encontre especialmente previsto no presente decreto-lei, aplica-se ao Centro Hospitalar do Algarve, E.P.E., com as necessárias adaptações, o regime constante do Decreto-Lei n.º 233/2005, de 29 de dezembro, republicado em anexo ao Decreto-Lei n.º 244/2012, de 9 de novembro.
+Artigo 8.º
+Norma transitória
+1 - Com a entrada em vigor do presente decreto-lei cessam automaticamente os mandatos dos membros dos conselhos de administração e dos órgãos de fiscalização e de direção técnica das unidades de saúde agora extintas, mantendo-se os respetivos titulares em gestão corrente até à nomeação dos novos titulares.
+2 - Cessam, ainda, todas as comissões de serviço dos titulares dos órgãos de direção e chefia das mesmas unidades de saúde agora extintas, mantendo-se os respetivos titulares em exercício de funções até à designação dos novos titulares, nos termos previstos no Código do Trabalho.
+3 - O valor do contrato-programa para 2013 do Centro Hospitalar do Algarve, E.P.E., constituído nos termos do presente decreto-lei não pode exceder a soma do valor dos orçamentos previstos para 2013 para o Centro Hospitalar do Barlavento Algarvio, E.P.E., e do Hospital de Faro, E P.E.
+4 - Para efeitos do disposto no número anterior o Centro Hospitalar do Algarve, E.P.E., deve apresentar no prazo de 90 dias a contar da data da entrada em vigor do presente decreto-lei, o novo orçamento referente ao ano de 2013.
+5 - Durante o prazo referido no número anterior a Administração Central do Sistema de Saúde, I.P., adianta mensalmente o valor correspondente ao adiantamento mensal devido por conta dos contratos-programas do Centro Hospitalar do Barlavento Algarvio, E.P.E., e do Hospital de Faro, E.P.E., tendo como referência os valores previstos para 2013.
+Artigo 9.º
+Norma revogatória
+São revogados:
+a) A alínea a) do n.º 1 do artigo 1.º, o n.º 3 do artigo 3.º do Decreto-Lei n.º 180/2008, de 26 de agosto, bem como o anexo ao mesmo decreto-lei na parte relativa ao Hospital de Faro, E.P.E.;
+b) O mapa III do anexo I ao Decreto-Lei n.º 233/2005, de 29 de dezembro, republicado em anexo ao Decreto-Lei n.º 244/2012, de 9 de novembro, na parte relativa ao Centro Hospitalar do Barlavento Algarvio, E.P.E.
+Artigo 10.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia 1 de julho de 2013.
+Visto e aprovado em Conselho de Ministros de 17 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
+Promulgado em 10 de maio de 2013.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 15 de maio de 2013.
+O Primeiro-Ministro, Pedro Passos Coelho.
+ANEXO
+(a que se refere o n.º 1 do artigo 3.º)
+(ver documento original)
