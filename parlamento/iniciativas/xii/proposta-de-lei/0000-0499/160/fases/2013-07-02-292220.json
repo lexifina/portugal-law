@@ -1,0 +1,230 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "160",
+    "id": "37827",
+    "titulo": "Cria a Comissão para o Acompanhamento dos Auxiliares da Justiça."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-07-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "31646",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-07-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-07-02",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-08-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Portuguesa dos Administradores Judiciais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5467314d5755355979316b4d44457a4c5451784e3245744f445a694d5330795a6a5a684d54526b4f5455775a474d756347526d&fich=a1851e9c-d013-417a-86b1-2f6a14d950dc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-09-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Câmara dos Solicitadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a6a597a4e54566c597930324d5449794c5451784e324974595459324f4331694e444e695a6a55344d7a45344e7a4d756347526d&fich=1f6355ec-6122-417b-a668-b43bf5831873.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-08-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833595445335954497a4d4330795954686a4c54517a4e54637459546b314d5330335a54426c4e324d315932526b4e3245756347526d&fich=7a17a230-2a8c-4357-a951-7e0e7c5cdd7a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-09-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d7a4d785a4759334f4330324e44677a4c5451344f5459744f4467354f4330774e324d774e7a637a593259774d6a55756347526d&fich=e331df78-6483-4896-8898-07c0773cf025.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-10-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e57497a4f4455304d5330324e544e684c54517a4e6d597459546b7a4e79316d4e6d497a4e7a6b314d6d4933596a597555455247&fich=e5b38541-653a-436f-a937-f6b37952b7b6.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-08-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4e54426c4e5459774e69316d4e324d304c5452684e5749744f54526d4d533078596a4131596a67325a475a6b4e5755756347526d&fich=c50e5606-f7c4-4a5b-94f1-1b05b86dfd5e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-09-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e5452695a44646b5a69316c597a5a684c54513459545174596d52685a4331695a445a694d475a6c5932466a4e324d756347526d&fich=f54bd7df-ec6a-48a4-bdad-bd6b0fecac7c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-08-02"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-08-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-09-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2013-10-24"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2013-09-04"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa dos Administradores Judiciais em 2013-08-09"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-07-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-07-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-07-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2013-07-30"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2013-07-30"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa dos Administradores Judiciais em 2013-07-30"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "67-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-12",
+            "pubLeg": "XII",
+            "pubNr": "188",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/188/2013-09-12/67?pgs=67-79&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "67-79"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-12",
+            "pubLeg": "XII",
+            "pubNr": "188",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/188/2013-09-12/67?pgs=67-79&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1554",
+            "motivoCessacao": null,
+            "nome": "Filipe Neto Brandão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-09-11",
+            "dataRemessa": "2013-09-11",
+            "numeroOficio": "1064/XII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2013-07-02",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292220",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
