@@ -2,7 +2,7 @@
 
 ### Classificação do 2.º ciclo
 
-1 - No final do 2.º ciclo, o conselho pedagógico delibera sobre a aptidão dos auditores de justiça, em função da sua adequação e aproveitamento para o exercício das funções de magistrado, com base, entre outros elementos, nos relatórios e demais resultados de avaliação a que se referem os n.os 2 e 3 do artigo 52.º e n.os 1 e 2 do artigo anterior.
+1 - No final do 2.º ciclo, o conselho pedagógico delibera sobre a aptidão dos auditores de justiça, em função da sua adequação e aproveitamento para o exercício das funções de magistrado, com base, entre outros elementos, nos relatórios e demais resultados de avaliação a que se referem os n.os 2 a 4 do artigo 52.º e o artigo anterior. e, entre outros elementos, nos relatórios e demais resultados de avaliação a que se referem os n.os 2 e 3 do artigo 52.º e n.os 1 e 2 do artigo anterior.
 
 2 - Têm aproveitamento os auditores de justiça que obtenham classificação igual ou superior a 10 valores.
 

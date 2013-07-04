@@ -8,13 +8,13 @@
 
 3 - O contrato referido no número anterior não confere em nenhum caso a qualidade de funcionário ou agente.
 
-4 - Os candidatos habilitados que sejam funcionários ou agentes do Estado, de institutos públicos ou de entidades públicas empresariais têm direito a frequentar o curso de formação teórico-prática em regime de requisição, a qual não depende da autorização do organismo ou serviço de origem.
+4 - Os candidatos habilitados que sejam trabalhadores em funções públicas, de institutos públicos ou de entidades públicas empresariais têm direito a frequentar o curso de formação teórico-prática em regime de comissão de serviço, a qual não depende da autorização do organismo ou serviço de origem.
 
-5 - A frequência do curso de formação teórico-prática confere ao auditor de justiça o direito a receber uma bolsa de formação, paga em 14 mensalidades, de valor mensal correspondente a 50 % do índice 100 da escala indiciária para as magistraturas nos tribunais judiciais ou, em caso de requisição e por opção do auditor, à remuneração do cargo de origem, excluídos suplementos devidos pelo exercício efectivo das respectivas funções.
+5 - A frequência do curso de formação teórico-prática confere ao auditor de justiça o direito a receber uma bolsa de formação de valor mensal correspondente a 50 % do índice 100 da escala indiciária para as magistraturas nos tribunais judiciais, paga segundo o regime aplicável aos magistrados em efetividade de funções, ou, em caso de comissão de serviço e por opção do auditor, à remuneração da categoria ou cargo de origem, excluídos suplementos devidos pelo exercício efetivo das respetivas funções.
 
 6 - As férias a que o auditor de justiça tem direito só podem ser gozadas no período das férias judiciais, fora dos períodos de formação.
 
-7 - A desistência do curso de formação teórico-prática, a exclusão e a aplicação da pena de expulsão determinam a perda do estatuto de auditor de justiça, a extinção do contrato de formação ou a cessação da requisição, consoante o caso, e a extinção do direito à bolsa de formação.
+7 - A desistência do curso de formação teórico-prática, a exclusão e a aplicação da pena de expulsão determinam a perda do estatuto de auditor de justiça, a extinção do contrato de formação ou a cessação da comissão de serviço, consoante o caso, e a extinção do direito à bolsa de formação.
 
 8 - Nos casos referidos no número anterior, os auditores de justiça que se encontrem na situação prevista no n.º 4 retomam os seus cargos ou funções, com desconto do tempo de frequência na antiguidade relativa ao cargo de origem, salvo se a desistência for considerada justificada por despacho do director do CEJ.
 

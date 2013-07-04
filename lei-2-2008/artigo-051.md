@@ -14,11 +14,11 @@ d) Assistir às diversas diligências processuais, em especial no domínio da pr
 
 e) Assistir às deliberações dos órgãos jurisdicionais.
 
-2 - O 2.º ciclo compreende estágios de curta duração junto de entidades e instituições não judiciárias, com actividade relevante para o exercício de cada magistratura.
+2 - O 2.º ciclo compreende estágios de curta duração junto de entidades e instituições não judiciárias, com atividade relevante para o exercício de cada magistratura, ou ações de formação de caráter prático organizadas em parceria com tais entidades ou instituições, a decorrer preferencialmente nos respetivos serviços.
 
-3 - Os estágios previstos no número anterior têm uma duração mínima de três semanas e cada auditor de justiça frequenta, no mínimo, dois estágios, não devendo a soma dos estágios exceder quatro meses.
+3 - Os estágios e ações previstos no número anterior têm duração variável, ajustada ao cumprimento dos respetivos objetivos pedagógicos, não devendo a sua soma exceder dois meses.
 
-4 - Os auditores de justiça que ingressaram no curso ao abrigo do disposto na segunda parte da alínea c) do artigo 5.º podem ser dispensados da frequência dos estágios previstos no n.º 2, por deliberação do conselho pedagógico, sob proposta do director.
+4 - Os auditores de justiça que ingressaram no curso ao abrigo do disposto na segunda parte da alínea c) do artigo 5.º podem ser dispensados da frequência dos estágios e ações previstos no n.º 2, por deliberação do conselho pedagógico, sob proposta do diretor.
 
 5 - O 2.º ciclo pode compreender:
 

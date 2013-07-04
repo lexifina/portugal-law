@@ -2,8 +2,8 @@
 
 ### Coordenadores da formação nos tribunais
 
-1 - O 2.º ciclo do curso de formação teórico-prática e o acompanhamento pelo CEJ da fase de estágio organizam-se a nível de distrito judicial, quanto aos tribunais judiciais, e por área de jurisdição dos tribunais centrais, quanto aos tribunais administrativos e fiscais.
+1 - O 2.º ciclo do curso de formação teórico-prática e o acompanhamento pelo CEJ da fase de estágio organizam-se por área de competência dos tribunais da Relação, quanto aos tribunais judiciais, e por área de jurisdição dos tribunais centrais administrativos, quanto aos tribunais administrativos e fiscais.
 
-2 - Em cada distrito judicial ou área de jurisdição administrativa e fiscal, consoante o caso, a formação é coordenada por magistrados, designados coordenadores distritais e coordenadores regionais, respectivamente.
+2 - Em cada área de competência dos tribunais da Relação ou área de jurisdição dos tribunais centrais administrativos, consoante o caso, a formação é coordenada por magistrados, designados coordenadores regionais.
 
 3 - Os coordenadores referidos no número anterior são nomeados em comissão de serviço ou designados, em regime de acumulação, com redução de serviço, pelo período de três anos, renovável, sob proposta do director, pelos Conselhos Superiores da Magistratura, dos Tribunais Administrativos e Fiscais e do Ministério Público, conforme o caso.
