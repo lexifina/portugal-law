@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "162",
+  "id": "37837",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-07-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a677a4d446c695a4449744e6a6b344f533030593245344c546b7a4e4751744e6d46694e7a426c5a4445315a5445324c6e426b5a673d3d&fich=28309bd2-6989-4ca8-934d-6ab70ed15e16.pdf&Inline=true",
+        "anexoNome": "Ofício da ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4745314d4449345a6a51744e32466b4f5330304d5446694c5745784d4745744f575a6b5a6d5a6d4d444a694d324a6b4c6e426b5a673d3d&fich=8a5028f4-7ad9-411b-a10a-9fdfff02b3bd.pdf&Inline=true",
+        "anexoNome": "Anteprojeto"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d57517a5a44686c5a4751745a6a49784f5330304d7a67784c57466b4e6a55744f444d304e7a63324d54686c4f4445334c6d527659773d3d&fich=1d3d8edd-f219-4381-ad65-83477618e817.doc&Inline=true",
+        "anexoNome": "Excerto do Diário da ALRAA"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Assembleia Legislativa da Região Autónoma dos Açores",
+      "sigla": "A"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37837",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e445932596a49345a474d745a47566c4d6930304d6a45334c546b354f474d744f444a6d4e4749354e47566d5a6a6b784c6d527659773d3d&fich=466b28dc-dee2-4217-998c-82f4b94eff91.doc&Inline=true",
+    "IniNr": "162",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o Regime do Referendo Regional.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
