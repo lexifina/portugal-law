@@ -1,0 +1,15 @@
+Edital n.º 671/2013
+Plano Diretor Municipal de Torres Vedras - Proposta de alteração regulamentar
+Dr. Carlos Manuel Soares Miguel, Presidente da Câmara Municipal de Torres Vedras:
+Torna público, para cumprimento do disposto no artigo 130.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15/11, e no artigo 91.º da Lei n.º 169/99, de 18 de setembro, ambos na sua atual redação, que a câmara, em sua reunião ordinária de 18/06/2013, tomou a seguinte deliberação:
+1 - Aprovar a proposta de alteração ao Plano Diretor Municipal de Torres Vedras, nos termos e de acordo com os fundamentos constantes da proposta de alteração regulamentar, que se anexa;
+2 - Dar início ao período de discussão pública para recolha de reclamações, observações ou sugestões, nos termos do n.º 4 do Artigo 77.º do regime jurídico dos instrumentos de gestão territorial, na redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, por um período de 30 dias, com início 5 dias após a publicação no Diário da República.
+3 - Suspender os procedimentos de informação prévia, licenciamento ou comunicação prévia cuja apreciação incida sobre qualquer das disposições alteradas pelo procedimento em título, a partir da data de início do período de discussão pública e até à data de entrada em vigor da alteração ao Plano, por força do n.º 1 do artigo 117.º do Decreto-Lei n.º 380/99, de 22/09, na sua atual redação;
+4 - Excecionar, ao referido no número anterior, os pedidos instruídos com informação prévia favorável e vinculativa (1 ano), por força do n.º 4 do artigo 17.º do Regime Jurídico da Urbanização e da Edificação, e os pedidos referentes a obras de urbanização ou obras de alteração, nos termos do n.º 4 do artigo 117.º do Decreto-Lei n.º 380/99, de 22/09, na sua atual redação;
+5 - A suspensão apenas afeta os procedimentos de informação prévia, de licenciamento ou de comunicação prévia cujos pedidos teriam, ao abrigo das novas regras urbanísticas, uma decisão diferente daquela que se impõe face às regras urbanísticas em vigor.
+Mais torna público que o plano, acompanhado pela ata da conferência de serviços e os demais pareceres, estará disponível para consulta no átrio do Edifício Multisserviços da Câmara Municipal, nas juntas de freguesia e na página da Câmara Municipal na lnternet.
+Por último torna público que quaisquer participações/sugestões sobre a proposta de alteração do referido Plano, poderão ser apresentadas por escrito, no balcão de atendimento do Edifício da Câmara Municipal, sito na Rua Princesa Maria Benedita, em Torres Vedras, por correio, ou através de correio eletrónico para o endereço "geral@cm-tvedras.pt"
+Para constar e devidos efeitos, se publica o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+E eu, Alexandra Sofia Carlos Mota Luís, Diretora do Departamento de Administração Geral, em regime de substituição, o subscrevi.
+27 de junho de 2013. - O Presidente da Câmara, Dr. Carlos Manuel Soares Miguel.
+207072689
