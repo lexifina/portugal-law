@@ -1,0 +1,4 @@
+Aviso n.º 8721/2013
+No uso das competências que se encontram previstas na alínea a), do n.º 6 do artigo 64.º, e, alínea a), do n.º 2 do artigo 53.º, ambos da Lei n.º 169/99, de 18 de setembro, com a redação introduzida pela Lei n.º 5-A/2002, de 11 de janeiro, torna-se público, que o Projeto de Regulamento interno de utilização de veículos e máquinas Municipais, publicado na 2.ª série, do Diário da República, n.º 62 de 28 de março de 2013, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código de Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foi aprovado, de forma definitiva, em Regulamento, em reunião ordinária pública da Câmara Municipal realizada a 20 de maio de 2013, e em sessão ordinária da Assembleia Municipal realizada a 25 de junho de 2013.
+25 de junho de 2013. - O Presidente da Câmara, António Edmundo Freire Ribeiro.
+307070817
