@@ -1,0 +1,10 @@
+Edital n.º 678/2013
+Regulamento Municipal sobre Acesso, Exercício e Fiscalização de Atividades Diversas no Município de Castro Daire
+José Fernando Carneiro Pereira, Presidente da Câmara Municipal de Castro Daire, torna público que:
+1.º A Assembleia Municipal de Castro Daire, na sua sessão ordinária, realizada no dia 21 de junho de 2013, sob proposta da Câmara Municipal, aprovada, nos termos do disposto na alínea a) do n.º 7 do artigo 64.º da Lei n.º 169/99, de 18 de setembro, alterada e republicada pela Lei n.º 5-A/2002, de 11 de janeiro, na reunião realizada no dia 09 de maio de 2013, deliberou aprovar, em conformidade com a alínea a) do n.º 2 do artigo 53.º da mesma Lei n.º 169/99, o Regulamento Municipal Sobre Acesso, Exercício e Fiscalização de Atividades Diversas no Município de Castro Daire, cujo projeto de Regulamento esteve em apreciação pública, nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado e republicado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, conforme aviso publicado no Diário da República, 2.ª série, n.º 104, de 30 de maio, e relativamente ao qual não foi apresentada qualquer sugestão ou reclamação.
+2.º Mais torna público que o referido Regulamento poderá ser consultado na página eletrónica do município e entra em vigor no dia seguinte à publicação do presente edital na 2.ª série do Diário da República.
+3.º As disposições que pressuponham a existência do «Balcão do Empreendedor» apenas entrarão em vigor na data em que as respetivas formalidades sejam disponibilizadas e estejam em funcionamento no mesmo Balcão.
+4.º Para conhecimento geral se publica o presente edital e outros de igual teor que vão ser afixados no átrio do edifício dos Paços do Município, nas sedes das Juntas de Freguesia do município e publicado no Jornal "Noticias de Castro Daire".
+E eu, Leonel Marques Ferreira, Chefe da Divisão Administrativa o subscrevi.
+25 de junho de 2013. - O Presidente da Câmara Municipal, José Fernando Carneiro Pereira.
+307076244
