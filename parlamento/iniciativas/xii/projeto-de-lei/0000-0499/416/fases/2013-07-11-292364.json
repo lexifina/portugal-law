@@ -1,0 +1,442 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "416",
+    "id": "37736",
+    "titulo": "Altera as regras de funcionamento e acesso ao Fundo de Garantia Salarial."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9530",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-07-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37737",
+        "leg": "XII",
+        "nr": "415",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1794",
+            "obs": null,
+            "pag": [
+              "39-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/39?pgs=39-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1794",
+            "obs": null,
+            "pag": [
+              "39-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/39?pgs=39-45&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Cria o subsídio social de desemprego extraordinário."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37735",
+        "leg": "XII",
+        "nr": "417",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1794",
+            "obs": null,
+            "pag": [
+              "39-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/39?pgs=39-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1794",
+            "obs": null,
+            "pag": [
+              "39-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/39?pgs=39-45&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Melhora as regras de atribuição, e altera a duração e montantes do subsídio de desemprego e subsídio social de desemprego."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:28:24:071&drc=00:03:45:460"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:49:31:106&drc=00:02:05:086"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39",
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/39?pgs=39,45&org=PLC"
+              }
+            ],
+            "sumario": "Cria o subsídio social de desemprego extraordinário; Altera as regras de funcionamento e acesso ao Fundo de Garantia Salarial; Melhora as regras de atribuição, e altera a duração e montantes do subsídio de desemprego e subsídio social de desemprego.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "456",
+                "nome": "João Paulo Pedrosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:32:18:847&drc=00:03:36:364"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Cria o subsídio social de desemprego extraordinário; Altera as regras de funcionamento e acesso ao Fundo de Garantia Salarial; Melhora as regras de atribuição, e altera a duração e montantes do subsídio de desemprego e subsídio social de desemprego.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4213",
+                "nome": "Teresa Costa Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:35:59:790&drc=00:04:38:345"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/40?pgs=40-42&org=PLC"
+              }
+            ],
+            "sumario": "Cria o subsídio social de desemprego extraordinário; Altera as regras de funcionamento e acesso ao Fundo de Garantia Salarial; Melhora as regras de atribuição, e altera a duração e montantes do subsídio de desemprego e subsídio social de desemprego.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:40:46:098&drc=00:05:07:052"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "sumario": "Cria o subsídio social de desemprego extraordinário; Altera as regras de funcionamento e acesso ao Fundo de Garantia Salarial; Melhora as regras de atribuição, e altera a duração e montantes do subsídio de desemprego e subsídio social de desemprego.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:45:55:187&drc=00:03:28:358"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Cria o subsídio social de desemprego extraordinário; Altera as regras de funcionamento e acesso ao Fundo de Garantia Salarial; Melhora as regras de atribuição, e altera a duração e montantes do subsídio de desemprego e subsídio social de desemprego.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292364",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "642291",
+        "obs": null,
+        "pag": [
+          "39-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-12",
+        "pubLeg": "XII",
+        "pubNr": "112",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/39?pgs=39-45&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
