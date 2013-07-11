@@ -1,0 +1,720 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "717",
+    "id": "37716",
+    "titulo": "Centro de Reabilitação do Norte."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9524",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-07-11",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37762",
+        "leg": "XII",
+        "nr": "746",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte, pronto desde o verão de 2012"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37792",
+        "leg": "XII",
+        "nr": "766",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Urgente abertura do Centro de Reabilitação do Norte."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37793",
+        "leg": "XII",
+        "nr": "767",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte integrado no Serviço Nacional de Saúde."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37843",
+        "leg": "XII",
+        "nr": "796",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1793",
+            "obs": null,
+            "pag": [
+              "32-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-38&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Abertura e definição do modelo de gestão do Centro de Reabilitação do Norte."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:05:14:518&drc=00:03:20:305"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:23:56:111&drc=00:01:49:763"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33",
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-33,37-38&org=PLC"
+              }
+            ],
+            "sumario": "Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte, pronto desde o verão de 2012; Urgente abertura do Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte integrado no Serviço Nacional de Saúde; Abertura e definição do modelo de gestão do Centro de Reabilitação do Norte.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2098",
+                "nome": "Manuel Pizarro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:08:43:233&drc=00:02:32:943"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:22:08:530&drc=00:01:41:471"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/33?pgs=33-34,37&org=PLC"
+              }
+            ],
+            "sumario": "Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte, pronto desde o verão de 2012; Urgente abertura do Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte integrado no Serviço Nacional de Saúde; Abertura e definição do modelo de gestão do Centro de Reabilitação do Norte.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:11:20:196&drc=00:04:01:500"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:25:50:564&drc=00:00:19:861"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35",
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/34?pgs=34-35,38&org=PLC"
+              }
+            ],
+            "sumario": "Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte, pronto desde o verão de 2012; Urgente abertura do Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte integrado no Serviço Nacional de Saúde; Abertura e definição do modelo de gestão do Centro de Reabilitação do Norte.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:15:24:952&drc=00:03:32:067"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:26:34:791&drc=00:00:56:954"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36",
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/35?pgs=35-36,38&org=PLC"
+              }
+            ],
+            "sumario": "Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte, pronto desde o verão de 2012; Urgente abertura do Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte integrado no Serviço Nacional de Saúde; Abertura e definição do modelo de gestão do Centro de Reabilitação do Norte.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=02:19:01:085&drc=00:02:58:249"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte, pronto desde o verão de 2012; Urgente abertura do Centro de Reabilitação do Norte; Recomenda ao Governo a abertura urgente do Centro de Reabilitação do Norte integrado no Serviço Nacional de Saúde; Abertura e definição do modelo de gestão do Centro de Reabilitação do Norte.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292345",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "642268",
+        "obs": null,
+        "pag": [
+          "32-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-12",
+        "pubLeg": "XII",
+        "pubNr": "112",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/32?pgs=32-39&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
