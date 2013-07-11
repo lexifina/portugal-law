@@ -1,0 +1,197 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "154",
+    "id": "37783",
+    "titulo": "Institui e regula o sistema de requalificação de trabalhadores em funções públicas visando a melhor afetação dos recursos humanos da Administração Pública, e procede à nona alteração à Lei n.º 12 A/2008, de 27 de fevereiro, à quinta alteração ao Decreto-Lei n.º 74/70, de 2 de março, à décima segunda alteração ao Decreto-Lei n.º 139-A/90, de 28 de abril, à terceira alteração ao Decreto-Lei n.º 209/2009, de 3 de setembro, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "31745",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-07-16",
+            "id": "95708",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-07-16",
+            "id": "95707",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-07-17",
+            "id": "95709",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-07-24",
+            "id": "95773",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2013-10-18",
+            "id": "96135",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-07-16",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-07-11",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d7a4f445a6b4e5463334c575931596a67744e44646b4f5330354d7a49324c57526a4d7a677a4e6a49794d47526c4d4335775a47593d&fich=c386d577-f5b8-47d9-9326-dc3836220de0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração apresentada pelo Grupo Parlamentar do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e684f5445774f5459334c545a6b4d4759744e4749784e5330344e544d784c5449784e6a63774e5745304f4759304d6935515245593d&fich=ca910967-6d0f-4b15-8531-216705a48f42.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo Grupo Parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55775a5441344e6a52684c5467354d7a51744e4755354d7931684e6d4a6a4c5759354e44497a4d4451344f445979595335515245593d&fich=50e0864a-8934-4e93-a6bc-f9423048862a.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos Grupos Parlamentares de PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63355a44426a597a517a4c5745304e474d744e4759304e693034596d59344c5455325a575a6b59574a6d5a6a64684d5335515245593d&fich=79d0cc43-a44c-4f46-8bf8-56efdabff7a1.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-26",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo (legislação em vigor, proposta de lei e propostas de alteração)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255334d32466a597a4d304c57526d5a6a55744e444d784d4331685a6a67784c5459304d544d7a4e6a59794e6d59334d4335775a47593d&fich=e73acc34-dff5-4310-af81-641336626f70.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-30",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51304f544d784f546c6d4c5455314e3255744e474d354e4331694d6d49354c574d314f4749325a54417a4e324e684d5335515245593d&fich=4493199f-557e-4c94-b2b9-c58b6e037ca1.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-29",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251334e3251794e47517a4c5745334f4459744e4759324e5331684d4449344c575a694d5463784d7a6b344e6d59324d6935775a47593d&fich=d77d24d3-a786-4f65-a028-fb1713986f62.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-07-29",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-07-29",
+            "dataRemessa": "2013-07-29",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-07-29",
+            "descricao": "Texto Final apreciado e aprovado Artigo a Artigo",
+            "detalhe": null,
+            "id": "64684",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "203",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-07-11",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292450",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "641600",
+        "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PCP, PSD/CDS-PP e BE",
+        "pag": [
+          "94-148"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-31",
+        "pubLeg": "XII",
+        "pubNr": "182",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/182/2013-07-31/94?pgs=94-148&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
