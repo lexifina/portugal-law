@@ -1,0 +1,158 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "157",
+    "id": "37809",
+    "titulo": "Aprova os requisitos de acesso e exercício das atividades das Empresas de Manutenção de Instalações de Elevação e das Entidades Inspetoras de Instalações de Elevação, e seus profissionais, conformando-os com a disciplina da Lei n.º 9/2009, de 4 de março, e do Decreto-Lei n.º 92/2010, de 26 de julho, que transpuseram as Diretivas n.ºs 2005/36/CE, relativa ao reconhecimento das qualificações profissionais, e 2006/123/CE, relativa aos serviços no mercado interno."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "31746",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-07-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-07-11",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CIP - Confederação Empresarial de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3255314f446c6d4e7a4974597a45794f4330304d44426b4c57466a5a574d744d3256684e324e6c4f4749775954417a4c6e426b5a673d3d&fich=7e589f72-c128-400d-acec-3ea7ce8b0a03.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OE - Ordem dos Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5467354e54677a4e7a41744d6a6b305a5330304e7a686b4c546b7a4e47517459324d32595449774e3245344e7a4a6b4c6e426b5a673d3d&fich=58958370-294e-478d-934d-cc6a207a872d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OE - Ordem dos Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44637a4d574d354d6d45744e446735596930304e44426c4c57466c4e574d744d6d49794e574979595745345a445a6b4c6c424552673d3d&fich=0731c92a-489b-440e-ae5c-2b25b2aa8d6d.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-23",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade e Propostas de Alteração dos GP's do PSD e CDS-PP (conjuntas) e do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6469595441355a4459744d574a6c5a6930305a6a566b4c574a69595459745a6a45774e574a685a5751344f44566d4c6e426b5a673d3d&fich=b7ba09d6-1bef-4f5d-bba6-f105baed885f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-23",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5745304e44677a4e574d744d5463304e5330304d54677a4c54686c4d544d744e54646d4e44426c4e7a51785954426b4c6e426b5a673d3d&fich=1a44835c-1745-4183-8e13-57f40e741a0d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-07-23",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-07-23",
+            "dataRemessa": "2013-07-23",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-07-23",
+            "descricao": "Texto Final votado e aprovado Artigo a Artigo",
+            "detalhe": null,
+            "id": "64587",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "152",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-07-11",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292452",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "641586",
+        "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD/CDS-PP e PS",
+        "pag": [
+          "130-154"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-26",
+        "pubLeg": "XII",
+        "pubNr": "178",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/178/2013-07-26/130?pgs=130-154&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
