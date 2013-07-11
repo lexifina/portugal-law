@@ -1,0 +1,179 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "153",
+    "id": "37782",
+    "titulo": "Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas, e procede à quinta alteração à Lei n.º 59/2008, de 11 de setembro, à quarta alteração ao Decreto-Lei n.º 259/98, de 18 de agosto, e à quinta alteração à Lei n.º 2/2004, de 15 de janeiro."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "31744",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-07-16",
+            "id": "95708",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-07-16",
+            "id": "95707",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-07-17",
+            "id": "95709",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-07-24",
+            "id": "95773",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-07-16",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-07-11",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-07-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo Grupo Parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32597a5a6a45314e544d304c57566b4e7a41744e444178597930355a5463324c5746684e6a49784d5449794d7a51324f5335515245593d&fich=f3f15534-ed70-401c-9e76-aa6211223469.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos Grupos Parlamentares de PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a457a4d7a51774f5445344c5467785a4759744e44417a4e5330354d6d4a6b4c5452694f4449775a5467325a4468694d4335515245593d&fich=13340918-81df-4035-92bd-4b820e86d8b0.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-26",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo (legislação em vigor, proposta de lei e propostas de alteração)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259785a6d59334d7a6b344c544a695a6a51744e4759774e7930354d6d49344c5449304e6d4935593255304e6a4e6c5a6935775a47593d&fich=f1ff7398-2bf4-4f07-92b8-246b9ce463ef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-30",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b784f4749324d6a64684c544a6b4e6a4d744e47526c5a4330354e6a466a4c5746695a57466b4d6a5132596a4e6c5a6935515245593d&fich=918b627a-2d63-4ded-961c-abead246b3ef.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-29",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a597a4e4455345a5445344c5467334d7a4d744e475534596930354e7a41344c5467324d47566c596a51784d4459324e5335775a47593d&fich=63458e18-8733-4e8b-9708-860eeb410665.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-07-29",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-07-29",
+            "dataRemessa": "2013-07-29",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-07-29",
+            "descricao": "Texto Final apreciado e aprovado Artigo a Artigo",
+            "detalhe": null,
+            "id": "64683",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "203",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-07-11",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292448",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "641599",
+        "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PCP e PSD/CDS-PP",
+        "pag": [
+          "76-93"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-31",
+        "pubLeg": "XII",
+        "pubNr": "182",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/02/182/2013-07-31/76?pgs=76-93&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
