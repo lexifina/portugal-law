@@ -1,0 +1,765 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "679",
+    "id": "37646",
+    "titulo": "Para garantir o direito a indemnização, em caso de doença, aos ex-trabalhadores da Empresa Nacional de Urânio (ENU)"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9534",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-07-11",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37599",
+        "leg": "XII",
+        "nr": "655",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que consagre o direito a uma indemnização emergente de doença profissional aos trabalhadores da Empresa Nacional de Urânio."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37608",
+        "leg": "XII",
+        "nr": "659",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que reconheça o direito a indemnizações por morte ou doença dos trabalhadores e ex-Trabalhadores da Empresa Nacional de Urânio."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37692",
+        "leg": "XII",
+        "nr": "705",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proceda à realização de um estudo científico ao universo dos ex-trabalhadores e mineiros em ordem a que seja aferida a influência nefasta da exposição ao urânio, ao mesmo tempo que promova uma quantificação do impacto financeiro de um possível processo indemnizatório baseado em critérios justos, equitativos e objetivos na sua aplicabilidade a atribuir aos ex-trabalhadores da ENU ¿ Empresa Nacional de Urânio, S.A.."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37804",
+        "leg": "XII",
+        "nr": "770",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1796",
+            "obs": null,
+            "pag": [
+              "51-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-07-12",
+            "pubLeg": "XII",
+            "pubNr": "112",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que adote medidas que garantam uma efetiva proteção jurídica no âmbito das doenças profissionais aos ex-trabalhadores da Empresa Nacional de Urânio face ao risco agravado de exposição ao urânio e seus produtos sucedâneos."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:15:20:936&drc=00:05:08:377"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Para garantir o direito a indemnização, em caso de doença, aos ex-trabalhadores da Empresa Nacional de Urânio (ENU); Recomenda ao Governo que consagre o direito a uma indemnização emergente de doença profissional aos trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que reconheça o direito a indemnizações por morte ou doença dos trabalhadores e ex-Trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que proceda à realização de um estudo científico ao universo dos ex-trabalhadores e mineiros em ordem a que seja aferida a influência nefasta da exposição ao urânio, ao mesmo tempo que promova uma quantificação do impacto financeiro de um possível processo indemnizatório baseado em critérios justos, equitativos e objetivos na sua aplicabilidade a atribuir aos ex-trabalhadores da ENU ¿ Empresa Nacional de Urânio, S.A.; Recomenda ao Governo que adote medidas que garantam uma efetiva proteção jurídica no âmbito das doenças profissionais aos ex-trabalhadores da Empresa Nacional de Urânio face ao risco agravado de exposição ao urânio e seus produtos sucedâneos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:20:35:320&drc=00:03:35:193"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:40:40:709&drc=00:01:28:191"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53",
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/53?pgs=53,58&org=PLC"
+              }
+            ],
+            "sumario": "Para garantir o direito a indemnização, em caso de doença, aos ex-trabalhadores da Empresa Nacional de Urânio (ENU); Recomenda ao Governo que consagre o direito a uma indemnização emergente de doença profissional aos trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que reconheça o direito a indemnizações por morte ou doença dos trabalhadores e ex-Trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que proceda à realização de um estudo científico ao universo dos ex-trabalhadores e mineiros em ordem a que seja aferida a influência nefasta da exposição ao urânio, ao mesmo tempo que promova uma quantificação do impacto financeiro de um possível processo indemnizatório baseado em critérios justos, equitativos e objetivos na sua aplicabilidade a atribuir aos ex-trabalhadores da ENU ¿ Empresa Nacional de Urânio, S.A.; Recomenda ao Governo que adote medidas que garantam uma efetiva proteção jurídica no âmbito das doenças profissionais aos ex-trabalhadores da Empresa Nacional de Urânio face ao risco agravado de exposição ao urânio e seus produtos sucedâneos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:24:16:199&drc=00:03:42:475"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:42:27:968&drc=00:01:52:736"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54",
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/53?pgs=53-54,58-59&org=PLC"
+              }
+            ],
+            "sumario": "Para garantir o direito a indemnização, em caso de doença, aos ex-trabalhadores da Empresa Nacional de Urânio (ENU); Recomenda ao Governo que consagre o direito a uma indemnização emergente de doença profissional aos trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que reconheça o direito a indemnizações por morte ou doença dos trabalhadores e ex-Trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que proceda à realização de um estudo científico ao universo dos ex-trabalhadores e mineiros em ordem a que seja aferida a influência nefasta da exposição ao urânio, ao mesmo tempo que promova uma quantificação do impacto financeiro de um possível processo indemnizatório baseado em critérios justos, equitativos e objetivos na sua aplicabilidade a atribuir aos ex-trabalhadores da ENU ¿ Empresa Nacional de Urânio, S.A.; Recomenda ao Governo que adote medidas que garantam uma efetiva proteção jurídica no âmbito das doenças profissionais aos ex-trabalhadores da Empresa Nacional de Urânio face ao risco agravado de exposição ao urânio e seus produtos sucedâneos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4214",
+                "nome": "João Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:28:03:668&drc=00:04:16:916"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Para garantir o direito a indemnização, em caso de doença, aos ex-trabalhadores da Empresa Nacional de Urânio (ENU); Recomenda ao Governo que consagre o direito a uma indemnização emergente de doença profissional aos trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que reconheça o direito a indemnizações por morte ou doença dos trabalhadores e ex-Trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que proceda à realização de um estudo científico ao universo dos ex-trabalhadores e mineiros em ordem a que seja aferida a influência nefasta da exposição ao urânio, ao mesmo tempo que promova uma quantificação do impacto financeiro de um possível processo indemnizatório baseado em critérios justos, equitativos e objetivos na sua aplicabilidade a atribuir aos ex-trabalhadores da ENU ¿ Empresa Nacional de Urânio, S.A.; Recomenda ao Governo que adote medidas que garantam uma efetiva proteção jurídica no âmbito das doenças profissionais aos ex-trabalhadores da Empresa Nacional de Urânio face ao risco agravado de exposição ao urânio e seus produtos sucedâneos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4208",
+                "nome": "Acácio Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:32:25:883&drc=00:03:45:319"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/56?pgs=56&org=PLC"
+              }
+            ],
+            "sumario": "Para garantir o direito a indemnização, em caso de doença, aos ex-trabalhadores da Empresa Nacional de Urânio (ENU); Recomenda ao Governo que consagre o direito a uma indemnização emergente de doença profissional aos trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que reconheça o direito a indemnizações por morte ou doença dos trabalhadores e ex-Trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que proceda à realização de um estudo científico ao universo dos ex-trabalhadores e mineiros em ordem a que seja aferida a influência nefasta da exposição ao urânio, ao mesmo tempo que promova uma quantificação do impacto financeiro de um possível processo indemnizatório baseado em critérios justos, equitativos e objetivos na sua aplicabilidade a atribuir aos ex-trabalhadores da ENU ¿ Empresa Nacional de Urânio, S.A.; Recomenda ao Governo que adote medidas que garantam uma efetiva proteção jurídica no âmbito das doenças profissionais aos ex-trabalhadores da Empresa Nacional de Urânio face ao risco agravado de exposição ao urânio e seus produtos sucedâneos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130711pln&url=l12/sl2/a2013/m07/&tI=03:36:16:578&drc=00:04:10:452"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-07-12",
+                "pubLeg": "XII",
+                "pubNr": "112",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/56?pgs=56&org=PLC"
+              }
+            ],
+            "sumario": "Para garantir o direito a indemnização, em caso de doença, aos ex-trabalhadores da Empresa Nacional de Urânio (ENU); Recomenda ao Governo que consagre o direito a uma indemnização emergente de doença profissional aos trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que reconheça o direito a indemnizações por morte ou doença dos trabalhadores e ex-Trabalhadores da Empresa Nacional de Urânio; Recomenda ao Governo que proceda à realização de um estudo científico ao universo dos ex-trabalhadores e mineiros em ordem a que seja aferida a influência nefasta da exposição ao urânio, ao mesmo tempo que promova uma quantificação do impacto financeiro de um possível processo indemnizatório baseado em critérios justos, equitativos e objetivos na sua aplicabilidade a atribuir aos ex-trabalhadores da ENU ¿ Empresa Nacional de Urânio, S.A.; Recomenda ao Governo que adote medidas que garantam uma efetiva proteção jurídica no âmbito das doenças profissionais aos ex-trabalhadores da Empresa Nacional de Urânio face ao risco agravado de exposição ao urânio e seus produtos sucedâneos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "292368",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "642299",
+        "obs": null,
+        "pag": [
+          "51-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-07-12",
+        "pubLeg": "XII",
+        "pubNr": "112",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/02/112/2013-07-12/51?pgs=51-59&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
