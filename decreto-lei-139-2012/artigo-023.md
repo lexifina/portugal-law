@@ -8,22 +8,16 @@
 
 # Artigo 23.º
 
-### Finalidades
+### Avaliação da aprendizagem
 
-1 - A avaliação constitui um processo regulador do ensino e da aprendizagem, que orienta o percurso escolar dos alunos e certifica as aprendizagens desenvolvidas.
+1 - A avaliação constitui um processo regulador do ensino, orientador do percurso escolar e certificador dos conhecimentos adquiridos e capacidades desenvolvidas pelo aluno.
 
-2 - A avaliação tem por objetivo central a melhoria do ensino e da aprendizagem baseada num processo contínuo de intervenção pedagógica.
+2 - A avaliação tem por objetivo a melhoria do ensino através da verificação dos conhecimentos adquiridos e das capacidades desenvolvidas nos alunos e da aferição do grau de cumprimento das metas curriculares globalmente fixadas para os níveis de ensino básico e secundário.
 
-3 - As diferentes formas de recolha de informação sobre as aprendizagens, realizadas quer no âmbito da avaliação interna, da responsabilidade dos professores e dos órgãos de gestão pedagógica da escola, quer no âmbito da avaliação externa, da responsabilidade dos serviços ou organismos do Ministério da Educação, prosseguem, de acordo com as suas finalidades, os seguintes propósitos:
+3 - A verificação prevista no número anterior deve ser utilizada por professores e alunos para, em conjunto, melhorar o ensino e suprir as dificuldades de aprendizagem.
 
-a) Informar e sustentar intervenções pedagógicas, reajustando estratégias que conduzam à melhoria da qualidade das aprendizagens, com vista à promoção do sucesso escolar;
+4 - A avaliação tem ainda por objetivo conhecer o estado do ensino, retificar procedimentos e reajustar o ensino das diversas disciplinas aos objetivos curriculares fixados.
 
-b) Aferir a prossecução dos objetivos definidos no currículo;
-
-c) Certificar aprendizagens.
-
-4 - Sem prejuízo das especificidades que distinguem os processos de avaliação interna e externa das aprendizagens, no que respeita ao desempenho dos alunos e ao desenvolvimento do currículo, a análise dos dados recolhidos deve valorizar leituras de complementaridade, de modo a potenciar a melhoria da qualidade do ensino e da aprendizagem.
-
-5 - (Revogado).
+5 - Na avaliação dos alunos intervêm todos os professores envolvidos, assumindo particular responsabilidade neste processo o professor titular de turma, no 1.º ciclo, e nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, os professores que integram o conselho de turma, sem prejuízo da intervenção de alunos e encarregados de educação.
 
 6 - O regime de avaliação é regulado por despacho do membro do Governo responsável pela área da educação, em função dos níveis e ciclos de ensino e da natureza dos cursos de nível secundário de educação.
