@@ -1,0 +1,9 @@
+Aviso (extrato) n.º 9103/2013
+Discussão pública
+Dr. Gonçalo Fernando Rocha Jesus, Presidente da Câmara Municipal de Castelo de Paiva:
+Torna público, nos termos do n.º 3 do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 26/2010, de 30 de março, e em cumprimento da deliberação de Câmara Municipal de 13/06/2013 que, a partir da publicação deste aviso no Diário da República e durante 30 dias, se encontra aberto o período de discussão pública da proposta da alteração do Regulamento de Compensações a prestar à Câmara Municipal no âmbito do licenciamento das operações de loteamento e das obras de urbanização e das obras de impacto semelhante.
+Para o efeito, a proposta da alteração do Regulamento, encontram-se disponíveis para consulta na Divisão de Planeamento, Urbanismo e Habitação, no edifício dos Paços do Concelho, sito no Largo do Conde, freguesia de Sobrado, deste concelho, bem como na página da internet da Câmara Municipal, em www.cm-castelo-paiva.pt.
+Nos termos do n.º 2 do artigo 118.º do Código do Procedimento Administrativo, as reclamações, observações, sugestões ou pedidos de esclarecimentos deverão ser apresentadas por escrito, através de requerimento dirigido ao Presidente da Câmara Municipal de Castelo de Paiva, devidamente identificado o seu subscritor, a identificação do local, acompanhada, sempre que possível, de planta de localização, e o objeto da exposição, devidamente fundamentado e entregue no Gabinete de Atendimento Personalizado da Câmara Municipal, ou remetido através de correio registado.
+Para constar e devidos efeitos se publica o presente aviso no Diário da República e na comunicação social e outros de igual teor que vão ser afixados nos lugares de estilo.
+4 de julho de 2013. - O Presidente da Câmara, Gonçalo Fernando Rocha Jesus.
+307095839
