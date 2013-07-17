@@ -2,7 +2,7 @@
 
 ### Decisão
 
-1 - Compete ao membro do Governo responsável pela área das finanças, mediante despacho, decidir sobre a realização da operação de capitalização, tendo por base a proposta de decisão que lhe seja para o efeito remetida pelo Banco de Portugal, de acordo com o disposto nos n.os 2, 3 e 4 do artigo 12.º
+1 - Compete ao membro do Governo responsável pela área das finanças, mediante despacho, decidir sobre a realização da operação de capitalização e fixar os seus termos e condições, tendo por base a proposta de decisão que lhe seja para o efeito remetida pelo Banco de Portugal, de acordo com o disposto nos n.os 2, 3 e 4 do artigo 12.º
 
 2 - Na ponderação da decisão, o membro do Governo responsável pela área das finanças tem em consideração, nomeadamente, o contributo da instituição de crédito interessada para o financiamento da economia e a necessidade de reforço de fundos próprios.
 
