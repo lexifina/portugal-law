@@ -1,3 +1,11 @@
+## Subsecção V
+
+## Direcção Regional do Desporto
+
+## Subsecção VI
+
+## Direcção Regional da Juventude
+
 ## Subsecção VII
 
 ## Direcção Regional do Trabalho e Qualificação Profissional
