@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 9321/2013
+Carlos Henrique Lopes Rodrigues, Presidente da Câmara Municipal de Vila do Porto, torna público que a Assembleia Municipal de Vila do Porto, reunida em sessão ordinária de 28 de junho de 2013, aprovou, sob proposta da Câmara Municipal de 18 de março de 2013, o Regulamento Municipal de Toponímia, submetido a apreciação pública através da publicação do Diário da República, 2.ª série, n.º 91 de 17 de março de 2013.
+Decorrido o período de discussão pública, nos prazos e termos previstos no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, foram propostas pela Junta de Freguesia de Vila do Porto alterações aos artigos 15.º, 16.º e 20.º, as quais foram aprovadas pela Câmara Municipal em reunião ordinária pública de 30 de abril de 2013, e alterações propostas pela Assembleia Municipal aos artigos 14.º, 16.º e 20.º, as quais foram aprovadas em sessão ordinária da Assembleia Municipal a 28 de junho de 2013.
+Mais se torna público, que o referido documento encontra-se publicado, na íntegra, na página da internet deste município em www.cm-viladoporto.pt.
+1 de julho de 2013. - O Presidente da Câmara, Carlos Henrique Lopes Rodrigues.
+307099168
