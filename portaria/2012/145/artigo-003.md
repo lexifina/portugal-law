@@ -4,7 +4,7 @@
 
 Compete à Direção de Serviços Jurídicos:
 
-a) Coordenar a atividade de provedoria da IGEC;
+a) (Revogada);
 
 b) Elaborar estudos e pareceres de natureza jurídica em matérias de interesse para a IGEC;
 
