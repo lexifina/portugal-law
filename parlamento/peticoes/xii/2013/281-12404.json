@@ -1,0 +1,194 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12404",
+  "numero": "281",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-07-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-09-17",
+            "entidades": null,
+            "id": "95951",
+            "tipo": null,
+            "titulo": "Audição em 2013-09-17 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-07-30",
+            "dataResposta": "2013-07-31",
+            "entidades": [
+              "Presidente da Fundação para a Ciência e Tecnologia"
+            ],
+            "nrOficio": "332/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-07-30",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "331/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-10-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-07-30",
+        "DataArquivo": "2013-10-08",
+        "DataBaixaComissao": "2013-07-24",
+        "DataEnvioPAR": "2013-10-09",
+        "DataReaberta": "2013-07-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-07-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a497a4f5451324d474a6c4c54497a4e446b744e44557a4e5330355954566c4c545a6a4d4464684d47526a4e575a684e7935775a47593d&fich=239460be-2349-4535-9a5e-6c07a0dc5fa7.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a694e6a6b324d7a67324c54646d4d546b744e446b355a4330344f4451324c5755354d7a4e684d3259774e7a426c597935775a47593d&fich=2b696386-7f19-499d-8846-e933a3f070ec.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-07-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a6d4d54597a5a5445334c5749324d3251744e444130595331694d546b774c57466c4e4749355954526b5a5755344f5335775a47593d&fich=ff163e17-b63d-404a-b190-ae4b9a4dee89.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-10-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63344e7a55304f5459354c575a6c5a4451744e44526d4d7930354e5451784c5445324e5459774d445a694e6d51354d5335775a47593d&fich=78754969-fed4-44f3-9541-1656006b6d91.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-07-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32566c595751774e4459334c546b784f546b744e4441335a533169596a6b304c546b7a4e324d355a6d4d7a5a544d7a5a4335775a47593d&fich=eead0467-9199-407e-bb94-937c9fc3e33d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-07-30",
+            "gp": "PS",
+            "id": "4209",
+            "motivoCessacao": null,
+            "nome": "Elza Pais"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-01-29",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-07-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59305a6d5669593259354c5455334d3251744e44517a596930344f444d354c5467314e54426a4e44597a4e7a526c5a4335775a47593d&fich=64febcf9-573d-443b-8839-8550c46374ed.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38184"
+    ],
+    "Iniciativasoriginadas": [
+      "38184"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12404",
+    "PetAssunto": "Pretendem que seja aberto o concurso individual de bolsas de doutoramento e pós-doutoramento 2013.",
+    "PetDataEntrada": "2013-07-23",
+    "PeticoesAssociadas": null,
+    "PetId": "12404",
+    "PetLeg": "XII",
+    "PetNr": "281",
+    "PetNrAssinaturas": "4257",
+    "PetNrAssinaturasInicial": "4257",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "641637",
+        "obs": null,
+        "pag": [
+          "13-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-08-03",
+        "pubLeg": "XII",
+        "pubNr": "207",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/207/2013-08-03/13?pgs=13&org=PLC"
+      }
+    ]
+  }
+}
