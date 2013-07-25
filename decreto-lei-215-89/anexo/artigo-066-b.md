@@ -6,7 +6,7 @@
 
 ### Dedução em sede de IRS de IVA suportado em fatura
 
-1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 5 % do IVA suportado por qualquer membro do agregado familiar, com o limite global de (euro) 250, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira (AT) nos termos do Decreto-Lei n.º 197/2012, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3, CAE - Rev. 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
+1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 15 % do IVA suportado por qualquer membro do agregado familiar, com o limite global de (euro) 250, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira (AT) nos termos do Decreto-Lei n.º 197/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3, CAE - Rev. 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
 
 a) Secção G, Classe 4520 - Manutenção e reparação de veículos automóveis;
 
