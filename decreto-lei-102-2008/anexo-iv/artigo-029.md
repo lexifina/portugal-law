@@ -67,3 +67,5 @@ c) Podem não ser incluídas as prestações de serviços que sejam isentas do i
 18 - Os sujeitos passivos a que seja aplicável o regime de normalização contabilística para microentidades ficam dispensados da obrigação de entrega da declaração de informação contabilística e fiscal e anexos respeitantes à aplicação do Decreto-Lei n.º 347/85, de 23 de Agosto.
 
 19 - Não é permitida aos sujeitos passivos a emissão e entrega de documentos de natureza diferente da fatura para titular a transmissão de bens ou prestação de serviços aos respetivos adquirentes ou destinatários, sob pena de aplicação das penalidades legalmente previstas.
+
+20 - A obrigação referida na alínea b) do n.º 1 pode ser cumprida mediante a emissão de outros documentos pelas pessoas coletivas de direito público, organismos sem finalidade lucrativa e instituições particulares de solidariedade social, relativamente às transmissões de bens e prestações de serviços isentas ao abrigo do artigo 9.º

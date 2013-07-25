@@ -1,8 +1,8 @@
 # Artigo 58.º
 
-### Obrigações declarativas e período em que passa a ser devido o imposto
+### Obrigações de faturação, declarativas e período em que passa a ser devido o imposto
 
-1 - Os sujeitos passivos isentos nos termos do artigo 53.º são obrigados ao cumprimento do disposto na alínea i) do n.º 1 do artigo 29.º e nos artigos 31.º, 32.º e 33.º.
+1 - Sem prejuízo do disposto nos números seguintes, os sujeitos passivos isentos nos termos do artigo 53.º devem cumprir o disposto nas alíneas b) e i) do n.º 1 do artigo 29.º e nos artigos 31.º, 32.º e 33.º
 
 2 - Quando se deixarem de verificar as condições de aplicação do regime de isenção do artigo 53.º, os sujeitos passivos são obrigados a apresentar a declaração de alterações prevista no artigo 32.º, nos seguintes prazos:
 

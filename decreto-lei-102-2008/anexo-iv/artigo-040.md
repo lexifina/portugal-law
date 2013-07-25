@@ -18,6 +18,8 @@ c) O preço líquido de imposto, as taxas aplicáveis e o montante de imposto de
 
 d) Número de identificação fiscal do adquirente ou destinatário, quando for sujeito passivo.
 
+e) O motivo justificativo da não aplicação do imposto, se for caso disso.
+
 3 - As faturas referidas nos números anteriores devem ainda conter o número de identificação fiscal do adquirente ou destinatário que não seja sujeito passivo quando este o solicite.
 
 4 - As faturas referidas nos números anteriores podem ser processadas nos termos previstos no artigo 5.º do Decreto-Lei n.º 198/90, de 19 de junho, ou ainda por outros meios eletrónicos, nomeadamente máquinas registadoras, terminais eletrónicos ou balanças eletrónicas, com registo obrigatório das operações no rolo interno da fita da máquina ou em registo interno por cada transmissão de bens ou prestação de serviços, sendo-lhes aplicável, em qualquer caso, quanto às matérias não especificamente reguladas neste artigo, as restantes disposições que regem a emissão de faturas.

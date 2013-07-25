@@ -2,4 +2,4 @@
 
 ### Facturação
 
-Os sujeitos passivos isentos nos termos do artigo 53.º, quando emitam facturas por bens transmitidos ou serviços prestados no exercício da sua actividade comercial, industrial ou profissional, devem sempre apor-lhe a menção «IVA - regime de isenção».
+As faturas emitidas pelos sujeitos passivos referidos no artigo 53.º no exercício da sua atividade devem sempre conter a menção «IVA - regime de isenção».
