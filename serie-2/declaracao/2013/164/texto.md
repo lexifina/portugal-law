@@ -1,0 +1,5 @@
+Declaração n.º 164/2013
+Jerónimo José Correia dos Lóios, Presidente da Câmara Municipal de Arraiolos, faz saber que em Reunião de Câmara de 26 de junho de 2013, a Câmara Municipal de Arraiolos deliberou iniciar o processo de Revisão do Plano Diretor Municipal de Arraiolos, aprovado pela Resolução do Conselho de Ministros n.º 18/2003, publicada no Diário da República, 1.ª série-B, n.º 37, de 13 de fevereiro de 2003. O processo decorrerá pelo período de 24 meses a contar da data de publicação deste aviso em Diário da República.
+Mais se deliberou que o período de participação previsto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de setembro na redação republicada em anexo ao Decreto-Lei n.º 46/2009 de 20 de fevereiro, decorrerá pelo prazo de 15 dias contados a partir da data de publicação do presente aviso, onde os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de revisão do PDM de Arraiolos.
+10 de julho de 2013. - O Presidente da Câmara, Jerónimo José Correia dos Lóios.
+207125719
