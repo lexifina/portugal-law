@@ -18,6 +18,6 @@ b) Os serviços e organismos que, por disposição legal, estejam excecionados d
 
 6 - Os serviços integrados do Estado e os serviços e fundos autónomos mencionados no n.º 1 promovem a sua integração na rede de cobranças do Estado, prevista no regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de junho, alterado pelas Leis n.os 3-B/2000, de 4 de abril, e 107-B/2003, de 31 de dezembro, mediante a abertura de contas bancárias junto do IGCP, E. P. E., para recebimento, contabilização e controlo das receitas próprias.
 
-7 - As empresas públicas não financeiras devem manter as suas disponibilidades e aplicações financeiras junto do IGCP, E. P. E., sendo-lhes para esse efeito aplicável o regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de junho, alterado pelas Leis n.os 3-B/2000, de 4 de abril, e 107-B/2003, de 31 de dezembro.
+7 - As empresas públicas não financeiras devem manter as suas disponibilidades e aplicações financeiras junto do IGCP, E. P. E., nos termos do n.º 1, sendo-lhes para esse efeito aplicável o regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de junho, alterado pelas Leis n.os 3-B/2000, de 4 de abril, e 107-B/2003, de 31 de dezembro.
 
 8 - As receitas de todas as aplicações financeiras que sejam efetuadas em violação do princípio da unidade de tesouraria pelas entidades ao mesmo sujeitas revertem para o Estado.

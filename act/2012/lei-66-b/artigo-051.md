@@ -12,6 +12,6 @@ c) Candidatos aprovados com relação jurídica de emprego público por tempo de
 
 d) Candidatos sem relação jurídica de emprego público previamente estabelecida.
 
-2 - Durante o ano de 2013 e tendo em vista o cumprimento das medidas de redução de pessoal previstas no PAEF, os candidatos a que se refere a alínea b) do número anterior não podem ser opositores a procedimentos concursais exclusivamente destinados a trabalhadores com relação jurídica de emprego público por tempo indeterminado previamente constituída, considerando-se suspensas todas as disposições em contrário.
+2 - Sem prejuízo do disposto no n.º 8 do artigo 62.º da Lei n.º 50/2012, de 31 de agosto, que aprova o regime jurídico da atividade empresarial local e das participações locais, durante o ano de 2013 e tendo em vista o cumprimento das medidas de redução de pessoal previstas no PAEF, os candidatos a que se refere a alínea b) do número anterior não podem ser opositores a procedimentos concursais exclusivamente destinados a trabalhadores com relação jurídica de emprego público por tempo indeterminado previamente constituída, considerando-se suspensas todas as disposições em contrário.
 
 3 - O disposto no presente artigo tem caráter excecional e prevalece sobre todas as disposições legais, gerais ou especiais, contrárias.

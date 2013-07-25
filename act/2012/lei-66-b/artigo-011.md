@@ -8,7 +8,7 @@
 
 3 - Fica o Governo autorizado a efetuar as alterações orçamentais que se revelem necessárias para garantir a execução do Programa Operacional de Potencial Humano e do Programa Operacional de Assistência Técnica, bem como o encerramento do 3.º Quadro Comunitário de Apoio (QCA III).
 
-4 - Fica a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE) autorizada a transferir até metade do montante da contribuição da entidade empregadora para o Serviço Nacional de Saúde (SNS).
+4 - Fica a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE) autorizada a transferir a totalidade do montante da contribuição da entidade empregadora para o Serviço Nacional de Saúde (SNS).
 
 5 - Fica o Governo autorizado a efetuar alterações orçamentais do orçamento do Ministério da Saúde para o orçamento do Ministério das Finanças que se revelem necessárias ao pagamento das dívidas à CGA, I. P., por parte daquele Ministério pelo pagamento pela CGA, I. P., até 1 de agosto de 2012, das pensões complementares previstas no Decreto-Lei n.º 141/79, de 22 de maio, alterado pelo Decreto-Lei n.º 32/2012, de 13 de fevereiro, relativas a aposentados que tenham passado a ser subscritores da CGA, I. P., nos termos dos Decretos-Leis n.os 301/79, de 18 de agosto, 124/79, de 10 de maio, alterado pelos Decretos-Leis n.os 210/79, de 12 de julho, e 121/2008, de 11 de julho, e 295/90, de 21 de setembro.
 

@@ -12,21 +12,23 @@
 
 1 - Ficam cativos 12,5 % das despesas afetas a projetos relativas a financiamento nacional.
 
-2 - Fica cativa a rubrica «Outras despesas correntes - Diversas - Outras - Reserva», correspondente a 2,5 % do total das verbas dos orçamentos dos serviços e organismos da administração central.
+2 - (Revogado.)
 
 3 - Ficam cativos, nos orçamentos de atividades dos serviços integrados e dos serviços e fundos autónomos nas despesas relativas a financiamento nacional:
 
-a) 10 % das dotações iniciais das rubricas 020201 - «Encargos das instalações», 020202 - «Limpeza e higiene», 020203 - «Conservação de bens» e 020209 - «Comunicações»;
+a) 2,5 % das dotações iniciais do subagrupamento 0101 - «Remunerações certas e permanentes»;
 
-b) 20 % das dotações iniciais das rubricas 020102 - «Combustíveis e lubrificantes», 020108 - «Material de escritório», 020112 - «Material de transporte - Peças», 020113 - «Material de consumo hoteleiro» e 020114 - «Outro material - Peças»;
+b) 10 % das dotações iniciais das rubricas 020201 - «Encargos das instalações», 020202 - «Limpeza e higiene», 020203 - «Conservação de bens» e 020209 - «Comunicações»;
 
-c) 30 % das dotações iniciais da rubrica 020213 - «Deslocações e estadas»;
+c) 20 % das dotações iniciais das rubricas 020102 - «Combustíveis e lubrificantes», 020108 - «Material de escritório», 020112 - «Material de transporte - Peças», 020113 - «Material de consumo hoteleiro» e 020114 - «Outro material - Peças»;
 
-d) 35 % das dotações iniciais das rubricas 020220 - «Outros trabalhos especializados» e 020225 - «Outros serviços»;
+d) 30 % das dotações iniciais da rubrica 020213 - «Deslocações e estadas»;
 
-e) 40 % das dotações iniciais das rubricas 020121 - «Outros bens», 020216 - «Seminários, exposições e similares» e 020217 - «Publicidade»;
+e) 35 % das dotações iniciais das rubricas 020220 - «Outros trabalhos especializados» e 020225 - «Outros serviços»;
 
-f) 65 % das dotações iniciais da rubrica 020214 - «Estudos, pareceres, projetos e consultadoria».
+f) 40 % das dotações iniciais das rubricas 020121 - «Outros bens», 020216 - «Seminários, exposições e similares» e 020217 - «Publicidade»;
+
+g) 65 % das dotações iniciais da rubrica 020214 - «Estudos, pareceres, projetos e consultadoria».
 
 4 - Excetuam-se da cativação prevista nos n.os 1 e 3:
 

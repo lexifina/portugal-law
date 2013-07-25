@@ -8,7 +8,7 @@
 
 a) Os magistrados judiciais, magistrados do Ministério Público, juízes do Tribunal Constitucional, oficiais de justiça e pessoal do corpo da Guarda Prisional, para os quais se mantêm as normas legais e regulamentares em vigor;
 
-b) O pessoal com funções policiais da Polícia de Segurança Pública, os militares da Guarda Nacional Republicana, o pessoal de outras forças policiais, os militares das Forças Armadas e militarizados, no ativo, quando em serviço que implique a deslocação no meio de transporte público;
+b) O pessoal com funções policiais da Polícia de Segurança Pública, os militares da Guarda Nacional Republicana, o pessoal da Polícia Judiciária, bem como de outras forças policiais, os militares das Forças Armadas e militarizados, no ativo, quando em serviço que implique a deslocação no meio de transporte público;
 
 c) Os trabalhadores das empresas transportadoras, das gestoras da infraestrutura respetiva ou das suas participadas, que já beneficiem do transporte gratuito, quando no exercício das respetivas funções, incluindo a deslocação de e para o local de trabalho.
 
