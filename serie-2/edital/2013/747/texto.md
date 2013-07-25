@@ -1,0 +1,10 @@
+Edital n.º 747/2013
+Regulamento dos Horários de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviços do Município de Arcos de Valdevez
+Francisco Rodrigues de Araújo, presidente da Câmara Municipal de Arcos de Valdevez, torna público que:
+1.º A Assembleia Municipal de Arcos de Valdevez, na sua sessão ordinária, realizada no dia 3 de julho de 2013, sob proposta da Câmara Municipal, aprovada, nos termos do disposto na alínea a) do n.º 7 do artigo 64.º da Lei n.º 169/99, de 18 de setembro, alterada e republicada pela Lei n.º 5-A/2002, de 11 de janeiro, na reunião realizada no dia 6 de junho de 2013, deliberou aprovar, em conformidade com a alínea a) do n.º 2 do artigo 53.º da mesma Lei n.º 169/99, o Regulamento dos Horários de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviços do Município de Arcos de Valdevez, cujo projeto de Regulamento esteve em apreciação pública, nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado e republicado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, conforme aviso publicado no Diário da República, 2.ª série, n.º 76, de 18 de abril de 2013, e relativamente ao qual não foi apresentada qualquer sugestão ou reclamação.
+2.º Mais torna público que o referido Regulamento poderá ser consultado na página eletrónica do município e entra em vigor quinze dias após a publicação do presente edital na 2.ª série do Diário da República.
+3.º As disposições que pressuponham a existência do «Balcão do Empreendedor» apenas entrarão em vigor na data em que as respetivas formalidades sejam disponibilizadas e estejam em funcionamento no mesmo Balcão.
+4.º Para conhecimento geral se publica o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+E eu, Faustino Gomes Soares, chefe da Divisão Administrativa e Financeira da mesma Câmara Municipal, o subscrevi.
+15 de julho de 2013. - O Presidente da Câmara Municipal, Francisco Rodrigues de Araújo.
+307121863
