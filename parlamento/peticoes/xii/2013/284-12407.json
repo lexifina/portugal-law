@@ -1,0 +1,312 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12407",
+  "numero": "284",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-07-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-10-08",
+            "entidades": null,
+            "id": "96043",
+            "tipo": null,
+            "titulo": "Audição em 2013-10-08 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-09-17",
+            "dataResposta": "2013-10-08",
+            "entidades": [
+              "Presidente da Associação de Professores de Matemática"
+            ],
+            "nrOficio": "394/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-09-17",
+            "dataResposta": "2013-09-20",
+            "entidades": [
+              "Presidente da Sociedade Portuguesa de Matemática"
+            ],
+            "nrOficio": "395/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-09-23",
+            "dataResposta": "2013-10-13",
+            "entidades": [
+              "Presidente da Sociedade Portuguesa de Investigação e Educação Matemática"
+            ],
+            "nrOficio": "410/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-09-23",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Sociedade Portuguesa de Estatística"
+            ],
+            "nrOficio": "411/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-09-23",
+            "dataResposta": "2013-10-18",
+            "entidades": [
+              "Professor Doutor João Pedro da Ponte"
+            ],
+            "nrOficio": "412/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-09-17",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "392/CECC/2013",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2013-10-11",
+                "dataResposta": "2013-10-22",
+                "nrOficio": "450/CECC/2013",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-10-30",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "654221",
+                "obs": null,
+                "pag": [
+                  "8-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-02",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/008/2013-11-02/8?pgs=8-11&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-09-17",
+        "DataArquivo": "2013-10-30",
+        "DataBaixaComissao": "2013-07-30",
+        "DataEnvioPAR": "2013-10-30",
+        "DataReaberta": "2013-09-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-09-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51345a5445344f4745324c54526a595455744e4745794d7931684f57557a4c545a6a595759775a6a5935597a49334f4335775a47593d&fich=48e188a6-4ca5-4a23-a9e3-6caf0f69c278.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-09-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251354e47526a5a6d51784c5451304e6a59744e475135596931694e5745784c5463784f4745334d7a4e6c596d526b595335775a47593d&fich=d94dcfd1-4466-4d9b-b5a1-718a733ebdda.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41334e3251334e7a63784c5755324d5441744e44686a4d6930355957566c4c54646a4d6d51324e6a4d325a544d344e7935775a47593d&fich=077d7771-e610-48c2-9aee-7c2d6636e387.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-09-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32466c4e32566a4e44426c4c5459305a4463744e4445774e6930344e444d334c546379596a51784d7a646d4d5467324e7935775a47593d&fich=ae7ec40e-64d7-4106-8437-72b4137f1867.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-09-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6a595455335a5745344c546b775a544d744e445a6a4e7930354d57526a4c5755784d6d4a6b4d574a6b4e7a6c68596935775a47593d&fich=2ca57ea8-90e3-46c7-91dc-e12bd1bd79ab.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-09-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249334f444a68596d51314c544d795a4445744e44497a4d693169596a6c6d4c5463774f5467354f4463304f445134597935775a47593d&fich=b782abd5-32d1-4232-bb9f-70989874848c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-09-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4535597a566c4d5455304c5459325a4441744e4449795a433168595463794c544d79595464685a544d7a596a5a694d7935775a47593d&fich=19c5e154-66d0-422d-aa72-32a7ae33b6b3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-09-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e6a5a6a526c4e6a526a4c5463784d6a45744e4755305a69303459325a6d4c575934597a6b7a4d5449334d6a51794e5335775a47593d&fich=3cf4e64c-7121-4e4f-8cff-f8c931272425.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-10-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d795a6a49305a6a67784c54466c5a5451744e4451305a5330344d7a426d4c5449774d444a6a596a67334e6d5177595335775a47593d&fich=32f24f81-1ee4-444e-830f-2002cb876d0a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-10-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51324e4463324d7a55774c57566c4e446b744e4749334e5331684e3255334c57557a597a426d4e6a5a6b4e4751784d6935775a47593d&fich=46476350-ee49-4b75-a7e7-e3c0f66d4d12.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e684d4445784e6a45774c575533596d59744e44426c4e79316959544d314c5459794f54646a597a51784d3251304d6935775a47593d&fich=3a011610-e7bf-40e7-ba35-6297cc413d42.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4178597a6b31597a637a4c54426a5a5755744e4467334f5331694e544d324c5745324e6d59774e6a513259324a684e7935775a47593d&fich=01c95c73-0cee-4879-b536-a66f0646cba7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6d596a566d4d474a6c4c5751304d6a45744e475a68597930354d4749354c5442684e3251324d6a593459324577596935775a47593d&fich=2fb5f0be-d421-4fac-90b9-0a7d6268ca0b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2103-09-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6b59574535596d4e6a4c545a694d4449744e4467344e79316959574a6b4c544d324e7a526a4f546c6d597a4d344e7935775a47593d&fich=cdaa9bcc-6b02-4887-babd-3674c99fc387.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55344d6d55774d5441354c544d325a5759744e475a69596931695a545a6c4c574e6b59574d785a4749324e324e6a5a6935775a47593d&fich=582e0109-36ef-4fbb-be6e-cdac1db67ccf.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-10-08",
+            "gp": "PSD",
+            "id": "4390",
+            "motivoCessacao": null,
+            "nome": "Maria José Castelo Branco"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2013-07-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d324f5746694e5467344c5463324e4751744e4759335a4331684d6a51334c5451354d4759795a6a64684d3249794d4335775a47593d&fich=c69ab588-764d-4f7d-a247-490f2f7a3b20.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12407",
+    "PetAssunto": "Pretendem que seja anulada a homologação do novo Programa de Matemática para o Ensino Básico e das Metas Curriculares",
+    "PetDataEntrada": "2013-07-26",
+    "PeticoesAssociadas": null,
+    "PetId": "12407",
+    "PetLeg": "XII",
+    "PetNr": "284",
+    "PetNrAssinaturas": "2124",
+    "PetNrAssinaturasInicial": "2124",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "654215",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-09-21",
+        "pubLeg": "XII",
+        "pubNr": "1",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/001/2013-09-21/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
