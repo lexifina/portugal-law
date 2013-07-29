@@ -1,0 +1,7 @@
+Aviso n.º 9704/2013
+Ricardo Gonçalves Ribeiro Gonçalves, Presidente do Conselho de Administração da AS - Empresa das Águas de Santarém - EM, S. A., torna público, que a Câmara Municipal de Santarém, em reunião realizada no dia 23 de abril de 2013, deliberou aprovar, por unanimidade, o Projeto de Regulamento dos sistemas públicos e prediais de distribuição de água e de drenagem de águas residuais.
+Assim, nos termos e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, e do n.º 3 do artigo 62.º do Decreto-Lei n.º 194/2009, de 20 de agosto, submete-se à apreciação pública para recolha de sugestões, o Projeto de Regulamento em apreço, por um prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República.
+Durante o referido período, os interessados deverão enviar por escrito os seus contributos para o seguinte endereço eletrónico: regulamento@aguasdesantarem.pt ou, por carta dirigida à Empresa Águas de Santarém, EM, S. A., ao cuidado do Gabinete Jurídico, Praça Visconde Serra do Pilar, Apartado 337, 2001-904 Santarém.
+O Projeto de Regulamento encontra-se ainda disponível, para consulta, na sede da Empresa Águas de Santarém, durante o horário normal de expediente, e nos sítios de internet do Município de Santarém e da Empresa Águas de Santarém.
+16 de julho de 2013. - O Presidente do Conselho de Administração, Ricardo Gonçalves Ribeiro Gonçalves.
+307123791
