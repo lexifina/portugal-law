@@ -268,7 +268,7 @@ o) 'Guarda de arma' o acto de depositar a arma, no domicílio ou outro local aut
 
 p) 'Porte de arma' o acto de trazer consigo uma arma branca ou uma arma municiada ou carregada ou em condições de o ser para uso imediato;
 
-q) «Recinto desportivo» o espaço criado exclusivamente para a prática de desporto, com carácter fixo e com estruturas de construção que lhe garantam essa afectação e funcionalidade, dotado de lugares permanentes e reservados a assistentes, após o último controlo de entrada;
+q) 'Recinto desportivo' o local destinado à prática do desporto ou onde este tenha lugar, confinado ou delimitado por muros, paredes ou vedações, em regra com acesso controlado e condicionado.
 
 r) 'Transporte de arma' o acto de transferência de uma arma descarregada e desmuniciada ou desmontada de um local para outro, de forma a não ser susceptível de uso imediato;
 
@@ -293,3 +293,7 @@ ac) 'Norma técnica' a informação emitida pela Direcção Nacional da PSP dest
 ad) 'Arma de aquisição condicionada' a arma que só pode ser adquirida por quem tenha licença habilitante ou autorização da Direcção Nacional da PSP;
 
 ae) 'Ornamentação' a exposição de arma em local a indicar pelo requerente e identificado na correspondente licença F.
+
+af) 'Artigo de pirotecnia' qualquer artigo que contenha substâncias explosivas ou uma mistura explosiva de substâncias, concebido para produzir um efeito calorífico, luminoso, sonoro, gasoso ou fumígeno ou uma combinação destes efeitos, devido a reações químicas exotérmicas autossustentadas;
+
+ag) 'Fogo-de-artifício de categoria 1' o artigo de pirotecnia destinado a ser utilizado para fins de entretenimento que apresenta um risco muito baixo e um nível sonoro insignificante e que se destina a ser utilizado em áreas confinadas, incluindo os fogos-de-artifício que se destinam a ser utilizados no interior de edifícios residenciais.
