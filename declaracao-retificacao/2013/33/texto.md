@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 33/2013
+Para os devidos efeitos, observado o disposto no n.º 2 do artigo 115.º do Regimento da Assembleia da República, declara-se que a Lei n.º 43/2013, de 3 de julho, «Quinta alteração à Lei n.º 37/81, de 3 de outubro (Lei da Nacionalidade)», publicada no Diário da República, 1.ª série, n.º 126, de 3 de julho de 2013, foi, por lapso, publicada como lei e não como lei orgânica, pelo que se anula a referida publicação, procedendo-se à sua publicação autónoma e integral, atribuindo-se-lhe a designação de lei orgânica com numeração própria.
+Assembleia da República, 24 de julho de 2013. - A Secretária-Geral, em substituição, Ana Leal.
