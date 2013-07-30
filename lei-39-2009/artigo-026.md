@@ -20,7 +20,9 @@ e) Modalidade desportiva;
 
 f) Identificação do organizador e promotores do espectáculo desportivo intervenientes;
 
-g) Especificação sumária dos factos impeditivos do acesso dos espectadores ao recinto desportivo e das consequências do incumprimento do regulamento de segurança e utilização dos espaços de acesso público.
+g) Especificação sumária dos factos impeditivos do acesso dos espectadores ao recinto desportivo e das consequências do incumprimento do regulamento de segurança e utilização dos espaços de acesso público;
+
+h) A identificação a que se refere o n.º 3 do artigo 16.º, nos casos nele previstos.
 
 4 - O organizador da competição desportiva pode acordar com o promotor do espectáculo desportivo a emissão dos títulos de ingresso.
 
@@ -28,4 +30,4 @@ g) Especificação sumária dos factos impeditivos do acesso dos espectadores ao
 
 6 - A violação do disposto no presente artigo implica, enquanto a situação se mantiver, a suspensão da realização do espectáculo desportivo em causa.
 
-7 - A sanção mencionada no número anterior é determinada pelo Instituto do Desporto de Portugal, I. P., sob proposta do CESD.
+7 - A sanção prevista no número anterior é aplicada pelo IPDJ, I. P.

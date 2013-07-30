@@ -16,7 +16,7 @@ c) Multa.
 
 2 - As sanções previstas na alínea a) do número anterior são aplicáveis, consoante a gravidade dos actos e das suas consequências, aos clubes, associações e sociedades desportivas intervenientes no respectivo espectáculo desportivo cujos sócios, adeptos ou simpatizantes pratiquem uma das seguintes infracções:
 
-a) Agressão aos agentes desportivos, elementos das forças de segurança em serviço, coordenador de segurança, assistentes de recinto desportivo, bem como a todas as pessoas autorizadas por lei ou por regulamento a permanecerem na área do espectáculo desportivo que levem justificadamente o árbitro a não dar início ou reinício ao espectáculo desportivo ou mesmo dá-lo por findo antes do tempo regulamentar;
+a) Agressão aos agentes desportivos, elementos das forças de segurança em serviço, ponto de contacto para a segurança, coordenador de segurança, assistentes de recinto desportivo, bem como a todas as pessoas autorizadas por lei ou por regulamento a permanecerem na área do espetáculo desportivo que levem o árbitro, juiz ou cronometrista, justificadamente, a não dar início ou reinício ao espetáculo desportivo ou mesmo dá-lo por findo antes do tempo regulamentar;
 
 b) Invasão da área do espectáculo desportivo que, de forma justificada, impeça o início ou conclusão do espectáculo desportivo;
 

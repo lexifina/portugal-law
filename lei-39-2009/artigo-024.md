@@ -2,12 +2,8 @@
 
 ### Condições especiais de permanência dos grupos organizados de adeptos
 
-1 - Os grupos organizados de adeptos podem, excepcionalmente, utilizar os seguintes materiais ou artigos, no interior do recinto desportivo:
+1 - Os grupos organizados de adeptos podem, excecionalmente, utilizar no interior do recinto desportivo megafones e outros instrumentos produtores de ruídos, por percussão mecânica e de sopro, desde que não amplificados com auxílio de fonte de energia externa.
 
-a) Instrumentos produtores de ruídos, usualmente denominado «megafone» e «tambores»;
+2 - O disposto no n.º 1 carece de autorização prévia do promotor do espetáculo desportivo, devendo este comunicá-la à força de segurança.
 
-b) Artifício pirotécnico de utilização técnica fumígeno, usualmente denominado «pote de fumo».
-
-2 - O disposto na alínea a) do número anterior carece de autorização prévia do promotor do espectáculo desportivo, devendo este comunicar à força de segurança.
-
-3 - O disposto na alínea b) do n.º 1 carece de autorização e monitorização da força de segurança, em concordância com a ANPC e com o promotor do espectáculo desportivo.
+3 - Nos recintos desportivos cobertos pode haver lugar a condições impostas pelo promotor do espetáculo desportivo ao uso dos instrumentos produtores de ruídos, tendo em vista a proteção da saúde e do bem-estar dos participantes presentes no evento, nos termos da legislação sobre ruído.

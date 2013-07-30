@@ -2,4 +2,4 @@
 
 ### Policiamento de espectáculos desportivos
 
-O regime de policiamento e de satisfação dos respectivos encargos, realizado em recinto desportivo, consta de decreto-lei.
+O regime de policiamento de espetáculos desportivos realizados em recinto desportivo e de satisfação dos encargos com o policiamento de espetáculos desportivos em geral consta de diploma próprio.

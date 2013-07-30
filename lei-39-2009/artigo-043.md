@@ -1,11 +1,11 @@
 # Artigo 43.º
 
-### Instrução do processo e aplicação da coima
+### Instrução e aplicação de coimas e sanções acessórias
 
-1 - A instrução dos processos de contra-ordenação referidos na presente lei compete ao Instituto do Desporto de Portugal, I. P.
+1 - A instrução dos processos e a aplicação das coimas e das sanções acessórias previstas na presente lei são da competência do IPDJ, I. P.
 
-2 - A aplicação das coimas é da competência da força de segurança territorialmente competente, no continente, e, nas Regiões Autónomas, do membro do Governo Regional responsável pela área do desporto.
+2 - O IPDJ, I. P., deve comunicar à Secretaria-Geral do Ministério da Administração Interna a abertura dos processos de contraordenação, o arquivamento e a aplicação das sanções que ao caso caibam.
 
-3 - A aplicação das coimas, no âmbito das competições desportivas de natureza profissional, é da competência do presidente do Instituto do Desporto de Portugal, I. P., que deve notificar o Ministério da Administração Interna da abertura dos respectivos processos de contra-ordenação, do arquivamento e da aplicação das coimas que ao caso couber.
+3 - As decisões finais dos processos de contraordenação instaurados pela prática de atos xenófobos ou racistas são também comunicados à Comissão para a Igualdade e Contra a Discriminação Racial.
 
-4 - As decisões finais dos processos de contra-ordenação instaurados pela prática de actos xenófobos ou racistas são comunicados pelo Instituto do Desporto de Portugal, I. P., à Comissão para a Igualdade e Contra a Discriminação Racial.
+4 - Para efeitos do disposto no n.º 1, as forças de segurança remetem ao IPDJ, I. P., os respetivos autos.

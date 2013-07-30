@@ -2,7 +2,7 @@
 
 ### Registo dos grupos organizados de adeptos
 
-1 - Os grupos organizados de adeptos devem possuir um registo sistematizado e actualizado dos seus filiados, cumprindo o disposto na Lei n.º 67/98, de 26 de Outubro, com indicação dos elementos seguintes:
+1 - O promotor do espetáculo desportivo mantém um registo sistematizado e atualizado dos filiados no grupo organizado de adeptos do respetivo clube, associação ou sociedade desportiva, cumprindo o disposto na Lei da Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro, com indicação dos elementos seguintes:
 
 a) Nome;
 
@@ -14,16 +14,18 @@ d) Fotografia;
 
 e) Filiação, caso se trate de menor de idade; e
 
-f) Morada.
+f) Morada e
 
-2 - O registo referido no número anterior é efectuado junto do respectivo promotor do espectáculo desportivo, o qual, nos cinco dias seguintes à sua recepção, envia cópia ao CESD que o disponibiliza de imediato às forças de segurança.
+g) Contactos telefónicos e de correio eletrónico.
 
-3 - O registo referido no n.º 1 é actualizado sempre que se verifique qualquer alteração quanto aos seus filiados, e pode ser suspenso ou anulado no caso de incumprimento do disposto no presente artigo.
+2 - O promotor do espetáculo desportivo envia trimestralmente cópia do registo ao IPDJ, I. P., que o disponibiliza de imediato às forças de segurança.
 
-4 - Os grupos organizados de adeptos devem possuir uma listagem actualizada contendo a identificação de todos os filiados, registados no termos dos números anteriores, presentes na deslocação em concreto para o espectáculo desportivo.
+3 - O registo referido no n.º 1 é atualizado sempre que se verifique qualquer alteração quanto aos seus filiados e pode ser suspenso pelo promotor do espetáculo desportivo no caso de incumprimento do disposto no presente artigo, nomeadamente nos casos de prestação de informações falsas ou incompletas no referente ao n.º 1.
 
-5 - A listagem referida no número anterior é disponibilizada, sempre que solicitado, às forças de segurança e ao CESD.
+4 - Sempre que proceder à suspensão de um registo, o promotor do espetáculo desportivo cessa todo o apoio que preste ao grupo organizado de adeptos e informa de forma documentada e imediata o IPDJ, I. P., justificando as razões da sua decisão.
 
-6 - Os elementos responsáveis por grupos organizados de adeptos que não cumpram o disposto nos números anteriores ficam impossibilitados de aceder ao interior de qualquer recinto desportivo mediante decisão do Instituto do Desporto de Portugal, I. P., sob proposta do CESD, enquanto a situação de incumprimento se mantiver.
+5 - Caso a suspensão perdure pelo período de um ano, o promotor do espetáculo desportivo anula o registo e informa de forma documentada e imediata o IPDJ, I. P.
 
-7 - Em caso de reincidência, o CESD deve suspender, por período não superior a um ano, ou anular o registo referido no n.º 1.
+6 - É proibido ao promotor do espetáculo desportivo o apoio a grupos organizados de adeptos que não se encontrem previamente registados nos termos dos números anteriores ou cujo registo tenha sido suspenso ou anulado.
+
+7 - (Revogado).

@@ -4,7 +4,7 @@
 
 1 - São condições de acesso dos espectadores ao recinto desportivo:
 
-a) A posse de título de ingresso válido;
+a) A posse de título de ingresso válido e de documento de identificação com fotografia;
 
 b) A observância das normas do regulamento de segurança e de utilização dos espaços de acesso público;
 
