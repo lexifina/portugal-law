@@ -38,7 +38,9 @@ h) A Administração Central do Sistema de Saúde, I. P.;
 
 i) O INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P.;
 
-j) Os institutos públicos cujas leis orgânicas prevejam, expressamente, atribuições relacionadas com a gestão, em qualquer das suas vertentes, de programas de aplicação, de medidas programáticas, de sistemas de apoio e de ajudas ou de financiamento, suportados por fundos europeus.
+j) O Instituto de Avaliação Educativa, I.P.;
+
+k) Os institutos públicos cujas leis orgânicas prevejam, expressamente, atribuições relacionadas com a gestão, em qualquer das suas vertentes, de programas de aplicação, de medidas programáticas, de sistemas de apoio e de ajudas ou de financiamento, suportados por fundos europeus.
 
 4 - (Revogado.)
 
