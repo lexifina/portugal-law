@@ -78,6 +78,8 @@ p) A Comissão de Planeamento de Emergência do Ciberespaço, sendo as suas atri
 
 q) A Agência Nacional para a Qualificação, I. P., que passa a designar-se Agência Nacional para a Qualificação e o Ensino Profissional, I. P.
 
+r) O Gabinete de Avaliação Educacional, sendo as suas atribuições integradas no Instituto de Avaliação Educativa, I.P.
+
 4 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.
 
 5 - O Instituto Tecnológico e Nuclear, I. P., é integrado no Instituto Superior Técnico da Universidade Técnica de Lisboa.
