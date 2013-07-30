@@ -1,0 +1,8 @@
+Aviso n.º 9755/2013
+Tomé Alexandre Martins Pires, Presidente da Câmara Municipal de Serpa, torna público nos termos e para os efeitos do n.º 3 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) aprovado pelo Decreto-Lei n.º 380/99, de 22 de setembro, na redação dada pelo Decreto-Lei n.º 181/2009, de 7 de agosto, que em cumprimento da deliberação, por unanimidade, do órgão executivo tomada na reunião realizada no dia 12 de junho de 2013, foi determinado proceder à abertura do período de discussão pública da proposta de revisão do Plano Diretor Municipal de Serpa.
+O período de discussão pública é de 30 dias úteis, decorridos que sejam 5 dias úteis, a contar da data de publicação do presente aviso no Diário da República.
+A proposta de revisão do Plano Diretor Municipal de Serpa, acompanhada do relatório ambiental, os pareceres da comissão de acompanhamento e a ata da conferência de serviços, os demais pareceres e os resultados de concertação, encontra-se disponível para consulta nas instalações da Câmara Municipal (Setor de Atendimento ao Público), sita na Praça da República, todos os dias úteis, durante o horário normal de expediente (09h às 16h30).
+As reclamações, observações ou sugestões a apresentar deverão ser formuladas por escrito podendo estas ser enviadas por carta registada com aviso de receção para a Praça da República, 7830-389 Serpa, ou aí entregues pessoalmente, bem como remetidas através do email geral@cm-serpa.pt.
+Para conhecimento geral se publicita o presente aviso no Diário da República bem como nos locais públicos do costume.
+8 de julho de 2013. - O Presidente da Câmara, Tomé Alexandre Martins Pires.
+207130902
