@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "440",
+    "id": "37875",
+    "titulo": "Revoga a integração no regime geral de segurança social dos trabalhadores do IFAP, I.P., oriundos do IFADAP, que foram abrangidos pelo Acordo Coletivo de Trabalho para o Sector Bancário (ACT) e a desoneração daquele Instituto, através da sua transferência para a Caixa Geral de Aposentações, I.P. (CGA, I.P.), dos encargos com as pensões de reforma e de sobrevivência daqueles trabalhadores. (Revoga o Decreto-Lei n.º 30/2013, de 22 de fevereiro)."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-07-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d575a6b4e6a4a6c597a63744f444d34597930305a6d55344c57466d5a4441745a444e684f5749344e475a6a4f4751334c6e426b5a673d3d&fich=1fd62ec7-838c-4fe8-afd0-d3a9b84fc8d7.pdf&Inline=true",
+        "anexoNome": "Ofício para redistribuição a outra Comissão"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "31926",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-09-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-07-31",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-12-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da COFAP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249795a5445354d5449314c5749324d4449744e4468684f5330354d444e684c546734593255784e7a5979596d52694e6935515245593d&fich=b2e19125-b602-48a9-903a-88ce1762bdb6.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-07-31",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Reapreciação do despacho de baixa na generalidade pela PAR em 31-julho-2013",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6d5a475a6d4f474a6d4c54526d595463744e444d784d793168596d566c4c546c6c4d6d49354e6a4e695a44466c4e6935775a47593d&fich=ffdff8bf-4fa7-4313-abee-9e2b963bd1e6.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2103",
+            "motivoCessacao": null,
+            "nome": "Isabel Santos"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-12-03",
+            "dataRemessa": "2014-12-03",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2013-07-31",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "A 5.ª Comissão solicitou a reapreciação do despacho de baixa à Comissão.",
+    "OevId": "292986",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
