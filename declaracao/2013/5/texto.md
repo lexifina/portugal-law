@@ -1,0 +1,3 @@
+Declaração n.º 5/2013
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 52/XII ao Decreto-Lei n.º 54/2013, de 17 de abril, que define o regime jurídico da prevenção e proteção contra a publicidade e o comércio das novas substâncias psicoativas, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que as propostas de alteração apresentadas foram rejeitadas pela Comissão de Saúde, tendo o Plenário sido informado do facto.
+Assembleia da República, 11 de julho de 2013. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
