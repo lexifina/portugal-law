@@ -1,0 +1,8 @@
+Aviso n.º 9884/2013
+Abertura do Período de Discussão Pública do Plano de Pormenor da Área Urbana de Génese Ilegal do Brejinho em Zambujeira do Mar
+Torna-se público, para os efeitos dispostos no n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de setembro, na atual redação conferida pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, que por deliberação tomada em reunião ordinária da Câmara Municipal de Odemira em 18 de julho de 2013, se procede à abertura do período de discussão pública da proposta de Plano de Pormenor da Área Urbana de Génese Ilegal do Brejinho em Zambujeira do Mar.
+A discussão pública encontra-se aberta por um período de 22 dias úteis, contados a partir do 5.º dia posterior ao da publicação do presente aviso do Diário da República, na 2.ª série.
+A proposta de Plano de Pormenor, os pareceres emitidos no âmbito do acompanhamento, a ata da conferência de serviços, o relatório de ponderação do período adicional de concertação, o protocolo celebrado com Administração Conjunta da AUGI do Brejinho encontram-se disponíveis para consulta, pelos interessados, no Balcão Único do Município de Odemira, na Junta de Freguesia da Zambujeira do Mar, todos os dias úteis durante as horas normais de expediente e, no sítio da internet www.cm-odemira.pt.
+Durante o período de discussão pública todos os interessados poderão apresentar reclamações, observações ou sugestões formuladas por escrito, podendo ser entregues em mão, por correio para o Município de Odemira, Praça da República, 7630-139 Odemira, ou por correio eletrónico para planeamento@cm-odemira.pt.
+22 de julho de 2013. - O Presidente da Câmara, Engenheiro José Alberto Candeias Guerreiro.
+207139019
