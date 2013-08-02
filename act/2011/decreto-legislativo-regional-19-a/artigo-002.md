@@ -2,11 +2,11 @@
 
 ### Profissionais de informação turística
 
-1 - Consideram-se profissionais de informação turística os indivíduos que, devidamente habilitados com carteira profissional de guia-intérprete nacional, guia-intérprete regional ou correio de turismo, mediante remuneração, acolhem, esclarecem e acompanham turistas nacionais e estrangeiros.
+1- Consideram-se profissionais de informação turística os indivíduos que, devidamente habilitados como guia-intérprete ou correio de turismo, mediante remuneração, acolhem, esclarecem e acompanham turistas nacionais e estrangeiros.
 
 2 - Para efeitos do disposto no número anterior, entende-se por:
 
-a) «Guia-intérprete nacional e guia-intérprete regional» o profissional que acompanha turistas em viagens e visitas a locais de interesse turístico, em território nacional e regional, respectivamente;
+a) «Guia-intérprete» o profissional que acompanha turistas em viagens e visitas a locais de interesse turístico;
 
 b) «Correio de turismo» o profissional que acompanha turistas em viagens ao País e ao estrangeiro como representante dos respectivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens.
 

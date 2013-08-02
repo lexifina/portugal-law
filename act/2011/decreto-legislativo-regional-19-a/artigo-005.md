@@ -2,7 +2,7 @@
 
 ### Formação
 
-1 - As condições de acesso, os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação das profissões de informação turística são objecto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.
+1- Os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação profissional das profissões de informação turística são objeto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.
 
 2 - Os cursos de formação podem ser promovidos por entidades de natureza pública, particular, associativa ou cooperativa, designadamente escolas profissionais, com observância do disposto na portaria referida no número anterior.
 
