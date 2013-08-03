@@ -2,7 +2,7 @@
 
 ### Critérios de reconhecimento
 
-O reconhecimento da actividade de turismo de natureza a desenvolver pelas empresas referidas no n.º 1 do artigo anterior é efectuado pelo ICNB, I. P., de acordo com os seguintes critérios:
+O reconhecimento da atividade de turismo de natureza a desenvolver pelas empresas referidas no n.º 1 do artigo anterior é efetuado pelo ICNF, I. P., de acordo com os seguintes critérios:
 
 a) Actividades disponibilizadas pela empresa e seu impacte no património natural;
 

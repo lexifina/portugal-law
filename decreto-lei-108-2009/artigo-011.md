@@ -1,20 +1,24 @@
 ## Capítulo IV
 
-## Inscrição no RNAAT
+## Mera comunicação prévia para inscrição no RNAAT
 
 # Artigo 11.º
 
-### Requerimento de inscrição no RNAAT
+### Acesso à atividade de animação turística
 
-1 - O exercício da actividade das empresas de animação turística e dos operadores marítimo-turísticos depende de inscrição no RNAAT e da contratação dos seguros previstos no artigo 27.º
+1 - O exercício de atividades de animação turística depende de:
 
-2 - O requerimento de inscrição no RNAAT é dirigido ao Turismo de Portugal, I. P., através de formulário electrónico disponibilizado no seu sítio da Internet, do qual deve constar:
+a) Inscrição no RNAAT pela regular apresentação de mera comunicação prévia, tal como definida na alínea b) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de julho, sem prejuízo do disposto no artigo 29.º;
 
-a) A identificação do requerente;
+b) Contratação dos seguros obrigatórios ou dos seguros, garantias financeiras ou instrumentos equivalentes, nos termos dos artigos 27.º a 28.º-A.
 
-b) A identificação dos titulares, administradores ou gerentes da empresa;
+2 - A inscrição no RNAAT das empresas estabelecidas em território nacional é realizada através de formulário eletrónico disponibilizado no balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no sítio na Internet do Turismo de Portugal, I. P., e deve incluir:
 
-c) A localização da sede e dos estabelecimentos da empresa;
+a) A identificação do interessado;
+
+b) (Revogada.)
+
+c) A localização da sede, ou do domicílio no caso de se tratar de pessoa singular, e dos estabelecimentos em território nacional;
 
 d) A indicação do nome adoptado para o estabelecimento e de marcas que a empresa pretenda utilizar;
 
@@ -22,18 +26,28 @@ e) As actividades de animação turística que a empresa pretenda exercer, espec
 
 f) A indicação de interesse em obter o reconhecimento da actividade de turismo de natureza, quando se verifique.
 
-3 - O requerimento de inscrição no RNAAT deve ser instruído com os seguintes documentos:
+3 - Sem prejuízo do disposto na alínea d) do artigo 5.º do Decreto-Lei n.º 92/2010, de 26 de julho, a mera comunicação prévia referida no número anterior é instruída com os seguintes elementos:
 
-a) Cópia simples do acto constitutivo da empresa;
+a) (Revogada.)
 
-b) Código de acesso à certidão permanente ou, em alternativa, certidão do registo comercial actualizada e em vigor ou a respectiva cópia simples;
+b) Extrato em forma simples do teor das inscrições em vigor no registo comercial ou código de acesso à respetiva certidão permanente ou, no caso de se tratar de pessoa singular, cópia simples da declaração de início de atividade;
 
-c) Declaração do interessado a autorizar a consulta ao sítio da Internet, no qual possa ser consultado o registo das marcas que se pretendam utilizar;
+c) Indicação do número de registo, na autoridade competente, das marcas que pretenda utilizar;
 
-d) Cópia simples das apólices de seguro obrigatórias, com discriminação das actividades cobertas e comprovativo do pagamento do prémio ou fracção inicial;
+d) Cópia simples das apólices de seguro obrigatório e comprovativo do pagamento do prémio ou fração inicial, ou comprovativo de contratação e validade dos seguros, garantias financeiras ou instrumentos equivalentes nos termos dos artigos 27.º e 28.º, quando aplicável;
 
 e) Programa detalhado das actividades a desenvolver, com indicação dos equipamentos a utilizar;
 
-f) Declaração de como os equipamentos e as instalações satisfazem os requisitos legais, acompanhados de cópia simples da licença de utilização, autorização de utilização ou outro documento similar emitido pelas entidades competentes, quando previsto na legislação aplicável;
+f) Declaração de compromisso em como os equipamentos e as instalações, quando existam, satisfazem os requisitos legais;
 
 g) Documentos previstos no n.º 1 do artigo 20.º, quando se pretenda o reconhecimento de actividades de turismo de natureza.
+
+h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos em que sejam devidas.
+
+4 - Quando algum dos elementos referidos no número anterior se encontrar disponível na Internet, a respetiva apresentação pode ser substituída por uma declaração do interessado que indique o endereço do sítio onde aquele documento pode ser consultado e autorize, se for caso disso, a sua consulta.
+
+5 - A inscrição no RNAAT de empresas em regime de livre prestação de serviços em território nacional é realizada na sequência da comunicação prévia referida no n.º 2 do artigo 29.º.
+
+6 - Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos no presente decreto-lei e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em território nacional ou noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu.
+
+7 - O disposto no número anterior não é aplicável ao cumprimento das condições referentes diretamente às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.

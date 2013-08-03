@@ -4,7 +4,7 @@
 
 1 - As empresas de animação turística que pretendam exercer atividades próprias das agências de viagens e turismo devem:
 
-a) Efetuar a mera comunicação prévia através do Registo Nacional de Agentes de Viagens e Turismo (RNAVT), acessível ao público através do balcão do empreendedor previsto nos Decretos-Leis n.os 92/2010, de 26 de julho, e 48/2011, de 1 de abril, disponível através do Portal do Cidadão, e do sítio na Internet do Turismo de Portugal, I. P., ou a apresentação da documentação relativa às garantias referidas na alínea seguinte, através dos mesmos meios, em caso de livre prestação de serviços;
+a) Efetuar a mera comunicação prévia através do Registo Nacional de Agentes de Viagens e Turismo (RNAVT), acessível através do balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do sítio na Internet do Turismo de Portugal, I. P., ou a apresentação da documentação relativa às garantias referidas na alínea seguinte, através dos mesmos meios, em caso de livre prestação de serviços;
 
 b) Prestar as garantias exigidas para o exercício da atividade nos termos previstos no Decreto-Lei n.º 61/2011, de 6 de maio, alterado pelo Decreto-Lei n.º 199/2012, de 24 de agosto;
 

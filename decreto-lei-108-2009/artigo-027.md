@@ -1,35 +1,31 @@
 ## Capítulo VII
 
-## Das garantias
+## Das garantias financeiras
 
 # Artigo 27.º
 
 ### Seguros obrigatórios
 
-1 - As empresas de animação turística e os operadores marítimo-turísticos estão obrigados a celebrar e a manter válido um seguro de responsabilidade civil e de acidentes pessoais que cubra os riscos decorrentes de todas as actividades exercidas pela empresa, inscritas ou averbadas no registo, e um seguro de assistência às pessoas, válido exclusivamente no estrangeiro, quando se justifique, nos termos previstos nos números seguintes.
+1 - Sem prejuízo das isenções previstas nos artigos 28.º e 28.º-A, as empresas de animação turística e os operadores marítimo-turísticos que exerçam atividade em território nacional estão obrigados a celebrar e a manter válidos seguros que cubram os riscos para a saúde e segurança dos destinatários dos serviços ou de terceiros decorrentes da sua atividade, nos seguintes termos:
 
-2 - O capital mínimo, consoante o contrato de seguro a celebrar, deve ser o seguinte:
+a) Um seguro de acidentes pessoais para os destinatários dos serviços;
 
-a) Seguro de acidentes pessoais garantindo:
+b) Um seguro de assistência para os destinatários dos serviços que viajem do território nacional para o estrangeiro no âmbito ou por força do serviço prestado;
 
-i) Pagamento das despesas de tratamentos, incluindo internamento hospitalar, e medicamentos, até ao montante anual de (euro) 3500;
+c) Um seguro de responsabilidade civil que cubra os danos patrimoniais e não patrimoniais causados por sinistros ocorridos no decurso da prestação do serviço.
 
-ii) Pagamento de um capital de (euro) 20 000, em caso de morte ou invalidez permanente dos seus clientes, reduzindo-se o capital por morte ao reembolso das despesas de funeral, quando estes tiverem idade inferior a 14 anos;
+2 - A cobertura obrigatória e demais aspetos do funcionamento dos seguros referidos no número anterior são definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
 
-b) Seguro de assistência às pessoas, válido exclusivamente no estrangeiro, garantindo:
+3 - No caso dos operadores marítimo-turísticos e das empresas de animação turística que exerçam atividade marítimo-turística, o seguro de responsabilidade civil previsto na alínea c) do n.º 1 fica ainda sujeito às regras específicas previstas no anexo iii do RAMT.
 
-i) Pagamento do repatriamento sanitário e do corpo;
+4 - Nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho, considera-se cumprida a obrigação de celebração dos seguros referidos nos números anteriores pelas empresas e operadores estabelecidos noutro Estado-Membro da União Europeia ou do espaço económico europeu que tenham as respetivas atividades a exercer em território nacional cobertas por seguro, garantia financeira ou instrumento equivalente aos seguros exigidos nos termos dos números anteriores e dos artigos 28.º e 28.º-A.
 
-ii) Pagamento de despesas de hospitalização, médicas e farmacêuticas, até ao montante anual de (euro) 3000;
+5 - Sem prejuízo das isenções previstas nos artigos 28.º e 28.º-A, nenhuma empresa de animação turística ou operador marítimo-turístico pode iniciar ou exercer a sua atividade sem fazer prova junto do Turismo de Portugal, I. P., de ter contratado os seguros exigidos nos termos dos n.os 1 a 3, ou seguro, garantia financeira ou instrumento equivalente nos termos do número anterior.
 
-c) Seguro de responsabilidade civil, garantindo (euro) 50 000 por sinistro, e anuidade que garanta os danos causados por sinistros ocorridos durante a vigência da apólice, desde que reclamados até um ano após a cessação do contrato, sem prejuízo do disposto no número seguinte.
+6 - As empresas de animação turística e os operadores marítimo-turísticos estabelecidos em território nacional devem enviar ao Turismo de Portugal, I. P., comunicação a informar da revalidação das apólices de seguro obrigatório ou de seguro, garantia financeira ou instrumento equivalente anteriormente contratado, acompanhada de documento comprovativo, no prazo de 30 dias a contar da data do respetivo vencimento ou desadequação da respetiva garantia.
 
-3 - No caso dos operadores marítimo-turísticos e das empresas de animação turística que exerçam actividade marítimo-turística, o seguro de responsabilidade civil obrigatório fica ainda sujeito às regras específicas previstas no Regulamento da Actividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 21/2002, de 31 de Janeiro, alterado pelo Decreto-Lei n.º 269/2003, de 28 de Outubro.
+7 - As empresas de animação turística e os operadores marítimo-turísticos estabelecidos noutros Estados-Membros da União Europeia ou do espaço económico europeu que prestem serviços de animação turística em território nacional em regime de livre prestação de serviços, sempre que se verifique que o seguro obrigatório ou o seguro, garantia financeira ou instrumento equivalente comunicado nos termos do n.º 2 do artigo 29.º já não se encontra válido ou adequado às atividades desenvolvidas em território nacional, devem comprovar perante o Turismo de Portugal, I. P., por comunicação, a subscrição de novo instrumento e a respetiva validade.
 
-4 - O contrato de seguro pode incluir uma franquia não oponível ao lesado.
+8 - A comunicação prevista no número anterior deve ser efetuada no prazo de 30 dias a contar da data do vencimento do instrumento anterior ou da desadequação da sua garantia, no caso de a empresa se encontrar à data a prestar serviços em Portugal, ou, no caso contrário, no prazo de 30 dias a contar da sua reentrada em território nacional.
 
-5 - Os montantes mínimos fixados nos n.os 2 e 3 são actualizados anualmente, em função do índice de inflação publicado pelo INE no ano imediatamente anterior, e os montantes decorrentes da actualização divulgados no portal do Turismo de Portugal, I. P.
-
-6 - Nenhuma empresa de animação turística ou operador marítimo-turístico pode iniciar ou exercer a sua actividade sem fazer prova junto do Turismo de Portugal, I. P., de ter celebrado os contratos de seguro previstos nos números anteriores e de que os mesmos se encontram em vigor, devendo constar expressamente das respectivas condições particulares a identificação das actividades cobertas.
-
-7 - Para efeitos de prova de que os seguros se encontram em vigor, as empresas de animação turística e os operadores marítimo-turísticos dispõem de um prazo de 30 dias a contar da data de vencimento dos respectivos prémios de seguro, para entregar no Turismo de Portugal, I. P., o comprovativo do seu pagamento.
+9 - Os capitais mínimos a cobrir pelos seguros referidos no n.º 1, a fixar pela portaria mencionada no n.º 2, e no anexo iii do RAMT, a que alude o n.º 3, são atualizados anualmente, em função do índice de inflação publicado pelo INE, I. P., no ano imediatamente anterior, sendo os montantes decorrentes da atualização divulgados no portal do Turismo de Portugal, I. P., e no balcão único eletrónico dos serviços.

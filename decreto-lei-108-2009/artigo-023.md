@@ -2,7 +2,7 @@
 
 ### Validade do reconhecimento
 
-O reconhecimento da actividade de turismo de natureza pode ser revogado por despacho do presidente do ICNB, I. P., nos seguintes casos:
+O reconhecimento da atividade de turismo de natureza pode ser revogado pelo ICNF, I. P. nos seguintes casos:
 
 a) Se deixar de se verificar algum dos requisitos para o reconhecimento, previstos no presente decreto-lei;
 

@@ -1,13 +1,13 @@
 # Artigo 28.º
 
-### Causas de exclusão
+### Isenções gerais
 
-1 - São excluídos do seguro:
+1 - Não exigem a contratação dos seguros referidos nas alíneas a) e c) do n.º 1 do artigo anterior:
 
-a) Os danos causados aos agentes ou representantes legais das empresas de animação turística ou operadores marítimo-turísticos e aos tomadores do seguro;
+a) As atividades que, nos termos de legislação especial, estejam sujeitas à contratação dos mesmos tipos de seguros;
 
-b) Os danos ao cônjuge, ascendentes, descendentes ou aos adoptados pelas pessoas referidas na alínea anterior, assim como a outros parentes ou afins até ao 3.º grau das mesmas pessoas, desde que com elas coabitem ou vivam a seu cargo e não sejam utilizadores do serviço prestado;
+b) A realização em ambiente urbano de percursos pedestres e visitas a museus, palácios e monumentos ou a realização de quaisquer outras atividades que venham a ser identificadas em portaria do membro do Governo responsável pela área do turismo como não apresentando riscos significativos para a saúde e segurança dos destinatários dos serviços ou de terceiros, salvo se a específica forma de prestação do serviço assumir natureza notoriamente perigosa;
 
-c) Os danos provocados pelo lesado ou por terceiro alheio ao fornecimento dos serviços.
+c) A prestação de serviços por uma empresa através de outra empresa subcontratada que disponha, ela própria, dos seguros para a atividade objeto de subcontratação, obrigatórios nos termos dos artigos 27.º a 28.º-A, sendo a primeira, no entanto, solidariamente responsável pelo pagamento das indemnizações a que haja lugar, na parte não coberta por aqueles seguros.
 
-2 - Podem ainda ser excluídos do seguro os danos causados por acidentes ocorridos com meios de transporte que não pertençam à empresa de animação turística ou ao operador marítimo-turístico, desde que o transportador tenha o seguro exigido para aquele meio de transporte.
+2 - Ficam dispensadas da contratação do seguro de responsabilidade civil referido na alínea c) do n.º 1 do artigo anterior as empresas referidas no n.º 3 do mesmo artigo, desde que o seguro contratado ao abrigo do anexo iii do RAMT cubra todas as atividades que exerçam e que o capital mínimo de cobertura seja igual ou superior.

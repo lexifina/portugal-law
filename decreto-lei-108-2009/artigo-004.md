@@ -2,7 +2,7 @@
 
 ### Tipo de actividades
 
-1 - As actividades de animação turística desenvolvidas em áreas classificadas ou outras com valores naturais designam-se por actividades de turismo de natureza, desde que sejam reconhecidas como tal pelo Instituto de Conservação da Natureza e da Biodiversidade, I. P. (ICNB, I. P.), nos termos previstos no capítulo v.
+1 - As atividades de animação turística desenvolvidas em áreas classificadas ou outras com valores naturais designam-se por atividades de turismo de natureza, desde que sejam reconhecidas como tal, nos termos previstos no artigo 13.º e no capítulo v.
 
 2 - As actividades de animação turística desenvolvidas mediante utilização de embarcações com fins lucrativos designam-se por actividades marítimo-turísticas e integram as seguintes modalidades:
 

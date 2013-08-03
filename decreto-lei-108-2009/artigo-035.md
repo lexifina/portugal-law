@@ -6,9 +6,9 @@
 
 a) 10 % para a entidade que levanta o auto de notícia;
 
-b) 20 % para a ASAE;
+b) 30 % para a ASAE;
 
-c) 10 % para a CACMEP;
+c) (Revogada);
 
 d) 60 % para o Estado.
 
@@ -20,4 +20,4 @@ b) 20 % para a entidade fiscalizadora;
 
 c) 60 % para o Estado.
 
-3 - A repartição do produto das coimas resultantes das contra-ordenações ambientais previstas no n.º 4 do artigo 35.º da Lei n.º 50/2006, de 29 de Agosto, é efectuada nos termos do seu artigo 73.º
+3 - A repartição do produto das coimas resultantes das contraordenações ambientais previstas no n.º 4 do artigo 35.º da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, é efetuada nos termos do seu artigo 73.º.

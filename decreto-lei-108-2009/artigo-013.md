@@ -1,9 +1,15 @@
 # Artigo 13.º
 
-### Consulta ao ICNB, I. P.
+### Reconhecimento de atividades de turismo de natureza
 
-1 - Quando o requerente manifeste que pretende obter o reconhecimento das suas actividades como turismo de natureza nos termos previstos no capítulo v, o processo é enviado pelo Turismo de Portugal, I. P., ao ICNB, I. P., devidamente instruído, no prazo de cinco dias contados da recepção do requerimento de registo.
+1 - O exercício de atividades de animação turística fica sujeito a comunicação prévia com prazo, tal como definida na alínea a) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de julho, quando o requerente pretenda obter o reconhecimento das suas atividades como turismo de natureza nos termos previstos no capítulo v, salvo nos casos previstos no n.º 3 do artigo 20.º que ficam sujeitos ao regime da mera comunicação prévia.
 
-2 - Caso o ICNB, I. P., não se pronuncie sobre o requerimento de reconhecimento de actividade de turismo de natureza no prazo de 20 dias contados da data da recepção do processo, presume-se o respectivo reconhecimento.
+2 - A comunicação prévia com prazo realizada nos termos do artigo 20.º permite ao interessado iniciar atividade com o deferimento da pretensão ou, na ausência de resposta ao pedido de reconhecimento, no prazo de 25 dias.
 
-3 - O reconhecimento de actividades de turismo de natureza pode ser requerido depois de efectuado o registo como empresa de animação turística no RNAAT sem encargos adicionais, aplicando-se os prazos previstos nos números anteriores.
+3 - O prazo referido no número anterior é contado a partir do momento do pagamento das taxas devidas nos termos do artigo 16.º, quando o mesmo seja efetuado na data da comunicação prévia ou em data posterior, ou da realização da comunicação prévia, quando não sejam devidas taxas ou quando o seu pagamento tenha sido efetuado em data anterior ao da realização da comunicação prévia, valendo o recibo de receção da comunicação como comprovativo de reconhecimento.
+
+4 - O Turismo de Portugal, I. P., envia o processo ao ICNF, I. P., no prazo máximo de cinco dias contado da receção da comunicação prévia com prazo, para apreciação nos termos dos artigos 21.º e 22.º.
+
+5 - Caso o ICNF, I. P., não se pronuncie no prazo referido no n.º 2, presume-se o respetivo reconhecimento.
+
+6 - O reconhecimento de atividades de turismo de natureza pode ser requerido aquando da mera comunicação prévia para inscrição no RNAAT, prevista na alínea a) do n.º 1 do artigo 11.º, ou em momento posterior.

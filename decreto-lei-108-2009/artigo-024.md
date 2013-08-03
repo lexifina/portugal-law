@@ -2,19 +2,21 @@
 
 ### Exclusividade em áreas protegidas
 
-1 - Na Rede Nacional de Áreas Protegidas, fora dos perímetros urbanos, só podem ser oferecidas, por empresas que tenham obtido o seu reconhecimento como actividades de turismo de natureza, nos termos previstos no presente decreto-lei ou por empresas proprietárias ou exploradoras de empreendimentos de turismo de natureza, reconhecidos nos termos previstos no artigo 20.º do Decreto-Lei n.º 39/2008, de 7 de Março, as seguintes actividades de animação turística:
+1 - Sem prejuízo do disposto no n.º 3, na Rede Nacional de Áreas Protegidas, o exercício de atividades de animação turística fora dos perímetros urbanos e da rede viária nacional, regional e local, aberta à circulação pública, apenas pode ser promovido por empresas reconhecidas nos termos previstos no artigo 20.º.
 
-a) Passeios pedestres, expedições fotográficas, percursos interpretativos e actividades de observação de fauna e flora;
+2 - Para efeitos do número anterior, apenas podem ser exercidas as seguintes atividades de animação turística:
 
-b) Actividades de orientação;
+a) Passeios pedestres, expedições fotográficas, percursos interpretativos e atividades de observação de fauna e flora;
 
-c) Actividades de teambuilding;
+b) Atividades de orientação;
+
+c) Atividades de teambuilding;
 
 d) Jogos populares;
 
-e) Montanhismo, escalada, actividades de neve, canyoning, coasteering, e espeleologia;
+e) Montanhismo, escalada, atividades de neve, canyoning, coasteering, e espeleologia;
 
-f) Percursos de obstáculos com recurso a rapel, slide, pontes e similares;
+f) Arborismo e outros percursos de obstáculos com recurso a rapel, slide, pontes e similares;
 
 g) Paintball, tiro com arco, besta, zarabatana, carabina de pressão de ar e similares;
 
@@ -22,20 +24,22 @@ h) Balonismo, asa delta sem motor, parapente e similares;
 
 i) Passeios de bicicleta (cicloturismo ou BTT), passeios de segway e em outros veículos não poluentes;
 
-j) Passeios equestres, passeios em atrelagens de tracção animal e similares;
+j) Passeios equestres, passeios em atrelagens de tração animal e similares;
 
-l) Passeios em veículos todo o terreno;
+l) Passeios em todo o terreno;
 
 m) Passeios de barco, com ou sem motor;
 
-n) Observação de cetáceos e outros animais marinhos;
+n) Pesca turística;
 
-o) Vela, remo, canoagem e actividades náuticas similares;
+o) Observação de cetáceos e outros animais marinhos;
 
-p) Surf, bodyboard, windsurf, kitesurf e actividades similares;
+p) Vela, remo, canoagem e atividades náuticas similares;
 
-q) Rafting, hidrospeed e actividades similares;
+q) Surf, bodyboard, windsurf, kitesurf e atividades similares;
 
-r) Mergulho.
+r) Rafting, hidrospeed e atividades similares;
 
-2 - Sem prejuízo da demais legislação aplicável, as entidades referidas na alínea c) do n.º 3 do artigo 5.º, que pretendam exercer as actividades mencionadas no número anterior na Rede Nacional de Áreas Protegidas devem ainda enviar ao ICNB, I. P., a declaração prevista na alínea b) do n.º 1 do artigo 20.º, aplicável com as devidas adaptações.
+s) Mergulho, snorkeling e similares.
+
+3 - Sem prejuízo da demais legislação aplicável, as entidades referidas no n.º 4 do artigo 5.º, que pretendam exercer as atividades mencionadas no número anterior na Rede Nacional de Áreas Protegidas devem ainda enviar ao ICNF, I. P., a declaração de adesão formal a um código de conduta das empresas de turismo de natureza prevista na alínea b) do n.º 1 do artigo 20.º, aplicável com as devidas adaptações.
