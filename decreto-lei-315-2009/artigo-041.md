@@ -8,4 +8,10 @@
 
 3 - A aplicação das coimas e sanções acessórias compete ao diretor-geral de Alimentação e Veterinária.
 
-4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
+4 - O produto das coimas é distribuído da seguinte forma:
+
+a) 10 % para a entidade que levantou o auto;
+
+b) 30 % para a DGAV;
+
+c) 60 % para o Estado.

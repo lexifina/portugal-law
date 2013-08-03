@@ -8,7 +8,7 @@
 
 a) Termo de responsabilidade, conforme modelo constante do anexo ao presente decreto-lei, do qual faz parte integrante;
 
-b) Certificado do registo criminal, constituindo indício de falta de idoneidade o facto de o detentor ter sido condenado, por sentença transitada em julgado, por qualquer dos crimes previstos no presente decreto-lei, por crime de homicídio por negligência, por crime doloso contra a vida, a integridade física, a liberdade pessoal, a liberdade e autodeterminação sexual, a saúde pública ou a paz pública, tráfico de estupefacientes e substâncias psicotrópicas, tráfico de pessoas, tráfico de armas, crimes contra animais de companhia, ou por outro crime doloso cometido com uso de violência;
+b) Certificado do registo criminal, constituindo indício de falta de idoneidade o facto de o detentor ter sido condenado, por sentença transitada em julgado, por qualquer dos crimes previstos no presente decreto-lei, por crime de homicídio por negligência, por crime doloso contra a vida, a integridade física, a liberdade pessoal, a liberdade e autodeterminação sexual, a saúde pública ou a paz pública, tráfico de estupefacientes e substâncias psicotrópicas, tráfico de pessoas, tráfico de armas, ou por outro crime doloso cometido com uso de violência;
 
 c) Documento que certifique a formalização de um seguro de responsabilidade civil, nos termos do disposto no artigo 10.º;
 
@@ -37,5 +37,3 @@ b) Quando a permanência em território nacional seja de duração igual ou supe
 i) Apresentar-se ao veterinário municipal da área em que se encontra, o qual procede ao registo do animal ou animais no Sistema de Identificação de Caninos e Felinos (SICAFE), aprovado pelo Decreto-Lei n.º 313/2003, de 17 de dezembro, alterado pela Lei n.º 49/2007, de 31 de agosto;
 
 ii) Sem prejuízo do disposto no n.º 3 do artigo 19.º, proceder à esterilização do animal ou animais, no prazo de 15 dias, remetendo o comprovativo daquela intervenção à direcção de serviços veterinários da respectiva área, no prazo máximo de 15 dias após a realização da mesma, a qual dá conhecimento ao médico veterinário do ponto de entrada.
-
-5 - Sem prejuízo do disposto nos n.os 1 e 2, os cães que sejam classificados como potencialmente perigosos, provenientes de um Estado-Membro ou de um país terceiro, tendo em vista a reprodução, devem ser registados no SIAC, no prazo de 10 dias após a entrada no território nacional em nome do titular que figure no Passaporte do Animal de Companhia ou no certificado sanitário respetivo.
