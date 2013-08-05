@@ -4,22 +4,36 @@
 
 # Artigo 9.º
 
-### Constituição e funcionamento
+### Conselho executivo
 
-1 - O conselho executivo é constituído por três membros designados pelo Primeiro-Ministro, dos quais dois são eleitos pelo conselho directivo.
+1 - O conselho executivo é constituído por três membros designados por despacho do Primeiro-Ministro de entre os membros do conselho de administração.
 
-2 - Os membros do conselho executivo podem ser escolhidos de entre os membros do conselho directivo, sem prejuízo do disposto no n.º 4 do artigo 8.º
+2 - O presidente do conselho de administração é, por inerência, o presidente do conselho executivo.
 
-3 - O conselho executivo terá um presidente, nomeado pelo Primeiro-Ministro de entre os membros daquele conselho.
+3 - O termo do respetivo mandato no conselho de administração implica a cessação simultânea das funções de membro do conselho executivo.
 
-4 - O mandato dos membros do conselho executivo é de três anos, sem prejuízo, respectivamente, de eventual reeleição ou recondução por iguais períodos, salvo o disposto no número seguinte.
+4 - As deliberações do conselho executivo são tomadas por maioria, tendo o presidente, além do seu voto, direito a voto de desempate.
 
-5 - O termo do respectivo mandato no conselho directivo implica a cessação simultânea das funções de membro do conselho executivo
+5 - O presidente do conselho executivo pode, mediante declaração fundamentada, suspender a eficácia das deliberações que considere contrárias à lei, aos estatutos ou aos interesses da Fundação, ficando tais deliberações sujeitas, nesse caso, a apreciação e ratificação do conselho de administração.
 
-6 - As deliberações do conselho executivo são tomadas por maioria, tendo o presidente, além do seu voto, direito a voto de desempate.
+6 - O conselho executivo tem funções de gestão corrente da Fundação, competindo-lhe em especial:
 
-7 - O presidente do conselho executivo pode, mediante declaração fundamentada, suspender a eficácia das deliberações que considere contrárias à lei, aos estatutos ou aos interesses da Fundação, ficando tais deliberações sujeitas, nesse caso, a apreciação e ratificação do conselho directivo.
+a) Definir a organização interna da Fundação;
 
-8 - O conselho executivo é responsável perante o conselho directivo.
+b) Preparar e submeter à aprovação do conselho de administração o orçamento e o plano de atividades anuais da Fundação;
 
-9 - As funções dos membros do conselho executivo serão remuneradas.
+c) Avaliar e aprovar propostas de projetos ou de atividades, aprovar a concessão de subvenções, apoios ou empréstimos a projetos específicos e quaisquer outras despesas da Fundação para execução do plano de atividades e do orçamento devidamente aprovados;
+
+d) Contratar, gerir e dirigir o pessoal da Fundação;
+
+e) Instituir, manter e conservar sistemas internos de controlo contabilístico, incluindo os livros e registos respeitantes a todas as transações e entradas e saídas de fundos, por forma a refletirem corretamente, em cada momento, a situação patrimonial e financeira da Fundação;
+
+f) Preparar e submeter à aprovação do conselho de administração o relatório anual, o balanço e as contas de cada exercício, bem como o parecer do fiscal único;
+
+g) Praticar todos os atos necessários ao cumprimento dos deveres de transparência a que a Fundação está legalmente obrigada.
+
+7 - [Revogado].
+
+8 - [Revogado].
+
+9 - [Revogado].

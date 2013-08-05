@@ -1,11 +1,11 @@
+## Secção V
+
+## fiscal único
+
 # Artigo 13.º
 
-### (Funcionamento e competência)
+### Fiscal único
 
-1 - O conselho consultivo reunirá sempre que for convocado pelo conselho directivo ou pelo conselho executivo.
+1 - A fiscalização da Fundação é exercida por um fiscal único, designado pelo conselho de administração sob proposta do conselho executivo, tendo um mandato de três anos.
 
-2 - O conselho consultivo é um órgão de apoio e consulta da Fundação, competindo-lhe em especial:
-
-a) Emitir pareceres sobre as actividades e projectos da Fundação e apoiar a avaliação de propostas de novos projectos;
-
-b) Apresentar sugestões e fazer recomendações relativamente a futuras actividades da Fundação.
+2 - O fiscal único pode ser um revisor oficial de contas, uma sociedade de revisores oficiais de contas ou uma empresa de auditoria.

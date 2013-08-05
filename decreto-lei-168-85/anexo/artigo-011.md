@@ -4,8 +4,8 @@
 
 A Fundação obriga-se:
 
-a) Pelas assinaturas conjuntas de dois membros do conselho executivo;
+a) Pelas assinaturas conjuntas de dois membros do conselho de administração, um dos quais o respetivo presidente;
 
-b) Pela assinatura de um membro do conselho executivo que para tal houver recebido delegação deste conselho;
+b) Pelas assinaturas conjuntas de dois membros do conselho executivo, um dos quais o respetivo presidente, no âmbito das suas competências e nos casos em que a competência para a representação da Fundação tenha sido delegada neste órgão;
 
-c) Pela assinatura de um mandatário legalmente constituído pelo conselho executivo, no âmbito dos poderes constantes da procuração.
+c) Pela assinatura de um mandatário legalmente constituído pelo conselho de administração, no âmbito dos poderes constantes da procuração.
