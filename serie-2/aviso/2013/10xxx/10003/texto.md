@@ -1,0 +1,9 @@
+Aviso n.º 10003/2013
+Elaboração do Plano de Pormenor para a UOPG 11 do Plano de Urbanização da Meia Praia
+António Marreiros Gonçalves, Vice-Presidente da Câmara Municipal de Lagos:
+Faz público, nos termos do n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, que a Câmara Municipal de Lagos, na sua reunião realizada em 5 de junho de 2013, deliberou promover a elaboração do Plano de Pormenor para a UOPG 11, do Plano de Urbanização da Meia Praia, aprovando os respetivos Termos de Referência e fixando um prazo de 120 dias para a sua elaboração.
+De acordo com o disposto no n.º 2 do artigo 77.º do citado diploma legal, é estabelecido um período de participação pública pelo prazo de 15 dias, contados a partir da data da publicação do presente Aviso na 2.ª série do Diário da República, durante o qual os interessados poderão, por escrito, formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, por correio ou através do endereço eletrónico expediente.geral@cm-lagos.pt.
+Durante o período fixado para a participação, poderão os interessados consultar os elementos que constituem este processo, na Divisão de Urbanismo, Licenciamento e Fiscalização desta Câmara Municipal (Edifício Paços do Concelho Séc. XXI, Praça do Município, 8600-293 Lagos), entre as 09:00 e as 17:00 horas, bem como no endereço eletrónico www.cm-lagos.com.
+Mais se publicita que a elaboração do presente Plano decorre de Contrato de Planeamento celebrado em 23 de julho de 2013, com o promotor New Paradigm - Investimentos Imobiliários, Lda., conforme prevê o artigo 6.º-A do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro.
+24 de julho de 2013. - O Vice-Presidente, António Marreiros Gonçalves.
+207148667
