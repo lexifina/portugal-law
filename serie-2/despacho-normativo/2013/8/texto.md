@@ -1,0 +1,11 @@
+Despacho normativo n.º 8/2013
+A Portaria n.º 741/2009, de 10 de julho, constituiu, nos termos do artigo 85.º-J do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de outubro, com as alterações introduzidas pelo Regulamento n.º 491/ 2009 do Conselho, de 25 de maio, uma reserva de direitos de plantação no território do continente, cujas normas complementares de execução devem ser implementadas por despacho normativo do membro do governo responsável pela área da agricultura, de acordo com o disposto no n.º 1 do artigo 3.º da referida portaria.
+Considerando que estão criadas as condições para a distribuição de direitos de plantação, provenientes da reserva, a entidades que desenvolvam projetos de interesse público, de âmbito regional ou nacional, e que se revistam de relevância para o desenvolvimento da viticultura, justifica-se a atribuição desses direitos para que os mesmos possam beneficiar das ajudas à reconversão e reestruturação de vinhas.
+Assim, nos termos do disposto no n.º 1 do artigo 3.º da Portaria n.º 741/2009, de 10 de julho de 2009, e no uso das competências delegadas através do Despacho n.º 4704/2013, de 4 de abril, determino o seguinte:
+1 - Atribuir à "PORVID - Associação Portuguesa para a Diversidade da Videira" um direito de plantação para uma área de 4 ha, para a produção de vinho, assegurando a preservação de património genético, a partir da prospeção e conservação da variabilidade intravarietal das castas autóctones portuguesas.
+2 - Os direitos de plantação concedidos devem ser utilizados pela requerente no decurso das duas campanhas seguintes à da campanha em que os direitos são atribuídos, sem possibilidade de renovação.
+3 - Após a plantação, o viticultor deve comunicar o facto à Direção Regional de Agricultura e Pescas (DRAP) respetiva, no prazo de 30 dias.
+4 - A DRAP confirma a plantação mediante vistoria, procede ao levantamento da parcela de vinha e às atualizações no Sistema de Informação da Vinha e do Vinho (SIvv) e comunica os resultados ao Instituto da Vinha e do Vinho, I. P., no prazo de 30 dias.
+5 - O presente despacho entra em vigor no dia seguinte ao da sua publicação.
+23 de julho de 2013. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+207146999
