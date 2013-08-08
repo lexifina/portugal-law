@@ -58,7 +58,7 @@ Limites às elegibilidades
 
 13 - O investimento constante no n.º 4 é elegível quando o seu uso for indispensável à execução da operação, sendo o seu limite definido em OTE.
 
-14 - As despesas relativas aos n.os 8 e 9 são limitadas a uma percentagem das despesas totais elegíveis, a definir em OTE.
+14 - As despesas relativas aos n.os 8 e 9 são limitadas a uma percentagem do valor elegível aprovado das restantes despesas, a definir em OTE.
 
 15 - São elegíveis as despesas do IVA quando os beneficiários se encontrem sujeitos ao regime de isenção, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA não é elegível.
 
