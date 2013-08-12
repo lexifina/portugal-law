@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 132/2013
+Recomenda ao Governo um conjunto de orientações visando assegurar a preservação de Alter do Chão como polo estratégico da equinicultura nacional, na sequência da aprovação da decisão de extinção da Fundação Alter Real.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que assegure a manutenção, em Alter do Chão e enquanto polo estratégico da equinicultura lusitana, do ativo estratégico nacional ali existente, nomeadamente com a conservação em Alter do Chão da Coudelaria, do Laboratório de Genética Molecular e dos serviços do Registo Nacional de Equinos - Stud-Book da Raça Lusitana -, bem como em termos de infraestruturas e de pessoal, revertendo a confusão orgânica que está criada e consequente dispersão de responsabilidades e competências por várias entidades da administração, nos termos previstos na Resolução do Conselho de Ministros n.º 13-A/2013, de 8 de março.
+Aprovada em 24 de julho de 2013.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
