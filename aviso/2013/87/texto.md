@@ -1,0 +1,5 @@
+Aviso n.º 87/2013
+Por ordem superior se torna público que, em 19 de abril de 2013 e em 12 de julho de 2013, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da República de Chipre e pela Embaixada de Portugal em Nicósia, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República de Chipre para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Bruxelas em 19 de novembro de 2012.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 89/2013, de 3 de maio, e ratificada pelo Decreto do Presidente da República n.º 73/2013, de 1 de julho, ambos publicados no Diário da República, Iª Série, n.º 124, de 1 de julho de 2013.
+Nos termos do artigo 29 da referida Convenção, esta entra em vigor a 16 de agosto de 2013.
+Direção-Geral dos Assuntos Europeus, 17 de julho de 2013. - O Diretor-Geral dos Assuntos Europeus, Francisco António Duarte Lopes.
