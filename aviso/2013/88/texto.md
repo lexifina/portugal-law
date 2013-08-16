@@ -1,0 +1,5 @@
+Aviso n.º 88/2013
+Por ordem superior se torna público que, em 26 de abril de 2012 e 28 de junho de 2013, foram recebidas notas pelo Ministério dos Negócios Estrangeiros do Japão e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, respetivamente, em que se comunica terem sido cumpridas as formalidades internas de aprovação da Convenção entre a República Portuguesa e o Japão para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa, em 19 de dezembro de 2011.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 50/2012, de 24 de fevereiro de 2012 e ratificada pelo Decreto do Presidente da República n.º 81/2012, de 17 de abril de 2012, ambos publicados no Diário da República, 1.ª série, n.º 76, de 17 de abril de 2012.
+Nos termos do artigo 28.º, n.º 1, da Convenção, esta entrou em vigor a 28 de julho de 2013.
+Direção-Geral de Política Externa, 31 de julho de 2013. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
