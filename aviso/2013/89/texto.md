@@ -1,0 +1,4 @@
+Aviso n.º 89/2013
+Por ordem superior se torna público que, a 23 de maio de 2012 e a 22 de junho de 2011, foram recebidas notas pelo Ministério dos Negócios Estrangeiros da República da Tunísia e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, respetivamente, pelas quais ambos os Estados comunicam terem sido cumpridas as formalidades internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República da Tunísia no domínio do Turismo, assinado em Tunes, a 23 de março de 2010.
+O referido Acordo foi aprovado pelo Decreto n.º 9/2012, de 20 de abril, publicado no Diário da República, 1.ª série, n.º 79, de 20 de abril de 2012, e, nos termos do seu artigo 13.º, entrou em vigor no dia 22 de julho de 2012.
+Direção-Geral de Política Externa, 8 de agosto de 2013. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
