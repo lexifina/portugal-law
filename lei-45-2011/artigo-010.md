@@ -6,23 +6,17 @@
 
 ### Administração de bens
 
-1 - A administração dos bens apreendidos, arrestados, recuperados ou declarados perdidos a favor do Estado, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional, é assegurada por um gabinete do Instituto de Gestão Financeira e Equipamentos da Justiça, IP (IGFEJ, IP), designado Gabinete de Administração de Bens (GAB).
+1 - A administração dos bens apreendidos ou recuperados, no âmbito de processos nacionais ou de actos de cooperação judiciária internacional, é assegurada por um gabinete do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.), designado Gabinete de Administração de Bens (GAB).
 
-2 - Compete ao conselho diretivo do IGFEJ, I. P., a prática de todos os atos de administração e gestão do GAB, assim como a definição das suas normas de funcionamento e a regulamentação dos procedimentos instituídos no presente capítulo.
+2 - Compete ao conselho directivo do IGFIJ, I. P., a prática de todos os actos de administração e gestão do GAB.
 
-3 - No exercício dos seus poderes de administração compete ao GAB, nos termos do disposto no presente capítulo:
+3 - No exercício dos seus poderes de administração compete ao GAB:
 
 a) Proteger, conservar e gerir os bens recuperados ou à guarda do Estado;
 
-b) Determinar a venda, ou realizá-la a solicitação da pessoa afetada, quando a autoridade judiciária tenha informado que o bem não é um meio de prova relevante;
+b) Determinar a venda, a afectação ao serviço público ou a destruição dos bens mencionados na alínea anterior, desde que salvaguardado o cumprimento da regulamentação comunitária aplicável;
 
-c) Determinar a afetação a finalidade pública ou socialmente útil conexa com a administração da justiça, conquanto os bens a afetar se revelem de interesse para a entidade beneficiária e sejam adequados ao exercício e prossecução das suas competências legais ou estatutárias;
-
-d) Determinar a destruição dos bens mencionados na alínea a), desde que salvaguardado o cumprimento da regulamentação comunitária aplicável;
-
-e) Assegurar a destinação dos bens recuperados ou declarados perdidos a favor do Estado por decisão transitada em julgado, sem prejuízo do disposto no n.º 5 do artigo 20.º-A;
-
-f) Exercer as demais competências que lhe sejam legalmente atribuídas.
+c) Exercer as demais competências que lhe sejam legalmente atribuídas.
 
 4 - O GAB exerce as suas funções no estrito respeito pelo princípio da transparência, visando a gestão racional e eficiente dos bens administrados e, se possível, o seu incremento patrimonial.
 
