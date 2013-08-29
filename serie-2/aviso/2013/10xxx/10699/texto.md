@@ -1,0 +1,6 @@
+Aviso n.º 10699/2013
+Plano de Pormenor para os terrenos adjacentes do entroncamento entre a avenida Salgado Zenha e rua Joaquim da Silva Cruz, na freguesia de Guifões
+Guilherme Manuel Lopes Pinto, Presidente da Câmara Municipal de Matosinhos, torna público, que conforme o disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 46/2009 de 20 de fevereiro, a Câmara Municipal em sua reunião ordinária de 30 de julho de 2013, deliberou mandar elaborar o Plano de Pormenor para os terrenos adjacentes do entroncamento entre a avenida Salgado Zenha e rua Joaquim da Silva Cruz, na freguesia de Guifões, com enquadramento no n.º 1 e na alínea a) do n.º 2 do artigo 93.º do Decreto-Lei n.º 46/2009 de 20 de fevereiro, coadjuvado com o artigo 96.º
+Nos termos do n.º 1 do artigo 74.º e n.º 2 do artigo 77.º do referido diploma legal, decorrerá um período de 20 dias, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular questões que possam ser consideradas no âmbito do procedimento da elaboração do Plano de Pormenor para os terrenos adjacentes do entroncamento entre a avenida Salgado Zenha e rua Joaquim da Silva Cruz, na freguesia de Guifões.
+12 de agosto de 2013. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
+207194861
