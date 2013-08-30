@@ -1,0 +1,11 @@
+Aviso (extrato) n.º 10747/2013
+Plano de Pormenor da Zona de Lazer de Castro Marim
+Discussão Pública
+Dr. José Fernandes Estevens, Presidente da Câmara Municipal de Castro Marim, ao abrigo do disposto na alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99, de 18 de setembro, alterada pela Lei n.º 5-A/2002, de 11 de janeiro, e para efeitos do previsto no n.º 3 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, torna público que:
+A Câmara Municipal de Castro Marim deliberou, por unanimidade, na sua reunião ordinária de 7 de agosto de 2013, aprovar o início do período de discussão pública da proposta do Plano de Pormenor da Zona de Lazer de Castro Marim, que será de 22 (vinte e dois) dias.
+O prazo supra referido é contado nos termos do artigo 72.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, com a redação dada pelo Decreto-Lei n.º 6/96, de 31 de janeiro e iniciará decorridos 5 (cinco) dias da data de publicação do presente aviso no Diário da República, conforme previsto no n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro.
+A proposta do Plano, acompanhada da avaliação ambiental, da ata da conferência de serviços, dos pareceres da Comissão de Coordenação e Desenvolvimento Regional do Algarve e demais entidades intervenientes no processo, estará disponível na Unidade Orgânica de Administração Urbanística, Ambiente e Serviços Urbanos (UOAUASU) da Câmara Municipal e na sede da Junta de Freguesia de Castro Marim, onde poderá ser consultada todos os dias úteis, durante as horas normais de expediente.
+As sugestões ou observações a apresentar deverão ser formuladas por escrito e endereçadas ao Presidente da Câmara Municipal ou entregues diretamente na UOAUASU.
+Para constar e surtir os devidos efeitos, se publica o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume e publicitados nos meios de comunicação social, em conformidade com as normas legais aplicáveis.
+8 de agosto de 2013. - O Presidente da Câmara, Dr. José Fernandes Estevens.
+307185108
