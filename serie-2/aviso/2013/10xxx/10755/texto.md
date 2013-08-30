@@ -1,0 +1,9 @@
+Aviso n.º 10755/2013
+Dr. José Inácio Marques Eduardo, Presidente da Câmara Municipal do Concelho de Lagoa (Algarve):
+Torna público que a Câmara Municipal de Lagoa na sua reunião ordinária realizada a 6 de agosto de 2013, aprovou o desencadear do processo de alteração do artigo 27.º-C do Regulamento do PDM, no sentido de lhe ser aditado um novo número, com o seguinte teor:
+«5 - Quando as obras previstas no presente artigo, tenham por objeto equipamento de utilização coletiva e decorram de necessidade ou imposição legal, poderá ser excecionado o cumprimento de algum ou alguns dos requisitos previstos no número anterior, desde que se comprove que com esse cumprimento se inviabilizaria a sua conformidade ao necessário ou legalmente imposto, sem prejuízo da aplicação de outras condicionantes legais em vigor, bem como servidões ou restrições de utilidade pública que afetem o local»
+ao abrigo do disposto nos artigos 93.º, 95.º e 96.º do Decreto-Lei n.º 380/99, de 22/09, com as alterações em vigor, e nos termos do n.º 1 do artigo 74.º do mesmo diploma, com os fundamentos e proposta apresentada pelos serviços.
+Nos termos do n.º 2 do artigo 77.º daquele diploma legal, decorrerá um período de 15 (quinze) dias úteis, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da alteração do artigo 27.º-C do Regulamento do Plano Diretor Municipal.
+Por ser verdade, e para que conste, passei o presente Aviso e outros de igual teor que vou assinar e fazer afixar nos lugares habituais, publicitar na página da Internet do Município em www.cm-lagoa.pt, através da comunicação social e no Diário da República.
+12 de agosto de 2013. - O Presidente da Câmara, Dr. José Inácio Marques Eduardo.
+207196246
