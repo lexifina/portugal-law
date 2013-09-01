@@ -5,3 +5,5 @@
 1 - No caso de recusa, julgado procedente o recurso hierárquico ou a impugnação judicial, deve anotar-se a caducidade dos registos provisórios incompatíveis com o acto inicialmente recusado e converter-se oficiosamente os registos dependentes, salvo se outra for a consequência da requalificação do registo dependente.
 
 2 - Verificando-se a caducidade do direito de impugnação ou qualquer dos factos previstos no n.º 2 do artigo anterior, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis, salvo se outra for a consequência da requalificação do registo dependente.
+
+3 - Nos casos previstos no n.º 5 do artigo anterior, a anotação da pendência de qualificação determina a anotação de pendência de requalificação dos registos dependentes ou incompatíveis.

@@ -2,4 +2,4 @@
 
 ### Modalidades do pedido
 
-O pedido de registo pode ser efectuado pessoalmente, por via electrónica, pelo correio, por telecópia e por via imediata.
+O pedido de registo pode ser efetuado pessoalmente, por via eletrónica ou por correio.

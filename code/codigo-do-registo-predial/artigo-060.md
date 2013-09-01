@@ -10,13 +10,9 @@
 
 2 - A anotação dos documentos apresentados por via electrónica é fixada pela portaria referida no n.º 1 do artigo 41.º-C.
 
-3 - Os documentos apresentados por telecópia são anotados pela ordem de recepção dos pedidos nos seguintes termos:
+3 - [Revogado].
 
-a) Imediatamente após a última apresentação pessoal do dia, quando recebidos entre as 0 horas e a hora de encerramento ao público do serviço de registo; ou
-
-b) Imediatamente antes da primeira apresentação pessoal do dia seguinte, quando recebidos entre a hora de encerramento ao público e as 24 horas.
-
-4 - Os documentos apresentados pelo correio ou por via imediata são anotados imediatamente após a última apresentação por telecópia recebida entre as 0 horas e a hora de encerramento ao público do serviço de registo, observando-se o disposto no artigo 63.º, se necessário.
+4 - Os documentos apresentados pelo correio são anotados imediatamente após a última apresentação pessoal de cada dia, observando-se o disposto no artigo 63.º, se necessário.
 
 5 - Por cada facto é feita uma anotação distinta no diário, segundo a ordem que no pedido lhe couber.
 

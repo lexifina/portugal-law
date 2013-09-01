@@ -18,6 +18,8 @@ f) Respeitando o facto a diversos prédios, a menção dessa circunstância;
 
 g) Tratando-se de inscrição de ampliação, o número da inscrição ampliada.
 
+h) A nacionalidade dos sujeitos ativos, caso estes sejam estrangeiros, quando conste do título.
+
 2 - Os sujeitos passivos são indicados, em cada inscrição, somente pelo nome e número de identificação fiscal, no caso das pessoas singulares, ou pela denominação ou firma e número de pessoa colectiva, no caso das pessoas colectivas.
 
 3 - Quando os sujeitos da inscrição não puderem ser identificados pela forma prevista neste artigo, mencionar-se-ão as circunstâncias que permitam determinar a sua identidade.

@@ -8,4 +8,4 @@
 
 3 - Os registos de outros factos que venham a ser efectuados e que dependam, directa ou indirectamente, da rectificação pendente estão sujeitos ao regime de provisoriedade previsto na alínea b) do n.º 2 do artigo 92.º, sendo-lhes aplicável, com as adaptações necessárias, os n.os 6 a 8 do mesmo artigo.
 
-4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a rectificação ou declare findo o processo.
+4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a retificação.

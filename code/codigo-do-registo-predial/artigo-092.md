@@ -12,7 +12,7 @@ c) De factos jurídicos respeitantes a fracções autónomas, antes do registo d
 
 d) De ónus de casas de renda económica ou de renda limitada, antes da concessão da licença de habitação, e de quaisquer factos jurídicos a elas respeitantes, antes do registo definitivo do ónus;
 
-e) (Revogada);
+e) De negócio jurídico anulável por falta de consentimento de terceiro ou de autorização judicial, antes de sanada a anulabilidade ou de caducado o direito de a arguir;
 
 f) De negócio jurídico celebrado por gestor ou por procurador sem poderes suficientes, antes da ratificação;
 
@@ -22,7 +22,7 @@ h) De aquisição por venda em processo judicial, antes de passado o título de 
 
 i) De hipoteca voluntária, antes de lavrado o título constitutivo;
 
-j) De aquisição por partilha em inventário, antes de a respectiva sentença homologatória se tornar definitiva;
+j) De aquisição por partilha em inventário, antes de a respetiva decisão homologatória se tornar definitiva;
 
 l) De hipoteca judicial, antes de passada em julgado a sentença;
 
@@ -31,6 +31,8 @@ m) Da hipoteca a que se refere o artigo 701.º do Código Civil, antes de passad
 n) Da declaração de insolvência antes do trânsito em julgado da sentença;
 
 o) (Revogada).
+
+p) De aquisição efetuada ao abrigo do disposto no Decreto-Lei n.º 280/2007, de 7 de agosto, alterado pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, e 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 36/2013, de 11 de março, antes de titulado o contrato.
 
 2 - Além das previstas no número anterior, são ainda provisórias por natureza:
 
@@ -42,7 +44,7 @@ c) As inscrições que, em reclamação contra a reforma de suportes documentais
 
 d) As inscrições efectuadas na pendência de recurso hierárquico ou impugnação judicial contra a recusa do registo ou enquanto não decorrer o prazo para a sua interposição.
 
-3 - As inscrições referidas nas alíneas b) a d) do n.º 1 e na alínea c) do n.º 2, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de cinco anos, renovável por períodos de igual duração, a pedido dos interessados, mediante a apresentação de documento que comprove a subsistência da razão da provisoriedade emitido com antecedência não superior a 180 dias em relação ao termo daquele prazo.
+3 - As inscrições referidas nas alíneas b) a e) do n.º 1, bem como na alínea c) do n.º 2, se não forem também provisórias com outro fundamento, mantêm-se em vigor pelo prazo de cinco anos, renovável por períodos de igual duração, a pedido dos interessados, mediante a apresentação de documento que comprove a subsistência da razão da provisoriedade emitido com antecedência não superior a seis meses em relação ao termo daquele prazo.
 
 4 - A inscrição referida na alínea g) do n.º 1, quando baseada em contrato-promessa de alienação, é renovável por períodos de seis meses e até um ano após o termo do prazo fixado para a celebração do contrato prometido, com base em documento que comprove o consentimento das partes.
 
@@ -59,3 +61,5 @@ d) As inscrições efectuadas na pendência de recurso hierárquico ou impugnaç
 10 - As inscrições referidas na alínea c) do n.º 1 são convertidas oficiosamente na dependência do registo definitivo da constituição da propriedade horizontal.
 
 11 - As inscrições referidas nas alíneas a) e j) a n) do n.º 1 não estão sujeitas a qualquer prazo de caducidade.
+
+12 - A inscrição referida na alínea p) do n.º 1, se não for também provisória com outro fundamento, mantém-se em vigor pelo prazo de seis anos, renovável por períodos de três anos, a pedido dos interessados, mediante apresentação de documento que comprove a subsistência da razão da provisoriedade emitido com antecedência não superior a 180 dias em relação ao termo daquele prazo.

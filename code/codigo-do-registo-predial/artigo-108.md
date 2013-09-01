@@ -14,7 +14,7 @@ d) Residência habitual ou domicílio profissional;
 
 e) Número de identificação fiscal.
 
-2 - Relativamente aos apresentantes dos pedidos de registo, são recolhidos os dados referidos nas alíneas a) e d) do número anterior e ainda os seguintes:
+2 - Relativamente aos apresentantes dos pedidos de registo, são recolhidos os dados referidos nas alíneas a), d) e e) do número anterior e ainda os seguintes:
 
 a) Número do documento de identificação ou da cédula profissional;
 

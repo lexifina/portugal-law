@@ -9,3 +9,5 @@
 3 - Com a propositura da acção ou a interposição de recurso hierárquico fica suspenso o prazo de caducidade do registo provisório até lhe serem anotados os factos referidos no número anterior.
 
 4 - Proferida decisão final que julgue insubsistente a recusa da prática do acto nos termos requeridos, o conservador deve lavrar o registo recusado, com base na apresentação correspondente, ou converter oficiosamente o registo provisório.
+
+5 - Proferida decisão final de que resulte a insubsistência da qualificação impugnada com fundamento na inobservância do disposto no artigo 73.º ou na preterição de formalidades essenciais, o conservador deve anotar a procedência da impugnação e inutilizar a anotação de recusa ou o registo efetuado provisoriamente, com menção de pendência de qualificação.
