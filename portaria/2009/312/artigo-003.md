@@ -20,10 +20,10 @@ c) Garantir um elevado rigor técnico na elaboração dos planos de apoio ao sob
 
 d) Prevenir futuras situações de sobreendividamento, nomeadamente através da prestação de informação aos sobreendividados sobre noções indispensáveis de gestão de orçamento familiar;
 
-e) Garantir a comunicação por via electrónica a centros de arbitragem em matéria de acção executiva de acordos alcançados entre sobreendividados e entidades credoras, bem como do prazo de cumprimento estipulado, quando exista;
+e) [Revogada];
 
-f) Garantir a comunicação por via electrónica a centros de arbitragem em matéria de acção executiva do incumprimento de acordos alcançados entre sobreendividados e entidades credoras;
+f) [Revogada];
 
-g) Garantir a comunicação, preferencialmente por via electrónica, ao Gabinete para a Resolução Alternativa de Litígios (GRAL) e ao agente de execução da não inclusão ou inclusão de uma pessoa na lista pública de execuções;
+g) Garantir a comunicação, preferencialmente por via eletrónica, ao Gabinete para a Resolução Alternativa de Litígios (GRAL), que se integra na Direção-Geral da Política de Justiça (DGPJ), e ao agente de execução da não inclusão ou inclusão de uma pessoa na lista pública de execuções;
 
 h) Garantir a celeridade do procedimento de apoio ao sobreendividamento e o cumprimento dos prazos estabelecidos no n.º 3 do artigo anterior.
