@@ -16,4 +16,4 @@
 
 7 - Nas situações em que os requerentes não se conformem com as alterações indicadas pelo Ministério Público e mantenham o propósito de se divorciar, o processo é remetido ao tribunal da comarca a que pertença a conservatória.
 
-8 - É aplicável o disposto no n.º 2 do artigo 272.º do Código de Registo Civil e nos artigos 1420.º, 1421.º, 1422.º e 1424.º do Código de Processo Civil, com as necessárias adaptações.
+8 - É aplicável o disposto no n.º 2 do artigo 272.º do Código do Registo Civil e nos artigos 995.º a 997.º e 999.º do Código de Processo Civil, com as necessárias adaptações.
