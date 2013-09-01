@@ -1,0 +1,29 @@
+# Artigo 23.º
+
+### Alteração ao Regulamento Emolumentar dos Registos e Notariado
+
+O artigo 21.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178-A/2005, de 28 de Outubro, 76-A/2006, de 29 de Março, 85/2006, de 23 de Maio, 125/2006, de 29 de Junho, 237-A/2006, de 14 de Dezembro, e 8/2007, de 17 de Janeiro, passa a ter a seguinte redacção:
+
+«Artigo 21.º
+
+[...]
+
+1 - ...
+
+2 - ....
+
+3 - ....
+
+4 - ....
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ....
+
+9 - ...
+
+10 - Pelo suprimento de deficiências previsto no artigo 73.º do Código do Registo Predial - (euro) 35.»
