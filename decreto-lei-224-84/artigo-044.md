@@ -6,7 +6,7 @@
 
 a) A identidade dos sujeitos, nos termos da alínea e) do n.º 1 do artigo 93.º;
 
-b) O número da descrição dos prédios ou as menções necessárias à sua descrição;
+b) O número da descrição dos prédios ou as menções necessárias à sua descrição, bem como a indicação do número, data de emissão e entidade emitente das certidões de registo que tenham sido apresentadas ou, no caso de certidão permanente, a indicação do respetivo código de acesso;
 
 c) A indicação do registo prévio a que se refere o n.º 1 do artigo 9.º ou do modo como foi comprovada a urgência prevista na alínea c) do n.º 2 do mesmo artigo;
 

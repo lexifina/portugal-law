@@ -34,7 +34,7 @@ n) As alterações às operações de transformação fundiária.
 
 a) As providências decretadas nos procedimentos cautelares registados;
 
-b) A conversão do arresto em penhora;
+b) A conversão do arresto em penhora ou da penhora em hipoteca;
 
 c) A decisão final das acções inscritas;
 

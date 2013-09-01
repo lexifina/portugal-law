@@ -1,7 +1,7 @@
 # Artigo 132.º
 
-### (Decisão do recurso)
+### Decisão da impugnação judicial
 
-1 - Recebido o processo, o juiz ordena a notificação dos interessados para, no prazo de 10 dias, impugnarem os fundamentos do recurso.
+1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público, para emissão de parecer.
 
-2 - Não havendo lugar a qualquer notificação ou findo o prazo a que se refere o número anterior, vai o processo com vista ao Ministério Público.
+2 - O juiz que tenha intervindo no processo donde conste o ato cujo registo está em causa fica impedido de julgar a impugnação judicial.
