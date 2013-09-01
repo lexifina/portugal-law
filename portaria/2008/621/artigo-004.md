@@ -2,7 +2,7 @@
 
 ### Identificação do apresentante
 
-1 - A identificação do apresentante é feita pelo nome, residência habitual ou domicílio profissional e do cargo, quando o pedido seja efectuado por entidades públicas.
+1 - A identificação do apresentante é feita pelo nome, número de identificação fiscal, residência habitual ou domicílio profissional e do cargo, quando o pedido seja efetuado por entidades públicas.
 
 2 - A identificação do apresentante é confirmada através:
 

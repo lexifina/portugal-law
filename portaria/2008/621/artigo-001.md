@@ -10,6 +10,6 @@ A presente portaria regulamenta:
 
 a) Os elementos que devem constar do pedido de registo predial;
 
-b) A realização do pedido de registo predial por telecópia por advogados, câmaras de comércio e indústria, notários e solicitadores;
+b) (Revogado);
 
 c) A publicação de notificações editais e decisões em sítio da Internet, no âmbito dos processos de justificação e de rectificação.

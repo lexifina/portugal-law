@@ -4,17 +4,17 @@
 
 # Artigo 2.º
 
-### Pedido presencial, por via postal e por via imediata
+### Pedido presencial e por via postal
 
 1 - O pedido de registo efectuado presencialmente em serviço de registo por pessoa com legitimidade para o efeito pode revestir a forma verbal.
 
-2 - O pedido de registo por via postal e por via imediata é efectuado pela forma escrita, de acordo com modelos aprovados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+2 - O pedido de registo por via postal é efetuado pela forma escrita, de acordo com modelos aprovados por deliberação do conselho diretivo do Instituto dos Registos e do Notariado, I.P..
 
-3 - Os pedidos de registo efectuados por escrito por entidades públicas que intervenham como sujeitos passivos ou activos nos actos, pelos tribunais, pelo Ministério Público, pelos administradores de insolvência ou pelos agentes de execução, quer sejam apresentados presencialmente, por correio ou por via imediata, não carecem de utilizar o modelo referido no número anterior.
+3 - Os pedidos de registo efetuados por escrito por entidades públicas que intervenham como sujeitos ativos ou passivos nos atos, pelos tribunais, pelo Ministério Público, pelos administradores judiciais, pelos agentes de execução ou pelos oficiais de justiça a realizar diligências próprias do agente de execução, quer sejam apresentados presencialmente ou por correio, não carecem de utilizar o modelo referido no número anterior.
 
 4 - O disposto no número anterior não dispensa a indicação dos elementos referidos no artigo 3.º
 
-5 - Sendo seguida a modalidade de pedido de registo por via imediata, prevista no artigo 41.º-E do Código do Registo Predial, o pedido e os respectivos documentos são apresentados mediante depósito imediato, em envelope, em caixa própria para o efeito existente no serviço de registo.
+5 - [Revogado].
 
 6 - Por cada pedido de registo é sempre emitido, nos termos do artigo 64.º do Código do Registo Predial, um comprovativo do qual consta:
 

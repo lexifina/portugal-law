@@ -8,6 +8,6 @@
 
 3 - A indicação das parcelas a desanexar faz-se pelo número da descrição predial e da freguesia e concelho a que pertence o prédio do qual se pretende desanexar uma ou várias parcelas.
 
-4 - A identificação pelo interessado dos documentos entregues no pedido de registo só é exigível nos casos em que o pedido se efectue por via postal, imediata ou por telecópia.
+4 - A identificação pelo interessado dos documentos entregues no pedido de registo só é exigível nos casos em que o pedido se efetue por via postal, salvo quando se trate de documento arquivado eletronicamente.
 
-5 - Os documentos entregues nos termos do número anterior são identificados por referência à sua natureza e data.
+5 - Os documentos entregues nos termos do número anterior são identificados por referência à sua natureza e data ou ao respetivo código de identificação, se arquivados eletronicamente.
