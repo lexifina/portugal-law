@@ -14,6 +14,6 @@
 
 6 - Transitam para a carreira de assistente de residência os atuais trabalhadores:
 
-a) Titulares da categoria de auxiliar de serviço de níveis 1 e 2 da carreira de pessoal auxiliar;
+a) Titulares das categorias de motorista de ligeiros e de auxiliar de serviço de níveis 1 e 2 da carreira de pessoal auxiliar;
 
 b) Titulares das categorias de guarda e jardineiro da carreira de pessoal operário.
