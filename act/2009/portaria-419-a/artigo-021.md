@@ -2,7 +2,7 @@
 
 ### Guias emitidas pelo tribunal
 
-1 - O pagamento das custas e o pagamento antecipado de encargos, multas, taxa sancionatória excepcional e outras penalidades é efectuado mediante a emissão de guia acompanhada do DUC nos casos previstos na presente portaria.
+1 - O pagamento das custas e o pagamento antecipado de encargos, multas, taxa sancionatória excecional e outras penalidades é efetuado mediante a emissão de guia acompanhada do DUC, para além dos demais casos previstos na presente portaria, quando caiba à secretaria notificar a parte para o pagamento da taxa de justiça.
 
 2 - A emissão da guia pelo tribunal é feita em duplicado, contendo os seguintes elementos:
 
