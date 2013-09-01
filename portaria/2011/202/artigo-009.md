@@ -1,27 +1,27 @@
 # Artigo 9.º
 
-### Pagamento pela informação negativa sobre existência
+### Pagamento pela informação de inexistência de conta ou saldo e pelo desbloqueio de saldos
 
-1 - Os valores cobrados pela Câmara dos Solicitadores em resultado da informação negativa sobre a existência de saldos de conta bancária em nome do executado, nos termos da alínea c) do n.º 9 do artigo 17.º do Regulamento das Custas Processuais, serão entregues a cada uma das entidades referidas na alínea a) do n.º 12 do artigo 17.º do Regulamento das Custas Processuais no final de cada trimestre.
+1- Os valores cobrados pela Câmara dos Solicitadores em resultado da informação de inexistência de conta ou saldo em nome do executado ou pelo desbloqueio de saldos de conta bancária, nos termos do artigo 5.º, são entregues a cada uma das entidades referidas no número seguinte no último dia útil do terceiro mês de cada trimestre.
 
 2 - Os valores cobrados em cada trimestre são repartidos da seguinte forma:
 
-a) 25% para as instituições legalmente autorizadas a receber o depósito bancário que informou a inexistência de saldos de conta bancária em nome do executado, nos termos do número seguinte;
+a) 25 % para as instituições legalmente autorizadas a receber depósitos bancários que informaram a inexistência de conta ou saldo em nome do executado ou que desbloquearam saldos, nos termos do número seguinte;
 
-b) 35% para o IGFIJ, I. P.;
+b) 50 % para o IGFEJ, I. P.;
 
-c) 15% para o ITIJ, I. P.;
+c) 25% para a Câmara dos Solicitadores.
 
-d) 25% para a Câmara dos Solicitadores.
+d) [Revogada].
 
-3 - Os valores devidos a cada um das instituições legalmente autorizadas a receber o depósito bancário que informou a inexistência de saldos de conta bancária em nome do executado serão pagos a estas tendo em consideração a seguinte fórmula:
+3 - Os valores devidos a cada uma das instituições legalmente autorizadas a receber depósitos bancários que informou a inexistência de conta ou saldo em nome do executado ou que desbloqueou saldos são pagos tendo em consideração a seguinte fórmula:
 
-Valor = (VC x 25%) x IN/TIN
+Valor = (VC x 25 %) x ID/TID
 
 em que:
 
 a) VC - valor cobrado no trimestre;
 
-b) IN - informações negativas prestadas;
+b) ID - informações prestadas de inexistência de conta ou saldo em nome do executado e desbloqueios de saldos efetuados;
 
-c) TIN - total de informações negativas prestadas no trimestre.
+c) TID - total, no trimestre, de informações prestadas de inexistência de conta ou saldo em nome do executado e de desbloqueios de saldos efetuados.

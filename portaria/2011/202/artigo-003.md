@@ -1,21 +1,19 @@
 # Artigo 3.º
 
-### Pagamento de despesas referentes à pesquisa de dados sobre o exequente e os seus bens
+### Remuneração pelos serviços prestados na identificação do executado e dos seus bens
 
-1 - O pagamento da despesa respeitante aos serviços prestados na identificação do executado e na identificação e localização dos seus bens, às instituições públicas e privadas que prestem colaboração à execução nos termos do artigo 833.º-A do Código de Processo Civil, deve ser efectuado no mesmo prazo do pagamento da taxa de justiça e deve ser entregue preferencialmente por via electrónica.
+1 - A remuneração devida pelos serviços prestados na identificação do executado e na identificação e localização dos seus bens às instituições públicas e privadas que prestem colaboração à execução nos termos do artigo 749.º do Código de Processo Civil, corresponde a metade de 1 unidade de conta processual (UC) pelo conjunto das pesquisas efetuadas.
 
-2 - Sempre que o pagamento seja efectuado por via electrónica através da referência multibanco que é entregue ao mandatário no momento da submissão do requerimento executivo electrónico através da plataforma CITIUS:
+2 - O pagamento da remuneração a que se refere o número anterior é efetuado previamente à apresentação do requerimento executivo, nos termos do disposto no n.º 6 do artigo 724.º do Código de Processo Civil.
 
-a) O valor das despesas é entregue automaticamente, por via electrónica, à Câmara dos Solicitadores;
+3 - Quando o exequente esteja representado por mandatário, o pagamento é efetuado por via eletrónica, através da referência multibanco que é entregue no momento da submissão do requerimento executivo através do sistema informático de suporte à atividade dos tribunais, e:
 
-b) A Câmara dos Solicitadores emite por via electrónica, sendo incluído no histórico do processo e acessível ao mandatário do exequente através da plataforma CITIUS o comprovativo legal do valor pago.
+a) O valor pago é entregue automaticamente, por via eletrónica, à Câmara dos Solicitadores;
 
-3 - Sempre que o pagamento não seja efectuado por via electrónica através da referência multibanco que é entregue ao mandatário no momento da submissão do requerimento executivo electrónico através da plataforma CITIUS:
+b) A Câmara dos Solicitadores emite por via eletrónica o comprovativo legal do valor pago, o qual fica disponível para consulta no histórico do processo.
 
-a) O agente de execução envia ao mandatário do exequente, preferencialmente por via electrónica, as instruções de pagamento;
+4 - Quando o exequente não esteja representado por mandatário, o pagamento é efetuado através da referência multibanco que lhe é notificada pelo tribunal no momento da entrega do requerimento executivo, aplicando-se o disposto nas alíneas a) e b) do número anterior.
 
-b) O valor das despesas é entregue automaticamente, por via electrónica, à Câmara dos Solicitadores;
+5 - A referência multibanco referida no número anterior é disponibilizada ao tribunal, pela Câmara dos Solicitadores, através do sistema informático de suporte à atividade dos tribunais, no momento da inserção do requerimento no referido sistema.
 
-c) A Câmara dos Solicitadores remete o comprovativo legal do valor pago para a morada do exequente ou, quando constituído, do seu mandatário, sendo que, neste último caso, este envio é feito, preferencialmente, através da plataforma de notificações electrónica disponível no CITIUS.
-
-4 - O comprovativo legal é emitido sempre em nome do exequente.
+6 - O comprovativo legal é emitido em nome do exequente.
