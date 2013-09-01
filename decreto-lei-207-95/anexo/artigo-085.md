@@ -6,7 +6,7 @@
 
 a) Certidão narrativa de óbito do autor da herança;
 
-b) Documentos justificativos da sucessão legítima, quando nesta se fundamente a qualidade de herdeiro de algum dos habilitandos;
+b) Certidões do registo civil justificativas da sucessão legítima ou legitimária, quando nestas se fundamente a qualidade de herdeiro de algum dos habilitandos, ou documento equivalente quando deva ser emitido no estrangeiro;
 
 c) Certidão de teor do testamento ou da escritura de doação por morte, mesmo que a sucessão não se funde em algum desses actos.
 

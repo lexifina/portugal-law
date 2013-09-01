@@ -20,7 +20,7 @@ e) A menção das procurações e dos documentos relativos ao instrumento que ju
 
 f) A menção de todos os documentos que fiquem arquivados, mediante a referência a esta circunstância, acompanhada da indicação da natureza do documento, e, ainda, tratando-se de conhecimento do imposto municipal de sisa, a indicação do respectivo número, data e repartição emitente;
 
-g) A menção dos documentos apenas exibidos com indicação da sua natureza, data de emissão e repartição emitente quando esta não constar do próprio acto;
+g) A menção dos documentos apenas exibidos com indicação da sua natureza, data de emissão e entidade emitente e, ainda, tratando-se de certidões de registo, a indicação do respetivo número de ordem ou, no caso de certidão permanente, do respetivo código de acesso;
 
 h) O nome completo, estado e residência habitual das pessoas que devam intervir como abonadores, intérpretes, peritos médicos, testemunhas e leitores;
 

@@ -24,7 +24,9 @@ e) A assinatura de qualquer dos outorgantes que saiba e possa assinar;
 
 f) A assinatura do notário.
 
-2 - As nulidades previstas nas alíneas a), b), d), e) e f) do número anterior consideram-se sanadas, conforme os casos:
+g) A observância do disposto na alínea g) do n.º 1 do artigo 46.º.
+
+2 - As nulidades previstas nas alíneas a), b), d), e), f) e g) do número anterior consideram-se sanadas, conforme os casos:
 
 a) Se, em face da omissão do dia, mês, ano ou lugar da celebração do acto, for possível proceder ao averbamento nos termos previstos no n.º 7 do artigo 132.º;
 
@@ -35,3 +37,5 @@ c) Se os intervenientes acidentais, cujas assinaturas faltam, se encontrarem dev
 d) Se os outorgantes, cujas assinaturas faltam, declararem, por forma autêntica, que estiveram presentes à leitura e explicação do acto, que este representa a sua vontade e que não se recusaram a assiná-lo;
 
 e) Se o notário cuja assinatura está em falta declarar expressamente, através de documento autêntico, que esteve presente no acto e que, na sua realização, foram cumpridas todas as formalidades legais.
+
+f) Se em face da inobservância do disposto na alínea g) do n.º 1 do artigo 46.º, ou da incorreta menção dos requisitos nele exigidos, for comprovado, mediante exibição da certidão de registo ou do correspondente código de acesso, que a mesma já existia à data da celebração do ato.
