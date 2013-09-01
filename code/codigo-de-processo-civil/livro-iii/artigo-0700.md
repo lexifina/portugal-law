@@ -1,0 +1,9 @@
+# Artigo 700.º
+
+### Julgamento da revisão
+
+1 - Salvo nos casos das alíneas b), d) e g) do artigo 696.º, o tribunal, logo em seguida à resposta do recorrido ou ao termo do prazo respetivo, conhece do fundamento da revisão, precedendo as diligências consideradas indispensáveis.
+
+2 - Nos casos das alíneas b), d) e g) do artigo 696.º, segue-se, após a resposta dos recorridos ou o termo do prazo respetivo, os termos do processo comum declarativo.
+
+3 - Quando o recurso tenha sido dirigido a algum tribunal superior, pode este requisitar ao tribunal de 1.ª instância, de onde o processo subiu, as diligências que se mostrem necessárias e que naquele não possam ter lugar.
