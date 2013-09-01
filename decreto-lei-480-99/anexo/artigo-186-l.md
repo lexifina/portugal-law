@@ -6,6 +6,6 @@
 
 2 - O empregador é citado para contestar no prazo de 10 dias.
 
-3 - A petição inicial e a contestação não carecem de forma articulada, devendo ser apresentadas em duplicado, nos termos do n.º 1 do artigo 148.º do Código de Processo Civil.
+3 - A petição inicial e a contestação não carecem de forma articulada, devendo ser apresentados em duplicado, nos termos do n.º 1 do artigo 148.º do Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho.
 
-4 - Os duplicados da petição inicial e da contestação são remetidos ao trabalhador simultaneamente com a notificação da data da audiência final, com a expressa advertência de que pode, no prazo de 10 dias, aderir aos factos apresentados pelo Ministério Público, apresentar articulado próprio e constituir mandatário.
+4 - O duplicado da petição inicial e da contestação são remetidos ao trabalhador simultaneamente com a notificação da data da audiência de julgamento, com a expressa advertência de que pode, no prazo de 10 dias, aderir aos factos apresentados pelo Ministério Público, apresentar articulado próprio e constituir mandatário.
