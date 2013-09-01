@@ -8,4 +8,4 @@ a) Na situação prevista na alínea a) do n.º 1 do artigo anterior, para o end
 
 b) Na situação prevista na alínea b) do n.º 1 do artigo anterior, nos termos gerais do Código de Processo Civil.
 
-2 - Quando o requerente seja representado por mandatário, a decisão da secretaria sobre o requerimento que lhe haja sido apresentado nos termos do artigo anterior é notificada preferencialmente por transmissão electrónica de dados através do sistema informático CITIUS.
+2 - Quando o requerente seja representado por mandatário, a decisão da secretaria sobre o requerimento que lhe haja sido apresentado nos termos do artigo anterior é notificada por transmissão eletrónica de dados através do sistema informático de suporte à atividade dos tribunais.

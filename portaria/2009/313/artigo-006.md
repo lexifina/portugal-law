@@ -6,7 +6,7 @@
 
 2 - Os registos suspensos referentes a execuções contra executados que tenham aderido a um plano de pagamento de dívida elaborado com o auxílio de entidades reconhecidas pelo Ministério da Justiça são reincluídos na lista pública de execuções quando incumprirem o plano estabelecido após comunicação electrónica, efectuada pelo exequente ou pela entidade reconhecida, ao agente de execução e ao GRAL.
 
-3 - O cumprimento da obrigação pelo devedor determina a exclusão da lista pública de execuções mediante comunicação efectuada pela entidade reconhecida pelo Ministério da Justiça ao agente de execução pelo exequente ou pelo executado, desde que confirmada pelo exequente ou mediante comunicação electrónica, efectuada pela entidade reconhecida pelo Ministério da Justiça ao agente de execução e ao GRAL.
+3 - O cumprimento da obrigação pelo devedor determina a exclusão da lista pública de execuções mediante comunicação efetuada pela entidade reconhecida pelo Ministério da Justiça ao agente de execução e ao GRAL, pelo exequente, ou pelo executado, após confirmação pelo exequente.
 
 4 - Todos os registos constantes da lista pública de execuções referentes a processos executivos findos há mais de cinco anos são oficiosa e automaticamente retirados e destruídos.
 

@@ -2,7 +2,7 @@
 
 ### Organização e conteúdo da lista pública de execuções
 
-1 - A lista pública de execuções é uma lista electrónica de dados, disponível na Internet através do endereço electrónico de acesso público http://www.tribunaisnet.mj.pt.
+1 - A lista pública de execuções é uma lista eletrónica de dados, disponível na Internet através do endereço eletrónico de acesso público http://www.citius.mj.pt.
 
 2 - A lista pública de execuções contém a seguinte informação:
 
@@ -12,9 +12,9 @@ b) O número de identificação fiscal do executado ou, apenas nos casos em que 
 
 c) O valor em dívida no momento da extinção da execução;
 
-d) O número de processo executivo que esteve na origem da execução frustrada e o tribunal onde correu a execução;
+d) O número de processo executivo que esteve na origem da execução frustrada e o tribunal onde a execução foi distribuída;
 
-e) A indicação de que o processo executivo se extinguiu com pagamento parcialmente ou por não terem sido encontrados bens penhoráveis;
+e) A indicação de que o processo executivo se extinguiu com pagamento parcial ou por não terem sido encontrados bens penhoráveis;
 
 f) Data da extinção do processo executivo; e
 
