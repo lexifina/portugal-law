@@ -1,0 +1,3 @@
+# Aprova o Regime Jurídico do Processo de Inventário e altera o Código Civil, o Código de Processo Civil, o Código do Registo Predial e o Código do Registo Civil, no cumprimento das medidas de descongestionamento dos tribunais previstas na Resolução do Conselho de Ministros n.º 172/2007, de 6 de Novembro, o Regime do Registo Nacional de Pessoas Colectivas, procede à transposição da Directiva n.º 2008/52/CE, do Parlamento e do Conselho, de 21 de Março, e altera o Decreto-Lei n.º 594/74, de 7 de Novembro.
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
