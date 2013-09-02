@@ -14,4 +14,4 @@ b) Os advogados, os notários e os solicitadores.
 
 4 - A representação abrange sempre a faculdade de requerer urgência na realização do registo, subsiste até à feitura do registo e implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
 
-5 - Compete ao Ministério Público requerer o registo quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis.
+5 - Compete ao respetivo representante legal ou ao Ministério Público requerer o registo quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis.
