@@ -8,8 +8,8 @@ a) Se dolosamente ocultou a existência de bens pertencentes à herança ou de d
 
 b) Se não administrar o património hereditário com prudência e zelo;
 
-c) (Revogada.)
+c) Se não cumpriu no inventário os deveres que a lei lhe impuser;
 
 d) Se revelar incompetência para o exercício do cargo.
 
-2 - Qualquer interessado tem legitimidade para pedir a remoção.
+2 - Tem legitimidade para pedir a remoção qualquer interessado.

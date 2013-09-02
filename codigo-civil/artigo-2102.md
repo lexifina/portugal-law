@@ -10,4 +10,4 @@ a) Quando não houver acordo de todos os interessados na partilha;
 
 b) Quando o Ministério Público entenda que o interesse do incapaz a quem a herança é deferida implica aceitação beneficiária;
 
-c) Nos casos em que algum dos herdeiros não possa, por motivo de ausência em parte incerta ou de incapacidade de facto permanente, intervir em partilha realizada nas conservatórias ou nos cartórios notariais.
+c) Nos casos em que algum dos herdeiros não possa, por motivo de ausência em parte incerta ou de incapacidade de facto permanente, intervir em partilha realizada por acordo.

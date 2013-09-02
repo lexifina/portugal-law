@@ -2,4 +2,4 @@
 
 ### (Designação por acordo)
 
-As regras dos artigos precedentes não são imperativas, podendo, por acordo de todos os interessados, entregar-se a administração da herança e o exercício das demais funções de cabeça-de-casal a qualquer outra pessoa.
+Por acordo de todos os interessados pode entregar-se a administração da herança e o exercício das funções de cabeça de casal a qualquer outra pessoa.
