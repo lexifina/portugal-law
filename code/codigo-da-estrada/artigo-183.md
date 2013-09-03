@@ -7,5 +7,3 @@
 2 - O pagamento da coima em prestações pode ser requerido até ao envio do processo a tribunal para execução.
 
 3 - A falta de pagamento de alguma das prestações implica o imediato vencimento das demais.
-
-Aditado pelo seguinte diploma: Decreto-Lei n.º 44/2005, de 23 de Fevereiro

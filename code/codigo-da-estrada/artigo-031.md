@@ -6,7 +6,7 @@
 
 a) Que saia de um parque de estacionamento, de uma zona de abastecimento de combustível ou de qualquer prédio ou caminho particular;
 
-b) Que entre numa auto-estrada ou numa via reservada a automóveis e motociclos, pelos respectivos ramais de acesso;
+b) Que entre numa autoestrada ou numa via reservada a automóveis e motociclos, pelos respetivos ramais de acesso;
 
 c) Que entre numa rotunda.
 

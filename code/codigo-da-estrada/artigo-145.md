@@ -4,9 +4,9 @@
 
 # Artigo 145.º
 
-### Contra-ordenações graves
+### Contraordenações graves
 
-1 - No exercício da condução, consideram-se graves as seguintes contra-ordenações:
+1 - No exercício da condução, consideram-se graves as seguintes contraordenações:
 
 a) O trânsito de veículos em sentido oposto ao estabelecido;
 
@@ -18,17 +18,17 @@ d) O excesso de velocidade superior a 20 km/h sobre os limites de velocidade est
 
 e) O trânsito com velocidade excessiva para as características do veículo ou da via, para as condições atmosféricas ou de circulação, ou nos casos em que a velocidade deva ser especialmente moderada;
 
-f) O desrespeito das regras e sinais relativos a distância entre veículos, cedência de passagem, ultrapassagem, mudança de direcção ou de via de trânsito, inversão do sentido de marcha, início de marcha, posição de marcha, marcha atrás e atravessamento de passagem de nível;
+f) O desrespeito das regras e sinais relativos a distância entre veículos, cedência de passagem, ultrapassagem, mudança de direção ou de via de trânsito, inversão do sentido de marcha, início de marcha, posição de marcha, marcha atrás e atravessamento de passagem de nível;
 
-g) A paragem ou o estacionamento nas bermas das auto-estradas ou vias equiparadas;
+g) A paragem ou o estacionamento nas bermas das autoestradas ou vias equiparadas;
 
-h) O desrespeito das regras de trânsito de automóveis pesados e de conjuntos de veículos, em auto-estradas ou vias equiparadas;
+h) O desrespeito das regras de trânsito de automóveis pesados e de conjuntos de veículos, em autoestradas ou vias equiparadas;
 
-i) A não cedência de passagem aos peões pelo condutor que mudou de direcção dentro das localidades, bem como o desrespeito pelo trânsito dos mesmos nas passagens para o efeito assinaladas;
+i) A não cedência de passagem aos peões pelo condutor que mudou de direção dentro das localidades, bem como o desrespeito pelo trânsito dos mesmos nas passagens para o efeito assinaladas;
 
 j) O trânsito de veículos sem utilização das luzes referidas no n.º 1 do artigo 61.º, nas condições previstas no mesmo número, bem como o trânsito de motociclos e de ciclomotores sem utilização das luzes de cruzamento;
 
-l) A condução sob influência de álcool, quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l e inferior a 0,8 g/l;
+l) A condução sob influência de álcool, quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l e inferior a 0,8 g/l ou igual ou superior a 0,2 g/l e inferior a 0,5 g/l quando respeite a condutor em regime probatório, condutor de veículo de socorro ou de serviço urgente, de transporte coletivo de crianças e jovens até aos 16 anos, de táxi, de automóvel pesado de passageiros ou de mercadorias ou de transporte de mercadorias perigosas;
 
 m) A não utilização do sinal de pré-sinalização de perigo e das luzes avisadoras de perigo;
 

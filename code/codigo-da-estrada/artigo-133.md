@@ -2,4 +2,4 @@
 
 ### Punibilidade da negligência
 
-Nas contra-ordenações rodoviárias a negligência é sempre sancionada.
+Nas contraordenações rodoviárias a negligência é sempre sancionada.

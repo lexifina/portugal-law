@@ -10,7 +10,7 @@ b) Imediatamente antes e nas passagens de nível;
 
 c) Imediatamente antes e nos cruzamentos e entroncamentos;
 
-d) Imediatamente antes e nas passagens assinaladas para a travessia de peões;
+d) Imediatamente antes e nas passagens assinaladas para a travessia de peões e velocípedes;
 
 e) Nas curvas de visibilidade reduzida;
 

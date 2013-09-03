@@ -4,17 +4,17 @@
 
 1 - As pessoas devem entrar e sair pelo lado direito ou esquerdo do veículo, consoante este esteja parado ou estacionado à direita ou à esquerda da faixa de rodagem.
 
-2 - Exceptuam-se:
+2 - Excetuam-se:
 
-a) A entrada e saída do condutor, quando o volante de direcção do veículo se situar no lado oposto ao da paragem ou estacionamento;
+a) A entrada e saída do condutor, quando o volante de direção do veículo se situar no lado oposto ao da paragem ou estacionamento;
 
-b) A entrada e saída dos passageiros que ocupem o banco da frente, quando o volante de direcção do veículo se situar no lado da paragem ou estacionamento;
+b) A entrada e saída dos passageiros que ocupem o banco da frente, quando o volante de direção do veículo se situar no lado da paragem ou estacionamento;
 
-c) Os casos especialmente previstos em regulamentos locais, para os veículos de transporte colectivo de passageiros.
+c) Os casos especialmente previstos em regulamentos locais, para os veículos de transporte coletivo de passageiros.
 
 3 - É proibido o transporte de pessoas em número que exceda a lotação do veículo ou de modo a comprometer a sua segurança ou a segurança da condução.
 
-4 - É igualmente proibido o transporte de passageiros fora dos assentos, sem prejuízo do disposto em legislação especial ou salvo em condições excepcionais fixadas em regulamento.
+4 - É igualmente proibido o transporte de passageiros fora dos assentos, sem prejuízo do disposto em legislação especial ou salvo em condições excecionais fixadas em regulamento.
 
 5 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 30 a (euro) 150.
 

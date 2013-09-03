@@ -14,10 +14,10 @@
 
 2 - O condutor não deve entrar na passagem de nível:
 
-a) Enquanto os meios de protecção estejam atravessados na via pública ou em movimento;
+a) Enquanto os meios de proteção estejam atravessados na via pública ou em movimento;
 
 b) Quando as instruções dos agentes ferroviários ou a sinalização existente o proibir.
 
-3 - Se a passagem de nível não dispuser de protecção ou sinalização, o condutor só pode iniciar o atravessamento depois de se certificar de que se não aproxima qualquer veículo ferroviário.
+3 - Se a passagem de nível não dispuser de proteção ou sinalização, o condutor só pode iniciar o atravessamento depois de se certificar de que se não aproxima qualquer veículo ferroviário.
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.

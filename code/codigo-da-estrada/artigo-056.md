@@ -10,7 +10,7 @@
 
 a) Fique devidamente assegurado o equilíbrio do veículo, parado ou em marcha;
 
-b) Não possa vir a cair sobre a via ou a oscilar por forma que torne perigoso ou incómodo o seu transporte ou provoque a projecção de detritos na via pública;
+b) Não possa vir a cair sobre a via ou a oscilar por forma que torne perigoso ou incómodo o seu transporte ou provoque a projeção de detritos na via pública;
 
 c) Não reduza a visibilidade do condutor;
 
@@ -20,11 +20,13 @@ e) Não seja excedida a capacidade dos animais;
 
 f) Não seja excedida a altura de 4 m a contar do solo;
 
-g) Tratando-se de veículos destinados ao transporte de passageiros, aquela não prejudique a correcta identificação dos dispositivos de sinalização, de iluminação e da chapa de matrícula e não ultrapasse os contornos envolventes do veículo, salvo em condições excepcionais fixadas em regulamento;
+g) Tratando-se de veículos destinados ao transporte de passageiros, aquela não prejudique a correta identificação dos dispositivos de sinalização, de iluminação e da chapa de matrícula e não ultrapasse os contornos envolventes do veículo, salvo em condições excecionais fixadas em regulamento;
 
-h) Tratando-se de veículos destinados ao transporte de mercadorias, aquela se contenha em comprimento e largura nos limites da caixa, salvo em condições excepcionais fixadas em regulamento;
+h) Tratando-se de veículos destinados ao transporte de mercadorias, aquela se contenha em comprimento e largura nos limites da caixa, salvo em condições excecionais fixadas em regulamento;
 
-i) Tratando-se de transporte de mercadorias a granel, aquela não exceda a altura definida pelo bordo superior dos taipais ou dispositivos análogos.
+i) Tratando-se de transporte de mercadorias a granel, aquela não exceda a altura definida pelo bordo superior dos taipais ou dispositivos análogos;
+
+j) Sejam utilizadas obrigatoriamente cintas de retenção ou dispositivo análogo para cargas indivisíveis que circulem sobre plataformas abertas.
 
 4 - Consideram-se contornos envolventes do veículo os planos verticais que passam pelos seus pontos extremos.
 

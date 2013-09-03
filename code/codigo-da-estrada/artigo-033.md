@@ -12,7 +12,7 @@ a) Quando a faixa de rodagem se encontrar parcialmente obstruída, deve ceder a 
 
 b) Quando a faixa de rodagem for demasiadamente estreita ou se encontrar obstruída de ambos os lados, deve ceder a passagem o condutor do veículo que chegar depois ao troço ou, se se tratar de via de forte inclinação, o condutor do veículo que desce.
 
-2 - Se for necessário efectuar uma manobra de marcha atrás, deve recuar o condutor do veículo que estiver mais próximo do local em que o cruzamento seja possível ou, se as distâncias forem idênticas, os condutores:
+2 - Se for necessário efetuar uma manobra de marcha atrás, deve recuar o condutor do veículo que estiver mais próximo do local em que o cruzamento seja possível ou, se as distâncias forem idênticas, os condutores:
 
 a) De veículos ligeiros, perante veículos pesados;
 

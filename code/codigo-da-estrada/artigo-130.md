@@ -10,7 +10,7 @@ b) O seu titular não se submeter ou reprovar na avaliação médica ou psicoló
 
 2 - A revalidação de título de condução caducado fica sujeita à aprovação do seu titular em exame especial de condução, cujo conteúdo e características são fixados no RHLC, sempre que:
 
-a) A causa de caducidade prevista na alínea a) do número anterior tenha ocorrido há mais de dois anos, com exceção da revalidação dos títulos das categorias AM, A1, A2, A, B1, B, BE cujos titulares não tenham completado 50 anos;
+a) A causa de caducidade prevista na alínea a) do número anterior tenha ocorrido há mais de dois anos, com exceção da revalidação dos títulos das categorias AM, A1, A2, A, B1, B e BE cujos titulares não tenham completado 50 anos;
 
 b) O título se encontre caducado há mais de um ano, nos termos da alínea b) do número anterior.
 
@@ -30,4 +30,4 @@ d) Tenha caducado há mais de cinco anos sem que tenha sido revalidado e o titul
 
 6 - Ao novo título de condução obtido após cancelamento de um anterior é aplicável o regime probatório previsto no artigo 122.º
 
-7 - Quem conduzir veículo com título caducado é sancionado com coima de (euro) 120 a (euro) 600.»
+7 - Quem conduzir veículo com título caducado é sancionado com coima de (euro) 120 a (euro) 600.

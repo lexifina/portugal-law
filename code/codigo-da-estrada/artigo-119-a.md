@@ -1,14 +1,14 @@
 # Artigo 119.º-A
 
-### Cancelamento temporário de matrícula de veículos pesados de mercadorias afectos ao transporte público
+### Cancelamento temporário de matrícula
 
 1 - Pode ser temporariamente cancelada a matrícula de veículos de transporte público rodoviário de mercadorias, nas seguintes condições:
 
-a) Quando o veículo tenha sido objecto de candidatura a incentivo ao abate, no âmbito do Programa de Investimentos e Despesas de Desenvolvimento da Administração Central (PIDDAC), enquanto o respectivo processo se encontre pendente;
+a) Quando o veículo tenha sido objeto de candidatura a incentivo ao abate, enquanto o respetivo processo se encontre pendente;
 
 b) Quando, por falta de serviço, o veículo esteja imobilizado.
 
-2 - O cancelamento temporário a que se refere o número anterior é requerido nos serviços desconcentrados do IMTT, I. P., ficando sujeito à entrega:
+2 - O cancelamento temporário a que se refere o número anterior é requerido na entidade competente, ficando sujeito à entrega:
 
 a) Dos documentos de identificação do veículo; e
 
@@ -16,4 +16,8 @@ b) De declaração do proprietário ou legítimo possuidor em como o veículo n�
 
 3 - O cancelamento temporário a que se refere a alínea b) do n.º 1 tem a duração máxima de 24 meses.
 
-4 - Os veículos objecto do presente artigo ficam isentos da taxa de cancelamento de matrícula, bem como, no caso de reposição de matrícula, da respectiva taxa e inspecção extraordinária, salvo os veículos abrangidos pela alínea a) do n.º 1 cujas candidaturas tenham sido rejeitadas por falta de cumprimento dos requisitos necessários.Aditado pelo seguinte diploma: Decreto-Lei n.º 82/2011, de 20 de Junho
+4 - Os veículos objeto do presente artigo ficam isentos da taxa de cancelamento de matrícula, bem como, no caso de reposição de matrícula, da respetiva taxa e inspeção extraordinária, salvo os veículos abrangidos pela alínea a) do n.º 1 cujas candidaturas tenham sido rejeitadas por falta de cumprimento dos requisitos necessários.
+
+5 - Assume ainda caráter temporário o cancelamento de matrícula previsto nas alíneas e) e g) do n.º 1 do artigo 119.º, pelo prazo máximo de cinco e um ano respetivamente, ficando os seus proprietários obrigados à entrega da documentação dos veículos nos serviços competentes, onde o processo de cancelamento da matrícula tiver lugar.
+
+6 - Quando não ocorra a reposição ou o cancelamento definitivo da matrícula, após o decurso do prazo definido no número anterior, o proprietário do veículo é sancionado com coima de (euro) 60 a (euro) 300.

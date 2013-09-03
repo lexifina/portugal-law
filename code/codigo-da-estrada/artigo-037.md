@@ -1,8 +1,8 @@
 # Artigo 37.º
 
-### Excepções
+### Exceções
 
-1 - Deve fazer-se pela direita a ultrapassagem de veículos ou animais cujo condutor, assinalando devidamente a sua intenção, pretenda mudar de direcção para a esquerda ou, numa via de sentido único, parar ou estacionar à esquerda, desde que, em qualquer caso, tenha deixado livre a parte mais à direita da faixa de rodagem.
+1 - Deve fazer-se pela direita a ultrapassagem de veículos ou animais cujo condutor, assinalando devidamente a sua intenção, pretenda mudar de direção para a esquerda ou, numa via de sentido único, parar ou estacionar à esquerda, desde que, em qualquer caso, tenha deixado livre a parte mais à direita da faixa de rodagem.
 
 2 - Pode fazer-se pela direita a ultrapassagem de veículos que transitem sobre carris desde que estes não utilizem esse lado da faixa de rodagem e:
 

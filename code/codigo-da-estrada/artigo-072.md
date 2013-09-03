@@ -1,14 +1,14 @@
 ## SUBSECÇÃO IV
 
-## Trânsito nas auto-estradas e vias equiparadas
+## Trânsito nas autoestradas e vias equiparadas
 
 # Artigo 72.º
 
-### Auto-estradas
+### Autoestradas
 
-1 - Nas auto-estradas e respectivos acessos, quando devidamente sinalizados, é proibido o trânsito de peões, animais, veículos de tracção animal, velocípedes, ciclomotores, motociclos e triciclos de cilindrada não superior a 50 cm3, quadriciclos, veículos agrícolas, comboios turísticos, bem como de veículos ou conjuntos de veículos insusceptíveis de atingir em patamar velocidade superior a 60 km/h ou aos quais tenha sido fixada velocidade máxima igual ou inferior àquele valor.
+1 - Nas autoestradas e respetivos acessos, quando devidamente sinalizados, é proibido o trânsito de peões, animais, veículos de tração animal, velocípedes, ciclomotores, motociclos e triciclos de cilindrada não superior a 50 cm3, quadriciclos, veículos agrícolas, comboios turísticos, bem como de veículos ou conjuntos de veículos insuscetíveis de atingir em patamar velocidade superior a 60 km/h ou aos quais tenha sido fixada velocidade máxima igual ou inferior àquele valor.
 
-2 - Nas auto-estradas e respectivos acessos, quando devidamente sinalizados, é proibido:
+2 - Nas autoestradas e respetivos acessos, quando devidamente sinalizados, é proibido:
 
 a) Circular sem utilizar as luzes regulamentares, nos termos deste Código;
 

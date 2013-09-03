@@ -2,10 +2,12 @@
 
 ### Posição de marcha
 
-1 - O trânsito de veículos deve fazer-se pelo lado direito da faixa de rodagem e o mais próximo possível das bermas ou passeios, conservando destes uma distância que permita evitar acidentes.
+1 - A posição de marcha dos veículos deve fazer-se pelo lado direito da faixa de rodagem, conservando das bermas ou passeios uma distância suficiente que permita evitar acidentes.
 
-2 - Quando necessário, pode ser utilizado o lado esquerdo da faixa de rodagem para ultrapassar ou mudar de direcção.
+2 - Quando necessário, pode ser utilizado o lado esquerdo da faixa de rodagem para ultrapassar ou mudar de direção.
 
-3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 60 a (euro) 300, salvo o disposto no número seguinte.
+3 - Sempre que, no mesmo sentido, existam duas ou mais vias de trânsito, este deve fazer-se pela via mais à direita, podendo, no entanto, utilizar-se outra se não houver lugar naquela e, bem assim, para ultrapassar ou mudar de direção.
 
-4 - Quem circular em sentido oposto ao estabelecido é sancionado com coima de (euro) 250 a (euro) 1250.
+4 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 60 a (euro) 300, salvo o disposto no número seguinte.
+
+5 - Quem circular em sentido oposto ao estabelecido é sancionado com coima de (euro) 250 a (euro) 1250.

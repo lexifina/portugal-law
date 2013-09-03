@@ -16,10 +16,10 @@ d) Luz de marcha atrás, destinada a iluminar a estrada para a retaguarda do ve�
 
 a) Luzes de presença, destinadas a assinalar a presença e a largura do veículo, quando visto de frente e da retaguarda, tomando as da frente a designação «mínimos»;
 
-b) Luz de mudança de direcção, destinada a indicar aos outros utentes a intenção de mudar de direcção;
+b) Luz de mudança de direção, destinada a indicar aos outros utentes a intenção de mudar de direção;
 
-c) Luzes avisadoras de perigo, destinadas a assinalar que o veículo representa um perigo especial para os outros utentes e constituídas pelo funcionamento simultâneo de todos os indicadores de mudança de direcção;
+c) Luzes avisadoras de perigo, destinadas a assinalar que o veículo representa um perigo especial para os outros utentes e constituídas pelo funcionamento simultâneo de todos os indicadores de mudança de direção;
 
-d) Luz de travagem, destinada a indicar aos outros utentes o accionamento do travão de serviço;
+d) Luz de travagem, destinada a indicar aos outros utentes o acionamento do travão de serviço;
 
 e) Luz de nevoeiro da retaguarda, destinada a tornar mais visível o veículo em caso de nevoeiro intenso ou de outras situações de redução significativa de visibilidade.

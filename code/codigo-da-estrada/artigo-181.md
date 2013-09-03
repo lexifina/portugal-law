@@ -8,7 +8,7 @@
 
 1 - A decisão que aplica a coima ou a sanção acessória deve conter:
 
-a) A identificação do infractor;
+a) A identificação do infrator;
 
 b) A descrição sumária dos factos, das provas e das circunstâncias relevantes para a decisão;
 
@@ -31,5 +31,3 @@ a) A ordem de pagamento da coima e das custas no prazo máximo de 15 dias úteis
 b) A indicação de que, no prazo referido na alínea anterior, pode requerer o pagamento da coima em prestações, nos termos do disposto no artigo 183.º
 
 4 - Não tendo o arguido exercido o direito de defesa, a fundamentação a que se refere a alínea b) do n.º 1 pode ser feita por simples remissão para o auto de notícia.
-
-Aditado pelo seguinte diploma: Decreto-Lei n.º 44/2005, de 23 de Fevereiro

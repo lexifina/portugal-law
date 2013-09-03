@@ -28,10 +28,10 @@ b) Se conduzir outros veículos, com as seguintes coimas:
 
 3 - O disposto no número anterior é também aplicável aos condutores que excedam os limites máximos de velocidade que lhes tenham sido estabelecidos ou que tenham sido especialmente fixados para os veículos que conduzem.
 
-4 - Para os efeitos do disposto nos números anteriores, considera-se que viola os limites máximos de velocidade instantânea o condutor que percorrer uma determinada distância a uma velocidade média incompatível com a observância daqueles limites, entendendo-se que a contra-ordenação é praticada no local em que terminar o percurso controlado.
+4 - Para os efeitos do disposto nos números anteriores, considera-se que viola os limites máximos de velocidade instantânea o condutor que percorrer uma determinada distância a uma velocidade média incompatível com a observância daqueles limites, entendendo-se que a contraordenação é praticada no local em que terminar o percurso controlado.
 
-5 - Sem prejuízo do disposto nos números anteriores, quando a velocidade for controlada através de tacógrafo e tiver sido excedido o limite máximo de velocidade permitido ao veículo, considera-se que a contra-ordenação é praticada no local onde for efectuado o controlo.
+5 - Sem prejuízo do disposto nos números anteriores, quando a velocidade for controlada através de tacógrafo e tiver sido excedido o limite máximo de velocidade permitido ao veículo, considera-se que a contraordenação é praticada no local onde for efetuado o controlo.
 
-6 - Sem prejuízo do disposto no artigo 26.º, nas auto-estradas os condutores não podem transitar a velocidade instantânea inferior a 50 km/h.
+6 - Sem prejuízo do disposto no artigo 26.º, nas autoestradas os condutores não podem transitar a velocidade instantânea inferior a 50 km/h.
 
 7 - Quem conduzir a velocidade inferior ao limite estabelecido no número anterior é sancionado com coima de (euro) 60 a (euro) 300.

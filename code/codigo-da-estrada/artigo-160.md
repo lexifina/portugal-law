@@ -12,6 +12,6 @@ b) O condutor não se apresentar a qualquer dos exames referidos na alínea ante
 
 c) Tenha caducado nos termos dos n.os 1 e 2 do artigo 130.º
 
-3 - Quando haja lugar à apreensão do título de condução, o condutor é notificado para, no prazo de 15 dias úteis, o entregar à entidade competente, sob pena de crime de desobediência, devendo, nos casos previstos no n.º 1, esta notificação ser efectuada com a notificação da decisão.
+3 - Quando haja lugar à apreensão do título de condução, o condutor é notificado para, no prazo de 15 dias úteis, o entregar à entidade competente, sob pena de crime de desobediência, devendo, nos casos previstos no n.º 1, esta notificação ser efetuada com a notificação da decisão.
 
 4 - Sem prejuízo da punição por crime de desobediência, se o condutor não proceder à entrega do título de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização e seus agentes.

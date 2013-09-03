@@ -14,7 +14,7 @@ a) Forem dotados de mais de um par de pedais capaz de acionar o veículo em simu
 
 b) Forem concebidos, por construção, com assentos para passageiros, caso em que, além do condutor, podem transportar um ou dois passageiros, consoante o número daqueles assentos;
 
-c) Se tratar do transporte de crianças em dispositivos especialmente adaptados para o efeito, desde que utilizem capacete devidamente ajustado e apertado.
+c) Se tratar do transporte de crianças com idade inferior a 7 anos, em dispositivos especialmente adaptados para o efeito.
 
 3 - Nos velocípedes a que se refere a alínea b) do número anterior, deve ser garantida proteção eficaz das mãos, dos pés e das costas dos passageiros.
 

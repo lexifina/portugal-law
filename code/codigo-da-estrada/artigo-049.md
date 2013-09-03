@@ -8,13 +8,13 @@ a) Nas rotundas, pontes, túneis, passagens de nível, passagens inferiores ou s
 
 b) A menos de 5 m para um e outro lado dos cruzamentos, entroncamentos ou rotundas, sem prejuízo do disposto na alínea e) do presente número e na alínea a) do n.º 2;
 
-c) A menos de 5 m para a frente e 25 m para trás dos sinais indicativos da paragem dos veículos de transporte colectivo de passageiros ou a menos de 6 m para trás daqueles sinais quando os referidos veículos transitem sobre carris;
+c) A menos de 5 m para a frente e 25 m para trás dos sinais indicativos da paragem dos veículos de transporte coletivo de passageiros ou a menos de 6 m para trás daqueles sinais quando os referidos veículos transitem sobre carris;
 
 d) A menos de 5 m antes e nas passagens assinaladas para a travessia de peões ou de velocípedes;
 
-e) A menos de 20 m antes dos sinais verticais ou luminosos se a altura dos veículos, incluindo a respectiva carga, os encobrir;
+e) A menos de 20 m antes dos sinais verticais ou luminosos se a altura dos veículos, incluindo a respetiva carga, os encobrir;
 
-f) Nas pistas de velocípedes, nos ilhéus direccionais, nas placas centrais das rotundas, nos passeios e demais locais destinados ao trânsito de peões;
+f) Nas pistas de velocípedes, nos ilhéus direcionais, nas placas centrais das rotundas, nos passeios e demais locais destinados ao trânsito de peões;
 
 g) Na faixa de rodagem sempre que esteja sinalizada com linha longitudinal contínua e a distância entre esta e o veículo seja inferior a 3 m.
 

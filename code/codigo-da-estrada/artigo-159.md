@@ -8,7 +8,7 @@
 
 1 - Os títulos de condução devem ser preventivamente apreendidos pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
-a) Suspeitem da sua contrafacção ou viciação fraudulenta;
+a) Suspeitem da sua contrafação ou viciação fraudulenta;
 
 b) Tiver expirado o seu prazo de validade;
 

@@ -6,10 +6,10 @@
 
 2 - O trânsito de veículos com avaria nas luzes é permitido quando os mesmos disponham de, pelo menos:
 
-a) Dois médios, ou um médio do lado esquerdo e dois mínimos para a frente, um indicador de presença no lado esquerdo e uma das luzes de travagem, quando obrigatória, à retaguarda; ou
+a) Dois médios ou o médio do lado esquerdo, neste caso conjuntamente com dois mínimos, e ainda à retaguarda o indicador de presença do lado esquerdo e uma das luzes de travagem, quando obrigatória; ou
 
 b) Luzes avisadoras de perigo, caso em que apenas podem transitar pelo tempo estritamente necessário até um local de paragem ou estacionamento.
 
-3 - A avaria nas luzes, quando ocorra em auto-estrada ou via reservada a automóveis e motociclos, impõe a imediata imobilização do veículo fora da faixa de rodagem, salvo se aquele dispuser das luzes referidas na alínea a) do número anterior, caso em que a circulação é permitida até à área de serviço ou saída mais próxima.
+3 - A avaria nas luzes, quando ocorra em autoestrada ou via reservada a automóveis e motociclos, impõe a imediata imobilização do veículo fora da faixa de rodagem, salvo se aquele dispuser das luzes referidas na alínea a) do número anterior, caso em que a circulação é permitida até à área de serviço ou saída mais próxima.
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, devendo o documento de identificação do veículo ser apreendido nos termos e para os efeitos previstos na alínea f) do n.º 1 e no n.º 6 do artigo 161.º

@@ -10,7 +10,7 @@
 
 ### Regras de condução
 
-1 - Os condutores de motociclos, ciclomotores ou velocípedes não podem:
+1 - Sem prejuízo do disposto no n.º 2, os condutores de motociclos, ciclomotores ou velocípedes não podem:
 
 a) Conduzir com as mãos fora do guiador, salvo para assinalar qualquer manobra;
 
@@ -22,6 +22,8 @@ d) Levantar a roda da frente ou de trás no arranque ou em circulação;
 
 e) Seguir a par, salvo se transitarem em pista especial e não causarem perigo ou embaraço para o trânsito.
 
-2 - Os condutores de velocípedes devem transitar o mais próximo possível das bermas ou passeios, mesmo nos casos em que, no mesmo sentido de trânsito, sejam possíveis duas ou mais filas.
+2 - Os velocípedes podem circular paralelamente numa via, exceto em vias com reduzida visibilidade ou sempre que exista intensidade de trânsito, desde que não circulem em paralelo mais que dois velocípedes e tal não cause perigo ou embaraço ao trânsito.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de condutor de velocípede, caso em que a coima é de (euro) 30 a (euro) 150.
+3 - Os condutores de velocípedes devem transitar pelo lado direito da via de trânsito, conservando das bermas ou passeios uma distância suficiente que permita evitar acidentes.
+
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de condutor de velocípede, caso em que a coima é de (euro) 30 a (euro) 150.

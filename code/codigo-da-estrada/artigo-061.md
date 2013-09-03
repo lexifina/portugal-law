@@ -14,7 +14,7 @@ d) De nevoeiro, sempre que as condições meteorológicas ou ambientais o imponh
 
 2 - É proibido o uso das luzes de nevoeiro sempre que as condições meteorológicas ou ambientais o não justifiquem.
 
-3 - Sem prejuízo do disposto no n.º 1, os condutores de veículos afectos ao transporte de mercadorias perigosas devem transitar durante o dia com as luzes de cruzamento acesas.
+3 - Sem prejuízo do disposto no n.º 1, os condutores de veículos afetos ao transporte de mercadorias perigosas, sinalizadas com painel laranja, nos termos da respetiva legislação especial, devem transitar durante o dia com as luzes de cruzamento acesas.
 
 4 - Sem prejuízo do disposto no n.º 1, é obrigatório durante o dia o uso de luzes de cruzamento nos túneis sinalizados como tal e nas vias de sentido reversível.
 

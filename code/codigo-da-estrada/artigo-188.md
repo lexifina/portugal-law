@@ -6,6 +6,6 @@
 
 ### Prescrição do procedimento
 
-O procedimento por contra-ordenação rodoviária extingue-se por efeito da prescrição logo que, sobre a prática da contra-ordenação, tenham decorrido dois anos.
+1 - O procedimento por contraordenação rodoviária extingue-se por efeito da prescrição logo que, sobre a prática da contraordenação, tenham decorrido dois anos.
 
-Aditado pelo seguinte diploma: Decreto-Lei n.º 44/2005, de 23 de Fevereiro
+2 - Sem prejuízo da aplicação do regime de suspensão e de interrupção previsto no regime geral do ilícito de mera ordenação social, a prescrição do procedimento por contraordenação rodoviária interrompe-se também com a notificação ao arguido da decisão condenatória.

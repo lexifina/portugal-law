@@ -2,6 +2,4 @@
 
 ### Prescrição da coima e das sanções acessórias
 
-As coimas e as sanções acessórias prescrevem no prazo de dois anos.
-
-Aditado pelo seguinte diploma: Decreto-Lei n.º 44/2005, de 23 de Fevereiro
+As coimas e as sanções acessórias prescrevem no prazo de dois anos contados a partir do caráter definitivo ou do trânsito em julgado da decisão condenatória.

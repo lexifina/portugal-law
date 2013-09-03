@@ -2,14 +2,14 @@
 
 ### Cumprimento da decisão
 
-1 - A coima e as custas são pagas no prazo de 15 dias úteis a contar da data em que a decisão se torna definitiva, devendo o pagamento efectuar-se nas modalidades fixadas em regulamento.
+1 - A coima e as custas são pagas no prazo de 15 dias úteis a contar da data em que a decisão se torna definitiva, devendo o pagamento efetuar-se nas modalidades fixadas em regulamento.
 
-2 - Sendo aplicada sanção acessória, o seu cumprimento deve ser iniciado no prazo previsto no número anterior, do seguinte modo:
+2 - Não é admitida a prorrogação do prazo de pagamento, salvo quando haja deferimento do pedido de pagamento da coima em prestações, devendo este ser efetuado no prazo fixado para o efeito.
 
-a) Tratando-se de inibição de conduzir efectiva, pela entrega do título de condução à entidade competente;
+3 - Sendo aplicada sanção acessória, o seu cumprimento deve ser iniciado no prazo previsto no n.º 1, do seguinte modo:
 
-b) Tratando-se da apreensão do veículo, pela sua entrega efectiva, bem como do documento que o identifica e do título de registo de propriedade, no local indicado na decisão, ou só pela entrega dos referidos documentos quando o titular do documento de identificação for nomeado seu fiel depositário;
+a) Tratando-se de inibição de conduzir efetiva, pela entrega do título de condução à entidade competente;
+
+b) Tratando-se de apreensão do veículo, pela sua entrega efetiva, bem como do documento que o identifica e do título de registo de propriedade e livrete do veículo, no local indicado na decisão, ou só pela entrega dos referidos documentos quando o titular do documento de identificação for nomeado seu fiel depositário;
 
 c) Tratando-se de outra sanção acessória, deve proceder-se nos termos indicados na decisão condenatória.
-
-Aditado pelo seguinte diploma: Decreto-Lei n.º 44/2005, de 23 de Fevereiro

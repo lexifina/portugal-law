@@ -2,20 +2,20 @@
 
 ### Garantia de cumprimento
 
-1 - O pagamento voluntário da coima deve ser efectuado no acto da verificação da contra-ordenação.
+1 - Quando a notificação for efetuada no ato da verificação da contraordenação, o infrator deve, de imediato ou no prazo máximo de 48 horas, prestar depósito de valor igual ao mínimo da coima prevista para a contraordenação imputada.
 
-2 - Se o infractor não pretender efectuar o pagamento voluntário imediato da coima, deve prestar depósito de valor igual ao mínimo da coima prevista para a contra-ordenação praticada, também imediatamente ou no prazo máximo de quarenta e oito horas.
+2 - Quando o infrator for notificado da contraordenação por via postal e não pretender efetuar o pagamento voluntário imediato da coima, deve, no prazo máximo de 48 horas após a respetiva notificação, prestar depósito de valor igual ao mínimo da coima prevista para a contraordenação praticada.
 
-3 - O depósito referido no número anterior destina-se a garantir o cumprimento da coima em que o infractor possa vir a ser condenado, sendo devolvido se não houver lugar a condenação.
+3 - Os depósitos referidos nos n.os 1 e 2 destinam-se a garantir o pagamento da coima em que o infrator possa vir a ser condenado, sendo devolvido se não houver lugar a condenação.
 
-4 - Se o pagamento ou depósito não forem efectuados de imediato, nos termos dos n.os 1 e 2, devem ser apreendidos provisoriamente os seguintes documentos:
+4 - Se não for prestado depósito nos termos dos n.os 1 e 2, devem ser apreendidos provisoriamente os seguintes documentos:
 
-a) Se a sanção respeitar ao condutor, o título de condução;
+a) O título de condução, se a sanção respeitar ao condutor;
 
-b) Se a sanção respeitar ao titular do documento de identificação do veículo, o título de identificação do veículo e o título de registo de propriedade;
+b) O título de identificação do veículo e o título de registo de propriedade, se a sanção respeitar ao titular do documento de identificação do veículo;
 
-c) Se a sanção respeitar ao condutor e ele for, simultaneamente, titular do documento de identificação do veículo, todos os documentos referidos nas alíneas anteriores.
+c) Todos os documentos referidos nas alíneas anteriores, se a sanção respeitar ao condutor e este for, simultaneamente, titular do documento de identificação do veículo.
 
-5 - No caso previsto no número anterior devem ser emitidas guias de substituição dos documentos apreendidos, com validade pelo tempo julgado necessário e renovável até à conclusão do processo, devendo os mesmos ser devolvidos ao infractor se entretanto for efectuado o pagamento nos termos do artigo anterior ou o depósito nos termos do n.º 2.
+5 - No caso previsto no número anterior devem ser emitidas guias de substituição dos documentos apreendidos, com validade pelo tempo julgado necessário e renováveis até à conclusão do processo, devendo os mesmos ser devolvidos ao infrator se entretanto for efetuado pagamento nos termos do artigo anterior ou depósito nos termos dos n.os 1 e 2.
 
-6 - No caso de ser prestado depósito e não ser apresentada defesa, dentro do prazo estipulado para o efeito, considera-se que o depósito efectuado se converte automaticamente em pagamento.
+6 - No caso de ser prestado depósito e não ser apresentada defesa dentro do prazo estipulado para o efeito, o depósito efetuado converte-se automaticamente em pagamento, com os efeitos previstos no n.º 4 do artigo anterior.

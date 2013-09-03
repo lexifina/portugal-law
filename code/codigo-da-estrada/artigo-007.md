@@ -8,10 +8,12 @@
 
 1.º Prescrições resultantes de sinalização temporária que modifique o regime normal de utilização da via;
 
-2.º Prescrições resultantes dos sinais luminosos;
+2.º Prescrições resultantes dos sinais inscritos em sinalização de mensagem variável;
 
-3.º Prescrições resultantes dos sinais verticais;
+3.º Prescrições resultantes dos sinais luminosos;
 
-4.º Prescrições resultantes das marcas rodoviárias.
+4.º Prescrições resultantes dos sinais verticais;
+
+5.º Prescrições resultantes das marcas rodoviárias.
 
 3 - As ordens dos agentes reguladores do trânsito prevalecem sobre as prescrições resultantes dos sinais e sobre as regras de trânsito.
