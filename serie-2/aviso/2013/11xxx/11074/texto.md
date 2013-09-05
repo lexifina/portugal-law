@@ -1,0 +1,5 @@
+Aviso n.º 11074/2013
+Alteração ao Regulamento Municipal para Atribuição de Comparticipação em Medicamentos
+António José Martins de Sousa Lucas, Presidente da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.os 1 e 2 do citado artigo, não tendo sido registadas quaisquer reclamações/sugestões à alteração efetuada no artigo 5.º do Regulamento Municipal para Atribuição de Comparticipação em Medicamentos, publicada no Diário da República II Série n.º 56 de 20/03/2013 (Aviso n.º 4073/2013). A alteração ao Regulamento foi aprovada (definitivamente) pelo Executivo Municipal na sua reunião ordinária de 23 de maio de 2013, conforme deliberação n.º 2013/0312/D.A.G. (G.D.SOCIAL), e pela Assembleia Municipal, na sua sessão ordinária de 28 de junho de 2013, podendo a mesma ser consultado no portal do Município (www.cm-batalha.pt).
+10 de julho de 2013. - O Presidente Câmara Municipal da Batalha, António José Martins de Sousa Lucas.
+307220456
