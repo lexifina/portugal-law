@@ -6,7 +6,7 @@
 
 ### Director técnico
 
-1 - A direção técnica da farmácia é assegurada, em permanência, durante o horário de trabalho, por farmacêutico diretor técnico, registado no INFARMED no prazo máximo de 10 dias após o início de funções, sem prejuízo do disposto no n.º 3.
+1 - Sem prejuízo do disposto no n.º 3, a direção técnica da farmácia é assegurada em permanência por farmacêutico diretor técnico, registado no INFARMED, I.P., no prazo máximo de 10 dias após o início de funções, não podendo haver acumulação destas com outras funções durante o horário de trabalho.
 
 2 - O director técnico é independente, técnica e deontologicamente, no exercício das respectivas funções, da proprietária da farmácia, sem prejuízo das situações de identidade entre a propriedade e a direcção técnica da farmácia.
 

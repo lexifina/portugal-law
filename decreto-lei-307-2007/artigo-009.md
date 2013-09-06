@@ -2,9 +2,9 @@
 
 ### Locais de dispensa de medicamentos
 
-1 - Sem prejuízo da possibilidade de apresentação do pedido por qualquer meio de comunicação, incluindo a página eletrónica na Internet de cada farmácia, a dispensa e entrega de medicamentos ao público só pode ser efetuada pelo pessoal da farmácia a que se referem os artigos 23.º e 24.º, nas instalações desta ou no domicílio do utente.
+1 - Por razões de proteção da saúde pública, e sem prejuízo da possibilidade de apresentação do pedido por qualquer meio de comunicação, incluindo a página eletrónica na Internet de cada farmácia, a dispensa e entrega de medicamentos ao público em território nacional só pode ser efetuada pelo pessoal da farmácia a que se referem os artigos 23.º e 24.º, nas instalações desta ou no domicílio do utente, incluindo os medicamentos não sujeitos a receita médica que dependam de dispensa exclusiva em farmácia.
 
-2 - A venda ao público de medicamentos não sujeitos a receita médica pode, ainda, ser efetuada pelos locais de venda de medicamentos não sujeitos a receita médica, de acordo com o respetivo regime jurídico, pelo pessoal desses locais de venda.
+2 - Pelas mesmas razões previstas no número anterior, a venda ao público de medicamentos não sujeitos a receita médica que não dependam de dispensa exclusiva em farmácia, só pode, adicionalmente, ser efetuada, em território nacional, pelo pessoal dos locais de venda de medicamentos não sujeitos a receita médica, de acordo com o respetivo regime jurídico.
 
 3 - A atividade de entrega de medicamentos ao domicílio nos termos dos números anteriores, ou a utilização de página eletrónica na Internet, depende de comunicação prévia ao INFARMED.
 

@@ -4,9 +4,9 @@
 
 1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação punível com coima de (euro) 2000 a (euro) 3740 ou de (euro) 2000 a (euro) 44 890, consoante o agente seja pessoa singular ou coletiva:
 
-a) A violação do dever de dispensa dos medicamentos, previsto no n.º 1 e no n.º 3 do artigo 6.º;
+a) A violação do dever de dispensa dos medicamentos, de acordo com as exigências aplicáveis, previsto nos n.os 1 a 3 do artigo 6.º;
 
-b) A violação do preceituado nos n.os 1 a 4 do artigo 9.º, ou a dispensa de medicamentos fora dos casos permitidos pela portaria a que se refere o n.º 6 do mesmo artigo;
+b) A violação do preceituado nos n.os 1 a 4 do artigo 9.º, ou a dispensa de medicamentos fora dos casos permitidos pela portaria a que se refere o n.º 6 do mesmo artigo, bem como a oferta ou venda à distância de medicamentos, através de serviços da sociedade da informação, fora dos casos permitidos pelo artigo 9.º-A;
 
 c) A detenção ou o exercício, em simultâneo, direta ou indiretamente, da propriedade, da exploração ou da gestão de mais de quatro farmácias, em violação do disposto no artigo 15.º;
 
