@@ -1,0 +1,27 @@
+# Artigo 109.º
+
+### Regulamentação
+
+1 - Sem prejuízo do regime comunitário aplicável aos medicamentos órfãos, o órgão máximo do INFARMED, I.P., pode definir normas especiais, homologadas por portaria do membro do Governo responsável pela área da saúde, relativas à rotulagem e folheto informativo dos medicamentos e sobre os seguintes aspetos:
+
+a) Formulação de advertências especiais, no que respeita a determinadas categorias de medicamentos ou à utilização na composição de medicamentos de certas substâncias com ação ou efeito conhecido;
+
+b) Necessidades específicas de informação relativas a medicamentos não sujeitos a receita médica;
+
+c) Legibilidade das menções inscritas na rotulagem ou no folheto informativo, designadamente nos casos previstos na segunda parte do n.º 2 do artigo 106.º;
+
+d) Método de identificação e autenticação dos medicamentos ou das diferentes dosagens de uma mesma substância ativa, designadamente quanto ao tipo de codificação ou às cores a utilizar;
+
+e) Lista dos excipientes que devem constar da rotulagem dos medicamentos, bem como do modo de indicação dos referidos excipientes;
+
+f) Aplicação na rotulagem do disposto nas alíneas l), p), r) e s) do n.º 1 do artigo 105.º;
+
+g) O ou os pictogramas a que se refere a alínea i) do n.º 1 do artigo 105.º
+
+2 - O disposto na alínea u) do n.º 1 do artigo 105.º e no artigo 123.º é definido por portaria do membro do Governo responsável pela área da saúde, podendo, nomeadamente:
+
+a) Exigir a inserção de menções que se mostrem necessárias, designadamente por razões de proteção da saúde pública ou de conferência de faturação;
+
+b) Determinar a inutilização, pela indústria ou por outrem, de etiquetas, do regime de comparticipação ou de outros elementos aí previstos;
+
+c) Permitir que o órgão máximo do INFARMED, I.P., autorize a sobreposição, pela indústria ou por outrem, de etiquetas ou de autocolantes, em casos devidamente justificados.
