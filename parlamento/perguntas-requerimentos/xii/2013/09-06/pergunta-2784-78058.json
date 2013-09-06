@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "78058",
+  "tipo": "Pergunta",
+  "numero": "2784",
+  "data_registo": "2013-09-06",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Preterição dos docentes do ensino especial da segunda fase do concurso de professores",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "4208",
+        "nome": "Acácio Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1435",
+        "nome": "José Junqueiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4209",
+        "nome": "Elza Pais"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2201",
+        "nome": "Jacinto Serrão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1517",
+        "nome": "Rui Jorge Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      }
+    ],
+    "DataEnvio": "2013-09-09",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2013-09-09",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  EDUCAÇÃO E CIÊNCIA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2014-09-09",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  EDUCAÇÃO E CIÊNCIA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a63334d4745794d7a5a6a4c5759314e324d744e47526c4d5331695a444e6d4c575a685a5755354f4751784d6d5a6d4d7935775a47593d&fich=770a236c-f57c-4de1-bd3f-faee98d12ff3.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2013-09-06",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c3259344d7a466d5a6a426b4c5463334d324d744e47566c5a4331684d7a49304c545a69595459794e5464694d444131595335775a47593d&fich=f831ff0d-773c-4eed-a324-6ba6257b005a.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "78058",
+    "Legislatura": "XII",
+    "Nr": "2784",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "643013",
+        "obs": null,
+        "pag": [
+          "34-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013",
+        "pubLeg": "XII",
+        "pubNr": "220",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/02/220/2013-09-10/34?pgs=34-35&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
