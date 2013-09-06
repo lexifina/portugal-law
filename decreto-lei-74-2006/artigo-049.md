@@ -14,7 +14,7 @@ b) Por carta doutoral, para o grau de doutor.
 
 4 - A emissão de qualquer dos documentos a que se refere o n.º 2 é acompanhada da emissão de suplemento ao diploma nos termos do artigo 40.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de Junho.
 
-5 - A emissão da certidão do registo não pode ser condicionada à solicitação de emissão ou pagamento dos documentos a que se referem as alíneas a) e b) do n.º 2.
+5 - A emissão da certidão do registo não pode ser condicionada à solicitação de emissão ou pagamento de qualquer outro documento académico, nomeadamente daqueles a que se referem as alíneas a) e b) do n.º 2.
 
 6 - O valor cobrado pela emissão de qualquer dos documentos a que se refere o n.º 2 não pode exceder o custo do serviço respectivo.
 

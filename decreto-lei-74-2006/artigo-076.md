@@ -2,4 +2,4 @@
 
 ### Regime aplicável às alterações
 
-A aprovação das alterações a que se refere o artigo anterior cabe aos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior.
+A alteração dos elementos caraterizadores de um ciclo de estudos, modificando ou não os seus objetivos, fica sujeita ao regime fixado pelo presente título.

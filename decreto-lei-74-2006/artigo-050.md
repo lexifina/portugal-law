@@ -2,10 +2,14 @@
 
 ### Depósito legal
 
-1 - As dissertações de mestrado e as teses de doutoramento, bem como os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º e a compilação escrita prevista na alínea b) do mesmo número estão sujeitos:
+1 - As teses de doutoramento, os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º e as dissertações de mestrado ficam sujeitas ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e Tecnologia, I. P..
 
-a) A depósito legal de um exemplar em papel e de um exemplar em formato digital na Biblioteca Nacional;
+2 - O depósito visa o tratamento e a preservação dos referidos trabalhos científicos, bem como a difusão, em regime de acesso aberto, da produção que não for objeto de restrições ou embargos.
 
-b) A depósito de um exemplar em formato digital no Observatório da Ciência e do Ensino Superior.
+3 - O depósito deve ser feito no respeito por requisitos técnicos, designadamente no que respeita aos formatos dos ficheiros e à respetiva descrição dos trabalhos, a definir por portaria do membro do Governo responsável pela área do ensino superior.
 
-2 - Os depósitos referidos no número anterior são da responsabilidade do estabelecimento de ensino superior que tiver conferido o grau.
+4 - As teses de doutoramento, os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º e as fundamentações escritas a que se refere a alínea b) do n.º 2 do mesmo artigo estão, ainda, sujeitas ao depósito de um exemplar em papel na Biblioteca Nacional de Portugal.
+
+5 - As obrigações de depósito referidas nos números anteriores são da responsabilidade de cada estabelecimento de ensino superior que confere o grau e devem ser cumpridas em prazo não superior a 60 dias a contar da data de concessão do mesmo.
+
+6 - Os estabelecimentos de ensino superior devem facultar o acesso sem restrições da Direção-Geral de Estatísticas da Educação e Ciência aos conteúdos depositados na rede do Repositório Científico de Acesso Aberto de Portugal para fins de recolha e processamento de indicadores estatísticos.
