@@ -18,6 +18,14 @@ c) [Revogada].
 
 5 - O INFARMED, I.P., e o requerente ou o titular da autorização de introdução no mercado enviam ao CHMP toda a informação disponível relativamente ao assunto em questão.
 
-6 - Se o recurso à arbitragem resultar da avaliação dos dados relativos à farmacovigilância de um medicamento autorizado, a questão é submetida ao PRAC e pode ser aplicado o procedimento que se refere o n.º 2 do artigo 175.º-A.
+6 - Se ocorrer um caso previsto em qualquer das alíneas do n.º 1 do artigo 174.º, é desencadeado o procedimento a que se referem os artigos 174.º a 175.º-B e a questão é submetida ao PRAC.
 
 7 - As regras de funcionamento e de procedimento aplicáveis ao CHMP e ao PRAC são as definidas ao abrigo do direito da União Europeia.
+
+8 - Caso o INFARMED, I.P., considere necessária, para a proteção da saúde pública, a alteração dos termos de uma autorização de introdução no mercado concedida ao abrigo do disposto na presente secção ou a sua suspensão ou revogação, pode adotar, cumulativamente ou não, uma das medidas seguintes:
+
+a) Submeter imediatamente a questão à Agência, para aplicação dos procedimentos previstos no artigo anterior;
+
+b) Suspender cautelarmente a autorização de introdução no mercado e a utilização do medicamento no território nacional, nos casos em que seja necessária uma ação urgente para proteger a saúde pública.
+
+9 - A decisão referida na alínea b) do n.º 1, acompanhada da respetiva fundamentação, é notificada, até ao termo do primeiro dia útil seguinte, à Comissão Europeia e aos restantes Estados membros envolvidos.

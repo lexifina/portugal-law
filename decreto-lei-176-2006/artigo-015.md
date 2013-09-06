@@ -30,9 +30,9 @@ g) Dados relativos ao fabrico do medicamento, incluindo a descrição do método
 
 h) Descrição dos métodos de controlo utilizados pelo fabricante;
 
-i) Resultado dos ensaios farmacêuticos, pré-clínicos e clínicos;
+i) Uma declaração escrita do fabricante do medicamento, comprovativa da verificação pelo mesmo, mediante a realização de auditorias, do cumprimento, por parte do fabricante da substância ativa, dos princípios e das diretrizes de boas práticas de fabrico, nos termos da alínea g) do n.º 1 e do n.º 2 do artigo 59.º, devendo essa declaração incluir a data da última auditoria e referir que o resultado da mesma atesta que o processo de fabrico cumpre os referidos princípios e diretrizes;
 
-j) Descrição pormenorizada do sistema de farmacovigilância, acompanhada de prova da existência de um responsável pela farmacovigilância e da posse dos meios necessários para notificar qualquer suspeita de reacção adversa e, quando for caso disso, do sistema de gestão de riscos que o requerente vai aplicar;
+j) Resultado dos ensaios farmacêuticos, pré-clínicos e clínicos;
 
 k) Resumo do sistema de farmacovigilância, demonstrativo do facto de o requerente dispor dos meios necessários ao cumprimento das tarefas e responsabilidades previstas no capítulo X e de pessoa qualificada responsável pela farmacovigilância, bem como que mencione os Estados membros onde a mesma pessoa reside e exerce a sua atividade, os respetivos contactos e o local onde se encontra o dossiê principal do sistema de farmacovigilância;
 
@@ -46,26 +46,26 @@ o) Cópia das autorizações de introdução no mercado do medicamento em paíse
 
 p) Indicação dos Estados membros em que tenha sido apresentado pedido de autorização de introdução no mercado para o medicamento em questão, incluindo cópias dos resumos das características dos medicamentos e dos folhetos informativos aí propostos ou autorizados;
 
-q) Quando aplicável, cópia de qualquer designação do medicamento como medicamento órfão, nos termos previstos no Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R0141" title="Link para Regulamento da Comunidade Europeia!��141/2000</`�, do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1999, acompanhado de uma cópia do parecer da Agência;
+q) Relatório de avaliação dos riscos ambientais colocados pelo medicamento, acompanhado, sempre que necessário, das medidas propostas para a limitação dos riscos;
 
 r) [Revogada];
 
-s) Versão não confidencial dos documentos abrangidos pelo disposto na alínea anterior;
+s) Quando aplicável, cópia de qualquer designação do medicamento como medicamento órfão, nos termos previstos no Regulamento (CE) n.º <a href="eurlex.asp?ano=2000&id=300R0141" title="Link para Regulamento da Comunidade Europeia!��141/2000</`�, do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1999, acompanhado de uma cópia do parecer da Agência;
 
-t) Comprovativo do pagamento da taxa devida;
+t) Versão não confidencial dos documentos abrangidos pelo disposto na alínea anterior;
 
-u) Outros elementos e informações exigidos no anexo I.
+u) Comprovativo do pagamento da taxa devida;
 
 3 - O pedido é acompanhado de todas as informações relevantes para a avaliação do medicamento em questão, independentemente de serem favoráveis ao requerente e de todos os elementos respeitantes a qualquer teste ou ensaio farmacêutico, pré-clínico ou clínico do medicamento, ainda que incompleto ou interrompido.
 
-4 - Mediante justificação, o requerente pode solicitar o diferimento da apresentação dos resultados das avaliações referidas na alínea e) ou de resultados de ensaios previstos na alínea i), ambos do n.º 2, sendo a data da apresentação definida, sempre que aplicável, pelo INFARMED.
+4 - Mediante justificação, o requerente pode solicitar o diferimento da apresentação dos resultados das avaliações referidas na alínea e) ou de resultados de ensaios previstos na alínea j), ambos do n.º 2, sendo a data da apresentação definida, sempre que aplicável, pelo INFARMED, I.P.
 
-5 - Os documentos e informações relativos ao disposto nas alíneas h) e i) do n.º 2 são acompanhados de resumos pormenorizados, elaborados em conformidade com o disposto no Anexo I, e assinados por peritos que possuam as habilitações técnicas e profissionais necessárias, as quais devem constar de um breve currículo, que acompanha os resumos.
+5 - Os documentos e informações relativos ao disposto nas alíneas h) e j) do n.º 2 são acompanhados de resumos pormenorizados, elaborados em conformidade com o disposto no anexo I, e assinados por peritos que possuam as habilitações técnicas e profissionais necessárias, as quais devem constar de um breve currículo, que acompanha os resumos.
 
-6 - Os documentos previstos na segunda parte das alíneas n) e o) do n.º 2 são apresentados em versão oficial, acompanhados de tradução oficial para a língua portuguesa, salvo quando esta seja expressamente dispensada pelo INFARMED.
+6 - Os documentos previstos na segunda parte das alíneas o) e p) do n.º 2 são apresentados em versão oficial, acompanhados de tradução oficial para a língua portuguesa, salvo quando esta seja expressamente dispensada pelo INFARMED, I.P.
 
 7 - A designação de um representante local não exime o requerente das responsabilidades que para este resultam do presente decreto-lei.
 
-8 - O sistema de gestão do risco a que se refere a alínea l) do n.º 2 é proporcional aos riscos, identificados e potenciais, do medicamento e à necessidade de obtenção de dados de segurança pós-autorização, devendo incluir todas as condições e injunções estabelecidas ao abrigo dos artigos 24.º e 26.º-A.
+8 - O sistema de gestão do risco a que se refere a alínea m) do n.º 2 é proporcional aos riscos, identificados e potenciais, do medicamento e à necessidade de obtenção de dados de segurança pós-autorização, devendo incluir todas as condições e injunções estabelecidas ao abrigo dos artigos 24.º e 26.º-A.
 
 9 - As informações a que se refere o n.º 5 são mantidas permanentemente atualizadas.

@@ -106,9 +106,9 @@ Devem ser salientados os parâmetros críticos fundamentais e questões relacion
 
 É necessária uma apreciação integrada e crítica da avaliação não clínica do medicamento em animais/in vitro. Incluir-se-á a argumentação e a justificação da estratégia de ensaio e de qualquer desvio às normas orientadoras correspondentes.
 
-Excetua-se o caso dos medicamentos biológicos, em que uma avaliação das impurezas e dos produtos de degradação deve ser incluída juntamente com os seus potenciais efeitos farmacológicos e tóxicos. Devem ser discutidas as implicações de quaisquer diferenças verificadas na quiralidade, na forma química e no perfil de impureza entre o composto utilizado nos estudos não clínicos e o medicamento a introduzir no mercado.
+Exceptua-se o caso dos medicamentos biológicos, em que uma avaliação das impurezas e dos produtos de degradação deve ser incluída juntamente com os seus potenciais efeitos farmacológicos e tóxicos. Devem ser discutidas as implicações de quaisquer diferenças verificadas na quiralidade, na forma química e no perfil de impureza entre o composto utilizado nos estudos não clínicos e o medicamento a introduzir no mercado.
 
-No caso dos medicamentos biológicos, deve ser avaliada a comparação entre o material utilizado nos estudos não clínicos e clínicos e o medicamento a introduzir no mercado.
+No caso dos medicamento biológicos, deve ser avaliada a comparação entre o material utilizado nos estudos não clínicos e clínicos e o medicamento a introduzir no mercado.
 
 Qualquer excipiente novo deve ser sujeito a uma avaliação de segurança específica.
 
@@ -462,9 +462,9 @@ Deve ser apresentada uma descrição do produto acabado e da sua composição. A
 
 - No que respeita às substâncias constantes da Farmacopeia Europeia ou, caso dela não constem, da Farmacopeia Portuguesa, a denominação principal constante do título da respetiva monografia, com indicação da farmacopeia em questão;
 
-- No que respeita a outras substâncias, a denominação comum ou, caso não exista, a denominação científica exata; as substâncias que não disponham de denominação comum nem de denominação científica exata devem ser descritas através de uma menção da origem e do modo como foram preparadas, complementada, se necessário, por outros elementos relevantes;
+- No que respeita a outras substâncias, a denominação comum ou, caso não exista, a denominação científica exata; as substâncias que não disponham de denominação comum nem de denominação científica exata devem ser descritas através de uma menção da origem e do modo como foram preparadas, complementada, se necessário;
 
-- No que respeita às matérias corantes, a designação através do código «E» que lhes foi atribuído pela Diretiva n.º 2009/35/CE, do Parlamento Europeu e do Conselho de 23 de abril de 2009, relativa à aproximação das legislações dos Estados membros respeitantes às matérias que podem ser adicionadas aos medicamentos tendo em vista a sua coloração ou na Diretiva 94/36/CE, do Parlamento Europeu e do Conselho, de 30 de junho de 1994, relativa aos corantes para utilização nos géneros alimentícios, transpostos para a ordem jurídica interna pelo Decreto-Lei n.º 193/2000, de 18 de agosto, com a última redação resultante do Decreto-Lei n.º 166/2002, de 18 de julho.
+- No que respeita às matérias corantes, a designação através do código «E» que lhes foi atribuído pela Diretiva n.º 2009/35/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa às matérias que podem ser adicionadas aos medicamentos tendo em vista a sua coloração, ou na Diretiva n.º 94/36/CE, do Parlamento Europeu e do Conselho, de 30 de junho de 1994, relativa aos corantes para utilização nos géneros alimentícios, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 193/2000, de 18 de agosto, com a última redação resultante do Decreto-Lei n.º 120/2011, de 28 de dezembro.
 
 - Por forma a especificar a «composição quantitativa» da ou das substâncias ativas do produto acabado, importa, dependendo da forma farmacêutica em questão, especificar a massa ou o número de unidades de atividade biológica por unidade de dose ou por unidade de massa ou volume, de cada substância ativa.
 
@@ -528,7 +528,7 @@ c) Devem ser apresentados a descrição, a documentação e os resultados dos es
 
 a) Todas as substâncias necessárias para fabricar o ou os excipientes devem ser indicadas, identificando em que fase do processo cada substância é utilizada. Devem ser fornecidas informações sobre a qualidade e o controlo dessas substâncias, bem como, informações que demonstram que as substâncias satisfazem os padrões adequados para o uso a que se destinam.
 
-Os corantes, em todos os casos, devem satisfazer os requisitos das Directivas n.º 94/36/CE, respeitando os critérios de pureza estabelecidos no Decreto-Lei n.º 193/2000, de 18 de Agosto, na redacção resultante do Decreto-Lei n.º 166/2002, de 18 de Julho.
+Os corantes, em todos os casos, devem satisfazer os requisitos da Diretiva n.º 2009/35/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa às matérias que podem ser adicionadas aos medicamentos tendo em vista a sua coloração, ou da Diretiva n.º 94/36/CE, do Parlamento Europeu e do Conselho, de 30 de junho de 1994, relativa aos corantes para utilização nos géneros alimentícios, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 193/2000, de 18 de agosto, com a última redação resultante do Decreto-Lei n.º 120/2011, de 28 de dezembro, respeitando os critérios de pureza estabelecidos no mesmo decreto-lei.
 
 b) Para cada excipiente, as especificações e as suas justificações devem ser detalhadas. Os procedimentos analíticos devem ser descritos e devidamente validados.
 

@@ -32,6 +32,6 @@ e) Atualizar o sistema de gestão do risco e monitorizar os dados de farmacovigi
 
 7 - O titular da autorização de introdução no mercado deve comunicar e manter permanentemente atualizados:
 
-a) O nome, residência habitual, domicílio profissional, números de telefone e telefax e endereço de correio eletrónico da pessoa qualificada prevista no n.º 5, junto do INFARMED, I.P., e da Agência;
+a) O nome, Estado membro de residência, domicílio profissional, números de telefone e telefax e endereço de correio eletrónico da pessoa qualificada prevista no n.º 5, junto do INFARMED, I.P., e da Agência;
 
-b) O nome, residência habitual, domicílio profissional, números de telefone e telefax e endereço de correio eletrónico da pessoa de contacto para questões de farmacovigilância prevista no n.º 6, junto do INFARMED, I.P.
+b) O nome, distrito onde reside, domicílio profissional, números de telefone e telefax e endereço de correio eletrónico da pessoa de contacto para questões de farmacovigilância prevista no n.º 6, junto do INFARMED, I.P.

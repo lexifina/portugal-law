@@ -26,7 +26,13 @@ h) O incumprimento do disposto nos artigos 62.º a 72.º, bem como nas demais di
 
 2 - A autorização, ou registo, de introdução no mercado de um medicamento não pode ser alterada, suspensa ou revogada com fundamento na eventual existência de direitos de propriedade industrial.
 
-3 - As autorizações ou os registos podem ainda ser revogados pelo INFARMED a pedido dos respectivos titulares.
+3 - As autorizações ou os registos podem ainda ser revogados pelo INFARMED, I.P.:
+
+a) A pedido dos respetivos titulares;
+
+b) Caso o fabrico do medicamento não se realize no modo descrito de acordo com a alínea g) do n.º 2 do artigo 15.º;
+
+c) Caso os controlos não sejam efetuados segundo os métodos descritos de acordo com a alínea h) do n.º 2 do artigo 15.º.
 
 4 - A decisão de suspensão é notificada ao titular da autorização, acompanhada dos respectivos fundamentos e da indicação de um prazo para o suprimento das deficiências que lhe deram origem.
 

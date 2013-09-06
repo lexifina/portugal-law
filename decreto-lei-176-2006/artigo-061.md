@@ -6,7 +6,7 @@
 
 a) Garantir que cada lote de medicamentos foi fabricado e controlado no respeito pela lei e das boas práticas de fabrico, de acordo com os métodos e técnicas fixados no processo de autorização de introdução no mercado;
 
-b) Assegurar que cada lote de medicamentos que não tenha sido fabricado num Estado membro é objecto de uma análise qualitativa completa, de uma análise quantitativa abrangendo pelo menos todas as substâncias activas e da realização de todos os ensaios ou verificações necessários para assegurar a qualidade do medicamento de acordo com a respectiva autorização de introdução no mercado;
+b) Assegurar que cada lote de medicamentos que não tenha sido fabricado num Estado membro é objeto de uma análise qualitativa completa, de uma análise quantitativa abrangendo pelo menos todas as substâncias ativas e da realização de todos os ensaios ou verificações necessários para assegurar a qualidade do medicamento de acordo com a respetiva autorização de introdução no mercado, bem como que os mesmos medicamentos dispõem dos dispositivos de segurança afixados nas respetivas embalagens;
 
 c) Atestar que cada lote de fabrico respeita o disposto nas normas aplicáveis, procedendo ao respectivo registo em documento próprio, que é mantido permanentemente actualizado;
 

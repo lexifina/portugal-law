@@ -9,3 +9,5 @@
 3 - O pedido é indeferido quando não se mostrem cumpridos os requisitos exigidos na presente secção e na demais legislação aplicável, incluindo as normas relativas às boas práticas de distribuição.
 
 4 - A decisão é notificada ao requerente, acompanhada, no caso de indeferimento, dos respectivos fundamentos.
+
+5 - O INFARMED, I.P., deve introduzir na base de dados da União Europeia a informação sobre cada autorização de distribuição por grosso concedida, sem prejuízo de, mediante pedido, prestar à Comissão ou a qualquer Estado membro todas as informações necessárias acerca das autorizações de distribuição por grosso concedidas.

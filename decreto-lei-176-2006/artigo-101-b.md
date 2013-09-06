@@ -2,7 +2,7 @@
 
 ### Intermediação de medicamentos
 
-1 - As pessoas que se dedicam à intermediação de medicamentos devem cumprir, com as necessárias adaptações, o disposto nas alíneas a), e), f), i), k) e l) do n.º 1 e no n.º 5 do artigo 100.º
+1 - As pessoas que se dedicam à intermediação de medicamentos devem cumprir o disposto nas alíneas c) e f) do n.º 1 e no n.º 2 do artigo 100.º, bem como, com as necessárias adaptações, as obrigações previstas nas alíneas a), e), k) e i) do n.º 1 do artigo 100.º e nos n.os 4 a 6 deste último artigo.
 
 2 - As pessoas a que se refere o número anterior devem dispor de domicílio ou sede e dados de contacto na União Europeia e devem registar-se junto do INFARMED, I.P., previamente ao início da atividade, mediante a indicação, entre outros, dos seguintes elementos, exceto se tiverem a sua sede, domicílio ou estabelecimento principal noutro Estado membro:
 

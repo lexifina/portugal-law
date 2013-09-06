@@ -2,7 +2,7 @@
 
 ### Rotulagem
 
-1 - Salvo disposição legal em contrário, a rotulagem do acondicionamento secundário e, caso não exista, do acondicionamento primário, contém as seguintes indicações:
+1 - Salvo disposição legal em contrário, a rotulagem do acondicionamento secundário e, caso não exista, do acondicionamento primário, contém as seguintes indicações, elementos ou dispositivos:
 
 a) Nome do medicamento, seguido da denominação comum, quando o medicamento não contenha a associação fixa de mais de três substâncias activas, das dosagens, forma farmacêutica e, quando aplicável, da menção para lactentes, crianças ou adultos;
 
@@ -24,25 +24,29 @@ i) Pictograma adequado a alertar para os efeitos do consumo do medicamento sobre
 
 j) A expressão «Uso externo», impressa em fundo vermelho, quando for caso disso;
 
-l) Prazo de validade, incluindo mês e ano;
+k) Prazo de validade, incluindo mês e ano;
 
-m) Prazo de utilização após reconstituição do medicamento ou primeira abertura do acondicionamento primário, quando for caso disso;
+l) Prazo de utilização após reconstituição do medicamento ou primeira abertura do acondicionamento primário, quando for caso disso;
 
-n) Precauções particulares de conservação, quando for caso disso;
+m) Precauções particulares de conservação, quando for caso disso;
 
-o) Precauções especiais para a eliminação dos medicamentos não utilizados ou dos resíduos ou detritos deles provenientes, fazendo referência ao sistema apropriado de eliminação;
+n) Precauções especiais para a eliminação dos medicamentos não utilizados ou dos resíduos ou detritos deles provenientes, fazendo referência ao sistema apropriado de eliminação;
 
-p) Preço de venda ao público através de impressão, etiqueta ou carimbo;
+o) Preço de venda ao público através de impressão, etiqueta ou carimbo;
 
-q) Nome ou firma e domicílio ou sede do titular da autorização de introdução no mercado e, quando for caso disso, do representante local;
+p) Nome ou firma e domicílio ou sede do titular da autorização de introdução no mercado e, quando for caso disso, do representante local;
 
-r) Número de registo de autorização de introdução no mercado do medicamento;
+q) Número de registo de autorização de introdução no mercado do medicamento;
 
-s) Número do lote de fabrico;
+r) Número do lote de fabrico;
 
-t) As expressões «Amostra gratuita», «Proibida a venda ao público» ou outras semelhantes, quando for caso disso;
+s) As expressões «Amostra gratuita», «Proibida a venda ao público» ou outras semelhantes, quando for caso disso;
 
-u) Elementos que garantam a identidade e autenticidade do medicamento, definidos ao abrigo do disposto no artigo 13.º e no n.º 2 do artigo 109.º
+t) Elementos que garantam a identidade e autenticidade do medicamento, definidos ao abrigo do disposto no artigo 13.º e no n.º 2 do artigo 109.º, sem prejuízo do disposto na alínea seguinte;
+
+u) Para os medicamentos sujeitos a receita médica, exceto os previstos na secção III do capítulo VIII, os dispositivos de segurança que permitam aos distribuidores por grosso e aos profissionais de saúde verificar a autenticidade do medicamento e identificar cada embalagem, bem como um dispositivo que, quando aplicável, permita verificar se o acondicionamento secundário foi adulterado;
+
+v) Para os medicamentos previstos no n.º 3 do artigo 115.º, a menção «Medicamento não sujeito a receita médica de dispensa exclusiva em farmácia
 
 2 - O acondicionamento secundário pode incluir sinais ou imagens, previstos em regulamentação especial, destinados a explicar certas informações mencionadas no número anterior, bem como outras informações compatíveis com o resumo das características do medicamento e úteis para o doente, sendo excluído todo e qualquer elemento de carácter publicitário.
 

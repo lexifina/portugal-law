@@ -1,6 +1,6 @@
 # Artigo 93.º
 
-### Autorização excepcional
+### Autorização de comercialização de medicamentos sem autorização ou registo válidos em Portugal
 
 1 - O INFARMED pode autorizar, por razões fundamentadas de saúde pública, ainda que abrangidas pelo disposto no artigo anterior, a comercialização de medicamentos que não beneficiem de autorização ou registo válidos em Portugal ou que não tenham sido objecto de um pedido de autorização ou registo válido.
 

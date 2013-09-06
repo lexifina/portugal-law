@@ -1,6 +1,6 @@
 ## Secção IV
 
-## Distribuição por grosso
+## Distribuição por grosso e intermediação de medicamentos
 
 # Artigo 94.º
 
