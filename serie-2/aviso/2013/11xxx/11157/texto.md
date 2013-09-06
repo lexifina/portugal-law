@@ -1,0 +1,14 @@
+Aviso n.º 11157/2013
+Alteração ao Plano Pormenor da Área a Nascente do Mosteiro de S. Miguel de Refojos
+Joaquim Barroso de Almeida Barreto, Eng.º, Presidente da Câmara Municipal de Cabeceiras de Basto, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 74.º em conjugação com o disposto no n.º 2, do artigo do 77.º, do Decreto-Lei n.º 380/99 de 22 de setembro, com a redação que lhe foi dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro que:
+A Câmara Municipal de Cabeceiras de Basto na sua reunião de 22 de agosto, do ano de dois mil e treze, deliberou:
+Determinar o início do procedimento de alteração do Plano de Pormenor da Área a Nascente do Mosteiro de S. Miguel de Refojos, cuja área de intervenção é a constante da planta identificada como anexo II;
+Dispensar a elaboração da alteração do Plano de Pormenor da Área a Nascente do Mosteiro de S. Miguel de Refojos, do procedimento de Avaliação Ambiental Estratégica, ao abrigo do disposto no n.º 2 do artigo 3.º, do Decreto-Lei n.º 232/2007 de 15 de junho, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+Aprovar os termos de referência da alteração constantes do anexo I;
+Fixar em 15 dias o prazo a que se refere o n.º 2 do artigo 77.º, do Decreto-Lei n.º 380/1999, de 22 de setembro, na redação atual dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, para a formulação de sugestões e para a apresentação de informações, por parte dos interessados, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+O período para apresentação de sugestões e informações decorrerá durante 15 dias contados a partir do primeiro dia útil após a publicação deste aviso no Diário da República, 2.ª série.
+Os termos de referência da alteração e as plantas com a área de intervenção assinalada encontram-se disponíveis para consulta na UNOPDE - Unidade de Obras Particulares, Planeamento e Desenvolvimento da Câmara Municipal de Cabeceiras de Basto.
+As sugestões, reclamações ou observações devem ser apresentadas por escrito até ao final do período referido, devidamente fundamentadas e entregues no Serviço de Atendimento Único desta Câmara Municipal durante o horário normal de expediente, (Segunda a Sexta-feira das 9h00 às 12h30 e das 14h00 às 17h30, remetido por correio dirigido ao Presidente da Câmara Municipal de Cabeceiras de Basto, Praça da República, n.º 467, freguesia de Refojos, 4860-355 Cabeceiras de Basto ou por correio eletrónico para geral-cmcbasto@mail.telepac.pt.
+Quaisquer informações ou esclarecimentos sobre a alteração do Plano de Urbanização poderão ser obtidas na UNOPDE - Unidade de Obras Particulares, Planeamento e Desenvolvimento desta Câmara Municipal, durante o referido horário de expediente.
+26 de agosto de 2013. - O Presidente da Câmara, Joaquim Barroso de Almeida Barreto, Eng.
+207213296
