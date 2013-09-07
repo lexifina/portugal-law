@@ -22,11 +22,13 @@ f) Manter registos das suas actividades e organização interna;
 
 g) Assegurar que a realização de diversas funções por pessoas referidas no n.º 5 do artigo 304.º não as impede de executar qualquer função específica de modo eficiente, honesto e profissional;
 
-h) Adoptar sistemas e procedimentos adequados a salvaguardar a segurança, a integridade e a confidencialidade da informação;
+h) Adotar sistemas e procedimentos adequados a salvaguardar a segurança, a integridade e a confidencialidade da informação, incluindo o tratamento eletrónico de dados;
 
 i) Adoptar uma política de continuidade das suas actividades, destinada a garantir, no caso de uma interrupção dos seus sistemas e procedimentos, a preservação de dados e funções essenciais e a prossecução das suas actividades de intermediação financeira ou, se tal não for possível, a recuperação rápida desses dados e funções e o reatamento rápido dessas actividades;
 
 j) Adoptar uma organização contabilística que lhe permita, a todo o momento e de modo imediato, efectuar a apresentação atempada de relatórios financeiros que reflictam uma imagem verdadeira e apropriada da sua situação financeira e que respeitem todas as normas e regras contabilísticas aplicáveis, designadamente em matéria de segregação patrimonial.
+
+k) Dispor de procedimentos de controlo interno adequados, incluindo regras relativas às transações pessoais dos seus colaboradores ou à detenção ou gestão de investimentos em instrumentos financeiros para investimento por conta própria.
 
 2 - Para efeitos do disposto nas alíneas a) a g) do número anterior, o intermediário financeiro deve ter em conta a natureza, a dimensão e a complexidade das suas actividades, bem como o tipo de actividades de intermediação financeira prestadas.
 

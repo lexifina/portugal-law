@@ -20,4 +20,4 @@ d) Quaisquer requisitos em matéria de margens ou obrigações análogas, aplic�
 
 5 - No caso de instrumentos financeiros que incluem uma garantia de um terceiro, a informação sobre a garantia deve incluir elementos suficientes sobre o garante e a garantia, a fim de permitir uma avaliação correcta por parte de um investidor não qualificado.
 
-6 - Um prospecto simplificado relativo a unidades de participação num organismo de investimento colectivo harmonizado e que respeite o artigo 28.º da Directiva n.º 85/611/CEE, do Conselho, de 20 de Dezembro, é considerado adequado para efeitos do disposto na alínea d) do n.º 1 do artigo 312.º
+6 - No caso de unidades de participação de organismo de investimento coletivo em valores mobiliários, o documento relativo à informação fundamental ao investidor é considerado adequado para efeitos do disposto na alínea d) do n.º 1 do artigo 312.º.

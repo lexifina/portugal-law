@@ -44,4 +44,6 @@ h) Às pessoas que negoceiem instrumentos financeiros por conta própria ou que 
 
 i) Às pessoas que exercem, a título principal, algum dos serviços enumerados nas alíneas c), d) e g) do artigo 291.º, desde que não actuem no âmbito de um grupo cuja actividade principal consista na prestação de serviços de investimento ou de natureza bancária.
 
-4 - O disposto nos artigos 294.º-A a 294.º-D, 306.º a 306.º-D, 308.º a 308.º-C, 309.º-D, 313.º, 314.º a 314.º-D, 317.º a 317.º-D não é aplicável à actividade de gestão de instituições de investimento colectivo.
+4 - O disposto nos artigos 294.º-A a 294.º-D, n.os 3 a 10 do artigo 306.º, artigos 306.º-A a 306.º-D, 309.º-D, 314.º a 314.º-D, 317.º a 317.º-D e capítulos II e III não é aplicável à atividade de gestão do investimento de instituições de investimento coletivo.
+
+5 - Sem prejuízo do disposto no número anterior, o disposto nos n.os 2 a 4 do artigo 305.º-A, artigos 305.º-B, 305.º-C, n.º 3 do artigo 305.º-D, artigos 305.º-E, 307.º a 307.º-B, 308.º a 308.º-C, 309.º-G e 310.º a 316.º não é aplicável às sociedades de investimento mobiliário e às sociedades de investimento imobiliário heterogeridas.
