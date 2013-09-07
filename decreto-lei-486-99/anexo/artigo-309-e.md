@@ -17,3 +17,5 @@ a) Todas as pessoas referidas no n.º 5 do artigo 304.º abrangidas pelo n.º 1 
 b) O intermediário financeiro seja imediatamente informado de todas as operações pessoais realizadas; e
 
 c) Seja mantido um registo de cada operação pessoal, incluindo indicação de qualquer autorização ou proibição relativa à mesma.
+
+3 - Para efeitos da alínea b) do número anterior, se determinadas atividades forem asseguradas por entidades subcontratadas, o intermediário financeiro deve garantir que a entidade subcontratada mantém um registo das operações pessoais realizadas e presta essa informação ao intermediário imediatamente, quando esta lhe for solicitada.

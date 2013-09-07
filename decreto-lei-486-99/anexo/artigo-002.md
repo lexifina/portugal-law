@@ -35,3 +35,5 @@ h) O regime de supervisão e sancionatório relativo aos instrumentos e às acti
 5 - (Revogado).
 
 6 - (Revogado).
+
+7 - As referências feitas no presente Código a unidades de participação devem ser entendidas de modo a abranger as ações de instituições de investimento coletivo, salvo se o contrário resultar da própria disposição.

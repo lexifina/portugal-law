@@ -16,4 +16,8 @@ b) De registo prévio na CMVM.
 
 3 - A CMVM organiza uma lista das instituições de crédito e das empresas de investimento que exerçam actividades de intermediação financeira em Portugal em regime de livre prestação de serviços.
 
-4 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados o registo de empresas de investimento e instituições de crédito que prestem serviços ou exerçam atividades de investimento.
+4 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados o registo de:
+
+a) Empresas de investimento e instituições de crédito que prestem serviços ou exerçam atividades de investimento;
+
+b) Sociedades gestoras de fundos de investimento mobiliário e de sociedades de investimento mobiliário que giram organismos de investimento coletivo em valores mobiliários.

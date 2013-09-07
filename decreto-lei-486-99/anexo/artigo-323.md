@@ -16,7 +16,7 @@ b) No caso de um investidor não qualificado, enviar uma nota de execução da o
 
 3 - A pedido do cliente, o intermediário deve prestar-lhe informação acerca do estado da ordem.
 
-4 - No caso de ordens de um investidor não qualificado, que incidam sobre unidades de participação ou títulos de capital de organismos de investimento colectivo e sejam executadas periodicamente, o intermediário financeiro deve enviar a comunicação referida na alínea b) do n.º 1 ou prestar ao cliente, pelo menos semestralmente, a informação indicada no número seguinte.
+4 - No caso de ordens de um investidor não qualificado, que incidam sobre unidades de participação e sejam executadas periodicamente, o intermediário financeiro deve enviar a comunicação referida na alínea b) do n.º 1 ou prestar ao cliente, pelo menos semestralmente, a informação indicada no número seguinte.
 
 5 - A nota de execução da operação referida na alínea b) do n.º 1 inclui, se aplicável:
 

@@ -19,3 +19,5 @@ b) A identificação da actividade de intermediação financeira em causa e a da
 c) A identificação do colaborador que praticou o acto reclamado;
 
 d) A apreciação efectuada pelo intermediário financeiro, as medidas tomadas para resolver a questão e a data da sua comunicação ao reclamante.
+
+3 - Os investidores podem apresentar reclamações de forma gratuita, sendo igualmente gratuito o acesso à resposta a reclamações apresentadas.
