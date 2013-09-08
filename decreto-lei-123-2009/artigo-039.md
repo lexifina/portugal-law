@@ -24,4 +24,4 @@ e) Orçamento baseado na espécie e quantidade de trabalhos constantes das medi�
 
 f) Outros elementos estruturantes do projecto, nomeadamente, fichas técnicas, plantas topográficas, esquemas da rede de tubagem e cablagem, quadros de dimensionamento, cálculos de níveis de sinal, esquemas de instalação eléctrica e terras das infra-estruturas, análise das especificidades das ligações às infra-estruturas de telecomunicações das empresas de comunicações electrónicas.
 
-2 - Nas situações previstas na alínea b) do n.º 1 do artigo 37.º, o projecto só pode ser subscrito por técnico habilitado.
+2 - (Revogado.)

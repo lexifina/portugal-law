@@ -6,7 +6,7 @@
 
 2 - O disposto no número anterior não se aplica à remuneração pelo acesso e utilização das ITUR públicas, a qual se rege pelo disposto no artigo 34.º
 
-3 - A pedido das empresas de comunicações electrónicas, ou de qualquer das entidades referidas no artigo 2.º, o ICP-ANACOM deve avaliar e decidir, num caso concreto, sobre a adequação do valor da remuneração solicitada face à regra estabelecida no número anterior, nos termos do artigo 10.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro.
+3 - A pedido das empresas de comunicações eletrónicas, ou de qualquer das entidades referidas no artigo 2.º, o ICP-ANACOM deve avaliar e decidir, num caso concreto, sobre a adequação do valor da remuneração solicitada face à regra estabelecida no n.º 1, nos termos do artigo 10.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro.
 
 4 - Para efeitos do disposto no número anterior, a entidade gestora da infra-estrutura deve facultar ao ICP-ANACOM elementos demonstrativos da adequação da remuneração solicitada, bem como todos os elementos que por este lhe sejam pedidos para a avaliação daquela adequação.
 

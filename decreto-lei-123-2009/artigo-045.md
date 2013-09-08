@@ -1,13 +1,19 @@
 # Artigo 45.º
 
-### Registo de entidades formadoras de instaladores ITUR
+### Certificação de entidades formadoras de projetistas e instaladores ITUR
 
-1 - As entidades que pretendam ser designadas como formadoras de instaladores ITUR devem solicitar o seu registo no ICP-ANACOM.
+1 - A certificação de entidades privadas formadoras para projetistas e instaladores ITUR segue os trâmites da portaria que regula a certificação de entidades formadoras, com as seguintes adaptações:
 
-2 - Para efeitos do disposto no número anterior, o pedido de registo deve ser instruído com os seguintes elementos:
+a) A entidade competente para a certificação é o ICP-ANACOM;
 
-a) Documento comprovativo de acreditação da Direcção-Geral do Emprego e das Relações de Trabalho (DGERT);
+b) As entidades formadoras devem cumprir as obrigações previstas no artigo 49.º;
 
-b) Declaração que ateste que a entidade não é devedora ao Estado e à segurança social de quaisquer impostos, quotizações ou contribuições, bem como de outras importâncias, ou que o seu pagamento está assegurado mediante o cumprimento de acordos que para o efeito tenham sido celebrados nos termos legais.
+c) O procedimento de revogação da certificação segue os termos do artigo 94.º-A;
 
-3 - Os critérios de determinação do preenchimento dos requisitos técnicos materiais e das qualificações técnicas do pessoal, são definidos pelo ICP-ANACOM, em articulação com a Agência Nacional para a Qualificação, I. P., que coordena as ofertas educativas e formativas de dupla certificação e o Catálogo Nacional de Qualificações, bem como com a DGERT que é responsável pelo sistema de acreditação de entidades formadoras.
+d) Outros requisitos específicos, em complemento ou derrogação dos requisitos constantes da portaria que regula a certificação de entidades formadoras, são aprovados por portaria dos membros do Governo responsáveis pelas áreas da formação profissional, das comunicações e da educação, observado o disposto no n.º 4.
+
+2 - A certificação das entidades formadoras referidas no número anterior, expressa ou tácita, é comunicada por meio eletrónico ao serviço central competente do ministério responsável pela área da formação profissional, no prazo de 10 dias.
+
+3 - O procedimento de certificação tem início após o pagamento das taxas devidas pela entidade formadora certificada, aquando da apresentação do pedido de certificação.
+
+4 - Os critérios de determinação do preenchimento dos requisitos técnicos materiais e das qualificações técnicas do pessoal, a constar da portaria referida na alínea d) do n.º 1, são propostos pelo ICP-ANACOM, em articulação com a Agência Nacional para a Qualificação, I. P., que coordena as ofertas educativas e formativas de dupla certificação e o Catálogo Nacional de Qualificações, bem como com o serviço competente do ministério responsável pela área da formação profissional.

@@ -6,7 +6,7 @@
 
 a) Elaborar, publicitar e comunicar ao ICP-ANACOM, no prazo de 90 dias a contar da data da publicação do presente decreto-lei, os procedimentos e condições relativos à atribuição dos direitos de passagem previstos no artigo 6.º;
 
-b) Publicitar e comunicar ao ICP-ANACOM, no prazo de 30 dias a contar da data da publicação do presente decreto-lei, as instruções técnicas previstas no n.º 1 do artigo 10.º, aplicáveis à construção ou a qualquer intervenção sobre as infra-estruturas.
+b) Publicitar e comunicar ao ICP-ANACOM, no prazo de 30 dias a contar da data da publicação do presente decreto-lei, as instruções técnicas previstas no n.º 1 do artigo 11.º, aplicáveis à construção ou a qualquer intervenção sobre as infraestruturas.
 
 2 - As entidades referidas no artigo 2.º do presente decreto-lei devem, no prazo de 30 dias a contar da data da publicação do presente decreto-lei:
 

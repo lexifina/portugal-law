@@ -1,15 +1,11 @@
 # Artigo 42.º
 
-### Inscrição de instalador ITUR
+### Título profissional de instalador ITUR habilitado pelo ICP-ANACOM
 
-1 - Os técnicos referidos na alínea b) do artigo anterior estão sujeitos a inscrição prévia no ICP-ANACOM para poderem exercer a actividade de instaladores ITUR.
+1 - O exercício, em território nacional, da profissão de instalador ITUR por técnico referido nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo anterior depende da posse de título profissional válido, emitido pelo ICP-ANACOM.
 
-2 - As pessoas singulares ou colectivas referidas no número anterior que pretendam inscrever-se como instaladores devem entregar no ICP-ANACOM, no formato a definir por esta Autoridade:
+2 - Em caso de reconhecimento de qualificações equivalentes às referidas nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo anterior, obtidas fora de Portugal por cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu, o título profissional é emitido com a decisão de deferimento proferida nos termos do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
 
-a) Ficha de inscrição de modelo a aprovar pelo ICP-ANACOM;
+3 - Fora dos casos previstos no número anterior, o ICP-ANACOM dispõe de 20 dias para decidir sobre a emissão do título profissional, após a regular entrega do respetivo pedido, instruído com certificado de qualificações, após o que se considera aquele tacitamente deferido, valendo como título profissional, para todos os efeitos legais, os comprovativos de submissão do pedido e do pagamento da respetiva taxa.
 
-b) Documento comprovativo das habilitações exigidas.
-
-3 - As inscrições são válidas por um período de três anos, findo o qual deve ser manifestado ao ICP-ANACOM o interesse na sua renovação, com a antecedência de 30 dias, sob pena de caducidade da inscrição.
-
-4 - A renovação da inscrição pode ser condicionada pelo ICP-ANACOM à apresentação de documentação comprovativa da realização das adequadas acções de formação.
+4 - As referências legislativas a instaladores ITUR habilitados pelo ICP-ANACOM devem entender-se como abrangendo também os profissionais referidos na subalínea iii) da alínea b) do n.º 1 do artigo anterior, exceto quando o contrário resulte da norma em causa.

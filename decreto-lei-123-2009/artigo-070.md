@@ -24,6 +24,6 @@ e) Orçamento baseado na espécie e quantidade de trabalhos constantes das medi�
 
 f) Outros elementos estruturantes do projecto, nomeadamente, fichas técnicas, plantas topográficas, esquemas da rede de tubagem e cablagem, quadros de dimensionamento, cálculos de níveis de sinal, esquemas de instalação eléctrica e terras das infra-estruturas, análise das especificidades das ligações às infra-estruturas de telecomunicações das empresas de comunicações electrónicas.
 
-2 - Nas situações previstas na alínea c) do n.º 1 do artigo 67.º o projecto só pode ser subscrito por técnico habilitado.
+2 - (Revogado.)
 
 3 - O ICP-ANACOM pode publicar modelos de projectos técnicos a serem seguidos em determinados tipos de instalação.

@@ -4,16 +4,18 @@
 
 1 - Podem ser instaladores ITUR:
 
-a) As pessoas singulares que disponham das qualificações fixadas na alínea a) do n.º 1 do artigo 37.º e cuja associação pública de natureza profissional lhes reconheça habilitação adequada para o efeito;
+a) As pessoas singulares que disponham das qualificações referidas na alínea a) do n.º 1 do artigo 37.º e cuja associação pública de natureza profissional lhes reconheça habilitação adequada para o efeito, ou qualificações equivalentes, reconhecidas nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, ou no seguimento da receção da declaração prévia a que se refere o artigo 5.º da mesma lei;
 
 b) As pessoas singulares que disponham das seguintes habilitações:
 
-i) Os detentores de qualificação de dupla certificação, obtida por via das modalidades de educação e formação do Sistema Nacional de Qualificações, que integrem unidades de formação de curta duração ITUR que respeitam os conteúdos definidos no Catálogo Nacional de Qualificações.
+i) Detentores de qualificação de dupla certificação, obtida por via das modalidades de educação e formação do Sistema Nacional de Qualificações, que integrem as unidades de formação de curta duração ITUR que respeitam os conteúdos definidos no Catálogo Nacional de Qualificações, ou qualificação equiparada reconhecida nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, tramitado perante o ICP-ANACOM;
 
-ii) Os técnicos de áreas de formação de electricidade e energia e de electrónica e automação que tenham frequentado com aproveitamento unidades de formação de curta duração ITUR integradas no Catálogo Nacional de Qualificações;
+ii) Técnicos de áreas de formação de eletricidade e energia e de eletrónica e automação, que tenham frequentado com aproveitamento as unidades de formação de curta duração ITUR integradas no Catálogo Nacional de Qualificações, ou qualificação equiparada reconhecida nos termos do procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, tramitado perante o ICP-ANACOM;
 
-c) As pessoas colectivas que tenham a colaboração de pelo menos um técnico com as qualificações exigidas nas alíneas a) do n.º 1 do artigo 37.º ou do presente número.
+iii) Cidadãos de Estados membros da União Europeia ou do Espaço Económico Europeu com qualificações, obtidas fora de Portugal, equivalentes às referidas nas primeiras partes das subalíneas anteriores que aqui pretendam exercer a atividade profissional em regime de livre prestação de serviços e para tanto informem mediante declaração prévia o ICP-ANACOM, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;
 
-2 - Podem ainda ser instaladores, apenas para as ITUR públicas, as pessoas singulares ou colectivas cuja habilitação para o efeito lhes seja reconhecida pelo Instituto Nacional da Construção e do Imobiliário, I. P. (InCI, I. P.), nos termos do regime jurídico aplicável ao exercício da actividade de construção.
+c) (Revogada.)
+
+2 - (Revogado.)
 
 3 - Compete às associações públicas de natureza profissional assegurar que os técnicos nelas inscritos e habilitados para efeitos do presente decreto-lei como técnicos ITUR actualizem os respectivos conhecimentos, competindo-lhes ainda disponibilizar ao ICP-ANACOM informação relativa aos técnicos que considerem habilitados para serem instaladores ITUR, nos termos previstos no n.º 2 do artigo 37.º, com as devidas adaptações.
