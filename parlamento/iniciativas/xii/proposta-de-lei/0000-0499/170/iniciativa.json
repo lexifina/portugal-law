@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "170",
+  "id": "37898",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-09-09",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a57566b5a544a6b4d6a45744e6a51354e6930304d5755794c5467344f544d7459546c6c4d7a59345a4459334d4755354c6e426b5a673d3d&fich=eede2d21-6496-41e2-8893-a9e368d670e9.pdf&Inline=true",
+        "anexoNome": "Parecer OA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a4e6c4d5449345a6a51744e6a4934596930304f4755324c546777595755744f546b785a575130595751354d6d5a6d4c6e426b5a673d3d&fich=23e128f4-628b-48e6-80ae-991ed4ad92ff.pdf&Inline=true",
+        "anexoNome": "Parecer PJR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a686c4f4759775a6a45744d3249325979303059575a6a4c574a6a593255745a44517a4e7a4a684d4749344f57466c4c6e426b5a673d3d&fich=28e8f0f1-3b6c-4afc-bcce-d4372a0b89ae.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a49795a44686b5a6a5174597a4d344e4330304e6d55354c57457a4f5459744e544a6c5a6a4177597a426b596a686d4c6e426b5a673d3d&fich=c22d8df4-c384-46e9-a396-52ef00c0db8f.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324a684d4455795a6a59744e4467774e5330304d4441324c5746685a4751745a4442685a5459315a4751775a6a557a4c6e426b5a673d3d&fich=3ba052f6-4805-4006-aadd-d0ae65dd0f53.pdf&Inline=true",
+        "anexoNome": "Parecer ANAFRE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d474d794e32526c4e5451744e7a426b4e4330304e7a6b304c5745774d4455744d6a4a6a4e6a566b4e3245774e4441304c6e426b5a673d3d&fich=0c27de54-70d4-4794-a005-22c65d7a0404.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4749794e47466d4e7a59744d6d526c4e6930304e7a67324c5749354f5441744d5455794d6a526d4d474a6c595459794c6e426b5a673d3d&fich=8b24af76-2de6-4786-b990-15224f0bea62.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f546b31597a52695a4755744d6a56684d7930305932566d4c54686c4e574d744e6a67354d7a597a5a546c684e6a45794c6e426b5a673d3d&fich=995c4bde-25a3-4cef-8e5c-689363e9a612.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37898",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d32593059575a69597a41745a6a51784e6930304d54686b4c5745774f4745745a446333596d55774d47497a4e7a46684c6d527659773d3d&fich=3f4afbc0-f416-418d-a08a-d77be00b371a.doc&Inline=true",
+    "IniNr": "170",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à quinta alteração à Lei n.º 14/87, de 29 de abril, que aprova a Lei Eleitoral para o Parlamento Europeu, transpondo a Diretiva n.º 2013/1/UE do Conselho, de 20 de dezembro de 2012, que altera a Diretiva n.º 93/109/CE do Conselho, de 6 de dezembro de 1993, no que se refere a alguns aspetos do sistema de elegibilidade nas eleições para o Parlamento Europeu dos cidadãos da União residentes num Estado membro de que não tenham a nacionalidade.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
