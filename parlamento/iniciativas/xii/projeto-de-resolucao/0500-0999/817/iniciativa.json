@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "817",
+  "id": "37901",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-09-11",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2013-09-14",
+    "DataInicioleg": "2012-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "2165",
+        "nome": "Jorge Fão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2209",
+        "nome": "Marcos Perestrello"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "193",
+        "nome": "Miranda Calha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "152",
+        "nome": "António Braga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1814",
+        "nome": "João Soares"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "187",
+        "nome": "José Lello"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "204",
+        "nome": "Rosa Maria Bastos Albernaz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3930",
+        "nome": "Fernando Medina"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2263",
+        "nome": "Ana Paula Vitorino"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1851",
+        "nome": "Maria Gabriela Canavilhas"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Decreto-Lei n.º 98/2013, de 24 de julho, que \"procede à afetação à Sociedade Administração do Porto de Viana do Castelo, S.A. de determinadas parcelas de terreno que integram o património do Estado, assim como dos edifícios, infraestruturas e equipamentos nelas implantados, redefine a área referente à concessão dominial atribuída à Sociedade Estaleiros Navais de Viana do Castelo, S.A. e autoriza a alteração ao contrato de concessão, incluindo a autorização para a efetivação de uma nova subconcessão\".",
+        "dcl": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "37884",
+        "legislatura": "XII",
+        "numero": "61",
+        "sessao": "2",
+        "tipo": "A"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "37901",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d5a695932526d4d5441744f544e6a597930304d5441354c574a6c597a55744d6a526a4f5751314d57526b4d446c684c6d527659773d3d&fich=ffbcdf10-93cc-4109-bec5-24c9d51dd09a.doc&Inline=true",
+    "IniNr": "817",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Cessação da vigência do Decreto-Lei n.º 98/2013, de 24 de julho, que «Procede à afetação à sociedade Administração do Porto de Viana do Castelo, S.A. de determinadas parcelas de terreno que integram o património do Estado, assim como dos edifícios, infraestruturas e equipamentos nelas implantados, redefine a área referente à concessão dominial atribuída à sociedade Estaleiros Navais de Viana do Castelo, S.A. e autoriza a alteração ao contrato de concessão, incluindo a autorização para a efetivação de uma nova subconcessão»",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
