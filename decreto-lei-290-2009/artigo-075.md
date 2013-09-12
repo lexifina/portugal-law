@@ -10,4 +10,4 @@ a) A construção do perfil de competências profissionais da pessoa com defici�
 
 b) A validação do processo em conjunto com a equipa técnica responsável pela fase obrigatória, elaborando novo relatório fundamentado.
 
-3 - Com base no relatório previsto nos n.os 5 e 6 do artigo anterior e na alínea b) do número anterior, a equipa técnica referida no artigo anterior emite parecer sobre o coeficiente de capacidade de trabalho a atribuir à pessoa com deficiências e incapacidades.
+3 - (Revogado).

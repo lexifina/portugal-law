@@ -2,7 +2,7 @@
 
 ### Apoio para adaptação de postos de trabalho
 
-1 - O IEFP, I. P., concede apoio financeiro para adaptação de postos de trabalho às entidades empregadoras de direito privado que, por admitirem pessoa com deficiências e incapacidades desempregada ou à procura do primeiro emprego, inscrita nos centros de emprego, através de contrato de trabalho sem termo ou a termo com duração mínima inicial de um ano, necessitem de adaptar o equipamento ou o posto de trabalho às dificuldades funcionais do trabalhador.
+1 - O IEFP, I. P., concede apoio financeiro para adaptação de postos de trabalho aos empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que, por admitirem pessoa com deficiência e incapacidade desempregada ou à procura do primeiro emprego, inscrita nos centros de emprego ou nos centros de emprego e formação profissional, através de contrato de trabalho sem termo ou a termo com duração mínima inicial de um ano, necessitem de adaptar o equipamento ou o posto de trabalho às dificuldades funcionais do trabalhador.
 
 2 - O apoio previsto no presente artigo não é aplicável às adaptações de posto de trabalho de trabalhadores vítimas de acidentes de trabalho ou de doença profissional, sempre que essa responsabilidade pertença à entidade empregadora ao serviço da qual ocorreu o acidente ou doença, ou ao respectivo grupo empresarial, nos termos da legislação em vigor.
 

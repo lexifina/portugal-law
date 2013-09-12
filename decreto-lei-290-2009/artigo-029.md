@@ -20,4 +20,6 @@ a) O valor do IAS, por cada destinatário colocado com contrato de trabalho a te
 
 b) Uma vez e meia o valor do IAS, por cada destinatário que crie o próprio emprego ou que seja colocado com contrato de trabalho sem termo.
 
-5 - Para efeitos do disposto no n.º 2 são elegíveis os custos com o pessoal afecto, rendas, alugueres e amortizações, preparação e desenvolvimento das acções e encargos gerais dos projectos.
+5 - A contagem do prazo máximo de um ano referido no número anterior suspende-se caso o destinatário seja integrado num estágio ou num contrato emprego-inserção que constitua uma etapa prévia do processo de inserção profissional, sendo retomada logo que este termine.
+
+6 - Para efeitos do disposto no n.º 2 são elegíveis os custos com o pessoal afecto, rendas, alugueres e amortizações, preparação e desenvolvimento das acções e encargos gerais dos projectos.
