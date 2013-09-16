@@ -1,0 +1,641 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12413",
+  "numero": "290",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-09-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-10-30",
+            "entidades": null,
+            "id": "96198",
+            "tipo": null,
+            "titulo": "Audição em 2013-10-30 com Marco Gabriel Lopes Teixeira; Maria de Fátima da Graça Ventura Brás"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-10-07",
+            "dataResposta": "2013-11-08",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "438/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-11-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "662084",
+                "obs": null,
+                "pag": [
+                  "2-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-23",
+                "pubLeg": "XII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/012/2013-11-23/2?pgs=2-4&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-10-01",
+        "DataArquivo": "2013-11-13",
+        "DataBaixaComissao": "2013-09-16",
+        "DataEnvioPAR": "2013-11-21",
+        "DataReaberta": "2013-10-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-10-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59774e7a4534596d59304c5463314e5467744e4752694f4330345a4449794c5441784f5467324d7a646d4d5468694d6935775a47593d&fich=60718bf4-7558-4db8-8d22-0198637f18b2.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-10-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251775a47566b5a544d324c546b7959574d744e475a684e5330344d54566c4c544d334e7a5a694e7a4a695a4467315a4335515245593d&fich=d0dede36-92ac-4fa5-815e-3776b72bd85d.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-11-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b314e444e6c4f4749774c5449784d5441744e47566a4e693169595745344c5451335a5745334f44426b59545a69596935775a47593d&fich=9543e8b0-2110-4ec6-baa8-47ea780da6bb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-11-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51304f5446694d4467324c5451355a6d4d744e446b324e5330345a6d59354c54566a4e47497a596d466c4d325934596935775a47593d&fich=4491b086-49fc-4965-8ff9-5c4b3bae3f8b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-10-01",
+            "gp": "BE",
+            "id": "263",
+            "motivoCessacao": null,
+            "nome": "Luís Fazenda"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2013-12-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-09-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a686b5a6d55334d7a49304c546b784f4755744e445a68597931684e474a694c575a6c596d49784f445535597a6b784d7935515245593d&fich=8dfe7324-918e-46ac-a4bb-febb1859c913.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38031"
+    ],
+    "Iniciativasoriginadas": [
+      "38031"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:31:14:012&drc=00:03:10:061"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:55:50:278&drc=00:01:49:761"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25",
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/24?pgs=24-25,31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:34:38:614&drc=00:02:33:250"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:53:40:316&drc=00:02:05:675"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26",
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/25?pgs=25-26,31&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:37:22:312&drc=00:02:03:311"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:02:24:578&drc=00:02:23:872"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/26?pgs=26-27,34&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente..",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:39:42:423&drc=00:04:09:577"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:44:03:207&drc=00:03:42:732"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:47:46:345&drc=00:02:08:818"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:59:43:736&drc=00:02:33:771"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/29?pgs=29-30,33&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:50:05:475&drc=00:03:31:152"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:04:57:707&drc=00:02:09:561"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": "S.E. DO ENSINO BÁSICO E SECUNDÁRIO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "João Grancho"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192000",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/30?pgs=30-31,35&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2013-12-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:58:43:506&drc=00:00:33:492"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Decreto-Lei n.º 146/2013 de 22 de outubro, que \"Procede à 12.ª alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, e à primeira alteração ao Decreto-Lei n.º 132/2012, de 27 de junho\"; Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente; Pela revogação da prova de acesso ao exercício da profissão docente.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12413",
+    "PetAssunto": "Solicitam que não seja implementada a Prova de Avaliação de Conhecimentos e Competências para Ingresso na Carreira Docente.",
+    "PetDataEntrada": "2013-09-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12413",
+    "PetLeg": "XII",
+    "PetNr": "290",
+    "PetNrAssinaturas": "12080",
+    "PetNrAssinaturasInicial": "11260",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1820",
+        "obs": null,
+        "pag": [
+          "24-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-06",
+        "pubLeg": "XII",
+        "pubNr": "24",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/24?pgs=24-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "654218",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-04",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/002/2013-10-04/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
