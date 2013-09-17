@@ -1,0 +1,498 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12412",
+  "numero": "289",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-09-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-10-15",
+            "entidades": null,
+            "id": "96109",
+            "tipo": null,
+            "titulo": "Audição em 2013-10-15 com DECO - Associação Portuguesa para a Defesa do Consumidor"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-10-03",
+            "dataResposta": "2013-10-31",
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "436/COFAP/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-03",
+            "dataResposta": null,
+            "entidades": [
+              "S.E. DOS ASSUNTOS PARLAMENTARES E DA IGUALDADE"
+            ],
+            "nrOficio": "435/COFAP/2013",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2013-11-04",
+                "dataResposta": "2013-12-10",
+                "nrOficio": "498/COFAP/2013",
+                "oficioResposta": "1376"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-12-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-10-02",
+        "DataArquivo": "2013-12-18",
+        "DataBaixaComissao": "2013-09-17",
+        "DataEnvioPAR": "2013-12-18",
+        "DataReaberta": "2013-10-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-10-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938794e5445334e7a64694f4330775a6a4a6b4c5452684e475174596a51354f533030596d45774d7a4e684e4756684d3245756347526d&fich=251777b8-0f2d-4a4d-b499-4ba033a4ea3a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-10-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a4d7a4a6d597a457a5a4330304f574e694c54526a4f4745744f5755795979316a5a544d35597a686d4e47526a5a574d7555455247&fich=c32fc13d-49cb-4c8a-9e2c-ce39c8f4dcec.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939694d445a6c5954686d4d4330325a47526b4c54526b4f444174596d59354d7930344d544a695a6a686b4d445935596a417555455247&fich=b06ea8f0-6ddd-4d80-bf93-812bf8d069b0.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-11-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396b4e7a6c69596a466b4d6930325a446c694c5452684e7a4574596d4d314d433032596a4d77595745334e5751304e474d7555455247&fich=d79bb1d2-6d9b-4a71-bc50-6b30aa75d44c.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-12-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939684e44566d4f544532597930354e44466a4c54526d4d444174596a59334d6930324d474e6c4f544e6c5a4463354e6d497555455247&fich=a45f916c-941c-4f00-b672-60ce93ed796b.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-11-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938334e7a6b794d5441345a43316a596a41784c5452684e5451745954526d4e79316b4e574669596d4e684d475a684e6d517555455247&fich=7792108d-cb01-4a54-a4f7-d5abbca0fa6d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-12-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939695a544d344e6a4a6c4e7930325a5755314c54526d4f475574596d55335a69307a4d444e685a6a526b4f5467304f546b7555455247&fich=be3862e7-6ee5-4f8e-be7f-303af4d98499.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-10-02",
+            "gp": "PCP",
+            "id": "4471",
+            "motivoCessacao": null,
+            "nome": "Paulo Sá"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-03-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-09-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32466c4d7a566d597a4d324c544d305a544d744e444d314d793168595755344c544d304d7a55344e5459325a54457a595335515245593d&fich=ae35fc36-34e3-4353-aae8-34358566e13a.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38288",
+      "38290"
+    ],
+    "Iniciativasoriginadas": [
+      "38288",
+      "38290",
+      "38293"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-03-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:23:35:529&drc=00:02:34:666"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:40:20:952&drc=00:01:21:016"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38",
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-13",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/059/2014-03-13/37?pgs=37-38,41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Assegura o acesso dos cidadãos aos serviços mínimos bancários gratuitos e limita a cobrança de despesas de manutenção de conta por parte das instituições de crédito altera o Decreto-Lei n.º 27-C/2000, de 10 de março e o Decreto-Lei n.º 298/92, de 31 de dezembro; Cobrança de Comissões e outros encargos pelas Instituições de Crédito e Sociedades Financeiras devidas pela prestação de serviços aos consumidores; Proíbe a cobrança, pelas instituições de crédito, de comissões, despesas ou outros encargos pela manutenção de contas de depósito à ordem; Solicitam a adoção de medidas legislativas que limitem a cobrança de comissões ou outros encargos de manutenção de contas à ordem, e que promovam a transparência da sua publicitação e atualização.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:26:17:886&drc=00:02:48:184"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:41:45:646&drc=00:01:30:876"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38",
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-13",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/059/2014-03-13/38?pgs=38,42&org=PLC"
+              }
+            ],
+            "Sumario": "Assegura o acesso dos cidadãos aos serviços mínimos bancários gratuitos e limita a cobrança de despesas de manutenção de conta por parte das instituições de crédito altera o Decreto-Lei n.º 27-C/2000, de 10 de março e o Decreto-Lei n.º 298/92, de 31 de dezembro; Cobrança de Comissões e outros encargos pelas Instituições de Crédito e Sociedades Financeiras devidas pela prestação de serviços aos consumidores; Proíbe a cobrança, pelas instituições de crédito, de comissões, despesas ou outros encargos pela manutenção de contas de depósito à ordem; Solicitam a adoção de medidas legislativas que limitem a cobrança de comissões ou outros encargos de manutenção de contas à ordem, e que promovam a transparência da sua publicitação e atualização.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:29:11:199&drc=00:03:39:668"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-13",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/059/2014-03-13/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Assegura o acesso dos cidadãos aos serviços mínimos bancários gratuitos e limita a cobrança de despesas de manutenção de conta por parte das instituições de crédito altera o Decreto-Lei n.º 27-C/2000, de 10 de março e o Decreto-Lei n.º 298/92, de 31 de dezembro; Cobrança de Comissões e outros encargos pelas Instituições de Crédito e Sociedades Financeiras devidas pela prestação de serviços aos consumidores; Proíbe a cobrança, pelas instituições de crédito, de comissões, despesas ou outros encargos pela manutenção de contas de depósito à ordem; Solicitam a adoção de medidas legislativas que limitem a cobrança de comissões ou outros encargos de manutenção de contas à ordem, e que promovam a transparência da sua publicitação e atualização.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:32:55:432&drc=00:02:46:567"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:43:21:705&drc=00:01:32:295"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40",
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-13",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/059/2014-03-13/39?pgs=39-40,42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Assegura o acesso dos cidadãos aos serviços mínimos bancários gratuitos e limita a cobrança de despesas de manutenção de conta por parte das instituições de crédito altera o Decreto-Lei n.º 27-C/2000, de 10 de março e o Decreto-Lei n.º 298/92, de 31 de dezembro; Cobrança de Comissões e outros encargos pelas Instituições de Crédito e Sociedades Financeiras devidas pela prestação de serviços aos consumidores; Proíbe a cobrança, pelas instituições de crédito, de comissões, despesas ou outros encargos pela manutenção de contas de depósito à ordem; Solicitam a adoção de medidas legislativas que limitem a cobrança de comissões ou outros encargos de manutenção de contas à ordem, e que promovam a transparência da sua publicitação e atualização.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140312pln&url=l12/sl3/a2014/m03/&tI=02:35:47:279&drc=00:04:29:324"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-13",
+                "pubLeg": "XII",
+                "pubNr": "59",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/059/2014-03-13/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Assegura o acesso dos cidadãos aos serviços mínimos bancários gratuitos e limita a cobrança de despesas de manutenção de conta por parte das instituições de crédito altera o Decreto-Lei n.º 27-C/2000, de 10 de março e o Decreto-Lei n.º 298/92, de 31 de dezembro; Cobrança de Comissões e outros encargos pelas Instituições de Crédito e Sociedades Financeiras devidas pela prestação de serviços aos consumidores; Proíbe a cobrança, pelas instituições de crédito, de comissões, despesas ou outros encargos pela manutenção de contas de depósito à ordem; Solicitam a adoção de medidas legislativas que limitem a cobrança de comissões ou outros encargos de manutenção de contas à ordem, e que promovam a transparência da sua publicitação e atualização.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12412",
+    "PetAssunto": "Solicitam a adoção de medidas legislativas que limitem a cobrança de comissões ou outros encargos de manutenção de contas à ordem, e que promovam a transparência da sua publicitação e atualização.",
+    "PetDataEntrada": "2013-09-17",
+    "PeticoesAssociadas": null,
+    "PetId": "12412",
+    "PetLeg": "XII",
+    "PetNr": "289",
+    "PetNrAssinaturas": "81186",
+    "PetNrAssinaturasInicial": "81186",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1864",
+        "obs": null,
+        "pag": [
+          "37-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-13",
+        "pubLeg": "XII",
+        "pubNr": "59",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/059/2014-03-13/37?pgs=37-43&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "654217",
+        "obs": null,
+        "pag": [
+          "4-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-04",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/002/2013-10-04/4?pgs=4-9&org=PLC"
+      }
+    ]
+  }
+}
