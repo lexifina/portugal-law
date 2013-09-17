@@ -1,0 +1,77 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "78119",
+  "tipo": "Requerimento",
+  "numero": "13",
+  "data_registo": "2013-09-17",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Poluição do Rio Ave",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1048",
+        "nome": "Altino Bessa"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4173",
+        "nome": "Margarida Neto"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2867",
+        "nome": "João Gonçalves Pereira"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4429",
+        "nome": "Pedro Morais Soares"
+      }
+    ],
+    "DataEnvio": "2013-09-17",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2013-09-17",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Guimarães",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2013-10-28",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Guimarães",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c7a426b4e574d78596d466c4c54646d4d6a55744e4755324e4330354e7a67354c57566c5a47566a4d7a517a5a4745304d6935775a47593d&fich=0d5c1bae-7f25-4e64-9789-eedec343da42.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2013-09-17",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c7a45784d7a4d324f5459774c5459774d6d59744e4446694d7931684d4467354c54566a597a4a6a4d6d4e6a4d54497a4d4335775a47593d&fich=11336960-602f-41b3-a089-5cc2c2cc1230.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "78119",
+    "Legislatura": "XII",
+    "Nr": "13",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
