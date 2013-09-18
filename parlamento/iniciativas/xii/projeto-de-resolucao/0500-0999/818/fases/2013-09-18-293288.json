@@ -1,0 +1,604 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "818",
+    "id": "37905",
+    "titulo": "Pela harmonia do Parque Nacional da Peneda-Gerês com as suas populações."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-09-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9587",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-09-18",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37906",
+        "leg": "XII",
+        "nr": "819",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomendar ao governo que promova uma plena articulação entre o ambiente, o turismo e a cultura, que permita maior sintonia entre o respeito pelo património e as potencialidades de utilização dos relevantes recursos turísticos que as áreas protegidas, e em particular o PNPG, dispõem."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37745",
+        "leg": "XII",
+        "nr": "734",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que desenvolva uma estratégia concertada no sentido de que o Parque Nacional da Peneda-Gerês mantenha a sua integridade e possa desempenhar uma função de servir a humanidade assegurando um espaço paisagístico em que o Homem e a Natureza se integram harmoniosamente."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37899",
+        "leg": "XII",
+        "nr": "816",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1811",
+            "obs": null,
+            "pag": [
+              "29-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-09-19",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Por um Parque Nacional da Peneda-Gerês que se desenvolva em harmonia com as suas Gentes."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-09-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4329",
+                "nome": "Rosa Arezes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130918pln&url=l12/sl3/a2013/m09/&tI=01:55:28:895&drc=00:04:50:787"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-09-19",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva uma estratégia concertada no sentido de que o Parque Nacional da Peneda-Gerês mantenha a sua integridade e possa desempenhar uma função de servir a humanidade assegurando um espaço paisagístico em que o Homem e a Natureza se integram harmoniosamente; Por um Parque Nacional da Peneda-Gerês que se desenvolva em harmonia com as suas Gentes; Pela harmonia do Parque Nacional da Peneda-Gerês com as suas populações; Recomendar ao governo que promova uma plena articulação entre o ambiente, o turismo e a cultura, que permita maior sintonia entre o respeito pelo património e as potencialidades de utilização dos relevantes recursos turísticos que as áreas protegidas, e em particular o PNPG, dispõem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130918pln&url=l12/sl3/a2013/m09/&tI=02:00:27:183&drc=00:04:58:055"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-09-19",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva uma estratégia concertada no sentido de que o Parque Nacional da Peneda-Gerês mantenha a sua integridade e possa desempenhar uma função de servir a humanidade assegurando um espaço paisagístico em que o Homem e a Natureza se integram harmoniosamente; Por um Parque Nacional da Peneda-Gerês que se desenvolva em harmonia com as suas Gentes; Pela harmonia do Parque Nacional da Peneda-Gerês com as suas populações; Recomendar ao governo que promova uma plena articulação entre o ambiente, o turismo e a cultura, que permita maior sintonia entre o respeito pelo património e as potencialidades de utilização dos relevantes recursos turísticos que as áreas protegidas, e em particular o PNPG, dispõem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130918pln&url=l12/sl3/a2013/m09/&tI=02:05:30:988&drc=00:04:37:890"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-09-19",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva uma estratégia concertada no sentido de que o Parque Nacional da Peneda-Gerês mantenha a sua integridade e possa desempenhar uma função de servir a humanidade assegurando um espaço paisagístico em que o Homem e a Natureza se integram harmoniosamente; Por um Parque Nacional da Peneda-Gerês que se desenvolva em harmonia com as suas Gentes; Pela harmonia do Parque Nacional da Peneda-Gerês com as suas populações; Recomendar ao governo que promova uma plena articulação entre o ambiente, o turismo e a cultura, que permita maior sintonia entre o respeito pelo património e as potencialidades de utilização dos relevantes recursos turísticos que as áreas protegidas, e em particular o PNPG, dispõem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1048",
+                "nome": "Altino Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130918pln&url=l12/sl3/a2013/m09/&tI=02:10:09:752&drc=00:07:20:998"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-09-19",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/33?pgs=33-35&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva uma estratégia concertada no sentido de que o Parque Nacional da Peneda-Gerês mantenha a sua integridade e possa desempenhar uma função de servir a humanidade assegurando um espaço paisagístico em que o Homem e a Natureza se integram harmoniosamente; Por um Parque Nacional da Peneda-Gerês que se desenvolva em harmonia com as suas Gentes; Pela harmonia do Parque Nacional da Peneda-Gerês com as suas populações; Recomendar ao governo que promova uma plena articulação entre o ambiente, o turismo e a cultura, que permita maior sintonia entre o respeito pelo património e as potencialidades de utilização dos relevantes recursos turísticos que as áreas protegidas, e em particular o PNPG, dispõem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130918pln&url=l12/sl3/a2013/m09/&tI=02:17:40:875&drc=00:04:19:721"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-09-19",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva uma estratégia concertada no sentido de que o Parque Nacional da Peneda-Gerês mantenha a sua integridade e possa desempenhar uma função de servir a humanidade assegurando um espaço paisagístico em que o Homem e a Natureza se integram harmoniosamente; Por um Parque Nacional da Peneda-Gerês que se desenvolva em harmonia com as suas Gentes; Pela harmonia do Parque Nacional da Peneda-Gerês com as suas populações; Recomendar ao governo que promova uma plena articulação entre o ambiente, o turismo e a cultura, que permita maior sintonia entre o respeito pelo património e as potencialidades de utilização dos relevantes recursos turísticos que as áreas protegidas, e em particular o PNPG, dispõem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20130918pln&url=l12/sl3/a2013/m09/&tI=02:22:13:155&drc=00:02:59:458"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "190971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-09-19",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva uma estratégia concertada no sentido de que o Parque Nacional da Peneda-Gerês mantenha a sua integridade e possa desempenhar uma função de servir a humanidade assegurando um espaço paisagístico em que o Homem e a Natureza se integram harmoniosamente; Por um Parque Nacional da Peneda-Gerês que se desenvolva em harmonia com as suas Gentes; Pela harmonia do Parque Nacional da Peneda-Gerês com as suas populações; Recomendar ao governo que promova uma plena articulação entre o ambiente, o turismo e a cultura, que permita maior sintonia entre o respeito pelo património e as potencialidades de utilização dos relevantes recursos turísticos que as áreas protegidas, e em particular o PNPG, dispõem.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "293288",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "667759",
+        "obs": null,
+        "pag": [
+          "29-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-09-19",
+        "pubLeg": "XII",
+        "pubNr": "3",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/003/2013-09-19/29?pgs=29-36&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
