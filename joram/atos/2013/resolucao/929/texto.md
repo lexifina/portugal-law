@@ -1,0 +1,42 @@
+# Resolução n.º 929/2013
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 130/2013, de 2013-09-20
+
+**Sumário:** Autoriza a celebração de um acordo de gestão entre o Instituto de Segurança Social da Madeira (ISSM, IP-RAM) e a associação denominada Associação Santana Cidade Solidária.
+
+## Texto
+
+Resolução n.º 929/2013
+Considerando que a Associação Santana Cidade Solidária é uma Instituição Particular de Solidariedade Social vocacionada para o desenvolvimento de atividades na área da Segurança Social, designadamente as direcionadas para a terceira idade;
+Considerando que nos termos do n.º 3 do artigo 4.º, do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo Decreto Regulamentar Regional n.º 3/84/M, de 22 de março, aquelas instituições podem encarregar-se, mediante acordos, da gestão de instalações e equipamentos do património imobiliário público, pertencentes ao Estado, à RAM ou a autarquias locais;
+Considerando que nesse âmbito, interessa confiar à Associação Santana Cidade Solidária a gestão das valências estrutura residencial para pessoas idosas e centro de dia e respetivas instalações de uma nova infraestrutura, no concelho de Santana, freguesia de Santana;
+Considerando que já foi solicitada a autorização à Secretaria Regional do Plano e Finanças da cedência a título definitivo e gratuito, a favor do Instituto de Segurança Social da Madeira (ISSM, IP-RAM), do prédio rústico com a área de 5.170 m2, inscrito na matriz predial sob o artigo 117.º, Secção 002, e da parcela com a área de 558,45 m2, do prédio rústico inscrito na matriz sob o artigo 116.º, Secção 002, prédios onde foi edificada a Estrutura Residencial de Idosos de Santana, e que foram alvo de processo expropriativo promovido pela Direção Regional do Património e se integram no domínio privado do património imobiliário da RAM;
+Considerando que os trabalhos inerentes à construção da Estrutura Residencial de Idosos de Santana encontram-se concluídos, sendo que os mesmos foram promovidos e integralmente financiados pelo Orçamento do ISSM, IP-RAM;
+Considerando que, de harmonia com o previsto no artigo 17.º do Estatuto do Sistema de Ação Social da Área da Segurança Social, aprovado pelo Decreto Legislativo Regional n.º 9/2006/M, de 18 de abril, e nas alíneas r) e s) do n.º 2, do artigo 4.º da orgânica do ISSM, IP-RAM, aprovada pelo Decreto Legislativo Regional n.º 34/2012/M, de 16 de novembro, incumbe àquele Instituto desenvolver a cooperação com as IPSS e celebrar os correspondentes acordos ou protocolos de cooperação e acordos de gestão;
+Considerando que se reconhece à Associação Santana Cidade Solidária capacidade organizativa e administrativa, bem como experiência adequada para que possa assumir a gestão das novas respostas sociais inerentes à Estrutura Residencial de Idosos de Santana;
+Considerando que aquela Instituição manifestou inteira disponibilidade para assumir a gestão daquelas novas respostas sociais, as quais comportam as capacidades máximas de 58 e 30 vagas nas valências estrutura residencial para pessoas idosas e centro de dia, respetivamente, e que, do ponto de vista social, se verifica efetiva indispensabilidade deste tipo de intervenção social, atendendo à sua adequação às reais necessidades da comunidade;
+Considerando que, corroborando o exposto anteriormente, este tipo de intervenção social consubstancia uma medida inserida no Eixo de Intervenção I do Programa Regional para a Intervenção Social (PRIS 2012-2015), aprovado pela Resolução do Conselho do Governo Regional n.º 364/2012, de 17 de maio, designadamente no que respeita à proteção aos grupos sociais mais vulneráveis, indo de encontro às prioridades em matéria de ação social, no âmbito da política de apoio à terceira idade definidas no Programa de Governo da RAM 2011-2015;
+
+Considerando entender-se que a parceria a estabelecer entre o ISSM, IP-RAM e a referida Instituição, no âmbito das respostas sociais a providenciar, resultará num adequado aproveitamento dos recursos disponíveis, com benefícios para os cidadãos e para a comunidade em geral;
+Considerando a situação de incapacidade financeira da mesma Instituição em gerar proveitos suficientes que, de forma sustentada assegurem o funcionamento das mesmas atividades.
+Nestes termos, o Conselho de Governo reunido em plenário em 12 de setembro de 2013, resolveu:
+1. Autorizar, nos termos do artigo 4.º do Decreto Regulamentar Regional n.º 3/84/M, de 22 de março, e nos termos do artigo 40.º e seguintes do Regulamento que estabelece as normas de cooperação entre o ISSM, IP-RAM e as Instituições Particulares de Solidariedade Social e outras Instituições Particulares sem fins lucrativos, que desenvolvam atividades sociais na Região, aprovado pela Portaria n.º 78/2007, de 16 de agosto, a celebração de um acordo de gestão entre o ISSM, IP-RAM e a Associação Santana Cidade Solidária, relativo à cedência da gestão das valências estrutura residencial para pessoas idosas e centro de dia, incluindo respetivas instalações, da nova infraestrutura para idosos, situada no concelho de Santana, freguesia de Santana.
+2. Atribuir, no âmbito do mesmo acordo, as seguintes comparticipações financeiras mensais, correspondentes aos défices de funcionamento previstos para as respostas sociais referidas no ponto 1:
+2.1. No primeiro mês que entre em vigor o presente acordo, previsivelmente outubro de 2013, no montante máximo de 36.438,10 €, a atribuir proporcionalmente aos dias de vigência do mesmo acordo, considerando que o valor total de 36.438,10 € corresponde a um financiamento de mês completo:
+2.1.1. Valência estrutura residencial para pessoas idosas: no valor de 34.296,20 €;
+2.1.2. Valência centro de dia: no valor de 2.141,90 €.
+2.2. Nos meses seguintes, previsivelmente a partir de novembro de 2013, no montante mensal de 36.229,07 €:
+2.2.1. Valência estrutura residencial para pessoas idosas: no valor de 34.343,71 €;
+2.2.2. Valência centro de dia: no valor de 1.885,36 €.
+3. Atribuir, para além dos apoios referidos no ponto anterior, uma comparticipação financeira, de prestação única, até ao valor máximo de 2.310,00 €, destinada a financiar os custos efetivos com a
+
+formação do pessoal necessário ao funcionamento das valências em causa, a qual será paga após a realização da mesma, e posterior à entrega ao ISSM, IP-RAM dos correspondentes documentos comprovativos, faturas ou documento equivalentes.
+4. As comparticipações referidas no ponto 2 serão atualizadas por Despacho do Secretário Regional dos Assuntos Sociais, em função das disponibilidades orçamentais, do acréscimo dos preços unitários dos encargos objeto de apoio e da situação económico-financeira da Instituição.
+5. Aprovar a minuta do mesmo acordo de gestão, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência do Governo Regional.
+6. O presente acordo produzirá efeitos a partir de 1 de outubro de 2013, ou no dia seguinte ao conhecimento pelo ISSM, IP-RAM da data do visto/ declaração de conformidade pelo Tribunal de Contas, no caso desta ser posterior, sendo válido pelo período de três anos, salvo cessação ou denúncia nos termos previstos no mesmo.
+7. Sempre que esteja em causa alguma das situações fundamentadoras da denúncia do acordo, poderá o ISSM, IP-RAM, entre outras medidas, deliberar a devolução da totalidade ou de parte dos apoios financeiros a conceder no âmbito deste acordo.
+8. A despesa em causa, relativa ao ano de 2013, no montante total de 111.206,24 €, tem cabimento no Orçamento do ISSM, IP-RAM, no âmbito das despesas do Subsistema de Ação Social, rubrica DA113003/D.04.07.03.01.99 - Acordos de Cooperação - Orçamento Corrente, sendo que o compromisso inerente foi registado no Sistema de Informação Financeira da Segurança Social (SIF), conforme determina a alínea c), do n.º 3 do artigo 7.º, do Decreto-Lei n.º 127/2012, de 21 de junho.
+9. A despesa emergente relativa ao período de janeiro de 2014 a setembro de 2016, no montante total de 1.195.559,31 €, foi registada como compromisso plurianual do ISSM, IP-RAM, no âmbito das despesas do Subsistema de Ação Social, rubrica DA113003/D.04.07.03.01.99 - Acordos de Cooperação - Orçamento Corrente, quer no SIF, quer no Sistema Central de Encargos Plurianuais (SCEP).
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
