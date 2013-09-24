@@ -2,7 +2,7 @@
 
 ### Requisitos prévios da certificação
 
-1 - Apenas pode obter a certificação a entidade formadora que, prévia e cumulativamente, satisfaça o cumprimento dos seguintes requisitos:
+1 - Pode obter a certificação a entidade formadora que satisfaça os seguintes requisitos:
 
 a) Encontrar-se regularmente constituída e devidamente registada;
 
@@ -12,6 +12,6 @@ c) Ter as suas situações tributária e contributiva regularizadas, respectivam
 
 d) Inexistência de situações por regularizar respeitantes a dívidas ou restituições referentes a apoios financeiros comunitários ou nacionais, independentemente da sua natureza ou objectivos.
 
-2 - Sem prejuízo do disposto no número anterior, a entidade formadora que tenha sido condenada pela prática de um crime punível nos termos do Código Penal ou em legislação avulsa no cumprimento efectivo de uma pena de multa apenas pode obter a certificação, após o decurso do prazo de um ano contado a partir do trânsito em julgado da decisão condenatória.
+2 - [revogado]
 
-3 - As fontes de verificação do cumprimento dos requisitos referidos nos números anteriores constam do anexo i da presente portaria, fazendo parte integrante da mesma.
+3 - As fontes de verificação do cumprimento dos requisitos referidos no n.º 1 constam do Anexo I da presente portaria, que dela faz parte integrante, sem prejuízo do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.

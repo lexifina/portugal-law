@@ -2,7 +2,7 @@
 
 ### Revogação e caducidade da certificação
 
-1 - O incumprimento dos requisitos prévios ou dos que se reportam ao referencial de qualidade ou, ainda, de algum dos deveres da entidade formadora certificada estabelecidos na presente portaria determina, conforme a gravidade das situações e a possibilidade da sua regularização, a revogação total ou parcial da certificação, sem prejuízo do disposto nos números seguintes.
+1 - O incumprimento dos requisitos prévios ou dos que se reportam ao referencial de certificação ou, ainda, de algum dos deveres da entidade formadora certificada estabelecidos na presente portaria determina, conforme a gravidade das situações e a possibilidade da sua regularização, a revogação total ou parcial da certificação, sem prejuízo do disposto nos números seguintes.
 
 2 - Quando a situação de incumprimento não corresponda a irregularidade já verificada em auditoria anterior e a sua regularização seja possível, é concedido à entidade formadora, a pedido desta, um prazo até 120 dias consecutivos para que a regularize, suspendendo-se o prazo para a decisão.
 
@@ -16,7 +16,11 @@
 
 a) Extinção da entidade formadora certificada sem que haja transmissão da certificação para outra entidade nos termos da presente portaria;
 
-b) Ausência de actividade formativa em dois anos consecutivos.
+b) No caso de entidade formadora a que se refere o n.º 2 do artigo 4.º, a cessação da legalidade da atividade como entidade formadora no Estado membro de origem;
+
+c) No caso de entidade formadora estabelecida em território nacional, ausência de atividade formativa em dois anos consecutivos;
+
+d) Interdição do exercício da sua atividade em território nacional, por decisão judicial ou administrativa.
 
 7 - A entidade formadora deve comunicar à entidade certificadora, previamente e sempre que possível, a data e o motivo da sua extinção.
 
