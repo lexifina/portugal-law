@@ -1,0 +1,5 @@
+Aviso n.º 12068/2013
+Joaquim José Pinto Moreira, Presidente da Câmara Municipal de Espinho:
+Faz público, ao abrigo da sua competência constante da alínea v) do n.º 1 do artigo 68.º e de acordo com o estipulado no n.º 1 do artigo 91.º da Lei n.º 169/99, de 18 de setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de janeiro, e ainda para efeitos do disposto no n.º 1 do artigo 74.º do Decreto-Lei n.º 380/99, de 22 de setembro (Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, com as alterações que lhe foram dadas pelo Decreto-Lei n.º 181/2009, de 7 de agosto, e pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, que a Câmara Municipal de Espinho, em sua reunião ordinária de 30 de agosto de 2013, deliberou aprovar a prorrogação, por mais 12 meses, do prazo para a elaboração do procedimento de revisão do Plano Diretor Municipal de Espinho.
+17 de setembro de 2013. - O Presidente da Câmara, Dr. Joaquim José Pinto Moreira.
+207262447
