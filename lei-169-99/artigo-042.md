@@ -1,3 +1,15 @@
+## Secção IV
+
+## Do regime do pessoal
+
+## Capítulo IV
+
+## Do município
+
+## Secção I
+
+## Da assembleia municipal
+
 # Artigo 42.º
 
 ### Constituição

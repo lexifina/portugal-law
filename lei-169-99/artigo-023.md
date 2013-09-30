@@ -6,6 +6,6 @@
 
 ### Natureza e constituição
 
-1 - A junta de freguesia é o órgão executivo colegial da freguesia.
+1 - (Revogado.)
 
 2 - A junta é constituída por um presidente e por vogais, sendo que dois exercerão as funções de secretário e de tesoureiro.
