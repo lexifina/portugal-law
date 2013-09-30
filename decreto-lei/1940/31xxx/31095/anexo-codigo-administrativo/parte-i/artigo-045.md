@@ -1,3 +1,53 @@
+## Anexo CÓDIGO ADMINISTRATIVO
+
+## Parte I
+
+## Da organização administrativa
+
+## Título I
+
+## Da divisão do território
+
+## Título II
+
+## Do concelho
+
+## Capítulo I
+
+## Dos órgãos da administração municipal
+
+## Capítulo II
+
+## Do conselho municipal
+
+## Secção I
+
+## Composição
+
+## Secção II
+
+## Competência
+
+## Secção III
+
+## Constituïção, sessões, reüniões e deliberações
+
+## Capítulo III
+
+## Da câmara municipal
+
+## Secção I
+
+## Composição
+
+## Secção II
+
+## Atribuïções e competência
+
+## Subsecção I
+
+## Disposições gerais
+
 # Artigo 45.º
 
 No uso das atribuïções de administração dos bens comuns e próprios do concelho, pertence às câmaras deliberar:
