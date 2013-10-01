@@ -34,7 +34,7 @@ j) O número da apólice de seguro de acidentes de trabalho e a identificação 
 
 l) O instrumento de regulamentação colectiva de trabalho aplicável, se houver.
 
-m) A identificação do fundo de compensação do trabalho ou mecanismo equivalente, nos termos de legislação específica.
+m) A identificação do fundo de compensação do trabalho ou de mecanismo equivalente, bem como do fundo de garantia de compensação do trabalho, previstos em legislação específica.
 
 4 - A informação sobre os elementos referidos nas alíneas f) a i) do número anterior pode ser substituída pela referência às disposições pertinentes da lei, do instrumento de regulamentação colectiva de trabalho aplicável ou do regulamento interno de empresa.
 

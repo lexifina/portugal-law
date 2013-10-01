@@ -30,7 +30,7 @@ j) Manter actualizado, em cada estabelecimento, o registo dos trabalhadores com 
 
 4 - (Revogado.)
 
-5 - O empregador deve, sempre que celebre contratos de trabalho, comunicar, ao serviço com competência inspetiva do ministério responsável pela área laboral, a adesão a fundo de compensação do trabalho ou a mecanismo equivalente.
+5 - O empregador deve comunicar ao serviço com competência inspetiva do ministério responsável pela área laboral a adesão ao fundo de compensação do trabalho ou a mecanismo equivalente, previstos em legislação específica.
 
 6 - A alteração do elemento referido no número anterior deve ser comunicada no prazo de 30 dias.
 

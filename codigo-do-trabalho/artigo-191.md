@@ -21,3 +21,5 @@ b) Outros créditos retributivos por ordem de pedido;
 c) Indemnizações e compensações pela cessação do contrato de trabalho temporário;
 
 d) Demais encargos com os trabalhadores.
+
+7 - Relativamente aos trabalhadores com novos contratos de trabalho estão excluídas dos critérios de precedência as compensações por cessação de contrato de trabalho previstas na alínea c) do número anterior.
