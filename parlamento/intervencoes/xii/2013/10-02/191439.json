@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "191439",
+  "tipo": "Intervenção",
+  "orador": "Mariana Mortágua (BE)",
+  "data_registo": "2013-10-02",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "293358",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "37910",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-Lei n.º 129/2013 de 6 de setembro, que «aprova o processo de privatização dos CTT - Correios de Portugal, S.A.»."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Decreto-Lei n.º 129/2013, de 6 de setembro, que aprova o processo de privatização dos CTT – Correios de Portugal, SA [apreciação parlamentar n.º 63/XII (3.ª) (PCP)].",
+        "duracao": "00:04:32:138",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20131002pln&url=l12/sl3/a2013/m10/&tI=02:26:45:305&drc=00:04:32:138"
+      }
+    ],
+    "DataReuniaoPlenaria": "2013-10-02",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "4557",
+      "nome": "Mariana Mortágua"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "191439",
+    "IdDebate": "9592",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "37910",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "191439",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "39-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-03",
+        "pubLeg": "XII",
+        "pubNr": "4",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/004/2013-10-03/39?pgs=39-40&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Apresentação da apreciação parlamentar nº 63/XII (3ª) (PCP) do Decreto-Lei n.º 129/2013 de 6 de setembro, que «aprova o processo de privatização dos CTT - Correios de Portugal, S.A.».",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
