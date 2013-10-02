@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2013-10-02, processo 0141/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0141/13
+
+**Data do Acordão:** 10/02/2013
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO DELGADO
+
+**Descritores:** PROCESSO DE EXECUÇÃO FISCAL; EMBARGOS DE TERCEIRO; IMPOSSIBILIDADE SUPERVENIENTE DA LIDE; CUSTAS
+
+**Nº Convencional:** JSTA000P16327
+
+**Nº do Documento:** SA2201310020141
+
+**Data de Entrada:** 01/31/2013
+
+**Recorrente:** FAZENDA PÚBLICA
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Sobre a repartição das custas nos casos de extinção por inutilidade ou impossibilidade superveniente da lide dispunha o art. 450.º, n.º 3, do Código de Processo Civil, na redacção da Lei 29/2009, de 29.06 : «Nos restantes casos de extinção da instância por impossibilidade ou inutilidade superveniente da lide, a responsabilidade pelas custas fica a cargo do autor ou requerente, salvo se tal impossibilidade ou inutilidade for imputável ao réu ou requerido, caso em que é este o responsável pela totalidade das custas».
+
+II - De acordo com este normativo, quando a instância se extinguir por impossibilidade ou inutilidade da lide, as custas ficam a cargo do autor, salvo se a inutilidade ou impossibilidade resultar de facto imputável ao réu, que nesse caso as pagará.
+
+III - Verificando-se que a execução fiscal instaurada para cobrança coerciva de dívidas tributárias foi declarada extinta em face do pagamento integral voluntário da dívida exequenda e do acrescido efetuado pelo executado, não pode considerar-se que a consequente extinção da instância por impossibilidade superveniente da lide, declarada nos autos de embargos de terceiro deduzidos contra a penhora de bens no âmbito daquele processo de execução fiscal, seja imputável à Fazenda Pública.
+
+IV - Assim, atenta a regra do n.º 3 do art. 450.º do CPC, as custas da extinção da instância dos referidos embargos de terceiro são da responsabilidade da embargante, que naqueles autos assume a posição de autora.
