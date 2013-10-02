@@ -1,0 +1,546 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12415",
+  "numero": "292",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-10-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-10-22",
+            "entidades": null,
+            "id": "96155",
+            "tipo": null,
+            "titulo": "Audição em 2013-10-22 com Dr. Gustavo Faria, Dr. João Maria de Freitas Branco, Dr. José Carlos Oliveira, Dr. Paulo Trancoso"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-10-09",
+            "dataResposta": "2013-10-28",
+            "entidades": [
+              "Diretora da Cinemateca Portuguesa"
+            ],
+            "nrOficio": "447/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-14",
+            "dataResposta": "2013-10-28",
+            "entidades": [
+              "Subdiretor da Cinemateca Portuguesa"
+            ],
+            "nrOficio": "452/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-14",
+            "dataResposta": "2013-10-18",
+            "entidades": [
+              "Presidente do ICOM Portugal"
+            ],
+            "nrOficio": "453/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-14",
+            "dataResposta": null,
+            "entidades": [
+              "Dr. Marcos Sá"
+            ],
+            "nrOficio": "460/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-14",
+            "dataResposta": "2013-11-03",
+            "entidades": [
+              "Professora Doutora Graça Filipe"
+            ],
+            "nrOficio": "461/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-10-09",
+            "dataResposta": "2013-12-02",
+            "entidades": [
+              "S.E.   DA  CULTURA"
+            ],
+            "nrOficio": "446/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2013-12-02",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "666856",
+                "obs": null,
+                "pag": [
+                  "18-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/016/2013-12-07/18?pgs=18-22&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-10-08",
+        "DataArquivo": "2013-12-04",
+        "DataBaixaComissao": "2013-10-03",
+        "DataEnvioPAR": "2013-12-06",
+        "DataReaberta": "2013-10-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-10-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3255334e7a51774f4441344c5449354e4755744e475a685a4331684e5441354c57497a4d444a6b4d7a51784d5751775a6935775a47593d&fich=e7740808-294e-4fad-a509-b302d3411d0f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-10-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32597a5a6d4a68597a51774c544935596d49744e444d305a533169596d59334c5455335a6a63325a4459344e5459794d5335515245593d&fich=f3fbac40-29bb-434e-bbf7-57f76d685621.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a685a4451324d4449304c5746684f5755744e4459324e6931684e54566a4c5463324d47566c596d4a6b4d575a685a6935775a47593d&fich=fad46024-aa9e-4666-a55c-760eebbd1faf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d774f544a6c4d6a6c694c545a6c4f4463744e4759774e5330345a6d45794c5749304d6d5a6a4d6d5a6c4e546331595335515245593d&fich=3092e29b-6e87-4f05-8fa2-b42fc2fe575a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251794f54646c4e4459324c544531593251744e4745314d4330344d6a4e6c4c546b314f4445315a5463334f5442694d4335775a47593d&fich=d297e466-15cd-4a50-823e-95815e7790b0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a42694d4751774d3249774c5745774d7a6b744e446b795a6930344d7a646c4c57466c5954557a4d544e6b4d324d35595335515245593d&fich=0b0d03b0-a039-492f-837e-aea5313d3c9a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a646c5a5751774d4455774c574930596d51744e4464694d6930344d444a6d4c54466b5a6a59305a5451314d444e695a5335515245593d&fich=7eed0050-b4bd-47b2-802f-1df64e4503be.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2013-12-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526c597a4e6d4d6d45344c544134595455744e44466d4e6930345a444d7a4c5459344e6a51774d4749314e445a6b596935775a47593d&fich=dec3f2a8-08a5-41f6-8d33-686400b546db.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-11-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41335a47517a59574a694c5745345a6a45744e474d78596930344e4451344c54526a4d474930596a45354e445a6d4d5335775a47593d&fich=07dd3abb-a8f1-4c1b-8448-4c0b4b1946f1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a646c597a6b325a444d334c5464695a5745744e47466a59533169597a4a6c4c5441334e7a6b304e6d55785a474d774d5335775a47593d&fich=7ec96d37-7bea-4aca-bc2e-077946e1dc01.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d784d444a6a595751344c575a6c4e3245744e446468595330345a57557a4c54426b4d6d45344e474a685957526a4d4335775a47593d&fich=3102cad8-fe7a-47aa-8ee3-0d2a84baadc0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-12-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d334e4749314d4459334c5755774f5463744e445532596931684e7a6c6d4c5451344f5449305a4459324f44646c596935775a47593d&fich=374b5067-e097-456b-a79f-48924d6687eb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-10-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45354d444d795a6a4d784c575534596a59744e446b785a4330345a4467304c574d355a5441794d324e6d5a444533597935775a47593d&fich=19032f31-e8b6-491d-8d84-c9e023cfd17c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-10-08",
+            "gp": "PSD",
+            "id": "4051",
+            "motivoCessacao": null,
+            "nome": "Maria Conceição Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-03-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-10-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51795932566c5a57566d4c5464685a6a4d744e444e684d433035597a4d354c5464684e446c695a5463774d6d49784d4335775a47593d&fich=42ceeeef-7af3-43a0-9c39-7a49be702b10.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140306pln&url=l12/sl3/a2014/m03/&tI=02:33:57:439&drc=00:04:00:007"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-07",
+                "pubLeg": "XII",
+                "pubNr": "57",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/057/2014-03-07/39?pgs=39-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Assembleia da República promova o debate urgente visando as iniciativas legislativas e políticas necessárias para garantir o funcionamento e evitar o encerramento da Cinemateca Portuguesa - Museu do Cinema.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140306pln&url=l12/sl3/a2014/m03/&tI=02:38:00:906&drc=00:02:59:832"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-07",
+                "pubLeg": "XII",
+                "pubNr": "57",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/057/2014-03-07/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Assembleia da República promova o debate urgente visando as iniciativas legislativas e políticas necessárias para garantir o funcionamento e evitar o encerramento da Cinemateca Portuguesa - Museu do Cinema.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140306pln&url=l12/sl3/a2014/m03/&tI=02:41:05:022&drc=00:02:11:759"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-07",
+                "pubLeg": "XII",
+                "pubNr": "57",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/057/2014-03-07/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Assembleia da República promova o debate urgente visando as iniciativas legislativas e políticas necessárias para garantir o funcionamento e evitar o encerramento da Cinemateca Portuguesa - Museu do Cinema.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140306pln&url=l12/sl3/a2014/m03/&tI=02:43:20:838&drc=00:04:09:162"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-07",
+                "pubLeg": "XII",
+                "pubNr": "57",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/057/2014-03-07/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Assembleia da República promova o debate urgente visando as iniciativas legislativas e políticas necessárias para garantir o funcionamento e evitar o encerramento da Cinemateca Portuguesa - Museu do Cinema.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140306pln&url=l12/sl3/a2014/m03/&tI=02:47:32:921&drc=00:03:20:427"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-07",
+                "pubLeg": "XII",
+                "pubNr": "57",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/057/2014-03-07/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Assembleia da República promova o debate urgente visando as iniciativas legislativas e políticas necessárias para garantir o funcionamento e evitar o encerramento da Cinemateca Portuguesa - Museu do Cinema.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12415",
+    "PetAssunto": "Solicitam que a Assembleia da República promova o debate urgente visando as iniciativas legislativas e políticas necessárias para garantir o funcionamento e evitar o encerramento da Cinemateca Portuguesa - Museu do Cinema.",
+    "PetDataEntrada": "2013-10-02",
+    "PeticoesAssociadas": null,
+    "PetId": "12415",
+    "PetLeg": "XII",
+    "PetNr": "292",
+    "PetNrAssinaturas": "7389",
+    "PetNrAssinaturasInicial": "7389",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "461",
+        "obs": null,
+        "pag": [
+          "39-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-07",
+        "pubLeg": "XII",
+        "pubNr": "57",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/057/2014-03-07/39?pgs=39-40&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
