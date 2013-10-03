@@ -1,0 +1,175 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "443",
+    "id": "37896",
+    "titulo": "Redução da taxa do IRC para 12,5% para os primeiros 12 mil e 500 euros de lucros, apoiando as PME."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-10-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "32027",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-11-27",
+            "id": "96399",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-04",
+            "id": "96479",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-04",
+            "id": "96478",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-12-04",
+            "id": "96477",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-10-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-10-03",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-12-13",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Ofício a informar da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e694e6a5979596d51324c5746694f5459744e4455315a5331684d6d466c4c5449324e7a45334e475a6b4d7a4178596935775a47593d&fich=cb662bd6-ab96-455e-a2ae-267174fd301b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-20",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55324d5746694d4467344c574933597a4d744e444a6b5a6931684d7a55344c575a685a6a41305932566d4d324d77595335515245593d&fich=561ab088-b7c3-42df-a358-faf04cef3c0a.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade da Comissão",
+            "pag": [
+              "2-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-21",
+            "pubLeg": "XII",
+            "pubNr": "40",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/040/2013-12-21/2?pgs=2-67&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade da Comissão",
+            "pag": [
+              "2-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-21",
+            "pubLeg": "XII",
+            "pubNr": "40",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/040/2013-12-21/2?pgs=2-67&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2013-12-13",
+            "numeroOficio": "540/5ª-COFAP",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-12-12",
+            "descricao": "Iniciativa discutida e votada na especialidade - Rejeitada",
+            "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+            "id": "65531",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "236",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-10-03",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "293464",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
