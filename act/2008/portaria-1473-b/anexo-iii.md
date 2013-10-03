@@ -20,7 +20,7 @@ b) Factor multiplicativo que correlaciona cada uma das taxas B, C e D com a taxa
 
 (ver documento original)
 
-5 - Em aplicação do princípio «ocupador-pagador», a taxa de utilização correspondente a um código/número do Plano Nacional de Numeração de Telecomunicações (E.164) com um comprimento superior ou inferior a nove dígitos decresce ou cresce em múltiplos de 10 na razão inversa desse comprimento.
+5 - Em aplicação do princípio «ocupador-pagador», a taxa de utilização correspondente a um código/número do Plano Nacional de Numeração de Telecomunicações (E.164) com um comprimento superior ou inferior a nove dígitos decresce ou cresce em potências de base 10 na razão inversa desse comprimento, pelo que ao cálculo dessa taxa é aplicado o fator 10(elevado a (9-x)) para um número de x dígitos
 
 6 - Devido a limitações não imputáveis aos prestadores de serviços, a taxa de utilização de números do serviço de acesso a redes de dados e do serviço de audiotexto é determinada com base nos seguintes critérios específicos:
 

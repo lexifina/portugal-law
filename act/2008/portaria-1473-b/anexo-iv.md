@@ -2,13 +2,13 @@
 
 ### Taxas de radiocomunicações
 
-[alínea f) do n.º 1 do artigo 105.º da LCE]
+(alínea f) do n.º 1 do artigo 105.º da LCE)
 
 1 - Taxas referentes à utilização de frequências:
 
-As taxas devidas pela utilização de frequências, nos termos do n.º 3 do artigo 105.º da Lei n.º 5/2004, de 10 de Fevereiro, são fixadas nos seguintes montantes:
+As taxas devidas pela utilização de frequências, nos termos do n.º 3 do artigo 105.º da Lei n.º 5/2004, de 10 de fevereiro, são fixadas nos seguintes montantes:
 
-1.1 - Taxas referentes à utilização de frequências designadas para serviços de comunicações electrónicas terrestres:
+1.1 - Taxas referentes à utilização de frequências designadas para serviços de comunicações eletrónicas terrestres:
 
 (ver documento original)
 
@@ -22,13 +22,13 @@ As taxas devidas pela utilização de frequências, nos termos do n.º 3 do arti
 
 (ver documento original)
 
-1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM-R):
+1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM -R):
 
 Taxa aplicável por «área de serviço» e por mega-hertz:
 
 (ver documento original)
 
-Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50 % nos primeiros três anos de vigência da licença radioeléctrica.
+Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50 % nos primeiros três anos de vigência da licença radioelétrica.
 
 1.2.4 - Serviço móvel terrestre - redes privativas:
 
@@ -68,39 +68,35 @@ Taxa aplicável em função do tipo de cobertura da rede:
 
 (ver documento original)
 
-1.3.4 - Serviço de radiodifusão sonora digital por via terrestre (T-DAB):
+1.3.4 - Serviço de radiodifusão sonora digital por via terrestre (T -DAB):
 
 Taxa aplicável pela cobertura da rede:
 
 (ver documento original)
 
-1.3.5 - Serviço de radiodifusão televisiva analógica por via terrestre:
-
-Taxa aplicável pela cobertura da rede:
-
-(ver documento original)
+1.3.5 (Revogado)
 
 1.3.6 - Serviço de radiodifusão televisiva digital:
 
-Taxa aplicável por multiplexer:
+Taxa aplicável por direito de utilização de frequências:
 
 (ver documento original)
+
+Caso as frequências sejam atribuídas em parte do território nacional, o valor da taxa é proporcional à percentagem de população residente correspondente à área geográfica do território para o qual sejam atribuídas as frequências, apurada com base na informação constante das subsecções da divisão censitária da Base Geográfica de Referenciação da Informação 2011 (BGRI 2011) disponibilizada pelo Instituto Nacional de Estatística no âmbito do Censos 2011.
 
 1.4 - Taxas referentes à utilização de frequências para o serviço fixo:
 
-1.4.1 - Serviço fixo - ligações ponto-ponto e ponto-multiponto a operar em faixas de frequências iguais ou superiores a 1 GHz (excepto FWA e MMDS)
+1.4.1 - Serviço Fixo - Ligações ponto-ponto e ponto-multiponto a operar em faixas de frequências iguais ou superiores a 1 GHz (exceto FWA)
 
-Taxa aplicável por ligação hertziana bidireccional e por canal consignado:
+Taxa aplicável por ligação hertziana bidirecional e por canal consignado:
 
 (ver documento original)
 
-Sendo que L é o valor da distância da ligação em quilómetros (valor arredondado a três casas decimais).
+As ligações ponto-multiponto são constituídas por um conjunto de ligações ponto-ponto. Neste caso particular, a taxa a aplicar resultará do somatório das taxas calculadas para cada uma das ligações ponto-ponto.
 
-As ligações ponto-multiponto são constituídas por um conjunto de ligações ponto-ponto. Neste caso particular, a taxa a aplicar resultará do somatório das taxas calculadas para cada uma das suas ligações ponto-ponto.
+Uma segunda ligação hertziana, cocanal, no mesmo trajeto e com recurso a polarização cruzada, será objeto de uma redução de 50% sobre o valor da taxa aplicável.
 
-Uma segunda ligação hertziana, co-canal, no mesmo trajecto e com recurso a polarização cruzada, será objecto de uma redução de 50 % sobre o valor da taxa aplicável.
-
-As ligações hertzianas unidireccionais serão objecto de uma redução de 25 % sobre o valor da taxa aplicável às ligações bidireccionais.
+As ligações hertzianas unidirecionais serão objeto de uma redução de 25% sobre o valor da taxa aplicável às ligações bidirecionais.
 
 É fixado em (euro) 50 o valor mínimo da taxa de utilização aplicável por ligação e por canal consignado.
 
@@ -112,11 +108,11 @@ Taxa aplicável por rede e por canal consignado:
 
 1.4.3 - Serviço fixo - ligações ponto-ponto a operarem em faixas de frequências inferiores a 1 GHz:
 
-Taxa aplicável por ligação hertziana e por canal consignado:
+Taxa aplicável por ligação hertziana e por canal consignado
 
 (ver documento original)
 
-Uma segunda ligação hertziana, co-canal, no mesmo trajecto e com recurso a polarização cruzada, será objecto de uma redução de 50 % sobre o valor da taxa aplicável.
+Uma segunda ligação hertziana, cocanal, no mesmo trajeto e com recurso a polarização cruzada, será objeto de uma redução de 50 % sobre o valor da taxa aplicável.
 
 1.4.4 - Serviço fixo - ligações ponto-ponto de utilização ocasional a operarem em faixas de frequências inferiores a 1 GHz:
 
@@ -136,11 +132,7 @@ Taxa aplicável por rede e por canal consignado:
 
 (ver documento original)
 
-1.4.7 - Serviço fixo - ligações ponto-multiponto - Sistema MMDS (Multipoint Microwave Distribution System):
-
-Taxa aplicável por estação central:
-
-(ver documento original)
+1.4.7 (Revogado)
 
 1.4.8 - Sistemas de acesso fixo via rádio (FWA) e de acesso de banda larga via rádio (BWA):
 
@@ -204,7 +196,7 @@ Taxa aplicável por estação terrena:
 
 1.7 - Taxas referentes à utilização de frequências para outros serviços de radiocomunicações:
 
-1.7.1 - Estações de recepção licenciadas:
+1.7.1 - Estações de receção licenciadas:
 
 Taxa aplicável por estação:
 
@@ -228,6 +220,6 @@ Taxa aplicável, por estação, para telecomando, telemedida, telealarme, transm
 
 (ver documento original)
 
-1.8 - Taxas aplicáveis ao sistema de transmissão de dados em radiodifusão (RDS) - para a instalação e operação do RDS, nos termos do n.º 1 do artigo 8.º do Decreto-Lei n.º 272/98, de 2 de Setembro, aplicam-se as seguintes taxas:
+1.8 - Taxas aplicáveis ao sistema de transmissão de dados em radiodifusão (RDS) - para a instalação e operação do RDS, nos termos do n.º 1 do artigo 8.º do Decreto-Lei n.º 272/98, de 2 de setembro, aplicam-se as seguintes taxas:
 
 (ver documento original)

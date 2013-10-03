@@ -1,25 +1,21 @@
 # Anexo IX
 
-### Taxas de acesso e exercício da actividade de serviços postais (n.º 1 do artigo 19.º do Decreto-Lei n.º 150/2001, de 7 de Maio, alterado pelo Decreto-Lei n.º 116/2003, de 12 de Junho).
+### Taxas de acesso e exercício da atividade de prestador de serviços postais
 
-1 - As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do Decreto-Lei n.º 150/2001, de 7 de Maio, alterado pelo Decreto-Lei n.º 116/2003, de 12 de Junho, que estabelece o regime de acesso e exercício da actividade de prestador de serviços postais explorados em concorrência, são fixadas nos seguintes montantes:
+(n.os 1 e 2 do artigo 44.º da Lei n.º 17/2012, de 26 de abril)
 
-(ver documento original)
-
-2 - As taxas anuais previstas no n.º 2 do artigo 19.º do Decreto-Lei n.º 150/2001, de 7 de Maio, alterado pelo Decreto-Lei n.º 116/2003, de 12 de Junho, são fixadas nos seguintes montantes:
-
-a) (euro) 6000, pelo exercício de actividades sujeitas a licença;
-
-b) O montante da taxa anual a pagar pelas entidades titulares de autorização é calculado com base no valor da receita anual conexa com a actividade postal relativa ao ano anterior àquele em que é efectuada a liquidação da taxa, de acordo com os escalões indicados na tabela seguinte:
+1 - As taxas previstas para o acesso à atividade de prestador de serviços postais nos termos do n.º 1 do artigo 44.º da Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino em Portugal, são fixadas nos seguintes montantes:
 
 (ver documento original)
 
-3 - A taxa anual fixada nos termos do número anterior é liquidada no mês de Setembro de cada ano civil.
+2 - O montante da taxa anual devida pelo exercício da atividade de prestador de serviços postais, a que alude o n.º 2 do artigo 44.º da Lei n.º 17/2012, de 26 de abril, é calculado com base no valor dos rendimentos relevantes diretamente conexos com a atividade de serviços postais relativa ao ano anterior àquele em que é efetuada a liquidação da taxa, de acordo com os escalões indicados na tabela seguinte:
 
-4 - Para efeitos do disposto na alínea b) do n.º 2, os operadores autorizados ao exercício da actividade postal devem remeter ao ICP-ANACOM, até 30 de Junho de cada ano civil, declaração assinada por entidade com poderes para vincular o operador postal, como tal reconhecida na qualidade, com indicação do montante dos proveitos relevantes relacionados directamente com o exercício da actividade obtidos no ano civil anterior, bem como da correspondente previsão daquele montante para o ano em curso.
+(ver documento original)
 
-5 - Nos casos em que o início da actividade ocorra em data posterior à prevista no número anterior, a declaração aí referida deve ser remetida ao ICP-ANACOM, no prazo de 15 dias após a data de início da prestação dos serviços autorizados, com indicação do montante dos proveitos relevantes previstos para o ano em curso.
+3 - O valor da percentagem contributiva t(índice 2), resultante da aplicação da fórmula para o escalão 2, é fixado anualmente por deliberação do conselho de administração do ICP-ANACOM, a qual é publicitada no seu sítio da Internet, após apuramento e divulgação dos custos (gastos) administrativos (C (ano n)) e do montante total de rendimentos relevantes das entidades abrangidas pelo escalão 2 ((somatório)R(índice 2) (ano n-1)).
 
-6 - 1 - Caso a cessação da actividade de prestador de serviços postais, sujeita a licença ou a autorização, ocorra antes de 30 de Junho de cada ano civil, deve ser apresentada ao ICP-ANACOM, no prazo de 15 dias contado da data de cessação, uma declaração com indicação dos proveitos relevantes relacionados directamente com o exercício da actividade no ano civil anterior para efeitos de liquidação imediata da taxa.
+4 - Nos casos de entidades abrangidas pelo escalão 2, em que a cessação da atividade de prestador de serviços postais ocorra antes de 30 de junho, o montante da taxa é calculado com base na percentagem contributiva das entidades do escalão 2 publicada, relativa à liquidação de taxas do ano anterior.
 
-2 - Na situação referida no número anterior, a taxa anual relativa ao exercício da actividade é devida até à data do acto de revogação da licença ou da autorização do prestador de serviços postais no ICP-ANACOM.
+5 - O disposto no número anterior também se aplica nos casos em que a cessação da atividade de prestador de serviços postais ocorra depois de 30 de junho e não tenha sido ainda publicada a percentagem contributiva das entidades do escalão 2 para o ano em curso.
+
+6 - Os rendimentos relevantes devem ser calculados antes da aplicação do imposto sobre o valor acrescentado (IVA), quando aplicável, e não devem incluir as receitas provenientes de outras atividades que não a de prestador de serviços postais, nem as receitas das transações entre entidades do mesmo grupo, entendido este na aceção do Código das Sociedades Comerciais.

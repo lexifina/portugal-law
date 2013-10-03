@@ -1,8 +1,8 @@
 # Anexo VIII
 
-### Taxas de acesso e exercício da actividade de prestador de serviços de áudio-texto e de valor acrescentado baseados no envio de mensagem (n.os 1 e 2 do artigo 11.º do Decreto-Lei n.º 177/99, de 21 de Maio, alterado pela Lei n.º 95/2001, de 20 de Agosto, e pelo Decreto-Lei n.º 63/2009, de 10 de Março).
+### Taxas de acesso e de exercício da atividade de prestador de serviços de audiotexto e de valor acrescentado baseados no envio de mensagem (n.os 1 e 2 do artigo 11.º do Decreto-Lei n.º 177/99, de 21 de maio)
 
-1 - As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do n.os 1 e 2 do artigo 11.º do Decreto-Lei n.º 177/99, de 21 de Maio, alterado pela Lei n.º 95/2001, de 20 de Agosto, e pelo Decreto-Lei n.º 63/2009, de 10 de Março, que regula o regime de acesso e de exercício da actividade de prestador de serviços de áudio-texto e de valor acrescentado baseados no envio de mensagem, são fixadas nos seguintes montantes:
+1 - As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM) nos termos e ao abrigo dos n.os 1 e 2 do artigo 11.º do Decreto-Lei n.º 177/99, de 21 de maio, que regula o regime de acesso e de exercício da atividade de prestador de serviços de audiotexto e de valor acrescentado baseados no envio de mensagem, são fixadas nos seguintes montantes:
 
 (ver documento original)
 
