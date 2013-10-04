@@ -1,0 +1,12 @@
+Aviso n.º 12324/2013
+Alteração ao Regulamento da Zona Industrial da Cova das Faias (ZICOFA) - Abertura de procedimento de discussão pública
+Lino Dias Pereira, Vereador do Pelouro de Ordenamento do Território e Urbanismo da Câmara Municipal de Leiria, no uso da competência delegada (Edital n.º 16/2013), torna público, nos termos da alínea d) do n.º 1 do artigo 70.º do Código do Procedimento Administrativo (C.P.A.), conjugado com o disposto no n.º 5 do artigo 7.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na redação que lhe foi dada pelo Decreto-Lei n.º 26/2010, de 30 de março, bem como da deliberação do executivo datada de 23/07/2013, que se submete a discussão pública o pedido de alteração do Regulamento da Zona Industrial da Cova das Faias (ZICOFA), cuja apreciação decorre na Câmara ao abrigo do processo T.108/82.
+As alterações pretendidas incidem essencialmente no seguinte:
+É permitida a edificação de Telheiros e Alpendres, de acordo com o estudo que vier a ser definido;
+Na zona dos lotes industriais, passa a ser também possível a instalação de unidades com outros usos previstos no Plano Diretor Municipal, nomeadamente comércio e serviços;
+O número máximo de pisos acima da cota de soleira é de 2, podendo admitir-se a introdução de caves para estacionamento e arrumos, não havendo limites para o número de caves;
+A cota de implantação do piso térreo das construções é a constante da planta de síntese, admitindo-se uma variação de um metro em relação ao passeio confinante, referenciado à entrada principal.
+O período de discussão pública decorre pelo prazo de quinze dias úteis, contados a partir do oitavo dia útil seguinte à data da respetiva publicação em jornal e no sítio do Município de Leiria na Internet, podendo no decorrer deste período, os interessados vir a pronunciar-se por escrito sobre a alteração pretendida, mediante requerimento dirigido ao Exmo. Presidente da Câmara Municipal de Leiria, a remeter ou entregar no Departamento de Planeamento e Gestão Urbanística, deste Município, onde se encontra patente o respetivo processo, para eventual consulta, todos os dias úteis entre as 09:00 horas e as 16:30 horas.
+E para constar, se lavrou o presente Aviso e outros de igual teor, que vão ser afixados no edifício-sede do Município e da respetiva Freguesia, bem como de anúncio a publicar em dois jornais locais, em Diário da República, e no sítio do Município de Leiria na Internet.
+24 de julho de 2013. - Por delegação do Presidente da Câmara Municipal, o Vereador, Lino Dias Pereira.
+207276533
