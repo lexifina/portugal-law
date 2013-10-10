@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "191482",
+  "tipo": "Intervenção",
+  "orador": "Maria da Conceição Caldeira (PSD)",
+  "data_registo": "2013-10-10",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "12342",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "12342",
+        "tipo": "PET",
+        "titulo": "Petição - Futuro da RTP face à intenção do Governo de privatizar o serviço público de rádio e televisão."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Petição n.º 223/XII (2.ª) — Apresentada por António Pedro Saraiva de Barros e Vasconcelos e outros, solicitando à Assembleia da República o agendamento, em Plenário da Assembleia da República, de um debate sobre o futuro da RTP face aos anúncios preocupantes da intenção de o Governo apresentar no Parlamento uma proposta de privatização do serviço público de rádio e televisão, e o projeto de resolução n.º 840/XII (3.ª) — Recomenda ao Governo que preserve e qualifique o serviço público da RTP (BE)",
+        "duracao": "00:04:57:207",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20131010pln&url=l12/sl3/a2013/m10/&tI=01:36:53:880&drc=00:04:57:207"
+      }
+    ],
+    "DataReuniaoPlenaria": "2013-10-10",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "4442",
+      "nome": "Maria da Conceição Caldeira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "191482",
+    "IdDebate": "12342",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "191482",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "25-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-11",
+        "pubLeg": "XII",
+        "pubNr": "8",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/008/2013-10-11/25?pgs=25-28&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Recomenda ao Governo que preserve e qualifique o serviço público da RTP; Futuro da RTP face à intenção do Governo de privatizar o serviço público de rádio e televisão.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
