@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "174",
+  "id": "37965",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2013-10-10",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5451324e5441304f4749744e3251324d6930304d6a49774c57466d4f474d74596a6469593255325a6a686d5a574a694c6e426b5a673d3d&fich=9465048b-7d62-4220-af8c-b7bce6f8febb.pdf&Inline=true",
+        "anexoNome": "Parecer CNSF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a566b5a6a49304e7a67744e7a41325a5330304f4441784c57457759545174596d526b59574935596d45354e324e684c6e426b5a673d3d&fich=f5df2478-706e-4801-a0a4-bddab9ba97ca.pdf&Inline=true",
+        "anexoNome": "Parecer APB"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a51784f474d784e4759744f5751354d4330304e5451304c574a6a4f4751744e6a5a694e47566c4e6d55355a6a63324c6e426b5a673d3d&fich=f418c14f-9d90-4544-bc8d-66b4ee6e9f76.pdf&Inline=true",
+        "anexoNome": "Parecer APFIPP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5451784d6a4e694d6a45744d4455344e6930304f44457a4c546b304d5467744d6d51324d44686b595751344d6d55304c6e426b5a673d3d&fich=14123b21-0586-4813-9418-2d608dad82e4.pdf&Inline=true",
+        "anexoNome": "Parecer OMIClear"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d444d794f54646b596a4d744e6d51355953303059324a684c5749794d544d744f44646a597a59354d446b355a54646c4c6e426b5a673d3d&fich=03297db3-6d9a-4cba-b213-87cc69099e7e.pdf&Inline=true",
+        "anexoNome": "Parecer APS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4449794d6a5a6a5a5449745a6a45334f4330304f5441344c5467794e3259744f444e685a54497a4d5464684d6a63324c6e426b5a673d3d&fich=02226ce2-f178-4908-827f-83ae2317a276.pdf&Inline=true",
+        "anexoNome": "Parecer BdP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a4d324e6a5a6b4d5751744d545935597930304e7a6b314c574a694f5467744d7a63775a574e68595455314d5446684c6e426b5a673d3d&fich=33666d1d-169c-4795-bb98-370ecaa5511a.pdf&Inline=true",
+        "anexoNome": "Parecer CNC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a41775a6a51344e6a55744f475a6b4d7930304f546b794c57497a4f444d744f444a6c4f574a694d6a526c4f5749334c6e426b5a673d3d&fich=300f4865-8fd3-4992-b383-82e9bb24e9b7.pdf&Inline=true",
+        "anexoNome": "Parecer CMVM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a5931595463345a6a41744d5449774e4330304d5449784c57466d4e5745745a6a5177596a41315a5468684d574a6b4c6e426b5a673d3d&fich=665a78f0-1204-4121-af5a-f40b05e8a1bd.pdf&Inline=true",
+        "anexoNome": "Parecer ISP"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "37965",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d57526c4d7a63344d4449745a546c6b4d7930304d6a4a6d4c5467324d5755744e4755774d6a633259574a6b59546c694c6d527659773d3d&fich=1de37802-e9d3-422f-861e-4e0276abda9b.doc&Inline=true",
+    "IniNr": "174",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Autoriza o Governo a aprovar o regime que assegura a execução, na ordem jurídica interna, das obrigações decorrentes do Regulamento (UE) n.º 648/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo aos derivados do mercado de balcão, às contrapartes centrais e aos repositórios de transações, a estabelecer o respetivo regime sancionatório, bem como a alterar o Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
