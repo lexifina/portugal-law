@@ -1,0 +1,5 @@
+Aviso n.º 94/2013
+Por ordem superior se torna público que, em 30 de julho de 2009 e em 5 de junho de 2012, foram emitidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério dos Negócios Estrangeiros, da Cooperação Internacional e das Comunidades da Guiné-Bissau, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República da Guiné-Bissau para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e Prevenir a Evasão Fiscal, assinada em Lisboa em 17 de outubro de 2008.
+A República Portuguesa é Parte nesta Convenção, a qual foi aprovada pela Resolução da Assembleia da República n.º 55/2009 e pelo Decreto do Presidente da República n.º 70/2009, publicados no Diário da República, 1.ª série, n.º 146, de 30 de julho de 2009.
+Nos termos do artigo 29.º da Convenção, esta entrou em vigor em 5 de julho de 2012.
+Direção-Geral de Política Externa, 27 de setembro de 2013. - O Subdiretor-Geral, Carlos José de Pinho e Melo Pereira Marques.
