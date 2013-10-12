@@ -14,6 +14,8 @@ iii) As propriedades hidromorfológicas, físicas e químicas dos ecossistemas, 
 
 iv) A introdução de substâncias e energia, incluindo ruído, resultantes das actividades humanas no meio marinho não constitui poluição, definida na alínea c);
 
-b) «Estado ambiental» o estado global do ambiente nas águas marinhas nacionais, tendo em conta a estrutura, a função e os processos dos ecossistemas marinhos que o constituem conjuntamente com os factores fisiográficos, geográficos, biológicos, geológicos e climáticos naturais, bem como as condições físicas, acústicas, químicas e biológicas, incluindo as resultantes das actividades humanas, dentro e fora da área em causa;
+b) «Convenção marinha regional» qualquer convenção internacional ou acordo internacional e respetivos órgãos diretivos, estabelecidos para a proteção do meio marinho das regiões marinhas a que se refere o artigo 5.º, designadamente, a Convenção para a Proteção do Meio Marinho do Atlântico Nordeste;
 
-c) «Poluição» a introdução, directa ou indirecta, no meio marinho em consequência de actividades humanas de substâncias ou de energia, incluindo o ruído submarino, da qual resultam ou podem resultar efeitos nefastos para os ecossistemas ou, em geral, o impedimento da utilização sustentável dos bens e serviços marinhos.
+c) «Estado ambiental» o estado global do ambiente nas águas marinhas nacionais, tendo em conta a estrutura, a função e os processos dos ecossistemas marinhos que o constituem conjuntamente com os factores fisiográficos, geográficos, biológicos, geológicos e climáticos naturais, bem como as condições físicas, acústicas, químicas e biológicas, incluindo as resultantes das actividades humanas, dentro e fora da área em causa;
+
+d) «Poluição» a introdução, directa ou indirecta, no meio marinho em consequência de actividades humanas de substâncias ou de energia, incluindo o ruído submarino, da qual resultam ou podem resultar efeitos nefastos para os ecossistemas ou, em geral, o impedimento da utilização sustentável dos bens e serviços marinhos.
