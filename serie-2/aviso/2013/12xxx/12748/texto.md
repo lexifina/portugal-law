@@ -1,0 +1,6 @@
+Aviso n.º 12748/2013
+Dr. Manuel da Silva Soares, Presidente da Câmara Municipal de Sever do Vouga, torna público, em cumprimento do disposto no artigo 91.º da Lei n.º 169/99, de 18 setembro, com as alterações da Lei n.º 5-A/2002, de 11 de janeiro, que por deliberação da reunião de Câmara, de 25 setembro de 2013, foi aprovado o projeto de segunda revisão do Regulamento e Tabela de Taxas e Outras Receitas Municipais, bem como a fundamentação económica das mesmas.
+Assim, nos termos do artigo 118.º do Código do Procedimento Administrativo, se procede à audiência pública do referido projeto de revisão, pelo período de 30 dias, a contar a partir do dia da publicação deste aviso no Diário da República 2.ª série, podendo os interessados consultar o processo no Departamento Administrativo e Financeiro da Autarquia ou na página eletrónica do Município de Sever do Vouga (http://www.cm-sever.pt) para formularem as sugestões e observações que entenderem convenientes, através de requerimento escrito dirigido ao senhor Presidente da Câmara ou por correio eletrónico para o endereço: cm.sever@cm-sever.pt.
+E para constar e demais efeitos se publicam este aviso e outros de igual teor, que vão ser afixados nos locais habituais, num jornal local e na página do Município de Sever do Vouga.
+4 de outubro de 2013. - O Presidente da Câmara, Dr. Manuel da Silva Soares.
+207300549
