@@ -32,4 +32,8 @@ ii) Sujeitos à realização de uma mera comunicação prévia; ou
 
 iii) (Revogada.)
 
-4 - Compete aos membros do Governo responsáveis pelas áreas do ambiente, do ordenamento do território, da agricultura, do desenvolvimento rural, das pescas, da economia, das obras públicas e dos transportes aprovar, por portaria, as condições a observar para a viabilização dos usos e ações referidos nos n.os 2 e 3.
+4 - Consideram-se ainda dispensadas da aplicação do disposto no n.º 1 as ações de arborização e rearborização com espécies florestais, bem como a implantação de infraestruturas no seu âmbito, quando decorrentes de projetos autorizados pelo Instituto da Conservação da Natureza e das Florestas, I.P., ou aprovados pelas entidades competentes no âmbito de programas públicos de apoio ao desenvolvimento florestal, nos termos da lei.
+
+5 - Para efeitos do disposto no número anterior, a análise das ações inerente aos projetos submetidos a autorização ou aprovação deve incorporar os princípios e objetivos da REN.
+
+6 - Compete aos membros do Governo responsáveis pelas áreas do ambiente, do ordenamento do território, da agricultura, do desenvolvimento rural, das pescas, da economia, das obras públicas e dos transportes aprovar, por portaria, as condições a observar para a viabilização dos usos e ações referidos nos n.os 2 e 3.
