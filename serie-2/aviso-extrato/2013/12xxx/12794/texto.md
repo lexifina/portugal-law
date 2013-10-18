@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 12794/2013
+António José Messias do Rosário Sebastião, presidente da Câmara Municipal de Almodôvar, torna público, nos termos e para os efeitos do disposto no artigo 91.º da Lei n.º 169/99, de 18 de setembro, na sua atual redação, que a Assembleia Municipal de Almodôvar, em sessão ordinária de 13 de setembro de 2013, sob proposta oportunamente aprovada pela Câmara Municipal na sua reunião ordinária de 21 de agosto de 2013, e após audiência e apreciação pública, nos termos do artigo 118.º do Código do Procedimento Administrativo, no âmbito da competência constante do artigo 53.º, n.º 2, alínea a), da supra citada lei, deliberou aprovar o Regulamento de Publicidade e Ocupação do Espaço Público, o qual entrará em vigor 15 dias após a sua publicação no Diário de República.
+Para que não se alegue desconhecimento, é publicado o presente aviso e afixados editais de igual teor nos lugares públicos do costume, bem como na página eletrónica do Município de Almodôvar - www.cm-almodovar.pt.
+23 de setembro de 2013. - O Presidente da Câmara Municipal, António José Messias do Rosário Sebastião.
+307284147
