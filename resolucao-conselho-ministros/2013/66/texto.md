@@ -1,0 +1,21 @@
+Resolução do Conselho de Ministros n.º 66/2013
+Com a celebração do acordo quadro para a aquisição de serviços de limpeza pela Agência Nacional de Compras Públicas, E.P.E. (ANCP, E.P.E.), atualmente Entidade de Serviços Partilhados da Administração Pública, I.P. (ESPAP, I.P.), foi vedado aos serviços da administração direta do Estado e aos institutos públicos que constituem entidades compradoras vinculadas, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 37/2007, de 19 de fevereiro, alterado pela Lei n.º 3-B/2010, de 28 de abril, e pelo Decreto-Lei n.º 117-A/2012, de 14 de junho, a adoção de procedimentos tendentes à contratação, fora do âmbito do referido acordo quadro, de serviços abrangidos pelo mesmo.
+Considerando que os organismos integrados no Ministério da Administração Interna (MAI) estão obrigados a celebrar os contratos no âmbito do acordo quadro de prestação de serviços de limpeza, e que os contratos em vigor terminam no final do corrente ano, torna-se necessário iniciar as diligências para o lançamento de um novo procedimento aquisitivo de serviços de limpeza, prevendo-se o início de execução dos novos contratos em janeiro de 2014, com a duração de um ano, com possibilidade de renovação para o ano de 2015.
+Neste contexto, com vista a garantir a contratação de serviços de limpeza para os organismos do MAI, a Secretaria-Geral do Ministério da Administração Interna, através da Unidade Ministerial de Compras, procede à abertura do procedimento, nos termos do artigo 259.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, ao abrigo do acordo quadro da ESPAP, I.P.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar as entidades adjudicantes que constam do anexo à presente resolução, que dela faz parte integrante, a realizar a despesa relativa à aquisição de serviços de limpeza, para os anos de 2014 e 2015, até ao montante total máximo de 8 297 641,40 EUR, ao qual acresce IVA à taxa legal em vigor.
+2 - Determinar que os encargos resultantes da aquisição de serviços referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
+a) 2014 - 4 148 820,70 EUR;
+b) 2015 - 4 148 820,70 EUR.
+3 - Determinar que o Ministro da Administração Interna fica autorizado a fazer as alterações que se revelarem necessárias entre os montantes afetos a cada entidade.
+4 - Estabelecer que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento das entidades que constam no anexo à presente resolução.
+5 - Estabelecer que o montante fixado no n.º 2 para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+6 - Determinar, ao abrigo do disposto no n.º 1 do artigo 259.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, o recurso ao procedimento pré-contratual adequado para a aquisição dos serviços de limpeza, através do acordo quadro da Agência Nacional de Compras Públicas, E.P.E., atualmente Entidade de Serviços Partilhados da Administração Pública, I.P.
+7 - Delegar, ao abrigo do n.º 1 do artigo 109.º do CCP, no Secretário-Geral do Ministério da Administração Interna, a competência para a prática de todos os atos a realizar no âmbito do procedimento referido no número anterior.
+8 - Delegar ao abrigo do n.º 1 do artigo 109.º do CCP, nos dirigentes máximos de cada entidade referida no anexo à presente resolução, a competência para a outorga do contrato, bem como as competências relativas à liberação ou execução das cauções.
+9 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 10 de outubro de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
+ANEXO
+Repartição de encargos por entidades adjudicantes
+(ver documento original)
