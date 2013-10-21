@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12420",
+  "numero": "297",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-10-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-12-17",
+            "entidades": null,
+            "id": "96590",
+            "tipo": null,
+            "titulo": "Audição em 2013-12-17 com João António Correia Martins"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-11-12",
+            "dataResposta": "2013-11-28",
+            "entidades": [
+              "Associação Portuguesa de Bancos"
+            ],
+            "nrOficio": "474/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-12",
+            "dataResposta": "2014-01-07",
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "472/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-11-12",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "472/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-01-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-11-05",
+        "DataArquivo": "2014-01-07",
+        "DataBaixaComissao": "2013-10-28",
+        "DataEnvioPAR": "2014-01-13",
+        "DataReaberta": "2013-11-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-11-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6c6c5a546b78596a49304c574a6d4e4463744e4759305a6930344e444e6b4c5755314f5756684d6a6b354d6a63784d6935775a47593d&fich=9ee91b24-bf47-4f4f-843d-e59ea2992712.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-11-29",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466a4d6d52684d7a4d794c57526a4d4445744e474a6b596931694e7a6c6a4c544e6a4e6d55794e4745324e6d49355a6935775a47593d&fich=1c2da332-dc01-4bdb-b79c-3c6e24a66b9f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-11-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3256684d3251314e6a67784c5755795a4451744e444d34597931684e57517a4c54497a4e546b314f546b30597a63314d4335515245593d&fich=ea3d5681-e2d4-438c-a5d3-23595994c750.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-11-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b354f444d344f444d354c546333596a63744e474e695a4330344d3255344c5451354e47566b4e7a457a4e32526b4d6935515245593d&fich=99838839-77b7-4cbd-83e8-494ed7137dd2.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-11-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d324f44557a4f54526d4c5455304f546b744e44493159693035596a4e694c574a6c4d6d566d4d7a4d78595749324d5335515245593d&fich=c685394f-5499-425b-9b3b-be2ef331ab61.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-01-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55784d6d4579593249784c54517a4d7a51744e4751344d5330354d7a6b794c5463354f544e684d54526b4f44426c4e6935775a47593d&fich=512a2cb1-4334-4d81-9392-7993a14d80e6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-11-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466a597a5978596d49354c57566b4d3259744e444932597931684e474d314c5441344d7a6c6b595759305a6d597a597935775a47593d&fich=1cc61bb9-ed3f-426c-a4c5-0839daf4ff3c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e6a4e57466a4f5467344c54677a597a51744e44686b5a533168595745304c5451304e6a41355a5463774d7a6779597935775a47593d&fich=3c5ac988-83c4-48de-aaa4-44609e70382c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-11-05",
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2013-10-31",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3252694e444d305a54686c4c544e6c4d6d4d744e4746694d6931684f4749784c5459305a6a63304d32566c5a446b344f5335515245593d&fich=db434e8e-3e2c-4ab2-a8b1-64f743eed989.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12420",
+    "PetAssunto": "Pretende uma alteração legislativa, com vista à integração dos créditos criados ao abrigo do Decreto-Lei n.º 309-A/2007, de 7 de setembro, no regime previsto no Decreto-Lei n.º 227/2012, de 25 de outubro.",
+    "PetDataEntrada": "2013-10-21",
+    "PeticoesAssociadas": null,
+    "PetId": "12420",
+    "PetLeg": "XII",
+    "PetNr": "297",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
