@@ -1,0 +1,11 @@
+Resolução da Assembleia da República n.º 143/2013
+Recomenda ao Governo que proceda à avaliação do impacto do Plano de Ordenamento do Parque Nacional da Peneda-Gerês
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Desenvolva uma estratégia concertada que integre, em convergência, as autarquias locais, as entidades intermunicipais e a administração central, no sentido de garantir a integridade do Parque Nacional da Peneda-Gerês (PNPG), impulsionando o seu adequado desenvolvimento, mediante a afirmação, a nível nacional, comunitário e internacional, da sua imagem e do seu notável património material e imaterial.
+2 - Concretize as medidas já preconizadas no Programa do Governo, assegurando, mediante a referida estratégia de conservação da natureza e da biodiversidade, que o PNPG passe a ser um vetor estruturante do desenvolvimento local e da melhoria da qualidade de vida das populações residentes, com enfoque na integração harmoniosa do homem com a natureza e na valorização económica e dos serviços prestados pela natureza através das atividades do turismo da natureza, com vista à operacionalização de um verdadeiro setor de Business & Biodiversity.
+3 - Reveja o modelo de gestão desta área protegida, por forma a criar uma marca para esta zona de valor acrescentado e amplamente reconhecida pelo turismo e pela população, replicando-o, posteriormente, para os restantes espaços classificados.
+4 - Promova a descentralização de competências em matéria de gestão de áreas protegidas, com vista a um maior envolvimento das autarquias locais na promoção de redes de atividades resilientes, garantindo uma maior dinâmica ao turismo de natureza, ao turismo científico-cultural e ao turismo religioso.
+5 - Fomente e apoie a adoção de boas práticas ambientais, através do selo «Turismo de Natureza», bem como a certificação das atividades e dos produtos deste setor do turismo, com vista à melhoria da oferta deste tipo de serviços.
+6 - Proceda à avaliação do impacto do Plano de Ordenamento do Parque Nacional da Peneda-Gerês, designadamente em relação à sua população e outros agentes.
+Aprovada em 18 de setembro de 2013.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
