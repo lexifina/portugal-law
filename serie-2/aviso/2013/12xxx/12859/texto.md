@@ -1,0 +1,5 @@
+Aviso n.º 12859/2013
+Luís Manuel Barbosa Marques Leal, Dr., Presidente da Câmara Municipal de Montemor-o-Velho, torna público que, nos termos e para os efeitos do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na redação do Decreto-Lei n.º 6/96, de 31 de janeiro, durante o prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República, é submetido a apreciação pública o Projeto de Regulamento da Biblioteca Municipal Afonso Duarte, aprovado em reunião ordinária da Câmara Municipal, realizada em 23 de setembro de 2013.
+Durante este período poderão os interessados consultar o referido documento nos serviços municipais da Unidade de Educação, Desporto, Cultura e Ação Social desta Autarquia e na página da Internet deste Município, em www.cm-montemorvelho.pt, para, querendo, formular, por escrito, as sugestões que entendam, as quais deverão ser dirigidas ao Presidente da Câmara Municipal de Montemor-o-Velho.
+26 de setembro de 2013. - O Presidente da Câmara Municipal, Luís Manuel Barbosa Marques Leal.
+307302599
