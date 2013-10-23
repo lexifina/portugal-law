@@ -14,7 +14,7 @@ d) Não estar inibido do exercício de funções públicas ou interdito para o e
 
 e) Possuir a robustez física, o perfil psíquico e as características de personalidade indispensáveis ao exercício da função e ter cumprido as leis de vacinação obrigatória;
 
-f) (Revogada).
+f) Obter aprovação em prova de avaliação de conhecimentos e capacidades.
 
 2 - Constitui requisito físico necessário ao exercício da função docente a ausência, comprovada por adequado atestado médico, de quaisquer lesões ou enfermidades que impossibilitem o exercício da docência ou sejam susceptíveis de ser agravadas pelo desempenho de funções docentes.
 
@@ -26,10 +26,10 @@ f) (Revogada).
 
 6 - A existência de alcoolismo ou de toxicodependências, comprovadas nos termos do número anterior, constitui motivo impeditivo do exercício da função docente pelo período de dois anos.
 
-7 - (Revogado).
+7 - A aprovação na prova prevista na alínea f) do n.º 1 constitui requisito exigível aos candidatos a concursos de selecção e recrutamento de pessoal docente da educação pré-escolar e dos ensinos básico e secundário que ainda não tenham integrado a carreira.
 
-8 - (Revogado).
+8 - A prova a que se refere o número anterior visa verificar o domínio de conhecimentos e capacidades fundamentais para o exercício da função docente.
 
-9 - (Revogado).
+9 - A prova de avaliação de conhecimentos e capacidades tem obrigatoriamente uma componente comum a todos os candidatos, que visa avaliar a sua capacidade de mobilizar o raciocínio lógico e crítico, bem como a preparação para resolver problemas em domínios não disciplinares, podendo ainda ter uma componente específica relativa à área disciplinar ou nível de ensino dos candidatos.
 
-10 - (Revogado).
+10 - As condições de candidatura, de realização e avaliação da prova são aprovadas por decreto regulamentar.

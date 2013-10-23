@@ -9,5 +9,3 @@
 3 - O disposto nos números anteriores é aplicável aos docentes que, nos termos legais, foram dispensados da profissionalização.
 
 4 - As características dos mestrados e doutoramentos a que se referem os n.os 1 e 2 são definidas por portaria do membro do Governo responsável pela área da educação.
-
-5 - Aos docentes em exercício de funções em regime de contrato de trabalho em funções públicas a termo resolutivo aplica-se, com as necessárias adaptações, o disposto nos n.os 1, 2 e 4.
