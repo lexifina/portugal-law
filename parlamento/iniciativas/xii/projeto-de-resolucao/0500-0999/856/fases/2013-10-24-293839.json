@@ -1,0 +1,795 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "856",
+    "id": "38013",
+    "titulo": "Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-10-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9630",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-10-24",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "37992",
+        "leg": "XII",
+        "nr": "179",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1825",
+            "obs": null,
+            "pag": [
+              "57-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-10-25",
+            "pubLeg": "XII",
+            "pubNr": "14",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/57?pgs=57-72&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-10-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:27:40:424&drc=00:04:52:564"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:45:02:946&drc=00:04:09:504"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:20:40:973&drc=00:02:08:012"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:27:43:414&drc=00:01:18:819"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DAS INFRAESTRUTURAS, TRANSPORTES E COMUNICAÇÕES",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Sérgio Monteiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58",
+                  "61-62",
+                  "69-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/57?pgs=57-58,61-62,69-72&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:32:50:750&drc=00:03:01:326"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:10:57:758&drc=00:04:56:530"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:36:00:578&drc=00:02:48:976"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4368",
+                "nome": "Paulo Ribeiro de Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:38:52:190&drc=00:04:23:591"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:43:20:168&drc=00:01:17:395"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS ASSUNTOS PARLAMENTARES E DA IGUALDADE",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Teresa Morais"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:49:25:228&drc=00:04:03:693"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4318",
+                "nome": "Nuno Serra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:53:48:712&drc=00:04:42:944"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4374",
+                "nome": "Rui Barreto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=03:58:41:979&drc=00:07:08:648"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/64?pgs=64-66&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4368",
+                "nome": "Paulo Ribeiro de Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:06:10:813&drc=00:04:32:817"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:22:56:335&drc=00:02:38:240"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67",
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/66?pgs=66-67,70-71&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:10:57:758&drc=00:04:56:530"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2641",
+                "nome": "Paulo Cavaleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:16:02:221&drc=00:04:11:311"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4145",
+                "nome": "Luís Menezes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:25:40:336&drc=00:01:46:063"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/71?pgs=71&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131024pln&url=l12/sl3/a2013/m10/&tI=04:29:55:092&drc=00:00:46:013"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-25",
+                "pubLeg": "XII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/72?pgs=72&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 17/2012, de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional; Recomenda ao Governo a suspensão do processo de privatização dos CTT, manutenção da empresa no Estado e o reforço das suas competências.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "293839",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "705079",
+        "obs": null,
+        "pag": [
+          "57-72"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-25",
+        "pubLeg": "XII",
+        "pubNr": "14",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/014/2013-10-25/57?pgs=57-72&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
