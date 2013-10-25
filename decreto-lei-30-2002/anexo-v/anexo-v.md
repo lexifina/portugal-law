@@ -12,7 +12,63 @@ A) Sistema de numeração do certificado de homologação
 
 Quatro secções para as homologações de veículos, e cinco secções para as homologações de sistemas, componentes e unidades técnicas, de acordo com as disposições a seguir. Em todos os casos, as secções devem ser separadas por um asterisco '*':
 
-Secção 1: a letra minúscula 'e' seguida do código (número) do Estado membro que emite a homologação: 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda; 49 para Chipre e 50 para Malta.2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda;
+Secção 1:
+
+1 para a Alemanha;
+
+2 para a França;
+
+3 para a Itália;
+
+4 para os Países Baixos;
+
+5 para a Suécia;
+
+6 para a Bélgica;
+
+7 para a Hungria;
+
+8 para a República Checa;
+
+9 para a Espanha;
+
+11 para o Reino Unido;
+
+12 para a Áustria;
+
+13 para o Luxemburgo;
+
+17 para a Finlândia;
+
+18 para a Dinamarca;
+
+19 para a Roménia;
+
+20 para a Polónia;
+
+21 para Portugal;
+
+23 para a Grécia;
+
+24 para a Irlanda;
+
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+49 para Chipre;
+
+50 para Malta.
 
 Secção 2: o número da directiva de base;
 
@@ -80,6 +136,10 @@ B) Marca de homologação
 
 6 para a Bélgica;
 
+7 para a Hungria;
+
+8 para a República Checa;
+
 9 para a Espanha;
 
 11 para o Reino Unido;
@@ -92,11 +152,29 @@ B) Marca de homologação
 
 18 para a Dinamarca;
 
+19 para a Roménia;
+
+20 para a Polónia;
+
 21 para Portugal;
 
 23 para a Grécia;
 
 24 para a Irlanda;
+
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
 
 49 para Chipre;
 
