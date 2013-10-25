@@ -1,0 +1,7 @@
+# Artigo 18.º
+
+### Entrada em vigor
+
+Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
