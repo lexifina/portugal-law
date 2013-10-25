@@ -1,0 +1,596 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "181",
+    "id": "37999",
+    "titulo": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-10-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9639",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-10-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-10-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:59:52:000&drc=00:03:08:061"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:59:52:000&drc=00:03:08:061"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:59:52:000&drc=00:03:08:061"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Luís Albuquerque"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46",
+                  "49-50",
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/45?pgs=45-46,49-50,57&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:53:17:495&drc=00:00:22:063"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:53:47:264&drc=00:02:49:189"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:56:39:476&drc=00:01:30:981"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:58:12:963&drc=00:01:24:224"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=03:03:11:436&drc=00:05:54:649"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=03:09:16:396&drc=00:06:35:710"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/51?pgs=51-53&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=03:16:02:731&drc=00:04:06:300"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=03:20:21:340&drc=00:04:32:362"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/54?pgs=54-56&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=03:25:05:431&drc=00:04:45:069"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração à Lei n.º 63-A/2008, de 24 de novembro, que estabelece medidas de reforço da solidez financeira das instituições de crédito no âmbito da iniciativa para o reforço da estabilidade financeira e da disponibilização de liquidez nos mercados financeiros.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "293874",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9639",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-26",
+        "pubLeg": "XII",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
