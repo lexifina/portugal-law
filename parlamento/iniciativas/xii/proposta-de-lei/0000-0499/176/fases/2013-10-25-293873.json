@@ -1,0 +1,819 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "176",
+    "id": "37988",
+    "titulo": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-10-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9638",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-10-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-10-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:57:24:148&drc=00:05:18:239"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:46:33:483&drc=00:00:43:076"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:41:05:334&drc=00:05:05:581"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Luís Albuquerque"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27",
+                  "30-32",
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/26?pgs=26-27,30-32,39-40&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:46:21:494&drc=00:02:55:534"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4397",
+                "nome": "Afonso Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:49:24:867&drc=00:03:00:198"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:06:00:871&drc=00:05:32:128"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=04:03:54:656&drc=00:00:43:764"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4129",
+                "nome": "Cristóvão Crespo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:02:50:478&drc=00:03:06:579"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:52:26:754&drc=00:01:03:984"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:11:39:389&drc=00:04:20:381"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:43:54:982&drc=00:02:18:762"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-36",
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/34?pgs=34-36,44-45&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2011",
+                "nome": "Pedro Silva Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:16:06:313&drc=00:05:58:218"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:34:59:637&drc=00:01:35:922"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37",
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/36?pgs=36-37,40-41&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:22:16:533&drc=00:02:33:445"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:24:57:794&drc=00:02:58:540"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:31:58:280&drc=00:02:39:416"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:36:51:930&drc=00:02:50:059"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2011",
+                "nome": "Pedro Silva Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=02:39:59:648&drc=00:03:30:441"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 2.ª alteração à Lei n.º 66-B/2012, de 31 de dezembro, que aprova o Orçamento do Estado para 2013, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de junho, e o Regime Especial de Tributação dos Rendimentos de Valores Mobiliários Representativos de Dívida, aprovado pelo Decreto-Lei n.º 193/2005, de 7 de novembro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "293873",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9638",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-26",
+        "pubLeg": "XII",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
