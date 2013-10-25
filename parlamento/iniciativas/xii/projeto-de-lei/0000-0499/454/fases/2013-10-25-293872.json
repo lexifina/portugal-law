@@ -1,0 +1,384 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "454",
+    "id": "37966",
+    "titulo": "Transição das freguesias no âmbito da reorganização administrativa operada pelas Leis n.ºs 56/2012, de 8 de novembro, e 11-A/2013, de 28 de janeiro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-10-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9637",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-10-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-10-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4031",
+                "nome": "Ângela Guerra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:15:59:841&drc=00:02:37:623"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:31:55:466&drc=00:02:29:243"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/20?pgs=20-21,24&org=PLC"
+              }
+            ],
+            "sumario": "Transição das freguesias no âmbito da reorganização administrativa operada pelas Leis n.ºs 56/2012, de 8 de novembro, e 11-A/2013, de 28 de janeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:22:57:066&drc=00:03:20:934"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/22?pgs=22&org=PLC"
+              }
+            ],
+            "sumario": "Transição das freguesias no âmbito da reorganização administrativa operada pelas Leis n.ºs 56/2012, de 8 de novembro, e 11-A/2013, de 28 de janeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:26:18:101&drc=00:03:03:833"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:38:56:477&drc=00:01:11:440"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23",
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/22?pgs=22-23,25-26&org=PLC"
+              }
+            ],
+            "sumario": "Transição das freguesias no âmbito da reorganização administrativa operada pelas Leis n.ºs 56/2012, de 8 de novembro, e 11-A/2013, de 28 de janeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:29:28:194&drc=00:02:18:311"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Transição das freguesias no âmbito da reorganização administrativa operada pelas Leis n.ºs 56/2012, de 8 de novembro, e 11-A/2013, de 28 de janeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:34:31:834&drc=00:04:12:016"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO LOCAL",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "António Leitão Amaro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Transição das freguesias no âmbito da reorganização administrativa operada pelas Leis n.ºs 56/2012, de 8 de novembro, e 11-A/2013, de 28 de janeiro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4173",
+                "nome": "Margarida Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "13:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131025pln&url=l12/sl3/a2013/m10/&tI=01:18:37:465&drc=00:04:14:537"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-10-26",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Transição das freguesias no âmbito da reorganização administrativa operada pelas Leis n.ºs 56/2012, de 8 de novembro, e 11-A/2013, de 28 de janeiro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "293872",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9637",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-10-26",
+        "pubLeg": "XII",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/015/2013-10-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
