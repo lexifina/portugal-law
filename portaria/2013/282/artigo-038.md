@@ -14,7 +14,7 @@ b) Quando apresentada em suporte físico, pelos restantes meios legalmente previ
 
 4 - O agente de execução substituto é notificado da substituição através do sistema informático de suporte à atividade dos agentes de execução.
 
-5 - Se o agente de execução substituto declarar que não aceita a designação nos termos do artigo 5.º, é designado imediatamente novo agente de execução substituto nos termos do n.º 2 do artigo 720.º do Código de Processo Civil.
+5 - Se o agente de execução substituto declarar que não aceita a designação nos termos do artigo 36.º, é designado imediatamente novo agente de execução substituto nos termos do n.º 2 do artigo 720.º do Código de Processo Civil.
 
 6 - Os elementos previstos no n.º 2 do artigo 129.º do Estatuto da Câmara dos Solicitadores, juntamente com a nota discriminativa de honorários e despesas, são entregues ao agente de execução substituto pelo agente de execução substituído no prazo de cinco dias após o pedido de entrega desses elementos pelo agente de execução substituto.
 

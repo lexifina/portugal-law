@@ -8,7 +8,7 @@
 
 3 - A designação, pelo exequente, do agente de execução substituto, prevista no n.º 1 do artigo 129.º do Estatuto da Câmara dos Solicitadores é apresentada, nos termos do n.º 1 do artigo anterior.
 
-4 - Se a designação não for efetuada no prazo de cinco dias a contar da receção da notificação pelo tribunal ou o agente de execução substituto declarar que não aceita a designação nos termos do artigo 5.º, é designado agente de execução substituto nos termos do n.º 2 do artigo 720.º do Código de Processo Civil.
+4 - Se a designação não for efetuada no prazo de cinco dias a contar da receção da notificação pelo tribunal ou o agente de execução substituto declarar que não aceita a designação nos termos do artigo 36.º, é designado agente de execução substituto nos termos do n.º 2 do artigo 720.º do Código de Processo Civil.
 
 5 - O agente de execução substituto é notificado da substituição através do sistema informático de suporte à atividade dos agentes de execução.
 

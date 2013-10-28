@@ -10,7 +10,7 @@
 
 2 - Excetuam-se do disposto no número anterior as despesas necessárias à realização das diligências efetuadas durante a fase 1 do processo executivo, bem como as despesas de deslocação que não observem o disposto no n.º 4.
 
-3 - Podem ser cobradas despesas de deslocação, tendo por base os critérios estabelecidos no artigo 55.º, se o agente de execução designado pelo exequente praticar atos a mais de 50 km do tribunal da sua comarca e, cumulativamente:
+3 - Podem ser cobradas despesas de deslocação, tendo por base os critérios estabelecidos no artigo 54.º, se o agente de execução designado pelo exequente praticar atos a mais de 50 km do tribunal da sua comarca e, cumulativamente:
 
 a) O exequente for previamente informado, preferencialmente por via eletrónica:
 

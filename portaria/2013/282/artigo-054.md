@@ -4,7 +4,7 @@
 
 1 - O agente de execução tem direito a uma compensação pelas deslocações efetuadas para a realização de diligências que envolvam deslocações ao local, paga pela caixa de compensações, sempre que se verifiquem, cumulativamente, as seguintes condições:
 
-a) O autor, requerente ou exequente não deva suportar as despesas pelas deslocações nos termos do disposto no n.º 4 do artigo 52.º;
+a) O autor, requerente ou exequente não deva suportar as despesas pelas deslocações nos termos do disposto no n.º 3 do artigo 52.º;
 
 b) O agente de execução tenha sido designado pela secretaria nos termos do artigo 720.º do Código de Processo Civil e a prática do ato envolva uma deslocação superior a 50 km e inferior a 400 km, calculadas as distâncias das viagens de ida e regresso pelo percurso mais curto entre o tribunal e a sede da junta da freguesia onde deva ser praticado o ato.
 
