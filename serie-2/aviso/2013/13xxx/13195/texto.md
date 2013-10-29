@@ -1,0 +1,16 @@
+Aviso n.º 13195/2013
+Alteração ao Plano Diretor Municipal
+Carlos Manuel de Oliveira Carrão, na qualidade de Presidente da Câmara Municipal de Tomar, torna público, nos termos e para os efeitos previsto no n.º 4 do artigo 148.º e n.º 2 do artigo 149.º do Regime Jurídico dos Instrumentos de Gestão Territorial, publicado pelo Decreto-Lei n.º 380/99, de 22 de setembro, alterado e republicado pelos Decreto-Lei n.º 316/2007, de 19 de setembro, Decreto-Lei n.º 46/2009, de 20 de fevereiro, Decreto-Lei n.º 181/2009 de 7 de agosto e pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, que a Câmara Municipal, em reunião de 1 de agosto de 2013, deliberou por unanimidade, iniciar procedimento de alteração ao Plano Diretor Municipal de Tomar - Instalações e Atividades Agrícolas (explorações e instalações agrícolas, florestais, pecuárias, apícolas, etc.).
+A Câmara analisando o processo que lhe foi presente, homologando as informações técnicas n.os 2138, 2143 e 2261 emitidas pelo Departamento de Ordenamento e Gestão do Território e documentos anexos, deliberou:
+1 - Nos termos do artigo 74.º e seguintes do Regime Jurídico dos Instrumentos de Gestão Territorial:
+a) Fixar em 120 dias o prazo para conclusão do procedimento;
+b) Fixar em 30 dias o prazo para recolha pública de sugestões ou informações que possam ser consideradas para a elaboração da proposta;
+c) Solicitar o acompanhamento da CCDR-LVT - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo;
+d) Solicitar parecer à DRAP-LVT - Direção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo.
+2 - Homologando os documentos anexos às informações referidas, a Câmara também deliberou:
+a) Considerar atuais os objetivos definidos no artigo 3.º da atual redação do regulamento do PDM em vigor que, em conjunto com a fundamentação técnica apresentada, constituem os objetivos estratégicos inerentes à presente alteração ao Plano Diretor Municipal;
+b) Determinar, de acordo com o disposto no artigo 96.º do Regime Jurídico dos Instrumentos de Gestão Territorial e critérios estabelecidos no Decreto-Lei n.º 232/2007 de 15 de junho, que a presente alteração ao PDM não está sujeita a procedimento de Avaliação Ambiental Estratégica.
+Assim, nos termos do n.º 2 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial, podem os interessados proceder, no prazo de 30 dias, contados a partir da publicação do presente aviso no Diário da República, à formulação de sugestões, observações e à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento agora iniciado. As referidas sugestões, a efetuar em impresso próprio, disponível no local de consulta do processo e na página da internet do Município (www.cm-tomar.pt), deverão ser enviadas por correio registado para Câmara Municipal de Tomar, Praça da República, 2300-550 Tomar, ou por correio eletrónico para o endereço ordenamentoegestaodoterritorio@cm-tomar.pt, ou ainda entregues diretamente ao balcão de atendimento do Departamento de Ordenamento e Gestão do Território.
+O processo referente à presente alteração está disponível para consulta no Departamento de Ordenamento e Gestão do Território, localizado na Rua Marquês de Tomar, Edifício Escavação, 2300-586 Tomar.
+9 de agosto de 2013. - O Presidente da Câmara, Carlos Manuel de Oliveira Carrão.
+207338644
