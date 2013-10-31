@@ -1,0 +1,2712 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "178",
+    "id": "37987",
+    "titulo": "Aprova o Orçamento do Estado para 2014."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-10-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9646",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-10-31",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "37989",
+        "leg": "XII",
+        "nr": "177",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1812",
+            "obs": null,
+            "pag": [
+              "101-118"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-01",
+            "pubLeg": "XII",
+            "pubNr": "16",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/101?pgs=101-118&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Aprova as Grandes Opções do Plano para 2014."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-10-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=00:03:18:782&drc=00:21:10:725"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=00:32:34:664&drc=00:06:28:203"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=00:46:30:859&drc=00:06:38:143"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:12:20:933&drc=00:05:45:979"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:36:33:715&drc=00:06:09:903"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:10:41:433&drc=00:10:48:347"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:48:49:882&drc=00:18:58:138"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:24:57:548&drc=00:05:52:452"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:00:23:412&drc=00:06:20:589"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "PRIMEIRO-MINISTRO",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Passos Coelho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191743",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13",
+                  "15-16",
+                  "18-19",
+                  "2-7",
+                  "21-25",
+                  "33-35",
+                  "42-46",
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/2?pgs=2-7,9-10,12-13,15-16,18-19,21-25,33-35,42-46&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=00:25:06:257&drc=00:07:15:908"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:42:57:342&drc=00:04:59:065"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:21:59:427&drc=00:03:28:585"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-27",
+                  "36-36",
+                  "7-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/7?pgs=7-9,25-27,36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=00:39:13:866&drc=00:07:06:824"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/10?pgs=10-11&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=00:53:20:809&drc=00:06:55:788"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/13?pgs=13-15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:06:56:686&drc=00:05:13:182"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/16?pgs=16-18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=04:50:21:766&drc=00:09:27:082"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:18:16:865&drc=00:06:31:494"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "71-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/20?pgs=20-21,71-73&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:30:57:585&drc=00:05:34:255"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:45:19:462&drc=00:03:01:355"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24",
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/23?pgs=23-24,84-85&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:48:01:719&drc=00:04:34:465"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:52:41:305&drc=00:05:09:409"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/28?pgs=28-30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=04:33:44:977&drc=00:16:18:007"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:36:31:871&drc=00:04:27:129"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:57:54:465&drc=00:04:07:865"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "67-71",
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/30?pgs=30-31,67-71,81-82&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:02:07:254&drc=00:03:59:056"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:06:11:559&drc=00:04:25:349"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1951",
+                "nome": "José de Matos Rosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:25:36:729&drc=00:03:31:130"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:29:17:670&drc=00:05:19:038"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/37?pgs=37-39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:34:48:461&drc=00:03:48:777"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3943",
+                "nome": "Nuno Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:38:50:302&drc=00:03:09:317"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:42:11:378&drc=00:03:17:229"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:21:52:951&drc=00:04:56:577"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "107-108",
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/41?pgs=41-42,107-108&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4152",
+                "nome": "Fernando Virgílio Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=02:45:36:419&drc=00:03:02:987"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=03:11:05:461&drc=00:11:52:929"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=03:32:41:976&drc=00:04:26:244"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-49",
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/47?pgs=47-49,52-53&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1584",
+                "nome": "José Ribeiro e Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=03:23:31:201&drc=00:04:38:980"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2071",
+                "nome": "Miguel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=03:28:25:370&drc=00:04:07:969"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/51?pgs=51&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3919",
+                "nome": "Amadeu Soares Albergaria"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=03:37:48:740&drc=00:14:54:425"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=03:58:12:191&drc=00:04:02:272"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-56",
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/53?pgs=53-56,58-59&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=03:53:21:305&drc=00:04:42:085"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:13:55:813&drc=00:04:37:858"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58",
+                  "92-93"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/57?pgs=57-58,92-93&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=04:27:27:185&drc=00:05:50:321"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=04:02:29:600&drc=00:14:12:872"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-63",
+                  "65-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/59?pgs=59-63,65-67&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=04:17:16:100&drc=00:05:15:093"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=04:22:40:224&drc=00:04:36:002"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=04:33:44:977&drc=00:16:18:007"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/67?pgs=67-71&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=01:18:16:865&drc=00:06:31:494"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/71?pgs=71-73&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:00:10:128&drc=00:07:31:207"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:08:05:112&drc=00:13:40:735"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:48:32:572&drc=00:07:01:404"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:18:46:425&drc=00:07:35:816"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Luís Albuquerque"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-77",
+                  "85-87",
+                  "93-96"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/74?pgs=74-77,85-87,93-96&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1990",
+                "nome": "Miguel Frasquilho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:23:47:987&drc=00:03:31:679"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4187",
+                "nome": "Pedro Jesus Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:27:23:353&drc=00:05:23:966"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:32:48:318&drc=00:03:35:682"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/81?pgs=81&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:41:03:438&drc=00:04:08:438"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=05:55:59:304&drc=00:05:17:740"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:01:29:283&drc=00:04:01:805"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/89?pgs=89-90&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:05:40:735&drc=00:05:12:449"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/90?pgs=90-91&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:13:59:623&drc=00:03:28:066"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:13:59:623&drc=00:03:28:066"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "105-106",
+                  "91-92"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/91?pgs=91-92,105-106&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:26:44:432&drc=00:18:30:885"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:50:42:927&drc=00:05:30:730"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "96-101"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/96?pgs=96-101&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:45:56:224&drc=00:04:28:692"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "99-100"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/99?pgs=99-100&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=06:56:29:949&drc=00:16:31:597"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:32:40:996&drc=00:07:06:512"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:58:31:188&drc=00:06:16:812"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN. DA ECONOMIA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "António Pires de Lima"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "101-105",
+                  "109-111",
+                  "117-118"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/101?pgs=101-105,109-111,117-118&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4382",
+                "nome": "Nuno Filipe Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:17:36:699&drc=00:04:07:146"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "106-107"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/106?pgs=106-107&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2051",
+                "nome": "Pedro Nuno Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:27:05:516&drc=00:05:16:653"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "108-109"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/108?pgs=108-109&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:40:04:973&drc=00:04:25:480"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "111-113"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/111?pgs=111-113&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3991",
+                "nome": "Nuno Encarnação"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:44:54:862&drc=00:03:21:137"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "113-114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/113?pgs=113-114&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:48:29:016&drc=00:03:47:783"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "114-115"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/114?pgs=114-115&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131031pln&url=l12/sl3/a2013/m10/&tI=07:52:27:863&drc=00:05:53:450"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "191795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "115-117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/115?pgs=115-117&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2014; Aprova o Orçamento do Estado para 2014.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "20:07",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193132",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-11-01",
+                "pubLeg": "XII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01?org=PLC"
+              }
+            ],
+            "sumario": null,
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "293984",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "659386",
+        "obs": null,
+        "pag": [
+          "2-118"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-11-01",
+        "pubLeg": "XII",
+        "pubNr": "16",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/016/2013-11-01/2?pgs=2-118&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
