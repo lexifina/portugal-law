@@ -1,0 +1,29 @@
+# Acórdão do Supremo Tribunal Administrativo de 2013-10-31, processo 01286/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01286/13
+
+**Data do Acordão:** 10/31/2013
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** ALBERTO AUGUSTO OLIVEIRA
+
+**Descritores:** PARCÓMETRO; COBRANÇA; PREÇO; CONCESSIONÁRIO; APRECIAÇÃO PRELIMINAR; RECURSO DE REVISTA EXCEPCIONAL
+
+**Nº Convencional:** JSTA000P16520
+
+**Nº do Documento:** SA12013103101286
+
+**Data de Entrada:** 07/19/2013
+
+**Recorrente:** A............, SA
+
+**Recorrido 1:** B............
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+Não é de admitir revista se o julgamento efectuado pelo acórdão recorrido quanto à natureza do litígio é plausível e corresponde ao que tem sido realizado sem discrepância.
