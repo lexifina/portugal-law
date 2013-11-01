@@ -1,0 +1,478 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "178",
+    "id": "37987",
+    "titulo": "Aprova o Orçamento do Estado para 2014."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-11-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "32281",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-11-04",
+            "id": "96224",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-04",
+            "id": "96222",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-04",
+            "id": "96221",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-05",
+            "id": "96231",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-05",
+            "id": "96230",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-05",
+            "id": "96227",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-06",
+            "id": "96245",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-06",
+            "id": "96236",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-07",
+            "id": "96248",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-07",
+            "id": "96247",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-08",
+            "id": "96265",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-08",
+            "id": "96264",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-11",
+            "id": "96272",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-11",
+            "id": "96271",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-11",
+            "id": "96267",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-12",
+            "id": "96303",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-12",
+            "id": "96278",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2013-11-13",
+            "id": "96313",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2013-11-07",
+            "id": "96256",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-07",
+            "id": "96251",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-07",
+            "id": "96249",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-08",
+            "id": "96259",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-11",
+            "id": "96336",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-11",
+            "id": "96281",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-12",
+            "id": "96306",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-12",
+            "id": "96305",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-12",
+            "id": "96333",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-12",
+            "id": "96288",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-13",
+            "id": "96320",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-13",
+            "id": "96319",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-13",
+            "id": "96318",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-13",
+            "id": "96314",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2013-11-14",
+            "id": "96337",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-11-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-11-01",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-12-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP à proposta de alteração apresentada pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426b4e4452684e57517a4c575a684d4751744e445a684e7931684d3255344c5751314e6a466a4f445a6c4d47566a5a6935306157593d&fich=0d44a5d3-fa0d-46a7-a3e8-d561c86e0ecf.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da UGT à proposta de alteração apresentada pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6778595451304f575a684c5459774f5745744e4451344d4330344e5455774c54526b4e7a426b5a4459784e3245325a5335775a47593d&fich=81a449fa-609a-4480-8550-4d70dd617a6e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos de Coimbra à proposta de alteração apresentada pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526d4e54426c4d7a526a4c5441344d6d45744e4459314e5331684e5751784c57466d4e6a56694e6a45344d544d324d6935306157593d&fich=df50e34c-082a-4655-a5d1-af65b6181362.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos do Distrito de Braga à proposta de alteração apresentada pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245344e5441325a474a684c5749785a444d744e4759334d533168593255324c5449785a6a6c684f5441774d5751334e5335775a47593d&fich=a8506dba-b1d3-4f71-ace6-21f9a9001d75.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato das Indústrias Transformadoras, Energia e Atividades do Ambiente do Centro, Sul e Regiões  Autónomas à proposta de alteração apresentada pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245795954646b5a4446684c5759354d6a49744e47526a5a5330344e4755324c5463344f47466b4d44426d596d4935595335775a47593d&fich=a2a7dd1a-f922-4dce-84e6-788ad00fbb9a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SITAVA à proposta de alteração apresentada pelos grupos parlamentares do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59324d446b794e4755304c54526d4d5759744e474d334f433169596d4a6b4c546333596d4535596a4a6c4f574a6a595335306157593d&fich=660924e4-4f1f-4c78-bbbd-77ba9b2e9bca.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-02",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32597a4f446c6a4e6a49344c54466b5a6a41744e475534597930345a544d324c544d345957466b4f446b775a54566d4e5335515245593d&fich=f389c628-1df0-4e8c-8e36-38aad890e5f5.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "31-35"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-27",
+            "pubLeg": "XII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/026/2013-11-27/31?pgs=31-35&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-22",
+            "pubLeg": "XII",
+            "pubNr": "1",
+            "pubSL": "3",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/03/001/2013-11-22/2?pgs=2-67&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-23",
+            "pubLeg": "XII",
+            "pubNr": "2",
+            "pubSL": "3",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/03/002/2013-11-23/2?pgs=2-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-26",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/03/003/2013-11-26/2?pgs=2-66&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "31-35"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-27",
+            "pubLeg": "XII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/026/2013-11-27/31?pgs=31-35&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-22",
+            "pubLeg": "XII",
+            "pubNr": "1",
+            "pubSL": "3",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/03/001/2013-11-22/2?pgs=2-67&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-23",
+            "pubLeg": "XII",
+            "pubNr": "2",
+            "pubSL": "3",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/03/002/2013-11-23/2?pgs=2-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-26",
+            "pubLeg": "XII",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/12/03/003/2013-11-26/2?pgs=2-66&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2013-11-26",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2013-11-26",
+            "dataRemessa": "2013-11-26",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-11-25",
+            "descricao": "Relatório de votação na especialidade - artigo a artigo",
+            "detalhe": null,
+            "id": "65336",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "229",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-11-01",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294103",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
