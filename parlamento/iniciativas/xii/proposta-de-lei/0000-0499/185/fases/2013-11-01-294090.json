@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "185",
+    "id": "38033",
+    "titulo": "Procede à primeira alteração à Lei n.º 36/2003, de 23 de agosto, em cumprimento da Decisão n.º 2009/426/JAI do Conselho, de 16 de dezembro de 2008, relativa ao reforço da Eurojust e que altera a Decisão n.º 2002/187/JAI relativa à criação da Eurojust a fim de reforçar a luta contra as formas graves de criminalidade."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-11-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "32276",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2013-12-04",
+            "id": "96476",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-11-01",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-12-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a6d4d32597a686b5a69316d5a5459354c54526b4f546774596a59315a5330794d4749785a6a6b304d6a63354e444d7555455247&fich=dfc6c8df-fe69-4d98-b65e-20b1f9427943.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c595759354e6a51334f5330334d544a6a4c54526c4f5455745954426a5a53316d597a51334f44466a4d5459324e4459756347526d&fich=eaf96479-712c-4e95-a0ce-fc4781c16646.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-11-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793834595464684f54466a4e43316d4e446b354c5451324f4445744f4749774d5331694e44497a4d7a45304e544268596a637555455247&fich=8a7a91c4-f499-4681-8b01-b42331450ab7.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-11-27",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e6a426d5932526c4e43316d4d546b304c54526a4d4749744f47457a5a4330324d44646b5a4746694e6a417a4d3259756347526d&fich=460fcde4-f194-4c0b-8a3d-607ddab6033f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-11-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer sobre o anteprojecto  da PPL 185/XII/3.ª (GOV) do Sindicato dos Magistrados do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f544978596a63324e6930774e5441334c5451325a5441744f4445355a69316a4f54646a5a546b7a597a63795a44457555455247&fich=f921b766-0507-46e0-819f-c97ce93c72d1.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-12-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-12-03"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-11-21"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-11-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-11-06"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-11-06"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "61-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-27",
+            "pubLeg": "XII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/026/2013-11-27/61?pgs=61-73&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "61-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-11-27",
+            "pubLeg": "XII",
+            "pubNr": "26",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/026/2013-11-27/61?pgs=61-73&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1212",
+            "motivoCessacao": null,
+            "nome": "Ana Catarina Mendonça Mendes"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2013-11-27",
+            "numeroOficio": "1244/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2013-11-27",
+            "descricao": null,
+            "detalhe": null,
+            "id": "65306",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "191",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-11-01",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294090",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
