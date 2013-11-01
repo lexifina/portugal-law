@@ -1,0 +1,5 @@
+Aviso n.º 102/2013
+Por ordem superior se torna público que, em 2 de outubro de 2013 e em 11 de outubro de 2013, foram emitidas notas, respetivamente, pela Embaixada de Portugal em Berna e pelo Departamento Federal dos Negócios Estrangeiros da Confederação Suíça, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Protocolo Modificativo da Convenção entre Portugal e a Suíça para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e sobre o Capital e do seu Protocolo Adicional, assinados em Berna em 26 de setembro de 1974, assinado em Lisboa, em 25 de junho de 2012.
+O referido Protocolo foi aprovado pela Resolução da Assembleia da República n.º 87/2013, de 3 de maio, e ratificado pelo Decreto do Presidente da República n.º 70/2013, de 27 de junho, ambos publicados no Diário da República, I.ª Série, n.º 122, de 27 de junho de 2013.
+Nos termos do artigo XVIII do referido Protocolo, este entra em vigor a 21 de outubro de 2013.
+Direção-Geral dos Assuntos Europeus, 17 de outubro de 2013. - O Diretor-Geral, Francisco Duarte Lopes.
