@@ -4,9 +4,9 @@
 
 # Artigo 3.º
 
-### Cursos de formação em competências TIC
+### Formação em competências TIC
 
-1 - A formação em competências TIC estrutura-se em cursos organizados em três níveis:
+1 - A formação em competências TIC estrutura-se em ações de formação organizadas em três níveis:
 
 a) Formação em competências digitais (nível 1);
 

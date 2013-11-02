@@ -20,11 +20,11 @@ i) Diplomas de bacharelato, licenciatura ou equiparados, pós-graduação, mestr
 
 ii) Certificado de formador em TIC nas áreas A40 - Informática, B15 - Tecnologia e Comunicação Educativa e C15 - Tecnologias Educativas (Informática/Aplicação da Informática), no quadro do regime jurídico da formação contínua de professores;
 
-iii) Outros certificados ou diplomas a definir por despacho conjunto do director-geral do Gabinete de Estatística e Planeamento da Educação, do director-geral dos Recursos Humanos da Educação e do director-geral de Inovação e de Desenvolvimento Curricular;
+iii) Outros certificados ou diplomas de acordo com o anexo III do presente diploma e que dele faz parte integrante;
 
 c) Certificação por reconhecimento de percurso formativo, atribuível ao docente que se encontre em pelo menos uma das seguintes situações:
 
-i) Tenha frequentado acções de formação contínua no domínio das TIC, com aproveitamento, no quadro do regime jurídico da formação contínua de professores, e correspondentes a um total mínimo de 50 horas, cumpridas no período compreendido entre 1 de Janeiro de 2000 e 31 de Agosto de 2009;
+i) Tenha frequentado ações de formação contínua no domínio das TIC, com aproveitamento, no quadro do regime jurídico da formação contínua de professores, correspondentes a um total mínimo de 50 horas, cumpridas a partir de 1 de janeiro de 2000;
 
 ii) Tenha frequentado, com aproveitamento, um dos cursos de formação TIC de nível 1, de acordo com o modelo de formação em competências TIC, nos termos do artigo 4.º;
 

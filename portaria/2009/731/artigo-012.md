@@ -6,6 +6,6 @@
 
 ### Monitorização
 
-1 - O acompanhamento e a monitorização do Sistema de Formação e Certificação de Competências TIC são efectuados no âmbito da estrutura orgânica e operacional do Plano Tecnológico da Educação, aprovado pela Resolução do Conselho de Ministros n.º 137/2007, de 18 de Setembro.
+1 - O acompanhamento e a monitorização do sistema de formação e certificação de competências TIC são efetuados no âmbito da equipa constituída pelos elementos designados pela Direção-Geral de Estatísticas da Educação e Ciência, Direção-Geral da Administração Escolar e da Direção-Geral da Educação.
 
-2 - Cabe ao Gabinete de Estatística e Planeamento da Educação desenvolver e manter o sistema de informação de suporte à formação e certificação de competências TIC.
+2 -A manutenção e o desenvolvimento do sistema de informação de suporte à formação e certificação de competências TIC ficam a cargo da Direção-Geral de Estatísticas da Educação e Ciência.
