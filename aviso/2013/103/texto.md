@@ -1,0 +1,5 @@
+Aviso n.º 103/2013
+Por ordem superior se torna público que, em 19 de março de 2003 e em 20 de julho de 2012, foram emitidas Notas, respetivamente pela Embaixada da República da Argentina em Lisboa e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Argentina para que os Familiares Dependentes dos Funcionários Diplomáticos, Consulares, Administrativos, Técnicos e de Apoio das Missões Diplomáticas e Consulares Portuguesas e Argentinas possam efetuar Trabalhos Remunerados em Regime de Reciprocidade, assinado em Lisboa, em 16 de novembro de 2001.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto do Governo n.º 17/2012, publicado no Diário da República, 1.ª série, n.º 133, de 11 de julho.
+Nos termos do artigo 12.º do Acordo, este entrou em vigor em 19 de agosto de 2012.
+Direção-Geral de Política Externa, 21 de outubro de 2013. - O Subdiretor-Geral, Carlos Pereira Marques.
