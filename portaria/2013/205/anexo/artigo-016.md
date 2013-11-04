@@ -26,8 +26,10 @@ a) Acompanhar os jovens monitores e dinamizadores, no desenvolvimento do projeto
 
 b) Distribuir aos jovens monitores e dinamizadores, os questionários de avaliação, cedidos pelo IPDJ, I.P.;
 
-c) Enviar ao IPDJ, I.P., no prazo de 5 dias após a conclusão do projeto, o mapa de assiduidade dos jovens monitores e dinamizadores;
+c) Enviar ao IPDJ, I.P., no prazo de 5 dias após a conclusão do projeto, o mapa de assiduidade dos jovens monitores;
 
-d) Enviar ao IPDJ, I.P., as fichas de avaliação preenchidas pelos jovens;
+d) Enviar ao IPDJ, I.P., com periodicidade mensal, nos 5 dias úteis seguintes ao mês a que a assiduidade disser respeito, o mapa de assiduidade dos jovens dinamizadores;
 
-e) Publicitar o Programa OTL, de acordo com as orientações definidas pelo IPDJ, I.P.
+e) Enviar ao IPDJ, I.P., as fichas de avaliação preenchidas pelos jovens;
+
+f) Publicitar o Programa OTL, de acordo com as orientações definidas pelo IPDJ, I.P.
