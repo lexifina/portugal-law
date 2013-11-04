@@ -1,0 +1,5 @@
+Aviso n.º 13423/2013
+Regulamento de Utilização do Centro de BTT da Batalha Pia do Urso
+António José Martins de Sousa Lucas, Presidente da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.os 1 e 2 do citado artigo, não tendo sido registadas quaisquer reclamações/sugestões ao projeto do Regulamento de Utilização do Centro de BTT da Batalha - Pia do Urso, publicado no Diário da República 2.ª série n.º 100 de 24/05/2013 (Regulamento n.º 193/2013). O Regulamento foi aprovado (definitivamente) pelo Executivo Municipal na sua reunião ordinária de 18 de julho de 2013, conforme deliberação n.º 2013/0452/D.E.C.D. (SOAA), e pela Assembleia Municipal, na sua sessão ordinária de 17 de setembro de 2013 (ponto 3), podendo o mesmo ser consultado no portal do Município (www.cm-batalha.pt).
+8 de outubro de 2013. - O Presidente da Câmara Municipal da Batalha, António José Martins de Sousa Lucas.
+307317227
