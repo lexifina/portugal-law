@@ -1,0 +1,46 @@
+Aviso n.º 12850/2013
+1.as retificação e alteração ao Regulamento Municipal sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais
+Carlos Alberto Salvador Pernes, Presidente da Assembleia Municipal de Benavente, torna público as 1.as Retificação e Alteração ao Regulamento Municipal Sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais que foi presente em reunião ordinária do Órgão Executivo, realizada em 02.09.2013, e submetida a apreciação e aprovação da Assembleia Municipal, na sua IV sessão ordinária realizada em 19.09.2013, deliberação aprovada sob a forma de minuta na mesma sessão ordinária, nos termos da alínea a) do n.º 2 do artigo 53.º, conjugado com a alínea a) do n.º 6 do artigo 64.º, ambos da Lei n.º 169/99, de 18 de setembro, na redação introduzida pela Lei n.º 5-A/2002, de 11 de janeiro e em conformidade com o disposto no artigo 118.º do Código do Procedimento Administrativo, o qual entra em vigor 15 dias após a sua publicação no Diário da República, 2.ª série.
+2 de outubro de 2013. - O Presidente da Assembleia Municipal, Carlos Alberto Salvador Pernes.
+Primeiras Retificação e Alteração ao Regulamento Municipal Sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais
+Preâmbulo
+Em 16 de janeiro de 2012, pelo Aviso n.º 669/2012 foi publicado no Diário da República, 2.ª série, n.º 11, o Regulamento Municipal Sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais.
+Agora, passado mais de um ano sobre a sua aplicação, os serviços municipais reportaram a inaplicabilidade do n.º 4 do seu artigo 26.º, em face dos procedimentos administrativos instituídos pelos clubes, associações e coletividades do Municípios com escolas de natação, que já vigoravam antes da elaboração e da publicação do regulamento, concernentes à cobrança das receitas próprias ao associados pela prática desportiva da natação, os quais decorrem até o final da primeira quinzena de cada mês, sendo, pois, justificado, que lhes seja expressamente permitido proceder ao pagamento das taxas devidas pela utilização das piscinas municipais em cada mês, no início do mês imediatamente seguinte, o que tem sido, mesmo na vigência do regulamento municipal, a prática administrativa. Mais, aproveita-se a oportunidade para proceder à sua retificação no que respeita ao n.º 4 do artigo 24.º, normativo com notório erro de escrita.
+Nos termos e para os efeitos do artigo 118.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15.11. com as alterações introduzidas pelo Decreto-Lei n.º 6/96, de 31.01., durante o prazo de 30 dias foi submetido a apreciação pública, para recolha de sugestões dos interessados, a Proposta de Primeiras Alteração e Retificação ao Regulamento Municipal Sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais, com a respetiva publicação no Diário da República n.º 134, 2.ª série, em 15 de julho de 2013.
+Ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa e nas alíneas a) do n.º 2, do artigo 53.º, nas alínea f), do n.º 2, e a), do n.º 6, estas do artigo 64.º, todos da Lei n.º 169/99, de 18.09., com a redação dada pela Lei n.º 5-A/2002, de 11.01., a Assembleia Municipal em sessão ordinária, realizada no dia 19 de setembro de 2013, sob proposta da Câmara Municipal, de 02 de setembro de 2013 aprovou a presente alteração e retificação ao Regulamento Municipal Sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais:
+Primeiras Retificação e Alteração ao Regulamento Municipal Sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais
+Artigo 1.º
+Retificação ao Regulamento
+No artigo 24.º, n.º 4 do Regulamento, onde se lê:
+«Artigo 24.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - Os utilizadores poderão ceder a terceiros os seus tempos de utilização.
+5 - ...
+6 - ...
+7 - ...
+deve ler-se:
+«Artigo 24.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - Os utilizadores não poderão ceder a terceiros os seus tempos de utilização.
+5 - ...
+6 - ...
+7 - ...»
+Artigo 2.º
+Alteração ao Regulamento
+O artigo 26.º do Regulamento Municipal Sobre a Gestão, a Utilização e a Cedência das Instalações Desportivas Municipais passa a ter a seguinte redação:
+«Artigo 26.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - O pagamento das taxas devidas, por parte dos clubes, das associações e das coletividades, à Câmara Municipal, pela utilização e cedência das piscinas municipais às respetivas escolas de natação, deve ser efetuado até ao dia 10 (dez) do mês imediatamente seguinte ao mês a que respeitam.»
+Artigo 3.º
+Entrada em vigor
+A retificação e alteração agora introduzidas entrarão em vigor, nos termos legais, 15 (quinze) dias após a sua publicação.
+307303951
