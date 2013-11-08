@@ -1,0 +1,200 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12434",
+  "numero": "310",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-11-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-02-04",
+            "entidades": null,
+            "id": "96909",
+            "tipo": null,
+            "titulo": "Audição em 2014-02-04 com Associação Sindical dos Conservadores dos Registos"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-12-20",
+            "dataResposta": "2014-01-30",
+            "entidades": [
+              "Governo Regional da Região Autónoma da Madeira"
+            ],
+            "nrOficio": "567/COFAP/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-12-20",
+            "dataResposta": "2014-01-27",
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "566/COFAP/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2013-12-20",
+            "dataResposta": "2014-01-16",
+            "entidades": [
+              "MIN.   DA   JUSTIÇA"
+            ],
+            "nrOficio": "566/COFAP/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-04-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-12-11",
+        "DataArquivo": "2014-04-16",
+        "DataBaixaComissao": "2013-11-22",
+        "DataEnvioPAR": "2014-04-17",
+        "DataReaberta": "2013-12-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-12-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938794f54686a4e6a6334597930325a4745304c5451314d574d744f5456694e69307a4f44557a596a59774e6a4a695a6d497555455247&fich=298c678c-6da4-451c-95b6-3853b6062bfb.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2914-02-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396c4d4463354f5755775969307a5a6d45784c5451334d6d4574596d51324e53307a4d4756694d7a686c4f4759774e5467756347526d&fich=e0799e0b-3fa1-472a-bd65-30eb38e8f058.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-12-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938334f4759344d544d794f53307a4e7a63314c54526a4e5441744f4467345979316c4d7a4e6c5957526c4f444a6b4e57497555455247&fich=78f81329-3775-4c50-888c-e33eade82d5b.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-12-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938314e5759324f5746694f4330775a4451774c5451344e4467744f44426a4e79316a5a544e6c4d6d4a6b4d5749354f446b7555455247&fich=55f69ab8-0d40-4848-80c7-ce3e2bd1b989.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-12-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938324d6a55334d446b314d43316c4d6a49344c54526d596d45744f4745314e7930354d44426a5a544d314e44466c4e47557555455247&fich=62570950-e228-4fba-8a57-900ce3541e4e.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939684d444e6b5a4445784f4331684f4442684c5452694e5759744f574a6b4d4330344d6a597a4e54526a4d6d526b4e6d4d7555455247&fich=a03dd118-a80a-4b5f-9bd0-826354c2dd6c.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-04-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e6862793879596a566c4d6d59344d693168596a457a4c54513159325174596a4132595330795a544a6c4f444e694e544268597a67756347526d&fich=2b5e2f82-ab13-45cd-b06a-2e2e83b50ac8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-02-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938784e5456694f5459305a53316a4e7a45324c54526b4d6a45744f5464694d5330794f4749354d47466d596d5a6d4f54497555455247&fich=155b964e-c716-4d21-97b1-28b90afbff92.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e6862793877597a4933597a42694d5330325a6d4e6d4c5451314d6d49744f44686a597930795a4441794d7a45344e4467354d7a6b7555455247&fich=0c27c0b1-6fcf-452b-88cc-2d0231848939.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-12-11",
+            "gp": "PSD",
+            "id": "4391",
+            "motivoCessacao": null,
+            "nome": "Conceição Bessa Ruão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2013-12-05",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324a6c595441794e6d55304c544a6c4d574d744e444a6d4e7930354f5751794c545a6c4d6d45305a546c6b4e5451794e7935515245593d&fich=bea026e4-2e1c-42f7-99d2-6e2a4e9d5427.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12434",
+    "PetAssunto": "Solicita a intervenção da Assembleia da República em matéria de regimes de recrutamento, mobilidade interna e intercomunicabilidade de conservadores de registos e demais trabalhadores dos Serviços de Registos e Notariado.",
+    "PetDataEntrada": "2013-11-08",
+    "PeticoesAssociadas": null,
+    "PetId": "12434",
+    "PetLeg": "XII",
+    "PetNr": "310",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
