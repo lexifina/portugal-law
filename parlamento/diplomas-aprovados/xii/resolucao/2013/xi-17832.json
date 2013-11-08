@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=90IHzJ7HA9a0ZSrtQz8mXDcvzfGefpOheVnMt6DfMKmi5J7vfg77wnSXQNcT7rEjNyMHPex0BA7bnfxtr4bW0sGCld5aVsA6dxKaAv7jS5WSdAIs3%2fHcw%2fG26CkkgscDraQ%2bsdnb83HDQ2scbRd%2biiECrwP3kle5c9nvIw%2beOE5atJR94QIJJasn0xyEZOZ%2fx95LY92djtdtFBVhLj%2bxFRg%2fKtBI%2fQwgwPj2TDf6vpxYBrin68LmmU7Bx5y5a0nrScksrbmK3dYKweXzJaQtd%2fYTPOp6NBP2pki8HV9y2eoqfg2r5Xgg9hKYa2%2ftp2KVHDMULTvkILBTvlx%2fpctxWEayPgimp145UBnTk7npXEQ%3d&fich=DiplomasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f97159af77766c70321336f77959bdef03c4ce38a2ea5bc71549d97d9e5f98a",
+  "legislatura": "XII",
+  "id": "17832",
+  "tipo": "Resolução",
+  "numero": "-XI",
+  "data_registo": "2013-11-08",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2013",
+    "Id": "17832",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "37969",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4441324d546b334f5759744f5459305a4330304e6a63324c57457a596d51744d54646b5954686b5a5463774d3251344c6d527659773d3d&fich=8061979f-964d-4676-a3bd-17da8de703d8.doc&Inline=true",
+        "IniNr": "843",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938795a5445314e6a4a694f4330344e6a67304c5452694e7a6374595456684d6930354f54426b4e6a6468593255304e4755755a47396a&fich=2e1562b8-8684-4b77-a5a2-990d67ace44e.doc&Inline=true",
+    "Numero": null,
+    "Numero2": "XI",
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "662022",
+        "obs": null,
+        "pag": [
+          "39-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-11-08",
+        "pubLeg": "XII",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/021/2013-11-08/39?pgs=39&org=PLC"
+      }
+    ],
+    "Sessao": "3",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo que promova uma alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), no sentido do aumento das deduções fiscais para famílias com mais de 3 dependentes",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
