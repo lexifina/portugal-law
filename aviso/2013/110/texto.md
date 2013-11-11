@@ -1,0 +1,6 @@
+Aviso n.º 110/2013
+Por ordem superior se torna público o depósito, junto da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), dos seguintes instrumentos de ratificação ou adesão do Primeiro Protocolo da Convenção para a Proteção dos Bens Culturais em Caso de Conflito Armado, adotado em Haia, a 14 de março de 1999:
+(ver documento original)
+A República Portuguesa é Parte do Primeiro Protocolo à Convenção para a Proteção dos Bens Culturais em Caso de Conflito Armado, aprovado, para ratificação, através da Resolução da Assembleia da República n.º 4/2005, em conformidade com o publicado no Diário da República, 1.ª série, n.º 31, de 14 de fevereiro de 2005, e ratificado pelo Decreto do Presidente da República n.º 9/2005, publicado no Diário da República, 1.ª série, n.º 31, de 14 de fevereiro de 2005, tendo depositado o seu instrumento de adesão a 18 de fevereiro de 2005, conforme consta no Aviso n.º 228/2005, publicado no Diário da República, 1.ª série, n.º 99, de 23 de maio de 2005.
+Para a República Portuguesa, o Protocolo em apreço entrou em vigor em 18 de maio de 2005.
+Direção-Geral de Política Externa, 29 de outubro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
