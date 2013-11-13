@@ -1,6 +1,6 @@
 # Anexo B-I
 
-### Tipos de habitats naturais de interesse comunitário cuja conservação exige a designação de zonas especiais de conservação Interpretação
+### Tipos de habitats naturais de interesse da comunidade cuja conservação exige a designação de zonas especiais de conservação Interpretação
 
 Interpretação
 

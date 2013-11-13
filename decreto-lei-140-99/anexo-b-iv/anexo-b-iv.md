@@ -1,14 +1,14 @@
 # Anexo B-IV
 
-### Espécies animais e vegetais de interesse comunitário que exigem uma protecção rigorosa
+### Espécies animais e vegetais de interesse da comunidade que exigem uma proteção rigorosa
 
-As espécies contidas no presente anexo são indicadas:
+As espécies que constam do presente anexo são indicadas:
 
-Pelo nome da espécie ou da subespécie; ou
+- pelo nome da espécie ou da subespécie ou
 
-Pelo conjunto das espécies que pertencem a um taxon superior ou a uma parte determinada do referido taxon.
+- pelo conjunto das espécies pertencentes a um taxon superior ou a uma parte designada desse taxon.
 
-A abreviatura «spp.» após o nome de uma família ou de um género serve para indicar todas as espécies que pertencem a esse género ou família.
+A abreviatura «spp.» após o nome de uma família ou de um género serve para indicar todas as espécies que pertencem a essa família ou a esse género.
 
 a) Animais
 
@@ -16,7 +16,7 @@ Vertebrados
 
 Mamíferos
 
-Insectivora
+Insectívora
 
 Erinaceidae
 
@@ -26,6 +26,8 @@ Soricidae
 
 Crocidura canariensis.
 
+Crocidura sícula.
+
 Talpidae
 
 Galemys pyrenaicus.
@@ -34,39 +36,57 @@ Microchiroptera
 
 Todas as espécies.
 
+Megachiroptera
+
+Pteropodidae.
+
+Rousettus aegyptiacus.
+
 Rodentia
 
 Gliridae
 
-Todas as espécies, excepto Glis glis e Eliomys quercinus.
+Todas as espécies exceto Glis glis e Eliomys quercinus.
 
 Sciuridae
 
-Citellus citellus.
+Marmota marmota latirostris.
 
 Pteromys volans (Sciuropterus russicus).
+
+Spermophilus citellus (Citellus citellus).
+
+Spermophilus suslicus (Citellus suslicus).
 
 Sciurus anomalus.
 
 Castoridae
 
-Castor fiber.
+Castor fiber (exceto as populações estónias, letãs, lituanas, polacas, finlandesas e suecas).
 
 Cricetidae
 
-Cricetus cricetus (excepto populações finlandesas e suecas).
+Cricetus cricetus (exceto as populações húngaras).
+
+Mesocricetus newtoni.
 
 Microtidae
 
+Dinaromys bogdanovi.
+
 Microtus cabrerae.
 
-Microtus oeconomus arenicola.
+Microtus oeconomus arenícola.
 
 Microtus oeconomus mehelyi.
+
+Microtus tatricus.
 
 Zapodidae
 
 Sicista betulina.
+
+Sicista subtilis.
 
 Hystricidae
 
@@ -76,9 +96,9 @@ Carnivora
 
 Canidae
 
-Alopex lagopus.
+Alopex lagopus
 
-Canis lupus (populações espanholas: apenas a sul do Douro; populações gregas: apenas a sul do paralelo 39; excepto populações finlandesas na área de ordenamento das renas, tal como definida pela Lei finlandesa n.º 848/90, de 14 de Setembro, sobre o ordenamento das renas).
+Canis lupus (exceto as populações gregas a norte do paralelo 39; as populações estónias; as populações espanholas a norte do Douro; as populações búlgaras, letãs, lituanas, polacas, eslovacas e as populações finlandesas no interior da área de exploração da rena, tal como definido no n.º 2 da Lei finlandesa n.º 848/90, de 14 de setembro de 1990, relativa à exploração da rena).
 
 Ursidae
 
@@ -88,19 +108,25 @@ Mustelidae
 
 Lutra lutra.
 
+Mustela eversmanii.
+
 Mustela lutreola.
+
+Vormela peregusna.
 
 Felidae
 
 Felis silvestris.
 
-Lynx lynx.
+Lynx lynx (exceto a população da Estónia).
 
-Lynx pardina.
+Lynx pardinus.
 
 Phocidae
 
 Monachus monachus.
+
+Phoca hispida saimensis.
 
 Artiodactyla
 
@@ -110,15 +136,21 @@ Cervus elaphus corsicanus.
 
 Bovidae
 
+Bison bonasus.
+
 Capra aegagrus (populações naturais).
 
 Capra pyrenaica pyrenaica.
 
-Ovis ammon musimon (populações naturais - Córsega e Sardenha).
+Ovis gmelini musimon (Ovis ammon musimon) (populações naturais - Córsega e Sardenha).
 
-Rupicapra rupicapra balcanica.
+Ovis orientalis ophion (Ovis gmelini ophion).
 
-Rupicapra ornata.
+Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata).
+
+Rupicapra rupicapra balcânica.
+
+Rupicapra rupicapra tatrica.
 
 Cetacea
 
@@ -130,9 +162,9 @@ Testudinata
 
 Testudinidae
 
-Testudo hermanni.
-
 Testudo graeca.
+
+Testudo hermanni.
 
 Testudo marginata.
 
@@ -148,7 +180,7 @@ Eretmochelys imbricata.
 
 Dermochelyidae
 
-Dermochelys coriacea.
+Dermochelys coriácea.
 
 Emydidae
 
@@ -170,27 +202,9 @@ Algyroides moreoticus.
 
 Algyroides nigropunctatus.
 
-Lacerta agilis.
+Dalmatolacerta oxycephala.
 
-Lacerta bedriagae.
-
-Lacerta danfordi.
-
-Lacerta dugesi.
-
-Lacerta graeca.
-
-Lacerta horvathi.
-
-Lacerta monticola.
-
-Lacerta schreiberi.
-
-Lacerta trilineata.
-
-Lacerta viridis.
-
-Lacerta vivipara pannonica.
+Dinarolacerta mosorensis.
 
 Gallotia atlantica.
 
@@ -200,7 +214,31 @@ Gallotia galloti insulanagae.
 
 Gallotia simonyi.
 
-Gallona stehlini.
+Gallotia stehlini.
+
+Lacerta agilis.
+
+Lacerta bedriagae.
+
+Lacerta bonnali (Lacerta monticola).
+
+Lacerta monticola.
+
+Lacerta danfordi.
+
+Lacerta dugesi.
+
+Lacerta graeca.
+
+Lacerta horvathi.
+
+Lacerta schreiberi.
+
+Lacerta trilineata.
+
+Lacerta viridis.
+
+Lacerta vivipara pannonica.
 
 Ophisops elegans.
 
@@ -222,25 +260,25 @@ Podarcis peloponnesiaca.
 
 Podarcis pityusensis.
 
-Podarcis sicula.
+Podarcis sícula.
 
 Podarcis taurica.
 
-Podarcis nliguerta.
+Podarcis tiliguerta.
 
 Podarcis wagleriana.
 
 Scincidae
 
-Ablepharus kitaibelli.
+Ablepharus kitaibelii.
 
 Chalcides bedriagai.
-
-Chalcides occidentalis.
 
 Chalcides ocellatus.
 
 Chalcides sexlineatus.
+
+Chalcides simonyi (Chalcides occidentalis).
 
 Chalcides viridianus.
 
@@ -250,7 +288,7 @@ Gekkonidae
 
 Cyrtopodion kotschyi.
 
-Phyllodaaylus europaeus.
+Phyllodactylus europaeus.
 
 Tarentola angustimentalis.
 
@@ -278,6 +316,8 @@ Colubridae
 
 Coluber caspius.
 
+Coluber cypriensis.
+
 Coluber hippocrepis.
 
 Coluber jugularis.
@@ -288,13 +328,13 @@ Coluber najadum.
 
 Coluber nummifer.
 
-Coluber vindiflavus.
+Coluber viridiflavus.
 
-Coronella austriaca.
+Coronella austríaca.
 
 Eirenis modesta.
 
-Elaphe longissima.
+Elaphe longíssima.
 
 Elaphe quatuorlineata.
 
@@ -304,6 +344,8 @@ Natrix natrix cetti.
 
 Natrix natrix corsa.
 
+Natrix natrix cypriaca.
+
 Natrix tessellata.
 
 Telescopus falax.
@@ -312,9 +354,9 @@ Viperidae
 
 Vipera ammodytes.
 
-Vipera schweizeri.
+Macrovipera schweizeri (Vipera lebetina schweizeri).
 
-Vipera seoanni (excepto as populações espanholas).
+Vipera seoanni (exceto as populações espanholas).
 
 Vipera ursinii.
 
@@ -330,13 +372,15 @@ Caudata
 
 Salamandridae
 
-Chioglossa lusitanica.
+Chioglossa lusitânica.
 
 Euproctus asper.
 
-Euproctus montamus.
+Euproctus montanus.
 
 Euproctus platycephalus.
+
+Mertensiella luschani (Salamandra luschani).
 
 Salamandra atra.
 
@@ -344,19 +388,21 @@ Salamandra aurorae.
 
 Salamandra lanzai.
 
-Salamandra luschani.
-
 Salamandrina terdigitata.
 
-Triturus carnifex.
+Triturus carnifex (Triturus cristatus carnifex).
 
-Triturus cristatus.
+Triturus cristatus (Triturus cristatus cristatus).
 
 Triturus italicus.
 
-Triturus karelinii.
+Triturus karelinii (Triturus cristatus karelinii).
 
 Triturus marmoratus.
+
+Triturus montandoni.
+
+Triturus vulgaris ampelensis.
 
 Proteidae
 
@@ -364,41 +410,39 @@ Proteus anguinus.
 
 Plethodontidae
 
-Speleomantes ambrosii.
+Hydromantes (Speleomantes) ambrosii.
 
-Speleomantes flavus.
+Hydromantes (Speleomantes) flavus.
 
-Speleomantes genei.
+Hydromantes (Speleomantes) genei.
 
-Speleomantes imperialis.
+Hydromantes (Speleomantes) imperialis.
 
-Speleomantes italicus.
+Hydromantes (Speleomantes) strinatii [Hydromantes (Speleomantes) italicus].
 
-Speleomantes supramontes.
+Hydromantes (Speleomantes) supramontis.
 
 Anura
 
 Discoglossidae
-
-Bombina bombina.
-
-Bombina variegata.
-
-Discoglossus galganoi.
-
-Discoglossus jeanneae.
-
-Discoglossus montalentii.
-
-Discoglossus pictus.
-
-Discoglossus sardus.
 
 Alytes cisternasii.
 
 Alytes muletensis.
 
 Alytes obstetricans.
+
+Bombina bombina.
+
+Bombina variegata.
+
+Discoglossus galganoi (inclui Discoglossus "jeanneae").
+
+Discoglossus montalentii.
+
+Discoglossus pictus.
+
+Discoglossus sardus.
 
 Ranidae
 
@@ -408,9 +452,9 @@ Rana dalmatina.
 
 Rana graeca.
 
-Rana iberica.
+Rana ibérica.
 
-Rana italica.
+Rana itálica.
 
 Rana latastei.
 
@@ -432,7 +476,7 @@ Bufo viridis.
 
 Hylidae
 
-Hyla arborea.
+Hyla arbórea.
 
 Hyla meridionalis.
 
@@ -442,67 +486,125 @@ Peixes
 
 Acipenseriformes
 
-Acipenseridae
+Acipenseridae.
 
 Acipenser naccarii.
 
 Acipenser sturio.
 
-Atheriniformes
+Salmoniformes
 
-Cyprinodontidae
+Coregonidae.
 
-Valencia hispanica.
+Coregonus oxyrhynchus (populações anádromas em determinados setores do mar do Norte, exceto as populações finlandesas)
 
 Cypriniformes
 
-Cyprinidae
+Cyprinidae.
 
 Anaecypris hispanica.
 
+Phoxinus percnurus.
+
+Atheriniformes
+
+Cyprinodontidae.
+
+Valencia hispanica.
+
 Perciformes
 
-Percidae
+Percidae.
+
+Gymnocephalus baloni.
+
+Romanichthys valsanicola.
 
 Zingel asper.
-
-Salmoniformes
-
-Coregonidae
-
-Coregonus oxyrhynchus (populações anádromas em determinados sectores do mar do Norte) (excepto populações finlandesas).
 
 Invertebrados
 
 Artrópodes
 
+Crustacea
+
+Isopoda.
+
+Armadillidium ghardalamensis.
+
 Insecta
 
-Coleoptera
+Coleoptera.
+
+Bolbelasmus unicornis.
 
 Buprestis splendens.
 
+Carabus hampei.
+
+Carabus hungaricus.
+
 Carabus olympiae.
+
+Carabus variolosus.
+
+Carabus zawadszkii.
 
 Cerambyx cerdo.
 
 Cucujus cinnaberinus.
 
+Dorcadion fulvum cervae.
+
+Duvalius gebhardti.
+
+Duvalius hungaricus.
+
 Dytiscus latissimus.
 
 Graphoderus bilineatus.
 
-Osmoderna eremita.
+Leptodirus hochenwarti.
+
+Pilemia tigrina.
+
+Osmoderma eremita.
+
+Phryganophilus ruficollis.
+
+Probaticus subrugosus.
+
+Propomacrus cypriacus.
+
+Pseudogaurotina excellens.
+
+Pseudoseriscius cameroni.
+
+Pytho kolwensis.
 
 Rosalia alpina.
 
-Lepidoptera
+Lepidoptera.
 
 Apatura metis.
+
+Arytrura musculus.
+
+Catopta thrips.
+
+Chondrosoma fiduciarium.
 
 Coenonympha hero.
 
 Coenonympha oedippus.
+
+Colias myrmidone.
+
+Cucullia mixta.
+
+Dioszeghyana schmidtii.
+
+Erannis ankeraria.
 
 Erebia calcaria.
 
@@ -514,13 +616,23 @@ Eriogaster catax.
 
 Fabriciana elisa.
 
+Glyphipterix loricatella.
+
+Gortyna borelii luneta.
+
 Hypodryas maturna.
 
 Hyles hippophaes.
 
+Leptidea morsei.
+
+Lignyoptera fumidaria.
+
 Lopinga achine.
 
 Lycaena dispar.
+
+Lycaena helle.
 
 Maculinea arion.
 
@@ -528,7 +640,9 @@ Maculinea nausithous.
 
 Maculinea teleius.
 
-Melanagria arge.
+Melanargia arge.
+
+Nymphalis vaualbum.
 
 Papilio alexanor.
 
@@ -538,125 +652,175 @@ Parnassius apollo.
 
 Parnassius mnemosyne.
 
+Phyllometra culminaria.
+
 Plebicula golgus.
+
+Polymixis rufocincta isolata.
+
+Polyommatus eroides.
 
 Proserpinus proserpina.
 
-Zerynthia polyxena.
+Proterebia afra dálmata.
+
+Pseudophilotes bavius.
+
+Xylomoia strix.
+
+Zerynthia polyxena
 
 Mantodea
 
-Apteromantis aptera.
+Apteromantis aptera
 
 Odonata
 
-Aeshna viridis.
+Aeshna viridis
 
-Cordulegaster trinacriae.
+Cordulegaster heros
 
-Gomphus graslinii.
+Cordulegaster trinacriae
 
-Leucorrhina albifrons.
+Gomphus graslinii
 
-Leucorrhina caudalis.
+Leucorrhinia albifrons
 
-Leucorrhina peaoralis.
+Leucorrhinia caudalis
 
-Lindenia tetraphylla.
+Leucorrhinia pectoralis
 
-Macromia splendens.
+Lindenia tetraphylla
 
-Ophiogomphus cecilia.
+Macromia splendens
 
-Oxygastra curtisii.
+Ophiogomphus cecilia
 
-Stylurus flavipes.
+Oxygastra curtisii
 
-Sympecma braueri.
+Stylurus flavipes
+
+Sympecma braueri
 
 Orthoptera
 
-Baetica ustulata.
+Baetica ustulata
 
-Saga pedo.
+Brachytrupes megacephalus
+
+Isophya costata
+
+Isophya harzi
+
+Isophya stysi
+
+Myrmecophilus baronii
+
+Odontopodisma rubripes
+
+Paracaloptenus caloptenoides
+
+Pholidoptera transsylvanica
+
+Saga pedo
+
+Stenobothrus (Stenobothrodes) eurasius
 
 Arachnida
 
 Araneae
 
-Macrothele calpeiana.
+Macrothele calpeiana
 
 Moluscos
 
 Gastropoda
 
-Prosobranchia
+Anisus vorticulus
 
-Patella feruginea.
+Caseolus calculus
 
-Theodoxux prevostianus.
+Caseolus commixta
 
-Stylommatophora
+Caseolus sphaerula
 
-Caseolus calculus.
+Chilostoma banaticum
 
-Caseolus commixta.
+Discula leacockiana
 
-Caseolus sphaerula.
+Discula tabellata
 
-Discula leacockiana.
+Discula testudinalis
 
-Discula tabellata.
+Discula turricula
 
-Discula testudinalis.
+Discus defloratus
 
-Discula turricula.
+Discus guerinianus
 
-Discus defloratus.
+Elona quimperiana
 
-Discus guerinianus.
+Geomalacus maculosus
 
-Elona quimperiana.
+Geomitra moniziana
 
-Geomalacus maculosus.
+Gibbula nivosa
 
-Geomitra moniziana.
+Hygromia kovacsi
 
-Helix subplicata.
+Idiomela (Helix) subplicata
 
-Leiostyla abbreviata.
+Lampedusa imitatrix
 
-Leiostyla cassida.
+Lampedusa melitensis
 
-Leiostyla corneocostata.
+Leiostyla abbreviata
 
-Leiostyla gibba.
+Leiostyla cassida
 
-Leiostyla lamellosa.
+Leiostyla corneocostata
+
+Leiostyla gibba
+
+Leiostyla lamellosa
+
+Paladilhia hungarica
+
+Patella ferruginea
+
+Sadleriana pannonica
+
+Theodoxus prevostianus
+
+Theodoxus transversalis
 
 Bivalvia
 
 Anisomyaria
 
-Lithophaga lithophaga.
+Lithophaga lithophaga
 
-Pinna nobilis.
+Pinna nobilis
 
-Unionoidea
+Unionoida
 
-Margaritifera auricularia.
+Margaritifera auricularia
 
-Unio crassus.
+Unio crassus
+
+Dreissenidae
+
+Congeria kusceri
 
 Echinodermata
 
 Echinoidea
 
-Centrostephanus longispinus.
+Centrostephanus longispinus
 
 b) Plantas
 
-O anexo B-IV, alínea b), inclui todas as espécies vegetais enumeradas no anexo B-II, alínea b) - com excepção dos briófitos -, e ainda as espécies a seguir indicadas:
+O anexo IV, alínea b), inclui todas as espécies vegetais enumeradas no anexo II, alínea b) [*] e ainda as espécies a seguir indicadas:
 
 Pteridophyta
 
@@ -672,39 +836,39 @@ Dracaena draco (L.) L.
 
 Amaryllidaceae
 
-Narcissus longispathus Pugsley.
+Narcissus longispathus Pugsley
 
 Narcissus triandrus L.
 
 Berberidaceae
 
-Berberis maderensis Lowe.
+Berberis maderensis Lowe
 
 Campanulaceae
 
-Campanula moratiana Reichenb.
+Campanula morettiana Reichenb.
 
 Physoplexis comosa (L.) Schur.
 
 Caryophyllaceae
 
-Moehringia fontqueri Pau.
+Moehringia fontqueri Pau
 
 Compositae
 
-Argyranthemum pinnatifiduin (L. f.) Lowe subsp. succulentum (Lowe) C. J. Humphries.
+Argyranthemum pinnatifidum (L.f.) Lowe subsp. succulentum (Lowe) C. J. Humphries
 
-Helichrysum sibthorpii Rouy.
+Helichrysum sibthorpii Rouy
 
-Picris willkommii (Schultz Bip.) Nyman.
+Picris willkommii (Schultz Bip.) Nyman
 
 Santolina elegans Boiss. ex DC.
 
 Senecio caespitosus Brot.
 
-Senecio lagascanus DC subsp. lusitanicus (P. Cout.) Pinto da Silva.
+Senecio lagascanus DC. subsp. lusitanicus (P. Cout.) Pinto da Silva
 
-Wagenitzia lancifolia (Sieber ex Sprengl) Dostal.
+Wagenitzia lancifolia (Sieber ex Sprengel) Dostal
 
 Cruciferae
 
@@ -712,57 +876,57 @@ Murbeckiella sousae Rothm.
 
 Euphorbiaceae
 
-Euphorbia nevadensis Boiss. & Reuter.
+Euphorbia nevadensis Boiss. & Reuter
 
 Gesneriaceae
 
 Jankaea heldreichii (Boiss.) Boiss.
 
-Ramonda serbica Pancic.
+Ramonda serbica Pancic
 
 Iridaceae
 
 Crocus etruscus Parl.
 
-Iris boissien Henriq.
+Iris boissieri Henriq.
 
-Iris marisca Ricci & Colasante.
+Iris marisca Ricci & Colasante
 
 Labiatae
 
-Rosmarinus tomentosus Huber-Morath & Maire.
+Rosmarinus tomentosus Huber-Morath & Maire
 
-Teucrium charidemi Sandwith.
+Teucrium charidemi Sandwith
 
-Thyus capitellatus Hoffmanns. & Link.
+Thymus capitellatus Hoffmanns. & Link
 
 Thymus villosus L. subsp. villosus L.
 
 Liliaceae
 
-Androcymbium europeum (Lange) K. Richter.
+Androcymbium europaeum (Lange) K. Richter
 
-Bellevalia hackelli Freyn.
+Bellevalia hackelli Freyn
 
-Colchicum corsicum Baker.
+Colchicum corsicum Baker
 
-Colchicum cousturien Greuter.
+Colchicum cousturieri Greuter
 
-Fritillaria conica Rix.
+Fritillaria conica Rix
 
-Fritillaria drenovskii Dogen & Stoy.
+Fritillaria drenovskii Degen & Stoy.
 
-Fritillaria gussichiae (Degen & Doerfler) Rix.
+Fritillaria gussichiae (Degen & Doerfler) Rix
 
 Fritillaria obliqua Ker-Gawl.
 
-Fritillaria rhodocanakis orph. ex Baker.
+Fritillaria rhodocanakis Orph. ex Baker
 
 Ornithogalum reverchonii Degen & Herv.-Bass.
 
 Scilla beirana Samp.
 
-Scilla odorata Link.
+Scilla odorata Link
 
 Orchidaceae
 
@@ -770,15 +934,15 @@ Ophrys argolica Fleischm.
 
 Orchis scopulorum Simsmerh.
 
-Spiranthes aestivalis (Poiret) L. C. M. Richard.
+Spiranthes aestivalis (Poiret) L. C. M. Richard
 
 Primulaceae
 
 Androsace cylindrica DC.
 
-Primula glaucescens Morerti.
+Primula glaucescens Moretti
 
-Primula spectabilis Trart.
+Primula spectabilis Tratt.
 
 Ranunculaceae
 
@@ -786,7 +950,7 @@ Aquilegia alpina L.
 
 Sapotaceae
 
-Sideroxylon marmulano Banks ex Lowe.
+Sideroxylon marmulano Banks ex Lowe
 
 Saxifragaceae
 
@@ -798,15 +962,15 @@ Saxifraga presolanensis Engl.
 
 Saxifraga valdensis DC.
 
-Saxifraga vayredana Luizet.
+Saxifraga vayredana Luizet
 
 Scrophulariaceae
 
 Antirrhinum lopesianum Rothm.
 
-Lindernia procumbens (Krocker) Philcox.
+Lindernia procumbens (Krocker) Philcox
 
-Solanaceae.
+Solanaceae
 
 Mandragora officinarum L.
 
@@ -816,12 +980,10 @@ Thymelaea broterana P. Cout.
 
 Umbelliferae
 
-Bunium brevifolium Lowe.
+Bunium brevifolium Lowe
 
 Violaceae
 
-Viola athois W. Becker.
+Viola athois W. Becker
 
-Viola cazorlensis Gandoger.
-
-Viola delphinantha Boiss.
+Viola cazorlensis Gandoger

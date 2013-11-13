@@ -42,6 +42,8 @@ b) Espécies constantes do anexo A-III, quando as aves tenham sido legalmente ca
 
 c) Espécies constantes do anexo D, quando aqueles actos sejam permitidos pela legislação que regula o exercício da caça.
 
+d) Espécies aquícolas, quando aqueles atos sejam permitidos pela legislação que regula o exercício da pesca.
+
 8 - O parecer previsto na alínea b) do número anterior deve ser emitido no prazo de 45 dias úteis a contar da data da sua solicitação.
 
 9 - A ausência de parecer no prazo previsto no número anterior equivale à emissão de parecer favorável.
