@@ -1,0 +1,4 @@
+Edital n.º 1032/2013
+Francisco Manuel Lopes, Presidente da Câmara Municipal de Lamego, no uso das competências que se encontram previstas na alínea k), do n.º 1 do artigo 33.º e alínea g), do n.º 1 do artigo 25.º, ambas da Lei n.º 75/2013, de 12 de setembro, torna público que, a proposta de Projeto do Regulamento Municipal de Incentivo à Natalidade no Município de Lamego "Enxoval Bebé", publicado no Diário da República, 2.ª série, n.º 133 de 12 de julho de 2013, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, foi aprovado, de forma definitiva em Regulamento, em sessão ordinária da Assembleia Municipal realizada no dia 27 de setembro de 2013.
+14 de outubro de 2013. - O Presidente da Câmara, Eng. Francisco Manuel Lopes.
+307349393
