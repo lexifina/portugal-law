@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=LhkRKJpwBmPV0NAx5b9b%2bqgx6Q1Q3HCoCp%2fp0W7aJc9VQmFhBP%2fakf6E%2bjrq2J6qtuMYuMJieDgng3gdoYacsv6DyzOn3c0PmN84xB5e%2fMk1gLfdodDjiRPpAITUQ%2fFHZjDjAKhHMg3GBk%2f0o51KSqj%2bewZtWj7NQe5LjjYxeL8bbKEQFb%2fy7avAFcqRAYS5OPJyhShUhMuJ31NHrEm%2fAK7CN0Ml1co3aXCSsdGfnebUhmWjCma%2ftyqk6MDy%2bfHKwS%2fmelqiCSVZnGcqqUK9FRocTpFjfUMWAlg%2fmaumxu7dHjAV%2fkTXsp3YjxyhQANrMpH1gdvBBKGL0W6y%2f5uA3wRA0esA3lo1AUCcD%2fgVlRcomm3jHrujrnRYfn82NkJk0n4CWOwv3eCvio0TfRjW5em%2bGsTKRgi789nY3Om3mwI%3d&fich=OEPropostasAlteracao2014Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d9b7d88669dcf89ea579c13a413248874c35d91e336adf2093f9799c9f0ca3a0",
+  "legislatura": "XII",
+  "id": "8271",
+  "numero": "250C",
+  "orcamento": "2014",
+  "versao": "Or",
+  "data_registo": "2013-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8271",
+    "Numero": "250C",
+    "Data": "15/11/2013 10:41:00",
+    "Titulo": "Novo Artigo 33.º-A (Serviços periféricos externos do Ministério dos Negócios Estrangeiros)",
+    "Tema": "Negócios Estrangeiros e Comunidades Portuguesas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 33.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d5455765545457659324d7a5a6a4e694e6a6b74597a557a4d433030595755784c546b32596a49745a6a45304f54637a4e7a5a6c4e4751334c6e426b5a673d3d&Fich=cc3f3b69-c530-4ae1-96b2-f1497376e4d7.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "CARLA CRUZ"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JOÃO RAMOS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 33.º-A",
+        "Titulo": "Serviços periféricos externos do Ministério dos Negócios Estrangeiros",
+        "Texto": "Os trabalhadores dos serviços periféricos externos do Ministério dos Negócios Estrangeiros auferem os salários base fixados pelas Tabelas Remuneratórias dos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros referidas no n.º 1, do artigo 12.º do Decreto-Lei n.º 47/2013, de 5 de abril e apro",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 33.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Serviços periféricos externos do Ministério dos Negócios Estrangeiros",
+        "Data": "21/11/2013 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
