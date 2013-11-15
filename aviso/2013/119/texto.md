@@ -1,0 +1,10 @@
+Aviso n.º 119/2013
+Por ordem superior se torna público ter a República da Indonésia depositado, a 12 de janeiro de 2012, junto da Diretora-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), o seu instrumento de adesão e procedido à emissão de uma declaração à Convenção sobre a Proteção e a Promoção da Diversidade das Expressões Culturais e o respetivo anexo, adotada em Paris, na 33.ª Sessão da Conferência Geral da UNESCO, em 20 de outubro de 2005.
+Declaração (original em inglês)
+«En référence au paragraphe 4 de l'article 25 de la présente Convention, le Gouvernement de la République d'Indonésie déclare qu'il n'est pas lié par les dispositions du paragraphe 3 de ce même article de la Convention.» [Original anglais.]
+Tradução
+«Em referência ao parágrafo 4 do artigo 25 da presente Convenção, o Governo da República da Indonésia declara que não está vinculado pelas disposições do parágrafo 3 do referido artigo da Convenção.» [Original em inglês.]
+Nos termos do artigo 29.º, a Convenção sobre a Proteção e a Promoção da Diversidade das Expressões Culturais e o respetivo anexo entraram em vigor na República da Indonésia três meses após a data do depósito do referido instrumento, ou seja, no dia 12 de abril de 2012.
+A República Portuguesa é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 10-A/2007, conforme publicado no Diário da República, 1.ª série, n.º 54, de 16 de março de 2007, e ratificada pelo Decreto do Presidente da República n.º 27-B/2007, publicado no Diário da República, 1.ª série, n.º 54, de 16 de março de 2007, tendo depositado o seu instrumento de ratificação a 16 de março de 2007, de acordo com o Aviso n.º 344/2007, publicado no Diário da República, 1.ª série, n.º 81, de 26 de abril de 2007.
+Nos termos do seu artigo 32.º, a Convenção em apreço entrou em vigor para a República Portuguesa três meses após a data do depósito do instrumento de ratificação, ou seja, no dia 16 de junho de 2007.
+Direção-Geral de Política Externa, 24 de outubro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
