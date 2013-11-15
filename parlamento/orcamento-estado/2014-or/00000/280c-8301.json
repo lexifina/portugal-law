@@ -1,0 +1,97 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=LhkRKJpwBmPV0NAx5b9b%2bqgx6Q1Q3HCoCp%2fp0W7aJc9VQmFhBP%2fakf6E%2bjrq2J6qtuMYuMJieDgng3gdoYacsv6DyzOn3c0PmN84xB5e%2fMk1gLfdodDjiRPpAITUQ%2fFHZjDjAKhHMg3GBk%2f0o51KSqj%2bewZtWj7NQe5LjjYxeL8bbKEQFb%2fy7avAFcqRAYS5OPJyhShUhMuJ31NHrEm%2fAK7CN0Ml1co3aXCSsdGfnebUhmWjCma%2ftyqk6MDy%2bfHKwS%2fmelqiCSVZnGcqqUK9FRocTpFjfUMWAlg%2fmaumxu7dHjAV%2fkTXsp3YjxyhQANrMpH1gdvBBKGL0W6y%2f5uA3wRA0esA3lo1AUCcD%2fgVlRcomm3jHrujrnRYfn82NkJk0n4CWOwv3eCvio0TfRjW5em%2bGsTKRgi789nY3Om3mwI%3d&fich=OEPropostasAlteracao2014Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d9b7d88669dcf89ea579c13a413248874c35d91e336adf2093f9799c9f0ca3a0",
+  "legislatura": "XII",
+  "id": "8301",
+  "numero": "280C",
+  "orcamento": "2014",
+  "versao": "Or",
+  "data_registo": "2013-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8301",
+    "Numero": "280C",
+    "Data": "15/11/2013 11:18:00",
+    "Titulo": "Artigo 65.º",
+    "Tema": "Ambiente, Ordenamento do Território e Poder Local; Orçamento, Finanças e Administração Pública; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Eliminação",
+    "Estado": "Prejudicado(a)",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554545764d6a41314e57466d4e6a67745a6a466c597930304d4751774c546c6d4f5759744f474a6d4d7a677a4d444a6b4f5464694c6e426b5a673d3d&Fich=2055af68-f1ec-40d0-9f9f-8bf38302d97b.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 280C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764e546c68597a41794e5449744e4752694f5330304e7a49784c5749344f575574597a686a4f44646c4e54466a4d7a637a4c6e426b5a673d3d&Fich=59ac0252-4db9-4721-b89e-c8c87e51c373.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 280C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764d444931596a677a4f5759745a5459774e4330304e6d526a4c546b344d6d4d744f57526b4e5755784d546b78593246684c6e426b5a673d3d&Fich=025b839f-e604-46dc-982c-9dd5e1191caa.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 280C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764e6a4e684d7a4e6a4d3259744f54466b5a6930304f446b304c574a684e7a5574596a49774d32517a4e6a45335a6d51784c6e426b5a673d3d&Fich=63a33c3f-91df-4894-ba75-b203d3617fd1.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 280C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764e4749794e6a6c6b4e5751745a4749304f4330304f4445334c574a6d595445744e57566b4e7a6330596a457a4d5751794c6e426b5a673d3d&Fich=4b269d5d-db48-4817-bfa1-5ed774b131d2.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Governo Regional - Proposta Nº 280C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45765a5749334d6d5a684d6d49744d325a6b4e6930304d5456694c546b774e4749745954466b59324d355a6a49785a6d51354c6e426b5a673d3d&Fich=eb72fa2b-3fd6-415b-904b-a1dcc9f21fd9.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 280C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764f44526c4d6d593259574974596d51344e7930304d32497a4c5745304d6a45745a4456684e6a6b7a5a6d553259544a6d4c6e426b5a673d3d&Fich=84e2f6ab-bd87-43b3-a421-d5a693fe6a2f.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 280C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45765a475179597a4669597a59744e7a466b4e5330304d7a637a4c546b794e6a67744d4467784e6a55334e54566b4f444a6d4c6e426b5a673d3d&Fich=dd2c1bc6-71d5-4373-9268-08165755d82f.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 65.º",
+        "Titulo": "Controlo do recrutamento de trabalhadores nas administrações regionais",
+        "Texto": "1 - O disposto no artigo 48.º, aplica-se, como medida de estabilidade orçamental, nos termos e para os efeitos do disposto nos artigos 8.º e 11.º da Lei Orgânica n.º 2/2013, de 2 de setembro, imediata e diretamente aos órgãos e serviços das administrações regionais.\r\n\r\n2 - Os governos regionais zelam pela apl",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": null
+  }
+}
