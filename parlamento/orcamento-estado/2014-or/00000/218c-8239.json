@@ -1,0 +1,124 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=LhkRKJpwBmPV0NAx5b9b%2bqgx6Q1Q3HCoCp%2fp0W7aJc9VQmFhBP%2fakf6E%2bjrq2J6qtuMYuMJieDgng3gdoYacsv6DyzOn3c0PmN84xB5e%2fMk1gLfdodDjiRPpAITUQ%2fFHZjDjAKhHMg3GBk%2f0o51KSqj%2bewZtWj7NQe5LjjYxeL8bbKEQFb%2fy7avAFcqRAYS5OPJyhShUhMuJ31NHrEm%2fAK7CN0Ml1co3aXCSsdGfnebUhmWjCma%2ftyqk6MDy%2bfHKwS%2fmelqiCSVZnGcqqUK9FRocTpFjfUMWAlg%2fmaumxu7dHjAV%2fkTXsp3YjxyhQANrMpH1gdvBBKGL0W6y%2f5uA3wRA0esA3lo1AUCcD%2fgVlRcomm3jHrujrnRYfn82NkJk0n4CWOwv3eCvio0TfRjW5em%2bGsTKRgi789nY3Om3mwI%3d&fich=OEPropostasAlteracao2014Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d9b7d88669dcf89ea579c13a413248874c35d91e336adf2093f9799c9f0ca3a0",
+  "legislatura": "XII",
+  "id": "8239",
+  "numero": "218C",
+  "orcamento": "2014",
+  "versao": "Or",
+  "data_registo": "2013-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8239",
+    "Numero": "218C",
+    "Data": "15/11/2013 09:20:00",
+    "Titulo": "Novo Artigo 115.º-A (Prorrogação do subsídio social de desemprego)",
+    "Tema": "Orçamento, Finanças e Administração Pública; Segurança Social e Trabalho; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Plenário",
+    "NumeroArtigoNovo": "Artigo 115.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554545764d574a6c4d474d354d6a51744d574a6b4e4330304e3251334c5745344e3255745a4751334d6a426b596d4a694d7a55334c6e426b5a673d3d&Fich=1be0c924-1bd4-47d7-a87e-dd720dbbb357.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PS",
+          "Deputado": "JOÃO GALAMBA"
+        },
+        {
+          "GP_Partido": "PS",
+          "Deputado": "PEDRO JESUS MARQUES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 115.º-A",
+        "Titulo": "Prorrogação do subsídio social de desemprego",
+        "Texto": "É repristinado o regime transitório e excecional de prorrogação por um período de seis meses da atribuição de subsídio social de desemprego estabelecido pelo Decreto-Lei n.º 15/2010, de 9 de Março.",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": {
+      "Requerimento": {
+        "Data": "21/11/2013 19:57:00",
+        "Titulo": "Requerimento de Avocação 1A",
+        "Observacoes": null,
+        "Aprovado": "True",
+        "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576556b45765a44646b5a474d304d6a63744d4451304d6930304e6d4d794c574a6d4d7a6b745957566a4e6d51304d54457a4e6a55774c6e426b5a673d3d&Fich=d7ddc427-0442-46c2-bf39-aec6d4113650.pdf&Inline=true"
+      }
+    },
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": [
+        {
+          "Descricoes": {
+            "Descricao": "Artigo 115.º-A"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": "Prorrogação do subsídio social de desemprego",
+          "Data": "21/11/2013 00:00:00",
+          "ResultadoCompleto": "Rejeitado(a) em Comissão",
+          "Resultado": "Rejeitado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Social Democrata",
+              "Partido Socialista",
+              "Partido Popular",
+              "Partido Comunista Português",
+              "Bloco de Esquerda"
+            ],
+            "Voto": [
+              "Contra",
+              "Favor",
+              "Contra",
+              "Favor",
+              "Favor"
+            ]
+          }
+        },
+        {
+          "Descricoes": {
+            "Descricao": "Artigo 115.º-A"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": "Prorrogação do subsídio social de desemprego",
+          "Data": "22/11/2012 00:00:00",
+          "ResultadoCompleto": "Rejeitado(a) em Plenário",
+          "Resultado": "Rejeitado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Social Democrata",
+              "Partido Socialista",
+              "Partido Popular",
+              "Partido Comunista Português",
+              "Bloco de Esquerda",
+              "Partido Ecologista \"Os Verdes\""
+            ],
+            "Voto": [
+              "Contra",
+              "Favor",
+              "Contra",
+              "Favor",
+              "Favor",
+              "Favor"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
