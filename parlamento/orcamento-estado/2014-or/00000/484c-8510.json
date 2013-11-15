@@ -1,0 +1,166 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=LhkRKJpwBmPV0NAx5b9b%2bqgx6Q1Q3HCoCp%2fp0W7aJc9VQmFhBP%2fakf6E%2bjrq2J6qtuMYuMJieDgng3gdoYacsv6DyzOn3c0PmN84xB5e%2fMk1gLfdodDjiRPpAITUQ%2fFHZjDjAKhHMg3GBk%2f0o51KSqj%2bewZtWj7NQe5LjjYxeL8bbKEQFb%2fy7avAFcqRAYS5OPJyhShUhMuJ31NHrEm%2fAK7CN0Ml1co3aXCSsdGfnebUhmWjCma%2ftyqk6MDy%2bfHKwS%2fmelqiCSVZnGcqqUK9FRocTpFjfUMWAlg%2fmaumxu7dHjAV%2fkTXsp3YjxyhQANrMpH1gdvBBKGL0W6y%2f5uA3wRA0esA3lo1AUCcD%2fgVlRcomm3jHrujrnRYfn82NkJk0n4CWOwv3eCvio0TfRjW5em%2bGsTKRgi789nY3Om3mwI%3d&fich=OEPropostasAlteracao2014Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d9b7d88669dcf89ea579c13a413248874c35d91e336adf2093f9799c9f0ca3a0",
+  "legislatura": "XII",
+  "id": "8510",
+  "numero": "484C",
+  "orcamento": "2014",
+  "versao": "Or",
+  "data_registo": "2013-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8510",
+    "Numero": "484C",
+    "Data": "15/11/2013 17:15:00",
+    "Titulo": "N.º 1, N.º 2, Artigo 46.º",
+    "Tema": "Orçamento, Finanças e Administração Pública; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554545764d4445304d4749774e6a41744e7a557a5a6930304e4749324c546b344d4467744e6a517a596d59784f446b314d6d4d344c6e426b5a673d3d&Fich=0140b060-753f-44b6-9808-643bf18952c8.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 484C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764d7a426c596d517a4f5745744d32566d4d6930305a5455314c5468694e6a45744d6a49304e444d785a4745344d4449334c6e426b5a673d3d&Fich=30ebd39a-3ef2-4e55-8b61-224431da8027.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 484C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764e474d304d4745795a4455745a6d517a5a4330305a6d497a4c5749314d5455745a546b775a6a42694e545a6b4d32466b4c6e426b5a673d3d&Fich=4c40a2d5-fd3d-4fb3-b515-e90f0b56d3ad.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 484C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764e4459304e474e694d4745745a445a68597930304e6a4d324c5749344d4441744e546b35595455354d7a4577595452694c6e426b5a673d3d&Fich=4644cb0a-d6ac-4636-b800-599a59310a4b.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 484C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764f474d3259546c694f545574597a5a68597930304e7a63304c5749304e7a5174596a493559546c695a4745354e325a684c6e426b5a673d3d&Fich=8c6a9b95-c6ac-4774-b474-b29a9bda97fa.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Governo Regional - Proposta Nº 484C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b4576597a41334e6d49305a4759744d54686c5a6930304d47566a4c54686d4d54457459324e695a5456684d6a4d344e474d784c6e426b5a673d3d&Fich=c076b4df-18ef-40ec-8f11-ccbe5a2384c1.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 484C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45765a47526b4d44566c596a45744d6a68694f4330304d47466d4c57457a4f5749744d7a5a6d4d6a686c4d474a6d4e546c6d4c6e426b5a673d3d&Fich=ddd05eb1-28b8-40af-a39b-36f28e0bf59f.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 484C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d545576554746795a574e6c636d567a556b45764d545a6c4f5746684e4445744e6a59795a4330304d5749304c546b335a6a55745a574e6a4e3255324e446b344f5459324c6e426b5a673d3d&Fich=16e9aa41-662d-41b4-97f5-ecc7e6498966.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 46.º",
+        "Titulo": "Regime especial de trabalho a tempo parcial",
+        "Texto": "1 - Durante o ano de 2014, como medida excecional de estabilidade orçamental, o tempo de trabalho semanal pode ser reduzido, por acordo entre o trabalhador em funções públicas e a respetiva entidade empregadora pública, no mínimo, no equivalente a duas horas por dia ou a oito horas consecutivas de trabalho po",
+        "Estado": "Aprovado(a) em Comissão com Alterações",
+        "Numeros": [
+          {
+            "Numero": "N.º 1",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Prejudicado(a)"
+          },
+          {
+            "Numero": "N.º 2",
+            "Titulo": null,
+            "Texto": null,
+            "Estado": "Prejudicado(a)"
+          }
+        ]
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": [
+        {
+          "Descricoes": {
+            "Descricao": "N.º 1, Artigo 46.º"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": null,
+          "Data": "21/11/2013 00:00:00",
+          "ResultadoCompleto": "Aprovado(a) em Comissão",
+          "Resultado": "Aprovado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Social Democrata",
+              "Partido Socialista",
+              "Partido Popular",
+              "Partido Comunista Português",
+              "Bloco de Esquerda"
+            ],
+            "Voto": [
+              "Favor",
+              "Abstenção",
+              "Favor",
+              "Contra",
+              "Contra"
+            ]
+          }
+        },
+        {
+          "Descricoes": {
+            "Descricao": "N.º 2, Artigo 46.º"
+          },
+          "DiplomasTerceirosouPropostasDeLeiMapas": null,
+          "SubDescricao": null,
+          "Data": "21/11/2013 00:00:00",
+          "ResultadoCompleto": "Aprovado(a) em Comissão",
+          "Resultado": "Aprovado(a)",
+          "GruposParlamentares": {
+            "GrupoParlamentar": [
+              "Partido Social Democrata",
+              "Partido Socialista",
+              "Partido Popular",
+              "Partido Comunista Português",
+              "Bloco de Esquerda"
+            ],
+            "Voto": [
+              "Favor",
+              "Abstenção",
+              "Favor",
+              "Contra",
+              "Contra"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
