@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=LhkRKJpwBmPV0NAx5b9b%2bqgx6Q1Q3HCoCp%2fp0W7aJc9VQmFhBP%2fakf6E%2bjrq2J6qtuMYuMJieDgng3gdoYacsv6DyzOn3c0PmN84xB5e%2fMk1gLfdodDjiRPpAITUQ%2fFHZjDjAKhHMg3GBk%2f0o51KSqj%2bewZtWj7NQe5LjjYxeL8bbKEQFb%2fy7avAFcqRAYS5OPJyhShUhMuJ31NHrEm%2fAK7CN0Ml1co3aXCSsdGfnebUhmWjCma%2ftyqk6MDy%2bfHKwS%2fmelqiCSVZnGcqqUK9FRocTpFjfUMWAlg%2fmaumxu7dHjAV%2fkTXsp3YjxyhQANrMpH1gdvBBKGL0W6y%2f5uA3wRA0esA3lo1AUCcD%2fgVlRcomm3jHrujrnRYfn82NkJk0n4CWOwv3eCvio0TfRjW5em%2bGsTKRgi789nY3Om3mwI%3d&fich=OEPropostasAlteracao2014Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d9b7d88669dcf89ea579c13a413248874c35d91e336adf2093f9799c9f0ca3a0",
+  "legislatura": "XII",
+  "id": "8666",
+  "numero": "501C-2",
+  "orcamento": "2014",
+  "versao": "Or",
+  "data_registo": "2013-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8666",
+    "Numero": "501C-2",
+    "Data": "15/11/2013 17:31:00",
+    "Titulo": "Novo Artigo 222.º-A (Alteração ao regime fiscal dos fundos e sociedades de investimento imobiliário para arrendamento\r\nhabitacional)",
+    "Tema": "Orçamento, Finanças e Administração Pública; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 222.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445304d6a41784d7a45774d54557655454576596d4577596a59315a5441744f4455354d7930305a446b784c5467774e5759744e6d4a6d59544532597a51774e6d49304c6e426b5a673d3d&Fich=ba0b65e0-8593-4d91-805f-6bfa16c406b4.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "NUNO MAGALHÃES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 222.º-A",
+        "Titulo": "Alteração ao regime fiscal dos fundos e sociedades de investimento imobiliário para (...)",
+        "Texto": "O artigo 8.º do regime especial aplicável aos FIIAH e SIIAH, aprovado pelos artigos 102.º a 104.º da Lei n.º 64-A/2008, de 31 de dezembro, passa a ter a seguinte redação:\r\n\r\n«Artigo 8.º\r\n[…]\r\n\r\n1 - Ficam isentos de Imposto sobre o Rendimento das Pessoas Coletivas (IRC) os rendimentos de qualquer natureza obti",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 222.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Alteração ao regime fiscal dos fundos e sociedades de investimento imobiliário para (...)",
+        "Data": "25/11/2013 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
