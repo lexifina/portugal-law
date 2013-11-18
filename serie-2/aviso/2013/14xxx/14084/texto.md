@@ -1,0 +1,6 @@
+Aviso n.º 14084/2013
+António José Rega Matos Recto, Presidente da Câmara Municipal de Redondo torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, na sua reunião realizada dia 23 de setembro de 2013, deliberou, aprovar o "Projeto de Regulamento de Taxas Municipais", incluindo a "Tabela de Taxas" e o "Modelo de Fundamentação Económico - Financeiro das Taxas", que dele fazem parte integrante, no sentido de submeter o mesmo à apreciação pública, para recolha de sugestões, pelo prazo de 30 dias, a contar da data de publicação do presente aviso, para cumprimento do disposto no artigo 118.º do Código do Procedimento Administrativo.
+O documento acima referenciado, encontra -se exposto para efeitos de recolha de sugestões de todos os interessados nos Serviços de Atendimento ao Público da Câmara Municipal, onde poderá ser consultado todos os dias úteis das 8:30 às 16:30 horas, bem como no sítio do Município de Redondo na Internet (www.cm-redondo.pt).
+As sugestões deverão ser formuladas, por escrito e enviadas à Câmara Municipal, dirigidas ao seu Presidente, até às 16:30 horas do último dia do prazo acima referido.
+6 de novembro de 2013. - O Presidente da Câmara, António José Rega Matos Recto.
+307379922
