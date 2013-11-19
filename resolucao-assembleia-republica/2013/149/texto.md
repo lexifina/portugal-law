@@ -1,0 +1,8 @@
+Resolução da Assembleia da República n.º 149/2013
+Recomenda ao Governo a clarificação dos conceitos presentes no regime de instalação e funcionamento dos recintos de espetáculos e de divertimentos públicos, de forma a garantir condições de sã concorrência e promover uma efetiva proteção dos direitos dos cidadãos em matéria de poluição sonora.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Crie regras que regulem esta situação, não permitindo que as licenças para espaços temporários ponham em causa a sustentabilidade das empresas que trabalham regularmente, com vista a obterem lucros nos meses correspondentes à época alta.
+2 - Proceda à clarificação de quais os estabelecimentos que são considerados «recintos de diversão provisória», nomeadamente no que respeita à concretização dos conceitos indeterminados «utilização acidental» e «carácter de continuidade» para a realização de espetáculos e de divertimentos públicos, tal como referido no artigo 7.º-A do Decreto-Lei n.º 309/2002, de 16 de dezembro, aditado pelo Decreto-Lei n.º 268/2009, de 29 de setembro, por forma a promover uma maior igualdade no que respeita às regras de funcionamento.
+3 - Empreenda esforços no sentido da adequada sensibilização para o cumprimento da lei no que respeita ao ruído, nomeadamente junto dos promotores de espetáculos nos designados «recintos de diversão provisória», bem como reforce as ações de fiscalização dos limites de exposição sonora nos espaços vocacionados para outros fins que, acidentalmente, sejam utilizados para a realização de espetáculos públicos.
+Aprovada em 18 de outubro de 2013.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
