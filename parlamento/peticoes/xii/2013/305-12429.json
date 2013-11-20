@@ -1,0 +1,478 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12429",
+  "numero": "305",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2013-11-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2013-12-10",
+            "entidades": null,
+            "id": "96545",
+            "tipo": null,
+            "titulo": "Audição em 2013-12-10 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2013-12-10",
+            "dataResposta": "2014-01-16",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "507/CECC/2013",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-01-21",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "669900",
+                "obs": null,
+                "pag": [
+                  "2-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/025/2014-01-25/2?pgs=2-4&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2013-12-04",
+        "DataArquivo": "2014-01-21",
+        "DataBaixaComissao": "2013-11-22",
+        "DataEnvioPAR": "2014-01-22",
+        "DataReaberta": "2013-12-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2013-12-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245305a4455304e7a5a6b4c5442684e6d4d744e4445785a6930344e7a5a6d4c57493159575178597a6b324d7a45355a5335775a47593d&fich=a4d5476d-0a6c-411f-876f-b5ad1c96319e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a526a4d6a52694d5467784c5468684d574d744e47526a4e5330344f4451794c57466b4d574a6d596a4a684e544a694e6935515245593d&fich=4c24b181-8a1c-4dc5-8842-ad1bfb2a52b6.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-01-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249304d6a45784e6a49794c54466a595755744e44686c597930345a5445794c54526c595749794d446c685a6a67334d5335775a47593d&fich=b4211622-1cae-48ec-8e12-4eab209af871.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-01-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d354e4749794d6d5a6c4c544e6d4d4755744e4459324d4331694e4759354c5451774e7a6c694e446c6a596a45314d5335775a47593d&fich=394b22fe-3f0e-4660-b4f9-4079b49cb151.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2013-12-04",
+            "gp": "PSD",
+            "id": "4146",
+            "motivoCessacao": null,
+            "nome": "Margarida Almeida"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-03-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2013-11-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a49315a444a6b4d44466d4c5449774f4441744e4749354d433169593251314c5451354e6a6b304f5467775a574a6a4e7935515245593d&fich=25d2d01f-2080-4b90-bcd5-49694980ebc7.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38298",
+      "38127"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=01:32:11:923&drc=00:02:23:936"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=01:50:21:773&drc=00:02:04:367"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/24?pgs=24-25,30&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a reavaliação dos critérios de apoio aos alunos com Necessidades Educativas Especiais (NEE's); Medidas extraordinárias que asseguram a contratação de todos os meios humanos necessários à Escola Pública Inclusiva; Defesa das crianças e jovens com deficiência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=01:34:44:684&drc=00:02:50:416"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=01:52:40:340&drc=00:01:56:168"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26",
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/25?pgs=25-26,30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a reavaliação dos critérios de apoio aos alunos com Necessidades Educativas Especiais (NEE's); Medidas extraordinárias que asseguram a contratação de todos os meios humanos necessários à Escola Pública Inclusiva; Defesa das crianças e jovens com deficiência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=01:37:43:554&drc=00:05:02:131"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a reavaliação dos critérios de apoio aos alunos com Necessidades Educativas Especiais (NEE's); Medidas extraordinárias que asseguram a contratação de todos os meios humanos necessários à Escola Pública Inclusiva; Defesa das crianças e jovens com deficiência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=01:42:51:029&drc=00:03:18:475"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a reavaliação dos critérios de apoio aos alunos com Necessidades Educativas Especiais (NEE's); Medidas extraordinárias que asseguram a contratação de todos os meios humanos necessários à Escola Pública Inclusiva; Defesa das crianças e jovens com deficiência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=01:46:18:255&drc=00:03:57:737"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a reavaliação dos critérios de apoio aos alunos com Necessidades Educativas Especiais (NEE's); Medidas extraordinárias que asseguram a contratação de todos os meios humanos necessários à Escola Pública Inclusiva; Defesa das crianças e jovens com deficiência.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12429",
+    "PetAssunto": "Pretendem a reavaliação dos critérios de apoio aos alunos com Necessidades Educativas Especiais (NEE's).",
+    "PetDataEntrada": "2013-11-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12429",
+    "PetLeg": "XII",
+    "PetNr": "305",
+    "PetNrAssinaturas": "5673",
+    "PetNrAssinaturasInicial": "5673",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1867",
+        "obs": null,
+        "pag": [
+          "24-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-22",
+        "pubLeg": "XII",
+        "pubNr": "64",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/24?pgs=24-30&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "666860",
+        "obs": null,
+        "pag": [
+          "22-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-07",
+        "pubLeg": "XII",
+        "pubNr": "16",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/016/2013-12-07/22?pgs=22-23&org=PLC"
+      }
+    ]
+  }
+}
