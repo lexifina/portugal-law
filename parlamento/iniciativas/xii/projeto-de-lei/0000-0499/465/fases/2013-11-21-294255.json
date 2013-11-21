@@ -1,0 +1,243 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "465",
+    "id": "38056",
+    "titulo": "Aprova o regime do segredo de Estado."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2013-11-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "32415",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-11-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-11-21",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-01-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Ofício - Conselho Superior dos Tribunais Administrativos e Fiscais ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396859544133595759794f43316b4d444d794c54517a597a557459574a6b5a5330795a6d55784e5442685a6a55324e4449756347526d&fich=aa07af28-d032-43c5-abde-2fe150af5642.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Acesso aos Documentos Administrativos (CADA)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e5463354d57557a4d7930304e7a59784c545269596a45744f444d314e5330324e446b334d7a55795a44426d4e6a67756347526d&fich=15791e33-4761-4bb1-8355-6497352d0f68.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-05-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho de Fiscalização do Sistema de Informações da República Portuguesa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877596d4a685a5441334e43316a596a6b324c54526a4f545974595751345a5330794f546c685a44466b4e6d5135596a67756347526d&fich=0bbae074-cb96-4c96-ad8e-299ad1d6d9b8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d5759785a6d49334e793079597a686c4c545178595445744f474d334f5330774e446b304d54686b4e6d4e684e6a67756347526d&fich=11f1fb77-2c8e-41a1-8c79-049418d6ca68.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e325a6c4f5451324f5330794e3255774c54526a4d7a41744f4751784d53316a5a54597a597a41774f445531593255756347526d&fich=b7fe9469-27e0-4c30-8d11-ce63c00855ce.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d6a49794e5746694e43316c5a6d4e6c4c5452694e7a59744f44686a4e53316b4e7a557a5a544977597a4535597a6b756347526d&fich=42225ab4-efce-4b76-88c5-d753e20c19c9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica da CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f5446684e6d59305a53316b4e575a6d4c5451794e324d74596d5131597930334d7a51354e6d566b595455774e4449756347526d&fich=591a6f4e-d5ff-427c-bd5c-73496eda5042.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2014-01-14"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-12-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2014-01-13"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2014-01-17"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Fiscalização do Sistema de Informações da República Portuguesa em 2014-05-13"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos em 2014-03-12"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2013-12-04"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-12-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-12-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-12-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Fiscalização do Sistema de Informações da República Portuguesa em 2013-12-06"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos em 2014-02-13"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "17-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-12",
+            "pubLeg": "XII",
+            "pubNr": "65",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/065/2014-02-12/17?pgs=17-49&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "17-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-12",
+            "pubLeg": "XII",
+            "pubNr": "65",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/065/2014-02-12/17?pgs=17-49&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-02-12",
+            "dataRemessa": "2014-02-12",
+            "numeroOficio": "143/XII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-02-12",
+            "descricao": null,
+            "detalhe": null,
+            "id": "65883",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "207",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-11-21",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294255",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
