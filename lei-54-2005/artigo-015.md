@@ -1,8 +1,8 @@
 # Artigo 15.º
 
-### Reconhecimento de propriedade privada sobre parcelas de leitos e margens públicos
+### Reconhecimento de direitos adquiridos por particulares sobre parcelas de leitos e margens públicos
 
-1 - Quem pretenda obter o reconhecimento da sua propriedade sobre parcelas de leitos ou margens das águas do mar ou de quaisquer águas navegáveis ou flutuáveis pode obter esse reconhecimento desde que intente a correspondente acção judicial até 1 de Janeiro de 2014, devendo provar documentalmente que tais terrenos eram, por título legítimo, objecto de propriedade particular ou comum antes de 31 de Dezembro de 1864 ou, se se tratar de arribas alcantiladas, antes de 22 de Março de 1868.
+1 - Quem pretenda obter o reconhecimento da sua propriedade sobre parcelas de leitos ou margens das águas do mar ou de quaisquer águas navegáveis ou flutuáveis pode obter esse reconhecimento por via judicial, intentando a correspondente ação judicial junto dos tribunais comuns até 1 de julho de 2014, devendo, para o efeito, provar documentalmente que tais terrenos eram, por título legítimo, objeto de propriedade particular ou comum antes de 31 de dezembro de 1864 ou, se se tratar de arribas alcantiladas, antes de 22 de março de 1868.
 
 2 - Sem prejuízo do prazo fixado no número anterior, observar-se-ão as seguintes regras nas acções a instaurar nos termos desse número:
 
