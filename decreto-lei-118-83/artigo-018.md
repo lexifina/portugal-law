@@ -4,7 +4,7 @@
 
 1 - A qualidade de beneficiário titular e familiar perde-se pela verificação dos seguintes eventos:
 
-a) Exoneração e demissão;
+a) Exoneração, demissão e cessação do contrato de trabalho em funções públicas, exceto nos casos em que opte pela manutenção da qualidade de beneficiário, nos termos do disposto nos n.os 5 e 6 do artigo 6.º;
 
 b) Passagem à situação de licença sem vencimento de longa duração;
 

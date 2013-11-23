@@ -20,4 +20,8 @@ a) Pela ADSE, quando se trate de funcionários e agentes oriundos de serviços i
 
 b) Pelos organismos autónomos ou Regiões e autarquias locais, relativamente aos seus funcionários e agentes.
 
-5 - Os funcionários na situação de aposentação só podem inscrever-se como beneficiários titulares desde que não estejam abrangidos por outro subsistema de saúde integrado na Administração Pública.
+5 - Os trabalhadores referidos na alínea d) do artigo 3.º mantêm a qualidade de beneficiário titular se exercerem essa opção.
+
+6 - A opção pela manutenção da qualidade de beneficiário titular deve constar do acordo de cessação, do ato de exoneração ou do ato de demissão, consoante o caso.
+
+7 - Os funcionários na situação de aposentação só podem inscrever-se como beneficiários titulares desde que não estejam abrangidos por outro subsistema de saúde integrado na Administração Pública.

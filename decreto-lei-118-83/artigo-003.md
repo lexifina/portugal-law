@@ -2,10 +2,6 @@
 
 ## Beneficiários titulares
 
-## Subsecção I
-
-## Dos organismos autónomos
-
 # Artigo 3.º
 
 ### (Titulares)
@@ -17,3 +13,5 @@ a) O pessoal civil do Estado, inclusive o dos organismos dotados de autonomia ad
 b) O pessoal da administração regional e local nas condições da alínea anterior;
 
 c) O pessoal de outras entidades que a lei já contemple ou venha a contemplar.
+
+d) Os trabalhadores que cessem, por mútuo acordo, a relação jurídica de emprego público na modalidade de nomeação definitiva ou de contrato de trabalho em funções públicas por tempo indeterminado, caso optem pela manutenção dessa qualidade, nos termos do disposto nos n.os 5 e 6 do artigo 6.º
