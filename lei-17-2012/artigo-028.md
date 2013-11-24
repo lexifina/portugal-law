@@ -2,7 +2,7 @@
 
 ### Atribuição de licenças
 
-1 - Após a apresentação do requerimento, compete à ANACOM:
+1 - Após a apresentação do requerimento, compete ao ICP-ANACOM:
 
 a) Notificar o requerente da receção do pedido, informando-o do prazo definido na lei para a decisão final, dos efeitos resultantes da falta de decisão final nesse prazo e das vias de reação administrativa aplicáveis;
 

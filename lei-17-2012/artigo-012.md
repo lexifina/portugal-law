@@ -16,6 +16,6 @@ d) Controlo do percurso dos envios pelo circuito operacional do prestador, permi
 
 3 - O serviço universal abrange igualmente a entrega no território nacional de encomendas postais recebidas de outros Estados membros da União Europeia com peso até 20 kg.
 
-4 - Os prestadores de serviço universal devem assegurar uma recolha e uma distribuição dos envios postais abrangidos no âmbito do serviço universal pelo menos uma vez por dia, em todos os dias úteis, salvo em circunstâncias ou condições geográficas excecionais previamente definidas pela ANACOM.
+4 - Os prestadores de serviço universal devem assegurar uma recolha e uma distribuição dos envios postais abrangidos no âmbito do serviço universal pelo menos uma vez por dia, em todos os dias úteis, salvo em circunstâncias ou condições geográficas excecionais previamente definidas pelo ICP-ANACOM.
 
-5 - A distribuição a que se refere o número anterior é feita no domicílio do destinatário ou, nos casos e condições previamente definidas pela ANACOM, em instalações apropriadas.
+5 - A distribuição a que se refere o número anterior é feita no domicílio do destinatário ou, nos casos e condições previamente definidas pelo ICP-ANACOM, em instalações apropriadas.

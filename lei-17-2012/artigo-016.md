@@ -16,9 +16,9 @@ d) Quando não for possível estabelecer medidas diretas ou indiretas de reparti
 
 e) Os custos comuns necessários para prestar os serviços que compõem o serviço universal e os outros serviços devem ser corretamente atribuídos, devendo ser aplicados os mesmos fatores de custo a ambos os serviços.
 
-3 - Os prestadores de serviço universal podem aplicar outros sistemas de contabilidade analítica desde que sejam compatíveis com o disposto nos n.os 1 a 3 do artigo anterior e tenham sido previamente aprovados pela ANACOM, passando tais sistemas a ser utilizados para os efeitos previstos na presente lei.
+3 - Os prestadores de serviço universal podem aplicar outros sistemas de contabilidade analítica desde que sejam compatíveis com o disposto nos n.os 1 a 3 do artigo anterior e tenham sido previamente aprovados pelo ICP-ANACOM, passando tais sistemas a ser utilizados para os efeitos previstos na presente lei.
 
-4 - Compete à ANACOM:
+4 - Compete ao ICP-ANACOM:
 
 a) Aprovar os sistemas de contabilidade analítica no prazo máximo de 200 dias a contar da data da respetiva apresentação por parte dos prestadores de serviço universal;
 

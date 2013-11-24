@@ -4,7 +4,7 @@
 
 1 - O custo líquido do serviço universal consiste na diferença entre o custo líquido em que incorrem os prestadores de serviço universal, operando com as obrigações de serviço universal, e o custo líquido dos mesmos prestadores, operando sem essas obrigações.
 
-2 - Compete à ANACOM definir a metodologia de cálculo do custo líquido do serviço universal, de acordo com os princípios e regras consagrados nesta secção, no prazo de 180 dias, a contar da entrada em vigor da presente lei.
+2 - Compete ao ICP-ANACOM definir a metodologia de cálculo do custo líquido do serviço universal, de acordo com os princípios e regras consagrados nesta secção, no prazo de 180 dias, a contar da entrada em vigor da presente lei.
 
 3 - No cálculo do custo líquido devem ser tidos em conta os seguintes elementos:
 
@@ -18,7 +18,7 @@ c) Os incentivos adequados a que o respetivo prestador de serviço universal cum
 
 a) Aos elementos do serviço universal necessariamente oferecidos com prejuízo ou em condições de custo que não se enquadrem nas práticas comerciais normais, podendo incluir, nomeadamente, a oferta de serviços postais em toda uma área geográfica específica, incluindo preços únicos nessa área geográfica, e a oferta de determinados serviços gratuitos a cegos e amblíopes;
 
-b) Aos utilizadores finais ou grupos de utilizadores finais específicos que, atendendo ao custo da oferta do serviço especificado, às receitas geradas e aos eventuais preços uniformes a nível geográfico impostos pela ANACOM, só podem ser servidos com prejuízo ou em condições de custo que não se enquadram nas práticas comerciais normais.
+b) Aos utilizadores finais ou grupos de utilizadores finais específicos que, atendendo ao custo da oferta do serviço especificado, às receitas geradas e aos eventuais preços uniformes a nível geográfico impostos pelo ICP-ANACOM, só podem ser servidos com prejuízo ou em condições de custo que não se enquadram nas práticas comerciais normais.
 
 5 - Consideram-se incluídos na alínea b) do número anterior os utilizadores ou grupos de utilizadores que não seriam servidos por uma empresa que não tivesse a obrigação de prestar o serviço universal.
 
