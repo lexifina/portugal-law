@@ -1,0 +1,391 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "183",
+    "id": "38024",
+    "titulo": "Aprova a lei de bases gerais da política pública de solos, de ordenamento do território e de urbanismo."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-11-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "32479",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-02-04",
+            "id": "96943",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-04",
+            "id": "96942",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-04",
+            "id": "96941",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-04",
+            "id": "96940",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-11",
+            "id": "97068",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-11",
+            "id": "97067",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-11",
+            "id": "97062",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-11",
+            "id": "97061",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-11",
+            "id": "97060",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-12",
+            "id": "97069",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-19",
+            "id": "97093",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-02-19",
+            "id": "97092",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-03-05",
+            "id": "97207",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-03-05",
+            "id": "97206",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-03-05",
+            "id": "97205",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-11-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-11-29",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2013-12-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "APFIPP - contributos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e546b784d4745334d6d5574593249344e6930304e4467354c5745354f4751744d4459335a6d4d344d5459794f474d334c6e52705a673d3d&fich=5910a72e-cb86-4489-a98d-067fc81628c7.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "GP PSD/CDS-PP - Proposta 56-C - Artº 10º",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3259774d6a49324f4459744e446c6a4d7930304d5756684c574668596d5174596a41795a6a56694e4759305a544d324c6d52765933673d&fich=3f022686-49c3-41ea-aabd-b02f5b4f4e36.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Guião votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4441305932466d597a49744f5751334e5330305a475a6b4c546c6a4f546b745a446868595759344d6a6c6c5a4759344c6d527659773d3d&fich=d04cafc2-9d75-4dfd-9c99-d8aaf829edf8.doc&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Mapa comparativo v1.0 1-25artigos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d55314d445a694d7a59744d4455354e4330305a6a59324c546b324d546b7459324a685a574a6b4d6d51304e5441774c6d52765933673d&fich=2e506b36-0594-4f66-9619-cbaebd2d4500.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Mapa comparativo v3.0 artigos25.ºa 84.º",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f474d345a6a6332596d51745a6a4d304d7930304e324e6a4c574533593259744e544a685a5759774f4752694d7a526d4c6d52765933673d&fich=8c8f76bd-f343-47cc-a7cf-52aef08db34f.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Ofício/Relatório e Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f575579596d4d324d6a41745a4468694d6930304f44566c4c546b774e4449744e7a63344d6d49304d6a67775a4467344c6e52705a673d3d&fich=9e2bc620-d8b2-485e-9042-7782b4280d88.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Arqº Jorge Silva",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a526859324d784d546b744e7a49334e69303059324a6b4c574a6b597a45744f5451325932466c4e6a5a685a446b304c6e426b5a673d3d&fich=24acc119-7276-4cbd-bdc1-946cae66ad94.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2013-12-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5755344e6a4d784f4455744d474d77595330304d3259324c54686c4d6a49744e7a637a4d6a4d784f5468694d3252694c6e426b5a673d3d&fich=5e863185-0c0a-43f6-8e22-77323198b3db.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da APCC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3249345a4467334d325974595752684f4330304d6a6c6a4c57466c4d7a49744f574d334e5449344e7a417a4e446b344c6e426b5a673d3d&fich=3b8d873f-ada8-429c-ae32-9c7528703498.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da APFIPP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a6c69597a597a4d4449744e575978595330304e574d304c5745774e7a45744d7a67354d5463305954646a4e6a52694c6e52705a673d3d&fich=69bc6302-5f1a-45c4-a071-389174a7c64b.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da APG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a63795a546b795a6a41744e6a6b794d5330304e4455324c546b795a545174595752685a4751324d575a68597a526c4c6e426b5a673d3d&fich=372e92f0-6921-4456-92e4-adadd61fac4e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da APROURB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d446b774d6d51314e5751745a474579597930304e4745354c5467784d7a4d745a47526b4e7a526a596d4931597a4a6a4c6e426b5a673d3d&fich=0902d55d-da2c-44a9-8133-ddd74cbb5c2c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e574e6b5a6a4d344e4459744f574e6a597930304f54517a4c5467784f446b745a6d59794f44526b4d47597a4d5459314c6c424552673d3d&fich=5cdf3846-9ccc-4943-8189-ff284d0f3165.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CNADS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a4a6d4e5759335a6a55745a6d4a694f4330304e6d4a6c4c546b784f444d745a54497a4e474e685a4449355a544a694c6c424552673d3d&fich=32f5f7f5-fbb8-46be-9183-e234cad29e2b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CONFAGRI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d444a6b4e7a41785a544974595756694e5330305a47466b4c574a6c4d7a59745a574d335932497a59545130597a42684c6e426b5a673d3d&fich=02d701e2-aeb5-4dad-be36-ec7cb3a44c0a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CPADA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a67334d5441314d7a59744d7a6b334d7930305932526d4c546b794e5459744d574d7a5a4755344e7a45345a6d46684c6e426b5a673d3d&fich=28710536-3973-4cdf-9256-1c3de8718faa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CPCI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f574a6d596d59794d6a51745a5445774e5330304e7a67774c574a6a5a446b745a6a686a4e5459325a6a52685a6a6c6b4c6e426b5a673d3d&fich=9bfbf224-e105-4780-bcd9-f8c566f4af9d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da LPN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5441785a4449315a6d51744e7a517a4e6930304d325a694c54677a596a55744e7a6b795a4445324d6d5a6a4d32557a4c6e426b5a673d3d&fich=901d25fd-7436-43fb-83b5-792d162fc3e3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Ordem dos Arquitetos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44686d4f544e6a5a6d51745a5451334e693030597a426b4c54686c4e5463744d7a5a6d4d6a417a4d7a5177597a6b344c6e426b5a673d3d&fich=08f93cfd-e476-4c0d-8e57-36f203340c98.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Ordem dos Arquitetos 1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a526a4e6a466b5a444d745a4449774f5330304e6a55324c54673459324974595449314f5745774e7a6c6c4d6a41344c6e426b5a673d3d&fich=24c61dd3-d209-4656-88cb-a259a079e208.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Ordem dos Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a4d354e545931597a45744d474e68596930304e6a55774c5746684d4759744e6d49784f446c6a4d7a6c6a4d5759784c6e426b5a673d3d&fich=639565c1-0cab-4650-aa0f-6b189c39c1f1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Quaternaire Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a574d354d325933596d5574596a4d785a433030597a67794c546c695a5445744d4445775a444d784e6a4d324e445a6b4c6e426b5a673d3d&fich=ec93f7be-b31d-4c82-9be1-010d3163646d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Dr. Demétrio Alves",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d4d775a6a4931597a41745a574533597930304d4445784c546c6d4e6d5574595449774d6a4e6a596a4d774d7a59344c6e426b5a673d3d&fich=6c0f25c0-ea7c-4011-9f6e-a2023cb30368.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Dr. Jorge Carvalho e Drª Fernanda Paula Oliveira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d574a6d4d7a4a694f5751744d4441795a5330305a6d4d344c546c6c5a6a6b744d4455785a6a6779595755794f5441304c6e426b5a673d3d&fich=1bf32b9d-002e-4fc8-9ef9-051f82ae2904.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Prof Mário Moutinho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d45324d32553459546b744d6d4d355a5330304e7a55784c5745304f4749744d6a63334d4445315a4449304d54646c4c6e426b5a673d3d&fich=2a63e8a9-2c9e-4751-a48b-277015d2417e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "PowerPoint da ADURBEM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d325534595463794d6a4d744e5445345a5330304d57566d4c546b304d7a63745a4752684e3249354d5755344e5463324c6e42776448673d&fich=3e8a7223-518e-41ef-9437-dda7b91e8576.pptx&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "PowerPoint da CNADS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a457a4e7a6777593245744e574e68597930304d57566d4c546b794e6d4d745a574535597a51335a54526d5a5749354c6e42776448673d&fich=213780ca-5cac-41ef-926c-ea9c47e4feb9.pptx&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-13",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Prof Dra. Ana Cristina Bordalo - Contributo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4467775a5749774d4445745a446b784e5330304d324e6d4c5749314d3251744d324532596a593559324a6c4e44646a4c6d70775a773d3d&fich=480eb001-d915-43cf-b53d-3a6b69cbe47c.jpg&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas 1 a 55 - BE-PCP-PSD-CDS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4468684d5759304e7a49744f474a6c595330305a6d51774c546b335a6a49745a6a55785a4445335a544e694d4746684c6e52705a673d3d&fich=d8a1f472-8bea-4fd0-97f2-f51d17e3b0aa.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-01",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Transcrição Intervenção - Eng Pedro Bingre do Amaral",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a51324f475a6d4d7a49744d6a4a6c4f5330305a6a41354c5467304e544174596d4a694d4751354f44466c5a4755314c6d527659773d3d&fich=2468ff32-22e9-4f09-8450-bbb0d981ede5.doc&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-01",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Transcrição Intervenção - Prof Dr Vasco Pereira da Silva",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a4d335a5467314e574d744e6a63784d5330305a6a49324c5745774d4745744e7a566d4f4759344d7a6b774f54426b4c6d52765933673d&fich=b37e855c-6711-4f26-a00a-75f8f839090d.docx&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-245"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2014-04-10",
+            "pubLeg": "XII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/095S1/2014-04-10/2?pgs=2-245&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-245"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2014-04-10",
+            "pubLeg": "XII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/095S1/2014-04-10/2?pgs=2-245&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-04-07",
+            "numeroOficio": "77/CAOTPL",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2013-11-29",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294357",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
