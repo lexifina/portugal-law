@@ -1,0 +1,7 @@
+Aviso n.º 14847/2013
+Alteração do Plano Diretor Municipal (PDM): Alteração à Planta de Ordenamento Parreira/Salvador
+Paulo Jorge Mira Lucas Cegonho Queimado, Presidente da Câmara Municipal de Chamusca, faz público que o executivo municipal, na sua reunião ordinária de 25 de novembro de 2013, nos termos do n.º 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na redação que lhe foi conferida pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, deliberou a abertura do período de Discussão Pública da Alteração do Plano Diretor Municipal de Chamusca: Alteração à Planta de Ordenamento Parreira/Salvador, pelo período de 30 dias úteis, a contar do 5.º dia útil a seguir à data de publicação do presente Aviso no Diário da República.
+Durante o período referenciado neste aviso, a proposta de alteração do Plano Diretor Municipal, a ata da Conferência de Serviços com os demais pareceres emitidos, estarão disponíveis para consulta no Departamento de Obras, Urbanismo, Ambiente e Serviços Urbanos, nas horas normais de expediente.
+As reclamações, observações ou sugestões deverão ser apresentadas por escrito, mediante requerimento dirigido ao Senhor Presidente da Câmara Municipal de Chamusca, devidamente identificadas, ou então via e-mail enviado para o endereço eletrónico cmc.sig1@gmail.com.
+26 de novembro de 2013. - O Presidente da Câmara, Dr. Paulo Jorge Mira Lucas Cegonho Queimado.
+207424585
