@@ -10,9 +10,13 @@ a) As quantias cobradas pela prestação de serviços no âmbito das suas atribu
 
 b) O produto de venda de publicações e de trabalhos editados pela SG;
 
-c) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;
+c) Os subsídios, subvenções, comparticipações, doações e legados que lhe forem atribuídos por quaisquer entidades de direito público ou privado, nacionais ou estrangeiras;
 
-d) Quaisquer receitas que, por lei, contrato ou outro título lhe sejam atribuídas.
+d) As verbas provenientes de taxas e coimas que lhe caibam nos termos da lei;
+
+e) Os rendimentos de bens que possua a qualquer título;
+
+f) Quaisquer receitas que, por lei, contrato ou outro título lhe sejam atribuídas.
 
 3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da SG durante a execução do orçamento do ano a que respeitam.
 
