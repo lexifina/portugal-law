@@ -18,6 +18,6 @@ e) Realizar auditorias e estudos de organização e funcionamento, orientados pa
 
 f) Participar aos órgãos competentes para a investigação criminal os factos com relevância jurídico-criminal e colaborar com aqueles órgãos na obtenção de provas, sempre que isso for solicitado.
 
-3 - (Revogado).
+3 - O apoio administrativo e logístico necessário ao funcionamento da IGAI, no âmbito da prestação de serviços comuns, é assegurado pela Secretaria-Geral.
 
 4 - A IGAI é dirigida por um inspector-geral, coadjuvado por um subinspector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente.

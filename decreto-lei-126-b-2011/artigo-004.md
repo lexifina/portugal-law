@@ -6,7 +6,7 @@
 
 a) As forças de segurança;
 
-b) Revogada;
+b) O Serviço de Estrangeiros e Fronteiras;
 
 c) A Autoridade Nacional de Protecção Civil;
 
@@ -20,4 +20,4 @@ b) A Inspecção-Geral da Administração Interna;
 
 c) Revogada;
 
-d) Revogada.
+d) A Direcção-Geral de Infra-Estruturas e Equipamentos.

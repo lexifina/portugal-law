@@ -10,7 +10,7 @@ a) Promover o levantamento, previsão, análise e avaliação dos riscos colecti
 
 b) Organizar um sistema nacional de alerta e aviso;
 
-c) Assegurar a regulamentação e a fiscalização no âmbito da segurança contra incêndios em edifícios;
+c) Proceder à regulamentação, licenciamento e fiscalização no âmbito da segurança contra incêndios;
 
 d) Contribuir para a definição da política nacional de planeamento de emergência, elaborar directrizes gerais, promover a elaboração de estudos e planos de emergência e facultar apoio técnico e emitir parecer sobre a sua elaboração por entidades sectoriais;
 
@@ -36,4 +36,4 @@ c) Assegurar a realização de formação dos bombeiros portugueses e promover o
 
 d) Assegurar a prevenção sanitária, a higiene e a segurança do pessoal dos corpos de bombeiros, bem como a investigação de acidentes em acções de socorro.
 
-5 - A ANPC é dirigida por um presidente, coadjuvado por quatro diretores nacionais, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+5 - A ANPC é dirigida por um presidente, coadjuvado por três directores nacionais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
