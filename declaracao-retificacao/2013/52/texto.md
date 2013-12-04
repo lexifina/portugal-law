@@ -1,0 +1,7 @@
+Declaração de Retificação n.º 52/2013
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013 de 21 de março, declara-se que o Decreto-Lei n.º 137/2013, de 7 de outubro de 2013, publicado no Diário da República n.º 193, 1.ª série, de 7 de outubro de 2013, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No artigo 3.º, na parte em que altera a alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 81/2009, de 2 de abril, e bem assim na alínea a) do n.º 2 do artigo 3.º do anexo que republica o referido diploma, onde se lê:
+«a) Manter a vigilância da saúde e bem-estar dos cidadãos, incluindo a recolha de dados para a produção de estatísticas, e medidas de acompanhamento nas áreas das doenças comunicáveis e não comunicáveis, saúde mental, saúde materna e infantil, saúde ocupacional e ambiente, bem como proceder a inquéritos e outras medidas de seguimento de estilos de vida e padrões de comportamento;»
+deve ler-se:
+«a) Manter a vigilância da saúde e bem-estar dos cidadãos, incluindo a recolha de dados para a produção de estatísticas, e medidas de acompanhamento nas áreas das doenças transmissíveis e não transmissíveis, saúde mental, saúde materna e infantil, saúde ocupacional e ambiente, bem como proceder a inquéritos e outras medidas de seguimento de estilos de vida e padrões de comportamento;»
+Secretaria-Geral, 29 de novembro de 2013. - O Secretário-Geral, José Maria Belo de Sousa Rego.
