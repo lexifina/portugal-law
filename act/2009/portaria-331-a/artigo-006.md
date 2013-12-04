@@ -2,9 +2,9 @@
 
 ### Registo e conservação de dados
 
-1 - Cada consulta efectuada pelo agente de execução, nos termos dos n.os 1 e 2 do artigo 2.º, é registada automática e electronicamente no sistema informático da entidade consultada, no sistema informático de suporte à actividade dos agentes de execução e no sistema informático CITIUS.
+1 - Cada consulta efetuada pelo agente de execução, nos termos dos n.os 1 e 2 do artigo 2.º, é registada automática e eletronicamente no sistema informático da entidade consultada, no sistema informático de suporte à atividade dos agentes de execução e no sistema informático de suporte à atividade dos tribunais.
 
-2 - Cada consulta efectuada pelo agente de execução, nos termos dos n.os 3 e 4 do artigo 2.º, é registada pelo agente de execução no sistema informático de suporte à actividade dos agentes de execução e remetida por via exclusivamente electrónica e automática para o sistema informático CITIUS.
+2 - Cada consulta efetuada pelo agente de execução, nos termos dos n.os 3 e 4 do artigo 2.º, é registada pelo agente de execução no sistema informático de suporte à atividade dos agentes de execução e remetida por via exclusivamente eletrónica e automática para o sistema informático de suporte à atividade dos tribunais.
 
 3 - Dos registos referidos nos números anteriores constam a data da consulta, a identificação do agente de execução consultante, a data de início e o número único do processo de execução no âmbito do qual se realizou a consulta e a informação consultada.
 
