@@ -1,0 +1,1 @@
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.
