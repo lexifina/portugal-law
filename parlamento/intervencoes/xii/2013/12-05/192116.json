@@ -1,0 +1,97 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "192116",
+  "tipo": "Intervenção",
+  "orador": "Assunção Esteves (PSD)",
+  "data_registo": "2013-12-05",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "97032",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "97032",
+        "tipo": "DEB",
+        "titulo": "Outros Debates - Sobre o facto de professores estarem a ser impedidos de entrar na Assembleia da República para assistirem à sessão."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Responde a Pedro Filipe Soares.",
+        "duracao": "00:01:41:718",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:24:47:074&drc=00:01:41:718"
+      },
+      {
+        "assunto": "Responde a Pedro Filipe Soares.",
+        "duracao": "00:01:01:622",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:27:08:872&drc=00:01:01:622"
+      },
+      {
+        "assunto": "Responde a João Oliveira.",
+        "duracao": "00:02:19:119",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=01:28:54:394&drc=00:02:19:119"
+      }
+    ],
+    "DataReuniaoPlenaria": "2013-12-05",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "2006",
+      "nome": "Assunção Esteves"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "192116",
+    "IdDebate": "4708",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "192116",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "22-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-06",
+        "pubLeg": "XII",
+        "pubNr": "24",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/22?pgs=22-24&org=PLC"
+      }
+    ],
+    "Qualidade": "P.A.R.",
+    "Resumo": "Responde às interpelações dos Deputados João Oliveira (PCP) e Pedro Filipe Soares (BE)",
+    "Sessao": "3",
+    "Sumario": "Decreto-lei nº 152/2013, de 4 de novembro que \"Aprova o estatuto do Ensino Particular e Cooperativo de nível não superior\"; Decreto-lei nº 152/2013, de 4 de novembro que aprova o Estatuto do Ensino Particular e Cooperativo de nível não superior.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
