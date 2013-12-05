@@ -1,0 +1,503 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "810",
+    "id": "37880",
+    "titulo": "Pela continuação do festival internacional de teatro de expressão Ibérica - FITEI."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-12-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9678",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-12-05",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38064",
+        "leg": "XII",
+        "nr": "861",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1822",
+            "obs": null,
+            "pag": [
+              "42-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-06",
+            "pubLeg": "XII",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/42?pgs=42-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1822",
+            "obs": null,
+            "pag": [
+              "42-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-06",
+            "pubLeg": "XII",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/42?pgs=42-50&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo concurso extraordinário de apoio às artes para colmatar deficiências graves de oferta cultural, como as evidenciadas pelo perigo de extinção do fitei - Festival Internacional de Teatro de Expressão Ibérica."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38072",
+        "leg": "XII",
+        "nr": "864",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1822",
+            "obs": null,
+            "pag": [
+              "42-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-06",
+            "pubLeg": "XII",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/42?pgs=42-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1822",
+            "obs": null,
+            "pag": [
+              "42-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-06",
+            "pubLeg": "XII",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/42?pgs=42-50&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Determina a realização de concursos extraordinários de apoio às artes."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-12-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:37:46:600&drc=00:03:43:832"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=03:05:34:848&drc=00:02:24:822"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43",
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/43?pgs=43,49-50&org=PLC"
+              }
+            ],
+            "sumario": "Pela continuação do festival internacional de teatro de expressão Ibérica - FITEI; Recomenda ao Governo concurso extraordinário de apoio às artes para colmatar deficiências graves de oferta cultural, como as evidenciadas pelo perigo de extinção do fitei - Festival Internacional de Teatro de Expressão Ibérica; Determina a realização de concursos extraordinários de apoio às artes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:41:40:855&drc=00:03:49:903"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=03:01:40:157&drc=00:01:43:291"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44",
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/43?pgs=43-44,48-49&org=PLC"
+              }
+            ],
+            "sumario": "Pela continuação do festival internacional de teatro de expressão Ibérica - FITEI; Recomenda ao Governo concurso extraordinário de apoio às artes para colmatar deficiências graves de oferta cultural, como as evidenciadas pelo perigo de extinção do fitei - Festival Internacional de Teatro de Expressão Ibérica; Determina a realização de concursos extraordinários de apoio às artes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:45:35:658&drc=00:03:36:772"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=03:03:26:000&drc=00:01:59:000"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45",
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/44?pgs=44-45,49&org=PLC"
+              }
+            ],
+            "sumario": "Pela continuação do festival internacional de teatro de expressão Ibérica - FITEI; Recomenda ao Governo concurso extraordinário de apoio às artes para colmatar deficiências graves de oferta cultural, como as evidenciadas pelo perigo de extinção do fitei - Festival Internacional de Teatro de Expressão Ibérica; Determina a realização de concursoa extraordinários de apoio às artes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4394",
+                "nome": "Emília Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:49:20:685&drc=00:04:21:310"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Pela continuação do festival internacional de teatro de expressão Ibérica - FITEI; Recomenda ao Governo concurso extraordinário de apoio às artes para colmatar deficiências graves de oferta cultural, como as evidenciadas pelo perigo de extinção do fitei - Festival Internacional de Teatro de Expressão Ibérica; Determina a realização de concursoa extraordinários de apoio às artes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:53:52:983&drc=00:02:51:478"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Pela continuação do festival internacional de teatro de expressão Ibérica - FITEI; Recomenda ao Governo concurso extraordinário de apoio às artes para colmatar deficiências graves de oferta cultural, como as evidenciadas pelo perigo de extinção do fitei - Festival Internacional de Teatro de Expressão Ibérica; Determina a realização de concursoa extraordinários de apoio às artes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4064",
+                "nome": "Inês de Medeiros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131205pln&url=l12/sl3/a2013/m12/&tI=02:56:51:371&drc=00:04:45:629"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-06",
+                "pubLeg": "XII",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Pela continuação do festival internacional de teatro de expressão Ibérica - FITEI; Recomenda ao Governo concurso extraordinário de apoio às artes para colmatar deficiências graves de oferta cultural, como as evidenciadas pelo perigo de extinção do fitei - Festival Internacional de Teatro de Expressão Ibérica; Determina a realização de concursoa extraordinários de apoio às artes.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294380",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "667852",
+        "obs": null,
+        "pag": [
+          "42-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-06",
+        "pubLeg": "XII",
+        "pubNr": "24",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/024/2013-12-06/42?pgs=42-50&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
