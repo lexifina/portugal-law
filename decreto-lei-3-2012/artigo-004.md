@@ -10,9 +10,9 @@ a) Superintender tecnicamente nos procedimentos dos serviços, organismos e enti
 
 b) Garantir o cumprimento das medidas de protecção da informação classificada originada das organizações internacionais de que Portugal faz parte ou das respectivas estruturas internas, bem como de outros Estados, nos termos dos instrumentos de vinculação aplicáveis ao Estado Português;
 
-c) Atribuir, controlar, alterar e cancelar a credenciação de segurança de pessoas singulares ou coletivas, públicas ou privadas, ou de quaisquer outros serviços ou organismos, onde seja administrada informação classificada ou que necessitem de desenvolver atividades específicas que, nos termos da lei, envolvam a administração dessa informação;
+c) Atribuir, controlar e revogar a credenciação de segurança de pessoas singulares ou colectivas, públicas ou privadas, ou de quaisquer outros serviços ou organismos, onde seja administrada informação classificada ou que necessitem de desenvolver actividades específicas que, nos termos da lei, envolvam a administração dessa informação;
 
-d) Determinar a fiscalização e a inspeção periódica das entidades detentoras de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, de modo a verificar e promover o cumprimento das normas, procedimentos e condições de segurança;
+d) Determinar a fiscalização e a inspecção periódica de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, de modo a verificar e promover o cumprimento dos normativos, procedimentos e condições de segurança;
 
 e) Autorizar a abertura e determinar o encerramento de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, fixando as respectivas atribuições, competências e normas de funcionamento;
 
@@ -28,22 +28,18 @@ j) Conferir os certificados de habilitação exigidos por disposição legal ou 
 
 l) Exercer as competências de credenciação de segurança, proceder ao registo e exercer as demais competências de autoridade credenciadora e de fiscalização das entidades certificadoras integradas no SCEE e das entidades que operam no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica, nos termos nele previstos;
 
-m) Atribuir credenciação de segurança nacional às pessoas singulares ou coletivas que pretendam exercer as atividades de comércio e indústria de bens e tecnologias militares;
+m) Atribuir credenciação de segurança nacional às empresas que pretendam exercer as actividades de comércio e indústria de bens e tecnologias militares;
 
 n) Atribuir credenciação de segurança a entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;
 
-o) Atribuir credenciação de segurança no âmbito do Sistema GALILEO e proceder à gestão das chaves de cifra da sua componente de segurança, quando da respetiva operação;
+o) Atribuir credenciação de segurança no âmbito do Sistema GALILEO e proceder à gestão das chaves da sua componente de segurança, quando da respectiva operação;
 
 p) Determinar a realização de limpezas electrónicas no âmbito de avaliação de ambientes de segurança nas componentes geral, local e electrónica;
 
-q) Representar o Estado Português nas reuniões que tratem da proteção e salvaguarda da informação classificada, no âmbito das organizações, estruturas, grupos de trabalho e projetos internacionais de que Portugal seja parte integrante, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;
+q) Representar Portugal nas reuniões que tratem da protecção e salvaguarda da informação classificada, no âmbito das organizações, estruturas, grupos de trabalho e projectos internacionais de que o País seja parte integrante, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;
 
 r) Propor a celebração e colaborar na elaboração dos acordos bilaterais de segurança da informação classificada, em articulação com o Ministério dos Negócios Estrangeiros.
 
-s) Exercer as competências de credenciação das plataformas eletrónicas e dos respetivos auditores de segurança e exercer as demais competências de entidade credenciadora, nos termos do disposto na lei que regula a disponibilização e a utilização das plataformas eletrónicas de contratação pública;
+3 - O diretor-geral exerce ainda as competências previstas para os titulares de cargos de direção superior nos termos do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.
 
-t) Exercer as competências de autoridade nacional de distribuição, no âmbito da gestão do material de cifra de produção nacional ou confiado à guarda do Estado Português.
-
-3 - O diretor-geral exerce ainda as competências previstas para os titulares de cargos de direção superior nos termos do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado.
-
-4 - Os subdiretores gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo a este designar o subdiretor geral que o substitui nas suas faltas e impedimentos.
+4 - Compete ao subdirector-geral substituir o director-geral nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.
