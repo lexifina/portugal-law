@@ -1,0 +1,459 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "422",
+    "id": "37759",
+    "titulo": "Defende os serviços públicos e os postos de trabalho afetos à atividade empresarial local e das participações locais primeira alteração à Lei n.º 50/2012, de 31 de agosto, que institui o regime jurídico da atividade empresarial local e das participações locais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2013-12-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9683",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2013-12-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37797",
+        "leg": "XII",
+        "nr": "424",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1828",
+            "obs": null,
+            "pag": [
+              "15-22"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-07",
+            "pubLeg": "XII",
+            "pubNr": "25",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/15?pgs=15-22&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1828",
+            "obs": null,
+            "pag": [
+              "15-22"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-07",
+            "pubLeg": "XII",
+            "pubNr": "25",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/15?pgs=15-22&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Garante a internalização dos trabalhadores que se encontrem a desempenhar funções ao serviço de serviços municipalizados a extinguir ou de empresas municipais a dissolver por força do disposto na Lei n.º 50/2012, de 31 de agosto e define o estatuto dos trabalhadores que lhes estão afetos."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-12-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "14:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:45:46:286&drc=00:02:44:211"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:08:27:358&drc=00:01:50:854"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15",
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/15?pgs=15,21-22&org=PLC"
+              }
+            ],
+            "sumario": "Garante a internalização dos trabalhadores que se encontrem a desempenhar funções ao serviço de serviços municipalizados a extinguir ou de empresas municipais a dissolver por força do disposto na Lei n.º 50/2012, de 31 de agosto e define o estatuto dos trabalhadores que lhes estão afetos; Defende os serviços públicos e os postos de trabalho afetos à atividade empresarial local e das participações locais primeira alteração à Lei n.º 50/2012, de 31 de agosto, que institui o regime jurídico da atividade empresarial local e das participações locais; Em defesa dos Serviços Públicos e dos postos de trabalho - Pela alteração da Lei n.º 50/2012, de 31 de agosto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "14:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:48:37:488&drc=00:02:33:512"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:06:50:720&drc=00:01:32:465"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16",
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/15?pgs=15-16,21&org=PLC"
+              }
+            ],
+            "sumario": "Garante a internalização dos trabalhadores que se encontrem a desempenhar funções ao serviço de serviços municipalizados a extinguir ou de empresas municipais a dissolver por força do disposto na Lei n.º 50/2012, de 31 de agosto e define o estatuto dos trabalhadores que lhes estão afetos; Defende os serviços públicos e os postos de trabalho afetos à atividade empresarial local e das participações locais primeira alteração à Lei n.º 50/2012, de 31 de agosto, que institui o regime jurídico da atividade empresarial local e das participações locais; Em defesa dos Serviços Públicos e dos postos de trabalho - Pela alteração da Lei n.º 50/2012, de 31 de agosto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4173",
+                "nome": "Margarida Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "14:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:51:18:891&drc=00:03:43:108"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Garante a internalização dos trabalhadores que se encontrem a desempenhar funções ao serviço de serviços municipalizados a extinguir ou de empresas municipais a dissolver por força do disposto na Lei n.º 50/2012, de 31 de agosto e define o estatuto dos trabalhadores que lhes estão afetos; Defende os serviços públicos e os postos de trabalho afetos à atividade empresarial local e das participações locais primeira alteração à Lei n.º 50/2012, de 31 de agosto, que institui o regime jurídico da atividade empresarial local e das participações locais; Em defesa dos Serviços Públicos e dos postos de trabalho - Pela alteração da Lei n.º 50/2012, de 31 de agosto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "14:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:55:09:620&drc=00:03:05:659"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Garante a internalização dos trabalhadores que se encontrem a desempenhar funções ao serviço de serviços municipalizados a extinguir ou de empresas municipais a dissolver por força do disposto na Lei n.º 50/2012, de 31 de agosto e define o estatuto dos trabalhadores que lhes estão afetos; Defende os serviços públicos e os postos de trabalho afetos à atividade empresarial local e das participações locais primeira alteração à Lei n.º 50/2012, de 31 de agosto, que institui o regime jurídico da atividade empresarial local e das participações locais; Em defesa dos Serviços Públicos e dos postos de trabalho - Pela alteração da Lei n.º 50/2012, de 31 de agosto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4394",
+                "nome": "Emília Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "14:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=00:58:23:637&drc=00:04:08:888"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/18?pgs=18-20&org=PLC"
+              }
+            ],
+            "sumario": "Garante a internalização dos trabalhadores que se encontrem a desempenhar funções ao serviço de serviços municipalizados a extinguir ou de empresas municipais a dissolver por força do disposto na Lei n.º 50/2012, de 31 de agosto e define o estatuto dos trabalhadores que lhes estão afetos; Defende os serviços públicos e os postos de trabalho afetos à atividade empresarial local e das participações locais primeira alteração à Lei n.º 50/2012, de 31 de agosto, que institui o regime jurídico da atividade empresarial local e das participações locais; Em defesa dos Serviços Públicos e dos postos de trabalho - Pela alteração da Lei n.º 50/2012, de 31 de agosto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:12",
+            "horaTermo": "14:32",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131206pln&url=l12/sl3/a2013/m12/&tI=01:02:40:819&drc=00:04:00:641"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Garante a internalização dos trabalhadores que se encontrem a desempenhar funções ao serviço de serviços municipalizados a extinguir ou de empresas municipais a dissolver por força do disposto na Lei n.º 50/2012, de 31 de agosto e define o estatuto dos trabalhadores que lhes estão afetos; Defende os serviços públicos e os postos de trabalho afetos à atividade empresarial local e das participações locais primeira alteração à Lei n.º 50/2012, de 31 de agosto, que institui o regime jurídico da atividade empresarial local e das participações locais; Em defesa dos Serviços Públicos e dos postos de trabalho - Pela alteração da Lei n.º 50/2012, de 31 de agosto.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Discussão conjunta com a Petição n.º 249/XII/2.ª.",
+    "OevId": "294410",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XII",
+        "nr": "249",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Em defesa dos Serviços Públicos e dos postos de trabalho - Pela alteração da Lei n.º 50/2012, de 31 de agosto."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "687826",
+        "obs": null,
+        "pag": [
+          "15-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-07",
+        "pubLeg": "XII",
+        "pubNr": "25",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/025/2013-12-07/15?pgs=15-22&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
