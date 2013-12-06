@@ -1,0 +1,160 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "185",
+    "id": "38033",
+    "titulo": "Procede à primeira alteração à Lei n.º 36/2003, de 23 de agosto, em cumprimento da Decisão n.º 2009/426/JAI do Conselho, de 16 de dezembro de 2008, relativa ao reforço da Eurojust e que altera a Decisão n.º 2002/187/JAI relativa à criação da Eurojust a fim de reforçar a luta contra as formas graves de criminalidade."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2013-12-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "32574",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2014-02-19",
+            "id": "97049",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-12-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-12-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-02-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a6a5a6c596a6c6c5a5331694f574e6b4c5451314e6a5974596d4d355979307a4d546b7a597a41314e3251354d474d756347526d&fich=1f6eb9ee-b9cd-4566-bc9c-3193c057d90c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-05",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final e relatório da discussão e votação indiciária na especialidade ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a6a686a4e7a49334d7930784e6a59774c54526b4f4751744f4745795a53316a4d7a4e6b4e3252694d7a49324d7a49756347526d&fich=6f8c7273-1660-4d8d-8a2e-c33d7db32632.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação indiciária na especialidade, texto final e propostas de alteração apresentadas pelo PCP",
+            "pag": [
+              "12-23"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-05",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/077/2014-03-05/12?pgs=12-23&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação indiciária na especialidade, texto final e propostas de alteração apresentadas pelo PCP",
+            "pag": [
+              "12-23"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-05",
+            "pubLeg": "XII",
+            "pubNr": "77",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/077/2014-03-05/12?pgs=12-23&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-03-05",
+            "numeroOficio": "Of.265/XII/CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-03-05",
+            "descricao": null,
+            "detalhe": null,
+            "id": "66046",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "210",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-12-06",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294659",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
