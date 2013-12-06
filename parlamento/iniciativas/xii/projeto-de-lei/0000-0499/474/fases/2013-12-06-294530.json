@@ -1,0 +1,250 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "474",
+    "id": "38076",
+    "titulo": "Aprova o regime sancionatório aplicável aos maus-tratos contra animais e alarga os direitos das associações zoófilas, procedendo à 2.ª Alteração à Lei n.º 92/95, de 12 de setembro."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-12-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "32527",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-12-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-12-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Nova Proposta de Substituição (PSD/PS) [Substitui a anterior] ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e6d4e6b4e6a67314d5331694e4441794c5451795a5463744f474a6a4e5331694e7a4e68597a4130597a55794f4759756347526d&fich=36cd6851-b402-42e7-8bc5-b73ac04c528f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d54557a4e6d59795a69316a5a6a5a6d4c54526d4e7a4174596d526b5a5330794f4449304e4759324d5459784d6a59756347526d&fich=91536f2f-cf6f-4f70-bdde-28244f616126.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-01-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d475a694e47526a4f43316d5a6a4d794c5451304d5455744f4749304f43316d4d6a426c597a6c6859544e684d3249756347526d&fich=40fb4dc8-ff32-4415-8b48-f20ec9aa3a3b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-05-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d4752685a57466d5a6931685a6d5a694c54526b5a6a597459574d794f433035596a55344e444d354e32466d5a5451756347526d&fich=10daeaff-affb-4df6-ac28-9b584397afe4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-25",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração (CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d32466a4e4459334e43307a4f475a6d4c5451354f544974596a646b5a4331684d325a6c4d44417a4e44566c597a557555455247&fich=03ac4674-38ff-4992-b7dd-a3fe00345ec5.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Substituição (PSD/PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d7a41354d5459314f5331684d7a6c6c4c54526b5a575174595451354d433168597a6b324d324a6a59546331595759756347526d&fich=33091659-a39e-4ded-a490-ac963bca75af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-25",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto de Substituição e RDVE (substitui o anterior)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d6a55314d6a4a6d4f43307a4f4745334c54526d4d6a6774595445775a6930334e54497a4e54686c4d6d526a5a6a6b756347526d&fich=b25522f8-38a7-4f28-a10f-752358e2dcf9.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2014-01-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2014-02-12"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2014-05-16"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2013-12-17"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2013-12-17"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2013-12-17"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e  proposta de substituição apresentada pelo PSD e PS",
+            "pag": [
+              "2-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-07-18",
+            "pubLeg": "XII",
+            "pubNr": "145",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/145/2014-07-18/2?pgs=2-7&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto de substituição da comissão que substitui o anteriormente publicado e proposta de alteração do CDS-PP apresentada oralmente",
+            "pag": [
+              "30-35"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2014-07-28",
+            "pubLeg": "XII",
+            "pubNr": "151",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/151S2/2014-07-28/30?pgs=30-35&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e  proposta de substituição apresentada pelo PSD e PS",
+            "pag": [
+              "2-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-07-18",
+            "pubLeg": "XII",
+            "pubNr": "145",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/145/2014-07-18/2?pgs=2-7&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto de substituição da comissão que substitui o anteriormente publicado e proposta de alteração do CDS-PP apresentada oralmente",
+            "pag": [
+              "30-35"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2014-07-28",
+            "pubLeg": "XII",
+            "pubNr": "151",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/151S2/2014-07-28/30?pgs=30-35&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-07-25",
+            "numeroOficio": "871/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-07-25",
+            "descricao": null,
+            "detalhe": null,
+            "id": "67128",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "250",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-12-06",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294530",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
