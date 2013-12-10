@@ -57,3 +57,7 @@ Transferências relativas ao capítulo 50
 Transferências para entidades externas, além das que constam do capítulo 50
 
 (ver documento original)
+
+21-A - Transferência de verbas inscritas no orçamento das transferências para a administração local - cooperação técnica e financeira - em montante até (euro) 300 000, para o orçamento da Direção-Geral das Autarquias Locais, independentemente da classificação orgânica e funcional, destinadas ao desenvolvimento de projetos de apoio à modernização da gestão autárquica.
+
+21-B - Transferência de verba inscrita no orçamento das transferências para a administração local - cooperação técnica e financeira - no montante de (euro) 40 396, para o Fundo de Financiamento das Freguesias, destinada ao financiamento, em 2013, da Freguesia do Parques das Nações.
