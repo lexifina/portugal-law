@@ -1,0 +1,7 @@
+Aviso n.º 15067/2013
+Projeto de alteração à "Tabela de taxas e licenças municipais" do Município de Portel
+José Manuel Clemente Grilo, Presidente da Câmara Municipal de Portel, torna público que em cumprimento da deliberação da Câmara Municipal tomada em reunião realizada em 21 de agosto de 2013, submete a discussão pública o projeto de alteração à "Tabela de taxas e licenças municipais", publicada no Edital n.º 701/2010, de 14 de julho, por um período de 30 dias, a contar da data da publicação no Diário da República, nos termos e para os efeitos do previsto no artigo 81.º do SIR - Sistema da Indústria Responsável, publicado no Decreto-Lei n.º 169/2012, de 01 de agosto, conjugado com o estabelecido no artigo 118.º do Código do Procedimento Administrativo.
+Durante o período em que decorre a participação pública, o projeto de alteração em causa está disponível para consulta na página eletrónica do município, www.cm-portel.pt, e no edifício da Câmara Municipal, Praça D. Nuno Álvares Pereira, 7220 - 375 Portel, durante o horário de expediente.
+As observações, sugestões e reclamações que os interessados, devidamente identificados, pretendam apresentar, podem ser feitas por qualquer meio escrito junto desta Câmara Municipal, para o endereço acima indicado ou por correio eletrónico: dao@mail.cm-portel.pt.
+27 de novembro de 2013. - O Presidente da Câmara, Dr. José Manuel Clemente Grilo.
+307429867
