@@ -18,17 +18,17 @@ b) Criação de seis ou mais postos de trabalho, nos seis primeiros meses de act
 
 3 - As entidades referidas nos números anteriores ficam sujeitas à limitação do benefício a conceder, através da aplicação de plafonds máximos à matéria colectável a que é aplicável a taxa reduzida prevista, nos termos seguintes:
 
-a) 2 milhões de euros pela criação de 1 e até 2 postos de trabalho;
+a) 2,73 milhões de euros pela criação de 1 até 2 postos de trabalho;
 
-b) 2,6 milhões de euros pela criação de 3 e até 5 postos de trabalho;
+b) 3,55 milhões de euros pela criação de 3 a 5 postos de trabalho;
 
-c) 16 milhões de euros pela criação de 6 e até 30 postos de trabalho;
+c) 21,87 milhões de euros pela criação de 6 a 30 postos de trabalho;
 
-d) 26 milhões de euros pela criação de 31 e até 50 postos de trabalho;
+d) 35,54 milhões de euros pela criação de 31 a 50 postos de trabalho;
 
-e) 40 milhões de euros, pela criação de 51 e até 100 postos de trabalho;
+e) 54,68 milhões de euros pela criação de 51 a 100 postos de trabalho;
 
-f) 150 milhões de euros pela criação de mais de 100 postos de trabalho.
+f) 205,50 milhões de euros pela criação de mais de 100 postos de trabalho.
 
 4 - Os limites máximos da matéria colectável previstos no número anterior são determinados em função do número de postos de trabalho que as entidades beneficiárias mantêm em cada exercício.
 

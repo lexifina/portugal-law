@@ -33,3 +33,5 @@ d) Secção S, Classe 9602 - Atividades de salões de cabeleireiro e institutos 
 9 - Havendo divergências entre os elementos comunicados pelos adquirentes e pelos sujeitos passivos emitentes, ou havendo indícios de que as faturas não correspondem a prestações de serviços reais enquadradas no n.º 1, o direito ao incentivo depende de confirmação pela AT da veracidade da operação.
 
 10 - Este incentivo não se encontra abrangido pelos limites constantes da tabela do n.º 2 do artigo 88.º do Código do IRS.
+
+11 - O valor do incentivo, calculado nos termos do presente artigo, pode ser atribuído à mesma igreja ou comunidade religiosa radicada em Portugal, à mesma pessoa coletiva de utilidade pública de fins de beneficência, de assistência ou humanitários, ou à mesma instituição particular de solidariedade social, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista na Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de junho.
