@@ -8,8 +8,10 @@ a) Se encontrem na situação prevista no n.º 1 do artigo 99.º do Regime do Co
 
 b) Se encontrem em outras situações configuradas pela lei como preferenciais.
 
-2 - A ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial é efectuada, de forma decrescente:
+2 - A ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial é efetuada, de forma decrescente:
 
-a) Em função da classificação obtida na avaliação final do internato médico da área profissional a que respeita o procedimento concursal;
+a) Em função da classificação obtida na avaliação final do internato médico da área profissional a que respeita o procedimento concursal para o concurso aos postos de Assistente;
 
-b) Maior duração do vínculo à Administração Pública, ainda que já cessado, na área de exercício profissional a que respeita o procedimento concursal.
+b) Em função da classificação obtida na avaliação final das provas para a obtenção do grau de consultar da área profissional a que respeita o procedimento concursal para o concurso aos postos de Assistente Graduado e Assistente Graduado Sénior;
+
+c) Maior duração do vínculo à Administração Pública, ainda que já cessado, na área de exercício profissional a que respeita o procedimento concursal.

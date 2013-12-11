@@ -6,4 +6,4 @@
 
 2 - No mesmo prazo iniciam-se os procedimentos relativos à utilização dos métodos que não exijam a presença dos candidatos.
 
-3 - O júri deve iniciar a avaliação curricular dos candidatos admitidos ao procedimento no prazo máximo de 30 dias úteis após a data de afixação da respectiva lista, devendo a mesma ser concluída, em regra, no prazo máximo de 30 dias úteis.
+3 - O júri deve iniciar a avaliação curricular dos candidatos admitidos ao procedimento no prazo máximo de 30 dias úteis após a data de afixação da respetiva lista, devendo a mesma ser concluída no prazo máximo de 30 dias úteis.

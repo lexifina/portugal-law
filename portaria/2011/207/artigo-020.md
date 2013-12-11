@@ -8,39 +8,41 @@
 
 3 - Dos elementos de maior relevância referidos no número anterior, são obrigatoriamente considerados os seguintes:
 
-a) Exercício de funções no âmbito da área de exercício profissional respectiva, tendo em conta a competência técnico-profissional, o tempo de exercício das mesmas e participação em equipas de urgência interna, externa e de apoio e enquadramento especializado à clínica em cuidados de saúde primários e a avaliação de desempenho obtida;
+a) Exercício de funções no âmbito da área de exercício profissional respetiva, tendo em conta a competência técnico-profissional, o tempo de exercício das mesmas e participação em equipas de urgência e de apoio e enquadramento especializado à prática clínica, com especial enfoque para as atividades relevantes para a saúde pública e cuidados de saúde primários, e a avaliação de desempenho obtida;
 
 b) Actividades de formação nos internatos médicos e outras acções de formação e educação médica frequentadas e ministradas;
 
-c) Trabalhos publicados ou comunicados com interesse clínico e científico para a área profissional respectiva, tendo em conta o seu valor relativo;
+c) Trabalhos publicados, em especial se publicados em revistas com revisão por pares, e trabalhos apresentados publicamente, sob a forma oral ou poster, e atividades de investigação na área da sua especialidade, de acordo com o seu interesse científico e nível de divulgação, tendo em conta o seu valor relativo;
 
-d) Classificação obtida na avaliação final do internato médico da respectiva área de formação específica;
+d) Classificação obtida na avaliação final do internato médico da respetiva área de formação específica;
 
-e) Capacidade e aptidão para a gestão e organização de serviços;
+e) Classificação obtida na avaliação na prova para obtenção do grau de consultor da respetiva área de formação específica;
 
-f) Actividades docentes ou de investigação relacionadas com a respectiva área profissional;
+f) Experiência, capacidade e aptidão para a gestão de equipas, serviços e organizações;
 
-g) Outros factores de valorização profissional, nomeadamente a participação em órgão sociais de sociedades científicas e títulos profissionais.
+g) Atividades docentes ou de investigação relacionadas com a respetiva área profissional;
 
-4 - Os resultados da avaliação curricular são classificados na escala de 0 a 20 valores, com a seguinte distribuição pelos factores estabelecidos nas alíneas do número anterior, consoante a categoria a que respeite o procedimento concursal:
+h) Outros fatores de valorização profissional, nomeadamente títulos académicos.
+
+4 - Os resultados da avaliação curricular são classificados na escala de 0 a 20 valores, com a seguinte distribuição pelos fatores estabelecidos nas alíneas do número anterior, consoante a categoria a que respeite o procedimento concursal:
 
 a) Categoria de assistente:
 
-Alínea a) - de 0 a 8 valores;
+Alínea a) - de 0 a 9 valores;
 
 Alínea b) - de 0 a 2 valores;
 
-Alínea c) - de 0 a 2 valores;
+Alínea c) - de 0 a 3 valores;
 
-Alínea d) - de 0 a 6 valores;
+Alínea d) - de 0 a 4 valores;
 
-Alínea f) - de 0 a 1 valores;
+Alínea g) - de 0 a 1 valores;
 
-Alínea g) - de 0 a 1 valores.
+Alínea h) - de 0 a 1 valores.
 
 b) Categoria de assistente graduado:
 
-Alínea a) - de 0 a 8 valores;
+Alínea a) - de 0 a 6 valores;
 
 Alínea b) - de 0 a 4 valores;
 
@@ -50,21 +52,25 @@ Alínea e) - de 0 a 2 valores;
 
 Alínea f) - de 0 a 1 valores;
 
-Alínea g) - de 0 a 1 valores.
+Alínea g) - de 0 a 2 valores;
+
+Alínea h) - de 0 a 1 valores.
 
 c) Categoria de assistente graduado sénior:
 
 Alínea a) - de 0 a 6 valores;
 
-Alínea b) - de 0 a 3 valores;
+Alínea b) - de 0 a 2 valores;
 
 Alínea c) - de 0 a 4 valores;
 
-Alínea e) - de 0 a 5 valores;
+Alínea e) - de 0 a 1 valores;
 
-Alínea f) - de 0 a 1 valores;
+Alínea f) - de 0 a 5 valores;
 
-Alínea g) - de 0 a 1 valores
+Alínea g) - de 0 a 1 valores;
+
+Alínea h) - de 0 a 1 valores.
 
 5 - Cabe ao júri definir em acta, em momento anterior à publicitação do procedimento, os critérios a que irá obedecer a valorização dos factores enunciados nos números precedentes.
 
