@@ -8,7 +8,7 @@
 
 1 - A avaliação dos candidatos é feita mediante prova pública, que compreende a discussão do curriculum vitae do candidato e a submissão a uma prova prática.
 
-2 - A prova prática consiste na análise de um caso clínico.
+2 - A prova prática consiste na análise de dois casos práticos ou clínicos, adequados à área de especialização em concurso.
 
 3 - A aplicação do método decorre, sempre que possível, no estabelecimento a que pertence o presidente do júri.
 
@@ -22,28 +22,30 @@ b) Competências adquiridas, enquanto conjunto de saberes que, directa ou indire
 
 c) Actividades de formação no internato médico, como orientador de formação, responsável de estágio, director ou coordenador de internato ou membro de júri de avaliação final, actividades de orientação de alunos de licenciaturas na área da saúde e outras acções de formação médica ministradas pelo candidato nos serviços, de acordo com o conteúdo das mesmas e o tempo de exercício;
 
-d) Trabalhos publicados e apresentados publicamente, sob a forma oral ou poster, ou outras actividades de investigação na área da sua especialidade, de acordo com o seu interesse científico e nível de divulgação;
+d) Trabalhos publicados, em especial se publicados em revistas com revisão por pares, em papel ou suporte eletrónico, indexadas em plataformas de informação reconhecidas internacionalmente e com fator de impacto e trabalhos apresentados publicamente, sob a forma oral ou poster, e atividades de investigação na área da sua especialidade, de acordo com o seu interesse científico e nível de divulgação, tendo em conta o seu valor relativo;
 
 e) Acções de formação médica de actualização ou aperfeiçoamento de competências, ministradas por organismo certificado ou acreditado, tendo em consideração o tempo de formação e o interesse da formação para os serviços e para o exercício profissional na respectiva especialidade;
 
-f) Outros factores de valorização curricular, nomeadamente títulos, prémios profissionais, sociedades científicas e participação em outros júris de concurso.
+f) Outros fatores de valorização curricular, nomeadamente, títulos académicos, prémios profissionais e participação em outros júris de concurso.
 
 6 - O peso relativo na classificação final da discussão curricular e da análise de caso clínico é idêntico.
 
-7 - A classificação da discussão curricular é feita na escala de 0 a 20 valores, distribuídos pelos factores de avaliação estabelecidos nas correspondentes alíneas do n.º 5, da seguinte forma:
+7 - A classificação da prova prática resulta da média obtida na classificação da análise de cada caso, expressa de 0 a 20 valores.
 
-a) De 0 a 8 valores;
+8 - A classificação da discussão curricular é feita na escala de 0 a 20 valores, distribuídos pelos fatores de avaliação estabelecidos nas correspondentes alíneas do n.º 5, da seguinte forma:
 
-b) De 0 a 4 valores;
+a) De 0 a 6 valores;
+
+b) De 0 a 3 valores;
 
 c) De 0 a 3 valores;
 
-d) De 0 a 4 valores;
+d) De 0 a 6 valores;
 
-e) De 0 a 0,5 valores;
+e) De 0 a 1 valores;
 
-f) De 0 a 0,5 valores.
+f) De 0 a 1 valores.
 
-8 - A classificação final de cada candidato resulta da média aritmética das classificações atribuídas na discussão curricular e na análise por cada membro do júri, no final da aplicação de cada método de selecção, na escala de 0 a 20 valores, e o resultado final é expresso pelas menções de Aprovado ou Não aprovado.
+9 - A classificação final de cada candidato resulta da média aritmética das classificações atribuídas por cada membro do júri na análise da discussão curricular e da prova prática, no final da aplicação de cada método de seleção, na escala de 0 a 20 valores, e o resultado final é expresso pelo valor obtido.
 
-9 - Considera-se aprovado o candidato que obtenha classificação igual ou superior a 10 valores, sem arredondamentos.
+10 - Considera-se aprovado o candidato que obtenha classificação igual ou superior a 10 valores, sem arredondamentos.

@@ -2,7 +2,7 @@
 
 ### Composição do júri
 
-1 - O júri é composto por um presidente, por dois vogais efectivos e por dois vogais suplentes, dos quais dois elementos, com excepção do presidente, devem ser indicados pela Ordem dos Médicos.
+1 - O júri é composto por um presidente, por dois vogais efetivos e por dois vogais suplentes, dos quais o segundo vogal efetivo e o primeiro suplente devem ser indicados pela Ordem dos Médicos.
 
 2 - Nas suas faltas e impedimentos o presidente do júri é substituído pelo 1.º vogal efectivo.
 

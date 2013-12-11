@@ -10,7 +10,7 @@
 
 2 - Podem candidatar-se ao procedimento concursal de habilitação ao grau de consultor, na respectiva especialidade, os médicos com, pelo menos, cinco anos de exercício efectivo de funções, contados após a obtenção do grau de especialista.
 
-3 - Para efeitos do número anterior, entende-se por exercício efectivo de funções o desempenho devidamente comprovado das respectivas funções em serviços ou estabelecimentos onde se aplique o regime legal da carreira médica.
+3 - Para efeitos do número anterior, entende-se por exercício efetivo de funções o desempenho devidamente comprovado das respetivas funções, em serviços ou estabelecimentos onde se aplique o regime legal da carreira médica, ao seja, sujeitas ao regime e disciplina, consoante o caso, do Decreto-Lei n.º 176/2009, de 4 de agosto, e do Decreto-Lei n.º 177/2009, de 4 de agosto.
 
 4 - A verificação dos requisitos de admissão ao procedimento concursal é efectuada pelas ARS.
 
