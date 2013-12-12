@@ -1,0 +1,135 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "164",
+  "data_registo": "2013-12-12",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de protesto sobre a atual situação na Ucrânia",
+    "AutoresGP": [
+      "PSD",
+      "PS",
+      "CDS-PP",
+      "Laurentino Dias (PS)",
+      "António Gameiro (PS)",
+      "António Rodrigues (PSD)",
+      "Sérgio Azevedo (PSD)",
+      "José Lino Ramos (CDS-PP)",
+      "Duarte Marques (PSD)",
+      "Nuno Magalhães (CDS-PP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2013-12-13",
+    "DataAnuncio": null,
+    "DataEntrada": "2013-12-12",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "164",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "666880",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-14",
+        "pubLeg": "XII",
+        "pubNr": "17",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/017/2013-12-14/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "28896",
+        "obs": null,
+        "pag": [
+          "44-46",
+          "51-51"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-14",
+        "pubLeg": "XII",
+        "pubNr": "29",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/029/2013-12-14/44?pgs=44-46,51&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2013-12-13",
+        "descricao": "Alíneas a) e b)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PCP</I>",
+        "id": "65477",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "668542",
+            "obs": null,
+            "pag": [
+              "46-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-14",
+            "pubLeg": "XII",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/029/2013-12-14/46?pgs=46-47&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": null,
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2013-12-13",
+        "descricao": "Alíneas c) e d)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>Carlos Enes (PS)</I>, <I> Ferro Rodrigues (PS)</I>, <I> Inês De Medeiros (PS)</I>, <I> Isabel Alves Moreira (PS)</I>, <I> Jorge Lacão (PS)</I>, <I> Sérgio Sousa Pinto (PS)</I>",
+        "id": "65478",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
