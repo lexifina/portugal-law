@@ -1,0 +1,559 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "853",
+    "id": "37996",
+    "titulo": "Pela rejeição do pacote legislativo comunitário \"Céu Único Europeu / SES2+\"."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2013-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9702",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2013-12-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37971",
+        "leg": "XII",
+        "nr": "845",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda a rejeição da aplicação do \"PACOTE SES2+\" em Portugal."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "37974",
+        "leg": "XII",
+        "nr": "847",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomendação ao Governo relativamente ao Céu Único Europeu."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38093",
+        "leg": "XII",
+        "nr": "878",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1823",
+            "obs": null,
+            "pag": [
+              "35-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2013-12-13",
+            "pubLeg": "XII",
+            "pubNr": "28",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a rejeição das medidas de atualização dos regulamentos do Céu Único Europeu (SES2+)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2013-12-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131212pln&url=l12/sl3/a2013/m12/&tI=02:02:39:231&drc=00:02:29:262"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131212pln&url=l12/sl3/a2013/m12/&tI=02:26:06:179&drc=00:01:59:449"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35",
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-13",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35,41&org=PLC"
+              }
+            ],
+            "sumario": "Recomendação ao Governo relativamente ao Céu Único Europeu; Recomenda a rejeição da aplicação do \"PACOTE SES2+\" em Portugal; Pela rejeição do pacote legislativo comunitário \"Céu Único Europeu / SES2+\"; Recomenda ao Governo a rejeição das medidas de atualização dos regulamentos do Céu Único Europeu (SES2+).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131212pln&url=l12/sl3/a2013/m12/&tI=02:05:18:934&drc=00:03:56:752"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131212pln&url=l12/sl3/a2013/m12/&tI=02:23:30:318&drc=00:02:27:682"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36",
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-13",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/36?pgs=36,40&org=PLC"
+              }
+            ],
+            "sumario": "Recomendação ao Governo relativamente ao Céu Único Europeu; Recomenda a rejeição da aplicação do \"PACOTE SES2+\" em Portugal; Pela rejeição do pacote legislativo comunitário \"Céu Único Europeu / SES2+\"; Recomenda ao Governo a rejeição das medidas de atualização dos regulamentos do Céu Único Europeu (SES2+).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131212pln&url=l12/sl3/a2013/m12/&tI=02:09:22:446&drc=00:04:11:954"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-13",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Recomendação ao Governo relativamente ao Céu Único Europeu; Recomenda a rejeição da aplicação do \"PACOTE SES2+\" em Portugal; Pela rejeição do pacote legislativo comunitário \"Céu Único Europeu / SES2+\"; Recomenda ao Governo a rejeição das medidas de atualização dos regulamentos do Céu Único Europeu (SES2+).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131212pln&url=l12/sl3/a2013/m12/&tI=02:13:39:211&drc=00:04:28:159"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-13",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Recomendação ao Governo relativamente ao Céu Único Europeu; Recomenda a rejeição da aplicação do \"PACOTE SES2+\" em Portugal; Pela rejeição do pacote legislativo comunitário \"Céu Único Europeu / SES2+\"; Recomenda ao Governo a rejeição das medidas de atualização dos regulamentos do Céu Único Europeu (SES2+).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2263",
+                "nome": "Ana Paula Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20131212pln&url=l12/sl3/a2013/m12/&tI=02:18:19:739&drc=00:05:04:091"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2013-12-13",
+                "pubLeg": "XII",
+                "pubNr": "28",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Recomendação ao Governo relativamente ao Céu Único Europeu; Recomenda a rejeição da aplicação do \"PACOTE SES2+\" em Portugal; Pela rejeição do pacote legislativo comunitário \"Céu Único Europeu / SES2+\"; Recomenda ao Governo a rejeição das medidas de atualização dos regulamentos do Céu Único Europeu (SES2+).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294617",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "668538",
+        "obs": null,
+        "pag": [
+          "35-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2013-12-13",
+        "pubLeg": "XII",
+        "pubNr": "28",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/028/2013-12-13/35?pgs=35-41&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
