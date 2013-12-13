@@ -1,0 +1,187 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "453",
+    "id": "37941",
+    "titulo": "31ª alteração ao Código Penal, 6ª alteração à Lei n.º 34/87, de 16 de julho, 1ª alteração à Lei n.º 20/2008, de 21 de abril, 1ª alteração à Lei n.º 50/2007, de 31 de agosto, e 1ª alteração à Lei n.º 19/2008, de 21 de abril, no sentido de dar cumprimento às recomendações dirigidas a Portugal em matéria de corrupção pelo GRECO, Nações Unidas e OCDE no contexto de processos de avaliações mútuas."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2013-12-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "32577",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-05-13",
+            "id": "97735",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-05-13",
+            "id": "97734",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2013-12-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2013-12-13",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-02-13",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1- Proposta de Alteração (PSD/CDS-PP/PS/PCP/BE/PEV)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a544a695a4745794f533030597a566a4c5451324f544d74596a4a6d4e53316c4d4755334e6a51344d7a4134596a597555455247&fich=2e2bda29-4c5c-4693-b2f5-e0e7648308b6.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Departamento Central de Investigação e Acção Penal (DCIAP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e444e69595751304f5330325a5445324c54526a59545574596a49304d5330775a6a493559546c6b5a5449325a4455756347526d&fich=e43bad49-6e16-4ca5-b241-0f29a9de26d5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho de Prevenção da Corrupção",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e324a695a5745794e533168597a49354c5451784d7a67744f4745774e693078597a517a4d4751324d5751304e5449756347526d&fich=77bbea25-ac29-4138-8a06-1c430d61d452.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-18",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final e relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5463795a545a6c5a6930784e47466b4c5452684d5463745957466a4d69316d59574d794e4759795a5455355a6d49756347526d&fich=a172e6ef-14ad-4a17-aac2-fac24f2e59fb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2014-02-06"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2014-01-23"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas, em conjunto, pelo PSD, PS, CDS-P, PCP, BE e PEV",
+            "pag": [
+              "3-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-02-18",
+            "pubLeg": "XII",
+            "pubNr": "79",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/079/2015-02-18/3?pgs=3-17&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas, em conjunto, pelo PSD, PS, CDS-P, PCP, BE e PEV",
+            "pag": [
+              "3-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-02-18",
+            "pubLeg": "XII",
+            "pubNr": "79",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/079/2015-02-18/3?pgs=3-17&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-02-18",
+            "numeroOficio": "175/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-02-18",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68523",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "290",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2013-12-13",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294668",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
