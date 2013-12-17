@@ -1,0 +1,67 @@
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 23/2013/M
+
+**Emissor:** ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA
+
+**Publicação:** JORAM, I série, n.º 176/2013, de 2013-12-17
+
+**Sumário:** Recomenda à Assembleia da República que delibere sobre os deveres de intervenção do Estado Português relativamente às mulheres vítimas de tráfico para efeitos de exploração sexual. Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 24/2013/M Delibera sobre a prostituição e a abolição da escravatura do século XXI. Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 25/2013/M Aprova o Orçamento da Assembleia Legislativa da Região Autónoma da Madeira para o ano de 2014.
+
+## Texto
+
+Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 23/2013/M
+De 17 de dezembro
+Deveres de intervenção do Estado Português relativamente às mulheres vítimas de tráfico
+para efeitos de exploração sexual
+Segundo a United Nations Office on Drugs and Crime (UNODC), mais de 2,4 milhões de pessoas são atualmente vítimas de tráfico para fins comerciais. Segundo o relatório Global Report on Trafficking in Persons - UN.GIFT, de fevereiro de 2009, a exploração sexual assume-se como a forma mais relatada de tráfico, com 79% dos casos, registando o tráfico para fins de exploração laboral 18% das situações.
+No Relatório Anual Sobre Tráfico de Pessoas, publicado em junho de 2010 pelo Departamento de Estado norte-americano, Portugal é apontado como país de destino, trânsito e origem de tráfico de seres humanos destinados à exploração sexual e laboral. Identifica como zonas de origem de pessoas traficadas para Portugal o Brasil, Europa de Leste e África, sublinhando a exploração sexual de mulheres portuguesas, relevando, com particular acuidade o crescente tráfico de menores, a que, infelizmente, as entidades governativas do nosso País não têm dado qualquer resposta eficaz que vise a sua eficaz prevenção e/ou exemplar punição.
+O sucessivo empobrecimento das pessoas, o galopante crescimento do desemprego, o aumento de fenómenos de marginalidade e dependências, arrasta consigo o inegável aumento das causas da prostituição, que, como na violência doméstica, em que há unanimidade no reconhecimento do estatuto das vítimas, também não é uma escolha, uma livre decisão, senão para a maioria das pessoas a única saída.
+Nesse sentido vai também a Lei n.º 23/80, de 26 de julho, que ratificou a Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, bem como a Resolução da Assembleia da República n.º 17/2002, de 8 de março, que aprovou para a ratificação o Protocolo Opcional à Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres, ratificado pelo Decreto do Presidente da República n.º 15/2002, de 8 de março, bem como a Decisão-Quadro do Conselho, de 19 de julho de 2002, relativa à luta contra o tráfico de seres humanos ao considerar que este "constitui uma grave violação dos direitos humanos fundamentais e da dignidade humana e implica práticas cruéis, como a exploração e manipulação de pessoas vulneráveis, bem como a utilização de violência, ameaças, servidão por dívidas e coação", sendo que o consentimento das vítimas é irrelevante.
+Representantes de nações e de organizações não governamentais reuniram-se em junho de 1993, em Viena, sob os auspícios da ONU, visando uma Conferência Mundial das Nações Unidas sobre os direitos humanos. Os representantes presentes asseguraram que os direitos das mulheres fossem reconhecidos como direitos humanos:
+" Os direitos humanos das mulheres e das meninas são inalienáveis, integrais e são uma parte indivisível dos direitos humanos universais."
+" A violência baseada no sexo e todas as formas de perseguição e exploração sexual, incluindo aquelas resultantes de preconceitos culturais e tráfico internacional são incompatíveis com a
+
+dignidade e valor da pessoa humana e devem ser eliminados" (Declaração e Plataforma de Ação de Viena, 1993, pág. 33). Assim, o tema da violência e da exploração sexual está indissociavelmente ligado aos direitos humanos. Por este motivo, é imperioso o reconhecimento da exploração na prostituição como uma clara e inadmissível violação dos direitos humanos, bem como a tomada de medidas urgentes que promovam um efetivo combate ao tráfico e à exploração sexual. Assim, em conformidade com a Constituição da República Portuguesa e com o Estatuto Político-Administrativo da Região Autónoma da Madeira, e de acordo com o Regimento, a Assembleia Legislativa da Região Autónoma da Madeira recomenda à Assembleia da República que delibere no sentido de:
+1 - Salientar que uma política de prevenção contra a prostituição deve ter por base uma transformação das mentalidades dos cidadãos, a todos os níveis da sociedade, tendo por finalidade a igualdade de direitos entre mulheres e homens, e a superação dos estereótipos que apresentam a mulher como um "ser inferior" e mero objeto de prazer sexual.
+2 - Salientar a responsabilidade e o papel que os órgãos de Comunicação Social têm em toda a política destinada à prevenção e combate da exploração das mulheres para efeitos de prostituição, em particular no que concerne à difusão de anúncios e outra publicidade sobre atividades relacionadas com a prostituição e o tráfico de seres humanos.
+3 - Salientar a necessidade de combater eficazmente o proxenetismo organizado, denunciando-o e punindo-o com pesadas penas.
+4 - Sublinhar a necessidade de travar a indústria e o comércio da pornografia enquanto elemento que contribui para a degradação e minimização da imagem e do papel da mulher, designadamente quando implicarem menores.
+5 - Recomendar que, relativamente às mulheres vítimas de tráfico para efeitos de exploração sexual, se tomem medidas urgentes, visando em particular: a) A criação de serviços, no quadro da Segurança Social, de atendimento especializado que tomem as primeiras medidas visando assegurar a sua integridade física, tal como a lei prevê, garantindo que possam apresentar queixa às autoridades judiciárias sem recear a expulsão do país; b) A criação de serviços SOS de atendimento telefónico, suscetíveis de aconselhar as mulheres vítimas de tráfico na sua língua materna; c) Assegurar o acolhimento temporário, em lugar seguro, que garanta assistência psicológica, médica, social e jurídica; d) Garantir facilidades de tradução, nomeadamente na polícia e nos tribunais; e) A possibilidade de acesso a autorização de residência no nosso País, e de autorização de exercício de atividade profissional, sempre que a repatriação possa pôr em perigo a segurança e a integridade das vítimas ou exista a possibilidade de serem de novo vítimas de exploração.
+
+f) Garantir a repatriação das vítimas quando for esse o seu desejo, adotando as medidas necessárias para que a sua segurança e proteção sejam escrupulosamente asseguradas.
+6 - Recomendar a criação de um Observatório Nacional da Prostituição e Tráfico de Mulheres, com a participação nomeadamente de organizações não governamentais que trabalhem nessa área, de associações de mulheres e de associações de imigrantes.
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de novembro de 2013.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Miguel Jardim Olival de Mendonça
+Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 24/2013/M
+De 17 de dezembro
+Prostituição e a abolição da escravatura do século XXI
+Considerando que a prostituição corresponde, nos nossos dias, a evidentes práticas de escravatura;
+Considerando que no passado dia 2 de dezembro, Dia Internacional para a Abolição da Escravatura, celebraram-se 63 anos sobre a aprovação da Convenção das Nações Unidas para a Supressão do Tráfico de Pessoas e da Exploração da Prostituição de Outrem (1949), ratificada por Portugal em 1991, e que no seu preâmbulo afirma que "a prostituição e o mal que a acompanha, a saber, o tráfico de pessoas com vista à prostituição, são incompatíveis com a dignidade e o valor da pessoa humana e põem em perigo o bem-estar do indivíduo, da família e da comunidade";
+Considerando que, passados mais de 60 anos, a prostituição e o tráfico de mulheres e crianças para efeitos de exploração sexual são realidades mundiais, tendo-se tornado questões sociais muito preocupantes que assumem assustadoras dimensões e contornos dramáticos;
+Considerando que, de acordo com dados da United Nations Office on Drugs and Crime (UNODC), mais de 2,4 milhões de pessoas são atualmente vítimas de tráfico para fins comerciais, e que segundo o relatório Global Report on Trafficking in Persons - UN.GIFT, de fevereiro de 2009, a exploração sexual assume-se como a forma mais relatada de tráfico, com 79% dos casos (sendo que a maioria são mulheres e crianças), registando o tráfico para fins de exploração laboral 18% das situações;
+Considerando que na União Europeia, cerca de 500.000 mulheres e crianças vítimas de tráfico são abusadas e exploradas sexualmente, efetuando-se o recrutamento para a prática da prostituição em idades muito jovens, incluindo crianças entre os 13 e os 16 anos, e cerca de 70 a 80% das pessoas prostituídas foram vítimas de abuso sexual ou de violação;
+Considerando que o tráfico de seres humanos assume dimensões mundiais, é diretamente controlado pelo crime organizado e rivaliza em importância com o tráfico de armas e de drogas, estimando-se que representa lucros no valor de 12 mil milhões de dólares por ano;
+Considerando que a esmagadora maioria das vítimas vive em situações de autêntica escravatura e são alvo das piores violências sexuais, físicas e psicológicas;
+
+Considerando que, também em Portugal, e, em especial, na Região Autónoma da Madeira, a prostituição é um fenómeno de dimensão nacional e transnacional que vitimiza, por forma dramática, muitas mulheres e crianças, havendo múltiplas redes de tráfico atuando no território nacional;
+Considerando que é reconhecido, quer pelas instituições que trabalham no terreno com as vítimas, quer por diversas organizações nacionais e internacionais, que as principais causas da prostituição são a pobreza e a discriminação social das mulheres e das crianças, o que as coloca numa posição de maior vulnerabilidade;
+Considerando que, para além da Convenção da ONU de 1949, diversos instrumentos de Direito Internacional, a maioria dos quais ratificados por Portugal, contêm normas e recomendações sobre prostituição e tráfico de pessoas, nomeadamente ao nível da Organização das Nações Unidas, da União Europeia e do Conselho da Europa, incluindo medidas efetivas de apoio às vítimas;
+Considerando que a prostituição e o tráfico de mulheres e crianças constituem uma clara violação dos mais elementares direitos humanos, da dignidade humana, e dos princípios fundamentais do Direito e da Democracia;
+Considerando que a luta contra a prostituição e o tráfico de seres humanos deve assentar necessariamente em medidas preventivas, numa legislação eficaz e em medidas efetivas de apoio às vítimas;
+Considerando que em Portugal, e, em especial, na Região Autónoma da Madeira, são claramente insuficientes as estruturas de apoio às mulheres vítimas de prostituição e tráfico, que permitam a sua recuperação psicológica e física e a sua efetiva integração social;
+Assim, em conformidade com a Constituição da República Portuguesa e com o Estatuto Político-Administrativo da Região Autónoma da Madeira, e de acordo com o Regimento, a Assembleia Legislativa da Região Autónoma da Madeira delibera:
+1 - Afirmar a necessidade urgente de serem tomadas medidas efetivas de apoio às mulheres vítimas de prostituição e tráfico para efeitos de exploração sexual.
+2 - Recomendar a criação de linhas SOS de atendimento permanente para vítimas de prostituição.
+3 - Recomendar a criação de uma rede de centros de apoio e abrigo para mulheres vítimas de prostituição e tráfico, que prestem assistência psicológica, médica, social e jurídica.
+4 - Recomendar a adoção urgente de estratégias específicas de integração social das mulheres vítimas de prostituição, nomeadamente através de programas de formação profissional de emprego que aumentem as suas oportunidades económicas e de autonomia social.
+5 - Recomendar a realização de parcerias e o apoio a organizações não governamentais de reconhecida experiência que apoiem as mulheres vítimas de prostituição.
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de novembro de 2013.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Miguel Jardim Olival de Mendonça
+
+Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 25/2013/M
+De 17 de dezembro
+Aprova o Orçamento da Assembleia Legislativa da Região Autónoma da Madeira para o ano de 2014
+A Assembleia Legislativa da Região Autónoma da Madeira, reunida em Plenário em 27 de novembro de 2013 resolveu, nos termos dos artigos 5.º, alínea a), e 49.º do Decreto Legislativo Regional n.º 24/89/M, de 7 de setembro, com as alterações introduzidas pelos Decretos
+
+Legislativos Regionais n.ºs 10-A/2000, de 27 de abril, e 16/2012/M, de 13 de agosto, aprovar o Orçamento da Assembleia Legislativa da Região Autónoma da Madeira para o ano de 2014, que faz parte integrante da presente resolução.
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de novembro de 2013.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Miguel Jardim Olival de Mendonça
