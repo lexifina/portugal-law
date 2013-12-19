@@ -1,0 +1,7 @@
+Instrução n.º 3/2013
+SRMTC - Aplicação à Região Autónoma da Madeira da Instrução n.º 1/2013 - 2.ª Secção - Instruções para a organização e documentação das contas das empresas locais, sujeitas ao regime jurídico da atividade empresarial local e das participações locais, aprovado pela Lei n.º 50/2012, de 31 de agosto.
+No uso da competência que me é conferida pela alínea a) do artigo 104.º da Lei n.º 98/97, de 26 de Agosto, conjugada com a alínea a) do n.º 1 do artigo 13.º do Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas, determino o seguinte:
+1 - Aplica-se no território da Região Autónoma da Madeira a Instrução n.º 1/2013 - 2.ª Secção - Instruções para a organização e documentação das contas das empresas locais, sujeitas ao regime jurídico da atividade empresarial local e das participações locais, aprovado pela Lei n.º 50/2012, de 31 de agosto, publicada no DR, 2.ª série, em 22 de novembro, aditada pela retificação n.º 1302/2013, publicada no DR, 2.ª série, em 28 de novembro, através da qual são aprovadas as instruções para a organização e documentação das contas das empresas locais, sujeitas ao regime jurídico da atividade empresarial local e das participações locais, aprovado pela Lei n.º 50/2012, de 31 de agosto.
+2 - A publicação da presente instrução nas 2.as séries do Diário da República e do Jornal Oficial da Região Autónoma da Madeira, nos termos dos n.os 2, alínea d), e 3 do artigo 9.º da citada Lei n.º 98/97.
+9 de dezembro de 2013. - O Juiz Conselheiro, João Francisco Aveiro Pereira.
+207458849
