@@ -1,0 +1,32 @@
+Portaria n.º 363/2013
+de 20 de dezembro
+A declaração Modelo 10 destina-se a dar cumprimento à obrigação declarativa a que se referem a subalínea ii) da alínea c) e a alínea d) do n.º 1 do artigo 119.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS) e o artigo 128.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC).
+Com a entrada em vigor da Lei n.º 66-B/2012, de 31 de dezembro, que introduziu a alterações no artigo 119.º do Código do IRS e aprovou a aplicação de uma sobretaxa sobre os rendimentos sujeitos a IRS auferidos no ano de 2013, mostra-se necessário proceder à adequação do modelo declarativo e respetivas instruções de preenchimento, aprovados pela Portaria n.º 314/2011, de 29 de dezembro.
+Assim:
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de novembro, e do n.º 1 do artigo 144.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, o seguinte:
+Artigo 1.º
+Objeto
+É aprovada a declaração Modelo 10 para cumprimento da obrigação declarativa prevista na subalínea ii) da alínea c) e na alínea d) do n.º 1 do artigo 119.º do Código do IRS e no artigo 128.º do Código do IRC, e respetivas instruções de preenchimento, anexas à presente portaria.
+Artigo 2.º
+Impressos
+Os impressos aprovados constituem modelo exclusivo da Imprensa Nacional-Casa da Moeda, S. A., e, quando entregues em suporte de papel, integram original e duplicado, devendo este ser devolvido ao apresentante no momento da receção, depois de devidamente autenticado.
+Artigo 3.º
+Cumprimento da obrigação
+1 - Estão obrigados ao envio por transmissão eletrónica de dados da declaração a que se refere o número anterior:
+a) Todos os sujeitos passivos de IRC, ainda que isentos, subjetiva ou objetivamente;
+b) Os sujeitos passivos de IRS titulares de rendimentos empresariais ou profissionais.
+2 - As pessoas singulares que, não tendo auferido rendimentos empresariais ou profissionais, estejam obrigadas a cumprir a obrigação declarativa acima referida podem optar por fazê-lo através de transmissão eletrónica de dados ou em suporte de papel.
+3 - As entidades que procedam ao envio através de transmissão eletrónica de dados devem:
+a) Efetuar o registo, caso ainda não disponham de senha de acesso, no Portal das Finanças, no endereço www.portaldasfinancas.gov.pt;
+b) Possuir um ficheiro com as características e estrutura de informação a disponibilizar no mesmo endereço;
+c) Efetuar o envio de acordo com os procedimentos indicados na referida página.
+4 - Quando for utilizada a transmissão eletrónica de dados, a declaração considera-se apresentada na data em que é submetida, sob condição de correção de eventuais erros no prazo de 30 dias.
+5 - Se findo o prazo referido no número anterior não forem corrigidos os erros detetados, a declaração é considerada sem efeito.
+Artigo 4.º
+Norma revogatória
+É revogada a Portaria n.º 314/2011, de 29 de dezembro.
+Artigo 5.º
+Entrada em vigor
+Os impressos aprovados pela presente portaria devem ser utilizados a partir de 1 de janeiro de 2014.
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 6 de dezembro de 2013.
+(ver documento original)
