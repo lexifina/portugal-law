@@ -1,0 +1,16 @@
+Declaração de Retificação n.º 52-B/2013
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei nº 41/2013 de 21 de março, declara-se que a Portaria n.º 315/2013, de 22 de outubro, publicada no Diário da República n.º 204, 1.ª série de 22 de outubro de 2013, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No artigo 1.º, na parte em que se altera o artigo 9.º do Regulamento do Regime de Apoio às Ações Coletivas, onde se lê:
+«Artigo 9.º
+[...]
+1 - ...
+2 - ...
+3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.»
+deve ler-se:
+«Artigo 9.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.»
+Secretaria-Geral, 20 de dezembro de 2013. - O Secretário-Geral, José Maria Belo de Sousa Rego.
