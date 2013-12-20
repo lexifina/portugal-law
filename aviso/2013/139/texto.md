@@ -1,0 +1,5 @@
+Aviso n.º 139/2013
+Por ordem superior se torna público que, em 9 de outubro de 2013, o Canadá informou o Governo Suíço, país depositário, de que retirava a reserva, por si formulada em 23 de junho de 2010, relativamente à Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção, assinada em Washington em 3 de março de 1973.
+A reserva formulada pelo Canadá, agora retirada, dizia respeito às Emendas aos Anexos I e II da Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção, assinada em Washington em 3 de março de 1973, adotadas na 15.ª Conferência das Partes, decorrida em Doha, entre 13 e 25 de março de 2010.
+Portugal é Parte da Convenção, aprovada para ratificação pelo Decreto n.º 50/80, publicado no Diário da República, 1ª série-A, n.º 168, de 23 de julho de 1980, tendo depositado o respetivo instrumento de ratificação em 11 de dezembro de 1980, conforme Aviso publicado no Diário da República, 1ª série-A, n.º 260, de 11 de novembro de 1981.
+Direção-Geral de Política Externa, 9 de dezembro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
