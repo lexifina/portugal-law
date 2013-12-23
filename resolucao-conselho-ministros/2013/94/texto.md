@@ -1,0 +1,21 @@
+Resolução do Conselho de Ministros n.º 94/2013
+A Estratégia Nacional de Segurança Rodoviária (ENSR) 2008-2015, aprovada pela Resolução do Conselho de Ministros n.º 54/2009, de 26 de junho, tem como objetivo fundamental colocar Portugal entre os 10 países da União Europeia com mais baixa taxa de sinistralidade rodoviária, assumindo a ambição de tornar o país num exemplo, sustentável no tempo, no combate à sinistralidade rodoviária.
+No âmbito do desenvolvimento do objetivo operacional 7 - Controlo automático da velocidade - da ENSR, a instalação de um Sistema Nacional de Controlo de Velocidade (SINCRO), foi identificada como uma ação chave cuja responsabilidade de execução foi atribuída à Autoridade Nacional de Segurança Rodoviária (ANSR), no domínio da sua missão e das suas atribuições.
+A promoção do cumprimento dos limites de velocidades legalmente estabelecidos e, consequentemente, o combate à prática de velocidades excessivas através da fiscalização contínua e automática da velocidade de cada veículo em cada local de controlo são, assim, os principais objetivos específicos do SINCRO.
+Pretende-se que o SINCRO seja um sistema telemático, que constitui a infraestrutura física e tecnológica (equipamentos, software, telecomunicações e energia) que assegura automaticamente a fase de deteção da infração por excesso de velocidade do futuro serviço de fiscalização automática de velocidade.
+Neste contexto, e com vista a garantir a instalação do SINCRO é necessário proceder à abertura do procedimento concursal adequado para a aquisição dos respetivos bens e serviços.
+A Agência para a Modernização Administrativa, I.P., emitiu parecer favorável, nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 107/2012, de 18 de maio.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Autoridade Nacional de Segurança Rodoviária (ANSR) a realizar a despesa relativa à aquisição de bens e serviços necessários para a implementação do Sistema Nacional de Controlo de Velocidade (SINCRO), que integra a manutenção aplicacional do Sistema de Gestão de Eventos de Trânsito (SIGET), a aquisição de serviços de operação de âmbito funcional do SIGET, a aquisição e instalação das cabinas e dos cinemómetros e a manutenção dos mesmos, para os anos de 2014 a 2017, até ao montante máximo de 4 007 841,00 EUR, acrescido de IVA à taxa legal em vigor.
+2 - Determinar que os encargos resultantes da aquisição referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
+2014 - 3 047 298,00 EUR;
+2015 - 415 947,00 EUR;
+2016 - 415 947,00 EUR;
+2017 - 128 649,00 EUR.
+3 - Estabelecer que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento da ANSR.
+5 - Determinar, ao abrigo do disposto na alínea b) do n.º 1 do artigo 16.º e nos artigos 130.º e 131.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, o recurso ao procedimento pré-contratual de concurso público com publicação de anúncio no Jornal Oficial da União Europeia para a aquisição referida no n.º 1.
+6 - Delegar, com a faculdade de subdelegação, ao abrigo do n.º 1 do artigo 109.º do CCP, no Ministro da Administração Interna, a competência para a prática de todos os atos a realizar no âmbito do procedimento referido no número anterior, designadamente a competência para aprovar as peças do procedimento, designar o júri do procedimento, proferir o correspondente ato de adjudicação, bem como aprovar a minuta dos contratos a celebrar.
+7 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 12 de dezembro de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
