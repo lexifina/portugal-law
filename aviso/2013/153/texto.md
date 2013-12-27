@@ -1,0 +1,5 @@
+Aviso n.º 153/2013
+Por ordem superior se torna público que, em 17 de maio de 2013, a República do Ruanda depositou, nos termos do n.º 3 do artigo 14.º do Protocolo referente ao Acordo de Madrid sobre o Registo Internacional de Marcas, junto do Diretor-Geral da Organização Mundial de Propriedade Industrial, na qualidade de depositário, o seu instrumento de adesão ao Protocolo, concluído em Madrid, em 27 de junho de 1989, modificado em 3 de outubro de 2006 e em 12 de novembro de 2007.
+O Protocolo entrou em vigor para a República do Ruanda em 17 de agosto de 2013.
+Portugal é Parte do Protocolo, aprovado, para ratificação, pelo Decreto n.º 31/96, publicado no Diário da República, 1.ª série-A, n.º 248, de 25 de outubro de 1996, tendo depositado o respetivo instrumento de confirmação e ratificação em 20 de dezembro de 1996, conforme o Aviso n.º 23/97, publicado no Diário da República, 1.ª série-A, n.º 22, de 27 de janeiro de 1997.
+Direção-Geral de Política Externa, 16 de dezembro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
