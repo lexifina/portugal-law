@@ -1,11 +1,11 @@
 # Artigo 164.º
 
-### Base de incidência contributiva facultativa
+### Escolha da base de incidência contributiva
 
-1 - Para efeitos da fixação da base de incidência contributiva o trabalhador independente pode optar pelo escalão imediatamente anterior ao que lhe corresponde nos termos do n.º 2 do artigo anterior.
+1 - Notificado do escalão de base de incidência contributiva que lhe é aplicável por força do disposto no artigo anterior, o trabalhador independente pode requerer, no prazo que for fixado na respetiva notificação, que lhe seja aplicado um escalão escolhido entre os dois escalões imediatamente inferiores ou imediatamente superiores, sem prejuízo dos limites mínimos previstos nos n.os 3 e 4 do mesmo artigo.
 
-2 - O direito de opção previsto no número anterior é exercido oficiosamente pela entidade de segurança social competente, podendo o trabalhador independente renunciar-lhe apresentando requerimento para o efeito.
+2 - Em fevereiro e junho de cada ano, o trabalhador independente pode pedir a alteração da base de incidência contributiva aplicada, dentro dos limites previstos no número anterior, para produzir efeitos a partir do mês seguinte.
 
-3 - Nos casos em que o rendimento relevante, determinado nos termos do n.º 1 do artigo 162.º, seja igual ou inferior a 12 vezes o valor do IAS, o trabalhador independente pode requerer que lhe seja considerado, como base de incidência contributiva, o valor do duodécimo daquele rendimento, com o limite mínimo de 50 % do valor do IAS, nos termos do disposto no número seguinte.
+3 - Nos casos em que o rendimento relevante determinado, nos termos do n.º 1 do artigo 162.º, seja igual ou inferior a 12 vezes o valor do IAS, é fixado oficiosamente como base de incidência contributiva 50 % do IAS.
 
-4 - O disposto no número anterior só é aplicável ao trabalhador em início ou no reinício de actividade e tem a duração máxima de três anos civis seguidos ou interpolados por trabalhador.
+4 - O trabalhador independente pode renunciar à fixação oficiosa da base de incidência contributiva determinada nos termos do número anterior, apresentando requerimento para o efeito, sendo posicionado no 1.º escalão.

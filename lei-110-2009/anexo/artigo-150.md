@@ -16,6 +16,6 @@
 
 3 - A obrigação contributiva das entidades contratantes constitui-se no momento em que a instituição de segurança social apura oficiosamente o valor dos serviços que lhe foram prestados e efectiva-se com o pagamento da respectiva contribuição.
 
-4 - A prestação de serviços dos profissionais a que se refere as alíneas a) e c) do n.º 1 do artigo 139.º, no respectivo âmbito da actividade profissional, dos trabalhadores que se encontrem isentos da obrigação de contribuir e a prestação de serviços que, por imposição legal, só possa ser desempenhada como trabalho independente não está sujeita à obrigação prevista no número anterior.
+4 - (Revogado.)
 
 5 - Sempre que se verifique a situação prevista no n.º 3, são notificados os serviços de inspecção da Autoridade para as Condições do Trabalho ou os serviços de fiscalização do Instituto da Segurança Social, I. P., com vista à averiguação da legalidade da situação.

@@ -10,12 +10,12 @@
 
 (ver documento original)
 
-4 - Sempre que o rendimento relevante tenha sido apurado nos termos do n.º 2 do artigo anterior, o limite mínimo de base de incidência contributiva corresponde ao segundo escalão.
+4 - Sempre que o rendimento relevante tenha sido apurado nos termos do n.º 3 do artigo anterior, o limite mínimo da base de incidência contributiva corresponde ao 2.º escalão.
 
 5 - A base de incidência contributiva é fixada anualmente em Outubro e produz efeitos nos 12 meses seguintes.
 
-6 - Se, durante os 12 meses em que produz efeitos a base de incidência contributiva fixada nos termos dos números anteriores, o trabalhador independente verificar alterações significativas no seu rendimento, em períodos mínimos de três meses consecutivos, pode requerer uma reavaliação da base de incidência contributiva.
+6 - (Revogado.)
 
-7 - O pedido de reavaliação referido no número anterior só é aceite desde que acompanhado do comprovativo atualizado, certificado pelos serviços da administração tributária e aduaneira.
+7 - (Revogado.)
 
 8 - A actualização da base de incidência resultante da actualização do IAS produz efeitos a partir do 1.º dia do mês seguinte ao da publicação do diploma que proceda àquela actualização.

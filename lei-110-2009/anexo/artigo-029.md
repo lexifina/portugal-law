@@ -10,7 +10,7 @@
 
 ### Comunicação da admissão de trabalhadores
 
-1 - A admissão dos trabalhadores é obrigatoriamente comunicada, pelas entidades empregadoras, através de qualquer meio escrito ou online no sítio da Internet da segurança social, à instituição de segurança social competente.
+1 - A admissão dos trabalhadores é obrigatoriamente comunicada pelas entidades empregadoras à instituição de segurança social competente, no sítio na Internet da segurança social, com exceção dos trabalhadores do serviço doméstico, em que aquela pode ser efetuada através de qualquer meio escrito.
 
 2 - A comunicação referida no número anterior é efectuada:
 

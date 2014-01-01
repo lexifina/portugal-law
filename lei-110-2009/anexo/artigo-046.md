@@ -34,7 +34,7 @@ n) Os valores efectivamente devidos a título de despesas de representação des
 
 o) As gratificações, pelo valor total atribuído, devidas por força do contrato ou das normas que o regem, ainda que a sua atribuição esteja condicionada aos bons serviços dos trabalhadores, bem como as que, pela sua importância e carácter regular e permanente, devam, segundo os usos, considerar-se como elemento integrante da remuneração;
 
-p) As importâncias atribuídas a título de ajudas de custo, abonos de viagem, despesas de transporte e outras equivalentes;
+p) As importâncias atribuídas a título de ajudas de custo, abonos de viagem, despesas de transporte e outras equivalentes, na parte em que excedam os limites legais ou quando não sejam observados os pressupostos da sua atribuição aos servidores do Estado;
 
 q) Os abonos para falhas;
 
@@ -54,7 +54,7 @@ z) As importâncias auferidas pela utilização de automóvel próprio em servi�
 
 aa) As prestações relacionadas com o desempenho obtido pela empresa quando, quer no respectivo título atributivo quer pela sua atribuição regular e permanente, revistam carácter estável independentemente da variabilidade do seu montante.
 
-3 - As prestações a que se referem as alíneas l), p), q), u), v) e z) do número anterior estão sujeitas a incidência contributiva, nos mesmos termos previstos no Código do Imposto sobre o Rendimento das Pessoas Singulares.
+3 - As prestações a que se referem as alíneas l), q), u), v) e z) do número anterior estão sujeitas a incidência contributiva, nos mesmos termos previstos no Código do Imposto sobre o Rendimento das Pessoas Singulares.
 
 4 - Para as prestações a que se referem as alíneas p), q), v) e z) do número anterior, o limite previsto no Código do Imposto sobre o Rendimento das Pessoas Singulares pode ser acrescido até 50 %, desde que o acréscimo resulte de aplicação, de forma geral por parte da entidade empregadora, de instrumento de regulação colectiva de trabalho.
 
