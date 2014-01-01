@@ -22,13 +22,27 @@ As taxas devidas pela utilização de frequências, nos termos do n.º 3 do arti
 
 (ver documento original)
 
-1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM -R):
-
-Taxa aplicável por «área de serviço» e por mega-hertz:
+1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM-R): taxa aplicável por 'área de serviço' e por megahertz:
 
 (ver documento original)
 
-Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50 % nos primeiros três anos de vigência da licença radioelétrica.
+Onde:
+
+A é a área de serviço, em quilómetros quadrados, calculada pela seguinte expressão:
+
+A = L*10
+
+em que:
+
+L representa o comprimento (extensão) em quilómetros da rede ferroviária nacional, atualmente com 2600 km;
+
+10 representa o valor de referência, em quilómetros, que se assume como a largura do corredor associado à ferrovia, igual à distância típica média entre estações de base da rede, implantadas ao longo da mesma;
+
+S representa a área do território nacional: 92 002 km2;
+
+Fr representa a taxa de referência por megahertz ((euro) 82 000/MHz).
+
+Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50% nos primeiros três anos de vigência da licença radioelétrica.
 
 1.2.4 - Serviço móvel terrestre - redes privativas:
 
