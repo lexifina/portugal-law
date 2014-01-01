@@ -16,7 +16,7 @@
 
 3 - A mesma coima é aplicável:
 
-a) Quando for violada a disciplina legal dos regimes aduaneiros;
+a) Quando for violada a disciplina legal dos regimes aduaneiros ou destinos aduaneiros;
 
 b) Quando tenha havido desvio do fim pressuposto no regime aduaneiro aplicado à mercadoria;
 

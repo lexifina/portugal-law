@@ -10,7 +10,7 @@ b) Produzir, receber, armazenar, expedir, transportar, detiver ou consumir produ
 
 c) Receber, armazenar, expedir, transportar, detiver ou consumir produtos tributáveis, já introduzidos no consumo noutro Estado membro, sem o cumprimento das formalidades legalmente exigidas;
 
-d) Introduzir no consumo, detiver ou consumir produtos tributáveis com violação das normas nacionais ou comunitárias aplicáveis em matéria de marcação, coloração, desnaturação ou selagem;
+d) Introduzir no consumo, comercializar, detiver ou consumir produtos tributáveis com violação das normas nacionais ou europeias aplicáveis em matéria de marcação, coloração, desnaturação ou selagem;
 
 e) Introduzir no consumo, detiver ou consumir produtos tributáveis destinados a consumo noutra parcela do território nacional ou com fiscalidade diferenciada;
 

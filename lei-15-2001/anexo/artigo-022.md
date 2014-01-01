@@ -2,7 +2,7 @@
 
 ### Dispensa e atenuação especial da pena
 
-1 - Se o agente repuser a verdade sobre a situação tributária e o crime for punível com pena de prisão igual ou inferior a três anos, a pena pode ser dispensada se:
+1 - Se o agente repuser a verdade sobre a situação tributária e o crime for punível com pena de prisão igual ou inferior a 2 anos, a pena pode ser dispensada se:
 
 a) A ilicitude do facto e a culpa do agente não forem muito graves;
 

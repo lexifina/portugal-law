@@ -42,7 +42,7 @@ r) Utilizar produtos que beneficiem de isenção, sem o reconhecimento prévio d
 
 3 - A coima prevista no número anterior é igualmente aplicável a quem:
 
-a) Introduzir no consumo, utilizar ou mantiver a posse de veículos tributáveis sem o cumprimento das obrigações prescritas por lei;
+a) Introduzir no consumo, expedir, exportar, utilizar ou mantiver a posse de veículos tributáveis sem o cumprimento das obrigações prescritas por lei;
 
 b) Utilizar veículo tributável com documentos inválidos ou fora das condições prescritas por lei ou pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo ou violar o prazo de apresentação à alfândega de veículos tributáveis que se destinem a ser introduzidos no consumo ou a permanecer temporariamente em território nacional;
 
