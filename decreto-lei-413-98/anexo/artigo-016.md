@@ -10,12 +10,12 @@
 
 ### Competência material e territorial
 
-1 - São competentes para a prática dos actos de inspecção tributária, nos termos da lei, os seguintes serviços da Direcção-Geral dos Impostos:
+1 - São competentes para a prática dos atos de inspeção tributária, nos termos da lei, os seguintes serviços da Administração Tributária e Aduaneira:
 
-a) As direcções de serviços de inspecção tributária que nos termos da orgânica da Direcção-Geral dos Impostos integram a área operativa da inspecção tributária, relativamente aos sujeitos passivos e demais obrigados tributários que devam ser inspeccionados pelos serviços centrais;
+a) A Unidade dos Grandes Contribuintes, relativamente aos sujeitos passivos que de acordo com os critérios definidos sejam considerados como grandes contribuintes;
 
-b) Os serviços periféricos regionais, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial;
+b) As direções de serviços de inspeção tributária que nos termos da orgânica da Autoridade Tributária e Adua-neira integram a área operativa da inspeção tributária, relativamente aos sujeitos passivos e demais obrigados tributários que devam ser inspecionados pelos serviços centrais;
 
-c) Os serviços periféricos locais, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial.
+c) As unidades orgânicas desconcentradas, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial.
 
-2 - São inspeccionados directamente pelos serviços centrais os sujeitos passivos designados pelo director-geral dos Impostos, bem como os que constem de despacho publicado no Diário da República.
+2 - Sem prejuízo das competências da Unidade dos Grandes Contribuintes, são inspecionados diretamente pelos serviços centrais os sujeitos passivos designados pelo diretor-geral da Autoridade Tributária e Aduaneira.
