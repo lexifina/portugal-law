@@ -14,4 +14,6 @@ b) No termo da circulação, cumprir as formalidades aplicáveis à introdução
 
 c) Comunicar a nomeação ou a substituição de gerentes ou administradores, bem como qualquer alteração dos pressupostos subjacentes à concessão do estatuto;
 
-d) Prestar-se a qualquer controlo que permita à autoridade aduaneira certificar-se da recepção efectiva dos produtos.
+d) Manter um registo contabilístico atualizado dos produtos recebidos em regime de suspensão de imposto e introduzidos no consumo, com indicação da sua proveniência, destino e elementos relevantes para o cálculo do imposto;
+
+e) Prestar-se a qualquer controlo que permita à autoridade aduaneira certificar-se da recepção efectiva dos produtos.

@@ -34,7 +34,7 @@ i) «Destilado etílico» o líquido com teor alcoólico inferior a 96 % vol. a 
 
 j) «Álcool etílico parcialmente desnaturado» o álcool a que se adicionaram, como desnaturante, substâncias químicas que o tornam impróprio para o consumo humano por ingestão;
 
-l) «Álcool etílico totalmente desnaturado» o álcool a que foram adicionados em cada Estado membro os respectivos desnaturantes, descritos no anexo ao Regulamento (CE) n.º 3199/93, da Comissão, de 22 de Novembro, com a redacção que lhe foi dada pelo Regulamento (CE) n.º 2546/95, da Comissão, de 30 de Outubro;
+l) 'Álcool etílico totalmente desnaturado' o álcool a que foram adicionados os desnaturantes nas proporções descritas no ponto i do anexo ao Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro;
 
 m) «Bebidas espirituosas» os produtos compreendidos no código NC 2208 definidos nos termos do artigo 2.º do Regulamento (CE) n.º 110/2008, do Parlamento Europeu e do Conselho, de 15 de Janeiro.
 

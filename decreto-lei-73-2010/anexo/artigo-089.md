@@ -8,7 +8,7 @@ a) Sejam utilizados para outros fins que não sejam em uso como carburante ou em
 
 b) Sejam utilizados na navegação aérea, com excepção da aviação de recreio privada;
 
-c) Sejam utilizados na navegação marítima costeira e na navegação interior, incluindo a pesca, mas com excepção da navegação de recreio privada, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49 e 2710 19 61 a 2710 19 69;
+c) Sejam utilizados na navegação marítima costeira e na navegação interior, incluindo a pesca e a aquicultura, mas com exceção da navegação de recreio privada, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49 e 2710 19 61 a 2710 19 69;
 
 d) Sejam utilizados na produção de eletricidade, de eletricidade e calor (cogeração), ou de gás de cidade, por entidades que desenvolvam tais atividades como sua atividade principal, no que se refere aos produtos classificados pelos códigos NC 2701, 2702 e 2704, pelos códigos NC 2710 19 61 a 2710 19 69, pelo código NC 2711, bem como os produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49, consumidos nas Regiões Autónomas dos Açores e da Madeira;
 

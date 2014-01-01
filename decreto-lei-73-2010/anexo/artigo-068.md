@@ -2,7 +2,7 @@
 
 ### Álcool desnaturado
 
-1 - Para efeitos de isenção do imposto, o álcool utilizado em fins industriais deve ser objecto de desnaturação, através de desnaturante a identificar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, ou através de um dos desnaturantes, e nas proporções descritas no anexo do Regulamento (CE) n.º 3199/93, de 22 de Novembro, com a redacção que lhe foi dada pelo Regulamento (CE) n.º 2546/95, de 30 de Outubro, relativamente a Portugal.
+1 - Para efeitos de isenção do imposto, o álcool utilizado em fins industriais deve ser objeto de desnaturação, através de desnaturante a identificar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, ou através dos desnaturantes nas proporções descritas no ponto i do anexo ao Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro, sendo que, para efeitos de comercialização exclusivamente em território nacional, é permitida a adição de corante - azul de metileno - à fórmula prevista naquele regulamento, na proporção de 2 g/hl de álcool a desnaturar.
 
 2 - Em derrogação do disposto no número anterior, o álcool para utilização em fins industriais pode excepcionalmente não ser desnaturado desde que, comprovadamente, a desnaturação se revele prejudicial à saúde pública.
 

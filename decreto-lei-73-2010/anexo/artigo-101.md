@@ -12,7 +12,9 @@ a) Os charutos e as cigarrilhas;
 
 b) Os cigarros;
 
-c) Os tabacos de fumar, compreendendo o tabaco de corte fino destinado a cigarros de enrolar e os restantes tabacos de fumar.
+c) Os tabacos de fumar, compreendendo o tabaco de corte fino destinado a cigarros de enrolar e os restantes tabacos de fumar, com exclusão do tabaco para cachimbo de água;
+
+d) O tabaco para cachimbo de água.
 
 2 - Para efeitos de aplicação da alínea a) do número anterior, são considerados charutos e cigarrilhas, se puderem ser fumados tal como se apresentam e se, tendo em conta as suas características e as expectativas normais dos consumidores, se destinarem exclusivamente a sê-lo:
 
@@ -44,4 +46,8 @@ b) Os resíduos de tabaco acondicionados para venda ao público não abrangidos 
 
 c) O tabaco de corte fino destinado a cigarros de enrolar, conforme definido nas alíneas anteriores, relativamente ao qual mais de 25 % em peso das partículas tenha uma largura de corte inferior a 1,5 mm, ou superior a 1,5 mm e que tenha sido vendido ou se destine a ser vendido para cigarros de enrolar.
 
-6 - São equiparados aos cigarros e ao tabaco de fumar os produtos constituídos, total ou parcialmente, por substâncias que, não sendo tabaco, obedeçam aos outros critérios definidos nos n.os 4 e 5, exceptuando os produtos que tenham uma função exclusivamente medicinal.
+d) As folhas de tabaco destinadas a venda ao público.
+
+6 - Para efeitos de aplicação da alínea d) do n.º 1, é considerado 'tabaco para cachimbo de água' o tabaco próprio para ser fumado exclusivamente num cachimbo de água e que consista numa mistura de tabaco e glicerol, podendo ainda conter óleos e extratos aromáticos, melaços ou açúcar e ser aromatizado com frutas.
+
+7 - São equiparados aos cigarros, aos tabacos de fumar e ao tabaco para cachimbo de água os produtos constituídos, total ou parcialmente, por substâncias que, não sendo tabaco, obedeçam aos outros critérios definidos nos n.os 4, 5 e 6, excetuando os produtos que tenham uma função exclusivamente medicinal.

@@ -14,7 +14,7 @@ c) Não operem sob licença ou por conta de outrem.
 
 3 - O regime previsto nos números anteriores não é cumulável com as reduções previstas nos artigos 77.º e 78.º
 
-4 - As pequenas destilarias ficam dispensadas do cumprimento das obrigações previstas no artigo 83.º, estando sujeitas ao cumprimento das obrigações previstas no artigo 85.º
+4 - As pequenas destilarias ficam dispensadas do cumprimento das obrigações previstas no artigo 83.º, com a exceção da alínea a) do n.º 1 do mesmo artigo, estando sujeitas ao cumprimento das obrigações previstas no artigo 85.º
 
 5 - Para efeitos de controlo da produção, as pequenas destilarias devem:
 

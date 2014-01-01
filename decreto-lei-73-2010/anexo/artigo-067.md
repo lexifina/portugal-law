@@ -26,7 +26,7 @@ h) No fabrico de produtos agro-alimentares desde que se trate de vinhos modifica
 
 a) Utilizado em fins industriais, nos termos do artigo 69.º;
 
-b) Distribuído sob a forma de álcool totalmente desnaturado, nos termos fixados pelo Regulamento (CE) n.º 3199/93, da Comissão, de 22 de Novembro, e pelo Regulamento (CE) n.º 2546/95, da Comissão, de 30 de Outubro;
+b) Distribuído sob a forma de álcool totalmente desnaturado nos termos fixados pelo Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro;
 
 c) Destinado a consumo próprio dos hospitais e demais estabelecimentos de saúde, públicos e privados;
 
