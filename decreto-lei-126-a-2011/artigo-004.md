@@ -4,7 +4,7 @@
 
 1 - Integram a administração directa do Estado, no âmbito da PCM, os seguintes serviços centrais:
 
-a) Revogada;
+a) A Comissão para a Cidadania e a Igualdade de Género;
 
 b) A Secretaria-Geral;
 

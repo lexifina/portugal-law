@@ -8,7 +8,7 @@ a) O Instituto Nacional de Estatística, I. P.;
 
 b) O Instituto do Cinema e do Audiovisual, I. P.;
 
-c) O Alto Comissariado para as Migrações, I.P.;
+c) O Alto Comissariado para a Imigração e Diálogo Intercultural, I. P.;
 
 d) A Agência para a Modernização Administrativa, I. P.;
 
