@@ -20,4 +20,6 @@ e) A assinatura gerada no documento anterior, do mesmo tipo e série de document
 
 a) Um conjunto de quatro caracteres da assinatura a que se refere o número anterior, correspondentes à 1.ª, 11.ª, 21.ª e 31.ª posições, e separado por hífen;
 
-b) O número do certificado atribuído ao respectivo programa, utilizando para o efeito a expressão «Processado por programa certificado n.º ...», que substitui a prevista no n.º 3 do artigo 8.º do regime de bens em circulação, aprovado pelo Decreto-Lei n.º 147/2003, de 11 de Julho.
+b) O número do certificado atribuído ao respetivo programa, utilizando para o efeito a expressão "Processado por programa certificado n.º...";
+
+c) A identificação única dos documentos, conforme alínea c) do n.º 1 do presente artigo e pontos iii) das alíneas a) e b) do n.º 2 do artigo seguinte.

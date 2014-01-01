@@ -2,7 +2,7 @@
 
 ### Documentos emitidos por máquinas registadoras
 
-1 - Os equipamentos ou programas de faturação não certificados que, para além das faturas, emitam para os clientes quaisquer documentos de conferência da entrega de mercadorias ou da prestação de serviços, nomeadamente as designadas consultas de mesa, devem:
+1 - Os equipamentos ou programas de faturação certificados ou não que, para além das faturas, emitam para os clientes quaisquer documentos de conferência da entrega de mercadorias ou da prestação de serviços, nomeadamente as designadas consultas de mesa, devem:
 
 a) Numerar sequencialmente esses documentos, que devem conter ainda os seguintes elementos:
 

@@ -6,17 +6,17 @@
 
 2 - Excluem-se do disposto no número anterior os sujeitos passivos que reúnam algum dos seguintes requisitos:
 
-a) Utilizem software produzido internamente ou por empresa integrada no mesmo grupo económico, do qual sejam detentores dos respetivos direitos de autor;
+a) [Revogada];
 
 b) Tenham tido, no período de tributação anterior, um volume de negócios inferior ou igual a (euro) 100 000;
 
-c) Tenham emitido, no período de tributação anterior, um número de faturas inferior a 1 000 unidades;
+c) [Revogada];
 
-d) Efetuem transmissões de bens através de aparelhos de distribuição automática ou prestações de serviços em que seja habitual a emissão de talão, bilhete de ingresso ou de transporte, senha ou outro documento pré-impresso e ao portador comprovativo do pagamento.
+d) Os documentos emitidos através de aparelhos de distribuição automática ou prestações de serviços em que seja habitual a emissão de talão, bilhete de ingresso ou de transporte, senha ou outro documento pré-impresso e ao portador comprovativo do pagamento.
 
 3 - São ainda obrigados a utilizar programa certificado:
 
-a) Os sujeitos passivos referidos no n.º 1, ainda que abrangidos por qualquer das exclusões constantes das alíneas b) a d) do n.º 2, quando optem, a partir da entrada em vigor da presente portaria, pela utilização de programa informático de faturação;
+a) Os sujeitos passivos referidos no n.º 1, ainda que abrangidos por qualquer das exclusões constantes do número anterior, quando optem, a partir da entrada em vigor da presente portaria, pela utilização de programa informático de faturação;
 
 b) Os sujeitos passivos que utilizem programa de faturação multiempresa.
 
