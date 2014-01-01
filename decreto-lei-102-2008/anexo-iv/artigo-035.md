@@ -21,3 +21,5 @@ b) A falsidade dos elementos declarados;
 c) A existência de fundados indícios de fraude nas operações referidas;
 
 d) Não terem sido apresentadas as declarações a que se refere o artigo 41.º, bem como aquelas a que se refere a alínea c) do n.º 1 do artigo 23.º do Regime do IVA nas Transações Intracomunitárias, por um período de, pelo menos, um ano ou, tendo sido apresentadas, não evidenciem qualquer atividade, por igual período.
+
+7 - As alterações oficiosas com fundamento na aplicação das alíneas a), b) ou c) do número anterior produzem efeitos imediatos, devendo as mesmas, em todo o caso, ser posteriormente notificadas ao sujeito passivo no prazo de 10 dias.

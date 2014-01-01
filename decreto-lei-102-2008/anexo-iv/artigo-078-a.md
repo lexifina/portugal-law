@@ -22,7 +22,7 @@ c) Em processo especial de revitalização, após homologação do plano de recu
 
 d) Nos termos previstos no Sistema de Recuperação de Empresas por Via Extrajudicial (SIREVE), após celebração do acordo previsto no artigo 12.º do Decreto-Lei n.º 178/2012, de 3 de agosto.
 
-5 - A dedução do imposto nos termos do número anterior exclui a possibilidade de dedução nos termos do n.º 1.
+5 - A dedução do imposto nos termos do número anterior exclui a possibilidade de dedução nos termos do n.º 2.
 
 6 - Não são considerados créditos incobráveis ou de cobrança duvidosa:
 

@@ -24,7 +24,7 @@ Estão isentas do imposto:
 
 6) As transmissões de bens e as prestações de serviços ligadas à segurança e assistência sociais e as transmissões de bens com elas conexas, efectuadas pelo sistema de segurança social, incluindo as instituições particulares de solidariedade social. Da mesma isenção beneficiam as pessoas físicas ou jurídicas que efectuem prestações de segurança ou assistência social por conta do respectivo sistema nacional, desde que não recebam em troca das mesmas qualquer contraprestação dos adquirentes dos bens ou destinatários dos serviços;
 
-7) As prestações de serviços e as transmissões de bens estreitamente conexas, efectuadas no exercício da sua actividade habitual por creches, jardins-de-infância, centros de actividade de tempos livres, estabelecimentos para crianças e jovens desprovidos de meio familiar normal, lares residenciais, casas de trabalho, estabelecimentos para crianças e jovens deficientes, centros de reabilitação de inválidos, lares de idosos, centros de dia e centros de convívio para idosos, colónias de férias, albergues de juventude ou outros equipamentos sociais pertencentes a pessoas colectivas de direito público ou instituições particulares de solidariedade social ou cuja utilidade social seja, em qualquer caso, reconhecida pelas autoridades competentes;
+7) As prestações de serviços e as transmissões de bens estreitamente conexas, efetuadas no exercício da sua atividade habitual por creches, jardins-de-infância, centros de atividade de tempos livres, estabelecimentos para crianças e jovens desprovidos de meio familiar normal, lares residenciais, casas de trabalho, estabelecimentos para crianças e jovens deficientes, centros de reabilitação de inválidos, lares de idosos, centros de dia e centros de convívio para idosos, colónias de férias, albergues de juventude ou outros equipamentos sociais pertencentes a pessoas coletivas de direito público ou instituições particulares de solidariedade social ou cuja utilidade social seja, em qualquer caso, reconhecida pelas autoridades competentes, ainda que os serviços sejam prestados fora das suas instalações;
 
 8) As prestações de serviços efectuadas por organismos sem finalidade lucrativa que explorem estabelecimentos ou instalações destinados à prática de actividades artísticas, desportivas, recreativas e de educação física a pessoas que pratiquem essas actividades;
 
@@ -36,7 +36,7 @@ Estão isentas do imposto:
 
 12) As locações de livros e outras publicações, partituras musicais, discos, bandas magnéticas e outros suportes de cultura e, em geral, as prestações de serviços e transmissões de bens com aquelas estreitamente conexas, desde que efectuadas por organismos sem finalidade lucrativa;
 
-13) As prestações de serviços que consistam em proporcionar a visita, guiada ou não, a museus, galerias de arte, castelos, palácios, monumentos, parques, perímetros florestais, jardins botânicos, zoológicos e semelhantes, pertencentes ao Estado, outras pessoas colectivas de direito público ou organismos sem finalidade lucrativa, desde que efectuadas única e exclusivamente por intermédio dos seus próprios agentes. A presente isenção abrange também as transmissões de bens estreitamente conexas com as prestações de serviços referidas;
+13) As prestações de serviços que consistam em proporcionar a visita, guiada ou não, a bibliotecas, arquivos, museus, galerias de arte, castelos, palácios, monumentos, parques, perímetros florestais, jardins botânicos, zoológicos e semelhantes, pertencentes ao Estado, outras pessoas coletivas de direito público ou organismos sem finalidade lucrativa, desde que efetuadas única e exclusivamente por intermédio dos seus próprios agentes. A presente isenção abrange também as transmissões de bens estreitamente conexas com as prestações de serviços referidas;
 
 14) As prestações de serviços e as transmissões de bens com elas conexas, efectuadas por pessoas colectivas de direito público e organismos sem finalidade lucrativa, relativas a congressos, colóquios, conferências, seminários, cursos e manifestações análogas de natureza científica, cultural, educativa ou técnica;
 
@@ -46,7 +46,7 @@ a) Por actores, chefes de orquestra, músicos e outros artistas, actuando quer i
 
 b) Por desportistas e artistas tauromáquicos, actuando quer individualmente quer integrados em grupos, em competições desportivas e espectáculos tauromáquicos;
 
-16) A transmissão do direito de autor e a autorização para a utilização da obra intelectual, definidas no Código de Direito de Autor, quando efetuadas pelos próprios autores, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, ainda que o autor seja pessoa coletiva;
+16) A transmissão do direito de autor ou de direitos conexos e a autorização para a utilização da obra intelectual ou prestação, definidas no Código dos Direitos de Autor e dos Direitos Conexos, quando efetuadas pelos próprios titulares, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, ainda que o titular do direito seja pessoa coletiva;
 
 17) A transmissão de exemplares de qualquer obra literária, científica, técnica ou artística editada sob forma bibliográfica pelo autor, quando efectuada por este, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, salvo quando o autor for pessoa colectiva;
 

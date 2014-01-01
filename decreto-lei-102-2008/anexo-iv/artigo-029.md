@@ -28,7 +28,11 @@ i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1
 
 2 - A obrigação de declaração periódica prevista no número anterior subsiste mesmo que não haja, no período correspondente, operações tributáveis.
 
-3 - Estão dispensados das obrigações referidas nas alíneas b), c), d) e g) do n.º 1 os sujeitos passivos que pratiquem exclusivamente operações isentas de imposto, excepto quando essas operações dêem direito a dedução nos termos da alínea b) do n.º 1 do artigo 20.º
+3 - Não obstante o disposto no n.º 1, estão dispensados do cumprimento:
+
+a) Das obrigações referidas nas suas alíneas b), c), d) e g), os sujeitos passivos que pratiquem exclusivamente operações isentas de imposto, exceto quanto essas operações conferem direito à dedução nos termos da alínea b) do n.º 1 do artigo 20.º;
+
+b) Da obrigação referida na sua alínea b), os sujeitos passivos relativamente às operações isentas ao abrigo das alíneas 27) e 28) do artigo 9.º, quando o destinatário esteja estabelecido ou domiciliado noutro Estado membro da União Europeia e seja um sujeito passivo do IVA.
 
 4 - Se, por motivos de alteração da actividade, o sujeito passivo passar a praticar exclusivamente operações isentas que não conferem direito à dedução, a dispensa do envio da declaração referida na alínea c) do n.º 1 produz efeitos a partir de 1 de Janeiro do ano civil seguinte àquele em que é apresentada a respectiva declaração.
 

@@ -18,7 +18,7 @@ c) Para as restantes importações, transmissões de bens e prestações de serv
 
 3 - As taxas a que se referem as alíneas a), b) e c) do n.º 1 são, respetivamente, de:
 
-a) 4 %, 9 % e 16 %, relativamente às operações que, de acordo com a legislação especial, se considerem efetuadas na Região Autónoma dos Açores;
+a) 5 %, 10 % e 18 %, relativamente às operações que, de acordo com a legislação especial, se considerem efetuadas na Região Autónoma dos Açores;
 
 b) 5 %, 12 % e 22 %, relativamente às operações que, de acordo com a legislação especial, se considerem efetuadas na Região Autónoma da Madeira.
 
