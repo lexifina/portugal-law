@@ -4,7 +4,7 @@
 
 1 - O reconhecimento do direito ao complemento solidário para idosos depende de o requerente satisfazer, cumulativamente, as seguintes condições:
 
-a) Ter idade igual ou superior a 65 anos, sem prejuízo da aplicação do disposto no artigo 24.º;
+a) Ter idade igual ou superior à idade normal de acesso à pensão de velhice do regime geral de segurança social;
 
 b) Residir em território nacional, pelo menos, nos últimos seis anos imediatamente anteriores à data da apresentação do requerimento da prestação;
 
