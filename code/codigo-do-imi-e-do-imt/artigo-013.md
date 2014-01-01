@@ -42,7 +42,7 @@ e) À inscrição do valor patrimonial tributário definitivo determinado nos te
 
 4 - As inscrições ou actualizações matriciais devem referir o ano em que tenham sido efectuadas, bem como os elementos que as justifiquem.
 
-5 - Sempre que haja lugar à junção dos elementos referidos nos n.os 2 e 3 do artigo 37.º, têm-se por não entregues as declarações que não sejam por eles acompanhadas.
+5 - Na situação prevista na alínea g) do n.º 1 o prazo para apresentação da declaração é de 30 dias.
 
 6 - Sempre que haja lugar à junção dos elementos referidos nos n.os 2 e 3 do artigo 37.º, têm-se por não entregues as declarações que não sejam por eles acompanhadas.
 

@@ -34,7 +34,7 @@ m) Erro na actualização dos valores patrimoniais tributários;
 
 n) Erro na determinação das áreas de prédios rústicos ou urbanos, desde que as diferenças entre as áreas apuradas pelo perito avaliador e a contestada sejam superiores a 10% e 5%, respectivamente.
 
-4 - O valor patrimonial tributário resultante de avaliação directa só pode ser objecto de alteração com o fundamento previsto na alínea a) do n.º 3 por meio de avaliação decorridos três anos sobre a data do encerramento da matriz em que tenha sido inscrito o resultado daquela avaliação.
+4 - O valor patrimonial tributário resultante de avaliação direta só pode ser objeto de alteração com o fundamento previsto na alínea a) do n.º 3 por meio de avaliação decorridos três anos sobre a data do pedido, da promoção oficiosa da inscrição ou da atualização do prédio na matriz.
 
 5 - O chefe do serviço de finanças competente pode, a todo o tempo, promover a rectificação de qualquer incorrecção nas inscrições matriciais, salvo as que impliquem alteração do valor patrimonial tributário resultante de avaliação directa com o fundamento previsto na alínea a) do n.º 3, caso em que tal rectificação só pode efectuar-se decorrido o prazo referido no número anterior.
 
@@ -43,3 +43,5 @@ n) Erro na determinação das áreas de prédios rústicos ou urbanos, desde que
 7 - Tratando-se de sinistros que afectem significativamente uma freguesia ou um município, pode a junta de freguesia ou a câmara municipal apresentar reclamação colectiva. 7 - Os efeitos das reclamações efectuadas com qualquer dos fundamentos previstos neste artigo só se produzirão na liquidação respeitante ao ano em que o pedido for apresentado.
 
 8 - Os efeitos das reclamações, bem como o das correcções promovidas pelo chefe do serviço de finanças competente, efectuadas com qualquer dos fundamentos previstos neste artigo, só se produzem na liquidação respeitante ao ano em que for apresentado o pedido ou promovida a rectificação.
+
+9 - O valor patrimonial tributário resultante da avaliação geral de prédios só pode ser objeto de alteração com o fundamento previsto na alínea a) do n.º 3 por meio de avaliação, a partir do terceiro ano seguinte ao da sua entrada em vigor para efeitos do imposto municipal sobre imóveis.
