@@ -2,7 +2,7 @@
 
 ### Contribuições
 
-1 - Todas as entidades, independentemente da respetiva natureza jurídica e do seu grau de autonomia, contribuem mensalmente para a CGA, I. P., com 20 % da remuneração sujeita a desconto de quota dos trabalhadores abrangidos pelo regime de proteção social convergente ao seu serviço.
+1 - Todas as entidades, independentemente da respetiva natureza jurídica e do seu grau de autonomia, contribuem mensalmente para a CGA, I. P., com 23,75 % da remuneração sujeita a desconto de quota dos trabalhadores abrangidos pelo regime de proteção social convergente ao seu serviço.
 
 2 - O disposto no número anterior prevalece sobre quaisquer disposições legais, gerais ou especiais, em contrário, com excepção das seguintes:
 
