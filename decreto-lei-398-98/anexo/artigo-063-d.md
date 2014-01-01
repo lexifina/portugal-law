@@ -2,9 +2,9 @@
 
 ### Países, territórios ou regiões com um regime fiscal claramente mais favorável
 
-1 - O membro do Governo responsável pela área das finanças aprova, por portaria, após parecer prévio da Autoridade Tributária e Aduaneira, a lista dos países, territórios ou regiões com regime claramente mais favorável.
+1 - O membro do Governo responsável pela área das finanças aprova, por portaria, a lista dos países, territórios ou regiões com regime claramente mais favorável.
 
-2 - Na elaboração do parecer e da lista a que se refere o número anterior, devem ser considerados, nomeadamente, os seguintes critérios:
+2 - Na elaboração da lista a que se refere o número anterior devem ser considerados, nomeadamente, os seguintes critérios:
 
 a) Inexistência de um imposto de natureza idêntica ou similar ao IRC ou, existindo, a taxa aplicável seja inferior a 60 % da taxa de imposto prevista no n.º 1 do artigo 87.º do Código do IRC;
 
@@ -17,11 +17,3 @@ d) A legislação ou a prática administrativa não permita o acesso e a troca e
 3 - Os países, territórios ou regiões que constem da lista mencionada no n.º 1 podem solicitar ao membro do Governo responsável pela área das finanças um pedido de revisão do respetivo enquadramento na lista prevista no n.º 1, com base, nomeadamente, no não preenchimento dos critérios previstos no n.º 2.
 
 4 - As alterações que sejam introduzidas na lista a que se refere o n.º 1, nomeadamente em consequência de pedidos nos termos do número anterior, apenas produzem efeitos para o futuro.
-
-5 - São, igualmente, considerados países ou jurisdições com regime claramente mais favorável aqueles que, ainda que não constem da lista referida no n.º 1 deste artigo, não disponham de um imposto de natureza idêntica ou similar ao IRC ou, existindo, a taxa aplicável seja inferior a 60 % da taxa de imposto prevista no n.º 1 do artigo 87.º do Código do IRC, sempre que, cumulativamente:
-
-a) Seja feita remissão expressa nos códigos e leis tributárias para este número do presente artigo;
-
-b) Existam relações especiais, nos termos das alíneas a) a g) do n.º 4 do artigo 63.º do Código do IRC, entre as pessoas ou entidades envolvidas nas operações subjacentes às normas referidas na alínea anterior.
-
-6 - O disposto no n.º 5 não é aplicável a Estados-Membros da União Europeia ou a Estados-Membros do Espaço Económico Europeu, neste último caso desde que esse Estado esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.

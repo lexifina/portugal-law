@@ -8,7 +8,7 @@
 
 3 - As informações vinculativas não podem compreender factos abrangidos por procedimento de inspecção tributária cujo início tenha sido notificado ao contribuinte antes do pedido.
 
-4 - O pedido é apresentado por sujeitos passivos, outros interessados ou seus representantes legais, por via electrónica e segundo modelo oficial a aprovar pelo dirigente máximo do serviço, e a resposta é notificada pela mesma via no prazo máximo de 150 dias.
+4 - O pedido é apresentado por quaisquer dos sujeitos passivos a que se refere o n.º 3 do artigo 18.º, por outros interessados ou seus representantes legais, por via eletrónica e segundo modelo oficial a aprovar pelo dirigente máximo do serviço, e a resposta é notificada pela mesma via no prazo máximo de 150 dias.
 
 5 - As informações vinculativas podem ser requeridas por advogados, solicitadores, revisores e técnicos oficiais de contas ou por quaisquer entidades habilitadas ao exercício da consultadoria fiscal acerca da situação tributária dos seus clientes devidamente identificados, sendo obrigatoriamente comunicadas também a estes.
 
@@ -39,3 +39,11 @@
 18 - O incumprimento do prazo previsto no n.º 4 do presente artigo, quando o contribuinte actue com base numa interpretação plausível e de boa-fé da lei, limita a sua responsabilidade à dívida do imposto, abrangendo essa exclusão de responsabilidade as coimas, os juros e outros acréscimos legais.
 
 19 - A limitação de responsabilidade prevista no número anterior compreende o período entre o termo do prazo para a prestação da informação vinculativa e a notificação desta ao requerente.
+
+20 - São passíveis de recurso contencioso autónomo as decisões da administração tributária relativas:
+
+a) À inexistência dos pressupostos para a prestação de uma informação vinculativa ou a recusa de prestação de informação vinculativa urgente; ou
+
+b) À existência de uma especial complexidade técnica que impossibilite a prestação da informação vinculativa; ou
+
+c) Ao enquadramento jurídico-tributário dos factos constantes da resposta ao pedido de informação vinculativa.

@@ -14,6 +14,8 @@ c) Assistência mútua e cooperação da administração tributária com as admi
 
 d) Colaboração com a justiça nos termos do Código de Processo Civil e Código de Processo Penal.
 
+e) Confirmação do número de identificação fiscal e domicílio fiscal às entidades legalmente competentes para a realização do registo comercial, predial ou automóvel.
+
 3 - O dever de confidencialidade comunica-se a quem quer que, ao abrigo do número anterior, obtenha elementos protegidos pelo segredo fiscal, nos mesmos termos do sigilo da administração tributária.
 
 4 - O dever de confidencialidade não prejudica o acesso do sujeito passivo aos dados sobre a situação tributária de outros sujeitos passivos que sejam comprovadamente necessários à fundamentação da reclamação, recurso ou impugnação judicial, desde que expurgados de quaisquer elementos susceptíveis de identificar a pessoa ou pessoas a que dizem respeito.
