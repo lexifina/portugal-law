@@ -1,6 +1,6 @@
 ## Secção VII
 
-## Dos incidentes
+## Da impugnação dos atos de autoliquidação, substituição tributária, pagamentos por conta e dos atos de liquidação com fundamento em classificação pautal, origem ou valor aduaneiro das mercadorias
 
 # Artigo 127.º
 

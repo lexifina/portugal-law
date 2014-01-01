@@ -20,13 +20,13 @@ c) A revisão, oficiosa ou por iniciativa dos interessados, dos actos tributári
 
 d) A emissão, rectificação, revogação, ratificação, reforma ou conversão de quaisquer outros actos administrativos em matéria tributária, incluindo sobre benefícios fiscais;
 
-e) As reclamações e os recursos hierárquicos;
+e) As reclamações, incluindo as que tenham por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias e os recursos hierárquicos;
 
 f) A avaliação directa ou indirecta dos rendimentos ou valores patrimoniais;
 
 g) A cobrança das obrigações tributárias, na parte que não tiver natureza judicial;
 
-h) A contestação de carácter técnico relacionada com a classificação pautal, a origem ou o valor das mercadorias objecto de uma declaração aduaneira, sem prejuízo da legislação especial aplicável;
+h) (Revogada);
 
 i) Todos os demais actos dirigidos à declaração dos direitos tributários.
 
