@@ -78,7 +78,7 @@ a) Abertura com as dimensões mínimas seguintes:
 
 (ver documento original)
 
-b) Dispor de um sistema automático (cortinas) de abertura fácil e rápida que permita garantir, em condições climatéricas adversas, uma temperatura de conforto para os trabalhadores e utentes do CITV. O espaço ocupado por este sistema não é considerado para efeitos do cumprimento das dimensões definidas para as portas ou para as linhas de inspeção.
+b) Dispor à entrada e/ou à saída das linhas de inspeção, de sistema automático (tipo cortinas) de abertura fácil e rápida que permita garantir, em situações climatéricas adversas, condições de conforto para os trabalhadores e utentes do CITV. O espaço ocupado por este sistema não é considerado para efeitos do cumprimento das dimensões definidas para as portas ou para as linhas de inspeção.
 
 2.2.5 - As fossas devem apresentar as seguintes características:
 
@@ -114,7 +114,7 @@ c) Possuir, ao longo de cada linha, uma passagem ou passadeira contígua de form
 
 3.1 - O CITV deve dispor de sistema de ventilação das instalações, de modo a impedir a acumulação de gases tóxicos resultantes do funcionamento dos motores dos veículos.
 
-3.2 - Quando as inspeções são efetuadas com o sistema automático (cortinas) fechado deve existir um sistema adequado para eliminar os gases nocivos e evitar a sua concentração dentro do edifício, com capacidade de extração (maior que) 400 m3/h para a linha de ligeiros e áreas de inspeção e (maior que) a 1000 m3/h para a linha de pesados. Este sistema deve ser controlado automaticamente através de dispositivo de deteção de monóxido de carbono (CO) e de dióxido de carbono (CO(índice 2)), que ativa o sistema de extração a partir de concentrações de 10 partes por milhão (ppm) de CO ou de 5000 ppm de CO(índice 2). Os respetivos sensores devem ser colocados em pontos adequados das linhas e áreas de inspeção.
+3.2 - Deve existir dispositivo controlado automaticamente, para deteção de monóxido de carbono (CO), com sensores colocados em pontos adequados das linhas e áreas de inspeção, que alerte para níveis de concentração que constituam risco nos termos de regulamentação em vigor.
 
 3.3 - Deve existir um sistema de ventilação forçada das fossas que inclua insuflação de ar fresco e permita a renovação do volume total de ar da fossa com uma frequência, no mínimo, de seis vezes por hora.
 
@@ -146,7 +146,7 @@ h) Arquivo.
 
 a) Área delimitada e independente das restantes áreas de inspeção, podendo situar-se dentro ou no exterior do edifício, desde que não constitua fator de interferência com a normal circulação de veículos no CITV;
 
-b) Possuir, no mínimo, uma largura de 5 m e uma superfície de 100 m2, ou uma superfície de 70 m2 se os equipamentos frenómetro, velocímetro e elevador permitirem a inspeção de todos os tipos de veículos da categoria L;
+b) Possuir, no mínimo, uma largura de 4 m e uma superfície compatível com a instalação e utilização funcional e adequada dos equipamentos necessários à inspeção de todos os tipos de veículos da categoria L;
 
 c) A área de inspeção pode estar dividida em dois espaços, desde que, na sua globalidade, sejam observados os requisitos definidos na alínea anterior;
 
@@ -212,7 +212,7 @@ j) Medidor fotométrico de transmissão luminosa;
 
 k) Equipamento de diagnóstico eletrónico via OBD;
 
-l) Medidor de partículas.
+l) Medidor de partículas;
 
 m) Opcionais: Fita métrica, paquímetro.
 
@@ -222,27 +222,27 @@ m) Opcionais: Fita métrica, paquímetro.
 
 a) Encastrado no solo;
 
-b) Carga máxima admissível, por eixo: (maior que) 2500 kg;
+b) Carga máxima admissível, por eixo: (igual ou maior que) 2500 kg;
 
 c) Tipo: de rolos;
 
 d) Requisitos dos rolos:
 
-i) Diâmetro exterior: (maior que) 150 mm;
+i) Diâmetro exterior: (igual ou maior que) 150 mm;
 
-ii) Largura: (maior que) 600 mm;
+ii) Largura: (igual ou maior que) 600 mm;
 
-iii) Distância entre os lados interiores dos rolos: (menor que) 900 mm;
+iii) Distância entre os lados interiores dos rolos: (igual ou menor que) 900 mm;
 
-iv) Coeficiente de atrito: (maior que) 0,5;
+iv) Coeficiente de atrito: (igual ou maior que) 0,5;
 
-e) Velocidade de ensaio: (maior que) 3 km/h;
+e) Velocidade de ensaio: (igual ou maior que) 3 km/h;
 
 f) Leitura de resultados: por indicação contínua, analógica ou digital, das forças de travagem de cada roda do mesmo eixo, de forma independente;
 
 g) Intervalo nominal de indicação: 0 a 6000 Newton (N) (mínimo)/7500 N (máximo), por roda;
 
-h) Resolução: (menor que) 10 N;
+h) Resolução: (igual ou menor que) 10 N;
 
 i) Exatidão da medição das forças de travagem: o erro máximo admissível não pode ser superior a 10 % do valor lido e a 3 % do valor máximo indicado no intervalo nominal de indicação. Para a mesma força de travagem, a diferença entre as indicações do lado direito e esquerdo não pode ser superior a 2,5 % da indicação de maior valor;
 
@@ -272,9 +272,9 @@ l) Acessórios:
 
 2) Equipamento de rolos loucos - é um dispositivo fixo (encastrado no solo) ou móvel, destinado a ser colocado sob o eixo dos veículos de tração integral permanente, a fim de permitir calcular a eficiência de travagem do outro eixo, que está apoiado nos rolos de um frenómetro e deve ter as características seguintes:
 
-i) Capacidade de carga: (maior que) 2500 kg (por eixo);
+i) Capacidade de carga: (igual ou maior que) 2500 kg (por eixo);
 
-ii) Velocidade de ensaio: (maior que) 3 km/h;
+ii) Velocidade de ensaio: (igual ou maior que) 3 km/h;
 
 iii) Sistema de travamento dos rolos ou equivalente, no caso de montagem fixa do equipamento.
 
@@ -282,7 +282,7 @@ iii) Sistema de travamento dos rolos ou equivalente, no caso de montagem fixa do
 
 a) Montagem: fixa, encastrado no solo, devendo ser montado na fossa, apresentar um afastamento mínimo de 10 m relativamente ao detetor de folgas e quando o quadro estrutural do frenómetro, por razões de instalação, ultrapasse os limites laterais da fossa não deve dificultar o trabalho da inspeção;
 
-b) Carga por eixo: (maior que) 13 000 kg;
+b) Carga por eixo: (igual ou maior que) 13 000 kg;
 
 c) Tipo: de rolos;
 
@@ -290,21 +290,21 @@ d) Medição automática de forças verticais em simultâneo e em contínuo com 
 
 e) Intervalo nominal de indicação das forças verticais por eixo: de 0 a 13 000 decanewton (daN);
 
-f) Resolução das forças verticais: (menor que) 100 N;
+f) Resolução das forças verticais: (igual ou menor que) 100 N;
 
 g) Exatidão na medição das forças verticais: para forças até 1000 daN, o erro máximo admissível é de 20 daN; para além de 1000 daN, o erro máximo admissível não pode exceder 2 % do valor medido;
 
 h) Requisitos dos rolos:
 
-i) Diâmetro exterior: (maior que) 200 mm;
+i) Diâmetro exterior: (igual ou maior que) 200 mm;
 
-ii) Largura: (maior que) 1000 mm;
+ii) Largura: (igual ou maior que) 1000 mm;
 
-iii) Distância entre os lados interiores dos rolos: (menor que) 1000 mm;
+iii) Distância entre os lados interiores dos rolos: (igual ou menor que) 1000 mm;
 
-iv) Coeficiente de atrito: (maior que) 0,5;
+iv) Coeficiente de atrito: (igual ou maior que) 0,5;
 
-i) Velocidade de ensaio: (maior que) 2 km/h;
+i) Velocidade de ensaio: (igual ou maior que) 2 km/h;
 
 j) Leitura de resultados: por indicação contínua, analógica ou digital, das forças de travagem de cada roda (ou rodado) do mesmo eixo, de forma independente;
 
@@ -324,7 +324,7 @@ vi) Eficiência global do travão de serviço, eficiência global do travão de 
 
 l) Intervalo nominal de indicação mínimo: de 0 N a 30 000 N;
 
-m) Resolução: (menor que) 100 N;
+m) Resolução: (igual ou menor que) 100 N;
 
 n) Exatidão da medição das forças de travagem: o erro máximo admissível não pode ser superior a 10 % do valor lido e a 3 % do valor máximo indicado no intervalo nominal de indicação. Para a mesma força de travagem, a diferença entre as indicações do lado direito e esquerdo não pode ser superior a 2,5 % da indicação de maior valor;
 
@@ -336,27 +336,27 @@ ii) Sistema que impeça o arranque dos rolos sem que ambas as rodas (ou rodados)
 
 iii) Botão de emergência de corte rápido. Esta funcionalidade poderá também estar disponível no telecomando, caso o equipamento disponha deste acessório;
 
-p) Acessórios para simulação de carga - dispositivos mecânicos que permitem a simulação da existência de carga até ao valor de 5000 kg (mínimo) durante a realização do ensaio de travagem, assegurando as seguintes funcionalidades:
+p) Acessórios para simulação de carga - dispositivos mecânicos que permitam a simulação da existência de carga até ao valor de 5000 kg (mínimo) durante a realização do ensaio de travagem, em todos os veículos pesados, assegurando uma das seguintes funcionalidades:
 
 i) Aplicação de uma carga sobre o piso da caixa do veículo através de dispositivo de fixação temporária a calha encastrada no pavimento do CITV (ou solução equivalente);
 
 ii) Aplicação de uma força de tração vertical através de dispositivo posicionado na fossa mediante a colocação de cabos ou cintas no quadro (ou solução equivalente);
 
-q) Acessório opcional - sistema com captores para medição das pressões do sistema de travagem.
+q) Acessório com sistema de captores para medição das pressões do sistema de travagem.
 
 7.3.3 - O banco de suspensão é o aparelho que serve para medir a eficiência do sistema de suspensão e efetuar a medição das forças verticais dos veículos ligeiros, que deve possuir as seguintes características:
 
 a) Montagem: encastrado no solo;
 
-b) Carga estática por roda: (maior que) 1000 kg;
+b) Carga estática por roda: (igual ou maior que) 1000 kg;
 
 c) Tipo: de placas vibratórias;
 
-d) Frequência de excitação máxima: (maior que) 16 Hz;
+d) Frequência de excitação máxima: (igual ou maior que) 16 Hz;
 
-e) Amplitude de vibração: (maior que) 6 mm;
+e) Amplitude de vibração: (igual ou maior que) 6 mm;
 
-f) Bitola mínima: (maior que) 780 mm;
+f) Bitola mínima: (igual ou maior que) 780 mm;
 
 g) Bitola máxima: de 2035 mm a 2200 mm;
 
@@ -372,7 +372,7 @@ i) Exatidão: o erro máximo admissível não pode ser superior a 10 % do valor 
 
 j) Intervalo nominal de indicação mínimo do sistema de pesagem: de 0 a 2000 daN;
 
-k) Resolução das forças verticais: (menor que) 10 N.
+k) Resolução das forças verticais: (igual ou menor que) 10 N.
 
 7.3.4 - O regloscópio é o aparelho que se destina à verificação da orientação das luzes de estrada, de cruzamento e de nevoeiro, bem como à medição da sua intensidade luminosa, que deve obedecer às seguintes características:
 
@@ -396,9 +396,9 @@ ii) Alinhamento vertical: o erro máximo admissível não deve exceder 0,2 %, de
 
 f) Resolução:
 
-i) Inclinação vertical: (menor que) 0,1 %;
+i) Inclinação vertical: (igual ou menor que) 0,1 %;
 
-ii) Intensidade luminosa: (menor que) 0,1 Kcd;
+ii) Intensidade luminosa: (igual ou menor que) 0,1 Kcd;
 
 g) O regloscópio deve movimentar-se sobre calhas montadas no pavimento;
 
@@ -424,25 +424,25 @@ iii) Os erros máximos admissíveis para a planicidade da zona de rodado são os
 
 a) Montagem: fixa, encastrado no solo e não fazendo saliências em relação ao pavimento e apresentando um afastamento de modo que a realização de ensaios de outros equipamentos não interfira no seu bom funcionamento;
 
-b) Carga sobre a placa: (maior que) 1000 kg (ligeiros); (maior que) 6500 kg (pesados);
+b) Carga sobre a placa: (igual ou maior que) 1000 kg (ligeiros); (igual ou maior que) 6500 kg (pesados);
 
 c) Intervalo nominal de indicação mínimo: -15 m/km a +15 m/km;
 
 d) Tipo: de placa(s);
 
-e) Exatidão: (menor que) 1,0 m/km;
+e) Exatidão: (igual ou menor que) 1,0 m/km;
 
 f) Leitura dos resultados: indicação em m/km;
 
 g) Deve registar o valor da deriva ou ripagem das rodas do veículo;
 
-h) Resolução: (menor que) 0,1 m/km.
+h) Resolução: (igual ou menor que) 0,1 m/km.
 
 7.3.6 - O detetor de folgas é o aparelho destinado à deteção de folgas na suspensão, direção, eixos e suas ligações ao quadro dos automóveis, que deve possuir as seguintes características:
 
 a) Montagem: fixa; no caso de utilização de fossa deve estar encastrado no solo, permitindo a sua utilização a partir da fossa;
 
-b) Carga por placa: (maior que) 1000 kg (ligeiros); (maior que) 6500 kg (pesados);
+b) Carga por placa: (igual ou maior que) 1000 kg (ligeiros); (igual ou maior que) 6500 kg (pesados);
 
 c) Tipo: de placas móveis com deslocamento transversal (em pelo menos uma das placas) e longitudinal (em ambas as placas);
 
@@ -464,7 +464,7 @@ O manómetro deve possuir as seguintes características:
 
 a) Intervalo nominal de indicação mínimo de 0 a 10 bar;
 
-b) Resolução: (menor que) 0,1 bar;
+b) Resolução: (igual ou menor que) 0,1 bar;
 
 c) Exatidão: a que for imposta pela metrologia legal.
 
@@ -478,13 +478,13 @@ c) Intervalo nominal de indicação:
 
 i) Coeficiente de absorção luminosa: de 0 m-1 a 9,99 m-1;
 
-ii) Opacidade: de 0 % a 9,99 %;
+ii) Opacidade: de 0 % a 99,9 %;
 
 d) Resolução:
 
 i) Coeficiente de absorção luminosa: 0,01 m-1;
 
-ii) Opacidade: 0,01 %;
+ii) Opacidade: 0,1 %;
 
 e) Exatidão: a que for imposta pela metrologia legal;
 
@@ -518,7 +518,7 @@ c) Intervalo nominal de indicação de CO: de 0 % a 7 % (mínimo), em percentage
 
 d) Medição da relação ar/combustível (lambda);
 
-e) Resolução: (menor que) 0,01 %;
+e) Resolução: (igual ou menor que) 0,01 %;
 
 f) Exatidão: a que for imposta pela metrologia legal;
 
@@ -546,7 +546,7 @@ b) Intervalo nominal mínimo de indicação: de 35 dB(A) a 120 dB(A);
 
 c) Gama de frequências: de 15 Hz a 15 KHz;
 
-d) Resolução: (menor que) 1 dB(A);
+d) Resolução: (igual ou menor que) 1 dB(A);
 
 e) Exatidão: a que for imposta pela metrologia legal;
 
@@ -562,7 +562,7 @@ b) Intervalo nominal de indicação: de 0 m/s(elevado a 2) a 9 m/s(elevado a 2) 
 
 c) Exatidão: o erro máximo admissível não pode ser superior a 0,5 m/s(elevado a 2);
 
-d) Resolução: (menor que) 0,1 m/s(elevado a 2);
+d) Resolução: (igual ou menor que) 0,1 m/s(elevado a 2);
 
 e) Impressão de resultados em impressora própria ou registo informático dos mesmos.
 
@@ -572,7 +572,7 @@ a) Tipo: hidráulico ou pneumático de acionamento automático (bombagem não ma
 
 b) Capacidade de elevação: 10 000 kg (mínimo);
 
-c) Deslocamento vertical: (maior que) 500 mm;
+c) Deslocamento vertical:(igual ou maior que) 500 mm;
 
 d) Movimento longitudinal e transversal na fossa.
 
@@ -596,7 +596,7 @@ a) Tipo: portátil;
 
 b) Intervalo nominal de indicação: 0 a 100 %;
 
-c) Resolução: (menor que) 0,1 %;
+c) Resolução: (igual ou menor que) 0,1 %;
 
 d) Exatidão: o erro máximo admissível não deve exceder os 3 %.
 
@@ -628,7 +628,7 @@ a) Sistema: fotometria laser;
 
 b) Intervalo nominal de indicação da concentração de partículas: de 0 a 8 mg/m3 (gama baixa) e de 0 a 900 mg/m3 (gama alta);
 
-c) Resolução: (menor que) 0,01 mg/m3;
+c) Resolução: (igual ou menor que) 0,01 mg/m3;
 
 d) Exatidão: o erro máximo admissível não deve exceder 0,1 mg/m3;
 
@@ -688,17 +688,17 @@ e) Sistemas de imobilização do veículo.
 
 a) Sistema de rolos, tendo estes as seguintes características:
 
-i) Largura dos rolos: (maior que) 350 mm (duas rodas) ou (maior que) 600 mm (quando se destine a todos os veículos da categoria L);
+i) Largura dos rolos: (igual ou maior que) 350 mm (duas rodas) ou (igual ou maior que) 600 mm (quando se destine a todos os veículos da categoria L);
 
-ii) Diâmetro dos rolos: (maior que) 200 mm;
+ii) Diâmetro dos rolos: (igual ou maior que) 200 mm;
 
-iii) Distância entre os eixos dos rolos: (menor que) 400 mm;
+iii) Distância entre os eixos dos rolos: (igual ou menor que) 400 mm;
 
-iv) Coeficiente de atrito: (maior que) 0,5;
+iv) Coeficiente de atrito: (igual ou maior que) 0,5;
 
-b) Carga admissível por eixo: (maior que) 200 kg (duas rodas) ou (maior que) 400 kg (quando se destine a todos os veículos da categoria L);
+b) Carga admissível por eixo: (igual ou maior que) 200 kg (duas rodas) ou (igual ou maior que) 400 kg (quando se destine a todos os veículos da categoria L);
 
-c) Velocidade de ensaio: (maior que) 5 km/h;
+c) Velocidade de ensaio: (igual ou maior que) 5 km/h;
 
 d) Leitura de resultados: por indicação contínua, digital ou analógica;
 
@@ -728,9 +728,9 @@ ii) Forças verticais: para forças até 1250 N o erro máximo admissível é de
 
 h) Resolução:
 
-i) Forças de travagem: (menor que) 10 N;
+i) Forças de travagem: (igual ou menor que) 10 N;
 
-ii) Forças verticais: (menor que) 10 N;
+ii) Forças verticais: (igual ou menor que)10 N;
 
 i) Registo de resultados:
 
@@ -750,13 +750,13 @@ a) Sistema de rolos;
 
 b) Características dos rolos:
 
-i) Largura: (maior que) 200 mm;
+i) Largura: (igual ou maior que) 200 mm;
 
-ii) Diâmetro dos rolos: (maior que) 200 mm;
+ii) Diâmetro dos rolos: (igual ou maior que) 200 mm;
 
-iii) Distância entre os eixos dos rolos: (menor que) 400 mm;
+iii) Distância entre os eixos dos rolos: (igual ou menor que) 400 mm;
 
-c) Carga admissível por eixo: (maior que) 200 kg (duas rodas) ou (maior que) 400 kg (quando se destine a todos os veículos da categoria L);
+c) Carga admissível por eixo: (igual ou maior que) 200 kg (duas rodas) ou (igual ou maior que) 400 kg (quando se destine a todos os veículos da categoria L);
 
 d) Intervalo nominal de indicação: 0 a 60 km, no mínimo;
 
@@ -764,7 +764,7 @@ e) Sistema de segurança: dispositivo de fixação de roda diretriz, em condiç�
 
 f) Exatidão: erro máximo admissível não pode ser superior a 3 % do valor lido;
 
-g) Resolução: (menor que) 1 km/h;.
+g) Resolução: (igual ou menor que) 1 km/h;.
 
 h) Registo de resultados: velocidade máxima obtida durante o ensaio.
 
