@@ -12,7 +12,7 @@ b) Não tendo a afectação indicada na alínea anterior, não se encontrem cons
 
 3 - São ainda prédios rústicos:
 
-a) Os edifícios e construções directamente afectos à produção de rendimentos agrícolas, quando situados nos terrenos referidos nos números anteriores;
+a) Os edifícios e construções diretamente afetos à produção de rendimentos agropecuários, quando situados nos terrenos referidos nos números anteriores;
 
 b) As águas e plantações nas situações a que se refere o n.º 1 do artigo 2.º
 

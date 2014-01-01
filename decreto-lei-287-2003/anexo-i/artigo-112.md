@@ -10,9 +10,9 @@
 
 a) Prédios rústicos: 0,8%;
 
-b) Prédios urbanos: 0,5 % a 0,8 %;
+b) (Revogada.)
 
-c) Prédios urbanos avaliados, nos termos do CIMI: 0,3 % a 0,5 %.
+c) Prédios urbanos - de 0,3 % a 0,5 %.
 
 2 - Tratando-se de prédios constituídos por parte rústica e urbana, aplica-se ao valor patrimonial tributário de cada parte a respectiva taxa.
 
