@@ -30,7 +30,7 @@ a) Na totalidade do imposto, aos automóveis ligeiros de mercadorias, de caixa f
 
 b) Na totalidade do imposto, aos automóveis ligeiros de mercadorias, de caixa fechada, com lotação máxima de três lugares, incluindo o do condutor, e tracção às quatro rodas, permanente ou adaptável;
 
-c) Aos automóveis abrangidos pelo n.º 3 do artigo seguinte, na percentagem aí prevista;
+c) Aos automóveis abrangidos pelos n.os 2 e 3 do artigo seguinte, nas percentagens aí previstas;
 
 d) Aos automóveis abrangidos pelo artigo 9.º, nas percentagens aí previstas.
 
@@ -40,7 +40,7 @@ Componente cilindrada
 
 (ver documento original)
 
-3 - Ficam sujeitos a um agravamento de (euro) 500 no total do montante do imposto a pagar, os veículos ligeiros, equipados com sistema de propulsão a gasóleo, sendo o valor acima referido reduzido para (euro) 250 relativamente aos veículos ligeiros de mercadorias referidos no n.º 2 do artigo 9.º, com excepção dos veículos que apresentarem nos respectivos certificados de conformidade ou, na sua inexistência, nas homologações técnicas, um valor de emissão de partículas inferior a 0,003 g/km.
+3 - Ficam sujeitos a um agravamento de (euro) 500 no total do montante do imposto a pagar os veículos ligeiros equipados com sistema de propulsão a gasóleo, sendo o valor acima referido reduzido para (euro) 250 relativamente aos veículos ligeiros de mercadorias referidos no n.º 2 do artigo 9.º, com exceção dos veículos que apresentarem nos respetivos certificados de conformidade ou, na sua inexistência, nas homologações técnicas, um valor de emissão de partículas inferior a 0,002 g/km.
 
 4 - Quando da aplicação das tabelas de taxas a que se referem os n.os 1 e 2 resultar o apuramento de imposto inferior a (euro) 100, há lugar ao pagamento desta importância.
 

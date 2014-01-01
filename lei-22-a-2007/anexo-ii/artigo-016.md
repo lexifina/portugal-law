@@ -6,7 +6,7 @@
 
 ### Liquidação
 
-1 - A competência para a liquidação do imposto é da Direcção-Geral dos Impostos.
+1 - A competência para a liquidação do imposto é da Autoridade Tributária e Aduaneira, considerando-se, para todos os efeitos legais, o ato tributário praticado no serviço de finanças da residência ou sede do sujeito passivo.
 
 2 - A liquidação do imposto é feita pelo próprio sujeito passivo através da Internet, nas condições de registo e acesso às declarações electrónicas, sendo obrigatória para as pessoas colectivas.
 
