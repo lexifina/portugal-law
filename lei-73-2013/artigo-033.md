@@ -2,9 +2,9 @@
 
 ### Compensação associada ao Fundo de Coesão Municipal
 
-1 - A CF de cada município é diferente consoante o valor da capitação média do município (CMMi) face à capitação média nacional (CMN) da soma das coletas dos impostos municipais referidos nas alíneas a), b) e d) do artigo 14.º e da participação na receita do IVA referida na alínea d) do n.º 1 do artigo 25.º, nos termos dos n.os 3 e 4.
+1 - A CF de cada município é diferente consoante esteja acima ou abaixo de 1,25 vezes a capitação média nacional (CMN) da soma das coletas dos impostos municipais referidos na alínea a) do artigo 14.º e da participação no IRS referida na alínea c) do n.º 1 do artigo 25.º.
 
-2 - Entende-se por CMN o quociente da soma dos impostos municipais referidos nas alíneas a), b) e d) do artigo 14.º e da participação na receita do IVA referida na alínea d) do n.º 1 do artigo 25.º pela população residente mais a média diária das dormidas em estabelecimentos hoteleiros e parques de campismo.
+2 - Entende-se por CMN o quociente da soma dos impostos municipais referidos na alínea a) do artigo 14.º pela população residente mais a média diária das dormidas em estabelecimentos hoteleiros e parques de campismo.
 
 3 - Quando a capitação média do município (CMMi) seja inferior a 0,75 vezes a CMN, a CF assume um valor positivo igual à diferença entre ambas multiplicadas pela população residente mais a média diária das dormidas em estabelecimentos hoteleiros e parques de campismo de acordo com a seguinte fórmula:
 

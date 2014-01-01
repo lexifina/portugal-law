@@ -28,4 +28,4 @@ i) O produto da participação nos recursos públicos determinada nos termos do 
 
 j) Outras receitas estabelecidas por lei ou regulamento a favor das freguesias.
 
-2 - As freguesias são ouvidas antes da concessão, por parte do Estado ou dos municípios, de isenções fiscais subjetivas relativas aos impostos municipais referidos na alínea a) do número anterior, no que respeita à fundamentação da decisão de conceder a referida isenção, e são informadas quanto à despesa fiscal envolvida, havendo lugar a compensação em caso de discordância expressa da respetiva freguesia.
+2 - O disposto no artigo 22.º, no âmbito da cooperação técnica e financeira, aplica-se às freguesias.

@@ -6,9 +6,9 @@
 
 2 - As despesas elegíveis para financiamento através do FSM são, nomeadamente:
 
-a) As despesas de funcionamento corrente do pré-escolar público, nomeadamente as remunerações de pessoal não docente, os serviços de alimentação, as despesas com prolongamento de horário, transporte escolar e as despesas com ação social escolar;
+a) As despesas de funcionamento corrente do pré-escolar público, nomeadamente as remunerações de pessoal não docente, os serviços de alimentação, as despesas com prolongamento de horário e transporte escolar;
 
-b) As despesas de funcionamento corrente com os três ciclos de ensino básico público, nomeadamente as remunerações de pessoal não docente, os serviços de alimentação, as atividades de enriquecimento curricular, o transporte escolar e as despesas com ação social escolar, excluindo apenas as do pessoal docente afeto ao plano curricular obrigatório;
+b) As despesas de funcionamento corrente com os três ciclos de ensino básico público, nomeadamente as remunerações de pessoal não docente, os serviços de alimentação, as atividades de enriquecimento curricular e o transporte escolar, excluindo apenas as do pessoal docente afeto ao plano curricular obrigatório;
 
 c) As despesas com professores, monitores e outros técnicos com funções educativas de enriquecimento curricular, nomeadamente nas áreas de iniciação ao desporto e às artes, bem como de orientação escolar, de apoio à saúde escolar e de acompanhamento socioeducativo do ensino básico público;
 
@@ -23,5 +23,3 @@ g) As despesas de funcionamento de creches, estabelecimentos de educação pré-
 h) As despesas de funcionamento de programas de ação social de âmbito municipal no domínio do combate à toxicodependência e da inclusão social.
 
 3 - As despesas de funcionamento previstas no número anterior podem, na parte aplicável, integrar a aplicação de programas municipais de promoção da igualdade de género, nomeadamente na perspetiva integrada da promoção da conciliação da vida profissional e familiar, da inclusão social e da proteção das vítimas de violência.
-
-4 - São excluídas da elegibilidade prevista no n.º 2 as despesas comparticipadas no âmbito de contratos, acordos, protocolos ou quaisquer outros instrumentos jurídicos.

@@ -26,4 +26,4 @@ e) De 40 001 a 80 000 habitantes - 0,75;
 
 f) Mais de 80 000 habitantes - 1.
 
-3 - (Revogado.)
+3 - Os elementos e os indicadores para aplicação dos critérios referidos nos números anteriores são comunicados, de forma discriminada, à Assembleia da República, juntamente com a proposta de Lei do Orçamento do Estado.

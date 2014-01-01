@@ -31,5 +31,3 @@ c) Remeter à DGAL os relatórios semestrais sobre a execução do plano de sane
 6 - Sem prejuízo do disposto na alínea c) do número anterior, o acompanhamento do plano de saneamento cabe ao município, através da elaboração de relatórios semestrais sobre a execução do plano financeiro pela câmara municipal e da sua apreciação pela assembleia municipal.
 
 7 - Sem prejuízo do disposto no número anterior, nos casos de adesão obrigatória ao saneamento financeiro, o seu acompanhamento cabe à DGAL, através da apreciação dos relatórios referidos na alínea c) do n.º 5, devendo dar conhecimento aos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais.
-
-8 - O disposto na alínea c) do n.º 1 pode dispensar a deliberação de taxas máximas de impostos locais se a assembleia municipal, sob proposta da câmara municipal, aprovar a adoção de medidas financeiras de efeito equivalente.

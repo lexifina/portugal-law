@@ -12,8 +12,6 @@ c) Mapa das receitas e despesas, desagregado segundo a classificação económic
 
 d) Articulado que contenha as medidas para orientar a execução orçamental.
 
-e) A proposta das grandes opções do plano, compostas pelas atividades mais relevantes e plano plurianual de investimentos, com nota explicativa que a fundamenta, a qual integra a justificação das opções de desenvolvimento estratégico, a sua compatibilização com os objetivos de política orçamental, e a descrição dos programas, incluindo projetos de investimento e atividades mais relevantes da gestão.
-
 2 - O orçamento municipal inclui, para além dos mencionados em legislação especial, os seguintes anexos:
 
 a) Orçamentos dos órgãos e serviços do município com autonomia financeira;

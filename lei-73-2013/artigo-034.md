@@ -26,6 +26,6 @@ ii) 12,5 % na razão direta do número de crianças até aos três anos de idade
 
 iii) 15 % na razão direta do número de adultos com mais de 65 anos residentes em lares ou inscritos em centros de dia e programas de apoio ao domicílio.
 
-2 - (Revogado.)
+2 - Tratando-se de uma transferência financeira consignada a um fim específico, caso o município não realize despesa elegível de montante pelo menos igual à verba que lhe foi afeta, no ano subsequente é deduzida à verba a que teria direito ao abrigo do FSM a diferença entre a receita de FSM e a despesa correspondente.
 
-3 - (Revogado.)
+3 - Para efeitos do disposto no número anterior, a contabilidade analítica por centro de custos deve permitir identificar os custos referentes às funções educação, saúde e ação social.

@@ -6,15 +6,15 @@
 
 ### Regime de crédito das freguesias
 
-1 - As freguesias podem contrair empréstimos de curto prazo obrigatoriamente denominados em euros e utilizar aberturas de crédito, junto de quaisquer instituições autorizadas por lei a conceder crédito, que devem ser amortizados até ao final do exercício económico em que foram contratados.
+1 - As freguesias podem contrair empréstimos de curto prazo e utilizar aberturas de crédito, junto de quaisquer instituições autorizadas por lei a conceder crédito, que devem ser amortizados até ao final do exercício económico em que foram contratados.
 
 2 - As freguesias podem celebrar contratos de locação financeira para aquisição de bens móveis, por um prazo máximo de cinco anos.
 
-3 - As freguesias podem celebrar contratos de locação financeira de bens imóveis com duração anual, renovável até ao limite de dez anos, e desde que os respetivos encargos sejam suportados através de receitas próprias.
+3 - As freguesias podem celebrar contratos de locação financeira de bens imóveis com duração anual, renovável até ao limite de cinco anos, e desde que os respetivos encargos sejam suportados através de receitas próprias
 
 4 - A celebração de contratos de empréstimos de curto prazo, de aberturas de crédito e de locação financeira compete à junta de freguesia, mediante prévia autorização da assembleia de freguesia ou do plenário de cidadãos eleitores.
 
-5 - Os empréstimos de curto prazo e as aberturas de crédito são contraídos para ocorrer a dificuldades de tesouraria, não podendo o seu montante exceder, em qualquer momento, 20 % do FFF respetivo.
+5 - Os empréstimos de curto prazo e as aberturas de crédito são contraídos para ocorrer a dificuldades de tesouraria, não podendo o seu montante exceder, em qualquer momento, 10 % do FFF respetivo.
 
 6 - Constituem garantia dos empréstimos contraídos as receitas provenientes do FFF.
 
