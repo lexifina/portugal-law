@@ -6,4 +6,4 @@
 
 2 - O recurso ao investimento público é realizado de acordo, nomeadamente, com princípios de adequação, necessidade e proporcionalidade de remuneração e garantia dos capitais investidos e de minimização dos riscos de distorção da concorrência.
 
-3 - As modalidades previstas no n.º 1 têm natureza subsidiária e temporária, sendo aplicáveis a operações de capitalização de instituições de crédito a realizar até 31 de dezembro de 2013.
+3 - As modalidades previstas no n.º 1 têm natureza subsidiária e temporária, sendo aplicáveis a operações de capitalização de instituições de crédito a realizar até 31 de dezembro de 2014.
