@@ -2,7 +2,7 @@
 
 ### Regime especial aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de Janeiro de 2007
 
-1 - Os rendimentos das entidades licenciadas, a partir de 1 de Janeiro de 2007 e até 31 de Dezembro de 2013, para o exercício de actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, que observem os respectivos condicionalismos previstos no n.º 1 do artigo 33.º do presente Estatuto, são tributados em IRC, até 31 de Dezembro de 2020, nos seguintes termos:
+1 - Os rendimentos das entidades licenciadas a partir de 1 de janeiro de 2007 e até 30 de junho de 2014 para o exercício de atividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, que observem os respetivos condicionalismos previstos no n.º 1 do artigo 33.º do presente Estatuto, são tributados em IRC, até 31 de dezembro de 2020, nos seguintes termos:
 
 a) Nos anos de 2007 a 2009, à taxa de 3 %;
 
@@ -44,7 +44,7 @@ d) Contribuam para a melhoria das condições ambientais;
 
 e) Criem, pelo menos, 15 postos de trabalho, que devem ser mantidos durante um período mínimo de cinco anos.
 
-6 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de Janeiro de 2007 e até 31 de Dezembro de 2013, podem, designadamente, exercer as seguintes actividades económicas relacionadas com:
+6 - As entidades licenciadas na Zona Franca da Madeira a partir de 1 de janeiro de 2007 e até 30 de junho de 2014 podem, designadamente, exercer as seguintes atividades económicas relacionadas com:
 
 a) Agricultura e com a produção animal (NACE Rev. 1.1, secção A, códigos 01.4 e 02.02);
 
@@ -66,7 +66,7 @@ i) Outras actividades de serviços colectivos (NACE Rev. 1.1, secção O, códig
 
 7 - Da lista de actividades prevista no número anterior encontram-se excluídas as actividades de intermediação financeira, de seguros e das instituições auxiliares de intermediação financeira e de seguros (NACE Rev. 1.1, secção J, 65, 66 e 67) bem como as actividades do tipo «serviços intragrupo», designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K, código 74).
 
-8 - Os rendimentos das sociedades gestoras de participações sociais licenciadas a partir de 1 de Janeiro de 2007 e até 31 de Dezembro de 2013 são tributados em IRC nos termos referidos no n.º 1, salvo os obtidos no território português, exceptuadas as zonas francas, ou em outros Estados membros da União Europeia, que são tributados nos termos gerais.
+8 - Os rendimentos das sociedades gestoras de participações sociais licenciadas a partir de 1 de janeiro de 2007 e até 30 de junho de 2014 são tributados em IRC nos termos referidos no n.º 1, salvo os obtidos no território português, excetuadas as zonas francas, ou em outros Estados membros da União Europeia, que são tributados nos termos gerais.
 
 9 - Às restantes situações não referidas nos números anteriores são aplicáveis, nos termos da legislação respectiva e relativamente às actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, os demais benefícios fiscais e condicionalismos actualmente vigentes na Zona Franca da Madeira.
 

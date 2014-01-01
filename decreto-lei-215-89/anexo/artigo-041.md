@@ -20,16 +20,12 @@ d) Isenção ou redução de imposto do selo, que for devido em todos os actos o
 
 3 - Os incentivos fiscais a conceder não são cumuláveis com outros benefícios da mesma natureza susceptíveis de serem atribuídos ao mesmo projecto de investimento.
 
-4 - Os projectos de investimento directo efectuados por empresas portuguesas no estrangeiro, de montante igual ou superior a (euro) 250 000, de aplicações relevantes, que demonstrem interesse estratégico para a internacionalização da economia portuguesa, podem beneficiar de incentivos fiscais, em regime contratual, com período de vigência até cinco anos, a conceder nos termos, condições e procedimentos definidos em regulamentação própria, de acordo com os princípios estabelecidos nos n.os 5 a 7.
+4 - (Revogado).
 
-5 - Aos promotores dos projectos de investimento referidos no número anterior podem ser concedidos os seguintes benefícios fiscais:
+5 - (Revogado).
 
-a) Crédito fiscal utilizável em IRC, compreendido entre 10 % e 20 % das aplicações relevantes, a deduzir ao montante apurado na alínea a) do n.º 1 do artigo 83.º do Código do IRC, não podendo ultrapassar, em cada exercício, 25 % daquele montante, com o limite de (euro) 997 595,79;
+6 - (Revogado).
 
-b) Eliminação da dupla tributação económica, nos termos e condições estabelecidos no artigo 46.º do Código do IRC, durante o período contratual, quando o investimento seja efectuado sob a forma de constituição ou aquisição de sociedades estrangeiras.
-
-6 - Excluem-se da aplicação do disposto nos números anteriores os investimentos efectuados em zonas francas ou nos países, territórios e regiões sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.
-
-7 - No caso de os projectos de investimento se realizarem noutro Estado membro da União Europeia, o disposto no presente artigo aplica-se exclusivamente a pequenas e médias empresas, definidas nos termos comunitários.
+7 - (Revogado).
 
 8 - Os contratos relativos a projectos de investimento realizados em território português devem prever normas que salvaguardem as contrapartidas dos incentivos fiscais em caso de cessação de actividade da entidade beneficiária, designadamente por transferência da sede e direcção efectiva para fora do território português.

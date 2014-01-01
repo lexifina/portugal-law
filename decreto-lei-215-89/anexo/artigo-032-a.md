@@ -2,9 +2,9 @@
 
 ### Sociedades de capital de risco (SCR) e investidores de capital de risco (ICR)
 
-1 - As mais-valias e as menos-valias realizadas pelas SCR e os ICR de partes de capital de que sejam titulares, desde que detidas por período não inferior a um ano, e, bem assim, os encargos financeiros suportados com a sua aquisição não concorrem para a formação do lucro tributável destas sociedades.
+1 - (Revogado).
 
-2 - O disposto no número anterior não é aplicável relativamente às mais-valias realizadas e aos encargos financeiros suportados quando as partes de capital tenham sido adquiridas a entidades com as quais existam relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, ou a entidades com domicílio, sede ou direcção efectiva em território sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, ou residentes em território português sujeitas a um regime especial de tributação, e desde que tenham sido detidas, pela alienante, por período inferior a três anos e, bem assim, quando a alienante tenha resultado de transformação de sociedade à qual não fosse aplicável o regime previsto naquele número, relativamente às mais-valias das partes de capital objecto de transmissão, desde que, neste último caso, tenham decorrido menos de três anos entre a data da transformação e a data da transmissão.
+2 - (Revogado).
 
 3 - As SCR podem deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, uma importância correspondente ao limite da soma das colectas de IRC dos cinco exercícios anteriores àquele a que respeita o benefício, desde que seja utilizada na realização de investimentos em sociedades com potencial de crescimento e valorização.
 

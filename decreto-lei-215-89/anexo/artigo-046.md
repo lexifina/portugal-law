@@ -14,7 +14,7 @@
 
 6 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado.
 
-7 - Se o pedido for apresentado para além do prazo, ou se a afectação a residência própria e permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo, a isenção inicia-se a partir do ano imediato, inclusive, ao da verificação de tais pressupostos, cessando, todavia, no ano em que findaria se a afectação se tivesse verificado nos seis meses imediatos ao da conclusão da construção, ampliação, melhoramentos ou aquisição a título oneroso.
+7 - Se o pedido for apresentado para além do prazo, ou se a afetação a residência própria e permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo, a isenção inicia-se a partir do ano da comunicação, cessando, todavia, no ano em que findaria se a afetação se tivesse verificado nos seis meses imediatos ao da conclusão da construção, ampliação, melhoramentos ou aquisição a título oneroso.
 
 8 - Os benefícios fiscais a que se refere este artigo cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto no n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis.
 
