@@ -1,0 +1,5 @@
+Aviso n.º 14059/2013
+João Manuel Rocha da Silva, Presidente da Câmara Municipal de Beja, torna público que, nos termos e para efeitos do disposto no n.º 5 do art.º 62.º do Decreto-Lei 194/2009, de 20 de agosto, por deliberação da Assembleia Municipal de 16 de setembro de 2003, foi aprovado o Regulamento de Serviços de Gestão de Resíduos Urbanos e de Higiene Pública, o qual entrará em vigor 15 dias após a sua publicação na 2.ª série do Diário da República, à exceção da secção V (Estrutura tarifária) do capítulo VI, a qual entra em vigor a 1 de janeiro de 2014.
+Mais se torna público que o referido Regulamento está disponível no sítio da internet www.cm-beja.pt e no Balcão de Atendimento. Após a entrada em vigor deste regulamento fica automaticamente revogado o Regulamento de Gestão de Resíduos e Higiene Urbana no Município de Beja, publicado na 2.ª série do Diário da Republica n.º 42, de 19 de fevereiro de 2003 e o Regulamento Municipal das Posturas Sanitárias do Concelho de Beja, publicado na 2.ª série do Diário da Republica n.º 105, de 7 de maio de 1998.
+31 de outubro de 2013. - O Presidente da Câmara, João Manuel Rocha da Silva.
+307368225
