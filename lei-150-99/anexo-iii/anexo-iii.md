@@ -130,6 +130,6 @@
 
 28 - Propriedade, usufruto ou direito de superfície de prédios urbanos cujo valor patrimonial tributário constante da matriz, nos termos do Código do Imposto Municipal sobre Imóveis (CIMI), seja igual ou superior a (euro) 1 000 000 - sobre o valor patrimonial tributário utilizado para efeito de IMI:
 
-28.1 - Por prédio com afetação habitacional - 1 %;
+28.1 - Por prédio habitacional ou por terreno para construção cuja edificação, autorizada ou prevista, seja para habitação, nos termos do disposto no Código do IMI - 1 %.
 
 28.2 - Por prédio, quando os sujeitos passivos que não sejam pessoas singulares sejam residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável, constante da lista aprovada por portaria do Ministro das Finanças - 7,5 %.
