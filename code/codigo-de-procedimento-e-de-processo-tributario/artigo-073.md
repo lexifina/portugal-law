@@ -13,3 +13,5 @@
 5 - Caso não se verifiquem as circunstâncias referidas no número anterior, o órgão periférico local remeterá de imediato a reclamação para o órgão competente para a decisão.
 
 6 - (Revogado).
+
+7 - O disposto no presente artigo não é aplicável à reclamação graciosa que tenha por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias.
