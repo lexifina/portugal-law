@@ -12,9 +12,9 @@
 
 5 - A autorização referida no n.º 1 é concedida, mediante a apresentação do respectivo pedido, às pessoas singulares ou colectivas ou entidades fiscalmente equiparadas que exerçam a actividade de tipografia ou que a iniciem, na condição de que:
 
-a) Não tenham sofrido condenação nos termos dos artigos 87.º a 91.º, 103.º a 107.º, 113.º, 114.º, 116.º a 118.º, 120.º, 122.º e 123.º do Regime Geral das Infracções Tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho, nem nos termos das normas correspondentes do Regime Jurídico das Infracções Fiscais não Aduaneiras, aprovado pelo Decreto-Lei n.º 20-A/90, de 15 de Janeiro;
+a) Não tenham sofrido condenação nos termos dos artigos 87.º a 107.º, nem se encontrem em situação punível pelos artigos 108.º a 111.º, 113.º, 114.º, 116.º a 118.º, 120.º, 122.º, 123.º e 127.º, todos do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho, nem nos termos das normas correspondentes dos regimes jurídicos das infrações fiscais aduaneiras e não aduaneiras, aprovados, respetivamente, pelos Decretos-Leis n.os 376-A/89, de 25 de outubro, e 20-A/90, de 15 de janeiro;
 
-b) Não estejam em falta relativamente ao cumprimento das obrigações constantes do n.º 1 do artigo 26.º e dos n.os 1 e 2 do artigo 40.º do Código do IVA, do n.º 1 do artigo 57.º do Código do Imposto sobre o Rendimento das Pessoas Singulares ou do n.º 1 do artigo 96.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas;
+b) Não estejam em falta, relativamente ao cumprimento das obrigações constantes do n.º 1 do artigo 27.º, do artigo 28.º, dos n.os 1 e 2 do artigo 41.º do Código do IVA, do n.º 1 do artigo 57.º do Código do Imposto sobre o Rendimento das Pessoas Singulares ou do n.º 1 do artigo 104.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas;
 
 c) Não se encontrem em estado de falência ou de insolvência;
 

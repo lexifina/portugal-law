@@ -8,7 +8,7 @@ a) Por via eletrónica, devendo estar garantida a autenticidade da sua origem e 
 
 b) Através de programa informático que tenha sido objeto de prévia certificação pela Autoridade Tributária e Aduaneira (AT), nos termos da Portaria n.º 363/2010, de 23 de junho, alterada pela Portaria n.º 22-A/2012, de 24 de janeiro;
 
-c) Através de software produzido internamente pela empresa ou por empresa integrada no mesmo grupo económico, de cujos respetivos direitos de autor seja detentor;
+c) Através de software produzido internamente pela empresa ou por empresa integrada no mesmo grupo económico, que seja detentora dos respetivos direitos de autor;
 
 d) Diretamente no Portal das Finanças;
 

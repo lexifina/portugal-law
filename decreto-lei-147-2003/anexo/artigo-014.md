@@ -8,9 +8,9 @@
 
 1 - A falta de emissão ou de imediata exibição do documento de transporte ou dos documentos referidos no artigo 1.º e no n.º 2 do artigo 7.º e ainda as situações previstas nos n.os 2 e 4 do artigo 6.º farão incorrer os infractores nas penalidades previstas no artigo 117.º do Regime Geral das Infracções Tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho, aplicáveis quer ao remetente dos bens quer ao transportador que não seja transportador público regular de passageiros ou mercadorias ou empresas concessionárias a prestar o mesmo serviço.
 
-2 - As omissões ou inexactidões praticadas nos documentos de transporte referidos no artigo 1.º e no n.º 2 do artigo 7.º que não sejam a falta de indicação do número de identificação fiscal do destinatário ou adquirente dos bens ou de qualquer das menções referidas nos n.os 4 e 8 do artigo 4.º e no n.º 3 do artigo 8.º ou ainda o não cumprimento do disposto no n.º 7 do artigo 4.º farão incorrer os infractores nas penalidades referidas no artigo 117.º do Regime Geral das Infracções Tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho, aplicáveis quer ao remetente dos bens quer ao transportador que não seja transportador público regular de passageiros ou mercadorias ou empresas concessionárias a prestar o mesmo serviço.
+2 - As omissões ou inexatidões praticadas nos documentos de transporte referidos no artigo 1.º e no n.º 2 do artigo 7.º, que não sejam a falta de indicação do número de identificação fiscal do destinatário ou adquirente dos bens, ou de qualquer das menções elencadas nos n.os 4 e 8, ou ainda o não cumprimento do disposto no n.º 7, todos do artigo 4.º, fazem incorrer os sujeitos passivos a que se refere o n.º 1 do artigo 6.º nas penalidades previstas no artigo 117.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho.
 
-3 - Será unicamente imputada ao transportador a infracção resultante da alteração do destino final dos bens, ocorrida durante o transporte, sem que tal facto seja por ele anotado.
+3 - É unicamente imputada ao transportador a infração resultante da alteração do destino final dos bens, ocorrida durante o transporte.
 
 4 - Quando os bens em circulação, transportados num único veículo, provierem de mais de um remetente, a cada remetente será imputada a infracção resultante dos bens por ele remetidos.
 

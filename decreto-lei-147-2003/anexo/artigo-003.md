@@ -8,9 +8,9 @@ a) Os bens manifestamente para uso pessoal ou doméstico do próprio;
 
 b) Os bens provenientes de retalhistas, sempre que tais bens se destinem a consumidores finais que previamente os tenham adquirido, com excepção dos materiais de construção, artigos de mobiliário, máquinas eléctricas, máquinas ou aparelhos receptores, gravadores ou reprodutores de imagem ou de som, quando transportados em veículos de mercadorias;
 
-c) Os bens pertencentes ao activo imobilizado;
+c) Os bens pertencentes ao ativo fixo tangível;
 
-d) Os bens provenientes de produtores agrícolas, apícolas, silvícolas ou de pecuária resultantes da sua própria produção, transportados pelo próprio ou por sua conta;
+d) Os bens provenientes de produtores agrícolas, apícolas, silvícolas, de aquicultura ou de pecuária resultantes da sua própria produção e os bens que manifestamente se destinem a essa produção, transportados pelo próprio ou por sua conta;
 
 e) Os bens dos mostruários entregues aos pracistas e viajantes, as amostras destinadas a ofertas de pequeno valor e o material de propaganda, em conformidade com os usos comerciais e que, inequivocamente, não se destinem a venda;
 
@@ -20,7 +20,15 @@ g) Os veículos automóveis, tal como se encontram definidos no Código da Estra
 
 h) As taras e embalagens retornáveis;
 
-i) Os resíduos sólidos urbanos provenientes das recolhas efectuadas pelas entidades competentes ou por empresas a prestarem o mesmo serviço.
+i) Os resíduos sólidos urbanos ou legalmente equiparados, provenientes das recolhas efetuadas pelas entidades competentes ou por empresas que prestem o mesmo serviço;
+
+j) Os resíduos hospitalares sujeitos a guia de acompanhamento nos termos do artigo 21.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho;
+
+l) Os bens a entregar aos respetivos utentes por instituições particulares de solidariedade social ou outras entidades no âmbito de acordos outorgados com o sistema de segurança social;
+
+m) Os bens recolhidos no âmbito de campanhas de solidariedade social efetuadas por organizações sem fins lucrativos;
+
+n) Os bens resultantes ou necessários à prossecução das atividades desenvolvidas por entidades do setor empresarial local ou do Estado que se dediquem à gestão de sistemas de abastecimento de água, de saneamento ou de resíduos urbanos.
 
 2 - Encontram-se ainda excluídos do âmbito do presente diploma:
 

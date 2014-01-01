@@ -2,13 +2,13 @@
 
 ### Apreensão dos bens em circulação e do veículo transportador
 
-1 - Independentemente das sanções aplicáveis, as infracções referidas nos n.os 1 e 2 do artigo 14.º relativas aos bens em circulação implicam a apreensão destes, bem como dos veículos que os transportarem, sempre que estes veículos não estejam afectos aos transportes públicos regulares de passageiros ou mercadorias ou afectos a empresas concessionárias a prestarem o mesmo serviço por conta daqueles.
+1 - (Revogado.)
 
-2 - No caso de os bens apreendidos nos termos do número anterior estarem sujeitos a fácil deterioração, observa-se o preceituado no artigo 886.º-C do Código de Processo Civil, bem como as disposições do Código de Procedimento e de Processo Tributário aplicáveis.
+2 - No caso de os bens apreendidos nos termos do artigo anterior estarem sujeitos a fácil deterioração, observa-se o disposto no Código de Processo Civil, bem como as disposições do Código de Procedimento e de Processo Tributário, com as devidas adaptações.
 
 3 - Da apreensão dos bens e dos veículos será lavrado auto em duplicado ou, no caso do n.º 6 do presente artigo, em triplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor normal dos bens apreendidos expressamente referido nos autos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
 
-4 - O original do auto de apreensão será entregue no serviço de finanças da área onde foi detectada a infracção.
+4 - O original do auto de apreensão é entregue no serviço de finanças da área onde foi detetada a infração, devendo este serviço dar conhecimento imediato ao órgão de polícia criminal com competência na matéria.
 
 5 - O duplicado do auto de apreensão será entregue ao fiel depositário mediante recibo.
 
