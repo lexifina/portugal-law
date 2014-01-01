@@ -14,8 +14,18 @@
 
 6 - O contrato de seguro de grupo deve garantir os valores individuais de valor seguro de cada um dos segurados e, se for o caso, as condições particulares aplicáveis.
 
-7 - O recibo do prémio de seguro deve indicar sempre o valor e a percentagem do apoio atribuído.
+7- O recibo do prémio de seguro indica o valor do prémio e o montante do apoio, apurado nos termos do artigo 6.º da presente portaria.
 
 8 - Sem prejuízo das datas limite da produção de efeitos definidas nas condições da apólice, o contrato de seguro caduca o mais tardar na data de conclusão da colheita.
 
-9 - Nos contratos de seguro de grupo, deve a entidade que representa os produtores beneficiários, em caso de sinistro, garantir apoio ao produtor, nomeadamente no acompanhamento das peritagens.
+9- No caso de contrato de seguro de grupo, o tomador é solidariamente responsável com o produtor pelas informações prestadas no âmbito do processo de candidatura e de concessão do apoio, devendo respeitar, entre outras a que se encontrem vinculados, as seguintes obrigações especiais:
+
+a) Possuir autorização do produtor para a celebração do contrato de seguro e para a consulta dos dados disponibilizados pelo Instituto de Financiamento da Agricultura e Pescas, I.P. (IFAP, I. P.) com vista à formalização da candidatura e à concessão do apoio;
+
+b) Informar o produtor das condições do seguro em cada campanha e do apoio previsto;
+
+c) Prestar apoio ao produtor em caso de sinistro, nomeadamente no acompanhamento de peritagens e arbitragens;
+
+d) Manter e disponibilizar ao IFAP, I.P., ou a qualquer outra entidade por este indicada ou com competência para o efeito, toda a informação necessária à realização do controlo previsto no artigo 8.º da presente portaria;
+
+e) Responder, solidariamente com o produtor, pelo reembolso dos pagamentos indevidos, previstos no artigo 9.º da presente portaria.
