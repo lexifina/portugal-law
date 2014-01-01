@@ -2,7 +2,7 @@
 
 ### Declaração e outros elementos dos contribuintes
 
-1 - Presumem-se verdadeiras e de boa fé as declarações dos contribuintes apresentadas nos termos previstos na lei, bem como os dados e apuramentos inscritos na sua contabilidade ou escrita, quando estas estiverem organizadas de acordo com a legislação comercial e fiscal.
+1 - Presumem-se verdadeiras e de boa-fé as declarações dos contribuintes apresentadas nos termos previstos na lei, bem como os dados e apuramentos inscritos na sua contabilidade ou escrita, quando estas estiverem organizadas de acordo com a legislação comercial e fiscal, sem prejuízo dos demais requisitos de que depende a dedutibilidade dos gastos.
 
 2 - A presunção referida no número anterior não se verifica quando:
 
