@@ -4,7 +4,7 @@
 
 1 - Os particulares e os sujeitos passivos que não se encontrem constituídos como operadores registados ou operadores reconhecidos estão obrigados à apresentação da DAV, em qualquer alfândega com competência em matéria deste imposto, nos prazos seguintes:
 
-a) No prazo máximo de 20 dias úteis, após a entrada do veículo em território nacional ou após a ocorrência dos factos geradores previstos na alínea b) do n.º 2 do artigo 5.º;
+a) No prazo máximo de 20 dias úteis, após a entrada do veículo tributável em território nacional ou após a ocorrência dos factos geradores previstos na alínea b) do n.º 2 do artigo 5.º;
 
 b) No prazo máximo de 10 dias úteis após o termo dos regimes de admissão ou importação temporária quando, findos estes regimes, o particular opte pela introdução no consumo.
 

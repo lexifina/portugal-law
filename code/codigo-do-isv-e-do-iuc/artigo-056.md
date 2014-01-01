@@ -18,4 +18,4 @@ d) A inaptidão para a condução, caso exista.
 
 4 - Dentro do prazo de caducidade do direito à liquidação do imposto, sempre que a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo venha a dispor de informação nova e relevante que não tenha sido considerada no acto de reconhecimento da isenção, pode notificar as pessoas com deficiência em nome de quem foram emitidas as declarações de incapacidade referidas nos números anteriores para se submeterem a nova junta médica, considerando-se haver introdução ilegal no consumo em caso de recusa não fundamentada.
 
-5 - Em derrogação do prazo a que se refere o n.º 1, nas situações de pessoas com deficiência motora definitiva com grau de incapacidade permanente igual ou superior a 90 %, o atestado médico de incapacidade multiúso tem validade vitalícia.
+5 - Em derrogação do prazo a que se refere o n.º 1, nas situações de pessoas com deficiência definitiva não sujeita a reavaliação, o atestado médico de incapacidade multiúso tem validade vitalícia.
