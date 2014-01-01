@@ -1,0 +1,5 @@
+# Artigo 162.º
+
+### Transferência do património dos governos civis
+
+Os imóveis na propriedade ou sob a gestão dos governos civis, que lhes tenham sido transmitidos a qualquer título, passam a integrar o património do Estado, sendo a presente lei título bastante para os atos de registo a que haja lugar.

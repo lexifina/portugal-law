@@ -1,0 +1,5 @@
+# Artigo 47.º
+
+### Setor público empresarial
+
+O disposto nos artigos 35.º e 45.º não se aplica aos titulares de cargos e demais pessoal das empresas de capital exclusiva ou maioritariamente público e das entidades públicas empresariais que integrem o setor público empresarial se, em razão de regulamentação internacional específica, daí resultar diretamente decréscimo de receitas.
