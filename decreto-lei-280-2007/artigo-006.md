@@ -14,4 +14,4 @@ d) Ao pagamento de contrapartidas resultantes da implementação do princípio d
 
 e) À despesa com a utilização de imóveis.
 
-2 - É consignada à Direção-Geral do Tesouro e Finanças 5% da receita proveniente de operações imobiliárias realizadas sobre imóveis do Estado ou de institutos públicos.
+2 - Mediante despacho do membro do Governo responsável pela área das finanças, pode ser afeto ao pagamento das despesas correntes relativas à administração e gestão dos imóveis do Estado, inscritas no Orçamento do Estado, no capítulo 60 do Ministério das Finanças, 5 % da receita proveniente de operações imobiliárias realizadas sobre imóveis do Estado ou de institutos públicos.

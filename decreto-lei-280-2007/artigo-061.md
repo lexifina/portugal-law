@@ -4,17 +4,19 @@
 
 1 - Pode o membro do Governo responsável pela área das finanças autorizar o arrendamento por ajuste directo nas seguintes situações:
 
-a) Quando não tenham sido apresentadas propostas no procedimento por negociação;
+a) Quando o valor da renda anual seja inferior a (euro) 7500;
 
-b) Quando a praça da hasta pública tenha ficado deserta;
+b) Quando não tenham sido apresentadas propostas no procedimento por negociação;
 
-c) Quando o arrendatário pertença ao sector público administrativo ou ao sector empresarial do Estado, das regiões autónomas e das autarquias locais;
+c) Quando a praça da hasta pública tenha ficado deserta;
 
-d) Quando o arrendatário seja pessoa colectiva de utilidade pública e o imóvel se destine directa e imediatamente à realização dos seus fins por um período determinado;
+d) Quando o arrendatário pertença ao sector público administrativo ou ao sector empresarial do Estado, das regiões autónomas e das autarquias locais;
 
-e) Quando o imóvel esteja ocupado há mais de cinco anos e o arrendatário seja o próprio ocupante;
+e) Quando o arrendatário seja pessoa colectiva de utilidade pública e o imóvel se destine directa e imediatamente à realização dos seus fins por um período determinado;
 
-f) Por motivos de interesse público, devidamente fundamentado.
+f) Quando o imóvel esteja ocupado há mais de cinco anos e o arrendatário seja o próprio ocupante;
+
+g) Por motivos de interesse público, devidamente fundamentado.
 
 2 - O membro do Governo responsável pela área das finanças fixa, com base em proposta da Direcção-Geral do Tesouro e Finanças, a importância da respectiva renda e as condições a que o arrendamento fica sujeito.
 
