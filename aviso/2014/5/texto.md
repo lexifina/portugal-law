@@ -1,0 +1,6 @@
+Aviso n.º 5/2014
+Por ordem superior se torna público que, em 19 de dezembro de 2012, o Governo do Reino Unido depositou, nos termos do artigo 21.º da Convenção para a Criação do Gabinete de Comunicações (ECO), junto do Governo da Dinamarca, na qualidade de depositário, o seu instrumento de adesão à Convenção, concluída na Haia, nos Países Baixos, em 23 de junho de 1993, e revista em Copenhaga, na Dinamarca, em 9 de abril de 2002.
+Nos termos do n.º 2 do artigo 20.º, a Convenção entrou em vigor para o Reino Unido em 1 de março de 2013.
+Portugal é Parte da Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 41/95, ratificada pelo Decreto do Presidente da República n.º 75/95, ambos publicados no Diário da República, 1ª série, n.º 240, de 17 de outubro de 1995.
+Portugal é Parte da Emenda, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 5/2009, ratificada pelo Decreto do Presidente da República n.º 11/2009, ambos publicados no Diário da República, 1ª série, n.º 40, de 26 de fevereiro de 2009, tendo depositado o respetivo instrumento de ratificação em 15 de abril de 2009, conforme Aviso n.º 20/2009, publicado no Diário da República, 1ª série, n.º 107, de 3 de junho de 2009.
+Direção-Geral de Política Externa, 16 de dezembro de 2013. - O Subdiretor-Geral, Rui Vinhas Tavares Gabriel.
