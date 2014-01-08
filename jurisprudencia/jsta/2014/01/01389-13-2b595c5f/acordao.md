@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2014-01-08, processo 01389/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01389/13
+
+**Data do Acordão:** 01/08/2014
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FRANCISCO ROTHES
+
+**Descritores:** TAXA; PROMOÇÃO; VINHO; DIREITO COMUNITÁRIO; AUXILIO DO ESTADO
+
+**Nº Convencional:** JSTA000P16808
+
+**Nº do Documento:** SA22014010801389
+
+**Data de Entrada:** 09/06/2013
+
+**Recorrente:** A..., LDA
+
+**Recorrido 1:** INST DA VINHA E DO VINHO, I.P.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Não padece de nulidade por omissão de pronúncia quanto à requerida ampliação do pedido a sentença recorrida em que o juiz, de forma implícita, mas inequívoca no sentido do respectivo deferimento, aceitou a ampliação do pedido inicialmente formulado pela impugnante.
+
+II - Decorre da Jurisprudência do Tribunal de Justiça que um órgão jurisdicional nacional pode ser conduzido a interpretar e a aplicar a noção de auxílio do art. 92.º do Tratado de Roma (actual art. 107.º do TFUE) com vista a avaliar da legalidade de uma medida estatal instaurada sem ter em conta o processo de controlo prévio do art. 108.º, n.º 3, do TFUE.
+
+III - A taxa de promoção do vinho (criada essencialmente para financiar as atribuições do Instituto da Vinha e do Vinho, I.P., cobrada aos agentes do sector e representando mais de 62% do orçamento afecto ao financiamento dos serviços de coordenação geral do mesmo) ao não implicar à partida um auxílio concedido pelo Estado ou proveniente de recursos estatais (característica típica associada à qualificação dos auxílios), não estava sujeita a comunicação prévia no decurso do respectivo procedimento legislativo de criação.
+
+IV - Para além de a Comissão ter concluído, logo no início de procedimento de averiguação, que a parte da taxa de promoção do vinho afecta ao financiamento do IVV, I.P., não constituía um auxílio de Estado, à partida, no momento da sua criação, era igualmente plausível ou prognosticável que a pequena parte afecta ao financiamento das medidas de promoção e publicidade respeitasse os limites de minimis, como a Comissão veio reconhecer a final.
+
+V - Sendo, por isso, de considerar não existir “um grau suficiente de probabilidade” de tal medida envolver auxílios estatais, em termos de exigir a sua notificação prévia no decurso do procedimento legislativo de criação da taxa, nem a consequente suspensão da sua execução.
+
+VI - A anulação da totalidade da taxa, por vício formal de procedimento, quando não está em causa a finalidade que se pretende alcançar (salvaguarda do Direito Comunitário), afigura-se desproporcionada, sobretudo se se tiver em conta que a receita da mesma corresponde a cerca de 62% do financiamento da actividade do IVV., I.P., e que a parte que suscitou dúvidas à Comissão não representa mais do que uma pequena parte.
+
+VII - A anulação total da taxa com o consequente comprometimento do financiamento do orçamento do IVV., I.P., pelo menos de 1995 até 2010, teria igualmente como consequência a violação dos princípios da confiança e da segurança jurídica.
