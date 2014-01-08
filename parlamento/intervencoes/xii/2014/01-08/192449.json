@@ -1,0 +1,97 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "192449",
+  "tipo": "Declaração politica",
+  "orador": "João Oliveira (PCP)",
+  "data_registo": "2014-01-08",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "28911",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28911",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre a política seguida pelo Governo antes do termo do Programa de Assistência Económica e Financeira, e deste querer tornar definitivas medidas que anunciou de provisórias e a convocação de eleições antecipadas e a construção de uma política alternativa à do atual Governo."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "A política seguida pelo Governo, que acusa de querer tornar definitivas medidas que anunciou de provisórias. Defende a convocação de eleições antecipadas e a construção de uma política alternativa à do atual Governo.",
+        "duracao": "00:08:03:284",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140108pln&url=l12/sl3/a2014/m01/&tI=01:23:26:606&drc=00:08:03:284"
+      },
+      {
+        "assunto": "Responde a José Junqueiro acerca da sua declaração sobre a política seguida pelo Governo, em que defende a convocação de eleições antecipadas e a construção de uma política alternativa à do atual Governo.",
+        "duracao": "00:03:10:182",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140108pln&url=l12/sl3/a2014/m01/&tI=01:35:11:907&drc=00:03:10:182"
+      },
+      {
+        "assunto": "Responde a Pedro Filipe Soares acerca da sua declaração sobre a política seguida pelo Governo, em que defende a convocação de eleições antecipadas e a construção de uma política alternativa à do atual Governo.",
+        "duracao": "00:03:58:046",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140108pln&url=l12/sl3/a2014/m01/&tI=01:41:52:005&drc=00:03:58:046"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-01-08",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "2234",
+      "nome": "João Oliveira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "192449",
+    "IdDebate": "4723",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "192449",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "25-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-09",
+        "pubLeg": "XII",
+        "pubNr": "33",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/033/2014-01-09/25?pgs=25-30&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Respondeu a pedidos de esclarecimento dos Deputados José Junqueiro (PS) e Pedro Filipe Soares (BE).",
+    "Sessao": "3",
+    "Sumario": "Sobre a política seguida pelo Governo antes do termo do Programa de Assistência Económica e Financeira, e deste querer tornar definitivas medidas que anunciou de provisórias e a convocação de eleições antecipadas e a construção de uma política alternativa à do atual Governo.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
