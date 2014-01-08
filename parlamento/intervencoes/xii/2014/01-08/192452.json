@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "192452",
+  "tipo": "Declaração politica",
+  "orador": "Pedro Filipe Soares (BE)",
+  "data_registo": "2014-01-08",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "28912",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28912",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre a situação do crédito malparado na habitação ter atingido valores recorde e a apresentação de um projeto de lei que visa alterar o atual regime extraordinário de renegociação do crédito à habitação."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "O crédito malparado na habitação e a apresentação, por parte grupo parlamentar do Bloco de Esquerda, de um projeto de lei que visa alterar o atual regime extraordinário de renegociação do crédito à habitação.",
+        "duracao": "00:07:56:686",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140108pln&url=l12/sl3/a2014/m01/&tI=01:46:00:536&drc=00:07:56:686"
+      },
+      {
+        "assunto": "Responde a Ramos Preto acerca da sua declarção sobre o crédito malparado na habitação e a apresentação, por parte grupo parlamentar do Bloco de Esquerda, de um projeto de lei que visa alterar o atual regime extraordinário de renegociação do crédito à habitação.",
+        "duracao": "00:03:21:811",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140108pln&url=l12/sl3/a2014/m01/&tI=01:56:28:418&drc=00:03:21:811"
+      },
+      {
+        "assunto": "Responde a Carlos Santos Silva acerca da sua declarção sobre o crédito malparado na habitação e a apresentação, por parte grupo parlamentar do Bloco de Esquerda, de um projeto de lei que visa alterar o atual regime extraordinário de renegociação do crédito à habitação.",
+        "duracao": "00:03:17:782",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140108pln&url=l12/sl3/a2014/m01/&tI=02:03:56:818&drc=00:03:17:782"
+      },
+      {
+        "assunto": "Responde a Paulo Sá acerca da sua declarção sobre o crédito malparado na habitação e a apresentação, por parte grupo parlamentar do Bloco de Esquerda, de um projeto de lei que visa alterar o atual regime extraordinário de renegociação do crédito à habitação.",
+        "duracao": "00:03:02:136",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140108pln&url=l12/sl3/a2014/m01/&tI=02:11:27:941&drc=00:03:02:136"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-01-08",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "3926",
+      "nome": "Pedro Filipe Soares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "192452",
+    "IdDebate": "4724",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "192452",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "31-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-09",
+        "pubLeg": "XII",
+        "pubNr": "33",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/033/2014-01-09/31?pgs=31-38&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde aos pedidos de esclarecimento dos Deputados Ramos Preto (PS), Carlos Santos Silva (PSD) e Paulo Sá (PCP).",
+    "Sessao": "3",
+    "Sumario": "Sobre a situação do crédito malparado na habitação ter atingido valores recorde e a apresentação de um projeto de lei que visa alterar o atual regime extraordinário de renegociação do crédito à habitação.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
