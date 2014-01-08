@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "482",
+    "id": "38118",
+    "titulo": "Garante aos Trabalhadores o Vínculo Público de Nomeação como forma de assegurar a estabilidade e segurança dos vínculos laborais na Administração Pública."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2014-01-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "32655",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-01-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-01-08",
+        "DatafimApreciacaoPublica": "2014-02-11",
+        "DatainicioApreciacaoPublica": "2014-01-13",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-03-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d354f5463794d575a684c57526b596d4d744e4467344f5330344e6d55354c5445774f57497a4d5745304e5455334e7935775a47593d&fich=399721fa-ddbc-4889-86e9-109b31a45577.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP - Confederação Geral dos Trabalhadores Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d314e574a6b4d324a694c546b304d5751744e4459314d4331694f5467314c54686b4d6d59324e4449334f5459794f4335555355593d&fich=355bd3bb-941d-4650-b985-8d2f64279628.TIF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-12-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da COFAP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b325a6d4d774e47466b4c5459354d474d744e4463304f5331684f4467794c546c6b4e6d526a597a63784e4463355a5335515245593d&fich=96fc04ad-690c-4749-a882-9d6dcc71479e.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FEVICCOM - Federação Portuguesa dos Sindicatos da Construção, Cerâmica e Vidro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51784d6d56695a57526a4c574a6b4d5463744e44686a4d693034595468684c57557a4e4467774e7a5a6d4d7a6c68595335775a47593d&fich=412ebedc-bd17-48c2-8a8a-e348076f39aa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos de Coimbra",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249774e6a49774f44497a4c5749334e7a55744e446b79595330344d6d526d4c546b334d6a6b304d6d45324f444e694d6935306157593d&fich=b0620823-b775-492a-82df-972942a683b2.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores da Indústria de Hotelaria, Turismo, Restaurantes e Similares do Centro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251775954566d595752684c5446695a474d744e445535597930344f54426a4c544d784d6a5a6b4d6d4932597a41795a6935306157593d&fich=d0a5fada-1bdc-459c-890c-3126d2b6c02f.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores das Indústrias de Cerâmica, Cimentos e Similares do Sul e Regiões Autónomas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e6d5a4445324e5459794c5451325a6a45744e4751775a6931694d6a45354c54466d4e57566b4d446330596a49794d4335775a47593d&fich=cfd16562-46f1-4d0f-b219-1f5ed074b220.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores das Indústrias Transformadoras, Energia e Atividades do Ambiente do Centro, Sul e Regiões Autónomas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e6b4f544e694e7a6b344c5759334d3245744e445a6a4d6931694d5449354c5467304e44677a596a466b4e474d35597935775a47593d&fich=cd93b798-f73a-46c2-b129-84483b1d4c9c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores das Indústrias Transformadoras, Energia e Atividades do Ambiente do Norte",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59794d6d5530596a59314c5449355a4751744e4445354e7931694f4745314c5455794e4449355a546b784d4456694d5335775a47593d&fich=622e4b65-29dd-4197-b8a5-52429e9105b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores em Funções Públicas e Sociais do Centro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6b5a4759794f546b304c546b354d546b744e4455354d6931684d3255334c5456684e7a67784f474d324f444d785a6935306157593d&fich=6ddf2994-9919-4592-a3e7-5a7818c6831f.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STT - Sindicato dos Trabalhadores de Telecomunicações e Comunicação Audiovisual",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251334d7a5977595745354c5755305a6d49744e4463324e433034593255324c5449334f474e685a575a6b4e575135597935306157593d&fich=d7360aa9-e4fb-4764-8ce6-278caefd5d9c.tif&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-12-03",
+            "pubLeg": "XII",
+            "pubNr": "40",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/040/2014-12-03/2?pgs=2-14&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-12-03",
+            "pubLeg": "XII",
+            "pubNr": "40",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/040/2014-12-03/2?pgs=2-14&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2522",
+            "motivoCessacao": null,
+            "nome": "Catarina Marcelino"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-12-03",
+            "dataRemessa": "2014-12-03",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2014-01-08",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "294924",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
