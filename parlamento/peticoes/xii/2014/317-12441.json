@@ -1,0 +1,654 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12441",
+  "numero": "317",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-01-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-04-09",
+            "dataResposta": "2014-04-17",
+            "entidades": [
+              "Presidente do Conselho de Administração do Hospital Santa Maria Maior, EPE (Barcelos)"
+            ],
+            "nrOficio": "122/COM/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-01-22",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "19/COM/2014",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-03-28",
+                "dataResposta": "2014-04-09",
+                "nrOficio": "87/COM/2014",
+                "oficioResposta": "3730"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-06-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "682922",
+                "obs": null,
+                "pag": [
+                  "5-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-07",
+                "pubLeg": "XII",
+                "pubNr": "51",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/051/2014-06-07/5?pgs=5-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-01-16",
+        "DataArquivo": "2014-06-04",
+        "DataBaixaComissao": "2014-01-09",
+        "DataEnvioPAR": "2014-06-04",
+        "DataReaberta": "2014-01-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-01-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b4e5467774e6a6b354d6930784d44686c4c54526d5a4441744f446c69597930795932593559546c6b4e4441324e6d597555455247&fich=d5806992-108e-4fd0-89bc-2cf9a9d4066f.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-01-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939694d3255314d574a6d4f5330784e4745304c545132597a6774595751775a4330344e444531593245344d444d344f54677555455247&fich=b3e51bf9-14a4-46c8-ad0d-8415ca803898.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939684d3245354e6a46684d7930794d6a67354c54526c4e544974596a5a684d6931684e6d45795a546b3559544977596d517555455247&fich=a3a961a3-2289-4e52-b6a2-a6a2e99a20bd.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b4d575533597a67324e4330324d54517a4c5451354e6a55744f545177597930344d6d4e6a4d5451794f4459344d44517555455247&fich=d1e7c864-6143-4965-940c-82cc14286804.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793831597a426a5a5449335a6930334e7a55354c5451354e444174596d51304d6930795a57566b4e54646d4e5463355a6d49756347526d&fich=5c0ce27f-7759-4940-bd42-2eed57f579fb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-04-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939694d546b30597a41795a6930784f574a6a4c5451785a5449744f5749334e7930794d3246694e5752694d7a426c4e32497555455247&fich=b194c02f-19bc-41e2-9b77-23ab5db30e7b.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938315a474a694e5759774f5330324d6a6b314c5451794d4449744f5456694f5331685932566c4e6a526a59544d324d44637555455247&fich=5dbb5f09-6295-4202-95b9-acee64ca3607.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-01-16",
+            "gp": "PSD",
+            "id": "3943",
+            "motivoCessacao": null,
+            "nome": "Nuno Reis"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-10-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-01-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a67784d4759354d5459324c5756684d7a51744e446868596930344d5746684c544a6a5a5759344f5441324e47526c4e5335515245593d&fich=810f9166-ea34-48ab-81aa-2cef89064de5.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38707",
+      "38718",
+      "38730"
+    ],
+    "Iniciativasoriginadas": [
+      "38707",
+      "38718",
+      "38730"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:14:30:885&drc=00:01:53:625"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:34:16:220&drc=00:02:25:311"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195700",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36",
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/35?pgs=35-36,40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:16:34:190&drc=00:02:55:396"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195701",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:19:35:934&drc=00:02:34:036"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195702",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:22:17:591&drc=00:03:47:408"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195703",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:26:13:642&drc=00:04:38:864"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195704",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:31:38:312&drc=00:02:29:073"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195705",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:30:59:630&drc=00:00:32:311"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195706",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-10-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141009pln&url=l12/sl4/a2014/m10/&tI=02:36:49:349&drc=00:01:04:650"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195707",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-10",
+                "pubLeg": "XII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Pela Valorização e Reforço do Hospital de Santa Maria Maior, Barcelos; Por uma gestão pública e ao serviço das populações do Hospital de Santa Maria Maior em Barcelos; Recomenda ao Governo a manutenção na esfera pública do Hospital Santa Maria Maior em Barcelos e o reforço dos seus serviços; Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12441",
+    "PetAssunto": "Por um Serviço Público de Qualidade - Não ao Esvaziamento do Hospital de Barcelos.",
+    "PetDataEntrada": "2014-01-09",
+    "PeticoesAssociadas": null,
+    "PetId": "12441",
+    "PetLeg": "XII",
+    "PetNr": "317",
+    "PetNrAssinaturas": "4485",
+    "PetNrAssinaturasInicial": "4485",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1923",
+        "obs": null,
+        "pag": [
+          "35-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-10-10",
+        "pubLeg": "XII",
+        "pubNr": "11",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/011/2014-10-10/35?pgs=35-41&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "669901",
+        "obs": null,
+        "pag": [
+          "5-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-25",
+        "pubLeg": "XII",
+        "pubNr": "25",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/025/2014-01-25/5?pgs=5&org=PLC"
+      }
+    ]
+  }
+}
