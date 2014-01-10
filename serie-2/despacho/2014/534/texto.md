@@ -1,0 +1,5 @@
+Despacho n.º 534/2014
+Considerando que, no âmbito do acesso dos maiores de 23 anos ao ensino superior, a Faculdade de Arquitetura decidiu tomar medidas destinadas à uniformização de procedimentos por forma a adotar os estabelecidos na Universidade de Lisboa, determino a revogação do Regulamento das provas especialmente adequadas a avaliar a capacidade para frequência do ensino superior dos maiores de 23 anos, aprovado em 10 de maio de 2012, publicado no Diário da República, 2.ª serie, n.º 101, de 24 de maio de 2012.
+Mais determino que, enquanto não for aprovado o novo Regulamento da Faculdade de Arquitetura, o acesso à frequência dos cursos da Faculdade de Arquitetura, por maiores de 23 anos, far-se-á ao abrigo do Regulamento do processo de avaliação da capacidade para a frequência do ensino superior dos maiores de 23 anos, na Universidade de Lisboa, aprovado por Despacho n.º 17138/2011, e publicado em Diário da República, 2.ª serie, n.º 244 de 22 de dezembro de 2011.
+27 de dezembro de 2013. - O Presidente da Faculdade, Doutor José Manuel Pinto Duarte, professor catedrático.
+207501907
