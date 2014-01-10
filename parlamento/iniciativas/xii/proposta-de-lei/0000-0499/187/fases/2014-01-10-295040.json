@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "187",
+    "id": "38080",
+    "titulo": "Procede à primeira alteração à Lei n.º 27/2008, de 30 de junho, que estabelece as condições e procedimentos de concessão de asilo ou proteção subsidiária e os estatutos de requerente de asilo, de refugiado e de proteção subsidiária, transpondo as Diretivas n.ºs 2011/95/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro, 2013/32/UE, do Parlamento Europeu e do Conselho, de 26 de junho e 2013/33/UE, do Parlamento Europeu e do Conselho, de 26 de junho."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-01-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "32681",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-01-29",
+            "id": "96879",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2014-01-21",
+            "id": "96823",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2014-01-21",
+            "id": "96822",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-01-10",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-01-10",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-02-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a444e6d4e7a51794d79307a597a6c694c5451785a5455744f574e6b4e4331685a5749304d6a6332595755784e6a41756347526d&fich=ad3f7423-3c9b-41e5-9cd4-aeb4276ae160.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c596d557a5a54677a4f533079595755774c5451344e544974595749344f5330774d474d794e5745354e6a4e695a6d49756347526d&fich=ebe3e839-2ae0-4852-ab89-00c25a963bfb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a596a4d33597a5a68595330784d7a55304c5451334d6a59744f4449334f4330784d6d59324e7a49774e6a4e694f546b756347526d&fich=3b37c6aa-1354-4726-8278-12f672063b99.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d544d314e5756685a53316c597a45304c54526a4d6a4574595463794d79316d4f574a684d6a55354d7a51334d6d4d756347526d&fich=e1355eae-ec14-4c21-a723-f9ba2593472c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Proposta de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e5752694e7a67304d5330344d6d4e684c5452694e7a5174596d59324d5330335a445a6b4e5442694e6a56694f5759756347526d&fich=75db7841-82ca-4b74-bf61-7d6d50b65b9f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Proposta de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383159545a6d4d4441334d69316c5a4756684c545268595459744f4745354d4330314e6a49314f546c6d4f546c6a5a5463756347526d&fich=5a6f0072-edea-4aa6-8a90-562599f99ce7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-18",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d6a4a6d5954517a4e693169595751344c5451774e6a55744f4441314e5330314e7a56695a6a426a596a4a6b5a6d4d756347526d&fich=522fa436-bad8-4065-8055-575bf0cb2dfc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da Discussão e Votação na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d6a55345a6a45334d53307a4e546c6d4c5451344e5445744f546c684f5330354f575668595745324d5745795a5441756347526d&fich=1258f171-359f-4851-99a9-99eaaa61a2e0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-20",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Propostas de Alteração",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e54466d4d6d4977595330334d4745314c5451794d6a4174595445345a5330774d5745344e4745314d6a59305a4467756347526d&fich=e51f2b0a-70a5-4220-a18e-01a84a5264d8.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas  pelo PS, PCP, BE e PSD/CDS-PP",
+            "pag": [
+              "2-118"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2014-02-20",
+            "pubLeg": "XII",
+            "pubNr": "70",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/070S1/2014-02-20/2?pgs=2-118&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas  pelo PS, PCP, BE e PSD/CDS-PP",
+            "pag": [
+              "2-118"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2014-02-20",
+            "pubLeg": "XII",
+            "pubNr": "70",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/070S1/2014-02-20/2?pgs=2-118&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-02-19",
+            "numeroOficio": "176/XII/3.ª - CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-02-19",
+            "descricao": null,
+            "detalhe": null,
+            "id": "66170",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "208",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-01-10",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "295040",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
