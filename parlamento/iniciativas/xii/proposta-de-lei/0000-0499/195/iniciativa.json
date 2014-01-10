@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "195",
+  "id": "38151",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-01-10",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a57526b5a6d49334e4751744f54417a5a5330305a5441314c54686a4d4467745a6a67794d6a52684e7a4e694d575a6d4c6e426b5a673d3d&fich=eddfb74d-903e-4e05-8c08-f8224a73b1ff.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a466a59574d344d324d74596a41344e4330305a6d466a4c57466d5a6d49744e6d45774e5441794f44557a4e44426a4c6e426b5a673d3d&fich=b1cac83c-b084-4fac-affb-6a050285340c.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f544269595449784d4749745a544d314f4330304e445a6c4c5746684e7a49744f5445794d5756694d7a426d4d5749314c6e426b5a673d3d&fich=90ba210b-e358-446e-aa72-9121eb30f1b5.pdf&Inline=true",
+        "anexoNome": "Parecer Conselho Opinião da RTP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a4a6c5a544a6a5a5459744d47466d596930304d6d59354c5745785a5441744e6a526b4d6a6c6c4e544e6a4d6d55314c6e426b5a673d3d&fich=f2ee2ce6-0afb-42f9-a1e0-64d29e53c2e5.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d4a684d6a55784e544d744e574a684f5330305a6a497a4c574a684d7a41744d544d31597a6c6a59544e684e44497a4c6e426b5a673d3d&fich=6ba25153-5ba9-4f23-ba30-135c9ca3a423.pdf&Inline=true",
+        "anexoNome": "Parecer DECO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a544d324e6d4a6c4e7a41744e6d4d7859693030595442684c5467355a5749744f474532597a55774f5441794d544e684c6e426b5a673d3d&fich=e366be70-6c1b-4a0a-89eb-8a6c5090213a.pdf&Inline=true",
+        "anexoNome": "Parecer UGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d51344e3251784d3259745a5449314d53303059544d314c5467784f444d744f5441315a44497a597a55794d6a686d4c6e426b5a673d3d&fich=6d87d13f-e251-4a35-8183-905d23c5228f.pdf&Inline=true",
+        "anexoNome": "Parecer ERC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5468694e5452694d7a51744f446734595330305a5451354c57457a59545574596a45325957526b4d6a67774e444d7a4c6e426b5a673d3d&fich=98b54b34-888a-4e49-a3a5-b16add280433.pdf&Inline=true",
+        "anexoNome": "Parecer UGT"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38151",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4455335a47517a5a4445744d7a67344e533030596a4e6d4c57466a4d4445744f544979597a59324d7a4935596d45354c6d527659773d3d&fich=057dd3d1-3885-4b3f-ac01-922c66329ba9.doc&Inline=true",
+    "IniNr": "195",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à segunda alteração à Lei n.º 8/2007, de 14 de fevereiro, que procede à reestruturação da concessionária do serviço público de rádio e de televisão, bem como à aprovação dos novos estatutos da Rádio e Televisão de Portugal, S.A..",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
