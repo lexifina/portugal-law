@@ -1,0 +1,3 @@
+Declaração n.º 1/2014
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 69/XII ao Decreto-Lei n.º 152/2013, de 4 de novembro, que aprova o Estatuto do Ensino Particular e Cooperativo de nível não superior apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que as propostas de alteração apresentadas foram rejeitadas pela Comissão de Educação, Ciência e Cultura, tendo o Plenário sido informado do facto.
+Assembleia da República, 20 de dezembro de 2013. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
