@@ -1,0 +1,586 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12444",
+  "numero": "319",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-01-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-01-24",
+            "entidades": null,
+            "id": "96862",
+            "tipo": null,
+            "titulo": "Audição em 2014-01-24 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-01-24",
+            "dataResposta": "2014-02-03",
+            "entidades": [
+              "Diretora-Geral do Património Cultural"
+            ],
+            "nrOficio": "26/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-01-22",
+            "dataResposta": "2014-02-19",
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "23/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-01-22",
+            "dataResposta": "2014-02-03",
+            "entidades": [
+              "S.E.   DA  CULTURA"
+            ],
+            "nrOficio": "23/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-01-27",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "670915",
+                "obs": null,
+                "pag": [
+                  "4-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-01",
+                "pubLeg": "XII",
+                "pubNr": "26",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/026/2014-02-01/4?pgs=4-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-01-21",
+        "DataArquivo": "2014-01-29",
+        "DataBaixaComissao": "2014-01-15",
+        "DataEnvioPAR": "2014-01-29",
+        "DataReaberta": "2014-01-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-01-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259304e6d4577596a646a4c54566a4f4455744e44566a597931694d5752684c546b304d446c6b5a475a6c4f4445334e4335775a47593d&fich=f46a0b7c-5c85-45cc-b1da-9409ddfe8174.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3252694d6a63784e5755794c544d314e6a59744e47497a4f5331684f474e694c5746695a54426d4d444e6c5a6a466d4e7935775a47593d&fich=db2715e2-3566-4b39-a8cb-abe0f03ef1f7.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-01-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d33597a45784e4455324c5467344d7a4d744e4751335a4331684d57566d4c544d315a4467774e4441334e4751314d7935515245593d&fich=37c11456-8833-4d7d-a1ef-35d804074d53.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6c694e7a4a6c4d574a6a4c5463334d5449744e444268595331684d445a6b4c5463334d6d59344d4451774e3256694f4335775a47593d&fich=9b72e1bc-7712-40aa-a06d-772f80407eb8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-01-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67354d474535593255334c5446684d3249744e44597a597931685a546b344c544e6d4e4455334d6d51784f4463324e4335775a47593d&fich=890a9ce7-1a3b-463c-ae98-3f4572d18764.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-01-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a6c4d4468695a6a55324c5451324d4455744e444578597931684d4745794c5745304d6d5a6b596a4a6c4e4455794f5335775a47593d&fich=6e08bf56-4605-411c-a0a2-a42fdb2e4529.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-02-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259304d7a426d4d6a41334c546c684f5459744e4446694e6931684e5745784c544a6d5a6d466a4d4759314e324e6b4e4335775a47593d&fich=f430f207-9a96-41b6-a5a1-2ffac0f57cd4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-02-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32497a4e6a566a597a6b794c54686b4d4451744e474977596931694d324e6c4c546b344d4442694e32497a4e7a63304f4335775a47593d&fich=b365cc92-8d04-4b0b-b3ce-9800b7b37748.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-02-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3255334f5759305a6d4e694c5467335a5749744e446b334e6931684d574d334c5445795957566859546b315a6a63304e6935775a47593d&fich=e79f4fcb-87eb-4976-a1c7-12aeaa95f746.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-02-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b324d7a4e6d4d5451334c574d305a6a63744e4751314d6931685a444e6a4c5463314e47466a597a6b344d475a684e7935775a47593d&fich=9633f147-c4f7-4d52-ad3c-754acc980fa7.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-01-21",
+            "gp": "PS",
+            "id": "1851",
+            "motivoCessacao": null,
+            "nome": "Maria Gabriela Canavilhas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-03-26",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-01-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259304d32566d4d6d566c4c574d7a4d7a6b744e475a6b597930345954686a4c546868593249774e6a457a597a6b78596935515245593d&fich=f43ef2ee-c339-4fdc-8a8c-8acb0613c91b.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38229"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-03-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=02:45:36:878&drc=00:03:50:121"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-27",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/065/2014-03-27/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a inventariação e classificação do espólio de bens culturais da Parvalorem, da Parups e outros ativos incluídos no perímetro da nacionalização do BPN.; Pretendem que as obras de Miró, património do BPN, permaneçam em Portugal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=02:49:34:363&drc=00:02:39:096"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=03:03:35:925&drc=00:00:51:688"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45",
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-27",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/065/2014-03-27/44?pgs=44-45,49&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a inventariação e classificação do espólio de bens culturais da Parvalorem, da Parups e outros ativos incluídos no perímetro da nacionalização do BPN.; Pretendem que as obras de Miró, património do BPN, permaneçam em Portugal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=02:52:19:304&drc=00:03:04:296"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-27",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/065/2014-03-27/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a inventariação e classificação do espólio de bens culturais da Parvalorem, da Parups e outros ativos incluídos no perímetro da nacionalização do BPN.; Pretendem que as obras de Miró, património do BPN, permaneçam em Portugal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=02:55:34:161&drc=00:02:37:838"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=03:02:46:758&drc=00:00:42:183"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46",
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-27",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/065/2014-03-27/46?pgs=46,48&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a inventariação e classificação do espólio de bens culturais da Parvalorem, da Parups e outros ativos incluídos no perímetro da nacionalização do BPN.; Pretendem que as obras de Miró, património do BPN, permaneçam em Portugal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=02:58:18:657&drc=00:04:10:816"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-27",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/065/2014-03-27/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a inventariação e classificação do espólio de bens culturais da Parvalorem, da Parups e outros ativos incluídos no perímetro da nacionalização do BPN.; Pretendem que as obras de Miró, património do BPN, permaneçam em Portugal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-03-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140326pln&url=l12/sl3/a2014/m03/&tI=03:04:41:877&drc=00:00:39:876"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-27",
+                "pubLeg": "XII",
+                "pubNr": "65",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/065/2014-03-27/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a inventariação e classificação do espólio de bens culturais da Parvalorem, da Parups e outros ativos incluídos no perímetro da nacionalização do BPN.; Pretendem que as obras de Miró, património do BPN, permaneçam em Portugal.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2014-02-28",
+        "TipoDocumento": "Link",
+        "URL": "http://www.parlamento.pt/actividadeparlamentar/paginas/detalheaudicao.aspx?bid=97055"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12444",
+    "PetAssunto": "Pretendem que as obras de Miró, património do BPN, permaneçam em Portugal.",
+    "PetDataEntrada": "2014-01-12",
+    "PeticoesAssociadas": null,
+    "PetId": "12444",
+    "PetLeg": "XII",
+    "PetNr": "319",
+    "PetNrAssinaturas": "8001",
+    "PetNrAssinaturasInicial": "3950",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "470",
+        "obs": null,
+        "pag": [
+          "43-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-27",
+        "pubLeg": "XII",
+        "pubNr": "65",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/065/2014-03-27/43?pgs=43-49&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "669902",
+        "obs": null,
+        "pag": [
+          "5-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-25",
+        "pubLeg": "XII",
+        "pubNr": "25",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/025/2014-01-25/5?pgs=5-7&org=PLC"
+      }
+    ]
+  }
+}
