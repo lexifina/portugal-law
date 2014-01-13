@@ -1,0 +1,8 @@
+Aviso n.º 595/2014
+Abertura do Período de Discussão Pública da Proposta de Alteração Simplificada do Plano Diretor Municipal do Porto (PDM)
+Raquel Sofia Guimarães de Matos Maia, Diretora Municipal da Presidência, torna público, ao abrigo da competência delegada nos termos do n.º 18, do ponto I da Ordem de Serviço n.º I/196361/13/CMP, que a Câmara Municipal do Porto, na 5.ª reunião pública realizada no dia 23 de dezembro de 2013, determinou, nos termos do disposto no artigo 97.º-B do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), proceder à alteração simplificada do PDM, por forma a integrar o imóvel sito à Rua de Santa Catarina, n.º 258-268 nas regras do plano aplicáveis às parcelas confinantes, alterando a qualificação do solo de "Área de Equipamento Existente", para "Área de Frente Urbana Contínua Consolidada", por se ter verificado a desafetação do imóvel da utilidade pública que lhe estava adstrita e integração do mesmo no património disponível do Estado.
+Para o efeito, deliberou ainda a abertura de um período de discussão pública da Proposta de Alteração Simplificada do PDM, pelo prazo de 10 dias úteis a contar da publicação do presente aviso no Diário da República.
+A referida deliberação e demais documentação que determinou a elaboração desta alteração poderá ser consultada no site da Câmara Municipal do Porto (www.cm-porto.pt) e nas instalações do Gabinete do Munícipe.
+Os interessados em proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento, deverão utilizar impresso próprio disponibilizado nos locais acima referidos.
+6 de janeiro de 2014. - A Diretora Municipal da Presidência, Raquel Maia.
+207513855
