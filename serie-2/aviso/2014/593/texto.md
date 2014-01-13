@@ -1,0 +1,7 @@
+Aviso n.º 593/2014
+Abertura do Período de Discussão Pública da Proposta de Alteração do Plano de Pormenor das Antas
+Raquel Sofia Guimarães de Matos Maia, Diretora Municipal da Presidência, ao abrigo da competência delegada nos termos do n.º 18, do ponto I da Ordem de Serviço n.º I/196361/13/CMP, torna público, nos termos do disposto nos n.os 3 e 4 do artigo 77.º do Regime Jurídico Instrumentos de Gestão Territorial (RJIGT), que a Câmara Municipal do Porto, na 5.ª reunião pública realizada no dia 23 de dezembro de 2013, aprovou a abertura de um período de discussão pública da Proposta de Alteração do Plano de Pormenor das Antas, pelo prazo de 22 dias úteis contados a partir do 5.º dia útil após a data de publicação do presente aviso no Diário da República.
+A referida deliberação e os documentos que a integram - peças escritas e desenhadas da Proposta de Alteração do Plano de Pormenor das Antas, o parecer da CCDR-N e ata de reunião de concertação - poderão ser consultados no site da Câmara Municipal do Porto (www.cm-porto.pt) e nas instalações do Gabinete do Munícipe.
+Os interessados em proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento, deverão utilizar impresso próprio disponibilizado nos locais acima referidos.
+6 de janeiro de 2014. - A Diretora Municipal da Presidência, Raquel Maia.
+207513766
