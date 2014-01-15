@@ -1,0 +1,6 @@
+Aviso n.º 10/2014
+Por ordem superior se torna público ter o Governo da República Portuguesa depositado, a 10 de outubro de 2013, junto do Governo dos Estados Unidos da América, na qualidade de Governo depositário do Estatuto da Agência Internacional de Energia Atómica, a Carta de aceitação das Emendas ao artigo VI e ao parágrafo A. do artigo XIV daquele Estatuto, aprovadas pela 43.ª sessão ordinária da Conferência Geral da Agência Internacional de Energia Atómica, que teve lugar em Viena, a 1 de outubro de 1999.
+As referidas Emendas foram aprovadas, para ratificação, pela Resolução da Assembleia da República n.º 122/2013, em 15 de fevereiro de 2013, e ratificadas pelo Decreto do Presidente da República n.º 93/2013, de 31 de julho de 2013.
+O Governo dos Estados Unidos da América comunicou à Agência Internacional de Energia Atómica o depósito do instrumento de aceitação pela República Portuguesa das mencionadas Emendas, a 19 de novembro de 2013.
+Nos termos do número (ii) do Parágrafo C do Artigo XVIII, as referidas Emendas entram em vigor quando forem aceites por dois terços dos Membros da Agência Internacional de Energia Atómica.
+Direção-Geral de Política Externa, 18 de dezembro de 2013. - O Subdiretor-Geral, Rui Manuel Vinhas Tavares Gabriel.
