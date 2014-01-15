@@ -1,0 +1,5 @@
+Aviso n.º 9/2014
+Por ordem superior se torna público que, em 30 de julho de 2013 e 26 de novembro de 2013, foram recebidas notas pelo Ministério dos Negócios Estrangeiros da República de Singapura e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, respetivamente, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Protocolo que altera a Convenção entre a República Portuguesa e a República de Singapura para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Singapura, em 28 de maio de 2012.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República nº 96/2013, de 15 de fevereiro de 2013 e ratificada pelo Decreto do Presidente da República n.º 78/2013, de 11 de julho de 2013, ambos publicados no Diário da República, 1.ª série, nº 132, de 11 de julho de 2013.
+Nos termos do artigo II do Protocolo, este entrará em vigor a 26 de dezembro de 2013.
+Direção-Geral de Política Externa, 17 de dezembro de 2013. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
