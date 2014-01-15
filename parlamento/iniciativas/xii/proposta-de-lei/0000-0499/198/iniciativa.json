@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "198",
+  "id": "38157",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-01-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a597a4f544e6d4d7a67745a5745344d693030597a6c684c546b324e6d59744d5467315a6a686b4e4745795a57557a4c6e426b5a673d3d&fich=b6393f38-ea82-4c9a-966f-185f8d4a2ee3.pdf&Inline=true",
+        "anexoNome": "Ofício ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5759304f4463304e474d745a6a686b4d4330305a6d59334c5468694d5455744d6d51315a574a6c4d5468684f5759304c6e426b5a673d3d&fich=9f48744c-f8d0-4ff7-8b15-2d5ebe18a9f4.pdf&Inline=true",
+        "anexoNome": "Ofício GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a51774f475a6d5a4455744d7a5a6a4d4330305a6a6b324c574934596a49744d6a6b785932466a4d54686a4e6a4d314c6e426b5a673d3d&fich=f408ffd5-36c0-4f96-b8b2-291cac18c635.pdf&Inline=true",
+        "anexoNome": "Relatório CRAP"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38157",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5467784d6d4e69595745745a574d324e4330305a47466c4c5749324d4459744d54417a4d6a466d4d6a63344d7a41354c6d527659773d3d&fich=5812cbaa-ec64-4dae-b606-10321f278309.doc&Inline=true",
+    "IniNr": "198",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova o regime jurídico aplicável ao nadador-salvador em todo o território nacional, em conformidade com o Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs a Diretiva n.º 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro, relativa aos serviços no mercado interno, com a Lei n.º 9/2009, de 4 de março, que transpôs a Diretiva n.º 2005/36/CE, do Parlamento Europeu e do Conselho, de 7 de setembro, relativa ao reconhecimento das qualificações profissionais, e com o Decreto-Lei n.º 92/2011, de 27 de julho, que cria o Sistema de Regulação de Acesso a Profissões.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
