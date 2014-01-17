@@ -1,8 +1,8 @@
-## Secção VI
+## Capítulo v
 
 ## Regimes excecionais
 
-## Subsecção I
+## Secção I
 
 ## Condições excecionais de acesso
 
@@ -16,4 +16,4 @@
 
 3 - A operação de capitalização realizada nas circunstâncias previstas neste artigo deve ser precedida da aplicação de medidas de repartição de encargos, aplicando-se, com as necessárias adaptações, o disposto na secção iii do capítulo ii.
 
-4 - O processo de acesso ao investimento público rege-se pelo disposto na subsecção seguinte, devendo ainda as instituições de crédito submeter ao membro do Governo responsável pela área das finanças um plano de reestruturação com uma antecedência que permita a análise e o envio tempestivo do mesmo às autoridades europeias competentes.
+4 - O processo de acesso ao investimento público rege-se pelo disposto na secção seguinte, devendo ainda as instituições de crédito submeter ao membro do Governo responsável pela área das finanças um plano de reestruturação com uma antecedência que permita a análise e o envio tempestivo do mesmo às autoridades europeias competentes.

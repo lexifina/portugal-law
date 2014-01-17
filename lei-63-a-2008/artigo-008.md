@@ -2,7 +2,7 @@
 
 ### Desinvestimento público
 
-1 - Mostrando-se assegurada, pela instituição de crédito, a manutenção de níveis adequados de fundos próprios, designadamente core tier 1, o desinvestimento público é realizado tendo em conta, nomeadamente, as condições de mercado, a garantia dos capitais investidos e da sua adequada remuneração, bem como os objetivos de estabilidade financeira.
+1 - Mostrando-se assegurada, pela instituição de crédito, a manutenção de níveis adequados de fundos próprios, o desinvestimento público é realizado tendo em conta, nomeadamente, as condições de mercado, a garantia dos capitais investidos e da sua adequada remuneração, bem como os objetivos de estabilidade financeira.
 
 2 - Sem prejuízo do disposto no número anterior e salvaguardado o previsto no n.º 2 do artigo 4.º-A da presente lei, havendo montantes distribuíveis gerados no exercício, a título de dividendos, e sem prejuízo do disposto no número anterior, são os mesmos obrigatoriamente afetos ao desinvestimento público, designadamente através de aquisição de ações próprias, de outros instrumentos financeiros através dos quais se tenha efetuado a operação de capitalização pública ou da amortização de ações com redução do capital social, pela instituição de crédito, nos termos definidos no despacho a que se refere o n.º 1 do artigo 13.º
 

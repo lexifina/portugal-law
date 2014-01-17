@@ -22,7 +22,7 @@ g) Termos e condições do desinvestimento público.
 
 3 - Na proposta de decisão, o Banco de Portugal pronuncia-se, designadamente, sobre a situação patrimonial da instituição de crédito, sobre a sua viabilidade, sobre o montante do investimento público necessário, sobre a capacidade de a instituição reembolsar e remunerar adequadamente o investimento público durante o período de investimento, sobre as metas consideradas estruturais e sobre os termos e condições do desinvestimento público.
 
-4 - O Banco de Portugal pode solicitar à instituição de crédito os elementos e informações complementares que se revelem necessários à apreciação do plano de recapitalização, bem como exigir, em acordo com o membro do Governo responsável pela área das finanças, caso tal se revele necessário, a respetiva alteração ou a previsão de medidas adicionais, caso em que o prazo previsto no n.º 2 se suspende.
+4 - O Banco de Portugal pode solicitar à instituição de crédito os elementos e informações complementares que se revelem necessários à apreciação do plano de recapitalização, bem como exigir, em articulação com o Ministério das Finanças, caso tal se revele necessário, a respetiva alteração ou a previsão de medidas adicionais, caso em que o prazo previsto no n.º 2 se suspende.
 
 5 - O prazo referido no n.º 2 pode ser prorrogado por igual período se a complexidade da operação o justificar.
 

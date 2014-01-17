@@ -2,7 +2,7 @@
 
 ### Modos de capitalização
 
-1 - A capitalização pode ser efetuada com recurso aos instrumentos ou meios financeiros que permitam que os fundos disponibilizados à instituição de crédito sejam elegíveis para fundos próprios core tier 1.
+1 - A capitalização pode ser efetuada com recurso aos instrumentos ou meios financeiros que permitam que os fundos disponibilizados à instituição de crédito sejam elegíveis para os fundos próprios.
 
 2 - A operação de capitalização pode ser efetuada através de:
 
@@ -10,7 +10,7 @@ a) Aquisição de ações próprias detidas pela instituição de crédito, ou d
 
 b) Aumento do capital social da instituição de crédito;
 
-c) Outros instrumentos financeiros elegíveis para fundos próprios core tier 1 nas condições estabelecidas para essa elegibilidade;
+c) Outros instrumentos que sejam elegíveis para os fundos próprios de acordo com a legislação e a regulamentação aplicáveis;
 
 d) (Revogada.)
 
@@ -26,7 +26,7 @@ d) (Revogada.)
 
 8 - Independentemente da participação que adquira nos termos das alíneas a) e b) do n.º 2, e sem prejuízo do disposto no número seguinte e no artigo 16.º-A, o Estado só pode exercer os seus direitos de voto em deliberações que respeitem à alteração do contrato de sociedade, fusão, cisão, transformação, dissolução ou outros assuntos para os quais a lei ou os estatutos exijam maioria qualificada.
 
-9 - Quando a participação que o Estado adquira nos termos das alíneas a) e b) do n.º 2 ultrapasse um limiar a definir por portaria do membro do Governo responsável pela área das finanças, tendo em conta as regras e orientações comunitárias em matéria de auxílios de Estado, pode o Estado exercer na sua plenitude os direitos de voto inerentes à participação detida na medida em que exceda o referido limiar.
+9 - Quando a participação que o Estado adquira nos termos das alíneas a) e b) do n.º 2 ultrapasse um limiar a definir por portaria do membro do Governo responsável pela área das finanças, tendo em conta os princípios, regras e orientações da União Europeia em matéria de auxílios de Estado, pode o Estado exercer na sua plenitude os direitos de voto inerentes à participação detida na medida em que exceda o referido limiar.
 
 10 - O disposto no n.º 8 aplica-se aos títulos de capital previstos nos n.os 3 e 5 do artigo 3.º
 

@@ -1,4 +1,4 @@
-## Subsecção II
+## Secção II
 
 ## Processo de acesso ao investimento público
 
