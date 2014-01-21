@@ -14,9 +14,9 @@ d) Rendimentos da propriedade industrial ou outros análogos;
 
 e) Prestações de serviços de caráter científico ou técnico;
 
-f) Ganhos por aumento de justo valor em instrumentos financeiros;
+f) Ganhos por aumentos de justo valor em instrumentos financeiros;
 
-g) Ganhos por aumento de justo valor em ativos biológicos consumíveis que não sejam explorações silvícolas plurianuais;
+g) Ganhos por aumentos de justo valor em ativos biológicos consumíveis que não sejam explorações silvícolas plurianuais;
 
 h) Mais-valias realizadas;
 

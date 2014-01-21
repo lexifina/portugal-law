@@ -16,4 +16,4 @@ a) Aplica-se exclusivamente às entradas, no âmbito da constituição de socied
 
 b) É efetuada no apuramento do lucro tributável do período de tributação relativo ao período de tributação em que ocorram as mencionadas entradas e nos três períodos de tributação seguintes.
 
-3 - O benefício fiscal previsto no presente artigo limita-se aos (euro) 200 000 por entidade beneficiária, durante um período de três anos, não podendo ultrapassar os limites resultantes das regras comunitárias aplicáveis aos auxílios de minimis definidos pelo Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro de 2006.
+3 - O benefício fiscal previsto no presente artigo limita-se aos (euro) 200 000 por entidade beneficiária, durante um período de três anos, não podendo ultrapassar os limites resultantes das regras europeias aplicáveis aos auxílios de minimis.

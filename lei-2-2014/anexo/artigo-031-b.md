@@ -8,11 +8,11 @@
 
 3 - Quando os factos que determinaram as desvalorizações excecionais dos ativos e o abate físico, o desmantelamento, o abandono ou a inutilização ocorram no mesmo período de tributação, o valor líquido fiscal dos ativos, corrigido de eventuais valores recuperáveis, pode ser aceite como gasto do período, desde que:
 
-a) Seja comprovado o abate físico, desmantelamento, abandono ou inutilização dos bens, através do respetivo auto, assinado por duas testemunhas, e identificados e comprovados os factos que originaram as desvalorizações excecionais;
+a) Seja comprovado o abate físico, desmantelamento, abandono ou inutilização dos ativos, através do respetivo auto, assinado por duas testemunhas, e identificados e comprovados os factos que originaram as desvalorizações excecionais;
 
 b) O auto seja acompanhado de relação discriminativa dos elementos em causa, contendo, relativamente a cada ativo, a descrição, o ano e o custo de aquisição, bem como o valor líquido contabilístico e o valor líquido fiscal;
 
-c) Seja comunicado ao serviço de finanças da área do local onde aqueles bens se encontrem, com a antecedência mínima de 15 dias, o local, a data e a hora do abate físico, o desmantelamento, o abandono ou a inutilização e o total do valor líquido fiscal dos mesmos.
+c) Seja comunicado ao serviço de finanças da área do local onde aqueles ativos se encontrem, com a antecedência mínima de 15 dias, o local, a data e a hora do abate físico, o desmantelamento, o abandono ou a inutilização e o total do valor líquido fiscal dos mesmos;
 
 4 - O disposto nas alíneas a) a c) do número anterior deve igualmente observar-se nas situações previstas no n.º 2, no período de tributação em que venha a efetuar-se o abate físico, o desmantelamento, o abandono ou a inutilização dos ativos.
 

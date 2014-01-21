@@ -12,7 +12,7 @@ b) Fração do IRC, calculado antes da dedução prevista no presente artigo, co
 
 3 - A dedução prevista no n.º 1 é apenas aplicável ao imposto sobre o rendimento pago no estrangeiro por entidades nas quais o sujeito passivo de IRC com sede ou direção efetiva em território português:
 
-a) Detenha diretamente ou indiretamente, nos termos do n.º 6 do artigo 69.º, uma participação não inferior a 5 % do capital social ou dos direitos de voto; e
+a) Detenha direta ou indiretamente, nos termos do n.º 6 do artigo 69.º; uma participação não inferior a 5 % do capital social ou dos direitos de voto; e
 
 b) Desde que essa participação tenha permanecido na sua titularidade, de modo ininterrupto, durante os 24 meses anteriores à distribuição, ou seja mantida durante o tempo necessário para completar aquele período.
 

@@ -6,11 +6,11 @@
 
 ### Taxas
 
-1 - A taxa do IRC é de 23 %, exceto nos casos previstos nos números seguintes.
+1 - A taxa do IRC é de 21 %, exceto nos casos previstos nos números seguintes.
 
 2 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial que sejam qualificados como pequena ou média empresa, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a taxa de IRC aplicável aos primeiros (euro) 15 000 de matéria coletável é de 17 %, aplicando-se a taxa prevista no número anterior ao excedente.
 
-3 - A aplicação da taxa prevista no número anterior está sujeita às regras comunitárias para os auxílios de minimis, definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.
+3 - A aplicação da taxa prevista no número anterior está sujeita às regras europeias aplicáveis em matéria de auxílios de minimis.
 
 4 - Tratando-se de rendimentos de entidades que não tenham sede nem direção efetiva em território português e aí não possuam estabelecimento estável ao qual os mesmos sejam imputáveis, a taxa do IRC é de 25 %, exceto relativamente aos seguintes rendimentos:
 
