@@ -10,9 +10,11 @@ b) Valor resultante de reavaliação ao abrigo de legislação de carácter fisc
 
 c) Valor de mercado, à data da abertura de escrita, para os bens objecto de avaliação para este efeito, quando não seja conhecido o custo de aquisição ou de produção, podendo esse valor ser objecto de correcção, para efeitos fiscais, quando se considere excedido.
 
-2 - O custo de aquisição de um elemento do activo é o respectivo preço de compra, acrescido dos gastos acessórios suportados até à sua entrada em funcionamento ou utilização.
+2 - O custo de aquisição de um elemento do ativo é o respetivo preço de compra, acrescido:
 
-3 - O custo de produção de um elemento do activo obtém-se adicionando ao custo de aquisição das matérias-primas e de consumo e da mão-de-obra directa, os outros custos directamente imputáveis ao produto considerado, assim como a parte dos custos indirectos respeitantes ao período de construção ou produção que, de acordo com o sistema de custeio utilizado, lhe seja atribuível.
+a) Dos gastos acessórios suportados até à sua entrada em funcionamento ou utilização;
+
+b) Das benfeitorias necessárias ou úteis realizadas, de acordo com a normalização contabilística aplicável.3 - O custo de produção de um elemento do activo obtém-se adicionando ao custo de aquisição das matérias-primas e de consumo e da mão-de-obra directa, os outros custos directamente imputáveis ao produto considerado, assim como a parte dos custos indirectos respeitantes ao período de construção ou produção que, de acordo com o sistema de custeio utilizado, lhe seja atribuível.
 
 4 - No custo de aquisição ou de produção inclui-se o imposto sobre o valor acrescentado (IVA) que, nos termos legais, não for dedutível, designadamente em consequência de exclusão do direito à dedução, não sendo, porém, esses custos influenciados por eventuais regularizações ou liquidações efectuadas em períodos de tributação posteriores ao da entrada em funcionamento ou utilização.
 
