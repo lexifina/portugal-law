@@ -1,0 +1,308 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Inquérito Parlamentar",
+  "numero": "8",
+  "id": "38175",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-01-23",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "2165",
+        "nome": "Jorge Fão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4338",
+        "nome": "Sandra Pontedeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2212",
+        "nome": "Miguel Laranjeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "152",
+        "nome": "António Braga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2250",
+        "nome": "Miguel Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1550",
+        "nome": "António Cardoso"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2264",
+        "nome": "Pedro Farmhouse"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2569",
+        "nome": "Rui Paulo Figueiredo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "438",
+        "nome": "Carlos Zorrinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "179",
+        "nome": "Jorge Lacão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1814",
+        "nome": "João Soares"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4321",
+        "nome": "Rui Pedro Duarte"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "413",
+        "nome": "Luís Pita Ameixa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4363",
+        "nome": "Agostinho Santa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1977",
+        "nome": "António Gameiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "487",
+        "nome": "Fernando Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2215",
+        "nome": "Nuno Sá"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2201",
+        "nome": "Jacinto Serrão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1943",
+        "nome": "Ramos Preto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1851",
+        "nome": "Maria Gabriela Canavilhas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2230",
+        "nome": "João Portugal"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1741",
+        "nome": "Paulo Pisco"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2234",
+        "nome": "João Oliveira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4297",
+        "nome": "Carla Cruz"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2069",
+        "nome": "Jorge Machado"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3934",
+        "nome": "João Ramos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4447",
+        "nome": "David Costa"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4104",
+        "nome": "Rita Rato"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4471",
+        "nome": "Paulo Sá"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "210",
+        "nome": "Jerónimo de Sousa"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2077",
+        "nome": "Francisco Lopes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4430",
+        "nome": "Paula Baptista"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2184",
+        "nome": "Miguel Tiago"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2194",
+        "nome": "Cecília Honório"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2156",
+        "nome": "Mariana Aiveca"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2191",
+        "nome": "Helena Pinto"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "803",
+        "nome": "João Semedo"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3926",
+        "nome": "Pedro Filipe Soares"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4161",
+        "nome": "Catarina Martins"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "263",
+        "nome": "Luís Fazenda"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      },
+      {
+        "GP": "PEV",
+        "idCadastro": "834",
+        "nome": "Heloísa Apolónia"
+      },
+      {
+        "GP": "PEV",
+        "idCadastro": "780",
+        "nome": "José Luís Ferreira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      },
+      {
+        "GP": "PCP"
+      },
+      {
+        "GP": "BE"
+      },
+      {
+        "GP": "PEV"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Suspensão do prazo de funcionamento da Comissão Parlamentar de Inquérito para Apuramento das Responsabilidades pelas Decisões que Conduziram ao Processo de Subconcessão dos Estaleiros Navais de Viana do Castelo.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38440",
+        "legislatura": "XII",
+        "numero": "1033",
+        "sessao": "3",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Prorrogação do prazo de funcionamento da Comissão Parlamentar de Inquérito para Apuramento das Responsabilidades pelas Decisões que Conduziram ao Processo de Subconcessão dos Estaleiros Navais de Viana do Castelo",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38558",
+        "legislatura": "XII",
+        "numero": "1077",
+        "sessao": "3",
+        "tipo": "R"
+      }
+    ],
+    "IniDescTipo": "Inquérito Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "38175",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d49794d475530595749744e6d4934596930304d7a6b324c5745304e7a4d744e574e694e7a45334f574d314e57557a4c6d527659773d3d&fich=fb20e4ab-6b8b-4396-a473-5cb7179c55e3.doc&Inline=true",
+    "IniNr": "8",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "I",
+    "IniTitulo": "Constituição de uma Comissão Parlamentar de Inquérito para apuramento das responsabilidades pelas decisões que conduziram ao processo de subconcessão dos Estaleiros Navais de Viana do Castelo",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
