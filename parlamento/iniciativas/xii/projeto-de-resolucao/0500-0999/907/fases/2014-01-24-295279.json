@@ -1,0 +1,426 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "907",
+    "id": "38153",
+    "titulo": "Recomenda ao Governo que seja regularizada a situação contratual dos enfermeiros da linha saúde 24, com a celebração de contratos de trabalho, e a preservação da qualidade do serviço."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2014-01-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9749",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2014-01-24",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38167",
+        "leg": "XII",
+        "nr": "912",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1832",
+            "obs": null,
+            "pag": [
+              "34-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-01-25",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/34?pgs=34-40&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que o Ministério da Saúde assegure diretamente a gestão da linha saúde 24 e salvaguarde os direitos dos enfermeiros."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-01-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=01:43:16:567&drc=00:02:13:744"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:04:59:259&drc=00:03:19:283"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34",
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/34?pgs=34,39-40&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que seja regularizada a situação contratual dos enfermeiros da linha saúde 24, com a celebração de contratos de trabalho, e a preservação da qualidade do serviço; Recomenda ao Governo que o Ministério da Saúde assegure diretamente a gestão da linha saúde 24 e salvaguarde os direitos dos enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=01:45:36:897&drc=00:03:36:255"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:08:23:101&drc=00:01:38:735"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35",
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/34?pgs=34-35,40&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que seja regularizada a situação contratual dos enfermeiros da linha saúde 24, com a celebração de contratos de trabalho, e a preservação da qualidade do serviço; Recomenda ao Governo que o Ministério da Saúde assegure diretamente a gestão da linha saúde 24 e salvaguarde os direitos dos enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3948",
+                "nome": "Graça Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=01:49:19:278&drc=00:04:09:393"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que seja regularizada a situação contratual dos enfermeiros da linha saúde 24, com a celebração de contratos de trabalho, e a preservação da qualidade do serviço; Recomenda ao Governo que o Ministério da Saúde assegure diretamente a gestão da linha saúde 24 e salvaguarde os direitos dos enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2259",
+                "nome": "Nuno André Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=01:53:32:166&drc=00:04:41:715"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que seja regularizada a situação contratual dos enfermeiros da linha saúde 24, com a celebração de contratos de trabalho, e a preservação da qualidade do serviço; Recomenda ao Governo que o Ministério da Saúde assegure diretamente a gestão da linha saúde 24 e salvaguarde os direitos dos enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=01:58:16:499&drc=00:03:00:842"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que seja regularizada a situação contratual dos enfermeiros da linha saúde 24, com a celebração de contratos de trabalho, e a preservação da qualidade do serviço; Recomenda ao Governo que o Ministério da Saúde assegure diretamente a gestão da linha saúde 24 e salvaguarde os direitos dos enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4317",
+                "nome": "Paulo Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=02:01:17:275&drc=00:03:36:207"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que seja regularizada a situação contratual dos enfermeiros da linha saúde 24, com a celebração de contratos de trabalho, e a preservação da qualidade do serviço; Recomenda ao Governo que o Ministério da Saúde assegure diretamente a gestão da linha saúde 24 e salvaguarde os direitos dos enfermeiros.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "295279",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "672121",
+        "obs": null,
+        "pag": [
+          "33-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-25",
+        "pubLeg": "XII",
+        "pubNr": "41",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/33?pgs=33-40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
