@@ -1,0 +1,203 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "193",
+    "id": "38149",
+    "titulo": "Procede à primeira alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014)."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-01-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "32792",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-01-31",
+            "id": "96905",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2014-02-04",
+            "id": "96913",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-01-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-01-24",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-02-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração adicional apresentada pelo grupo parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d596d51354f47457a4c574d784e6d59744e444133597930344e474e684c546b334f5467345a4468684d7a51354e7935775a47593d&fich=9fbd98a3-c16f-407c-84ca-97988d8a3497.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração apresentada pelos deputados Guilherme Silva, Cláudia Monteiro de Aguiar, Correia de Jesus, Hugo Velosa, Rui Barreto e Jacinto Serrão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251795a4467325a444a6a4c54457a4d7a45744e4467324e5331684e544a6b4c54566c5a5745354e4749344e444d314e4335775a47593d&fich=d2d86d2c-1331-4865-a52d-5eea94b84354.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41335932566b5a6a41324c5445315a4455744e47597859533169593255784c5445325a44466c4f57466a4d324a694e4335775a47593d&fich=07cedf06-15d5-4f1a-bce1-16d1e9ac3bb4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a52694e444a684f5452684c5755315a6a63744e4745784d4330355a544e6a4c544d344e4449314d6a67775954566d4d6935775a47593d&fich=4b42a94a-e5f7-4a10-9e3c-38425280a5f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d593249305a4449304c546b314e4459744e445268596931684d444a6b4c546b304e6a67314d7a45334f4455304d5335775a47593d&fich=bfcb4d24-9546-44ab-a02d-946853178541.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-05",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a685a6d566c595751344c57597a4f5455744e446b30596930354d7a526b4c57466d5a6a63355a6d46694f54646a4e6935515245593d&fich=bafeead8-f395-494b-934d-aff79fab97c6.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-02-05",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 5ª COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6377597a686d4d5463784c5468684e4749744e446b774f5330354f47526d4c5446684e44566d5a574d7859574534596935515245593d&fich=70c8f171-8a4b-4909-98df-1a45fec1aa8b.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração",
+            "pag": [
+              "2-30"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2014-02-05",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/061S1/2014-02-05/2?pgs=2-30&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração",
+            "pag": [
+              "2-30"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2014-02-05",
+            "pubLeg": "XII",
+            "pubNr": "61",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/061S1/2014-02-05/2?pgs=2-30&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-02-05",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2014-02-05",
+            "dataRemessa": "2014-02-05",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-02-05",
+            "descricao": "Texto Final votado artigo a artigo",
+            "detalhe": null,
+            "id": "65825",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "251",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-01-24",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "295327",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
