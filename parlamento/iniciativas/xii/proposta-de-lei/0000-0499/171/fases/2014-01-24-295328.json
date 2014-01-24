@@ -1,0 +1,390 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "171",
+    "id": "37904",
+    "titulo": "Estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social, procedendo à quarta alteração à Lei n.º 60/2005, de 29 de dezembro, à terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, à alteração do Decreto-Lei n.º 498/72, de 9 de dezembro, que aprova o Estatuto da Aposentação, e revogando normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações."
+  },
+  "fase": "Votação Propostas de Alteração",
+  "codigo_fase": "481",
+  "data_registo": "2014-01-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9754",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "481",
+    "Comissao": null,
+    "DataFase": "2014-01-24",
+    "EvtId": "110",
+    "Fase": "Votação Propostas de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-01-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1867",
+                "nome": "Vieira da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:33:21:443&drc=00:02:20:050"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social, procedendo à quarta alteração à Lei n.º 60/2005, de 29 de dezembro, à terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, à alteração do Decreto-Lei n.º 498/72, de 9 de dezembro, que aprova o Estatuto da Aposentação, e revogando normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:35:42:997&drc=00:02:04:025"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social, procedendo à quarta alteração à Lei n.º 60/2005, de 29 de dezembro, à terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, à alteração do Decreto-Lei n.º 498/72, de 9 de dezembro, que aprova o Estatuto da Aposentação, e revogando normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:37:57:975&drc=00:02:43:188"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social, procedendo à quarta alteração à Lei n.º 60/2005, de 29 de dezembro, à terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, à alteração do Decreto-Lei n.º 498/72, de 9 de dezembro, que aprova o Estatuto da Aposentação, e revogando normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:40:44:853&drc=00:02:27:076"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social, procedendo à quarta alteração à Lei n.º 60/2005, de 29 de dezembro, à terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, à alteração do Decreto-Lei n.º 498/72, de 9 de dezembro, que aprova o Estatuto da Aposentação, e revogando normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "13:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140124pln&url=l12/sl3/a2014/m01/&tI=03:43:14:122&drc=00:02:45:329"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-01-25",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social, procedendo à quarta alteração à Lei n.º 60/2005, de 29 de dezembro, à terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, à alteração do Decreto-Lei n.º 498/72, de 9 de dezembro, que aprova o Estatuto da Aposentação, e revogando normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "295328",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9754",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-01-25",
+        "pubLeg": "XII",
+        "pubNr": "41",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/041/2014-01-25?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2014-01-24",
+        "descricao": "Votação da Proposta, apresentada pelo PS de aditamento de um artigo 5.º-A (Cálculo da pensão de aposentação com base na totalidade do tempo de serviço) à Lei n.º 60/2005, de 29 de dezembro, alterando o artigo 3.º do Decreto.",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "65741",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "41",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2014-01-24",
+        "descricao": "Votação da Proposta, apresentada pelo PS de aditamento de um artigo 9.º-A (Produção de efeitos) à Lei n.º 60/2005, de 29 de dezembro, alterando o artigo 3.º do Decreto.",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>",
+        "id": "65742",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "41",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2014-01-24",
+        "descricao": "Votação da Proposta, apresentada pelo PPD/PSD e CDS-PP de eliminação do artigo 7.º (Norma transitória e de adaptação) do Decreto.",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "65749",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "41",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2014-01-24",
+        "descricao": "Votação da Proposta, apresentada pelo PPD/PSD e CDS-PP de emenda do n.º 1 do artigo 8.º (Norma revogatória) do Decreto.",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "65751",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "41",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2014-01-24",
+        "descricao": "Votação da Proposta, apresentada pelo PS de emenda do n.º 4 do artigo 8.º (Norma revogatória) do Decreto.",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "65752",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "41",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
