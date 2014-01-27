@@ -1,0 +1,6 @@
+Edital n.º 67/2014
+O Município da Covilhã faz público que a Câmara Municipal em reunião ordinária realizada em 5 de julho de 2013, deliberou submeter a apreciação pública, nos termos do artigo 118.º do Código do Procedimento Administrativo, pelo prazo de 30 dias úteis, contados da data da publicação do presente Edital na 2.ª série do Diário da República, o Projeto de Alteração ao Regulamento Municipal de Urbanização e Edificação, para posterior sujeição ao órgão deliberativo.
+O referido documento encontra-se à disposição do público para consulta nos Serviços de Urbanismo - Divisão de Licenciamento e Divisão de Gestão Urbanística-Edifício Centro Cívico, n.º 3-A-r/c - Covilhã, durante as horas normais de expediente, sendo ainda publicitado na página oficial da Câmara Municipal na internet, no endereço www.cm-covilha.pt e eventuais sugestões ou observações sobre o referido projeto, deverão ser formuladas por escrito a esta Câmara Municipal, no período de tempo acima referido ou para o endereço eletrónico (info@cm-covilha.pt).
+Para constar e devidos efeitos, se publica o presente Edital que vai ser afixado nos lugares públicos do costume.
+17 de julho de 2013. - O Vice-Presidente, Pedro Farromba.
+307471581
