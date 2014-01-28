@@ -1,6 +1,6 @@
 ## Secção II
 
-## Requisitos comuns
+## «Requisitos comuns dos empreendimentos turísticos»
 
 # Artigo 5.º
 

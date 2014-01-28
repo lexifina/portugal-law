@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Empreendimentos turísticos
+## Empreendimentos turísticos e alojamento local
 
 ## Secção I
 
@@ -16,4 +16,6 @@
 
 a) As instalações ou os estabelecimentos que, embora destinados a proporcionar alojamento, sejam explorados sem intuito lucrativo ou para fins exclusivamente de solidariedade social e cuja frequência seja restrita a grupos limitados;
 
-b) As instalações ou os estabelecimentos que, embora destinados a proporcionar alojamento temporário com fins lucrativos, revistam natureza de alojamento local nos termos do artigo seguinte.
+b) As instalações ou os estabelecimentos que, embora destinados a proporcionar alojamento temporário com fins lucrativos, não reúnam os requisitos para serem considerados empreendimentos turísticos.
+
+3 - As instalações e os estabelecimentos referidos na alínea b) do número anterior revestem a natureza de alojamento local e são regulados por decreto-lei.

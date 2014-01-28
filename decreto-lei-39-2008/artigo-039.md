@@ -2,8 +2,26 @@
 
 ### Dispensa de requisitos
 
-1 - Os requisitos exigidos para a atribuição da classificação podem ser dispensados pelo Turismo de Portugal, I. P., ou pela câmara municipal, consoante os casos, quando a sua estrita observância for susceptível de afectar as características arquitectónicas ou estruturais dos edifícios que estejam classificados a nível nacional, regional ou local ou que possuam valor histórico, arquitectónico, artístico ou cultural.
+1 - A dispensa de requisitos pode ser concedida, em alternativa:
 
-2 - A dispensa de requisitos pode também ser concedida a projectos reconhecidamente inovadores e valorizantes da oferta turística.
+a) Pelo Turismo de Portugal, I. P., no caso dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º ou pela câmara municipal, nos demais casos, nos termos dos n.os 2 a 6;
 
-3 - No caso dos conjuntos turísticos (resorts,) podem ser dispensados alguns dos requisitos exigidos para as instalações e equipamentos quando o conjunto turístico (resort) integrar um ou mais empreendimentos que disponham de tais instalações e equipamentos e desde que os mesmos possam servir ou ser utilizados pelos utentes de todos os empreendimentos integrados no conjunto.
+b) Pelo Turismo de Portugal, I. P., verificado o cumprimento dos critérios específicos para esse efeito, nos termos dos n.os 7 e 8.
+
+2 - Os requisitos exigidos para a atribuição de classificação podem ser dispensados, oficiosamente ou a requerimento, quando a sua estrita observância for suscetível de:
+
+«a) Afetar as características arquitetónicas ou estruturais dos edifícios que estejam classificados de interesse nacional, de interesse público ou de interesse municipal ou que possuam valor histórico, arquitetónico, artístico ou cultural;»
+
+b) Prejudicar ou impedir a classificação de projetos inovadores e valorizantes da oferta turística.
+
+3 - No caso dos conjuntos turísticos (resorts), podem ser dispensados alguns dos requisitos exigidos para a atribuição de classificação para as instalações e equipamentos, quando o conjunto turístico (resort) integrar um ou mais empreendimentos que disponham de tais instalações e equipamentos ou que o próprio conjunto turístico disponha dos mesmos e desde que possam servir ou ser utilizados pelos utentes de todos os empreendimentos integrados no conjunto.
+
+4 - A dispensa de requisitos requerida com a apresentação da comunicação prévia de obra é concedida tacitamente sempre que não haja lugar a rejeição da mesma, pela câmara municipal, nem a decisão expressa especificamente relativa à dispensa de requisitos no prazo legal de reação à comunicação prévia previsto no artigo 36.º do regime jurídico da urbanização e edificação, proferida pela câmara municipal ou pelo Turismo de Portugal, I. P., neste caso no âmbito do parecer a que se refere o artigo 26.º
+
+5 - A dispensa de requisitos requerida à câmara municipal com o pedido de concessão de autorização de utilização para fins turísticos é concedida tacitamente sempre que não seja proferida decisão expressa especificamente relativa à dispensa de requisitos, nos prazos referidos no n.º 3 do artigo 30.º
+
+6 - Excetuados os pedidos de dispensa referidos no n.º 2 do artigo 26.º no âmbito da instalação dos empreendimentos turísticos, as dispensas de requisitos requeridas ao Turismo de Portugal, I. P., são tacitamente deferidas caso este não determine a realização de auditoria de classificação no prazo referido no n.º 1 do artigo 36.º
+
+7 - Os requisitos exigidos para a atribuição da categoria são ainda dispensados, no caso dos empreendimentos turísticos referidos nas alíneas a) a c) do n.º 1 do artigo 4.º e alínea c) do n.º 3 do artigo 18.º, sempre que verificado o cumprimento dos critérios específicos para esse efeito previstos na portaria referida na alínea a) do n.º 2 do artigo 4.º
+
+8 - O cumprimento dos critérios específicos referidos no número anterior é verificado em sede de auditoria de classificação a que se refere o artigo 36.º

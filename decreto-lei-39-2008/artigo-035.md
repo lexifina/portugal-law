@@ -2,7 +2,7 @@
 
 ### Categorias
 
-1 - Os empreendimentos turísticos referidos nas alíneas a) a c) do n.º 1 do artigo 4.º classificam-se nas categorias de uma a cinco estrelas, atendendo à qualidade do serviço e das instalações, de acordo com os requisitos a definir pela portaria prevista na alínea a) do n.º 2 do artigo 4.º
+1 - Sem prejuízo do disposto n.º 7 do artigo 39.º, os empreendimentos turísticos referidos nas alíneas a) a c) do n.º 1 do artigo 4.º, e na alínea c) do n.º 3 do artigo 18.º, classificam-se nas categorias de uma a cinco estrelas, atendendo à qualidade do serviço e das instalações, de acordo com os requisitos a definir pela portaria prevista na alínea a) do n.º 2 do artigo 4.º
 
 2 - Tais requisitos devem incidir sobre:
 

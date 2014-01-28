@@ -4,9 +4,9 @@
 
 1 - Constituem contra-ordenações:
 
-a) A oferta de serviços de alojamento turístico sem título válido;
+a) A oferta de serviços de alojamento turístico sem título válido de abertura ou, no caso de estabelecimentos de alojamento local, sem a realização de mera comunicação prévia para registo ou com o registo cancelado;
 
-b) O não cumprimento pelo estabelecimento de alojamento local dos requisitos mínimos previstos no n.º 2 do artigo 3.º e do registo previsto no n.º 3 do mesmo artigo;
+b) O não cumprimento pelo estabelecimento de alojamento local dos requisitos mínimos previstos no n.º 2 do artigo 3.º ou do disposto no n.º 7 do mesmo artigo;
 
 c) O não cumprimento dos requisitos gerais de instalação previstos no artigo 5.º;
 
@@ -18,13 +18,15 @@ f) O desrespeito da capacidade máxima dos empreendimentos turísticos, nos term
 
 g) O desrespeito pela área máxima prevista para instalações de carácter complementar destinadas a alojamento, tal como estabelecido no n.º 4 do artigo 19.º;
 
-h) A não apresentação do pedido de revisão da classificação do empreendimento turístico com a antecedência prevista no n.º 2 do artigo 38.º e a falta de apresentação do requerimento necessário para proceder à reconversão da classificação previsto no n.º 2 do artigo 75.º;
+h) A não apresentação ou a apresentação fora do prazo da declaração referida no artigo 29.º e a falta de apresentação do requerimento necessário para proceder à reconversão da classificação previsto no n.º 2 do artigo 75.º;
 
-i) A não afixação no exterior da placa identificativa da classificação do empreendimento turístico, tal como previsto no n.º 4 do artigo 36.º;
+i) A não afixação ou a afixação fora de prazo, no exterior, da placa identificativa do estabelecimento de alojamento local, ou da placa identificativa da classificação do empreendimento turístico, tal como previsto, respetivamente, no n.º 7 do artigo 3.º e nos n.os 7 e 8 do artigo 36.º;
 
-j) A violação do disposto no artigo 41.º, em matéria de identificação dos empreendimentos turísticos;
+j) A não comunicação da alteração dos elementos constantes do registo no prazo de 10 dias após a sua verificação, nos termos do n.º 2 do artigo 40.º;
 
-l) A adopção de classificação ou de características que o empreendimento não possua na respectiva publicidade, documentação comercial e merchandising, tal como previsto no n.º 1 do artigo 42.º;
+k) A violação do disposto no artigo 41.º, em matéria de identificação dos empreendimentos turísticos;
+
+l) A adoção de classificação ou de características que o empreendimento não possua na respetiva publicidade, documentação comercial e merchandising, tal como previsto no artigo 42.º;
 
 m) O desrespeito pela regra da unidade da exploração prevista no n.º 1 do artigo 44.º;
 
@@ -32,15 +34,15 @@ n) O desrespeito pelo regime de exploração turística em permanência e de exp
 
 o) A exploração das unidades de alojamento pelos respectivos proprietários ou a celebração de contratos que comprometam o uso turístico das mesmas, tal como previsto no n.º 6 do artigo 45.º;
 
-p) A violação pela entidade exploradora dos deveres previstos nas alíneas a) a d) do artigo 46.º;
+p) A violação pela entidade exploradora dos deveres previstos nas alíneas a) a c), e e) e f) do artigo 46.º;
 
-q) A atribuição da responsabilidade operacional por empreendimentos turísticos de cinco, quatro e três estrelas a funcionário não habilitado ao exercício da profissão de director de hotel;
+q) [Revogada];
 
 r) A proibição de livre acesso aos empreendimentos turísticos nos casos não previstos nos n.os 2, 3 e 4 do artigo 48.º;
 
 s) A falta de publicitação das regras de funcionamento e acesso aos empreendimentos turísticos;
 
-t) O encerramento de um empreendimento turístico em propriedade plural, sem consentimento de todos os proprietários;
+t) O encerramento de um empreendimento turístico em propriedade plural, sem o consentimento da maioria dos seus proprietários;
 
 u) A falta de publicitação do período de funcionamento dos empreendimentos turísticos;
 
@@ -58,8 +60,10 @@ cc) A falta de elaboração e promoção da respectiva aprovação em assembleia
 
 dd) A falta de remessa a cada um dos proprietários de uma cópia do título constitutivo para os empreendimentos turísticos em propriedade plural, nos termos previstos no n.º 6 do artigo 64.º
 
-2 - As contra-ordenações previstas nas alíneas d), e), i), m), s), u), v) e dd) do n.º 1 são punidas com coima de (euro) 100 a (euro) 500, no caso de pessoa singular, e de (euro) 1000 a (euro) 5000, no caso de pessoa colectiva.
+2 - As contraordenações previstas nas alíneas d), e), i), j), m), s), u), v) e dd) do número anterior são punidas com coima de (euro) 25 a (euro) 750, no caso de pessoa singular, e de (euro) 250 a (euro) 7 500, no caso de pessoa coletiva.
 
-3 - As contra-ordenações previstas nas alíneas f), g), h), j), l), q), r), t) e x) do n.º 1 são punidas com coima de (euro) 500 a (euro) 2500, no caso de pessoa singular, e de (euro) 5000 a (euro) 25000, no caso de pessoa colectiva.
+3 - As contraordenações previstas nas alíneas f), g), h), k), l), r), t) e x) do n.º 1 são punidas com coima de (euro) 125 a (euro) 3 250, no caso de pessoa singular, e de (euro) 1 250 a (euro) 32 500, no caso de pessoa coletiva.
 
-4 - As contra-ordenações previstas nas alíneas a), b), c), n), o), p), z), aa), bb) e cc) do n.º 1 são punidas com coima de (euro) 2500 a (euro) 3740,98, no caso de pessoa singular, e de (euro) 25000 a (euro) 44891,82, no caso de pessoa colectiva.
+4 - As contraordenações previstas nas alíneas b), c), n), o), p), z), aa), bb) e cc) do n.º 1 são punidas com coima de (euro) 1 000 a (euro) 3 740,98, no caso de pessoa singular, e de (euro) 10 000 a (euro) 44 891, 82, no caso de pessoa coletiva.
+
+5 - A contraordenação prevista na alínea a) do n.º 1 é punida com coima de (euro) 2 500 a (euro) 3 740,98, no caso de pessoa singular, e de (euro) 25 000 a (euro) 44 891,82, no caso de pessoa coletiva.

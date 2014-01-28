@@ -6,8 +6,8 @@
 
 ### Noção de apartamento turístico
 
-1 - São apartamentos turísticos os empreendimentos turísticos constituídos por um conjunto coerente de unidades de alojamento, mobiladas e equipadas, que se destinem a proporcionar alojamento e outros serviços complementares e de apoio a turistas.
+1 - São apartamentos turísticos os empreendimentos turísticos constituídos por um conjunto coerente de unidades de alojamento, do tipo apartamento, entendendo-se estas como parte de um edifício à qual se acede através de espaços comuns, nomeadamente átrio, corredor, galeria ou patamar de escada, que se destinem a proporcionar alojamento e outros serviços complementares de apoio a turistas.
 
-2 - Os apartamentos turísticos podem ocupar parte de um edifício, constituída por pisos completos e contíguos, e ou a totalidade de um ou mais edifícios que constituam um conjunto harmónico e articulado entre si, inserido num espaço identificável, apresentando expressão arquitectónica e características funcionais coerentes.
+2 - Os apartamentos turísticos podem ocupar a totalidade ou parte independente, constituída por pisos completos, de um ou mais edifícios, desde que os edifícios em causa constituam, entre eles, um conjunto de espaços contíguos, ou desde que, entre eles, exista uma área de utilização comum.
 
 3 - Os apartamentos turísticos devem dispor, no mínimo, de 10 unidades de alojamento.

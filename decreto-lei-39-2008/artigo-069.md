@@ -1,5 +1,7 @@
 # Artigo 69.º
 
-### Limites da coima em caso de tentativa e de negligência
+### Negligência e tentativa
 
-A tentativa e a negligência são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos para metade.
+1 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+2 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.

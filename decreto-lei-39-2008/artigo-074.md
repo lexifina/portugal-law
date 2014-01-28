@@ -2,8 +2,8 @@
 
 ### Sistema informático
 
-1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada informaticamente com recurso a sistema informático articulado com o sistema previsto no artigo 8.º-A do regime jurídico da urbanização e edificação, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da administração local e do turismo.
+1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada informaticamente com recurso ao balcão único eletrónico dos serviços previsto nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do Portal da Empresa ou do sítio na Internet do Turismo de Portugal, I. P., e das câmaras municipais, articulado com o sistema informático previsto no artigo 8.º-A do regime jurídico da urbanização e da edificação, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da administração local, do ordenamento do território e do turismo.
 
-2 - Para o efeito previsto no número anterior, o Turismo de Portugal, I. P., tem acesso a toda a informação relativa a empreendimentos turísticos constante do sistema informático previsto no regime jurídico da urbanização e edificação.
+2 - Para o efeito previsto no número anterior, o Turismo de Portugal, I. P., tem acesso permanente a toda a informação relativa a empreendimentos turísticos constante do sistema informático previsto no regime jurídico da urbanização e da edificação, independentemente da sujeição a parecer àquele instituto.
 
-3 - Enquanto não se encontrarem em funcionamento os sistemas informáticos referidos no n.º 1, a tramitação dos procedimentos estabelecidos no presente decreto-lei pode ser realizada em papel.
+3 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, pode ser utilizado qualquer outro meio legalmente admissível.

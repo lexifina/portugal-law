@@ -6,7 +6,7 @@
 
 ### Nomes
 
-1 - Os nomes dos empreendimentos turísticos não podem sugerir uma tipologia, classificação ou características que não possuam.
+1 - Os nomes dos empreendimentos turísticos não podem sugerir uma tipologia, grupo, categoria ou características que os mesmos não possuam.
 
 2 - As denominações simples ou compostas que utilizem o termo «hotel» só podem ser utilizadas pelos empreendimentos turísticos previstos na alínea a) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º
 
