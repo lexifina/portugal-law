@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 1/2014
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei nº 41/2013 de 21 de março, declara-se sem efeito o Aviso n.º 4/2014, de 7 de janeiro, publicado no Diário da República n.º 4, 1.ª série, de 7 de janeiro de 2014, por corresponder à publicação em duplicado do texto do Aviso n.º 3/2014, de 6 de janeiro, publicado no Diário da República n.º 3, 1.ª série, de 6 de janeiro de 2014.
+Secretaria-Geral, 24 de janeiro de 2014. - A Secretária-Geral-Adjunta, Catarina Maria Romão Gonçalves.
