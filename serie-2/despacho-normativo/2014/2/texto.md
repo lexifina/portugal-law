@@ -1,0 +1,111 @@
+Despacho normativo n.º 2/2014
+A Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro, que estabelece um quadro de ação comunitária no domínio da política da água, determinou a revogação da Diretiva 80/68/CEE, do Conselho, de 17 de dezembro de 1979, relativa à proteção de águas subterrâneas contra a poluição causada por certas substâncias perigosas, com efeitos a partir de 22 de dezembro de 2013.
+A fim de manter em vigor as normas em matéria de proteção de águas subterrâneas contra a poluição, o Regulamento (UE) n.º 1310/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, veio alterar o Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro, tendo procedido a um ajustamento do âmbito da condicionalidade e à definição de uma nova norma de boas condições agrícolas e ambientais, cujo conteúdo normativo abrange os requisitos anteriormente previstos nos artigos 4.º e 5.º da referida Diretiva 80/68/CEE, até à data considerados como requisitos legais de gestão.
+Neste contexto, importa alterar em conformidade o Despacho Normativo n.º 7/2005, de 1 de fevereiro, de modo a consagrar os requisitos mínimos para as boas condições agrícolas e ambientais no que respeita à proteção das águas subterrâneas contra a poluição causada por certas substâncias perigosas, aproveitando-se, ainda, para proceder a algumas clarificações e ajustamentos na nomenclatura das ocupações culturais.
+Assim, ao abrigo do disposto no artigo 6.º do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro, e do Regulamento (CE) n.º 1122/2009, da Comissão, de 30 de novembro, determino o seguinte:
+Artigo 1.º
+Alteração ao Despacho Normativo n.º 7/2005, de 1 de fevereiro
+O artigo 2.º do Despacho Normativo n.º 7/2005, de 1 de fevereiro, com a redação que lhe foi conferida pelos despachos normativos n.os 24/2008, de 23 de abril, 14/2009, de 2 de abril, 3/2010, de 1 de fevereiro, 10/2011, de 15 de junho, e 4/2012, de 2 de abril, passa a ter a seguinte redação:
+«Artigo 2.º
+[...]
+a) [...]
+b) [...]
+c) [...]
+d) [...]
+e) [...]
+f) [...]
+g) [...]
+h) [...]
+i) [...]
+j) [...]
+l) [...]
+m) [...]
+n) [...]
+o) [...]
+p) [...]
+q) [...]
+r) [...]
+s) [...]
+t) [...]
+u) [...]
+v) [...]
+x) [...]
+z) [...]
+aa)[...]
+bb)[...]
+cc) [...]
+dd) «Resíduos de embalagens de produtos fitofarmacêuticos», as embalagens vazias de produtos fitofarmacêuticos;
+ee) «Resíduos de excedentes de produtos fitofarmacêuticos», os produtos fitofarmacêuticos inutilizáveis contidos em embalagens já abertas que existam armazenadas no utilizador final, bem como os produtos fitofarmacêuticos cuja autorização de venda e prazo para esgotamento de existências tenha já expirado;
+ff) «Óleo usado», qualquer óleo que se tenha tornado impróprio para o uso a que estava inicialmente destinado, tais como os óleos usados dos motores de combustão, dos sistemas de transmissão e dos sistemas hidráulicos.»
+Artigo 2.º
+Alteração aos anexos do Despacho Normativo n.º 7/2005, de 1 de fevereiro
+Os anexos I e II do Despacho Normativo n.º 7/2005, de 1 de fevereiro, com a redação que lhes foi conferida pelos despachos normativos n.os 24/2008, de 23 de abril, 14/2009, de 2 de abril, 3/2010, de 1 de fevereiro, 10/2011, de 15 de junho, e 4/2012, de 2 de abril, passam a ter a seguinte redação:
+«ANEXO I
+[...]
+1 - [...]
+2 - [...]
+2.1 - [...]
+2.1.1 - [...]
+2.1.2 - [...]
+2.1.3 - [...]
+2.1.4 - Sob coberto misto: Superfície ocupada com misto de azinheira, carvalho negral, sobreiro, castanheiro ou pinheiro manso, independentemente do destino da produção destas espécies, ou com misto destas espécies com cultura frutícola, olival ou misto de culturas permanentes, em que nenhuma destas representa mais de 60% do coberto arbóreo, e em que o sob coberto apresenta condições para a produção vegetal, nomeadamente pastagem permanente.
+2.2 - [...]
+2.3 - [...]
+2.4 - [...]
+3 - [...]
+4 - [...]
+ANEXO II
+[...]
+1 - [...]
+a) [...]
+b) Nas superfícies com culturas sob coberto de espaço arborizado e povoamento de sobreiros destinados à produção de cortiça, uma vegetação de cobertura, instalada ou espontânea, ou, em alternativa, restolhos de culturas temporárias;
+c) [...]
+2 - [...]
+3 - [...]
+4 - [...]
+5 - [...]
+6 - [...]
+7 - [...]
+8 - [...]
+9 - [...]
+10 - [...]
+11 - [...]
+12 - [...]
+13 - [...]
+14 - [...]
+15 - [...]
+16 - [...]
+17 - [...]
+18 - [...]
+19 - [...]
+20 - [...]
+21 - [...]
+22 - [...]
+23 - [...]
+24 - [...]
+25 - [...]
+26 - [...]
+27 - [...]
+28 - [...]
+29 - [...]
+30 - [...]
+31 - [...]
+32 - [...]
+33 - [...]
+34 - [...]
+35 - «Faixa de proteção nas parcelas adjacentes a massas de água» - A aplicação de fertilizantes nas parcelas de superfície agrícola e de superfície agroflorestal, com exceção das parcelas de espaço agroflorestal não arborizado com aproveitamento forrageiro e de culturas sob coberto de povoamento misto, adjacentes a rios e águas de transição, definidos como massas de água superficiais no âmbito da Lei n.º 58/2005, de 29 de dezembro (Lei da Água), alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, e 130/2012, de 22 de junho, albufeiras de águas públicas de serviço público e lagoas ou lagos de águas públicas, deve cumprir o disposto nos n.os 1 e 2 e nas alíneas a) e b) do n.º 5 do artigo 7.º da Portaria n.º 259/2012, de 28 de agosto.
+36 - «Gestão de resíduos de produtos fitofarmacêuticos» - É obrigatória a recolha e a concentração de resíduos de embalagens de produtos fitofarmacêuticos e de resíduos de excedentes de produtos fitofarmacêuticos, devendo as mesmas obedecer às seguintes regras:
+a) Os resíduos de embalagens de produtos fitofarmacêuticos devem ser colocados nos sacos de recolha específicos para tal fim e fornecidos no ato da venda;
+b) Os resíduos de excedentes de produtos fitofarmacêuticos devem ser mantidos na sua embalagem de origem;
+c) Os resíduos de embalagens e os resíduos de excedentes de produtos fitofarmacêuticos devem ser guardados nos espaços destinados ao armazenamento dos produtos fitofarmacêuticos, para entrega posterior, respetivamente nos estabelecimentos de venda e locais que venham a ser definidos para o efeito.
+37 - «Gestão de óleos usados resultantes da atividade agrícola» - É proibido o abandono dos óleos usados resultante da atividade agrícola, sendo obrigatório proceder ao armazenamento adequado dos mesmos, com vista ao seu posterior encaminhamento para o circuito de gestão de óleos usados.
+38 - «Armazenamento de produtos fitofarmacêuticos» - O armazenamento dos produtos fitofarmacêuticos, em particular os que contêm substâncias perigosas, designadamente as substâncias a que se refere o Anexo III do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro, na redação dada pelo Regulamento (UE) n.º 1310/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, deve obedecer às seguintes regras:
+a) Ser efetuado em local utilizado apenas para o armazenamento dos produtos fitofarmacêuticos, isolado, em espaço fechado, coberto, seco, ventilado e sem exposição direta ao sol;
+b) O local deve apresentar piso impermeabilizado, preferencialmente com bacia de retenção, a mais de 10 metros de cursos de água, valas, ou nascentes e a mais de 15 metros de captações de água, condutas de drenagem, poços ou furos.
+39 - «Armazenamento de fertilizantes» - O armazenamento de fertilizantes químicos deve ser efetuado em local utilizado para o efeito, em espaço fechado, coberto, seco, ventilado e sem exposição direta ao sol e a mais de 10 metros de cursos de água, valas, condutas de drenagem, poços, furos, minas, fontes e nascentes. Não estão abrangidas pelo disposto na norma «armazenamento de fertilizantes» os depósitos de fertirrega que tenham um sistema de proteção contra fugas.
+40 - «Descarga de substâncias perigosas nas águas subterrâneas» - É proibida a descarga direta nas águas subterrâneas das substâncias perigosas a que se refere o Anexo III do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de janeiro, na redação dada pelo Regulamento (UE) n.º 1310/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.»
+Artigo 3.º
+Entrada em vigor
+O presente despacho entra em vigor no dia seguinte ao da sua publicação.
+17 de janeiro de 2014. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+207549909
