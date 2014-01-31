@@ -1,0 +1,134 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "172",
+  "data_registo": "2014-01-31",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar pelas vítimas do Holocausto",
+    "AutoresGP": [
+      "PSD",
+      "PS",
+      "CDS-PP",
+      "PCP",
+      "BE",
+      "PEV",
+      "Luís Montenegro (PSD)",
+      "Rosa Maria Bastos Albernaz (PS)",
+      "Hortense Martins (PS)",
+      "Rui Pedro Duarte (PS)",
+      "Adão Silva (PSD)",
+      "Ferro Rodrigues (PS)",
+      "Pedro Delgado Alves (PS)",
+      "Duarte Pacheco (PSD)",
+      "Jorge Fão (PS)",
+      "Miguel Santos (PSD)",
+      "João Rebelo (CDS-PP)",
+      "Michael Seufert (CDS-PP)",
+      "Nuno Magalhães (CDS-PP)",
+      "João Oliveira (PCP)",
+      "Pedro Filipe Soares (BE)",
+      "Heloísa Apolónia (PEV)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2014-01-31",
+    "DataAnuncio": null,
+    "DataEntrada": "2014-01-31",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "172",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "670914",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-02-01",
+        "pubLeg": "XII",
+        "pubNr": "26",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/026/2014-02-01/3?pgs=3-4&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "29302",
+        "obs": null,
+        "pag": [
+          "31-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-02-01",
+        "pubLeg": "XII",
+        "pubNr": "44",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/044/2014-02-01/31?pgs=31-32&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2014-01-31",
+        "descricao": null,
+        "detalhe": null,
+        "id": "65782",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "672164",
+            "obs": null,
+            "pag": [
+              "31-32"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-01",
+            "pubLeg": "XII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/044/2014-02-01/31?pgs=31-32&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "44",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
