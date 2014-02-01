@@ -2,22 +2,22 @@
 
 ### Avaliação do desempenho
 
-1 - O desempenho das funções de gestão dos gestores públicos é objecto de avaliação sistemática e tem por base, quando e sempre que possível:
+1 - O desempenho das funções de gestão deve ser objeto de avaliação sistemática, tendo por parâmetros:
 
-a) Os objectivos fixados nas orientações previstas no artigo 3.º, designadamente as orientações directas definidas pelos membros do Governo Regional responsáveis pelas áreas do sector de actividade e das finanças;
+a) Os objetivos fixados nas orientações previstas no artigo 3.º, designadamente as orientações diretas definidas pelos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade;
 
 b) Os objectivos decorrentes do contrato de gestão;
 
 c) Os critérios definidos em assembleia geral;
 
-d) O relatório de gestão e contas de exercício da empresa;
+d) (Revogada.)
 
-e) As informações, pareceres e observações da Secretaria Regional do Plano e Finanças referentes aos relatórios e contas das empresas.
+e) (Revogada.)
 
 2 - A avaliação do desempenho compete:
 
-a) Ao membro do Governo Regional responsável pelo respectivo sector de actividade e ao membro do Governo Regional responsável pela área das finanças quando respeite ao desempenho de gestores públicos de entidades públicas empresariais;
+a) Nas entidades públicas empresariais, aos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade;
 
-b) À assembleia geral, mediante apresentação de proposta do accionista único ou maioritário, quando respeite à avaliação do desempenho de gestores públicos das restantes empresas públicas.
+b) Nas restantes empresas, à assembleia geral, mediante apresentação de proposta do acionista único ou maioritário.
 
-3 - As empresas públicas regionais poderão ser objecto de avaliação, nos termos a regulamentar por resolução do Governo Regional.
+3 - (Revogado.)

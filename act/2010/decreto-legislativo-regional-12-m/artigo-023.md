@@ -6,28 +6,24 @@
 
 ### Princípios gerais de remuneração
 
-1 - A remuneração dos gestores executivos integra uma componente fixa e pode também integrar uma componente variável.
+1 - A remuneração dos gestores integra um vencimento mensal que não pode ultrapassar o vencimento do Presidente do Governo Regional da Região Autónoma da Madeira.
 
-2 - A componente fixa compreende a remuneração base e, quando as haja, as despesas de representação.
+2 - A remuneração dos gestores públicos integra ainda um abono mensal, pago 12 vezes ao ano, para despesas de representação no valor de 40 % do respetivo vencimento.
 
-3 - A componente variável compreende o prémio de gestão, cuja atribuição, quando determinada, tem em conta a avaliação do desempenho do gestor público.
+3 - O vencimento mensal dos gestores públicos é determinado em função de critérios decorrentes da complexidade, exigência e responsabilidade inerentes às respetivas funções, atendendo às práticas normais de mercado no respetivo setor de atividade, fixados nas orientações a que se refere a alínea c) do n.º 2 do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.
 
-4 - Os gestores não executivos, em regra, são remunerados através de senha de presença em reuniões do órgão de administração.
+4 - Os gestores não executivos têm direito a uma remuneração fixa, correspondente à atividade normal que desempenhem, até ao limite de um quarto da remuneração de igual natureza estabelecida para os gestores executivos.
 
-5 - Pontualmente, nos termos das orientações a que se refere a alínea c) do n.º 2 do artigo 11.º do Regime Jurídico do Sector Empresarial da Região Autónoma da Madeira, os gestores não executivos poderão ser remunerados através de uma remuneração fixa correspondente à actividade normal que desempenhem, até ao limite de dois terços da remuneração de igual natureza estabelecida para os administradores executivos.
+5 - Os gestores não executivos, quando tenham efetiva participação em comissões criadas especificamente para acompanhamento da atividade da empresa, podem ainda ter direito a uma remuneração complementar, não podendo em qualquer caso a remuneração global exceder um terço da remuneração fixa estabelecida para o gestor executivo.
 
-6 - Os gestores não executivos poderão, ainda, ter direito a uma remuneração complementar, quando tenham efectiva participação em comissões criadas especificamente para acompanhamento da actividade da empresa, não podendo em qualquer caso a remuneração global exceder o limite referido no número anterior.
+6 - A remuneração dos gestores não executivos não integra qualquer abono mensal para despesas de representação.
 
-7 - A remuneração dos gestores não executivos não pode integrar qualquer componente variável.
+7 - A Comissão de Recrutamento e Seleção para a Administração Regional da Madeira acompanha a definição dos critérios a que se refere o n.º 3 e a sua aplicação.
 
-8 - Os gestores executivos e não executivos com remuneração fixa poderão ter direito a outros benefícios, designadamente utilização de cartões de crédito, utilização de viaturas da empresa ou afectas à empresa, despesas com combustível, despesas com comunicações móveis e subsídio de alimentação, fixados em conformidade com o disposto no n.º 3 do artigo 24.º do presente diploma.
+8 - Nos casos previstos no artigo 11.º do presente diploma, quando se trate de empresas cuja principal função seja a produção de bens e serviços mercantis, incluindo serviços financeiros, e relativamente à qual se encontrem em regime de concorrência no mercado, mediante autorização expressa do membro do Governo Regional responsável pela área das finanças, os gestores podem optar por valor com o limite da remuneração média dos últimos três anos correspondente à remuneração da carreira ou categoria do lugar de origem, devendo ser objeto de despacho fundamentado e publicado no Jornal Oficial da Região Autónoma da Madeira.
 
-9 - Nos casos previstos no n.º 1 e na alínea a) do n.º 2 do artigo 11.º, e quando ocorrer autorização expressa do membro do Governo Regional responsável pela área do sector de actividade da empresa e do membro do Governo responsável pela área das finanças, os gestores podem optar pela remuneração fixa do lugar de origem, mantendo as regalias ou benefícios remuneratórios que aí detinham.
+9 - Nos casos em que seja concedida a autorização de opção a que se refere o número anterior, os gestores não auferem o abono mensal de despesas de representação, quando o respetivo vencimento mensal ultrapasse o limite fixado pelo n.º 1.
 
-10 - Nos casos de acumulação de funções permitidas no presente diploma, a remuneração obedece às seguintes regras:
+10 - Nas situações de acumulação de funções permitidas nas alíneas a) e b) do n.º 2 do artigo 14.º e nas alíneas a) e b) do n.º 3 do artigo 16.º, o gestor público não tem direito a qualquer remuneração adicional, regalia ou benefício, incluindo os referidos no n.º 2 do artigo 23.º, nas alíneas a), b) e c) do n.º 2 do artigo 24.º, nos n.os 3 e 6 do artigo 24.º-A, no artigo 24.º-B e no artigo 25.º
 
-a) As acumulações de funções previstas na alínea a) do n.º 3 do artigo 16.º não conferem direito a qualquer remuneração adicional;
-
-b) Na acumulação prevista na alínea b) do n.º 3 do artigo 16.º, a remuneração acumulada dos gestores executivos e não executivos não pode exceder dois terços da remuneração fixa estabelecida para os gestores executivos com a remuneração mais elevada.
-
-11 - É aplicável aos gestores públicos o regime previsto para os trabalhadores em funções públicas do subsídio de refeição e do abono de ajudas de custo e transporte por deslocações em território português e ao estrangeiro.
+11 - (Revogado.)

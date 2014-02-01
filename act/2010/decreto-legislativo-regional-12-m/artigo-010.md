@@ -4,4 +4,6 @@
 
 1 - O mandato é exercido, em regra, pelo prazo de três anos, sendo coincidentes os mandatos dos membros do mesmo órgão de gestão.
 
-2 - O mandato pode ser sucessivamente renovado, nos termos dos n.os 1 e 2 do artigo anterior.
+2 - A lei e os estatutos fixam, até ao limite máximo de três, o número de renovações consecutivas dos mandatos na mesma empresa pública.
+
+3 - Na falta de disposição legal ou estatutária, é aplicável o número de mandatos previstos no número anterior.

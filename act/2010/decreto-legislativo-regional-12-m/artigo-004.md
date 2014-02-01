@@ -4,7 +4,7 @@
 
 São deveres dos gestores públicos e, em especial, dos que exerçam funções executivas:
 
-a) Dar cumprimento às orientações estratégicas a que se refere o artigo anterior;
+a) Dar cumprimento às orientações e recomendações a que se refere o artigo anterior;
 
 b) Prosseguir a realização dos objectivos da empresa definidos em assembleia geral ou, quando existam, em contratos de gestão;
 

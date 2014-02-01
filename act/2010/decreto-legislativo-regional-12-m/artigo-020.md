@@ -4,7 +4,7 @@
 
 1 - O órgão de eleição ou nomeação pode demitir o gestor público quando lhe seja individualmente imputável uma das seguintes situações:
 
-a) A avaliação de desempenho seja negativa, designadamente por incumprimento dos objectivos referidos nas orientações fixadas ao abrigo do artigo 3.º do presente diploma ou no contrato de gestão, desde que tal possibilidade esteja contemplada nesse contrato;
+a) A avaliação de desempenho seja negativa, designadamente por incumprimento dos objetivos referidos nas orientações fixadas ao abrigo do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, ou no contrato de gestão;
 
 b) A violação grave, por acção ou por omissão, da lei ou dos estatutos da empresa;
 
