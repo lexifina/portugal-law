@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "204",
+  "id": "38209",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-02-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e54686a5a6a4a6d4d5759744d54646d595330304e4445314c54686b4d474d744f54566859324d314e5745774f4755314c6e426b5a673d3d&fich=58cf2f1f-17fa-4415-8d0c-95acc55a08e5.pdf&Inline=true",
+        "anexoNome": "Parecer APRITEL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a59335a44426a4f446b744d544a6b595330304d44646b4c546869596d45745a6d4d315a6d466a5a4759355a6a45324c6e426b5a673d3d&fich=b67d0c89-12da-407d-8bba-fc5facdf9f16.pdf&Inline=true",
+        "anexoNome": "Parecer CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a45784d4755324d4751745a6d45794d5330305954686a4c5467324d574d744e4459354d446c684d6d597a5a474a6c4c6e426b5a673d3d&fich=2110e60d-fa21-4a8c-861c-46909a2f3dbe.pdf&Inline=true",
+        "anexoNome": "Parecer ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a526c4e4441794d7a41745a5449304f4330304d5467354c5745354e574974593259325a4441314e4464694e3251324c6e426b5a673d3d&fich=24e40230-e248-4189-a95b-cf6d0547b7d6.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a46685954646c4f546b744d5749324e4330304d3259314c5745314e574d744e7a4a684d3245774e5463315a475a6b4c6e426b5a673d3d&fich=71aa7e99-1b64-43f5-a55c-72a3a0575dfd.pdf&Inline=true",
+        "anexoNome": "Parecer Banco Portugal"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4759774d475a684d7a63744e5451324d4330304d545a6c4c574a6c593251744e6d51314e6a4e6b4d5463315a44686c4c6e426b5a673d3d&fich=4f00fa37-5460-416e-becd-6d563d175d8e.pdf&Inline=true",
+        "anexoNome": "Parecer Ordem Advogados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a557a4f5459794d6a49744d544534595330304d475a6b4c57466b4e574d74595463315a474a6a4d6a52694d7a4d784c6e426b5a673d3d&fich=c5396222-118a-40fd-ad5c-a75dbc24b331.pdf&Inline=true",
+        "anexoNome": "Parecer Câmara Solicitadores"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d574d795a6d4d354d446b744e6a59304e6930304f5449324c57497759325174596a466d5a6a51344f4441334f5467794c6e426b5a673d3d&fich=1c2fc909-6646-4926-b0cd-b1ff48807982.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a55774d445a695a6d49744e6d4533597930304f5467784c546c6a4e6d49744e6d526b4f445178597a51334d5759794c6e426b5a673d3d&fich=c5006bfb-6a7c-4981-9c6b-6dd841c471f2.pdf&Inline=true",
+        "anexoNome": "Parecer SMMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a497a4e3251354f544d74597a6b774f4330304e7a67794c574a6a4e6a4d744f446331596d4e694e4452694d57566c4c6e426b5a673d3d&fich=b237d993-c908-4782-bc63-875bcb44b1ee.pdf&Inline=true",
+        "anexoNome": "Parecer SMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d44566a4f474d7a4e7a55744d3251324e7930304e6a49794c546c685a6a67744f474a6b5932453059546734596d51774c6e426b5a673d3d&fich=05c8c375-3d67-4622-9af8-8bdca4a88bd0.pdf&Inline=true",
+        "anexoNome": "Deliberação CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324978595455784f4459744f444d784d69303059574d774c546b7a4d6d59744d4442684f4755335a4746684d4449784c6e426b5a673d3d&fich=3b1a5186-8312-4ac0-932f-00a8e7daa021.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD (Ratificado)"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38209",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4451304d3259325a445974596d4d314e5330304f574e6d4c546b794d7a517459546c684d4445305a5455354d4455354c6d527659773d3d&fich=d443f6d6-bc55-49cf-9234-a9a014e59059.doc&Inline=true",
+    "IniNr": "204",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova o procedimento extrajudicial pré-executivo.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
