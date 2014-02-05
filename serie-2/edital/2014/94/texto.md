@@ -1,0 +1,7 @@
+Edital n.º 94/2014
+Doutor Francisco José de Matos, Vereador com competências delegadas da Câmara Municipal do Concelho de S. Pedro do Sul:
+Torna público que, A Assembleia Municipal de São Pedro do Sul, na sua sessão extraordinária de 25 de novembro de 2013, sob proposta da Câmara Municipal tomada na reunião extraordinária de 25 de outubro de 2013, aprovou a alteração ao Regulamento Municipal de Urbanização, Edificação, Fiscalização e Taxas e sua fundamentação económico-financeira, nos termos do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação e do n.º 2 do artigo 118.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na sua atual redação, submetido a apreciação pública, através de edital afixado nos lugares habituais, publicado no Jornal "Gazeta da Beira", de 06 de junho de 2013 e no Diário da República, 2.ª série, n.º 130, de 09 de julho de 2013, as quais entram em vigor quinze dias após a publicação do presente Edital no Diário da República.
+Todos os documentos aprovados e que fazem parte desta alteração do Regulamento encontram-se disponíveis para consulta no site desta Câmara Municipal, em www.cm-spsul.pt e na Secção de Obras e Urbanismo da Câmara Municipal de São Pedro do Sul
+Para constar se lavrou este Edital e outros de igual teor, que vão ser afixados nos locais do costume.
+7 de janeiro de 2014. - O Vereador, com competências delegadas, Francisco José de Matos.
+307564407
