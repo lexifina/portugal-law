@@ -172,7 +172,7 @@ b) Ao próprio edifício e em função do tipo de materiais usados na construç�
 
 (ver documento original)
 
-3 - Para efeitos do número anterior, o requisito de caudal de ar novo deve ser calculado através da seguinte expressão:
+4 - Para efeitos do número anterior, o requisito de caudal de ar novo deve ser calculado através da seguinte expressão:
 
 (ver documento original)
 
