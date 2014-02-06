@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "206",
+  "id": "38216",
+  "fases": 23,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-02-06",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a51334f546b784e4463744d44673159693030596a51344c5467354d6a49744e7a45794e325178597a45325a4751794c6e426b5a673d3d&fich=c4799147-085b-4b48-8922-7127d1c16dd2.pdf&Inline=true",
+        "anexoNome": "Parecer ALRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595751774d475133595445745a574d79597930304d4759784c546c6a4e7a55744d6d5533596a466a4e44493259544e6c4c6e426b5a673d3d&fich=ad00d7a1-ec2c-40f1-9c75-2e7b1c426a3e.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a67345a4441784e44517459544a694e5330305a44686c4c5467315a575974596a6c6b5a47593459545a6b4d4755314c6e426b5a673d3d&fich=388d0144-a2b5-4d8e-85ef-b9ddf8a6d0e5.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e544d7a5a47566a593249744d47526c4d4330304d574a6a4c546c694f5455744d32517a5957597a596a677a596a49794c6e426b5a673d3d&fich=533deccb-0de0-41bc-9b95-3d3af3b83b22.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a446b315a6a67784d4749744d4463784d433030597a426d4c574a694f5759744d545a6a593245354d4463775a446b774c6e426b5a673d3d&fich=d95f810b-0710-4c0f-bb9f-16cca9070d90.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38216",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d47466c4e47526b4f5467745a5455344d4330304d5756694c574978596d59744e324a6c4d54646d4e7a63795a546b794c6d527659773d3d&fich=0ae4dd98-e580-41eb-b1bf-7be17f772e92.doc&Inline=true",
+    "IniNr": "206",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece normas de acesso a cuidados de saúde transfronteiriços e promove a cooperação em matéria de cuidados de saúde transfronteiriços, transpondo a Diretiva n.º 2011/24/UE, do Parlamento Europeu e do Conselho, de 9 de março de 2011, e a Diretiva de Execução n.º 2012/52/UE da Comissão, de 20 de dezembro de 2012,",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
