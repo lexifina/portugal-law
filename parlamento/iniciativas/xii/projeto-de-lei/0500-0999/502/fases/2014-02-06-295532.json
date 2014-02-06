@@ -1,0 +1,629 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "502",
+    "id": "38207",
+    "titulo": "Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-02-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9786",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-02-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38193",
+        "leg": "XII",
+        "nr": "498",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1845",
+            "obs": null,
+            "pag": [
+              "12-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-07",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/12?pgs=12-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1845",
+            "obs": null,
+            "pag": [
+              "12-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-07",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/12?pgs=12-25&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro)."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38200",
+        "leg": "XII",
+        "nr": "500",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1845",
+            "obs": null,
+            "pag": [
+              "12-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-07",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/12?pgs=12-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1845",
+            "obs": null,
+            "pag": [
+              "12-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-07",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/12?pgs=12-25&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-02-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:40:01:850&drc=00:08:31:940"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:00:18:591&drc=00:00:49:095"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:21:21:983&drc=00:02:02:090"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-14",
+                  "22-23",
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/12?pgs=12-14,22-23,25&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:49:01:970&drc=00:03:18:531"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:58:13:639&drc=00:01:55:422"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:23:26:760&drc=00:01:49:239"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15",
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/14?pgs=14-15,23-24&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:53:04:079&drc=00:04:39:217"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:01:14:028&drc=00:01:46:268"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:25:25:335&drc=00:03:27:478"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-18",
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/15?pgs=15-18,24-25&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:58:13:639&drc=00:01:55:422"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:30:45:077&drc=00:00:25:788"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/17?pgs=17&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:03:09:735&drc=00:05:23:504"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:28:54:166&drc=00:01:41:126"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:40:52:986&drc=00:02:56:104"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19",
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/18?pgs=18-19,25&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:09:04:624&drc=00:09:01:208"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:20:15:917&drc=00:00:42:250"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/19?pgs=19-22&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=01:18:13:632&drc=00:01:31:821"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192587",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Reforça a proteção de devedores de crédito à habitação em situação económica muito difícil (1ª alteração à Lei n.º 58/2012, de 9 de novembro); Procede à primeira alteração à Lei n.º 58/2012, de 9 de novembro, que cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil; Primeira alteração ao regime extraordinário de proteção de devedores de crédito à habitação em situação económica difícil, aprovado pela Lei n.º 58/2012, de 9 de novembro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "295532",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "674083",
+        "obs": null,
+        "pag": [
+          "12-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-02-07",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/12?pgs=12-26&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
