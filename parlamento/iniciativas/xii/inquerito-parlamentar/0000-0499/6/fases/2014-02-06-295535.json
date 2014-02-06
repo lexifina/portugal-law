@@ -1,0 +1,524 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "6",
+    "id": "37706",
+    "titulo": "Comissão Eventual de Inquérito à celebração de contratos de gestão de risco financeiro por empresas do sector público."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2014-02-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9787",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2014-02-06",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38203",
+        "leg": "XII",
+        "nr": "932",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1844",
+            "obs": null,
+            "pag": [
+              "2-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-02-07",
+            "pubLeg": "XII",
+            "pubNr": "46",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/2?pgs=2-12&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-02-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:02:51:376&drc=00:03:43:936"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2-3"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/2?pgs=2-3&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:06:53:989&drc=00:05:26:764"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/3?pgs=3-4&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:12:53:828&drc=00:03:34:495"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:16:39:509&drc=00:03:29:388"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:20:16:809&drc=00:03:30:217"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:24:00:328&drc=00:03:57:576"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:28:10:070&drc=00:04:53:930"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/8?pgs=8-10&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4397",
+                "nome": "Afonso Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:14",
+            "horaTermo": "17:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140206pln&url=l12/sl3/a2014/m02/&tI=00:33:16:068&drc=00:05:01:984"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "192561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-02-07",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/10?pgs=10-12&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que promova a declaração de nulidade ou a anulação dos contratos de permuta financeira (swap) celebrados entre entidades públicas empresariais e instituições financeiras; Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Relatório da Comissão Parlamentar de Inquérito à Celebração de Contratos de Gestão de Risco Financeiro por Empresas do Setor Público.",
+    "OevId": "295535",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "674079",
+        "obs": null,
+        "pag": [
+          "2-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-02-07",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/046/2014-02-07/2?pgs=2-12&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
