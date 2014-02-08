@@ -2,7 +2,7 @@
 
 ### Prescrição das penas
 
-As penas disciplinares prescrevem nos prazos seguintes, contados da data em que a decisão se tornou irrecorrível:
+As penas disciplinares prescrevem nos prazos seguintes, contados da data em que a decisão se tornou inimpugnável:
 
 a) Seis meses, para as penas de repreensão escrita;
 

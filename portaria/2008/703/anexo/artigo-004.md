@@ -6,6 +6,8 @@
 
 2 - Prescreverá igualmente se, conhecida a falta pelo comandante do corpo de bombeiros, não for instaurado o competente procedimento disciplinar no prazo de três meses.
 
-3 - Se antes do decurso do prazo referido no n.º 1, alguns actos instrutórios com efectiva incidência na marcha do processo tiverem lugar a respeito da infracção, a prescrição conta-se desde o dia em que tiver sido praticado o último acto.
+3 - Aplica-se à prescrição prevista nos números anteriores o disposto nos números 3, 4 e 5, do artigo 6.º do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas, com as necessárias adaptações.
 
-4 - Interrompem, nomeadamente, o prazo prescricional a instauração do processo de sindicância ou mero processo de averiguações e ainda a instauração de processo de inquérito e disciplinar, mesmo que não tenham sido dirigidos contra o bombeiro voluntário a quem a prescrição aproveita, mas dos quais venham a apurar-se faltas de que seja responsável.
+4 - O procedimento disciplinar prescreve decorrido um ano contado da data em que foi instaurado quando, nesse prazo, o arguido não tenha sido notificado da decisão final.
+
+5 - Aplica-se à prescrição prevista no número anterior o disposto nos números 7 e 8, do artigo 6.º do Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas, com as necessárias adaptações.

@@ -6,4 +6,4 @@
 
 2 - Estão ainda sujeitos ao regime definido no presente Regulamento os estagiários das carreiras de bombeiro e oficial bombeiro, voluntários.
 
-3 - Exceptuam-se do âmbito de aplicação deste diploma os bombeiros voluntários que possuam estatuto diferente resultante de contrato individual de trabalho com a entidade detentora, quando a infracção for praticada fora do exercício das funções de bombeiro.
+3 - Excetuam-se do âmbito da aplicação deste diploma os bombeiros voluntários que possuem estatuto diferente resultante de contrato individual de trabalho com a entidade detentora quando a infração for praticada fora do exercício das funções de bombeiro.

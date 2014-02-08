@@ -12,4 +12,6 @@ c) No exercício das suas funções praticarem actos manifestamente ofensivos da
 
 d) Manifestarem comprovada incompetência ou falta de idoneidade moral para o exercício de funções;
 
-e) Violarem segredo profissional ou cometerem inconfidências de que resultem prejuízos materiais e morais para o corpo de bombeiros, associação humanitária que o detém ou para terceiros.
+e) Violarem segredo profissional ou cometerem inconfidências de que resultem prejuízos materiais e morais para o corpo de bombeiros, associação humanitária que o detém ou para terceiros;
+
+f) No mesmo ano civil, deem três faltas seguidas ou seis interpoladas, sem justificação, a serviços operacionais para os quais estejam escalados.
