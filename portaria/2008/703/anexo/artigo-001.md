@@ -1,3 +1,7 @@
+## Anexo
+
+## Regulamento Disciplinar dos Bombeiros Voluntários
+
 # Artigo 1.º
 
 ### Âmbito de aplicação
