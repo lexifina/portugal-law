@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 8/2014
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se sem efeito o Aviso n.º 150/2013, de 27 de dezembro, publicado no Diário da República, n.º 251, 1.ª série, de 27 de dezembro de 2013, por corresponder à publicação em duplicado do texto do Aviso n.º 145/2013, de 27 de dezembro, publicado no Diário da República, n.º 251, 1.ª série, de 27 de dezembro de 2013.
+Secretaria-Geral, 5 de fevereiro de 2014. - A Secretária-Geral Adjunta, Catarina Maria Romão Gonçalves.
