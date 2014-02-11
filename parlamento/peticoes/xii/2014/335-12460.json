@@ -1,0 +1,538 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12460",
+  "numero": "335",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-02-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-02-27",
+            "dataResposta": "2014-03-07",
+            "entidades": [
+              "Presidente do Conselho de Administração do Centro Hospitalar do Algarve, E.P.E."
+            ],
+            "nrOficio": "60/COM/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-02-27",
+            "dataResposta": "2014-03-18",
+            "entidades": [
+              "Presidente do Conselho Directivo da Administração Regional de Saúde do Algarve, IP."
+            ],
+            "nrOficio": "62/COM/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-02-27",
+            "dataResposta": "2014-04-01",
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "61/COM/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-04-23",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-02-26",
+        "DataArquivo": "2014-04-23",
+        "DataBaixaComissao": "2014-02-14",
+        "DataEnvioPAR": "2014-04-23",
+        "DataReaberta": "2014-02-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-02-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938345a6a45794d6d4d794d69316a4f574d334c5452684f4749744f446c6d5a6930304d54646a4e574e6c4e5467784d54417555455247&fich=8f122c22-c9c7-4a8b-89ff-417c5ce58110.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2013-03-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938774d7a51304d6a5a6b4e69307a4d6a49354c5451304d3251744f5441305a53307a4d446b354e57497a4e54686c4d5759756347526d&fich=034426d6-3229-443d-904e-30995b358e1f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-03-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938315a4749334e6a55324e693033596a566c4c5451775a5463744f4467774e6931684e6a6778597a6b3559544e68597a6b756347526d&fich=5db76566-7b5e-40e7-8806-a681c99a3ac9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2013-03-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938334e5749354d6a45305953307a4e3245784c54517a59544174596a63314d69316c5a574d794e444d794e325a6d5a6a63756347526d&fich=75b9214a-37a1-43a0-b752-eec24327fff7.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-04-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938794d325a694e446377596930784f5451304c5451344d4755744f54597859693035596a526c595451344d4463334e5745756347526d&fich=23fb470b-1944-480e-961b-9b4ea480775a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-04-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b4e5749774e4755304e7930784f544d304c54526d596a4d74596a493159793168596d4d7a4d4759334e5751784f47597555455247&fich=d5b04e47-1934-4fb3-b25c-abc30f75d18f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-03-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396a4e446c684e5441304d7930784d4749774c54526d4f5759744f544d325a43316b593245304e44426b4e3259305a6d497555455247&fich=c49a5043-10b0-4f9f-936d-dca440d7f4fb.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-03-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938325a4463324f544d7a4d4330794d446c6d4c54526b5a6a4d74596a55315979307a4d32566c4e6a5933593255344d474d7555455247&fich=6d769330-209f-4df3-b55c-33ee667ce80c.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-02-26",
+            "gp": "PSD",
+            "id": "4336",
+            "motivoCessacao": null,
+            "nome": "Elsa Cordeiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-06-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-02-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a526a59324d784e4449354c544d34595449744e47526a5a6930354d57566a4c5452694e474d774e5456684d444d314f4335515245593d&fich=4ccc1429-38a2-4dcf-91ec-4b4c055a0358.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38275",
+      "38551",
+      "38549"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140618pln&url=l12/sl3/a2014/m06/&tI=01:59:42:768&drc=00:01:37:438"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140618pln&url=l12/sl3/a2014/m06/&tI=02:15:39:969&drc=00:01:24:212"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35",
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-19",
+                "pubLeg": "XII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/095/2014-06-19/34?pgs=34-35,39&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a fusão dos hospitais de Faro, Portimão e Lagos num único centro hospitalar, pela melhoria dos cuidados de saúde na região algarvia; Recomenda ao Governo a extinção do Centro Hospitalar do Algarve e a criação de uma unidade local de Saúde no Barlavento e outra no Sotavento Algarvio; Defesa da qualidade dos serviços hospitalares públicos no Algarve; Defender o Centro Hospitalar do Barlavento Algarvio (CHBA) e manter todos os serviços de especialidades, recursos humanos e materiais no Hospital de Portimão.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140618pln&url=l12/sl3/a2014/m06/&tI=02:01:26:283&drc=00:02:37:873"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-19",
+                "pubLeg": "XII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/095/2014-06-19/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a fusão dos hospitais de Faro, Portimão e Lagos num único centro hospitalar, pela melhoria dos cuidados de saúde na região algarvia; Recomenda ao Governo a extinção do Centro Hospitalar do Algarve e a criação de uma unidade local de Saúde no Barlavento e outra no Sotavento Algarvio; Defesa da qualidade dos serviços hospitalares públicos no Algarve; Defender o Centro Hospitalar do Barlavento Algarvio (CHBA) e manter todos os serviços de especialidades, recursos humanos e materiais no Hospital de Portimão.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140618pln&url=l12/sl3/a2014/m06/&tI=02:04:07:846&drc=00:02:13:645"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-19",
+                "pubLeg": "XII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/095/2014-06-19/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a fusão dos hospitais de Faro, Portimão e Lagos num único centro hospitalar, pela melhoria dos cuidados de saúde na região algarvia; Recomenda ao Governo a extinção do Centro Hospitalar do Algarve e a criação de uma unidade local de Saúde no Barlavento e outra no Sotavento Algarvio; Defesa da qualidade dos serviços hospitalares públicos no Algarve; Defender o Centro Hospitalar do Barlavento Algarvio (CHBA) e manter todos os serviços de especialidades, recursos humanos e materiais no Hospital de Portimão.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140618pln&url=l12/sl3/a2014/m06/&tI=02:06:26:167&drc=00:03:42:036"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194534",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-19",
+                "pubLeg": "XII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/095/2014-06-19/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a fusão dos hospitais de Faro, Portimão e Lagos num único centro hospitalar, pela melhoria dos cuidados de saúde na região algarvia; Recomenda ao Governo a extinção do Centro Hospitalar do Algarve e a criação de uma unidade local de Saúde no Barlavento e outra no Sotavento Algarvio; Defesa da qualidade dos serviços hospitalares públicos no Algarve; Defender o Centro Hospitalar do Barlavento Algarvio (CHBA) e manter todos os serviços de especialidades, recursos humanos e materiais no Hospital de Portimão.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140618pln&url=l12/sl3/a2014/m06/&tI=02:10:11:717&drc=00:03:07:181"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194535",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-19",
+                "pubLeg": "XII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/095/2014-06-19/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a fusão dos hospitais de Faro, Portimão e Lagos num único centro hospitalar, pela melhoria dos cuidados de saúde na região algarvia; Recomenda ao Governo a extinção do Centro Hospitalar do Algarve e a criação de uma unidade local de Saúde no Barlavento e outra no Sotavento Algarvio; Defesa da qualidade dos serviços hospitalares públicos no Algarve; Defender o Centro Hospitalar do Barlavento Algarvio (CHBA) e manter todos os serviços de especialidades, recursos humanos e materiais no Hospital de Portimão.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-06-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140618pln&url=l12/sl3/a2014/m06/&tI=02:13:20:905&drc=00:02:16:110"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194536",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-19",
+                "pubLeg": "XII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/095/2014-06-19/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Contra a fusão dos hospitais de Faro, Portimão e Lagos num único centro hospitalar, pela melhoria dos cuidados de saúde na região algarvia; Recomenda ao Governo a extinção do Centro Hospitalar do Algarve e a criação de uma unidade local de Saúde no Barlavento e outra no Sotavento Algarvio; Defesa da qualidade dos serviços hospitalares públicos no Algarve; Defender o Centro Hospitalar do Barlavento Algarvio (CHBA) e manter todos os serviços de especialidades, recursos humanos e materiais no Hospital de Portimão.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12460",
+    "PetAssunto": "Defender o Centro Hospitalar do Barlavento Algarvio (CHBA) e manter todos os serviços de especialidades, recursos humanos e materiais no Hospital de Portimão.",
+    "PetDataEntrada": "2014-02-11",
+    "PeticoesAssociadas": null,
+    "PetId": "12460",
+    "PetLeg": "XII",
+    "PetNr": "335",
+    "PetNrAssinaturas": "6698",
+    "PetNrAssinaturasInicial": "6698",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1908",
+        "obs": null,
+        "pag": [
+          "34-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-19",
+        "pubLeg": "XII",
+        "pubNr": "95",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/095/2014-06-19/34?pgs=34-39&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "681199",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-01",
+        "pubLeg": "XII",
+        "pubNr": "33",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/033/2014-03-01/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
