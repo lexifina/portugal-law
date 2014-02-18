@@ -1,0 +1,32 @@
+Portaria n.º 41/2014
+de 17 de fevereiro
+Considerando a necessidade de gerir, de forma eficiente, a quota de sarda disponível para Portugal nas divisões VIIIc, IX e X definidas pelo Conselho Internacional para a Exploração do Mar (CIEM) e na divisão 34.1.1 definida pelo Comité das Pescas para o Atlântico Centro Este (CECAF), em 2014, a presente portaria estabelece uma limitação das descargas para o primeiro semestre, assegurando-se a atividade da frota que habitualmente captura a espécie em águas nacionais ao longo do ano, e definindo-se, em simultâneo, um mecanismo de limitação das capturas semanais desta espécie.
+Ao mesmo tempo, é atribuída à frota licenciada para operar no Atlântico Norte uma parte da quota desta espécie, tendo em conta a prática habitual nesta matéria.
+Assim, ao abrigo do disposto no n.º 1 e na alínea g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, na redação dada pelos Decretos-Lei n.º 218/91, de 17 de junho e n.º 383/98, de 27 de novembro, e no uso das competências delegadas pela Ministra da Agricultura e do Mar, manda o Governo, pelo Secretário de Estado do Mar, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria define, para 2014, o modelo de gestão da quota portuguesa de sarda (Scomber scombrus) nas zonas VIIIc, IX e X definidas pelo Conselho Internacional para a Exploração do Mar (CIEM) e na divisão 34.1.1 definida pelo Comité das Pescas para o Atlântico Centro Este (CECAF).
+Artigo 2.º
+Gestão da quota
+1 -Nos termos do Regulamento (UE) n.º 43/2014, do Conselho, de 20 de janeiro de 2014, é atribuída a Portugal uma quota de 5998 toneladas de sarda, as quais são repartidas do seguinte modo:
+a) 17,5 % são atribuídas à frota do largo licenciada para operar no Atlântico Norte;
+b) 72,5 % são atribuídas à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar até 30 de junho de 2014;
+c) 10 % são atribuídas à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar a partir de 1 de julho de 2014.
+2 -Caso a quota a que se refere a alínea b) do número anterior não seja integralmente utilizada até 30 de junho, o remanescente pode ser utilizado a partir de 1 de julho e acresce à quantidade disponível nos termos da alínea c).
+3 -Quando a utilização de cada uma das quantidades de sarda a que se referem as alíneas b) e c) do n.º 1 atingir 90 %, a pesca desta espécie fora das águas sob jurisdição nacional fica limitada a capturas acessórias até 5 % do total do pescado a bordo.
+4 -Em cada semana, desde a entrada em vigor da presente portaria até 30 de junho de 2014, entre as 00:00 horas de segunda-feira e as 24:00 horas de domingo, cada embarcação pode descarregar uma quantidade máxima de 60 toneladas de sarda.
+Artigo 3.º
+Controlo das descargas
+Sem prejuízo do cumprimento das obrigações previstas na regulamentação europeia em matéria de comunicação de dados, através do diário de pesca eletrónico, os armadores das embarcações que descarreguem sarda em portos não nacionais têm que comunicar, até às 12:00 horas de cada segunda-feira, as descargas efetuadas até às 24:00 horas do domingo anterior, devendo utilizar para o efeito a funcionalidade disponibilizada no sítio da Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), em www.dgrm.mamaot.pt.
+Artigo 4.º
+Proibição de pesca
+1 -Por despacho do diretor-geral da DGRM, quando for atingido o limite fixado na alínea b) ou na alínea c) do n.º 1 do artigo 2.º, é encerrada a pesca e interdita a captura, a manutenção a bordo e a descarga de sarda capturada nas zonas referidas no artigo 1.º
+2 -Sem prejuízo de responsabilidade contraordenacional, caso se verifique que uma embarcação descarregou, numa determinada semana, uma quantidade de sarda superior à fixada no n.º 4 do artigo 2.º, o excesso descarregado é deduzido à quantidade disponível na segunda semana subsequente aquela em que se verificou o incumprimento do limite fixado e nas semanas seguintes, se necessário, para a regularização da sobrepesca verificada.
+3 -A interdição de pesca da sarda decorrente das situações de sobrepesca previstas no número anterior é transmitida aos armadores e, caso aplicável, às entidades competentes em matéria de controlo e fiscalização, na semana seguinte à verificação da ocorrência.
+Artigo 5.º
+Norma derrogatória
+A partir da entrada em vigor da presente portaria e até 31 de dezembro de 2014, não se aplicam a esta unidade populacional as disposições previstas na Portaria n.º 20/2013, de 22 de janeiro.
+Artigo 6.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de fevereiro de 2014.
