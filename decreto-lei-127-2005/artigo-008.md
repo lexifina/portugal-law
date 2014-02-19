@@ -8,20 +8,20 @@ b) Indicação da entidade gestora da ZIF;
 
 c) Carta com a delimitação da área territorial da ZIF e sua localização administrativa;
 
-d) Cadastro predial geométrico ou simplificado dos prédios abrangidos ou, na falta daquele, inventário da estrutura da propriedade na escala adequada à sua identificação;
+d) Cadastro geométrico dos prédios abrangidos ou, na sua falta, inventário da estrutura da propriedade;
 
 e) Projecto de regulamento interno;
 
-f) A acta da reunião realizada no âmbito da consulta prévia, validada pelo representante da AFN.
+f) Ata das reuniões realizadas no âmbito da consulta prévia, atestada pelo representante do ICNF, I.P..
 
-2 - Os documentos referidos no número anterior são publicitados durante 20 dias, através de anúncio no sítio da Internet da AFN e dos municípios abrangidos pela ZIF, bem como através de edital a afixar nas sedes das respectivas juntas de freguesia, encontrando-se disponíveis para consulta, nomeadamente:
+2 - Os documentos referidos no número anterior são publicitados durante 20 dias, através de anúncio no sítio da Internet do ICNF, I.P., e dos municípios abrangidos pela ZIF, bem como através de edital a afixar nas sedes das respetivas juntas de freguesia, encontrando-se disponíveis para consulta, nomeadamente:
 
-a) Nas respectivas unidades de gestão florestal da AFN;
+a) Nos serviços desconcentrados do ICNF, I.P.;
 
 b) Nos respectivos municípios abrangidos pela ZIF.
 
 3 - Os locais de consulta pública recebem os pedidos de esclarecimento e as sugestões efectuadas e remetem-nos ao núcleo fundador.
 
-4 - O núcleo fundador procede à análise e resposta dos esclarecimentos solicitados e das sugestões efectuadas durante o período de consulta pública e regista na acta a que se refere o n.º 2 do artigo seguinte a identificação e opinião de cada participante.
+4 - O núcleo fundador procede à análise e resposta aos esclarecimentos solicitados e às sugestões efetuadas durante o período de consulta pública, registando-as em relatório a apresentar na reunião de audiência final.
 
-5 - Nos casos em que não exista cadastro predial geométrico, o prazo para a elaboração dos elementos previstos na alínea d) do n.º 1 pode, por iniciativa do núcleo fundador e mediante autorização da DGRF, ser prorrogado pelo prazo máximo de um ano.
+5 - Nos casos em que não exista cadastro geométrico da propriedade rústica, o prazo para a elaboração dos elementos previstos na alínea d) do n.º 1 pode, por iniciativa do núcleo fundador e mediante autorização do conselho diretivo do ICNF, I.P., ser prorrogado por um prazo máximo de até três anos após a criação da ZIF.

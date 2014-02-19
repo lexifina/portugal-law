@@ -2,6 +2,6 @@
 
 ### Publicidade dos actos
 
-1 - Os despachos a que se referem os artigos 11.º e 12.º são publicados exclusivamente nos sítios da Internet da Autoridade Florestal Nacional e dos municípios envolvidos.
+1 - As decisões de alteração da delimitação territorial da ZIF ou da sua área e de extinção da ZIF, a que se referem os artigos 11.º e 12.º, são publicadas exclusivamente nos sítios da Internet do ICNF, I.P., e dos respetivos municípios.
 
-2 - Compete à Autoridade Florestal Nacional assegurar a publicidade e acessibilidade permanente dos despachos referidos no número anterior em local do respectivo sítio da Internet que assegure uma visibilidade adequada.
+2 - Cabe ao ICNF, I.P., assegurar a publicidade e acessibilidade permanente das deliberações referidas no número anterior em local do respetivo sítio da Internet que assegure a visibilidade adequada.

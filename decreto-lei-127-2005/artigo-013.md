@@ -4,11 +4,11 @@
 
 # Artigo 13.º
 
-### Gestão das zonas de intervenção florestal
+### Administração das zonas de intervenção florestal
 
-1 - A gestão de cada ZIF é assegurada pela respectiva entidade gestora.
+1 - A administração de cada ZIF é assegurada pela respetiva entidade gestora.
 
-2 - A entidade gestora deve possuir meios próprios ou contratados que assegurem a capacidade técnica adequada à gestão das ZIF, à respectiva área e estrutura da propriedade e às actividades a desenvolver no seu âmbito e possuir igualmente, nos termos da lei, contabilidade organizada.
+2 - A entidade gestora deve possuir meios próprios ou contratados que assegurem a capacidade técnica adequada à administração permanente da ZIF, bem como à respetiva área e estrutura da propriedade e às atividades a desenvolver no seu âmbito, e deve ainda dispor, nos termos da lei, de contabilidade organizada.
 
 3 - As entidades gestoras devem possuir centros de custos autónomos para cada ZIF.
 
