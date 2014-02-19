@@ -11,3 +11,5 @@
 4 - O texto definitivo do contrato é reduzido a escrito em tantos exemplares quantas as partes outorgantes e por elas assinados.
 
 5 - Os contratos-programa, ou seu extracto, são obrigatoriamente publicados na 2.ª série do Jornal Oficial.
+
+6 - Os contratos-programa serão preferencialmente celebrados com correspondência a um ano económico.

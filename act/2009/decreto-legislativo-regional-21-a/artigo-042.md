@@ -6,6 +6,6 @@
 
 2 - Os montantes são calculados a partir do valor base a que se refere o artigo 40.º do presente diploma, de acordo com os índices constantes do anexo iii do presente diploma, do qual faz parte integrante.
 
-3 - Quando mais de 50 % dos atletas forem formados no clube, os montantes referidos no número anterior são majorados em 50 %.
+3 - Quando mais de 80% dos atletas forem formados no clube, os montantes referidos no número anterior são majorados em 50 %.
 
 4 - Os apoios resultantes da aplicação do presente artigo são reduzidos em 50 % sempre que os clubes desçam de divisão ou nível competitivo.

@@ -2,7 +2,7 @@
 
 ### Professor acompanhante e compensação educativa
 
-1 - Nos estabelecimentos de ensino frequentados por atletas em regime de alto rendimento e jovens talentos regionais deve ser designado, pelo órgão executivo da unidade orgânica, um docente para acompanhar a evolução do seu aproveitamento escolar, detectar eventuais dificuldades e propor medidas para a sua resolução.
+1 - Nos estabelecimentos de ensino frequentados por atletas em regime de alto rendimento e jovens talentos regionais deve ser designado, pelo órgão executivo da unidade orgânica, um docente para acompanhar a evolução do seu aproveitamento escolar, detetar eventuais dificuldades e propor medidas para a sua resolução, o qual não pode enquadrar mais de 3 alunos.
 
 2 - Durante o período lectivo, o professor acompanhante tem direito a receber uma gratificação mensal no valor de 15 % do índice 108 da tabela remuneratória da carreira dos educadores de infância e dos professores dos ensinos básico e secundário, processada pela escola onde preste serviço.
 

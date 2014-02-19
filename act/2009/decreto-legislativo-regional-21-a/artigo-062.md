@@ -4,7 +4,7 @@
 
 1 - Os atletas em regime de alto rendimento podem ser dispensados da prestação de trabalho pelas entidades empregadoras, pelo tempo necessário à sua preparação e participação desportivas, a pedido da direcção regional competente em matéria de desporto, sendo tais ausências caracterizadas como faltas justificadas não remuneradas.
 
-2 - Não sendo concedida a dispensa, e caso estejam esgotadas outras vias de resolução negociada, podem os atletas ser requisitados, por despacho do director regional competente em matéria de desporto, com fundamento no interesse público das provas em que participam.
+2 - Não sendo concedida a dispensa, e caso estejam esgotadas outras vias de resolução negociada, podem os atletas ser requisitados, por despacho do membro do Governo Regional com competência em matéria de desporto, com fundamento no interesse público das provas em que participam.
 
 3 - Nos casos referidos nos números anteriores, o pagamento da retribuição é assegurado pelo organismo da administração regional competente em matéria de desporto, através das verbas afectas ao apoio ao desporto de alto rendimento.
 

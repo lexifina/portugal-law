@@ -2,7 +2,7 @@
 
 ### Regime escolar
 
-1 - A direcção regional competente em matéria de desporto pode determinar a isenção dos atletas em regime de alto rendimento e dos jovens talentos regionais da aplicação das normas referentes à distribuição de alunos pelos estabelecimentos de ensino.
+1 - A direção regional competente em matéria de educação pode, mediante solicitação da direção regional competente em matéria de desporto, determinar a isenção dos atletas em regime de alto rendimento e dos jovens talentos regionais da aplicação das normas referentes à distribuição de alunos pelos estabelecimentos de ensino.
 
 2 - Aos atletas em regime de alto rendimento e aos jovens talentos regionais devem ser facultados os horários escolares e o regime de frequência por forma a optimizar a conciliação entre estes e a sua preparação desportiva.
 
@@ -15,3 +15,5 @@
 6 - Quando se trate de atletas no regime de alto rendimento, o disposto no número anterior pode ser alargado ao período de preparação anterior à competição.
 
 7 - A alteração da data das provas de avaliação e a fixação de épocas especiais devem ser requeridas pelo aluno, que para tanto deve apresentar declaração comprovativa emitida pela direcção regional competente em matéria de desporto.
+
+8 - Compete à direção regional competente em matéria de educação acompanhar e assegurar a boa aplicação das medidas previstas nos números anteriores.

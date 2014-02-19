@@ -40,7 +40,7 @@ a) 25 % quando o clube tenha mantido, de forma ininterrupta, durante os últimos
 
 b) Até 75 % em função da realidade desportiva e da modalidade, das qualificações do treinador, das distâncias a percorrer e de outras orientações a estabelecer em documento orientador a elaborar pelo departamento da administração regional autónoma competente em matéria de desporto e a fixar no contrato-programa.
 
-7 - O apoio determinado é devido em duas prestações iguais e processado nas condições a fixar no respectivo contrato-programa.
+7 - O apoio determinado é devido, no mínimo, em duas prestações e processado nas condições a fixar no respetivo contrato-programa.
 
 8 - Os clubes desportivos que utilizem instalações desportivas próprias para as actividades de treino e competição dos escalões de formação podem beneficiar de apoio por parte do departamento da administração regional autónoma competente em matéria de desporto, que é calculado atendendo aos seguintes indicadores:
 
