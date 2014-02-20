@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "192807",
+  "tipo": "Intervenção",
+  "orador": "Michael Seufert (CDS-PP)",
+  "data_registo": "2014-02-20",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "29780",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29780",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre as medidas anunciadas pelo Governo no sentido da autonomia das escolas."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "As medidas anunciadas pelo Governo no sentido da autonomia das escolas.",
+        "duracao": "00:05:48:432",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140220pln&url=l12/sl3/a2014/m02/&tI=00:52:04:294&drc=00:05:48:432"
+      },
+      {
+        "assunto": "Responde a Maria José Castelo Branco e Agostinho Santa acerca da sua declaração sobre as medidas anunciadas pelo Governo no sentido da autonomia das escolas.",
+        "duracao": "00:04:56:567",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140220pln&url=l12/sl3/a2014/m02/&tI=01:04:52:169&drc=00:04:56:567"
+      },
+      {
+        "assunto": "Responde a Luís Fazenda e Rita Rato acerca da sua declaração sobre as medidas anunciadas pelo Governo no sentido da autonomia das escolas.",
+        "duracao": "00:04:10:110",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140220pln&url=l12/sl3/a2014/m02/&tI=01:18:34:235&drc=00:04:10:110"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-02-20",
+    "Debate": null,
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "4157",
+      "nome": "Michael Seufert"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "192807",
+    "IdDebate": "4761",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "192807",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "17-18",
+          "20-21",
+          "23-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-02-21",
+        "pubLeg": "XII",
+        "pubNr": "52",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/052/2014-02-21/17?pgs=17-18,20-21,23-25&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde aos Pedidos de Esclarecimento dos Deputados Maria José Castelo Branco ((PSD), Agostinho Santa (PS), Luis fazenda (BE) e Rita Rato (PCP)",
+    "Sessao": "3",
+    "Sumario": "Sobre as medidas anunciadas pelo Governo no sentido da autonomia das escolas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
