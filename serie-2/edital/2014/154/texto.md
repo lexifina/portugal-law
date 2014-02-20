@@ -1,0 +1,7 @@
+Edital n.º 154/2014
+Eduardo Duarte Casinhas, presidente da Junta de Freguesia da União das Freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim) faz público, no uso da sua competência que, a proposta de Regulamento e tabela de taxas e licenças da União das Freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim), foi aprovada pelo órgão executivo na sua reunião de 5 de fevereiro de 2014, e será submetida a apreciação pública e audição dos interessados, nos termos dos artigos 117.º e 118.º do CPA, pelo prazo de 30 (trinta) dias. O prazo de 30 dias é contado, a partir da publicação de aviso em 2.ª série do Diário da República.
+Assim, torna-se público que a proposta acima referida, encontra-se também disponível na sede desta Junta de Freguesia, na Rua Câmara Pestana, 29, A e B, 2710-546 Sintra, onde pode ser consultada, bem como nas delegações da Junta de Freguesia: Delegação da Várzea, sita no Caminho do Murtal, 14, 2710-663 Sintra; Delegação da Vila, sita na Praça da República, 3, B, 2710-616 Sintra e na Delegação de São Pedro, sita na Calçada de São Pedro, 56, São Pedro, 2710-507 Sintra.
+Os eventuais contributos podem ser endereçados para o fax 219100399, e-mail geral@uniaodasfreguesias-sintra.pt ou, para a morada da sede acima referida.
+Para constar se lavrou o presente edital e outros de igual teor a serem afixados nos lugares de estilo.
+7 de fevereiro de 2014. - O Presidente, Eduardo Duarte Casinhas.
+307612286
