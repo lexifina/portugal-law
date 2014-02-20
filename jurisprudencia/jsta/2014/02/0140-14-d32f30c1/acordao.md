@@ -1,0 +1,29 @@
+# Acórdão do Supremo Tribunal Administrativo de 2014-02-20, processo 0140/14
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0140/14
+
+**Data do Acordão:** 02/20/2014
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** ABEL ATANÁSIO
+
+**Descritores:** ESTRADA NACIONAL; PUBLICIDADE; LICENCIAMENTO; COMPETÊNCIA; APRECIAÇÃO PRELIMINAR
+
+**Nº Convencional:** JSTA000P17128
+
+**Nº do Documento:** SA1201402200140
+
+**Data de Entrada:** 02/06/2014
+
+**Recorrente:** B..., SA
+
+**Recorrido 1:** A..., SA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+É questão de importância fundamental, justificando a admissão do recurso de revista, a que respeita à competência para aprovação ou licenciamento de afixação de tabuletas ou objectos de publicidade à margem ou na zona de protecção às estradas nacionais ou delas visível, por implicar a análise e compatibilização de diversos diplomas legais e dos regimes jurídicos que se sucederam nestes domínios e se mostrar susceptível de repetir-se num número indeterminado de casos futuros.
