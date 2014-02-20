@@ -1,0 +1,6 @@
+Aviso n.º 31/2014
+Por ordem superior se torna público que, em 8 de julho de 2013, a República da Eslováquia depositou junto do Secretário-Geral da Organização Marítima Internacional, na qualidade de depositário, o seu instrumento de adesão ao Protocolo de 2003 à Convenção Internacional para a Constituição de Um Fundo Internacional para a Compensação pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, de 1992, adotado em Londres, no Reino Unido, em 16 de maio de 2003.
+O Protocolo de 2003 entrará em vigor para a República da Eslováquia em 8 de julho de 2014.
+Portugal é Parte do Protocolo, aprovado pelo Decreto n.º 1/2005, publicado no Diário da República, 1.ª série A, n.º 20, de 28 de janeiro de 2005, tendo depositado o respetivo instrumento de ratificação em 15 de fevereiro de 2005, conforme o Aviso n.º 117/2005, publicado no Diário da República, 1.ª série A, n.º 74, de 15 de abril de 2005.
+Portugal é parte da Convenção, aprovada para ratificação pelo Decreto do Governo n.º 13/85, publicado no Diário da República, 1.ª série, n.º 140, de 21 de junho de 1985, tendo depositado o respetivo instrumento de ratificação em 11 de setembro de 1985, conforme Aviso publicado no Diário da República, 1.ª série, n.º 237, de 15 de outubro de 1985.
+Direção-Geral de Política Externa, 10 de fevereiro de 2014. - O Subdiretor-Geral, Rui Vinhas.
