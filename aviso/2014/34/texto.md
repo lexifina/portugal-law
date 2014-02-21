@@ -1,0 +1,6 @@
+Aviso n.º 34/2014
+Por ordem superior se torna público que, em 26 de dezembro de 2013, o Reino de Espanha depositou, junto do Governo da República Portuguesa, na qualidade de depositário, o seu instrumento de ratificação do Acordo de Cooperação Para a Proteção das Costas e Águas do Atlântico Nordeste Contra a Poluição, adotado em Lisboa, em 17 de outubro de 1990.
+ENTRADA EM VIGOR
+Em conformidade com o disposto no n.º 3 do Artigo 22.º do Acordo de Cooperação Para a Proteção das Costas e Águas do Atlântico Nordeste Contra a Poluição, adotado em Lisboa, em 17 de outubro de 1990, este entra em vigor no primeiro dia do segundo mês após a data em que todos os Signatários do Acordo tenham depositado um instrumento de ratificação, aceitação ou aprovação. Com o depósito do instrumento de ratificação do Reino de Espanha, e depositados que estão os instrumentos de ratificação, aceitação ou aprovação de todos os Signatários, o Acordo entrou em vigor a 1 de fevereiro de 2014.
+A República Portuguesa é Parte do Acordo, aprovado, para ratificação, pelo Decreto n.º 37/91, publicado no Diário da República, 1.ª série-A, n.º 114, de 18 de maio de 1991.
+Direção-Geral de Política Externa, 10 de fevereiro de 2014. - O Subdiretor-Geral, Rui Vinhas.
