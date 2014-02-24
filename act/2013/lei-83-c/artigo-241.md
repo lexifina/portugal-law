@@ -12,7 +12,7 @@ i) Um regime fiscal neutro, passando a tributação para a esfera dos investidor
 
 ii) Imposição de uma distribuição anual mínima, consoante o tipo de organismo de investimento coletivo, até 90 % dos resultados; e
 
-iii) Criação de uma verba no âmbito da Tabela Geral do Imposto do Selo, e ou de uma tributação autónoma em sede de IRC, correspondente a uma percentagem fixa, entre os 0,01 % e os 0,2 %, sobre o valor líquido dos ativos;
+iii) Criação de uma verba no âmbito da tabela geral do imposto do selo, e ou de uma tributação autónoma em sede de IRC, correspondente a uma percentagem fixa, entre os 0,01 % e os 0,2 %, sobre o valor líquido dos ativos, e ou tributação em sede de IRC à taxa legal em vigor, sobre 1 % do resultado líquido auferido pelo organismo de investimento coletivo;
 
 b) Rever o regime de tributação na esfera dos investidores residentes e não residentes quanto aos factos tributáveis relevantes em sede de IRS e IRC, nomeadamente quanto:
 
