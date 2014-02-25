@@ -41,3 +41,27 @@ g) Possibilidade de autofinanciamento e gestão de receitas que lhe estão consi
 h) Aquisição de bens e serviços e execução de obras, dentro de limites a definir;
 
 i) Desenvolvimento de uma cultura de avaliação nos domínios da avaliação interna da escola, da avaliação dos desempenhos docentes e da avaliação da aprendizagem dos alunos, orientada para a melhoria.
+
+5 - Sem prejuízo da obrigatoriedade do cumprimento da carga curricular semanal igual ou superior ao total definido na matriz curricular nacional para cada ano, ciclo, nível e modalidade de educação e formação, tendo em conta as especificidades de cada turma, é permitido às escolas com contrato de autonomia:
+
+a) Decidir, de acordo com os limites previstos no n.º 6, o tempo letivo a atribuir a cada disciplina ou área disciplinar;
+
+b) Gerir livremente, ao longo do ano letivo e do ciclo de estudos, o tempo letivo atribuído a cada disciplina ou área disciplinar;
+
+c) Oferecer, dentro do tempo curricular total anual, outras disciplinas ou áreas disciplinares complementares, em função do seu projeto educativo;
+
+d) Gerir a distribuição das diferentes disciplinas em cada ano ao longo do ciclo de escolaridade, exceto nas disciplinas de Português e Matemática.
+
+6 - As escolas com contrato de autonomia ficam impedidas de:
+
+a) Atribuir a cada disciplina ou área disciplinar uma carga horária total inferior a 75% do tempo mínimo previsto na matriz curricular nacional;
+
+b) Atribuir às disciplinas de Português e Matemática uma carga horária total inferior ao tempo mínimo previsto na matriz curricular nacional;
+
+c) Atribuir a qualquer disciplina prevista na matriz curricular nacional uma carga horária total inferior a 45 minutos por semana.
+
+7 - A implementação das decisões referidas no n.º 5 carece do parecer favorável do conselho pedagógico e da aprovação do conselho geral.
+
+8 - As escolas obrigam-se a divulgar a comunidade educativa, em período anterior à efetivação das matrículas, as decisões tomadas relativas à gestão flexível do currículo.
+
+9 - Para a realização dos cálculos da carga horária previstos nos números anteriores, considera-se o número de semanas de atividades letivas previsto no calendário escolar.
