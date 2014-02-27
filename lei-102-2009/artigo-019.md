@@ -8,7 +8,7 @@ a) As matérias referidas na alínea j) do n.º 1 do artigo anterior;
 
 b) As medidas e as instruções a adoptar em caso de perigo grave e iminente;
 
-c) As medidas de primeiros socorros, de combate a incêndios e de evacuação dos trabalhadores em caso de sinistro, bem como os trabalhadores ou serviços encarregues de as pôr em prática.
+c) As medidas de emergência e primeiros socorros, de evacuação de trabalhadores e de combate a incêndios, bem como os trabalhadores ou serviços encarregues de as pôr em prática.
 
 2 - Sem prejuízo da formação adequada, a informação a que se refere o número anterior deve ser sempre disponibilizada ao trabalhador nos seguintes casos:
 

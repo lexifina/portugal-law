@@ -1,6 +1,6 @@
-## Secção II
+## Capítulo VI
 
-## Actividades proibidas ou condicionadas em geral
+## Atividades proibidas ou condicionadas em geral
 
 # Artigo 48.º
 

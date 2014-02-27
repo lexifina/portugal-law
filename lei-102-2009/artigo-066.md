@@ -8,7 +8,7 @@ a) Risco de desabamento;
 
 b) Manipulação de aparelhos de produção, de armazenamento ou de utilização de gases comprimidos, liquefeitos ou dissolvidos;
 
-c) Utilização de cubas, tanques, reservatórios, garrafas ou botijas que contenham agentes, substâncias ou preparações químicos referidos no artigo 64.º;
+c) Utilização de cubas, tanques, reservatórios, garrafas ou botijas que contenham agentes químicos, substâncias ou misturas referidos no artigo 64.º;
 
 d) Condução ou operação de veículos de transporte, tractores, empilhadores e máquinas de terraplanagem;
 

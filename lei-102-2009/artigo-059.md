@@ -4,24 +4,40 @@
 
 São condicionadas à trabalhadora grávida, puérpera ou lactante as actividades em que exista ou possa existir o risco de exposição a:
 
-a) Substâncias químicas e preparações perigosas qualificadas com uma ou mais das advertências de risco seguintes:
+a) Substâncias perigosas classificadas numa ou mais das seguintes classes de perigo:
 
-«R 40 - possibilidade de efeitos irreversíveis»;
+i) Carcinogenicidade, categorias 1A, 1B ou 2;
 
-«R 45 - pode causar cancro»;
+ii) Toxicidade reprodutiva, categoria 2,
 
-«R 49 - pode causar cancro por inalação»;
+nos termos do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas;
 
-«R 63 - possíveis riscos durante a gravidez de efeitos indesejáveis na descendência», nos termos da legislação sobre a classificação, embalagem e rotulagem das substâncias e preparações perigosas;
+b) Até 31 de maio de 2015, misturas perigosas qualificadas com uma ou mais das advertências de risco seguintes:
 
-b) Auramina;
+i) 'R 40 - possibilidade de efeitos cancerígenos';
 
-c) Mercúrio e seus derivados;
+ii) 'R 45 - pode causar cancro';
 
-d) Medicamentos antimitóticos;
+iii) 'R 49 - pode causar cancro por inalação';
 
-e) Monóxido de carbono;
+iv) 'R 63 - possíveis riscos durante a gravidez de efeitos indesejáveis na descendência', nos termos do Decreto-Lei n.º 82/2003, de 23 de abril, alterado pelos Decretos-Leis n.os 63/2008, de 2 de abril, e 155/2013, de 5 de novembro;
 
-f) Agentes químicos perigosos de penetração cutânea formal;
+c) A partir de 1 de junho de 2015, misturas perigosas classificadas numa ou mais das seguintes classes de perigo:
 
-g) Substâncias ou preparações que se libertem nos processos industriais referidos no artigo seguinte.
+i) Carcinogenicidade, categorias 1A, 1B ou 2;
+
+ii) Toxicidade reprodutiva, categoria 2,
+
+nos termos do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas;
+
+d) Auramina;
+
+e) Mercúrio e seus derivados;
+
+f) Medicamentos antimitóticos;
+
+g) Monóxido de carbono;
+
+h) Agentes químicos perigosos de penetração cutânea formal;
+
+i) Substâncias ou misturas que se libertem nos processos industriais referidos no artigo seguinte.

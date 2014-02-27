@@ -8,7 +8,7 @@ a) As condições de trabalho dos trabalhadores da entidade requerente;
 
 b) As instalações tendo em conta as condições de funcionamento no âmbito da segurança;
 
-c) As situações de subcontratação;
+c) As situações de subcontratação, nos termos da alínea e) do n.º 1 do artigo 85.º;
 
 d) O funcionamento dos serviços a prestar na área da segurança no trabalho, nomeadamente quanto aos equipamentos de trabalho a utilizar, aos utensílios e equipamentos de avaliação de riscos e de protecção individual;
 

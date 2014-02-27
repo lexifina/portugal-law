@@ -26,4 +26,4 @@ j) A realização em instalações frigoríficas em que possa existir risco de f
 
 l) A realização em matadouros, talhos, peixarias, aviários, fábricas de enchidos ou conservas de carne ou de peixe, depósitos de distribuição de leite e queijarias.
 
-2 - Nos casos de violação do disposto nas alíneas b) a d) do número anterior são solidariamente responsáveis pelo pagamento da coima as entidades executantes.
+2 - Nos casos de violação do disposto nas alíneas b) a d) do número anterior a responsabilidade contraordenacional recai sobre o empregador e as entidades executantes.

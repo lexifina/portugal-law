@@ -6,6 +6,6 @@
 
 2 - Para efeitos do disposto no número anterior, as organizações de empregadores e trabalhadores com assento na Comissão Permanente de Concertação Social (CPCS) devem integrar:
 
-a) O Conselho Nacional de Higiene e Segurança no Trabalho (CNHST);
+a) (Revogada);
 
 b) O Conselho Consultivo para a Promoção da Segurança e Saúde no Trabalho da Autoridade para as Condições do Trabalho.

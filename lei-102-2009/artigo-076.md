@@ -12,7 +12,7 @@ c) Aprendiz ao serviço de um artesão;
 
 d) Trabalhador do serviço doméstico;
 
-e) Trabalhador da actividade de pesca em embarcações com comprimento até 15 m não pertencentes a frota pesqueira de armador ou empregador equivalente;
+e) Trabalhador da atividade de pesca em embarcação com comprimento inferior a 15 m cujo armador não explore mais do que duas embarcações de pesca até esse comprimento;
 
 f) Trabalhadores de microempresas que não exerçam actividade de risco elevado.
 

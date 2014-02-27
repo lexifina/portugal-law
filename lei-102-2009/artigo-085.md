@@ -4,7 +4,7 @@
 
 1 - A autorização de serviço externo depende da verificação dos seguintes requisitos:
 
-a) Quadro técnico mínimo constituído por um técnico superior e um técnico de segurança no trabalho e por um médico do trabalho que exerçam as respectivas actividades de segurança ou de saúde;
+a) Disponibilidade permanente de, no mínimo, um técnico superior e um técnico de segurança no trabalho e disponibilidade de um médico do trabalho, que exerçam as respetivas atividades de segurança ou de saúde;
 
 b) Instalações adequadas e equipadas para o exercício da actividade;
 
@@ -12,7 +12,7 @@ c) Equipamentos e utensílios de avaliação das condições de segurança e sa�
 
 d) Qualidade técnica dos procedimentos, nomeadamente para avaliação das condições de segurança e de saúde e planeamento das actividades;
 
-e) Capacidade para o exercício das actividades previstas no n.º 1 do artigo 98.º, sem prejuízo de recurso a subcontratação apenas em relação a tarefas de elevada complexidade ou pouco frequentes nos sectores e actividades para os quais é solicitada autorização;
+e) Capacidade para o exercício das atividades previstas no n.º 1 do artigo 98.º, sem prejuízo do recurso a subcontratação apenas para a execução de outras tarefas de elevada complexidade ou pouco frequentes;
 
 f) Garantias suficientes em relação às medidas de segurança técnica e de organização dos tratamentos de dados pessoais a efectuar.
 
@@ -22,7 +22,7 @@ f) Garantias suficientes em relação às medidas de segurança técnica e de or
 
 a) O número de técnicos com as qualificações legalmente exigidas, tendo em conta as actividades dos domínios de segurança e de saúde para que se pede autorização;
 
-b) A natureza dos vínculos, assim como dos períodos normais de trabalho do pessoal técnico superior e técnico de segurança e higiene do trabalho e dos tempos mensais de afectação ao médico do trabalho e enfermeiro;
+b) A natureza dos vínculos, assim como dos períodos normais de trabalho do pessoal técnico superior e técnico de segurança do trabalho e dos tempos mensais de afetação ao médico do trabalho e enfermeiro;
 
 c) A conformidade das instalações e dos equipamentos com as prescrições mínimas de segurança e de saúde no trabalho para a actividade de escritório e serviços;
 
@@ -35,3 +35,5 @@ f) As características dos equipamentos e utensílios a utilizar na avaliação 
 g) Os procedimentos no domínio da metrologia relativos aos equipamentos e utensílios referidos na alínea anterior.
 
 4 - O manual de procedimentos é tomado em consideração na apreciação da qualidade técnica dos mesmos.
+
+5 - São tidos por cumpridos os requisitos equivalentes ou que visem essencialmente a mesma finalidade a que o requerente já tenha sido submetido, designadamente noutro Estado membro do Espaço Económico Europeu.

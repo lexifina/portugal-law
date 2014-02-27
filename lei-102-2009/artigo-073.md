@@ -1,4 +1,4 @@
-## Capítulo VI
+## Capítulo IX
 
 ## Serviços da segurança e da saúde no trabalho
 

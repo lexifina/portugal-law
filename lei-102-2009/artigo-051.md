@@ -1,6 +1,6 @@
-## Subsecção I
+## Secção I
 
-## Actividades proibidas a trabalhadora grávida e lactante
+## Atividades proibidas a trabalhadora grávida e lactante
 
 # Artigo 51.º
 

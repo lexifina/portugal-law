@@ -4,12 +4,12 @@
 
 É proibida à trabalhadora grávida a realização de qualquer actividade em que possa estar em contacto com:
 
-a) As substâncias químicas perigosas qualificadas com uma ou mais advertências de risco seguintes:
+a) As substâncias perigosas classificadas numa ou mais das seguintes classes de perigo:
 
-«R 46 - pode causar alterações genéticas hereditárias»;
+i) Mutagenicidade em células germinativas, categorias 1A ou 1B;
 
-«R 61 - risco durante a gravidez com efeitos adversos na descendência»;
+ii) Toxicidade reprodutiva, categorias 1A, 1B ou com efeitos sobre a lactação ou através dela,
 
-«R 64 - pode causar dano nas crianças alimentadas com leite materno», nos termos da legislação sobre a classificação, embalagem e rotulagem das substâncias e preparações perigosas;
+nos termos do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas;
 
 b) O chumbo e seus compostos na medida em que esses agentes podem ser absorvidos pelo organismo humano.

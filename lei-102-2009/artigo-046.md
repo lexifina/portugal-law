@@ -18,7 +18,7 @@ e) Identificação do médico responsável pela vigilância da saúde.
 
 3 - Os registos e arquivos referidos nos números anteriores são conservados durante, pelo menos, 40 anos após ter terminado a exposição dos trabalhadores a que digam respeito.
 
-4 - Se a empresa cessar a actividade, os registos e arquivos devem ser transferidos para o organismo competente do ministério responsável pela área laboral que assegura a sua confidencialidade.
+4 - Se a empresa cessar a atividade, os registos e arquivos devem ser transferidos para o organismo competente do membro do Governo responsável pela área laboral, com exceção das fichas clínicas, que devem ser enviadas para o organismo competente do ministério responsável pela área da saúde, os quais asseguram a sua confidencialidade.
 
 5 - Todos os tratamentos de dados pessoais referidos no n.º 1 deverão respeitar a legislação disciplinadora da protecção de dados pessoais.
 
