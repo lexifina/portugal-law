@@ -1,0 +1,166 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "203",
+    "id": "38191",
+    "titulo": "Estabelece o regime de acesso e de exercício da profissão de podologista, com ou sem fins lucrativos, bem como da emissão do respetivo título profissional."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-02-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "33009",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-07-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-02-28",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-07-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do GP do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d32596a5a695a5745354c57526a4d6d45744e4459354d7930345a446b794c5749314f44686b4d6d51345a6a466c4f4335515245593d&fich=c6b6bea9-dc2a-4693-8d92-b588d2d8f1e8.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração dos GPs do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251784d4441774f5468684c5467344e3251744e44426c4e6931695a6a6b354c57557a4e446b305a6d4d325a545135596935515245593d&fich=d100098a-887d-40e6-bf99-e3494fc6e49b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-08",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório das Votações na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67355a5467315a5459334c5751794f4467744e47526d4d7930354f5456684c5749354d575977595459784d544931597935515245593d&fich=89e85e67-d288-4df3-995a-b91f0a61125c.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-08",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245334f4446694d5441324c574978595451744e44597a4d533034596a59794c575532597a4a6d5a6a52694d6a41315a6935515245593d&fich=a781b106-b1a4-4631-8b62-e6c2ff4b205f.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório e  texto  final, bem como propostas de alteração apresentadas pelo PSD/CDS-PP  BE",
+            "pag": [
+              "15-22"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-07-08",
+            "pubLeg": "XII",
+            "pubNr": "142",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/142/2014-07-08/15?pgs=15-22&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório e  texto  final, bem como propostas de alteração apresentadas pelo PSD/CDS-PP  BE",
+            "pag": [
+              "15-22"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-07-08",
+            "pubLeg": "XII",
+            "pubNr": "142",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/142/2014-07-08/15?pgs=15-22&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-07-07",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-07-02",
+            "descricao": "Texto Final apreciação Artigo a Artigo",
+            "detalhe": null,
+            "id": "66995",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "208",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-02-28",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296137",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
