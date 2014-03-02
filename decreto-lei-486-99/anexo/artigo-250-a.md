@@ -10,4 +10,4 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 2 - O disposto nas alíneas b) e d) do n.º 2 e no n.º 4 do artigo 249.º não se aplica ao Estado e suas autoridade regionais e locais.
 
-3 - A presente subsecção não é aplicável a valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.
+3 - A presente subsecção não é aplicável a valores mobiliários representativos de dívida emitidos por prazo inferior a um ano, salvo o que diferentemente se estabeleça em legislação especial.
