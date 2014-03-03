@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "209",
+  "id": "38280",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-03-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d4a69597a51344e5445744f546730596930304d544e6d4c546b7a4e546b74597a41775a4463314d3259314d544a6d4c6e426b5a673d3d&fich=2bbc4851-984b-413f-9359-c00d753f512f.pdf&Inline=true",
+        "anexoNome": "Parecer CRAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a444d334d54677a4d5751745a446b344d5330304d325a6a4c574a6c4d3249744d4759304e3245305932557a4e7a51354c6e426b5a673d3d&fich=d371831d-d981-43fc-be3b-0f47a4ce3749.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a6c694e7a4d7a4d5441745a57526a4e4330305a6a4e6c4c574a6a596a67745a4751354f4445774e7a6b794e5441344c6e426b5a673d3d&fich=f9b73310-edc4-4f3e-bcb8-dd9810792508.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a63794d474e684f444d744e544e684f5330304d6a4d324c5749794e6a6b744e7a55324d446334595463354d44566d4c6e426b5a673d3d&fich=f720ca83-53a9-4236-b269-756078a7905f.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38280",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4449324e6d557a5a5449744e32557a4f433030596d45354c5467795a6a63745a6a4d3559544e6d4e446b774d6d59334c6d527659773d3d&fich=0266e3e2-7e38-4ba9-82f7-f39a3f4902f7.doc&Inline=true",
+    "IniNr": "209",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o regime de acesso e exercício da atividade de artista tauromáquico e de auxiliar de espetáculo tauromáquico.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
