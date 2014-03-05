@@ -1,0 +1,6 @@
+Aviso n.º 3295/2014
+Gil Nadais Resende da Fonseca, Presidente da Câmara Municipal de Águeda, torna público que, por deliberação da reunião de Câmara de 18 de fevereiro de 2014, e nos termos do n.º 1 do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na sua atual redação, durante o prazo de 30 dias úteis a contar da publicação no Diário da República, é submetido a apreciação pública o "Projeto de Regulamento do Procurador da Qualidade de Vida do Cidadão Aguedense", cujo texto pode ser consultado no site da Câmara Municipal de Águeda (www.cm-agueda.pt) ou no GAM - Gabinete de Atendimento ao Munícipe, situado nos Paços do Concelho.
+De acordo com o n.º 2 do artigo 118.º, convidam-se todos os interessados a remeter por escrito a esta Câmara as eventuais reclamações, sugestões, observações e propostas dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal de Águeda, Praça do Município, 3754-500 Águeda, ou para o email presidente@cm-agueda.pt.
+Para constar e devidos efeitos se publica este aviso e outros de igual teor, que vão ser afixados nos locais públicos habituais.
+19 de fevereiro de 2014. - O Presidente da Câmara, Gil Nadais Resende da Fonseca.
+307633702
