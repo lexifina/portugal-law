@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2014-03-06, processo 01502/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01502/13
+
+**Data do Acordão:** 03/06/2014
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** SÃO PEDRO
+
+**Descritores:** PRAZO; EXECUÇÃO DE SENTENÇA
+
+**Nº Convencional:** JSTA00068617
+
+**Nº do Documento:** SA12014030601502
+
+**Data de Entrada:** 11/04/2013
+
+**Recorrente:** ORDEM DOS TÉCNICOS OFICIAIS DE CONTAS
+
+**Recorrido 1:** A............
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC REVISTA EXCEPC.
+
+**Objecto:** AC TCAS.
+
+**Decisão:** PROVIDO
+
+**Área Temática 1:** DIR ADM CONT.
+
+**Legislação Nacional:** CONST76 ART20 ART268 N4.; CCIV66 ART279.; CPC96 ART144 ART145.; CPTA02 ART58 N3 ART175 N2 ART176 N2 ART279.
+
+**Jurisprudência Nacional:** AC STAPLENO PROC048017A DE 2006/02/02.; AC STAPLENO PROC024690A DE 2006/01/25.; AC STA PROC0941A/05 DE 2010/01/28.; AC STA PROC01767/13 DE 2014/01/14.; AC STA PROC015117 DE 1993/04/21.; AC STA PROC025789 DE 2001/07/04.
+
+**Referência a Doutrina:** PIRES DE LIMA - RLJ ANO93 PAG79.; VAZ SERRA - RLJ ANO94 PAG317.; VAZ SERRA - RLJ ANO98 PAG249.; ANTUNES VARELA - RLJ ANO103 PAG300.; MÁRIO AROSO DE ALMEIDA E OUTRO - COMENTÁRIO AO CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS 3ED PAG389.; MÁRIO ESTEVES DE OLIVEIRA E OUTRO - CÓDIGO DE PROCESSO NOS TRIBUNAIS ADMINISTRATIVOS VOLI 2004 PAG381.
+
+## Sumário
+
+O artº. 145º do CPC não é aplicável ao prazo previsto no artº. 176, 2 do CPTA.
