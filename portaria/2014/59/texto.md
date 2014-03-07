@@ -1,0 +1,29 @@
+Portaria n.º 59/2014
+de 7 de março
+O Estatuto do Ensino Particular e Cooperativo (EEPC) de nível não superior publicado em anexo ao Decreto-Lei n.º 152/2013, de 4 novembro, consagrou, com especial relevo, a atribuição de autonomia pedagógica às escolas do ensino particular e cooperativo, por ele abrangidas.
+Nos termos do Estatuto, a autonomia pedagógica e organizativa constitui-se como o direito conferido às escolas de poderem tomar as suas próprias decisões nos domínios da oferta formativa, da gestão dos currículos, dos programas e atividade educativas, da avaliação, orientação e acompanhamento dos alunos, constituição de turmas, gestão de espaços, dos tempos escolares e do seu pessoal.
+A autonomia consagrada, designadamente na vertente pedagógica e organizativa, confere às escolas do ensino particular e cooperativo, à semelhança do que acontece já em alguns contratos de autonomia das escolas públicas, a capacidade de poderem proceder à gestão flexível do currículo, tendo em conta o seu projeto educativo e o correspetivo aprofundamento das obrigações de informação sobre a mesma. São agora estabelecidas as regras a aplicar a esta gestão flexível, permitindo-lhes fazer uso de uma percentagem das horas definidas nas matrizes curriculares em vigor, sem com isso, pôr em causa o cumprimento dos programas e metas curriculares, do número total de horas curriculares legalmente estabelecidas para cada ano, nível e modalidade de ensino, permitindo-lhes, também, criar e ampliar planos curriculares próprios ou oferecer disciplinas de enriquecimento ou complemento do currículo.
+Importa, no entanto, definir e fixar os termos de efetivação da flexibilidade do currículo por forma a garantir uma clara aproximação dos dois sistemas de ensino, no que ao caso diz respeito.
+Foram ouvidas as associações representativas dos estabelecimentos do ensino particular e cooperativo.
+Assim, nos termos do n.º 3 do artigo 37.º do anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro, designado como Estatuto do Ensino Particular e Cooperativo de nível não superior, manda o Governo, pelo Secretário de Estado do Ensino e da Administração Escolar, no uso das competências que lhe foram delegadas pelo Ministro da Educação e Ciência, através do despacho n.º 4654/2013, publicado no Diário da República, 2.ª série, n.º 65, de 3 de abril de 2013, o seguinte:
+Artigo 1.º
+Âmbito de aplicação
+A presente portaria aplica-se aos estabelecimentos do ensino particular e cooperativo abrangidos pelo EEPC.
+Artigo 2.º
+Objeto
+A presente portaria fixa os termos da gestão flexível do currículo, no âmbito da autonomia pedagógica das escolas particulares e cooperativas a que se refere o artigo 37.º do Decreto-lei n.º 152/2013, de 4 de novembro.
+Artigo 3.º
+Âmbito da autonomia
+1. Às escolas do ensino particular e cooperativo é conferida a faculdade de poderem gerir, de forma flexível nos termos dos números seguintes, a carga horária das diferentes disciplinas curriculares, desde que cumpram em cada ciclo de estudos e relativamente a cada disciplina ou área disciplinar obrigatórias, os programas, metas curriculares e orientações curriculares.
+2. No âmbito da respetiva autonomia e tendo em conta as especificidades de cada turma são permitidas às escolas particulares e cooperativas:
+a) Decidir, de acordo com os limites previstos no n.º 4, o tempo letivo a atribuir a cada disciplina ou área disciplinar;
+b) Gerir livremente, ao longo do ano letivo e do ciclo de estudos, o tempo letivo atribuído a cada disciplina ou área disciplinar;
+c) Oferecer, dentro do tempo curricular total anual, outras disciplinas ou áreas disciplinares complementares, em função do seu projeto educativo;
+d) Gerir a distribuição das diferentes disciplinas em cada ano ao longo do ciclo de escolaridade, exceto nas disciplinas de Português e Matemática.
+3. Sem prejuízo da sua autonomia, as escolas particulares e cooperativas ficam obrigadas ao cumprimento de uma carga curricular total semanal igual ou superior ao total definido na matriz curricular nacional para cada ano, ciclo, nível e modalidade de educação e formação.
+4. As escolas particulares e cooperativas ficam impedidas de:
+a) Atribuir a cada disciplina ou área disciplinar uma carga horária total inferior a 75% do tempo mínimo previsto na matriz curricular nacional;
+b) Atribuir às disciplinas de português e matemática uma carga horária total inferior ao tempo mínimo previsto na matriz curricular nacional;
+c) Atribuir a qualquer disciplina prevista na matriz curricular nacional uma carga horária total inferior a 45 minutos por semana.
+5. Para a realização dos cálculos de carga horária previstos nos números anteriores, considera-se o número de semanas de atividades letivas previsto no calendário escolar.
+O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 14 de fevereiro de 2014.
