@@ -8,4 +8,4 @@
 
 3 - A taxa global de redução é o produto do número de meses de antecipação em relação à idade legalmente exigida para a aposentação pela taxa mensal de 0,5 %.
 
-4 - O número de meses de antecipação a considerar para a determinação da taxa global de redução da pensão atribuída aos subscritores é reduzido em 12 meses por cada período de 3 anos de serviço que exceda 30 anos de serviço à data em que o subscritor atinge 55 anos de idade.
+4 - (Revogado).
