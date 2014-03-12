@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "82900",
+  "tipo": "Requerimento",
+  "numero": "3448",
+  "data_registo": "2014-03-12",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Licenciamento de Guardas-Noturnos",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4018",
+        "nome": "Artur Rêgo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4427",
+        "nome": "José Lino Ramos"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4296",
+        "nome": "Otília Ferreira Gomes"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2867",
+        "nome": "João Gonçalves Pereira"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "4429",
+        "nome": "Pedro Morais Soares"
+      }
+    ],
+    "DataEnvio": "2014-03-12",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2014-03-12",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Almodôvar",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2014-03-13",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Almodôvar",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c324d334e4449334e7a466a4c574935596a41744e444e6b4e4330354d6a67344c575931596a6b794d44517a4d544d77595335775a47593d&fich=c742771c-b9b0-43d4-9288-f5b92043130a.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2014-03-12",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c7a597a5a445130595449304c57526c4e7a41744e444531596931695a6a4e6c4c5455324e5445324e6a67314e6d51334f5335775a47593d&fich=63d44a24-de70-415b-bf3e-565166856d79.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "82900",
+    "Legislatura": "XII",
+    "Nr": "3448",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
