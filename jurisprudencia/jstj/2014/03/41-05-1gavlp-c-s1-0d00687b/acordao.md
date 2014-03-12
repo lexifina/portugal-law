@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal de Justiça de 2014-03-12, processo 41/05.1GAVLP-C.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 41/05.1GAVLP-C.S1
+
+**Nº Convencional:** 3.ª SECÇÃO
+
+**Relator:** PIRES DA GRAÇA
+
+**Descritores:** RECURSO DE REVISÃO; CASO JULGADO; NOVOS FACTOS; NOVOS MEIOS DE PROVA; CONHECIMENTO SUPERVENIENTE; TESTEMUNHA
+
+**Data do Acordão:** 03/12/2014
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO DE REVISÃO
+
+**Decisão:** DENEGADA A REVISÃO
+
+## Sumário
+
+I - O recurso de revisão é abrangido pelas garantias de defesa e está constitucionalmente consagrado no art. 29.º, n.º 6, da CRP, ao dispor que os cidadãos injustamente condenados têm direito, nas condições que a lei prescrever, à revisão de sentença e à indemnização pelos danos sofridos.
+
+II - O recurso de revisão, previsto no art. 449.º CPP, assenta num compromisso entre a salvaguarda do caso julgado, que é condição essencial da manutenção da paz jurídica, e a exigência da justiça. O legislador criou o recurso de revisão como mecanismo que, pretendendo operar a concordância possível entre esses interesses contraditórios, admite, em casos muito específicos e limitados, a modificação de sentença transitada. Trata-se de um recurso extraordinário, de um «remédio» a aplicar a situações em que seria chocante e intolerável, em nome da paz jurídica, manter uma decisão de tal forma injusta (aparentemente injusta) que essa própria paz jurídica ficaria posta em causa.
+
+III - O requerente fundou o pedido de revisão no disposto na al. d) do n.º 1 do art. 449.º do CPP: descoberta de novos factos ou meios de prova que, de per si ou combinados com os que foram apreciados no processo, suscitem graves dúvidas sobre a justiça da condenação.
+
+IV - Para este efeito, apenas são novos os factos e os meios de prova desconhecidos pelo recorrente ao tempo do julgamento e que não tenham podido ser apresentados e apreciados na decisão. Se, ao invés, o recorrente conhecia os factos e os meios de prova ao tempo do julgamento e os podia apresentar, tais factos e meios de prova não relevam para efeitos de revisão de sentença.
+
+V - Por outro lado, graves dúvidas sobre a justiça da condenação são todas aquelas que são de molde a pôr em causa, de forma séria, a condenação de determinada pessoa, que não a simples medida da pena imposta. As dúvidas têm de incidir sobre a condenação enquanto tal, a ponto de se colocar fundadamente o problema de o arguido dever ter sido absolvido.
+
+VI - Na situação concreta, como novos meios de prova o requerente indica duas testemunhas que «apanharam o arguido no local e foram dali embora (…) em plena altura dos factos». As testemunhas indicadas já eram, pois, existentes ao tempo do julgamento e da decisão, e conhecidas do arguido na altura dos acontecimentos, que por essa razão, bem poderia e deveria tê-las indicado durante o inquérito, ou apresentado em audiência de julgamento, tanto mais que, segundo alega, «têm conhecimento directo sobre factos relevantes para a causa». Assim, as testemunhas indicadas não constituem um meio de prova novo, que o requerente pudesse apresentar no julgamento por desconhecer a sua existência.
+
+VII - Se o requerente não apresenta factos novos, nem meios de prova novos que de per si e em conjugação com as demais provas que serviram de base à condenação suscitassem graves dúvidas quanto à justiça da condenação, falham os pressupostos fácticos legais viáveis ao pedido de revisão.
