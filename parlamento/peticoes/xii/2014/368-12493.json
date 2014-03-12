@@ -1,0 +1,619 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12493",
+  "numero": "368",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-03-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-04-16",
+            "entidades": null,
+            "id": "97557",
+            "tipo": null,
+            "titulo": "Audição em 2014-04-16 com Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-03-28",
+            "dataResposta": "2014-04-03",
+            "entidades": [
+              "Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "126/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": "2014-04-30",
+            "entidades": [
+              "Presidente do Conselho das Escolas"
+            ],
+            "nrOficio": "180/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": "2014-05-06",
+            "entidades": [
+              "Associação Nacional de Dirigentes Escolares - ANDE"
+            ],
+            "nrOficio": "181/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": "2014-05-05",
+            "entidades": [
+              "FERLAP - Federação Regional de Lisboa das Associações de Pais"
+            ],
+            "nrOficio": "182/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": null,
+            "entidades": [
+              "Confederação-Geral dos Trabalhadores Portugueses - CGTP"
+            ],
+            "nrOficio": "183/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": null,
+            "entidades": [
+              "Federação Concelhia de Associações de Pais do Concelho de Sintra"
+            ],
+            "nrOficio": "184/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-03-28",
+            "dataResposta": "2014-05-12",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "125/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-05-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-03-26",
+        "DataArquivo": "2014-05-13",
+        "DataBaixaComissao": "2014-03-12",
+        "DataEnvioPAR": "2014-05-14",
+        "DataReaberta": "2014-03-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-03-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a694e574a694e7a49794c575a6a4d6d49744e4467784e69303559546b7a4c544e6d4d446c6d5a4463324f474d314d7935775a47593d&fich=fb5bb722-fc2b-4816-9a93-3f09fd768c53.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-03-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49784e475a684e546b784c5745335a6d51744e4442694e5331684e446b334c5449334e7a5979596a4d775a6a4e695a5335775a47593d&fich=214fa591-a7fd-40b5-a497-27762b30f3be.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d35596a51304d444a684c574a68597a4d744e474a6a4f4331695a6d51304c544a6a59545579593251304d474a6c595335775a47593d&fich=c9b4402a-bac3-4bc8-bfd4-2ca52cd40bea.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a526a5a574a684f4751784c57566b4d6a63744e4455314d5331684e5451344c5749794e5745325a6a686b4d474e6d596935775a47593d&fich=4ceba8d1-ed27-4551-a548-b25a6f8d0cfb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324531596a466d5a6a4d324c575a6c4d4441744e4445324d7931684e7a4d314c5445344d7a4978597a673059546c6d4e4335775a47593d&fich=a5b1ff36-fe00-4163-a735-18321c84a9f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6a4f4463344d574d344c5751774e6d51744e446c6d5a6931694f5459314c57517a5a57453459574d335a6a63325a5335775a47593d&fich=cc8781c8-d06d-49ff-b965-d3ea8ac7f76e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-03-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41345a5463774e44466b4c5455344e6d45744e444e6c4d7930354d6d59314c5751325a6a526a5a6d55785a4459794e5335775a47593d&fich=08e7041d-586a-43e3-92f5-d6f4cfe1d625.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b784e6d59305a4451344c5755314f5745744e474a685a43303459545a6a4c5449324e7a637a4e7a67304e7a4d7a4d7935775a47593d&fich=916f4d48-e59a-4bad-8a6c-267737847333.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-05-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d354f47566b5a474d354c5755334d6d59744e4451324d43303559544a6a4c544d7759574a694e6a566a4e574a6a5a6935775a47593d&fich=c98eddc9-e72f-4460-9a2c-30abb65c5bcf.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-04-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a6d5a4451354e5749354c546777593259744e4451314e7931684d6d56694c54517a4d3246684e444d345a6d51334f5335775a47593d&fich=bfd495b9-80cf-4457-a2eb-433aa438fd79.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-05-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67784d5445314f54466a4c5451774d5463744e446b34596931684e6d52684c544177593255784d574e6a4f444a6b5a4335775a47593d&fich=8111591c-4017-498b-a6da-00ce11cc82dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a6d4e6d55784e474a6c4c546c6d4f5445744e47597959693034596a597a4c5759344f5451774d6d56694d6a64684f4335515245593d&fich=bf6e14be-9f91-4f2b-8b63-f89402eb27a8.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-05-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566b4e4745314d574d344c546c6b596a59744e445a694d6931684d6a466b4c54566d4d5445345a6d553359325a6d4e7935775a47593d&fich=5d4a51c8-9db6-46b2-a21d-5f118fe7cff7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-05-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51355a5467794e5463354c5451794e6d4d744e44686d4f5330344d4467324c5755785a6a55324e7a4a6a4d6d466a4e5335775a47593d&fich=49e82579-426c-48f9-8086-e1f5672c2ac5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d354d6a4d794d4449344c5445315a6a4d744e4455784d6931694d5755784c574d794d6a566a4e4749314d7a51304f4335775a47593d&fich=39232028-15f3-4512-b1e1-c225c4b53448.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-03-26",
+            "gp": "PSD",
+            "id": "4322",
+            "motivoCessacao": null,
+            "nome": "Isilda Aguincha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-09-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-03-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32497a5a4449344d545a6c4c54646d4e6d55744e444d7a4d533035596d56694c54466b5a5751774f5451775a4451324f5335515245593d&fich=b3d2816e-7f6e-4331-9beb-1ded0940d469.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38651"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:47:17:451&drc=00:03:02:121"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo cumprimento da Lei de Bases do Sistema Educativo e pela garantia de uma Escola Pública, Gratuita, de Qualidade e Democrática para todos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:50:23:141&drc=00:03:51:376"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo cumprimento da Lei de Bases do Sistema Educativo e pela garantia de uma Escola Pública, Gratuita, de Qualidade e Democrática para todos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:54:18:825&drc=00:03:40:072"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo cumprimento da Lei de Bases do Sistema Educativo e pela garantia de uma Escola Pública, Gratuita, de Qualidade e Democrática para todos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:58:01:774&drc=00:03:10:563"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo cumprimento da Lei de Bases do Sistema Educativo e pela garantia de uma Escola Pública, Gratuita, de Qualidade e Democrática para todos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=02:01:18:318&drc=00:04:13:555"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo cumprimento da Lei de Bases do Sistema Educativo e pela garantia de uma Escola Pública, Gratuita, de Qualidade e Democrática para todos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=02:05:38:770&drc=00:03:46:592"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo cumprimento da Lei de Bases do Sistema Educativo e pela garantia de uma Escola Pública, Gratuita, de Qualidade e Democrática para todos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12493",
+    "PetAssunto": "Em defesa de uma educação pública de qualidade.",
+    "PetDataEntrada": "2014-03-12",
+    "PeticoesAssociadas": null,
+    "PetId": "12493",
+    "PetLeg": "XII",
+    "PetNr": "368",
+    "PetNrAssinaturas": "16796",
+    "PetNrAssinaturasInicial": "16796",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "480",
+        "obs": null,
+        "pag": [
+          "28-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-20",
+        "pubLeg": "XII",
+        "pubNr": "3",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/28?pgs=28-33&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "682556",
+        "obs": null,
+        "pag": [
+          "7-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-29",
+        "pubLeg": "XII",
+        "pubNr": "38",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/038/2014-03-29/7?pgs=7-8&org=PLC"
+      }
+    ]
+  }
+}
