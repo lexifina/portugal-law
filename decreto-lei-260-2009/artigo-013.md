@@ -9,5 +9,3 @@
 3 - A empresa de trabalho temporário é obrigada a transferir a responsabilidade pela indemnização devida por acidente de trabalho para empresas legalmente autorizadas a realizar este seguro.
 
 4 - Constitui contra-ordenação muito grave a violação do disposto no n.º 3 e contra-ordenação leve a violação do disposto no n.º 2.
-
-5 - O utilizador, bem como os respetivos gerentes, administradores ou diretores, assim como as sociedades que com aquele se encontrem em relação de participações recíprocas, de domínio ou de grupo, são solidariamente responsáveis pelo incumprimento, por parte da empresa de trabalho temporário, dos encargos e obrigações legais relativas aos trabalhadores, bem como pelo pagamento das respetivas coimas.

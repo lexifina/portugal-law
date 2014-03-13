@@ -23,5 +23,3 @@ e) Referir a eventual existência de caução ou de instrumento financeiro equiv
 5 - No contrato, a celebrar por escrito entre a agência e a entidade contratante, sujeito à lei portuguesa, deve ser feita expressa menção aos elementos que caracterizam a relação laboral oferecida por esta entidade, nomeadamente a categoria profissional, a remuneração mensal, o período normal de trabalho, o horário de trabalho, o local de trabalho, as condições de alojamento e o acesso a cuidados de saúde, bem como a outras condições de trabalho divulgadas na oferta de emprego.
 
 6 - Constitui contraordenação grave a violação do disposto no n.º 1, punível com coima de (euro) 1200 a (euro) 2600 ou (euro) 4000, consoante se trate de pessoa singular ou pessoa coletiva.
-
-7 - Em caso de incumprimento do previsto na alínea a) do n.º 1, as agências privadas de colocação são subsidiariamente responsáveis pelos créditos laborais devidos e não pagos de trabalhadores por estas selecionados, nos seis meses subsequentes à colocação.

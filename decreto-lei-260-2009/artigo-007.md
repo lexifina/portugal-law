@@ -2,23 +2,19 @@
 
 ### Caução para o exercício da actividade de trabalho temporário
 
-1 - O requerente constitui, a favor do serviço público de emprego, uma caução para o exercício da atividade de trabalho temporário, de valor correspondente a 150 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor.
+1 - O requerente constitui, a favor do serviço público de emprego, uma caução para o exercício da atividade de trabalho temporário, de valor correspondente a 100 meses da retribuição mínima mensal garantida, acrescida do montante da taxa social única incidente sobre aquele valor.
 
 2 - A caução deve ser anualmente atualizada por referência ao montante da retribuição mínima mensal garantida fixado para cada ano e à dimensão da empresa de trabalho temporário.
 
 3 - Para efeitos do disposto no n.º 2, a dimensão da empresa de trabalho temporário é definida em função do número médio de trabalhadores temporários ao serviço no ano anterior, de acordo com os seguintes escalões:
 
-a) Até 100 trabalhadores, a caução corresponde ao valor equivalente a 150 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+a) Até 100 trabalhadores, a caução corresponde ao valor equivalente a 100 meses da retribuição mínima mensal garantida, acrescida do montante da taxa social única incidente sobre aquele valor;
 
-b) De 101 a 200 trabalhadores, a caução corresponde ao valor equivalente a 200 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+b) De 101 a 200 trabalhadores, a caução corresponde ao valor equivalente a 150 meses da retribuição mínima mensal garantida, acrescida do montante da taxa social única incidente sobre aquele valor;
 
-c) De 201 a 300 trabalhadores, a caução corresponde ao valor equivalente a 250 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
+c) De 201 a 300 trabalhadores, a caução corresponde ao valor equivalente a 200 meses da retribuição mínima mensal garantida, acrescida do montante da taxa social única incidente sobre aquele valor;
 
-d) De 301 a 1000 trabalhadores, a caução corresponde ao valor equivalente a 300 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
-
-e) De 1001 a 2000 trabalhadores, a caução corresponde ao valor equivalente a 400 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor;
-
-f) Mais de 2000 trabalhadores, a caução corresponde ao valor equivalente a 500 meses da retribuição mínima mensal garantida, acrescida do montante da taxa contributiva global incidente sobre aquele valor.
+d) Mais de 300 trabalhadores, a caução corresponde ao valor equivalente a 250 meses da retribuição mínima mensal garantida, acrescida do montante da taxa social única incidente sobre aquele valor.
 
 4 - A atualização referida no n.º 2 deve ser efetuada até ao final do primeiro trimestre de cada ano ou até 30 dias após a publicação do diploma que determine alteração ao valor da retribuição mínima mensal garantida, se posterior.
 

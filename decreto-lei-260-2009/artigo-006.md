@@ -1,16 +1,16 @@
 # Artigo 6.º
 
-### Procedimento de concessão da licença para o exercício da actividade de empresa de trabalho temporário
+Procedimento de concessão da licença para o exercício da actividade de empresa de trabalho temporário
 
-1 - O interessado apresenta ao serviço público de emprego, por via eletrónica, o requerimento de licença para o exercício da atividade de cedência temporária de trabalhadores para ocupação por utilizadores com indicação das atividades a exercer e instruído com os seguintes documentos:
+1 - O interessado apresenta o requerimento de licença para o exercício da actividade de cedência temporária de trabalhadores para ocupação por utilizadores, nomeadamente por via electrónica, em qualquer unidade orgânica local do serviço público de emprego, com indicação das actividades a exercer e instruído com os seguintes documentos:
 
-a) Declaração na qual o requerente indique o seu nome, o número de identificação fiscal, o número do bilhete de identidade ou cartão de cidadão, e o domicílio ou, no caso de pessoa coletiva, a denominação, a sede, o número de identificação de pessoa coletiva, o nome dos titulares dos órgãos sociais e, em ambos os casos, a localização dos estabelecimentos em que exerça a atividade;
+a) Declaração na qual o requerente indique o seu nome, o número fiscal de contribuinte, o número do bilhete de identidade ou número de identificação civil, e o domicílio ou, no caso de ser pessoa colectiva, a denominação, a sede, o número de pessoa colectiva, o registo comercial actualizado de constituição e de alteração do contrato de sociedade, os nomes dos titulares dos corpos sociais e, em ambos os casos, a localização dos estabelecimentos em que exerça a actividade;
 
-b) Certificado atualizado de registo criminal ou o respetivo código de acesso e outros documentos emitidos pelas autoridades competentes comprovativos da idoneidade do requerente e, no caso de pessoa coletiva, dos sócios, gerentes, diretores ou administradores;
+b) Documentos emitidos pelas autoridades competentes comprovativos da idoneidade do requerente e, se for pessoa colectiva, dos sócios, gerentes, directores ou administradores;
 
 c) Certidão comprovativa de que não se encontra abrangido por suspensão ou interdição do exercício de actividade como sanção acessória de contra-ordenação, emitida pelo serviço com competência inspectiva do ministério responsável pela área laboral e pelo serviço com competência inspectiva do ministério responsável pela área da economia;
 
-d) Certidão atualizada do registo comercial da sociedade ou o respetivo código de acesso, no caso de pessoa coletiva;
+d) Cópia do contrato de sociedade, sendo pessoa colectiva;
 
 e) Comprovação dos requisitos da estrutura organizativa adequada para o exercício da actividade ou declaração sob compromisso de honra dos requisitos que satisfaz se a licença for concedida;
 

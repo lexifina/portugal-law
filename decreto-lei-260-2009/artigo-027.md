@@ -22,4 +22,4 @@ b) Alojamento adequado.
 
 4 - Na situação prevista no número anterior, a entidade que, em substituição da agência, suportar as despesas associadas ao repatriamento do trabalhador goza de direito de regresso sobre aquela.
 
-5 - Constitui contraordenação muito grave a violação do disposto no presente artigo, punível com coima de 2800 (euro) a 6000 (euro) ou 12 000 (euro), consoante se trate de pessoa singular ou pessoa coletiva.
+5 - Constitui contraordenação muito grave a violação do disposto no n.º 1 do presente artigo, punível com coima de (euro) 2800 a (euro) 6000 ou (euro) 12 000, consoante se trate de pessoa singular ou pessoa coletiva.

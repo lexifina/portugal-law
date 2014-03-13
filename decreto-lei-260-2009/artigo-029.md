@@ -13,5 +13,3 @@ a) Ao serviço com competência inspectiva do ministério responsável pela áre
 b) Ao serviço com competência inspectiva do ministério responsável pela área da economia relativamente à violação de regras da concorrência.
 
 2 - Para efeitos da alínea b) do número anterior, o serviço público de emprego e o serviço com competência inspectiva do ministério responsável pela área laboral devem comunicar ao serviço com competência inspectiva do ministério responsável pela área da economia todas as situações de que tenham conhecimento que evidenciem violação das regras da concorrência.
-
-3 - Na fiscalização a agências que procedem ao recrutamento e colocação de marítimos a bordo, a autoridade competente é acompanhada, sempre que possível, por um inspetor da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos.

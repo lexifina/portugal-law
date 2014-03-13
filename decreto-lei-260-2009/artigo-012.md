@@ -2,7 +2,7 @@
 
 ### Suspensão ou cessação da licença
 
-1 - O serviço público de emprego suspende, durante dois meses, a licença de exercício de atividade de cedência temporária de trabalhadores para utilização de terceiros utilizadores sempre que se verifique o incumprimento do previsto nos n.os 1 ou 2 do artigo anterior.
+1 - O serviço público de emprego suspende, durante dois meses, a licença de exercício de actividade de cedência temporária de trabalhadores para utilização de terceiros utilizadores sempre que se verifique o incumprimento do previsto no n.º 1 do artigo anterior.
 
 2 - A empresa de trabalho temporário é equiparada, em caso de exercício de actividade durante o período de suspensão da licença, a empresa não licenciada.
 
