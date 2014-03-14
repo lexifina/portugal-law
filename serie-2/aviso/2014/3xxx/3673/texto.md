@@ -1,0 +1,7 @@
+Aviso n.º 3673/2014
+Alteração ao Plano de Pormenor de Salvaguarda do Núcleo Pombalino de Vila Real de Santo António (PPSNPVRSA)
+Luís Filipe Soromenho Gomes, Presidente da Câmara Municipal de Vila Real de Santo António, torna público, nos termos e efeitos do n.º 3 e 4 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99, de 22 de setembro, na sua redação atual, que se procede à abertura do período de discussão pública da proposta de Alteração ao PPSNPVRSA.
+Mais se informa que o período de discussão pública é de 22 dias úteis, com início no quinto dia útil posterior à respetiva publicação no Diário da República, e que os interessados podem consultar a proposta de alteração de plano e restantes documentos, na internet, no sítio da Câmara Municipal de Vila Real de Santo António, bem como, na Secção de Expediente da Equipa Multidisciplinar de Gestão Territorial e Urbanística (EMGTU) da Câmara Municipal de Vila Real de Santo António, no seguinte horário: 9:00 h às 15:30 h.
+As reclamações, observações ou sugestões sobre o conteúdo da proposta de alteração de plano, e outros documentos, devem ser formuladas por escrito e em conformidade com o n.º 5 do artigo 77.º do RJIGT e entregues até ao final do período de discussão pública no edifício da Câmara Municipal de Vila Real de Santo António, na Secção de Expediente da (EMGTU).
+6 de março de 2014. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
+207675953
