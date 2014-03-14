@@ -1,0 +1,5 @@
+Edital n.º 214/2014
+Júlia Maria Gonçalves Lopes de Amorim, presidente da Câmara Municipal de Constância, torna público que a Assembleia Municipal de Constância, no uso da competência referida na alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de setembro, com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de janeiro, aprovou, na sua sessão ordinária realizada no dia 28 de junho de 2013, mediante proposta da Câmara Municipal, conforme deliberação tomada em reunião realizada no dia 6 de junho de 2013, a proposta de Regulamento Municipal de Ocupação de Espaços Públicos e de Publicidade do Concelho de Constância, que entrará em vigor a partir do dia seguinte ao da publicação do presente edital. O regulamento foi objeto de apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo e encontra-se publicado no sítio da Internet em www.cm-constancia.pt.
+Para constar se publica o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do Município.
+18 de fevereiro de 2014. - A Presidente da Câmara, Júlia Maria Gonçalves Lopes de Amorim.
+307652649
