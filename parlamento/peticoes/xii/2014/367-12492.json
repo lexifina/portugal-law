@@ -1,0 +1,618 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12492",
+  "numero": "367",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-03-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2014-05-13",
+        "DataBaixaComissao": "2014-03-20",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-03-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a5a444d794f4755345979316a595759784c54526a4e5451744f44466a4d6930785a57466a4f57526c4e444d784d5441756347526d&fich=cd328e8c-caf1-4c54-81c2-1eac9de43110.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-03-26",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a5a4745355a54646b595330784f5456694c5452694e324d74596a417a5a4330785a4751794d446b334e5463354f444d7555455247&fich=cda9e7da-195b-4b7c-b03d-1dd209757983.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Educação, Ciência e Cultura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-04-29",
+            "entidades": null,
+            "id": "97642",
+            "tipo": null,
+            "titulo": "Audição em 2014-04-29 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": "2014-05-05",
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Técnicos"
+            ],
+            "nrOficio": "178/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": null,
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "177/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": "2014-04-22",
+            "entidades": [
+              "Agência de Avaliação e Acreditação do Ensino Superior"
+            ],
+            "nrOficio": "179/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-17",
+            "dataResposta": null,
+            "entidades": [
+              "Bastonário da Ordem dos Médicos"
+            ],
+            "nrOficio": "188/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "176/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-04-15",
+            "dataResposta": "2014-04-29",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "176/8ªCECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-05-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-04-09",
+        "DataArquivo": "2014-05-13",
+        "DataBaixaComissao": "2014-04-01",
+        "DataEnvioPAR": "2014-05-14",
+        "DataReaberta": "2014-04-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-06-24",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466c4e5745354f445a6c4c5451345a5455744e4441344e5331685a4451794c574d33597a646d4d3259774d3249784d6935775a47593d&fich=1e5a986e-48e5-4085-ad42-c7c7f3f03b12.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32593159544e6b4e4751784c5755354d6d45744e444a6d595331694d445a694c5745774e545a6d4e44646a5a474e6a5a4335775a47593d&fich=f5a3d4d1-e92a-42fa-b06b-a056f47cdccd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251344e444e684e7a41784c5467334d4441744e475268595330344d6d566a4c5459324e4445794d324935596a637a4f4335775a47593d&fich=d843a701-8700-4daa-82ec-664123b9b738.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-17",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b784d54466b4f444e6d4c57517a597a59744e4456694d5331684e4755784c54597a4e7a4e6c59324a6d4d6a677a4f4335775a47593d&fich=9111d83f-d3c6-45b1-a4e1-6373ecbf2838.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b794f574a6a4e6a566a4c5759314e6a45744e44646c5a6931695a544e6d4c546b354e7a517959325a6d5a6d45334e5335775a47593d&fich=929bc65c-f561-47ef-be3f-99742cfffa75.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3256694d7a5668597a55794c57597a5a6d59744e44417a5a6930354f4755304c5745335a6a417a4d44566b4d7a4e6d597935775a47593d&fich=eb35ac52-f3ff-403f-98e4-a7f0305d33fc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3246694d3245774e54686a4c5745324d4459744e4451304d5331684d6d45324c57526d4d6a55315a544d354f446b334d6935775a47593d&fich=ab3a058c-a606-4441-a2a6-df255e398972.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245354e5459785a5755784c5751304f4445744e44466b5a4331684d44637a4c546468597a49774d5459305a44466c596935775a47593d&fich=a9561ee1-d481-41dd-a073-7ac20164d1eb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5134595445325a6a51334c5759325a6d45744e4751344e433169595455304c575a694d6a686d4d6a4d344e445134595335775a47593d&fich=48a16f47-f6fa-4d84-ba54-fb28f238448a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-05-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a6a595751774d4751334c5451324f5455744e4463314d533035597a63314c5445794d575a6c5a57517a4e475177597935775a47593d&fich=6cad00d7-4695-4751-9c75-121feed34d0c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-04-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63315a5751304f54526a4c5468694d6a4d744e446b7a4f5331684e5755794c5759774d475930596a677a5a4755324d4335775a47593d&fich=75ed494c-8b23-4939-a5e2-f00f4b83de60.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-05-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a694d6d4d315a5445354c546c685a5445744e44557a4f4330344e4445344c57553259544d314e445268596d49774e7935775a47593d&fich=bb2c5e19-9ae1-4538-8418-e6a3544abb07.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-04-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5579596d51774e575a6d4c5749784e5449744e444d324d5331684d44426a4c5463314e544d325a574d7a4d5759774d7935515245593d&fich=52bd05ff-b152-4361-a00c-75536ec31f03.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-04-09",
+            "gp": "PSD",
+            "id": "4170",
+            "motivoCessacao": null,
+            "nome": "Duarte Marques"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Orçamento, Finanças e Administração Pública para esta comissão."
+      }
+    ],
+    "DataDebate": "2014-09-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-03-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4e685a6a597a4f4459314c546b305a4467744e4441354f5331694e4455324c5449775a4449324d5751774e5441314e4335775a47593d&fich=3af63865-94d8-4099-b456-20d261d05054.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38342",
+      "38650"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:27:09:035&drc=00:02:54:279"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da agregação/fusão de cursos na área da saúde;Recomenda ao Governo a suspensão do processo de agregação/fusão dos cursos nas áreas das tecnologias da saúde; Contra a fusão/agregação de Cursos das Áreas de Tecnologias de Diagnóstico e Terapêutica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:30:07:745&drc=00:03:24:238"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da agregação/fusão de cursos na área da saúde;Recomenda ao Governo a suspensão do processo de agregação/fusão dos cursos nas áreas das tecnologias da saúde; Contra a fusão/agregação de Cursos das Áreas de Tecnologias de Diagnóstico e Terapêutica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:33:35:896&drc=00:03:14:311"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da agregação/fusão de cursos na área da saúde;Recomenda ao Governo a suspensão do processo de agregação/fusão dos cursos nas áreas das tecnologias da saúde; Contra a fusão/agregação de Cursos das Áreas de Tecnologias de Diagnóstico e Terapêutica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:36:54:274&drc=00:02:30:221"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da agregação/fusão de cursos na área da saúde;Recomenda ao Governo a suspensão do processo de agregação/fusão dos cursos nas áreas das tecnologias da saúde; Contra a fusão/agregação de Cursos das Áreas de Tecnologias de Diagnóstico e Terapêutica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:39:25:435&drc=00:03:30:934"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da agregação/fusão de cursos na área da saúde;Recomenda ao Governo a suspensão do processo de agregação/fusão dos cursos nas áreas das tecnologias da saúde; Contra a fusão/agregação de Cursos das Áreas de Tecnologias de Diagnóstico e Terapêutica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-09-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140919pln&url=l12/sl4/a2014/m09/&tI=01:42:58:268&drc=00:03:18:621"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-20",
+                "pubLeg": "XII",
+                "pubNr": "3",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da agregação/fusão de cursos na área da saúde;Recomenda ao Governo a suspensão do processo de agregação/fusão dos cursos nas áreas das tecnologias da saúde; Contra a fusão/agregação de Cursos das Áreas de Tecnologias de Diagnóstico e Terapêutica.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12492",
+    "PetAssunto": "Contra a fusão/agregação de Cursos das Áreas de Tecnologias de Diagnóstico e Terapêutica.",
+    "PetDataEntrada": "2014-03-17",
+    "PeticoesAssociadas": null,
+    "PetId": "12492",
+    "PetLeg": "XII",
+    "PetNr": "367",
+    "PetNrAssinaturas": "4730",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1913",
+        "obs": null,
+        "pag": [
+          "24-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-20",
+        "pubLeg": "XII",
+        "pubNr": "3",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/003/2014-09-20/24?pgs=24-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
