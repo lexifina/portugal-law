@@ -1,0 +1,9 @@
+Resolução da Assembleia da República n.º 26/2014
+Recomenda ao Governo que, numa perspetiva de mitigação, estude a possibilidade do recurso a medidas de urgência para responder aos estragos que resultaram das intempéries que assolaram o País no início do ano, e que simultaneamente promova com celeridade a revisão da Estratégia Nacional para a Gestão Integrada da Zona Costeira, numa ótica da prevenção e adaptação às dinâmicas do litoral do País.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Prossiga no acompanhamento e monitorização que tem estado a fazer relativamente às consequências das intempéries que têm assolado o País nos últimos meses.
+2 - Promova com celeridade a revisão anunciada da Estratégia Nacional para a Gestão Integrada da Zona Costeira, assegurando uma análise dinâmica e contínua dos riscos a que o litoral português está exposto, em particular na salvaguarda de pessoas e bens, e reportando os resultados da monitorização da sua implementação.
+3 - Reforce a análise e a articulação com os municípios, no sentido de considerar, quando aplicável, a viabilidade de recurso a fundos comunitários para o apoio à execução de intervenções avaliadas como prioritárias para a proteção de pessoas e bens, no âmbito do referido acompanhamento e monitorização.
+4 - Prossiga a intervenção específica do Ministério do Ambiente, Ordenamento do Território e Energia, no âmbito das suas atribuições de desenvolvimento de políticas de ordenamento da orla costeira e gestão integrada do litoral, reforçando as medidas em curso para a avaliação e identificação prospetiva das intervenções necessárias e urgentes para a salvaguarda, presente e futura, das populações e zonas costeiras nacionais.
+Aprovada em 28 de fevereiro de 2014.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
