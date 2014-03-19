@@ -1,0 +1,6 @@
+Aviso n.º 38/2014
+Por ordem superior se torna público que, por notificação de 10 de janeiro de 2014, o Conselho Federal dos Negócios Estrangeiros da Suíça comunicou, aos Governos dos Estados Membros da Comissão Internacional do Estado Civil (CIEC), através da notificação de 27 de novembro de 2013, que a República da Bulgária comunicou a adesão à Convenção Relativa à Emissão de Extratos Multilingues de Atos do Estado Civil (Convenção CIEC n.º 16), assinada em Viena em 8 de setembro 1976.
+Nos termos da alínea 5 do artigo 6.º desta Convenção, segue em anexo à presente notificação, para os Estados Partes, a tradução búlgara das fórmulas invariáveis e do signi-ficado dos símbolos, recebida a 18 de dezembro de 2013.
+O Conselho Federal suíço, na sua qualidade de depositário das Convenções da CIEC (www.dfae.admin.ch/depositaire), envia a presente notificação.
+A República Portuguesa tornou-se membro de pleno direito da Comissão a partir de 27 de outubro de 1973. Foi admitido na Comissão em 13 de setembro de 1973, por votação unânime, passando a ficar habilitado a fazer parte vinte dias depois da votação, nos termos do n.º 3 do Protocolo Adicional de 25 de setembro de 1952, conforme Aviso publicado no Diário de Governo, 1.ª série, n.º 274, de 23 de novembro de 1973.
+Departamento de Assuntos Jurídicos, 5 de março de 2014. - A Diretora, Rita Faden.
