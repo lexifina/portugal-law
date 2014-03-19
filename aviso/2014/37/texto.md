@@ -1,0 +1,6 @@
+Aviso n.º 37/2014
+Por ordem superior se torna público que, por notificação de 3 de junho de 2013, o Conselho Federal dos Negócios Estrangeiros da Suíça, comunicou por notificação aos Governos dos Estados Membros da Comissão Internacional do Estado Civil (CIEC), que a Roménia depositou junto do Conselho Federal suíço no dia 6 de maio de 2013 um instrumento de adesão à Convenção Relativa à Emissão de Extratos Multilingues de Atos do Estado Civil (Convenção CIEC n.º 16), assinada em Viena a 8 de setembro de 1976.
+A Convenção entrou em vigor para a Roménia no trigésimo dia após a data do depósito do instrumento de adesão, ou seja, a 5 de junho de 2013, em conformidade com o artigo 17.º da Convenção.
+O Conselho Federal suíço, na sua qualidade de depositário das Convenções da CIEC (www.dfae.admin.ch/depositaire), envia a presente notificação.
+A República Portuguesa tornou-se membro de pleno direito da Comissão a partir de 27 de outubro de 1973. Foi admitida na Comissão em 13 de setembro de 1973, por votação unânime, passando a ficar habilitada a fazer parte vinte dias depois da votação, nos termos do n.º 3 do Protocolo Adicional de 25 de setembro de 1952, conforme Aviso publicado no Diário de Governo, 1.ª Série, n.º 274, de 23 de novembro de 1973.
+Departamento de Assuntos Jurídicos, 5 de março de 2014. - A Diretora, Rita Faden.
