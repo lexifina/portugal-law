@@ -4,10 +4,10 @@
 
 # Artigo 15.º
 
-### Deveres e dados de identificação do condutor
+### Deveres do titular
 
-1 - Os dados de identificação do condutor constantes do registo nacional de condutores, aprovado pelo Decreto-Lei n.º 262/2009, de 28 de setembro, podem ser atualizados com referência aos dados de identificação que constem nas bases de dados de identificação civil de cidadãos portugueses ou de cidadãos estrangeiros.
+1 - O titular de carta, licença ou de qualquer outro título de condução deve respeitar as restrições, adaptações ou limitações que lhe foram impostas relativas ao condutor, ao veículo ou às condições de circulação, registadas no título de condução de forma codificada, nos termos da secção B do anexo I.
 
-2 - [Revogado.]
+2 - Sempre que mudem de residência, os titulares de cartas ou de licenças de condução devem, no prazo de 60 dias, requerer substituição dos respetivos títulos por novos com a residência atualizada.
 
 3 - Os condutores portadores de títulos de condução emitidos por Estado membro da União Europeia ou do espaço económico europeu que fixem residência em Portugal devem, nos 60 dias subsequentes, comunicar esse facto ao serviço desconcentrado do IMT, I. P., da área da nova residência.

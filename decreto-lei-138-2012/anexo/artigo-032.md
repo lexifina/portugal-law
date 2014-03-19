@@ -8,7 +8,7 @@
 
 a) A junta médica, constituída nos termos fixados no n.º 4 do artigo 25.º, quando a inaptidão se deva a reprovação no exame médico;
 
-b) O IMT, I. P., ou os psicólogos referidos no n.º 3 do artigo 25.º, quando a inaptidão se deva a reprovação no exame psicológico.
+b) O IMT, I. P., quando a inaptidão se deva a reprovação no exame psicológico.
 
 3 - A junta médica ou o IMT, I. P., notificam o recorrente para comparecer na data e no local designados.
 

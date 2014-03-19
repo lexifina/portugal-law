@@ -10,8 +10,4 @@
 
 4 - A frequência de universidade ou escola noutro Estado não determina a obrigatoriedade de mudança de residência habitual.
 
-5 - No caso de candidato ou titular de carta de condução nacional, a residência habitual é a que consta do documento de identificação.
-
-6 - No caso de condutor ou candidato a condutor titular de cartão de cidadão, a residência habitual é a que consta daquele documento, a qual é atualizada permanentemente através dos dados enviados pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), via interoperabilidade dos serviços do cartão de cidadão.
-
-7 - O acesso por parte do IMT, I. P., às bases de dados do IRN, I. P., bem como e a utilização da plataforma dos serviços comuns do cartão do cidadão são isentos do pagamento de emolumentos e demais encargos devidos nos termos da legislação aplicável.
+5 - No caso de candidato ou titular da carta de condução nacional, a residência habitual é a que consta do documento de identificação, devendo a mesma ser sempre coincidente com esta, sem prejuízo do disposto no n.º 2 do artigo 15.º

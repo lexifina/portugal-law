@@ -10,8 +10,4 @@ a) As cartas de condução das categorias A1, A, B1, B e BE cujo termo de valida
 
 b) As cartas de condução das categorias B e BE cujos titulares exerçam a condução de ambulâncias, de veículos de bombeiros, de transporte de doentes, de transporte escolar e de automóveis ligeiros de passageiros de aluguer, que mantêm a obrigatoriedade de revalidação nas datas em que os seus titulares perfaçam 40, 45, 50, 55, 60, 65 e 68 anos e, posteriormente, de dois em dois anos.
 
-3 - Nas situações previstas na alínea a) do número anterior, após os 60 anos, aplicam-se os prazos previstos no artigo 16.º do Regulamento da Habilitação Legal para Conduzir (RHLC).
-
-4 - Os títulos de condução de trator agrícola obtidos antes de 20 de julho de 1998 conferem aos seus titulares habilitação para conduzir tratores agrícolas de qualquer categoria.
-
-5 - As cartas de condução de qualquer dos modelos aprovados por legislação anterior mantêm-se válidas ainda que a residência constante no título esteja desatualizada.
+3 - Os títulos de condução de trator agrícola obtidos antes de 20 de julho de 1998 conferem aos seus titulares habilitação para conduzir tratores agrícolas de qualquer categoria.

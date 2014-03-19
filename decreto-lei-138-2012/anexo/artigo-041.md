@@ -2,13 +2,11 @@
 
 ### Faltas, interrupção e anulação das provas de exame
 
-1 - As faltas às provas componentes do exame de condução são justificadas quando se verifique justo impedimento, podendo o candidato, no prazo máximo de três dias úteis a contar do dia da falta, requerer marcação de nova data sem pagamento de nova taxa ou, caso pretenda desistir da realização da prova, requerer a devolução da taxa paga.
+1 - As faltas às provas componentes do exame de condução não são justificáveis, podendo o candidato requerer nova marcação mediante o pagamento da taxa correspondente, prevista em portaria aprovada pelo membro do Governo responsável pela área dos transportes.
 
-2 - Considera-se justo impedimento, para efeitos do disposto no número anterior, o evento não imputável ao candidato que obste à realização da prova, devidamente comprovado através de atestado médico ou de outro documento adequado.
+2 - Quando qualquer prova do exame for interrompida por caso fortuito ou de força maior, é marcada data para a sua repetição, sem pagamento de nova taxa.
 
-3 - Quando qualquer prova do exame for interrompida por caso fortuito ou de força maior, é marcada data para a sua repetição, sem pagamento de nova taxa.
-
-4 - Sem prejuízo do procedimento criminal a que houver lugar, são considerados nulas, com perda das taxas pagas, quaisquer provas de exame prestadas por candidato que:
+3 - Sem prejuízo do procedimento criminal a que houver lugar, são considerados nulas, com perda das taxas pagas, quaisquer provas de exame prestadas por candidato que:
 
 a) Seja titular de outro título de condução válido para a mesma categoria de veículos que o habilite a conduzir em território nacional;
 

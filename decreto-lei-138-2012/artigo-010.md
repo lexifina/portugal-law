@@ -1,21 +1,17 @@
 # Artigo 10.º
 
-### Regime de emissão, revalidação, substituição, segundas vias e trocas de títulos de condução nacionais e estrangeiros
+### Regime de emissão dos títulos de condução
 
 1 - A emissão de títulos de condução pode ser solicitada nos serviços de atendimento do IMT, I. P., por via eletrónica ou por entidades com quem tenha sido estabelecido protocolo com este Instituto.
 
-2 - Todos os serviços relacionados com a emissão, revalidação, substituição e emissão de segundas vias de títulos de condução da competência do IMT, I. P., podem ser prestados nos Espaços Cidadão, pelos trabalhadores que prestam o atendimento do serviço, através de protocolo a celebrar entre o IMT, I. P., e a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), designadamente nos Espaços Cidadão instalados nos consulados portugueses.
+2 - As entidades e os procedimentos técnicos e administrativos necessários ao disposto no número anterior são definidos por deliberação do conselho diretivo do IMT, I. P.
 
-3 - Todos os serviços relacionados com a troca de títulos de condução estrangeiro da competência do IMT, I. P., podem ser prestados nos Espaços Cidadão localizados em território nacional, pelos trabalhadores que prestam o atendimento do serviço, através de protocolo a celebrar entre o IMT, I. P., e a AMA, I. P.
+3 - Os originais dos atestados médicos e dos certificados de avaliação psicológica, quando exigível, bem como de outros documentos necessários à instrução do processo, devem ser conservados, durante dois anos:
 
-4 - As entidades e os procedimentos técnicos e administrativos necessários ao disposto nos números anteriores são definidos por deliberação do conselho diretivo do IMT, I. P.
+a) Pelas entidades com quem o IMT, I. P., estabeleceu protocolo;
 
-5 - [Revogado]
+b) Pelos titulares daqueles documentos, quando a emissão do título de condução tenha sido solicitado diretamente ao IMT, I. P.
 
-6 - Os atestados médicos, certificados de avaliação psicológica, quando exigível, e outros documentos necessários à instrução do processo de emissão de títulos de condução devem:
+4 - A não apresentação dos documentos referidos no número anterior quando solicitado pelo IMT, I. P., pode dar lugar a submissão do condutor a nova avaliação médica ou psicológica.
 
-a) Ser registados por via eletrónica pelo IMT, I. P., ou remetidos a este instituto pela mesma via, nas situações em que os pedidos são efetuados por outras entidades com as quais tenham sido celebrados os protocolos referidos no n.º 1.
-
-b) Ser conservados pelo IMT, I. P., por via eletrónica, durante um período de dois anos, salvo nas situações em que, excecionalmente, os documentos sejam emitidos manualmente, cabendo, nesses casos, a obrigação de conservação, pelo mesmo período, aos titulares dos mesmos.
-
-7 - A não apresentação dos documentos referidos no número anterior quando solicitado pelo IMT, I. P., pode dar lugar a submissão do condutor a nova avaliação médica ou psicológica.
+5 - Findo o prazo fixado no n.º 3, as entidades referidas na alínea a) do mesmo número devem, no prazo de três meses, destruir os documentos e comunicá-lo ao IMT, I. P.

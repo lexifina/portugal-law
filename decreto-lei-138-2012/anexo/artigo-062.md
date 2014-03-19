@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Veículos de exame
+
 ## Título III
 
 ## Disposições finais
@@ -10,7 +14,7 @@
 
 a) Nos seis meses que antecedem o termo da sua validade;
 
-b) Quando na licença de condução constar validade até o condutor perfazer 65 anos ou quando a licença não tiver indicada data de validade, nos seis meses que antecedem a data em que o condutor perfaça 50, 60 ou 65 anos;
+b) Logo que ocorra o primeiro escalão etário fixado para a revalidação de acordo com os previstos na alínea a) do n.º 2 do artigo 16.º, se não tiverem averbado data de validade;
 
 c) A requerimento do titular ainda que se encontre dentro do prazo de validade;
 
@@ -18,15 +22,13 @@ d) Em caso de perda ou deterioração;
 
 e) A requerimento do titular ainda que se encontre em prazo de validade.
 
-f) Sendo titular de carta de condução, quando a revalidar ou substituir.
-
 2 - As licenças de condução de ciclomotores e motociclos de cilindrada não superior a 50 cm3 ainda em circulação, que se encontrem válidas, são equiparadas a carta de condução da categoria AM, para os efeitos previstos no Código da Estrada e no presente Regulamento.
 
-3 - As licenças de condução de veículos agrícolas, do modelo aprovado pelo Despacho n.º 17 784/98, de 15 de outubro, emitidas pelas câmaras municipais ou pelo IMT, I. P., mantêm-se em vigor, devendo ser substituídas por carta de condução da categoria T, nos mesmos termos do previsto nas alíneas a) a d) do n.º 1.
+3 - As licenças de condução de veículos agrícolas, do modelo aprovado pelo Despacho n.º 17 784/98, de 15 de outubro, emitidas por câmaras municipais, mantêm-se em vigor, devendo ser trocadas, por nova licença de condução a emitir pelo IMT, I.P., nos seis meses que antecedem o termo da sua validade ou, não tendo averbada data de validade, logo que os seus titulares atinjam o primeiro escalão etário fixado para a revalidação, de acordo com o previsto na alínea a) do n.º 2 do artigo 16.º
 
-4 - A emissão do novo título deve ser requerida ao IMT, I. P.
+4 - O requerimento que solicite a emissão do novo título deve ser apresentado no serviço do IMT, I. P., da área de residência do condutor.
 
-5 - Deve também ser requerida ao IMT, I. P., a emissão de carta de condução da categoria T para substituição de licença de condução em curso de validade que tenha sido extraviada, deteriorada ou em que seja necessário alterar os dados relativos ao condutor ou ao tipo de habilitação.
+5 - Deve também ser requerida ao IMT, I.P., a emissão de nova licença de condução de veículos agrícolas, por substituição de igual licença em curso de validade, extraviada, deteriorada ou em que seja necessário alterar os dados relativos ao condutor ou ao tipo de habilitação.
 
 6 - A troca da licença é comunicada pelo IMT, I. P., à câmara municipal emissora, com indicação do número da licença trocada e do número do novo título concedido.
 

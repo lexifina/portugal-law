@@ -21,7 +21,3 @@ b) Do título mais antigo se ambos forem nacionais.
 a) Procede à sua inutilização, se for um título nacional; ou
 
 b) Remete o título à entidade emissora, se for título estrangeiro, com indicação dos motivos determinantes da apreensão.
-
-7 - No momento da apresentação do pedido de emissão da carta de condução, o titular deve declarar se pretende aderir ao Serviço Público de Notificações Eletrónicas, previsto no Decreto-Lei n.º 93/2017, de 1 de agosto, para efeitos do estabelecido nos n.os 1 e 4, ambos do artigo 176.º do Código da Estrada.
-
-8 - O IMT, I. P., faculta à Autoridade Nacional de Segurança Rodoviária (ANSR), através da comunicação eletrónica de dados, preferencialmente pela Plataforma de Interoperabilidade da Administração Pública, a morada única digital associada à carta de condução emitida, para os efeitos previstos n.os 1 e 4 do artigo 176.º do Código da Estrada, bem como de outros dados necessários para o cumprimento da sua missão.

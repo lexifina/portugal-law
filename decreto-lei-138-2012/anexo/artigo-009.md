@@ -1,13 +1,11 @@
 # Artigo 9.º
 
-### Licença de aprendizagem
+### Autorização temporária de condução
 
-1 - A licença de aprendizagem é emitida aos candidatos a condutor para efeitos de autorização de condução na via pública em contexto de ensino e exame de condução.
+1 - O centro de exames de condução emite a autorização temporária de condução aos examinandos por ele aprovados na prova prática e regista os dados dos exames no IMT, I. P.
 
-2 - A licença referida no número anterior deve ser requerida ao IMT, I. P., no início da formação e conter todos os elementos necessários à emissão da carta de condução.
+2 - A autorização temporária de condução habilita os candidatos examinados a conduzir veículos da categoria para que foram aprovados até à emissão da respetiva carta ou licença de condução.
 
-3 - A licença de aprendizagem tem a validade de dois anos, podendo ser revalidada uma única vez por igual período, desde que se encontre válida e mediante apresentação de novo atestado médico e certificado de avaliação psicológica, se exigível.
+3 - A autorização temporária de condução contém os dados de identificação do condutor e a categoria ou categorias de veículos que habilita a conduzir e obedece ao modelo aprovado por despacho do presidente do conselho diretivo do IMT, I. P.
 
-4 - A licença de aprendizagem substitui a carta de condução até 90 dias após aprovação na prova prática do exame de condução.
-
-5 - A licença de aprendizagem obedece ao modelo constante da secção E do anexo I ao presente regulamento e do qual faz parte integrante.
+4 - O período máximo de validade da autorização temporária de condução é de 90 dias contado da data da sua emissão, durante o qual deve ser emitida a carta ou licença de condução.
