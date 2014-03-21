@@ -1,0 +1,267 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "211",
+    "id": "38295",
+    "titulo": "Modifica o valor dos descontos a efetuar para os subsistemas de proteção social no âmbito dos cuidados de saúde, concretamente da Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE), dos Serviços de Assistência na Doença (SAD) e da Assistência na Doença aos Militares das Forças Armadas (ADM)."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-03-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "33156",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-04-01",
+            "id": "97451",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-04-01",
+            "id": "97450",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-04-01",
+            "id": "97449",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-04-04",
+            "id": "97502",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-04-04",
+            "id": "97501",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-04-04",
+            "id": "97500",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-04-09",
+            "id": "97515",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-03-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-03-21",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP - Confederação Geral dos Trabalhadores Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d314e4759344e446c6b4c5449794d5759744e4463354e7931695a6a6c6b4c54566d4e5749324f444577596d4977597935555355593d&fich=354f849d-221f-4797-bf9d-5f5b6810bb0c.TIF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-02",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41774d5749345a4755324c544d784f4745744e4451305a693169595752684c5759785a475a6c5a474e69596d49784f5335775a47593d&fich=001b8de6-318a-444f-bada-f1dfedcbbb19.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FENPROF - Federação Nacional dos Professores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a597a5954637a5a5749314c5449785a6a59744e474a6c5a6930344f4455304c5451775a6d55314d325a6a4d7a59774d4335775a47593d&fich=63a73eb5-21f6-4bef-8854-40fe53fc3600.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Frente Comum dos Sindicatos da Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59324e6d59335a6a6b304c57526c4d4441744e4755354e79316959574d354c57566a4d5446684d4455334f5445324e6935775a47593d&fich=666f7f94-de00-4e97-bac9-ec11a0579166.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da UGT - União Geral de Trabalhadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325935597a6b774d324d7a4c5745355a5745744e4441795a693035596d4d794c5455304f446c6d4d5441774d7a52684d6935775a47593d&fich=f9c903c3-a9ea-402f-9bc2-5489f10034a2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Professores da Região Centro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a52694d324d794d445a6c4c5463354f5455744e47466b4f4331684e6a6b784c544d345a6a4a6b5a5759794d4451304d7935775a47593d&fich=4b3c206e-7995-4ad8-a691-38f2def20443.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Quadros Técnicos do Estado e Entidades com Fins Públicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55324d6a557a5a4452694c575a684f5759744e444d774e6930344d7a426a4c5451325a446c68596a45795a6a566b5a4335775a47593d&fich=56253d4b-fa9f-4306-830c-46d9ab12f5dd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores Consulares e das Missões Diplomáticas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67314f446734595463324c546c6c4e4445744e4468684f53303559545a694c54677a4e47466b4d7a646c4d5459784d7935775a47593d&fich=85888a76-9e41-48a9-9a6b-834ad37e1613.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores em Funções Públicas e Sociais do Centro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255784d7a5135595445784c5445344e6d4d744e47557a595331685a4455784c5745344d3249354d4445335a474e6c5a6935775a47593d&fich=e1349a11-186c-4e3a-ad51-a83b9017dcef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566d593245334e5463304c546778596a45744e444d344d533034596a41324c5459354d7a49324d6d4e68596a6c69596935775a47593d&fich=efca7574-81b1-4381-8b06-693262cab9bb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STEFFAs - Sindicato dos Trabalhadores Civis das Forças Armadas, Estabelecimentos Fabris e Empresas de Defesa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526b4d474533593259794c54557a596d59744e444d324e6930345a5755354c5752694f4452685957493459574a6c595335775a47593d&fich=dd0a7cf2-53bf-4366-8ee9-db84aab8abea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a68684f5451774e5751324c5445345a5459744e4467774e6931694d6a41354c5445774d4451794d4751784d6d4a6c4e6935775a47593d&fich=8a9405d6-18e6-4806-b209-100420d12be6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63335a574d315a6a67334c5463345a4441744e4746694d5330354d574d344c5749315a6a4d354e6a517a5957466c4d7935515245593d&fich=77ec5f87-78d0-4ab1-91c8-b5f39643aae3.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324579597a4e6c4d544d774c544e6d596d49744e4463334e4331694f5755314c57566a5a6d526b4d545a69595467784e6935775a47593d&fich=a2c3e130-3fbb-4774-b9e5-ecfdd16ba816.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6c4d5456694d4745354c5451785a5455744e445668595331684e7a6c684c5751785a5755305a4749344d54686b596935775a47593d&fich=6e15b0a9-41e5-45aa-a79a-d1ee4db818db.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55334e7a4978597a41344c5756684e574d744e4751794d5330344e3255334c5755354d6a557a4d6a56694e325a6b5a6935515245593d&fich=57721c08-ea5c-4d21-87e7-e925325b7fdf.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67785a474e6b4e4745324c546b7a4d6a55744e445669597930344f4441324c54426b5a6a4935596a56694d6d5a68596935515245593d&fich=81dcd4a6-9325-45bc-8806-0df29b5b2fab.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e anexo contendo propostas de alteração apresentadas pelo BE, PSD/CDS-PP, Ps e PCP",
+            "pag": [
+              "7-16"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "98",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/098/2014-04-16/7?pgs=7-16&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e anexo contendo propostas de alteração apresentadas pelo BE, PSD/CDS-PP, Ps e PCP",
+            "pag": [
+              "7-16"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "98",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/098/2014-04-16/7?pgs=7-16&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-04-16",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2014-03-21",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296520",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
