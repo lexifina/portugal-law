@@ -1,0 +1,4 @@
+Aviso n.º 45/2014
+Por ordem superior se torna público que, a 19 de agosto de 2011 e a 17 de janeiro de 2012, respetivamente, foram emitidas notas pela Embaixada do Estado do Qatar em Paris e pela Embaixada de Portugal em Doha, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo de Cooperação Económica, Comercial e Técnica entre a República Portuguesa e o Estado do Qatar, assinado em Doha, a 7 de março de 2011.
+O referido Acordo foi aprovado pelo Decreto n.º 1/2012, de 12 de janeiro de 2012, publicado no Diário da República, 1.ª série, n.º 9, de 12 de janeiro de 2012, e nos termos do seu artigo 12.º, entrou em vigor no dia 16 de fevereiro de 2012.
+Direção-Geral de Política Externa, 7 de março de 2014. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
