@@ -1,0 +1,105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "528",
+    "id": "38289",
+    "titulo": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.)"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2014-03-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "33183",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-03-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-03-21",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-04-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 7ª CAM e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f4455794d6d5a6a5a43316b595441324c54526d596a4574596d55335a693079596a4934596a59345a5459315a4459756347526d&fich=a8522fcd-da06-4fb1-be7f-2b28b68e65d6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da COFAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304f474d774e474d795a69316b4f4456684c5451794e7a49744f4446684d4330774f4752694d6d4d345a6a497759324d756347526d&fich=48c04c2f-d85a-4272-81a0-08db2c8f20cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-03-21",
+            "TipoDocumento": "Requerimento",
+            "TituloDocumento": "Reapreciação do despacho de baixa na generalidade - Baixa à 7ª CAM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a444e694d57526c4d6930334f54646d4c545132597a5974596a526d4d6930314f574e6c5a5463324d7a56684e3245756347526d&fich=ed3b1de2-797f-46c6-b4f2-59cee7635a7a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3516",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Agricultura e Mar",
+        "Numero": "3516",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-04-01",
+            "dataRemessa": "2014-04-01",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2014-03-21",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296549",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
