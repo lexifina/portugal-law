@@ -1,0 +1,329 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "969",
+    "id": "38268",
+    "titulo": "Comissão Parlamentar de Inquérito aos programas relativos à aquisição de equipamentos militares (EH 101; P3 ORION; C295; Torpedos; F16; Submarinos; PANDUR II)."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2014-03-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9876",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2014-03-21",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-03-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "12:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=00:02:22:623&drc=00:05:14:329"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/3?pgs=3-4&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a Comissão Parlamentar de Inquérito aos programas relativos à aquisição de equipamentos militares (EH 101; P3 ORION; C295; Torpedos; F16; Submarinos; PANDUR II).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4172",
+                "nome": "Filipe Lobo D' Ávila"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "12:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=00:08:06:668&drc=00:02:44:331"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a Comissão Parlamentar de Inquérito aos programas relativos à aquisição de equipamentos militares (EH 101; P3 ORION; C295; Torpedos; F16; Submarinos; PANDUR II).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4440",
+                "nome": "Mónica Ferro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "12:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=00:11:00:733&drc=00:03:14:701"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a Comissão Parlamentar de Inquérito aos programas relativos à aquisição de equipamentos militares (EH 101; P3 ORION; C295; Torpedos; F16; Submarinos; PANDUR II).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "12:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=00:14:27:136&drc=00:04:19:780"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193583",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a Comissão Parlamentar de Inquérito aos programas relativos à aquisição de equipamentos militares (EH 101; P3 ORION; C295; Torpedos; F16; Submarinos; PANDUR II).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "12:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140321pln&url=l12/sl3/a2014/m03/&tI=00:18:56:196&drc=00:02:32:064"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-22",
+                "pubLeg": "XII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Sobre a Comissão Parlamentar de Inquérito aos programas relativos à aquisição de equipamentos militares (EH 101; P3 ORION; C295; Torpedos; F16; Submarinos; PANDUR II).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296463",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "9876",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-22",
+        "pubLeg": "XII",
+        "pubNr": "64",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/064/2014-03-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
