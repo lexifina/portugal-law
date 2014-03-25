@@ -1,0 +1,120 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "213",
+  "id": "38314",
+  "fases": 23,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-03-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659575669596a6b774e4451744f4449304e6930304e4756684c5749784d6a49745a6d5933597a45334e6a4d774f5751784c6e426b5a673d3d&fich=aebb9044-8246-44ea-b122-ff7c176309d1.pdf&Inline=true",
+        "anexoNome": "Parecer ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595441335a6a45354d4749745a6a55794e4330305a6a55324c546b35595749745a444d325a6d45314d54646c4f444d334c6e426b5a673d3d&fich=a07f190b-f524-4f56-99ab-d36fa517e837.pdf&Inline=true",
+        "anexoNome": "Parecer CIP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659575a6c4e57466d4d4455744e6a5a6b4d7930304e546b324c54686c4f5759744f574a685a6d4a685a575932596d49784c6e426b5a673d3d&fich=afe5af05-66d3-4596-8e9f-9bafbaef6bb1.pdf&Inline=true",
+        "anexoNome": "Parecer A.A.F.P."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a5177597a51794e446774596d466a595330305a5455774c546b334d6a49744d5459794d57557a4e475177595755334c6e426b5a673d3d&fich=640c4248-baca-4e50-9722-1621e34d0ae7.pdf&Inline=true",
+        "anexoNome": "Parecer APCC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659544e6c5a6a6332595749745a6d59774d4330304d4455314c5745304e4467744e7a5a6c4e7a46694e5755354d54426c4c6e426b5a673d3d&fich=a3ef76ab-ff00-4055-a448-76e71b5e910e.pdf&Inline=true",
+        "anexoNome": "Parecer CNIS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e57526a5a5451785a5745744f4468694d7930304e5759794c57457a4e5455745a6a4e694d324e6a4d3245324d574d7a4c6e426b5a673d3d&fich=5dce41ea-88b3-45f2-a355-f3b3cc3a61c3.pdf&Inline=true",
+        "anexoNome": "Parecer AHRESP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f544e6b4e4449354d4463744f44466d5a6930304e6d4d334c54686b4d4755744e474a6d4e5746694f474534597a557a4c6e426b5a673d3d&fich=93d42907-81ff-46c7-8d0e-4bf5ab8a8c53.pdf&Inline=true",
+        "anexoNome": "Parecer APED"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576593255334e32597a596a63745a446c695a693030596a5a684c5749344f4445745a44426d4e325a6c4f545a6b4e5467784c6e426b5a673d3d&fich=ce77f3b7-d9bf-4b6a-b881-d0f7fe96d581.pdf&Inline=true",
+        "anexoNome": "Parecer CNPD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659545135597a4e6d4f5451745a6a41784e5330304f4455344c5745784d574974596a67304e5749775a6a67324f4455324c6e426b5a673d3d&fich=a49c3f94-f015-4858-a11b-b845b0f86856.pdf&Inline=true",
+        "anexoNome": "Parecer CSP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659325a6d4e6d59324e7a41745a54517a5a4330305a6d4a6a4c546c6a4e5445744d544e6c4d575a6d5a574d344f44646c4c6e426b5a673d3d&fich=cff6f670-e43d-4fbc-9c51-13e1ffec887e.pdf&Inline=true",
+        "anexoNome": "Parecer CCP I"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595456694d5751354d544d744d5445315a4330304e546c6a4c5749335a6d49744e5464684f47466d4d7a6b7a4f444a694c6e426b5a673d3d&fich=a5b1d913-115d-459c-b7fb-57a8af39382b.pdf&Inline=true",
+        "anexoNome": "Parecer CCP II"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765932566d4d32566d595451744d544a6c596930304f444e6d4c5749324e574d744e54593259574d325a5746685954557a4c6e426b5a673d3d&fich=cef3efa4-12eb-483f-b65c-566ac6eaaa53.pdf&Inline=true",
+        "anexoNome": "Parecer CTP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47517a5a6d557a4d6a63744f4449305a6930304d54426c4c5745774d6d59744e574a684d324577595756695a6a466b4c6e426b5a673d3d&fich=dd3fe327-824f-410e-a02f-5ba3a0aebf1d.pdf&Inline=true",
+        "anexoNome": "Parecer Couvert AHRESP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659324d7a5a446b315a4459744d446b344d7930304f546b324c5749334f5467744e44557a5a574579597a4934596a686a4c6e426b5a673d3d&fich=cc3d95d6-0983-4996-b798-453ea2c28b8c.pdf&Inline=true",
+        "anexoNome": "Parecer CRAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a574d305a5463304e4459744f446c694e7930304d32497a4c546b355a5751744d545a6d4f546b314e546b35593245344c6e426b5a673d3d&fich=ec4e7446-89b7-43b3-99ed-16f995599ca8.pdf&Inline=true",
+        "anexoNome": "Parecer DECO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4e6b4e6a686c4d475574595467314d5330304e5456684c57466b5a6a4d744d324d315a475a6b5a6a59335a44466a4c6e426b5a673d3d&fich=fcd68e0e-a851-455a-adf3-3c5dfdf67d1c.pdf&Inline=true",
+        "anexoNome": "Parecer Horários AHRESP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e324d314d6a41795a575574596a49774f5330304d444a6c4c546c6b4d6a45745957517a59325a6d597a5a684e3251344c6e426b5a673d3d&fich=7c5202ee-b209-402e-9d21-ad3cffc6a7d8.pdf&Inline=true",
+        "anexoNome": "Parecer UMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4452695a6d4e6b4e4467744e7a686d597930304d6a597a4c574a6c4e544d744f5745795a6d4e684d574e6a596a45304c6e426b5a673d3d&fich=d4bfcd48-78fc-4263-be53-9a2fca1ccb14.pdf&Inline=true",
+        "anexoNome": "Parecer UGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a4d7a59325a694e6d55745a44466a4e7930304e445a694c574a6a4d6d59744d4756684f5459324e5467314d5745794c6e426b5a673d3d&fich=f33cfb6e-d1c7-446b-bc2f-0ea9665851a2.pdf&Inline=true",
+        "anexoNome": "Parecer UGT"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38314",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d5930596a6b334d7a59744e445268597930304d546b304c5749304d445174597a4a6d4d544e6b4d47466c4d445a6c4c6d527659773d3d&fich=bf4b9736-44ac-4194-b404-c2f13d0ae06e.doc&Inline=true",
+    "IniNr": "213",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Autoriza  o Governo a simplificar o regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e a estabelecer o regime contraordenacional respetivo.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
