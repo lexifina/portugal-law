@@ -1,0 +1,9 @@
+Aviso n.º 4086/2014
+Plano de Pormenor da Quelha - Oliveira
+Dr. Alberto Monteiro Pereira, Presidente da Câmara Municipal de Mesão Frio:
+Torna público que a Câmara Municipal, na reunião pública realizada no dia 6 de março de 2014, nos termos e para efeitos do disposto nos n.os 3 e 4 do artigo 77.º e da alínea a) do n.º 4 do artigo 148.º do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação que lhe foi dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro (Regime Jurídico dos Instrumentos de Gestão Territorial), deliberou submeter a discussão pública o Plano de Pormenor da Quelha - Oliveira.
+O período de discussão pública terá início no 6.º dia útil contado a partir da publicação deste aviso no Diário da República e terá a duração de 30 dias úteis.
+O processo encontra-se disponível para consulta na Divisão de Administração e Conservação do Território da Câmara Municipal, dentro das horas normais de expediente, podendo também ser consultado na sede da Junta de Freguesia de Oliveira e no sítio da internet desta Câmara Municipal (www.cm-mesaofrio.pt), bem como se irá realizar uma sessão pública de esclarecimento, no dia 5 de abril de 2014, pelas 15h00, nas instalações daquela Junta de Freguesia.
+Durante este período os interessados poderão formular sugestões ou observações, apresentar ou obter informações ou esclarecimentos, ou qualquer reclamação sobre questões que possam ser consideradas no âmbito do referido Plano, sendo estas apresentadas por escrito, através de carta dirigida ao Presidente da Câmara Municipal de Mesão Frio ou impresso próprio, cujo modelo se encontra disponível no sítio da internet, devendo ainda ter a indicação da morada/contacto do signatário para efeitos de resposta, caso se justifique.
+18 de março de 2014. - O Presidente da Câmara Municipal, Dr. Alberto Monteiro Pereira.
+207697304
