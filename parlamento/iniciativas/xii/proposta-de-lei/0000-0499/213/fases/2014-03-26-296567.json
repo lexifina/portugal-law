@@ -1,0 +1,172 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "213",
+    "id": "38314",
+    "titulo": "Autoriza  o Governo a simplificar o regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e a estabelecer o regime contraordenacional respetivo."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2014-03-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "33189",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-03-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-04-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer ANEL (Associação Nacional das Empresas Lutuosas) + AAFC (Associação dos Agentes Funerários do Centro)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d45304d7a67355a6a55744e5451314e4330305a57526b4c5467785a544d74595455354d574e684d7a49324d4463344c6e426b5a673d3d&fich=2a4389f5-5454-4edd-81e3-a591ca326078.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer ANMP - Associação Nacional dos Municipios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5449335a6d566b5a444d744f47466a4e7930304d6a4d344c57466c4d6a59745a5463784f5759335a6a566c4f5751344c6e426b5a673d3d&fich=527fedd3-8ac7-4238-ae26-e719f7f5e9d8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CCP - Confederação do Comércio e Serviços Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a49334d7a466c4f4449744d4452684d7930304f44686d4c574a684e3245744e6d45784d32526d4d7a646c4e6a4d344c6e426b5a673d3d&fich=22731e82-04a3-488f-ba7a-6a13df37e638.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CNPD - Comissão Nacional de Protecção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e44457a4f544178595467745a4452684d5330304d544e6c4c5749314f5451744f574d314e6a5534595455794f446c694c6e426b5a673d3d&fich=413901a8-d4a1-413e-b594-9c5658a5289b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 6ª CEOP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f574a6a4f474a684f5749744d446c68597930305a546b354c57466c4e7a59744f574e694e6d5932595452685a475a6a4c6e426b5a673d3d&fich=9bc8ba9b-09ac-4e99-ae76-9cb6f6a4adfc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Ratificação Parecer CNPD - Comissão Nacional de Protecção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324e685a445a6a4e5455744e44566d4f5330304f44457a4c5749315a5759744d7a566b4e6a63354d6d55314d575a694c6e426b5a673d3d&fich=ccad6c55-45f9-4813-b5ef-35d6792e51fb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "31-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-10",
+            "pubLeg": "XII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/095/2014-04-10/31?pgs=31-63&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "31-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-10",
+            "pubLeg": "XII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/095/2014-04-10/31?pgs=31-63&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2014-04-09",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "66371",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "193",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-03-26",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Com conexão à 10.ª Comissão.",
+    "OevId": "296567",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
