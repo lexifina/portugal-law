@@ -1,0 +1,376 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "524",
+    "id": "38271",
+    "titulo": "Altera o fundo de compensação salarial dos profissionais da pesca."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-03-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9891",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-03-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38311",
+        "leg": "XII",
+        "nr": "536",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1870",
+            "obs": null,
+            "pag": [
+              "13-19"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/13?pgs=13-19&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Facilita o acesso ao fundo de compensação salarial dos profissionais da pesca."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-03-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:50:40:288&drc=00:03:51:494"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=01:12:26:146&drc=00:01:31:686"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13",
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/13?pgs=13,18-19&org=PLC"
+              }
+            ],
+            "sumario": "Altera o fundo de compensação salarial dos profissionais da pesca;Facilita o acesso ao fundo de compensação salarial dos profissionais da pesca.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:54:49:047&drc=00:02:52:942"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=01:10:09:758&drc=00:02:11:242"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14",
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/14?pgs=14,18&org=PLC"
+              }
+            ],
+            "sumario": "Altera o fundo de compensação salarial dos profissionais da pesca;Facilita o acesso ao fundo de compensação salarial dos profissionais da pesca.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2327",
+                "nome": "João Paulo Viegas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:58:09:598&drc=00:03:56:479"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Altera o fundo de compensação salarial dos profissionais da pesca;Facilita o acesso ao fundo de compensação salarial dos profissionais da pesca.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2165",
+                "nome": "Jorge Fão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=01:02:26:310&drc=00:04:19:771"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Altera o fundo de compensação salarial dos profissionais da pesca;Facilita o acesso ao fundo de compensação salarial dos profissionais da pesca.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1743",
+                "nome": "Ulisses Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=01:06:53:507&drc=00:02:54:653"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=01:14:04:628&drc=00:00:24:497"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/17?pgs=17-19&org=PLC"
+              }
+            ],
+            "sumario": "Altera o fundo de compensação salarial dos profissionais da pesca;Facilita o acesso ao fundo de compensação salarial dos profissionais da pesca.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296561",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "687691",
+        "obs": null,
+        "pag": [
+          "13-19"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-28",
+        "pubLeg": "XII",
+        "pubNr": "66",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/13?pgs=13-19&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
