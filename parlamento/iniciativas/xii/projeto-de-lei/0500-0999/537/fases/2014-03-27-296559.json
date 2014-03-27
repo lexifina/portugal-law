@@ -1,0 +1,704 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "537",
+    "id": "38312",
+    "titulo": "1ª alteração à Lei Tutelar Educativa, aprovada pela Lei nº 166/99, de 14 de setembro."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-03-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9889",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-03-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38254",
+        "leg": "XII",
+        "nr": "520",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Primeira alteração à Lei Tutelar Educativa."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38308",
+        "leg": "XII",
+        "nr": "534",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Procede à primeira alteração à Lei Tutelar Educativa, aprovada em anexo à Lei n.º 166/99, de 14 de setembro."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38306",
+        "leg": "XII",
+        "nr": "535",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Lei Tutelar Educativa (Primeira alteração à Lei n.º 166/99, de 14 de setembro)."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38304",
+        "leg": "XII",
+        "nr": "989",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1869",
+            "obs": null,
+            "pag": [
+              "8-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-28",
+            "pubLeg": "XII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-12&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda a monitorização da aplicação da Lei Tutelar Educativa (Lei n.º 166/99, de 14 de setembro)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-03-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4133",
+                "nome": "Isabel Oneto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:27:45:477&drc=00:03:46:391"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Tutelar Educativa; Procede à primeira alteração à Lei Tutelar Educativa, aprovada em anexo à Lei n.º 166/99, de 14 de setembro; Lei Tutelar Educativa (Primeira alteração à Lei n.º 166/99, de 14 de setembro); 1ª alteração à Lei Tutelar Educativa, aprovada pela Lei nº 166/99, de 14 de setembro; Recomenda a monitorização da aplicação da Lei Tutelar Educativa (Lei n.º 166/99, de 14 de setembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3918",
+                "nome": "Maria Paula Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:31:45:574&drc=00:05:16:043"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/9?pgs=9&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Tutelar Educativa; Procede à primeira alteração à Lei Tutelar Educativa, aprovada em anexo à Lei n.º 166/99, de 14 de setembro; Lei Tutelar Educativa (Primeira alteração à Lei n.º 166/99, de 14 de setembro); 1ª alteração à Lei Tutelar Educativa, aprovada pela Lei nº 166/99, de 14 de setembro; Recomenda a monitorização da aplicação da Lei Tutelar Educativa (Lei n.º 166/99, de 14 de setembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:37:13:321&drc=00:03:37:374"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/10?pgs=10&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Tutelar Educativa; Procede à primeira alteração à Lei Tutelar Educativa, aprovada em anexo à Lei n.º 166/99, de 14 de setembro; Lei Tutelar Educativa (Primeira alteração à Lei n.º 166/99, de 14 de setembro); 1ª alteração à Lei Tutelar Educativa, aprovada pela Lei nº 166/99, de 14 de setembro; Recomenda a monitorização da aplicação da Lei Tutelar Educativa (Lei n.º 166/99, de 14 de setembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4289",
+                "nome": "Teresa Anjinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:41:01:251&drc=00:05:16:568"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Tutelar Educativa; Procede à primeira alteração à Lei Tutelar Educativa, aprovada em anexo à Lei n.º 166/99, de 14 de setembro; Lei Tutelar Educativa (Primeira alteração à Lei n.º 166/99, de 14 de setembro); 1ª alteração à Lei Tutelar Educativa, aprovada pela Lei nº 166/99, de 14 de setembro; Recomenda a monitorização da aplicação da Lei Tutelar Educativa (Lei n.º 166/99, de 14 de setembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140327pln&url=l12/sl3/a2014/m03/&tI=00:46:27:875&drc=00:02:55:125"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-03-28",
+                "pubLeg": "XII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/12?pgs=12&org=PLC"
+              }
+            ],
+            "sumario": "Primeira alteração à Lei Tutelar Educativa; Procede à primeira alteração à Lei Tutelar Educativa, aprovada em anexo à Lei n.º 166/99, de 14 de setembro; Lei Tutelar Educativa (Primeira alteração à Lei n.º 166/99, de 14 de setembro); 1ª alteração à Lei Tutelar Educativa, aprovada pela Lei nº 166/99, de 14 de setembro; Recomenda a monitorização da aplicação da Lei Tutelar Educativa (Lei n.º 166/99, de 14 de setembro).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296559",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "705090",
+        "obs": null,
+        "pag": [
+          "8-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-28",
+        "pubLeg": "XII",
+        "pubNr": "66",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/066/2014-03-28/8?pgs=8-13&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
