@@ -1,0 +1,132 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "185",
+  "data_registo": "2014-03-27",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar pela morte de Adolfo Suárez",
+    "AutoresGP": [
+      "PSD",
+      "PS",
+      "CDS-PP",
+      "Maria Paula Cardoso (PSD)",
+      "Hugo Lopes Soares (PSD)",
+      "Hortense Martins (PS)",
+      "Odete João (PS)",
+      "Ferro Rodrigues (PS)",
+      "Maria de Belém Roseira (PS)",
+      "Cristóvão Norte (PSD)",
+      "Alberto Martins (PS)",
+      "Isabel Oneto (PS)",
+      "António Rodrigues (PSD)",
+      "Duarte Pacheco (PSD)",
+      "Mónica Ferro (PSD)",
+      "Miguel Frasquilho (PSD)",
+      "Telmo Correia (CDS-PP)",
+      "José Ribeiro e Castro (CDS-PP)",
+      "Cecília Meireles (CDS-PP)",
+      "Filipe Lobo D' Ávila (CDS-PP)",
+      "Nuno Magalhães (CDS-PP)",
+      "Helder Amaral (CDS-PP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2014-03-28",
+    "DataAnuncio": null,
+    "DataEntrada": "2014-03-27",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "185",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "682551",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-29",
+        "pubLeg": "XII",
+        "pubNr": "38",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/038/2014-03-29/3?pgs=3&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "29140",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-03-29",
+        "pubLeg": "XII",
+        "pubNr": "67",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/067/2014-03-29?org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2014-03-28",
+        "descricao": null,
+        "detalhe": null,
+        "id": "66253",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "679530",
+            "obs": null,
+            "pag": [
+              "45-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-03-29",
+            "pubLeg": "XII",
+            "pubNr": "67",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/067/2014-03-29/45?pgs=45&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "67",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
