@@ -2,9 +2,9 @@
 
 ### Divulgação
 
-1 - São de divulgação obrigatória no balcão único eletrónico, no prazo de cinco dias, os seguintes documentos:
+1 - São de divulgação obrigatória no balcão único eletrónico, logo que disponíveis ou no prazo máximo de 15 dias, os seguintes documentos:
 
-a) A decisão sobre a sujeição a AIA nas análises caso a caso referidas no artigo 3.º;
+a) A decisão sobre a sujeição a AIA na análise caso a caso referidas no artigo 3.º;
 
 b) A decisão de dispensa de procedimento de AIA;
 

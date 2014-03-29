@@ -2,7 +2,7 @@
 
 ### Taxas
 
-1 - Os procedimentos de dispensa de AIA, de definição do âmbito de EIA, de AIA e de verificação da conformidade ambiental do projeto de execução e de qualificação de verificadores estão sujeitos a taxas destinadas a custear os encargos administrativos que lhe são inerentes, cujo pagamento é prévio à prática dos atos.
+1 - Os procedimentos de dispensa de AIA, de definição do âmbito de EIA, de AIA e de verificação da conformidade ambiental do projeto de execução estão sujeitos a taxas destinadas a custear os encargos administrativos que lhe são inerentes, cujo pagamento é prévio à prática dos atos.
 
 2 - Nos casos em que há lugar a modificação de projeto ou a necessidade de prever medidas adicionais de minimização ou compensação apenas há lugar ao pagamento de um adicional à taxa.
 

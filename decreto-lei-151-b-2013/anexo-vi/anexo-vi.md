@@ -12,13 +12,13 @@ b) Identificação e localização do projeto;
 
 c) Indicação que o projeto está sujeito a procedimento de AIA, no caso da consulta pública prevista no artigo 15.º;
 
-d) Indicação que o projeto está sujeito a procedimento de verificação da conformidade ambiental, no caso da consulta pública prevista no n.º 6 do artigo 20.º;
+d) Indicação que o projeto está sujeito a procedimento de verificação da conformidade ambiental, no caso da consulta pública prevista no n.º 5 do artigo 20.º;
 
 e) Indicação que o projeto está sujeito a consulta entre Estados membros, quando aplicável;
 
 f ) Indicação dos documentos que integram o procedimento de AIA e do local e data onde os mesmos se encontram disponíveis, bem como outra informação relevante e meios de disponibilização, no caso da consulta pública prevista no artigo 15.º;
 
-g) Indicação dos documentos que integram o procedimento de verificação da conformidade ambiental do projeto de execução e do local e data onde os mesmos se encontram disponíveis, bem como outra informação relevante e meios de disponibilização, no caso da consulta pública prevista no n.º 6 do artigo 20.º;
+g) Indicação dos documentos que integram o procedimento de verificação da conformidade ambiental do projeto de execução e do local e data onde os mesmos se encontram disponíveis, bem como outra informação relevante e meios de disponibilização, no caso da consulta pública prevista no n.º 5 do artigo 20.º;
 
 h) Período de duração e forma de concretização da consulta pública;
 
@@ -26,7 +26,7 @@ i) Identificação da autoridade de AIA;
 
 j) Identificação da entidade competente para emitir a DIA, no caso da consulta pública prevista no artigo 15.º;
 
-k) Identificação da entidade competente para emitir a decisão sobre a conformidade ambiental do projeto de execução, no caso da consulta pública prevista no n.º 6 do artigo 20.º;
+k) Identificação da entidade competente para emitir a decisão sobre a conformidade ambiental do projeto de execução, no caso da consulta pública prevista no n.º 5 do artigo 20.º;
 
 l) Identificação da entidade competente para licenciar ou autorizar o projeto;
 
@@ -38,8 +38,6 @@ o) Indicação expressa de que o licenciamento ou autorização do projeto só p
 
 p) Prazo para a emissão da DIA, no caso da consulta pública prevista no artigo 15.º;
 
-q) Prazo para a emissão da decisão sobre a conformidade ambiental do projeto de execução, no caso da consulta pública prevista no n.º 6 do artigo 20.º;
+q) Prazo para a emissão da decisão sobre a conformidade ambiental do projeto de execução, no caso da consulta pública prevista no n.º 5 do artigo 20.º;
 
-r) A natureza de possíveis decisões ou o projeto de decisão, caso exista;
-
-s) Indicação da possibilidade de impugnação administrativa, através de reclamação ou recurso hierárquico facultativo, nos termos do Código do Procedimento Administrativo, e contenciosamente, nos termos do Código de Processo dos Tribunais Administrativos, de qualquer decisão, ato ou omissão ao disposto no presente decreto-lei.
+r) Indicação da possibilidade de impugnação administrativa, através de reclamação ou recurso hierárquico facultativo, nos termos do Código do Procedimento Administrativo, e contenciosamente, nos termos do Código de Processo dos Tribunais Administrativos, de qualquer decisão, ato ou omissão ao disposto no presente decreto-lei.

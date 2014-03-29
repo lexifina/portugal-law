@@ -4,7 +4,7 @@
 
 Compete à entidade que licencia ou autoriza o projeto:
 
-a) Remeter à autoridade de AIA os elementos apresentados pelo proponente para efeitos dos procedimentos de AIA e de verificação da conformidade ambiental do projeto de execução com a DIA, quando esses elementos não sejam remetidos através da plataforma eletrónica da autoridade de AIA;
+a) Remeter à autoridade de AIA os elementos apresentados pelo proponente para efeitos dos procedimentos de AIA e de verificação da conformidade ambiental do projeto de execução com a DIA;
 
 b) Remeter à autoridade de AIA o resultado da apreciação do cumprimento das condicionantes da DIA ou das condicionantes da decisão sobre a conformidade ambiental do projeto de execução, sempre que essa verificação lhe esteja atribuída;
 

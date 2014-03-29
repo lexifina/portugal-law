@@ -42,7 +42,7 @@ i) Promover a consulta pública e elaborar o respetivo relatório;
 
 j) Proceder à publicitação dos documentos e informações nos termos do presente decreto-lei;
 
-k) Emitir a DIA, com exceção dos projetos em que a autoridade de AIA é simultaneamente o proponente, caso em que a proposta de DIA é remetida ao membro do Governo responsável pela área do ambiente;
+k) Emitir a DIA, exceto em caso de proposta de DIA desfavorável, a qual deve ser remetida ao membro do Governo responsável pela área do ambiente;
 
 l) Dirigir o procedimento de verificação da conformidade ambiental do projeto de execução e emitir a respetiva decisão;
 

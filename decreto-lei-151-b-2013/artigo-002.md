@@ -16,15 +16,7 @@ b) «Auditoria», avaliação, a posteriori, dos impactes ambientais do projeto,
 
 c) «Autorização» ou «licença», decisão que confere ao proponente o direito a realizar o projeto;
 
-d) «Avaliação de impacte ambiental» ou «AIA», instrumento de carácter preventivo da política de ambiente, sustentado:
-
-i) Na elaboração de um estudo de impacte ambiental;
-
-ii) Na realização de consultas públicas e de consultas a entidades competentes em razão da matéria;
-
-iii) Na análise pelas autoridades competentes da informação apresentada no estudo e de eventual informação suplementar fornecida pelo proponente ou decorrente das consultas efetuadas; e
-
-iv) Na conclusão fundamentada pela autoridade de avaliação de impacte ambiental sobre os efeitos significativos do projeto no ambiente, bem como a identificação e proposta de medidas que evitem, minimizem ou compensem esses efeitos, tendo em vista uma decisão sobre a viabilidade da execução de tais projetos e respetiva pós-avaliação;
+d) «Avaliação de impacte ambiental» ou «AIA», instrumento de carácter preventivo da política do ambiente, sustentado na realização de estudos e consultas, com efetiva participação pública e análise de possíveis alternativas, que tem por objeto a recolha de informação, identificação e previsão dos efeitos ambientais de determinados projetos, bem como a identificação e proposta de medidas que evitem, minimizem ou compensem esses efeitos, tendo em vista uma decisão sobre a viabilidade da execução de tais projetos e respetiva pós-avaliação;
 
 e) «Consulta pública», forma de participação pública destinada à recolha de opiniões, sugestões e outros contributos do público interessado sobre cada projeto sujeito a AIA;
 
@@ -50,12 +42,10 @@ o) «Projeto», a realização de obras de construção ou de outras instalaçõ
 
 p) «Proponente», pessoa singular ou coletiva, pública ou privada, que apresenta um pedido de autorização ou de licenciamento de um projeto;
 
-q) «Proposta de definição de âmbito do estudo de impacte ambiental» ou «PDA», documento elaborado pelo proponente no âmbito da fase de definição do âmbito do estudo de impacte ambiental, que contém uma descrição sumária do tipo, características e localização do projeto, e a identificação, análise e seleção das vertentes ambientais significativas que podem ser afetadas e sobre as quais o estudo de impacte ambiental deve incidir;
+q) «Público», uma ou mais pessoas singulares, pessoas coletivas de direito público ou privado, bem como as suas associações, organizações representativas ou agrupamentos;
 
-r) «Público», uma ou mais pessoas singulares, pessoas coletivas de direito público ou privado, bem como as suas associações, organizações representativas ou agrupamentos;
+r) «Público interessado», os titulares de direitos subjetivos ou de interesses legalmente protegidos, no âmbito das decisões tomadas no procedimento administrativo de AIA, bem como o público afetado ou suscetível de ser afetado por essa decisão, designadamente as Organizações Não-Governamentais de Ambiente (ONGA);
 
-s) «Público interessado», os titulares de direitos subjetivos ou de interesses legalmente protegidos, no âmbito das decisões tomadas no procedimento administrativo de AIA, bem como o público afetado ou suscetível de ser afetado por essa decisão, designadamente as Organizações Não-Governamentais de Ambiente (ONGA);
+s) «Resumo não técnico» ou «RNT», documento que integra o EIA e o Relatório de Conformidade Ambiental do Projeto de Execução e que tem como objetivo servir de suporte à participação pública, descrevendo, de forma coerente e sintética, numa linguagem e com uma apresentação acessível à generalidade do público, as informações constantes dos mesmos;
 
-t) «Resumo não técnico» ou «RNT», documento que integra o EIA e o Relatório de Conformidade Ambiental do Projeto de Execução e que tem como objetivo servir de suporte à participação pública, descrevendo, de forma coerente e sintética, numa linguagem e com uma apresentação acessível à generalidade do público, as informações constantes dos mesmos;
-
-u) «Relatório de Conformidade Ambiental do Projeto de Execução» ou «RECAPE», documento elaborado pelo proponente no âmbito da verificação da conformidade do projeto de execução com a DIA, que contém a descrição do projeto de execução, a análise do cumprimento dos critérios estabelecidos pela DIA emitida em fase de anteprojeto ou estudo prévio, a caracterização pormenorizada dos impactes ambientais considerados relevantes no âmbito do projeto de execução, a identificação e caraterização detalhada das medidas destinadas a evitar, minimizar ou compensar os impactes negativos esperados a adotar nas fases de construção, exploração e desativação, incluindo a descrição da forma de concretização das mesmas, e a apresentação dos programas de monitorização a implementar.
+t) «Relatório de Conformidade Ambiental do Projeto de Execução» ou «RECAPE», documento elaborado pelo proponente no âmbito da verificação da conformidade do projeto de execução com a DIA, que contém a descrição do projeto de execução, a análise do cumprimento dos critérios estabelecidos pela DIA emitida em fase de anteprojeto ou estudo prévio, a caracterização pormenorizada dos impactes ambientais considerados relevantes no âmbito do projeto de execução, a identificação e caraterização detalhada das medidas destinadas a evitar, minimizar ou compensar os impactes negativos esperados a adotar nas fases de construção, exploração e desativação, incluindo a descrição da forma de concretização das mesmas, e a apresentação dos programas de monitorização a implementar.

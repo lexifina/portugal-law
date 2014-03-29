@@ -2,7 +2,7 @@
 
 ### Contraordenações
 
-1 - Para efeitos de determinação da coima aplicável às contraordenações ambientais, nos termos do disposto no artigo 21.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, que aprovou a lei-quadro das contraordenações ambientais, estas classificam-se em leves, graves e muito graves, correspondendo-lhes o montante das coimas previsto no artigo 22.º da referida lei.
+1 - Nos termos do disposto no artigo 21.º da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, que aprovou a lei-quadro das contraordenações ambientais, para efeitos de determinação da coima aplicável às contraordenações ambientais, estas classificam-se em leves, graves e muito graves, a que corresponde o montante das coimas previsto no artigo 22.º da referida lei-quadro.
 
 2 - Constitui contraordenação ambiental muito grave:
 
@@ -12,7 +12,7 @@ b) A execução parcial ou total de projetos sujeitos a AIA nos termos dos n.os 
 
 c) A execução parcial ou total de projetos sujeitos a AIA nos termos dos n.os 3, 4 e 5 do artigo 1.º cuja DIA tenha caducado nos termos previstos no artigo 23.º;
 
-d) O não cumprimento das medidas fixadas na decisão sobre a conformidade ambiental do projeto de execução nos termos do n.º 5 do artigo 21.º;
+d) A execução parcial ou total de projetos sujeitos a AIA nos termos dos n.os 3, 4 e 5 do artigo 1.º cuja decisão sobre a conformidade ambiental do projeto de execução, quando aplicável, tenha caducado nos termos previstos no artigo 23.º.
 
 3 - Constitui contraordenação ambiental grave:
 
@@ -36,6 +36,6 @@ b) A falta de remessa à autoridade de AIA dos dados do projeto solicitados nos 
 
 c) Qualquer impedimento ou obstáculo da responsabilidade do proponente ao acesso pela autoridade de AIA aos locais onde o projeto se desenvolve.
 
-5 - A tentativa e a negligência são puníveis nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual.
+5 - A tentativa e a negligência são puníveis nos termos da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto.
 
-6 - A condenação pela prática das contraordenações ambientais previstas nos n.os 1 e 2 pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstrata aplicável.
+6 - A condenação pela prática das contraordenações ambientais previstas nos n.os 1 e 2 pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstrata aplicável.
