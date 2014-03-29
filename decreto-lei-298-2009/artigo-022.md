@@ -12,16 +12,6 @@ b) Prestação efectiva de serviço no exterior das instalações da subunidade 
 
 3 - O valor mensal do suplemento de ronda ou patrulha é fixado nos seguintes montantes:
 
-a) Em 2026:
+a) Sargentos - (euro) 65,03;
 
-i) Sargentos - 90,03 €;
-
-ii) Guardas - 84,13 €;
-
-b) A partir de 2027:
-
-i) Sargentos - 115,03 €;
-
-ii) Guardas - 109,13 €.
-
-4 - O valor mensal do suplemento é atualizado anualmente pelo índice de preços no consumidor a partir de 2028.
+b) Guardas - (euro) 59,13.
