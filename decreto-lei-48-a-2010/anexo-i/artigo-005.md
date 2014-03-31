@@ -15,3 +15,5 @@ d) O escalão D é de 15 % do preço de venda ao público dos medicamentos.
 2 - Os grupos e subgrupos farmacoterapêuticos que integram os diferentes escalões de comparticipação são fixados por portaria do membro do Governo responsável pela área da saúde.
 
 3 - Podem ser incluídos no escalão D de comparticipação novos medicamentos, medicamentos com comparticipação ajustada ao abrigo do artigo seguinte ou medicamentos que, por razões específicas e após parecer fundamentado emitido no âmbito do processo de avaliação do pedido de comparticipação, fiquem abrangidos por um regime de comparticipação transitório.
+
+4 - Sempre que seja excluído um grupo ou subgrupo farmacoterapêutico comparticipável, de entre os previstos na portaria prevista no n.º 2, ou sempre que ocorra alteração ao escalão que lhe corresponda, tal implica, respetivamente, a automática exclusão da comparticipação, ou a alteração do escalão, dos medicamentos comparticipados pertencentes a esse grupo ou subgrupo farmacoterapêutico, com efeitos a partir do primeiro dia do mês imediato ao da publicação da portaria que introduza aquelas modificações.
