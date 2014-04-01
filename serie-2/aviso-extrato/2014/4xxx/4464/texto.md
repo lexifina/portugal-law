@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 4464/2014
+Gil Nadais Resende da Fonseca, Presidente da Câmara Municipal de Águeda, torna público que, por deliberação do Executivo Municipal de 18 de março de 2014, e nos termos do n.º 1 do artigo 118.º do Código do Procedimento Administrativo, durante o prazo de 30 dias úteis a contar da publicação do presente aviso no Diário da República, é submetida a apreciação pública a 5.ª Alteração ao Código Regulamentar do Município de Águeda, cujo texto e documentos anexos podem ser consultados no site da Câmara Municipal de Águeda (www.cm-agueda.pt) ou no GAM - Gabinete de Atendimento ao Munícipe, no edifício dos Paços do Concelho.
+Conforme o n.º 2 da referida disposição legal, convidam-se todos os interessados a dirigir ao Presidente da Câmara Municipal de Águeda, durante o período mencionado e por escrito, eventuais sugestões, para o endereço "Câmara Municipal de Águeda, Praça do Município, 3754-500 Águeda", ou para o e-mail "dv-aju@cm-agueda.pt".
+21 de março de 2014. - O Presidente da Câmara, Gil Nadais Resende da Fonseca.
+307233668
