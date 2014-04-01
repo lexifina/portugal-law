@@ -8,11 +8,11 @@
 
 1 - A prova prática só pode ser prestada em veículos licenciados para instrução ou para exame, com possibilidade de recurso a equipamento de monitorização da prova, nos termos a fixar por deliberação do conselho diretivo do IMT, I. P.
 
-2 - Exceciona-se do disposto no número anterior as provas dos candidatos:
+2 - Exceciona-se do disposto no número anterior das provas dos candidatos:
 
 a) Cujos certificados de aptidão médica e psicológica imponham a condução de veículos com determinadas características ou especialmente adaptados;
 
-b) Em regime de autopropositura, nos termos previstos no n.º 2 e na alínea e) do n.º 3 do artigo 33.º
+b) Em regime de autopropositura.
 
 3 - A prova prática pode ser prestada em veículo de caixa manual ou de caixa automática.
 
@@ -22,7 +22,7 @@ b) Em regime de autopropositura, nos termos previstos no n.º 2 e na alínea e) 
 
 6 - [Anterior n.º 5].
 
-7 - A restrição imposta no número anterior não é aplicável às categorias BE, C, CE, C1, C1E, D, DE, D1 ou D1E obtidas por exame realizado em veículo de caixa automática quando o candidato seja titular de carta de condução de pelo menos uma das categorias B, BE, C, CE, C1, C1E, D, De, D1 ou D1E, obtidas por exame de condução realizado em veículo de caixa manual em que tenham sido avaliadas as matérias descritas no ponto 3.12 da secção III ou no ponto 3.1.14 da secção V da parte II do anexo VII.
+7 - A restrição imposta no número anterior não é aplicável às categorias C, CE, D ou DE, obtidas por exame realizado em veículo de caixa automática, quando o candidato seja titular de uma carta de condução, de pelo menos uma das categorias B, BE, C1, C1E C, CE, D1 ou D1E, obtidas por exame de condução realizado em veículo de caixa manual, em que tenham sido avaliadas as matérias descritas no ponto 3.12 da secção III ou no ponto 3.1.14 da secção V da parte II do anexo VII.
 
 8 - Os veículos a utilizar na prova prática de exame devem obedecer às características constantes da parte III do anexo VII, sendo contudo admissíveis:
 

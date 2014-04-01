@@ -1,7 +1,3 @@
-## Subsecção III
-
-## Veículos de exame
-
 ## Título III
 
 ## Disposições finais
