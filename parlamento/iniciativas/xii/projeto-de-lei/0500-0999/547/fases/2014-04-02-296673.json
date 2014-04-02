@@ -1,0 +1,739 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "547",
+    "id": "38332",
+    "titulo": "Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-04-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9903",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-04-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38289",
+        "leg": "XII",
+        "nr": "528",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1873",
+            "obs": null,
+            "pag": [
+              "16-32"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-03",
+            "pubLeg": "XII",
+            "pubNr": "68",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/16?pgs=16-32&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-04-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1993",
+                "nome": "Pedro do Ó Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:11:12:682&drc=00:05:26:096"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:17:32:363&drc=00:02:00:993"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/16?pgs=16-18&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:17:00:188&drc=00:00:25:328"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:19:40:998&drc=00:03:12:475"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:24:57:167&drc=00:01:04:248"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4353",
+                "nome": "Manuel Isaac"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:23:05:564&drc=00:01:45:435"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2250",
+                "nome": "Miguel Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:26:02:541&drc=00:10:22:864"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:37:04:079&drc=00:04:10:280"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:41:24:643&drc=00:06:41:121"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:48:15:344&drc=00:08:44:378"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/25?pgs=25-28&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=01:57:11:993&drc=00:07:27:226"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=02:06:30:538&drc=00:01:57:462"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DAS FLORESTAS E DESENVOLVIMENTO RURAL",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Francisco Gomes Da Silva"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/28?pgs=28-30&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=02:04:45:395&drc=00:01:40:604"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1993",
+                "nome": "Pedro do Ó Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=02:08:40:389&drc=00:00:31:002"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4318",
+                "nome": "Nuno Serra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140402pln&url=l12/sl3/a2014/m04/&tI=02:09:24:617&drc=00:03:27:702"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-03",
+                "pubLeg": "XII",
+                "pubNr": "68",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Alteração à Lei dos Baldios (altera a Lei n.º 68/93, de 4 de setembro, com redação da Lei n.º 89/97, de 30 de junho, que estabelece a lei dos baldios, altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e efetua a nona alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.); Revoga as disposições relativas aos Baldios na Bolsa de Terras (primeira alteração à Lei n.º 62/2012, de 10 de dezembro).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296673",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "679554",
+        "obs": null,
+        "pag": [
+          "16-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-04-03",
+        "pubLeg": "XII",
+        "pubNr": "68",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/068/2014-04-03/16?pgs=16-32&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
