@@ -1,0 +1,181 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "549",
+    "id": "38338",
+    "titulo": "Alteração da designação da Freguesia da União das Freguesias de Real, Ataíde e Oliveira, no município de Amarante, para Freguesia de Vila Meã."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2014-04-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "33267",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-04-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Ofício Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5459344f44686c595749744e57466b4e793030597a4d324c546b354d4441745a4459785a475130597a4d35596d49344c6e52705a673d3d&fich=e6888eab-5ad7-4c36-9900-d61dd4c39bb8.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-24",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer AF UF Real, Ataíde e Oliveira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d47526a595455774f4451744e6d51324e6930305a4755334c5745304f544d74596a566c4e545268596a41334d5755334c6e52705a673d3d&fich=0dca5084-6d66-4de7-a493-b5e54ab071e7.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer AM Amarante",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a45325a5441324d4759744d7a45344f5330304e4755344c54686b5a6a6b744d7a52694d5456684e574932597a67774c6e52705a673d3d&fich=216e060f-3189-44e8-8df9-34b15a5b6c80.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CM Amarante",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595467774e7a6778595459744e6d49784d5330304d4745324c5745354f4451745a444d335a44566959546731596d45344c6e52705a673d3d&fich=a80781a6-6b11-40a6-a984-d37d5ba85ba8.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a426a4d5746695a6a45745a444d314d7930304f5441304c574a68597a597459545a6a4d7a49774f475132596a55784c6e52705a673d3d&fich=c0c1abf1-d353-4904-bac6-a6c3208d6b51.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer JF UF Real, Ataíde e Oliveira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a45354d32566d4e4445744e6a4d775a4330304f5442694c5749794f5745744e6d55314e6a6c6b4e546330596d45794c6e52705a673d3d&fich=7193ef41-630d-490b-b29a-6e569d574ba2.tif&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "17-22"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-02-18",
+            "pubLeg": "XII",
+            "pubNr": "79",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/079/2015-02-18/17?pgs=17-22&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "17-22"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-02-18",
+            "pubLeg": "XII",
+            "pubNr": "79",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/079/2015-02-18/17?pgs=17-22&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4390",
+            "motivoCessacao": null,
+            "nome": "Maria José Castelo Branco"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-02-17",
+            "dataRemessa": "2015-02-18",
+            "numeroOficio": "34/CAOTPL",
+            "observacoes": "Remessa do Parecer",
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-02-17",
+            "dataRemessa": "2015-04-14",
+            "numeroOficio": "72/CAOTPL",
+            "observacoes": "Ofício remetendo IL para apreciação e votação na Generalidade, Especialidade e Votação Final",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2014-04-04",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "296772",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
