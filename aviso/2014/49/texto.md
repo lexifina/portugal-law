@@ -1,0 +1,5 @@
+Aviso n.º 49/2014
+Por ordem superior se torna público que, em 10 de dezembro de 2013 e 19 de março de 2014, foram recebidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pela Embaixada do Reino da Espanha em Lisboa, em que se notifica terem sido cumpridos os respetivos requisitos de Direito interno para aprovação do Acordo entre a República Portuguesa e o Reino de Espanha para a Criação do Bloco Funcional de Espaço Aéreo do Sudoeste (SW FAB), assinado em Lisboa, em 17 de maio de 2013.
+Por parte da República Portuguesa o Acordo foi aprovado pela Resolução da Assembleia da República n.º 25/2014, de 24 de janeiro, e ratificado pelo Decreto do Presidente da República n.º 17/2014, de 18 de março, ambos publicados no Diário da República, 1.ª série, n.º 54, de 18 de março de 2014.
+Nos termos do seu artigo 34.º, o Acordo entrará em vigor a 18 de abril de 2014.
+Direção-Geral dos Assuntos Europeus, 24 de março de 2014. - O Diretor-Geral dos Assuntos Europeus, Francisco António Duarte Lopes.
