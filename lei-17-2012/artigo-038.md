@@ -28,4 +28,14 @@ b) Definir os termos e condições de acesso às redes do serviço universal, as
 
 c) Determinar alterações aos termos e condições de acesso publicitados, a qualquer tempo e, se necessário, com efeito retroativo.
 
-7 - Os restantes prestadores de serviços postais podem negociar e acordar entre si as modalidades técnicas e comerciais de acesso às respetivas redes, podendo o ICP-ANACOM intervir, nos termos dos n.os 3 a 5, sempre que tal seja necessário para garantir uma concorrência efetiva ou proteger os interesses dos utilizadores.
+7 - Os prestadores de serviços postais, ainda que não tenham obrigações de serviço universal, podem negociar e acordar entre si as modalidades técnicas e comerciais de acesso às respetivas redes, podendo o ICP-ANACOM intervir, nos termos dos n.os 3 a 5, sempre que tal seja necessário para garantir uma concorrência efetiva, proteger os interesses dos utilizadores ou assegurar a prestação do serviço universal.
+
+8 - O ICP-ANACOM pode, quando o considere necessário para assegurar a prestação do serviço universal em todo ou parte do território nacional pelo prestador ou prestadores a designar na sequência do mecanismo de designação a que se refere a alínea b) do n.º 1 do artigo 17.º:
+
+a) Estabelecer que os prestadores de serviços postais publicitem, de forma adequada, os termos e condições de acesso a determinados elementos da sua rede, sem o acesso aos quais a prestação do serviço universal pode ficar prejudicada, incluindo preços;
+
+b) Definir os termos e condições de acesso a determinados elementos das redes postais dos prestadores de serviços postais, sem o acesso aos quais a prestação do serviço universal pode ficar prejudicada, e as informações a publicitar nos termos da alínea anterior, bem como a forma e o modo da sua publicitação;
+
+c) Determinar alterações aos termos e condições de acesso publicitados, a qualquer tempo e, se necessário, com efeito retroativo.
+
+9 - A imposição das medidas a que alude o número anterior deve ser precedida de uma análise destinada a avaliar a sua necessidade e o impacto de tais medidas no mercado, e obedece ao princípio da proporcionalidade.

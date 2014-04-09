@@ -22,4 +22,6 @@ b) Ao regime de autorização geral, nos restantes casos.
 
 4 - Para efeitos do número anterior, ao analisar as condições exigíveis para o exercício da atividade de prestador de serviços postais, o ICP-ANACOM deve ter em conta os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em território nacional ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
 
-5 - Compete ao ICP-ANACOM aprovar as regras procedimentais, os modelos e os formulários necessários para o exercício da atividade de prestador de serviços postais.
+5 - Para efeitos do disposto na alínea a) do n.º 1, consideram-se abrangidos pelo âmbito do serviço universal os serviços que sejam qualificados pelo ICP-ANACOM como permutáveis com os serviços definidos no artigo 12.º, nos termos dos n.os 5 e 6 do artigo 21.º.
+
+6 - Compete ao ICP-ANACOM aprovar as regras procedimentais, os modelos e os formulários necessários para o exercício da atividade de prestador de serviços postais.

@@ -10,6 +10,8 @@
 
 2 - A intervenção do ICP-ANACOM deve ser solicitada por qualquer das partes no prazo máximo de 12 meses a contar da data do início do litígio.
 
-3 - A decisão do ICP-ANACOM, salvo em circunstâncias excecionais, deve ser proferida no prazo máximo de quatro meses a contar da data da apresentação do pedido.
+3 - A decisão do ICP-ANACOM, salvo em circunstâncias excecionais, deve ser proferida no prazo máximo de quatro meses a contar da data da apresentação do pedido, sem prejuízo do disposto no n.º 5.
 
 4 - A decisão do ICP-ANACOM deve ser devidamente fundamentada e fixar um prazo para a sua execução, sendo notificada às partes e publicada, desde que salvaguardado o sigilo comercial.
+
+5 - Em caso de manifesta urgência relacionada com a necessidade de assegurar a prestação do serviço universal, a decisão do ICP-ANACOM deve ser proferida no prazo máximo de 40 dias a contar da data de apresentação do pedido.

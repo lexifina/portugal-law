@@ -17,3 +17,7 @@ d) O produto das coimas e da aplicação de sanções pecuniárias compulsórias
 3 - O ICP-ANACOM deve ser ouvido na determinação dos critérios de comparticipação para o fundo de compensação.
 
 4 - O Governo pode optar por dispensar de contribuir para o fundo de compensação os prestadores que não atinjam o volume de negócios fixado pela portaria a que faz referência o n.º 2.
+
+5 - Para efeitos do disposto na alínea a) do n.º 1, consideram-se abrangidos pelo âmbito do serviço universal os serviços que sejam qualificados pelo ICP-ANACOM como permutáveis com os serviços definidos no artigo 12.º
+
+6 - Para efeitos do disposto no número anterior, entendem-se como permutáveis com os serviços definidos no artigo 12.º os serviços que, do ponto de vista do utilizador, demonstrem permutabilidade em grau suficiente com esses serviços, tendo em conta a utilização a que se destinam, as tarifas aplicáveis e as respetivas características, designadamente o seu valor acrescentado, ainda que tais serviços não contenham todas as características do serviço postal universal, em particular no que respeita à frequência de entrega ou à cobertura de todo o território nacional.

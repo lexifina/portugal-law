@@ -6,4 +6,8 @@
 
 2 - Caso as partes não cheguem a acordo quanto ao acesso aos elementos ou aos serviços referidos no número anterior, e sem prejuízo do disposto no artigo 54.º, pode qualquer uma das partes recorrer ao ICP-ANACOM, o qual pode impor aos prestadores de serviços postais o acesso aos elementos e serviços referidos no número anterior em condições transparentes e não discriminatórias, sempre que tal se revele necessário para proteger os interesses dos utilizadores ou promover uma concorrência efetiva.
 
-3 - Quando existam vários prestadores de serviço universal com redes postais que, isoladamente, não cubram a totalidade do território nacional, o ICP-ANACOM pode impor condições que assegurem a interoperabilidade das várias redes, de forma a assegurar a universalidade do serviço.
+3 - O ICP-ANACOM pode ainda impor aos prestadores de serviços postais o acesso aos elementos e serviços referidos no n.º 1, definindo os termos e condições do acesso, sempre que tal se revele necessário para assegurar a prestação do serviço universal.
+
+4 - A imposição de acesso nos termos do número anterior obedece ao disposto no n.º 9 do artigo 38.º
+
+5 - Quando existam vários prestadores de serviço universal com redes postais que, isoladamente, não cubram a totalidade do território nacional, o ICP-ANACOM pode impor condições que assegurem a interoperabilidade das várias redes, de forma a assegurar a universalidade do serviço.

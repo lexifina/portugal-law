@@ -34,7 +34,7 @@ m) Identificar em cada envio postal a respetiva denominação, enquanto prestado
 
 a) Comparticipar financeiramente para o fundo de compensação do serviço universal, nos termos do artigo 21.º;
 
-b) Dispor de um sistema de contabilidade que permita a separação de contas entre os serviços abrangidos pelo âmbito do serviço universal definido nos termos do artigo 12.º e os demais serviços compreendidos na sua atividade, quando comparticipem financeiramente para o fundo de compensação dos custos do serviço universal;
+b) Dispor de um sistema de contabilidade que permita a separação de contas entre os serviços abrangidos pelo âmbito do serviço universal definido nos termos do artigo 12.º, incluindo os serviços que, do ponto de vista do utilizador, sejam considerados serviços permutáveis com os serviços definidos no artigo 12.º, e os demais serviços compreendidos na sua atividade, quando comparticipem financeiramente para o fundo de compensação dos custos do serviço universal;
 
 c) Proceder, sem prejuízo do disposto na alínea c) do número anterior, à medição e publicitação dos níveis de qualidade de serviço efetivamente oferecidos, de acordo com os parâmetros e regras a definir pelo ICP-ANACOM, incluindo sobre a publicitação da qualidade de serviço praticada, e respeitando a periodicidade definida, quando esta obrigação lhes for imposta pelo ICP-ANACOM.
 
