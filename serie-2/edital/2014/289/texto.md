@@ -1,0 +1,7 @@
+Edital n.º 289/2014
+Fernando Filipe Antunes Cunha, Vogal Substituto do Presidente da Junta de Freguesia da União das Freguesias de Sintra (Sta. Maria e S. Miguel, S. Martinho e S. Pedro de Penaferrim) faz público, no uso da sua competência que, a Proposta de Regulamento do Projeto AMES (Apoio Alimentar, Medicação e Emergência Social), foi aprovada pelo órgão executivo na sua reunião de 19 de março de 2014, e será submetida a apreciação pública e audição dos interessados, nos termos dos artºs 117.º e 118.º do CPA, pelo prazo de 30 (trinta) dias. O prazo de 30 dias é contado, a partir da publicação de Aviso em 2.ª série do Diário da República.
+Assim, torna-se público que a Proposta acima referida, encontra-se também disponível na sede desta Junta de Freguesia, na Rua Câmara Pestana, n.º 29 A e B, 2710 - 546 Sintra, onde pode ser consultada, bem como nas delegações da Junta de Freguesia: Delegação da Várzea, sita no Caminho do Murtal, n.º 14, 2710-663 Sintra; Delegação da Vila, sita na Praça da República, n.º 3 B, 2710-616 Sintra e na Delegação de São Pedro, sita na Calçada de São Pedro, n.º 56, São Pedro, 2710-507 Sintra.
+Os eventuais contributos podem ser endereçados para o fax 219100399, e-mail geral@uniaodasfreguesias-sintra.pt ou, para a morada da sede acima referida.
+Para constar se lavrou o presente edital e outros de igual teor a serem afixados nos lugares de estilo.
+27 de março de 2014. - O Vogal Substituto do Presidente da Junta de Freguesia, Fernando Cunha.
+307732409
