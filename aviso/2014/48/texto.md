@@ -1,0 +1,5 @@
+Aviso n.º 48/2014
+Por ordem superior se torna público que, em 12 de julho de 2013 e em 11 de março de 2014, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros português e pelo Ministério de Relações Exteriores do Peru, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República do Peru para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 19 de novembro de 2012.
+Por parte de Portugal, a Convenção foi aprovada pela Resolução da Assembleia da República n.º 88, de 2013, e ratificada pelo Decreto do Presidente da República n.º 70, de 2013, ambos publicados no Diário da República, 1.ª série, n.º 122, de 27 de junho de 2013.
+Nos termos do artigo 27.º da referida Convenção, esta entra em vigor em 12 de abril de 2014.
+Direção-Geral de Política Externa, 24 de março de 2014. - O Subdiretor-Geral, Carlos Pereira Marques.
