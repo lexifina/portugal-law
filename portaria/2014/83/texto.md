@@ -1,0 +1,48 @@
+Portaria n.º 83/2014
+de 11 de abril
+O Decreto-Lei n.º 254/2012, de 28 de novembro, alterado pelo Decreto-Lei n.º 108/2013, de 31 de julho, prevê, no n.º 1 do artigo 48.º, que a taxa de segurança constitui uma contrapartida pelos serviços afetos à segurança da aviação civil, para prevenção e repressão de atos ilícitos, destinando-se a mesma «à cobertura parcial dos encargos respeitantes a meios humanos e materiais afetos empregues», sendo a mesma cobrada às transportadoras aéreas nos voos comerciais, que a podem repercutir nos passageiros, e nos voos não comerciais ao operador da aeronave, conforme estabelece o n.º 3 do mesmo artigo.
+Por sua vez, a alínea a) do artigo 49.º do citado diploma legal, estabelece que a taxa de segurança engloba uma componente que constitui contrapartida do Instituto Nacional de Aviação Civil, I. P., adiante designado INAC, I. P., e das forças e serviços de segurança, conforme estabelece a alínea a) do artigo 49.º do citado diploma legal.
+Todavia, constituindo esta componente da taxa de segurança uma receita própria do INAC, I. P. e, tendo presente que as forças e serviços de segurança que suportam encargos com a segurança da aviação civil nos termos acima referidos, têm direito a uma comparticipação nesta receita, importa proceder à definição das condições de atribuição daquela comparticipação, por forma a dar execução ao previsto no artigo 51.º do Decreto-Lei n.º 254/2012, de 28 de novembro.
+Assim, ao abrigo do disposto nos n.os 1 e 2 do artigo 51.º do Decreto-Lei n.º 254/2012, de 28 de novembro, alterado pelo Decreto-Lei n.º 108/2013, de 31 de julho, manda o Governo, pelo Ministro da Administração Interna e pelo Secretário de Estado das Infraestruturas, Transportes e Comunicações, no uso das competências delegadas através do ponto 3.1. do Despacho n.º 12100/2013, de 12 de setembro, publicado na 2.ª Série do Diário da República, n.º 183, de 23 de setembro de 2013, o seguinte:
+Artigo 1.º
+Distribuição da comparticipação da taxa de segurança pelas forças e serviços de segurança - Rede ANA
+1 - Para efeitos do disposto nos n.os 1 e 2 do artigo 51.º do Decreto-Lei n.º 254/2012, de 28 de novembro, o INAC, I. P., fica autorizado a proceder à distribuição da taxa de segurança, a título de comparticipação, às forças e serviços de segurança, nos aeródromos e aeroportos nacionais integrados na Rede ANA, S. A., por passageiro embarcado, nos seguintes termos:
+a) Voos dentro do espaço Schengen:
+i. Polícia de Segurança Pública - 0,29 (euro);
+ii. Serviço de Estrangeiros e Fronteiras - 0,44 (euro);
+iii. Guarda Nacional Republicana - 0,07 (euro);
+b) Voos intracomunitários fora do espaço Schengen:
+i. Polícia de Segurança Pública - 0,79 (euro);
+ii. Serviço de Estrangeiros e Fronteiras - 1,18 (euro);
+iii. Guarda Nacional Republicana - 0,17 (euro);
+c) Voos internacionais:
+i. Polícia de Segurança Pública - 1,71 (euro);
+ii. Serviço de Estrangeiros e Fronteiras - 2,57 (euro);
+iii. Guarda Nacional Republicana - 0,38 (euro).
+Artigo 2.º
+Distribuição da comparticipação da taxa de segurança pelas forças e serviços de segurança - Outras entidades gestoras aeroportuárias
+1 - Para efeitos do disposto nos n.os 1 e 2 do artigo 51.º do Decreto-Lei n.º 254/2012, de 28 de novembro, o INAC, I. P., fica autorizado a proceder à distribuição da taxa de segurança, a título de comparticipação, às forças e serviços de segurança, nos aeródromos e aeroportos nacionais fora da Rede ANA, S. A., por passageiro embarcado, nos seguintes termos:
+a) Voos dentro do espaço Schengen:
+i. Polícia de Segurança Pública - 0,52 (euro);
+ii. Serviço de Estrangeiros e Fronteiras - 0,79 (euro);
+iii. Guarda Nacional Republicana - 0,12 (euro);
+b) Voos intracomunitários fora do espaço Schengen:
+i. Polícia de Segurança Pública - 1,04 (euro);
+ii. Serviço de Estrangeiros e Fronteiras - 1,57 (euro);
+iii. Guarda Nacional Republicana - 0,23 (euro);
+c) Voos internacionais:
+i. Polícia de Segurança Pública - 2,00 (euro);
+ii. Serviço de Estrangeiros e Fronteiras - 3,00 (euro);
+iii. Guarda Nacional Republicana - 0,44 (euro).
+Artigo 3.º
+Prazo de distribuição da taxa de segurança
+1 - O INAC, I. P., procede, trimestralmente, ao apuramento da receita cobrada às transportadoras aéreas e operadores de aeronave para efeitos de verificação dos valores a distribuir às forças e serviços de segurança.
+2 - O INAC, I. P., distribui os montantes apurados nos termos do número anterior, no prazo de 30 dias subsequentes ao termo de cada trimestre.
+Artigo 4.º
+Norma revogatória
+É revogada a Portaria n.º 541/2004, de 21 de maio, alterada pelas Portarias n.os 1360/2009, de 27 de outubro, e 213/2011, de 30 de maio.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 1 de abril de 2014.
+Pelo Ministro da Administração Interna, Fernando Manuel de Almeida Alexandre, Secretário de Estado Adjunto do Ministro da Administração Interna. - O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
