@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "217",
+  "id": "38362",
+  "fases": 23,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-04-14",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a446c694e47566959324d744e5746684d7930305957466d4c5749304e7a49745a54466c4d4455344d7a55324f5441784c6e426b5a673d3d&fich=d9b4ebcc-5aa3-4aaf-b472-e1e058356901.pdf&Inline=true",
+        "anexoNome": "Contributo OET"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a5a6a4d5752694e6d59744d4451355a6930304d546b7a4c5749314d6a6b745a5441354d5456694e5751334d6d466a4c6e426b5a673d3d&fich=c6c1db6f-049f-4193-b529-e0915b5d72ac.pdf&Inline=true",
+        "anexoNome": "Parecer CRAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d54597a4e6a49784e3259744d5451334d5330304d446b774c5467794d445574596a63324e47466b4e445a6d4e6d59324c6e426b5a673d3d&fich=1636217f-1471-4090-8205-b764ad46f6f6.pdf&Inline=true",
+        "anexoNome": "Ofício OE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d49355a6d51345a4467745a544a6a5a6930305a57557a4c546c6a4e5749745a5446694e6a4e68595451354e446b354c6e426b5a673d3d&fich=bb9fd8d8-e2cf-4ee3-9c5b-e1b63aa49499.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a4a6d4d7a4d315a4749745a4464684d4330304d3259794c546b305a5459744d6a59354f474e6d5a6d553059546b774c6e426b5a673d3d&fich=f2f335db-d7a0-43f2-94e6-2698cffe4a90.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659574a694f4463334e4467744f474d785a4330304e6a45344c5749775a5455744f574e694e6a4e6b5a5451344d7a6b784c6e426b5a673d3d&fich=abb87748-8c1d-4618-b0e5-9cb63de48391.pdf&Inline=true",
+        "anexoNome": "Parecer ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d575577597a6b795a5451744e5441344e6930304e4459304c546c6d4f4463744f5467784e6a5a6a595749344e6a646c4c6e426b5a673d3d&fich=1e0c92e4-5086-4464-9f87-98166cab867e.pdf&Inline=true",
+        "anexoNome": "Parecer GRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659546333596a5a6b4f544174597a63325a69303059544d354c546b354e6a49745a6d566c4d4467795a54426a4d6d55304c6e426b5a673d3d&fich=a77b6d90-c76f-4a39-9962-fee082e0c2e4.pdf&Inline=true",
+        "anexoNome": "Parecer GRM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4459324e7a64694d474574596a67354d6930304f446b344c546b334d7a41744d575a6c4e5749304d32497a4d44686a4c6e426b5a673d3d&fich=06677b0a-b892-4898-9730-1fe5b43b308c.pdf&Inline=true",
+        "anexoNome": "Parecer GRM_SRA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f475a684d6d4e69595745744e4751314d6930305a6d4d304c5467324d6a5974597a4a6d4d5756685a6a67314e6a426d4c6e426b5a673d3d&fich=8fa2cbaa-4d52-4fc4-8626-c2f1eaf8560f.pdf&Inline=true",
+        "anexoNome": "Parecer OE"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38362",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5751344d6d49774e6d4d744e6d4d344e4330305957566d4c546b30596a4574597a4e684f57457a596a4a6d4e5745334c6d527659773d3d&fich=1d82b06c-6c84-4aef-94b1-c3a9a3b2f5a7.doc&Inline=true",
+    "IniNr": "217",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece os requisitos de acesso e exercício da atividade das entidades e profissionais que atuam na área dos gases combustíveis, conformando-o com a disciplina da Lei n.º 9/2009, de 4 de março, e do Decreto-Lei n.º 92/2010, de 26 de julho, que transpuseram as Diretivas n.ºs 2005/36/CE, de 7 de setembro, relativa ao reconhecimento das qualificações profissionais, e 2006/123/CE, de 12 de dezembro, relativa aos serviços no mercado interno.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
