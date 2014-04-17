@@ -16,7 +16,7 @@ a) A realização de operações sem a intervenção de intermediário financeir
 
 b) A negociação em mercado regulamentado de operações com base em cláusulas gerais não aprovadas ou não previamente comunicadas, quando exigível;
 
-c) A realização de operações por titulares de órgãos de administração, direcção e fiscalização de intermediários financeiros ou de entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de contraparte central e de sistemas centralizados de valores mobiliários, bem como pelos respectivos trabalhadores, se tais operações lhes estiverem vedadas;
+c) A realização de operações por titulares de órgãos de administração, direção e fiscalização de intermediários financeiros ou de entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e contrapartes centrais, bem como pelos respetivos trabalhadores, se tais operações lhes estiverem vedadas;
 
 d) A violação do dever de comunicação à CMVM de operações sobre instrumentos financeiros admitidos à negociação em mercado regulamentado.
 

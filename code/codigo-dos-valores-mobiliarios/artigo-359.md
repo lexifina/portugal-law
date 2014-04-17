@@ -4,7 +4,7 @@
 
 1 - No âmbito das actividades relativas a instrumentos financeiros, estão sujeitas à supervisão da CMVM, sem prejuízo das competências atribuídas a outras autoridades, as seguintes entidades:
 
-a) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação ou contraparte central e de sistemas centralizados de valores mobiliários;
+a) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e contrapartes centrais;
 
 b) Intermediários financeiros e consultores para investimento;
 

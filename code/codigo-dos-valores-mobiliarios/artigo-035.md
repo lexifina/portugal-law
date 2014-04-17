@@ -2,7 +2,7 @@
 
 ### Constituição de fundos de garantia
 
-1 - As entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação ou de contraparte central podem constituir ou promover a constituição de fundos de garantia.
+1 - As entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação e de câmara de compensação e as contrapartes centrais podem constituir ou promover a constituição de fundos de garantia.
 
 2 - Os fundos de garantia visam ressarcir os investidores não qualificados pelos danos sofridos em consequência da actuação de qualquer intermediário financeiro membro do mercado ou sistema, ou autorizado a receber e transmitir ordens para execução, e dos participantes naqueles sistemas.
 
