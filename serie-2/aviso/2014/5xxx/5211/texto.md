@@ -1,0 +1,11 @@
+Aviso n.º 5211/2014
+Elaboração da 2.ª alteração ao Plano Diretor Municipal
+Antonino Aurélio Vieira de Sousa, Presidente da Câmara Municipal de Penafiel, torna público que foi deliberado por unanimidade, na reunião de câmara ordinária pública de 27 de março de 2014, nos termos e para os efeitos do disposto do n.º 1 do artigo 96.º conjugado com o n.º 1 do artigo 74.º, do Decreto-Lei n.º 380/99, de 22 de setembro, na sua redação atual, aprovar a elaboração da 2.ª alteração ao Plano Diretor Municipal de Penafiel num prazo máximo de 12 meses.
+Para efeitos do n.º 2 do artigo 77.º do diploma anteriormente citado, decorrerá um período de participação pública, por um prazo de 15 dias contados a partir da data da publicação, no Diário da República, da deliberação do procedimento de alteração, para a formulação de sugestões por qualquer interessado ou para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano.
+Os interessados poderão consultar os documentos anexos à deliberação que determinou a elaboração desta 2.ª Alteração, no site da Câmara Municipal de Penafiel (www.cm-penafiel.pt), e na Divisão de Projetos de Arquitetura e Ordenamento Territorial, no Museu Municipal de Penafiel, sito na Rua do Paço - s/n, nos dias úteis e durante o horário de expediente.
+Foi, ainda, deliberado dispensar a 2.ª alteração ao Plano Diretor Municipal de Avaliação Ambiental, nos termos do n.º 3 e 4 do artigo 96.º do Decreto-Lei n.º 380/99, de 22 de setembro, na sua redação atual, uma vez que a referida alteração não é suscetível de ter efeitos significativos no ambiente.
+O referido período de participação terá início no 1.º dia útil após a publicação do presente aviso no Diário da República.
+As participações deverão ser apresentadas por escrito e dirigidas ao Presidente da Câmara Municipal de Penafiel, entregues no Balcão Único de Atendimento, remetidas por correio ou correio eletrónico penafiel@cm-penafiel.pt.
+Para conhecimento geral se mandou publicitar este aviso no Diário da República - 2.ª série, na imprensa nacional e local, na página da internet da Câmara Municipal, bem como nos locais de estilo.
+3 de abril de 2014. - O Presidente da Câmara Municipal, Dr. Antonino de Sousa.
+207756815
