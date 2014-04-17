@@ -1,0 +1,1492 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "554",
+    "id": "38354",
+    "titulo": "Regime das Matérias Classificadas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9962",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-04-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38056",
+        "leg": "XII",
+        "nr": "465",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Aprova o regime do segredo de Estado."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38055",
+        "leg": "XII",
+        "nr": "466",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Que cria a entidade fiscalizadora do regime de segredo de Estado."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38352",
+        "leg": "XII",
+        "nr": "553",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "1.ª Alteração à Lei n.º 6/94, de 7 de Abril, que aprova o regime do Segredo de Estado."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38355",
+        "leg": "XII",
+        "nr": "555",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Regime do Segredo de Estado."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38358",
+        "leg": "XII",
+        "nr": "556",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Protege a Missão do SIRP e o Segredo de Estado, criando inibições ao vínculo imediato e reforçando direitos fundamentais em processo judicial (1.ª alteração à Lei n.º 9/2007, de 19 de fevereiro, e 5.ª alteração à Lei n.º 30/84, de 5 de setembro)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37283",
+        "leg": "XII",
+        "nr": "302",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Cria a Comissão da Assembleia da República para a Fiscalização do Sistema de Informações da República Portuguesa."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37867",
+        "leg": "XII",
+        "nr": "437",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Alteração à Lei n.º 30/84, de 5 de Setembro, alterada pelas Leis n.º 4/95, de 21 de Fevereiro, 15/96, de 30 de Abril, e 75-A/97, de 22 de Julho, e pela Lei Orgânica n.º 4/2004, de 6 de Novembro (Lei-Quadro do Sistema de Informações da República Portuguesa - SIRP)."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "37868",
+        "leg": "XII",
+        "nr": "438",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1868",
+            "obs": null,
+            "pag": [
+              "3-14"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-04-16",
+            "pubLeg": "XII",
+            "pubNr": "75",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Primeira alteração à Lei n.º 9/2007, de 19 de Fevereiro (estabelece a orgânica do Secretário-Geral do Sistema de Informações da República Portuguesa, do Serviço de Informações Estratégicas de Defesa (SIED) e do Serviço de Informações de Segurança (SIS) e revoga os Decretos-Leis n.os 225/85, de 4 de Julho e 254/95, de 30 de Setembro)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-04-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:51",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193701",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-04-16",
+                "pubLeg": "XII",
+                "pubNr": "75",
+                "pubSL": "3",
+                "pubTipo": "DR I série",
+                "pubTp": "M",
+                "supl": null,
+                "URLDiario": "http://data.dre.pt/eli/diario/1/75/2014/0/pt/html"
+              }
+            ],
+            "sumario": "Alteração à Lei n.º 30/84, de 5 de Setembro, alterada pelas Leis n.º 4/95, de 21 de Fevereiro, 15/96, de 30 de Abril, e 75-A/97, de 22 de Julho, e pela Lei Orgânica n.º 4/2004, de 6 de Novembro (Lei-Quadro do Sistema de Informações da República Portuguesa - SIRP); Primeira alteração à Lei n.º 9/2007, de 19 de Fevereiro (estabelece a orgânica do Secretário-Geral do Sistema de Informações da República Portuguesa, do Serviço de Informações Estratégicas de Defesa (SIED) e do Serviço de Informações de Segurança (SIS) e revoga os Decretos-Leis n.os 225/85, de 4 de Julho e 254/95, de 30 de Setembro); Aprova o regime do segredo de Estado; Que cria a entidade fiscalizadora do regime de segredo de Estado; Cria a Comissão da Assembleia da República para a Fiscalização do Sistema de Informações da República Portuguesa; Cria a Comissão da Assembleia da República para a Fiscalização do Sistema de Informações da República Portuguesa; 1.ª Alteração à Lei n.º 6/94, de 7 de Abril, que aprova o regime do Segredo de Estado; Regime das Matérias Classificadas; Protege a Missão do SIRP e o Segredo de Estado, criando inibições ao vínculo imediato e reforçando direitos fundamentais em processo judicial (1.ª alteração à Lei n.º 9/2007, de 19 de fevereiro, e 5.ª alteração à Lei n.º 30/84, de 5 de setembro); Regime do Segredo de Estado; Regime das Matérias Classificadas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297517",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "679609",
+        "obs": null,
+        "pag": [
+          "3-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-04-19",
+        "pubLeg": "XII",
+        "pubNr": "75",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/075/2014-04-19/3?pgs=3-14&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
