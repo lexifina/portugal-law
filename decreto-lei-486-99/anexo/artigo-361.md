@@ -14,7 +14,7 @@ c) Determinar que as pessoas responsáveis pelos locais onde se proceda à instr
 
 d) Requerer a colaboração de outras pessoas ou entidades, incluindo autoridades policiais, quando tal se mostre necessário ou conveniente ao exercício das suas funções, designadamente em caso de resistência a esse exercício ou em razão da especialidade técnica das matérias em causa;
 
-e) Substituir-se às entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de contraparte central e de sistemas centralizados de valores mobiliários quando estas não adoptem as medidas necessárias à regularização de situações anómalas que ponham em causa o regular funcionamento do mercado, da actividade exercida ou os interesses dos investidores;
+e) Substituir-se às entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e às contrapartes centrais quando estas não adotem as medidas necessárias à regularização de situações anómalas que ponham em causa o regular funcionamento do mercado, da atividade exercida ou os interesses dos investidores;
 
 f) Substituir-se às entidades supervisionadas no cumprimento de deveres de informação.
 

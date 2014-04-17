@@ -6,7 +6,7 @@
 
 a) Entidades gestoras dos mercados regulamentados ou dos sistemas de negociação multilateral onde se realizem as operações a liquidar;
 
-b) Entidades que assumam as funções de câmara de compensação e contraparte central;
+b) Entidades que assumam as funções de câmara de compensação ou contrapartes centrais;
 
 c) Entidades gestoras de sistemas centralizados de valores mobiliários;
 

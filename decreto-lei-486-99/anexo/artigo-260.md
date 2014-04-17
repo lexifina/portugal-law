@@ -1,18 +1,12 @@
 # Artigo 260.º
 
-### Minimização dos riscos
+### Princípios gerais
 
-1 - Cabe à contraparte central a tomada de medidas adequadas à minimização dos riscos e à protecção do sistema de compensação e dos mercados, devendo avaliar com uma periodicidade, no mínimo anual, o seu nível de exposição.
+1 - A contraparte central deve adotar medidas adequadas à prevenção e gestão dos riscos, nomeadamente de crédito, de liquidez e operacionais, bem como medidas adequadas ao bom funcionamento dos mecanismos adotados e à proteção dos mercados.
 
-2 - Para os efeitos do número anterior, a contraparte central:
+2 - A contraparte central deve ter mecanismos de governo sólidos, que permitam a sua gestão sã e prudente.
 
-a) Deve adoptar sistemas seguros de gestão e monitorização do risco;
-
-b) Deve estabelecer procedimentos adequados a fazer face a falhas e incumprimentos dos seus membros;
-
-c) Pode criar fundos destinados, em última instância, à distribuição das perdas entre todos os membros compensadores.
-
-3 - A contraparte central deve identificar as respectivas fontes de risco operacional e minimizá-las através do estabelecimento de sistemas, controlos e procedimentos adequados, nomeadamente desenvolvendo planos de contingência.
+3 - (Revogado).
 
 4 - (Revogado).
 

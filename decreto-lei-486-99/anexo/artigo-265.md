@@ -1,11 +1,11 @@
 # Artigo 265.º
 
-### Regras da contraparte central
+### Registo de regras da contraparte central
 
-1 - A contraparte central deve aprovar regras transparentes e não discriminatórias, baseadas em critérios objectivos, que assegurem o adequado desempenho das suas funções, relativas, designadamente, às matérias referidas nos artigos 259.º, 260.º, 261.º, 263.º e 264.º
+1 - (Revogado).
 
-2 - As regras referidas no número anterior são objecto de registo na CMVM, o qual visa a verificação da sua suficiência, adequação e legalidade.
+2 - As regras da contraparte central que assegurem o adequado exercício da sua atividade, designadamente as relativas ao seu governo, funcionamento, gestão de riscos, segregação, portabilidade, admissão e manutenção de membros compensadores, são objeto de registo na CMVM, o qual visa a verificação da sua suficiência, adequação e legalidade.
 
-3 - Após o registo na CMVM, a contraparte central deve divulgar as regras adoptadas, as quais entram em vigor na data de divulgação ou noutra nelas prevista.
+3 - (Revogado).
 
 4 - (Revogado).

@@ -8,7 +8,7 @@ a) Banco de Portugal e Instituto de Seguros de Portugal;
 
 b) Entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral;
 
-c) Entidades gestoras de sistemas de liquidação, de câmara de compensação, de contraparte central e de sistemas centralizados de valores mobiliários;
+c) Entidades gestoras de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e contrapartes centrais;
 
 d) Autoridades intervenientes em processos de falência, de recuperação de empresa ou de saneamento das entidades referidas nas alíneas a) e b) do n.º 1 do artigo 359.º;
 
