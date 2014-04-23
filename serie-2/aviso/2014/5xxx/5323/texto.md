@@ -1,0 +1,7 @@
+Aviso n.º 5323/2014
+Basílio Horta, Presidente da Câmara Municipal de Sintra, torna público que, ao abrigo do Ponto XX da delegação de competências da Câmara Municipal de Sintra no seu Presidente, constante da Proposta n.º 1/2013, aprovada pelo Órgão Executivo na sua reunião de 25 de outubro de 2013, decide que o Projeto de Regulamento Municipal para Reconversão Urbanística das Áreas Urbanas de Génese Ilegal de Sintra, seja submetido a apreciação pública e audição dos interessados, nos termos do artigo 117.º e do artigo 118.º do CPA pelo prazo de 30 (trinta dias).
+O prazo de 30 dias é contado, a partir da publicação do presente Aviso em 2.ª série de Diário da República.
+Assim, torna-se público que o Projeto acima referido, se encontra ainda disponível ao público mediante afixação Edital nos locais de estilo, no Gabinete de Apoio ao Munícipe, suas Delegações e na página da Câmara Municipal de Sintra na Internet em www.cm-sintra.pt.
+Os eventuais contributos podem ser endereçados ou entregues no Gabinete de Apoio ao Munícipe, Largo Dr. Virgílio Horta, 2710 Sintra, através do fax 219238551, através do e-mail municipe@cm-sintra.pt. ou ainda no Gabinete AUGI da Câmara Municipal de Sintra, Rua das Eiras, 34 (antiga Fábrica da Messa, junto à Unidade de Urgência Básica) 2725-078 Mem Martins, através do fax 219226729 e do e-mail augi@cm-sintra.pt.
+14 de abril de 2014. - O Presidente da Câmara, Basílio Horta.
+207764583
