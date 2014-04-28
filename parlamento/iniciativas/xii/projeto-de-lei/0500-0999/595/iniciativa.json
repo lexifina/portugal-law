@@ -1,0 +1,151 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Lei",
+  "numero": "595",
+  "id": "38418",
+  "fases": 17,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-04-28",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1561",
+        "nome": "Luís Montenegro"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2419",
+        "nome": "Cecília Meireles"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4437",
+        "nome": "Carlos Santos Silva"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1801",
+        "nome": "Raúl de Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "42",
+        "nome": "Duarte Pacheco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4129",
+        "nome": "Cristóvão Crespo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1951",
+        "nome": "José de Matos Rosa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "629",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4389",
+        "nome": "Teresa Leal Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1643",
+        "nome": "José de Matos Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1993",
+        "nome": "Pedro do Ó Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4440",
+        "nome": "Mónica Ferro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4152",
+        "nome": "Fernando Virgílio Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2665",
+        "nome": "Jorge Paulo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4336",
+        "nome": "Elsa Cordeiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4051",
+        "nome": "Maria Conceição Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4193",
+        "nome": "Maria das Mercês Borges"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3989",
+        "nome": "Paulo Mota Pinto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4095",
+        "nome": "Sérgio Azevedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4092",
+        "nome": "Odete Silva"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38418",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d5a6d4d574d344e7a4d745954517a596930304e54686c4c546b344d6a59744f5441354d444a684f57557a4e5467794c6d527659773d3d&fich=fff1c873-a43b-458e-9826-90902a9e3582.doc&Inline=true",
+    "IniNr": "595",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Regula a concessão de crédito à habitação da pessoa com deficiência.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
