@@ -1,0 +1,6 @@
+Edital n.º 331/2014
+Alteração ao Regulamento de Cedência e Utilização do Autocarro do Município
+Rui Manuel Saraiva Ventura, Presidente da Câmara Municipal de Pinhel, torna público nos termos e para os efeitos do disposto no artigo 56º da Lei 75/2013, de 12 setembro e no uso das competências que lhe são conferidas nos termos da alínea c) nº 1 do artigo 35º da mesma Lei, que foi aprovado em sessão da Assembleia Municipal, realizada em 17 de fevereiro de 2014, sob proposta da Câmara de 21 de junho de 2013, a Alteração ao Regulamento de Cedência e Utilização do Autocarro do Município, publicado no Diário da República por edital nº 448/2013, 2ª Série de 10-05-2013, o qual após decurso do prazo de apreciação pública, não foi objeto de sugestões ou reclamações, considerando-se aprovado de forma definitiva.
+A Alteração ao Regulamento de Cedência e Utilização do Autocarro do Município, entra em vigor no dia seguinte à publicação do presente Edital no Diário da República, e encontra-se agora disponível, na sua versão final, no site da Câmara Municipal de Pinhel em www.cm-pinhel.pt, onde poderá ser consultado e descarregado.
+11 de abril de 2014. - O Presidente da Câmara, Rui Manuel Saraiva Ventura.
+307760208
