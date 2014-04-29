@@ -22,6 +22,8 @@ Metanfetamina - (+)-2-metilamino-1-fenilpropano.
 
 Metanfetamina, racemato - (mais ou menos)-2-metilamina-1-fenilpropano.
 
+4-metilanfetamina
+
 Metilfenidato - éster metílico do ácido 2 fenil-2-(2-piperidil) acético.
 
 Tetraidrocanabinol - os seguintes isómeros: (Delta) 6a (10a), (Delta) 6a (7), (Delta) 7, (Delta) 8, (Delta) 9, (Delta) 10, (Delta) (11).
