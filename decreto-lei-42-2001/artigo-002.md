@@ -14,4 +14,4 @@ c) Coimas e outras sanções pecuniárias, custas e outros encargos legais;
 
 d) Reposições de pagamentos indevidos efetuados por qualquer instituição do sistema de segurança social.
 
-3 - O processo de execução de dívidas à segurança social aplica-se ainda às situações de incumprimento relativas a dívidas, reembolsos, reposições e restituições de prestações de qualquer natureza pagas pelo Fundo de Garantia de Alimentos Devidos a Menores, pelo Fundo de Garantia Salarial e pelo Fundo de Socorro Social.
+3 - O processo de execução de dívidas à segurança social aplica-se igualmente às situações de incumprimento relativas à obrigação de reposição de prestações de qualquer natureza pagas por fundos cujo funcionamento ou gestão, estratégica ou operacional, tenham sido legalmente entregues a instituições do sistema de segurança social.
