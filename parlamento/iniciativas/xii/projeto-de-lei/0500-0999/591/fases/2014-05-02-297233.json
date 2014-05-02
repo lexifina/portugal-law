@@ -1,0 +1,446 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "591",
+    "id": "38414",
+    "titulo": "Libertar o país da austeridade permanente, em defesa do estado social, dos salários e das pensões (oitava alteração à Lei n.º 91/2001, de 20 de agosto - Lei de Enquadramento Orçamental)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-05-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9944",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-05-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38343",
+        "leg": "XII",
+        "nr": "550",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1893",
+            "obs": null,
+            "pag": [
+              "64-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-03",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/64?pgs=64-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1893",
+            "obs": null,
+            "pag": [
+              "64-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-03",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/64?pgs=64-69&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Oitava alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38415",
+        "leg": "XII",
+        "nr": "592",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1893",
+            "obs": null,
+            "pag": [
+              "64-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-03",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/64?pgs=64-69&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1893",
+            "obs": null,
+            "pag": [
+              "64-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-03",
+            "pubLeg": "XII",
+            "pubNr": "80",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/64?pgs=64-69&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Procede à oitava alteração à lei de enquadramento orçamental, revogando as normas expressas no Tratado Orçamental"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-05-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:37",
+            "horaTermo": "14:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140502pln&url=l12/sl3/a2014/m05/&tI=03:51:15:936&drc=00:03:41:298"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140502pln&url=l12/sl3/a2014/m05/&tI=04:10:03:207&drc=00:01:10:004"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64",
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-03",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/64?pgs=64,68&org=PLC"
+              }
+            ],
+            "sumario": "Oitava alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental); Libertar o país da austeridade permanente, em defesa do estado social, dos salários e das pensões (oitava alteração à Lei n.º 91/2001, de 20 de agosto - Lei de Enquadramento Orçamental); Procede à oitava alteração à lei de enquadramento orçamental, revogando as normas expressas no Tratado Orçamental.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:37",
+            "horaTermo": "14:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140502pln&url=l12/sl3/a2014/m05/&tI=03:55:03:857&drc=00:04:14:248"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-03",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Oitava alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental); Libertar o país da austeridade permanente, em defesa do estado social, dos salários e das pensões (oitava alteração à Lei n.º 91/2001, de 20 de agosto - Lei de Enquadramento Orçamental); Procede à oitava alteração à lei de enquadramento orçamental, revogando as normas expressas no Tratado Orçamental.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:37",
+            "horaTermo": "14:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140502pln&url=l12/sl3/a2014/m05/&tI=04:00:10:090&drc=00:03:17:239"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140502pln&url=l12/sl3/a2014/m05/&tI=04:11:16:032&drc=00:01:16:436"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66",
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-03",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/65?pgs=65-66,68-69&org=PLC"
+              }
+            ],
+            "sumario": "Oitava alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental); Libertar o país da austeridade permanente, em defesa do estado social, dos salários e das pensões (oitava alteração à Lei n.º 91/2001, de 20 de agosto - Lei de Enquadramento Orçamental); Procede à oitava alteração à lei de enquadramento orçamental, revogando as normas expressas no Tratado Orçamental.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:37",
+            "horaTermo": "14:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140502pln&url=l12/sl3/a2014/m05/&tI=04:03:33:269&drc=00:03:06:730"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-03",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Oitava alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental); Libertar o país da austeridade permanente, em defesa do estado social, dos salários e das pensões (oitava alteração à Lei n.º 91/2001, de 20 de agosto - Lei de Enquadramento Orçamental); Procede à oitava alteração à lei de enquadramento orçamental, revogando as normas expressas no Tratado Orçamental.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:37",
+            "horaTermo": "14:16",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140502pln&url=l12/sl3/a2014/m05/&tI=04:06:48:061&drc=00:03:08:309"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-03",
+                "pubLeg": "XII",
+                "pubNr": "80",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Oitava alteração à Lei n.º 91/2001, de 20 de Agosto (Lei de Enquadramento Orçamental); Libertar o país da austeridade permanente, em defesa do estado social, dos salários e das pensões (oitava alteração à Lei n.º 91/2001, de 20 de agosto - Lei de Enquadramento Orçamental); Procede à oitava alteração à lei de enquadramento orçamental, revogando as normas expressas no Tratado Orçamental.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297233",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "686674",
+        "obs": null,
+        "pag": [
+          "63-69"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-03",
+        "pubLeg": "XII",
+        "pubNr": "80",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/080/2014-05-03/63?pgs=63-69&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
