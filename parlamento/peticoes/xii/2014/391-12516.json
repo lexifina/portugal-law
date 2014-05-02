@@ -1,0 +1,567 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12516",
+  "numero": "391",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-05-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-06-17",
+            "dataResposta": "2014-10-01",
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "175/COM/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-11-06",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "714195",
+                "obs": null,
+                "pag": [
+                  "5-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-11-29",
+                "pubLeg": "XII",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/015/2014-11-29/5?pgs=5-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-05-13",
+        "DataArquivo": "2014-11-26",
+        "DataBaixaComissao": "2014-05-02",
+        "DataEnvioPAR": "2014-11-26",
+        "DataReaberta": "2014-05-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-06-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784e6d59324f5467334e53316b4e4755344c5451795a6a5574596a51795a43316c4e325a684f544e6b5a5752684e54557555455247&fich=16f69875-d4e8-42f5-b42d-e7fa93deda55.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-06-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938354e7a5a68595746684d53307a597a526c4c5451774e6d557459575a6d4e43316a5954566a595459334d325a6a4e57557555455247&fich=976aaaa1-3c4e-406e-aff4-ca5ca673fc5e.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-11-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784d44597959544979597930354d3255324c545177596a557459574a68596930314d7a5977597a4d32596a6b30595455756347526d&fich=1062a22c-93e6-40b5-abab-5360c36b94a5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-10-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396a4d325a6c4d446869597931684f5441324c545131596d4974596a686a4f5330775a4749344e44466c4d5463315a6d51756347526d&fich=c3fe08bc-a906-45bb-b8c9-0db841e175fd.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-05-13",
+            "gp": "PS",
+            "id": "1435",
+            "motivoCessacao": null,
+            "nome": "José Junqueiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-02-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-05-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325533596d5a6d5a6d466d4c54466b4f5749744e474a684d4331684f5745354c5463355a6a64694d446c6a595456684d4335515245593d&fich=e7bfffaf-1d9b-4ba0-a9a9-79f7b09ca5a0.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "39051",
+      "39055",
+      "39068"
+    ],
+    "Iniciativasoriginadas": [
+      "39051",
+      "39055",
+      "39068"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-02-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150225pln&url=l12/sl4/a2015/m02/&tI=03:27:41:743&drc=00:02:55:627"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-26",
+                "pubLeg": "XII",
+                "pubNr": "54",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa da Urgência Médico-cirúrgica no Hospital de Santa Luzia de Elvas; Recomenda ao Governo o reforço dos serviços disponibilizados no Hospital Santa Luzia de Elvas; Pela melhoria do Hospital de Santa Luzia em Elvas e em defesa do acesso dos utentes aos serviços de saúde; Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150225pln&url=l12/sl4/a2015/m02/&tI=03:30:40:713&drc=00:02:29:092"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-26",
+                "pubLeg": "XII",
+                "pubNr": "54",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa da Urgência Médico-cirúrgica no Hospital de Santa Luzia de Elvas; Recomenda ao Governo o reforço dos serviços disponibilizados no Hospital Santa Luzia de Elvas; Pela melhoria do Hospital de Santa Luzia em Elvas e em defesa do acesso dos utentes aos serviços de saúde; Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150225pln&url=l12/sl4/a2015/m02/&tI=03:33:11:605&drc=00:03:59:395"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197472",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-26",
+                "pubLeg": "XII",
+                "pubNr": "54",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa da Urgência Médico-cirúrgica no Hospital de Santa Luzia de Elvas; Recomenda ao Governo o reforço dos serviços disponibilizados no Hospital Santa Luzia de Elvas; Pela melhoria do Hospital de Santa Luzia em Elvas e em defesa do acesso dos utentes aos serviços de saúde; Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150225pln&url=l12/sl4/a2015/m02/&tI=03:37:13:132&drc=00:04:59:240"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-26",
+                "pubLeg": "XII",
+                "pubNr": "54",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa da Urgência Médico-cirúrgica no Hospital de Santa Luzia de Elvas; Recomenda ao Governo o reforço dos serviços disponibilizados no Hospital Santa Luzia de Elvas; Pela melhoria do Hospital de Santa Luzia em Elvas e em defesa do acesso dos utentes aos serviços de saúde; Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150225pln&url=l12/sl4/a2015/m02/&tI=03:42:16:666&drc=00:04:21:515"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197474",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-26",
+                "pubLeg": "XII",
+                "pubNr": "54",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa da Urgência Médico-cirúrgica no Hospital de Santa Luzia de Elvas; Recomenda ao Governo o reforço dos serviços disponibilizados no Hospital Santa Luzia de Elvas; Pela melhoria do Hospital de Santa Luzia em Elvas e em defesa do acesso dos utentes aos serviços de saúde; Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150225pln&url=l12/sl4/a2015/m02/&tI=03:46:40:922&drc=00:03:07:921"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197475",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-26",
+                "pubLeg": "XII",
+                "pubNr": "54",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa da Urgência Médico-cirúrgica no Hospital de Santa Luzia de Elvas; Recomenda ao Governo o reforço dos serviços disponibilizados no Hospital Santa Luzia de Elvas; Pela melhoria do Hospital de Santa Luzia em Elvas e em defesa do acesso dos utentes aos serviços de saúde; Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150225pln&url=l12/sl4/a2015/m02/&tI=03:49:52:601&drc=00:00:17:398"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197476",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-26",
+                "pubLeg": "XII",
+                "pubNr": "54",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Defesa da Urgência Médico-cirúrgica no Hospital de Santa Luzia de Elvas; Recomenda ao Governo o reforço dos serviços disponibilizados no Hospital Santa Luzia de Elvas; Pela melhoria do Hospital de Santa Luzia em Elvas e em defesa do acesso dos utentes aos serviços de saúde; Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12516",
+    "PetAssunto": "Em defesa do Hospital de Santa Luzia de Elvas e do Direito dos Doentes aos Serviços de Saúde.",
+    "PetDataEntrada": "2014-05-02",
+    "PeticoesAssociadas": null,
+    "PetId": "12516",
+    "PetLeg": "XII",
+    "PetNr": "391",
+    "PetNrAssinaturas": "11486",
+    "PetNrAssinaturasInicial": "11486",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1987",
+        "obs": null,
+        "pag": [
+          "53-58"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-02-26",
+        "pubLeg": "XII",
+        "pubNr": "54",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/054/2015-02-26/53?pgs=53-58&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "683419",
+        "obs": null,
+        "pag": [
+          "6-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-14",
+        "pubLeg": "XII",
+        "pubNr": "52",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/052/2014-06-14/6?pgs=6-9&org=PLC"
+      }
+    ]
+  }
+}
