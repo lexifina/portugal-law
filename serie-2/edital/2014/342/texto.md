@@ -1,0 +1,6 @@
+Edital n.º 342/2014
+José Maria Garcia da Costa, Presidente da Câmara Municipal de Murça, torna público que, por deliberação de câmara na reunião ordinária de 04/04/2014, e nos termos do n.º 1 do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, durante o prazo de 30 dias (úteis) a contar da publicação do presente aviso no Diário da República, é submetido à apreciação pública o "Projeto de Regulamento do Conselho Municipal da Juventude de Murça", cujo texto pode ser consultado no site da Câmara Municipal de Murça (www.cm-murca.pt) ou no placard situado no Wall de entrada do edifício dos Paços do Concelho.
+De acordo com o n.º 2 do artigo 118.º, convidam-se todos os interessados a remeter por escrito, a esta Câmara Municipal eventuais reclamações, sugestões, observações e propostas dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal de Murça, Praça 5 de Outubro, 5090-112 Murça, ou para o email do gabinete de apoio à presidência (gap@cm-murca.pt).
+Para constar e devidos efeitos se publica este aviso e outros de igual teor, que vão ser afixados nos locais públicos de costume.
+10 de abril de 2014. - O Presidente da Câmara, José Maria Garcia da Costa, professor.
+307765069
