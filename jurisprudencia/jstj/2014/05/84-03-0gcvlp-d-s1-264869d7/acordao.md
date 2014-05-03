@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal de Justiça de 2014-05-03, processo 84/03.0GCVLP-D.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 84/03.0GCVLP-D.S1
+
+**Nº Convencional:** 5ª SECÇÃO
+
+**Relator:** SOUTO MOURA
+
+**Descritores:** HABEAS CORPUS; PENA DE PRISÃO; PRISÃO ILEGAL; PENA ÚNICA; PENA PARCELAR; NOVO CÚMULO JURÍDICO; CUMPRIMENTO DE PENA; TRÂNSITO EM JULGADO; PRISÃO PREVENTIVA; MEDIDAS DE COAÇÃO; ANALOGIA
+
+**Data do Acordão:** 05/03/2014
+
+**Texto Integral:** S
+
+**Privacidade:** 1
+
+## Sumário
+
+I - O n.º 2 do art. 222.º do CPP faz depender a procedência da petição de habeas corpus de um conjunto de circunstâncias taxativamente enumeradas. Concretamente, do facto de a prisão:
+
+a) ter sido efetuada ou ordenada por entidade incompetente;
+
+b) ser motivada por facto pelo qual a lei a não permite; ou
+
+c) manter-se para além dos prazos fixados pela lei ou por decisão judicial.
+
+II - Em 13-02-2014 foi proferida decisão que, englobando todas as penas parcelares aplicadas ao requerente, reformulou cúmulos intercalares e aplicou a pena única de 9 anos de prisão. Dessa decisão foi interposto recurso pelo MP.
+
+III - O art. 214.º, n.º 2, do CPP, refere que a medida de prisão preventiva extingue-se de imediato, quando proferida sentença condenatória, ainda que dela tenha sido interposto recurso, se a pena aplicada não for superior à prisão já sofrida. A razão de ser do preceito é evitar que alguém esteja preso mais tempo do que aquele que corresponde às condenações sofridas, razão pela qual se considera desnecessário que a decisão em medida inferior ao tempo já sofrido de prisão transite em julgado.
+
+IV - Uma vez que, por conta das penas que entraram na decisão que reformulou o cúmulo jurídico, o requerente já cumpriu 9 anos, 5 meses e 2 dias de prisão, aplicando analogicamente o art. 214.º, n.º 2, do CPP, tem de se considerar ilegal a sua situação de prisão atual, procedendo a petição de habeas corpus.
