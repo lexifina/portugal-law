@@ -12,10 +12,12 @@ a) Áustria, Finlândia e Suécia, em 1 de Janeiro de 1995;
 
 b) República Checa, Estónia, Chipre, Letónia, Lituânia, Hungria, Malta, Polónia, Eslovénia e Eslováquia, em 1 de Maio de 2004;
 
-c) Os outros Estados membros, em 5 de Agosto de 1987;
+c) Croácia, em 1 de julho de 2013;
 
-d) Islândia e Noruega, em 1 de Janeiro de 1994;
+d) Os outros Estados membros, em 5 de Agosto de 1987;
 
-e) Listenstaina, 1 de Maio de 1995.
+e) Islândia e Noruega, em 1 de Janeiro de 1994;
+
+f) Listenstaina, 1 de Maio de 1995.
 
 4 - Os certificados referidos no número anterior atestam que o seu titular foi autorizado a usar o título de arquitecto, o mais tardar na data de referência, e que se dedicou efectivamente e de acordo com as regras estabelecidas às actividades em causa, durante pelo menos três anos consecutivos no decurso dos cinco anos que precederam a sua emissão.
