@@ -1,0 +1,763 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12518",
+  "numero": "393",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-05-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-06-11",
+            "entidades": null,
+            "id": "97927",
+            "tipo": null,
+            "titulo": "Audição em 2014-06-11 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-11",
+            "entidades": [
+              "Diretor da Escola Secundária Soares dos Reis"
+            ],
+            "nrOficio": "238/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-12",
+            "entidades": [
+              "Diretor da Escola Secundária António Arroio"
+            ],
+            "nrOficio": "239/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-16",
+            "entidades": [
+              "Diretor da Escola Secundária Tomás Cabreira"
+            ],
+            "nrOficio": "240/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": null,
+            "entidades": [
+              "Diretor da Escola Básica e Secundária de Carcavelos"
+            ],
+            "nrOficio": "241/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-06",
+            "entidades": [
+              "Diretor da Escola de Dança do Conservatório Nacional"
+            ],
+            "nrOficio": "242/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": null,
+            "entidades": [
+              "Diretor do Conservatório de Música de Coimbra"
+            ],
+            "nrOficio": "243/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": null,
+            "entidades": [
+              "Diretor do Conservatório de Música de Calouste Gulbenkian"
+            ],
+            "nrOficio": "244/CECC/2014",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-06-12",
+                "dataResposta": null,
+                "nrOficio": "118/2014",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-17",
+            "entidades": [
+              "Diretor do Conservatório de Música do Porto"
+            ],
+            "nrOficio": "245/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-11",
+            "entidades": [
+              "Diretor da Escola de Música do Conservatório Nacional"
+            ],
+            "nrOficio": "246/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-16",
+            "entidades": [
+              "Diretor do Instituto Gregoriano de Lisboa"
+            ],
+            "nrOficio": "247/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": null,
+            "entidades": [
+              "Diretor do Agrupamento de Escolas de Vialonga"
+            ],
+            "nrOficio": "248/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": null,
+            "entidades": [
+              "Diretor do Conservatório de Música de Aveiro de Calouste Gulbenkian"
+            ],
+            "nrOficio": "250/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": null,
+            "entidades": [
+              "Diretor do Agrupamento de Escolas da Bemposta"
+            ],
+            "nrOficio": "251/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-05-22",
+            "dataResposta": "2014-06-19",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "237/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-06-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-05-13",
+        "DataArquivo": "2014-07-01",
+        "DataBaixaComissao": "2014-05-08",
+        "DataEnvioPAR": "2014-07-03",
+        "DataReaberta": "2014-05-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-05-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a526d5a6d4a6a596d45304c5749785a4749744e4745324e533168595456694c5463334e4759344e6a63794f475a6b596935775a47593d&fich=4ffbcba4-b1db-4a65-aa5b-774f86728fdb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b315a5751355a574a6b4c574a6a4d4459744e47497a5a5331694e32466d4c5441794d475a6c59545a694d7a686a4d7935775a47593d&fich=95ed9ebd-bc06-4b3e-b7af-020fea6b38c3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32517a5a6d51795a6a6b7a4c574a68595755744e4459314e5331684e7a41774c545669597a677a4f54497a4e6a4d344e6935775a47593d&fich=d3fd2f93-baae-4655-a700-5bc839236386.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41794f4459774d574e6a4c574d324d6a63744e474d304e693035597a59324c5451304d6a686b4d3249344e32526d4d5335775a47593d&fich=028601cc-c627-4c46-9c66-4428d3b87df1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e6c4e3252685a6d466d4c546b344f474d744e445932595331694d3259794c5751354e3255784e324a6b59324a6d4d5335775a47593d&fich=3e7dafaf-988c-466a-b3f2-d97e17bdcbf1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55794d47566b596d517a4c5451315a6a67744e4463795a533035593252694c57597a4f54566b595759784e4441324e4335775a47593d&fich=520edbd3-45f8-472e-9cdb-f395daf14064.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249314e546330595749334c574e684f5759744e4468694e6930344d7a4e6d4c5449344d6d56684d5451334e54426a4e5335775a47593d&fich=b5574ab7-ca9f-48b6-833f-282ea14750c5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4135596a6b33596a6c6d4c5467315a6d45744e44686a595330344e6d49794c544e6c5a444a6a4e5445304f446c6d4d4335775a47593d&fich=09b97b9f-85fa-48ca-86b2-3ed2c51489f0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6330595464684e4467354c5449354d3245744e446c6d4d7931694d7a4d334c54493359324d785a5446684f54466b4d4335775a47593d&fich=74a7a489-293a-49f3-b337-27cc1e1a91d0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41795a44646c4f44517a4c544a684e444d744e4749354d4330345a5445774c574e6c5a546777595745304e3255314d4335775a47593d&fich=02d7e843-2a43-4b90-8e10-cee80aa47e50.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51794e5745354e544e694c546b785a4467744e44426d596930345a4459774c57526b4d32526a593255324d47517a4f5335775a47593d&fich=425a953b-91d8-40fb-8d60-dd3dcce60d39.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51334d7a45794d4467314c5449784d4749744e4756694e5331684e7a4d784c5441314e5455344e7a51344f545a6a4d5335775a47593d&fich=47312085-210b-4eb5-a731-0555874896c1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245785a6d59784d4455334c5455334e7a55744e444a69595330344d4463784c5449784e6a45334d546b344e4445314e6935775a47593d&fich=a1ff1057-5775-42ba-8071-216171984156.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45794e4455355a5749784c544e6d5a4467744e445a68595330354e6d526d4c5455355a5449334e6a51794d4445314f5335775a47593d&fich=12459eb1-3fd8-46aa-96df-59e276420159.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-05-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59304e6a51314d6a41334c5749315a4449744e445177595330354e3252694c5759314d7a55334e6d49784d7a6c685a4335515245593d&fich=64645207-b5d2-440a-97db-f53576b139ad.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-07-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259354e54566a4d54686d4c544d324d4745744e446732596930344d7a517a4c5445784d474d304d6a49795a446c6b4d5335775a47593d&fich=f955c18f-360a-486b-8343-110c4222d9d1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-06-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59334e3251305a5463304c54526a4d4445744e445578596930354e6a5a6a4c575535596d4931596a49354d6d51324f4335775a47593d&fich=677d4e74-4c01-451b-966c-e9bb5b292d68.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a6c596d59344d57466c4c54513359574d744e4756694e7931684d4756694c5455304e3252694f4755324f54526d4d6935775a47593d&fich=febf81ae-47ac-4eb7-a0eb-547db8e694f2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3256684e6d55354e47566c4c574d785a6a49744e4459334d433169596a466d4c546c6a596a466a4d7a59334d474930597935515245593d&fich=ea6e94ee-c1f2-4670-bb1f-9cb1c3670b4c.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a493159574531595441774c545577596a67744e474e6a4f5331684d7a426a4c54466a4e6a46694e6a4178597a497a4e4335775a47593d&fich=25aa5a00-50b8-4cc9-a30c-1c61b601c234.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51325a44646c4d6a5a694c575531597a67744e445135597931694d54646a4c5755305a4759304e5759304d4463344f5335775a47593d&fich=46d7e26b-e5c8-449c-b17c-e4df45f40789.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-07-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566d597a5a694e5749314c5449775a6d51744e4749335a4330354f54526a4c5449354d54526c4d7a49305a5746694d4335515245593d&fich=5fc6b5b5-20fd-4b7d-994c-2914e324eab0.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32466c5a6d55324d54646d4c574d795a6d55744e475577597931694e544a694c5751324d7a6332596a6c6d59544d315a6935775a47593d&fich=aefe617f-c2fe-4e0c-b52b-d6376b9fa35f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a677a4e7a5a694f5451314c5451794d5759744e4745324e7931694d546b344c574d304e6a6c6a4d6a4d7859325a684e7935775a47593d&fich=8376b945-421f-4a67-b198-c469c231cfa7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-06-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245774e6a67324e57466b4c54466a4e444d744e47457a595331684e7a51334c5464684e7a63784e6a5a694d6a51335a4335775a47593d&fich=a06865ad-1c43-4a3a-a747-7a77166b247d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-05-13",
+            "gp": "PCP",
+            "id": "4104",
+            "motivoCessacao": null,
+            "nome": "Rita Rato"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-01-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-05-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4e6b4d444a694d6a4a694c5441775a6a59744e474a6d596931685a6d4e6c4c5445334e3256684f546b355954426b4e7935515245593d&fich=3d02b22b-00f6-4bfb-afce-177ea999a0d7.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38781",
+      "38580",
+      "38915"
+    ],
+    "Iniciativasoriginadas": [
+      "38580",
+      "38915",
+      "38781"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:48:00:309&drc=00:03:54:453"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação que regula o acesso ao ensino superior dos alunos do ensino artístico especializado; Regime de acesso ao ensino superior dos cursos de ensino artistico especializado das artes visuais e audiovisuais e de ensino especializado da música e da dança; Alunos do ensino artístico prejudicados no acesso ao ensino superior sem justificação pedagógica ou curricular; Pela valorização da avaliação contínua no processo pedagógico e no regime de acesso ao ensino superior, pela não discriminação dos alunos do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:52:03:390&drc=00:03:52:201"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação que regula o acesso ao ensino superior dos alunos do ensino artístico especializado; Regime de acesso ao ensino superior dos cursos de ensino artistico especializado das artes visuais e audiovisuais e de ensino especializado da música e da dança; Alunos do ensino artístico prejudicados no acesso ao ensino superior sem justificação pedagógica ou curricular; Pela valorização da avaliação contínua no processo pedagógico e no regime de acesso ao ensino superior, pela não discriminação dos alunos do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:56:02:200&drc=00:02:42:159"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=02:10:29:603&drc=00:01:19:753"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/30?pgs=30-31,34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação que regula o acesso ao ensino superior dos alunos do ensino artístico especializado; Regime de acesso ao ensino superior dos cursos de ensino artistico especializado das artes visuais e audiovisuais e de ensino especializado da música e da dança; Alunos do ensino artístico prejudicados no acesso ao ensino superior sem justificação pedagógica ou curricular; Pela valorização da avaliação contínua no processo pedagógico e no regime de acesso ao ensino superior, pela não discriminação dos alunos do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=01:58:48:428&drc=00:04:12:368"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação que regula o acesso ao ensino superior dos alunos do ensino artístico especializado; Regime de acesso ao ensino superior dos cursos de ensino artistico especializado das artes visuais e audiovisuais e de ensino especializado da música e da dança; Alunos do ensino artístico prejudicados no acesso ao ensino superior sem justificação pedagógica ou curricular; Pela valorização da avaliação contínua no processo pedagógico e no regime de acesso ao ensino superior, pela não discriminação dos alunos do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=02:03:02:914&drc=00:03:44:511"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação que regula o acesso ao ensino superior dos alunos do ensino artístico especializado; Regime de acesso ao ensino superior dos cursos de ensino artistico especializado das artes visuais e audiovisuais e de ensino especializado da música e da dança; Alunos do ensino artístico prejudicados no acesso ao ensino superior sem justificação pedagógica ou curricular; Pela valorização da avaliação contínua no processo pedagógico e no regime de acesso ao ensino superior, pela não discriminação dos alunos do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150108pln&url=l12/sl4/a2015/m01/&tI=02:06:50:384&drc=00:03:30:859"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-09",
+                "pubLeg": "XII",
+                "pubNr": "35",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação que regula o acesso ao ensino superior dos alunos do ensino artístico especializado; Regime de acesso ao ensino superior dos cursos de ensino artistico especializado das artes visuais e audiovisuais e de ensino especializado da música e da dança; Alunos do ensino artístico prejudicados no acesso ao ensino superior sem justificação pedagógica ou curricular; Pela valorização da avaliação contínua no processo pedagógico e no regime de acesso ao ensino superior, pela não discriminação dos alunos do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12518",
+    "PetAssunto": "Solicitam a alteração da legislação que regula o acesso ao ensino superior dos alunos do ensino artístico especializado.",
+    "PetDataEntrada": "2014-05-08",
+    "PeticoesAssociadas": null,
+    "PetId": "12518",
+    "PetLeg": "XII",
+    "PetNr": "393",
+    "PetNrAssinaturas": "4667",
+    "PetNrAssinaturasInicial": "4667",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1951",
+        "obs": null,
+        "pag": [
+          "28-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-01-09",
+        "pubLeg": "XII",
+        "pubNr": "35",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/035/2015-01-09/28?pgs=28-34&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "690141",
+        "obs": null,
+        "pag": [
+          "3-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-24",
+        "pubLeg": "XII",
+        "pubNr": "49",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/049/2014-05-24/3?pgs=3-5&org=PLC"
+      }
+    ]
+  }
+}
