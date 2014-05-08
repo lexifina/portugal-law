@@ -1,0 +1,6 @@
+Edital n.º 373/2014
+Dinis Manuel da Silva Costa, Presidente da Câmara Municipal de Vizela, em cumprimento do disposto no artigo 56.º da Lei n.º 75/2013, de 12 de setembro, torna público que a Assembleia Municipal de Vizela, em sessão ordinária realizada em 20 de dezembro de 2013, no uso da competência conferida pela alínea g) do n.º 1 do artigo 25.º, da Lei n.º 75/2013, de 12 de setembro, aprovou o Regulamento de Serviço de Gestão de Resíduos Urbanos e Limpeza Urbana do Município de Vizela, que lhe havia sido proposto em cumprimento da deliberação da Câmara Municipal, em reunião ordinária de 28 de novembro de 2013, após inquérito público, conforme determinado no artigo 118.º do Código do Procedimento Administrativo.
+O Regulamento de Serviço de Gestão de Resíduos Urbanos e Limpeza Urbana do Município de Vizela encontra-se disponível na página oficial da Câmara Municipal de Vizela na internet no endereço www.cm-vizela.pt e entrará em vigor 15 dias após a publicação do presente edital na 2.ª série do Diário da República.
+Para constar e para os devidos efeitos, se lavrou o presente edital e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+23 de dezembro de 2013. - O Presidente da Câmara, Dinis Manuel da Silva Costa.
+307732458
