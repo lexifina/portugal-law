@@ -4,7 +4,9 @@
 
 1 - O GNS tem por missão garantir a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte e exercer a função de autoridade de credenciação de pessoas e empresas para o acesso e manuseamento de informação classificada, bem como a de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE).
 
-2 - O GNS prossegue as seguintes atribuições:
+2 - No âmbito do GNS funciona o Centro Nacional de Cibersegurança, doravante designado por CNCSeg, que tem por missão contribuir para que o país use o ciberespaço de uma forma livre, confiável e segura, através da promoção da melhoria contínua da cibersegurança nacional e da cooperação internacional, em articulação com todas as autoridades competentes, bem como da implementação das medidas e instrumentos necessários à antecipação, à deteção, reação e recuperação de situações que, face à iminência ou ocorrência de incidentes ou ciberataques, ponham em causa o funcionamento das infraestruturas críticas e os interesses nacionais.
+
+3 - O GNS prossegue as seguintes atribuições:
 
 a) Garantir a articulação e a harmonização dos procedimentos relativos à segurança da informação classificada em todos os serviços, organismos e entidades, públicos ou privados, onde seja administrada tal informação, designadamente e em especial, os da Administração Pública, das forças armadas e das forças e serviços de segurança, bem como no âmbito das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;
 

@@ -8,6 +8,6 @@
 
 3 - É vedado ao pessoal do GNS o exercício de qualquer actividade pública ou privada susceptível de comprometer os requisitos de isenção, sigilo e disponibilidade permanente inerente às funções que exercem.
 
-4 - O diretor-geral e o subdiretor-geral estão ainda sujeitos aos regimes de incompatibilidades, impedimentos e inibições e de exclusividade e de acumulação de funções previstos no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.
+4 - O diretor-geral e os subdiretores gerais estão ainda sujeitos aos regimes de incompatibilidades, impedimentos e inibições e de exclusividade e de acumulação de funções previstos no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.
 
-5 - O diretor-geral e o subdiretor-geral gozam igualmente dos direitos previstos no capítulo III do estatuto referido no número anterior, sendo equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.
+5 - O diretor-geral e os subdiretores gerais gozam igualmente dos direitos previstos no capítulo III do estatuto referido no número anterior, sendo equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.

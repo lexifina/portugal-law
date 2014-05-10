@@ -42,4 +42,4 @@ r) Propor a celebração e colaborar na elaboração dos acordos bilaterais de s
 
 3 - O diretor-geral exerce ainda as competências previstas para os titulares de cargos de direção superior nos termos do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.
 
-4 - Compete ao subdirector-geral substituir o director-geral nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.
+4 - Os subdiretores gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo a este designar o subdiretor geral que o substitui nas suas faltas e impedimentos.
