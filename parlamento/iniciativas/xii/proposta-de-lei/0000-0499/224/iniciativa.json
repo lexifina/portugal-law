@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "224",
+  "id": "38468",
+  "fases": 25,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-05-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576593255324e6d566a596a49744e4463314e7930304f4751324c5467355a4755744e4442684d7a45774d4759344d474d334c6e426b5a673d3d&fich=ce66ecb2-4757-48d6-89de-40a3100f80c7.pdf&Inline=true",
+        "anexoNome": "Parecer ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f444e6a4e3251324e6d4d744e5464694e5330304d3245324c574a694e546b745a6d59335a546335595455304f5463314c6e426b5a673d3d&fich=83c7d66c-57b5-43a6-bb59-ff7e79a54975.pdf&Inline=true",
+        "anexoNome": "Parecer OA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d56685a6d59774e3249745932557a5a5330305957466d4c5467335a6a4d744e47526b4d54526b4e4463784d7a52694c6e426b5a673d3d&fich=beaff07b-ce3e-4aaf-87f3-4dd14d47134b.pdf&Inline=true",
+        "anexoNome": "Parecer ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a4a6c4d4445304f5451744f5467344e5330304e6a5a6d4c546c684d6a51744e7a4e6d4d544533596a46694d6a4d314c6e426b5a673d3d&fich=b2e01494-9885-466f-9a24-73f117b1b235.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4759344d5463305a5441744d474e6b596930304d545a6a4c57497a5a6a6b744d7a4d354f5451304f44526d596a51784c6e426b5a673d3d&fich=8f8174e0-0cdb-416c-b3f9-33994484fb41.pdf&Inline=true",
+        "anexoNome": "Parecer CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4451794d54686d4d6d51744d7a51774e4330305a5749354c57466c4f4749744f5452695a474d774f4446684d4749334c6e426b5a673d3d&fich=04218f2d-3404-4eb9-ae8b-94bdc081a0b7.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38468",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d3251794e7a64684e4759745a4463354e69303059544e6c4c574a6d5a5455744d44566d4f5455784d7a51784e6d45324c6d527659773d3d&fich=3d277a4f-d796-4a3e-bfe5-05f9513416a6.doc&Inline=true",
+    "IniNr": "224",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Autoriza o Governo a aprovar o novo Código do Procedimento Administrativo.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
