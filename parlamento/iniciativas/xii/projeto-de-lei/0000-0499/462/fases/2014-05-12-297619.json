@@ -1,0 +1,608 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "462",
+    "id": "38010",
+    "titulo": "Define o regime de certificação e adoção dos manuais escolares, garantindo a sua gratuitidade."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-05-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9972",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-05-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38380",
+        "leg": "XII",
+        "nr": "558",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Procede à 1.ª Alteração à Lei n.º 47/2006, de 28 de Agosto, densificando o regime de empréstimos de manuais escolares e assegurando a sua articulação com regime de acção social escolar no ensino básico e secundário e com as competências das autarquias locais na matéria."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38455",
+        "leg": "XII",
+        "nr": "602",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Altera a Lei nº 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares."
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38457",
+        "leg": "XII",
+        "nr": "603",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1879",
+            "obs": null,
+            "pag": [
+              "43-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-13",
+            "pubLeg": "XII",
+            "pubNr": "84",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Acesso Universal aos Manuais Escolares."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-05-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4321",
+                "nome": "Rui Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140512pln&url=l12/sl3/a2014/m05/&tI=02:41:13:690&drc=00:04:29:451"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193892",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-13",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 1.ª Alteração à Lei n.º 47/2006, de 28 de Agosto, densificando o regime de empréstimos de manuais escolares e assegurando a sua articulação com regime de acção social escolar no ensino básico e secundário e com as competências das autarquias locais na matéria; Define o regime de certificação e adoção dos manuais escolares, garantindo a sua gratuitidade; Altera a Lei nº 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares; Acesso Universal aos Manuais Escolares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4430",
+                "nome": "Paula Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140512pln&url=l12/sl3/a2014/m05/&tI=02:45:52:002&drc=00:04:10:439"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193893",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-13",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 1.ª Alteração à Lei n.º 47/2006, de 28 de Agosto, densificando o regime de empréstimos de manuais escolares e assegurando a sua articulação com regime de acção social escolar no ensino básico e secundário e com as competências das autarquias locais na matéria; Define o regime de certificação e adoção dos manuais escolares, garantindo a sua gratuitidade; Altera a Lei nº 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares; Acesso Universal aos Manuais Escolares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140512pln&url=l12/sl3/a2014/m05/&tI=02:50:08:721&drc=00:04:27:980"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193894",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-13",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/46?pgs=46&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 1.ª Alteração à Lei n.º 47/2006, de 28 de Agosto, densificando o regime de empréstimos de manuais escolares e assegurando a sua articulação com regime de acção social escolar no ensino básico e secundário e com as competências das autarquias locais na matéria; Define o regime de certificação e adoção dos manuais escolares, garantindo a sua gratuitidade; Altera a Lei nº 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares; Acesso Universal aos Manuais Escolares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140512pln&url=l12/sl3/a2014/m05/&tI=02:54:43:058&drc=00:03:54:218"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140512pln&url=l12/sl3/a2014/m05/&tI=03:06:47:177&drc=00:00:51:690"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193895",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47",
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-13",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/47?pgs=47,50&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 1.ª Alteração à Lei n.º 47/2006, de 28 de Agosto, densificando o regime de empréstimos de manuais escolares e assegurando a sua articulação com regime de acção social escolar no ensino básico e secundário e com as competências das autarquias locais na matéria; Define o regime de certificação e adoção dos manuais escolares, garantindo a sua gratuitidade; Altera a Lei nº 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares; Acesso Universal aos Manuais Escolares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4394",
+                "nome": "Emília Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140512pln&url=l12/sl3/a2014/m05/&tI=02:58:41:872&drc=00:04:24:460"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193896",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-13",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/47?pgs=47-49&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 1.ª Alteração à Lei n.º 47/2006, de 28 de Agosto, densificando o regime de empréstimos de manuais escolares e assegurando a sua articulação com regime de acção social escolar no ensino básico e secundário e com as competências das autarquias locais na matéria; Define o regime de certificação e adoção dos manuais escolares, garantindo a sua gratuitidade; Altera a Lei nº 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares; Acesso Universal aos Manuais Escolares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140512pln&url=l12/sl3/a2014/m05/&tI=03:03:14:744&drc=00:03:20:322"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-13",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Procede à 1.ª Alteração à Lei n.º 47/2006, de 28 de Agosto, densificando o regime de empréstimos de manuais escolares e assegurando a sua articulação com regime de acção social escolar no ensino básico e secundário e com as competências das autarquias locais na matéria; Define o regime de certificação e adoção dos manuais escolares, garantindo a sua gratuitidade; Altera a Lei nº 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares; Acesso Universal aos Manuais Escolares.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297619",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "683110",
+        "obs": null,
+        "pag": [
+          "43-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-13",
+        "pubLeg": "XII",
+        "pubNr": "84",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/084/2014-05-13/43?pgs=43-50&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
