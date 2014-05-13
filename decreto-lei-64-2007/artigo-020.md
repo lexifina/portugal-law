@@ -2,7 +2,7 @@
 
 ### Suspensão da licença
 
-1 - A interrupção da actividade do estabelecimento por um período superior a um ano determina a suspensão da respectiva licença.
+1 - A interrupção do funcionamento do estabelecimento por um período superior a um ano determina a suspensão da respetiva licença.
 
 2 - A proposta de decisão da suspensão é notificada ao interessado pelo Instituto da Segurança Social, I. P., que dispõe de um prazo de 10 dias para contestar os fundamentos invocados para a suspensão da licença.
 

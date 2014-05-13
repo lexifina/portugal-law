@@ -2,15 +2,15 @@
 
 ### Documentos anexos ao requerimento
 
-1 - O requerimento deve ser acompanhado dos seguintes documentos:
+1 - O requerimento de licenciamento, a que se refere o artigo anterior, é instruído com os seguintes documentos:
 
-a) Fotocópia do cartão de identificação de pessoa colectiva ou do bilhete de identidade do requerente;
+a) Cópia do cartão de identificação da pessoa coletiva, do cartão de cidadão ou do bilhete de identidade do requerente;
 
-b) Fotocópia do cartão de identificação fiscal;
+b) Cópia do cartão de identificação fiscal;
 
 c) Extracto em forma simples do teor das inscrições em vigor no registo comercial ou código de acesso à respectiva certidão permanente e cópia dos estatutos;
 
-d) Certidão do registo criminal do requerente ou dos representantes legais referidos no n.º 2 do artigo 14.º;
+d) Certidão do registo criminal do requerente ou dos representantes legais referidos no n.º 2 do artigo 13.º;
 
 e) Declaração da situação contributiva perante a administração fiscal ou autorização para consulta dessa informação por parte dos serviços competentes da segurança social;
 

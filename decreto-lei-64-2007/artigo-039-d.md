@@ -2,18 +2,18 @@
 
 ### Infrações leves
 
-Constitui infração leve:
+Constitui infração leve a falta de afixação em local bem visível de qualquer dos seguintes elementos:
 
-a) A não observância do disposto no artigo 27.º;
+a) Licença ou autorização provisória de funcionamento;
 
-b) O desrespeito pelas normas da regulamentação específica aplicável a cada tipologia de resposta social, nos termos do artigo 5.º, quando não se enquadrem nos artigos 39.º-B e 39.º-C;
+b) Mapa de pessoal e respetivos horários, de harmonia com a legislação aplicável;
 
-c) (Revogada.)
+c) Nome do diretor técnico do estabelecimento;
 
-d) (Revogada.)
+d) Horário de funcionamento do estabelecimento;
 
-e) (Revogada.)
+e) Regulamento interno;
 
-f) (Revogada.)
+f) Mapa semanal das ementas;
 
-g) (Revogada.)
+g) Preçário, com indicação dos valores mínimos e máximos praticados.

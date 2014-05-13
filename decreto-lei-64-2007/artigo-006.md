@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Licenciamento ou autorização da construção
+## Licenciamento da construção e autorização de utilização
 
 # Artigo 6.º
 

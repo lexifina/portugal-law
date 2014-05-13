@@ -10,7 +10,7 @@ b) Inibição temporária do exercício da profissão ou da atividade a que a co
 
 c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos, nacionais ou comunitários, no âmbito do exercício da atividade de prestação de serviços e dos estabelecimentos de apoio social;
 
-d) Encerramento do estabelecimento e suspensão da comunicação prévia ou da autorização de funcionamento;
+d) Encerramento do estabelecimento e suspensão da licença ou da autorização provisória de funcionamento;
 
 e) Publicação, a expensas do infrator, em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico, da condenação aplicada pela prática da contraordenação.
 

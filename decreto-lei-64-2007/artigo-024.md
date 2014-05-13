@@ -6,4 +6,4 @@
 
 ### Denominação dos estabelecimentos
 
-Cada estabelecimento ou estrutura prestadora de serviços deve possuir uma denominação própria, de forma a garantir a perfeita individualização e impedir a duplicação de denominações.
+Cada estabelecimento deve adotar uma denominação própria que permita a sua individualização e impeça a duplicação de denominações.

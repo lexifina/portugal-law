@@ -6,4 +6,4 @@
 
 2 - Com o requerimento de substituição devem ser apresentados os documentos comprovativos da alteração.
 
-3 - O pedido de substituição é indeferido se as alterações não respeitarem as condições de instalação e de funcionamento legalmente estabelecidas.
+3 - O pedido de substituição é indeferido se as alterações não respeitarem as condições referidas no artigo 12.º

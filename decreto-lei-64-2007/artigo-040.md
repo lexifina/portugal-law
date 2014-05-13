@@ -1,6 +1,6 @@
 ## Capítulo VIII
 
-## Disposições finais e transitórias
+## Regime sancionatório
 
 # Artigo 40.º
 

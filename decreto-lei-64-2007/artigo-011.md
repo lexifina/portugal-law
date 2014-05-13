@@ -1,10 +1,10 @@
 ## Capítulo III
 
-## Licenciamento da actividade
+## Licenciamento do funcionamento
 
 # Artigo 11.º
 
-### Âmbito
+### Início da atividade
 
 1 - Os estabelecimentos abrangidos pelo presente decreto-lei só podem iniciar a actividade após a concessão da respectiva licença de funcionamento, sem prejuízo do disposto nos artigos 37.º e 38.º
 

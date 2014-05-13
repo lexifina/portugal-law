@@ -1,21 +1,27 @@
 # Artigo 39.º-C
 
-### Coimas graves
+### Infrações graves
 
-Constituem infrações graves:
+Constituem infrações muito graves:
 
-a) A não apresentação, no prazo de 30 dias contados da sua ocorrência, de requerimento de substituição da comunicação prévia ou da autorização de funcionamento, na sequência de alteração da denominação do estabelecimento ou da identificação da entidade gestora;
+a) A abertura ou o funcionamento de estabelecimento que não se encontre licenciado nem disponha de autorização provisória de funcionamento válida;
 
-b) A ausência de comunicação na sequência de alterações de localização da atividade prosseguida pela resposta social ou da capacidade autorizada;
+b) A inadequação das instalações, bem como as deficientes condições de higiene e segurança, face aos requisitos estabelecidos;
 
-c) A falta de comunicação, aos serviços competentes do ISS, I. P., da interrupção ou cessação da atividade do estabelecimento por iniciativa do proprietário, no prazo de 30 dias;
+c) O excesso da capacidade em relação à autorizada para o estabelecimento;
 
-d) A falta de comunicação prévia, aos serviços competentes do ISS, I. P., das alterações ao regulamento interno do estabelecimento, até 30 dias antes da sua entrada em vigor;
+d) O impedimento das ações de fiscalização, designadamente por falta de disponibilização, aos serviços competentes do Ministério que tutela a área da segurança social do acesso a todas as dependências do estabelecimento e das informações indispensáveis à avaliação e fiscalização do seu funcionamento;
 
-e) A falta da remessa anual, aos serviços competentes do ISS, I. P., dos mapas estatísticos dos utentes e da relação do pessoal existente no estabelecimento, bem como do preçário em vigor;
+e) A inexistência de diretor técnico;
 
-f) A inexistência de comunicação mensal de dados ou a comunicação de dados errados relativos à frequência de utentes, no caso das respostas com acordo de cooperação;
+f) A inexistência de pessoal com categoria profissional e afetação adequadas às atividades e serviços desenvolvidos em cada estabelecimento e indicado no respetivo mapa;
 
-g) A prestação de falsas informações na comunicação prévia, sem prejuízo das demais sanções aplicáveis;
+g) A inexistência de regulamento interno;
 
-h) A falta de apresentação de registo criminal dos titulares dos órgãos de direção ou administração e de recursos humanos, nos termos da regulamentação específica.
+h) A não celebração, por escrito, quando exigida, de contratos de alojamento e de prestação de serviços, com os utentes ou seus familiares, dos quais constem os principais direitos e obrigações de ambas as partes;
+
+i) A inadequação ou falta dos cuidados e serviços à satisfação das necessidades dos utentes, designadamente higiene pessoal, alimentação e administração de fármacos de acordo com a devida prescrição médica;
+
+j) Inexistência de processo individual do utente;
+
+k) A inexistência de plano de intervenção.
