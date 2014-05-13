@@ -1,0 +1,434 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "543",
+    "id": "38330",
+    "titulo": "Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-05-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9977",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-05-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38419",
+        "leg": "XII",
+        "nr": "596",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1880",
+            "obs": null,
+            "pag": [
+              "38-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-14",
+            "pubLeg": "XII",
+            "pubNr": "85",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/38?pgs=38-46&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Combate a pobreza, repõe direitos no acesso às prestações sociais."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-05-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:06:06:684&drc=00:03:30:436"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:25:30:491&drc=00:01:41:452"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39",
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-14",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/39?pgs=39,45&org=PLC"
+              }
+            ],
+            "sumario": "Combate a pobreza, repõe direitos no acesso às prestações sociais; Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4447",
+                "nome": "David Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:09:41:128&drc=00:03:22:191"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:23:01:157&drc=00:01:20:152"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40",
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-14",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/40?pgs=40,44&org=PLC"
+              }
+            ],
+            "sumario": "Combate a pobreza, repõe direitos no acesso às prestações sociais; Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:13:11:116&drc=00:03:00:030"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:24:32:071&drc=00:00:52:185"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41",
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-14",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/40?pgs=40-41,44-45&org=PLC"
+              }
+            ],
+            "sumario": "Combate a pobreza, repõe direitos no acesso às prestações sociais; Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2522",
+                "nome": "Catarina Marcelino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:16:15:093&drc=00:03:32:275"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-14",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Combate a pobreza, repõe direitos no acesso às prestações sociais; Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:19:51:564&drc=00:03:02:181"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:27:53:575&drc=00:00:57:186"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44",
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-14",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/42?pgs=42-44,46&org=PLC"
+              }
+            ],
+            "sumario": "Combate a pobreza, repõe direitos no acesso às prestações sociais; Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2522",
+                "nome": "Catarina Marcelino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140513pln&url=l12/sl3/a2014/m05/&tI=03:27:14:974&drc=00:00:28:025"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-14",
+                "pubLeg": "XII",
+                "pubNr": "85",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Combate a pobreza, repõe direitos no acesso às prestações sociais; Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297635",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "683116",
+        "obs": null,
+        "pag": [
+          "38-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-14",
+        "pubLeg": "XII",
+        "pubNr": "85",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/085/2014-05-14/38?pgs=38-46&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
