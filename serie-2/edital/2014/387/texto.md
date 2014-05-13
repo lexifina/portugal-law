@@ -1,0 +1,6 @@
+Edital n.º 387/2014
+O Município da Covilhã faz público que a Câmara Municipal em reunião extraordinária realizada em 16 de abril de 2014, deliberou submeter a apreciação pública, nos termos do artigo 118.º do Código do Procedimento Administrativo, pelo prazo de 30 dias úteis, contados da data da publicação do presente Edital na 2.ª série do Diário da República, o Projeto de alterações ao Regulamento e Tabela de Taxas compensações e outras receitas do Município da Covilhã, para posterior sujeição ao órgão deliberativo.
+O referido documento encontra-se à disposição do público para consulta no Serviço de Taxas e Licenças - Edifício dos Paços do Concelho - Praça do Município - Covilhã, durante as horas normais de expediente, sendo ainda publicitado no Boletim Municipal e na página oficial da Câmara Municipal na internet, no endereço www.cm-covilha.pt e eventuais sugestões ou observações sobre o referido projeto, deverão ser formuladas por escrito a esta Câmara Municipal, no período de tempo acima referido ou para o endereço eletrónico (info@cm-covilha.pt).
+Para constar e devidos efeitos, se publica o presente Edital que vai ser afixado nos lugares públicos do costume.
+28 de abril de 2014. - O Presidente da Câmara, Vítor Manuel Pinheiro Pereira.
+307788413
