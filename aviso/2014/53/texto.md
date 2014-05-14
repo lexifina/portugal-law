@@ -1,0 +1,4 @@
+Aviso n.º 53/2014
+Por ordem superior se torna público que, em 16 de setembro de 2013 e em 17 de dezembro de 2013, foram emitidas notas, respetivamente, pelo Governo Português e pela Corporação Andina de Fomento, em que se comunica terem sido cumpridas as respetivas formalidades internas de aprovação do Acordo entre a República Portuguesa e a Corporação Andina de Fomento sobre Privilégios e Imunidades, assinado em Lisboa em 30 de novembro de 2009.
+O referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 136 e ratificada pelo Decreto do Presidente da República n.º 106, ambos publicados no Diário da República, 1.ª série, n.º 177, de 13 de setembro de 2013. Nos termos do artigo 14.º do referido Acordo, este entrou em vigor a 17 de dezembro de 2013.
+Direção-Geral de Política Externa, 29 de abril de 2014. - O Subdiretor-Geral, Carlos Pereira Marques.
