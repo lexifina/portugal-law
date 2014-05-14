@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "227",
+  "id": "38485",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-05-14",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a47466a5a57526a595459744f5749775a5330305a57526c4c5745794e4467744e3255325a474a6d59325935597a51354c6e426b5a673d3d&fich=dacedca6-9b0e-4ede-a248-7e6dbfcf9c49.pdf&Inline=true",
+        "anexoNome": "Parecer da ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a67335a6d4d354d3251745a6d566a4d7930304d6d45354c54686b5a6d55744f44457a596a46684d6a64685a5759354c6e426b5a673d3d&fich=b87fc93d-fec3-42a9-8dfe-813b1a27aef9.pdf&Inline=true",
+        "anexoNome": "Nota Crítica da CIP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4449335a4452694f5451744f5459334d5330304e6a6c6b4c546b324e544574596a466a4f446b775a5745795a5455774c6e426b5a673d3d&fich=827d4b94-9671-469d-9651-b1c890ea2e50.pdf&Inline=true",
+        "anexoNome": "Ofício do CPCI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a51304f4749355a6a67744d574d794d7930305a4749344c5467324e7a67744f5759345a5759795a44566c5a4759794c6e426b5a673d3d&fich=7448b9f8-1c23-4db8-8678-9f8ef2d5edf2.pdf&Inline=true",
+        "anexoNome": "Parecer CRAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324d344d5451324e6d45744e5755334f4330305a474e684c5749795a6a51744d5459774e32526a596a55314d6a686b4c6e426b5a673d3d&fich=3c81466a-5e78-4dca-b2f4-1607dcb5528d.pdf&Inline=true",
+        "anexoNome": "Oficio à O.Arquitetos"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4464684e6a4d314e6a4d74596a497a4d7930304e546b784c546732595451744e7a51314d7a466c4e6a417a5a446b794c6e426b5a673d3d&fich=d7a63563-b233-4591-86a4-74531e603d92.pdf&Inline=true",
+        "anexoNome": "Ofício à O. Engenheiros"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4445334d6d59304e324d74596a46684f4330304d5451344c546b30597a4974596a51354d6a517a4e5459314d4463344c6e426b5a673d3d&fich=d172f47c-b1a8-4148-94c2-b49243565078.pdf&Inline=true",
+        "anexoNome": "Ofício ao MEE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d324d305a6a566a5a574d745a5451785a5330304e6d4d784c546c6b4d6d49744d44517a4d7a6c6a4d575a6b4d575a6b4c6e426b5a673d3d&fich=3c4f5cec-e41e-46c1-9d2b-04339c1fd1fd.pdf&Inline=true",
+        "anexoNome": "Parecer APAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a67305a5449774d446b744e324d784e693030597a55784c5749304e4449745932566b4d44597a4f546c6a596d526c4c6e426b5a673d3d&fich=c84e2009-7c16-4c51-b442-ced06399cbde.pdf&Inline=true",
+        "anexoNome": "APAP anexo I"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d544530595467314d444974596a4e684e533030593245344c546b784f4451744e5441784d5745774e7a5268597a45304c6e426b5a673d3d&fich=114a8502-b3a5-4ca8-9184-5011a074ac14.pdf&Inline=true",
+        "anexoNome": "APAP anexo II"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38485",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d56684e54526c4e444574595752684d7930304f4451334c5467314d5749744d4455335a6a4d334d6a49344e5467774c6d527659773d3d&fich=2ea54e41-ada3-4847-851b-057f37228580.doc&Inline=true",
+    "IniNr": "227",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
