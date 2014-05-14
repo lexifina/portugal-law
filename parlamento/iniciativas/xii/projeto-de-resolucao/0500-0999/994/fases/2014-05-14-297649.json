@@ -1,0 +1,369 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "994",
+    "id": "38324",
+    "titulo": "Recomenda ao Governo que reforce o estudo das necessidades e devidas respostas no âmbito dos Cuidados Paliativos Pediátricos e que implemente as medidas necessárias à disponibilização efetiva desses cuidados no nosso País."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2014-05-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9986",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2014-05-14",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38461",
+        "leg": "XII",
+        "nr": "1039",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1884",
+            "obs": null,
+            "pag": [
+              "20-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-15",
+            "pubLeg": "XII",
+            "pubNr": "86",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/20?pgs=20-25&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a instalação de uma unidade de cuidados paliativos para crianças e adolescentes no edifício do antigo Hospital Maria Pia, no Porto."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-05-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3948",
+                "nome": "Graça Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140514pln&url=l12/sl3/a2014/m05/&tI=01:17:32:258&drc=00:04:28:563"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-15",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce o estudo das necessidades e devidas respostas no âmbito dos Cuidados Paliativos Pediátricos e que implemente as medidas necessárias à disponibilização efetiva desses cuidados no nosso País; Recomenda ao Governo a instalação de uma unidade de cuidados paliativos para crianças e adolescentes no edifício do antigo Hospital Maria Pia, no Porto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "803",
+                "nome": "João Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140514pln&url=l12/sl3/a2014/m05/&tI=01:22:05:658&drc=00:03:07:618"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140514pln&url=l12/sl3/a2014/m05/&tI=01:37:12:195&drc=00:01:50:139"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22",
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-15",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/21?pgs=21-22,25&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce o estudo das necessidades e devidas respostas no âmbito dos Cuidados Paliativos Pediátricos e que implemente as medidas necessárias à disponibilização efetiva desses cuidados no nosso País; Recomenda ao Governo a instalação de uma unidade de cuidados paliativos para crianças e adolescentes no edifício do antigo Hospital Maria Pia, no Porto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140514pln&url=l12/sl3/a2014/m05/&tI=01:25:16:287&drc=00:04:35:701"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-15",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce o estudo das necessidades e devidas respostas no âmbito dos Cuidados Paliativos Pediátricos e que implemente as medidas necessárias à disponibilização efetiva desses cuidados no nosso País; Recomenda ao Governo a instalação de uma unidade de cuidados paliativos para crianças e adolescentes no edifício do antigo Hospital Maria Pia, no Porto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2092",
+                "nome": "Luísa Salgueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140514pln&url=l12/sl3/a2014/m05/&tI=01:29:55:033&drc=00:03:32:427"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-15",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce o estudo das necessidades e devidas respostas no âmbito dos Cuidados Paliativos Pediátricos e que implemente as medidas necessárias à disponibilização efetiva desses cuidados no nosso País; Recomenda ao Governo a instalação de uma unidade de cuidados paliativos para crianças e adolescentes no edifício do antigo Hospital Maria Pia, no Porto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "13:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140514pln&url=l12/sl3/a2014/m05/&tI=01:33:29:398&drc=00:03:39:430"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "193976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-15",
+                "pubLeg": "XII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce o estudo das necessidades e devidas respostas no âmbito dos Cuidados Paliativos Pediátricos e que implemente as medidas necessárias à disponibilização efetiva desses cuidados no nosso País; Recomenda ao Governo a instalação de uma unidade de cuidados paliativos para crianças e adolescentes no edifício do antigo Hospital Maria Pia, no Porto.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297649",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "683301",
+        "obs": null,
+        "pag": [
+          "20-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-15",
+        "pubLeg": "XII",
+        "pubNr": "86",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/20?pgs=20-25&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
