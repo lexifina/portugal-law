@@ -1,0 +1,219 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "225",
+    "id": "38483",
+    "titulo": "Autoriza o Governo, no âmbito da transposição da Diretiva n.º 2013/36/UE, do Parlamento Europeu e do Conselho, de 26 de junho de 2013, a proceder à alteração ao Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2014-05-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "33539",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2014-07-04",
+            "id": "98082",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-05-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-06-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da APB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41344e446b324d6d59344c5751325a5467744e4445774e5330344d7a45304c574978597a5932596d566b5a6a6c6a4d7935775a47593d&fich=084962f8-d6e8-4105-8314-b1c66bedf9c3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da APFIPP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45344d5442694d32566b4c5759784e324d744e474e69596930354d546b324c5441784d7a4e694e6d51324e445a694d5335775a47593d&fich=1810b3ed-f17c-4cbb-9196-0133b6d646b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da ASFAC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325935595749304e7a51794c54637a4f4749744e475a684e433168596a457a4c5451795a474d354e57466a5a445a684e7935775a47593d&fich=f9ab4742-738b-4fa4-ab13-42dc95acd6a7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CMVM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566c4d5451314e4751324c5746694d6a51744e446b344d4331685a574a694c57517a595749324e54526b4e6a63324f5335775a47593d&fich=ee1454d6-ab24-4980-aebb-d3ab654d6769.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49794f5442694e6a45314c5451795a4449744e474e694e6931695a4442694c546b3359324532596a63784e7a686b4f5335775a47593d&fich=2290b615-42d2-4cb6-bd0b-97ca6b7178d9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da COFAP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d324f54686d595459334c5467775a6d45744e44686b5953316959324a684c5463354f5459354f5468695a6a4130595335515245593d&fich=3698fa67-80fa-48da-bcba-7996998bf04a.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686b4d7a466d4d7a59324c544131595745744e446b314d6930344d444a6b4c5745784f4464694e474d335a5451304d5335775a47593d&fich=8d31f366-05aa-4952-802d-a187b4c7e441.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Conselho Nacional de Supervisores Financeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49314e6d51334f4749794c5755794d6a63744e4751794f43303459325a694c57526c596a63774d54493559545135595335775a47593d&fich=256d78b2-e227-4d28-8cfb-deb70129a49a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do IPCG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45774d324530595749304c546c6c4d5459744e4459315a69316959544a6c4c54646b4e444d354f474d7a4d6a45785a4335775a47593d&fich=103a4ab4-9e16-465f-ba2e-7d4398c3211d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do ISP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426d5a6a51785a6a6c6b4c57517a4e6d51744e445535595330354e6a67784c5759324f475269596a52695a6a55314d7935775a47593d&fich=0ff41f9d-d36d-459a-9681-f68dbb4bf553.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "72-88"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-04",
+            "pubLeg": "XII",
+            "pubNr": "125",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/125/2014-06-04/72?pgs=72-88&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "72-88"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-04",
+            "pubLeg": "XII",
+            "pubNr": "125",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/125/2014-06-04/72?pgs=72-88&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4166",
+            "motivoCessacao": null,
+            "nome": "João Galamba"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-06-04",
+            "dataRemessa": null,
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE"
+            ],
+            "data": "2014-06-04",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I><BR>Ausência: <I>BE</I>",
+            "id": "66681",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "284",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-05-14",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297691",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
