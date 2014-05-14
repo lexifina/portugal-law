@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "226",
+  "id": "38484",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-05-14",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595442684f4459334e4455745a6a51794e5330304e324d784c5467345a5445744f54426d4e3251315a5759794d32497a4c6e426b5a673d3d&fich=a0a86745-f425-47c1-88e1-90f7d5ef23b3.pdf&Inline=true",
+        "anexoNome": "Parecer OE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d546c6a4d7a68694f4441744e4749324f4330304f5456694c54686d4d475974595459354e7a646b4e325a695a5459774c6e426b5a673d3d&fich=19c38b80-4b68-495b-8f0f-a6977d7fbe60.pdf&Inline=true",
+        "anexoNome": "Parecer ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a46694d6d4d315a546774597a6c684d4330304d6a67304c574a6d4e6d4974593251794e6a52695a6a4e6b5a57517a4c6e426b5a673d3d&fich=c1b2c5e8-c9a0-4284-bf6b-cd264bf3ded3.pdf&Inline=true",
+        "anexoNome": "Parecer CIP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d49334d7a466c4d6a5574596d51344d5330304d6a51334c57466b4f544574596d51314f44497a5a4463344d6a59344c6e426b5a673d3d&fich=fb731e25-bd81-4247-ad91-bd5823d78268.pdf&Inline=true",
+        "anexoNome": "Parecer OET"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e324d325a4451304e6a41745a6a4d7a4e7930304f57457a4c54686b4d444d74596d56694e7a6b304e544d324d6a51774c6e426b5a673d3d&fich=7c6d4460-f337-49a3-8d03-beb794536240.pdf&Inline=true",
+        "anexoNome": "Parecer CPCI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d474d785a6a637a4f4759744f474a684f4330304e544e6d4c546b304d4467745a4445324e6d49774d325979593245794c6e426b5a673d3d&fich=0c1f738f-8ba8-453f-9408-d166b03f2ca2.pdf&Inline=true",
+        "anexoNome": "Parecer CRAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595751794e4451334d6a49744e446c6a5a6930304e5467774c546b354d4745744e6d45774d546778597a6b305a445a694c6e426b5a673d3d&fich=ad244722-49cf-4580-990a-6a0181c94d6b.pdf&Inline=true",
+        "anexoNome": "Parecer OA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a41354e57493059324974595446695a4330305a6a426d4c546b7a4d7a6b744e7a55314d5441784f4759325a47566a4c6e426b5a673d3d&fich=2095b4cb-a1bd-4f0f-9339-7551018f6dec.pdf&Inline=true",
+        "anexoNome": "Parecer APAP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e444130596a6335595459744f4451334d4330304d4755324c546735597a67744e7a4e6d4e5755784e7a457a4e5749774c6e426b5a673d3d&fich=404b79a6-8470-40e6-89c8-73f5e17135b0.pdf&Inline=true",
+        "anexoNome": "Parecer APAP-Anexo I"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e47566d596d51794e3245745a446c6b5a6930304e6d4d314c5745324e4755744e7a5132596d5a6d5a5445795932526d4c6e426b5a673d3d&fich=4efbd27a-d9df-46c5-a64e-746bffe12cdf.pdf&Inline=true",
+        "anexoNome": "Parecer APAP-Anexo II"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38484",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a67335a6a646d4e7a6b744d325a6b5a5330305a4464684c5749784d4755744e6a6b325a5751354e54426b4d5745324c6d527659773d3d&fich=b87f7f79-3fde-4d7a-b10e-696ed950d1a6.doc&Inline=true",
+    "IniNr": "226",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
