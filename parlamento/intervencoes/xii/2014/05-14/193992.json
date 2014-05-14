@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "193992",
+  "tipo": "Declaração de voto",
+  "orador": "Alberto Martins (PS)",
+  "data_registo": "2014-05-14",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "297731",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38330",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2014-05-14",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "462",
+      "nome": "Alberto Martins"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "193992",
+    "IdDebate": "9989",
+    "Iniciativas": [
+      {
+        "fase": "Votação na generalidade",
+        "id": "38330",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "193992",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "43-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-15",
+        "pubLeg": "XII",
+        "pubNr": "86",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/086/2014-05-15/43?pgs=43-44&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Assinado pelo Grupo Parlamentar do Partido Socialista",
+    "Sessao": "3",
+    "Sumario": "Revoga o Decreto-Lei n.º 70/2010, o Decreto-Lei n.º 133/2012 e o Decreto-Lei 13/2013, repondo critérios mais justos na atribuição de apoios sociais.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração de voto"
+  }
+}
