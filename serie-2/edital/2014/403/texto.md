@@ -1,0 +1,6 @@
+Edital n.º 403/2014
+Regulamento de Publicidade do Município de Pinhel
+Rui Manuel Saraiva Ventura, Presidente da Câmara Municipal de Pinhel, torna público nos termos e para os efeitos do disposto no artigo 56.º da Lei n.º 75/2013, de 12 setembro e no uso das competências que lhe são conferidas nos termos da alínea c) n.º 1 do artigo 35.º da mesma lei, que foi aprovado em sessão da Assembleia Municipal, realizada em 17 de fevereiro de 2014, sob proposta da Câmara de 21 de junho de 2013, Regulamento de Publicidade do Município de Pinhel, publicado no Diário da República por edital n.º 546/2013, 2.ª série de 29-05-2013, o qual após decurso do prazo de apreciação pública, foram feitas pequenas retificações gramaticais não foi objeto de sugestões ou reclamações, considerando-se aprovado de forma definitiva.
+O Regulamento de Publicidade do Município de Pinhel, entra em vigor no dia seguinte à publicação do presente Edital no Diário da República, e encontra-se agora disponível, na sua versão final, no site da Câmara Municipal de Pinhel em www.cm-pinhel.pt, onde poderá ser consultado e descarregado.
+6 de maio de 2014. - O Presidente da Câmara, Rui Manuel Saraiva Ventura.
+307799713
