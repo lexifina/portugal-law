@@ -6,15 +6,15 @@
 
 ### IAPMEI - Agência para a Competitividade e Inovação, I.P.
 
-1 - O IAPMEI - Agência para a Competitividade e Inovação, I. P., abreviadamente designado por IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à DGAE.
+1 - O IAPMEI - Agência para a Competitividade e Inovação, I.P., abreviadamente designado por IAPMEI, I.P., tem por missão promover a competitividade e o crescimento empresarial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial, nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, com exceção do sector do turismo, designadamente das empresas de pequena e média dimensão.
 
 2 - O IAPMEI, I.P. prossegue, designadamente, as seguintes atribuições:
 
-a) Desenvolver e coordenar todas as atividades conducentes a melhorar o empreendedorismo, a competitividade, a inovação, a sustentabilidade e a internacionalização das empresas, designadamente das micro, pequenas e médias empresas (PME), ao longo de todo o seu ciclo de existência;
+a) Desenvolver e coordenar todas as atividades conducentes a melhorar a competitividade das empresas, designadamente, das micro, pequenas e médias empresas (PME) ao longo de todo o seu ciclo de existência, funcionando como interlocutor privilegiado na relação das mesmas com o Estado;
 
 b) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional, independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa de uma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;
 
-c) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado, contribuindo para uma maior cultura de empreendedorismo na sociedade portuguesa;
+c) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado;
 
 d) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;
 
@@ -22,9 +22,9 @@ e) Desenvolver estratégias de eficiência coletiva por parte das empresas, espe
 
 f) Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;
 
-g) Criar as condições favoráveis ao desenvolvimento da I+D+I empresarial e apoiar o investimento empresarial nesse contexto;
+g) Criar as condições favoráveis ao desenvolvimento da Investigação e Desenvolvimento e Inovação (I+D+i) empresarial;
 
-h) (Revogada);
+h) Estimular e gerir plataformas de interação entre as empresas e o Sistema Científico e Tecnológico Nacional, potenciando a transferência de conhecimento, tecnologia, investigação e inovação para o tecido empresarial e desenvolver competências e sensibilidades do foro empresarial junto do meio científico, nomeadamente na promoção de criação de spin-offs, startups e na utilização do I&D para o aumento da inovação e competitividade de empresas existentes;
 
 i) Executar iniciativas e políticas de apoio ao investimento empresarial, orientadas para a valorização da oferta nacional de bens e serviços transacionáveis, no âmbito definido na alínea b);
 
