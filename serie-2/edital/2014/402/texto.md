@@ -1,0 +1,6 @@
+Edital n.º 402/2014
+Regulamento do Prolongamento de Horário e Componente de Apoio à Família
+Rui Manuel Saraiva Ventura, Presidente da Câmara Municipal de Pinhel, torna público nos termos e para os efeitos do disposto no artigo 56.º da Lei n.º 75/2013, de 12 setembro e no uso das competências que lhe são conferidas nos termos da alínea c) n.º 1 do artigo 35.º da mesma lei, que foi aprovado em sessão da Assembleia Municipal, realizada em 17 de fevereiro de 2014, sob proposta da Câmara de 21 de junho de 2013, Regulamento do Prolongamento de Horário e Componente de Apoio à Família, publicado no Diário da República por edital n.º 449/2013, 2.ª série de 10-05-2013, o qual após decurso do prazo de apreciação pública, foram feitas pequenas retificações gramaticais não foi objeto de sugestões ou reclamações, considerando-se aprovado de forma definitiva.
+O Regulamento do Prolongamento de Horário e Componente de Apoio à Família, entra em vigor no dia seguinte à publicação do presente Edital no Diário da República, e encontra-se agora disponível, na sua versão final, no site da Câmara Municipal de Pinhel em www.cm-pinhel.pt, onde poderá ser consultado e descarregado.
+5 de maio de 2014. - O Presidente da Câmara, Rui Manuel Saraiva Ventura.
+307797778
