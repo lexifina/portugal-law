@@ -2,13 +2,13 @@
 
 ### Modelos de requerimento
 
-1 - Nas minutas e nos modelos de requerimento só devem constar os dados indispensáveis, referidos nas alíneas a) a e) do n.º 1 do artigo 74.º do Código do Procedimento Administrativo, ficando vedada a exigência de elementos que não se destinem a ser tratados ou não acrescentem informação relevante à já existente no serviço ou que conste dos documentos exigidos.
+1 - Nas minutas e nos modelos de requerimento só devem constar os dados indispensáveis, nos termos do Código do Procedimento Administrativo, ficando vedada a exigência de elementos que não se destinem a ser tratados ou não acrescentem informação relevante à já existente no serviço ou que conste dos documentos exigidos.
 
 2 - As minutas e os modelos de requerimentos e formulários devem respeitar os princípios e orientações de normalização e incluir instruções de preenchimento simples e suficientes.
 
-3 - A identificação das pessoas, singulares ou colectivas, faz-se de acordo com o disposto na alínea b) do n.º 1 do artigo 74.º do Código do Procedimento Administrativo, sem prejuízo de ser completada por um ou dois de entre os seguintes meios de confirmação, de acordo com a exigência da situação:
+3 - A identificação das pessoas, singulares ou coletivas, faz-se de acordo com o disposto no Código do Procedimento Administrativo, sem prejuízo de ser completada por um ou dois de entre os seguintes meios de confirmação, de acordo com a exigência da situação:
 
-a) Número de bilhete de identidade e sua validade;
+a) Número do documento de identificação civil ou passaporte e sua validade;
 
 b) Número de identificação fiscal e sua validade;
 

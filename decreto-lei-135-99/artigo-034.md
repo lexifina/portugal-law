@@ -2,7 +2,7 @@
 
 ### Atestados emitidos pelas juntas de freguesia
 
-1 - Os atestados de residência, vida e situação económica dos cidadãos, bem como os termos de identidade e justificação administrativa, passados pelas juntas de freguesia, nos termos das alíneas f) e q) do n.º 1 do artigo 27.º do Decreto-Lei n.º 100/84, de 29 de Março, devem ser emitidos desde que qualquer dos membros do respectivo executivo ou da assembleia de freguesia tenha conhecimento directo dos factos a atestar, ou quando a sua prova seja feita por testemunho oral ou escrito de dois cidadãos eleitores recenseados na freguesia ou, ainda, mediante declaração do próprio.
+1 - Os atestados de residência, vida e situação económica dos cidadãos, bem como os termos de identidade e justificação administrativa, passados pelas juntas de freguesia, nos termos das alíneas qq) e rr) do n.º 1 do artigo 16.º da Lei n.º 75/2013, de 12 de setembro, devem ser emitidos desde que qualquer dos membros do respetivo executivo ou da assembleia de freguesia tenha conhecimento direto dos factos a atestar, ou quando a sua prova seja feita por testemunho oral ou escrito de dois cidadãos eleitores recenseados na freguesia ou ainda por outro meio legalmente admissível.
 
 2 - Nos casos de urgência, o presidente da junta de freguesia pode passar os atestados a que se refere este diploma, independentemente de prévia deliberação da junta.
 

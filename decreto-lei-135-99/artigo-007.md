@@ -16,6 +16,6 @@ d) Assinalada a existência de linhas de atendimento telefónico ao público;
 
 e) Brochuras, desdobráveis, guias ou outros meios de divulgação de actividades e respectivas formalidades.
 
-3 - Em função da aglomeração de pessoas, deve ser ponderada a instalação de sistemas de marcação de vez, sinalização para auto-encaminhamento e pictogramas de segurança, telefones públicos, instalações sanitárias, dispositivo para fornecimento de água potável, vídeo, televisor, computador que permita o acesso à Internet, ao INFOCID ou a outro meio de divulgação multimedia.
+3 - O local onde é prestado o serviço público de atendimento ao cidadão e ao agente económico deve apresentar as necessárias condições de salubridade, segurança de pessoas e bens, acessibilidade e conforto mínimo para os utentes, possuir um sistema de gestão do atendimento adequado e, sempre que possível, disponibilizar acesso livre à Internet de banda larga sem fios.
 
 4 - Salvo casos excepcionais, devidamente autorizados pelo membro do Governo responsável, o atendimento deve ser personalizado, isto é, em secretária individual, removendo-se os balcões e postigos, e os funcionários que o efectuem devem estar identificados.
