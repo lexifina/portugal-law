@@ -1,0 +1,12 @@
+Aviso n.º 6232/2014
+Discussão pública da proposta de revisão do Plano Diretor Municipal de Sabrosa
+José Manuel de Carvalho Marques, Presidente da Câmara Municipal de Sabrosa, torna público que, ao abrigo da sua competência constante da alínea t), do n.º 1, do artigo 35.º e para os efeitos do estatuído nos n.º 1 e n.º 2, do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, a Câmara Municipal de Sabrosa deliberou, por unanimidade, na sua reunião ordinária de 8 de maio de 2014, no sentido de:
+Em cumprimento e para os efeitos previstos nos n.º 3 e n.º 4, do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, abrir um período de discussão pública pelo prazo de 30 dias úteis para a formulação de reclamações, observações ou sugestões, que possam ser consideradas no âmbito do procedimento de revisão. Informa-se ainda que:
+a) Será disponibilizado no Balcão Único de Atendimento, da Divisão de Obras, Serviços e Ordenamento do Território e no sítio do Município de Sabrosa (www.sabrosa.pt) um formulário para apresentação de reclamações, observações ou sugestões e pedidos de esclarecimentos;
+b) O período de discussão pública/consulta, nos termos da legislação supra citada, inicia-se a partir do 5.º dia após a data da publicação do presente aviso no Diário da República;
+c) O processo incluindo a proposta, o respetivo relatório ambiental, o parecer da comissão de acompanhamento ou a ata da conferência decisória, os demais pareceres emitidos e os resultados da concertação, encontram-se para consulta no hall do edifício do auditório municipal de Sabrosa, no horário normal de expediente, das 9h às 12h30 e das 14h às 17h30;
+d) Todos os interessados que entendam apresentar reclamações, observações ou sugestões, ou que desejem colocar quaisquer questões que possam ser consideradas no âmbito do procedimento de revisão do PDM, devem dirigir os seus contributos ao Presidente da Câmara Municipal, identificar-se com nome, morada ou sede, número do BI e NIF ou cartão de cidadão;
+e) Caso a questão se reporte a um local determinado e concreto, deve ser, preferencialmente, junta planta de localização do mesmo, devidamente assinalada;
+f) A falta de identificação de quem efetua o contributo, importa a sua não ponderação.
+9 de maio de 2014. - O Presidente da Câmara Municipal de Sabrosa, José Manuel de Carvalho Marques, Dr.
+207822173
