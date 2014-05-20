@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 35/2014
+De acordo com o n.º 4 do artigo 17.º da Lei n.º 54/2005, de 15 de novembro, alterada pela Lei n.º 78/2013, de 21 de novembro, que estabelece a titularidade dos recursos hídricos, e com o n.º 1 do artigo 9.º do Decreto-Lei n.º 353/2007, de 26 de outubro, que estabelece o procedimento de delimitação do domínio público hídrico, a delimitação do domínio público hídrico está sujeita à homologação do Conselho de Ministros.
+O n.º 2 do artigo 12.º do referido decreto-lei estabelece que a homologação das propostas de delimitação apresentadas nos processos pendentes em 27 de outubro de 2007 pode ser delegada pelo Conselho de Ministros no membro do Governo responsável pela área do ambiente.
+Sendo o procedimento de delimitação de iniciativa pública do domínio público hídrico, marítimo e não marítimo, impulsionado e coordenado pelo Ministério do Ambiente, Ordenamento do Território e Energia, através da Agência Portuguesa do Ambiente, I.P., reconhece-se que a delegação de poderes legalmente prevista permite a conclusão mais célere dos procedimentos de delimitação pendentes.
+Assim:
+Nos termos do n.º 2 do artigo 12.º do Decreto-Lei n.º 353/2007, de 26 de outubro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Delegar, com a faculdade de subdelegação, no Ministro do Ambiente, Ordenamento do Território e Energia a competência para homologar as propostas de delimitação do domínio público hídrico elaboradas nos processos pendentes em 27 de outubro de 2007 pelas comissões de delimitação, criadas nos termos da Lei n.º 54/2005, de 15 de novembro, alterada pela Lei n.º 78/2013, de 21 de novembro, e do Decreto-Lei n.º 353/2007, de 26 de outubro.
+2 - Determinar que a presente resolução produz efeitos desde a data da sua aprovação.
+Presidência do Conselho de Ministros, 8 de maio de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
