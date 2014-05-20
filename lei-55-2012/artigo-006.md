@@ -14,7 +14,7 @@
 
 2 - Com o objetivo de apoiar financeiramente a criação de obras cinematográficas de reconhecido valor cultural, o Estado promove um programa de apoio ao cinema, destinado a conceder incentivos financeiros à escrita, ao desenvolvimento, à produção, à coprodução, à exibição e à distribuição de obras cinematográficas nacionais.
 
-3 - Com o objetivo de apoiar financeiramente o reforço do tecido empresarial da produção audiovisual independente e de promover a teledifusão e a fruição pelo público das obras criativas audiovisuais nacionais, o Estado promove um programa de apoio ao audiovisual, destinado a conceder incentivos financeiros à escrita e desenvolvimento, à produção e à aquisição de direitos de teledifusão, transmissão ou colocação à disposição de obras criativas audiovisuais nacionais de produção independente.
+3 - Com o objetivo de apoiar financeiramente o reforço do tecido empresarial da produção audiovisual independente e de promover a teledifusão e a fruição pelo público das obras criativas audiovisuais nacionais, o Estado promove um programa de apoio ao audiovisual e multimédia, destinado a conceder incentivos financeiros à escrita e desenvolvimento, à produção e à aquisição de direitos de teledifusão, transmissão ou colocação à disposição de obras criativas audiovisuais nacionais de produção independente.
 
 4 - Com o objetivo de apoiar as atividades de exibição e distribuição de obras cinematográficas, o Estado adota medidas de incentivo financeiro à sua exibição e distribuição.
 

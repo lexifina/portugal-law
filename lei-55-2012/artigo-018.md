@@ -1,3 +1,7 @@
+## Secção III
+
+## Da distribuição, exibição e difusão cinematográfica e audiovisual
+
 # Artigo 18.º
 
 ### Acesso aos mercados da distribuição, exibição e difusão

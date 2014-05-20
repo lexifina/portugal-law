@@ -24,7 +24,7 @@ i) «Obra criativa», a produção cinematográfica ou audiovisual assente em el
 
 j) «Obra de produção independente», a obra cinematográfica e audiovisual produzida por um produtor independente e que satisfaça cumulativamente os seguintes requisitos:
 
-i) Detenção, pelo produtor independente, da titularidade dos direitos sobre a obra produzida, com a clara definição contratual da duração e dos limites dos direitos de difusão cedidos aos operadores de televisão, sendo que, em caso de coproduções entre produtores independentes e outros operadores, designadamente operadores de televisão, operadores de serviços audiovisuais a pedido ou distribuidores, a qualificação como obra de produção independente depende, precisamente, dessa detenção, pelo produtor independente;
+i) Detenção da titularidade dos direitos sobre a obra produzida pelo produtor independente, sendo que, em caso de coproduções entre produtores independentes e outros operadores, designadamente operadores de televisão, operadores de serviços audiovisuais a pedido ou distribuidores, a detenção da titularidade dos direitos é definida na proporção da respetiva participação no orçamento total da produção;
 
 ii) Obra produzida com autonomia criativa e liberdade na forma de desenvolvimento, nomeadamente no que respeita à escolha dos estúdios, atores, meios e distribuição, sendo que, em caso de coproduções entre produtores independentes e outros operadores, designadamente operadores de televisão, operadores de serviços audiovisuais a pedido ou distribuidores, as decisões relativamente à produção sejam adotadas por acordo, tendo em vista a qualidade técnica e artística da obra;
 
@@ -62,9 +62,9 @@ q) «Operador de televisão», a pessoa coletiva legalmente habilitada para o ex
 
 r) «Produtor independente», a pessoa coletiva cuja atividade principal consista na produção de obras cinematográficas ou audiovisuais, desde que se verifiquem cumulativamente os seguintes requisitos:
 
-i) Capital social não detido, direta ou indiretamente, em mais de 12,5 % por um operador de televisão ou um operador de serviços audiovisuais a pedido, ou em mais de 25 % no caso de vários operadores de televisão ou de serviços audiovisuais a pedido;
+i) Capital social não detido, direta ou indiretamente, em mais de 25 % por um operador de televisão ou em mais de 50 % no caso de vários operadores de televisão;
 
-ii) Limite de 90 % de proveitos totais, ou no último exercício social ou acumulados nos últimos três exercícios sociais, realizados com um único operador de televisão ou de serviços audiovisuais a pedido;
+ii) Limite de 90 % de proveitos totais, ou no último exercício social ou acumulados nos últimos três exercícios sociais, para um único operador de televisão;
 
 s) «Serviço audiovisual a pedido ou serviço audiovisual não linear», a oferta ao público em geral de um catálogo de obras cinematográficas e audiovisuais, de programas e dos conteúdos em texto que os acompanham, designadamente legendagem e guias eletrónicos de programação, selecionados e organizados sob responsabilidade de um operador de serviços audiovisuais a pedido, para visionamento de um utilizador, a pedido individual e num momento por este escolhido, por meio de redes de comunicações eletrónicas, tal como definido na Lei n.º 5/2004, de 10 de fevereiro, alterada pelos Decretos-Leis n.os 176/2007, de 8 de maio, e 258/2009, de 25 de setembro, pela Lei n.º 46/2011, de 24 de junho, e alterada e republicada pela Lei n.º 51/2011, de 13 de setembro, não se incluindo neste conceito:
 
@@ -73,10 +73,6 @@ i) Qualquer forma de comunicação de caráter privado;
 ii) Conteúdos audiovisuais produzidos por utilizadores particulares para serem partilhados preferencialmente no âmbito de grupos com interesses comuns;
 
 iii) Versões eletrónicas de jornais e revistas e conteúdos audiovisuais complementares.
-
-t) 'Baixo volume de negócios', quando os proveitos relevantes na aceção do n.º 6 do artigo 14.º-A forem inferiores a 200 000 (euro)/ano;
-
-u) 'Baixa audiência', quando as audiências de um operador de televisão ou de um operador de serviços audiovisuais a pedido forem inferiores a 0,5 %, considerando, conforme os casos, as audiências totais dos vários operadores ou o número de subscritores ativos.
 
 2 - O disposto nas subalíneas ii) e iii) da alínea k) do n.º 1 só se aplica caso as obras originárias de Estados membros não estejam sujeitas a medidas discriminatórias nos países terceiros em questão.
 
