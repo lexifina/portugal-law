@@ -1,0 +1,4 @@
+Aviso n.º 6275/2014
+Manuel João Fontainhas Condenado, presidente da Câmara Municipal de Vila Viçosa, faz público que a Assembleia Municipal, na 2.ª sessão ordinária, realizada em 28 e 29 de abril de 2014, aprovou o Regulamento Municipal de Horários de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviços do Município de Vila Viçosa, que, sob a forma de projeto, foi publicado no Diário da República, 2.ª série, n.º 19, de 28 de janeiro de 2014, e objeto de apreciação pública, nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na redação dada pelo Decreto-Lei n.º 6/96, de 31 de janeiro.
+6 de maio de 2014. - O Presidente da Câmara Municipal, Manuel João Fontainhas Condenado.
+307807456
