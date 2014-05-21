@@ -1,0 +1,7 @@
+Edital n.º 430/2014
+2.ª e 3.ª alterações do Regulamento de Liquidação, Cobrança e Pagamento de Taxas e Outras Receitas Municipais e Alteração à Tabela de Taxas anexa
+Dr. Joaquim Barbosa Ferreira Couto, Presidente da Câmara Municipal de Santo Tirso:
+Torna público, para efeitos do disposto no artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, e no artigo 3.º, n.º 4 do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, que a Assembleia Municipal de Santo Tirso, em sessão ordinária de 28 de abril do corrente ano (item 5), e a câmara municipal, em reunião ordinária de 5 de março do corrente ano (item 6), retificaram, respetivamente, as suas deliberações de 30 de abril de 2013 (item 12) e de 24 de abril de 2013 (item 12), relativas à 2.ª e 3.ª alterações ao Regulamento de Liquidação, Cobrança e Pagamento de Taxas e Outras Receitas Municipais e à respetiva Tabela de Taxas, cuja publicitação foi efetuada através do edital n.º 471/2013, publicado na 2.ª série do Diário da República, n.º 92 de 14 de maio de 2013, do edital n.º 47 de 2 de maio de 2013 afixado no edifício dos Paços do Concelho, do edital afixado nas sedes das Juntas de Freguesia e do edital publicado no Jornal de Santo Thyrso em 10/05/2013.
+Para constar e devidos efeitos, vai o presente edital ser afixado e publicado nos termos legais.
+13 de maio de 2014. - O Presidente, Dr. Joaquim Couto.
+207821428
