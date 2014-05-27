@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Moção",
+  "numero": "6",
+  "data_registo": "2014-05-27",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Travar a política de exploração e empobrecimento, construir uma política patriótica e de esquerda.",
+    "AutoresGP": [
+      "PCP"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2014-05-30",
+    "DataAnuncio": null,
+    "DataEntrada": "2014-05-27",
+    "DescTipo": "Moção",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "6",
+    "Observacoes": "Texto inicial substituído a pedido do autor da iniciativa em 28-05-2014.",
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "682136",
+        "obs": null,
+        "pag": [
+          "2-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-27",
+        "pubLeg": "XII",
+        "pubNr": "120",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/120/2014-05-27/2?pgs=2-6&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "29160",
+        "obs": null,
+        "pag": [
+          "3-53",
+          "60-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-31",
+        "pubLeg": "XII",
+        "pubNr": "89",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/089/2014-05-31/3?pgs=3-53,60-61&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "MOC",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2014-05-30",
+        "descricao": "Votos Contra: 123; Favor: 89",
+        "detalhe": null,
+        "id": "66654",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "686694",
+            "obs": null,
+            "pag": [
+              "53-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-31",
+            "pubLeg": "XII",
+            "pubNr": "89",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/089/2014-05-31/53?pgs=53&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "89",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
