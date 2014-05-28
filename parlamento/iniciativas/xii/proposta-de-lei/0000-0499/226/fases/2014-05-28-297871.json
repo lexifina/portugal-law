@@ -1,0 +1,479 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "226",
+    "id": "38484",
+    "titulo": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-05-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "9995",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": [
+      {
+        "AccId": "33578",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-05-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-05-28",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da 6ª CEOP e Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595467774d544933596a49744d7a4930597930304d7a51314c5467344d7a63744d5467794f57466a4d325a6a4e575a6a4c6e426b5a673d3d&fich=a80127b2-324c-4345-8837-1829ac3fc5fc.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP",
+              "BE",
+              "PEV"
+            ],
+            "data": "2014-05-28",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Ausência: <I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+            "id": "66617",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "200",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-05-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "38485",
+        "leg": "XII",
+        "nr": "227",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1886",
+            "obs": null,
+            "pag": [
+              "40-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-05-29",
+            "pubLeg": "XII",
+            "pubNr": "87",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/40?pgs=40-45&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-05-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140528pln&url=l12/sl3/a2014/m05/&tI=02:40:25:568&drc=00:03:28:114"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140528pln&url=l12/sl3/a2014/m05/&tI=03:02:58:686&drc=00:01:23:250"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DAS INFRAESTRUTURAS, TRANSPORTES E COMUNICAÇÕES",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Sérgio Monteiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40",
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-29",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/40?pgs=40,45&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção; Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2569",
+                "nome": "Rui Paulo Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140528pln&url=l12/sl3/a2014/m05/&tI=02:44:02:345&drc=00:03:42:208"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-29",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção; Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140528pln&url=l12/sl3/a2014/m05/&tI=02:47:50:493&drc=00:03:38:628"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-29",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção; Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140528pln&url=l12/sl3/a2014/m05/&tI=02:51:33:180&drc=00:03:38:394"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-29",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção; Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140528pln&url=l12/sl3/a2014/m05/&tI=02:55:16:693&drc=00:03:24:131"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-29",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção; Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140528pln&url=l12/sl3/a2014/m05/&tI=02:58:47:389&drc=00:04:04:344"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-29",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico aplicável ao exercício da atividade da construção; Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297871",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "683353",
+        "obs": null,
+        "pag": [
+          "39-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-29",
+        "pubLeg": "XII",
+        "pubNr": "87",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/087/2014-05-29/39?pgs=39-46&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
