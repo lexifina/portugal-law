@@ -1,0 +1,436 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "221",
+    "id": "38465",
+    "titulo": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-05-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10001",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-05-29",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-05-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:19",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=01:46:50:892&drc=00:03:00:412"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=01:51:20:200&drc=00:01:07:561"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=02:16:00:094&drc=00:02:06:377"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORDENAMENTO DO TERRITÓRIO  E  DA  CONSERVAÇÃO  DA  NATUREZA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel De Castro Neto"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27",
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-30",
+                "pubLeg": "XII",
+                "pubNr": "88",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30/26?pgs=26-27,32-33&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:19",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=02:12:13:089&drc=00:03:16:083"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-30",
+                "pubLeg": "XII",
+                "pubNr": "88",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:19",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=01:52:44:439&drc=00:03:39:014"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-30",
+                "pubLeg": "XII",
+                "pubNr": "88",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:19",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=01:56:34:649&drc=00:04:12:648"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-30",
+                "pubLeg": "XII",
+                "pubNr": "88",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2027",
+                "nome": "Adriano Rafael Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:19",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=02:00:55:663&drc=00:03:59:982"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-30",
+                "pubLeg": "XII",
+                "pubNr": "88",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:19",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=02:05:04:188&drc=00:03:10:916"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-30",
+                "pubLeg": "XII",
+                "pubNr": "88",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:19",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140529pln&url=l12/sl3/a2014/m05/&tI=02:12:13:089&drc=00:03:16:083"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-05-30",
+                "pubLeg": "XII",
+                "pubNr": "88",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a introduzir disposições de natureza especial em matéria de regime das contraordenações, no contexto da criação de um regime excecional e extraordinário de regularização a aplicar aos estabelecimentos industriais, explorações pecuárias, explorações de pedreiras e explorações onde se realizam operações de gestão de resíduos, por motivo de desconformidade com os planos de ordenamento do território vigentes ou com servidões administrativas e restrições de utilidade pública",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "297968",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10001",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-05-30",
+        "pubLeg": "XII",
+        "pubNr": "88",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/088/2014-05-30?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
