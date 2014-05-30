@@ -8,6 +8,6 @@
 
 a) Cópia do comprovativo da declaração anual da Informação Empresarial Simplificada (IES);
 
-b) Declaração emitida pelo Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P.; ou
+b) (Revogada).
 
 c) Cópia do comprovativo da declaração de rendimentos modelo 3 para efeito de IRS, acompanhada de cópia do rosto do Relatório Único respeitante à Informação sobre Emprego e Condições de Trabalho (ECT) devidamente entregue.
