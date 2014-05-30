@@ -1,0 +1,4 @@
+Aviso n.º 56/2014
+Por ordem superior se torna público que a 16 de julho de 2013 e a 17 de março de 2014, foram emitidas notas, respetivamente, pela Embaixada de Portugal em Abu Dhabi e pela Embaixada dos Emirados Árabes Unidos em Lisboa, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e os Emirados Árabes Unidos sobre Cooperação Económica, assinado em Abu Dhabi, a 17 de novembro de 2012.
+O referido Acordo foi aprovado pelo Decreto n.º 21/2013, de 15 de julho de 2013, publicado no Diário da República 1.ª série, n.º 134 de 15 de julho de 2013, e nos termos do seu artigo 14.º, entrou em vigor no dia 17 de abril de 2014.
+Direção-Geral de Política Externa, 14 de maio de 2014. - A Subdiretora-Geral de Política Externa, Helena Maria Rodrigues Fernandes Malcata.
