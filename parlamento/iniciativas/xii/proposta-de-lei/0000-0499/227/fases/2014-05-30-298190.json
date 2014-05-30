@@ -1,0 +1,412 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "227",
+    "id": "38485",
+    "titulo": "Procede à primeira alteração à Lei nº 31/2009, de 3 de julho, que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, coordenação de projetos, direção de obra pública ou particular, condução da execução dos trabalhos das diferentes especialidades nas obras particulares de classe 6 ou superior e de direção de fiscalização de obras públicas ou particulares."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-05-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "33636",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-10-01",
+            "id": "98508",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-10-03",
+            "id": "98519",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2014-07-03",
+            "id": "98074",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2014-09-19",
+            "id": "98442",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2014-09-23",
+            "id": "98458",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2014-09-26",
+            "id": "98481",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-05-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-05-30",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-09-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "AATAE - Documento enviado após audiência (23set 2014) 1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d474a6b4f475130595459745957526d4e7930304f5459344c5467324e7a51744e54566d4f5745304d6a4e684d4459774c6c424552673d3d&fich=0bd8d4a6-adf7-4968-8674-55f9a423a060.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-09-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "AATAE - Documento enviado após audiência (23set 2014) 1cont",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4745774f444a6c4d574d744d5749354d7930305954466d4c5467304f574d744e44466b596d526b4d44426b4e44466b4c6c424552673d3d&fich=8a082e1c-1b93-4a1f-849c-41dbdd00d41d.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo APPC - Associação Portuguesa de Projectistas e Consultores ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5468684e4441794d7a4d744d4759325a6930304d7a41314c546869597a55744d6a51344d6a466c4e7a4d794d6d45354c6e426b5a673d3d&fich=e8a40233-0f6f-4305-8bc5-24821e7322a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo FEPICOP - Federação Portuguesa da Indústria da Construção e Obras Públicas (Audição  1 out 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a4d7a4f5468684e5467744e6d526d5a5330304f5751794c5745794d4459745a6a49334e32513359544a6d4e6a4d324c6c424552673d3d&fich=63398a58-6dfe-49d2-a206-f277d7a2f636.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo OA - Ordem dos Arquitetos (10 out 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4459305a47497a4f544d744d6d45314e693030596d49784c57497a4d6a6774593251785a4449314d3259315a6a55334c6c424552673d3d&fich=864db393-2a56-4bb1-b328-cd1d253f5f57.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo OA (29 julho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5449784d4751344e7a55745a6d49344e5330304e32566b4c546b794f4751744f575a6a4d7a526d5a6a63315a6a49314c6e426b5a673d3d&fich=9210d875-fb85-47ed-928d-9fc34ff75f25.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo OET - Ordem dos Engenheiros Técnicos (08 julho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54637a4f5755354f4459744d7a526b59793030596d526d4c54686a595467745a474e6d5a5752685954677a4e44566a4c6e426b5a673d3d&fich=e739e986-34dc-4bdf-8ca8-dcfedaa8345c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-12-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo OET - Ordem dos Engenheiros Técnicos (10.nov.2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659544d354e7a5132596a6b744d54526b5a4330305a4467784c57493459324d744d444a6a596a646a4d7a566d4d7a4a6d4c6e426b5a673d3d&fich=a39746b9-14dd-4d81-b8cc-02cb7c35f32f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-11-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo Presidente da Assembleia Geral Nacional dos ATAE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593255344e324d33597a41744e44466a4e4330305a6a6b794c574933596d49745932517a4d5441304e32566d5a474e6b4c6e426b5a673d3d&fich=ce87c7c0-41c4-4f92-b7bb-cd31047efdcd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-11-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo SNEET - Sindicato Nacional dos Engenheiros, Engenheiros Técnicos e Arquitectos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e32526a4e7a4d784f5449744e6a6b334e69303059324a6b4c57466d4e4759744f544133596d51324e6a566a4f4751354c6e426b5a673d3d&fich=7dc73192-6976-4cbd-af4f-907bd665c8d9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-22",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo UL - Faculdade de Arquitectura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d54566c5a5759314f4749744f5463774d7930304f4446694c54686c4d6a41744e3255345a6a6732596a413559546b304c6e426b5a673d3d&fich=15eef58b-9703-481b-8e20-7e8f86b09a94.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributos OE - Ordem dos Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4745334e5451325a6d59744e6a51344e4330304f4452694c546b344e7a55744d7a6c684e544d784e3251775a4467354c6e426b5a673d3d&fich=0a7546ff-6484-484b-9875-39a5317d0d89.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Mapa Comparativo OET - Ordem dos Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a44426a4d5451354e6d55744e5755344f433030596d4d334c5749325a446b744d6a67784d54557a596a59354e5455784c6e426b5a673d3d&fich=d0c1496e-5e88-4bc7-b6d9-281153b69551.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-11-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OA - Ordem dos Arquitetos - Parecer redação artº 2 (19 nov 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a566a4e3249314d4467744d325132596930304e3251344c546c69597a51744f4749344d4759334e3245305a4455794c6e426b5a673d3d&fich=35c7b508-3d6b-47d8-9bc4-8b80f77a4d52.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OA - Proposta Alteração art 25º (OET)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4449774d3252684f4759745a54597a4d6930304d4755784c5467774e6d59744d47526d5a6a686c4d5464694f474d324c6e426b5a673d3d&fich=8203da8f-e632-40e1-806f-0dff8e17b8c6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OE - Ordem dos Engenheiros - Posição Complementar PPL 227 (16.10.2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4449324e44597a4e7a4174597a59795a4330305a6a67784c5467334e6a4d744e7a677a4d5751344e546b334e6a6b7a4c6e426b5a673d3d&fich=d2646370-c62d-4f81-8763-7831d8597693.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-09-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OET - Ordem dos Engenheiros Técnicos - Contributo artigo 25º ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a444d324e6d526c4d6a5574596a51334f4330304e5755344c57453459574974596a45325954466a59574e6c4d6a686b4c6e426b5a673d3d&fich=d366de25-b478-45e8-a8ab-b16a1cace28d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OET - Proposta Artº 25º A",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57566c5a4759334f574574596d51354d7930304e575a6b4c5467355a4445744d474a6a4d5445784d5455314e7a67784c6c424552673d3d&fich=5eedf79a-bd93-45fd-89d1-0bc111155781.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OET - Sugestão - Art 25",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a517a4e7a526d4e7a6b744e5445785a4330304e7a6c684c5745794d5755745a474e684e6d5131597a466b596a426d4c6e426b5a673d3d&fich=34374f79-511d-479a-a21e-dca6d5c1db0f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OET-Ordem dos Engenheiros Técnicos  Oficio Escolas de Arquitetura 29 out 2014",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446c6c4f444e6b596a67744e5441795a6930304d6d4e6a4c57466a4d4463744f4449324e7a5a694d7a52694e5441344c6e426b5a673d3d&fich=d9e83db8-502f-42cc-ac07-82676b34b508.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Oficio OA - Ordem dos Arquitetos (30 maio 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f47526b5a445178596d45744d7a63795a5330304f545a6b4c54686d4e6d51744d54597a5a6d4d30597a4d77597a63354c6e426b5a673d3d&fich=8ddd41ba-372e-496d-8f6d-163fc4c30c79.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Oficio OET - Ordem dos Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5755794e6a55775a5755744f4455354d5330304d4749314c546b325a44557459575535596d466b593259775a6a6c684c6e426b5a673d3d&fich=1e2650ee-8591-40b5-96d5-ae9badcf0f9a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer ANMP - Associação Nacional de Municipios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a67794d44566c4e4441744e6a633059793030596d49304c546b304d7a45744d6a67305a44557759324a6a596a64684c6e426b5a673d3d&fich=f8205e40-674c-4bb4-9431-284d50cbcb7a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer APAP - Associação Portuguesa de Arquitetos Paisagistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a63784e6d5535597a45745957466b4d533030596a49314c574a6d5a4745745a5467304e4759354d6d55315a6d466d4c6e426b5a673d3d&fich=c716e9c1-aad1-4b25-bfda-e844f92e5faf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CPCI - Confederação Portuguesa da Construção e do Imobiliário",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593249774d544d345a5751745a4751775a693030597a466a4c54686a4e7a49744d7a63785a6a6c694d6a6c6a4d5467354c6e426b5a673d3d&fich=cb0138ed-dd0f-4c1c-8c72-371f9b29c189.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA - Ordem dos Arquitetos ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54566a4d444d324d6d4d744f475a694e7930304f4745354c5467775a544d744e6d4e6d4e444e68595745344d4455344c6e426b5a673d3d&fich=e5c0362c-8fb7-48a9-80e3-6cf43aaa8058.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA (anexo 1 - a) (11 junho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d4d344d7a5a694e6a67744f545135596930304f5449314c57466d4f5759744e7a4d784e7a46684e7a45784d4749324c6e426b5a673d3d&fich=bc836b68-949b-4925-af9f-73171a7110b6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA (anexo 1 - b) (11 junho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e475530596a4a6a4d444174596a63344e7930304d4467314c546b314d7a49744d7a6b304d6d4977596a566d5a54526c4c6e426b5a673d3d&fich=4e4b2c00-b787-4085-9532-3942b0b5fe4e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA (anexo 2) (11 junho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446c6c596d51304d546b744d7a63354d4330304f4459344c54677a595459745a54426a4d7a4932595452684e6a55774c6e426b5a673d3d&fich=d9ebd419-3790-4868-83a6-e0c326a4a650.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA (anexo 3) (11 junho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a5134596a517a4e6a6374596d5a6a596930304d6d45344c546c6b4e324d74595745355a5455304d4759305a444d774c6e426b5a673d3d&fich=f48b4367-bfcb-42a8-9d7c-aa9e540f4d30.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA (anexo 4 - a) (11 junho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d526b4e5441784e7a49744d575a6d5a4330304d324d324c546c6c4f5749744d4467344d324e68596a497a4f44466c4c6e426b5a673d3d&fich=2dd50172-1ffd-43c6-9e9b-0883cab2381e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA (anexo 4 - b) (11 junho 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a444d794e44677a4e574d74593249784e6930305a6a41784c5749775a6a49744d4751304d47526d4e44597a5954426d4c6e426b5a673d3d&fich=d324835c-cb16-4f01-b0f2-0d40df463a0f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OE - Ordem dos Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a646a4d446b314e546b744e7a426c597930304f5449784c546b784d6a55744e4451784e6d557a5a57526c59545a6c4c6e426b5a673d3d&fich=f7c09559-70ec-4921-9125-4416e3edea6e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-06-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OET - Ordem dos Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5441784d4467314f544d744d7a517a4e7930304e5463314c57497a4d5459744d6a49314d6a49794d445134595745334c6e426b5a673d3d&fich=90108593-3437-4575-b316-225222048aa7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-08-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Proposta OA (08 agosto 2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44566b4d57466b4d5441744e474d304d7930304e6a51794c5749304f446774596a41784f5463354e44526d596d466c4c6e426b5a673d3d&fich=85d1ad10-4c43-4642-b488-b0197944fbae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração (PCP) C1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324d334f4442694d6d4d744e6a46694f433030595449774c574a684e4459745a444d314d6a557a5a6d4a6a4e5759794c6e426b5a673d3d&fich=3c780b2c-61b8-4a20-ba46-d35253fbc5f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração (PSD + CDS-PP + PS) C2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a41324d325a694e5445744d4745784e4330304e6a67324c5745344e7a6b744d575177596a5a694e6d466a4f4455784c6e426b5a673d3d&fich=b063fb51-0a14-4686-a879-1d0b6b6ac851.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração (PSD + CDS-PP + PS) C3",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4449774e574a6c4f4759744d3259794d5330305a6a51784c574668596a59745a6a41354e6a4a6b5a4459795a6a55344c6e426b5a673d3d&fich=0205be8f-3f21-4f41-aab6-f0962dd62f58.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração (PSD + CDS-PP + PS) C4",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d546469595745774e4749744d5445344e793030593245354c546b794d5759744e544e685a44677a4f575577593245314c6e426b5a673d3d&fich=17baa04b-1187-4ca9-921f-53ad839e0ca5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a4d7a4e44597859544574595442694d6930304d4751334c574a6a4e3245744e4755784e6a51315a54677a5a5752684c6e426b5a673d3d&fich=f33461a1-a0b2-40d7-bc7a-4e1645e83eda.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d574d334e6d51304e6a49744e544a694e693030596d51304c5745774e7a6b745a575a6b4e474a6d5a6a42694f5452694c6e426b5a673d3d&fich=1c76d462-52b6-4bd4-a079-efd4bff0b94b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votaçao na especialidade e texto final da comissºao, bem como as propostas de alteração apresentadas pelo PCP e pelo PSD, CDS-PP e PS",
+            "pag": [
+              "151-333"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-13",
+            "pubLeg": "XII",
+            "pubNr": "93",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/093/2015-03-13/151?pgs=151-333&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votaçao na especialidade e texto final da comissºao, bem como as propostas de alteração apresentadas pelo PCP e pelo PSD, CDS-PP e PS",
+            "pag": [
+              "151-333"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-13",
+            "pubLeg": "XII",
+            "pubNr": "93",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/093/2015-03-13/151?pgs=151-333&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-03-11",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68758",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "246",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-05-30",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298190",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
