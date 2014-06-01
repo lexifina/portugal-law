@@ -12,11 +12,21 @@ c) Não existam, na empresa, contratos de trabalho a termo para tarefas correspo
 
 d) Não seja aplicável o despedimento colectivo.
 
-2 - Havendo, na secção ou estrutura equivalente, uma pluralidade de postos de trabalho de conteúdo funcional idêntico, para determinação do posto de trabalho a extinguir, cabe ao empregador definir, por referência aos respetivos titulares, critérios relevantes e não discriminatórios face aos objetivos subjacentes à extinção do posto de trabalho.
+2 - Havendo na secção ou estrutura equivalente uma pluralidade de postos de trabalho de conteúdo funcional idêntico, para determinação do posto de trabalho a extinguir, a decisão do empregador deve observar, por referência aos respetivos titulares, a seguinte ordem de critérios relevantes e não discriminatórios:
+
+a) Pior avaliação de desempenho, com parâmetros previamente conhecidos pelo trabalhador;
+
+b) Menores habilitações académicas e profissionais;
+
+c) Maior onerosidade pela manutenção do vínculo laboral do trabalhador para a empresa;
+
+d) Menor experiência na função;
+
+e) Menor antiguidade na empresa.
 
 3 - O trabalhador que, nos três meses anteriores ao início do procedimento para despedimento, tenha sido transferido para posto de trabalho que venha a ser extinto, tem direito a ser reafectado ao posto de trabalho anterior caso ainda exista, com a mesma retribuição base.
 
-4 - Para efeito da alínea b) do n.º 1, uma vez extinto o posto de trabalho, considera-se que a subsistência da relação de trabalho é praticamente impossível quando o empregador demonstre ter observado critérios relevantes e não discriminatórios face aos objetivos subjacentes à extinção do posto de trabalho.
+4 - Para efeito da alínea b) do n.º 1, uma vez extinto o posto de trabalho, considera-se que a subsistência da relação de trabalho é praticamente impossível quando o empregador não disponha de outro compatível com a categoria profissional do trabalhador.
 
 5 - O despedimento por extinção do posto de trabalho só pode ter lugar desde que, até ao termo do prazo de aviso prévio, seja posta à disposição do trabalhador a compensação devida, bem como os créditos vencidos e os exigíveis por efeito da cessação do contrato de trabalho.
 

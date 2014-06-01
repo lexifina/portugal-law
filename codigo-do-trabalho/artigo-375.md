@@ -10,7 +10,7 @@ b) Tenha sido ministrada formação profissional adequada às modificações do 
 
 c) Tenha sido facultado ao trabalhador, após a formação, um período de adaptação de, pelo menos, 30 dias, no posto de trabalho ou fora dele sempre que o exercício de funções naquele posto seja susceptível de causar prejuízos ou riscos para a segurança e saúde do trabalhador, de outros trabalhadores ou de terceiros;
 
-d) (Revogada).
+d) Não exista na empresa outro posto de trabalho disponível e compatível com a categoria profissional do trabalhador;
 
 e) (Revogada).
 
