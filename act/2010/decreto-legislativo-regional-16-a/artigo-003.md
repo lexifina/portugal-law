@@ -10,6 +10,8 @@
 
 4 - A Região Autónoma dos Açores poderá transmitir à AZORINA, S. A., outros bens imóveis ou direitos a eles relativos.
 
-5 - Caberá à AZORINA, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.
+5. A Região Autónoma dos Açores pode transferir para a AZORINA, S. A., o material produtivo do seu património florestal ou sob sua jurisdição ou gestão, designadamente com o objetivo da sua comercialização.
 
-6 - O presente diploma constitui título de aquisição bastante, para todos os efeitos legais, incluindo os de registo, dos bens referidos nos números anteriores.
+6 - Caberá à AZORINA, S. A., promover junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e que estejam legalmente sujeitos a registo.
+
+7 - O presente diploma constitui título de aquisição bastante, para todos os efeitos legais, incluindo os de registo, dos bens referidos nos números anteriores.

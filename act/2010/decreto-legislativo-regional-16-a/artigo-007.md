@@ -4,7 +4,7 @@
 
 Para a prossecução do seu objecto, a AZORINA, S. A., dispõe, nomeadamente, dos seguintes poderes de autoridade:
 
-a) Requerer a expropriação por utilidade pública de imóveis e de direitos a eles inerentes, bem como requerer a constituição de servidões administrativas;
+a) Propor ao departamento do Governo Regional competente em razão da matéria a expropriação por utilidade pública de imóveis e de direitos a eles inerentes, bem como requerer a constituição de servidões administrativas;
 
 b) Utilizar e administrar bens do domínio público ou privado da Região Autónoma dos Açores que estejam ou venham a estar afectos ao exercício da sua actividade;
 
