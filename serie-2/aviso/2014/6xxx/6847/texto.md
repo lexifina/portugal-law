@@ -1,0 +1,8 @@
+Aviso n.º 6847/2014
+Abertura do período de Discussão Pública - Alteração ao Plano Diretor Municipal de Barcelos
+Miguel Jorge da Costa Gomes, Presidente da Câmara Municipal de Barcelos, torna público, que a Câmara Municipal deliberou, na reunião pública ordinária, realizada no dia 23 de maio de 2014, e nos termos do disposto no n.º 3, do artigo 77.º, por remissão do artigo 96.º, do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação que lhe foi dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro (Regime Jurídico dos Instrumentos de Gestão Territorial), proceder à abertura do período de Discussão Pública referente à primeira alteração ao Plano Diretor Municipal de Barcelos, pelo prazo de 30 dias.
+A abertura deste período, terá início, contados cinco dias úteis da publicação do presente aviso no Diário da República.
+Os interessados poderão consultar a referida deliberação e os documentos que a integram (peças escritas e desenhadas da proposta de alteração do Plano Diretor Municipal, ata da conferência de serviços, atas resultantes da concertação e demais pareceres emitidos), no site da Câmara Municipal de Barcelos e nas instalações do Departamento de Planeamento e Gestão Urbana (Casa do Rio), de segunda a sexta-feira, durante o horário de expediente.
+Os interessados poderão apresentar as suas reclamações, observações, sugestões ou pedidos de esclarecimento, por escrito, nas instalações do Departamento de Planeamento e Gestão Urbana (Casa do Rio), da Câmara Municipal de Barcelos.
+28 de maio de 2014. - O Presidente da Câmara Municipal, Miguel Jorge da Costa Gomes.
+207855165
