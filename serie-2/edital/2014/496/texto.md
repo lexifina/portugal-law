@@ -1,0 +1,8 @@
+Edital n.º 496/2014
+Fernando José Pires Lopes, Presidente da Câmara Municipal de Castanheira de Pêra, torna público, e para efeitos do disposto na alínea c) do n.º 1 do artigo 35.º e no artigo 56.º ambos da Lei n.º 75/2013, de 12 de setembro, conjuntamente com o disposto no n.º 4 do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, que em Reunião da Câmara Municipal de Castanheira de Pêra de 24 de abril de 2014 foi aprovado o Regulamento Municipal de Urbanização e Edificação do Município de Castanheira de Pêra e remetê-lo à Assembleia Municipal de Castanheira de Pêra para apreciação.
+Mais faz saber que, em sessão ordinária da Assembleia Municipal de Castanheira de Pêra, realizada em 30 de abril de 2014, o citado regulamento foi aprovado, por unanimidade.
+Mais se torna público, que em cumprimento do disposto do artigo 118.º do Código de Procedimento Administrativo conjuntamente com o disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, que o respetivo projeto de regulamento foi submetido a discussão pública, pelo período de 30 dias úteis, sem que tivessem sido apresentadas reclamações ou sugestões por qualquer interessado.
+O Regulamento Municipal de Urbanização e Edificação do Município de Castanheira de Pêra encontra-se disponível na página oficial do Município (www.cm-castanheiradepera.pt) e entrará em vigor no 1.º dia útil após publicação do presente edital no Diário da República.
+Para constar se passou o presente edital, a que vai ser dada a publicidade prevista na lei.
+29 de maio de 2014. - O Presidente da Câmara Municipal, Fernando José Pires Lopes.
+307859418
