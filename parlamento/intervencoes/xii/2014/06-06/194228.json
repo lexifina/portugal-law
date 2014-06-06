@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "194228",
+  "tipo": "Intervenção",
+  "orador": "Artur Rêgo (CDS-PP)",
+  "data_registo": "2014-06-06",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "97896",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38477",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Pelo reconhecimento e publicação urgente dos acordos coletivos que consagram as 35 horas na administração pública."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38524",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Propõe a reposição do horário semanal de 35 horas na Administração Pública e o desbloqueamento do processo de depósito e publicação dos ACEEP assinados entre autarquias e sindicatos."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Projeto de resolução n.º 1046/XII (3.ª) — Pelo reconhecimento e publicação urgente dos acordos coletivos que consagram as 35 horas na Administração Pública (BE).\nProjeto de resolução n.º 1059/XII (3.ª) — Propõe a reposição do horário semanal de 35 horas na Administração Pública e o desbloqueamento do processo de depósito e publicação dos ACEEP assinados entre autarquias e sindicatos (PCP).",
+        "duracao": "00:04:31:400",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140606pln&url=l12/sl3/a2014/m06/&tI=02:42:54:831&drc=00:04:31:400"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-06-06",
+    "Debate": "PJR n.º 1046/XII/3; PJR n.º 1059/XII/3",
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "4018",
+      "nome": "Artur Rêgo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "194228",
+    "IdDebate": "10015",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "194228",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "40-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-07",
+        "pubLeg": "XII",
+        "pubNr": "92",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/092/2014-06-07/40?pgs=40-41&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Pelo reconhecimento e publicação urgente dos acordos coletivos que consagram as 35 horas na administração pública; Propõe a reposição do horário semanal de 35 horas na Administração Pública e o desbloqueamento do processo de depósito e publicação dos ACEEP assinados entre autarquias e sindicatos.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
