@@ -2,7 +2,7 @@
 
 ### Equipas de projeto
 
-1 - O conselho diretivo pode criar, em cada momento, uma equipa de projeto em função de objetivos específicos, de natureza multidisciplinar e carácter transversal às diversas áreas de atuação.
+1 - O conselho diretivo pode criar, em cada momento, duas equipas de projeto em função de objetivos específicos, de natureza multidisciplinar e caráter transversal às diversas áreas de atuação.
 
 2 - A deliberação do conselho diretivo que cria a equipa de projeto designa o respetivo coordenador e define a sua composição e modo de funcionamento, bem como os meios materiais e financeiros afetos à sua atividade.
 
