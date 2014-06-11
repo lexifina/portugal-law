@@ -1,0 +1,6 @@
+Aviso n.º 7016/2014
+Diamantino Manuel Sabina, presidente da Câmara Municipal de Estarreja:
+Torna público, no uso da competência conferida pela alínea t) do n.º 1 do artigo 35.º, da Lei n.º 75/2013, de 12 de setembro e nos termos do artigo 118.º do Código do Procedimento Administrativo, conjugado com o n.º 3 do artigo 3.º, do Decreto-Lei n.º 555/99, de 16 de dezembro com a redação dada pelo Decreto-Lei n.º 26/2010, de 30 de março, que se encontra em apreciação pública, a alteração ao Regulamento Municipal de Administração Urbanística, pelo período de 30 dias, a contar da data da publicação deste aviso na 2.ª série do Diário da República.
+Durante este período, todos os cidadãos interessados, poderão consultar, no edifício da Divisão de Obras Particulares, no horário normal de funcionamento e no site da Câmara Municipal de Estarreja (www.cm-estarreja.pt),e apresentar as suas observações ou sugestões, por escrito, em documento devidamente identificado, dirigido ao Presidente da Câmara Municipal através da morada: Praça Francisco Barbosa, 3864-001 Estarreja; por correio eletrónico: geral@cm-estarreja.pt; via Fax: 234840607, ou ainda, entregar na Secção de Atendimento ao Munícipe.
+9 de maio de 2014. - O Presidente da Câmara, Dr. Diamantino Manuel Sabina.
+307812907
