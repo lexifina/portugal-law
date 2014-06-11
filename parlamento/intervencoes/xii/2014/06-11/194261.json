@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "194261",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Mariana Aiveca (BE)",
+  "data_registo": "2014-06-11",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "29180",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29180",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre a legislação apresentada pelo Governo relativa à contratação coletiva de trabalho; como um ataque à democracia."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Pede esclarecimento a Jorge Machado acerca da sua declaração sobre a legislação apresentada pelo Governo relativa à contratação coletiva de trabalho.",
+        "duracao": "00:02:34:998",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140611pln&url=l12/sl3/a2014/m06/&tI=00:22:25:105&drc=00:02:34:998"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-06-11",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "2156",
+      "nome": "Mariana Aiveca"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "194261",
+    "IdDebate": "4810",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "194261",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-12",
+        "pubLeg": "XII",
+        "pubNr": "93",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/093/2014-06-12/8?pgs=8-9&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Ao Deputado Jorge Machado (PCP).",
+    "Sessao": "3",
+    "Sumario": "Sobre a legislação apresentada pelo Governo relativa à contratação coletiva de trabalho; como um ataque à democracia.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
