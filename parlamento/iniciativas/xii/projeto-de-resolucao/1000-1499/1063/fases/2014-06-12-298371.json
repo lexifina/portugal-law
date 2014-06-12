@@ -1,0 +1,377 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1063",
+    "id": "38534",
+    "titulo": "Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2014-06-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10034",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2014-06-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38350",
+        "leg": "XII",
+        "nr": "1007",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1901",
+            "obs": null,
+            "pag": [
+              "32-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-14",
+            "pubLeg": "XII",
+            "pubNr": "94",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/32?pgs=32-37&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Propõe a realização de um Referendo Nacional ao Tratado Orçamental."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-06-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:53:18:819&drc=00:02:54:694"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=02:07:51:497&drc=00:02:31:427"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194321",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/32?pgs=32-33,36&org=PLC"
+              }
+            ],
+            "sumario": "Propõe a realização de um Referendo Nacional ao Tratado Orçamental; Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:56:23:692&drc=00:03:09:972"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=02:10:34:166&drc=00:01:49:697"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194322",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/33?pgs=33-34,37&org=PLC"
+              }
+            ],
+            "sumario": "Propõe a realização de um Referendo Nacional ao Tratado Orçamental; Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:59:36:926&drc=00:02:07:326"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Propõe a realização de um Referendo Nacional ao Tratado Orçamental; Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=02:01:50:076&drc=00:02:45:279"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=02:12:35:737&drc=00:01:50:996"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/35?pgs=35,37&org=PLC"
+              }
+            ],
+            "sumario": "Propõe a realização de um Referendo Nacional ao Tratado Orçamental; Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=02:04:37:259&drc=00:03:04:698"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Propõe a realização de um Referendo Nacional ao Tratado Orçamental; Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298371",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "686932",
+        "obs": null,
+        "pag": [
+          "32-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-14",
+        "pubLeg": "XII",
+        "pubNr": "94",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/32?pgs=32-38&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
