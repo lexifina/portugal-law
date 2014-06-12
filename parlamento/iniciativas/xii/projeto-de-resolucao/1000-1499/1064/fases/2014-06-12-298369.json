@@ -1,0 +1,373 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1064",
+    "id": "38535",
+    "titulo": "Recomenda ao Governo a adoção de medidas visando o reforço do controlo da avaliação e acompanhamento da execução de contratos de Parceria Público Privadas."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2014-06-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10032",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2014-06-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38504",
+        "leg": "XII",
+        "nr": "1054",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1900",
+            "obs": null,
+            "pag": [
+              "26-32"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-14",
+            "pubLeg": "XII",
+            "pubNr": "94",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/26?pgs=26-32&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Reforça as competências da Unidade Técnica de Apoio Orçamental, e procede à quarta alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-06-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2569",
+                "nome": "Rui Paulo Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:30:53:842&drc=00:03:02:999"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:48:03:636&drc=00:02:39:363"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26",
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/26?pgs=26,31&org=PLC"
+              }
+            ],
+            "sumario": "Reforça as competências da Unidade Técnica de Apoio Orçamental, e procede à quarta alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro; Recomenda ao Governo a adoção de medidas visando o reforço do controlo da avaliação e acompanhamento da execução de contratos de Parceria Público Privadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4397",
+                "nome": "Afonso Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:34:03:927&drc=00:02:58:403"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:50:48:766&drc=00:01:20:019"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27",
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/27?pgs=27,32&org=PLC"
+              }
+            ],
+            "sumario": "Reforça as competências da Unidade Técnica de Apoio Orçamental, e procede à quarta alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro; Recomenda ao Governo a adoção de medidas visando o reforço do controlo da avaliação e acompanhamento da execução de contratos de Parceria Público Privadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:37:05:790&drc=00:03:58:064"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Reforça as competências da Unidade Técnica de Apoio Orçamental, e procede à quarta alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro; Recomenda ao Governo a adoção de medidas visando o reforço do controlo da avaliação e acompanhamento da execução de contratos de Parceria Público Privadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:41:06:521&drc=00:03:42:655"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/28?pgs=28-30&org=PLC"
+              }
+            ],
+            "sumario": "Reforça as competências da Unidade Técnica de Apoio Orçamental, e procede à quarta alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro; Recomenda ao Governo a adoção de medidas visando o reforço do controlo da avaliação e acompanhamento da execução de contratos de Parceria Público Privadas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:44:51:815&drc=00:03:07:272"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-14",
+                "pubLeg": "XII",
+                "pubNr": "94",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Reforça as competências da Unidade Técnica de Apoio Orçamental, e procede à quarta alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro; Recomenda ao Governo a adoção de medidas visando o reforço do controlo da avaliação e acompanhamento da execução de contratos de Parceria Público Privadas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298369",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "686928",
+        "obs": null,
+        "pag": [
+          "26-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-14",
+        "pubLeg": "XII",
+        "pubNr": "94",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/26?pgs=26-32&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
