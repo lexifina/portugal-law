@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "194323",
+  "tipo": "Intervenção",
+  "orador": "António Rodrigues (PSD)",
+  "data_registo": "2014-06-12",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "97933",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38350",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Propõe a realização de um Referendo Nacional ao Tratado Orçamental."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38534",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Projeto de resolução n.º 1007/XII (3.ª) — Propõe a realização de um referendo nacional ao Tratado Orçamental (BE).\nProjeto de resolução n.º 1063/XII (3.ª) — Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental (PCP).",
+        "duracao": "00:02:07:326",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140612pln&url=l12/sl3/a2014/m06/&tI=01:59:36:926&drc=00:02:07:326"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-06-12",
+    "Debate": "PJR n.º 1007/XII/3; PJR n.º 1063/XII/3",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1132",
+      "nome": "António Rodrigues"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "194323",
+    "IdDebate": "10033",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "194323",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "34-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-14",
+        "pubLeg": "XII",
+        "pubNr": "94",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/094/2014-06-14/34?pgs=34&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Propõe a realização de um Referendo Nacional ao Tratado Orçamental; Recomenda ao Governo que inicie o processo de desvinculação de Portugal do Tratado Orçamental",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
