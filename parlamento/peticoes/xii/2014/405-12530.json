@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12530",
+  "numero": "405",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-06-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-07-16",
+            "entidades": null,
+            "id": "98203",
+            "tipo": null,
+            "titulo": "Audição em 2014-07-16 com Adriana Luísa dos Santos Batista Correia Oliveira, Luís António Pais Bernardo"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-09-24",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "713386",
+                "obs": null,
+                "pag": [
+                  "3-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-18",
+                "pubLeg": "XII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/007/2014-10-18/3?pgs=3-5&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-07-02",
+        "DataArquivo": "2014-10-14",
+        "DataBaixaComissao": "2014-06-30",
+        "DataEnvioPAR": "2014-10-14",
+        "DataReaberta": "2014-07-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-07-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a59573876593259304d6d45354f5441745a6a4d7a59793030595749794c574a6b4d6d49744f474d775a6a517a597a63304e474d334c6c424552673d3d&fich=cf42a990-f33c-4ab2-bd2b-8c0f43c744c7.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-10-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a45795131424651304d765247396a6457316c626e52766331426c64476c6a595738764f475135597a6b334d546b744f44457a4e6930304f57497a4c5467794d6d59744d544a6b5a444131595449774d546c684c6e426b5a673d3d&fich=8d9c9719-8136-49b3-822f-12dd05a2019a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3521",
+        "Legislatura": "XII",
+        "Nome": "Comissão para a Ética, a Cidadania e a Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-07-02",
+            "gp": "PCP",
+            "id": "4297",
+            "motivoCessacao": null,
+            "nome": "Carla Cruz"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2014-06-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6868597a59324d444e694c574d77596a41744e444d7a4d4331694e4759334c5445344d444a685a4751344e5464694d7935775a47593d&fich=8ac6603b-c0b0-4330-b4f7-1802add857b3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12530",
+    "PetAssunto": "Pretendem saber como votam os representantes do povo",
+    "PetDataEntrada": "2014-06-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12530",
+    "PetLeg": "XII",
+    "PetNr": "405",
+    "PetNrAssinaturas": "1146",
+    "PetNrAssinaturasInicial": "1146",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "687239",
+        "obs": null,
+        "pag": [
+          "23-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-07-05",
+        "pubLeg": "XII",
+        "pubNr": "55",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/055/2014-07-05/23?pgs=23-24&org=PLC"
+      }
+    ]
+  }
+}
