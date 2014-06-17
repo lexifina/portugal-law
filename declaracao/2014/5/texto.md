@@ -1,0 +1,3 @@
+Declaração n.º 5/2014
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 66/XII ao Decreto-Lei n.º 139/2013, de 9 de outubro, que estabelece o regime jurídico das convenções que tenham por objeto a realização de prestações de saúde aos utentes do Serviço Nacional de Saúde, no âmbito da rede nacional de prestação de cuidados de saúde, apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que as propostas de alteração apresentadas foram rejeitadas pela Comissão de Saúde, tendo o Plenário sido informado do facto.
+Assembleia da República, 28 de maio de 2014. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
