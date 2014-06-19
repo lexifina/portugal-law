@@ -1,0 +1,10 @@
+Aviso n.º 7288-B/2014
+Plano de Urbanização da Área Empresarial de Valença
+Abertura do período de discussão pública
+Jorge Manuel Salgueiro Mendes, presidente da Câmara Municipal de Valença, torna público que esta Câmara Municipal deliberou, na reunião de 17 de junho de 2014, dar início à abertura do período de discussão pública da proposta do Plano de Urbanização da Área Empresarial de Valença, pelo período de 30 dias úteis, com início 5 dias após a publicação do presente aviso no Diário da República, nos termos dos n.os 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na redação atual.
+A proposta de plano com o respetivo relatório ambiental, bem como o relatório final da concertação com as entidades externas, que integra a ata de conferência de serviços e demais pareceres emitidos em resultado das reuniões de concertação, encontram-se disponíveis para consulta todos os dias úteis, durante o horário de expediente, na Divisão de Urbanismo e Planeamento, sita em Rua de Mouzinho de Albuquerque, sem número, em Valença.
+Na página da Internet da Câmara Municipal de Valença (www.cm-valença.pt), encontram-se disponíveis os elementos fundamentais da proposta de plano - Regulamento, planta de zonamento, planta de condicionantes e relatório ambiental.
+A formulação de sugestões, bem como a apresentação de informação sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da discussão pública, deverão ser formuladas através de exposição escrita, endereçada à Câmara Municipal de Valença - Divisão de Urbanismo e Planeamento, sita na Praça da República, 4930-702 Valença, ou para o seguinte e-mail: geral@cm-valenca.pt.
+Para constar e devidos efeitos se publica o presente aviso na 2.ª série do Diário da República, sendo também publicadas em edital afixado nos lugares de estilo, num jornal diário, num semanário de expansão local e na página da Internet da Câmara Municipal de Valença.
+18 de junho de 2014. - O Presidente da Câmara Municipal, Jorge Manuel Salgueiro Mendes, Dr.
+207898647
