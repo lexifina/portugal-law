@@ -1,0 +1,5 @@
+Aviso n.º 7276/2014
+Abertura do período de discussão pública do plano de pormenor a nascente da Rua Guerra Junqueiro. Esmoriz
+Por forma a dar cumprimento ao disposto no n.º 3 e n.º 4 do Artigo 77.º, do Decreto-Lei n.º 316/2007, de 19 de setembro, com a redação que lhe foi conferida pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, o Executivo Camarário, em 09/06/2014, deliberou por unanimidade aprovar a proposta de abertura do período de Discussão Pública do Plano de Pormenor a Nascente da Rua Guerra Junqueiro em Esmoriz, pelo prazo de 22 dias, com início 5 dias após a data da publicação do presente aviso no Diário da República. Os elementos para consulta encontram-se disponíveis na Câmara Municipal de Ovar - Divisão de Planeamento Urbanismo e Empreendedorismo e Junta de Freguesia de Esmoriz. Os interessados deverão dirigir as suas reclamações, observações ou sugestões, ao Exmo. Sr. Presidente da Câmara Municipal de Ovar, através da morada: Praça da República/3880-141 Ovar ou através do e-mail gapresidencia@cm-ovar.pt.
+11 de junho de 2014. - O Presidente da Câmara, Salvador Malheiro.
+207887955
