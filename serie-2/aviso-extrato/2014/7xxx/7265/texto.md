@@ -1,0 +1,9 @@
+Aviso (extrato) n.º 7265/2014
+Revisão do Plano Diretor Municipal de Anadia
+Discussão Pública
+Maria Teresa Belém Correia Cardoso, Presidente da Câmara Municipal de Anadia, nos termos dos n.os 3 e n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na atual redação, torna público que a Câmara Municipal de Anadia, em reunião extraordinária pública realizada a 13 de junho de 2014, deliberou proceder à abertura do período de discussão pública da proposta de revisão do Plano Diretor Municipal de Anadia, por trinta dias úteis.
+Durante o período de discussão pública, a Câmara Municipal de Anadia promoverá sessões públicas de esclarecimento nas Juntas de Freguesia, em datas e locais a anunciar.
+Os documentos que integram a proposta de revisão do Plano Diretor Municipal de Anadia, incluindo o respetivo Relatório Ambiental, o parecer final da Comissão de Acompanhamento e demais pareceres emitidos e os resultados da concertação, encontram-se disponíveis para consulta, no Edifício dos Paços do Concelho e no sítio da Câmara Municipal de Anadia na internet, com o endereço www.cm-anadia.pt.
+No decurso do período de discussão pública, os interessados poderão apresentar, por escrito, as suas reclamações, observações ou sugestões mediante o preenchimento do formulário, de utilização obrigatória, disponível no Serviço de Gestão Urbanística da Câmara Municipal de Anadia na página eletrónica da Câmara Municipal em www.cm-anadia.pt, dirigidas à Presidente da Câmara Municipal de Anadia, podendo ser entregues pessoalmente, no referido serviço, ou remetidas via eletrónica (para o endereço obrasparticulares@cm-anadia.pt), ou via postal (para Câmara Municipal de Anadia, Apartado 19, 3781-909), em qualquer dos casos expedidas até ao termo do prazo fixado.
+13 de junho de 2014. - A Presidente da Câmara, Maria Teresa Belém Correia Cardoso, engenheira.
+207890562
