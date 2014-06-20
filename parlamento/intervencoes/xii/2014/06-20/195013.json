@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "195013",
+  "tipo": "Pergunta",
+  "orador": "António José Seguro (PS)",
+  "data_registo": "2014-06-20",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "97992",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "97992",
+        "tipo": "DEB",
+        "titulo": "Debate com o Primeiro-Ministro - Sobre questões económicas e sociais."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Debate com o Primeiro-ministro ao abrigo da alínea b) do n.º 2 do artigo 224.º do Regimento. Pergunta a Pedro Passos Coelho.",
+        "duracao": "00:03:53:091",
+        "tipoIntervencao": "Pergunta",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140620pln&url=l12/sl3/a2014/m06/&tI=00:37:45:407&drc=00:03:53:091"
+      },
+      {
+        "assunto": "Debate com o Primeiro-ministro ao abrigo da alínea b) do n.º 2 do artigo 224.º do Regimento. Pergunta a Pedro Passos Coelho.",
+        "duracao": "00:04:49:072",
+        "tipoIntervencao": "Pergunta",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140620pln&url=l12/sl3/a2014/m06/&tI=00:48:37:583&drc=00:04:49:072"
+      },
+      {
+        "assunto": "Debate com o Primeiro-ministro ao abrigo da alínea b) do n.º 2 do artigo 224.º do Regimento. Pergunta a Pedro Passos Coelho.",
+        "duracao": "00:03:42:061",
+        "tipoIntervencao": "Pergunta",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140620pln&url=l12/sl3/a2014/m06/&tI=00:56:01:325&drc=00:03:42:061"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-06-20",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "155",
+      "nome": "António José Seguro"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "195013",
+    "IdDebate": "4817",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "195013",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "11-12",
+          "14-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-21",
+        "pubLeg": "XII",
+        "pubNr": "97",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/097/2014-06-21/11?pgs=11-12,14-17&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao Primeiro-Ministro (Pedro Passos Coelho).",
+    "Sessao": "3",
+    "Sumario": "Sobre questões económicas e sociais.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pergunta"
+  }
+}
