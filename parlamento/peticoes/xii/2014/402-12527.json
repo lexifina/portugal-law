@@ -1,0 +1,171 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12527",
+  "numero": "402",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-06-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-05-26",
+            "entidades": null,
+            "id": "100250",
+            "tipo": null,
+            "titulo": "Audição em 2015-05-26 com D. Maria Helena Santos Cancela Cordeiro - Presidente da Direção do Centro Comunitário; Dra. Cesaltina Maria da Cruz Basílio - Diretora Técnica do Centro Comunitário da Quinta do Conde, Sr. Mário José Contador e Sr. João Carlos do Carmo Valente, da Dirigentes do Centro Comunitário da Quinta do Conde e Sr. Vitor Ribeiro Antunes – Presidente da Junta de Freguesia"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-09-12",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "67/CSST/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-07-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-09-10",
+        "DataArquivo": "2015-07-15",
+        "DataBaixaComissao": "2014-06-24",
+        "DataEnvioPAR": "2015-07-16",
+        "DataReaberta": "2014-09-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-09-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938344d54566d5954457a595330324e6d51774c5451794e3251745954517959693035595451794d7a677a597a646c5a54497555455247&fich=815fa13a-66d0-427d-a42b-9a42383c7ee2.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-09-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279387a4d7a6b775a6a5932595331695a54566d4c5451354e545974596d4e6a4d5330304e574a684d4455354e6d4934593249756347526d&fich=3390f66a-be5f-4956-bcc1-45ba0596b8cb.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-07-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938795a6a45344d7a4131596930314e6a6b784c5451324e6d55744f57493559693031597a566b5a4467324f575a6d4d3251756347526d&fich=2f18305b-5691-466e-9b9b-5c5dd869ff3d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3519",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-09-10",
+            "gp": "PSD",
+            "id": "4193",
+            "motivoCessacao": null,
+            "nome": "Maria das Mercês Borges"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-01-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-06-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3249354d7a63304e32466a4c5467334d4441744e4452684e7930345a6a41304c54646c595445784f474a6a4d6a686d4e5335515245593d&fich=b93747ac-8700-44a7-8f04-7ea118bc28f5.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "39925"
+    ],
+    "Iniciativasoriginadas": [
+      "39925"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12527",
+    "PetAssunto": "Concretização de um Lar de Idosos na Quinta do Conde.",
+    "PetDataEntrada": "2014-06-24",
+    "PeticoesAssociadas": null,
+    "PetId": "12527",
+    "PetLeg": "XII",
+    "PetNr": "402",
+    "PetNrAssinaturas": "4411",
+    "PetNrAssinaturasInicial": "4411",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "719201",
+        "obs": null,
+        "pag": [
+          "3-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-13",
+        "pubLeg": "XII",
+        "pubNr": "65",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/065/2014-09-13/3?pgs=3-5&org=PLC"
+      }
+    ]
+  }
+}
