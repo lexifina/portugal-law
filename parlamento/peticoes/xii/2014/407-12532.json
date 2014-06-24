@@ -1,0 +1,524 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12532",
+  "numero": "407",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-06-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-09-10",
+            "entidades": null,
+            "id": "98366",
+            "tipo": null,
+            "titulo": "Audição em 2014-09-10 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-07-10",
+            "dataResposta": "2014-09-09",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "309/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-09-17",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "687770",
+                "obs": null,
+                "pag": [
+                  "7-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-27",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/002/2014-09-27/7?pgs=7-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-07-08",
+        "DataArquivo": "2014-09-23",
+        "DataBaixaComissao": "2014-07-02",
+        "DataEnvioPAR": "2014-09-26",
+        "DataReaberta": "2014-07-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-07-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245794e7a686c4e5451324c5751324e574d744e44426b4d6931694e574a694c574a6a597a49774d6a51325a6a49324d5335775a47593d&fich=a278e546-d65c-40d2-b5bb-bcc20246f261.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-07-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41774e324530595751324c5451794f4459744e47517a4d4331694d5449314c54686c4e7a4535596a5a694f444d314f5335775a47593d&fich=007a4ad6-4286-4d30-b125-8e719b6b8359.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-09-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3256684d4441344e5752684c54526c5a6a67744e475a6d5a4331685a5459784c5463305a6a51354d7a686a4e574a6c595335775a47593d&fich=ea0085da-4ef8-4ffd-ae61-74f4938c5bea.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-09-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a694f5749334e4463344c575a6d4e6d45744e474d784f5331685a6d526c4c5751314d7a6c6c596a513559324a684d7935775a47593d&fich=6b9b7478-ff6a-4c19-afde-d539eb49cba3.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-07-08",
+            "gp": "PSD",
+            "id": "4322",
+            "motivoCessacao": null,
+            "nome": "Isilda Aguincha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-01-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-07-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259334e7a59324d7a63354c5759344e5467744e445a694d4331684d7a59774c544d7a59324e6b4d6a4a6d597a4e6a5a5335775a47593d&fich=f7766379-f858-46b0-a360-33ccd22fc3ce.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38839"
+    ],
+    "Iniciativasoriginadas": [
+      "38725",
+      "38554",
+      "38839",
+      "38940"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-01-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150115pln&url=l12/sl4/a2015/m01/&tI=01:20:30:851&drc=00:03:13:400"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-16",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/038/2015-01-16/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção urgente da 2.ª fase da Escola Parque; Recomenda ao Governo que conclua a 2ª fase de construção da Escola Básica do Parque das Nações e assegure as condições materiais e humanas adequadas ao seu funcionamento; Pela conclusão da Escola Básica integrada do Parque das Nações; Recomenda ao Governo a conclusão da 2ª fase da Escola Básica Integrada 1/2/3 com Jardim de Infância Parque das Nações, em Lisboa; Construção da Escola Básica Integrada com Jardim de Infância Parque das Nações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150115pln&url=l12/sl4/a2015/m01/&tI=01:23:49:391&drc=00:02:55:981"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-16",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/038/2015-01-16/21?pgs=21&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção urgente da 2.ª fase da Escola Parque; Recomenda ao Governo que conclua a 2ª fase de construção da Escola Básica do Parque das Nações e assegure as condições materiais e humanas adequadas ao seu funcionamento; Pela conclusão da Escola Básica integrada do Parque das Nações; Recomenda ao Governo a conclusão da 2ª fase da Escola Básica Integrada 1/2/3 com Jardim de Infância Parque das Nações, em Lisboa; Construção da Escola Básica Integrada com Jardim de Infância Parque das Nações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150115pln&url=l12/sl4/a2015/m01/&tI=01:26:48:536&drc=00:03:11:917"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-16",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/038/2015-01-16/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção urgente da 2.ª fase da Escola Parque; Recomenda ao Governo que conclua a 2ª fase de construção da Escola Básica do Parque das Nações e assegure as condições materiais e humanas adequadas ao seu funcionamento; Pela conclusão da Escola Básica integrada do Parque das Nações; Recomenda ao Governo a conclusão da 2ª fase da Escola Básica Integrada 1/2/3 com Jardim de Infância Parque das Nações, em Lisboa; Construção da Escola Básica Integrada com Jardim de Infância Parque das Nações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150115pln&url=l12/sl4/a2015/m01/&tI=01:30:04:577&drc=00:02:34:256"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-16",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/038/2015-01-16/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção urgente da 2.ª fase da Escola Parque; Recomenda ao Governo que conclua a 2ª fase de construção da Escola Básica do Parque das Nações e assegure as condições materiais e humanas adequadas ao seu funcionamento; Pela conclusão da Escola Básica integrada do Parque das Nações; Recomenda ao Governo a conclusão da 2ª fase da Escola Básica Integrada 1/2/3 com Jardim de Infância Parque das Nações, em Lisboa; Construção da Escola Básica Integrada com Jardim de Infância Parque das Nações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150115pln&url=l12/sl4/a2015/m01/&tI=01:32:42:033&drc=00:03:13:427"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-16",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/038/2015-01-16/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção urgente da 2.ª fase da Escola Parque; Recomenda ao Governo que conclua a 2ª fase de construção da Escola Básica do Parque das Nações e assegure as condições materiais e humanas adequadas ao seu funcionamento; Pela conclusão da Escola Básica integrada do Parque das Nações; Recomenda ao Governo a conclusão da 2ª fase da Escola Básica Integrada 1/2/3 com Jardim de Infância Parque das Nações, em Lisboa; Construção da Escola Básica Integrada com Jardim de Infância Parque das Nações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-01-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150115pln&url=l12/sl4/a2015/m01/&tI=01:35:58:198&drc=00:02:15:301"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-16",
+                "pubLeg": "XII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/038/2015-01-16/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção urgente da 2.ª fase da Escola Parque; Recomenda ao Governo que conclua a 2ª fase de construção da Escola Básica do Parque das Nações e assegure as condições materiais e humanas adequadas ao seu funcionamento; Pela conclusão da Escola Básica integrada do Parque das Nações; Recomenda ao Governo a conclusão da 2ª fase da Escola Básica Integrada 1/2/3 com Jardim de Infância Parque das Nações, em Lisboa; Construção da Escola Básica Integrada com Jardim de Infância Parque das Nações.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12532",
+    "PetAssunto": "Solicitam a construção urgente da 2.ª fase da Escola Parque das Nações.",
+    "PetDataEntrada": "2014-06-24",
+    "PeticoesAssociadas": null,
+    "PetId": "12532",
+    "PetLeg": "XII",
+    "PetNr": "407",
+    "PetNrAssinaturas": "4009",
+    "PetNrAssinaturasInicial": "4009",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1961",
+        "obs": null,
+        "pag": [
+          "20-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-01-16",
+        "pubLeg": "XII",
+        "pubNr": "38",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/038/2015-01-16/20?pgs=20-25&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "687769",
+        "obs": null,
+        "pag": [
+          "8-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-07-12",
+        "pubLeg": "XII",
+        "pubNr": "57",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/057/2014-07-12/8?pgs=8-10&org=PLC"
+      }
+    ]
+  }
+}
