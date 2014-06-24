@@ -4,9 +4,9 @@
 
 1 - Entende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas.
 
-2 - A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis que se encontram à data da entrada em vigor desta lei sujeitas à jurisdição das autoridades marítimas e portuárias, tem a largura de 50 m.
+2 - A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição dos órgãos locais da Direção-Geral da Autoridade Marítima ou das autoridades portuárias, tem a largura de 50 m.
 
-3 - A margem das restantes águas navegáveis ou flutuáveis tem a largura de 30 m.
+3 - A margem das restantes águas navegáveis ou flutuáveis, bem como das albufeiras públicas de serviço público, tem a largura de 30 m.
 
 4 - A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.
 
