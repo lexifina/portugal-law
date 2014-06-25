@@ -15,3 +15,5 @@
 4 - O tratamento de dados pessoais de accionistas e membros dos órgãos de administração e fiscalização de entidades sujeitas a supervisão complementar, por autoridade de supervisão nacional, deve respeitar as normas procedimentais, as normas de protecção de dados pessoais e as medidas especiais de segurança previstas na Lei n.º 67/98, de 26 de Outubro.
 
 5 - As autoridades de supervisão nacionais cooperam com o Comité Conjunto das Autoridades Europeias de Supervisão e facultam todas as informações necessárias ao cumprimento das suas obrigações.
+
+6 - A cooperação e coordenação entre as autoridades de supervisão, incluindo as autoridades de supervisão relevantes de países terceiros, se for caso disso, são asseguradas através dos colégios de autoridades de supervisão criados nos subsetores relevantes.

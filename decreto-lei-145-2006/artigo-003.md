@@ -25,3 +25,5 @@ ii) O total do balanço do subsector financeiro de menor dimensão do grupo exce
 3 - Para efeitos do número anterior, o subsector bancário e o subsector dos serviços de investimento são considerados em conjunto.
 
 4 - Qualquer subgrupo de um grupo que satisfaça as condições dos números anteriores é um conglomerado financeiro.
+
+5 - As sociedades autorizadas a gerir organismos de investimento coletivo em valores mobiliários e as sociedades autorizadas a gerir organismos de investimento alternativo são incluídas no subsetor a que pertencem no seio do grupo e, se não pertencerem exclusivamente a um subsetor no seio do grupo, são incluídas no subsetor financeiro de menor dimensão.

@@ -10,4 +10,8 @@ a) Procedimentos relativos à adequação de fundos próprios que permitam ident
 
 b) Procedimentos de prestação de informações e contabilísticos sólidos que permitam medir, acompanhar e controlar as operações intragrupo e as concentrações de riscos;
 
-c) Mecanismos que assegurem a produção de quaisquer dados e informações pertinentes.
+c) Mecanismos que assegurem a produção de quaisquer dados e informações relevantes para a supervisão complementar.
+
+3 - As entidades sujeitas a supervisão complementar ao nível do conglomerado financeiro fornecem no mínimo anualmente, com referência a 31 de dezembro do ano anterior, às respetivas autoridades de supervisão, dados pormenorizados sobre a sua estrutura jurídica, organizativa e de governo, incluindo todas as entidades regulamentadas, filiais não regulamentadas e sucursais significativas.
+
+4 - As entidades regulamentadas publicam anualmente, ao nível do conglomerado financeiro, expressamente ou por remissão para informações equivalentes, uma descrição da sua estrutura jurídica, organizativa e de governo.

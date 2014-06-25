@@ -16,6 +16,12 @@ e) Planificar e coordenar as actividades de supervisão ao nível do conglomerad
 
 f) Realizar quaisquer outras tarefas ou tomar medidas ou decisões atribuídas por acordos de cooperação ou em consequência da aplicação do presente decreto-lei.
 
+g) Assegurar, quando necessário, a realização de testes de esforço adequados e regulares dos conglomerados financeiros;
+
+h) Decidir, na qualidade de presidente do colégio criado no subsetor relevante, quais as outras autoridades de supervisão que participam numa reunião ou numa atividade desse colégio;
+
+i) Prestar ao Comité Conjunto das Autoridades Europeias de Supervisão as informações previstas na alínea c) do n.º 2 do artigo 16.º e na alínea a) do artigo 20.º
+
 2 - Sem prejuízo da possibilidade de delegação de competências, a presença de um coordenador responsável pelas tarefas específicas da supervisão complementar em nada afecta as tarefas e responsabilidades que incumbem às autoridades de supervisão ao abrigo das regras sectoriais.
 
 3 - O tratamento de dados pessoais de accionistas e membros dos órgãos de administração e fiscalização de entidades sujeitas a supervisão complementar, quando o coordenador seja uma autoridade de supervisão nacional, deve respeitar as normas procedimentais, as normas de protecção de dados pessoais e as medidas especiais de segurança previstas na Lei n.º 67/98, de 26 de Outubro.

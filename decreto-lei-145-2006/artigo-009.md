@@ -20,4 +20,8 @@ c) Esteja ligada a outra entidade do sector financeiro por uma relação de grup
 
 6 - Para efeitos da aplicação da supervisão complementar prevista no número anterior, pelo menos uma das entidades deve ser uma entidade regulamentada autorizada num dos Estados membros e devem ser satisfeitas as condições referidas no n.º 2 do artigo 3.º
 
-7 - Estão ainda sujeitas a supervisão complementar as sociedades gestoras de fundos de investimento mobiliário, na acepção do n.º 4 do artigo 199.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+7 - [Revogado].
+
+8 - As autoridades de supervisão reavaliam anualmente as dispensas à aplicação da supervisão complementar e reveem os indicadores quantitativos estabelecidos no presente artigo e as avaliações baseadas no risco aplicadas aos grupos financeiros.
+
+9 - O exercício da supervisão complementar a nível do conglomerado financeiro não implica, para as autoridades de supervisão, a obrigação de sujeitarem a supervisão, numa base individual, as companhias financeiras mistas, as entidades regulamentadas de países terceiros de um conglomerado financeiro ou as entidades não regulamentadas de um conglomerado financeiro.
