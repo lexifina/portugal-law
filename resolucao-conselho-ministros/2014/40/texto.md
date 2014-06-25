@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 40/2014
+À semelhança do sucedido em anos anteriores, Portugal já começou a ser assolado por um número muito significativo de incêndios florestais que, em diversas localidades e concelhos, têm exigido um esforço redobrado por parte dos bombeiros portugueses na proteção de pessoas e bens.
+Os fogos que já se registaram em Portugal têm exigido a máxima disponibilidade a todo o dispositivo de proteção civil, sendo que bombeiros, agentes de proteção civil e diferentes recursos materiais têm estado no seu máximo empenhamento, protegendo vidas e património.
+As associações humanitárias de bombeiros voluntários contam com homens e mulheres que, apesar das suas profissões e das suas vidas familiares, dedicam grande parte do seu tempo ao serviço da comunidade. Muitos destes bombeiros são trabalhadores da Administração Pública e, não raras vezes, com autorização dos respetivos serviços, colaboram na proteção e socorro das suas comunidades.
+Por considerar que estes homens e mulheres são essenciais no combate aos incêndios florestais que venham a ocorrer nesta fase mais crítica da época de incêndios e que este interesse se pode sobrepor às obrigações funcionais normais do serviço público, o Governo aprova um regime excecional de dispensa de serviço público dos trabalhadores da Administração Pública que cumulativamente detenham a qualidade de bombeiro voluntário, quando sejam chamados pelo respetivo corpo de bombeiros para combater um incêndio florestal.
+Assim:
+Nos termos das alíneas d), e) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar um regime excecional de dispensa de serviço público dos trabalhadores da administração direta e indireta do Estado, incluindo da administração autónoma, que cumulativamente detenham a qualidade de bombeiro voluntário, quando sejam chamados pelo respetivo corpo de bombeiros para combater um incêndio florestal.
+2 - Determinar que, para efeitos do regime referido no número anterior:
+a) O comandante do corpo de bombeiros informa o imediato superior hierárquico do trabalhador, por qualquer meio ao seu dispor, sobre o dia e a hora a partir dos quais ele é chamado;
+b) A informação a que se refere a alínea anterior é, logo que possível, confirmada por documento escrito, devidamente assinado;
+c) Quando a chamada ao serviço do corpo de bombeiros ocorrer em período de férias, estas consideram-se interrompidas, sendo os correspondentes dias gozados em momento a acordar com o dirigente do serviço;
+d) Terminada a chamada ao serviço do corpo de bombeiros, o respetivo comandante confirma junto do imediato superior hierárquico do trabalhador, por documento escrito, devidamente assinado, os dias em que aquela ocorreu.
+3 - Estabelecer que o regime previsto no número anterior é aplicável independentemente do disposto no artigo 26.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, e pelo Decreto-Lei n.º 249/2012, de 21 de novembro.
+4 - Determinar que a presente resolução produz os seus efeitos a partir de 1 de julho de 2014 e vigora no período crítico de incêndios até 30 de setembro de 2014.
+Presidência do Conselho de Ministros, 19 de junho de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
