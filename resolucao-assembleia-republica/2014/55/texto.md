@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 55/2014
+Aprova o recesso, por parte da República Portuguesa, aos estatutos da Comissão Internacional do Estado Civil
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar o recesso, por parte da República Portuguesa, aos estatutos da Comissão Internacional do Estado Civil (CIEC), constituídos pelo Protocolo assinado em Berna em 25 de setembro de 1950, pelo Regulamento Financeiro aprovado em Paris em 27 de setembro de 1951, pelo Protocolo Adicional concluído no Luxemburgo em 25 de setembro de 1952, pelo Acordo por troca de cartas de 31 de outubro de 1955 entre a CIEC e o Conselho da Europa, pelo Regulamento adotado em Montreux em 5 de setembro de 1963 e pelo Acordo por troca de cartas de 28 de outubro de 1969, entre a CIEC e a Conferência da Haia de Direito Internacional Privado.
+Aprovada em 30 de maio de 2014.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
