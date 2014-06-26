@@ -1,0 +1,503 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "625",
+    "id": "38564",
+    "titulo": "Recusa a privatização da Empresa Geral de Fomento, S.A. (EGF) e revoga o Decreto-Lei n.º 45/2014, de 20 de março"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-06-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10056",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-06-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38458",
+        "leg": "XII",
+        "nr": "604",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1904",
+            "obs": null,
+            "pag": [
+              "22-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-27",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/22?pgs=22-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1904",
+            "obs": null,
+            "pag": [
+              "22-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-27",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/22?pgs=22-31&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Revoga o Decreto-Lei que abre o processo para a privatização da Empresa Geral do Fomento (EGF) (revoga o Decreto-Lei nº 45/2014, de 20 de março)"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38573",
+        "leg": "XII",
+        "nr": "1083",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1904",
+            "obs": null,
+            "pag": [
+              "22-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-27",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/22?pgs=22-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1904",
+            "obs": null,
+            "pag": [
+              "22-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-06-27",
+            "pubLeg": "XII",
+            "pubNr": "99",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/22?pgs=22-31&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Sobre o erro que constitui a privatização da Empresa Geral do Fomento (EGF)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-06-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "12:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:26:04:115&drc=00:03:15:829"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:57:34:916&drc=00:02:28:360"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23",
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-27",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/23?pgs=23,30-31&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei que abre o processo para a privatização da Empresa Geral do Fomento (EGF) (revoga o Decreto-Lei nº 45/2014, de 20 de março).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "12:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:29:24:583&drc=00:03:20:640"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:54:34:876&drc=00:02:56:668"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-27",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/23?pgs=23-24,29-30&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei que abre o processo para a privatização da Empresa Geral do Fomento (EGF) (revoga o Decreto-Lei nº 45/2014, de 20 de março).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "12:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:32:52:839&drc=00:03:38:408"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:51:32:534&drc=00:02:58:796"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25",
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-27",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/24?pgs=24-25,28-29&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei que abre o processo para a privatização da Empresa Geral do Fomento (EGF) (revoga o Decreto-Lei nº 45/2014, de 20 de março).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1048",
+                "nome": "Altino Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "12:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:36:33:662&drc=00:05:36:337"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-27",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei que abre o processo para a privatização da Empresa Geral do Fomento (EGF) (revoga o Decreto-Lei nº 45/2014, de 20 de março).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2264",
+                "nome": "Pedro Farmhouse"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "12:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:42:13:750&drc=00:04:20:653"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-27",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei que abre o processo para a privatização da Empresa Geral do Fomento (EGF) (revoga o Decreto-Lei nº 45/2014, de 20 de março).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4304",
+                "nome": "Bruno Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:38",
+            "horaTermo": "12:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140626pln_m&url=l12/sl3/a2014/m06/&tI=01:46:36:747&drc=00:04:52:137"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "194354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-06-27",
+                "pubLeg": "XII",
+                "pubNr": "99",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei que abre o processo para a privatização da Empresa Geral do Fomento (EGF) (revoga o Decreto-Lei nº 45/2014, de 20 de março).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298638",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "687219",
+        "obs": null,
+        "pag": [
+          "22-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-27",
+        "pubLeg": "XII",
+        "pubNr": "99",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/099/2014-06-27/22?pgs=22-31&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
