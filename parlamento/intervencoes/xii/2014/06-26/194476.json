@@ -1,0 +1,97 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "194476",
+  "tipo": "Intervenção",
+  "orador": "Paulo Cavaleiro (PSD)",
+  "data_registo": "2014-06-26",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "298641",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38562",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Autoriza o Governo a legislar sobre o regime jurídico da exploração e prática do jogo «on-line»."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Proposta de lei n.º 238/XII (3.ª) — Autoriza o Governo a legislar sobre o regime jurídico da exploração e prática do jogo online.",
+        "duracao": "00:10:21:516",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140626pln_t&url=l12/sl3/a2014/m06/&tI=00:54:04:924&drc=00:10:21:516"
+      },
+      {
+        "assunto": "Proposta de lei n.º 238/XII (3.ª) — Autoriza o Governo a legislar sobre o regime jurídico da exploração e prática do jogo online. Responde a Rui Barreto.",
+        "duracao": "00:02:38:572",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140626pln_t&url=l12/sl3/a2014/m06/&tI=01:08:32:795&drc=00:02:38:572"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-06-26",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "2641",
+      "nome": "Paulo Cavaleiro"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "194476",
+    "IdDebate": "10059",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "38562",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "194476",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "16-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-06-27",
+        "pubLeg": "XII",
+        "pubNr": "100",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/100/2014-06-27/16?pgs=16-20&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde ao Deputado Rui Barreto (CDS-PP)",
+    "Sessao": "3",
+    "Sumario": "Autoriza o Governo a legislar sobre o regime jurídico da exploração e prática do jogo «on-line».",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
