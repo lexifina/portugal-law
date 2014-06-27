@@ -1,3 +1,7 @@
+## Secção II
+
+## Estrutura orgânica
+
 # Artigo 35.º
 
 ### Composição da assembleia geral
