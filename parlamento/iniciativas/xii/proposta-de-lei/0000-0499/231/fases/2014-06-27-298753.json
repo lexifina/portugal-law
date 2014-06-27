@@ -1,0 +1,205 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "231",
+    "id": "38528",
+    "titulo": "Prorroga o prazo de suspensão das disposições de instrumentos de regulamentação coletiva de trabalho e das cláusulas de contratos de trabalho a que se refere o n.º 4 do artigo 7.º da Lei n.º 23/2012, de 25 de junho."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "33803",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-07-01",
+            "id": "98060",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-07-01",
+            "id": "98059",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-07-01",
+            "id": "98058",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-07-01",
+            "id": "98053",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-07-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-06-27",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-07-02",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Audição CCP",
+            "URL": "http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheAudicao.aspx?BID=98060"
+          },
+          {
+            "DataDocumento": "2014-07-02",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Audição CIP",
+            "URL": "http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheAudicao.aspx?BID=98059"
+          },
+          {
+            "DataDocumento": "2014-07-02",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Audição da CGTP-IN",
+            "URL": "http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheAudicao.aspx?BID=98058"
+          },
+          {
+            "DataDocumento": "2014-07-02",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Audição UGT",
+            "URL": "http://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheAudicao.aspx?BID=98053"
+          },
+          {
+            "DataDocumento": "2014-07-09",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Oficio com Votações e Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51324d4445314d6d526b4c574d794e6a6b744e44466a4d5331694d5463344c54526c4e6d4a685a6d55314e5467785a5335515245593d&fich=460152dd-c269-41c1-b178-4e6bafe5581e.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração à PPL n.º 231 do GP do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d784e3259325a5445774c544e6c4d7a4d744e4746684d6930354e6a49324c544d34595463774f475a6b4d475a6b5a5335515245593d&fich=317f6e10-3e33-4aa2-9626-38a708fd0fde.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração à PPL n.º 231 do GP do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a457a4f446c6a59574e684c5759354e6a41744e446779595331695a6d49354c5745334d5445785a6d51314d4451784e5335515245593d&fich=1389caca-f960-482a-bfb9-a7111fd50415.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "29-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-07-09",
+            "pubLeg": "XII",
+            "pubNr": "143",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/143/2014-07-09/29?pgs=29-31&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "29-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-07-09",
+            "pubLeg": "XII",
+            "pubNr": "143",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/143/2014-07-09/29?pgs=29-31&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2014-07-09",
+            "numeroOficio": "Email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-07-09",
+            "descricao": "Texto Final apreciação Artigo a artigo",
+            "detalhe": null,
+            "id": "67035",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "210",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-06-27",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298753",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
