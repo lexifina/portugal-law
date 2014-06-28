@@ -1,7 +1,3 @@
-## Secção II
-
-## Atribuição
-
 # Artigo 16.º
 
 ### Requerimento

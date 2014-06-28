@@ -1,7 +1,3 @@
-## Secção III
-
-## Suspensão, cessação e renovação
-
 # Artigo 22.º
 
 ### Causas de cessação

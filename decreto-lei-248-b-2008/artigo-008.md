@@ -16,8 +16,4 @@ e) A composição dos corpos gerentes;
 
 f) Os contactos da federação e dos respectivos órgãos sociais (endereço, telefone, fax e correio electrónico).
 
-g) Dos dados relevantes, de acesso público, sobre as sociedades desportivas da respetiva modalidade, nomeadamente no âmbito do cumprimento do dever de transparência na titularidade de participações sociais;
-
-h) Outros dados de acesso público previstos no presente decreto-lei, bem como noutros regimes jurídicos em matéria de desporto que devam ser objeto de publicitação no sítio eletrónico da federação.
-
-2 - Nas publicitações a que se referem as alíneas b), g) e h) do número anterior, deve ser observado o regime legal de proteção de dados pessoais.
+2 - Na publicitação das decisões referidas na alínea b) do número anterior deve ser observado o regime legal de protecção de dados pessoais.
