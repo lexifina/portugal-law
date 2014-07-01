@@ -1,0 +1,7 @@
+Edital n.º 577/2014
+Salvador Malheiro Ferreira da Silva, Presidente da Câmara Municipal de Ovar:
+Faz público que, a Câmara Municipal, em reunião extraordinária realizada no dia 09/06/2014, deliberou por unanimidade aprovar a proposta de abertura de discussão pública do Regulamento Municipal da Perequação Compensatória e do Fundo de Compensação dos Planos de Pormenor do Concelho de Ovar, nos termos do Artigo 118.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na redação dada pelo Decreto-Lei n.º 6/96, de 31 de janeiro, com as alterações do Decreto-Lei n.º 18/2008, de 29 de janeiro, pelo prazo de 30 dias, contados a partir da publicação do presente edital no Diário da República, 2.ª série.
+O Projeto do Regulamento já identificado encontra-se exposto, para efeitos de recolha de sugestões de todos os interessados, no Serviço Administrativo e de Atendimento - Balcão de Atendimento, desta Câmara Municipal, onde poderá ser consultado, todos os dias úteis, das 9 horas às 16 horas, bem como no site do Município - www.cm-ovar.pt.
+Os interessados deverão dirigir as suas sugestões, por escrito, ao Senhor Presidente da Câmara Municipal de Ovar, através da morada: Praça da República/3880-141 Ovar ou através do e-mailgapresidencia@cm-ovar.pt., até às 17 horas do último dia do prazo acima referido.
+16 de junho de 2014. - O Presidente da Câmara Municipal de Ovar, Salvador Malheiro.
+307899676
