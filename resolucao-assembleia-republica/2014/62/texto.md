@@ -1,0 +1,28 @@
+Resolução da Assembleia da República n.º 62/2014
+Recomenda ao Governo um conjunto de procedimentos para a promoção da transparência na contratação pública com recurso a parcerias público privadas
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo o seguinte:
+1 - O Governo deve sempre elaborar o Comparador do Sector Público (CSP), assim como o respetivo estudo de viabilidade económico-financeira dos projetos das parcerias público privadas (PPP) e deve sempre atualizá-los, caso seja necessário, até à celebração dos contratos de concessão.
+2 - Tendo em consideração os elevados encargos destes projetos e sendo eles na sua maioria assumidos pelas gerações futuras, as contratações em regime de PPP devem ser sempre submetidas à Assembleia da República para discussão prévia e consequente aprovação.
+3 - Deve ser obrigatória a comprovação da comportabilidade orçamental dos projetos das PPP.
+4 - O Estado deve munir-se de quadros técnicos qualificados e com experiência neste tipo de contratação por forma a fortalecer a sua posição negocial com os parceiros privados.
+5 - O Governo deve criar condições para um sistema de regulação mais independente, mais transparente, mais eficiente e mais eficaz dos projetos das PPP.
+6 - O Governo deve garantir um acompanhamento periódico e efetivo dos projetos das PPP, obrigando-as à elaboração de relatórios regulares sobre o seu desenvolvimento e as suas implicações.
+7 - O Governo e as entidades públicas competentes devem tornar público e de fácil consulta aos cidadãos todos os processos negociais, contratos, estudos, relatórios de reguladores, relatórios de fiscalizadores, pedidos de reequilíbrio financeiro das concessionárias, e demais informação sobre os projetos das PPP, contribuindo com isso para a transparência de todos os processos.
+8 - O Governo deve promover junto das concessionárias um conjunto de mecanismos contratuais que impeçam no futuro a existência de benefícios contingentes e ou benefícios sombra, por forma a tornar este modelo de contratação ainda mais transparente.
+9 - O Governo deve proceder a uma reorçamentação plurianual dos encargos públicos com as PPP, especialmente com os encargos das PPP rodoviárias cuja responsabilidade recai sobre a EP, S. A.
+10 - O Estado deve ser prudente quanto às estimativas de receita de portagem que interfiram diretamente com os encargos líquidos das PPP, que são suportados pelos contribuintes portugueses.
+11 - Obrigatoriedade do envio ao Tribunal de Contas de quaisquer alterações por renegociação, incluindo adicionais aos contratos e alterações aos planos de trabalhos, mesmo que não incluam valores de despesa associados.
+12 - Contribuição das concessionárias e das entidades financiadoras das PPP para o esforço coletivo da sociedade portuguesa através de todas as formas possíveis ao alcance do Estado.
+13 - Criar no Parlamento português um «observatório das PPP», que permita, entre outros objetivos, o escrutínio público adequado de todos os elementos administrativos e processuais sobre contratação, alterações contratuais, negociações, reequilíbrios financeiros e monitorização de contratos de concessão e de PPP, por forma a não criar novos organismos e entregar a missão do observatório à Unidade Técnica de Apoio Orçamental (UTAO), tornando obrigatório o envio para o Parlamento da documentação necessária para o efeito.
+14 - Tornar obrigatório a apresentação anual da Lei de Programação das Infraestruturas, com a programação a 5 anos. Para projetos de concessão e PPP com investimentos ou receitas concessionadas e ou encargos superiores a 100 milhões de euros, deve ser efetuada a apresentação prévia ao Parlamento dos seus fundamentos, encargos e forma de financiamento.
+15 - Na defesa de um investimento público que promova o desenvolvimento, o crescimento e o emprego, recomendar a revisão dos seus critérios de contabilização.
+16 - Emissão pela UTAO de relatórios de análise da evolução dos encargos com as PPP.
+17 - Criar um regime de incompatibilidades à contratação de consultores, tornando obrigatório, e limitativo da capacidade de contratar, o registo de interesses prévio e a posteriori, por um período de 3 anos, do consultor.
+18 - Criar um regime efetivo de incompatibilidades de interesses à entrada e à saída de cargos e funções no estado.
+19 - As entidades gestoras e fiscalizadoras devem processar obrigatoriamente as multas contratuais. O perdão de multa tem que ser justificado e obter a aprovação do Ministério das Finanças e do ministério da tutela técnica. O Parlamento, o Tribunal de Contas e a Inspeção-Geral de Finanças devem ser previamente notificados do processo de anulação de multa.
+20 - O Estado deve promover a estabilidade contratual e limitar severamente as alterações unilaterais.
+21 - Estimular a procura pelas infraestruturas rodoviárias e ferroviárias, nomeadamente através de uma política tarifária que incentive a sua utilização e de uma política económica que estimule a procura interna.
+22 - Incluir nos relatórios das comissões de negociação dos projetos com recurso a PPP, com caráter de obrigatoriedade, um capítulo com descrição dos riscos transferidos para parceiro público e quantificação dos encargos associados a essa transferência.
+23 - Rever e aprofundar as regras relativas ao processo de escolha da decisão de investimento público no que se refere às normas relativas à elaboração do CSP, por forma a ultrapassar as atuais insuficiências e fragilidades.
+Aprovada em 5 de junho de 2014.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
