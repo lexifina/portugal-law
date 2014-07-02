@@ -4,4 +4,4 @@
 
 1 - As provas específicas de acesso realizam-se numa única chamada.
 
-2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, poderá ser realizada uma 2.ª chamada das provas específicas de acesso, caso se verifique a existência de vagas sobrantes da 1.ª fase do concurso.
+2 - Por decisão do presidente do Instituto, sob proposta do órgão legal e estatutariamente competente da Escola, pode ser realizada uma 2.ª chamada das provas específicas de acesso.
