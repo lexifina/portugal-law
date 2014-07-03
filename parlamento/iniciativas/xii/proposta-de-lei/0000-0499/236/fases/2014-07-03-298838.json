@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "236",
+    "id": "38543",
+    "titulo": "Cria a contribuição de sustentabilidade e ajusta a taxa contributiva dos trabalhadores do sistema previdencial de segurança social e do regime de proteção social convergente, prevista, respetivamente, no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, e no Decreto Lei n.º 137/2010, de 28 de dezembro, e altera o Código do Imposto sobre o Valor Acrescentado, e o Decreto-Lei n.º 347/85, de 23 de agosto."
+  },
+  "fase": "Parecer do Governo da RAA",
+  "codigo_fase": "174",
+  "data_registo": "2014-07-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10074",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e444d344e474d795a5445745a6a4a6b4d6930304e4451324c54686c4f4749744e7a68695a4451795a474d784e5464694c6e426b5a673d3d&fich=4384c2e1-f2d2-4446-8e8b-78bd42dc157b.pdf&Inline=true",
+        "anexoNome": "Texto do Parecer"
+      }
+    ],
+    "CodigoFase": "174",
+    "Comissao": null,
+    "DataFase": "2014-07-03",
+    "EvtId": "150",
+    "Fase": "Parecer do Governo da RAA",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-09-02",
+        "oradores": null
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298838",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10074",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-03",
+        "pubLeg": "XII",
+        "pubNr": "108",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/108/2014-09-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
