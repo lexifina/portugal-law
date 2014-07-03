@@ -1,0 +1,4 @@
+Aviso n.º 68/2014
+Por ordem superior se torna público que, em 4 de fevereiro de 2009 e em 26 de maio de 2014, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros e pelo Ministério de Relações Exteriores da República da Colômbia, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo de Cooperação no domínio do Turismo entre a República Portuguesa e a República da Colômbia, assinado em Lisboa em 8 de janeiro de 2007.
+O referido Acordo foi aprovado pelo Decreto do Ministério dos Negócios Estrangeiros n.º 53/2008, publicado no Diário da República, 1.ª série, n.º 229, de 25 de novembro de 2008. Nos termos do artigo 7.º do referido Acordo, este entrará em vigor a 30 de junho de 2014.
+Direção-Geral de Política Externa, 23 de junho de 2014. - O Subdiretor-Geral, Carlos Pereira Marques.
