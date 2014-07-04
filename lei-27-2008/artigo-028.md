@@ -2,22 +2,12 @@
 
 ### Instrução
 
-1 - A AIMA, I. P., procede às diligências requeridas e averigua todos os factos cujo conhecimento seja conveniente para uma justa e rápida decisão, competindo-lhe a instrução dos procedimentos de proteção internacional.
+1 - O SEF procede às diligências requeridas e averigua todos os factos cujo conhecimento seja conveniente para uma justa e rápida decisão, competindo-lhe a instrução dos procedimentos de proteção internacional.
 
-2 - Caso o pedido seja aceite, a AIMA, IP, deve decidir sobre o mérito do pedido no prazo de seis meses, a contar da data em que o pedido de proteção internacional foi apresentado, sem prejuízo do disposto no n.º 6.
+2 - O prazo de instrução é de seis meses, podendo, em casos de especial complexidade, ser prorrogado até nove meses, devendo o requerente ser informado desta situação e, a pedido, sobre os motivos da dilação, bem como do prazo previsto para a decisão.
 
-3 - No âmbito da instrução dos procedimentos de proteção internacional, a AIMA, I. P., pode, se necessário, solicitar o parecer de peritos sobre questões específicas, nomeadamente de ordem médica ou cultural.
+3 - No âmbito da instrução dos procedimentos de proteção internacional, o SEF pode, se necessário, solicitar o parecer de peritos sobre questões específicas, nomeadamente de ordem médica ou cultural.
 
-4 - [Revogado.]
+4 - Durante a instrução, o representante do ACNUR ou o CPR enquanto organização não governamental que atue em seu nome pode juntar ao processo relatórios ou informações sobre o respetivo país de origem e obter informações sobre o pedido de proteção internacional e sobre o andamento do processo, desde que o requerente tenha dado o seu consentimento.
 
-5 - [Revogado.]
-
-6 - A AIMA, IP, pode prorrogar o prazo previsto no n.º 2 por um máximo de seis meses, nos seguintes casos:
-
-a) Apresentação simultânea de um número desproporcionado de processos;
-
-b) Complexidade das questões de facto ou de direito;
-
-c) Incumprimento das obrigações do requerente, nos termos do artigo 15.º
-
-7 - No caso previsto no número anterior, o requerente é informado dos motivos da prorrogação e da respetiva fundamentação.
+5 - Em qualquer fase do processo, o representante do ACNUR ou o CPR enquanto organização não governamental que atue em seu nome pode apresentar as suas observações ao SEF, no exercício das funções que lhe incumbem por força do artigo 35.º da Convenção de Genebra.

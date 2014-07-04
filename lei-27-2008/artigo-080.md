@@ -2,6 +2,4 @@
 
 ### Vítimas de tortura ou violência
 
-1 - Aos nacionais de países terceiros ou apátridas que tenham sido vítimas de tráfico de seres humanos, de tortura, de violação ou de outros atos graves de violência psicológica, física ou sexual é assegurado tratamento especial e acompanhamento adequado aos atos referidos.
-
-2 - O acesso a esses tratamentos ou cuidados deve ser concedido o mais rapidamente possível, logo que tenham sido identificadas as necessidades dessas pessoas, nomeadamente nos termos do artigo 17.º-A.
+Às pessoas que tenham sido vítimas de actos de tortura, de violação ou de outros actos de violência grave é assegurado tratamento especial adequado aos danos causados pelos actos referidos, nomeadamente através da especial atenção e acompanhamento por parte do respectivo centro distrital do Instituto de Segurança Social, I. P., e serviços de saúde ou das entidades que com este tenham celebrado protocolos de apoio.

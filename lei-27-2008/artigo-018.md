@@ -2,9 +2,9 @@
 
 ### Apreciação do pedido
 
-1 - Na apreciação de cada pedido de proteção internacional, compete à AIMA, I. P., analisar todos os elementos pertinentes, designadamente as declarações do requerente, proferidas nos termos dos artigos anteriores, e toda a informação disponível.
+1 - Na apreciação de cada pedido de proteção internacional, compete ao SEF analisar todos os elementos pertinentes, designadamente as declarações do requerente, proferidas nos termos dos artigos anteriores, e toda a informação disponível.
 
-2 - Na apreciação do pedido, a AIMA, I. P., tem em conta especialmente:
+2 - Na apreciação do pedido, o SEF tem em conta especialmente:
 
 a) Os factos pertinentes respeitantes ao país de origem, obtidos junto de fontes como o Gabinete Europeu de Apoio em matéria de Asilo, o ACNUR e organizações de direitos humanos relevantes, à data da decisão sobre o pedido, incluindo a respetiva legislação e regulamentação e as garantias da sua aplicação;
 

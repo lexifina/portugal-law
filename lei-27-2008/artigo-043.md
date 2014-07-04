@@ -2,7 +2,7 @@
 
 ### Competência para declarar a perda do direito de proteção internacional e o afastamento do território nacional
 
-1 - Compete ao membro do Governo responsável pela área das migrações, sob proposta do conselho diretivo da AIMA, I. P., declarar a perda do direito de proteção internacional.
+1 - Compete ao membro do Governo responsável pela área da administração interna, sob proposta do diretor nacional do SEF, declarar a perda do direito de proteção internacional.
 
 2 - A declaração prevista no número anterior deve ser notificada ao requerente, numa língua que compreenda ou seja razoável presumir que compreenda.
 

@@ -6,38 +6,30 @@
 
 ### Redução e cessação do benefício das condições de acolhimento
 
-1 - Aos requerentes relativamente aos quais é exigida a permanência em território português pode ser reduzido ou retirado o subsídio para despesas diárias.
+1 - O apoio social cessa com a decisão de recusa do pedido de proteção internacional, tendo a impugnação desta perante o tribunal administrativo e o recurso jurisdicional da decisão que a confirme os efeitos previstos, respetivamente, nos n.os 1 e 2 do artigo 30.º
 
-2 - Devidamente justificado e proporcionado, podem também ser:
+2 - A cessação do apoio nos termos do número anterior não se verifica quando, avaliada a situação económica e social do requerente, se concluir pela necessidade da sua manutenção.
 
-a) Reduzidas outras condições materiais de acolhimento;
+3 - As condições de acolhimento podem ser total ou parcialmente retiradas se o requerente de asilo ou de proteção subsidiária, injustificadamente:
 
-b) Nos casos em que se aplica a alínea f) do n.º 3, retiradas outras condições materiais de acolhimento.
-
-3 - A decisão referida no n.º 1 é tomada sempre que o requerente:
-
-a) Abandonar o local de residência estabelecido pela autoridade competente sem informar a AIMA, I. P., ou sem a autorização exigível;
+a) Abandonar o local de residência estabelecido pela autoridade competente sem informar o SEF ou sem a autorização exigível;
 
 b) Abandonar o seu local de residência sem informar a entidade competente pelo alojamento;
 
-c) Não cooperar com as autoridades competentes ou não respeitar os requisitos processuais por elas estabelecidos;
+c) Não cumprir as obrigações de se apresentar;
 
-d) Tiver dissimulado os seus recursos financeiros, beneficiando indevidamente das condições materiais de acolhimento;
+d) Não prestar as informações que lhe forem requeridas ou não comparecer nas entrevistas individuais, quando para tal for convocado;
 
-e) Apresentar um pedido subsequente.
+e) Tiver dissimulado os seus recursos financeiros e, portanto, beneficiar indevidamente das condições materiais de acolhimento;
 
-f) Tiver infringido de forma grave ou reiterada as regras vigentes no centro de acolhimento ou adotar um comportamento violento ou ameaçador no mesmo;
+f) Apresentar um pedido subsequente.
 
-g) Não participar nas medidas de integração obrigatórias, disponibilizadas ou facilitadas pelos Estados-Membros, salvo por razão não imputável ao requerente.
+4 - Se, posteriormente à cessação das condições de acolhimento por incumprimento do previsto nas alíneas a) a c) do número anterior, o requerente for encontrado ou se apresentar voluntariamente às autoridades competentes, deve ser tomada uma decisão fundamentada quanto ao restabelecimento do benefício de algumas ou de todas as condições de acolhimento.
 
-4 - [Revogado.]
+5 - As decisões relativas à redução e à cessação do benefício das condições de acolhimento nas situações mencionadas no n.º 1 são tomadas de forma individual, objetiva, imparcial e devem ser fundamentadas.
 
-5 - No caso de cessarem as situações previstas nas alíneas a), b), c) e g) do n.º 3, deve ser ponderada e tomada uma decisão fundamentada quanto ao restabelecimento de todas ou algumas das medidas de acolhimento anteriormente reduzidas ou retiradas, sendo o requerente notificado dessa decisão.
+6 - As decisões a que se refere o número anterior devem ter exclusivamente por base a situação particular da pessoa em causa, em especial no que se refere às pessoas particularmente vulneráveis, tendo em conta o princípio da proporcionalidade.
 
-6 - As decisões relativas à redução e à cessação do benefício das condições de acolhimento nas situações mencionadas no n.º 1 são tomadas de forma individual, objetiva, imparcial e devem ser fundamentadas.
+7 - A redução ou cessação dos benefícios não prejudica o acesso aos cuidados de saúde urgentes, ao tratamento básico de doenças e de perturbações mentais graves e aos cuidados médicos ou outro tipo de assistência necessária aos requerentes com necessidades de acolhimento especiais, incluindo assistência psicológica adequada, se necessário.
 
-7 - As decisões a que se refere o número anterior devem ter exclusivamente por base a situação particular da pessoa em causa, em especial no que se refere às pessoas particularmente vulneráveis, tendo em conta o princípio da proporcionalidade.
-
-8 - A redução ou cessação dos benefícios não prejudica o acesso aos cuidados de saúde urgentes, ao tratamento básico de doenças e de perturbações mentais graves e aos cuidados médicos ou outro tipo de assistência necessária aos requerentes com necessidades de acolhimento especiais, incluindo assistência psicológica adequada, se necessário.
-
-9 - Das decisões referidas no n.º 3 cabe impugnação nos termos do n.º 1 do artigo 63.º
+8 - Das decisões referidas no n.º 3 cabe impugnação nos termos do n.º 1 do artigo 63.º

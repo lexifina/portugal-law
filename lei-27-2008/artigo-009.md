@@ -2,7 +2,7 @@
 
 ### Exclusão do asilo e proteção subsidiária
 
-1 - Não pode beneficiar do estatuto de refugiado o nacional de um país terceiro ou apátrida quando:
+1 - Não pode beneficiar do estatuto de refugiado o estrangeiro ou apátrida quando:
 
 a) Esteja abrangido pelo âmbito do ponto D do artigo 1.º da Convenção de Genebra, relativa à proteção ou assistência por parte de órgãos ou agências das Nações Unidas, que não seja o ACNUR, desde que essa proteção ou assistência não tenha cessado por qualquer razão sem que a situação da pessoa em causa tenha sido definitivamente resolvida em conformidade com as resoluções aplicáveis da Assembleia Geral das Nações Unidas;
 
@@ -12,13 +12,13 @@ c) Existam suspeitas graves de que:
 
 i) Praticou crime contra a paz, crime de guerra ou crime contra a humanidade, nos termos dos instrumentos internacionais que estabelecem disposições relativas a estes crimes;
 
-ii) Praticou um crime grave antes da sua chegada ao território do Estado-Membro ou foi condenado por um crime grave após a sua chegada;
+ii) Praticou crime doloso de direito comum punível com pena de prisão superior a três anos fora do território português, antes de ter sido admitido como refugiado;
 
 iii) Praticou atos contrários aos objetivos e princípios das Nações Unidas enunciados no preâmbulo e nos artigos 1.º e 2.º da Carta das Nações Unidas.
 
-d) Represente um perigo para a segurança do Estado-Membro em que se encontra.
+d) Represente perigo ou fundada ameaça para a segurança interna ou externa ou para a ordem pública.
 
-2 - Não pode beneficiar do estatuto de proteção subsidiária o nacional de um país terceiro ou apátrida quando:
+2 - Não pode beneficiar do estatuto de proteção subsidiária o estrangeiro ou apátrida quando:
 
 a) Se verifique alguma das situações a que se refere a alínea c) do número anterior;
 

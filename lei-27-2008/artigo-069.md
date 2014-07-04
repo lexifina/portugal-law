@@ -6,4 +6,4 @@
 
 2 - Aos beneficiários do estatuto de protecção subsidiária, que comprovadamente não possam obter um passaporte nacional, pode ser emitido, mediante requerimento dos interessados, passaporte português para estrangeiro que lhes permita viajar fora do território nacional, a menos que motivos imperiosos de segurança nacional ou de ordem pública exijam o contrário.
 
-3 - A taxa devida pela emissão desses documentos é fixada por portaria do membro do Governo responsável pela área das migrações.
+3 - A taxa devida pela emissão desses documentos é fixada por portaria do membro do Governo responsável pela área da administração interna.

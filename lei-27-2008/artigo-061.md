@@ -1,14 +1,14 @@
 ## Secção V
 
-## Sistema nacional de acolhimento de requerentes e beneficiários de proteção internacional
+## Garantias de eficácia do sistema de acolhimento
 
 # Artigo 61.º
 
 ### Competências
 
-1 - Compete ao Instituto da Segurança Social, IP, garantir aos requerentes de proteção internacional as condições materiais de acolhimento.
+1 - Compete ao ministério responsável pela área da administração interna garantir aos requerentes de asilo ou de proteção subsidiária que se encontrem retidos nos postos de fronteira as condições de alojamento e acesso a cuidados de saúde, assim como a satisfação dos encargos inerentes à concessão das condições materiais de acolhimento, até decisão quanto à admissibilidade do pedido, podendo aquelas ser asseguradas por outras entidades públicas ou particulares sem fins lucrativos, nos termos definidos em protocolo.
 
-2 - As condições materiais de acolhimento podem ser prestadas diretamente ou através de outras entidades públicas, designadamente das regiões autónomas e da administração local, ou de entidades particulares sem fins lucrativos, com as quais seja celebrado protocolo.
+2 - Compete ao ministério responsável pela área da solidariedade, emprego e segurança social suportar os encargos resultantes da atribuição das condições materiais de acolhimento aos requerentes de asilo ou de proteção subsidiária que entrem ou se encontrem em território nacional, desde a admissão do pedido até decisão final sobre o mesmo, as quais podem ser prestadas diretamente ou através de outras entidades públicas ou particulares sem fins lucrativos, com as quais seja celebrado protocolo.
 
 3 - Compete às entidades responsáveis pelo Serviço Nacional de Saúde assegurar o acesso dos requerentes de asilo ou de proteção subsidiária e membros da sua família a cuidados de saúde, nos termos da legislação aplicável.
 

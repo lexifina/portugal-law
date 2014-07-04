@@ -1,8 +1,8 @@
 # Artigo 19.º
 
-### Procedimento de tramitação acelerada
+### Tramitação acelerada
 
-1 - A análise das condições a preencher para beneficiar do estatuto de proteção internacional é sujeita a tramitação acelerada quando se verifique que:
+1 - A análise das condições a preencher para beneficiar do estatuto de proteção internacional é sujeita a tramitação acelerada e o pedido considerado infundado quando se verifique que:
 
 a) O requerente induziu em erro as autoridades, apresentando informações ou documentos falsos ou ocultando informações ou documentos importantes a respeito da sua identidade ou nacionalidade suscetíveis de terem um impacto negativo na decisão;
 
@@ -22,12 +22,6 @@ h) O requerente apresentou o pedido apenas com o intuito de atrasar ou impedir a
 
 i) O requerente representa um perigo para a segurança interna ou para a ordem pública;
 
-j) O requerente recusa sujeitar-se à recolha dos seus dados biométricos, de acordo com o Regulamento (UE) 2024/1358;
-
-k) O requerente for nacional de país terceiro ou, no caso dos apátridas, antigo residente habitual de um país terceiro no qual a percentagem das decisões que concedem proteção internacional é igual ou inferior a 20 %, de acordo com os dados anuais recentes do Eurostat para a média da União Europeia, exceto se o órgão de decisão considerar que ocorreram mudanças significativas no país terceiro em causa desde a publicação desses dados, ou que o requerente pertence a uma categoria de pessoas em relação à qual a percentagem igual ou inferior a 20 % não pode ser considerada como representativa das suas necessidades de proteção, tendo em conta, nomeadamente, diferenças significativas entre a primeira instância e as decisões definitivas;
-
-l) O requerente entrou legalmente em território nacional e, sem motivos válidos, não fez um pedido de proteção internacional logo que possível.
+j) O requerente recusa sujeitar-se ao registo obrigatório das suas impressões digitais de acordo com o Regulamento (UE) n.º 603/2013, do Parlamento Europeu e do Conselho, de 26 de junho, relativo à criação do sistema "Eurodac" de comparação de impressões digitais.
 
 2 - (Revogado.)
-
-3 - O pedido é considerado manifestamente infundado quando, sujeito a este procedimento, se verificar que o requerente não preenche as condições para beneficiar de proteção internacional.

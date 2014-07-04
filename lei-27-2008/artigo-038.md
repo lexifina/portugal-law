@@ -2,4 +2,4 @@
 
 ### Execução da decisão de transferência
 
-Compete à AIMA, I. P., assegurar a execução da transferência do requerente de proteção internacional.
+Compete ao SEF assegurar a execução da transferência do requerente de proteção internacional.

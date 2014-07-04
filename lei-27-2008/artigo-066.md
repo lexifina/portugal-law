@@ -2,4 +2,4 @@
 
 ### Informação
 
-Na notificação de concessão do estatuto de refugiado ou de proteção subsidiária, a AIMA, I. P., informa o beneficiário dos direitos e deveres relativos ao respetivo estatuto, numa língua que este compreenda ou seja razoável presumir que compreenda.
+Na notificação de concessão do estatuto de refugiado ou de proteção subsidiária, o SEF informa o beneficiário dos direitos e deveres relativos ao respetivo estatuto, numa língua que este compreenda ou seja razoável presumir que compreenda.

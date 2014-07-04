@@ -28,14 +28,12 @@ a) Alojamento e alimentação em espécie com o subsídio complementar para desp
 
 b) Alojamento em espécie ou subsídio complementar para alojamento com a prestação pecuniária de apoio social.
 
-4 - Em casos devidamente justificados e por um período razoável, que deve ser o mais curto possível, podem ser estabelecidas condições materiais de acolhimento diferentes das previstas nos números anteriores, sempre que:
+4 - A título excepcional e por um período determinado, podem ser estabelecidas condições materiais de acolhimento diferentes das previstas nos números anteriores, sempre que:
 
 a) Seja necessária uma avaliação inicial das necessidades específicas dos requerentes;
 
-b) (Revogada.)
+b) Na área geográfica onde se encontra o requerente não estejam disponíveis condições materiais de acolhimento previstas no n.º 2;
 
 c) As capacidades de acolhimento disponíveis se encontrem temporariamente esgotadas; ou
 
-d) (Revogada.)
-
-5 - As condições materiais de acolhimento devem, em todo o caso, prover às necessidades básicas.
+d) Os requerentes de asilo ou de protecção subsidiária se encontrem em regime de retenção em posto de fronteira que não disponha de instalações equiparadas a centros de acolhimento.

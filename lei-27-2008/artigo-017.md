@@ -1,11 +1,11 @@
 # Artigo 17.º
 
-### Relatório e gravação da prestação de declarações
+### Relatório
 
-1 - Após a prestação de declarações referida no artigo anterior, a AIMA, IP, elabora um relatório exaustivo e factual que contenha os principais elementos da entrevista pessoal e uma transcrição das declarações prestadas pelo requerente ou da sua gravação, que constituem parte integrante do respetivo processo.
+1 - Após a realização das diligências referidas nos artigos anteriores, o Serviço de Estrangeiros e Fronteiras elabora um relatório escrito do qual constam as informações essenciais relativas ao pedido.
 
-2 - O relatório referido no número anterior é notificado ao requerente para que possa pronunciar-se sobre o mesmo no prazo de três dias, que equivale, para todos os efeitos, a audiência prévia do interessado.
+2 - O relatório referido no número anterior é notificado ao requerente para que o mesmo se possa pronunciar sobre ele no prazo de cinco dias.
 
-3 - [Revogado.]
+3 - O relatório referido no n.º 1 é comunicado ao representante do ACNUR e ao CPR enquanto organização não governamental que atue em seu nome, desde que o requerente tenha dado o seu consentimento, para que aquela organização, querendo, se pronuncie no mesmo prazo concedido ao requerente.
 
-4 - Os motivos da recusa de confirmação do relatório ou da transcrição por parte do requerente são averbados no seu processo, não obstando à decisão sobre o pedido.
+4 - Os motivos da recusa de confirmação do relatório por parte do requerente são averbados no seu processo, não obstando à decisão sobre o pedido.

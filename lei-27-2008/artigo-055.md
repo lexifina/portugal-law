@@ -1,9 +1,7 @@
 # Artigo 55.º
 
-### Cursos de línguas, de educação cívica e de formação vocacional
+### Programas e medidas de emprego e formação profissional
 
-1 - É garantido a todos os requerentes o acesso a cursos de línguas, de educação cívica e de formação vocacional adequados a reforçar a sua capacidade de agir de forma autónoma, interagir com as autoridades competentes ou encontrar trabalho.
+1 - Os requerentes de asilo ou de proteção subsidiária têm acesso a programas e medidas de emprego e formação profissional em condições a estabelecer pelos ministérios que tutelam a área em causa, desde que preencham os requisitos estabelecidos no artigo anterior.
 
 2 - (Revogado.)
-
-3 - Se os requerentes dispuserem de meios suficientes pode ser-lhes exigido que assumam, total ou parcialmente, o custo dos cursos referidos no n.º 1.
