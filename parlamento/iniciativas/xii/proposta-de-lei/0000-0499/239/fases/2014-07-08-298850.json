@@ -1,0 +1,394 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "239",
+    "id": "38584",
+    "titulo": "Estabelece os mecanismos das reduções remuneratórias temporárias e as condições da sua reversão no prazo máximo de  quatro anos."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-07-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "33887",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-07-16",
+            "id": "98156",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-07-16",
+            "id": "98155",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-07-16",
+            "id": "98154",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-07-17",
+            "id": "98159",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-07-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-07-08",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Ana Manuel Jerónimo Lopes Correia Mendes Godinho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259315a6d466a596a55794c546b775a5755744e4746684f5331694e544e6c4c54566d4e6a67794d544d785a44526a595335775a47593d&fich=f5facb52-90ee-4aa9-b53e-5f682131d4ca.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Anabela Saleiro Morais Oliveira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a694d3255784d544d774c54466b4e324d744e444977596931684e6a646d4c5451314e4467784e4467334f54686b5a4335775a47593d&fich=fb3e1130-1d7c-420b-a67f-4548148798dd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Inês Raquel Bazílio Tavares",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526a4f575a6b597a59314c5463774d5449744e44566d4d6931685a6d4e684c5463325954457a4d544d324e47466d4e6935775a47593d&fich=4c9fdc65-7012-45f2-afca-76a131364af6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Inspetores do Trabalho do Centro Local do Alto Minho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249344f47526d596d4e6b4c5455314f5745744e4451785a4331684e574a6c4c575a685a574e684d44466b4d474d784e7935775a47593d&fich=b88dfbcd-559a-441d-a5be-faeca01d0c17.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Joana Amorim",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5269597a6c68597a67784c54426a4e4459744e4749354f5330344d6d4d354c5745774e474a684e5445354e5467784e6935775a47593d&fich=4bc9ac81-0c46-4b99-82c9-a04ba5195816.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de João Neto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426d4e6d46684d5751334c574d35596a6b744e4751794e5331694e7a55334c574e6a596d566c595456694e444132596935775a47593d&fich=0f6aa1d7-c9b9-4d25-b757-ccbeea5b406b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Joel Alexandre Vieira Dias Amorim",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a497a596a566d5a446b344c546c6c4f5759744e445a684d5330354d6a6b334c574978596a4d3159546734596a41314d4335775a47593d&fich=23b5fd98-9e9f-46a1-9297-b1b35a88b050.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de José António Macedo Magalhães",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41354d5449315a54637a4c545269596a41744e4442685a4331685a446c6a4c574668595441775a5463304d575a6b5a5335775a47593d&fich=09125e73-4bb0-40ad-ad9c-aaa00e741fde.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Kátia Solange Calado da Costa e Silva",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6a4d6a6b324e44466a4c5749794e6d51744e446b794e6931684d6d5a684c5451335a6d4d305954566d593249335a6935775a47593d&fich=bc29641c-b26d-4926-a2fa-47fc4a5fcb7f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo de Vera Gaiola",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a517a5a6a46694e3251344c5441324e4751744e44686c5a4331695a5749334c544577595749774e3255344f44426d5a5335775a47593d&fich=43f1b7d8-064d-48ed-beb7-10ab07e880fe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Sindical dos Juízes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249304d6a55775a44497a4c5759784e3249744e4755784d4331684d574d774c574a685a444130596d4d324e4451794d6935775a47593d&fich=b4250d23-f17b-4e10-a1c0-bad04bc64422.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466b596a52685957566b4c5745354d6d51744e4755314f5330344d44677a4c5467794d5451315a6a6c694f446469597935515245593d&fich=1db4aaed-a92d-4e59-8083-82145f9b87bc.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão de Trabalhadores da Autoridade para as Condições do Trabalho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56694e6a6c6c5a544d324c544e6b4d4463744e44466d597930354e5745784c544e6a4d474d324d44426c4e6a41794d5335775a47593d&fich=5b69ee36-3d07-41fc-95a1-3c0c600e6021.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Federação dos Sindicatos de Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466b5a6a5977597a68694c546b7a5a546b744e445a6a595330344e6a46694c5759345a6a646a4d4749314e6a6c685a4335775a47593d&fich=1df60c8b-93e9-46ca-861b-f8f7c0b569ad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FENPROF - Federação Nacional dos Professores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b30596a4d315a546b344c5464684f4441744e4759335a5330354d6d55354c545a694f44646b4e544d794d7a5530596935775a47593d&fich=94b35e98-7a80-4f7e-92e9-6b87d532354b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FEPCES - Federação Portuguesa dos Sindicatos do Comércio, Escritórios e Serviços de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6c4d3255794d4751784c545a694e5449744e47526c59693168596a56694c544d795a5441304e6a5130596d526d5a5335775a47593d&fich=9e3e20d1-6b52-4deb-ab5b-32e04644bdfe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Frente Comum de Sindicatos da Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245784d7a4d774d44637a4c5759784e7a49744e4755305a6930354e6a4d7a4c5759304e4455304d5745795a546735595335775a47593d&fich=a1330073-f172-4e4f-9633-f44541a2e89a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Frente Sindical da Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259304e4745355a444d324c5445794e3251744e4451334e4331684d7a4a694c5445794d4455354d4451784e32466a4d5335515245593d&fich=f44a9d36-127d-4474-a32b-120590417ac1.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da UGT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4134596a5a6b4e4459354c5752695a5463744e47566a4d433034596a4d774c5749315a6d56694d6d4d324d3256694d4335775a47593d&fich=08b6d469-dbe7-4ec0-8b30-b5feb2c63eb0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos de Aveiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6b4e6a5932596d4e6b4c54566b596a41744e4464694d6930344f57466b4c546b334e3249354e4759334e474a6a596935775a47593d&fich=fd666bcd-5db0-47b2-89ad-977b94f74bcb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos de Coimbra",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d79596a6868597a45344c5759304d544d744e4467334e7931684f5451304c5749784f446b784f5467314d6a426d4e6935775a47593d&fich=32b8ac18-f413-4877-a944-b189198520f6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos de Setúbal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d33595464695a5467334c5445794e5459744e4759784f5331684f446c6b4c57517a4d544d7a4d6d45354d6a457a5a4335775a47593d&fich=37a7be87-1256-4f19-a89d-d31332a9213d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da União dos Sindicatos do Distrito de Braga",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5930593245344e44426c4c545a684f5449744e4755324e6931684e546c684c545a685a5749304f444d345a544e6d5a6935775a47593d&fich=64ca840e-6a92-4e66-a59a-6aeb4838e3ff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do CESP - Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255794d4756685a6a59334c574a694e4463744e4749784e793169596a646b4c54426b5a44526a4d3255354d6a46684e6935775a47593d&fich=e20eaf67-bb47-4b17-bb7d-0dd4c3e921a6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Funcionários Parlamentares",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59354e6a51334f545a6d4c5463344e5751744e47597a59533034596d55354c5752685a444d31597a55315a446468596935515245593d&fich=6964796f-785d-4f3a-8be9-dad35c55d7ab.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Quadros Técnicos do Estado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686c4e7a646d596d45794c5459304f5463744e4759354d7930344d546c6c4c54497a595459344e5759335a5455774e6935775a47593d&fich=8e77fba2-6497-4f93-819e-23a685f7e506.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores da Aviação e Aeroportos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d784d54417a5a6d4a684c5441784f5445744e4445344d533034595759794c544a6a5a5445324f475a6c5a446335595335775a47593d&fich=c1103fba-0191-4181-8af2-2ce168fed79a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores da Indústria Vidreira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566b4e544d795a474d354c544d794f5449744e444135595331694d44417a4c54517a5a6d51304f4451314e544e6b4d5335775a47593d&fich=ed532dc9-3292-409a-b003-43fd484553d1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores das Indústrias Transformadoras, Energia e Actividades do Ambiente do Centro Sul e Regiões Autónomas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63314d6a67354f5463314c54566d4e3245744e44497a4d4331694f4751344c546b354e325a6a4d7a45325a47597a4d4335775a47593d&fich=75289975-5f7a-4230-b8d8-997fc316df30.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores de Comunicações e Comunicação Audiovisual",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41305a546c68595463774c5459314d6d51744e44637a5a6930344d5755784c5451354e444a6c4f57557a4e6d49304d6935775a47593d&fich=04e9aa70-652d-473f-81e1-4942e9e36b42.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores de Transportes Rodoviários e Urbanos de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325534596d49354e32566d4c54677a4d4455744e446b335a5330355a5751774c54497a4e324932595749795a5441334d4335775a47593d&fich=e8bb97ef-8305-497e-9ed0-237b6ab2e070.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores dos Registos e do Notariado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d774d5759794e32526b4c5751774f4467744e4759314e7931694e546b774c5749304d444d774e6a566d5a5752694d5335775a47593d&fich=301f27dd-d088-4f57-b590-b403065fedb1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores em Funções Públicas e Sociais do Centro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51334e54526959574a6a4c57517a4e3249744e47466d4e4331684f4459324c5745325a474d775a5755785932457a596935775a47593d&fich=4754babc-d37b-4af4-a866-a6dc0ee1ca3b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato Nacional dos Trabalhadores do Sector Ferroviário",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d354f574e6a4d4451324c5441344d5451744e4759774f433034597a64684c545a6c5a4463774e6a55314d54566c5a6935775a47593d&fich=c99cc046-0814-4f08-8c7a-6ed7065515ef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STAL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6d4e4467324d324e684c574d304d5449744e4456685a4331684f4445354c5451775a4442694f444d344e6d597a4e6935775a47593d&fich=3f4863ca-c412-45ad-a819-40d0b8386f36.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do STEC - Sindicato dos Trabalhadores das Empresas do Grupo Caixa Geral de Depósitos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325934597a6b7a4e6a566c4c5459344f5759744e4445784e7930344f5441774c5755324f544e6a4d4746685a6d59304f5335775a47593d&fich=f8c9365e-689f-4117-8900-e693c0aaff49.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo Grupo Parlamentar do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6c4d7a4d33596a51774c5752694e5455744e444a6b595331694e47526d4c5451304d574a694e444d324e6d466c595335775a47593d&fich=be337b40-db55-42da-b4df-441bb4366aea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo Grupo Parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249304d7a41304d57566d4c5745314e5441744e44686d4f4331694d474e694c5451334d57466b595749354e6d466d4f4335775a47593d&fich=b43041ef-a550-48f8-b0cb-471adab96af8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos Grupos Parlamentares do PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249794e546c6b593245794c5452684e4467744e4459334d43303559546b304c575a694e3249775a6a4e6a597a426c5a4335775a47593d&fich=b259dca2-4a48-4670-9a94-fb7b0f3cc0ed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-24",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo da Proposta de Lei com as propostas de alteração",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259314e6d55304e474a6a4c54686b596d49744e44457a4d4330344d7a566c4c5759314e6a6b774e4745324d7a51335a5335775a47593d&fich=f56e44bc-8dbb-4130-835e-f56904a6347e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-28",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c684d6d4933596a63324c5751314e3245744e44426c4d4330344e4449334c574a6b595455354e574a694d5455304e6935515245593d&fich=9a2b7b76-d57a-40e0-8427-bda595bb1546.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-07-25",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249345a47517a4d444a694c544a6b5a4451744e444e6a4e4330344e7a59344c5451334f544d32596a4e6b597a6335596935515245593d&fich=b8dd302b-2dd4-43c4-8768-47936b3dc79b.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD/CDS-PP, PCP e BE",
+            "pag": [
+              "21-34"
+            ],
+            "pagFinalDiarioSupl": "3º Supl.",
+            "pubdt": "2014-07-25",
+            "pubLeg": "XII",
+            "pubNr": "149",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "3º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/149S3/2014-07-25/21?pgs=21-34&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD/CDS-PP, PCP e BE",
+            "pag": [
+              "21-34"
+            ],
+            "pagFinalDiarioSupl": "3º Supl.",
+            "pubdt": "2014-07-25",
+            "pubLeg": "XII",
+            "pubNr": "149",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "3º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/03/149S3/2014-07-25/21?pgs=21-34&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2014-07-08",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298850",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
