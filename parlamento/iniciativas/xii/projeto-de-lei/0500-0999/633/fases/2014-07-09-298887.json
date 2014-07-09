@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "633",
+    "id": "38587",
+    "titulo": "Procede à 21.ª alteração ao Código de Processo Penal, promovendo a proteção de vítimas de violência doméstica instituindo procedimento para a regulação provisória das responsabilidades parentais com atribuição provisória de pensão de alimentos e permitindo o afastamento do agressor."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2014-07-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "33892",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-07-16",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-07-09",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-01-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Portuguesa para a Igualdade Parental e Direitos dos Filhos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a6a4535595459344e79316a4e4455774c5451324e575174595459304e7930304e4749794d324e6d4d444578595749756347526d&fich=af19a687-c450-465d-a647-44b23cf011ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-08-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d575a6a4f4446684e43316b4d6a4e6b4c54517a4f444974596a59345a6931694e325132593249314d574a694e544d756347526d&fich=a1fc81a4-d23d-4382-b68f-b7d6cb51bb53.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-09-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5459794d574d7a5a433033595445774c545132593251744f544e6b5a53316b5a6a6b32593255355a6a5a6b4d6a45756347526d&fich=a1621c3d-7a10-46cd-93de-df96ce9f6d21.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-09-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e57517a4e3255774e7930344d47526d4c5451304d474d744f5468684e5330344e7a56695a6a6b794f4745355a6a6b756347526d&fich=f5d37e07-80df-440c-98a5-875bf928a9f9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Procuradoria-Geral da República (07-10-2014)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f575532596a59785a6930355a6d49314c5452695a474d744f4746694d693168597a466a4e6d4d314d4467774f4449756347526d&fich=59e6b61f-9fb5-4bdc-8ab2-ac1c6c508082.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-09-24",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a6a517a4d54466b597930334f5749774c5451314e7a59745954497a4d53307a5a546c694e4751304d6a646c4e4751756347526d&fich=3f4311dc-79b0-4576-a231-3e9b4d427e4d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2014-09-18"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2014-08-08"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2014-09-16"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2014-07-16"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2014-07-16"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2014-07-16"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-09-24",
+            "pubLeg": "XII",
+            "pubNr": "7",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/007/2014-09-24/2?pgs=2-21&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-09-24",
+            "pubLeg": "XII",
+            "pubNr": "7",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/007/2014-09-24/2?pgs=2-21&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "4289",
+            "motivoCessacao": null,
+            "nome": "Teresa Anjinho"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2014-09-24",
+            "dataRemessa": "2014-09-24",
+            "numeroOficio": "936/XII/1.ª - CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2014-09-24",
+            "descricao": null,
+            "detalhe": null,
+            "id": "67397",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "258",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-07-09",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "298887",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
