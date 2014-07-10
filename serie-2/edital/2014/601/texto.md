@@ -1,0 +1,7 @@
+Edital n.º 601/2014
+Apreciação pública do projeto de Regulamento do Serviço de Abastecimento Público de Água do Município de Alcoutim
+Osvaldo dos Santos Gonçalves, presidente da Câmara Municipal de Alcoutim, torna público, de harmonia com a deliberação do órgão executivo, tomada na sua reunião realizada em 25 de junho de 2014 e nos termos do disposto nos artigos 117.º e 118.º do Código do Procedimento Administrativo, que o projeto de Regulamento do Serviço de Abastecimento Público de Água do Município de Alcoutim encontra-se em apreciação pública, durante 30 dias, a contar da data de publicação do presente edital no Diário da República.
+O referido projeto de regulamento encontra-se disponível para consulta na Divisão de Obras, Planeamento e Gestão Urbanística, Equipamentos, Ambiente e Serviços Urbanos, Rua de D. Fernando, 2, 8970-068 Alcoutim, todos os dias úteis e durante o horário normal de expediente, onde os interessados poderão apresentar por escrito, dirigidas ao presidente da Câmara Municipal, ou enviar por via postal para Rua do Município, 12, 8970-066 Alcoutim, por fax: 281546363 ou e-mail: geral@cm-alcoutim.pt, durante o referido prazo, as observações ou sugestões que entenderem por convenientes.
+Para constar e devidos efeitos se publica o presente edital e outros de igual teor, que além do Diário da República e do sítio eletrónico deste Município (www.cm-alcoutim.pt), vão ser afixados nos lugares públicos do costume.
+27 de junho de 2014. - O Presidente da Câmara, Osvaldo dos Santos Gonçalves.
+307929523
