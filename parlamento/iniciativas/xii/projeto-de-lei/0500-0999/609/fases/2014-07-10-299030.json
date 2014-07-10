@@ -1,0 +1,93 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "609",
+    "id": "38491",
+    "titulo": "Alteração da denominação da freguesia de \"Sande e São Lourenço\", no município do Marco de Canaveses, para \"Sande e São Lourenço do Douro\".."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-07-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16362",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-07-10",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38069",
+        "leg": "XII",
+        "nr": "472",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Limites territoriais entre os concelhos de Sesimbra e do Seixal, no distrito de Setúbal."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38490",
+        "leg": "XII",
+        "nr": "608",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Alteração da denominação da freguesia de \"Livração\", no município do Marco de Canaveses, para \"Santo Isidoro e Livração\".."
+      },
+      {
+        "autor": "PSD, CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38495",
+        "leg": "XII",
+        "nr": "613",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Alteração da denominação da \"União das Freguesias de Gouveia (São Pedro e São Julião)\", no município de Gouveia, para \"Gouveia\"."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38559",
+        "leg": "XII",
+        "nr": "623",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Alteração da designação da Freguesia da União das Freguesias de Gouveia (São Pedro e São Julião), no município de Gouveia, para Freguesia de Gouveia"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-07-10",
+        "oradores": null
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Consta da Agenda da Reunião Plenária S/Tempos.",
+    "OevId": "299030",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
