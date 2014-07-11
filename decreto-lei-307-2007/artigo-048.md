@@ -32,7 +32,7 @@ m) A abertura, ou o funcionamento, de postos farmacêuticos móveis em violaçã
 
 2 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação muito grave, punível com coima de (euro) 2000 a (euro) 3740 ou de (euro) 2000 a (euro) 44 890, consoante o agente seja pessoa singular ou coletiva, o facto de:
 
-a) A propriedade da farmácia pertencer a pessoa coletiva que não assuma a forma de sociedade comercial ou que não adote o regime fiscal das sociedades comerciais, em violação do n.º 1 ou do n.º 3 do artigo 14.º, sem prejuízo do disposto no artigo 59.º-A;
+a) (Revogada);
 
 b) As ações da sociedade comercial proprietária da farmácia, ou de sociedade que direta ou indiretamente participe no capital daquela, não serem nominativas, em violação do n.º 2 do artigo 14.º
 

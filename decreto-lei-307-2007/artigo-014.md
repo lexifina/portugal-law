@@ -10,4 +10,4 @@
 
 2 - São obrigatoriamente nominativas as ações representativas do capital das sociedades comerciais proprietárias de farmácias, bem como das que participem, direta ou indiretamente, no capital de sociedades proprietárias de farmácias.
 
-3 - As entidades do sector social da economia podem ser proprietárias de farmácias desde que cumpram o disposto no presente decreto-lei e demais normas regulamentares que o concretizam, bem como o regime fiscal aplicável às pessoas colectivas referidas no n.º 1.
+3 - As entidades do sector social da economia podem ser proprietárias de farmácias nos termos previstos no artigo 59.º-A desde que cumpram o disposto no presente decreto-lei e demais normas regulamentares que o concretizam.
