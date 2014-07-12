@@ -14,13 +14,15 @@ b) Proceder à elaboração dos instrumentos de planeamento integrado e de inves
 
 a) O apoio técnico e administrativo nas áreas do planeamento, comunicação, qualificação e inovação, do desenvolvimento e gestão de recursos humanos, da execução orçamental e contabilística, da negociação, aprovisionamento e logística, da consultadoria jurídica e do contencioso, da documentação e arquivo, assim como da informação, comunicação e relações públicas;
 
-b) No quadro do exercício de funções transversais, e sem prejuízo das competências cometidas à DGIE:
+b) No quadro do exercício de funções transversais:
 
 i) Assegurar a gestão dos contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados;
 
 ii) Assegurar a centralização e desmaterialização dos procedimentos de contratação pública, exercendo as funções de unidade ministerial de compras;
 
-c) Assegurar os demais procedimentos de aquisições de bens e serviços para as forças de segurança e restantes serviços do MAI em aquisições superiores a sessenta mil euros.
+c) Assegurar os procedimentos de contratação pública para as forças e serviços de segurança e demais serviços do MAI, em aquisições superiores a (euro) 150 000;
+
+d) Acompanhar e apoiar a política de instalações das forças e serviços de segurança e demais serviços do MAI, manter atualizado o respetivo recenseamento e centralizar a informação relativa ao património daquele ministério.
 
 4 - A SG prossegue, designadamente, as seguintes atribuições no âmbito da gestão técnica, administrativa e financeira de programas, fundos comunitários e outros financiamentos internacionais:
 
@@ -66,6 +68,16 @@ b) Assegurar o recenseamento eleitoral e organizar, manter e gerir a respetiva b
 
 c) Difundir informação pública sobre o sistema e os atos eleitorais, manter atualizado e disponibilizar ao público um sistema de informação dos resultados eleitorais, bem como promover a participação eleitoral e proceder a estudos em matéria eleitoral.
 
-8 - Compete à SG assegurar a prossecução de quaisquer outras atribuições, ações e atividades que lhe sejam cometidas por lei ou por determinação superior, bem como, no quadro das atribuições de caráter genérico e transversais, designadamente, instruir os processos de concessão de passaporte especial e os referentes à concessão de mercês honoríficas.
+8 - A SG prossegue, designadamente, as seguintes atribuições no âmbito da gestão dos sistemas de informação e de comunicação do MAI:
 
-9 - A SG é dirigida por um secretário-geral, coadjuvado por três secretários-gerais adjuntos, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+a) Estudar e planear a arquitetura dos sistemas de informação e de comunicações e coordenar a gestão dos sistemas existentes nas forças e serviços de segurança e demais serviços do MAI;
+
+b) Garantir a gestão, coordenação e modernização dos sistemas de informação e de comunicação utilizados pelas forças e serviços de segurança e demais serviços do MAI;
+
+c) Gerir e assegurar o bom funcionamento dos instrumentos de operacionalização do número europeu de emergência 112, em articulação com as forças de segurança, a ANPC e o Instituto Nacional de Emergência Médica;
+
+d) Assegurar o apoio técnico ao utilizador na área das tecnologias da informação e comunicações.
+
+9 - Compete à SG assegurar a prossecução de quaisquer outras atribuições, ações e atividades que lhe sejam cometidas por lei ou por determinação superior, bem como, no quadro das atribuições de caráter genérico e transversais, designadamente, instruir os processos de concessão de passaporte especial e os referentes à concessão de mercês honoríficas.
+
+10 - A SG é dirigida por um secretário-geral, coadjuvado por quatro secretários-gerais adjuntos, cargos de direção superior de 1.º e 2.º graus, respetivamente.

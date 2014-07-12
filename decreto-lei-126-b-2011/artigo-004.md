@@ -20,4 +20,4 @@ b) A Inspecção-Geral da Administração Interna;
 
 c) Revogada;
 
-d) A Direcção-Geral de Infra-Estruturas e Equipamentos.
+d) Revogada.
