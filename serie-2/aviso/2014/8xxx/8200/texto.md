@@ -1,0 +1,4 @@
+Aviso n.º 8200/2014
+Na sequência do Aviso n.º 4532/2014, publicado no Diário da República, 2.ª série, n.º 65, de 2 de abril de 2014, torna-se público que, em sessão da Assembleia de Freguesia, realizada em 30 de junho do corrente ano, sob proposta da União das Freguesias de Venda do Pinheiro e Santo Estêvão das Galés, e após ter decorrido o prazo para apreciação pública, nos termos do artigo 118.º do Código do Procedimento Administrativo, foi aprovado, o Regulamento Das Normas de Apoio ao Movimento Associativo, o qual entrará em vigor no primeiro dia útil após a sua publicitação, com o conteúdo constante da citada publicação, de 2 de abril de 2014.
+4 de julho de 2014. - O Presidente da União das Freguesias de Venda do Pinheiro e Santo Estêvão das Galés, Jorge Manuel Zeferino Lourenço.
+307941973
