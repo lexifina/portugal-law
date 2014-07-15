@@ -1,0 +1,547 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12539",
+  "numero": "414",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-07-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-09-23",
+            "entidades": null,
+            "id": "98460",
+            "tipo": null,
+            "titulo": "Audição em 2014-09-23 com Peticionários, Sindicato dos Professores da Região Centro"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-07-28",
+            "dataResposta": "2014-07-29",
+            "entidades": [
+              "ANMP - Associação Nacional dos Municípios Portugueses"
+            ],
+            "nrOficio": "325/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-07-28",
+            "dataResposta": "2014-07-31",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "326/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-07-28",
+            "dataResposta": "2014-09-09",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "327/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-09-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-07-25",
+        "DataArquivo": "2014-09-30",
+        "DataBaixaComissao": "2014-07-15",
+        "DataEnvioPAR": "2014-10-02",
+        "DataReaberta": "2014-07-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-07-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45354d6d5269596a49354c5745315a6d4d744e44497a4d5331694f4452684c5456684e574e695a47526d4e7a4d304e7935775a47593d&fich=192dbb29-a5fc-4231-b84a-5a5cbddf7347.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-07-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b354d5463795a574d774c5468684d3249744e474d324f5331684e7a677a4c546c694e6d566d5a4751304e6a4d304d7935775a47593d&fich=99172ec0-8a3b-4c69-a783-9b6efdd46343.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-07-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67304f575930597a63334c545977597a59744e446c6a596931694e4468694c54466a5a57566c4e474d774e7a45344d5335775a47593d&fich=849f4c77-60c6-49cb-b48b-1ceee4c07181.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-07-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59355a6a41354f54526b4c574d794f5759744e47526d5a5331694e47557a4c545a6b5a54566a59574d774d7a67345a4335775a47593d&fich=69f0994d-c29f-4dfe-b4e3-6de5cac0388d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-10-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45304e47457a5a5745774c5746684e324d744e4467334d4330344e6a63354c546b34596d566c5a54566859546b304f5335775a47593d&fich=144a3ea0-aa7c-4870-8679-98beee5aa949.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-08-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3246694f544d344f5463794c5441324e4455744e4441354d5330354d5449774c544a6a4d5459354d5441784d6a4a6b4e7935775a47593d&fich=ab938972-0645-4091-9120-2c16910122d7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a51314e7a45775954517a4c5467345a5749744e4745774e6931694d3245784c54677a4d6a4e6b5a6d59324e5745334d5335775a47593d&fich=45710a43-88eb-4a06-b3a1-8323dff65a71.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-09-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249794d7a41774d546b344c546b354d6d59744e445579595330355a6d4e684c5755324e4449354f4459794e54526c4d7935775a47593d&fich=b2300198-992f-452a-9fca-e642986254e3.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-07-25",
+            "gp": "PS",
+            "id": "4321",
+            "motivoCessacao": null,
+            "nome": "Rui Pedro Duarte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2014-12-17",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-07-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59784d6a42695a544d794c544269596a45744e47566d4e7931694d4441794c5751314d32526d4f4745774e5445314d6935775a47593d&fich=6120be32-0bb1-4ef7-b002-d53df8a05152.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "38840",
+      "38849"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2014-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:32:49:315&drc=00:02:35:617"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:54:13:649&drc=00:01:13:190"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39",
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-12-18",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/031/2014-12-18/39?pgs=39,44&org=PLC"
+              }
+            ],
+            "Sumario": "Racionalização dos contratos de associação na rede escolar garantindo a utilização da capacidade instalada nas escolas públicas; Por uma Escola Pública que cubra as necessidades de toda a população; Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Castelo Branco); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Leiria); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Faro); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Coimbra); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Viseu).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:35:31:560&drc=00:02:46:666"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:55:29:026&drc=00:02:19:247"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40",
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-12-18",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/031/2014-12-18/39?pgs=39-40,44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Racionalização dos contratos de associação na rede escolar garantindo a utilização da capacidade instalada nas escolas públicas; Por uma Escola Pública que cubra as necessidades de toda a população; Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Castelo Branco); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Leiria); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Faro); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Coimbra); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Viseu).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:38:21:984&drc=00:03:47:576"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-12-18",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/031/2014-12-18/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Racionalização dos contratos de associação na rede escolar garantindo a utilização da capacidade instalada nas escolas públicas; Por uma Escola Pública que cubra as necessidades de toda a população; Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Castelo Branco); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Leiria); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Faro); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Coimbra); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Viseu).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:42:12:478&drc=00:04:23:784"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-12-18",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/031/2014-12-18/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Racionalização dos contratos de associação na rede escolar garantindo a utilização da capacidade instalada nas escolas públicas; Por uma Escola Pública que cubra as necessidades de toda a população; Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Castelo Branco); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Leiria); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Faro); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Coimbra); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Viseu).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:46:39:229&drc=00:03:18:650"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-12-18",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/031/2014-12-18/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Racionalização dos contratos de associação na rede escolar garantindo a utilização da capacidade instalada nas escolas públicas; Por uma Escola Pública que cubra as necessidades de toda a população; Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Castelo Branco); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Leiria); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Faro); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Coimbra); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Viseu).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2014-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141217pln&url=l12/sl4/a2014/m12/&tI=02:50:00:111&drc=00:04:10:607"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "196638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-12-18",
+                "pubLeg": "XII",
+                "pubNr": "31",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/031/2014-12-18/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Racionalização dos contratos de associação na rede escolar garantindo a utilização da capacidade instalada nas escolas públicas; Por uma Escola Pública que cubra as necessidades de toda a população; Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Castelo Branco); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Leiria); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Faro); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Coimbra); Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Viseu).",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12539",
+    "PetAssunto": "Moralizar a utilização de dinheiros públicos. Pôr fim aos privilégios do ensino privado. Em defesa da escola pública de qualidade (Distrito de Coimbra).",
+    "PetDataEntrada": "2014-07-15",
+    "PeticoesAssociadas": null,
+    "PetId": "12539",
+    "PetLeg": "XII",
+    "PetNr": "414",
+    "PetNrAssinaturas": "4451",
+    "PetNrAssinaturasInicial": "4451",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1948",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-12-18",
+        "pubLeg": "XII",
+        "pubNr": "31",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/031/2014-12-18?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "691881",
+        "obs": null,
+        "pag": [
+          "3-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-08-02",
+        "pubLeg": "XII",
+        "pubNr": "61",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/061/2014-08-02/3?pgs=3-5&org=PLC"
+      }
+    ]
+  }
+}
