@@ -1,0 +1,6 @@
+Edital n.º 624/2014
+Alteração ao Regulamento de Urbanização e Edificação do Município de Pinhel e ao Regulamento de Liquidação, Pagamento e Cobranças de Taxas de Urbanização e Edificação do Município de Pinhel.
+Rui Manuel Saraiva Ventura, Presidente da Câmara Municipal de Pinhel, torna público nos termos e para os efeitos do disposto no artigo 56.º da Lei n.º 75/2013 m de 12 de setembro e no uso das competências que são conferidas nos termos da alínea c) n.º 1 artigo 35.º da mesma lei, que foi aprovado em sessão da Assembleia Municipal, realizada em 26 de junho de 2014, sob proposta da Câmara de 17 de junho de 2014, a Alteração ao Regulamento de Urbanização e Edificação do Município de Pinhel e ao Regulamento de Liquidação, Pagamento e Cobrança de Taxas de Urbanização e Edificação do Município de Pinhel, publicado no Diário da República por edital n.º 3791/2014, 2.ª série de 18 de março.
+As alterações ao Regulamento em referência, entra em vigor no dia seguinte à publicação do presente Edital no Diário da República, e encontra-se agora disponível, na sua versão final, no site da Câmara Municipal de Pinhel em www.com-pinhel.pt, onde poderá ser consultado e descarregado.
+4 de julho de 2014. - O Presidente da Câmara, Rui Manuel Saraiva Ventura.
+307941381
