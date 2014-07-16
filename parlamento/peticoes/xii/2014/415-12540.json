@@ -1,0 +1,491 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12540",
+  "numero": "415",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-07-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-10-08",
+            "entidades": null,
+            "id": "98538",
+            "tipo": null,
+            "titulo": "Audição em 2014-10-08 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-07-28",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "329/CECC/2014",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2014-09-18",
+                "dataResposta": "2014-09-18",
+                "nrOficio": "Email",
+                "oficioResposta": "4033"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-10-13",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "713388",
+                "obs": null,
+                "pag": [
+                  "6-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-25",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/008/2014-10-25/6?pgs=6-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-07-25",
+        "DataArquivo": "2014-10-15",
+        "DataBaixaComissao": "2014-07-22",
+        "DataEnvioPAR": "2014-10-22",
+        "DataReaberta": "2014-07-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-07-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a56684e7a52685a6a51354c5756694d6a63744e4449314e5330344d6a67324c5463794d545a684e4463794f4449324d6935775a47593d&fich=5a74af49-eb27-4255-8286-7216a4728262.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-07-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6d5a4463334d4459774c54637a593245744e446b31595330354e574d774c544e6a596a6b30596a466a4e6a566c4d6935775a47593d&fich=cfd77060-73ca-495a-95c0-3cb94b1c65e2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-09-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a684e546c6a5a6d4e694c575a694d4759744e444d354e5331684d6a63344c5455795a6d5a694e4455324f4459334e4335775a47593d&fich=fa59cfcb-fb0f-4395-a278-52ffb4568674.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-10-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259784e444d344f4455314c5759784e546b744e4451794e6930344e574d304c54526b4e4445354d544a6c5a54677a4f4335775a47593d&fich=f1438855-f159-4426-85c4-4d41912ee838.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-09-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32497a5a6d4d7a5a5451354c5751304f5441744e4755344e4331694d6a4e684c54426a5a445a6a4d6d526c4e6d526c4e5335775a47593d&fich=b3fc3e49-d490-4e84-b23a-0cd6c2de6de5.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-07-25",
+            "gp": "PSD",
+            "id": "4146",
+            "motivoCessacao": null,
+            "nome": "Margarida Almeida"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-02-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-07-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41305a6a4d7a4e7a6c6c4c54566a596d55744e4755794e6931694f544a6d4c5446694d3251784f545a6d4f545133596935775a47593d&fich=04f3379e-5cbe-4e26-b92f-1b3d196f947b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38979",
+      "38984"
+    ],
+    "Iniciativasoriginadas": [
+      "38979",
+      "38981",
+      "38983",
+      "38984"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-02-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150205pln&url=l12/sl4/a2015/m02/&tI=02:28:31:453&drc=00:02:58:643"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150205pln&url=l12/sl4/a2015/m02/&tI=02:46:17:372&drc=00:00:51:183"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41",
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-06",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/046/2015-02-06/40?pgs=40-41,45&org=PLC"
+              }
+            ],
+            "Sumario": "Aplicação das recomendações do Conselho Nacional de Educação relativamente ao enquadramento legal da educação especial; Em defesa da Escola Pública Inclusiva para todos; Recomenda ao Governo a revisão da Portaria n.º 275-A/2012, de 11 de setembro, garantindo a continuidade do percurso escolar no ensino secundário dos alunos com necessidades educativas especiais; Recomenda ao Governo a avaliação da Portaria n.º 275-A/2012, de 11 de setembro, nomeadamente no que respeita à composição das turmas, à distribuição da carga horária entre escola e instituição e ao impacto das suas premissas na efetiva integração do aluno na vida pós-escolar; Defendem a inclusão de todos os alunos com Necessidades Educativas Especiais (NEE's) e/ou deficiência, no sistema educativo português e pretendem a revogação da Portaria n.º 275-A/2012.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150205pln&url=l12/sl4/a2015/m02/&tI=02:31:33:693&drc=00:03:26:953"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-06",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/046/2015-02-06/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Aplicação das recomendações do Conselho Nacional de Educação relativamente ao enquadramento legal da educação especial; Em defesa da Escola Pública Inclusiva para todos; Recomenda ao Governo a revisão da Portaria n.º 275-A/2012, de 11 de setembro, garantindo a continuidade do percurso escolar no ensino secundário dos alunos com necessidades educativas especiais; Recomenda ao Governo a avaliação da Portaria n.º 275-A/2012, de 11 de setembro, nomeadamente no que respeita à composição das turmas, à distribuição da carga horária entre escola e instituição e ao impacto das suas premissas na efetiva integração do aluno na vida pós-escolar; Defendem a inclusão de todos os alunos com Necessidades Educativas Especiais (NEE's) e/ou deficiência, no sistema educativo português e pretendem a revogação da Portaria n.º 275-A/2012.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150205pln&url=l12/sl4/a2015/m02/&tI=02:35:07:241&drc=00:03:23:542"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-06",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/046/2015-02-06/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Aplicação das recomendações do Conselho Nacional de Educação relativamente ao enquadramento legal da educação especial; Em defesa da Escola Pública Inclusiva para todos; Recomenda ao Governo a revisão da Portaria n.º 275-A/2012, de 11 de setembro, garantindo a continuidade do percurso escolar no ensino secundário dos alunos com necessidades educativas especiais; Recomenda ao Governo a avaliação da Portaria n.º 275-A/2012, de 11 de setembro, nomeadamente no que respeita à composição das turmas, à distribuição da carga horária entre escola e instituição e ao impacto das suas premissas na efetiva integração do aluno na vida pós-escolar; Defendem a inclusão de todos os alunos com Necessidades Educativas Especiais (NEE's) e/ou deficiência, no sistema educativo português e pretendem a revogação da Portaria n.º 275-A/2012.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150205pln&url=l12/sl4/a2015/m02/&tI=02:38:37:477&drc=00:03:34:522"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-06",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/046/2015-02-06/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Aplicação das recomendações do Conselho Nacional de Educação relativamente ao enquadramento legal da educação especial; Em defesa da Escola Pública Inclusiva para todos; Recomenda ao Governo a revisão da Portaria n.º 275-A/2012, de 11 de setembro, garantindo a continuidade do percurso escolar no ensino secundário dos alunos com necessidades educativas especiais; Recomenda ao Governo a avaliação da Portaria n.º 275-A/2012, de 11 de setembro, nomeadamente no que respeita à composição das turmas, à distribuição da carga horária entre escola e instituição e ao impacto das suas premissas na efetiva integração do aluno na vida pós-escolar; Defendem a inclusão de todos os alunos com Necessidades Educativas Especiais (NEE's) e/ou deficiência, no sistema educativo português e pretendem a revogação da Portaria n.º 275-A/2012.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-02-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150205pln&url=l12/sl4/a2015/m02/&tI=02:42:18:159&drc=00:03:55:074"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-06",
+                "pubLeg": "XII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/046/2015-02-06/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Aplicação das recomendações do Conselho Nacional de Educação relativamente ao enquadramento legal da educação especial; Em defesa da Escola Pública Inclusiva para todos; Recomenda ao Governo a revisão da Portaria n.º 275-A/2012, de 11 de setembro, garantindo a continuidade do percurso escolar no ensino secundário dos alunos com necessidades educativas especiais; Recomenda ao Governo a avaliação da Portaria n.º 275-A/2012, de 11 de setembro, nomeadamente no que respeita à composição das turmas, à distribuição da carga horária entre escola e instituição e ao impacto das suas premissas na efetiva integração do aluno na vida pós-escolar; Defendem a inclusão de todos os alunos com Necessidades Educativas Especiais (NEE's) e/ou deficiência, no sistema educativo português e pretendem a revogação da Portaria n.º 275-A/2012.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12540",
+    "PetAssunto": "Defendem a inclusão de todos os alunos com Necessidades Educativas Especiais (NEE's) e/ou deficiência, no sistema educativo português e pretendem a revogação da Portaria n.º 275-A/2012.",
+    "PetDataEntrada": "2014-07-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12540",
+    "PetLeg": "XII",
+    "PetNr": "415",
+    "PetNrAssinaturas": "6275",
+    "PetNrAssinaturasInicial": "6275",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "1976",
+        "obs": null,
+        "pag": [
+          "40-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-02-06",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/046/2015-02-06/40?pgs=40-45&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "691882",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-08-02",
+        "pubLeg": "XII",
+        "pubNr": "61",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/03/061/2014-08-02/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
