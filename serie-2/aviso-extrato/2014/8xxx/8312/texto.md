@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 8312/2014
+Manuel Joaquim Oliveira Faria Bolieiro, Presidente da União das Freguesias de Salvaterra de Magos e Foros de Salvaterra, torna público que, nos termos e para os efeitos dos artigos 130.º e 131.º do Código do Procedimento Administrativo, que o Regulamento dos Cemitérios da União das Freguesias de Salvaterra de Magos e Foros de Salvaterra, foi aprovado pela Assembleia de Freguesia da União das Freguesias de Salvaterra de Magos e Foros de Salvaterra, em sessão ordinária de 30 de junho de 2014, sob proposta do Executivo da Junta de Freguesia, em reunião de 24 de junho 2014, tendo o projeto do referido Regulamento sido publicitado na 2.ª série do Diário da República n.º 91, de 13 de maio de 2014, e submetido a apreciação pública nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo.
+3 de julho de 2014. - O Presidente da Junta, Manuel Joaquim Oliveira Faria Bolieiro.
+307938458
