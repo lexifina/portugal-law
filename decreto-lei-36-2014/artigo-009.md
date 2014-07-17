@@ -6,7 +6,7 @@
 
 ### Propinas
 
-Sem prejuízo do disposto no n.º 5 do artigo 8.º-A, nas instituições de ensino superior públicas, as propinas de inscrição dos estudantes internacionais:
+Nas instituições de ensino superior públicas, as propinas de inscrição dos estudantes internacionais:
 
 a) São fixadas pelo seu órgão legal e estatutariamente competente;
 
