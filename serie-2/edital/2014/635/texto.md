@@ -1,0 +1,7 @@
+Edital n.º 635/2014
+Osvaldo dos Santos Gonçalves, presidente da Câmara Municipal de Alcoutim:
+Torna público e a todos os interessados faz saber que, de acordo com o estabelecido no artigo 118.º do código do procedimento administrativo, durante o período de 30 dias a contar do dia seguinte ao da publicação do presente edital é submetido a apreciação pública o «Projeto de Regulamento do Programa de Incentivo à Natalidade e Apoio à Família». O Projeto de Regulamento foi presente à reunião pública ordinária da Câmara Municipal de Alcoutim, realizada no dia 11 de junho de 2014, e à sessão pública ordinária da Assembleia Municipal de Alcoutim, realizada no dia 26 de junho de 2014, encontrando-se disponível para consulta no Gabinete de Apoio à Presidência, sito na rua do Município, n.º 12, em Alcoutim, durante o período de funcionamento (das 8.30 horas às 13.00 horas e das 14.00 horas às 17.30 horas), bem como, no sítio eletrónico do Município de Alcoutim em www.cm-alcoutim.pt.
+Mais se informa que os interessados devem dirigir as suas sugestões, por escrito, ao Presidente da Câmara Municipal de Alcoutim, não sendo consideradas todas aquelas que forem apresentadas fora do prazo.
+Para constar e devidos efeitos se publica o presente edital e outros de igual teor, que além de no Diário da República e sítio eletrónico do Município de Alcoutim (www.cm-alcoutim.pt), vão ser afixados nos locais públicos do costume.
+3 de julho de 2014. - O Presidente da Câmara, Osvaldo dos Santos Gonçalves.
+307943747
