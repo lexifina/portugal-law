@@ -1,0 +1,10 @@
+Aviso n.º 8382/2014
+4.ª alteração do Plano Diretor Municipal do Cartaxo
+Pedro Miguel Magalhães Ribeiro, licenciado em Economia e Presidente da Câmara Municipal do Cartaxo:
+Torna público, nos termos e para os efeitos do disposto nos artigos 74.º e 96.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99, de 22 de setembro, na sua redação atual, que a Câmara Municipal do Cartaxo, na sua reunião ordinária de 21 de abril de 2014, deliberou por unanimidade dar início ao procedimento da 4.ª alteração do Plano Diretor Municipal do Cartaxo.
+No âmbito do mesmo procedimento, foi ainda deliberado dar início ao período de participação preventiva previsto no n.º 2 do artigo 77.º do RJIGT pelo prazo de 15 dias úteis, a contar da data da publicação deste aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas. Durante este período, os interessados poderão consultar os elementos aprovados em reunião de Câmara, relativos ao presente procedimento de alteração do Plano Diretor Municipal do Cartaxo, na Divisão de Planeamento e Administração Urbanística, sita no edifício dos Paços do Município, Praça 15 de Dezembro, 2070-050 Cartaxo, no horário das 9h às 12h30 m e das 14h às 16 horas, ou no site do Município do Cartaxo (www.cm-cartaxo.pt).
+Os interessados deverão apresentar as sugestões ou informações mediante exposição dirigida ao Presidente da Câmara Municipal, devendo nesta constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+Finalmente, foi ainda deliberado dispensar esta alteração do Plano Diretor Municipal do Cartaxo do procedimento de Avaliação Ambiental Estratégica, de acordo com o estipulado no n.º 5 do artigo 74.º do RJIGT, conjugado com o n.º 2 do artigo 3.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos de estilo.
+22 de abril de 2014. - O Presidente da Câmara Municipal, Pedro Miguel Magalhães Ribeiro.
+207959518
