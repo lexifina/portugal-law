@@ -1,0 +1,5 @@
+Aviso n.º 8469/2014
+Regulamento do Pavilhão Desportivo Municipal da Golpilheira
+Paulo Jorge Frazão Batista dos Santos, Presidente da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.os 1 e 2 do citado artigo, não tendo sido registadas quaisquer reclamações/sugestões ao projeto de Regulamento do Pavilhão Desportivo Municipal da Golpilheira, publicado no Diário da República 2.ª série n.º 65 de 02/04/2014 (Aviso n.º 4518/2014). O Regulamento ora mencionado foi aprovado definitivamente pelo Executivo na sua reunião ordinária de 26/05/2014, conforme deliberação n.º 2014/0255/D.E.C.D. (SOAA) e pela Assembleia Municipal realizada em 27/06/2014 (ponto 9), podendo o documento em causa ser consultado no portal do Município http://www.cm-batalha.pt/docs/documents/proj_reg_pav_desp_mun_golp.pdf.
+3 de julho de 2014. - O Presidente Câmara Municipal da Batalha, Paulo Jorge Frazão Batista dos Santos.
+307942604
