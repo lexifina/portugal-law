@@ -1,0 +1,5 @@
+Aviso n.º 8467/2014
+Alteração ao Regulamento e Tabela de Taxas e Outras Receitas Municipais
+Paulo Jorge Frazão Batista dos Santos, Presidente da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.os 1 e 2 do citado artigo, não tendo sido registadas quaisquer reclamações/sugestões ao projeto de alteração do Regulamento e Tabela de Taxas e Outras Receitas Municipais, publicado no Diário da República 2.ª série n.º 72 de 11/04/2014 (Aviso n.º 5003/2014). As alterações foram aprovadas definitivamente pelo Executivo na sua reunião ordinária de 13/06/2014, conforme deliberação n.º 2014/0295/D.O.T. (SAA) e pela Assembleia Municipal realizada em 27/06/2014 (ponto 7), podendo o documento em causa ser consultado no portal do Município (http://www.cm-batalha.pt/docs/documents/proj_reg_taxas.pdf).
+3 de julho de 2014. - O Presidente Câmara Municipal da Batalha, Paulo Jorge Frazão Batista dos Santos.
+307942564
