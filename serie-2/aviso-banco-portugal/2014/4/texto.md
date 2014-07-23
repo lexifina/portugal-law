@@ -1,0 +1,10 @@
+Aviso do Banco de Portugal n.º 4/2014
+O Decreto-Lei n.º 242/2012, de 7 de novembro, que alterou o Decreto-Lei n.º 317/2009, de 30 de outubro, e aprovou o atual Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, veio regular o acesso à atividade das instituições de moeda eletrónica e a prestação de serviços de emissão de moeda eletrónica, transpondo para a ordem jurídica interna a Diretiva n.º 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda eletrónica, ao seu exercício e à sua supervisão prudencial;
+Considerando que, nos termos do Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, compete ao Banco de Portugal exercer a supervisão comportamental das atividades desenvolvidas pelas instituições de moeda eletrónica;
+Considerando a necessidade de definir, em consonância, o atual enquadramento regulamentar quanto às matérias relativamente às quais as instituições de moeda eletrónica ficam sujeitas à supervisão comportamental do Banco de Portugal;
+O Banco de Portugal, no uso da competência que lhe é conferida pelo artigo 17.º da sua Lei Orgânica, pelo artigo 117.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na redação atual, e pela alínea c) do n.º 1 do artigo 6.º do Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, aprovado pelo Decreto-Lei n.º 317/2009, de 30 de outubro, alterado pelo Decreto-Lei n.º 242/2012, de 7 de novembro, determina o seguinte:
+1.º Os Avisos do Banco de Portugal n.os 10/2008 e 8/2009 são aplicáveis às instituições de moeda eletrónica.
+2.º O Aviso do Banco de Portugal n.º 3/2008 é aplicável às instituições de moeda eletrónica que disponibilizem contas de pagamento, nos termos e para os efeitos previstos no Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, aprovado pelo Decreto-Lei n.º 317/2009, de 30 de outubro, alterado pelo Decreto-Lei n.º 242/2012, de 7 de novembro.
+3.º O presente Aviso entra em vigor na data da sua publicação.
+16 de julho de 2014. - O Governador, Carlos da Silva Costa.
+207970136
