@@ -1,0 +1,49 @@
+Aviso n.º 8690/2014
+Alteração do regulamento do PDM de Monchique
+Rui Miguel da Silva André, presidente da Câmara Municipal de Monchique:
+Torna público, nos termos e para os efeitos previstos no artigos 148.º e 149.º do Decreto-Lei n.º 380/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 316/2007, de 19 de setembro e pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, na sua atual redação, que a Assembleia Municipal de Monchique deliberou na sua sessão ordinária, de 27 de junho de 2014, aprovar por unanimidade a versão final da alteração ao Regulamento do Plano Diretor Municipal de Monchique - artigos 20.º e 30.º, e cuja redação é aquela constante do Edital n.º 5375/2014, publicado na 2.ª série do Diário da República, n.º 81, de 28 de outubro de 2014, anexo ao presente edital.
+Para constar e devidos efeitos se publica o presente Edital e outros de igual teor, que vai ser afixado nos lugares públicos do costume.
+16 de julho de 2014. - O Presidente da Câmara Municipal, Rui Miguel da Silva André.
+A alteração proposta consiste em:
+Na alínea a) do n.º 2 do artigo 29.º, onde se lê: «número máximo de pisos - três», deve-se ler: «número máximo de pisos - três. Tratando-se de empreendimentos turísticos, admite-se, pontualmente, um piso acima do estipulado para as restantes construções.»;
+Na alínea c) do n.º 2 do artigo 29.º, onde se lê: «estacionamentos - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas» deve-se ler: «estacionamentos - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas. Tratando-se de empreendimentos turísticos, o estacionamento deverá ser compatível.»;
+No n.º 3 do artigo 29.º, onde se lê: «Construção de unidades hoteleiras desde que não sejam ultrapassados os seguintes valores: COS - 0,50; CAS 0,35; Número máximo de pisos - três; Pontualmente poderão ser autorizados edifícios com quatro pisos, desde que se integrem na malha urbana e não ultrapassem na linha limite, definida pelas coberturas das construções da envolvente, de modo a respeitar a morfologia do aglomerado; Estacionamento compatível», deve-se ler «revogado.»;
+Por seu turno, na alínea a) do n.º 2 do artigo 30.º, onde se lê: «Não seja ultrapassado o número máximo de dois pisos ou 7,0 m de cércea, salvo situações pontuais resultantes da topografia do terreno», deve-se ler: «Não seja ultrapassado o número máximo de dois pisos ou 7,0 m de cércea, salvo situações pontuais resultantes da topografia do terreno. No caso de se tratar de empreendimentos turísticos, admite-se, pontualmente, um piso acima do estipulado para as restantes construções.»;
+Na alínea c) do n.º 2 do artigo 30.º, onde se lê: «Estacionamento - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas», deve-se ler «Estacionamento - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas. Tratando-se de empreendimentos turísticos, o estacionamento deverá ser compatível.»;
+Por último, no n.º 3 do artigo 30.º, onde se lê: «Construção de unidades hoteleiras desde que não sejam ultrapassados os seguintes valores: COS - 0,30; CAS 0,25; Número máximo de pisos - três; Estacionamento compatível», deve-se ler «revogado.»
+Deliberação
+Dr. Fernando António Andrez Várzea, Presidente da Mesa da Assembleia Municipal de Monchique:
+Certifica que a Assembleia Municipal de Monchique na sua 3.ª sessão ordinária, realizada em 27 de junho de 2014, de acordo com a competência que lhe é deferida pelo estatuído no n.º 1 do artigo 79.º do Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação, em conjugação com o disposto nas alíneas g) e r) do n.º 1 do artigo 25.º da Lei n.º 75/2013, de 12 setembro, sob proposta da Câmara Municipal correspondente, deliberou, por unanimidade, aprovar as alterações ao Plano Diretor Municipal de Monchique.
+Mais certifica que a votação exercida sobre a proposta foi aprovada em minuta.
+14 de julho de 2014. - O Presidente da Mesa Assembleia Municipal, Dr. Fernando António Andrez Várzea.
+Plano Diretor Municipal de Monchique - Alteração
+Artigo 1.º
+Alterações
+São alterados os artigos 29.º e 30.º do regulamento do PDM de Monchique, que passam a ter a seguinte redação:
+«Artigo 29.º
+[...]
+1 - ...
+2 - ...
+a) Número máximo de pisos - três. Tratando-se de empreendimentos turísticos, admite-se, pontualmente, um piso acima do estipulado para as restantes construções;
+b) ...
+c) Estacionamentos - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas. Tratando-se de empreendimentos turísticos, o estacionamento tem que cumprir o estabelecido em portaria. Para os estabelecimentos hoteleiros de 1 a 3 estrelas e para os hotéis rurais a dotação mínima de estacionamentos é de 20 % das unidades de alojamento, situado no empreendimento ou na sua proximidade.
+3 - Revogado
+4 - ...
+5 - ...
+a) ...
+b) ...
+Artigo 30.º
+[...]
+...
+1 - ...
+2 - ...
+a) Não seja ultrapassado o número máximo de dois pisos ou 7,0 m de cércea, salvo situações pontuais resultantes da topografia do terreno. No caso de se tratar de empreendimentos turísticos, admite-se pontualmente, um piso acima do estipulado para as restantes construções;
+b) ...
+c) Estacionamento - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas. Tratando-se de empreendimentos turísticos, o estacionamento tem que cumprir o estabelecido em portaria. Para os estabelecimentos hoteleiros de 1 a 3 estrelas e para os hotéis rurais a dotação mínima de estacionamentos é de 20 % das unidades de alojamento, situado no empreendimento ou na sua proximidade.
+3 - Revogado.
+4 - ...
+5 - ...
+6 - ...
+a) ...
+b) ...»
+607980253
