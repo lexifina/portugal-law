@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Práticas proibidas
-
 # Artigo 28.º
 
 ### Fornecimento de bens não solicitados

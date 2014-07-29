@@ -4,7 +4,7 @@
 
 1 - Salvo acordo das partes em contrário, o consumidor não pode resolver livremente os contratos de:
 
-a) Prestação de serviços com obrigação de pagamento, quando:
+a) Prestação de serviços, quando:
 
 i) Os serviços tenham sido integralmente prestados após o prévio consentimento expresso do consumidor, nos termos do artigo 15.º; e
 
@@ -30,11 +30,11 @@ j) Celebrados em hasta pública;
 
 k) Fornecimento de alojamento, para fins não residenciais, transporte de bens, serviços de aluguer de automóveis, restauração ou serviços relacionados com atividades de lazer se o contrato previr uma data ou período de execução específicos;
 
-l) Fornecimento, que não em suporte material, de conteúdos digitais, se a execução do contrato tiver tido início e do mesmo resultar para o consumidor a obrigação de pagar, quando:
+l) Fornecimento de conteúdos digitais não fornecidos em suporte material se:
 
-i) O consumidor consentir prévia e expressamente que a execução tenha início durante o prazo de livre resolução e reconhecer que o seu consentimento implica a perda do direito de livre resolução; e
+i) A sua execução tiver início com o consentimento prévio e expresso do consumidor; e
 
-ii) O fornecedor de conteúdos digitais tenha fornecido a confirmação, nos termos do n.º 2 do artigo 9.º ou do artigo 6.º
+ii) O consumidor reconhecer que o seu consentimento implica a perda do direito de livre resolução;
 
 m) Prestação de serviços de reparação ou de manutenção a executar no domicílio do consumidor, a pedido deste.
 

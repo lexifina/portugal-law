@@ -13,5 +13,3 @@ b) Quando o consumidor não tiver sido previamente informado pelo fornecedor do 
 3 - O consumidor deve conservar os bens de modo a poder restituí-los nas devidas condições de utilização, no prazo previsto no n.º 1, ao fornecedor ou à pessoa para tal designada no contrato.
 
 4 - O consumidor não incorre em responsabilidade alguma pelo exercício do direito de livre resolução, salvo o disposto no n.º 3 do artigo anterior.
-
-5 - Em caso de livre resolução do contrato, o consumidor deve abster-se de utilizar os conteúdos ou serviços digitais e de os colocar à disposição de terceiros.
