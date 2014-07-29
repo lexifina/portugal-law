@@ -1,12 +1,12 @@
 # Artigo 9.º
 
-### Direito à protecção dos interesses económicos
+### Direito à proteção dos interesses económicos
 
-1 - O consumidor tem direito à protecção dos seus interesses económicos, impondo-se nas relações jurídicas de consumo a igualdade material dos intervenientes, a lealdade e a boa fé, nos preliminares, na formação e ainda na vigência dos contratos.
+1 - O consumidor tem direito à proteção dos seus interesses económicos, impondo-se nas relações jurídicas de consumo a igualdade material dos intervenientes, a lealdade e a boa fé, nos preliminares, na formação e ainda na vigência dos contratos.
 
 2 - Com vista à prevenção de abusos resultantes de contratos pré-elaborados, o fornecedor de bens e o prestador de serviços estão obrigados:
 
-a) À redacção clara e precisa, em caracteres facilmente legíveis, das cláusulas contratuais gerais, incluindo as inseridas em contratos singulares;
+a) À redação clara e precisa, em carateres facilmente legíveis, das cláusulas contratuais gerais, incluindo as inseridas em contratos singulares;
 
 b) À não inclusão de cláusulas em contratos singulares que originem significativo desequilíbrio em detrimento do consumidor.
 
@@ -18,8 +18,8 @@ b) À não inclusão de cláusulas em contratos singulares que originem signific
 
 6 - É vedado ao fornecedor ou prestador de serviços fazer depender o fornecimento de um bem ou a prestação de um serviço da aquisição ou da prestação de um outro ou outros.
 
-7 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de retractação, no prazo de sete dias úteis a contar da data da recepção do bem ou da conclusão do contrato de prestação de serviços.
+7 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de livre resolução no prazo de 14 dias, nos termos do disposto no Decreto-Lei n.º 24/2014, de 14 de fevereiro.
 
-8 - Incumbe ao Governo adoptar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objecto bens e serviços essenciais, designadamente água, energia eléctrica, gás, telecomunicações e transportes públicos.
+8 - Incumbe ao Governo adotar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objeto bens e serviços essenciais, designadamente água, energia elétrica, gás, telecomunicações e transportes públicos.
 
-9 - Incumbe ao Governo adoptar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.
+9 - Incumbe ao Governo adotar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.

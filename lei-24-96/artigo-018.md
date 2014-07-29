@@ -8,7 +8,7 @@ a) Ao estatuto de parceiro social em matérias que digam respeito à política d
 
 b) Direito de antena na rádio e na televisão, nos mesmos termos das associações com estatuto de parceiro social;
 
-c) Direito a representar os consumidores no processo de consulta e audição públicas a realizar no decurso da tomada de decisões susceptíveis de afectar os direitos e interesses daqueles;
+c) Direito a representar os consumidores no processo de consulta e audição públicas a realizar no decurso da tomada de decisões suscetíveis de afetar os direitos e interesses daqueles;
 
 d) Direito a solicitar, junto das autoridades administrativas ou judiciais competentes, a apreensão e retirada de bens do mercado ou a interdição de serviços lesivos dos direitos e interesses dos consumidores;
 
@@ -24,16 +24,16 @@ i) Direito a solicitar aos laboratórios oficiais a realização de análises so
 
 j) Direito à presunção de boa fé das informações por elas prestadas;
 
-l) Direito à acção popular;
+l) Direito à ação popular;
 
-m) Direito de queixa e denúncia, bem como direito de se constituírem como assistentes em sede de processo penal e a acompanharem o processo contra-ordenacional, quando o requeiram, apresentando memoriais, pareceres técnicos, sugestão de exames ou outras diligências de prova até que o processo esteja pronto para decisão final;
+m) Direito de queixa e denúncia, bem como direito de se constituírem como assistentes em sede de processo penal e a acompanharem o processo contraordenacional, quando o requeiram, apresentando memoriais, pareceres técnicos, sugestão de exames ou outras diligências de prova até que o processo esteja pronto para decisão final;
 
 n) Direito à isenção do pagamento de custas, preparos e de imposto do selo, nos termos da Lei n.º 83/95, de 31 de Agosto;
 
-o) Direito a receber apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins, nomeadamente no exercício da sua actividade no domínio da formação, informação e representação dos consumidores;
+o) Direito a receber apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins, nomeadamente no exercício da sua atividade no domínio da formação, informação e representação dos consumidores;
 
 p) Direito a benefícios fiscais idênticos aos concedidos ou a conceder às instituições particulares de solidariedade social.
 
 2 - Os direitos previstos nas alíneas a) e b) do número anterior são exclusivamente conferidos às associações de consumidores de âmbito nacional e de interesse genérico.
 
-3 - O direito previsto na alínea h) do n.º 1 é conferido às associações de interesse genérico ou de interesse específico quando esse interesse esteja directamente relacionado com o bem ou serviço que é objecto da regulação de preços e, para os serviços de natureza não regional ou local, exclusivamente conferido a associações de âmbito nacional.
+3 - O direito previsto na alínea h) do n.º 1 é conferido às associações de interesse genérico ou de interesse específico quando esse interesse esteja diretamente relacionado com o bem ou serviço que é objeto da regulação de preços e, para os serviços de natureza não regional ou local, exclusivamente conferido a associações de âmbito nacional.

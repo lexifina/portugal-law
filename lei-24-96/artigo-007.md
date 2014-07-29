@@ -2,9 +2,9 @@
 
 ### Direito à informação em geral
 
-1 - Incumbe ao Estado, às Regiões Autónomas e às autarquias locais desenvolver acções e adoptar medidas tendentes à informação em geral do consumidor, designadamente através de:
+1 - Incumbe ao Estado, às regiões autónomas e às autarquias locais desenvolver ações e adotar medidas tendentes à informação em geral do consumidor, designadamente através de:
 
-a) Apoio às acções de informação promovidas pelas associações de consumidores;
+a) Apoio às ações de informação promovidas pelas associações de consumidores;
 
 b) Criação de serviços municipais de informação ao consumidor;
 
@@ -20,4 +20,4 @@ e) Criação de bases de dados e arquivos digitais acessíveis em matéria de di
 
 4 - A publicidade deve ser lícita, inequivocamente identificada e respeitar a verdade e os direitos dos consumidores.
 
-5 - As informações concretas e objectivas contidas nas mensagens publicitárias de determinado bem, serviço ou direito consideram-se integradas no conteúdo dos contratos que se venham a celebrar após a sua emissão, tendo-se por não escritas as cláusulas contratuais em contrário.
+5 - As informações concretas e objetivas contidas nas mensagens publicitárias de determinado bem, serviço ou direito consideram-se integradas no conteúdo dos contratos que se venham a celebrar após a sua emissão, tendo-se por não escritas as cláusulas contratuais em contrário.
