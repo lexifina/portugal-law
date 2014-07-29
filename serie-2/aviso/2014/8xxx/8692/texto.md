@@ -1,0 +1,5 @@
+Aviso n.º 8692/2014
+Alteração ao Regulamento de Urbanização e Edificação do Município de Odemira e Alteração ao Regulamento das Taxas, Preços e Outras Receitas do Município de Odemira
+No uso das competências que se encontram previstas na alínea g), n.º 1 do artigo 25.º, e alínea k), n.º 1 do artigo 33.º, do Anexo I, da Lei n.º 75/2013, de 12.09, torna-se público que, a Alteração ao Regulamento de Urbanização e Edificação do Município de Odemira e a Alteração ao Regulamento das Taxas, Preços e Outras Receitas do Município de Odemira, publicadas em Projeto, na 2.ª série, do Diário da República n.º 51, de 13 de março de 2014, após o decurso do prazo para apreciação pública nos termos do artigo 118.º do Código do Procedimento Administrativo, não se tendo registado quaisquer sugestões ou reclamações, foram aprovadas, de forma definitiva, por unanimidade, em reunião ordinária da Câmara Municipal realizada em 30.04.2014, e por maioria, em sessão ordinária da Assembleia Municipal realizada em 30.06.2014.
+9 de julho de 2014. - O Presidente da Câmara, José Alberto Candeias Guerreiro.
+307951555
