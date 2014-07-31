@@ -1,0 +1,7 @@
+Edital n.º 693/2014
+João Manuel Rocha da Silva, Presidente da Câmara Municipal de Beja:
+Torna público que, nos termos e para efeitos do disposto no artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na redação conferida pelo Decreto-Lei n.º 26/2010, de 30 de março, que aprovou o regime jurídico da urbanização e da edificação e ainda do artigo 81.º, n.º 3 do Decreto-Lei n.º 169/2012, de 1 de agosto, que aprovou o Sistema da Indústria Responsável (SIR), a Câmara Municipal de Beja, em sua reunião ordinária de 18 de junho de 2014, deliberou aprovar e submeter a discussão pública o projeto referente à segunda alteração do Regulamento Municipal da Urbanização e da Edificação, pelo período de 30 dias, a contar da data publicação no Diário da República.
+Os interessados podem apresentar sugestões ou reclamações sobre as disposições da alteração ao regulamento, as quais devem ser feitas por escrito e apresentadas no Balcão Único de Atendimento, sito na Rua de Angola n.º 5, em Beja ou enviadas para o seguinte endereço eletrónico dpo@cm-beja.pt. O documento também está disponível para consulta no referido Balcão e no Boletim Municipal Eletrónico no portal desta Câmara Municipal a seguir indicado.
+Para constar, se faz publicar o presente Edital para afixação no átrio dos Paços do Concelho e no Edifício dos Serviços Técnicos, publicação no Diário da República e no Boletim Municipal Eletrónico em www.cm-beja.pt.
+4 de julho de 2014. - O Presidente da Câmara Municipal, João Rocha.
+307944792
