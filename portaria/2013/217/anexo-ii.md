@@ -170,6 +170,10 @@ Captação QA6
 
 (ver documento original)
 
+Captação QA6A
+
+(ver documento original)
+
 Captação QA7
 
 (ver documento original)
