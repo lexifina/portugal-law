@@ -49,5 +49,3 @@ h) Os dispositivos médicos implantáveis ativos;
 i) Os painéis fotovoltaicos a utilizar num sistema concebido, montado e instalado por profissionais para utilização permanente num local definido com vista à produção de energia a partir de luz solar, para aplicações públicas, comerciais, industriais e residenciais;
 
 j) Os EEE concebidos especificamente para fins de investigação e de desenvolvimento e disponibilizados exclusivamente num contexto interempresas.
-
-k) Os órgãos de tubos.

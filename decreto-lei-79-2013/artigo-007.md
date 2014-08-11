@@ -12,7 +12,7 @@ a) Garantir que os EEE que colocam no mercado foram projetados e fabricados em c
 
 b) Elaborar a documentação técnica requerida e aplicar ou mandar aplicar o procedimento de avaliação da conformidade (controlo interno da produção), nos termos do módulo A do anexo II da Decisão n.º 768/2008/CE, do Parlamento e do Conselho, de 9 de julho de 2008;
 
-c) Elaborar uma declaração 'UE' de conformidade e apor nos EEE a marcação 'CE', nos termos dos artigos 13.º a 15.º, sempre que a conformidade com os requisitos aplicáveis tenha sido demonstrada através do procedimento referido na alínea anterior;
+c) Elaborar uma declaração «UE» de conformidade e apor nos EEE a marcação «CE», nos termos do artigo 14.º, sempre que a conformidade com os requisitos aplicáveis tenha sido demonstrada através do procedimento referido na alínea anterior;
 
 d) Conservar a documentação técnica e a declaração «UE» de conformidade durante um prazo não inferior a 10 anos, a contar da data de colocação dos EEE no mercado;
 
@@ -24,12 +24,12 @@ g) Assegurar que os EEE que colocam no mercado contenham a indicação do tipo, 
 
 h) Indicar o seu nome, nome comercial registado ou marca registada e o endereço de contacto nos EEE ou, se tal não for possível, na embalagem ou num documento que acompanhe os EEE, sendo que o endereço deve indicar um único ponto de contacto;
 
-i) Tomar, de imediato, as medidas corretivas necessárias para assegurar a conformidade dos EEE colocados no mercado, a sua retirada ou recolha, quando considerem ou tenham motivos para crer que esses EEE não estão conformes com o presente decreto-lei, bem como informar deste facto a DGAE, fornecendo-lhe as informações relevantes, em particular, as relativas à não conformidade e a quaisquer medidas corretivas aplicadas;
+i) Tomar imediatamente as medidas corretivas necessárias para assegurar a conformidade de EEE que colocaram no mercado, a sua retirada ou recolha, quando considerem ou tenham motivos para crer que esses EEE não estão conforme com o presente decreto-lei, bem como informar imediatamente deste facto a entidade competente, fornecendo-lhe as informações relevantes, particularmente no que se refere à não conformidade e a quaisquer medidas corretivas aplicadas;
 
-j) Facultar às autoridades de fiscalização de mercado, mediante pedido fundamentado, a informação e documentação necessárias para demonstração da conformidade dos EEE com o disposto no presente decreto-lei, redigida em língua facilmente compreendida por essas autoridades;
+j) Facultar à entidade competente, mediante pedido fundamentado desta, toda a informação e documentação necessárias para demonstrar a conformidade dos EEE com o disposto no presente decreto-lei, numa língua facilmente compreendida por essa entidade;
 
-k) Cooperar com as autoridades de fiscalização de mercado, a seu pedido, em qualquer ação para assegurar a conformidade dos EEE que tenham colocado no mercado com o disposto no presente decreto-lei.
+k) Cooperar com a entidade competente, a pedido desta, em qualquer ação para assegurar a conformidade com o disposto no presente decreto-lei de EEE que tenham colocado no mercado.
 
 2 - Para efeitos do disposto na alínea h) do número anterior, caso outra legislação aplicável contiver disposições relativas à afixação do nome e endereço do fabricante que sejam pelo menos tão rigorosas, devem aplicar-se essas disposições.
 
-3 - A pedido das entidades de acompanhamento ou das autoridades de fiscalização de mercado, os fabricantes devem, ainda, traduzir para língua portuguesa a informação e a documentação necessárias para demonstração da conformidade dos EEE com o disposto no presente decreto-lei.
+3 - A pedido da entidade competente ou das autoridades de fiscalização, os fabricantes devem ainda traduzir para língua portuguesa toda a informação e documentação necessárias para demonstrar a conformidade dos EEE com o disposto no presente decreto-lei.

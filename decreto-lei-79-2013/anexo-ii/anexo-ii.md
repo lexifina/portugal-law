@@ -66,19 +66,17 @@ Outros
 
 25 - Chumbo em revestimentos de superfície de sistemas de conexão por pinos que necessitem de conectores não magnéticos, utilizados de forma durável a temperaturas inferiores a - 20 ºC, em condições normais de funcionamento e armazenagem. Caduca em 30 de junho de 2021.
 
-26 - Chumbo nas seguintes aplicações, que são utilizadas de forma durável a temperaturas inferiores a - 20 º C, em condições normais de funcionamento e armazenagem:
+26 - Chumbo em
 
-a) Soldas para placas de circuitos impressos;
+a) Soldas para placas de circuito impresso,
 
-b) Revestimentos de pontos terminais de componentes elétricos e eletrónicos e revestimentos de placas de circuitos impressos;
+b) Revestimentos de pontos terminais de componentes elétricos e eletrónicos e revestimentos de placas de circuito impresso,
 
-c) Soldas para fios e cabos de ligação;
+c) Soldas para fios e cabos de ligação,
 
-d) Soldas para ligação de transdutores e sensores;
+d) Soldas para ligação de transdutores e sensores,
 
-e) Chumbo em soldas de ligações elétricas para sensores de medição da temperatura instalados em dispositivos destinados a ser utilizados periodicamente a temperaturas inferiores a - 150 º C.
-
-As isenções caducam em 30 de junho de 2021.
+Utilizados de forma durável a temperaturas inferiores a -20 ºC, em condições normais de funcionamento e armazenagem. Caduca em 30 de junho de 2021.
 
 27 - Chumbo em
 
@@ -86,11 +84,15 @@ a) Soldas,
 
 b) Revestimentos de pontos terminais de componentes elétricos e eletrónicos e placas de circuito impresso,
 
-c) Bobinas de IRM não integradas, para as quais a declaração de conformidade deste modelo seja emitida pela primeira vez antes de 23 de setembro de 2022; ou
+c) Ligações de cabos elétricos, blindagens e conectores protegidos,
 
-d) Dispositivos de IRM, incluindo bobinas integradas, utilizados em campos magnéticos dentro de uma esfera com 1 m de raio em torno do isocentro do íman em equipamentos médicos de imagiologia por ressonância magnética, para os quais a declaração de conformidade seja emitida pela primeira vez antes de 30 de junho de 2024.
+Que são utilizados em
 
-Caduca em 30 de junho de 2027.
+a) Campos magnéticos situados numa esfera de 1 m de raio em torno do isocentro do íman em equipamentos médicos de imagem por ressonância magnética, incluindo os monitores de paciente concebidos para serem usados dentro dessa esfera, ou
+
+b) Campos magnéticos situados até 1 m de distância das superfícies externas dos ímanes do ciclotrão ou dos ímanes que servem para o transporte de feixes e o controlo da direção dos feixes utilizados na terapia com partículas.
+
+Caduca em 30 de junho de 2020.
 
 28 - Chumbo em soldas para a montagem de detetores digitais de telureto de cádmio e de telureto de cádmio e zinco em placas de circuito impresso. Caduca em 31 de dezembro de 2017.
 
@@ -98,21 +100,13 @@ Caduca em 30 de junho de 2027.
 
 30 - Crómio hexavalente em geradores de metais alcalinos utilizados para criar fotocátodos em intensificadores de imagens de raios X, até 31 de dezembro de 2019, e em peças sobresselentes de sistemas de raios X colocados no mercado da UE antes de 1 de janeiro de 2020.
 
-31 - Chumbo, cádmio, crómio hexavalente e éteres difenílicos polibromados (PBDE) em peças sobresselentes recuperadas de dispositivos médicos, incluindo dispositivos médicos de diagnóstico in vitro, ou de microscópios eletrónicos e de acessórios destes, e utilizadas na reparação ou na renovação desses equipamentos, desde que a reutilização tenha lugar no âmbito de sistemas fechados de retorno interempresas, passíveis de controlo, e que o cliente seja informado de cada reutilização de peças.
-
-As isenções caducam:
-
-a) A 21 de julho de 2021, relativamente à utilização em dispositivos médicos não destinados a diagnóstico in vitro;
-
-b) A 21 de julho de 2023, relativamente à utilização em dispositivos médicos destinados a diagnóstico in vitro;
-
-c) A 21 de julho de 2024, relativamente à utilização em microscópios eletrónicos e acessórios destes.
+31 - Chumbo, cádmio e crómio hexavalente em peças sobresselentes reutilizadas, recuperadas de dispositivos médicos colocados no mercado antes de 22 de julho de 2014 e utilizadas em equipamentos da categoria 8 colocados no mercado antes de 22 de julho de 2021, desde que a reutilização tenha lugar no âmbito de sistemas fechados de retorno interempresas, passíveis de controlo, e que o consumidor seja informado da reutilização de peças. Caduca em 21 de julho de 2021.
 
 32 - Chumbo em soldas sobre placas de circuito impresso de detetores e unidades de aquisição de dados para tomógrafos por emissão de positrões que estão integrados em equipamento de imagiologia por ressonância magnética. Caduca em 31 de dezembro de 2019.
 
 33 - Chumbo em soldas sobre placas de circuito impresso de alta densidade utilizadas em dispositivos médicos móveis, que não sejam desfibrilhadores portáteis de emergência, das classes IIa e IIb da Diretiva 93/42/CEE. A isenção caduca em 30 de junho de 2016 no que se refere aos equipamentos da classe IIa e em 31 de dezembro de 2020 no que se refere aos equipamentos da classe IIb.
 
-34 - Chumbo como ativador do pó fluorescente de lâmpadas de descarga, utilizadas para fotoférese extracorpórea com substâncias fosforescentes à base de BSP (BaSi(índice 2)O(índice 5):Pb). Caduca em 22 de julho de 2021.
+34 - Chumbo como ativador do pó fluorescente de lâmpadas de descarga, utilizadas para fotoférese extracorpórea com substâncias fosforescentes à base de BSP (BaSi2O5:Pb). Caduca em 22 de julho de 2021.
 
 35 - Mercúrio em lâmpadas fluorescentes de cátodo frio para retroiluminação de ecrãs de cristais líquidos, numa quantidade não superior a 5 mg por lâmpada, utilizadas em instrumentos industriais de monitorização e controlo colocados no mercado antes de 22 de julho de 2017. Caduca em 21 de julho de 2024.
 
@@ -120,21 +114,21 @@ c) A 21 de julho de 2024, relativamente à utilização em microscópios eletró
 
 37 - Chumbo em elétrodos de platina platinada utilizados para medições de condutividade, pelo menos, numa das seguintes condições:
 
-a) Medições numa gama vasta de condutividades, que abranja mais de uma ordem de grandeza (por exemplo de 0,1 mS/m a 5 mS/m), em aplicações laboratoriais com concentrações desconhecidas;
+a) Medições numa gama vasta de condutividades, que abranja mais de uma ordem de grandeza (por exemplo, de 0,1 mS/m a 5 mS/m), em aplicações laboratoriais com concentrações desconhecidas;
 
-b) Medições de soluções, se for necessária uma precisão de (mais ou menos) 1 % da gama de amostragem e elevada resistência do elétrodo à corrosão, em qualquer dos seguintes meios:
+b) Medições de soluções, se for necessária uma precisão de (mais ou menos)1 % da gama de amostragem e uma elevada resistência do elétrodo à corrosão, em qualquer dos seguintes meios:
 
-i) Soluções com acidez (menor que) pH 1;
+i) soluções com acidez (menor que) pH 1;
 
-ii) Soluções com alcalinidade (maior que) pH 13;
+ii) soluções com alcalinidade (maior que) pH 13;
 
-iii) Soluções corrosivas de gases halogéneos;
+iii) soluções corrosivas de gases halogénios.
 
 c) Medições de condutividades superiores a 100 mS/m, efetuadas com instrumentos portáteis.
 
-Caduca a 31 de dezembro de 2025.
+Caduca em 31 de dezembro de 2018.
 
-38 - Chumbo em soldas de interfaces de elementos empilhados de grande superfície, com mais de 500 interconexões por interface, utilizados em detetores de raios X para tomografia computorizada e em sistemas de raios X. Caduca em 31 de dezembro de 2019. Após essa data, pode ser utilizado em peças sobresselentes para tomografia computorizada e sistemas de raios X colocados no mercado antes de 1 de janeiro de 2020.
+38 - Chumbo em soldas de interfaces de elementos de pigmentos empilhados de grande superfície, com mais de 500 interconexões por interface, utilizados em detetores de raios X para tomografia computorizada e em sistemas de raios X. Caduca em 31 de dezembro de 2019. Após essa data, pode ser utilizado em peças sobresselentes para tomografia computorizada e sistemas de raios X colocadas no mercado antes de 1 de janeiro de 2020.
 
 39 - Chumbo em placas de microcanais (PMC) utilizadas em equipamentos que possuam, pelo menos, uma das seguintes propriedades:
 
@@ -146,13 +140,13 @@ i) tempo de resposta inferior a 25 ns;
 
 ii) área de deteção de amostras superior a 149 mm2;
 
-iii) Fator multiplicador superior a 1,3 x 10(elevado a 3).
+iii) fator multiplicador superior a 1,3 x 103.
 
 c) Tempo de resposta inferior a 5 ns na deteção de eletrões ou iões;
 
 d) Área de deteção de amostras superior a 314 mm2, para a deteção de eletrões ou iões;
 
-e) Fator multiplicador superior a 4,0 x 10(elevado a 7).
+e) Fator multiplicador superior a 4,0 x 107.
 
 Caduca nas seguintes datas:
 
@@ -163,41 +157,3 @@ b) 21 de julho de 2023, no respeitante aos dispositivos médicos de diagnóstico
 c) 21 de julho de 2024, no respeitante aos instrumentos industriais de monitorização e controlo.
 
 40 - Chumbo em materiais cerâmicos dielétricos de condensadores com tensão nominal inferior a 125 V AC ou 250 V DC para instrumentos industriais de monitorização e controlo. Caduca em 31 de dezembro de 2020. Após essa data, pode ser utilizado em peças sobresselentes de instrumentos industriais de monitorização e controlo colocados no mercado antes de 1 de janeiro de 2021.
-
-41 - Chumbo como estabilizador térmico no poli(cloreto de vinilo) (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos usados em dispositivos médicos de diagnóstico in vitro para análise de amostras de sangue e de outros fluidos e gases corporais.
-
-Caduca a 31 de março de 2022.
-
-41-A - Chumbo como estabilizador térmico no poli(cloreto de vinilo) (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos usados em dispositivos médicos de diagnóstico in vitro para análise de creatinina e azoto ureico sanguíneo em amostras de sangue integral.
-
-Aplica-se à categoria 8. Caduca a 31 de dezembro de 2023.
-
-42 - Mercúrio em conectores elétricos rotativos utilizados em sistemas de imagiologia de ultrassom intravascular capazes de funcionar a alta frequência (maior que) 50 MHz). Caduca em 30 de junho de 2026.
-
-43 - Ânodos de Cádmio em células Hersch para sensores de oxigénio utilizados em instrumentos industriais de monitorização e controlo, se for necessária uma sensibilidade inferior a 10 ppm.
-
-A isenção caduca a 15 de julho de 2023.
-
-44 - Cádmio em tubos de câmaras de vídeo resistentes a radiações concebidos para câmaras com resolução central superior a 450 TVL utilizadas em ambientes expostos a radiações ionizantes geradoras de doses superiores a 100 Gy/hora e de doses totais superiores a 100 kGy. Aplica-se à categoria 9.
-
-Caduca a 31 de março de 2027.
-
-45 - Ftalato de bis(2-etil-hexilo) (DEHP) em elétrodos seletivos de iões usados na análise, junto do doente, de substâncias iónicas presentes nos fluidos corporais humanos e/ou nas soluções de diálise.
-
-Caduca em 21 de julho de 2028.
-
-46 - Ftalato de bis(2-etil-hexilo) (DEHP) em componentes plásticos de bobinas de deteção para IRM.
-
-Caduca em 1 de janeiro de 2024.
-
-47 - Ftalato de bis(2-etil-hexilo) (DEHP), ftalato de benzilo e butilo (BBP), ftalato de dibutilo (DBP) e ftalato de di-isobutilo (DIBP) em peças sobresselentes recuperadas de dispositivos médicos, incluindo dispositivos médicos de diagnóstico in vitro, e de acessórios destes, e utilizadas para a reparação ou renovação desses equipamentos, desde que a reutilização ocorra em sistemas fechados de retorno interempresas, passíveis de controlo, e que o cliente seja informado de cada reutilização de peças.
-
-Caduca em 21 de julho de 2028.
-
-48 - Chumbo em cabos e fios supercondutores de óxido de bismuto, estrôncio, cálcio e cobre (BSCCO) e nas ligações elétricas a esses cabos e fios.
-
-Caduca em 30 de junho de 2027.
-
-49 - Mercúrio em transdutores de pressão de fusão para reómetros capilares a temperaturas superiores a 300ºC e pressões superiores a 1000 bar.
-
-Aplica-se à categoria 9 e caduca em 31 de dezembro de 2025.
