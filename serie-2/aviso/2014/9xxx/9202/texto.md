@@ -1,0 +1,5 @@
+Aviso n.º 9202/2014
+Revogação da Deliberação Camarária do dia 21 de setembro de 2007, que determinou a elaboração do Plano de Pormenor da "Vila Nova de Mafra"
+Hélder António Guerra de Sousa Silva, Presidente da Câmara Municipal de Mafra, torna público que a Câmara Municipal de Mafra, em reunião de 25 de julho de 2014, decorrido o prazo de audiência dos interessados sem que tenha havido qualquer pronúncia, deliberou, por unanimidade, atentos os fundamentos plasmados no seu projeto de decisão, consubstanciado na deliberação camarária, datada de 16 de maio de 2014 e publicitado através do Aviso n.º 6716/2014, do Município de Mafra, publicado no Diário da República, 2.ª série, n.º 106, de 3 de junho, revogar a deliberação camarária, de 21 de setembro de 2007, que determinou a elaboração do Plano de Pormenor da "Vila Nova de Mafra". Para constar e produzir efeitos legais se publica o presente aviso na 2.ª série do Diário da República e outros de igual teor, que serão afixados nos lugares públicos de estilo.
+1 de agosto de 2014. - O Presidente da Câmara Municipal, Hélder António Guerra de Sousa Silva.
+208010716
