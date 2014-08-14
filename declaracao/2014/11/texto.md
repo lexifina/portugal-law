@@ -1,0 +1,3 @@
+Declaração n.º 11/2014
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 57/XII do Decreto-Lei n.º 96/2014, de 19 de julho, que «Estabelece o regime jurídico aplicável às ações arborização e rearborização, com recurso a espécies florestais, no território continental», apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que as propostas de alteração apresentadas foram rejeitadas pela Comissão de Agricultura e Mar, tendo o Plenário sido informado do facto.
+Assembleia da República, 25 de julho de 2014. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
