@@ -1,0 +1,18 @@
+Regulamento n.º 376/2014
+Joaquim Cesário Cardador dos Santos, Presidente da Câmara Municipal do Seixal:
+Torna público, para os devidos efeitos, que a Câmara Municipal na sua reunião ordinária de 10 de julho de 2014 e a Assembleia Municipal, na sua sessão extraordinária de 15 de julho de 2014, no uso da competência atribuída pelo disposto na alínea g) do n.º 1 do artigo 25.º, ex vi alínea ccc) do n.º 1 do artigo 33.º, ambos do anexo da Lei n.º 75/2013, de 12 de setembro, que alterou a Lei n.º 169/99 de 18 de setembro, aprovaram a alteração do Regulamento Municipal de Ocupação de Espaço Público.
+Regulamento Municipal de Ocupação de Espaço Público
+Artigo 5.º
+Licença
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - Até final de 2014, aos agentes económicos de comércio e serviços que desenvolvem a sua atividade fiscal no Município do Seixal, será concedida isenção de 50 % das taxas.
+7 - Até final do ano 2014, é concedida isenção total das taxas previstas no presente Regulamento aos agentes económicos, abrangidos pelo número anterior, que desenvolvem a sua atividade;
+a) Nos núcleos históricos antigos, delimitados pelas ARU, conforme deliberação de Câmara de 20 de novembro de 2013 e aviso 2520/2014, aprovado no n.º 34 do Diário da República de 18 de fevereiro de 2014, 2.ª série; onde fez aprovar a delimitação das áreas de reabilitação urbana de Amora, Arrentela, Aldeia de Paio Pires e Seixal.
+b) Nos restantes casos será aplicada a taxa referida em 6.
+8 - As isenções conferidas pelos números 6 e 7, do presente artigo produzem efeitos a partir de 1 de Julho de 2014.
+8 de agosto de 2014. - O Presidente da Câmara Municipal, Joaquim Cesário Cardador dos Santos.
+208026974
