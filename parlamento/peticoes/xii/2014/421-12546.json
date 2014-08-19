@@ -1,0 +1,156 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12546",
+  "numero": "421",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-08-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.Audiencias",
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-09-23",
+            "entidades": null,
+            "id": "98450",
+            "tipo": null,
+            "titulo": "Audição em 2014-09-23 com DECO - Associação Portuguesa para a Defesa do Consumidor"
+          },
+          {
+            "data": "2014-09-23",
+            "entidades": null,
+            "id": "98451",
+            "tipo": null,
+            "titulo": "Audição em 2014-09-23 com Autoridade Nacional de Comunicações"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-06-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "748489",
+                "obs": null,
+                "pag": [
+                  "5-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-19",
+                "pubLeg": "XII",
+                "pubNr": "53",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/053/2015-06-19/5?pgs=5-13&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-09-17",
+        "DataArquivo": "2015-06-11",
+        "DataBaixaComissao": "2014-09-10",
+        "DataEnvioPAR": "2015-06-12",
+        "DataReaberta": "2014-09-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-09-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4a694d44646d5a6a517a4c574e6a4f4459744e44466d4e6931694f546c6a4c5452695a54686a4e444d304f5459794f4335775a47593d&fich=2b07ff43-cc86-41f6-b99c-4be8c4349628.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-06-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324578597a6b795a4445344c5449794d6d55744e4745784d5330355954566a4c5467334f445179597a49774d5459315a4335515245593d&fich=a1c92d18-222e-4a11-9a5c-87842c20165d.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-09-17",
+            "gp": "PSD",
+            "id": "4441",
+            "motivoCessacao": null,
+            "nome": "Ricardo Baptista Leite"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-11-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-09-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259315957517a595751334c5441784d7a4d744e474577595331684d3255304c544e6c5a574d784d324d334e5745795a5335515245593d&fich=f5ad3ad7-0133-4a0a-a3e4-3eec13c75a2e.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12546",
+    "PetAssunto": "Solicitam uma alteração ao artigo 48.º da Lei das Comunicações Eletrónicas, de forma a salvaguardar os cidadãos portugueses relativamente a algumas condicionantes utilizadas nos períodos de fidelização impostos pelas empresas de comunicações eletrónicas.",
+    "PetDataEntrada": "2014-08-19",
+    "PeticoesAssociadas": null,
+    "PetId": "12546",
+    "PetLeg": "XII",
+    "PetNr": "421",
+    "PetNrAssinaturas": "2",
+    "PetNrAssinaturasInicial": "2",
+    "PetObs": "Tendo sido proposta para agendamento na Conferência de Líderes de 18 de novembro de 2015, não foi deliberado o agendamento conjunto da Petição em conjunto com a Petição n.º 338/XII/3ª, como resultava do relatório final da petição, mas pode entender-se que a matéria foi apreciada em sede de debate desta última petição em plenário.",
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
