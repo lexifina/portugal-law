@@ -28,6 +28,4 @@ h) Assegurar, em termos de imagem e som, o funcionamento do Plenário e, ainda, 
 
 i) Assegurar a gestão, exploração e manutenção do sistema de áudio e do sistema de televisão, incluindo os respetivos equipamentos, pertencentes ao património da Assembleia.
 
-3 - O Departamento de Relações Externas e para a Comunicação Social será superintendido pelo assessor para a comunicação social do Gabinete do Presidente da Assembleia Legislativa, sendo coadjuvado no exercício das suas funções por um técnico de apoio parlamentar-coordenador.
-
-4 - O apoio administrativo a este departamento é assegurado pela Secretaria-Geral.
+3 - O Departamento de Relações Externas e para a Comunicação Social é dirigido por um técnico de apoio parlamentar coordenador.
