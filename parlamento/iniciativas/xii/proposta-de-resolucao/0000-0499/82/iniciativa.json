@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Resolução",
+  "numero": "82",
+  "id": "38634",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-08-21",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595751784f4751355a6a41744e4745354e793030595456694c546b774d6a6b744f544535596d51784d3259304d3259774c6d527659773d3d&fich=ad18d9f0-4a97-4a5b-9029-919bd13f43f0.doc&Inline=true",
+        "anexoNome": "Convenção FR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659544d315a6d51784d4459744f4456684e4330305a44466c4c574a6c5a6a59745a574d345a5756694e6a426b4e474d314c6e426b5a673d3d&fich=a35fd106-85a4-4d1e-bef6-ec8eeb60d4c5.pdf&Inline=true",
+        "anexoNome": "Acordo PT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e5751354d7a64694e324d74596d45794d5330304d4449334c57466c5a6a59744d5445344d6a5a6c4e6a59794e4441324c6d527659773d3d&fich=5d937b7c-ba21-4027-aef6-11826e662406.doc&Inline=true",
+        "anexoNome": "Convenção PT"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "38634",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a6335596a68695a5445744e6d52694e4330304f5449794c546c6c4e7a4d745a4749775a5445304d54646c4d574d334c6d527659773d3d&fich=b79b8be1-6db4-4922-9e73-db0e1417e1c7.doc&Inline=true",
+    "IniNr": "82",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova a Convenção entre a República Portuguesa e a República do Senegal para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa, a 13 de junho de 2014.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
