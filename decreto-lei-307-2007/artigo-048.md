@@ -2,7 +2,7 @@
 
 ### Contraordenações muito graves
 
-1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação punível com coima de (euro) 2000 a (euro) 3740 ou de (euro) 2000 a (euro) 44 890, consoante o agente seja pessoa singular ou coletiva:
+1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação muito grave, punível com coima entre (euro) 2 000 e 20 % do volume de negócios do responsável ou (euro) 100 000, consoante o que for inferior:
 
 a) A violação do dever de dispensa dos medicamentos, de acordo com as exigências aplicáveis, previsto nos n.os 1 a 3 do artigo 6.º;
 
@@ -30,9 +30,9 @@ l) A não manutenção da farmácia em funcionamento na sequência da notificaç
 
 m) A abertura, ou o funcionamento, de postos farmacêuticos móveis em violação do disposto no artigo 44.º
 
-2 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação muito grave, punível com coima de (euro) 2000 a (euro) 3740 ou de (euro) 2000 a (euro) 44 890, consoante o agente seja pessoa singular ou coletiva, o facto de:
+2 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação muito grave, punível com coima entre (euro) 2 000 e 30 % do volume de negócios do responsável ou (euro) 120 000, consoante o que for inferior, o facto de:
 
-a) (Revogada);
+a) (Revogado);
 
 b) As ações da sociedade comercial proprietária da farmácia, ou de sociedade que direta ou indiretamente participe no capital daquela, não serem nominativas, em violação do n.º 2 do artigo 14.º
 

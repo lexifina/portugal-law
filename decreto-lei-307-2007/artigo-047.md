@@ -2,7 +2,7 @@
 
 ### Contraordenações leves
 
-1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação leve, punível com coima de (euro) 500 a (euro) 3740 ou de (euro) 500 a (euro) 20 000, consoante o agente seja pessoa singular ou coletiva:
+1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação leve, punível com coima entre (euro) 2 000 e 5 % do volume de negócios do responsável ou (euro) 40 000, consoante o que for inferior:
 
 a) A violação do princípio da igualdade no relacionamento com os utentes, previsto no artigo 5.º;
 
