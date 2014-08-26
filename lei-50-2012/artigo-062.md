@@ -6,7 +6,7 @@
 
 a) As vendas e prestações de serviços realizados durante os últimos três anos não cobrem, pelo menos, 50 % dos gastos totais dos respetivos exercícios;
 
-b) Quando se verificar que, nos últimos três anos, o peso contributivo dos subsídios à exploração atribuídos pela entidade pública participante é superior a 50 % das suas receitas;
+b) Quando se verificar que, nos últimos três anos, o peso contributivo dos subsídios à exploração é superior a 50 % das suas receitas;
 
 c) Quando se verificar que, nos últimos três anos, o valor do resultado operacional subtraído ao mesmo o valor correspondente às amortizações e às depreciações é negativo;
 
@@ -41,13 +41,3 @@ b) Listagem dos postos de trabalho indispensáveis para a prossecução das ativ
 c) Previsão das disponibilidades orçamentais necessárias, nos termos da Lei n.º 8/2012, de 21 de fevereiro, que «Aprova as regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas.
 
 13 - Para efeitos de candidatura aos procedimentos concursais referidos no n.º 8, os trabalhadores cedidos ao abrigo e nos termos do n.º 6 são equiparados a candidatos com relação jurídica de emprego público por tempo indeterminado previamente estabelecida.
-
-14 - O disposto na alínea a) do n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de ensino e formação profissional.
-
-15 - O disposto no n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de gestão de equipamentos e prestação de serviços na área da cultura, da educação, da habitação social, da ação social, do desporto e da ciência, inovação e tecnologia, nem às empresas que exercem atividades nas áreas da silvicultura e cinegética.
-
-16 - Relativamente às entidades a que se refere o n.º 3 do artigo 58.º, a contagem do decurso dos três anos a que se referem as alíneas a) a d) do n.º 1 só se inicia com a entrada em vigor da Lei n.º 69/2015, de 16 de julho, para todos os efeitos constantes da presente lei.
-
-17 - Numa circunstância de dissolução obrigatória determinada pela presente lei, a transmissão de bens do ativo imobilizado da empresa local para o município, durante o decurso do respetivo período de regularização, não determina a obrigação de efetuar, por parte de qualquer destes intervenientes, regularizações no âmbito do imposto sobre o valor acrescentado, salvo se for comprovado que o direito à dedução foi exercido de forma fraudulenta ou abusiva.
-
-18 - Os trabalhadores que foram ou venham a ser integrados no mapa de pessoal do município na base da carreira, na sequência de procedimento concursal, têm direito à contagem do tempo de serviço prestado por tempo indeterminado ao serviço da empresa local, para efeitos de antiguidade e de alteração do posicionamento remuneratório, aplicando-se, com as devidas adaptações, a conversão estabelecida no artigo 113.º da Lei n.º 12-A/2008, de 27 de fevereiro.

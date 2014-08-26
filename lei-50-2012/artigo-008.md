@@ -14,4 +14,4 @@
 
 4 - A criação de serviços municipalizados é comunicada à Direção-Geral das Autarquias Locais, no prazo de 15 dias.
 
-5 - Os serviços intermunicipalizados podem ser criados por entidades intermunicipais ou por um conjunto de dois ou mais municípios, aplicando-se aos mesmos o disposto no presente capítulo.
+5 - Dois ou mais municípios podem criar ainda serviços intermunicipalizados, aplicando-se aos mesmos o disposto no presente capítulo.

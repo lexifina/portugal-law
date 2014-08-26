@@ -19,5 +19,3 @@ e) Distribuição de energia elétrica em baixa tensão.
 3 - Só podem ser criados serviços municipalizados quando esteja em causa a prossecução de atribuições municipais que fundamentem a respetiva gestão sob forma empresarial.
 
 4 - O disposto no n.º 1 não prejudica as situações já existentes à data da entrada em vigor da presente lei.
-
-5 - Os serviços intermunicipalizados podem também ter como objeto a organização e funcionamento de unidades de serviços partilhados dos respetivos municípios.
