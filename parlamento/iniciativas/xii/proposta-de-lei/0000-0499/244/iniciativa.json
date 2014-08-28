@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "244",
+  "id": "38641",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-08-28",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5749324e44426d4e5463744d324e6b5a5330304e6d52694c5467324d324974597a6c6b596a67345a4464694e3255314c6e426b5a673d3d&fich=1b640f57-3cde-46db-863b-c9db88d7b7e5.pdf&Inline=true",
+        "anexoNome": "Relatório"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a5a6a4e446c6a4d4459744e5451794d7930304e7a4d7a4c546b794e5463745a4745314d544d794f574d785a4467334c6e426b5a673d3d&fich=c6c49c06-5423-4733-9257-da51329c1d87.pdf&Inline=true",
+        "anexoNome": "Mapa I"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d55794d446468595745744d5463354e4330304e7a526b4c5467304e6a4d74596a45324e6a52685a4468684f4459354c6e426b5a673d3d&fich=fe207aaa-1794-474d-8463-b1664ad8a869.pdf&Inline=true",
+        "anexoNome": "Mapa II"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595455795a545134593245744f4745344d69303059545a6b4c546c694d3249744e54686a596d4e6c59324a685932497a4c6e426b5a673d3d&fich=a52e48ca-8a82-4a6d-9b3b-58cbcecbacb3.pdf&Inline=true",
+        "anexoNome": "Mapa III"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595755794d4463314f474d744e5445344d5330304d3249354c5746684d7a63744f446778597a4d334f4446694e7a526c4c6e426b5a673d3d&fich=ae20758c-5181-43b9-aa37-881c3781b74e.pdf&Inline=true",
+        "anexoNome": "Mapa IV"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a49314e6d56694e4459744d7a45324e6930305a6a526c4c546779596d55744d546b344f44417a4e574d794d6a45774c6e426b5a673d3d&fich=b256eb46-3166-4f4e-82be-1988035c2210.pdf&Inline=true",
+        "anexoNome": "Mapa V"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d55794e3245334e4745745a6a68694d793030595755334c574935597a63744e7a646b5a444d334e6d5669597a6c6d4c6e426b5a673d3d&fich=2e27a74a-f8b3-4ae7-b9c7-77dd376ebc9f.pdf&Inline=true",
+        "anexoNome": "Mapa VI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d4d795a544133596d59744d7a59354e5330304e4464684c54686d4e575974596a63334e444135595445334e444a6c4c6e426b5a673d3d&fich=bc2e07bf-3695-447a-8f5f-b77409a1742e.pdf&Inline=true",
+        "anexoNome": "Mapa VII"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659325a6d4d7a63354e6a49744e6a417a4d5330305a5459304c57466b4f5463744d6d45314e4455324d7a686b596d55794c6e426b5a673d3d&fich=cff37962-6031-4e64-ad97-2a545638dbe2.pdf&Inline=true",
+        "anexoNome": "Mapa VIII"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e474933595745304f4759744e574d324e4330304d4451324c574a6d4e4451744e6a52685a546c6b4e5451304e6d46684c6e426b5a673d3d&fich=4b7aa48f-5c64-4046-bf44-64ae9d5446aa.pdf&Inline=true",
+        "anexoNome": "Mapa IX"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a6b784f446c6a5a4759744e4759325a5330305a6a646d4c5467794d5467744d5755325932526d5a6d4e6b4f44417a4c6e426b5a673d3d&fich=f9189cdf-4f6e-4f7f-8218-1e6cdffcd803.pdf&Inline=true",
+        "anexoNome": "Mapa X"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5751794e57526b4d3249744e6d566d4e4330304d7a49324c546b34595755744e5751784d446c6a4d6a45775a6d49774c6e426b5a673d3d&fich=1d25dd3b-6ef4-4326-98ae-5d109c210fb0.pdf&Inline=true",
+        "anexoNome": "Mapa XI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e475a6b59324d785a4459744e474a694d7930305a6a646a4c574a6c5a54457459546c6d5954566c4d44566d5a4745774c6e426b5a673d3d&fich=4fdcc1d6-4bb3-4f7c-bee1-a9fa5e05fda0.pdf&Inline=true",
+        "anexoNome": "Mapa XII"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d566c4e444a6d4d4445744e44426c595330305957466c4c546731596a51744d6a6b305a4749344d7a46694d47466b4c6e426b5a673d3d&fich=fee42f01-40ea-4aae-85b4-294db831b0ad.pdf&Inline=true",
+        "anexoNome": "Mapa XIII"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659574531593255315a6d4d744d6d5a685a6930304f4463324c5745794d6d45744e3249334d7a63324d5749794e324d334c6e426b5a673d3d&fich=aa5ce5fc-2faf-4876-a22a-7b73761b27c7.pdf&Inline=true",
+        "anexoNome": "Mapa XIV"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d44426d4e5745304d6a4d744d7a59304d6930304e7a63344c5746684f4467744e44593359325a6b4d4745334d544a6a4c6e426b5a673d3d&fich=00f5a423-3642-4778-aa88-467cfd0a712c.pdf&Inline=true",
+        "anexoNome": "Mapa XV"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38641",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d457659324d355a6d45314e474d74595751784d7930304d546b784c5749324e6d59744e4441355a5746694e4459795a44646a4c6d527659773d3d&fich=cc9fa54c-ad13-4191-b66f-409eab462d7c.doc&Inline=true",
+    "IniNr": "244",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014),",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
