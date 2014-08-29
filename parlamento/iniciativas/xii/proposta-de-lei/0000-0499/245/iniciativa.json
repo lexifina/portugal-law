@@ -1,0 +1,64 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "245",
+  "id": "38642",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-08-29",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e32566c4e4759354f5467744f54426d4e7930305a5467794c546b355a6a49744e47593359546b774f54597859574d774c6e426b5a673d3d&fich=7ee4f998-90f7-4e82-99f2-4f7a90961ac0.pdf&Inline=true",
+        "anexoNome": "Parecer APR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d49785a574d345a474d744d7a41774d5330304e7a5a6b4c5745795a4451744e5755324d6a59324e546b78597a45784c6e426b5a673d3d&fich=6b1ec8dc-3001-476d-a2d4-5e6266591c11.pdf&Inline=true",
+        "anexoNome": "Parecer APRITEL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595755304e574d344f4467744d7a526a4d7930305a6a49794c57466a596a55744d544d305a6a49795a5446694e324d324c6e426b5a673d3d&fich=ae45c888-34c3-4f22-acb5-134f22e1b7c6.pdf&Inline=true",
+        "anexoNome": "Parecer AGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a4e685a6d46685a4759744f4463344f5330304f54557a4c57497a597a49744e574a694e44566d4f44417a4e5463304c6d527659773d3d&fich=33afaadf-8789-4953-b3c2-5bb45f803574.doc&Inline=true",
+        "anexoNome": "Parecer SPA 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a57497a5a6a426b5a4749744f4441774f433030596a4a684c5745784e7a67745a6a593159324d784d7a55314e7a51314c6d527659773d3d&fich=eb3f0ddb-8008-4b2a-a178-f65cc1355745.doc&Inline=true",
+        "anexoNome": "Parecer SPA 2"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38642",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e446b33595449324e7a51744e6d4e684e5330304d4759334c546b304f4751744e474d32596d5933597a68695a6a51324c6d527659773d3d&fich=497a2674-6ca5-40f7-948d-4c6bf7c8bf46.doc&Inline=true",
+    "IniNr": "245",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Regula as entidades de gestão coletiva do direito de autor e dos direitos conexos, inclusive quanto ao estabelecimento em território nacional e à livre prestação de serviços das entidades previamente estabelecidas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
