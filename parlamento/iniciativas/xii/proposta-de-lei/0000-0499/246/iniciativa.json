@@ -1,0 +1,88 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "246",
+  "id": "38643",
+  "fases": 23,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-08-29",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2014-09-14",
+    "DataInicioleg": "2013-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a52694e5449774d6a41744e475a6a59793030596d51784c57457a4d3255745a44426d5a4449785a446b314f575a6a4c6e426b5a673d3d&fich=74b52020-4fcc-4bd1-a33e-d0fd21d959fc.pdf&Inline=true",
+        "anexoNome": "Parecer APED"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a5a6d4e5755344d6a557459545130595330305932497a4c574a6a4e6a55744e445934596d59774d5467774f5463304c6e426b5a673d3d&fich=b6f5e825-a44a-4cb3-bc65-468bf0180974.pdf&Inline=true",
+        "anexoNome": "Parecer DECO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4449795a44526b4d6a63744d7a49794f4330304d7a466a4c546c685a6d4d744e6a517a5a546c6d4e474d354e5749784c6e426b5a673d3d&fich=022d4d27-3228-431c-9afc-643e9f4c95b1.pdf&Inline=true",
+        "anexoNome": "Parecer AGECOP 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4751315a5441344e5441744e544a6d4e5330305a6a5a6a4c5745334d5755744d32526a4d6a6c6c4e6d4a6b4d6a4d334c6e426b5a673d3d&fich=4d5e0850-52f5-4f6c-a71e-3dc29e6bd237.pdf&Inline=true",
+        "anexoNome": "Parecer APRITEL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d545933595459314f574d745932526c4e533030596d49354c574a6a4e6a4d744d6a55314e47526d5a4745334d7a49304c6e426b5a673d3d&fich=167a659c-cde5-4bb9-bc63-2554dfda7324.pdf&Inline=true",
+        "anexoNome": "Parecer CTP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d51324e47466b4f5459744e575933595330304e6a56694c57466b4d6a6b744f44646a4d3251304d445577597a4d334c6e426b5a673d3d&fich=fd64ad96-5f7a-465b-ad29-87c3d4050c37.pdf&Inline=true",
+        "anexoNome": "Parecer CCP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4759355a446b784e5759744e6a55774d4330304e6a56694c5746684e7a67744d5445335a54646b4e7a6b7a596a49354c6d52765933673d&fich=4f9d915f-6500-465b-aa78-117e7d793b29.docx&Inline=true",
+        "anexoNome": "Parecer UGC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a67784f5459344e4749744f57457759793030595749324c54686c593251744d44417a5a54466a596a517a4e6a49324c6e426b5a673d3d&fich=7819684b-9a0c-4ab6-8ecd-003e1cb43626.pdf&Inline=true",
+        "anexoNome": "Parecer CIP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d44466b4d6a4a684d6d45744d6a646c4f433030595751324c546c6a4f544d74596d4e6d4e6a6b324f57466c595467304c6e426b5a673d3d&fich=01d22a2a-27e8-4ad6-9c93-bcf6969aea84.pdf&Inline=true",
+        "anexoNome": "Parecer CSP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5455314e325178593251744e5759774d5330304d6d59784c5745775a5445744d7a67315a5463304e444a6c595441344c6e426b5a673d3d&fich=9557d1cd-5f01-42f1-a0e1-385e7442ea08.pdf&Inline=true",
+        "anexoNome": "Parecer AGECOP 2"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a546469595449345a5441744f544e69597930304f5467774c57497a5a6d4d745a6d59334e6d4d304d446c6c4f5745324c6e426b5a673d3d&fich=e7ba28e0-93bc-4980-b3fc-ff76c409e9a6.pdf&Inline=true",
+        "anexoNome": "Parecer APR"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38643",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a5a6c4e7a59774e4751745a5755324d4330304f4751344c546b794d3249744d6d4e6c4e5755354e575a6b4e47526a4c6d527659773d3d&fich=c6e7604d-ee60-48d8-923b-2ce5e95fd4dc.doc&Inline=true",
+    "IniNr": "246",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
