@@ -16,7 +16,7 @@ e) Os projectos e as propostas de leis de programação militar;
 
 f) O projecto de conceito estratégico de defesa nacional;
 
-g) A participação de destacamentos das Forças Armadas em operações militares no exterior do território nacional;
+g) A participação de destacamentos das Forças Armadas, e de outras forças quando integradas numa força militar, em operações militares no exterior do território nacional;
 
 h) A organização da protecção civil, da assistência às populações e da salvaguarda dos bens públicos e particulares, em caso de guerra;
 
@@ -28,10 +28,10 @@ l) Outros assuntos relativos à defesa nacional e às Forças Armadas que lhe se
 
 2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Conselho Superior de Defesa Nacional, no âmbito administrativo:
 
-a) Confirmar o conceito estratégico militar e aprovar as missões específicas das Forças Armadas e os sistemas de forças necessários ao seu cumprimento, após proposta do Ministro da Defesa Nacional;
+a) Confirmar o conceito estratégico militar e aprovar as missões específicas das Forças Armadas e o sistema de forças necessário ao seu cumprimento, após proposta do Ministro da Defesa Nacional;
 
 b) Exercer, em tempo de guerra, as competências previstas no artigo 43.º;
 
-c) Aprovar as propostas de nomeação e exoneração do Presidente do Supremo Tribunal Militar, a funcionar em tempo de guerra, dos comandantes-chefes, dos comandantes ou representantes militares junto da organização de qualquer aliança de que Portugal seja membro, bem como os oficiais generais, comandantes de força naval, terrestre ou aérea destinadas ao cumprimento de missões internacionais naquele quadro.
+c) Aprovar as propostas de nomeação e exoneração dos comandantes-chefes.
 
 3 - Os pareceres do Conselho Superior de Defesa Nacional só são publicados quando aquele assim o deliberar.

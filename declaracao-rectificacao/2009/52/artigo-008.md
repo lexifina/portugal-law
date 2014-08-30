@@ -16,12 +16,18 @@ c) O Governo;
 
 d) O Conselho Superior de Defesa Nacional;
 
-e) O Conselho Superior Militar.
+e) (Revogada.)
 
 2 - Além dos órgãos referidos no número anterior, são directamente responsáveis pelas Forças Armadas e pela componente militar da defesa nacional:
 
-a) O Conselho de Chefes de Estado-Maior;
+a) (Revogada.)
 
 b) O Chefe do Estado-Maior-General das Forças Armadas;
 
 c) Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.
+
+3 - São órgãos de consulta em matéria de defesa nacional:
+
+a) O Conselho Superior Militar;
+
+b) O Conselho de Chefes de Estado-Maior.

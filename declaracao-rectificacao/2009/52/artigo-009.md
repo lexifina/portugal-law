@@ -19,3 +19,5 @@ e) Ratificar os tratados internacionais em que o Estado assume responsabilidades
 f) Presidir ao Conselho Superior de Defesa Nacional;
 
 g) Nomear e exonerar, sob proposta do Governo, o Chefe do Estado-Maior-General das Forças Armadas, bem como, ouvido o Chefe do Estado-Maior-General das Forças Armadas, os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.
+
+h) Nomear e exonerar, sob proposta do Governo, os comandantes ou representantes militares junto das organizações internacionais de que Portugal faça parte, bem como os oficiais generais, comandantes de força naval, terrestre ou aérea, designados para o cumprimento de missões internacionais naquele quadro.

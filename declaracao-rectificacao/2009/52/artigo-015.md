@@ -2,7 +2,7 @@
 
 ### Competências dos outros ministros
 
-1 - Em conjunção com o Ministro da Defesa Nacional, todos os outros ministros asseguram a execução de componentes não militares da política de defesa nacional que se insiram no âmbito das atribuições dos respectivos ministérios.
+1 - Em coordenação com o Ministro da Defesa Nacional, todos os outros ministros asseguram a execução de componentes não militares da política de defesa nacional que se insiram no âmbito das atribuições dos respetivos ministérios.
 
 2 - Compete, em especial, a cada ministro:
 

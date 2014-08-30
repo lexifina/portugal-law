@@ -6,13 +6,13 @@
 
 2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Primeiro-Ministro, em matéria de defesa nacional:
 
-a) Dirigir a actividade interministerial de execução da política de defesa nacional e das Forças Armadas;
+a) Dirigir a atividade interministerial de execução da política de defesa nacional e das Forças Armadas, incluindo a definição da política nacional de planeamento civil de emergência;
 
 b) Participar no Conselho Superior de Defesa Nacional;
 
 c) Informar o Presidente da República sobre a política e as decisões nas matérias da defesa nacional e das Forças Armadas;
 
-d) Sem prejuízo do disposto na alínea anterior, o emprego de Forças Armadas em operações militares no exterior do território nacional é sempre precedido de comunicação fundamentada do Primeiro-Ministro ao Presidente da República;
+d) Sem prejuízo do disposto na alínea anterior, o emprego das Forças Armadas, e de outras forças quando integradas numa força militar, em operações militares no exterior do território nacional é sempre precedido de comunicação fundamentada do Primeiro-Ministro ao Presidente da República;
 
 e) Informar o Presidente da República, através de comunicação fundamentada, sobre o emprego das Forças Armadas em missões que envolvam a colaboração com as forças e os serviços de segurança contra agressões ou ameaças transnacionais;
 

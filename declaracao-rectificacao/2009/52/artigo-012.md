@@ -22,13 +22,13 @@ g) Aprovar as orientações fundamentais da política de defesa nacional, a incl
 
 h) Aprovar o conceito estratégico de defesa nacional;
 
-i) Determinar a mobilização dos cidadãos para a defesa nacional.
+i) Assegurar a organização e funcionamento do Sistema Nacional de Mobilização e Requisição e determinar a mobilização dos cidadãos para a defesa nacional, nos termos da lei.
 
 3 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Governo, em matéria de defesa nacional, no âmbito administrativo:
 
 a) Assegurar o cumprimento da Constituição e das leis relativas à defesa nacional e às Forças Armadas, nomeadamente fazendo os regulamentos necessários à sua boa execução;
 
-b) Sem prejuízo da competência da Assembleia da República, orientar e fiscalizar a execução da lei de programação militar e do orçamento das Forças Armadas, bem como a respectiva gestão patrimonial, supervisionando o exercício das competências próprias e delegadas dos chefes de estado-maior em matéria de administração financeira;
+b) Sem prejuízo da competência da Assembleia da República, orientar e fiscalizar a execução da lei de programação militar e do orçamento da defesa nacional, bem como a respetiva gestão patrimonial, supervisionando o exercício das competências próprias e delegadas dos Chefes de Estado-Maior em matéria de administração financeira;
 
 c) Assegurar que a defesa nacional é exercida beneficiando das actividades de informações dos órgãos competentes do Sistema de Informações da República Portuguesa (SIRP) e das Forças Armadas, nos termos da lei;
 
@@ -41,3 +41,7 @@ f) Dirigir os órgãos e serviços da administração directa e exercer tutela e
 g) Requisitar os bens móveis e imóveis, materiais e imateriais, indispensáveis para a defesa nacional;
 
 h) Aprovar os mecanismos que assegurem a cooperação entre as Forças Armadas e as forças e os serviços de segurança, tendo em vista o cumprimento conjugado das suas missões no âmbito do combate a agressões ou ameaças transnacionais.
+
+i) Comunicar à Assembleia da República, nos termos da lei, a decisão do Governo de envolver contingentes ou forças militares em operações militares no estrangeiro, e apresentar relatórios circunstanciados sobre esse envolvimento, sem prejuízo de outras informações pontuais ou urgentes que lhe sejam solicitadas;
+
+j) Propor ao Presidente da República a nomeação e a exoneração dos comandantes ou representantes militares junto das organizações internacionais de que Portugal faça parte, bem como dos oficiais generais, comandantes de força naval, terrestre ou aérea, designados para o cumprimento de missões internacionais naquele quadro.
