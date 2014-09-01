@@ -1,0 +1,6 @@
+Aviso n.º 79/2014
+Por ordem superior se torna público que, por notificação datada de 24 de abril de 2014, o Conselho Federal Suíço comunicou ter a República Portuguesa depositado, a 22 de abril de 2014, o seu instrumento de ratificação do Protocolo Adicional às Convenções de Genebra de 12 de Agosto de 1949 Relativo à Adoção de Um Emblema Distintivo Adicional (Protocolo III), adotado em Genebra em 8 de dezembro de 2005.
+O Protocolo entrará em vigor para a República Portuguesa seis meses após o depósito deste instrumento, ou seja, a 22 de outubro de 2014, em conformidade com o n.º 2 do seu artigo 11.º
+O Protocolo Adicional às Convenções de Genebra de 12 de Agosto de 1949 Relativo à Adoção de Um Emblema Distintivo Adicional (Protocolo III), adotado em Genebra em 8 de dezembro de 2005, foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 14/2014 e ratificado pelo Decreto do Presidente da República n.º 12/2014, ambos publicados no Diário da República, 1.ª série, n.º 33, de 17 de fevereiro de 2014.
+Posteriormente foi retificado pela Declaração de Retificação n.º 10-A/2014 e Declaração de Retificação n.º 10-B/2014 respetivamente, ambas publicadas no Diário da República, 1.ª série, n.º 37, de 21 de fevereiro de 2014.
+Departamento de Assuntos Jurídicos, 11 de agosto de 2014. - A Diretora, Rita Faden.
