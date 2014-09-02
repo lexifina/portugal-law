@@ -1,0 +1,19 @@
+Resolução do Conselho de Ministros n.º 53/2014
+A Autoridade Nacional de Segurança Rodoviária (ANSR) é um serviço central da administração direta do Estado dotado de autonomia administrativa, integrado no Ministério da Administração Interna, que tem por missão o planeamento e coordenação a nível nacional de apoio à política do Governo em matéria de segurança rodoviária, bem como a aplicação do direito contraordenacional rodoviário.
+No domínio da sua missão e atribuições legais a ANSR prossegue a obrigação de fiscalizar o cumprimento das disposições legais sobre trânsito e segurança rodoviária e assegurar o processamento e a gestão dos autos levantados por infrações ao Código da Estrada e legislação complementar.
+Para a prossecução da sua missão e atribuições, nos termos previstos no Decreto Regulamentar n.º 28/2012, de 12 de março, que aprova a orgânica da ANSR, são essenciais os serviços de gestão de processos de contraordenações rodoviárias.
+Tendo presente o elevado volume de expediente de autos de contraordenação rodoviária, a sua cobrança e arquivo em formato digital, o registo centralizado dos autos levantados por infrações ao Código da Estrada, o arquivo e gestão documental dos processos por contraordenações rodoviárias, bem como o acesso, sob a forma digitalizada, das entidades envolvidas ao seu conteúdo, é necessário proceder à aquisição de serviços de gestão de processos de contraordenações rodoviárias.
+A agregação daqueles serviços permite uma atuação mais eficiente da Administração Pública, através da racionalização de procedimentos com a consequente redução de custos, e a diminuição dos tempos de tramitação do processo contraordenacional, contribuindo, assim, para a diminuição da taxa de prescrições.
+A aquisição dos referidos serviços de gestão de processos de contraordenações rodoviárias implica a abertura de um concurso limitado por prévia qualificação com publicação de anúncio no Jornal Oficial da União Europeia e dá origem a encargos orçamentais em mais de um ano económico, tornando-se, assim, necessário proceder à repartição plurianual do respetivo encargo financeiro.
+Assim
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Autoridade Nacional de Segurança Rodoviária (ANSR) a realizar a despesa relativa à aquisição de serviços de gestão de processos de contraordenação, para os anos de 2015 a 2017, até ao montante global máximo de 4 615 500,00 EUR, acrescido de IVA à taxa legal em vigor, com recurso ao procedimento pré-contratual de concurso público com publicação de anúncio no Jornal Oficial da União Europeia.
+2 - Determinar que os encargos resultantes da aquisição referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
+a) 2015 - 1 538 500,00 EUR;
+b) 2016 - 1 538 500,00 EUR;
+c) 2017 - 1 538 500,00 EUR.
+3 - Estabelecer que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+4 - Estabelecer que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento da ANSR.
+5 - Delegar no Ministro da Administração Interna, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito do procedimento referido no n.º 1.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 28 de agosto de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
