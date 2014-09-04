@@ -1,0 +1,987 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "244",
+    "id": "38641",
+    "titulo": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014),"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-09-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10102",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-09-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-09-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:03:01:329&drc=00:09:29:063"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:35:34:765&drc=00:04:45:911"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:49:21:385&drc=00:03:29:527"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:32:36:617&drc=00:04:16:096"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DE ESTADO E DAS FINANÇAS",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Luís Albuquerque"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-12",
+                  "14-15",
+                  "2-4",
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/2?pgs=2-4,10-12,14-15,25-26&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:12:50:969&drc=00:01:54:125"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:14:51:443&drc=00:02:12:817"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:17:08:751&drc=00:02:35:742"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:19:47:526&drc=00:04:34:308"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:24:23:459&drc=00:07:00:169"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/7?pgs=7-9&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:31:26:615&drc=00:04:02:537"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:43:46:832&drc=00:02:11:651"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/11?pgs=11-13&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:46:01:323&drc=00:03:15:643"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4187",
+                "nome": "Pedro Jesus Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=00:52:53:674&drc=00:07:22:766"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:03:22:264&drc=00:01:29:996"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/15?pgs=15-17&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4318",
+                "nome": "Nuno Serra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:00:21:463&drc=00:02:55:815"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:04:54:683&drc=00:04:21:114"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:09:18:165&drc=00:05:24:835"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/18?pgs=18-20&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:14:46:137&drc=00:06:52:150"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:21:41:262&drc=00:04:07:445"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:25:50:836&drc=00:03:26:618"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4152",
+                "nome": "Fernando Virgílio Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "16:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140904pln&url=l12/sl3/a2014/m09/&tI=01:29:20:722&drc=00:03:11:747"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-05",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "299703",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10102",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-05",
+        "pubLeg": "XII",
+        "pubNr": "109",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/03/109/2014-09-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2014-09-04",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "67315",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "107",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
