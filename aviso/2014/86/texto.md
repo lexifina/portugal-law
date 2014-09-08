@@ -1,0 +1,7 @@
+Aviso n.º 86/2014
+Por ordem superior se torna público o depósito, junto da Diretora-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), dos seguintes instrumentos de ratificação, aceitação, ou adesão à Convenção Sobre a Proteção e a Promoção da Diversidade das Expressões Culturais e o respetivo anexo, adotada em Paris, na 33.ª Sessão da Conferência Geral da UNESCO, em 20 de outubro de 2005:
+
+(ver documento original)
+A República Portuguesa é parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 10-A/2007, conforme publicado no Diário da República 1ª série, n.º 54, de 16 de março de 2007, e ratificada pelo Decreto do Presidente da República n.º 27-B/2007 do Diário da República 1ª série, n.º 54, de 16 de março de 2007, tendo depositado o seu instrumento de ratificação a 16 de março de 2007, de acordo com o Aviso n.º 344/2007 publicado no Diário da República 1ª série, n.º 81, de 26 de abril de 2007.
+Nos termos do seu artigo 32.º, a Convenção em apreço entrou em vigor para a República Portuguesa três meses após a data do depósito do instrumento de ratificação, ou seja, no dia 16 de junho de 2007.
+Direção-Geral de Política Externa, 20 de agosto de 2014. - O Subdiretor-Geral, Rui Vinhas.
