@@ -1,0 +1,11 @@
+# Artigo 69.º
+
+### Participação, ação administrativa especial e declaração de nulidade
+
+1 - Os factos geradores das nulidades previstas no artigo anterior e quaisquer outros factos de que possa resultar a invalidade dos atos administrativos previstos no presente diploma devem ser participados, por quem deles tenha conhecimento, ao Ministério Público, para efeitos de propositura da competente ação administrativa especial e respetivos meios processuais acessórios.
+
+2 - Quando tenha por objeto atos de licenciamento ou autorizações de utilização com fundamento em qualquer das invalidades previstas no artigo anterior, a citação ao titular da licença ou da autorização de utilização para contestar a ação referida no número anterior tem os efeitos previstos no artigo 103.º para o embargo, sem prejuízo do disposto no número seguinte.
+
+3 - O tribunal pode, oficiosamente ou a requerimento dos interessados, autorizar o prosseguimento dos trabalhos caso do recurso resultem indícios de ilegalidade da sua interposição ou da sua improcedência, devendo o juiz decidir esta questão, quando a ela houver lugar, no prazo de 10 dias.
+
+4 - A possibilidade de o órgão que emitiu o ato ou deliberação declarar a nulidade caduca no prazo de 10 anos, caducando também o direito de propor a ação prevista no n.º 1 se os factos que determinaram a nulidade não forem participados ao Ministério Público nesse prazo, exceto relativamente a monumentos nacionais e respetiva zona de proteção.
