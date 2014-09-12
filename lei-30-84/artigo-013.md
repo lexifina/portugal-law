@@ -6,4 +6,4 @@
 
 2 - Os membros do Conselho de Fiscalização auferem uma remuneração fixa, de montante a estabelecer por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do membro do Governo responsável pela Administração Pública, acumulável com qualquer outra remuneração, pública ou privada.
 
-3 - Os membros do Conselho de Fiscalização auferem, por cada reunião, senhas de presença e subsídios de transporte idênticos aos praticados para os deputados.
+3 - (Revogado.)

@@ -24,8 +24,10 @@ g) Dirigir a actividade dos centros de dados do Serviço de Informações Estrat
 
 h) Nomear e exonerar, sob proposta dos respectivos directores, o pessoal do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança, com excepção daquele cuja designação compete ao Primeiro-Ministro;
 
-i) Exercer o poder disciplinar dentro dos limites que a lei determinar;
+i) Criar, gerir, analisar e manter atualizado e sigiloso o registo de interesses a efetuar pelos funcionários, agentes e dirigentes dos serviços de informações, das estruturas comuns e do gabinete do Secretário-Geral;
 
-j) Orientar a elaboração dos orçamentos do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança;
+j) Exercer o poder disciplinar dentro dos limites que a lei determinar;
+
+k) Orientar a elaboração dos orçamentos do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança;
 
 l) Aprovar os relatórios anuais do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança.

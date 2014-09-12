@@ -10,4 +10,6 @@
 
 4- A fiscalização exerce-se através de verificações periódicas dos programas, dados e informações por amostragem, fornecidos sem referência nominativa.
 
-5 - A Comissão de Fiscalização de Dados deve ordenar o cancelamento ou rectificação de dados recolhidos que envolvam violação dos direitos, liberdades e garantias consignados na Constituição e na lei e, se for caso disso, exercer a correspondente acção penal.
+5 - A fiscalização exerce-se igualmente pelo acesso a dados e informações com referência nominativa, particularmente quando a Comissão de Fiscalização de Dados entenda estar perante denúncia ou suspeita fundamentada da sua recolha ilegítima ou infundada.
+
+6 - A Comissão de Fiscalização de Dados deve ordenar o cancelamento ou rectificação de dados recolhidos que envolvam violação dos direitos, liberdades e garantias consignados na Constituição e na lei e, se for caso disso, exercer a correspondente acção penal.

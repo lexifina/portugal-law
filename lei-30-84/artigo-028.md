@@ -12,6 +12,6 @@
 
 3 - O dever de sigilo a que se refere o número anterior mantém-se além do termo do exercício das suas funções, não podendo, em caso algum e por qualquer forma, ser quebrado por aqueles que deixaram de ser funcionários ou agentes dos serviços de informações.
 
-4 - A violação dos deveres previstos nos números anteriores é punível com prisão até 3 anos, se pena mais grave não lhe for aplicável.
+4 - A violação dos deveres previstos nos números anteriores é punível com prisão até 5 anos, se pena mais grave não lhe for aplicável.
 
 5 - Sem prejuízo do disposto no número anterior, a violação do dever previsto no n.º 2 é ainda punível com a pena disciplinar de demissão ou outra medida que implique o imediato afastamento do infractor.
