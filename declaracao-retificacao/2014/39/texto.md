@@ -1,0 +1,7 @@
+Declaração de Retificação n.º 39/2014
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que o Decreto-Lei n.º 127/2014, de 22 de agosto, publicado no Diário da República, 1.ª série, n.º 161, de 22 de agosto de 2014, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No 5.º parágrafo do preâmbulo, onde se lê:
+«Pelo presente diploma concretizam-se, assim, as competências atribuídas à ERS em matéria de licenciamento dos estabelecimentos prestadores de cuidados de saúde, passando esta entidade a concentrar todo o processo, em conformidade com disposto no [REG DL 66/2014], que procede à adaptação da ERS, ao regime estabelecido na lei-quadro das entidades reguladoras, aprovada em anexo à Lei n.º 67/2013, de 28 de agosto.»
+deve ler-se:
+«Pelo presente diploma concretizam-se, assim, as competências atribuídas à ERS em matéria de licenciamento dos estabelecimentos prestadores de cuidados de saúde, passando esta entidade a concentrar todo o processo, em conformidade com disposto no Decreto-Lei n.º 126/2014, de 22 de agosto, que procede à adaptação da ERS, ao regime estabelecido na lei-quadro das entidades reguladoras, aprovada em anexo à Lei n.º 67/2013, de 28 de agosto.»
+Secretaria-Geral, 9 de setembro de 2014. - Pelo Secretário-Geral, a Secretária-Geral Adjunta, Catarina Maria Romão Gonçalves.
