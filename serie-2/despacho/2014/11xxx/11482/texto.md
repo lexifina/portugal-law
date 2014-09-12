@@ -1,0 +1,5 @@
+Despacho n.º 11482/2014
+Ao abrigo do disposto, nomeadamente, no artigo 74.º-A do Estatuto da Carreira Docente Universitária e no artigo 35.º-A do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, alterados e republicados em anexo aos Decretos-Leis n.os 205/2009 e 207/2009, ambos de 31 de agosto, e com alterações introduzidas pelas Leis n.os 8 e 7/2010, ambas de 13 de maio, conjugados com o artigo 48.º n.º 1 alínea q) dos Estatutos da Universidade dos Açores, homologados pelo despacho normativo n.º 65-A/2008, de 10 de dezembro, publicado no Diário da República, 2.ª série, n.º 246, de 22 de dezembro e com o artigo 92.º n.º 1 alínea o) do Regime Jurídico das Instituições do Ensino Superior, aprovado pela Lei n.º 62/2007, de 10 de setembro, determino:
+É revogado o n.º 8 do artigo 23.º do Regulamento de Avaliação do Desempenho dos Docentes da Universidade dos Açores, aprovado por despacho do Reitor da Universidade dos Açores datado de 2 de setembro de 2010, publicado no Diário da República, 2.ª série, n.º 183, de 20 de setembro, conforme aviso n.º 18509/2010.
+5 de setembro de 2014. - O Reitor, João Luís Roque Baptista Gaspar.
+208077948
