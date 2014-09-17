@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12552",
+  "numero": "427",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-09-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-12-17",
+            "entidades": null,
+            "id": "98974",
+            "tipo": null,
+            "titulo": "Audição em 2014-12-17 com ANSOL - Associação Nacional para o Software Livre"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-01-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-09-24",
+        "DataArquivo": "2015-01-21",
+        "DataBaixaComissao": "2014-09-19",
+        "DataEnvioPAR": "2015-01-21",
+        "DataReaberta": "2014-09-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-09-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e7a466b5a6a566c4f5445744e54686b4e4330304d546c6a4c5749324e6d59744d324a6d5a6d466b4f54466d5a446b314c6e426b5a673d3d&fich=71df5e91-58d4-419c-b66f-3bffad91fd95.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-01-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a59573876596a51304f544978595751744e5745784e5330304e6a49304c5745785a5759744d44566a4f546c695a6a6b354e474e6c4c6e426b5a673d3d&fich=b44921ad-5a15-4624-a1ef-05c99bf994ce.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3510",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-09-24",
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-05-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-09-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324e695a474534596a51334c5745355a5445744e44646c597930354d474d784c544a6b595749344f546b325a5459304f5335515245593d&fich=cbda8b47-a9e1-47ec-90c1-2dab8996e649.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12552",
+    "PetAssunto": "Impedir a aprovação da Proposta de Lei n.º 246/XII - cópia privada.",
+    "PetDataEntrada": "2014-09-17",
+    "PeticoesAssociadas": null,
+    "PetId": "12552",
+    "PetLeg": "XII",
+    "PetNr": "427",
+    "PetNrAssinaturas": "5196",
+    "PetNrAssinaturasInicial": "5196",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "700302",
+        "obs": null,
+        "pag": [
+          "11-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-27",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/002/2014-09-27/11?pgs=11-12&org=PLC"
+      }
+    ]
+  }
+}
