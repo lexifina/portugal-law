@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "195860",
+  "tipo": "Intervenção",
+  "orador": "Mariana Mortágua (BE)",
+  "data_registo": "2014-09-18",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "29424",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29424",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre as privatizações das empresas públicas de transportes."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Insurge-se contra as privatizações das empresas públicas de transportes, que o Governo pretende levar a cabo.",
+        "duracao": "00:07:37:525",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:07:47:089&drc=00:07:37:525"
+      },
+      {
+        "assunto": "Responde a Adriano Rafael Moreira e Bruno Dias acerca da sua declaração contra as privatizações das empresas públicas de transportes, que o Governo pretende levar a cabo.",
+        "duracao": "00:03:41:707",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:22:52:957&drc=00:03:41:707"
+      },
+      {
+        "assunto": "Responde a Rui Paulo Figueiredo e Helder Amaral acerca da sua declaração contra as privatizações das empresas públicas de transportes, que o Governo pretende levar a cabo.",
+        "duracao": "00:04:17:470",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:34:35:233&drc=00:04:17:470"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-09-18",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "4557",
+      "nome": "Mariana Mortágua"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "195860",
+    "IdDebate": "4842",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "195860",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "34-36",
+          "37-38",
+          "40-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-19",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19/34?pgs=34-36,37-38,40-42&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Respondeu a pedidos de esclarecimento dos Deputados Adriano Rafael Moreira (PSD), Bruno Dias (PCP), Rui Paulo Figueiredo (PS) e Hélder Amaral (CDS-PP).",
+    "Sessao": "4",
+    "Sumario": "Sobre as privatizações das empresas públicas de transportes.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
