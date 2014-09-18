@@ -1,0 +1,386 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1101",
+    "id": "38627",
+    "titulo": "Recomenda ao Governo que avalie o regime facultativo de IVA de caixa, criado através do Decreto-lei n.º 71/2013, de 30 de maio e que promova medidas que minimizem os problemas de tesouraria das PME's, designadamente através de um programa de pagamento das dívidas em atraso por parte das entidades públicas e da criação de um regime especial de liquidação do Imposto sobre o Valor Acrescentado (IVA) para as transações em que o Estado figure como cliente."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2014-09-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10110",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2014-09-18",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-09-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4368",
+                "nome": "Paulo Ribeiro de Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:40:08:702&drc=00:03:22:970"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=03:02:41:276&drc=00:02:19:372"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42",
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-19",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19/42?pgs=42,48-49&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que avalie o regime facultativo de IVA de caixa, criado através do Decreto-lei n.º 71/2013, de 30 de maio e que promova medidas que minimizem os problemas de tesouraria das PME’s, designadamente através de um programa de pagamento das dívidas em atraso por parte das entidades públicas e da criação de um regime especial de liquidação do Imposto sobre o Valor Acrescentado (IVA) para as transações em que o Estado figure como cliente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4336",
+                "nome": "Elsa Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:43:37:862&drc=00:04:00:150"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-19",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que avalie o regime facultativo de IVA de caixa, criado através do Decreto-lei n.º 71/2013, de 30 de maio e que promova medidas que minimizem os problemas de tesouraria das PME’s, designadamente através de um programa de pagamento das dívidas em atraso por parte das entidades públicas e da criação de um regime especial de liquidação do Imposto sobre o Valor Acrescentado (IVA) para as transações em que o Estado figure como cliente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:47:44:051&drc=00:03:42:880"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-19",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que avalie o regime facultativo de IVA de caixa, criado através do Decreto-lei n.º 71/2013, de 30 de maio e que promova medidas que minimizem os problemas de tesouraria das PME’s, designadamente através de um programa de pagamento das dívidas em atraso por parte das entidades públicas e da criação de um regime especial de liquidação do Imposto sobre o Valor Acrescentado (IVA) para as transações em que o Estado figure como cliente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:51:34:159&drc=00:03:54:835"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-19",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que avalie o regime facultativo de IVA de caixa, criado através do Decreto-lei n.º 71/2013, de 30 de maio e que promova medidas que minimizem os problemas de tesouraria das PME’s, designadamente através de um programa de pagamento das dívidas em atraso por parte das entidades públicas e da criação de um regime especial de liquidação do Imposto sobre o Valor Acrescentado (IVA) para as transações em que o Estado figure como cliente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:55:34:517&drc=00:02:50:234"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-19",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que avalie o regime facultativo de IVA de caixa, criado através do Decreto-lei n.º 71/2013, de 30 de maio e que promova medidas que minimizem os problemas de tesouraria das PME’s, designadamente através de um programa de pagamento das dívidas em atraso por parte das entidades públicas e da criação de um regime especial de liquidação do Imposto sobre o Valor Acrescentado (IVA) para as transações em que o Estado figure como cliente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "18:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20140918pln&url=l12/sl4/a2014/m09/&tI=02:58:28:282&drc=00:04:07:460"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-09-19",
+                "pubLeg": "XII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que avalie o regime facultativo de IVA de caixa, criado através do Decreto-lei n.º 71/2013, de 30 de maio e que promova medidas que minimizem os problemas de tesouraria das PME’s, designadamente através de um programa de pagamento das dívidas em atraso por parte das entidades públicas e da criação de um regime especial de liquidação do Imposto sobre o Valor Acrescentado (IVA) para as transações em que o Estado figure como cliente.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "299825",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10110",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-19",
+        "pubLeg": "XII",
+        "pubNr": "2",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/002/2014-09-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
