@@ -1,0 +1,510 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "655",
+    "id": "38668",
+    "titulo": "Altera o Código do Registo Civil, tendo em conta a procriação medicamente assistida, a adoção e o apadrinhamento civil por casais do mesmo sexo"
+  },
+  "fase": "Entrada",
+  "codigo_fase": "10",
+  "data_registo": "2014-09-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10119",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "10",
+    "Comissao": null,
+    "DataFase": "2014-09-18",
+    "EvtId": "1",
+    "Fase": "Entrada",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38667",
+        "leg": "XII",
+        "nr": "656",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Eliminação da impossibilidade legal de adoção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de maio e segunda alteração à Lei n.º 7/2001, de 11 de maio"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38949",
+        "leg": "XII",
+        "nr": "753",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Elimina as discriminações no acesso à adoção, apadrinhamento civil e demais relações jurídicas familiares, procedendo à segunda alteração à Lei n.º 7/2001, de 11 de maio, e à primeira alteração à Lei n.º 9/2010, de 31 de maio"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38950",
+        "leg": "XII",
+        "nr": "754",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1968",
+            "obs": null,
+            "pag": [
+              "67-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-01-23",
+            "pubLeg": "XII",
+            "pubNr": "41",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-71&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Alarga as Famílias com Capacidade de Adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei 7/2001, de 11 de maio"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-01-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4435",
+                "nome": "Ana Sofia Bettencourt"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:56",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Registo Civil, tendo em conta a procriação medicamente assistida, a adoção e o apadrinhamento civil por casais do mesmo sexo; Eliminação da impossibilidade legal de adoção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de maio e segunda alteração à Lei n.º 7/2001, de 11 de maio; Elimina as discriminações no acesso à adoção, apadrinhamento civil e demais relações jurídicas familiares, procedendo à segunda alteração à Lei n.º 7/2001, de 11 de maio, e à primeira alteração à Lei n.º 9/2010, de 31 de maio; Alarga as Famílias com Capacidade de Adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4393",
+                "nome": "Cristóvão Simão Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:56",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/68?pgs=68&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Registo Civil, tendo em conta a procriação medicamente assistida, a adoção e o apadrinhamento civil por casais do mesmo sexo; Eliminação da impossibilidade legal de adoção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de maio e segunda alteração à Lei n.º 7/2001, de 11 de maio; Elimina as discriminações no acesso à adoção, apadrinhamento civil e demais relações jurídicas familiares, procedendo à segunda alteração à Lei n.º 7/2001, de 11 de maio, e à primeira alteração à Lei n.º 9/2010, de 31 de maio; Alarga as Famílias com Capacidade de Adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4442",
+                "nome": "Maria da Conceição Caldeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:56",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/68?pgs=68&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Registo Civil, tendo em conta a procriação medicamente assistida, a adoção e o apadrinhamento civil por casais do mesmo sexo; Eliminação da impossibilidade legal de adoção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de maio e segunda alteração à Lei n.º 7/2001, de 11 de maio; Elimina as discriminações no acesso à adoção, apadrinhamento civil e demais relações jurídicas familiares, procedendo à segunda alteração à Lei n.º 7/2001, de 11 de maio, e à primeira alteração à Lei n.º 9/2010, de 31 de maio; Alarga as Famílias com Capacidade de Adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:56",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Registo Civil, tendo em conta a procriação medicamente assistida, a adoção e o apadrinhamento civil por casais do mesmo sexo; Eliminação da impossibilidade legal de adoção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de maio e segunda alteração à Lei n.º 7/2001, de 11 de maio; Elimina as discriminações no acesso à adoção, apadrinhamento civil e demais relações jurídicas familiares, procedendo à segunda alteração à Lei n.º 7/2001, de 11 de maio, e à primeira alteração à Lei n.º 9/2010, de 31 de maio; Alarga as Famílias com Capacidade de Adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei 7/2001, de 11 de maio.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1550",
+                "nome": "António Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "19:56",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-23",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/041/2015-01-23/69?pgs=69-71&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código do Registo Civil, tendo em conta a procriação medicamente assistida, a adoção e o apadrinhamento civil por casais do mesmo sexo; Eliminação da impossibilidade legal de adoção por casais do mesmo sexo primeira alteração à Lei n.º 9/2010, de 31 de maio e segunda alteração à Lei n.º 7/2001, de 11 de maio; Elimina as discriminações no acesso à adoção, apadrinhamento civil e demais relações jurídicas familiares, procedendo à segunda alteração à Lei n.º 7/2001, de 11 de maio, e à primeira alteração à Lei n.º 9/2010, de 31 de maio; Alarga as Famílias com Capacidade de Adoção, alterando a Lei nº 9/2010, de 31 de maio e a Lei 7/2001, de 11 de maio.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "299840",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
