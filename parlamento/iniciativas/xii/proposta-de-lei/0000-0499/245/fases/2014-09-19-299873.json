@@ -1,0 +1,243 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "245",
+    "id": "38642",
+    "titulo": "Regula as entidades de gestão coletiva do direito de autor e dos direitos conexos, inclusive quanto ao estabelecimento em território nacional e à livre prestação de serviços das entidades previamente estabelecidas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-09-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "34125",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2014-11-04",
+            "id": "98738",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-11-04",
+            "id": "98737",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-11-04",
+            "id": "98736",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-11-04",
+            "id": "98734",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-11-04",
+            "id": "98733",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2014-11-04",
+            "id": "98732",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2014-12-19",
+            "id": "99072",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2014-12-19",
+            "id": "99071",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2015-01-08",
+            "id": "99128",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-09-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-09-19",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-01-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877596a4e684f5441304e693033596a4d354c545134596d55744f47526a4e5330335a6a55344d325a6d5a6d526b5957497555455247&fich=0b3a9046-7b39-48be-8dc5-7f583fffddab.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Aditamento - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d6a566a597a51334d433030595749784c5452694d4441744f444d774d4330305a545a6d4f5467785a6a5a694d54597555455247&fich=d25cc470-4ab1-4b00-8300-4e6f981f6b16.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d7a466b4e6d59354e533034596a49304c54526d4d3251744f575a685953316c4d7a52694e6d51304f44646d4e446b7555455247&fich=231d6f95-8b24-4f3d-9faa-e34b6d487f49.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e7a41334f4755354d7930774e6d497a4c5451344e544d744f544d79595330794f4756684f545a6a4e7a63324d5449756347526d&fich=77078e93-06b3-4853-932a-28ea96c77612.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "APRITEL _ Contributo Alteração ao Código de Direito de Autor e Direitos Conexos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279383359574e68595445774e4330344e47466c4c5451334d444974596a63345a693032597a45345957457a4f544e684e324d756347526d&fich=7acaa104-84ae-4702-b78f-6c18aa393a7c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-11-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Comentários APEL/AUDIOGEST/GDA/GEDIPE/VISAPRESS/AHP/AHRESP - PPL 245/XII/4.ª (GOV)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f444933596a59354e53316a4e6d55344c54517a4d574574596d466d4d43316a4e57566b4f57526a4d444d344d5749756347526d&fich=8827b695-c6e8-431a-baf0-c5ed9dc0381b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-12-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Comentários APRITEL - PPL 245/XII/4.ª (GOV)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a5749305a546778596931694d475a6b4c5452684e546774596a4e684f5330794e47457a5932526b4e5759324f5463756347526d&fich=ceb4e81b-b0fd-4a58-b3a9-24a3cdd5f697.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-18",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334f4441334d6a42694d7930324d6a59794c5451785a546774595467774f5331694d5467334f445977595442695a6d4d756347526d&fich=780720b3-6262-41e8-a809-b187860a0bfc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-18",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final e relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a5441785a6a457a4e5330794e3245354c54526a4d544d744f5756684f43307a4f54426b4e444a6c4f57466d596d55756347526d&fich=0e01f135-27a9-4c13-9ea8-390d42e9afbe.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD/CDS-PP e pelo PS",
+            "pag": [
+              "2-56"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-02-18",
+            "pubLeg": "XII",
+            "pubNr": "79",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/079S1/2015-02-18/2?pgs=2-56&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD/CDS-PP e pelo PS",
+            "pag": [
+              "2-56"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-02-18",
+            "pubLeg": "XII",
+            "pubNr": "79",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/079S1/2015-02-18/2?pgs=2-56&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-02-18",
+            "numeroOficio": "176/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-02-11",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68526",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "289",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-09-19",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "299873",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
