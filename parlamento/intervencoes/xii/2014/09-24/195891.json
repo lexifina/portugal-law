@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "195891",
+  "tipo": "Intervenção",
+  "orador": "Heloísa Apolónia (PEV)",
+  "data_registo": "2014-09-24",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "29430",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29430",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre a recente Cimeira do Clima, realizada em Nova Iorque, e sobre combater as causas antropogénicas da mudança do clima e a promover adaptação às alterações climáticas."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "A cimeira do clima, recentemente realizada em Nova Iorque, desafia o Governo a combater as causas antropogénicas da mudança do clima e a apresentar medidas.",
+        "duracao": "00:05:01:487",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140924pln&url=l12/sl4/a2014/m09/&tI=02:18:03:316&drc=00:05:01:487"
+      },
+      {
+        "assunto": "Responde a Ramos Preto, Miguel Tiago e Pedro Filipe Soares acerca da sua declaração sobre a cimeira do clima, recentemente realizada em Nova Iorque, e em que desafia o Governo a combater as causas antropogénicas da mudança do clima e a apresentar medidas.",
+        "duracao": "00:02:28:264",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20140924pln&url=l12/sl4/a2014/m09/&tI=02:31:26:706&drc=00:02:28:264"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-09-24",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PEV",
+      "idCadastro": "834",
+      "nome": "Heloísa Apolónia"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "195891",
+    "IdDebate": "4847",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "195891",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "35-36",
+          "39-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-09-25",
+        "pubLeg": "XII",
+        "pubNr": "4",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/004/2014-09-25/35?pgs=35-36,39&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Respondeu aos pedidos de esclarecimento dos Deputados Ramos Preto (PS), Miguel Tiago (PCP) e Pedro Filipe Soares (BE).",
+    "Sessao": "4",
+    "Sumario": "Sobre a recente Cimeira do Clima, realizada em Nova Iorque, e sobre combater as causas antropogénicas da mudança do clima e a promover adaptação às alterações climáticas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
