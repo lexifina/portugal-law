@@ -1,0 +1,9 @@
+Edital n.º 872/2014
+Apreciação Pública do Projeto de Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviço do Município de Ponte de Lima.
+Victor Manuel Alves Mendes, Presidente da Câmara Municipal de Ponte de Lima, torna público que:
+De acordo com a deliberação da Câmara Municipal, tomada em reunião ordinária de 18 de agosto de 2014 e em cumprimento do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, e respetivas alterações, submete-se à apreciação pública, pelo prazo de 30 dias, a contar do dia seguinte à publicação do presente Edital na 2.ª série do Diário da República, o Projeto de Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviço do Município de Ponte de Lima.
+Mais torna público que, o Projeto de Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviço do Município de Ponte de Lima encontra-se disponível para consulta no Gabinete de Atendimento ao Munícipe, durante o período de funcionamento (das 9:00h às 12:00h, das 14:00h às 16:00h), bem como, na página oficial deste Município em www.cm-pontedelima.pt,
+No âmbito da apreciação pública serão consideradas e apreciadas todas as sugestões que forem apresentadas por escrito, dentro do referido prazo, que se relacionem especificamente com Projeto de Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviço do Município de Ponte de Lima, e que sejam dirigidas ao Presidente da Câmara Municipal de Ponte de Lima.
+Para constar, se publica este edital e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+18 de setembro de 2014. - O Presidente da Câmara Municipal, Victor Manuel Alves Mendes.
+308103607
