@@ -1,0 +1,622 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12553",
+  "numero": "428",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-09-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-10-16",
+            "entidades": null,
+            "id": "98594",
+            "tipo": null,
+            "titulo": "Audição em 2014-10-16 com AHRESP - Associação da Hotelaria, Restauração e Similares de Portugal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-10-08",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "329/COFAP/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-10-08",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA ECONOMIA"
+            ],
+            "nrOficio": "329/COFAP/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2014-11-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-10-01",
+        "DataArquivo": "2014-12-10",
+        "DataBaixaComissao": "2014-09-25",
+        "DataEnvioPAR": "2014-12-12",
+        "DataReaberta": "2014-10-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-10-01",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e6862793968596a566a4d6a45344e5331684f4452684c5451774f444574596d45345a693079595452695a6a4e684e474978595759756347526d&fich=ab5c2185-a84a-4081-ba8f-2a4bf3a4b1af.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-10-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396a4f54457a4d474d334d4330334d5759304c5451774d7a67744f546b775a5331694d4467325a4749774d44426b5a6a67756347526d&fich=c9130c70-71f4-4038-990e-b086db000df8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627939685a544d774d7a45794d6930315954526d4c54526a4d546b74596a497a4f5330354e7a517a4d5751314e6a526b4e546b756347526d&fich=ae303122-5a4f-4c19-b239-97431d564d59.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-10-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938334e5449344d54417959533033596a45324c545268596a55744f4456684d6930324d324a685a44686c597a55334d6d59756347526d&fich=7528102a-7b16-4ab5-85a2-63bad8ec572f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-10-31",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938794d474d324d6a55774e53316d4d7a686c4c5451315a6a4d744f5459304e53316c4d574d794f475931596a4579596a63756347526d&fich=20c62505-f38e-45f3-9645-e1c28f5b12b7.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2014-12-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938344e4456695a474d334d793078596a4e6b4c5452694e7a5574596a55354e69316b4e474d304d4749334e544579595745756347526d&fich=845bdc73-1b3d-4b75-b596-d4c40b7512aa.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-10-01",
+            "gp": "BE",
+            "id": "4557",
+            "motivoCessacao": null,
+            "nome": "Mariana Mortágua"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-03-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-09-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6c684d444a6b4d3259314c5445314d446b744e474d3459533169596d55774c545a6d5a5455314d6d45794e3259795a4335515245593d&fich=9a02d3f5-1509-4c8a-bbe0-6fe552a27f2d.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "39131"
+    ],
+    "Iniciativasoriginadas": [
+      "39126",
+      "39131",
+      "39136",
+      "39146"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:15:43:902&drc=00:02:58:802"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:18:46:693&drc=00:04:50:661"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:23:41:565&drc=00:02:47:868"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:26:33:275&drc=00:03:04:764"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:29:45:767&drc=00:03:59:420"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/55?pgs=55-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:33:58:901&drc=00:03:33:494"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:37:49:394&drc=00:01:30:916"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-03-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150318pln&url=l12/sl4/a2015/m03/&tI=03:39:28:048&drc=00:01:32:604"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197879",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-19",
+                "pubLeg": "XII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a reposição da taxa do IVA no sector da restauração nos 13%; Reposição do IVA da restauração na taxa de 13%; Repõe a taxa do IVA nos serviços de alimentação e bebidas em 13%; Repõe a taxa do IVA no setor da restauração a 13%.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12553",
+    "PetAssunto": "Pela reposição do IVA nos serviços de alimentação e bebidas na restauração e hotelaria, e consequente alteração legislativa",
+    "PetDataEntrada": "2014-09-25",
+    "PeticoesAssociadas": null,
+    "PetId": "12553",
+    "PetLeg": "XII",
+    "PetNr": "428",
+    "PetNrAssinaturas": "21663",
+    "PetNrAssinaturasInicial": "21663",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2005",
+        "obs": null,
+        "pag": [
+          "51-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-03-19",
+        "pubLeg": "XII",
+        "pubNr": "62",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/062/2015-03-19/51?pgs=51-60&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "700320",
+        "obs": null,
+        "pag": [
+          "4-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-10-04",
+        "pubLeg": "XII",
+        "pubNr": "3",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/003/2014-10-04/4?pgs=4-10&org=PLC"
+      }
+    ]
+  }
+}
