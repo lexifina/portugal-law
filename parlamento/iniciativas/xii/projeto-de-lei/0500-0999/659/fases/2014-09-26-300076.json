@@ -1,0 +1,218 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "659",
+    "id": "38686",
+    "titulo": "Procede à alteração do Código Penal, criando os crimes de perseguição e casamento forçado em cumprimento do disposto na Convenção de Istambul."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2014-09-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "34175",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-10-01",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-09-26",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Implicações Legislativas da Convenção de Istambul",
+            "num": "11",
+            "orgId": "3804",
+            "publicacao": null,
+            "sigla": "GT-ILCI"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2015-05-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PSD_CDS-PP [PPJL's n.ºs 515; 517; 647; 659; 661; 663; 664 e 665]",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877596d59354d4749344f53316d5a5751324c5451784d6d5974595441325a5330314f4449355a6a41324d5459334d544d7555455247&fich=0bf90b89-fed6-412f-a06e-5829f0616713.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APMJ - Associação Portuguesa de Mulheres Juristas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d4445794e6d5a6d5a4330334d544a6d4c54513459544974596a526d4d7931695a575a6d4e7a45774e5745334d4751756347526d&fich=b0126ffd-712f-48a2-b4f3-beff7105a70d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Igualdade Parental - Associação Portuguesa para a Igualdade Parental e Direitos dos Filhos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596a63784e4752684d693168595745304c545177595751744f446b784d4330334d3255314d4755344f474e694d7a67756347526d&fich=6b714da2-aaa4-40ad-8910-73e50e88cb38.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Mestre Inês Ferreira Leite e Prof.ª Doutora Carlota Pizarro Almeida do IDPCC - Instituto de Direito Penal e de Ciências Criminais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d7a49344d57566b596930354d44557a4c54526c4e444d744f5745324f4330314d6a6c6b4d54466b5957597a4f446b756347526d&fich=63281edb-9053-4e43-9a68-529d11daf389.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-10-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a6d55314f546b345a43316a4e7a4d344c54517a5a444d744f545534597930784f5751795a475a6a4d6a6b785a5463756347526d&fich=efe5998d-c738-43d3-958c-19d2dfc291e7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-16",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f444d334e546c6c59693077597a45334c5451774e7a55744f475a6d4e79316a4e6a6b77595441344d4449784d444d755a47396a&fich=b83759eb-0c17-4075-8ff7-c690a0802103.doc&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto de substituição e relatório da nova apreciação CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d4751324d4441774f433030597a64694c5451304d324574596d4d7a5a69316d4f5459774d6a4d7a5a6a517a4f4751756347526d&fich=50d60008-4c7b-443a-bc3f-f960233f438d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "11",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2014-11-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2014-10-27"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2014-10-10"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2014-10-10"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação e da discussão na especialidade, texto de substituição da comissão e propostas de alteração apresentadas pelo PSD/CDS-PP, PS e BE",
+            "pag": [
+              "3-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-06-17",
+            "pubLeg": "XII",
+            "pubNr": "150",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/150/2015-06-17/3?pgs=3-21&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação e da discussão na especialidade, texto de substituição da comissão e propostas de alteração apresentadas pelo PSD/CDS-PP, PS e BE",
+            "pag": [
+              "3-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-06-17",
+            "pubLeg": "XII",
+            "pubNr": "150",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/150/2015-06-17/3?pgs=3-21&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-06-17",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-06-17",
+            "dataRemessa": "2015-06-17",
+            "numeroOficio": "744/XII/4.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-06-16",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69785",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "322",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-09-26",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "300076",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
