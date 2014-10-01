@@ -16,9 +16,9 @@ b) As entidades não residentes detidas, directa ou indirectamente, em mais de 2
 
 5 - A prova da qualidade de não residente em território português é feita nos termos previstos nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de Novembro.
 
-6 - Os titulares de rendimentos respeitantes a unidades de participação nos fundos de investimento referidos no n.º 1, quando englobem os rendimentos que lhes sejam distribuídos, têm direito a deduzir 50 % dos rendimentos relativos a dividendos, nos termos e condições previstos no artigo 40.º-A do Código do IRS e no n.º 8 do artigo 46.º do Código do IRC.
+6 - Os titulares de rendimentos respeitantes a unidades de participação nos fundos de investimento referidos no n.º 1, quando englobem os rendimentos que lhes sejam distribuídos, têm direito a deduzir 50 % dos rendimentos relativos a dividendos, nos termos e condições previstos no artigo 40.º-A do Código do IRS.
 
-7 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de unidades de participação em fundos de capital de risco é tributado à taxa de 10 %, quando os titulares sejam entidades não residentes a que não seja aplicável a isenção prevista no artigo 27.º deste Estatuto ou sujeitos passivos de IRS residentes em território português que obtenham os rendimentos fora do âmbito de uma actividade comercial, industrial ou agrícola e não optem pelo respectivo englobamento.
+7 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de unidades de participação nos fundos referidos no n.º 1 é tributado à taxa de 10 %, quando os titulares sejam entidades não residentes a que não seja aplicável a isenção prevista no artigo 27.º ou sujeitos passivos de IRS residentes em território português que obtenham os rendimentos fora do âmbito de uma atividade comercial, industrial ou agrícola e não optem pelo respetivo englobamento.
 
 8 - As obrigações previstas no artigo 119.º e no n.º 1 do artigo 125.º do Código do IRS devem ser cumpridas pelas entidades gestoras ou registadoras.
 
