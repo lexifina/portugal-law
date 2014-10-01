@@ -1,15 +1,7 @@
-## Capítulo III
-
-## Disposições aplicáveis às contra-ordenações
-
 # Artigo 23.º
 
-### Classificação das contra-ordenações
+### Prazos fixados
 
-1 - As contra-ordenações tributárias qualificam-se como simples ou graves.
+1 - Quando, nos termos da lei, o prazo do acto deva ser fixado pela administração tributária ou pelo juiz, este não pode ser inferior a 10 nem superior a 30 dias.
 
-2 - São contra-ordenações simples as puníveis com coima cujo limite máximo não exceda (euro) 5750.
-
-3 - São contra-ordenações graves as puníveis com coima cujo limite máximo seja superior a (euro) 5750 e aquelas que, independentemente da coima aplicável, a lei expressamente qualifique como tais.
-
-4 - Para efeitos do disposto nos números anteriores, atende-se à coima cominada em abstracto no tipo legal.
+2 - Se a administração tributária ou o juiz não fixarem o prazo, este será de 10 dias.
