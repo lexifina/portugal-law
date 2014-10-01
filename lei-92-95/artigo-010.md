@@ -1,7 +1,7 @@
 # Artigo 10.º
 
-### Associações zoófilas
+### Direitos de participação procedimental e ação popular
 
-As associações zoófilas legalmente constituídas têm legitimidade para requer a todas as autoridades e tribunais as medidas preventivas e urgentes necessárias e adequadas para evitar violações em curso ou iminentes.
+1 - As associações zoófilas podem constituir-se assistentes em todos os processos originados ou relacionados com a violação da presente lei e ficam dispensadas de pagamento de custas e taxa de justiça, beneficiando do regime previsto na Lei n.º 83/95, de 31 de agosto, com as necessárias adaptações.
 
-Estas organizações poderão constituir-se assistentes em todos os processos originados ou relacionados com a violação da presente lei e ficam dispensadas de pagamento de custas e imposto de justiça.
+2 - Às associações zoófilas pode ser atribuído o estatuto das organizações não-governamentais do ambiente, nos termos previstos na Lei n.º 35/98, de 18 de julho.
