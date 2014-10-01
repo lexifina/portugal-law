@@ -10,6 +10,6 @@ b) O Código de Procedimento e de Processo Tributário;
 
 c) Os demais códigos e leis tributárias, incluindo os regimes gerais das infracções tributárias e dos benefícios fiscais;
 
-d) A Lei Orgânica da Direcção-Geral dos Impostos e respectivos diplomas regulamentares;
+d) A Lei Orgânica da Autoridade Tributária e Aduaneira e respetivos diplomas regulamentares;
 
 e) O Código do Procedimento Administrativo.

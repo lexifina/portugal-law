@@ -2,7 +2,7 @@
 
 ### Conclusão do procedimento de inspecção
 
-1 - Para conclusão do procedimento é elaborado um relatório final com vista à identificação e sistematização dos factos detectados e sua qualificação jurídico-tributária.
+1 - Para conclusão do procedimento de comprovação e verificação é elaborado um relatório final com vista à identificação e sistematização dos factos detetados e sua qualificação jurídico-tributária.
 
 2 - O relatório referido no número anterior deve ser notificado ao contribuinte por carta registada nos 10 dias posteriores ao termo do prazo referido no n.º 4 do artigo 60.º, considerando-se concluído o procedimento na data da notificação.
 

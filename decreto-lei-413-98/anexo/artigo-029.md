@@ -6,17 +6,21 @@
 
 a) Examinar quaisquer elementos dos contribuintes que sejam susceptíveis de revelar a sua situação tributária, nomeadamente os relacionados com a sua actividade, ou de terceiros com quem mantenham relações económicas e solicitar ou efectuar, designadamente em suporte magnético, as cópias ou extractos considerados indispensáveis ou úteis;
 
-b) Proceder à inventariação física e avaliação de quaisquer bens ou imóveis relacionados com a actividade dos contribuintes, incluindo a contagem física das existências, da caixa e do imobilizado, e à realização de amostragens destinadas à documentação das acções de inspecção;
+b) Proceder à inventariação física, identificação e avaliação de quaisquer bens ou imóveis relacionados com a atividade dos contribuintes, incluindo a contagem física dos inventários, da caixa e do ativo fixo, e à realização de amostragens destinadas à documentação das ações de inspeção;
 
 c) Aceder, consultar e testar os sistemas informáticos dos sujeitos passivos e, no caso de utilização de sistemas próprios de processamento de dados, examinar a documentação relativa à sua análise, programação e execução, mesmo que elaborados por terceiros;
 
-d) Consultar ou obter dados sobre preços de transferência ou quaisquer outros elementos associados ao estabelecimento de condições contratuais entre sociedades ou empresas nacionais ou estrangeiras, quando se verifique a existência de relações especiais nos termos do n.º 4 do artigo 58.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas;
+d) Consultar ou obter dados sobre preços de transferência ou quaisquer outros elementos associados ao estabelecimento de condições contratuais entre sociedades ou empresas nacionais ou estrangeiras, quando se verifique a existência de relações especiais nos termos do n.º 4 do artigo 63.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas;
 
-e) Tomar declarações dos sujeitos passivos, membros dos corpos sociais, técnicos oficiais de contas, revisores oficiais de contas ou de quaisquer outras pessoas, sempre que o seu depoimento interesse ao apuramento dos factos tributários;
+e) Proceder ao exame de mercadorias e recolher amostras para análise laboratorial ou qualquer outro tipo de perícia técnica;
 
-f) Controlar, nos termos da lei, os bens em circulação;
+f) Copiar os dados em formato eletrónico dos registos e documentos relevantes para apuramento da situação tributária dos contribuintes ou efetuar uma imagem dos respetivos sistemas informáticos;
 
-g) Solicitar informações às administrações tributárias estrangeiras, no âmbito dos instrumentos de assistência mútua e cooperação administrativa internacional.
+g) Tomar declarações dos sujeitos passivos, membros dos corpos sociais, técnicos oficiais de contas, revisores oficiais de contas ou de quaisquer outras pessoas, sempre que o seu depoimento interesse ao apuramento dos factos tributários;
+
+h) Controlar, nos termos da lei, os bens em circulação;
+
+i) Solicitar informações às administrações tributárias estrangeiras, no âmbito dos instrumentos de assistência mútua e cooperação administrativa europeia ou internacional.
 
 2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se susceptíveis de revelar a situação tributária dos contribuintes os seguintes elementos:
 
@@ -26,7 +30,7 @@ b) Os registos contabilísticos e os documentos com eles relacionados, incluindo
 
 c) Os registos auxiliares da contabilidade;
 
-d) Os documentos e registos relativos ao custeio das existências ou à contabilidade analítica;
+d) Os documentos e registos relativos ao custeio dos inventários ou à contabilidade analítica;
 
 e) Outra documentação interna ou externa relativa às operações económicas e financeiras efectuadas com clientes, fornecedores, instituições de crédito, sociedades e quaisquer outras entidades, incluindo os extractos processados pelas instituições de crédito e sociedades financeiras, os contratos celebrados, os orçamentos sobre trabalhos realizados ou encomendados a terceiros, os estudos realizados ou encomendados a terceiros e as tabelas de preços estabelecidos;
 

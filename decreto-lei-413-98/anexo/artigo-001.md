@@ -1,6 +1,6 @@
 ## Anexo
 
-## REGIME COMPLEMENTAR DO PROCEDIMENTO DE INSPECÇÃO TRIBUTÁRIA
+## Regime Complementar do Procedimento de Inspeção Tributária e Aduaneira
 
 ## Parte I
 
@@ -18,4 +18,4 @@
 
 ### Objecto
 
-O presente diploma regula o procedimento de inspecção tributária, definindo, sem prejuízo de legislação especial, os princípios e as regras aplicáveis aos actos de inspecção.
+O presente diploma regula o procedimento de inspeção tributária e aduaneira, adiante designado por procedimento de inspeção tributária ou procedimento de inspeção, definindo, sem prejuízo de legislação especial, os princípios e as regras aplicáveis aos atos de inspeção.

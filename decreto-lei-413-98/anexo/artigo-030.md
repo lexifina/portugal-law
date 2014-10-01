@@ -2,11 +2,11 @@
 
 ### Medidas cautelares
 
-1 - Os funcionários da Direcção-Geral dos Impostos incumbidos da acção de inspecção tributária podem adoptar, atendendo ao princípio da proporcionalidade, as seguintes medidas cautelares de aquisição e conservação da prova:
+1 - Os funcionários da Autoridade Tributária e Aduaneira incumbidos da ação de inspeção tributária podem adotar, atendendo ao princípio da proporcionalidade, as seguintes medidas cautelares de aquisição e conservação da prova:
 
 a) Apreender os elementos de escrituração ou quaisquer outros elementos, incluindo suportes informáticos, comprovativos da situação tributária do sujeito passivo ou de terceiros;
 
-b) Selar quaisquer instalações, sempre que se mostre necessário à plena eficácia da acção inspectiva e ao combate à fraude fiscal;
+b) Selar quaisquer instalações, apreender bens, valores ou mercadorias, sempre que se mostre necessário à demonstração da existência de um ilícito tributário;
 
 c) Visar, quando conveniente, os livros e demais documentos.
 

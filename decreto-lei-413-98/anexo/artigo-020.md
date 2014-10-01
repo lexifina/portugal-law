@@ -6,7 +6,7 @@
 
 ### Incompatibilidades específicas
 
-1 - Os funcionários da inspecção tributária, além das incompatibilidades aplicáveis aos funcionários da Direcção-Geral dos Impostos em geral, estão sujeitos às seguintes incompatibilidades específicas:
+1 - Os funcionários da inspeção tributária, além das incompatibilidades aplicáveis aos funcionários da Autoridade Tributária e Aduaneira em geral, estão sujeitos às seguintes incompatibilidades específicas:
 
 a) Realizar ou participar nos procedimentos de inspecção que visem a confirmação ou averiguação da situação tributária do seu cônjuge, parente ou afim em linha recta ou colateral até ao 3.º grau, ou de qualquer pessoa com quem vivam ou tenham vivido em economia comum;
 

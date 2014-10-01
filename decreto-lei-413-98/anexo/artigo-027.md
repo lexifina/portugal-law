@@ -8,9 +8,9 @@
 
 1 - A identificação dos sujeitos passivos e demais obrigados tributários a inspeccionar no procedimento de inspecção tem por base:
 
-a) A aplicação dos critérios objectivos definidos no PNAIT para a actividade de inspecção tributária;
+a) A aplicação dos critérios objetivos definidos no PNAITA para a atividade de inspeção tributária;
 
-b) A aplicação dos critérios que, embora não contidos no PNAIT, sejam definidos pelo director-geral dos Impostos, de acordo com necessidades conjunturais de prevenção e eficácia da inspecção tributária ou a aplicação justificada de métodos aleatórios;
+b) A aplicação dos critérios que, embora não contidos no PNAITA, resultem de orientações a nível comunitário ou internacional, sejam definidos pelo diretor-geral da Autoridade Tributária e Aduaneira de acordo com necessidades conjunturais de prevenção e eficácia da inspeção tributária ou correspondam à aplicação justificada de métodos aleatórios;
 
 c) A participação ou denúncia, quando sejam apresentadas nos termos legais;
 
