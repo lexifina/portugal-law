@@ -20,7 +20,7 @@ e) Jungholz e Mittelberg (Kleines Walsertal).
 
 a) Ilhas Canárias;
 
-b) Departamentos franceses ultramarinos;
+b) Territórios da República Francesa referidos no artigo 349.º e no n.º 1 artigo 355.º do Tratado sobre o Funcionamento da União Europeia;
 
 c) Ilhas Åland;
 
