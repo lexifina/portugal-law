@@ -1,0 +1,612 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "559",
+    "id": "38378",
+    "titulo": "Estabelece o número mínimo e máximo de alunos por turma."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-10-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10141",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-10-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38688",
+        "leg": "XII",
+        "nr": "660",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38708",
+        "leg": "XII",
+        "nr": "667",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Estabelece medidas de redução do número de alunos por turma visando a melhoria do processo de ensino-aprendizagem"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38711",
+        "leg": "XII",
+        "nr": "669",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1919",
+            "obs": null,
+            "pag": [
+              "38-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Estipula o número máximo de alunos por turma"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-10-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:11:24:046&drc=00:02:14:694"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:35:03:372&drc=00:02:18:620"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38",
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38,44-45&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o número mínimo e máximo de alunos por turma; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Estabelece medidas de redução do número de alunos por turma visando a melhoria do processo de ensino-aprendizagem; Estipula o número máximo de alunos por turma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2260",
+                "nome": "Odete João"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:13:43:245&drc=00:04:34:355"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-40&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o número mínimo e máximo de alunos por turma; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Estabelece medidas de redução do número de alunos por turma visando a melhoria do processo de ensino-aprendizagem; Estipula o número máximo de alunos por turma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:18:21:270&drc=00:04:27:890"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o número mínimo e máximo de alunos por turma; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Estabelece medidas de redução do número de alunos por turma visando a melhoria do processo de ensino-aprendizagem; Estipula o número máximo de alunos por turma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:22:53:108&drc=00:03:59:475"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:37:26:718&drc=00:01:45:748"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42",
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/41?pgs=41-42,45&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o número mínimo e máximo de alunos por turma; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Estabelece medidas de redução do número de alunos por turma visando a melhoria do processo de ensino-aprendizagem; Estipula o número máximo de alunos por turma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4361",
+                "nome": "Maria Ester Vargas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:26:56:134&drc=00:04:00:119"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o número mínimo e máximo de alunos por turma; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Estabelece medidas de redução do número de alunos por turma visando a melhoria do processo de ensino-aprendizagem; Estipula o número máximo de alunos por turma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:30:59:164&drc=00:04:02:275"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o número mínimo e máximo de alunos por turma; Estabelece um número máximo de alunos por turma e por docente nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Estabelece medidas de redução do número de alunos por turma visando a melhoria do processo de ensino-aprendizagem; Estipula o número máximo de alunos por turma.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto substituído pelo autor da iniciativa em 29-09-2014, após apreciação em sede de Comissão.",
+    "OevId": "300149",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "706160",
+        "obs": null,
+        "pag": [
+          "38-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-10-03",
+        "pubLeg": "XII",
+        "pubNr": "8",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/38?pgs=38-45&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
