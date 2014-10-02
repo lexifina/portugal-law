@@ -1,0 +1,412 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "668",
+    "id": "38709",
+    "titulo": "Revê o regime laboral das amas"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2014-10-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10137",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2014-10-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "38699",
+        "leg": "XII",
+        "nr": "248",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1918",
+            "obs": null,
+            "pag": [
+              "31-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2014-10-03",
+            "pubLeg": "XII",
+            "pubNr": "8",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/31?pgs=31-38&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "P",
+        "titulo": "Autoriza o Governo a definir os termos e as condições para o acesso à profissão de ama e o exercício da respetiva atividade"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2014-10-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=01:45:25:913&drc=00:04:21:522"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Mota Soares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a definir os termos e as condições para o acesso à profissão de ama e o exercício da respetiva atividade; Revê o regime laboral das amas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4447",
+                "nome": "David Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=01:50:06:929&drc=00:04:36:582"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a definir os termos e as condições para o acesso à profissão de ama e o exercício da respetiva atividade; Revê o regime laboral das amas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=01:54:47:003&drc=00:03:43:213"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a definir os termos e as condições para o acesso à profissão de ama e o exercício da respetiva atividade; Revê o regime laboral das amas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=01:58:32:754&drc=00:03:51:983"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a definir os termos e as condições para o acesso à profissão de ama e o exercício da respetiva atividade; Revê o regime laboral das amas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2132",
+                "nome": "Idália Salvador Serrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:02:25:550&drc=00:04:23:425"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a definir os termos e as condições para o acesso à profissão de ama e o exercício da respetiva atividade; Revê o regime laboral das amas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4428",
+                "nome": "Inês Teotónio Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "17:50",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20141002pln&url=l12/sl4/a2014/m10/&tI=02:06:51:342&drc=00:03:41:350"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "195981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2014-10-03",
+                "pubLeg": "XII",
+                "pubNr": "8",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/36?pgs=36-38&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a definir os termos e as condições para o acesso à profissão de ama e o exercício da respetiva atividade; Revê o regime laboral das amas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "300125",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "706158",
+        "obs": null,
+        "pag": [
+          "30-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-10-03",
+        "pubLeg": "XII",
+        "pubNr": "8",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/008/2014-10-03/30?pgs=30-38&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
