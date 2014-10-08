@@ -1,0 +1,78 @@
+Portaria n.º 207-G/2014
+de 8 de outubro
+Nos termos do artigo 4.º da Lei n.º 71/2013, de 2 de setembro, que regula o acesso às profissões no âmbito das terapêuticas não convencionais, e o seu exercício, no setor público ou privado, com ou sem fins lucrativos, as atividades a realizar no âmbito destas profissões são fixadas por portaria dos membros do Governo responsáveis pelas áreas da saúde e do ensino superior.
+Através da presente portaria, considerando as propostas e recomendações da Organização Mundial de Saúde, procede-se a essa definição para a medicina tradicional chinesa.
+Assim:
+Ao abrigo do disposto no artigo 4.º da Lei n.º 71/2013, de 2 de setembro:
+Manda o Governo, pelos Secretários de Estado Adjunto do Ministro da Saúde e do Ensino Superior, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria visa fixar a caracterização e o conteúdo funcional da profissão de especialista de medicina tradicional chinesa.
+Artigo 2.º
+Medicina tradicional chinesa
+1 - A medicina tradicional chinesa é a terapêutica que utiliza métodos de prevenção, diagnóstico, prescrição e tratamentos próprios, baseados nas teorias da medicina tradicional chinesa e nos seus métodos específicos, designadamente, na estimulação dos pontos de acupuntura e meridianos através de diferentes métodos terapêuticos, na prescrição de fórmulas fitoterapêuticas, aconselhamento alimentar e exercícios para promover e recuperar a saúde.
+2 - A medicina tradicional chinesa é uma terapêutica:
+a) Com uma conceção holística, energética e dialética do ser humano;
+b) Que assenta em axiomas e teorias específicos da medicina tradicional chinesa;
+c) Que aplica processos específicos de diagnóstico e terapêuticas próprias tendo por base as teorias da medicina tradicional chinesa;
+d) Que investiga, desenvolve e implementa planos de tratamento utilizando a acupuntura, a fitoterapia, a massagem tuiná, a dietética da medicina tradicional chinesa, os exercícios de chi kung e tai chi terapêuticos e outros para melhorar e regular a função e tratar as «desarmonias energéticas» tais como são entendidas pela medicina tradicional chinesa.
+Artigo 3.º
+Especialista de medicina tradicional chinesa
+1 - A medicina tradicional chinesa é exercida sob o título profissional de especialista de medicina tradicional chinesa.
+2 - Nos termos do artigo 7.º da Lei n.º 71/2013, de 2 de setembro, o título profissional de especialista de medicina tradicional chinesa só pode ser utilizado pelos detentores da correspondente cédula profissional emitida nos termos fixados pela lei.
+3 - Nos termos do n.º 1 do artigo 6.º da Lei n.º 71/2013, de 2 de setembro, a profissão de especialista de medicina tradicional chinesa só pode ser exercida pelos detentores da correspondente cédula profissional emitida nos termos fixados pela lei.
+Artigo 4.º
+Referencial de competências
+1 - O especialista de medicina tradicional chinesa deve ter:
+a) Conhecimentos críticos sobre as bases teóricas específicas que fundamentam o seu diagnóstico, designadamente, yin e yang, os cinco movimentos, qi, xue e jin ye, os oito princípios de diagnóstico, o sistema dos meridianos e ramificações jing luo, síndromas gerais e síndromas dos zang fu, etiopatogenia e patologia energéticas, os seis níveis, as quatro camadas, os três aquecedores;
+b) Conhecimentos críticos dos métodos e princípios de seleção, do tipo e das categorias dos pontos de acupuntura, da sua localização, técnica de manipulação ou estimulação e da sua combinação de acordo com o diagnóstico, estratégia de tratamento e condição energética da pessoa no âmbito da acupuntura ou da massagem tuiná;
+c) Conhecimentos críticos dos princípios de seleção e combinação de matéria terapêutica, plantas medicinais e alimentos e da sua prescrição de acordo com o diagnóstico, estratégia de tratamento e condição energética da pessoa;
+d) Conhecimentos aprofundados da execução de tratamentos auxiliares de acupuntura e da implementação de microssistemas de terapia reflexa de acupuntura;
+e) Conhecimentos aprofundados dos métodos de identificação, seleção, combinação e prescrição de exercícios de chi kung e tai chi terapêuticos de acordo com o diagnóstico, estratégia de tratamento e condição energética do cliente;
+f) Conhecimentos críticos das indicações e contraindicações dos tratamentos de medicina tradicional chinesa, nomeadamente da acupuntura, fitoterapia, massagem tuiná, dietética e exercício de chi kung e tai chi terapêuticos;
+g) Conhecimentos críticos sobre a teoria, a prática e os princípios da medicina tradicional chinesa evidenciando-os em ações, através de várias abordagens, gerindo-as, selecionando ou modificando os planos de tratamento para ir ao encontro das necessidades dos clientes;
+h) Conhecimentos aprofundados das ciências comportamentais e da arte da saúde e da longevidade da medicina tradicional chinesa que lhe permitam fazer um aconselhamento adequado e eficaz sobre estilos de vida saudável;
+i) Conhecimentos suficientes do ser humano, de modo a reconhecer e interpretar sinais de disfunção e desenvolver estratégias e tratamentos de reabilitação adequados;
+j) Conhecimentos suficientes de fisiologia, patologia, fisiopatologia, observação de sinais e da sintomatologia para identificar as situações em que a pessoa possa necessitar da intervenção de outro profissional de saúde;
+k) Conhecimentos suficientes de psicologia e dos determinantes sociais da saúde que lhe permitam contextualizar a decisão terapêutica e os cuidados a prestar;
+l) Conhecimentos aprofundados sobre comunicação interpessoal, que lhe permitam uma recolha adequada dos factos pessoais e familiares relevantes para a aplicação da terapêutica, a manutenção de uma boa relação com os clientes, colegas e outras pessoas relacionadas com a profissão e a prevenção e resolução das situações de conflito.
+2 - O especialista de medicina tradicional chinesa deve ser capaz de:
+a) Exercer a profissão tendo por base os conhecimentos obtidos no domínio das teorias da medicina tradicional chinesa, nomeadamente, avaliar o cliente, realizar o diagnóstico, estabelecer os princípios e estratégias terapêuticas, realizar e gerir o plano de tratamento e respeitar os códigos de prática segura, ético e deontológico;
+b) Utilizar processos específicos de diagnóstico tais como a entrevista, a observação, o exame áudio-olfativo, a palpação e a diferenciação de síndromas;
+c) Reconhecer as situações em que as queixas do cliente possam ser indicadoras de patologias ou problemas fora do âmbito da medicina tradicional chinesa e necessitem da intervenção de outro profissional;
+d) Aplicar métodos específicos da medicina tradicional chinesa, tais como:
+i. A inserção e manipulação de agulhas sólidas, moxabustão, martelo de sete pontas, ventosas e outros meios afins, nos meridianos e pontos de acupuntura;
+ii. A inserção e manipulação de agulhas em zonas reflexológicas;
+iii. A prescrição de fórmulas fitoterapêuticas por via oral ou de aplicação tópica;
+iv. A aplicação de técnicas manipulativas de massagem ou digitopuntura energética, sistémica ou em zonas reflexológicas;
+v. O aconselhamento e prescrição dietética;
+vi. O aconselhamento e prescrição de exercício energético de chi kung ou tai chi terapêuticos;
+vii. A orientação prática de exercício energético de chi kung ou tai chi terapêuticos;
+e) Desenvolver e implementar planos de tratamento utilizando terapêuticas específicas da medicina tradicional chinesa para prevenção e tratamento da doença e regulação do organismo humano, de acordo com a legislação em vigor;
+f) Prestar informação aos clientes e ao público com vista à promoção da saúde e prevenção das doenças;
+g) Promover a saúde através dos métodos e meios da medicina tradicional chinesa;
+h) Manter, ao longo da vida profissional, as competências da prática da medicina tradicional chinesa e conceber e aplicar um plano de desenvolvimento profissional contínuo, atualizando-se permanentemente quanto aos desenvolvimentos desta área;
+i) Analisar problemas, recolhendo e interpretando os dados, e resolvê-los, fundamentando o raciocínio e as decisões;
+j) Ler criticamente a literatura científica e incorporar a informação na sua prática;
+k) Reconhecer e intervir perante reações adversas ao tratamento de medicina tradicional chinesa;
+l) Manter a sua própria saúde e estabelecer uma relação terapêutica adequada com o cliente;
+m) Avaliar criticamente a sua prática da medicina tradicional chinesa através da autorreflexão, resposta dos utentes e dos colegas, análise de casos e auditorias;
+n) Elaborar estudos de caso no âmbito da medicina tradicional chinesa e proceder à sua apresentação;
+o) Supervisionar colaboradores e estagiários no âmbito da medicina tradicional chinesa.
+3 - O especialista de medicina tradicional chinesa deve reger-se pelos seguintes princípios de conduta:
+a) Assumir uma conduta ética que tenha em vista a garantia da qualidade da prestação de cuidados de medicina tradicional chinesa;
+b) Assentar a relação com o cliente na confiança e na informação, devendo saber comunicar de forma a construir e manter uma relação terapêutica;
+c) Não causar dano deliberado ou prejudicar o cliente, em qualquer circunstância, no âmbito da sua profissão;
+d) Encaminhar o cliente, sempre que necessário, para o profissional de saúde melhor habilitado a tratar a situação de saúde do mesmo;
+e) Não criar falsas expectativas relativamente aos resultados esperados com o tratamento;
+f) Não tratar pessoas com situações que se verifique não serem suscetíveis de qualquer melhoria do seu estado de saúde através da medicina tradicional chinesa;
+g) Aplicar apenas os tratamentos úteis e necessários à manutenção ou recuperação da saúde da pessoa;
+h) Elaborar um plano de tratamento que conte com a participação ativa e consentida do cliente, onde conste o prognóstico, os resultados a atingir, os métodos e técnicas terapêuticos utilizados e a avaliação regular do seu progresso;
+i) Prestar cuidados de medicina tradicional chinesa de elevada qualidade, garantindo sempre a segurança do cliente;
+j) Assegurar a oportunidade, a qualidade, o rigor e a humanização dos cuidados de saúde da medicina tradicional chinesa;
+k) Assegurar a elaboração e a permanente atualização da informação de saúde, e registar os tratamentos efetuados;
+l) Garantir a confidencialidade da informação de saúde, bem como o sigilo, de acordo com as normas legais;
+m) Aceitar a multiculturalidade não pondo em causa o respeito pelo princípio da não discriminação dos pacientes, nomeadamente com base em ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica, condição social ou orientação sexual;
+n) Dispor-se a participar na formação no âmbito da medicina tradicional chinesa, nomeadamente acolhendo estudantes e estagiários;
+o) Garantir o aperfeiçoamento profissional através da formação contínua.
+O Secretário de Estado Adjunto do Ministro da Saúde, Fernando Serra Leal da Costa, em 3 de outubro de 2014. - O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes, em 7 de outubro de 2014.
