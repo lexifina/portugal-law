@@ -1,0 +1,509 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12557",
+  "numero": "432",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-10-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-02-26",
+            "dataResposta": "2015-06-22",
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "53/9ªCOM/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-05-06",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "745100",
+                "obs": null,
+                "pag": [
+                  "4-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-08",
+                "pubLeg": "XII",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/044/2015-05-08/4?pgs=4-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-10-15",
+        "DataArquivo": "2015-05-06",
+        "DataBaixaComissao": "2014-10-15",
+        "DataEnvioPAR": "2015-05-06",
+        "DataReaberta": "2014-10-15",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-11-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939694d57566a596a51794d6930344d4746694c5451794e7a6b744f444a685a5330334f4751314d4751794d6d4e6c4d32597555455247&fich=b1ecb422-80ab-4279-82ae-78d50d22ce3f.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-02-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784d474d345a5459315a53316a597a4d334c54526b4e545974595467344f4330354d574d335a6a646d4f5755795a546b756347526d&fich=10c8e65e-cc37-4d56-a888-91c7f7f9e2e9.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-05-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938354d6d497a5a6a4933596930304d546b334c5452684d5467745954593559693031595445324e6a4134596a6c685a6d49756347526d&fich=92b3f27b-4197-4a18-a69b-5a16608b9afb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-06-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939694d44466d4e44646a5979316a595455304c5451314e4451744f44526859793030597a67774f474d3059544d784e446b756347526d&fich=b01f47cc-ca54-4544-84ac-4c808c4a3149.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-10-15",
+            "gp": "PSD",
+            "id": "4336",
+            "motivoCessacao": null,
+            "nome": "Elsa Cordeiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-06-26",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-10-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a49354d6d59335a5449314c574935595463744e4442684e5330344d6d5a6d4c57466c597a6b324e4463325a44466c4d6935515245593d&fich=292f7e25-b9a7-40a5-82ff-aec96476d1e2.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150626pln&url=l12/sl4/a2015/m06/&tI=03:45:49:462&drc=00:03:19:210"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-27",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/104/2015-06-27/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a manutenção dos partos na água no Hospital de São Bernardo, em Setúbal, e a extensão desta opção a outros hospitais públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150626pln&url=l12/sl4/a2015/m06/&tI=03:49:18:772&drc=00:02:54:941"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-27",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/104/2015-06-27/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a manutenção dos partos na água no Hospital de São Bernardo, em Setúbal, e a extensão desta opção a outros hospitais públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150626pln&url=l12/sl4/a2015/m06/&tI=03:52:22:595&drc=00:03:16:780"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-27",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/104/2015-06-27/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a manutenção dos partos na água no Hospital de São Bernardo, em Setúbal, e a extensão desta opção a outros hospitais públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150626pln&url=l12/sl4/a2015/m06/&tI=03:55:47:143&drc=00:02:21:407"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-27",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/104/2015-06-27/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a manutenção dos partos na água no Hospital de São Bernardo, em Setúbal, e a extensão desta opção a outros hospitais públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150626pln&url=l12/sl4/a2015/m06/&tI=03:58:17:134&drc=00:02:46:698"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-27",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/104/2015-06-27/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a manutenção dos partos na água no Hospital de São Bernardo, em Setúbal, e a extensão desta opção a outros hospitais públicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150626pln&url=l12/sl4/a2015/m06/&tI=04:01:10:799&drc=00:03:45:329"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-27",
+                "pubLeg": "XII",
+                "pubNr": "104",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/104/2015-06-27/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a manutenção dos partos na água no Hospital de São Bernardo, em Setúbal, e a extensão desta opção a outros hospitais públicos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12557",
+    "PetAssunto": "Pela manutenção dos partos na água no Hospital de São Bernardo, em Setúbal, e a extensão desta opção a outros hospitais públicos.",
+    "PetDataEntrada": "2014-10-09",
+    "PeticoesAssociadas": null,
+    "PetId": "12557",
+    "PetLeg": "XII",
+    "PetNr": "432",
+    "PetNrAssinaturas": "4868",
+    "PetNrAssinaturasInicial": "4868",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "536",
+        "obs": null,
+        "pag": [
+          "54-58"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-06-27",
+        "pubLeg": "XII",
+        "pubNr": "104",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/104/2015-06-27/54?pgs=54-58&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "745093",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-04-24",
+        "pubLeg": "XII",
+        "pubNr": "42",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/042/2015-04-24/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
