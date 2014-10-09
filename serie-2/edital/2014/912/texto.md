@@ -1,0 +1,4 @@
+Edital n.º 912/2014
+José Manuel Bolieiro, Presidente da Câmara Municipal de Ponta Delgada, torna público que, em reunião ordinária de 10 de setembro de 2014, foi deliberado aprovar o Projeto de Regulamento Municipal de Bloqueamento e Remoção de Veículos Abandonados ou Estacionados Indevida ou Abusivamente na Via Pública e submetê-lo a apreciação pública, nos termos do artigo 118.º do Código de Procedimento Administrativo, pelo prazo de 30 dias, a contar da data da publicação do presente Edital no Diário da República, encontrando-se o mesmo disponível para consulta pública, no atendimento da Subunidade Orgânica de Taxas e Licenças, durante o horário de expediente e no sítio da Câmara Municipal de Ponta Delgada em www.cm-pontadelgada.pt.
+25 de setembro de 2014. - O Presidente da Câmara, José Manuel Bolieiro.
+308119062
