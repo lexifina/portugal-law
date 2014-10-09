@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 2014-10-09, processo 0381/14
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0381/14
+
+**Data do Acordão:** 10/09/2014
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** JOSÉ VELOSO
+
+**Descritores:** RECLAMAÇÃO PARA A CONFERÊNCIA; OMISSÃO DE PRONÚNCIA; ACTO LEGISLATIVO; INCOMPETÊNCIA EM RAZÃO DA MATÉRIA
+
+**Nº Convencional:** JSTA00068938
+
+**Nº do Documento:** SA1201410090381
+
+**Data de Entrada:** 03/27/2014
+
+**Recorrente:** A.... E OUTROS
+
+**Recorrido 1:** AR, MFIN E MECON
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** RECLAMAÇÃO
+
+**Objecto:** DESP RELATOR STA
+
+**Decisão:** INDEFERIMENTO
+
+**Área Temática 1:** DIR ADM CONT - SUSPEFIC.
+
+**Legislação Nacional:** CONST76 ART2 ART13 ART18 N3 ART56 N3 ART112 N1 ART161 G ART166 N3.; ETAF02 ART4 N1 C D N2 A.; CPA91 ART120.; CPC96 ART288 N1 A.; CPC13 ART608 N2 ART615 N1 D.; CTRAB09 ART478 N2.; CPTA02 ART110 N1 A B.; L 4/07 DE 2007/01/16.; L 83-C/13 DE 2013/12/31 ART75.
+
+**Jurisprudência Nacional:** AC STJ PROC03B1816 DE 2003/10/09.; AC STJ PROC05B840 DE 2005/05/12.; AC STAPLENO PROC034852 DE 2002/02/21.; AC STAPLENO PROC01257/05 DE 2006/05/07.; AC STA PROC01343/03 DE 2004/03/16.; AC STA PROC0678/04 DE 2004/11/03.; AC STA PROC045990 DE 2001/02/06.; AC STA PROC028775 DE 2001/05/09.; AC STA PROC044693 DE 2002/04/24.; AC STA PROC0255/06 DE 2006/10/26.; AC STA PROC046570 DE 2004/06/02.; AC STA PROC046862 DE 2005/03/10.; AC STA PROC0477/07 DE 2007/10/30.; AC STA PROC01111/06 DE 2007/12/05.; AC STA PROC0811/08 DE 2009/01/21.; AC STA PROC0687/07 DE 2009/07/08.; AC STA PROC0713/10 DE 2010/10/21.; AC STA PROC02/11 DE 2011/05/10.; AC STA PROC0113/10 DE 2011/05/19.; AC STA PROC0901/11 DE 2012/01/31.; AC STA PROC0399/13 DE 2013/04/04.; AC STA PROC0174/14 DE 2014/03/20.; AC STA PROC01033/13 DE 2014/06/05.; AC STA PROC0623/14 DE 2014/09/10.
+
+**Referência a Doutrina:** FREITAS DO AMARAL - CURSO DE DIREITO ADMNISTRATIVO II 2ED PAG196-199.; AROSO DE ALMEIDA - TEORIA GERAL DO DIREITO ADMNISTRATIVO TEMAS NUCLEARES PAG79-85.; ANTUNES VARELA - RLJ ANO122 PAG112.; ALBERTO DOS REIS - COMENTÁRIO AO CÓDIGO DE PROCESSO CÍVIL VOLV PAG143.; RODRIGUES BASTOS - NOTAS AO CÓDIGO DE PROCESSO CIVIL VOLIII 1972 PAG228.; FREITAS DO AMARAL - CURSO DE DIREITO ADMNITRATIVO III PAG36.; ROGÉRIO SOARES - DIREITO ADMINISTRATIVO PAG81.; MÁRIO ESTEVES DE OLIVEIRA E RODRIGO ESTEVES DE OLIVEIRA - CPTA ANOTADO PAG550.; MARCELO REBELO DE SOUSA E ANDRÉ SALGADO DE MATOS - DIREITO ADMINISTRATIVO GERAL I 3ED 2008 PAG38.
+
+## Sumário
+
+I - Não é nula, por omissão de pronúncia, a decisão que enfrentou a primeira questão de direito que se lhe colocava e cuja resolução prejudicou o conhecimento de todas as demais.
+
+II - O art. 75º da Lei do Orçamento de Estado para 2014 tem natureza normativa, pois está dotado dos atributos de generalidade e abstracção.
+
+III - Nenhuma inconstitucionalidade há em considerar legislativos os actos normativos enunciados sob essa forma.
+
+IV - Dado o que se dispõe no art. 4º, n.º 2, al. a), do ETAF, a jurisdição administrativa é incompetente em razão da matéria para conhecer da acção em que se impugne o acto incluso naquele art. 75º.
