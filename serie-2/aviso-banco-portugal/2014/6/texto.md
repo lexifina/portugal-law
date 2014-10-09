@@ -1,0 +1,12 @@
+Aviso do Banco de Portugal n.º 6/2014
+Nos termos conjugados dos números 3.º, 4.º e 8.º do Aviso do Banco de Portugal n.º 11/94, o Banco de Portugal fixa, anualmente, até ao dia 30 de setembro, a taxa das contribuições anuais a efetuar pelas instituições participantes no Fundo de Garantia de Depósitos, sendo esta determinada "[...] em função do rácio médio de core tier 1 relevante [...]" (número 4.º do Aviso do Banco de Portugal n.º 11/94).
+A Diretiva 2014/49/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativa aos sistemas de garantia de depósitos, publicada no jornal Oficial da União Europeia em 12 de junho de 2014, e que será transposta para o ordenamento jurídico português, veio introduzir um certo nível de harmonização quanto aos métodos e princípios aplicáveis ao cálculo das contribuições a efetuar pelas instituições participantes nos sistemas de garantia de depósitos. Embora a Diretiva preveja, nos n.os 2 e 3 do seu artigo 13.º, que os sistemas de garantia de depósito nacionais podem utilizar os seus próprios métodos, baseados no risco, para determinar e calcular as contribuições a efetuar pelas instituições participantes, determina igualmente a Diretiva que os métodos adotados deverão ser comunicados à EBA que, até 3 de julho de 2015, emitirá orientações para especificar aquele método de cálculo das contribuições.
+Atendendo sobretudo à entrada em vigor da Diretiva 2014/49/UE do Parlamento Europeu e do Conselho e à emissão pela EBA, num futuro próximo, de orientação sobre o método a adotar no cálculo das contribuições a efetuar pelas instituições participantes no Fundo, afigura-se adequado alterar, para já, o n.º 8.º do Aviso do Banco de Portugal n.º 11/94, de forma a poder aguardar-se por uma maior definição do futuro conteúdo das orientações referidas.
+Assim, no uso da competência que lhe é atribuída pelo artigo 17.º da sua Lei Orgânica, o Banco de Portugal determina o seguinte:
+Artigo 1.º
+É alterado o n.º 8.º do Aviso do Banco de Portugal n.º 11/94, publicado em suplemento ao Diário da República, 2.ª série, de 29 de dezembro de 1994, que passa a ter a seguinte redação:
+«8.º A taxa contributiva de base a aplicar em cada ano será fixada até 15 de dezembro do ano anterior, dentro do intervalo referido no n.º 3.º.»
+Artigo 2.º
+O presente Aviso entra em vigor na data da sua publicação.
+30 de setembro de 2014. - O Governador, Carlos da Silva Costa.
+208135302
