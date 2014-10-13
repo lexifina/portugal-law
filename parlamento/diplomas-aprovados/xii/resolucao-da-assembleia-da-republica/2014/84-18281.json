@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=90IHzJ7HA9a0ZSrtQz8mXDcvzfGefpOheVnMt6DfMKmi5J7vfg77wnSXQNcT7rEjNyMHPex0BA7bnfxtr4bW0sGCld5aVsA6dxKaAv7jS5WSdAIs3%2fHcw%2fG26CkkgscDraQ%2bsdnb83HDQ2scbRd%2biiECrwP3kle5c9nvIw%2beOE5atJR94QIJJasn0xyEZOZ%2fx95LY92djtdtFBVhLj%2bxFRg%2fKtBI%2fQwgwPj2TDf6vpxYBrin68LmmU7Bx5y5a0nrScksrbmK3dYKweXzJaQtd%2fYTPOp6NBP2pki8HV9y2eoqfg2r5Xgg9hKYa2%2ftp2KVHDMULTvkILBTvlx%2fpctxWEayPgimp145UBnTk7npXEQ%3d&fich=DiplomasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f97159af77766c70321336f77959bdef03c4ce38a2ea5bc71549d97d9e5f98a",
+  "legislatura": "XII",
+  "id": "18281",
+  "tipo": "Resolução da Assembleia da República",
+  "numero": "84",
+  "data_registo": "2014-10-13",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2014",
+    "Id": "18281",
+    "Iniciativas": null,
+    "Legislatura": "XII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938774f47566a59324e6c5a5330314e54646c4c54517859324974596d51775a53316d4d5455324e6a4d3459546330593245756347526d&fich=08ecccee-557e-41cb-bd0e-f156638a74ca.pdf&Inline=true",
+    "Numero": "84",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": [
+      {
+        "anexos": null,
+        "ano": null,
+        "dtAgendamento": null,
+        "dtAprovacaoCA": null,
+        "id": "103",
+        "leg": "XII",
+        "obs": null,
+        "SL": null,
+        "textosAprovados": null,
+        "tipo": "Conta Gerência",
+        "titulo": "Conta de Gerência da Assembleia da República referente ao ano de 2013",
+        "tp": "CGE",
+        "votacao": null
+      }
+    ],
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "700661",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-10-13",
+        "pubLeg": "XII",
+        "pubNr": "197",
+        "pubSL": "4",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/197/2014/0/pt/html"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "707626",
+        "obs": "Declaração n.º 14/2014",
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-11-12",
+        "pubLeg": "XII",
+        "pubNr": "219",
+        "pubSL": "4",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/219/2014/0/pt/html"
+      }
+    ],
+    "Sessao": "4",
+    "Tipo": "Resolução da Assembleia da República",
+    "Titulo": "Aprova o Relatório e a Conta de Gerência da Assembleia da República referentes ao ano de 2013",
+    "Tp": "A",
+    "Versao": null
+  }
+}
