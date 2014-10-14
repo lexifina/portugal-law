@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 11427/2014
+Manuel Joaquim Oliveira Faria Bolieiro, Presidente da União das Freguesias de Salvaterra de Magos e Foros de Salvaterra, torna público que, nos termos e para os efeitos dos artigos 130.º e 131.º do Código do Procedimento Administrativo, que o Regulamento e Tabela Geral de Taxas e Licenças da União das Freguesias de Salvaterra de Magos e Foros de Salvaterra, foi aprovado pela Assembleia de Freguesia da União das Freguesias de Salvaterra de Magos e Foros de Salvaterra, em sessão ordinária de 22 de setembro de 2014, sob proposta do Executivo da Junta de Freguesia, em reunião de 08 de setembro de 2014, tendo o projeto do referido Regulamento sido publicitado na 2.ª série do Diário da República n.º 124, de 1 de julho de 2014, e submetido a apreciação pública nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo.
+26 de setembro de 2014. - O Presidente da Junta, Manuel Joaquim Oliveira Faria Bolieiro.
+308120617
