@@ -1,0 +1,282 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12564",
+  "numero": "439",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-10-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-11-26",
+            "entidades": null,
+            "id": "98831",
+            "tipo": null,
+            "titulo": "Audição em 2014-11-26 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-11-13",
+            "dataResposta": null,
+            "entidades": [
+              "D. Jorge Ferreira da Costa Ortiga - Arcebispo de Braga"
+            ],
+            "nrOficio": "392/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-11-13",
+            "dataResposta": "2015-02-06",
+            "entidades": [
+              "Presidente da Câmara Municipal de Guimarães"
+            ],
+            "nrOficio": "394/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-11-13",
+            "dataResposta": "2014-11-17",
+            "entidades": [
+              "Presidente da Junta de Freguesia de Serzedelo"
+            ],
+            "nrOficio": "395/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-11-13",
+            "dataResposta": "2014-12-11",
+            "entidades": [
+              "S.E.   DA  CULTURA"
+            ],
+            "nrOficio": "393/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-01-05",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "720943",
+                "obs": null,
+                "pag": [
+                  "5-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-01-10",
+                "pubLeg": "XII",
+                "pubNr": "21",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/021/2015-01-10/5?pgs=5-9&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-11-06",
+        "DataArquivo": "2015-01-06",
+        "DataBaixaComissao": "2014-10-29",
+        "DataEnvioPAR": "2015-01-07",
+        "DataReaberta": "2014-11-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-11-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b774d6a55354e7a51354c5459324d4459744e475535595330344d4459774c5445774d474d78596a51354d57557a4f4335775a47593d&fich=90259749-6606-4e9a-8060-100c1b491e38.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-11-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49314d6a55324e44686c4c545978595749744e4441794e5330355a5751334c5456685a6a56684e6d4a6a4d6d5a6d4e5335775a47593d&fich=2525648e-61ab-4025-9ed7-5af5a6bc2ff5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-11-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5535596d49794d3255774c544d79595455744e446c6d5a6930344e6a41314c54677a596a41304f5751324d545a6d5a4335775a47593d&fich=59bb23e0-32a5-49ff-8605-83b049d616fd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-11-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251794e3246694e6a4e6d4c5467784d7a49744e445a6d596930345a5451304c54466c5a544e684d546c6c4e5759344f5335775a47593d&fich=d27ab63f-8132-46fb-8e44-1ee3a19e5f89.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-11-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49794e44426a596d45324c574e6d5a444d744e474d794d5330354d7a45304c5459325a446b345a6d4d314d6d566c4d7935775a47593d&fich=2240cba6-cfd3-4c21-9314-66d98fc52ee3.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-01-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5135597a6b7a4d6a67794c54426c4d6d55744e4463784e5331684e4745784c546c685a6a56695a6a6333597a6b32596935775a47593d&fich=49c93282-0e2e-4715-a4a1-9af5bf77c96b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-11-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41334e6d45314d446b304c544d79597a41744e44417959533034595751354c544d784d6a6c6c4d7a55304f4451314e4335775a47593d&fich=076a5094-32c0-402a-8ad9-3129e3548454.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245354e444e6c5a4755354c5445774e6a59744e4455354f533169595455334c54566d4e4445314d54466d4d6a466b4e7935775a47593d&fich=a943ede9-1066-4599-ba57-5f41511f21d7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-11-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6b596a466c597a686b4c5745354e6a51744e4467775a6931694e4445344c5445334e5749355a444179597a55334f5335775a47593d&fich=cdb1ec8d-a964-480f-b418-175b9d02c579.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5130593249304e6d59784c574977595455744e4445344e4330345a444a684c5449344e47526c5a5445354e47566a4d4335775a47593d&fich=44cb46f1-b0a5-4184-8d2a-284dee194ec0.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-11-21",
+            "gp": "PSD",
+            "id": "4435",
+            "motivoCessacao": null,
+            "nome": "Ana Sofia Bettencourt"
+          },
+          {
+            "dataCessacao": "2014-11-21",
+            "dataNomeacao": "2014-11-06",
+            "gp": "PSD",
+            "id": "2685",
+            "motivoCessacao": "Voltou à situação de Suplente",
+            "nome": "Isidro Araújo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2014-11-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6c684e6d4d7a4d324d7a4c546c6c4e4445744e47466c4d6930344f544d7a4c5467354e6d55324e7a41335a5468684f5335775a47593d&fich=9a6c33c3-9e41-4ae2-8933-896e6707e8a9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12564",
+    "PetAssunto": "Solicitam uma intervenção de conservação, reparação e restauro da Igreja de Santa Cristina de Serzedelo, em Guimarães.",
+    "PetDataEntrada": "2014-10-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12564",
+    "PetLeg": "XII",
+    "PetNr": "439",
+    "PetNrAssinaturas": "1167",
+    "PetNrAssinaturasInicial": "1167",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "713394",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-11-15",
+        "pubLeg": "XII",
+        "pubNr": "13",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/013/2014-11-15/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
