@@ -20,7 +20,7 @@ c) Determinação do preço do CIEG em horas de vazio:
 
 (ver documento original)
 
-4 - Para os efeitos dos números anteriores, na determinação do preço do CIEG correspondente aos custos com a convergência tarifária deve considerar-se o nível de tensão ou tipo de fornecimento BTN, agregando-se neste os níveis de tensão ou tipos de fornecimento BTN(maior que) e BTN(menor que).
+4 - Para os efeitos dos números anteriores, na determinação do preço do CIEG correspondente aos custos com a convergência tarifária e com os sobrecustos com os CAE deve considerar-se o nível de tensão ou tipo de fornecimento BTN, agregando-se neste os níveis de tensão ou tipos de fornecimento BTN(maior que) e BTN(menor que).
 
 5 - Os fatores Kp(índice j)(elevado a CIEGi) e Kc(índice j)(elevado a CIEGi) para cada período horário previstos no n.º 3 são determinados por despacho do membro do Governo responsável pela área da energia, que vigora até ser alterado por despacho subsequente.
 
