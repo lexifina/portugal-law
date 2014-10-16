@@ -1,0 +1,8 @@
+Aviso n.º 11523/2014
+Alteração ao Plano Diretor Municipal de Almeirim
+Alterações pontuais e atualização das Cartas Urbanísticas de Fazendas de Almeirim, Benfica do Ribatejo e Cortiçóis, Paço dos Negros e Foros de Benfica do Ribatejo e alteração ao ponto 3.2.4 do artigo 3.º do Regulamento do Plano Diretor Municipal de Almeirim.
+Nos termos do disposto nos n.os 3 e 4 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de setembro, na redação que lhe foi conferida pelo Decretos-Leis n.os 316/2007 de 19 de setembro e 46/2009 de 20 de fevereiro, torna-se público que se encontra em discussão pública por um período de 30 dias úteis contados a partir do quinto dia útil após a publicação do presente aviso no Diário da República, as alterações pontuais e atualização das Cartas Urbanísticas de Fazendas de Almeirim, Benfica do Ribatejo e Cortiçóis, Paço dos Negros e Foros de Benfica do Ribatejo e alteração ao ponto 3.2.4 do artigo 3.º do Regulamento do Plano Diretor Municipal de Almeirim.
+Mais se informa que todos os elementos constituintes do processo, estarão disponíveis para consulta dos munícipes na Divisão de Habitação e Urbanismo da Câmara Municipal de Almeirim de segunda a sexta-feira, no horário normal de expediente ou seja das 9 às 17 horas.
+Os interessados poderão apresentar, por escrito na Secretaria da Divisão de Habitação e Urbanismo da Câmara Municipal de Almeirim, no prazo estipulado para o efeito, reclamações, observações, sugestões e pedidos de esclarecimento relativos ao assunto em epígrafe, em impresso próprio a fornecer pela Autarquia.
+8 de outubro de 2014. - O Presidente da Câmara Municipal de Almeirim, Pedro Miguel César Ribeiro.
+208153114
