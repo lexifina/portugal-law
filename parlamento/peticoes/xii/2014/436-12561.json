@@ -1,0 +1,242 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12561",
+  "numero": "436",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-10-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-02-17",
+            "entidades": null,
+            "id": "101554",
+            "tipo": null,
+            "titulo": "Audição em 2016-02-17 com APHM - Associação Portuguesa de Habitação Municipal, Dr. Manuel Pizarro"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-02-16",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "759648",
+                "obs": null,
+                "pag": [
+                  "3-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-27",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/018/2016-02-27/3?pgs=3-9&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2016-02-16",
+        "DataBaixaComissao": "2015-11-17",
+        "DataEnvioPAR": "2016-02-24",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-02-24",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a566859546c6c5a544a6c4c574535595751744e474a6c4d533035596a67304c5467354d44646d4e5449354d6a4578596935775a47593d&fich=5aa9ee2e-a9ad-4be1-9b84-8907f529211b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-03-22",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c3249314d6a59784f5441794c54497a596d45744e4449305a4330355954686a4c57566c4f545a684e325530593255344d7935775a47593d&fich=b5261902-23ba-424d-9a8c-ee96a7e4ce83.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-02-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a5a684f4455344f4755324c5464684d4751744e4445324d4331694d6a63794c54457a4e5455345a6a413159575a6a596935775a47593d&fich=6a8588e6-7a0d-4160-b272-13558f05afcb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-11-17",
+            "gp": "PS",
+            "id": "1154",
+            "motivoCessacao": null,
+            "nome": "Helena Roseta"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-11-11",
+        "DataArquivo": "2015-11-17",
+        "DataBaixaComissao": "2014-10-24",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2014-11-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-11-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e515a585270593246764c7a59784e7a46694e6a49354c5451324e3255744e4445794e5331684d6a68684c574d304e474d305a57566d4f54497a4e6935775a47593d&fich=6171b629-467e-4125-a28a-c44c4eef9236.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3520",
+        "Legislatura": "XII",
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2015-11-16",
+            "dataNomeacao": "2014-11-11",
+            "gp": "PS",
+            "id": "2132",
+            "motivoCessacao": null,
+            "nome": "Idália Salvador Serrão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação da XIII Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2014-10-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325a6c4e47466c4f5449794c546c6a59544d744e4749334f4330344f4452684c574e6b4f474a685a4467324e544e6d4e4335515245593d&fich=fe4ae922-9ca3-4b78-884a-cd8bad8653f4.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2016-12-29",
+        "TipoDocumento": "Link",
+        "URL": "http://www.parlamento.pt/sites/COM/XIIILEG/11CAOTDPLH/GTHRUPC/Paginas/default.aspx"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12561",
+    "PetAssunto": "Pela revisão da renda apoiada e suspensão da atualização das rendas.",
+    "PetDataEntrada": "2014-10-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12561",
+    "PetLeg": "XII",
+    "PetNr": "436",
+    "PetNrAssinaturas": "1587",
+    "PetNrAssinaturasInicial": "1587",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "713393",
+        "obs": null,
+        "pag": [
+          "5-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-11-15",
+        "pubLeg": "XII",
+        "pubNr": "13",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/013/2014-11-15/5?pgs=5&org=PLC"
+      }
+    ]
+  }
+}
