@@ -1,0 +1,5 @@
+Aviso n.º 96/2014
+Por ordem superior se torna público que em 14 de novembro de 2013 e em 26 de setembro de 2014 foram emitidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério dos Negócios Estrangeiros e Cooperação de Moçambique, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo sobre Transporte Aéreo entre a República Portuguesa e a República de Moçambique, assinado em Lisboa a 30 de abril de 2010.
+A República Portuguesa é Parte neste Acordo, o qual foi aprovado pela Resolução da Assembleia da República n.º 105/2012, em 08 de junho, ratificado por Decreto do Presidente da República n.º 132/2012, de 07 de agosto, e publicado no Diário da República, 1.ª série, n.º 105, de 07 de agosto de 2012.
+Nos termos do artigo 23.º do Acordo, este entrou em vigor em 26 de setembro de 2014.
+Direção-Geral de Política Externa, 6 de outubro de 2014. - O Subdiretor-Geral de Política Externa, Carlos José de Pinho e Melo Pereira Marques.
