@@ -20,7 +20,7 @@ g) Monção e Melgaço, integrando os municípios de Melgaço e Monção;
 
 h) Paiva, integrando o município de Castelo de Paiva, e no município de Cinfães as freguesias de Souselo e Travanca;
 
-i) Sousa, integrando os municípios de Felgueiras, Lousada, Paços de Ferreira, Paredes, Penafiel e, no município de Vizela, as freguesias de Santa Eulália e Santo Adrião de Vizela.
+i) Sousa, integrando os municípios de Felgueiras, Lousada, Paços de Ferreira, Paredes, Penafiel e no município de Vizela, as freguesias de Santa Eulália e Santo Adrião de Vizela, e no município de Valongo a União das freguesias de campo e sobrado.
 
 2 - Os produtos com indicação de sub-região serão obtidos a partir de uvas produzidas e vinificadas exclusivamente na respectiva sub-região.
 

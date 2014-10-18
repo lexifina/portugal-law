@@ -25,3 +25,5 @@ c) Sejam cumpridas as restantes exigências estabelecidas pela legislação em v
 6 - O limite do volume nominal do vasilhame é fixado por regulamento interno da entidade certificadora, a aprovar com decisão favorável de quatro quintos dos votos dos membros do conselho geral, não podendo este volume ser superior a 5 l nem aos limites estabelecidos nos n.os 4 e 5 para os respectivos produtos.
 
 7 - A comercialização dos produtos vitivinícolas com indicação de sub-região, indicação de casta ou designativos de qualidade só pode ser efectuada em garrafa de vidro com capacidade até 75 cl ou múltiplos, excepto no que respeita às aguardentes, cuja capacidade máxima é de 70 cl.
+
+8 - Os produtos com direito à DO «Vinho Verde» só podem ser comercializados após a sua certificação pela entidade certificadora.
