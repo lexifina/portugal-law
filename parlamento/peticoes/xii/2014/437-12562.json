@@ -1,0 +1,521 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12562",
+  "numero": "437",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-10-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-02-26",
+            "dataResposta": "2015-06-23",
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "54/9ªCOM/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-05-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "745121",
+                "obs": null,
+                "pag": [
+                  "7-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/048/2015-05-22/7?pgs=7-9&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-10-28",
+        "DataArquivo": "2015-05-20",
+        "DataBaixaComissao": "2014-10-27",
+        "DataEnvioPAR": "2015-05-20",
+        "DataReaberta": "2014-10-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-12-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793969596d4d784d4445345a5330795a575a6c4c5452684e7a51744f4455774e6930774f44457759574e6d4d474e684e44637555455247&fich=bbc1018e-2efe-4a74-8506-0810acf0ca47.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-02-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387a59544a69596a59344e6930794e4455344c54526d59574574595446694e7930344f544e6b597a686d4e6a6b344e5463756347526d&fich=3a2bb686-2458-4faa-a1b7-893dc8f69857.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-05-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939694e6a637a5a4451774e53316c59544a694c545178593249744f5442694d79303359544135596a646a5a6d51794d574d756347526d&fich=b673d405-ea2b-41cb-90b3-7a09b7cfd21c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784f4749354e545977596930794f54457a4c5451335a4745744f544a6b4d7930324d5755794d545a684f444978595463756347526d&fich=18b9560b-2913-47da-92d3-61e216a821a7.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-10-28",
+            "gp": "PS",
+            "id": "4319",
+            "motivoCessacao": null,
+            "nome": "Mário Ruivo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-07-01",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-10-27",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a56684f54597959544e6d4c5752684e7a59744e4467314f4330344d5445784c575a6c4d3255325a6a51784f5445315a5335515245593d&fich=5a962a3f-da76-4858-8111-fe3e6f41915e.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "39050",
+      "39694",
+      "39700"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:34:09:873&drc=00:01:49:466"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:50:43:908&drc=00:01:11:183"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55",
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/54?pgs=54-55,59&org=PLC"
+              }
+            ],
+            "Sumario": "Manutenção da gestão pública do Hospital de Cantanhede no âmbito SNS e contratação efetiva de todos os profissionais que respondem às necessidades permanentes do seu funcionamento; Recomenda ao Governo a manutenção da gestão pública do Hospital Arcebispo João Crisóstomo em Cantanhede; Por uma gestão pública e ao serviço das populações do Hospital Arcebispo João Crisóstomo, em Cantanhede; Contra a Privatização do Hospital Público de Cantanhede.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:36:03:207&drc=00:01:54:932"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:49:27:722&drc=00:01:13:658"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55",
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/55?pgs=55,58&org=PLC"
+              }
+            ],
+            "Sumario": "Manutenção da gestão pública do Hospital de Cantanhede no âmbito SNS e contratação efetiva de todos os profissionais que respondem às necessidades permanentes do seu funcionamento; Recomenda ao Governo a manutenção da gestão pública do Hospital Arcebispo João Crisóstomo em Cantanhede; Por uma gestão pública e ao serviço das populações do Hospital Arcebispo João Crisóstomo, em Cantanhede; Contra a Privatização do Hospital Público de Cantanhede.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:02:18:014&drc=00:02:31:653"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199366",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Manutenção da gestão pública do Hospital de Cantanhede no âmbito SNS e contratação efetiva de todos os profissionais que respondem às necessidades permanentes do seu funcionamento; Recomenda ao Governo a manutenção da gestão pública do Hospital Arcebispo João Crisóstomo em Cantanhede; Por uma gestão pública e ao serviço das populações do Hospital Arcebispo João Crisóstomo, em Cantanhede; Contra a Privatização do Hospital Público de Cantanhede.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:41:07:857&drc=00:03:19:379"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199367",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Manutenção da gestão pública do Hospital de Cantanhede no âmbito SNS e contratação efetiva de todos os profissionais que respondem às necessidades permanentes do seu funcionamento; Recomenda ao Governo a manutenção da gestão pública do Hospital Arcebispo João Crisóstomo em Cantanhede; Por uma gestão pública e ao serviço das populações do Hospital Arcebispo João Crisóstomo, em Cantanhede; Contra a Privatização do Hospital Público de Cantanhede.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:44:29:773&drc=00:02:30:368"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199368",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Manutenção da gestão pública do Hospital de Cantanhede no âmbito SNS e contratação efetiva de todos os profissionais que respondem às necessidades permanentes do seu funcionamento; Recomenda ao Governo a manutenção da gestão pública do Hospital Arcebispo João Crisóstomo em Cantanhede; Por uma gestão pública e ao serviço das populações do Hospital Arcebispo João Crisóstomo, em Cantanhede; Contra a Privatização do Hospital Público de Cantanhede.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=03:47:05:113&drc=00:02:15:480"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199369",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Manutenção da gestão pública do Hospital de Cantanhede no âmbito SNS e contratação efetiva de todos os profissionais que respondem às necessidades permanentes do seu funcionamento; Recomenda ao Governo a manutenção da gestão pública do Hospital Arcebispo João Crisóstomo em Cantanhede; Por uma gestão pública e ao serviço das populações do Hospital Arcebispo João Crisóstomo, em Cantanhede; Contra a Privatização do Hospital Público de Cantanhede.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12562",
+    "PetAssunto": "Contra a Privatização do Hospital Público de Cantanhede.",
+    "PetDataEntrada": "2014-10-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12562",
+    "PetLeg": "XII",
+    "PetNr": "437",
+    "PetNrAssinaturas": "5076",
+    "PetNrAssinaturasInicial": "5076",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2080",
+        "obs": null,
+        "pag": [
+          "54-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-07-02",
+        "pubLeg": "XII",
+        "pubNr": "105",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/54?pgs=54-59&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "745104",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-11",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/046/2015-05-11/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
