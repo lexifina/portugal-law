@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2014-10-29, processo 0726/11
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0726/11
+
+**Data do Acordão:** 10/29/2014
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FRANCISCO ROTHES
+
+**Descritores:** CADUCIDADE DO DIREITO À LIQUIDAÇÃO; CADUCIDADE DO DIREITO DE IMPUGNAR; NOTIFICAÇÃO
+
+**Nº Convencional:** JSTA00068964
+
+**Nº do Documento:** SA2201410290726
+
+**Data de Entrada:** 07/18/2011
+
+**Recorrente:** FAZENDA PÚBLICA
+
+**Recorrido 1:** A..., LDA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL
+
+**Objecto:** SENT TAF LOULÉ
+
+**Decisão:** PROVIDO
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - IMPUGN JUDICIAL
+
+**Legislação Nacional:** CPPTRIB99 ART85 N1 N2 ART102 N1 ART37 ART38 N3 ART39 N1 N2.; CCIV66 ART341 N1 N3.; CPC13 ART621 ART628.; LGT98 ART45 N6.; CONST76 ART268 N3 N4.
+
+**Jurisprudência Nacional:** AC STA PROC0331/11 DE 2012/04/12.
+
+**Referência a Doutrina:** LEITE DE CAMPOS, BENJAMIM RODRIGUES E JORGE DE SOUSA - LEI GERAL TRIBUTÁRIA ANOTADA E COMENTADA 4ED PÁG359-360.; CARVALHO FERNANDES - CADUCIDADE PÁG666-667.
+
+## Sumário
+
+I - Enquanto para aferir da caducidade do direito de impugnar judicialmente é mister que a notificação assegure o efectivo conhecimento do acto pelo notificando (assim assegurando o cabal exercício de todos os direitos de reacção contra o mesmo, sendo que a exigência de notificação, porque tem subjacente ou está conexionada com o direito de impugnação de actos administrativos lesivos consagrada no n.º 4 do art. 268.º da CRP, surge aqui como garantia fundamental dos cidadãos), quando se trata de aferir da caducidade do direito à liquidação a notificação visa apenas garantir que o acto foi praticado dentro do prazo para o exercício desse direito.
+
+II - O facto de, perante uma notificação irregular (a carta registada foi enviada e recebida, mas sem que obedeça ao formalismo legalmente imposto, designadamente o aviso de recepção), não se ter dado como provado o efectivo conhecimento do acto notificando pelo seu destinatário – o que determinou a revogação da sentença que considerou caducado o direito de impugnar o mesmo acto –, não impede que se considere a notificação suficiente para demonstrar a prática do acto dentro do prazo da caducidade do direito à liquidação (cfr. art. 45.º, n.º 6, da LGT), não podendo argumentar-se em sentido contrário com uma pretensa violação do caso julgado.
