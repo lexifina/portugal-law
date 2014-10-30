@@ -1,0 +1,9 @@
+Aviso n.º 12174/2014
+Alteração ao plano de pormenor da Zona Industrial do Alto do Barro
+Participação Preventiva
+Vítor Manuel de Almeida Figueiredo, Presidente da Câmara Municipal de São Pedro do Sul, faz saber, que ao abrigo do preceituado no n.º 1 do artigo 74.º, no n.º 1 e n.º 2 do artigo 77.º, no n.º 2 do artigo 93.º, e na alínea b)do n.º 4 do artigo 148.º da redação em vigor do RJIGT, foi determinada a proposta de se proceder à Alteração do Plano de Pormenor da Zona Industrial do Alto do Barro. Nesse sentido, a Câmara Municipal de São Pedro do Sul em reunião ordinária pública realizada em 23 de setembro de 2014 deliberou por unanimidade iniciar o referido procedimento de Alteração do Plano Pormenor da Zona Industrial do Alto do Barro.
+O prazo de elaboração da alteração será de 60 dias e estabelece-se um prazo de 15 dias, a partir da publicação do presente aviso no Diário da República, para formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da referida alteração, por todos os interessados.
+A deliberação da Câmara Municipal de São Pedro do Sul, o documento de fundamentação para a alteração e a indicação da não necessidade de se proceder a Avaliação Ambiental Estratégia, podem ser consultados na Secção de Obras e Urbanismo da Câmara Municipal de São Pedro do Sul, durante as horas normais de expediente e no sítio da Internet da autarquia, em http://www.cm-spsul.pt.
+Qualquer sugestão, informação ou observação deverá ser apresentada por escrito na Secção de Obras e Urbanismo, em carta dirigida ao Sr. Presidente da Câmara Municipal ou por via eletrónica para o endereço gabpresidente@cm-spsul.pt, contendo, em qualquer das formas, identificação completa do subscritor.
+30 de setembro de 2014. - O Presidente da Câmara, Vítor Manuel de Almeida Figueiredo.
+208183936
