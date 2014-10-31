@@ -20,4 +20,4 @@
 
 7 - A componente variável corresponde a um prémio estabelecido, nos termos dos números anteriores, atendendo especialmente ao desempenho de cada gestor público regional e dependendo a sua atribuição, nos termos do artigo 6.º, da efectiva concretização de objectivos previamente determinados.
 
-8 - Nos casos previstos no n.º 1 e na alínea a) do n.º 2 do artigo 14.º, e quando ocorrer autorização expressa do membro do Governo Regional responsável pela área das finanças, os gestores podem optar pela remuneração fixa do lugar de origem, mantendo as regalias ou benefícios remuneratórios que aí detinham, sem prejuízo da componente variável nos termos do número anterior.
+8 - Nos casos previstos no n.º 1 e na primeira parte do n.º 2 do artigo 14.º, e quando ocorrer autorização expressa do membro do Governo Regional responsável pela área das finanças, os gestores podem optar pela remuneração fixa do lugar de origem, mantendo as regalias ou benefícios remuneratórios que aí detinham, sem prejuízo da componente variável nos termos do número anterior.
