@@ -1,0 +1,7 @@
+Aviso n.º 12227/2014
+Proposta de Alteração ao PDM de Ourém
+Paulo Alexandre Homem de Oliveira Fonseca, Presidente da Câmara Municipal de Ourém, faz público que, a Câmara Municipal deliberou por unanimidade em reunião do dia 7 de outubro, submeter a proposta de alteração do Plano Diretor Municipal de Ourém a discussão pública, por um período de 30 dias (úteis), contados a partir do 5.º dia após publicação do presente Aviso na 2.ª série do Diário da República, conforme previsto n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro (Regime Jurídico dos Instrumentos de Gestão Territorial), alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, alterado pelo Decreto-Lei n.º 2/2011 de 6 de janeiro.
+Durante esse prazo, os interessados poderão consultar a proposta de alteração, bem como os demais elementos que a acompanham, no edifício sede do Município de Ourém, na Divisão de Planeamento e Ordenamento do Território (DPOT), nos dias úteis, durante as horas normais de expediente (9h/16h00) e no seguinte sítio de Internet: http://www.cm-ourem.pt - DISCUSSÃO PÚBLICA.
+Mais se informa, que os interessados podem apresentar reclamações, sugestões e observações ou pedidos de esclarecimento, presencialmente ou via electrónica, através do sítio de Internet indicado, remetendo o formulário nesse disponibilizado, devidamente preenchido, para o e-mail: pdm@mail.cm-ourem.pt.
+7 de outubro de 2014. - O Presidente da Câmara, Paulo Alexandre Homem de Oliveira Fonseca.
+208185653
