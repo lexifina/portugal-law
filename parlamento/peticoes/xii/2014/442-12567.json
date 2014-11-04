@@ -1,0 +1,343 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12567",
+  "numero": "442",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-11-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-01-14",
+            "entidades": null,
+            "id": "99178",
+            "tipo": null,
+            "titulo": "Audição em 2015-01-14 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": null,
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "11/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": null,
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "12/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": "2015-02-02",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "13/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": "2015-01-27",
+            "entidades": [
+              "Conselho de Escolas"
+            ],
+            "nrOficio": "14/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": "2015-02-02",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "15/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "16/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": null,
+            "entidades": [
+              "ARIPESE - Associação das Escolas Superiores de Educação"
+            ],
+            "nrOficio": "17/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": "2015-02-05",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "18/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": "2015-02-02",
+            "entidades": [
+              "MIN.   DA   JUSTIÇA"
+            ],
+            "nrOficio": "9/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": "2015-02-09",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "6/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-13",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "10/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-02-17",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-01-06",
+        "DataArquivo": "2015-02-17",
+        "DataBaixaComissao": "2014-11-19",
+        "DataEnvioPAR": "2015-02-19",
+        "DataReaberta": "2015-01-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-01-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d354d3259305a6a4d774c574978596a45744e4468694e5330354e6a6b314c544e6a4e6a426b4e6a45314e546b355a5335775a47593d&fich=393f4f30-b1b1-48b5-9695-3c60d615599e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-30",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67345a546b324d7a6c6a4c54457a4e6d51744e44497a4e5330354d6a49794c57526c4e7a49784d4745314e6a5a6a4d7935775a47593d&fich=88e9639c-136d-4235-9222-de7210a566c3.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245325a474e6d595441774c54646859544d744e474e694e7931694e6d59334c5749784e6d55304d4455794f5746685a6935775a47593d&fich=a6dcfa00-7aa3-4cb7-b6f7-b16e40529aaf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6a4d6d51775a5445354c54597a596a4d744e474e6a596931684e6d4a6d4c5451794e545a6b4d6a646c4d444d304e5335775a47593d&fich=2c2d0e19-63b3-4ccb-a6bf-4256d27e0345.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251344d4459335a4441794c574d774d4449744e47597a4e4331684e5451344c5749784f5759795a474a684d4463324d5335775a47593d&fich=d8067d02-c002-4f34-a548-b19f2dba0761.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249344e7a593159546b324c5759324e4467744e475134595331684e6a6b774c5745784f44526d4f4751344e32457a5a4335775a47593d&fich=b8765a96-f648-4d8a-a690-a184f8d87a3d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59354d546b785a544a6b4c5445794e3251744e4468684e533169596d4a6c4c54466a4e7a557959324e6c597a4e6a5a4335775a47593d&fich=69191e2d-127d-48a5-bbbe-1c752ccec3cd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566c596a49335a6a63774c54417759324d744e444935596931685a6a677a4c57597a5a57466a5a57526c5a54637a4e7935775a47593d&fich=5eb27f70-00cc-429b-af83-f3eacedee737.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3255774e6d45774d7a4e6c4c57566d4f5451744e475a6d4e4331684d4449344c574d324e3246694e7a677a5a546335597935775a47593d&fich=e06a033e-ef94-4ff4-a028-c67ab783e79c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686b596d45304d4455304c5451324e5455744e444d344e6931694e4459344c574a6a4e5455345a574d354d574e6a4e7935775a47593d&fich=8dba4054-4655-4386-b468-bc558ec91cc7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a68684e5751305954557a4c5468694d7a59744e4467335a4331694e3255774c5755304d5467325a446b325a4441324e6935775a47593d&fich=8a5d4a53-8b36-487d-b7e0-e4186d96d066.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45314d6d59774d474e684c54566d4d3249744e44417a4e4331684d6a646c4c544d775a6d49324d6a51795a4455784e7935775a47593d&fich=152f00ca-5f3b-4034-a27e-30fb6242d517.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325134597a68684e6a63314c5749334e4463744e445a6b5a6930354e4441304c54466b4f54466c4e5745324f4746694e5335775a47593d&fich=d8c8a675-b747-46df-9404-1d91e5a68ab5.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-02-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a684e445a6c4d7a45794c54466d4f5749744e444e69597930355a546c6a4c54686b5a4751794e4455345a444535597935775a47593d&fich=2a46e312-1f9b-43bc-9e9c-8ddd2458d19c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-02-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a694e325a69597a55784c544931597a67744e44426a4d433169596a4e6c4c546b79595446684d7a63305a57466c4d7935775a47593d&fich=2b7fbc51-25c8-40c0-bb3e-92a1a374eae3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49355a544e69593252694c574930596d45744e44597a4e433168595749354c5455355a4451775a44466a4d6a686b4d4335775a47593d&fich=29e3bcdb-b4ba-4634-aab9-59d40d1c28d0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32466a4e5745775a546c694c546b30597a6b744e4755354e6930354d6a45354c544533595751784d444179595455325a5335775a47593d&fich=ac5a0e9b-94c9-4e96-9219-17ad1002a56e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6468595449314e3251784c5449304e3255744e4451304f4330354f57466d4c544d344d6d59354f5749305a6d4d775a5335775a47593d&fich=7aa257d1-247e-4448-99af-382f99b4fc0e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67784e7a4d33593249344c546c694e7a55744e4463304e6931684e6a6b794c5759324e3245345a6a45315a4749784e4335775a47593d&fich=81737cb8-9b75-4746-a692-f67a8f15db14.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a6c4f446c685957466c4c544d345a6a55744e47497a4d6931695a6d55344c5455304d4441784d5467794d4751304d4335775a47593d&fich=6e89aaae-38f5-4b32-bfe8-540011820d40.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-01-06",
+            "gp": "PS",
+            "id": "4338",
+            "motivoCessacao": null,
+            "nome": "Sandra Pontedeira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2014-12-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41775a6d466d4d6a497a4c574d354f5759744e446b355a6931695a574d314c57526a597a6c6b4e6a5a6b593255304d7935775a47593d&fich=00faf223-c99f-499f-bec5-dcc9d66dce43.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12567",
+    "PetAssunto": "Solicita que nas instituições de ensino e formação sejam ministradas matérias que promovam a literacia em direito, em todas as etapas do ensino.",
+    "PetDataEntrada": "2014-11-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12567",
+    "PetLeg": "XII",
+    "PetNr": "442",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
