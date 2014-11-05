@@ -1,0 +1,8 @@
+Aviso n.º 12384/2014
+Fernando Marques Jorge, Presidente da Câmara Municipal de Oleiros, torna público, que:
+1 - A Câmara Municipal deliberou em reunião de 23 de maio e 13 de junho de 2014, nos termos do Regime Jurídico dos Instrumentos de Gestão Territorial - Decreto-Lei n.º 380/99 de 22 de setembro, na atual redação, elaborar a alteração ao Plano de Pormenor da Zona Industrial de Açude Pinto, aprovado por deliberação da Assembleia Municipal de Oleiros, em 30 de abril de 1997, publicado pela Declaração n.º 2/98 (2.ª série) no Diário da República de 3 de janeiro de 1998, ao abrigo da alínea a) do n.º 2 do Artigo 93.º do Regime Jurídico dos Instrumentos de Gestão Territorial - Decreto-Lei n.º 380/99 de 22 de setembro, com a redação que lhe foi conferida pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro;
+2 - Nos termos do disposto nos números 3 e 4 do artigo 77.º, conjugados com a alínea a) do n.º 4 do artigo 148.º ambos do citado Regime, encontra-se aberto o período de discussão pública da alteração do referido Plano de Pormenor, pelo período de 22 dias constado da publicação do presente Aviso no Diário da República;
+3 - Os interessados poderão consultar as peças relevantes para a apreciação nos Serviços Técnicos da Divisão de Obras e Serviços Urbanos do Município de Oleiros, sitos nos Paços do Concelho, Praça do Município, Oleiros, em horário normal de expediente, ou no sítio internet do Município (www.cm-oleiros.pt)
+4 - A formulação de reclamações, observações ou sugestões deverão ser feitas mediante requerimento dirigido ao Sr. Presidente da Câmara Municipal de Oleiros, o qual deverão constar obrigatoriamente a identificação do assunto e do subscritor
+28 de outubro de 2014. - O Presidente da Câmara, Fernando Marques Jorge.
+208195446
