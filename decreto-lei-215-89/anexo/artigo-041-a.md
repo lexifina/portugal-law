@@ -1,11 +1,23 @@
+## Capítulo VI
+
+## Benefícios fiscais à capitalização das empresas
+
 # Artigo 41.º-A
 
-### Regime especial da Zona Franca da Madeira
+### Remuneração convencional do capital social
 
-1 - Os rendimentos das entidades mencionadas nas alíneas d), e), f) e h) do n.º 1 do artigo 41.º são tributados em IRC, a partir de 1 de Janeiro de 2001 e até 31 de Dezembro de 2011, uma vez observados os condicionalismos previstos nas referidas alíneas, às taxas de 1% caso se licenciem nos anos de 2001 e 2002, de 2% caso se licenciem nos anos de 2003 e 2004 e de 3% caso se licenciem nos anos de 2005 e 2006.
+1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português, pode ser deduzida uma importância correspondente à remuneração convencional do capital social, calculada mediante a aplicação da taxa de 5 % ao montante das entradas realizadas, por entregas em dinheiro, pelos sócios, no âmbito da constituição de sociedade ou do aumento do capital social, desde que:
 
-2 - Os rendimentos das instituições de crédito e das sociedades financeiras são tributados em IRC, a partir da entrada de 1 de Janeiro de 2001 e até 31 de Dezembro de 2011, uma vez verificados os condicionalismos previstos na alínea c) do n.º 1 do artigo 41.º, às taxas de 7,5% caso se licenciem nos anos de 2001 e 2002, de 10% caso se licenciem nos anos 2003 e 2004 e de 12,5% caso se licenciem nos anos de 2005 e 2006.
+a) A sociedade beneficiária seja qualificada como micro, pequena ou média empresa, de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho;
 
-3 - Os lucros ou dividendos auferidos por sociedades gestoras de participações sociais que se licenciem nos anos de 2001 a 2006 são tributados nos termos referidos no n.º 1, uma vez verificados os condicionalismos previstos na alínea g) do artigo 41.º
+b) Os sócios que participem na constituição da sociedade ou no aumento do capital social sejam exclusivamente pessoas singulares, sociedades de capital de risco ou investidores de capital de risco;
 
-4 - Às sociedades licenciadas a partir de 1 de Janeiro de 2001 na zona demarcada industrial respectiva e àquelas que, licenciadas a partir desta data, prossigam a actividade da indústria de transporte marítimo, continua a aplicar-se o regime previsto nas alíneas a) e b) do n.º 1 do artigo 41.º
+c) O seu lucro tributável não seja determinado por métodos indiretos.
+
+2 - A dedução a que se refere o número anterior:
+
+a) Aplica-se exclusivamente às entradas, no âmbito da constituição de sociedades ou do aumento do capital social da sociedade beneficiária;
+
+b) É efetuada no apuramento do lucro tributável relativo ao período de tributação em que ocorram as mencionadas entradas e nos três períodos de tributação seguintes.
+
+3 - O benefício fiscal previsto no presente artigo está sujeito às regras europeias aplicáveis em matéria de auxílios de minimis.
