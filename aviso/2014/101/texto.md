@@ -1,0 +1,5 @@
+Aviso n.º 101/2014
+Por ordem superior se torna público que o Secretariado-geral do Conselho da União Europeia comunicou, pela nota n.º SGS13/08756, de 26 de julho de 2013, terem a União Europeia e a Comunidade Europeia da Energia Atómica concluído os procedimentos internos necessários à entrada em vigor do «Acordo de Estabilização e de Associação entre as Comunidades Europeias e os seus Estados-Membros, por um lado, e a República da Sérvia, por outro», assinado no Luxemburgo em 29 de abril de 2008.
+Mais se torna público que, tendo todas as Partes concluído idênticos procedimentos, o presente acordo entrou em vigor no dia 1 de setembro de 2013, nos termos do seu artigo 138.º.
+Portugal é Parte neste Acordo, aprovado pela Resolução da Assembleia da República n.º 26/2011 e ratificado pelo Decreto do Presidente da República n.º 16/2011, ambos publicados no Diário da República, 1.ª série, n.º 39, de 24 de fevereiro.
+Direção-Geral dos Assuntos Europeus, 1 de outubro de 2014. - O Diretor-Geral, Pedro Costa Pereira.
