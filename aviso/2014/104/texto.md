@@ -1,0 +1,5 @@
+Aviso n.º 104/2014
+Por ordem superior se torna público que, em 14 de julho de 2014 e em 21 de julho de 2014, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros de Portugal e pela Organização das Nações Unidas para a Alimentação e Agricultura (FAO), através das quais se comunica terem sido cumpridos os respetivos requisitos internos necessários para a entrada em vigor do Acordo Quadro de Cooperação entre a República Portuguesa e a Organização das Nações Unidas para a Alimentação e Agricultura (FAO), assinado em Lisboa, em 31 de julho de 2012.
+Por parte de Portugal, o Acordo Quadro foi aprovado pela Resolução da Assembleia da República n.º 39/2014 e ratificado pelo Decreto do Presidente da República n.º 30/2014, ambos publicados no Diário da República, 1.ª série, n.º 92, de 14 de maio de 2014.
+Nos termos do Artigo VIII do Acordo Quadro, este entra em vigor a 29 de outubro de 2014.
+Direção-Geral de Política Externa, 24 de outubro de 2014. - O Subdiretor-Geral, Rui Vinhas.
