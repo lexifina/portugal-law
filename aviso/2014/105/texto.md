@@ -1,0 +1,5 @@
+Aviso n.º 105/2014
+Por ordem superior se torna público que, em 3 de abril de 2014, a Comunidade das Bahamas depositou, nos termos do artigo XIX do Estatuto, junto do Governo da República Federal Alemã, país depositário, o seu instrumento de vinculação ao Estatuto da Agência Internacional das Energias Renováveis (IRENA), adotado em Bona, na Alemanha, em 26 de janeiro de 2009.
+Em cumprimento do artigo XIX, parágrafo E, do Estatuto, este entrará em vigor para a Comunidade das Bahamas no trigésimo dia posterior à data do depósito do instrumento relevante.
+Portugal é Parte do Estatuto, aprovado, para ratificação, pela Resolução da Assembleia da Republica n.º 105/2011 e ratificado pelo Decreto do Presidente da República n.º 50/2011, ambos publicados no Diário da República, 1.ª série, n.º 89, de 9 de maio de 2011, tendo Portugal depositado o seu instrumento de ratificação em 30 de junho de 2011, conforme o Aviso n.º 165/2011, publicado no Diário da República, 1.ª série, n.º 133, de 30 de julho de 2011.
+Direção-Geral de Política Externa, 24 de outubro de 2014. - O Subdiretor-Geral, Rui Vinhas.
