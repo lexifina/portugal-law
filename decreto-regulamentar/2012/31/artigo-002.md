@@ -10,7 +10,7 @@ a) Participar na definição e aplicação das políticas de segurança alimenta
 
 b) Assegurar a representação junto das instâncias nacionais, comunitárias e internacionais nos domínios relativos às suas atribuições, bem como a coordenação do Sistema de Alerta Rápido, das missões do Serviço Alimentar e Veterinário da Comissão Europeia, dos grupos do Codex Alimentarius e da formação no âmbito do programa «Melhor formação para uma maior segurança dos alimentos»;
 
-c) Coordenar a elaboração do plano nacional de controlo plurianual integrado, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais;
+c) O fomento e o melhoramento das raças equinas portuguesas e a divulgação da produção cavalar das raças Sorraia e Garrano;
 
 d) Definir e coordenar as estratégias de promoção da segurança dos géneros alimentícios, de alimentos para animais e materiais em contacto com géneros alimentícios, em articulação com a Autoridade de Segurança Alimentar e Económica, bem como da fitossanidade e protecção e sanidade dos animais;
 
@@ -48,4 +48,6 @@ u) A manutenção de uma rede informática, em conexão com todas as associaçõ
 
 v) A definição e o acompanhamento da realização de testes de performance;
 
-x) A colaboração com o Instituto Nacional de Investigação Agrária e Veterinária, I.P., designadamente através da disponibilização de informação técnica relacionada com as competências referidas nas alíneas anteriores.
+x) A colaboração com o Instituto Nacional de Investigação Agrária e Veterinária, I.P., designadamente através da disponibilização de informação técnica relacionada com as competências referidas nas alíneas anteriores;
+
+y) A preservação do património genético animal das raças Sorraia e Garrano.
