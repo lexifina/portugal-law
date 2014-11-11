@@ -1,0 +1,6 @@
+Aviso n.º 12640/2014
+Discussão Pública
+Dr. Nuno Jorge Rodrigues Gonçalves, Presidente da Câmara Municipal de Torre de Moncorvo, torna público, no uso das competências que lhe são atribuídas pelo artigo 35.º, n.º 1, alínea t), da Lei n.º 75/2013, de 12 de setembro, conjugado com o disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/94, de 15 de novembro, alterado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, que foi deliberado em reunião de Câmara de 24 de outubro de 2014, submeter à apreciação pública o projeto de regulamento do serviço de abastecimento público de água, o projeto de regulamento do serviço de saneamento de águas residuais urbanas e o projeto de regulamento de serviço de gestão de resíduos urbanos, pelo período de 30 dias contados a partir da data da presente publicação no Diário da República.
+Os interessados poderão dirigir, por escrito, as suas sugestões à Câmara Municipal de Torre de Moncorvo, no período acima referido, encontrando-se os projetos de Regulamento disponíveis para consulta, em www.torredemoncorvo.pt e na Divisão Técnica - Gabinete de Ambiente, Rua das Amoreiras, 54, em Torre de Moncorvo, todos os dias úteis, dentro do horário normal de expediente (9:00 h às 12:30 h e das 14:00 h às 16:00 h).
+24 de outubro de 2014. - O Presidente da Câmara, Nuno Gonçalves.
+308197382
