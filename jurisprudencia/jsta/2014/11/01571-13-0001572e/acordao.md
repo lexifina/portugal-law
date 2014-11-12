@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2014-11-12, processo 01571/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01571/13
+
+**Data do Acordão:** 11/12/2014
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FONSECA CARVALHO
+
+**Descritores:** IRC; MENOS VALIAS
+
+**Nº Convencional:** JSTA000P18205
+
+**Nº do Documento:** SA22014111201571
+
+**Data de Entrada:** 10/14/2013
+
+**Recorrente:** A.................... LDA
+
+**Recorrido 1:** FAZENDA PÚBLICA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – O artigo 43 nº 1 do CIRC qualifica de proveitos as mais valias decorrentes da alienação onerosa do activo imobilizado e de menos valias as perdas sofridas decorrentes dessa transmissão onerosa.
+
+II – A determinação quantitativa de cada uma destas categorias decorria do nº 2 do artigo 43 do CIRC que expressamente refere que o valor é o decorrente da diferença entre o valor de realização, líquido de encargos que lhe sejam inerentes e o valor da aquisição deduzido das reintegrações ou amortizações mas sem prejuízo do disposto no n.5 al. a) do artigo 29 do CIRC.
+
+III – No cálculo das menos valias relativas à alienação onerosa do veiculo automóvel de marca Mercedes Benz o valor das amortizações não contabilizadas nos exercícios de 2001, 2002 e 2003 deve ser considerado como valor de amortização correspondente à taxa mínima de 12,5% prevista no decreto regulamentar 2/90 nos exercícios seguintes:
+
+IV – Se não se admitisse o valor das quotas perdidas no cálculo da menos valia fiscal, enquanto reintegrações para efeitos fiscais, estava-se a agravar a menos valia fiscal e desse modo a deduzir implicitamente essas reintegrações ao lucro tributável de exercício diferente dos exercícios em que deveriam ter sido praticadas o que contraria os preceitos anteriormente referidos e viola também manifestamente o principio da especialização dos exercícios consagrado no artigo 18 do CIRC.
