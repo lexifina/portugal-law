@@ -2,6 +2,8 @@
 
 Ácido lisérgico.
 
+alfa-fenilacetoacetonitrilo.
+
 Efedrina.
 
 Ergometrina.
