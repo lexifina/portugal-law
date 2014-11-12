@@ -2,4 +2,4 @@
 
 ### Utilização dos canais horários
 
-Em especial no que se refere à infra-estrutura congestionada, o gestor da infra-estrutura pode determinar a retrocessão dos canais horários que, durante um período mínimo de um mês, tenham sido menos utilizados do que a quota limiar estipulada no directório da rede, excepto se tal tiver sido provocado por razões não económicas fora do controlo dos operadores de transporte ferroviário.
+Em especial no que se refere à infraestrutura congestionada, o gestor da infraestrutura pode reverter a atribuição de um canal horário cuja utilização, durante um período de pelo menos um mês, tenha sido inferior ao nível estipulado no diretório da rede, exceto se essa subutilização tiver sido causada por razões não económicas fora do controlo dos operadores de transporte ferroviário.

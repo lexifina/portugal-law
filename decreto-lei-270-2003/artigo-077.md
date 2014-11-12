@@ -20,7 +20,7 @@ e) A falta de comunicação, por parte das empresas de transporte ferroviário, 
 
 f) O incumprimento, por parte do gestor da infra-estrutura, das obrigações, procedimentais e de conteúdo, decorrentes do presente diploma e das normas regulamentares aplicáveis, respeitantes à elaboração, edição ou publicitação do directório da rede;
 
-g) O incumprimento, por parte do gestor da infra-estrutura, das obrigações de fornecimento, ao INTF ou aos interessados, do directório da rede, ou das obrigações de prestação de informações suplementares correspondentes;
+g) O incumprimento, por parte do gestor da infraestrutura, das obrigações de fornecimento, à AMT ou aos interessados, do diretório da rede, ou das obrigações de prestação de informações suplementares correspondentes;
 
 h) Qualquer decisão tomada pelo gestor da infra-estrutura em violação do disposto no directório da rede;
 
@@ -40,15 +40,19 @@ p) O incumprimento das obrigações decorrentes do regime de melhoria de desempe
 
 q) O incumprimento por parte do gestor da infra-estrutura e das empresas de transporte ferroviário das obrigações previstas no n.º 1 do artigo 64.º, nos n.os 1, 3 e 4 do artigo 65.º, no artigo 66.º-A, no artigo 66.º-C e no n.º 1 do artigo 66.º-G;
 
-r) O incumprimento, por parte de entidades sujeitas aos poderes de fiscalização do INTF, da obrigação de apresentação ao INTF de toda a documentação exigível, sempre que solicitada, ou a oposição, directa ou indirecta, ao exercício daquela fiscalização;
+r) O incumprimento, por parte de entidades sujeitas aos poderes de fiscalização do IMT, I. P., e da AMT, da obrigação de apresentação de toda a documentação exigível, sempre que solicitada, ou a oposição, direta ou indireta, ao exercício daquela fiscalização;
 
 s) A violação, pelo gestor da infra-estrutura, da obrigação de respeito pelo segredo comercial ou industrial da informação que lhe seja fornecida pelos operadores de transporte ferroviário;
 
 t) A não instrução atempada do processo de recurso, por parte do gestor da infra-estrutura, nos termos do n.º 2 do artigo 71.º do presente diploma;
 
-u) O incumprimento de decisões do INTF de recursos ou reclamações;
+u) O incumprimento de decisões da AMT, de recursos ou reclamações;
 
-v) O incumprimento de instruções vinculativas emitidas pelo INTF.
+v) O incumprimento de instruções vinculativas emitidas pelo IMT, I. P., ou pela AMT;
+
+x) O incumprimento, por parte das entidades responsáveis pela manutenção, da obrigação prevista no n.º 5 do artigo 66.º-R;
+
+z) O incumprimento, por parte de qualquer entidade ou agente, das regras nacionais de segurança, sendo que, se se tratar de pessoa singular a contraordenação é punível com coima de (euro) 200 a (euro) 1 000.
 
 2 - Constitui contra-ordenação, punível com coima de (euro) 1000 a (euro) 5000, o incumprimento, por parte das entidades sujeitas aos deveres de informação, das obrigações correspondentes que lhes incumbam por força do presente diploma.
 

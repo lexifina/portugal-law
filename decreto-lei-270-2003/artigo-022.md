@@ -6,4 +6,4 @@
 
 2 - As empresas ou entidades, públicas ou privadas, que explorem as instalações ou prestem os serviços referidos no número anterior estão obrigadas a conceder acesso aos interessados e a prestar-lhes esses serviços em condições equitativas e não discriminatórias.
 
-3 - Em caso de incumprimento do disposto no número anterior pode o INTF impor as obrigações específicas previstas no artigo 73.º
+3 - Em caso de incumprimento do disposto no número anterior pode a AMT impor obrigações específicas através de atos previstos no artigo 75.º

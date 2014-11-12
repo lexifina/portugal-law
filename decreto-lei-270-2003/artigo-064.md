@@ -1,8 +1,4 @@
-## Capítulo VI
-
-## Segurança
-
-## Secção I
+## Secção II
 
 ## Dos sistemas de gestão de segurança
 

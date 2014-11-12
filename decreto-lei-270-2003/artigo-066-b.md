@@ -8,4 +8,4 @@
 
 3 - O IMTT pode solicitar elementos adicionais ou a revisão, parcial ou total, dos sistemas de gestão da segurança que lhe sejam presentes e, bem assim, determinar em qualquer momento a sua revisão, suspensão ou revogação, desde que com fundamento em perigo para a segurança da exploração ferroviária.
 
-4 - O IMTT fixa, por regulamento, o procedimento para a aprovação dos sistemas de gestão da segurança.
+4 - (Revogado).

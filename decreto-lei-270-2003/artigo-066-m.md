@@ -1,3 +1,7 @@
+## Subsecção IV
+
+## Da formação do pessoal com funções relevantes para a segurança da exploração
+
 # Artigo 66.º-M
 
 ### Acesso a estruturas de formação

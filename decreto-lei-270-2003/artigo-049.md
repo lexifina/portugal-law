@@ -6,7 +6,7 @@
 
 ### Acordos quadro
 
-1 - Sem prejuízo do disposto nos artigos 81.º, 82.º e 86.º do Tratado da Comunidade Europeia, das regras nacionais em matéria de concorrência e das competências das autoridades nacionais de defesa da concorrência, pode ser celebrado um acordo quadro entre o gestor da infra-estrutura e um candidato, sujeito a aprovação prévia do INTF, ouvida a Autoridade da Concorrência.
+1 - Sem prejuízo do disposto nos artigos 101.º, 102.º e 106.º do Tratado sobre o Funcionamento da União Europeia, das regras nacionais em matéria de concorrência e das competências das autoridades nacionais de defesa da concorrência, pode ser celebrado um acordo quadro entre o gestor da infraestrutura e um candidato, sujeito a aprovação prévia da AMT, ouvida a Autoridade da Concorrência.
 
 2 - Esse acordo quadro, obrigatoriamente reduzido a escrito, especificará as características da capacidade da infra-estrutura solicitada pelo candidato e que lhe é fornecida para um período superior ao período de vigência de um horário de serviço.
 

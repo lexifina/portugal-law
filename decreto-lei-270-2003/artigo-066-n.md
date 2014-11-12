@@ -10,4 +10,4 @@
 
 2 - No exercício da competência prevista no número anterior, o IMTT tem em conta a necessidade de conformar as normas técnicas de segurança aos MCS e aos OCS definidos a nível comunitário.
 
-3 - As normas de segurança são publicadas na 2.ª série do Diário da República.
+3 - As normas de segurança são notificadas aos destinatários e publicitadas no sítio na Internet da autoridade nacional de segurança ferroviária.
