@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0wW%2b9aGMSg3XsDjcO0gOVBJPs1pyK0FHm62NYdVmxxtE4DRw2ZAoh40gDY2nTvP6JEgf%2fWHb8wFWYGdZLtB6JkW3RL%2bwJsauG1hs%2bjD7vRZJDNCWMt%2bIU9sIJZgEnR%2fG8JkYEyU4Y1%2foOxCr5dJLrK74tEmrwWKDid7lUyyVULpNIOwnmkKNwVntqAnyh14T9wz4QSCLcPWmnzKSIsr0kLfuShn2vqb7%2bex4gIr4Z5mgJWtwca%2fVyRcYFZzGLFYE2F5ul7ohtvwRr%2fupn5VlJsxlmkxoaqjrYTOEkA8QnLv9r%2bZgE5Gqpy0dmc7mircVNsiX1avLODihfkh49X1KAN8aGZ7T0n%2byJdd8ILBW71yBVkDyx%2bBbG0IEr0a%2bTq9WxslIX8TzGgNkP%2fFF45BPwkYSiopPSRMBmK6SMTETDWE%3d&fich=OEPropostasAlteracao2015Or_json.txt&Inline=true",
+  "ficheiro_sha256": "6e451bc2d6c79791e92c61b112a600c90757754057e30c6abd4d4d2bf8aa9848",
+  "legislatura": "XII",
+  "id": "8842",
+  "numero": "147C",
+  "orcamento": "2015",
+  "versao": "Or",
+  "data_registo": "2014-11-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8842",
+    "Numero": "147C",
+    "Data": "13/11/2014 18:12:00",
+    "Titulo": "Novo Artigo 115.º-B (Revogação do Decreto-Lei n.º 70/2010, de 16 de junho e do Decreto-Lei n.º 133/2012, de 27 de junho)",
+    "Tema": "Segurança Social e Trabalho; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 115.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554545764e6a55354d7a5a684e6d59744e7a41314e7930304f474a684c5746684f5463744d6a4a69596a49324e5459314e5455304c6e426b5a673d3d&Fich=65936a6f-7057-48ba-aa97-22bb26565554.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 115.º-B",
+        "Titulo": "Revogação do Decreto-Lei nº 70/2010, de 16 de junho e do Decreto-lei nº 133/2012, de 27 de junho",
+        "Texto": "São revogados o Decreto-Lei nº 70/2010, de 16 de junho, e o Decreto-Lei nº 133/2012, de 27 de junho, repristinando as normas por estes revogadas, constantes do Decreto-Lei nº 164/99, de 13 de maio, da Lei nº 13/2003, de 21 de maio, do Decreto-lei nº 176/2003, de 2 de agosto, do Decreto-lei nº 283/2003, de 8 d",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 115.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Revogação do Decreto-Lei nº 70/2010, de 16 de junho e do Decreto-lei nº 133/2012, de 27 de junho",
+        "Data": "20/11/2014 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
