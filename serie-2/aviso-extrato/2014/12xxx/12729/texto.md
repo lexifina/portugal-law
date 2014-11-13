@@ -1,0 +1,11 @@
+Aviso (extrato) n.º 12729/2014
+Nos termos e para os efeitos do disposto no artigo 3.º, n.º 3, do Regime Jurídico da Urbanização e Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, com as demais alterações e republicações legais posteriores, bem como no artigo 118.º, n.os 1 e 2, do Código do Procedimento Administrativo, submete-se a apreciação e discussão pública, com vista à recolha de contributos e de sugestões, pelo prazo de trinta dias úteis, contados da data da publicação na 2.ª série do Diário da República, o projeto de alteração por aditamento ao Regulamento Municipal de Urbanização, Edificação e Taxas por Operações Urbanísticas em vigor, aprovado pela câmara municipal na sua reunião ordinária de 5 de novembro de 2014, conforme consta do edital n.º 573/2014, datado de 5 de novembro de 2014.
+Aditamento do artigo 74.º-A ao mencionado Regulamento, com a seguinte redação:
+«Artigo 74.º-A
+Redução de taxas devidas pela regularização de construções
+1 - É reduzida em 50 % a taxa devida pela regularização de construções, desde que as mesmas tenham sido edificadas antes da data de entrada em vigor do Plano Diretor Municipal, publicado em 17 de março de 1993.
+2 - É reduzida em 10 % a taxa municipal pela realização, manutenção e reforço das infraestruturas urbanísticas devida pela regularização de construções, desde que as mesmas tenham sido edificadas antes da entrada em vigor do Regulamento Municipal de Urbanização, Edificação e Taxas por Operações Urbanísticas, que criou a referida taxa, publicado em 3 de maio de 2005.
+3 - É autorizado o pagamento das taxas municipais urbanísticas a que se referem os números precedentes em prestações mensais, no máximo de 24, mediante pedido fundamentado, devidamente acompanhado de prova documental adequada, dirigido ao Presidente da Câmara Municipal, no âmbito da respetiva competência delegada, acrescendo, a cada uma das prestações a pagar, os respetivos juros legais compensatórios, fixados de acordo com a taxa de juro legal para as obrigações civis.
+4 - O disposto no presente artigo vigora até ao termo do mandato autárquico municipal 2013-2017 em curso.»
+5 de novembro de 2014. - O Presidente da Câmara Municipal, Alberto Simões Maia Mesquita.
+208215606
