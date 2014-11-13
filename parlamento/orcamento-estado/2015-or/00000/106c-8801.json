@@ -1,0 +1,97 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0wW%2b9aGMSg3XsDjcO0gOVBJPs1pyK0FHm62NYdVmxxtE4DRw2ZAoh40gDY2nTvP6JEgf%2fWHb8wFWYGdZLtB6JkW3RL%2bwJsauG1hs%2bjD7vRZJDNCWMt%2bIU9sIJZgEnR%2fG8JkYEyU4Y1%2foOxCr5dJLrK74tEmrwWKDid7lUyyVULpNIOwnmkKNwVntqAnyh14T9wz4QSCLcPWmnzKSIsr0kLfuShn2vqb7%2bex4gIr4Z5mgJWtwca%2fVyRcYFZzGLFYE2F5ul7ohtvwRr%2fupn5VlJsxlmkxoaqjrYTOEkA8QnLv9r%2bZgE5Gqpy0dmc7mircVNsiX1avLODihfkh49X1KAN8aGZ7T0n%2byJdd8ILBW71yBVkDyx%2bBbG0IEr0a%2bTq9WxslIX8TzGgNkP%2fFF45BPwkYSiopPSRMBmK6SMTETDWE%3d&fich=OEPropostasAlteracao2015Or_json.txt&Inline=true",
+  "ficheiro_sha256": "6e451bc2d6c79791e92c61b112a600c90757754057e30c6abd4d4d2bf8aa9848",
+  "legislatura": "XII",
+  "id": "8801",
+  "numero": "106C",
+  "orcamento": "2015",
+  "versao": "Or",
+  "data_registo": "2014-11-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8801",
+    "Numero": "106C",
+    "Data": "13/11/2014 14:54:00",
+    "Titulo": "Artigo 113.º",
+    "Tema": "Orçamento, Finanças e Administração Pública; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Eliminação",
+    "Estado": "Prejudicado(a)",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554545764d5449335a6d4a6a4f544974597a41314e4330304f546b344c5467794d6a6b744d4451334d4456684f5749795a4759314c6e426b5a673d3d&Fich=127fbc92-c054-4998-8229-04705a9b2df5.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 106C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a44426d597a67344e6d59745a6d517a4f433030597a6c684c546734596d5574595467324e4755345a54566859325a694c6e426b5a673d3d&Fich=d0fc886f-fd38-4c9a-88be-a864e8e5acfb.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 106C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764e6a566a4e57497a5a6d4d745a6a5a684d5330304e7a526c4c546c6c5a4751745a6d59794d54646b59324d344d6d4d334c6e426b5a673d3d&Fich=65c5b3fc-f6a1-474e-9edd-ff217dcc82c7.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 106C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764d5746685a4745314e7a67744d6a4a684f4330305a44597a4c546c6a5a4755744f474d79595451344d54426b4e4459774c6e426b5a673d3d&Fich=1aada578-22a8-4d63-9cde-8c2a4810d460.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 106C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a6a67344e4449784d6a41745a6d466a4d6930304f5755344c574a684f474d744d6d45324d44466b5a54597a4e4456684c6e426b5a673d3d&Fich=f8842120-fac2-49e8-ba8c-2a601de6345a.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 106C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a5468695a6a6b334e4749745a44426d4f4330304d6a49304c5745304d4463744d474d784e7a51304e445579597a686c4c6e426b5a673d3d&Fich=e8bf974b-d0f8-4224-a407-0c1744452c8e.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 106C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a6a466a4f444a69597a4d74596a42684d4330304d6a49304c574a695a4467744f544d784e6a6b324f444a694d47526d4c6e426b5a673d3d&Fich=f1c82bc3-b0a0-4224-bbd8-93169682b0df.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Governo Regional- Proposta Nº 106C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a5355786c5a793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764e4451794f4751344d4467745a6a6b784d53303059546b314c546b304f4449744d6d566b4d544533597a677a4d6a67304c6e426b5a673d3d&Fich=4428d808-f911-4a95-9482-2ed117c83284.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 113.º",
+        "Titulo": "Suspensão do pagamento de subsídios e de passagens na Região Autónoma dos Açores",
+        "Texto": "1 - Durante a vigência do Memorando de Entendimento entre o Governo da República e o Governo da Região Autónoma dos Açores, fica suspenso o pagamento do subsídio de fixação e do subsídio de compensação a que se referem os artigos 1.º e 2.º do Decreto Lei n.º 66/88, de 1 de março, alterado pelo Decreto-Lei n.º",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": null
+  }
+}
