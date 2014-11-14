@@ -1,0 +1,105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0wW%2b9aGMSg3XsDjcO0gOVBJPs1pyK0FHm62NYdVmxxtE4DRw2ZAoh40gDY2nTvP6JEgf%2fWHb8wFWYGdZLtB6JkW3RL%2bwJsauG1hs%2bjD7vRZJDNCWMt%2bIU9sIJZgEnR%2fG8JkYEyU4Y1%2foOxCr5dJLrK74tEmrwWKDid7lUyyVULpNIOwnmkKNwVntqAnyh14T9wz4QSCLcPWmnzKSIsr0kLfuShn2vqb7%2bex4gIr4Z5mgJWtwca%2fVyRcYFZzGLFYE2F5ul7ohtvwRr%2fupn5VlJsxlmkxoaqjrYTOEkA8QnLv9r%2bZgE5Gqpy0dmc7mircVNsiX1avLODihfkh49X1KAN8aGZ7T0n%2byJdd8ILBW71yBVkDyx%2bBbG0IEr0a%2bTq9WxslIX8TzGgNkP%2fFF45BPwkYSiopPSRMBmK6SMTETDWE%3d&fich=OEPropostasAlteracao2015Or_json.txt&Inline=true",
+  "ficheiro_sha256": "6e451bc2d6c79791e92c61b112a600c90757754057e30c6abd4d4d2bf8aa9848",
+  "legislatura": "XII",
+  "id": "8977",
+  "numero": "281C",
+  "orcamento": "2015",
+  "versao": "Or",
+  "data_registo": "2014-11-14",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8977",
+    "Numero": "281C",
+    "Data": "14/11/2014 11:45:00",
+    "Titulo": "Artigo 50.º",
+    "Tema": "Ambiente, Ordenamento do Território e Poder Local; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Eliminação",
+    "Estado": "Prejudicado(a)",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554545764f47557a4d6d5a6a4d4759744e7a42685a6930305a44466d4c546b314e6d49744d6a4e6b4d474a6a4d6a45324e5755354c6e426b5a673d3d&Fich=8e32fc0f-70af-4d1f-956b-23d0bc2165e9.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ANTÓNIO FILIPE"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 281C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764f5751344d545a6c4d4463745a446c6d5a6930305954646a4c546b774e5463745a6d45314d6d49325a4749794f445a6b4c6e426b5a673d3d&Fich=9d816e07-d9ff-4a7c-9057-fa52b6db286d.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 281C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764e4463335a4451774d6a55744f57466a4e5330305a5455774c5467344d7a63745a44566b5a6a6b795a574a6d593249334c6e426b5a673d3d&Fich=477d4025-9ac5-4e50-8837-d5df92ebfcb7.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 281C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764d545a6b4e575a6b4e574d745a546b7a5a5330304d6a67784c54677a4e446b744f5456684e4759304f44686c5a6d45794c6e426b5a673d3d&Fich=16d5fd5c-e93e-4281-8349-95a4f488efa2.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 281C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764e445a6c4e5749334d7a41744d544a694d6930304d324a6d4c546c6a595745744f54597a4d5467334d546b304e5459794c6e426b5a673d3d&Fich=46e5b730-12b2-43bf-9caa-963187194562.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Assembleia Regional - Proposta Nº 281C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765932466d4d546379597a67744d3249344e7930304e4445344c546b784d5467744d7a686c4d6a45324e445668596a49304c6e426b5a673d3d&Fich=caf172c8-3b87-4418-9118-38e21645ab24.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 281C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a6a6333597a646d597a41744e7a5978596930305a544a684c5468684e4751744d7a6b32596a59344d475a69593251784c6e426b5a673d3d&Fich=f77c7fc0-761b-4e2a-8a4d-396b680fbcd1.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Governo Regional- Proposta Nº 281C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a5355786c5a793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764e5459314f5749334d4463745954526c4f4330304e6d49344c546c6b5a4441744e324535596a6b79596d56685a544d304c6e426b5a673d3d&Fich=5659b707-a4e8-46b8-9dd0-7a9b92beae34.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 50.º",
+        "Titulo": "Trabalhadores de órgãos e serviços das administrações regionais e autárquicas",
+        "Texto": "1 -Com vista ao cumprimento dos princípios orientadores da gestão dos recursos humanos na Administração Pública, está sujeita a parecer prévio favorável dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública a mobilidade interna de trabalhadores de órgãos e serviços das admini",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": null
+  }
+}
