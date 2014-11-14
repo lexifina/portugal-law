@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0wW%2b9aGMSg3XsDjcO0gOVBJPs1pyK0FHm62NYdVmxxtE4DRw2ZAoh40gDY2nTvP6JEgf%2fWHb8wFWYGdZLtB6JkW3RL%2bwJsauG1hs%2bjD7vRZJDNCWMt%2bIU9sIJZgEnR%2fG8JkYEyU4Y1%2foOxCr5dJLrK74tEmrwWKDid7lUyyVULpNIOwnmkKNwVntqAnyh14T9wz4QSCLcPWmnzKSIsr0kLfuShn2vqb7%2bex4gIr4Z5mgJWtwca%2fVyRcYFZzGLFYE2F5ul7ohtvwRr%2fupn5VlJsxlmkxoaqjrYTOEkA8QnLv9r%2bZgE5Gqpy0dmc7mircVNsiX1avLODihfkh49X1KAN8aGZ7T0n%2byJdd8ILBW71yBVkDyx%2bBbG0IEr0a%2bTq9WxslIX8TzGgNkP%2fFF45BPwkYSiopPSRMBmK6SMTETDWE%3d&fich=OEPropostasAlteracao2015Or_json.txt&Inline=true",
+  "ficheiro_sha256": "6e451bc2d6c79791e92c61b112a600c90757754057e30c6abd4d4d2bf8aa9848",
+  "legislatura": "XII",
+  "id": "8993",
+  "numero": "296C",
+  "orcamento": "2015",
+  "versao": "Or",
+  "data_registo": "2014-11-14",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "8993",
+    "Numero": "296C",
+    "Data": "14/11/2014 12:00:00",
+    "Titulo": "N.º 1, Artigo 98.º",
+    "Tema": "Ambiente, Ordenamento do Território e Poder Local; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554545764e6a45784e5459304f546774596d4a6859693030595455774c5467335a4449744e324d3259546c684d446731597a67774c6e426b5a673d3d&Fich=61156498-bbab-4a50-87d2-7c6a9a085c80.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 98.º",
+        "Titulo": "Participação variável no imposto sobre o rendimento das pessoas singulares",
+        "Texto": "1 - Para efeitos de cumprimento do disposto na alínea c) do n.º 1 do artigo 25.º e no artigo 26.º da Lei n.º 73/2013, de 3 de setembro, é transferido do orçamento do subsetor Estado para a administração local o montante de € 412 310 566.\r\n\r\n2 - A transferência a que se refere o número anterior é efetuada por ",
+        "Estado": "Aprovado(a) em Comissão",
+        "Numeros": {
+          "Numero": "N.º 1",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Aprovado(a) em Comissão"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 1, Artigo 98.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "20/11/2014 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
