@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0wW%2b9aGMSg3XsDjcO0gOVBJPs1pyK0FHm62NYdVmxxtE4DRw2ZAoh40gDY2nTvP6JEgf%2fWHb8wFWYGdZLtB6JkW3RL%2bwJsauG1hs%2bjD7vRZJDNCWMt%2bIU9sIJZgEnR%2fG8JkYEyU4Y1%2foOxCr5dJLrK74tEmrwWKDid7lUyyVULpNIOwnmkKNwVntqAnyh14T9wz4QSCLcPWmnzKSIsr0kLfuShn2vqb7%2bex4gIr4Z5mgJWtwca%2fVyRcYFZzGLFYE2F5ul7ohtvwRr%2fupn5VlJsxlmkxoaqjrYTOEkA8QnLv9r%2bZgE5Gqpy0dmc7mircVNsiX1avLODihfkh49X1KAN8aGZ7T0n%2byJdd8ILBW71yBVkDyx%2bBbG0IEr0a%2bTq9WxslIX8TzGgNkP%2fFF45BPwkYSiopPSRMBmK6SMTETDWE%3d&fich=OEPropostasAlteracao2015Or_json.txt&Inline=true",
+  "ficheiro_sha256": "6e451bc2d6c79791e92c61b112a600c90757754057e30c6abd4d4d2bf8aa9848",
+  "legislatura": "XII",
+  "id": "9121",
+  "numero": "422C",
+  "orcamento": "2015",
+  "versao": "Or",
+  "data_registo": "2014-11-14",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "9121",
+    "Numero": "422C",
+    "Data": "14/11/2014 16:55:00",
+    "Titulo": "Artigo 223.º",
+    "Tema": "Orçamento, Finanças e Administração Pública; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Emenda",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554545764e544177596a4d774e7a41744d7a5532595330305a4751334c5467314f544974596a6c6a5a6a45345a6a6b7a4e6d466b4c6e426b5a673d3d&Fich=500b3070-356a-4dd7-8592-b9cf18f936ad.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "RUI BARRETO",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "CDS-P",
+        "Deputado": "RUI BARRETO"
+      }
+    },
+    "PedidoParecerRAA": "True",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": {
+      "Parecer": [
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Governo Regional - Proposta Nº 422C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a545535596a41785a4463745a4451774f5330305a6a41304c5745325a474d74596a4a6a4e6a557a4d324a6c5a444a6d4c6e426b5a673d3d&Fich=e59b01d7-d409-4f04-a6dc-b2c6533bed2f.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Açores - Assembleia Regional - Proposta Nº 422C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764d7a686d5a5755774e544d7459544d334f5330305a44426d4c546c6d595455745a6a67355a6a59304d6a51784f5455344c6e426b5a673d3d&Fich=38fee053-a379-4d0f-9fa5-f89f64241958.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Governo Regional - Proposta Nº 422C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a5751324e54597a4e7a49744d6a52695a6930304f5751794c574a694f5455745a54686b4e4749784f445a684f5459314c6e426b5a673d3d&Fich=ed656372-24bf-49d2-bb95-e8d4b186a965.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Ofício de pedido de Parecer - Madeira - Assembleia Regional - Proposta Nº 422C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764f54426b4d7a466d4f5449744e324535597930304f54426b4c5749354e5459744f4751314f544977596a55335a6a45304c6e426b5a673d3d&Fich=90d31f92-7a9c-490d-b956-8d5920b57f14.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Madeira - Assembleia Regional - Proposta Nº 422C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a5355784652793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45765a6d4d344d6d4e684d6a6b745a47526d4e533030593245354c546b77595441744d6a686b5a5456685a574e6d4d7a46694c6e426b5a673d3d&Fich=fc82ca29-ddf5-4ca9-90a0-28de5aecf31b.pdf&Inline=true"
+        },
+        {
+          "TipoAssociacao": "Ofícios de Pedido de Parecer e Parecers das Regiões Autónomas",
+          "Titulo": "Parecer da Região Autónoma - Açores - Governo Regional- Proposta Nº 422C",
+          "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a5355786c5a793950525338794d4445314d6a41784e4445774d545576554746795a574e6c636d567a556b45764f444d784f4441334d474d744e546c694d5330304d6a646b4c574a694d5445744d6d55354d6a41334d7a466b4d546c6b4c6e426b5a673d3d&Fich=8318070c-59b1-427d-bb11-2e920731d19d.pdf&Inline=true"
+        }
+      ]
+    },
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 223.º",
+        "Titulo": "Zona Franca da Madeira",
+        "Texto": "Em resultado dos procedimentos junto da Comissão Europeia para a implementação do IV Regime da Zona Franca da Madeira e tendo em vista a garantia de continuidade e estabilidade para as entidades nela licenciadas, logo após a notificação da decisão proferida para o efeito, o Governo promove as consequentes alt",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 223.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Zona Franca da Madeira",
+        "Data": "24/11/2014 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Partido Popular",
+            "Partido Comunista Português",
+            "Bloco de Esquerda"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
