@@ -33,3 +33,5 @@ f) A morada do escritório.
 7 - Findo o prazo de 10 dias previsto no n.º 4 para pagamento da referência multibanco sem que a mesma se encontre paga, o sistema informático de suporte à atividade dos agentes de execução pode proceder à invalidação da referência em causa, não sendo possível a partir desse momento o seu pagamento nem, consequentemente, a apresentação do requerimento.
 
 8 - A comprovação da realização do pagamento previsto no n.º 4 é comunicada eletronicamente pela Câmara dos Solicitadores ao sistema informático de suporte à atividade dos tribunais, estando o exequente dispensado de remeter ao processo o comprovativo do mesmo.
+
+9 - Aplica-se ao requerimento em papel, com as necessárias adaptações, o disposto no n.º 9 do artigo anterior.
