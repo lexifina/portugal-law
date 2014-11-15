@@ -1,6 +1,6 @@
 # Artigo 55.º
 
-### (Associados. Direitos e deveres)
+### (Direitos e deveres dos Associados)
 
 1 - Considera-se dever fundamental dos associados contribuir para a realização dos fins institucionais por meio de quotas, donativos ou serviços.
 

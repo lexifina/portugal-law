@@ -2,4 +2,4 @@
 
 ### (Institutos de organizações religiosas)
 
-Os institutos que se proponham fins de solidariedade social fundados, dirigidos ou sustentados por organizações ou instituições religiosas ficam sujeitos ao regime das fundações de solidariedade social, sem prejuízo do espírito e disciplina religiosos que os informam e do disposto nos artigos seguintes.
+Os institutos de solidariedade social de organizações religiosas são pessoas coletivas instituídas e mantidas por organizações ou instituições religiosas com os objetivos previstos no artigo 1.º, bem como os demais requisitos estabelecidos no presente Estatuto.

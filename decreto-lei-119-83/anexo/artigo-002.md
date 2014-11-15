@@ -6,7 +6,7 @@
 
 a) Associações de solidariedade social;
 
-b) Associações de voluntários de acção social;
+b) [Revogada];
 
 c) Associações de socorros mútuos;
 
@@ -18,6 +18,6 @@ e) Irmandades da misericórdia.
 
 a) Uniões;
 
-b) Federações;
+b) [Revogada];
 
-c) Confederações.
+c) Associações mutualistas ou de socorros mútuos;

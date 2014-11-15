@@ -8,14 +8,18 @@
 
 a) A denominação, que não pode confundir-se com denominação de instituições já existentes;
 
-b) A sede e âmbito de acção;
+b) A forma jurídica adotada;
 
-c) Os fins e actividades da instituição;
+c) A sede e âmbito de acção;
 
-d) A denominação, a composição e a competência dos corpos gerentes;
+d) Os fins e actividades da instituição;
 
-e) A forma de designar os respectivos membros;
+e) A denominação dos órgãos, a sua composição e forma de designar os respetivos membros;
 
-f) O regime financeiro.
+f) As competências e regras de funcionamento dos órgãos;
+
+g) O regime financeiro.
 
 3 - As instituições que prossigam fins de diversa natureza deverão mencionar nos estatutos aqueles que consideram como fins principais.
+
+4 - Os Estatutos das Irmandades das Misericórdias designam-se por compromisso, sendo a sua especificidade veiculada na secção própria.

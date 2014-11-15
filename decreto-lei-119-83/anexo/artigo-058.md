@@ -18,6 +18,6 @@ f) Autorizar a associação a demandar os membros dos corpos gerentes por factos
 
 g) Aprovar a adesão a uniões, federações ou confederações;
 
-h) Fixar a remuneração dos membros dos corpos gerentes, nos termos do artigo 18.º
+h) [Revogada].
 
-2 - Os estatutos das associações de âmbito nacional podem prever que as funções da assembleia geral sejam exercidas por uma assembleia de delegados eleitos pelos associados.
+2 - Os estatutos podem prever outras formas de designação dos membros dos órgãos de administração e de fiscalização, desde que a maioria de cada um desses órgãos seja eleita pela assembleia geral.

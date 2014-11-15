@@ -2,4 +2,4 @@
 
 ### (Tutela da autoridade eclesiástica)
 
-Sem prejuízo da tutela do Estado, nos termos do presente diploma, compete ao ordinário diocesano, ou à Conferência Episcopal, respectivamente, a orientação das instituições do âmbito da sua diocese, ou de âmbito nacional, bem como a aprovação dos seus corpos gerentes e dos relatórios e contas anuais.
+Os poderes da Autoridade Eclesiástica são os que resultam das disposições da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004, nos precisos termos constantes do artigo 44.º

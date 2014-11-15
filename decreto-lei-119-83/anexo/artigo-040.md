@@ -10,4 +10,4 @@
 
 ### (Organizações e instituições religiosas)
 
-As organizações e instituições religiosas que, para além dos fins religiosos, se proponham actividades enquadráveis no artigo 1.º ficam sujeitas, quanto ao exercício daquelas actividades, ao regime estabelecido no presente Estatuto.
+As organizações e instituições religiosas que, para além dos fins religiosos, se proponham exercer atividades enquadráveis no artigo 1.º ficam sujeitas, quanto ao exercício destas atividades, ao regime estabelecido no presente Estatuto.

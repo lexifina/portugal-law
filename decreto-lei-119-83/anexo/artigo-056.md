@@ -2,8 +2,10 @@
 
 ### (Votações)
 
-1 - Os associados não poderão votar, por si ou como representantes de outrem, nas matérias que directamente lhes digam respeito ou nas quais sejam interessados os respectivos cônjuges, ascendentes, descendentes e equiparados.
+1 - O direito de voto efetiva-se mediante a atribuição de um voto a cada associado.
 
-2 - Os associados podem fazer-se representar por outros sócios nas reuniões de assembleia geral, nas condições e pela forma que forem estabelecidas nos estatutos, mas cada sócio não poderá representar mais de 1 associado.
+2 - Gozam de capacidade eleitoral ativa os associados com, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem prazo superior.
 
-3 - Salvo se os estatutos dispuserem de outra forma, é admitido o voto por correspondência, sob condição de o seu sentido ser expressamente indicado em relação ao ponto ou pontos da ordem de trabalhos e a assinatura do associado se encontrar reconhecida notarialmente.
+3 - Os associados podem fazer-se representar por outros sócios nas reuniões de assembleia geral, nas condições e pela forma que forem estabelecidas nos estatutos, mas cada sócio não poderá representar mais de 1 associado.
+
+4 - Os estatutos podem admitir o voto por correspondência, sob condição de o seu sentido ser expressamente indicado em relação ao ponto ou pontos da ordem de trabalhos e devendo definir a forma de reconhecimento da assinatura do associado.

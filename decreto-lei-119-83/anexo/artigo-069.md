@@ -2,7 +2,7 @@
 
 ### (Regime jurídico aplicável)
 
-1 - Às irmandades da Misericórdia aplica-se directamente o regime jurídico previsto no presente diploma, sem prejuízo das sujeições canónicas que lhes são próprias.
+1 - Às irmandades da Misericórdia aplica-se diretamente o regime jurídico previsto no presente Estatuto, sem prejuízo dos termos do Compromisso estabelecido entre a União das Misericórdias Portuguesas e a Conferência Episcopal, ou documento bilateral que o substitua.
 
 2 - Em tudo o que não se encontre especialmente estabelecido na presente secção, as irmandades da Misericórdia regulam-se pelas disposições aplicáveis às associações de solidariedade social.
 

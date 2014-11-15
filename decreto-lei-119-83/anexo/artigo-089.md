@@ -4,8 +4,8 @@
 
 1 - As uniões, federações e confederações de instituições são consideradas, para todos os efeitos, associações de solidariedade social e ficam sujeitas ao seu regime, sem prejuízo do disposto nos números seguintes.
 
-2 - As uniões e federações das associações de socorros mútuos são igualmente consideradas associações de socorros mútuos e ficam sujeitas ao respectivo regime.
+2 - [Revogado].
 
 3 - Não poderá ser considerada instituição particular de solidariedade social uma união, federação ou confederação cujo número de instituições representadas seja inferior a 3.
 
-4 - Se o número de membros da assembleia geral não for suficiente para preencher os órgãos sociais, haverá apenas um órgão colegial, a assembleia de instituições, constituída por todos os membros da união, federação ou confederação, e que delibera por maioria simples.
+4 - As uniões, federações e confederações devem enviar anualmente ao membro do Governo responsável pela área da segurança social o relatório e contas do exercício findo e prestar as informações que lhe forem solicitadas, sem prejuízo das demais obrigações decorrentes dos acordos ou protocolos celebrados com o Estado e das normas que lhes sejam aplicáveis.

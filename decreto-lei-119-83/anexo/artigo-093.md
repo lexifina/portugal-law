@@ -1,7 +1,7 @@
 # Artigo 93.º
 
-### (Confederação de instituições)
+### Confederações
 
-1 - As confederações resultam do agrupamento, a nível nacional, de federações e uniões de instituições.
+1 - As confederações são agrupamentos, a nível nacional, de uniões e federações de instituições.
 
-2 - Podem inscrever-se directamente nas confederações as instituições que não pertençam a qualquer união ou federação.
+2 - Os estatutos das confederações podem prever que nelas se inscrevam diretamente as instituições que não pertençam a qualquer união ou federação.

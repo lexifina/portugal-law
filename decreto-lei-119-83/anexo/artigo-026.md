@@ -1,13 +1,13 @@
 ## Subsecção IV
 
-## Da modificação e da extinção
+## Da fusão, cisão e extinção das instituições
 
 # Artigo 26.º
 
-### (Formas de modificação e de extinção)
+### Regime aplicável
 
-1 - As instituições modificam-se por fusão e por cisão, dando, em qualquer dos casos, lugar a novas instituições.
+1 - A fusão, cisão e extinção das instituições obedecem ao regime legal aplicável à forma que revistam em cada caso.
 
-2 - As instituições extinguem-se pelo processo e com as consequências próprias do regime legal aplicável à forma que revistam em cada caso.
+2 - [Revogado].
 
 3 - Pode ainda uma instituição extinguir-se quando delibere integrar-se noutra.

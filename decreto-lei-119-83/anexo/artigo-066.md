@@ -14,7 +14,7 @@ d) Pelo falecimento ou desaparecimento de todos os associados;
 
 e) Por decisão judicial que declare a insolvência.
 
-2 - As associações de solidariedade social extinguem-se ainda por decisão judicial:
+2 - As associações de solidariedade social podem ainda ser extintas por decisão do Tribunal Arbitral nas seguintes situações:
 
 a) Quando o seu fim se tenha esgotado ou se haja tornado impossível;
 

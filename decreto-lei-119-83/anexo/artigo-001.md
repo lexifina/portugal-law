@@ -10,22 +10,8 @@
 
 ### (Definição)
 
-1 - São instituições particulares de solidariedade social as constituídas, sem finalidade lucrativa, por iniciativa de particulares, com o propósito de dar expressão organizada ao dever moral de solidariedade e de justiça entre os indivíduos e desde que não sejam administradas pelo Estado ou por um corpo autárquico, para prosseguir, entre outros, os seguintes objectivos, mediante a concessão de bens e a prestação de serviços:
+1 - São instituições particulares de solidariedade social, adiante designadas apenas por instituições, as pessoas coletivas, sem finalidade lucrativa, constituídas exclusivamente por iniciativa de particulares, com o propósito de dar expressão organizada ao dever moral de justiça e de solidariedade, contribuindo para a efetivação dos direitos sociais dos cidadãos, desde que não sejam administradas pelo Estado ou por outro organismo público.
 
-a) Apoio a crianças e jovens;
+2 - A atuação das instituições pauta-se pelos princípios orientadores da economia social, definidos na Lei n.º 30/2013, de 8 de maio, bem como pelo regime previsto no presente Estatuto.
 
-b) Apoio à família;
-
-c) Apoio à integração social e comunitária;
-
-d) Protecção dos cidadãos na velhice e invalidez e em todas as situações de falta ou diminuição de meios de subsistência ou de capacidade para o trabalho;
-
-e) Promoção e protecção da saúde, nomeadamente através da prestação de cuidados de medicina preventiva, curativa e de reabilitação;
-
-f) Educação e formação profissional dos cidadãos;
-
-g) Resolução dos problemas habitacionais das populações.
-
-2 - Além dos enumerados no número anterior, as instituições podem prosseguir de modo secundário outros fins não lucrativos que com aqueles sejam compatíveis.
-
-3 - O regime estabelecido neste diploma não se aplica às mesmas instituições em tudo o que respeite exclusivamente aos fins referidos no número anterior.
+3 - O regime estabelecido no presente Estatuto aplica-se subsidiariamente às instituições que se encontrem sujeitas a regulamentação especial.

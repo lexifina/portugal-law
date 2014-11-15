@@ -1,5 +1,7 @@
 # Artigo 6.º
 
-### (Respeito pela vontade dos fundadores)
+### Respeito pela vontade dos fundadores e adequação ao cumprimento da legislação em vigor
 
-A vontade dos fundadores, testadores ou doadores será sempre respeitada e a sua interpretação orientar-se-á por forma a fazer coincidir os objectivos essenciais das instituições com as necessidades colectivas em geral e dos beneficiários em particular e ainda com a evolução destas necessidades e dos meios ou formas de as satisfazer.
+1 - A vontade dos fundadores, testadores ou doadores deve ser sempre respeitada no que diz respeito aos fins, meios e encargos constantes do documento constitutivo da instituição.
+
+2 - Os aspetos organizativos e funcionais das instituições devem adequar-se à legislação em vigor.

@@ -1,6 +1,6 @@
 ## Capítulo IV
 
-## Da cooperação e agrupamentos das instituições particulares de solidariedade social
+## Das uniões, federações e confederações
 
 # Artigo 87.º
 
