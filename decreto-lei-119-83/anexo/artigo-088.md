@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Das uniões, federações e confederações
+
 # Artigo 88.º
 
 ### Formas de agrupamentos e objetivos
