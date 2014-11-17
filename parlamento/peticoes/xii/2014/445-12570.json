@@ -1,0 +1,594 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12570",
+  "numero": "445",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-11-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-12-16",
+            "entidades": null,
+            "id": "98961",
+            "tipo": null,
+            "titulo": "Audição em 2014-12-16 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-12-02",
+            "dataResposta": "2014-12-22",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "430/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-02",
+            "dataResposta": "2014-12-12",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "431/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-02",
+            "dataResposta": "2014-12-09",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "432/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-02",
+            "dataResposta": "2014-12-23",
+            "entidades": [
+              "Conselho de Escolas"
+            ],
+            "nrOficio": "433/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-02",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "434/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-02",
+            "dataResposta": "2014-12-19",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "435/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-02",
+            "dataResposta": "2015-05-07",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "429/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-01-20",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "723322",
+                "obs": null,
+                "pag": [
+                  "2-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "25",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/025/2015-02-07/2?pgs=2-8&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-11-26",
+        "DataArquivo": "2015-01-20",
+        "DataBaixaComissao": "2014-11-19",
+        "DataEnvioPAR": "2015-02-02",
+        "DataReaberta": "2014-11-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-12-01",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63354e7a566a4e7a646c4c544669595463744e4441774d5331694f474d304c5463354e6a59774e324d334e44526c5a5335775a47593d&fich=7975c77e-1ba7-4001-b8c4-796607c744ee.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251774d6a6330593246694c5441354f474d744e44466d4d7931685a44466a4c5751324d5452694d546b325a6d4d33595335775a47593d&fich=d0274cab-098c-41f3-ad1c-d614b196fc7a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6b5a444e694f57526c4c5749354e6d51744e44426c4d43303459574a6d4c54466b4f54526a5a574d335a6a49355a6935775a47593d&fich=cdd3b9de-b96d-40e0-8abf-1d94cec7f29f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e6b4e324e6d595455324c575935595463744e4468694e7930344e474a6b4c5755345a574d35596a4e6c4d5463314e7935775a47593d&fich=3d7cfa56-f9a7-48b7-84bd-e8ec9b3e1757.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49784d5442695a5751314c574d794e5459744e445177595331684d4745794c5751344e6d59314e5745354e5445775a4335775a47593d&fich=2110bed5-c256-440a-a0a2-d86f55a9510d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466b4e5459314d3251324c575a685a4467744e444a6a4e4331694f4459314c57553159545668595752685a6a49304d7935775a47593d&fich=1d5653d6-fad8-42c4-b865-e5a5aadaf243.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d30596d55784d444e694c5468694d574d744e4451344e5331695a6d4e694c544e6b59546c6d4f474d355a6a597a4e5335775a47593d&fich=34be103b-8b1c-4485-bfcb-3da9f8c9f635.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a497a5a475668596a67344c57517a4e5751744e4759774e4331695a5456684c545a6b596a4a685a5759314f44526b5a5335775a47593d&fich=23deab88-d35d-4f04-be5a-6db2aef584de.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-02-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41794d444178593251784c5459324e546b744e4459784d6930344e5463784c5442694d5467774d6a51334e474a6d4e7935775a47593d&fich=02001cd1-6659-4612-8571-0b1802474bf7.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-12-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324533596a5133597a55334c544d774f4441744e44646d59793035597a4d354c54526d4e574930595445344e324d30595335775a47593d&fich=a7b47c57-3080-47fc-9c39-4f5b4a187c4a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55334d544534595752684c5451774d5745744e4745775a6930345a6a637a4c5459784e6a49354e57566d5a444a68595335775a47593d&fich=57118ada-401a-4a0f-8f73-616295efd2aa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259784e444e6b595467344c5442694d5445744e444e6c5a5331684d5463794c5749334f4441354d7a63314d7a5a6a5a6935775a47593d&fich=f143da88-0b11-43ee-a172-b780937536cf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a6b4d5451334d6a4e684c574d304e3251744e44426a4d693168597a637a4c5752695a6a55334d5449795a4441784d4335775a47593d&fich=bd14723a-c47d-40c2-ac73-dbf57122d010.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55314e54426a4f5449334c5745304e5441744e44566c4e5331694e5749784c544a6b5a6a42684e6d46694d7a6b774e7935775a47593d&fich=5550c927-a450-45e5-b5b1-2df0a6ab3907.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b354d7a4177596a526b4c5449304f5755744e445a69597931695a6d4a6d4c544a685a445a694e57466a4f546c6b4d7935775a47593d&fich=99300b4d-249e-46bc-bfbf-2ad6b5ac99d3.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-11-26",
+            "gp": "PS",
+            "id": "4375",
+            "motivoCessacao": null,
+            "nome": "Carlos Enes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-05-07",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-11-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a457a4e4755345a6d4e6a4c5449314d3259744e444d304d4331694e574a6c4c575a6d597a49334e6d55315954646c4d5335775a47593d&fich=134e8fcc-253f-4340-b5be-ffc276e5a7e1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "39385",
+      "39407"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150507pln&url=l12/sl4/a2015/m05/&tI=02:48:49:636&drc=00:03:01:542"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-08",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/083/2015-05-08/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Anulação do concurso externo que viola a Diretiva 1999/70/CE da Comissão Europeia e lançamento de novo concurso de vinculação; Propõe um regime de vinculação dos docentes na carreira; Solicitam a alteração do n.º 2 do artigo 42.º do DL n.º 132/2012 e que a integração nos quadros cumpra a lista única de graduação a nível nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150507pln&url=l12/sl4/a2015/m05/&tI=02:51:54:079&drc=00:02:38:953"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150507pln&url=l12/sl4/a2015/m05/&tI=03:05:15:611&drc=00:00:49:388"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-08",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/083/2015-05-08/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Anulação do concurso externo que viola a Diretiva 1999/70/CE da Comissão Europeia e lançamento de novo concurso de vinculação; Propõe um regime de vinculação dos docentes na carreira; Solicitam a alteração do n.º 2 do artigo 42.º do DL n.º 132/2012 e que a integração nos quadros cumpra a lista única de graduação a nível nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150507pln&url=l12/sl4/a2015/m05/&tI=02:54:35:839&drc=00:03:19:570"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-08",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/083/2015-05-08/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Anulação do concurso externo que viola a Diretiva 1999/70/CE da Comissão Europeia e lançamento de novo concurso de vinculação; Propõe um regime de vinculação dos docentes na carreira; Solicitam a alteração do n.º 2 do artigo 42.º do DL n.º 132/2012 e que a integração nos quadros cumpra a lista única de graduação a nível nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150507pln&url=l12/sl4/a2015/m05/&tI=02:57:58:723&drc=00:03:24:002"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-08",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/083/2015-05-08/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Anulação do concurso externo que viola a Diretiva 1999/70/CE da Comissão Europeia e lançamento de novo concurso de vinculação; Propõe um regime de vinculação dos docentes na carreira; Solicitam a alteração do n.º 2 do artigo 42.º do DL n.º 132/2012 e que a integração nos quadros cumpra a lista única de graduação a nível nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150507pln&url=l12/sl4/a2015/m05/&tI=03:01:24:825&drc=00:03:09:863"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-08",
+                "pubLeg": "XII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/083/2015-05-08/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Anulação do concurso externo que viola a Diretiva 1999/70/CE da Comissão Europeia e lançamento de novo concurso de vinculação; Propõe um regime de vinculação dos docentes na carreira; Solicitam a alteração do n.º 2 do artigo 42.º do DL n.º 132/2012 e que a integração nos quadros cumpra a lista única de graduação a nível nacional.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12570",
+    "PetAssunto": "Solicitam a alteração do n.º 2 do artigo 42.º do DL n.º 132/2012 e que a integração nos quadros cumpra a lista única de graduação a nível nacional.",
+    "PetDataEntrada": "2014-11-17",
+    "PeticoesAssociadas": null,
+    "PetId": "12570",
+    "PetLeg": "XII",
+    "PetNr": "445",
+    "PetNrAssinaturas": "4052",
+    "PetNrAssinaturasInicial": "4052",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2052",
+        "obs": null,
+        "pag": [
+          "44-48"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-08",
+        "pubLeg": "XII",
+        "pubNr": "83",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/083/2015-05-08/44?pgs=44-48&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "719207",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-12-06",
+        "pubLeg": "XII",
+        "pubNr": "16",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/016/2014-12-06/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
