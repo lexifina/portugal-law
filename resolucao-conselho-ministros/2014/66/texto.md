@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 66/2014
+Nos termos do disposto na alínea c) do n.º 2 do artigo 2.º do Decreto-Lei n.º 49/2012, de 29 de fevereiro, constitui atribuição dos Serviços Sociais da Administração Pública (SSAP) garantir a gestão dos benefícios de ação social complementar, nos quais se inclui, de acordo com o disposto na alínea a) do n.º 2 do artigo 2.º do Decreto-Lei n.º 122/2007, de 27 de abril, o fornecimento de refeições aos beneficiários do regime da ação social complementar dos trabalhadores da administração direta e indireta do Estado.
+Com vista a garantir o fornecimento de refeições nos refeitórios dos SSAP, torna-se necessário proceder à aquisição de serviços de refeições confecionadas, pelo que a presente resolução autoriza a realização da despesa, para os anos de 2015, 2016 e 2017, com recurso ao acordo quadro da Entidade de Serviços Partilhados da Administração Pública, I. P., ao abrigo do disposto na alínea b) do n.º 1 do artigo 252.º e do artigo 259.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, e determina a repartição dos respetivos encargos por anos económicos.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar os Serviços Sociais da Administração Pública (SSAP) a realizar a despesa relativa à aquisição de serviços de fornecimento de refeições confecionadas nos refeitórios dos SSAP, para os anos de 2015, 2016 e 2017, com recurso ao acordo quadro da Entidade de Serviços Partilhados da Administração Pública, I. P., até ao montante máximo de 8 666 437,50 EUR, a que acresce IVA à taxa legal em vigor.
+2 - Determinar que os encargos orçamentais decorrentes da execução do contrato de prestação de serviços de fornecimento de refeições confecionadas nos refeitórios dos SSAP não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal:
+a) 2015 - 2 888 812,50 EUR;
+b) 2016 - 2 888 812,50 EUR;
+c) 2017 - 2 888 812,50 EUR.
+3 - Determinar que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo orçamental apurado no ano que antecede.
+4 - Estabelecer que os encargos orçamentais decorrentes da presente resolução são satisfeitos por verbas adequadas a inscrever no orçamento dos SSAP, na rubrica 02.01.05. - Alimentação, refeições confecionadas.
+5 - Delegar, com a faculdade de subdelegação, na Ministra de Estado e das Finanças, a competência para a prática de todos os atos a realizar no âmbito da presente resolução, designadamente para aprovar as peças do procedimento, designar o júri, praticar o ato de adjudicação e aprovar as minutas dos contratos a celebrar.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 13 de novembro de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
