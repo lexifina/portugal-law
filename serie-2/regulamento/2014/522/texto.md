@@ -1,0 +1,142 @@
+Regulamento n.º 522/2014
+A ENSIGAIA - Educação e Formação, Sociedade Unipessoal, Lda., entidade instituidora do Instituto Politécnico de Gestão e Tecnologia (ISLA), cuja criação foi autorizada ao abrigo da Portaria n.º 791/89, publicada no Diário da República, 1.ª série, n.º 207, de 8 de setembro de 1989, e reconhecido de interesse público como instituto superior politécnico, pelo Decreto-Lei n.º 147/2013, de 22 de outubro, com estatutos publicados na Portaria n.º 28/2014, de 4 de fevereiro, procede, nos termos do n.º 1 do artigo 10.º, do n.º 2 do artigo 11.º e do n.º 3 do artigo 24.º do Decreto-Lei n.º 43/2014, de 18 de março, à alteração do regulamento n.º 358/2014, de 8 de agosto, dos cursos técnicos superiores profissionais.
+7 de outubro de 2014. - O Gerente, Manuel de Almeida Damásio.
+Regulamento dos Cursos Técnicos Superiores Profissionais
+No cumprimento do definido no Decreto-Lei n.º 43/2014, de 18 de março, ouvidos os conselhos pedagógicos, foi aprovado pelos conselhos técnico-científicos o presente Regulamento dos Cursos Técnicos Superiores Profissionais.
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objeto e âmbito
+O presente Regulamento tem por objeto regular os cursos técnicos superiores profissionais, doravante designados por CTSP, ministrados na instituição.
+Artigo 2.º
+Cursos técnicos superiores profissionais
+Os CTSP são formações superiores curtas, não conferentes de grau, que visam conferir qualificação profissional de nível 5 do Quadro Nacional de Qualificações.
+Artigo 3.º
+Áreas de formação
+As áreas de formação são definidas pelos conselhos técnico-científicos das respetivas unidades orgânicas de ensino, tendo em consideração as necessidades de formação profissional com o nível de qualificação 5, designadamente na região em que se insere.
+Artigo 4.º
+Plano de formação
+1 - Os cursos organizam-se pelo sistema de créditos ECTS.
+2 - O plano de formação de cada CTSP possui 120 créditos ECTS e tem uma duração de quatro semestres, estando sujeito às normas constantes no respetivo despacho de registo.
+Artigo 5.º
+Diploma de técnico superior profissional
+O diploma de técnico superior profissional é conferido após o cumprimento de um plano de formação definido no despacho de registo de cada CTSP.
+CAPÍTULO II
+Caracterização dos cursos
+Artigo 6.º
+Objetivos e componentes de formação
+O plano de formação de um CTSP integra as componentes de formação:
+a) Geral e científica, que visa desenvolver atitudes e comportamentos adequados a profissionais com elevado nível de qualificação profissional e adaptabilidade ao mundo do trabalho e da empresa, e aperfeiçoar, onde tal se revele indispensável, o conhecimento dos domínios de natureza científica que fundamentam as tecnologias próprias da respetiva área de formação;
+b) Técnica, que integra domínios de natureza técnica orientados para a compreensão das atividades práticas e para a resolução de problemas do âmbito do exercício profissional;
+c) Em contexto de trabalho, que visa a aplicação dos conhecimentos e saberes adquiridos às atividades práticas do respetivo perfil profissional e contempla a execução de atividades sob orientação, utilizando as técnicas, os equipamentos e os materiais que se integram nos processos de produção de bens ou de prestação de serviços, concretizando-se através de um estágio no final do ciclo de estudos.
+CAPÍTULO III
+Calendário escolar, condições de acesso e prova de avaliação de capacidade
+Artigo 7.º
+Calendário escolar
+Em cada unidade orgânica de ensino, o calendário escolar é fixado anualmente pelo conselho técnico-científico, ouvido o conselho pedagógico.
+Artigo 8.º
+Condições de acesso
+1 - Podem candidatar-se ao acesso aos cursos técnicos superiores profissionais:
+a) Os titulares de um curso de ensino secundário ou de habilitação legalmente equivalente, cujo plano de estudos inclui duas disciplinas pertencentes às áreas relevantes para ingresso no curso, definidas como tal no âmbito do registo do CTSP a que se candidatam;
+b) Os que tenham sido aprovados nas provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, realizadas, para o curso em causa, nos termos do Decreto-Lei n.º 64/2006, de 21 de março;
+c) Os estudantes que, tendo obtido aprovação em todas as disciplinas dos 10.º e 11.º anos de um curso de ensino secundário, ou de habilitação legalmente equivalente, e não tendo concluído o curso de ensino secundário, sejam considerados aptos através de prova de avaliação de capacidade a realizar pela instituição de ensino superior;
+d) Os titulares de um diploma de especialização tecnológica, de um diploma de técnico superior profissional ou de um grau de ensino superior, que pretendam a sua requalificação profissional, inserido na(s) mesma(s) área(s) relevantes do CTSP a que pretendem ter acesso;
+e) Os titulares de um diploma de especialização tecnológica, de um diploma de técnico superior profissional ou de um grau de ensino superior que pretendam a sua requalificação profissional, que não satisfaçam as condições previstas na alínea d), cujo plano de estudos do CET, CTSPou grau superior inclui duas disciplinas pertencentes às áreas relevantes para ingresso no curso, definidas como tal no âmbito do registo do CTSP a que se candidatam.
+2 - A verificação das condições de acesso é efetuada através de prova documental.
+3 - Os candidatos ao abrigo da alínea c) do n.º 1 estão sujeitos a uma prova de avaliação de capacidade, nos termos do definido no artigo 9.º
+Artigo 9.º
+Prova de avaliação de capacidade
+1 - A prova de avaliação de capacidade é escrita, e está estruturada de forma a englobar e permitir a avaliação objetiva dos conhecimentos e aptidões correspondentes ao nível do ensino secundário nas áreas relevantes para cada CTSP, identificadas como tal no âmbito do registo do curso, sendo para isso dividida em dois grupos distintos: um de caráter técnico e instrumental e outro de cariz mais científico e de avaliação das capacidades pessoais de análise, interpretação e argumentação.
+2 - Compete ao júri, definido no artigo 10.º, a condução de todo o processo de avaliação dos candidatos obrigados à realização da prova.
+3 - A prova é elaborada pelo júri devendo aferir:
+a) O domínio técnico-teórico da matéria relevante para o CTSP, cuja ponderação na classificação corresponde a 60 %;
+b) A capacidade do candidato para a resolução geral de problemas, cuja ponderação na classificação corresponde a 30 %;
+c) O domínio de matéria de âmbito geral, cuja ponderação na classificação corresponde a 10 %.
+4 - Os referenciais de avaliação das capacidades terão a seguinte ponderação, de acordo comas características e especificidades dos CTSP, procurando avaliar conhecimentos, aptidões e atitudes:
+a) Identificação da(s) problemática(s): 20 %;
+b) Capacidade de interpretação: 1 %;
+c) Capacidade de argumentação: 15 %;
+d) Domínio científico das matérias em análise: 10 %;
+e) Domínio técnico e instrumental das matérias em análise: 20 %;
+f) Propostas de solução e de análise de resultados: 20 %.
+5 - A prova não poderá exceder os 60 minutos, acrescendo-se um quarto do tempo total definido para candidatos que comprovem possuir necessidades especiais.
+6 - As provas são classificadas de 0 a 20 valores, sendo o resultado final o número interior resultante da média aritmética ponderada das componentes referidas no n.º 4, considerando-se como unidade a parte decimal igual ou superior a cinco.
+7 - Os candidatos consideram-se aptos se atingirem 10 ou mais valores na classificação final.
+8 - As provas escritas a realizar, bem como as ponderações a atribuir a cada questão ou a cada fator de avaliação, devem possuir os mesmos critérios e a mesma complexidade nas diferentes épocas e chamadas.
+9 - A prova corrigida e com respetivo enunciado, bem como todos os elementos entregues pelo candidato, são juntos ao processo individual.
+10 - As decisões do júri são recorríveis, nos três dias úteis subsequentes à publicação dos resultados, apresentando o candidato junto dos serviços competentes requerimento fundamentado ao júri que, num prazo de cinco dias úteis, deve dar a conhecer o resultado do recurso ao candidato, sendo este último resultado irrecorrível.
+Artigo 10.º
+Júri
+1 - Em cada ano é criado um júri de avaliação por cada área de estudos composto por um presidente e por dois vogais, designados pelo diretor da unidade orgânica de ensino de entre os docentes do curso, sendo a sua nomeação aprovada pelo respetivo conselho técnico-científico.
+2 - Ao júri de avaliação compete:
+a) Elaborar os modelos de provas, os critérios de ponderação de cada questão e os critérios de avaliação;
+b) Supervisionar o decorrente serviço das provas;
+c) Decidir sobre a necessidade de entrevista ao candidato, definindo em concreto as questões a realizar a fim de dirimir eventuais dúvidas;
+d) Decidir sobre a admissibilidade dos candidatos, com base nos critérios definidos nos n.os 3 e 4 do artigo 9.º;
+e) Definir os referenciais das provas escritas, que incluam as matérias a abordar, com o objetivo dos candidatos se poderem preparar previamente para as mesmas.
+CAPÍTULO IV
+Ingresso, candidaturas, seleção, seriação e matrícula
+Artigo 11.º
+Condições de ingresso
+1 - O ingresso num CTSP só poderá ser efetuado por aqueles que demonstrem possuir as condições de acesso de acordo com o definido no artigo 8.º
+2 - Reúnem condições de ingresso:
+a) Os candidatos ao abrigo das alíneas a), d) e e) do n.º 1 do artigo 8.º;
+b) Os candidatos ao abrigo da alínea b) do n.º 1 do artigo 8.º que tenham sido aprovados na prova aí referida;
+c) Os candidatos ao abrigo da alínea c) do n.º 1 do artigo 8.º que tenham sido aprovados na prova de avaliação de capacidade nos termos do artigo 9.º
+Artigo 12.º
+Vagas
+O número de vagas aberto para admissão de novos estudantes é fixado pelo presidente da instituição, ouvidos os conselhos técnico-científicos das respetivas unidades orgânicas de ensino, dentro dos limites constantes dos registos de criação dos CTSP, a que se refere a alínea i) do n.º 2 do artigo 21.º do Decreto-Lei n.º 43/2014, de 18 de março.
+Artigo 13.º
+Candidatura
+1 - A apresentação da candidatura é efetuada junto dos serviços, nos termos definidos em calendário próprio.
+2 - A apresentação de candidatura está sujeita aos emolumentos fixados pela entidade instituidora.
+3 - Quando o candidato esteja obrigado à realização de prova, nos termos do presente Regulamento, deve ser informado das datas de realização das mesmas bem como das matérias a abordar e dos referenciais definidos no n.º 5 do artigo 10.º
+4 - A candidatura ao ingresso nos CTSP é realizada por fases e a consequente matrícula e inscrição dos candidatos colocados decorrem no prazo previsto no n.º 1 do artigo 16.º
+5 - Os candidatos devem apresentar, no ato de candidatura, para além dos elementos de identificação pessoal e fiscal, uma fotografia e um dos seguintes documentos:
+a) Original ou cópia autenticada do certificado das habilitações ou diploma da habilitação anterior;
+b) Certificado de qualificação profissional de nível 4;
+c) Diploma de especialização tecnológica - DET (nível 5).
+Artigo 14.º
+Seleção e seriação
+Os candidatos são seriados de acordo com uma classificação de seriação de 0 a 20 valores, na escala inteira, e considerando-se como unidade a parte decimal igual ou superior a cinco, obtida de acordo com os seguintes critérios:
+a) Titulares de curso de ensino secundário, ou de habilitação legalmente equivalente, que satisfaçam as condições previstas na alínea a) do n.º 1 do artigo 8.º, a classificação da habilitação anterior;
+b) Os que tenham sido aprovados nas provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, realizadas, para o curso em causa, nos termos do Decreto-Lei n.º 64/2006, de 21 de março, a classificação final obtida nessas provas;
+c) Aos que, tendo obtido aprovação a todas as disciplinas dos 10.º e 11.º anos de um curso de ensino secundário, ou de habilitação legalmente equivalente, não tenham concluído o curso de ensino secundário, a classificação da prova de avaliação de capacidade;
+d) Titulares de um diploma de especialização tecnológica, de um diploma de técnico superior profissional ou de um grau, ou diploma de ensino superior, que satisfaçam as condições previstas nas alíneas d) ou e) do n.º 1 do artigo 8.º, a classificação da habilitação anterior.
+Artigo 15.º
+Ordenação da seriação
+1 - Os candidatos serão ordenados por ordem decrescente em função da classificação de seriação.
+2 - As listas de colocação são tornadas públicas e os resultados expressos da seguinte forma:
+a) Colocado;
+b) Não colocado;
+c) Excluído da candidatura.
+Artigo 16.º
+Matrícula e inscrição
+1 - Os candidatos colocados devem efetuar a sua matrícula e inscrição nos 10 dias úteis subsequentes à data da publicação da lista de colocação sob pena de caducidade dos resultados obtidos no concurso.
+2 - Pela inscrição nos cursos são devidos emolumentos, seguro escolar e propinas, nos termos definidos pela entidade instituidora.
+CAPÍTULO V
+Formação complementar
+Artigo 17.º
+Formação complementar
+1 - Para os estudantes a que se refere a alínea c) n.º 1 do artigo 8.º:
+a) O número de créditos ECTS definido para o CTSP é obrigatoriamente acrescido de 15 a 30 ECTS, no âmbito de um plano de formação complementar;
+b) Ao plano de formação do CTSP é acrescido o número de horas necessárias à obtenção dos créditos referidos na alínea anterior.
+2 - A formação adicional a que se refere o presente artigo é parte integrante dos planos de formação do respetivo CTSP e tem em consideração o resultado da prova de avaliação de capacidade.
+CAPÍTULO VI
+Classificação final
+Artigo 18.º
+Classificação final do diploma de técnico superior profissional
+A classificação final do diploma de técnico superior profissional é a média aritmética ponderada por ECTS, arredondada às unidades, considerando como unidade a parte decimal igual ou superior a cinco.
+CAPÍTULO VII
+Disposições finais e entrada em vigor
+Artigo 19.º
+Disposições finais
+1 - Os prazos definidos no presente Regulamento são contados em dias úteis, parando-se a contagem nos períodos de férias escolares.
+2 - Para os devidos efeitos, consideram-se instruídos os processos, iniciando-se a contagem de prazos após a entrega de todos os elementos exigidos e o pagamento dos emolumentos devidos.
+Artigo 20.º
+Casos omissos e dúvidas
+Sem prejuízo da legislação aplicável, os casos omissos e duvidosos são resolvidos pelo presidente do Instituto, ouvidos os órgãos competentes.
+Artigo 21.º
+Entrada em vigor
+Este Regulamento entra em vigor no dia imediato à sua publicação no Diário da República.
+208218928
