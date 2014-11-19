@@ -1,0 +1,31 @@
+# Acórdão do Supremo Tribunal Administrativo de 2014-11-19, processo 01291/14
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01291/14
+
+**Data do Acordão:** 11/19/2014
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FRANCISCO ROTHES
+
+**Descritores:** CONTRA-ORDENAÇÃO; IMPUGNAÇÃO JUDICIAL; DECISÃO POR DESPACHO; FALTA DE AUDIÇÃO DO ARGUIDO E DO MINISTÉRIO PÚBLICO
+
+**Nº Convencional:** JSTA000P18243
+
+**Nº do Documento:** SA22014111901291
+
+**Data de Entrada:** 11/04/2014
+
+**Recorrente:** MINISTÉRIO PÚBLICO
+
+**Recorrido 1:** AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Verifica-se a nulidade insanável prevista na alínea c) do art. 119.º, bem como a nulidade prevista na alínea d) do n.º 2 do art. 120.º, ambos do CPP, se o despacho por que o juiz decidiu o recurso da decisão administrativa de aplicação de coima não foi antecedido da notificação ao arguido e o Ministério Público para os efeitos previstos na segunda parte do n.º 2 do art. 64.º do RGCO, o que determina a invalidade dessa decisão, nos termos do disposto no n.º 1 do art. 122.º do mesmo CPP, sempre aplicável ex vi da alínea b) do art. 3.º do RGIT e do art. 41.º do RGCO.
+
+II - Porque essa decisão conheceu o recurso judicial sem a prévia concordância do arguido e do Ministério Público, o recurso jurisdicional dela interposto com esse fundamento deve ser provido, declarando-se nula a decisão e remetendo-se os autos ao tribunal a quo,a fim de assegurar a audição prévia do arguido e do Ministério Público.
