@@ -1,0 +1,9 @@
+Edital n.º 1055/2014
+Projeto de Regulamento de Cartão de Eurocidadão
+Dr. Francisco Augusto Caimoto Amaral, Presidente da Câmara Municipal de Castro Marim:
+Torna público que, por deliberações da Câmara Municipal tomadas em reuniões ordinárias realizadas de 24 de junho e 17 de setembro de 2014 e posterior deliberação da Assembleia Municipal tomada em sessão ordinária de 29 de setembro de 2014, e para os efeitos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de dezembro e na sua atual redação, durante o período de 30 dias, a contar da data da publicação do presente edital no Diário da República, é submetido a apreciação pública o projeto de Regulamento do Cartão do Eurocidadão.
+Os interessados poderão consultar o referido Regulamento na Unidade Orgânica de Educação, Ação Social, Cultura e Desporto - Serviços de Ação Social desta Câmara Municipal todos os dias úteis e durante o horário normal de expediente, e ainda na página oficial do município em www.cm-castromarim.pt.
+As observações e eventuais sugestões dos interessados deverão ser apresentadas por escrito, na Unidade Orgânica de Educação, Ação Social, Cultura e Desporto - Serviços de Ação Social, onde se encontra o referido regulamento para consulta, ou enviadas, por via postal, para a Câmara Municipal de Castro Marim, sita da Rua José Alves Moreira, n.º 10 - 8950-138 Castro Marim, ou ainda por email para: expediente@cm-castromarim.pt, sendo dirigidas ao Sr. Presidente da Câmara Municipal de Castro Marim.
+Para constar e para os devidos efeitos legais, publica-se o presente edital e outros de igual teor, que vão ser afixados nos Paços do Município e demais lugares de estilo, bem como no sitio da Internet em: www.cm-castromarim.pt.
+16 de outubro de 2014. - O Presidente da Câmara, Dr. Francisco Augusto Caimoto Amaral.
+308168595
