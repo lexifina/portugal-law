@@ -8,7 +8,7 @@
 
 1 - Os titulares dos órgãos de administração e de fiscalização de sociedade gestora de mercado regulamentado ou de sociedade gestora de sistema de negociação multilateral e as pessoas que efectivamente os dirigem devem ser idóneos e possuir qualificação profissional e disponibilidade adequadas ao desempenho das respectivas funções, dando garantias de uma gestão sã e prudente.
 
-2 - À apreciação dos requisitos de idoneidade e de qualificação profissional são aplicáveis, com as devidas adaptações, os n.os 2 e 3 do artigo 30.º e o artigo 31.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.
+2 - À apreciação dos requisitos de idoneidade, qualificação profissional e disponibilidade são aplicáveis, com as devidas adaptações, os artigos 30.º-D, 31.º e n.os 1, 2 e 11 do artigo 33.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
 
 3 - As sociedades gestoras devem estabelecer no seu código deontológico regras relativas ao exercício de funções e à detenção de participações qualificadas pelos titulares dos seus órgãos de administração noutras entidades, destinadas a prevenir a ocorrência de conflitos de interesses.
 
