@@ -8,7 +8,9 @@ a) As entidades gestoras de mercados regulamentados, de sistemas de negociação
 
 b) As instituições de investimento colectivo;
 
-c) As entidades gestoras de fundos de garantia e de sistemas de indemnização dos investidores.
+c) Controlo da idoneidade dos titulares dos órgãos de gestão, das pessoas que dirigem efetivamente a atividade e dos titulares de participações qualificadas, de acordo com os critérios definidos no artigo 30.º-D do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, com as devidas adaptações;
+
+d) Controlo dos demais requisitos relativos aos dos titulares de órgãos de gestão e às das pessoas que dirigem efetivamente a atividade, designadamente a qualificação profissional e a disponibilidade, que sejam exigidos de acordo com a respetiva legislação complementar.
 
 2 - A supervisão prudencial é orientada pelos seguintes princípios:
 
