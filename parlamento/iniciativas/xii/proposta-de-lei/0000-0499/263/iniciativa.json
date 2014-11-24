@@ -1,0 +1,72 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "263",
+  "id": "38800",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2014-11-24",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a6333597a45324e4751744d7a426d5a5330304e3249784c5749784e5755744e7a51334f54526d593255775a4745304c6e426b5a673d3d&fich=c77c164d-30fe-47b1-b15e-74794fce0da4.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4749304d3251345a6a4574596a426a4d5330304d574d334c546b784e7a55744f5451354e7a526c4e7a4a6b59574e6c4c6e426b5a673d3d&fich=4b43d8f1-b0c1-41c7-9175-94974e72dace.pdf&Inline=true",
+        "anexoNome": "Parecer SMMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4451774d6a646c4f4749744e44637a4d4330304d7a55794c574530596a41745a6a4a694f5463794d544269597a45324c6e426b5a673d3d&fich=d4027e8b-4730-4352-a4b0-f2b97210bc16.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a686b597a526a4d544574596a4d325a5330305a5459304c5467314d4463744e7a55324f57497a5a4464694e446b314c6e426b5a673d3d&fich=f8dc4c11-b36e-4e64-8507-7569b3d7b495.pdf&Inline=true",
+        "anexoNome": "Parecer ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d546b354f4449324e3255744e44466a5a693030597a526c4c546c6a5a574d74593249354d324669597a4d314d444d774c6e426b5a673d3d&fich=1998267e-41cf-4c4e-9cec-cb93abc35030.pdf&Inline=true",
+        "anexoNome": "Parecer PGR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d44646d4e32466b4f544d744d6d5a6b595330304d4463334c5749345a57557459574d35597a466b4d7a63345a5455324c6e426b5a673d3d&fich=07f7ad93-2fda-4077-b8ee-ac9c1d378e56.pdf&Inline=true",
+        "anexoNome": "Parecer CS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e324a684e325a6b4d5463744e4455344e533030596a4d324c546734595451744d446869597a5577596a41334e4459334c6e426b5a673d3d&fich=7ba7fd17-4585-4b36-88a4-08bc50b07467.pdf&Inline=true",
+        "anexoNome": "Parecer SFJ"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38800",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4752694f44686d4f4445744e54466c5a43303059544d314c5467784e574574597a4a69596d466c4f47517a4e7a6b7a4c6d527659773d3d&fich=8db88f81-51ed-4a35-815a-c2bbae8d3793.doc&Inline=true",
+    "IniNr": "263",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à vigésima primeira alteração ao Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro, à primeira alteração ao Decreto-Lei n.º 299/99, de 4 de agosto, e à quarta alteração ao Decreto-Lei n.º 317/94, de 24 de dezembro",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
