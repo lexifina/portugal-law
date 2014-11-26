@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 70/2014
+O Instituto da Segurança Social, I.P., no âmbito da prossecução das suas atribuições, tem de efetuar notificações por via postal referentes, designadamente, a declarações anuais de rendimentos de pensionistas, a processos de contraordenações e ao pagamento de pensões e prestações sociais através de vales postais.
+A emissão de vales postais como forma de pagamento de pensões e prestações sociais reveste-se de especial relevância social, considerando que através deste meio de pagamento são pagas as pensões do regime geral, as pensões no âmbito das doenças profissionais e as prestações relativas ao rendimento social de inserção.
+Deste modo, é necessário proceder à aquisição de serviços postais para a remessa de notificações previstas na lei e em cumprimento dos prazos nela fixados.
+Os CTT - Correios de Portugal, S.A., detêm a exclusividade dos serviços de aceitação, tratamento e distribuição de objetos postais, bem como a emissão e venda de selos e outros valores postais, decorrentes do contrato de concessão em vigor até 2020, pelo que os serviços postais a contratualizar se enquadram no âmbito do disposto no n.º 1 do artigo 5.º do Código de Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, não sendo aplicáveis as disposições deste diploma relativas aos procedimentos pré-contratuais.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Instituto da Segurança Social, I.P. (ISS, I.P.), a realizar a despesa relativa à aquisição de serviços postais aos CTT - Correios de Portugal, S.A., para o ano de 2015, até ao valor máximo de 13.393.578,00 EUR, a que acresce o IVA à taxa legal em vigor, quando aplicável.
+2 - Determinar que os encargos financeiros decorrentes da aquisição referida no número anterior são satisfeitos pelas verbas adequadas a inscrever no orçamento do ISS, I.P., para o ano de 2015.
+3 - Delegar, no Ministro da Solidariedade, Emprego e Segurança Social, com faculdade de subdelegação, a competência para a prática de todos os atos decorrentes da autorização referida no n.º 1.
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 20 de novembro de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
