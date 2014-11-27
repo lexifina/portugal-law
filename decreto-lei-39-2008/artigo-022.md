@@ -12,4 +12,4 @@ b) Fixar a capacidade máxima e atribuir a classificação dos empreendimentos d
 
 c) Fixar a capacidade máxima e atribuir a classificação dos parques de campismo e de caravanismo;
 
-d) Efectuar e manter o registo do alojamento local disponível ao público.
+d) (Revogada).

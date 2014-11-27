@@ -4,9 +4,9 @@
 
 1 - Constituem contra-ordenações:
 
-a) A oferta de serviços de alojamento turístico sem título válido de abertura ou, no caso de estabelecimentos de alojamento local, sem a realização de mera comunicação prévia para registo ou com o registo cancelado;
+a) A oferta de serviços de alojamento turístico sem título válido de abertura;
 
-b) O não cumprimento pelo estabelecimento de alojamento local dos requisitos mínimos previstos no n.º 2 do artigo 3.º ou do disposto no n.º 7 do mesmo artigo;
+b) [Revogada];
 
 c) O não cumprimento dos requisitos gerais de instalação previstos no artigo 5.º;
 
@@ -20,7 +20,7 @@ g) O desrespeito pela área máxima prevista para instalações de carácter com
 
 h) A não apresentação ou a apresentação fora do prazo da declaração referida no artigo 29.º e a falta de apresentação do requerimento necessário para proceder à reconversão da classificação previsto no n.º 2 do artigo 75.º;
 
-i) A não afixação ou a afixação fora de prazo, no exterior, da placa identificativa do estabelecimento de alojamento local, ou da placa identificativa da classificação do empreendimento turístico, tal como previsto, respetivamente, no n.º 7 do artigo 3.º e nos n.os 7 e 8 do artigo 36.º;
+i) A não afixação ou a afixação fora de prazo, no exterior, da placa identificativa da classificação do empreendimento turístico, tal como previsto nos n.os 7 e 8 do artigo 36.º;
 
 j) A não comunicação da alteração dos elementos constantes do registo no prazo de 10 dias após a sua verificação, nos termos do n.º 2 do artigo 40.º;
 
