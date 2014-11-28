@@ -1,0 +1,210 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12578",
+  "numero": "453",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-11-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-01-22",
+            "entidades": null,
+            "id": "99259",
+            "tipo": null,
+            "titulo": "Audição em 2015-01-22 com Comissão de Utentes dos Serviços Públicos em Sines, Corpo Nacional de Intervenção Civil"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-01-20",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "45/CACDLG/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-20",
+            "dataResposta": "2015-02-17",
+            "entidades": [
+              "MIN.   DA   JUSTIÇA"
+            ],
+            "nrOficio": "45/CACDLG/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-03-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-12-17",
+        "DataArquivo": "2015-03-04",
+        "DataBaixaComissao": "2014-12-01",
+        "DataEnvioPAR": "2015-03-04",
+        "DataReaberta": "2014-12-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-12-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764f446b3059324a694d4445744e6a49355a6930304f4468684c546b77595749745a5759774d6d49775a57466c4d57466a4c6e426b5a673d3d&fich=894cbb01-629f-488a-90ab-ef02b0eae1ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-19",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a6d453059325934597a517459545578596930305a5751304c5745774e7a51744d7a45784e5468695a6a45775a6a59324c6e426b5a673d3d&fich=fa4cf8c4-a51b-4ed4-a074-31158bf10f66.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-25",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e444e6b4d6a55784d4463744e4452694d6930304e3246694c546c69596d55744e6d4d344e325a6c4d574e6c4d7a6c6d4c6e426b5a673d3d&fich=43d25107-44b2-47ab-9bbe-6c87fe1ce39f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-29",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d7a63784e6a4a6b4e6a6b744d7a4d324f4330304e5456684c5467324f4449745a4456684f4451784d6a5933596d466c4c6e426b5a673d3d&fich=37162d69-3368-455a-8682-d5a841267bae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-29",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a59573876595445314f4445334d4459744e6d55314e4330304d7a566c4c546b30595441744e7a55324e6d5a68596d526d59574a6d4c6e426b5a673d3d&fich=a1581706-6e54-435e-94a0-7566fabdfabf.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-01-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d6d55784e7a51325a6a5574597a597a5a5330305a5455334c57466b595441744e546c6a4e575a6b5a6a52685954646b4c6e426b5a673d3d&fich=2e1746f5-c63e-4e57-ada0-59c5fdf4aa7d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a5957387659545178593251305a4455745a6d5135595330304f446b7a4c54686a4e546b744e4749334e544e6d4e7a4933597a67324c6e426b5a673d3d&fich=a41cd4d5-fd9a-4893-8c59-4b753f727c86.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-03-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a59573876597a63354d7a51344e7a4174596a466b596930304d474d334c5745324f4441745a545a684f5455344d3252694e54417a4c6e426b5a673d3d&fich=c7934870-b1db-40c7-a680-e6a9583db503.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-02-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a5459785a6d5a6c4d4745745932557a4f4330304e7a59324c574934596a41745a474935597a6b7a5a445a6c4d7a6c6a4c6e426b5a673d3d&fich=e61ffe0a-ce38-4766-b8b0-db9c93d6e39c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3510",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-12-17",
+            "gp": "PSD",
+            "id": "4381",
+            "motivoCessacao": null,
+            "nome": "Paulo Simões Ribeiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2014-12-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a55304e446c695a546b314c54457a595759744e4467774f4330345a546b784c545534596d4d794d5441354f546b774d6935515245593d&fich=5449be95-13af-4808-8e91-58bc21099902.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12578",
+    "PetAssunto": "Em defesa dos serviços públicos em Sines (Tribunal, Serviço de Finanças e Centro de Saúde).",
+    "PetDataEntrada": "2014-11-28",
+    "PeticoesAssociadas": null,
+    "PetId": "12578",
+    "PetLeg": "XII",
+    "PetNr": "453",
+    "PetNrAssinaturas": "2050",
+    "PetNrAssinaturasInicial": "2050",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "719349",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-12-20",
+        "pubLeg": "XII",
+        "pubNr": "19",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/019/2014-12-20/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
