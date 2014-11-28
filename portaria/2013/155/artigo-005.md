@@ -2,9 +2,9 @@
 
 ### Apoio financeiro
 
-1 - O apoio a atribuir pelo IPDJ, I. P., por cada estágio aprovado, tem o valor máximo de (euro) 1000, devendo a transferência dos apoios financeiros concedidos no âmbito deste programa ser feita da seguinte forma:
+1 - O apoio a atribuir pelo IPDJ, I.P., por cada estágio aprovado, tem o valor máximo de (euro) 2000, devendo a transferência dos apoios financeiros concedidos no âmbito deste programa ser feita da seguinte forma:
 
-a) 50 % do valor total, de uma única vez, após aprovação da candidatura;
+a) 50% do valor total, de uma única vez, após aprovação da candidatura ao estágio pelo IEFP, I.P. e do IDA pelo IPDJ, I.P.;
 
 b) Os restantes 50 %, após a aprovação do relatório final pelo IPDJ, I. P.
 
