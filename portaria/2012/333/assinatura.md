@@ -1,0 +1,1 @@
+O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 9 de outubro de 2012. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 10 de outubro de 2012.
