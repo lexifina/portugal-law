@@ -10,4 +10,4 @@ b) O fiscal único;
 
 c) O conselho consultivo.
 
-2 - (Revogado).
+2 - É ainda órgão da ACSS, I.P., a Comissão Nacional de Cuidados Paliativos.

@@ -16,9 +16,7 @@ d) O director-geral da Saúde;
 
 e) O presidente do conselho directivo do INFARMED, I. P.;
 
-f) (Revogada.)
-
-g) O diretor executivo da DE-SNS, I. P.
+f) Os presidentes dos conselhos directivos das Administrações Regionais de Saúde, I. P..
 
 3 - O conselho consultivo pode, ainda, integrar especialistas ou personalidades de reconhecido mérito convidados pelo conselho directivo em função das matérias que constituam a ordem de trabalhos das reuniões.
 
