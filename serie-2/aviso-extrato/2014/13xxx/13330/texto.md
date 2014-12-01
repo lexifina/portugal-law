@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 13330/2014
+Regulamento das Piscinas Municipais de Vale de Cambra
+José Alberto Freitas Soares Pinheiro e Silva, Presidente da Câmara Municipal de Vale de Cambra, torna público, para cumprimento do disposto no artigo 130.º do CPA, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, alterado e republicado pelo Decreto-Lei n.º 6/96 de 31 de janeiro, que após a apreciação, a Assembleia Municipal de Vale de Cambra em sessão ordinária de 30 de setembro de 2014, ao abrigo da competência conferida pela alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de setembro, na redação dada pela Lei n.º 5-A/2002, de 11 de janeiro e, sob proposta da Câmara Municipal aprovada em reunião de 9 de setembro de 2014, aprovou o Regulamento das Piscinas Municipais de Vale de Cambra, que entra em vigor 5 dias após a publicação do presente Edital, sendo o seu teor conforme o publicado no Diário da República, 2.ª série, n.º 133, de 14 de julho de 2014.
+Para constar e devidos efeitos se publica o presente Edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+13 de novembro de 2014. - O Presidente da Câmara Municipal, José Alberto Freitas Soares Pinheiro e Silva.
+308230583
