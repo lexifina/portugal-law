@@ -1,0 +1,147 @@
+# Acórdão do Tribunal Constitucional n.º 816/2014, de 2014-12-02
+
+**Acórdão:** 816/14
+
+**Processo:** 579/14
+
+**Formação:** 2ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 02.12.2014
+
+**Relator:** Cons. Fernando Vaz Ventura
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20140816.html
+
+## Texto integral
+
+ACÓRDÃO Nº 816/2014
+
+Processo n.º 579/14
+
+2.ª Secção
+
+Relator: Conselheiro Fernando Ventura
+
+Acordam na 2ª Secção do Tribunal Constitucional
+
+I. Relatório
+
+1. Nos autos de aplicação de multa, instaurados na Secção Regional da Madeira do Tribunal de Contas contra A., nos termos do artigo 66.º, n.º 1, alínea c), da Lei n.º 98/97, de 26 de agosto (Lei de Organização e Processo do Tribunal de Contas ou LOPTC), foi proferida sentença, em 24 de abril de 2014, que declarou nulo todo o processado e absolveu o demandado da instância.
+
+2. O Ministério Público interpôs recurso da referida sentença para o Tribunal Constitucional, ao abrigo da alínea a), do n.º 1, do artigo 70.º, da Lei n.º 28/82, de 15 de novembro (Lei do Tribunal Constitucional ou LTC), nos seguintes termos:
+
+«O Ministério Público, notificado da mui douta sentença (n.º 23/2014) do Tribunal proferida no processo autónomo de multa supra referenciado, da qual resulta que foram desaplicadas por terem sido julgadas materialmente inconstitucionais, as normas vertidas:
+
+- no art. 5º n.º 8 da Lei n.º 19/2003, na redação que lhe veio dar a Lei n.º 55/2010 de 24/12 (concretamente na versão interpretativa retroativa consagrada no respetivo art. 3º n.º 3),
+
+por ofensa: .
+
+- ao princípio do juiz natural ínsito no art. 32º n.º 9 da Constituição que dispõe que «[n]nenhuma causa pode ser subtraída ao tribunal cuja competência esteja fixada em lei anterior» (máxime: ablação retroativa da competência do tribunal) e ainda dos princípios do Estado de direito democrático (art. 2.º) e da segurança jurídica;
+
+- nos arts. 23º a 26º da mesma Lei n.º 19/2003 (concretamente na medida em que atribuem a outro Tribunal que não o de Contas a competência fiscalizadora de dinheiros públicos a partidos ou a grupos e representações parlamentares),
+
+por ofensa:
+
+- ao disposto no art. 214º n.º 1 da Constituição da República na medida em que firma a subtração da competência material jurisdicional do Tribunal de Contas para fiscalizar a aplicação de dinheiros públicos;
+
+- nos arts. 66º, 77º n.º 4 e 78º n.º 4 al. e) da LOPTC e no art. 76º do Regulamento Geral do Tribunal de Contas (concretamente na parte em que conferem ao mesmo juiz a iniciativa de acusar, instruir e sentenciar os processos de aplicação de multa a que se refere o art. 66º da LOPTC).
+
+por ofensa:
+
+- ao princípio da estrutura acusatória do processo penal consagrado no art. 32º n.º 5 da Constituição e do processo equitativo consagrado nos arts. 6º da Convenção Europeia dos Direitos do Homem, 47º n.º 2 da Carta dos Direitos Fundamentais da União Europeia e 20º n.º 4 da Constituição;
+
+E por ter sido julgado organicamente inconstitucional:
+
+- o RGTC referido (concretamente na parte em que atribui competência ao tribunal e juízes relatores para decidir a aplicação de multas, e estabelecer o iter processual respetivo):
+
+- por violação da reserva de competência legislativa da Assembleia da República consagrada no art. 165º n.º 1 al. p) da Constituição;
+
+E ilegal:
+
+- o art. 76º do RGTC por violação do disposto no art. 75º al. d) da Lei n.º 98/97 de 26/08 (concretamente recusando a aplicação desta norma, com fundamento na sua ilegalidade por violação de lei com valor reforçado/Lei Orgânica do Tribunal de Contas).
+
+dela vem interpor recurso para o Tribunal Constitucional, restrito à fiscalização concreta da constitucionalidade daquele quadro normativo.»
+
+3. Admitido o recurso e prosseguindo o recurso neste Tribunal, apenas o recorrente apresentou alegações, com o seguinte remate conclusivo:
+
+«111. O Ministério Público interpôs recurso parcialmente obrigatório, para este Tribunal Constitucional, do teor da douta sentença de fls. 61 a 101, proferida pelo Tribunal de Contas – Secção Regional da Madeira, nos termos do disposto nos “arts. 70º nº 1 al. a) e 71º n.º 1 da Lei acabada de citar [a Lei 28/82 de 15/09]”.
+
+112. Este recurso tem por objeto a “mui douta sentença do Tribunal proferida no processo autónomo de multa supra referenciado, da qual resulta que foram desaplicadas por terem sido julgadas materialmente inconstitucionais as normas vertidas: no art. 5º n.º 8 da Lei n.º 19/2003, na redação que lhe veio dar a Lei n.º 55/2010 de 24/12 (concretamente na versão interpretativa retroativa consagrada no respetivo art. 3º n.º 3)”; ”nos arts. 23º a 26º da mesma Lei n.º 19/2003 (concretamente na medida em que atribuem a outro Tribunal que não o de Contas a competência fiscalizadora de dinheiros públicos a partidos ou a grupos e representações parlamentares);”nos arts. 66º, 77º n.º 4 e 78º n.º 4. al.ª e) da LOPTC e no art. 76º do Regulamento Geral do Tribunal de Contas (concretamente na parte em que conferem ao mesmo juiz a iniciativa de acusar, instruir e sentenciar os processos de aplicação de multa a que se refere o art. 66º da LOPTC”; e por ter sido julgado organicamente inconstitucional, “o RGTC referido (concretamente na parte em que atribui competência ao tribunal e juízes relatores para decidir a aplicação de multas, e estabelecer o iter processual respetivo)”; e ilegal “o art. 76.º do RGTC por violação do disposto no art. 75º al.ª d) da lei 98/97 de 26/08 (concretamente recusando a aplicação desta norma, com fundamento na sua ilegalidade por violação de lei com valor reforçado/Lei Orgânica do Tribunal de Contas)”.
+
+113. O Ministério Público interpôs recurso, nos presentes autos, para além do mais, da recusa de aplicação, por parte do Mm.º Juiz “a quo”, das normas contidas no artigo 76.º do Regulamento Geral [Interno] do Tribunal de Contas, por violação de lei de valor reforçado, nomeadamente do disposto no artigo 75.º, alínea d), da Lei n.º 98/97 de 26 de agosto (Lei de Organização e Processo do Tribunal de Contas).
+
+114.Uma vez que as normas cuja aplicação foi recusada não constam de ato legislativo e, por força do disposto nos artigos 280.º da Constituição da República Portuguesa e 70.º da Lei n.º 28/82 (LTC), de 15 de novembro, carece o Tribunal Constitucional de competência para conhecer de recursos de decisões dos tribunais que recusem a aplicação de normas, não constantes de atos legislativos, com fundamento na sua ilegalidade por violação de lei com valor reforçado, não deverá aquele Tribunal Constitucional tomar conhecimento, nesta parte, do objeto do recurso.
+
+115. O n.º 8, do artigo 5.º da Lei n.º 19/2003, de 20 de junho, na redação dada pelo artigo 1.º da Lei n.º 55/2010, de 24 de dezembro, veio atribuir, ao Tribunal Constitucional, a competência para a fiscalização respeitante “às subvenções públicas auferidas por grupos parlamentares ou deputado único representante de um partido e aos deputados não inscritos em grupo parlamentar ou aos deputados independentes na Assembleia da República e nas assembleias legislativas das regiões autónomas, ou por seu intermédio, para a atividade política e partidária em que participem”.
+
+116. Por sua vez, o n.º 4, do artigo 3.º, da Lei n.º 55/2010, de 24 de dezembro, decreta que aquela disposição tem natureza interpretativa.
+
+117. Em ambos os casos estamos perante normas legais sediadas num diploma legislativo não dotado de valor reforçado, que regulam, por um lado, a competência do Tribunal Constitucional, e determinam, por outro, a natureza da norma de competência e o seu regime de aplicação no tempo.
+
+118. Ora, de acordo com o conjugadamente disposto nos artigos 166.º, n.º 2, e 164.º, alínea c), da Constituição da República Portuguesa, os atos reguladores das matérias de organização, funcionamento e processo do Tribunal Constitucional, designadamente quanto à competência, para além de se integrarem na reserva absoluta de competência legislativa da Assembleia da República, devem, ainda, revestir a forma de lei orgânica.
+
+119. Acontece que, conforme resulta da mera consulta da Lei n.º 55/2010, de 24 de dezembro, esta não reveste a forma de lei orgânica dispondo, assim, sobre matéria que só por meio desta espécie de lei de valor reforçado pode ser regulada.
+
+120. Em face do exposto, as normas legais corporizadas no n.º 8, do artigo 5.º da Lei n.º 19/2003, de 20 de junho, na redação dada pelo artigo 1.º da Lei n.º 55/2010, de 24 de dezembro, ao regerem sobre matéria da competência do Tribunal Constitucional; bem como a norma contida no n.º 4, do artigo 3.º, da Lei n.º 55/2010, de 24 de dezembro, ao, indiretamente, dispor sobre a sua aplicação no tempo, violam a imposição constitucional resultante do disposto, conjugadamente, nos artigos 166.º, n.º 2; e 164.º, alínea c), da Constituição da República Portuguesa, encontrando-se, assim, feridas de inconstitucionalidade formal.
+
+121. Para a eventualidade de, assim, se não entender, dir-se-á que a norma contida no n.º 8, do artigo 5.º da Lei n.º 19/2003, de 20 de junho, na redação dada pelo artigo 1.º da Lei n.º 55/2010, de 24 de dezembro, aplicável retroactivamente nos termos do disposto no n.º 4, do artigo 3.º, da Lei n.º 55/2010, de 24 de dezembro, na redação atribuída pela Lei n.º 1/2013, de 3 de janeiro, não viola materialmente o plasmado no n.º 9, do artigo 32.º da Constituição da República Portuguesa, uma vez que esta norma constitucional respeita às garantias do processo criminal, matéria à qual é estranha a interpretação normativa cuja constitucionalidade é questionada.
+
+122. Todavia, tal interpretação normativa, ao ter sido configurada pelo legislador da Lei n.º 55/2010, de 24 de dezembro, como retroactivamente – ou no mínimo retrospectivamente - modificadora da competência para a fiscalização das contas dos grupos parlamentares/representações parlamentares, é suscetível de violar o princípio da segurança jurídica ínsito no princípio do Estado de direito democrático, plasmado no artigo 2.º da Constituição da República Portuguesa.
+
+123. Já no que concerne à suposta violação do disposto no n.º 1 do artigo 214.º da Constituição da República Portuguesa, imputada às normas constantes dos artigos 23.º, 24.º, 25.º e 26.º da Lei n.º 19/2003, de 20 de junho, com a redação introduzida pela Lei n.º 55/2010, de 24 de dezembro, concluímos que estas não foram convocadas no âmbito da decisão recorrida, não tendo constituído ratio decidendi da sentença contestada, não devendo o Tribunal Constitucional conhecer da invocada desconformidade constitucional.
+
+124. Complementarmente, dir-se-á, igualmente, que não se poderá imputar a violação do disposto no n.º 1 do artigo 214.º da Constituição da República Portuguesa, às normas constantes do n.º 8, do artigo 5.º da Lei n.º 19/2003, de 20 de junho, na redação que lhe foi dada pelo artigo 1.º, da Lei n.º 55/2010, de 24 de dezembro, por não se nos afigurar que ocorra qualquer lesão material daquela disposição constitucional, uma vez que do texto do referido artigo 214.º não resulta, diretamente, a atribuição de competência ao Tribunal de Contas para fiscalizar todas as aplicações de dinheiros públicos - com exceção das aludidas nas alíneas a) e b), do n.º 1, do artigo 214.º -, não constituindo a não atribuição, em situações concretamente identificadas, dessa competência, por parte do legislador ordinário, qualquer violação de princípios ou regras constitucionais.
+
+125.Também não se verifica, em nosso entender, a pretensa inconstitucionalidade material das normas contidas nos artigos 66.º, 77.º, n.º 4 e 78.º, n.º 4, alínea e), da Lei de Organização e Processo do Tribunal de Contas (LOPTC), e artigo 76.º do Regulamento Geral [Interno] do Tribunal de Contas (RGTC), por violação dos princípios da estrutura acusatória do processo penal e do processo equitativo, consagrados, respetivamente, nos artigos 32.º, n.º 5 e 20.º, n.º 4, da Constituição da República Portuguesa.
+
+126. As multas previstas na alínea c), do n.º 1, do artigo 66.º da LOPTC têm uma natureza meramente processual não constituindo o procedimento visando a sua aplicação, essencialmente, um processo sancionatório autónomo.
+
+127. Consequentemente, aquelas normas infraconstitucionais, cuja inconstitucionalidade material é invocada, reportam-se ao procedimento tendente à aplicação das multas previstas na alínea c), do n.º 1, do artigo 66.º da LOPTC, o qual não reveste natureza sancionatória em qualquer dos sentidos regulados no artigo 32.º da Constituição da República Portuguesa, não se encontrando sujeito aos princípios constitucionais do direito processual criminal ou, sequer, do restante direito processual sancionatório, razão pela qual tais normas se revelam insuscetíveis de violar o princípio do acusatório, princípio constitucional privativo do processo criminal.
+
+128. Acresce que, estas normas da Lei de Organização e Processo do Tribunal de Contas (LOPTC) e do Regulamento Geral [Interno] do Tribunal de Contas (RGTC), cuja inconstitucionalidade é invocada na douta decisão recorrida, são normas atributivas de competência para aplicação das multas previstas na alínea c), do n.º 1, do artigo 66.º da LOPTC (e também de garantia do contraditório no caso do artigo 76.º do RGTC), que não regulam o procedimento destinado à sua aplicação sendo, também por isso, insuscetíveis de violar o princípio acusatório, princípio constitucional processual.
+
+129. Por semelhantes razões, não violam tais normas, igualmente, o direito a um processo equitativo, plasmado no n.º 4 do artigo 20.º da mesma Constituição da República Portuguesa.
+
+130. Por fim, também no que concerne à invocada inconstitucionalidade orgânica da norma contida no artigo 76.º do Regulamento Interno do Tribunal de Contas, por violação do disposto na alínea p), do n.º 1, do artigo 165.º da Constituição da República Portuguesa, sustentamos a sua não inconstitucionalidade.
+
+131. Efetivamente, a disposição normativa do artigo 76.º do Regulamento Interno do Tribunal de Contas, no que à matéria da competência dos juízes respeita, limita-se a reproduzir o teor dos artigos 77.º, n.º 4 e 78.º, n.º 4, alínea e), da Lei de Organização e Processo do Tribunal de Contas (LOPTC), aprovada pela Lei n.º 98/97, de 26 de agosto, e a reconhecer o direito ao contraditório, nada inovando relativamente ao conteúdo daquelas normas legais.
+
+132.Em face do agora exposto, deverão ser julgadas formalmente inconstitucionais as normas jurídicas contidas no artigo 5.º, n.º 8, da Lei n.º 19/2003, na redação que lhe foi dada pelo artigo 1.º da Lei n.º 55/2010 de 24/12, bem como as normas jurídicas resultantes da conjugação destas com a plasmada no n.º 4, do artigo 3.º, da Lei n.º 55/2010, de 24 de dezembro, na redação atribuída pela Lei n.º 1/2013, de 3 de janeiro; ou, caso assim se não entenda, julgar materialmente inconstitucional a aplicação retroativa – ou, no mínimo, retrospetiva - da norma ínsita no artigo 5.º, n.º 8, da Lei n.º 19/2003, na redação que lhe foi dada pelo artigo 1.º da Lei n.º 55/2010 de 24/12, por violação do princípio da segurança jurídica ínsito no princípio constitucional do Estado de direito democrático, plasmado no artigo 2.º da Constituição da República Portuguesa.
+
+133. Não deverá, por outra banda, conhecer, o Tribunal Constitucional, da alegada ilegalidade reforçada das normas contidas no artigo 76.º do Regulamento Interno do Tribunal de Contas, por violação do disposto no artigo 75.º, alínea d), da Lei n.º 98/97 de 26 de agosto (Lei de Organização e Processo do Tribunal de Contas); nem da inconstitucionalidade das normas consubstanciadas nos artigos 23.º, 24.º, 25.º e 26.º da Lei n.º 19/2003, de 20 de junho, com a redação introduzida pela Lei n.º 55/2010, de 24 de dezembro, por suposta violação do disposto no n.º 1 do artigo 214.º da Constituição da República Portuguesa.
+
+134. Não deverão ser julgadas materialmente inconstitucionais as normas jurídicas contidas nos artigos 5.º, n.º 8, da Lei n.º 19/2003, na redação que lhe foi dada pelo artigo 1.º da Lei n.º 55/2010 de 24/12, e 3.º, n.º 4, deste último diploma, por alegada violação do princípio do juiz natural ínsito no art. 32.º, n.º 9, da Constituição da República Portuguesa; nos artigos 66.º, 77.º, n.º 4 e 78.º, n.º 4, alínea e), da Lei de Organização e Processo do Tribunal de Contas (LOPTC), e artigo 76.º do Regulamento Geral [Interno] do Tribunal de Contas (RGTC), por alegada violação dos princípios da estrutura acusatória do processo penal e do processo equitativo, consagrados, respetivamente, nos artigos 32.º, n.º 5 e 20.º, n.º 4, da Constituição da República Portuguesa; e não organicamente inconstitucionais as normas ínsitas no mesmo artigo 76.º do Regulamento Geral [Interno] do Tribunal de Contas (RGTC), por suposta usurpação da competência legislativa reservada da Assembleia da República, prevista na alínea p), do n.º 1, do artigo 165.º da Constituição da República Portuguesa.
+
+Nos termos do acabado de explanar, deverá o Tribunal Constitucional decidir não conhecer da matéria relacionada com as invocadas ilegalidades das normas ínsitas no artigo 76.º do Regulamento Interno do Tribunal de Contas e inconstitucionalidade das normas contidas nos artigos 23.º, 24.º, 25.º e 26.º da Lei n.º 19/2003, de 20 de junho, com a redação introduzida pela Lei n.º 55/2010, de 24 de dezembro, concedendo, no mais, provimento parcial ao presente recurso, assim fazendo a costumada JUSTIÇA.
+
+Cumpre apreciar e decidir.
+
+II. Fundamentação
+
+4. As questões objeto do presente recurso encontram identidade perfeita com aquelas apreciadas no Acórdão n.º 779/2014 (acessível em www.tribunalconstitucional.pt ), proferido recentemente por esta 2.ª Secção do Tribunal Constitucional, pelo que, na ausência de dados novos, cabe reiterar tal jurisprudência, remetendo para a sua fundamentação.
+
+III. Decisão
+
+Pelo exposto, decide-se:
+
+a) Não tomar conhecimento do objeto do recurso quanto à questão da inconstitucionalidade das normas contidas nos artigos 23.º, 24.º, 25.º e 26.º da Lei n.º 19/2003, de 20 de junho, na redação dada pelo artigo 1.º da Lei n.º 55/2010, de 24 de dezembro;
+
+b) Não tomar conhecimento do objeto do recurso quanto à questão da ilegalidade do artigo 76.º do Regulamento Geral do Tribunal de Contas;
+
+c) Não julgar inconstitucionais as normas dos artigos 66.º, 77.º, n.º 4 e 78.º, n.º 4, alínea e) da LOPTC e no artigo 76.º do Regulamento Geral do Tribunal de Contas, quando interpretadas no sentido de permitirem ao juiz a iniciativa de acusar, instruir e sentenciar nos processos de aplicação de multa a que se refere o artigo 66.º da LOPTC;
+
+d) Não julgar inconstitucional a norma do artigo 76.º do Regulamento Geral do Tribunal de Contas;
+
+e) Julgar inconstitucional, por violação do artigo 166.º, n.º 2, com referência ao artigo 164.º, alínea c), e do artigo 168.º, n.º 4, todos da Constituição, as normas constantes dos artigos 5.º, n.º 8, da Lei n.º 19/2003, de 20 de junho, na redação que lhe foi conferida pelo artigo 1.º, da Lei n.º 55/2010, de 24 de dezembro, e do artigo 3.º, n.º 4, da Lei n.º 55/2010, de 24 de dezembro, na numeração que lhe foi atribuída pela Lei n.º 1/2013, de 3 de janeiro;
+
+e, em consequência,
+
+f) Julgar parcialmente procedente o recurso interposto pelo Ministério Público;
+
+g) Determinar a reforma da decisão recorrida em conformidade com os juízos de não inconstitucionalidade constantes das alíneas c) e d).
+
+Sem custas.
+
+Lisboa, 2 de dezembro de 2014 - Fernando Vaz Ventura - João Cura Mariano - Pedro Machete - Ana Guerra Martins - Joaquim de Sousa Ribeiro
