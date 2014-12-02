@@ -1,0 +1,871 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12574",
+  "numero": "449",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-12-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-02-04",
+            "entidades": null,
+            "id": "99436",
+            "tipo": null,
+            "titulo": "Audição em 2015-02-04 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": null,
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "447/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "449/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": "2014-12-18",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "450/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": "2015-01-05",
+            "entidades": [
+              "Conselho de Escolas"
+            ],
+            "nrOficio": "451/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": "2015-01-09",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "452/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": "2014-12-18",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "453/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": "2014-12-21",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "454/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "455/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": "2015-01-08",
+            "entidades": [
+              "ASPL - Associação Sindical de Professores Licenciados"
+            ],
+            "nrOficio": "473/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": "2015-01-20",
+            "entidades": [
+              "SEPLEU - Sindicato Nacional dos Educadores e Professores Licenciados pelas Escolas Superiores de Educação e Universidades"
+            ],
+            "nrOficio": "474/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": null,
+            "entidades": [
+              "Sindicato Nacional dos Professores e Educadores"
+            ],
+            "nrOficio": "475/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": "2015-01-06",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "476/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": null,
+            "entidades": [
+              "SIPPEB - Sindicato dos Educadores e Professores do Ensino Básico"
+            ],
+            "nrOficio": "477/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": "2014-12-19",
+            "entidades": [
+              "SPLIU - Sindicato Nacional dos Professores Licenciados pelos Politécnicos e Universidades"
+            ],
+            "nrOficio": "478/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": "2015-01-06",
+            "entidades": [
+              "Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais"
+            ],
+            "nrOficio": "479/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-16",
+            "dataResposta": "2015-01-05",
+            "entidades": [
+              "STAL - Sindicato Nacional dos Trabalhadores da Administração Local"
+            ],
+            "nrOficio": "480/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": null,
+            "entidades": [
+              "Plataforma Nacional de Associações de Estudantes do Ensino Básico e Secundário"
+            ],
+            "nrOficio": "456/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": "2015-01-29",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "445/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2014-12-10",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  ADJUNTO E DO DESENVOLVIMENTO REGIONAL"
+            ],
+            "nrOficio": "446/CECC/2014",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-02-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "723930",
+                "obs": null,
+                "pag": [
+                  "6-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-14",
+                "pubLeg": "XII",
+                "pubNr": "27",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/027/2015-02-14/6?pgs=6-16&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-12-09",
+        "DataArquivo": "2015-02-11",
+        "DataBaixaComissao": "2014-12-03",
+        "DataEnvioPAR": "2015-02-11",
+        "DataReaberta": "2014-12-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4e695a5445314f5452694c546c694d5445744e4463774e5331685a4441304c546c684e5759354d6a67774e6d4d784d7935775a47593d&fich=3be1594b-9b11-4705-ad04-9a5f92806c13.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a497a4f4441304e57566b4c546c69597a51744e4752695a693035593251324c5749795a5467315a5441324d7a55774d4335775a47593d&fich=238045ed-9bc4-4dbf-9cd6-b2e85e063500.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55774f574a695a4451304c5441315a4745744e446b304f4330354f54526a4c545177597a42684d44426d593249775a5335775a47593d&fich=509bbd44-05da-4948-994c-40c0a00fcb0e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55354d4446684d3259334c5464685a5751744e444e6c59533035596a55774c5751314d57593059574a684e444130595335775a47593d&fich=5901a3f7-7aed-43ea-9b50-d51f4aba404a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63304e7a4e684d6d45784c545a685a6a49744e4749345a4330344e6a67344c544a6c4e6a646d4e4751324d7a4e68596935775a47593d&fich=7473a2a1-6af2-4b8d-8688-2e67f4d633ab.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a646c4e324a6c4d7a45774c544a694e5749744e4759344d433034596d55344c54517a596a466b5a475a6d5a44497a4d4335775a47593d&fich=7e7be310-2b5b-4f80-8be8-43b1ddffd230.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63354e4445354d4451784c54686a5a4455744e446469596930345a6d45304c54426a4e32466a593251354d47526b4e7935775a47593d&fich=79419041-8cd5-47bb-8fa4-0c7accd90dd7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466b5a6a51334e6a566a4c57466c596a45744e445a694e5331694d4451774c5459354d47566a4e4455784e4463304f4335775a47593d&fich=1df4765c-aeb1-46b5-b040-690ec4514748.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d794f5752684e6a51304c546c6b4e7a59744e44526959533168596a646c4c544e6b5a6d45774e6d4e684d6a426a4d7935775a47593d&fich=329da644-9d76-44ba-ab7e-3dfa06ca20c3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a67355a4467774d544d304c5445774d5749744e474e6a4e5330354e6a63324c546b334e7a52694f4745354e6d5a694d7935775a47593d&fich=89d80134-101b-4cc5-9676-9774b8a96fb3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a597a4d7a637a4e444a694c5449324e6a67744e4451354e5330354d6a41304c545578596a46684e4755774f44526d5a5335775a47593d&fich=6337342b-2668-4495-9204-51b1a4e084fe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49314f5442695a446c6a4c5463794d4751744e4441354d7930355a6d55794c5451345a546b3159324a6b596a45784d5335775a47593d&fich=2590bd9c-720d-4093-9fe2-48e95cbdb111.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4578596a5268596a51794c57526d59574d744e444e6c4d5331694f44646c4c5441794e6a426c595455334d32526b4d7935775a47593d&fich=11b4ab42-dfac-43e1-b87e-0260ea573dd3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5269596a41314f4467314c54526a5a6d4d744e4445345979316959574d334c546b774f47466c4e4745314f5445774e6935775a47593d&fich=4bb05885-4cfc-418c-bac7-908ae4a59106.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d314d324a684e445a684c5463324d7a63744e4751774d433034597a63354c574a6c4e6d52694f4463324e6d45354e7935775a47593d&fich=353ba46a-7637-4d00-8c79-be6db8766a97.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a497859574a6b5a5445324c54466a595449744e4756694f5331695954557a4c5749784d544e6d4d444533596d55314d6935775a47593d&fich=21abde16-1ca2-4eb9-ba53-b113f017be52.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5133596d49344d6a4e694c545130596a6b744e44686d5a533169593245344c5467354e7a55775a574a6c5a5745354d7935775a47593d&fich=47bb823b-44b9-48fe-bca8-89750ebeea93.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249784f5759324e4759334c546b345a4459744e4468694d53316859574e694c546c6b4d546335596a5132596a566d4e5335775a47593d&fich=b19f64f7-98d6-48b1-aacb-9d179b46b5f5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a426b4d5463324e44566a4c546b774d4441744e4749354d6930354f474e6b4c5751305a5445774f5449794f44597a4d5335775a47593d&fich=0d17645c-9000-4b92-98cd-d4e109228631.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a64694e5745774d4445774c574e684d444d744e445177597930345a4749784c574e684e4751305a5755304e4759314d4335775a47593d&fich=7b5a0010-ca03-440c-8db1-ca4d4ee44f50.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-02-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a684d574d7a4d4463314c545a68597a67744e4759305a5330354f5451794c54526d4e3259324e324578597a63315a4335775a47593d&fich=6a1c3075-6ac8-4f4e-9942-4f7f67a1c75d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-01-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a6b4e32566c4e44566b4c57517a4d6d55744e446b784f533035597a4a6b4c544e6a5a5759324e546c6c5a474e6d595335775a47593d&fich=6d7ee45d-d32e-4919-9c2d-3cef659edcfa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55784e474d775a545a6d4c575534595755744e444e6a4d4331684d4463324c574a6a4d474a6d4e6a526a4d44686a4d6935775a47593d&fich=514c0e6f-e8ae-43c0-a076-bc0bf64c08c2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a426b4f544a6a4f54426b4c5467335a4441744e474579596931694f44426d4c54417a596d497a4f4464685a6a6b345a4335775a47593d&fich=0d92c90d-87d0-4a2b-b80f-03bb387af98d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251314f5441304f5455344c5449325a6a67744e4445774f433169596a597a4c5449344e57566a4d4745794d3255344d5335775a47593d&fich=d5904958-26f8-4108-bb63-285ec0a23e81.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45774e444e6a4e444d304c544d784f4751744e444d354d4330354f5445354c5746684e446c695a6d513159575a6d4e6935775a47593d&fich=1043c434-318d-4390-9919-aa49bfd5aff6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3252684d4749354e4455354c54466c5a4751744e474d785a5330344d5759324c5463315a4467794e5749314e546c6d4e4335775a47593d&fich=da0b9459-1edd-4c1e-81f6-75d825b559f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49344d446735593256684c545a684d7a63744e4751304d6930354e4445324c5463794f4756695a6a566a5a474a6c4f4335775a47593d&fich=28089cea-6a37-4d42-9416-728ebf5cdbe8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55304e574a6b4d324d7a4c57597a4f5755744e4745314e6931684e3249314c545a6c4e475a6d4e4749774f5441784f4335775a47593d&fich=545bd3c3-f39e-4a56-a7b5-6e4ff4b09018.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3252694e44466c5a4467774c574a6b4e446b744e445269597931684f5751344c5752685a545133596d4d784f574e6d4d4335775a47593d&fich=db41ed80-bd49-44bc-a9d8-dae47bc19cf0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6d4f54457a4d446b794c546b784f4463744e4463314d43303459574d354c57566a5a6a55794f5745324e7a6c6b595335775a47593d&fich=2f913092-9187-4750-8ac9-ecf529a679da.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2014-12-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a68694f444d79596d4e6d4c5446684d446b744e44637a4f4331685a444e6c4c544d345a5467305957597a4f575a695a5335775a47593d&fich=8b832bcf-1a09-4738-ad3e-38e84af39fbe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a55774d4467314d57526b4c544a6c4e4755744e4446694e6930344d7a55354c574a6a4f544e694e546b34597a49304e4335775a47593d&fich=500851dd-2e4e-41b6-8359-bc93b598c244.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-12-09",
+            "gp": "PSD",
+            "id": "3919",
+            "motivoCessacao": null,
+            "nome": "Amadeu Soares Albergaria"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-05-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-12-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a466c4e57566b4d324a6b4c574a69595455744e4449795a5330344d544d344c5751774d6a59354d5467774d6d59784d6935775a47593d&fich=1e5ed3bd-bba5-422e-8138-d02691802f12.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "39439",
+      "39446",
+      "39449"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150521pln&url=l12/sl4/a2015/m05/&tI=01:26:17:165&drc=00:03:08:569"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/089/2015-05-22/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Rejeita a municipalização da educação e defende a universalidade da Escola Pública e o cumprimento da Lei de Bases do Sistema Educativo; Pelo fim da desresponsabilização do Estado e da municipalização do ensino; Consenso contra a municipalização das escolas e a favor da autonomia escolar; Professores contestam municipalização da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150521pln&url=l12/sl4/a2015/m05/&tI=01:29:33:576&drc=00:03:58:778"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/089/2015-05-22/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Rejeita a municipalização da educação e defende a universalidade da Escola Pública e o cumprimento da Lei de Bases do Sistema Educativo; Pelo fim da desresponsabilização do Estado e da municipalização do ensino; Consenso contra a municipalização das escolas e a favor da autonomia escolar; Professores contestam municipalização da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150521pln&url=l12/sl4/a2015/m05/&tI=01:33:36:521&drc=00:02:29:856"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150521pln&url=l12/sl4/a2015/m05/&tI=01:48:14:554&drc=00:01:27:889"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23",
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/089/2015-05-22/23?pgs=23,27&org=PLC"
+              }
+            ],
+            "Sumario": "Rejeita a municipalização da educação e defende a universalidade da Escola Pública e o cumprimento da Lei de Bases do Sistema Educativo; Pelo fim da desresponsabilização do Estado e da municipalização do ensino; Consenso contra a municipalização das escolas e a favor da autonomia escolar; Professores contestam municipalização da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150521pln&url=l12/sl4/a2015/m05/&tI=01:36:10:864&drc=00:03:10:378"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/089/2015-05-22/23?pgs=23-25&org=PLC"
+              }
+            ],
+            "Sumario": "Rejeita a municipalização da educação e defende a universalidade da Escola Pública e o cumprimento da Lei de Bases do Sistema Educativo; Pelo fim da desresponsabilização do Estado e da municipalização do ensino; Consenso contra a municipalização das escolas e a favor da autonomia escolar; Professores contestam municipalização da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150521pln&url=l12/sl4/a2015/m05/&tI=01:39:30:448&drc=00:03:59:857"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/089/2015-05-22/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Rejeita a municipalização da educação e defende a universalidade da Escola Pública e o cumprimento da Lei de Bases do Sistema Educativo; Pelo fim da desresponsabilização do Estado e da municipalização do ensino; Consenso contra a municipalização das escolas e a favor da autonomia escolar; Professores contestam municipalização da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150521pln&url=l12/sl4/a2015/m05/&tI=01:43:34:097&drc=00:04:34:938"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/089/2015-05-22/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Rejeita a municipalização da educação e defende a universalidade da Escola Pública e o cumprimento da Lei de Bases do Sistema Educativo; Pelo fim da desresponsabilização do Estado e da municipalização do ensino; Consenso contra a municipalização das escolas e a favor da autonomia escolar; Professores contestam municipalização da Educação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12574",
+    "PetAssunto": "Professores contestam municipalização da Educação.",
+    "PetDataEntrada": "2014-12-02",
+    "PeticoesAssociadas": null,
+    "PetId": "12574",
+    "PetLeg": "XII",
+    "PetNr": "449",
+    "PetNrAssinaturas": "18242",
+    "PetNrAssinaturasInicial": "12897",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2054",
+        "obs": null,
+        "pag": [
+          "21-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-22",
+        "pubLeg": "XII",
+        "pubNr": "89",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/089/2015-05-22/21?pgs=21-27&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "723433",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-01-31",
+        "pubLeg": "XII",
+        "pubNr": "24",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/024/2015-01-31/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
