@@ -1,0 +1,188 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "691",
+    "id": "38806",
+    "titulo": "Alteração da denominação da “União das Freguesias de São Cipriano e Vil de Souto”, no município de Viseu, para “São Cipriano e Vil de Souto”."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2014-12-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "34588",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-12-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Ofício Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d475979597a526c5a6d51744d3249775a4330305a445a694c546b7a4e5745744d474d304e4745334d544d794d7a6b774c6e52705a673d3d&fich=0f2c4efd-3b0d-4d6b-935a-0c44a7132390.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer AF UF São Cipriano e Vil de Souto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e444d335a44466b4e6a6b744f5755344e7930305a44686b4c5749784e6a55744d6d4d79596d51314f444268593249354c6e52705a673d3d&fich=437d1d69-9e87-4d8d-b165-2c2bd580acb9.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer AM Viseu",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54557a4d4745304d474d745a6a63795a4330305a5452694c54686d4f4451744f5751775a4459794e324d304e544a6d4c6e52705a673d3d&fich=e530a40c-f72d-4e4b-8f84-9d0d627c452f.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CM Viseu",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593245355a5455315a544d74596d51775a4330305a5745354c5749354d7a41744d475530597a63784d3245774e32526b4c6e52705a673d3d&fich=ca9e55e3-bd0d-4ea9-b930-0e4c713a07dd.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CAOTPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d45314f4445334f444d745a544e6b4d433030595467774c5749354e6a51744d7a5178596d4d344d5455354e5455304c6d52765933673d&fich=6a581783-e3d0-4a80-b964-341bc8159554.docx&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "16-22"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-04-01",
+            "pubLeg": "XII",
+            "pubNr": "105",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/105S1/2015-04-01/16?pgs=16-22&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "16-22"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-04-01",
+            "pubLeg": "XII",
+            "pubNr": "105",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/105S1/2015-04-01/16?pgs=16-22&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1435",
+            "motivoCessacao": null,
+            "nome": "José Junqueiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-03-31",
+            "dataRemessa": "2015-03-31",
+            "numeroOficio": "67/CAOTPL",
+            "observacoes": "Remessa do Parecer",
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-03-31",
+            "dataRemessa": "2015-04-14",
+            "numeroOficio": "72/CAOTPL",
+            "observacoes": "Ofício remetendo IL para apreciação e votação na Generalidade, Especialidade e Votação Final",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-03-31",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69022",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "223",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-12-03",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "301053",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
