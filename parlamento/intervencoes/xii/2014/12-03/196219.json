@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "196219",
+  "tipo": "Intervenção",
+  "orador": "Pedro Mota Soares (MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL)",
+  "data_registo": "2014-12-03",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "98830",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "98830",
+        "tipo": "ITG",
+        "titulo": "Interpelação - Sobre \"Combate à pobreza e promoção da igualdade de oportunidades\""
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Abertura do debate da interpelação n.º 18/XII (4.ª) — Sobre combate à pobreza e promoção da igualdade de oportunidades (PS).",
+        "duracao": "00:12:39:040",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20141203pln&url=l12/sl4/a2014/m12/&tI=00:19:32:703&drc=00:12:39:040"
+      },
+      {
+        "assunto": "Debate da interpelação n.º 18/XII (4.ª) — Sobre combate à pobreza e promoção da igualdade de oportunidades (PS). Responde a Sónia Fertuzinhos, Jorge Machado, Clara Marques Mendes, Mariana Aiveca e Nuno Magalhães.",
+        "duracao": "00:04:20:373",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20141203pln&url=l12/sl4/a2014/m12/&tI=01:00:53:627&drc=00:04:20:373"
+      },
+      {
+        "assunto": "Debate da interpelação n.º 18/XII (4.ª) — Sobre combate à pobreza e promoção da igualdade de oportunidades (PS). Responde a José Luís Ferreira, Catarina Marcelino, Rita Rato, Artur Rêgo e David Costa.",
+        "duracao": "00:05:31:547",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20141203pln&url=l12/sl4/a2014/m12/&tI=01:21:25:452&drc=00:05:31:547"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-12-03",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "196219",
+    "IdDebate": "29481",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL",
+      "governo": "XIX GOVERNO CONSTITUCIONAL",
+      "nome": "Pedro Mota Soares"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "196219",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "18-19",
+          "23-25",
+          "5-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-12-04",
+        "pubLeg": "XII",
+        "pubNr": "25",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/025/2014-12-04/5?pgs=5-9,18-19,23-25&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde às perguntas dos Deputados Sónia Fertuzinhos (PS), Jorge Machado (PCP), Clara Marques Mendes (PSD), Mariana Aiveca (BE), José Luís Ferreira (Os Verdes), Catarina Marcelino (PS), Rita Rato (PCP), Artur Rêgo (CDS-PP), David Costa (PCP) e Nuno Magalhães (CDS-PP).",
+    "Sessao": "4",
+    "Sumario": "Sobre \"Combate à pobreza e promoção da igualdade de oportunidades\".",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
