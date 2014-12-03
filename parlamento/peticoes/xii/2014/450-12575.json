@@ -1,0 +1,673 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12575",
+  "numero": "450",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-12-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-02-27",
+            "entidades": null,
+            "id": "99615",
+            "tipo": null,
+            "titulo": "Audição em 2015-02-27 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-01-08",
+            "dataResposta": null,
+            "entidades": [
+              "Secretário Regional da Cultura, Turismo e Transportes"
+            ],
+            "nrOficio": "3/CEOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2015-03-12",
+                "dataResposta": "2015-03-10",
+                "nrOficio": "101/CEOP",
+                "oficioResposta": "1049 V/2"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-29",
+            "dataResposta": "2015-02-06",
+            "entidades": [
+              "Assembleia Legislativa da Região Autónoma da Madeira"
+            ],
+            "nrOficio": "11/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-29",
+            "dataResposta": "2015-02-09",
+            "entidades": [
+              "Governo Regional da Madeira"
+            ],
+            "nrOficio": "12/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-29",
+            "dataResposta": "2015-02-04",
+            "entidades": [
+              "Direção da ACIF - Câmara de Comércio e Indústria da Madeira"
+            ],
+            "nrOficio": "13/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-29",
+            "dataResposta": null,
+            "entidades": [
+              "Direção da Associação Comercial e Industrial do Porto Santo"
+            ],
+            "nrOficio": "14/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-29",
+            "dataResposta": "2015-02-20",
+            "entidades": [
+              "Conselho de Administração da Atlanticoline"
+            ],
+            "nrOficio": "15/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-29",
+            "dataResposta": "2015-02-09",
+            "entidades": [
+              "Porto Santo Line"
+            ],
+            "nrOficio": "16/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-29",
+            "dataResposta": "2015-02-06",
+            "entidades": [
+              "Transmaçor - Transportes Marítimos Açorianos, Lda."
+            ],
+            "nrOficio": "17/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-01-30",
+            "dataResposta": null,
+            "entidades": [
+              "La Naviera Armas, S. A."
+            ],
+            "nrOficio": "18/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-02-09",
+            "dataResposta": null,
+            "entidades": [
+              "Acciona Transmediterranea"
+            ],
+            "nrOficio": "21/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              "Baleària"
+            ],
+            "nrOficio": "22/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "745096",
+                "obs": null,
+                "pag": [
+                  "3-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-04-30",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/043/2015-04-30/3?pgs=3-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-12-10",
+        "DataArquivo": "2015-04-28",
+        "DataBaixaComissao": "2014-12-04",
+        "DataEnvioPAR": "2015-04-30",
+        "DataReaberta": "2014-12-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-01-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5a6d4d6a526a4f4464684c5445324e5459744e47526d59693034596a49774c54526b5a6a6869597a67305a4749344d5335775a47593d&fich=6f24c87a-1656-4dfb-8b20-4df8bc84db81.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-02-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d355a47566b4e5746684c574a685a4459744e4745794d6931694d32526a4c5441315a6a5669595755335a5459334d4335775a47593d&fich=39ded5aa-bad6-4a22-b3dc-05f5bae7e670.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a5669596a4e684d7a6c684c546c6b59574d744e4759304e4331684d546b354c57466d4e6d4e6b5a6d5a694e3249304d6935775a47593d&fich=5bb3a39a-9dac-4f44-a199-af6cdffb7b42.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d314f4445344d5745324c544d33596a51744e446b774d5331684e544d314c575a6c4d5759304d545579596d566d5a4335775a47593d&fich=358181a6-37b4-4901-a535-fe1f4152befd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a51785a474d325a6a4e6a4c54426d4d6d55744e4451354e5330354d32466d4c54526d596a49775a6d4a684e6a4d7a595335775a47593d&fich=41dc6f3c-0f2e-4495-93af-4fb20fba633a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324e6c4d325a6a5a6a526a4c545a684d7a49744e4467344e5331684d4463784c5463304d7a56694d4449795a4449344d4335775a47593d&fich=ce3fcf4c-6a32-4885-a071-7435b022d280.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4d314f4445324f44646b4c54466c5a4451744e44593559533035596a67344c54637a595749354f446b774d6a4932596935775a47593d&fich=3581687d-1ed4-469a-9b88-73ab9890226b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a45324f54517a4e4759334c54646a596d49744e445a694f5331694e6a4e6d4c546b334e445a685a5459304d3255314d5335775a47593d&fich=169434f7-7cbb-46b9-b63f-9746ae643e51.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a566a4e4759334f54566d4c5449324d7a63744e4759774d433168597a5a6b4c544133596a686c4d5452695a6d55354d6935775a47593d&fich=5c4f795f-2637-4f00-ac6d-07b8e14bfe92.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c32597a4e7a4e6d4f4445774c5449344d6d45744e446c6b59693034596d45344c5456685a446b794e6d5530597a59344e7935775a47593d&fich=f373f810-282a-49db-8ba8-5ad926e4c687.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3251314f4467354e5759314c544a6a4d6d45744e44466c5a4331694d6a45334c5467774d7a49324d54466a4d54646d4e4335775a47593d&fich=d58895f5-2c2a-41ed-b217-8032611c17f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324d324e7a4d304d6d4e684c5449324e6a59744e444a6c4d533034596a566c4c546c6b4f5459325a546b7a597a4d304d6935775a47593d&fich=c67342ca-2666-42e1-8b5e-9d966e93c342.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324d7a595751344d6d466a4c57526c596a41744e47466c5a5331694d6a5a6a4c5745335a545a6c4f544d334e4751315a5335775a47593d&fich=c3ad82ac-deb0-4aee-b26c-a7e6e9374d5e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-04-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a63324e325a6c4d4759334c5451334d544d744e446b784e7931694d6d4d794c5745774d57526a4f446b304e7a67794e6935775a47593d&fich=767fe0f7-4713-4917-b2c2-a01dc8947826.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c325931593259344e474e684c5441314e3245744e475668597930345a4759774c5441344e474d784d574d7a597a41325a5335515245593d&fich=f5cf84ca-057a-4eac-8df0-084c11c3c06e.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3255794e6a5579597a59794c5755315a6a6b744e4445794e6930355a544a6c4c544a6d4d6d4931596d5668596d45355a6935515245593d&fich=e2652c62-e5f9-4126-9e2e-2f2b5beaba9f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c324e6c5a4463795a6a45324c544532595459744e474d344e4330344f4445304c54566a4f4441784d6a466a4d4463785a6935515245593d&fich=ced72f16-16a6-4c84-8814-5c80121c071f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c3245344f4759335a5445304c5463344e5445744e47566a4d533034596a49774c544d7a4e7a64684e6d566b4e325932597935515245593d&fich=a88f7e14-7851-4ec1-8b20-3377a6ed7f6c.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4e6b4d324d30596a686b4c574d7a4e6a45744e474935597931694d446b784c5759794d4445784f574e68596a566b5a5335515245593d&fich=3d3c4b8d-c361-4b9c-b091-f20119cab5de.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-02-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a52694f575132596a646a4c5751784d5451744e446b784d7930354e7a59334c57466c597a6b32596d45344e47566b4f5335515245593d&fich=4b9d6b7c-d114-4913-9767-aec96ba84ed9.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c32566d4e5749344e44497a4c5441314e5463744e44497a4d6931684d4759344c5446695a6a56695a6a59325a6d5669595335515245593d&fich=ef5b8423-0557-4232-a0f8-1bf5bf66feba.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-12-10",
+            "gp": "PS",
+            "id": "2201",
+            "motivoCessacao": null,
+            "nome": "Jacinto Serrão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-06-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-12-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325a6d4d6a426c4e7a49324c57566c4f4455744e44646c4d6930344d6d526b4c574d324e444d7a4f575535596a4d775a6935775a47593d&fich=ff20e726-ee85-47e2-82dd-c64339e9b30f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "39665"
+    ],
+    "Iniciativasoriginadas": [
+      "39665"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150624pln&url=l12/sl4/a2015/m06/&tI=02:50:10:363&drc=00:03:08:566"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-25",
+                "pubLeg": "XII",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/102/2015-06-25/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita à Assembleia da República que debata a possibilidade de intervenção do Estado para o estabelecimento de um serviço público de transporte marítimo regular de passageiros por ferryboat entre a Ilha da Madeira e o Continente; Transporte por ferryboat entre o Continente e a Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150624pln&url=l12/sl4/a2015/m06/&tI=02:53:23:829&drc=00:03:00:480"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-25",
+                "pubLeg": "XII",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/102/2015-06-25/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita à Assembleia da República que debata a possibilidade de intervenção do Estado para o estabelecimento de um serviço público de transporte marítimo regular de passageiros por ferryboat entre a Ilha da Madeira e o Continente; Transporte por ferryboat entre o Continente e a Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150624pln&url=l12/sl4/a2015/m06/&tI=02:56:26:568&drc=00:03:07:625"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198695",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-25",
+                "pubLeg": "XII",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/102/2015-06-25/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita à Assembleia da República que debata a possibilidade de intervenção do Estado para o estabelecimento de um serviço público de transporte marítimo regular de passageiros por ferryboat entre a Ilha da Madeira e o Continente; Transporte por ferryboat entre o Continente e a Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150624pln&url=l12/sl4/a2015/m06/&tI=02:59:42:222&drc=00:03:11:639"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-25",
+                "pubLeg": "XII",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/102/2015-06-25/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita à Assembleia da República que debata a possibilidade de intervenção do Estado para o estabelecimento de um serviço público de transporte marítimo regular de passageiros por ferryboat entre a Ilha da Madeira e o Continente; Transporte por ferryboat entre o Continente e a Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150624pln&url=l12/sl4/a2015/m06/&tI=03:02:55:902&drc=00:03:19:414"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198697",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-25",
+                "pubLeg": "XII",
+                "pubNr": "102",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/102/2015-06-25/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita à Assembleia da República que debata a possibilidade de intervenção do Estado para o estabelecimento de um serviço público de transporte marítimo regular de passageiros por ferryboat entre a Ilha da Madeira e o Continente; Transporte por ferryboat entre o Continente e a Madeira.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12575",
+    "PetAssunto": "Transporte marítimo por \"ferryboat\" entre a llha da Madeira e o Continente.",
+    "PetDataEntrada": "2014-12-03",
+    "PeticoesAssociadas": null,
+    "PetId": "12575",
+    "PetLeg": "XII",
+    "PetNr": "450",
+    "PetNrAssinaturas": "4582",
+    "PetNrAssinaturasInicial": "4582",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "529",
+        "obs": null,
+        "pag": [
+          "41-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-06-25",
+        "pubLeg": "XII",
+        "pubNr": "102",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/102/2015-06-25/41?pgs=41-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "719209",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-12-13",
+        "pubLeg": "XII",
+        "pubNr": "18",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/018/2014-12-13/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
