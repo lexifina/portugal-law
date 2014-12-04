@@ -1,0 +1,697 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12579",
+  "numero": "454",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-12-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2014-01-14",
+            "entidades": null,
+            "id": "99182",
+            "tipo": null,
+            "titulo": "Audição em 2014-01-14 com SNPVAC - Sindicato Nacional do Pessoal de Voo da Aviação Civil"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-01-08",
+            "dataResposta": "2015-01-28",
+            "entidades": [
+              "S.E.  DAS INFRAESTRUTURAS, TRANSPORTES E COMUNICAÇÕES"
+            ],
+            "nrOficio": "5/CEOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "736505",
+                "obs": null,
+                "pag": [
+                  "5-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-21",
+                "pubLeg": "XII",
+                "pubNr": "34",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/034/2015-03-21/5?pgs=5-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-12-17",
+        "DataArquivo": "2015-03-18",
+        "DataBaixaComissao": "2014-12-05",
+        "DataEnvioPAR": "2015-03-18",
+        "DataReaberta": "2014-12-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-01-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a6b795a4749314d3245344c5463334e6a45744e44526a4e693035596a4d7a4c574a6c5a574a6d4e6d51784e444a6a5a5335515245593d&fich=92db53a8-7761-44c6-9b33-beebf6d142ce.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-01-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c32497a4e446b34596d526d4c54426d4f5463744e474e6d5a5330344f57557a4c546c694f574d785a5759305a444e6d4e4335775a47593d&fich=b3498bdf-0f97-4cfe-89e3-9b9c1ef4d3f4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-04-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a4a6c4f5755774f574d794c574a68596d45744e444533596931684f5463334c57513559574d304d7a45315a4459325a5335775a47593d&fich=2e9e09c2-baba-417b-a977-d9ac4315d66e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e515a585270593246764c7a597a4e6a457a4e6d466d4c57497a4f5449744e444a6b4f5330344f5441334c54426a4e4451314f5451795a445a6b4e6935775a47593d&fich=636136af-b392-42d9-8907-0c445942d6d6.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3515",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-12-17",
+            "gp": "PSD",
+            "id": "4148",
+            "motivoCessacao": null,
+            "nome": "Luís Vales"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-05-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2014-12-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324e6c4e44466d4e4745334c546469596a6b744e47526a596930354d4445344c5445794e6d4d304d444535597a4a6b596935515245593d&fich=ce41f4a7-7bb9-4dcb-9018-126c4019c2db.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "38773",
+      "39443",
+      "39452",
+      "39447"
+    ],
+    "Iniciativasoriginadas": [
+      "39452",
+      "38773",
+      "39443",
+      "39447"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:25:16:356&drc=00:03:30:891"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:56:15:996&drc=00:01:46:301"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23",
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/22?pgs=22-23,30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:28:59:159&drc=00:04:35:950"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:33:44:847&drc=00:03:53:423"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:53:42:924&drc=00:01:27:599"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/24?pgs=24-25,30&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:37:45:257&drc=00:03:00:005"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:49:42:425&drc=00:02:49:449"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26",
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/25?pgs=25-26,28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:41:04:518&drc=00:03:57:354"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:45:09:195&drc=00:02:42:057"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:48:51:227&drc=00:00:13:539"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:55:20:650&drc=00:00:45:253"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27",
+                  "28-28",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/27?pgs=27,28,30&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": "Responde ao pedido de esclarecimento do Deputado Bruno Dias"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:48:16:652&drc=00:00:26:917"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": "Ao Deputado Helder Amaral"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:52:43:744&drc=00:00:16:256"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-05-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=01:53:06:746&drc=00:00:17:537"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa, desenvolvimento e gestão pública da TAP como companhia aérea de bandeira nacional; Solicitando à Assembleia da República a suspensão do processo de privatização da TAP Portugal, SGPS; Manifesto contra a privatização da TAP; Anulação imediata do processo de privatização da TAP; Garante a TAP enquanto empresa pública; Pela defesa da TAP.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12579",
+    "PetAssunto": "Suspensão do Processo de Privatização da TAP Portugal SGPS.",
+    "PetDataEntrada": "2014-12-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12579",
+    "PetLeg": "XII",
+    "PetNr": "454",
+    "PetNrAssinaturas": "5161",
+    "PetNrAssinaturasInicial": "5161",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2059",
+        "obs": null,
+        "pag": [
+          "22-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-23",
+        "pubLeg": "XII",
+        "pubNr": "90",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/22?pgs=22-31&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "720944",
+        "obs": null,
+        "pag": [
+          "9-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-01-10",
+        "pubLeg": "XII",
+        "pubNr": "21",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/021/2015-01-10/9?pgs=9&org=PLC"
+      }
+    ]
+  }
+}
