@@ -1,0 +1,11 @@
+Aviso n.º 13681/2014
+Abertura de Procedimento de Alteração ao Plano de Urbanização da Área Urbana do Carriço
+Pedro Filipe Silva Murtinho, Vereador do Ordenamento da Câmara Municipal de Pombal, no uso da competência delegada:
+Torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 74.º, conjugado com o n.º 1 do artigo 96.º, do Decreto-Lei n.º 380/99, de 22 de setembro, na sua redação atual (RJIGT), que a Câmara Municipal, em reunião pública n.º 0029/CMP/14, realizada em 19 de novembro de 2014, deliberou proceder à abertura de procedimento de alteração do Plano de Urbanização da Área Urbana do Carriço.
+Mais deliberou estabelecer um prazo de 180 dias para a elaboração da alteração do Plano de Urbanização, contados a partir da publicação da presente deliberação no Diário da República.
+Deliberou ainda, para efeitos do disposto no n.º 5 do artigo 74.º do RJIGT, conjugado com o disposto no n.º 1 do artigo 4.º, do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual, qualificar a alteração ao Plano de Urbanização como insuscetível de ter efeitos significativos no ambiente e, como tal, isentá-la de Avaliação Ambiental Estratégica.
+Nos termos do n.º 2 do artigo 77.º do RJIGT, decorrerá um período de 15 dias úteis, a contar da data de publicação do presente aviso no Diário da República, 2.ª série, para participação pública preventiva, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da alteração do Plano de Urbanização.
+A deliberação da Câmara Municipal de Pombal, bem como a documentação de suporte, poderá ser consultada na Divisão de Urbanismo, Planeamento e Reabilitação Urbana, todos os dias úteis, durante a hora de expediente e na página da Internet, em www.cm-pombal.pt.
+As participações deverão ser apresentadas, preferencialmente, através da plataforma disponível online na referida página da Internet, através de requerimento dirigido ao Vereador do Pelouro do Ordenamento, por correio para Largo do Cardal, 3100- 440 Pombal, ou para o seguinte e-mail: pu-carrico@cm-pombal.pt.
+24 de novembro de 2014. - O Vereador do Ordenamento, Pedro Murtinho, engenheiro.
+208266426
