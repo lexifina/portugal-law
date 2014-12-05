@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "196354",
+  "tipo": "Intervenção",
+  "orador": "Paulo Núncio (S.E. DOS  ASSUNTOS FISCAIS)",
+  "data_registo": "2014-12-05",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "301073",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38793",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Assegura a execução ao Regulamento (CE) n.º 2368/2002, do Conselho, de 20 de dezembro de 2002, relativo à aplicação do Sistema de Certificação do Processo de Kimberley para o comércio internacional de diamantes em bruto"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Apresentação da proposta de lei n.º 261/XII (4.ª) — Assegura a execução do Regulamento (CE) n.º 2368/2002, do Conselho, de 20 de dezembro de 2002, relativo à aplicação do sistema de certificação do Processo de Kimberley para o comércio internacional de diamantes em bruto.",
+        "duracao": "00:03:24:583",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20141205pln&url=l12/sl4/a2014/m12/&tI=00:20:37:118&drc=00:03:24:583"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-12-05",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "196354",
+    "IdDebate": "10200",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "38793",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+      "governo": "XIX GOVERNO CONSTITUCIONAL",
+      "nome": "Paulo Núncio"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "196354",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "7-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-12-06",
+        "pubLeg": "XII",
+        "pubNr": "27",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/027/2014-12-06/7?pgs=7&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Assegura a execução ao Regulamento (CE) n.º 2368/2002, do Conselho, de 20 de dezembro de 2002, relativo à aplicação do Sistema de Certificação do Processo de Kimberley para o comércio internacional de diamantes em bruto.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
