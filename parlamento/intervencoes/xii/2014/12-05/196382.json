@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "196382",
+  "tipo": "Leitura",
+  "orador": "Duarte Pacheco (PSD)",
+  "data_registo": "2014-12-05",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "98888",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "98888",
+        "tipo": "VOT",
+        "titulo": "De Pesar - Voto de pesar pelo falecimento de José Sousa Veloso"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Leitura do voto 231/XII (4.ª) — De pesar pelo falecimento do Engenheiro José de Sousa Veloso (PSD, PS e CDS).",
+        "duracao": "00:04:14:247",
+        "tipoIntervencao": "Leitura",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20141205pln&url=l12/sl4/a2014/m12/&tI=02:12:30:425&drc=00:04:14:247"
+      }
+    ],
+    "DataReuniaoPlenaria": "2014-12-05",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "42",
+      "nome": "Duarte Pacheco"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "196382",
+    "IdDebate": "29493",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "196382",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "32-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2014-12-06",
+        "pubLeg": "XII",
+        "pubNr": "27",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/027/2014-12-06/32?pgs=32-33&org=PLC"
+      }
+    ],
+    "Qualidade": "Sec. Mesa",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Voto de pesar pelo falecimento de José Sousa Veloso.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Leitura"
+  }
+}
