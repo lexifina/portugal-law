@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 13867/2014
+Regulamento dos Cemitérios de Areias e Pias e Regulamento de Taxas e Licenças da União das Freguesias de Areias e Pias
+Hugo Miguel de Freitas Azevedo, Presidente do Executivo da União das Freguesias de Areias e Pias, torna público que a Assembleia da Freguesia da União das Freguesias de Areias e Pias na sua sessão ordinária de 27 de junho de 2014, no uso da competência exclusiva que lhe é conferida pelo n.º 3 do artigo 6.º da Lei n.º 33/98, de 18 de julho, aprovou o regulamento de Taxas e Licenças, sob proposta da Junta de Freguesia da União das Freguesias de Areias e Pias, que aprovou o respetivo projeto em 05 de junho de 2014, o qual produzirá efeitos no dia imediato ao da publicação deste edital na 2.ª série do Diário da República.
+Torna também público que a Assembleia da Freguesia da União das Freguesias de Areias e Pias na sua sessão ordinária de 29 de setembro de 2014, no uso da competência exclusiva que lhe é conferida pelo n.º 3 do artigo 6.º da Lei n.º 33/98, de 18 de julho, aprovou o regulamento dos cemitérios de Areias e Pias, sob proposta da Junta de Freguesia da União das Freguesias de Areias e Pias, que aprovou o respetivo projeto em 04 de setembro de 2014, o qual também produzirá efeitos no dia imediato ao da publicação deste edital na 2.ª série do Diário da República.
+Os referidos regulamentos poderão ser consultados na página oficial desta freguesia em http://www.jfareias.com/www.jfareias.com
+Para constar e devidos efeitos se lavrou o presente aviso que vai ser publicado na 2.ª série do Diário da República.
+29 de novembro de 2014. - O Presidente do Executivo, Hugo Miguel de Freitas Azevedo.
+308272055
