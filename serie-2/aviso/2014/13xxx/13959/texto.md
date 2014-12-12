@@ -1,0 +1,7 @@
+Aviso n.º 13959/2014
+Nuno José Gonçalves Mascarenhas, Presidente da Câmara Municipal de Sines, ao abrigo da competência prevista na alínea t) do n.º 1 do art. 35.º da Lei 75/2013, de 12 de setembro, torna público que em Reunião Ordinária da Câmara Municipal de Sines tida em 6 de novembro de 2014, foi deliberado por unanimidade aprovar e submeter à discussão pública o Projeto de Regulamento Municipal de Toponímia da Câmara Municipal de Sines, pelo período de 30 dias a contar da data da publicação no Diário da República.
+Mais torna público que o referido projeto encontra-se disponível no Serviço de Atendimento Geral e Expediente, no Edifício do Paços do Concelho, sito no Largo Ramos Costa em Sines, onde poderá ser consultado em horário normal de expediente das 09:00h às 16:00h, bem como na página do Município em www.sines.pt. Durante o período referido qualquer interessado poderá apresentar por escrito ou enviar por correio ou e-mail, (geral@nun-sines.pt), reclamações, observações ou sugestões que findo o período de discussão publica serão objeto de apreciação por parte do Executivo Municipal.
+Para que conste, mandei publicar este Edital e outros de igual teor, no Diário da República II série, e nos locais de estilo.
+Do presente foram elaborados 2 exemplares, compostos por 1 página cada, ficando um exemplar arquivado no Serviço Emissor (GAPV) e outro entregue no Gabinete Jurídico para os devidos efeitos.
+18 de novembro de 2014. - O Presidente da Câmara Municipal de Sines, Nuno José Gonçalves Mascarenhas.
+308243487
