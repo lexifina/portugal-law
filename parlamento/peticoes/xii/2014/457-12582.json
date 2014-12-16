@@ -1,0 +1,619 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12582",
+  "numero": "457",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2014-12-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-02-26",
+            "dataResposta": "2015-06-19",
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "50/9ªCOM/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "749845",
+                "obs": null,
+                "pag": [
+                  "2-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-10",
+                "pubLeg": "XII",
+                "pubNr": "60",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/060/2015-07-10/2?pgs=2-4&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2014-12-16",
+        "DataArquivo": "2015-07-01",
+        "DataBaixaComissao": "2014-12-16",
+        "DataEnvioPAR": "2015-07-09",
+        "DataReaberta": "2014-12-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-01-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938345a4451324f5445775a5330325a6d46694c5451334d7a5974596a55355a4330304d5459324f445668597a4a685932457555455247&fich=8d46910e-6fab-4736-b59d-416685ac2aca.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-02-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938304d7a5577593249345a5330314e3251314c5451344d575574595455794d7930774d44526b596a63334f546b304d5745756347526d&fich=4350cb8e-57d5-481e-a523-004db779941a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-07-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938355a5467784e6a67334f53307a4f544a6a4c54526c4d3251744f546b794d7930774d57557a4d6a42694f574e6c5a5449756347526d&fich=9e816879-392c-4e3d-9923-01e320b9cee2.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-06-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938314d3259325932526b4d693032596d466c4c54526a4d7a677459544a6c5a43316c5a6a67774f57597a595755354d5459756347526d&fich=53f6cdd2-6bae-4c38-a2ed-ef809f3ae916.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3518",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2014-12-16",
+            "gp": "PS",
+            "id": "1212",
+            "motivoCessacao": null,
+            "nome": "Ana Catarina Mendonça Mendes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-12-17",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-01-05",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a566d4d544d304e7a6c6d4c57526d4d446b744e444d7a4d5330344e6a526c4c574d304f44426b596a4a6c4d47466a4f5335775a47593d&fich=5f13479f-df09-4331-864e-c480db2e0ac9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "39889",
+      "39894"
+    ],
+    "Iniciativasoriginadas": [
+      "39889",
+      "39894"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:00:49:673&drc=00:01:43:190"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:22:59:254&drc=00:02:04:961"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36",
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/36?pgs=36,43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:02:40:569&drc=00:02:50:484"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:05:38:434&drc=00:03:31:414"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:09:17:634&drc=00:03:28:805"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:12:53:484&drc=00:03:28:295"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:16:28:038&drc=00:00:58:886"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:17:34:399&drc=00:01:02:601"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151217pln&url=l13/sl1/a2015/m12/&tI=02:19:09:299&drc=00:03:39:775"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-18",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando à Assembleia da República a adoção de medidas para a melhoria da saúde, no concelho do Seixal, nomeadamente a construção de um hospital e de novos centros de saúde; Construção urgente do hospital no concelho do Seixal; Recomenda ao Governo o reforço do acesso a cuidados primários de saúde na península de Setúbal e a construção do hospital do Seixal.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12582",
+    "PetAssunto": "Saúde - Um direito das populações  \"Pelo Hospital no Seixal e por novos Centros de Saúde\"",
+    "PetDataEntrada": "2014-12-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12582",
+    "PetLeg": "XII",
+    "PetNr": "457",
+    "PetNrAssinaturas": "8237",
+    "PetNrAssinaturasInicial": "8237",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2114",
+        "obs": null,
+        "pag": [
+          "36-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-12-18",
+        "pubLeg": "XIII",
+        "pubNr": "18",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/018/2015-12-18/36?pgs=36-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "745105",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-11",
+        "pubLeg": "XII",
+        "pubNr": "46",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/046/2015-05-11/3?pgs=3&org=PLC"
+      }
+    ]
+  }
+}
