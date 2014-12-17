@@ -12,15 +12,13 @@ c) Os limites que tenham sido fixados pela Agência de Avaliação e Acreditaç�
 
 d) Os limites estabelecidos pela Lei n.º 62/2007, de 10 de setembro, para o funcionamento das instituições de ensino superior.
 
-2 - Sem prejuízo da autonomia dos estabelecimentos de ensino superior, a fixação das vagas a que se refere o número anterior tem ainda em conta as orientações gerais estabelecidas pelos membros do Governo responsáveis pelas áreas do ensino superior e da educação, ouvidos os organismos representativos das instituições, tendo em consideração, designadamente:
+2 - No que se refere às instituições de ensino superior público, a fixação das vagas a que se refere o número anterior está igualmente subordinada às orientações gerais estabelecidas pelo membro do Governo responsável pela área do ensino superior, ouvidos os organismos representativos das instituições, tendo em consideração, designadamente:
 
 a) As necessidades do sistema educativo;
 
 b) A racionalização da oferta formativa;
 
 c) A política nacional de formação de recursos humanos.
-
-d) A necessidade de assegurar vagas supranumerárias destinadas a candidatos sem qualificação profissional para a docência, com experiência docente, para admissão num dos ciclos de estudos regulados pelo presente decreto-lei.
 
 3 - As instituições de ensino superior comunicam, anualmente, à Direção-Geral do Ensino Superior, o número de vagas que fixarem nos termos dos números anteriores, acompanhados da respetiva fundamentação.
 

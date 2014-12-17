@@ -2,4 +2,4 @@
 
 ### Formação em didáticas específicas
 
-A formação em didáticas específicas abrange as competências que integram conhecimentos, capacidades e atitudes, relativos às áreas de conteúdo e ao ensino das disciplinas do respetivo grupo de recrutamento.
+A formação em didáticas específicas abrange os conhecimentos, as capacidades e as atitudes relativos às áreas de conteúdo e ao ensino das disciplinas do respetivo grupo de docência.

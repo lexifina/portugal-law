@@ -2,4 +2,4 @@
 
 ### Acompanhamento
 
-O Ministério da Educação, Ciência e Inovação, através dos seus serviços e organismos, assegura, em colaboração com a Agência de Avaliação e Acreditação do Ensino Superior, a monitorização e o acompanhamento anual da aplicação do regime jurídico previsto no presente decreto-lei, através da elaboração de um relatório do qual constem recomendações com o objetivo de garantir a qualidade do sistema de habilitação profissional para a docência.
+O Ministério da Educação e Ciência assegura, em colaboração com a Agência de Avaliação e Acreditação do Ensino Superior, a elaboração, em cada triénio, de um relatório de acompanhamento da aplicação do regime jurídico aprovado pelo presente decreto-lei, do qual constem recomendações para a promoção da qualidade do sistema de habilitação profissional para a docência.

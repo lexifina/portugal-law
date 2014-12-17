@@ -20,6 +20,6 @@ e) Bibliotecas;
 
 f) Bases de dados;
 
-g) Centros tecnológicos ou centros de recursos digitais e multimédia;
+g) Centros de recursos multimédia e salas de informática com acesso à Internet;
 
 h) Outros meios auxiliares de ensino.
