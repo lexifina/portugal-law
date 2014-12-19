@@ -1,0 +1,162 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "263",
+    "id": "38800",
+    "titulo": "Procede à vigésima primeira alteração ao Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro, à primeira alteração ao Decreto-Lei n.º 299/99, de 4 de agosto, e à quarta alteração ao Decreto-Lei n.º 317/94, de 24 de dezembro"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2014-12-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "34701",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-01-30",
+            "id": "99378",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-01-30",
+            "id": "99377",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-01-30",
+            "id": "99376",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2014-12-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2014-12-19",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-02-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e544a6d4e3245325a69316c4e7a68694c5451354f5445744f5456685a5330774f5749784e544e694f5455784e7a59756347526d&fich=d52f7a6f-e78b-4991-95ae-09b153b95176.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d4759304f5749325a4330795a4441354c5451784f474574596a526a597930784e7a51774d6a6b354f446b77597a45756347526d&fich=20f49b6d-2d09-418a-b4cc-1740299890c1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Dr. Paulo Saragoça da Matta - Mestre em Ciências Jurídico-Criminais pela Faculdade de Direito da Universidade de Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e7a45795a6a4d334d43316d4e6a4a6b4c54526c4d4459744f5445355969307a5a6a4d35597a466c4f474d784e7a51756347526d&fich=1712f370-f62d-4e06-919b-3f39c1e8c174.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Procuradoria-Geral da República",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f546b77596a426d4d5331684d4449324c5451775a6a67744f444e6d596930344f544131597a633459324e68593249756347526d&fich=8990b0f1-a026-40f8-83fb-8905c78ccacb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-01-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Protecção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d6a51794d7a413459533035593246684c5451354d7a55744f546378597930315a5752685a44526c5a6a6b305a444d756347526d&fich=4242308a-9caa-4935-971c-5edad4ef94d3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-25",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d7a646d596d466b4d6930795a5445334c54526c4d6a557459545a6d4d6930334f4464684e7a6c694e6d45334d6a51756347526d&fich=937fbad2-2e17-4e25-a6f2-787a79b6a724.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2015-01-28"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2015-01-21"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-02-25",
+            "numeroOficio": "213/XII/4.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-02-25",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68602",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "292",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2014-12-19",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "301451",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
