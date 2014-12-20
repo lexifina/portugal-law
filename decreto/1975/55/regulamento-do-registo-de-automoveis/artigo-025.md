@@ -12,6 +12,8 @@ c) Requerimento subscrito pelo vendedor, nos casos em que este seja entidade com
 
 d) Requerimento subscrito pelo vendedor, nos casos em que este seja entidade que, em virtude da sua actividade, proceda com carácter de regularidade à transmissão da propriedade de veículos, nos termos e com as limitações fixadas na portaria referida na alínea anterior.
 
+e) Requerimento subscrito pelo vendedor, na sequência do exercício do direito de compra no fim do contrato de locação financeira ou de aluguer de longa duração registado, acompanhado da fatura correspondente à venda respetiva ou de documento de quitação.
+
 2 - O registo de propriedade fundado em facto diverso do previsto no número anterior tem por base um dos seguintes documentos:
 
 a) Qualquer documento comprovativo de facto jurídico que importe o reconhecimento, a aquisição ou divisão do direito de propriedade do veículo;
@@ -25,3 +27,5 @@ c) Certidão extraída do processo de liquidação do imposto sobre as sucessõe
 4 - Se todos os herdeiros o requererem, o registo referido no número anterior pode ser efectuado apenas a favor de algum ou alguns deles.
 
 5 - No caso de dispensa do registo de propriedade adquirida por via de sucessão hereditária, o adquirente do veículo deve instruir o respectivo pedido de registo de propriedade com um dos documentos mencionados no n.º 3.
+
+6 - Para efeitos do disposto na alínea e) do n.º 1, na fatura ou no documento de quitação deve constar, para além da identificação do vendedor, o nome, a morada, o número de identificação fiscal do comprador, a matrícula do veículo e a data da venda.
