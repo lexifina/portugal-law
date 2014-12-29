@@ -1,0 +1,5 @@
+Aviso n.º 14468/2014
+Jorge Humberto Noé Gonçalves, Chefe de Divisão de Administração e Finanças, no uso dos poderes que me foram subdelegados pelo Exmo. Senhor Diretor de Departamento de Administração e Recursos Humanos, através do seu Despacho n.º 02/XI/DDARH/2014, de 17 de janeiro de 2014, e para os efeitos do disposto no artigo 56.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, torna público que, por deliberação da Assembleia Municipal da Moita, em sessão ordinária realizada em 21 de novembro de 2014 e no uso da competência atribuída na alínea g) do n.º 1 do artigo 25.º da mencionada lei, sob proposta apresentada pela Câmara Municipal da Moita, aprovada em reunião ordinária de 05 de novembro de 2014, foi aprovada a Alteração ao Regulamento de Taxas do Município da Moita.
+Torna-se ainda público que a referida Alteração se encontra disponível ao público através de edital afixado nos lugares públicos do costume, no edifício da sede do Município, no boletim municipal e no sítio da Internet da Câmara Municipal da Moita, em www.cm-moita.pt.
+26 de novembro de 2014. - O Chefe de Divisão de Administração e Finanças, Jorge Humberto Noé Gonçalves.
+308308627
