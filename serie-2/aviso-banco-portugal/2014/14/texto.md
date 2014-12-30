@@ -1,0 +1,25 @@
+Aviso do Banco de Portugal n.º 14/2014
+A taxa base a aplicar no apuramento do valor das contribuições periódicas para o Fundo de Resolução incide, nos termos do disposto no artigo 11.º do Decreto-Lei n.º 24/2013, de 19 de fevereiro, sobre o valor apurado de acordo com os critérios previstos no artigo 10.º do mesmo diploma legal, podendo ser ajustada em função do perfil de risco de cada instituição participante, tendo em consideração a sua situação de solvabilidade. Atualmente, o correspondente fator de ajustamento é calculado com recurso ao rácio médio de core tier 1.
+O Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, 26 de junho de 2013, veio estabelecer novas regras aplicáveis aos requisitos de fundos próprios a observar pelas instituições de crédito e empresas de investimento. De acordo com este Regulamento, os fundos próprios de uma instituição são agora constituídos pelos seus fundos próprios de nível 1 - que, por sua vez, consistem na soma dos fundos próprios principais de nível 1 («Common Equity Tier 1») e dos fundos próprios adicionais de nível 1 - e pelos seus fundos próprios de nível 2.
+Atendendo ao atual enquadramento normativo, relativo à adequação de fundos próprios, tornou-se necessário proceder à alteração do método de apuramento do fator de ajustamento utilizado no cálculo da contribuição periódica para o Fundo de Resolução e atualizar as referências para os elementos que, à luz daquele regulamento, compõem os fundos próprios de uma instituição.
+Para além da alteração do referencial utilizado para a determinação do fator de ajustamento, através da substituição da referência ao rácio Core Tier 1 pelo rácio de fundos próprios principais de nível 1 («Common Equity Tier 1»), afigura-se também necessário alterar o "valor central" usado no atual método de determinação do fator de ajustamento, de forma a mitigar o impacto da alteração no respetivo referencial.
+Assim, no uso da competência que lhe é conferida pelo artigo 17.º da sua Lei Orgânica e pelo artigo 12.º do Decreto-Lei n.º 24/2013, de 19 de fevereiro, o Banco de Portugal, ouvido o Fundo de Resolução e a Associação Portuguesa de Bancos, determina o seguinte:
+Artigo 1.º
+São alterados os n.os 1, 4, 5 e 6 do artigo 2.º do Aviso do Banco de Portugal n.º 1/2013, publicado no Diário da República, 2.ª série, de 26 de março de 2013, que passam a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - O valor da contribuição periódica para o Fundo de Resolução devida por cada instituição participante é determinado pela aplicação de uma taxa contributiva sobre os valores médios dos saldos mensais do passivo apurado e aprovado pelas instituições participantes, deduzido dos elementos do passivo que integram os fundos próprios e dos depósitos cobertos pelo Fundo de Garantia de Depósitos ou pelo Fundo de Garantia do Crédito Agrícola Mútuo, nos termos previstos no artigo 10.º do Decreto-Lei n.º 24/2013, de 19 de fevereiro.
+2 - [...].
+3 - [...].
+4 - Para cada instituição participante, o fator de ajustamento referido no n.º 2 é determinado com base na seguinte fórmula, cujo resultado é arredondado a duas casas decimais:
+Fator de ajustamento = (11,5/RMCET1)
+Em que RMCET1 é rácio médio de fundos próprios principais de nível 1 («Common Equity Tier 1») relevante para cada instituição participante, expresso em pontos percentuais, arredondado a uma casa decimal.
+5 - No caso das instituições integradas em grupo financeiro sujeito a supervisão em base consolidada pelo Banco de Portugal, o rácio médio de fundos próprios principais de nível 1 («Common Equity Tier 1») a considerar para efeitos do disposto no número anterior corresponde à média dos rácios de fundos próprios principais de nível 1 («Common Equity Tier 1») do grupo em que a instituição está integrada, calculados em base consolidada, nos termos da parte II do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, 26 de junho de 2013, com as derrogações previstas na parte X, e ainda de acordo com o Aviso do Banco de Portugal n.º 6/2013, com referência a 30 de junho e a 31 de dezembro do ano anterior àquele a que respeita a contribuição.
+6 - No caso das instituições não integradas em nenhum grupo financeiro sujeito a supervisão em base consolidada pelo Banco de Portugal, o rácio médio de fundos próprios principais de nível 1 («Common Equity Tier 1») a considerar para efeitos do disposto no n.º 4 é determinado pela média dos fundos próprios principais de nível 1 («Common Equity Tier 1»), calculados em base individual, nos termos da parte II do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, 26 de junho de 2013, com as derrogações aí previstas na parte X, e ainda de acordo com o Aviso do Banco de Portugal n.º 6/2013, com referência a 30 de junho e a 31 de dezembro do ano anterior àquele a que respeita a contribuição.
+7 - [...].
+8 - [...].
+9 - [...].»
+Artigo 2.º
+O presente Aviso entra em vigor na data da sua publicação.
+15 de dezembro de 2014. - O Governador, Carlos da Silva Costa.
+208321579
