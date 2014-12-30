@@ -1,0 +1,1 @@
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de Setembro de 2011. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 27 de Setembro de 2011. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 20 de Setembro de 2011.
