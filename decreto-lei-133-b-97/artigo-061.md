@@ -2,7 +2,7 @@
 
 ### Prova da deficiência
 
-1 - A prova da deficiência para atribuição da bonificação por deficiência do subsídio familiar a crianças e jovens e do subsídio mensal vitalício é efectuada:
+1 - A prova da deficiência para atribuição da bonificação por deficiência do subsídio familiar a crianças e jovens e do subsídio mensal vitalício é efetuada:
 
 a) No âmbito da segurança social:
 
@@ -10,6 +10,6 @@ i) Através de certificação por equipas multidisciplinares de avaliação méd
 
 ii) Por certificação emitida pelo serviço de verificação de incapacidades do centro regional que abrange a área de residência do interessado, tratando-se de subsídio mensal vitalício;
 
-b) No âmbito do regime de protecção social da função pública, através de certificação por equipas multidisciplinares de avaliação médico-pedagógica ou, não as havendo, por médico especialista na deficiência em causa, ou pelo médico assistente, se não for possível o recurso às primeiras modalidades referidas.
+b) No âmbito do regime de proteção social da função pública, através de certificação pela junta médica da Caixa Geral de Aposentações, I. P.
 
 2 - É dispensada a renovação anual da prova da deficiência sempre que esta, pelas suas características de amplitude e gravidade, seja considerada permanente.
