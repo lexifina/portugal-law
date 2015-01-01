@@ -14,14 +14,16 @@ b) Para as pessoas colectivas, o local da sede ou direcção efectiva ou, na fal
 
 4 - É ineficaz a mudança de domicílio enquanto não for comunicada à administração tributária.
 
-5 - Os sujeitos passivos residentes no estrangeiro, bem como os que, embora residentes no território nacional, se ausentem deste por período superior a seis meses, bem como as pessoas colectivas e outras entidades legalmente equiparadas que cessem a actividade, devem, para efeitos tributários, designar um representante com residência em território nacional.
+5 - Sempre que se altere o estatuto de residência de um sujeito passivo, este deve comunicar, no prazo de 60 dias, tal alteração à administração tributária.
 
-6 - Independentemente das sanções aplicáveis, depende da designação de representante nos termos do número anterior o exercício dos direitos dos sujeitos passivos nele referidos perante a administração tributária, incluindo os de reclamação, recurso ou impugnação.
+6 - Os sujeitos passivos residentes no estrangeiro, bem como os que, embora residentes no território nacional, se ausentem deste por período superior a seis meses, bem como as pessoas colectivas e outras entidades legalmente equiparadas que cessem a actividade, devem, para efeitos tributários, designar um representante com residência em território nacional.
 
-7 - O disposto no número anterior não é aplicável, sendo a designação de representante meramente facultativa, em relação a não residentes de, ou a residentes que se ausentem para, Estados membros da União Europeia ou do Espaço Económico Europeu, neste último caso desde que esse Estado membro esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.
+7 - Independentemente das sanções aplicáveis, depende da designação de representante nos termos do número anterior o exercício dos direitos dos sujeitos passivos nele referidos perante a administração tributária, incluindo os de reclamação, recurso ou impugnação.
 
-8 - A administração tributária poderá rectificar oficiosamente o domicílio fiscal dos sujeitos passivos se tal decorrer dos elementos ao seu dispor.
+8 - O disposto no número anterior não é aplicável, sendo a designação de representante meramente facultativa, em relação a não residentes de, ou a residentes que se ausentem para, Estados membros da União Europeia ou do Espaço Económico Europeu, neste último caso desde que esse Estado membro esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.
 
-9 - Os sujeitos passivos do imposto sobre o rendimento das pessoas coletivas com sede ou direção efetiva em território português e os estabelecimentos estáveis de sociedades e outras entidades não residentes, bem como os sujeitos passivos residentes enquadrados no regime normal do imposto sobre o valor acrescentado, são obrigados a possuir caixa postal eletrónica, nos termos do n.º 2, e a comunicá-la à administração tributária no prazo de 30 dias a contar da data do início de atividade ou da data do início do enquadramento no regime normal do imposto sobre o valor acrescentado, quando o mesmo ocorra por alteração.
+9 - A administração tributária poderá rectificar oficiosamente o domicílio fiscal dos sujeitos passivos se tal decorrer dos elementos ao seu dispor.
 
-10 - O Ministro das Finanças regula, por portaria, o regime de obrigatoriedade do domicílio fiscal electrónico dos sujeitos passivos não referidos no n.º 9.
+10 - Os sujeitos passivos do imposto sobre o rendimento das pessoas coletivas com sede ou direção efetiva em território português e os estabelecimentos estáveis de sociedades e outras entidades não residentes, bem como os sujeitos passivos residentes enquadrados no regime normal do imposto sobre o valor acrescentado, são obrigados a possuir caixa postal eletrónica, nos termos do n.º 2, e a comunicá-la à administração tributária no prazo de 30 dias a contar da data do início de atividade ou da data do início do enquadramento no regime normal do imposto sobre o valor acrescentado, quando o mesmo ocorra por alteração.
+
+11 - O Ministro das Finanças regula, por portaria, o regime de obrigatoriedade do domicílio fiscal electrónico dos sujeitos passivos não referidos no n.º 9.
