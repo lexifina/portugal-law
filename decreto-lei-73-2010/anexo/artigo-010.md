@@ -10,4 +10,6 @@
 
 4 - Em derrogação ao disposto no número anterior, a DIC pode ser processada com periodicidade mensal, até ao dia 5 do mês seguinte, para os produtos tributados à taxa 0 ou isentos, ou até ao 5.º dia útil do 2.º mês seguinte, para a eletricidade e para o gás natural.
 
-5 - Para efeitos do presente Código, considera-se estância aduaneira competente a alfândega ou delegação aduaneira em cuja jurisdição se situa o domicílio fiscal do operador económico ou o entreposto fiscal, consoante o caso, ou outro local sujeito a controlo aduaneiro.
+5 - Exclui-se do regime estabelecido no número anterior a DIC para os produtos que beneficiem da isenção prevista nas alíneas a) e b) do n.º 1 do artigo 6.º, que deve ser processada em conformidade com o previsto no n.º 3.
+
+6 - Para efeitos do presente Código, considera-se estância aduaneira competente a alfândega ou delegação aduaneira em cuja jurisdição se situa o domicílio fiscal do operador económico ou o entreposto fiscal, consoante o caso, ou outro local sujeito a controlo aduaneiro.

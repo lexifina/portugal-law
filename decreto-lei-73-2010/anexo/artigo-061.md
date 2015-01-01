@@ -26,6 +26,14 @@ c) Charutos, 200 unidades;
 
 d) Tabaco para fumar, 1 kg.
 
+e) Rapé, 250 g;
+
+f) Tabaco de mascar, 250 g;
+
+g) Tabaco aquecido, 20 g;
+
+h) Líquidos contendo nicotina, em recipientes utilizados para carga e recarga de cigarros eletrónicos, 30 ml.
+
 4 - Para efeitos de aplicação da alínea e) do n.º 2, presume-se que a detenção de bebidas alcoólicas tem fins comerciais quando forem ultrapassados os seguintes limites quantitativos:
 
 a) Bebidas espirituosas, 10 l;

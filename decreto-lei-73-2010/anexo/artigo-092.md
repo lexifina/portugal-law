@@ -16,7 +16,7 @@
 
 6 - A taxa aplicável aos produtos petrolíferos e energéticos classificados pelas posições NC 2701, 2702, 2704 e 2713 é fixada entre (euro) 4,16 e (euro) 35/1000 kg.
 
-7 - Sem prejuízo das isenções previstas no presente diploma, os produtos petrolíferos e energéticos sujeitos a imposto que não constam dos números anteriores, quando utilizados em uso carburante ou em uso combustível, são tributados com as seguintes taxas:
+7 - Sem prejuízo das isenções previstas no presente diploma, os produtos petrolíferos e energéticos sujeitos a imposto que não constem dos números anteriores, são tributados com as seguintes taxas:
 
 a) Com a taxa aplicável à gasolina sem chumbo, os produtos petrolíferos e energéticos classificados pelos códigos NC 2707 10 10, 2707 20 10, 2707 30 10, 2707 50 10, 2710 11 21 a 2710 11 31, 2901 10 00 a 2901 24 90, ex 2901 29 00, 2902 11 00, ex 2902 19 80, 2902 20 00 a 2902 44 00, 3811 11 10 e 3811 11 90;
 

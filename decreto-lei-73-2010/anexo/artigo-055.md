@@ -27,3 +27,5 @@ b) A outro Estado membro, com o acordo desse Estado.
 10 - No caso da circulação ocorrida integralmente no território nacional, estão ainda dispensados da prestação de garantia os organismos e entidades referidos no n.º 2 do artigo anterior, bem como os produtos tributados à taxa zero.
 
 11 - A responsabilidade do garante cessa quando for emitido o respectivo relatório de recepção ou, tratando-se de uma exportação, o relatório de exportação ou a certificação de saída.
+
+12 - Sem prejuízo do regime aplicável aos pequenos produtores de vinho, o montante mínimo de fixação da garantia prevista no n.º 5 é reduzido para metade para os expedidores de produtos tributados à taxa 0 e para expedidores de produtos intermédios.

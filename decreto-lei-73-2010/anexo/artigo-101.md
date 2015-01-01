@@ -16,6 +16,14 @@ c) Os tabacos de fumar, compreendendo o tabaco de corte fino destinado a cigarro
 
 d) O tabaco para cachimbo de água.
 
+e) O rapé;
+
+f) O tabaco de mascar;
+
+g) O tabaco aquecido;
+
+h) O líquido contendo nicotina, em recipientes utilizados para carga e recarga de cigarros eletrónicos.
+
 2 - Para efeitos de aplicação da alínea a) do número anterior, são considerados charutos e cigarrilhas, se puderem ser fumados tal como se apresentam e se, tendo em conta as suas características e as expectativas normais dos consumidores, se destinarem exclusivamente a sê-lo:
 
 a) (Revogada.)
@@ -50,4 +58,12 @@ d) As folhas de tabaco destinadas a venda ao público.
 
 6 - Para efeitos de aplicação da alínea d) do n.º 1, é considerado 'tabaco para cachimbo de água' o tabaco próprio para ser fumado exclusivamente num cachimbo de água e que consista numa mistura de tabaco e glicerol, podendo ainda conter óleos e extratos aromáticos, melaços ou açúcar e ser aromatizado com frutas.
 
-7 - São equiparados aos cigarros, aos tabacos de fumar e ao tabaco para cachimbo de água os produtos constituídos, total ou parcialmente, por substâncias que, não sendo tabaco, obedeçam aos outros critérios definidos nos n.os 4, 5 e 6, excetuando os produtos que tenham uma função exclusivamente medicinal.
+7 - Para efeitos de aplicação da alínea e) do n.º 1, é considerado rapé o tabaco em pó ou em grão, especialmente preparado para ser cheirado, mas não fumado.
+
+8 - Para efeitos de aplicação da alínea f) do n.º 1, é considerado tabaco para mascar o tabaco apresentado em rolos, barras, tiras, cubos ou placas, acondicionado para a venda ao público, especialmente preparado para ser mascado mas não fumado.
+
+9 - Para efeitos de aplicação da alínea g) do n.º 1, é considerado tabaco aquecido o produto de tabaco manufaturado especialmente preparado para emitir um vapor sem combustão da mistura de tabaco nele contida.
+
+10 - Para efeitos de aplicação da alínea h) do n.º 1, é considerado cigarro eletrónico o produto que pode ser utilizado para consumir vapor que contém nicotina, por meio de boquilha, ou qualquer componente desse produto, incluindo um cartucho, um reservatório e o dispositivo sem cartucho ou reservatório, podendo ser descartável ou recarregável através de uma recarga e de um reservatório, ou recarregado por cartucho não reutilizável.
+
+11 - São equiparados aos cigarros, aos tabacos de fumar, ao tabaco para cachimbo de água, ao rapé, ao tabaco de mascar e ao tabaco aquecido os produtos constituídos, total ou parcialmente, por substâncias que, não sendo tabaco, obedeçam aos outros critérios definidos nos n.os 4 a 9, excetuando os produtos que tenham uma função exclusivamente medicinal.

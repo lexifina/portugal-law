@@ -14,6 +14,4 @@ b) 'Passageiros que viajem para um país ou território terceiro', qualquer pass
 
 4 - Os produtos vendidos a bordo de aeronaves ou navios, durante um voo ou uma travessia marítima para um país ou território terceiro, são equiparados a produtos vendidos em lojas francas.
 
-5 - (revogado.)
-
-6 - Para efeitos da isenção prevista no n.º 1, tratando-se de travessia marítima, considera-se que constitui destino final um porto situado num país ou território terceiro em que ocorra a escala do navio, com a saída e permanência temporária dos passageiros nesse porto, ainda que posteriormente possam ocorrer escalas em portos situados no território aduaneiro da União Europeia.
+5 - A isenção prevista no n.º 1 apenas é aplicável nos termos e limites estabelecidos no regime de isenção do imposto sobre o valor acrescentado e dos impostos especiais de consumo na importação de mercadorias transportadas na bagagem dos viajantes provenientes de países ou territórios terceiros, aprovado pelo artigo 116.º da Lei n.º 64-A/2008, de 31 de dezembro.

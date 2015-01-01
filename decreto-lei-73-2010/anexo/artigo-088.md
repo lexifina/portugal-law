@@ -12,7 +12,7 @@ a) Os produtos petrolíferos e energéticos;
 
 b) Quaisquer outros produtos destinados a serem utilizados, colocados à venda ou a serem consumidos em uso como carburante;
 
-c) Os outros hidrocarbonetos, com excepção da turfa e do gás natural, destinados a serem utilizados, colocados à venda ou a serem consumidos em uso como combustível.
+c) Os outros hidrocarbonetos, com exceção da turfa, destinados a serem utilizados, colocados à venda ou a serem consumidos em uso como combustível;
 
 d) A electricidade abrangida pelo código NC 2716.
 
@@ -26,7 +26,7 @@ c) Os produtos abrangidos pelos códigos NC 2901 e 2902;
 
 d) Os produtos abrangidos pelos códigos NC 2905 11 00, que não sejam de origem sintética, quando destinados a serem utilizados como carburante ou combustível;
 
-e) Os produtos abrangidos pelo código NC 3403;
+e) Os produtos abrangidos pelos códigos NC 3403 11 e 3403 19;
 
 f) Os produtos abrangidos pelo código NC 3811;
 

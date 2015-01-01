@@ -18,17 +18,17 @@ f) A cessação ou violação dos pressupostos de um benefício fiscal;
 
 g) O fornecimento de electricidade ao consumidor final, o autoconsumo e a aquisição de electricidade por consumidores finais em mercados organizados.
 
-h) O fornecimento de gás natural ao consumidor final.
+h) O fornecimento de gás natural ao consumidor final, incluindo a aquisição de gás natural diretamente por consumidores finais em mercados organizados, bem como a importação e a receção de gás natural de outro Estado membro diretamente por consumidores finais.
 
 2 - O momento da introdução no consumo corresponde:
 
-a) No caso de produtos que circulem, em regime de suspensão do imposto, de um entreposto fiscal com destino a um destinatário registado, ao momento da recepção desses produtos pelo referido destinatário;
+a) No caso de produtos que circulem, em regime de suspensão do imposto, de um entreposto fiscal com destino a um destinatário registado, ao momento da entrega do relatório de receção desses produtos pelo referido destinatário;
 
 b) No caso de produtos que circulem, em regime de suspensão do imposto, para um dos destinatários mencionados nas alíneas a) a d) do n.º 1 do artigo 6.º, ao momento da recepção desses produtos pelos referidos destinatários;
 
 c) Na situação referida na alínea f) do número anterior, ao momento da cessação ou da violação dos pressupostos do benefício fiscal;
 
-d) Na situação referida no n.º 4 do artigo 35.º, ao momento da recepção dos produtos no local de entrega directa.
+d) Na situação referida no n.º 4 do artigo 35.º, ao momento da entrega do relatório de receção desses produtos pelo depositário autorizado ou pelo destinatário registado.
 
 3 - No caso de não ser possível determinar, com exactidão, o momento em que ocorreu a introdução no consumo, o momento a considerar para efeitos de exigibilidade do imposto é o da constatação dessa introdução pela autoridade aduaneira.
 

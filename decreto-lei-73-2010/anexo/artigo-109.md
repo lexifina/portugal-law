@@ -2,7 +2,21 @@
 
 ### Dizeres das embalagens
 
-1 - O tabaco destinado ao consumo no continente e nas Regiões Autónomas deve conter impressos, em local bem visível das respectivas embalagens, o nome da empresa fabricante, a marca, o preço de venda ao público no território de consumo, a mensagem com o aviso de saúde, o número de unidades ou o peso líquido, no caso dos tabacos de fumar e a indicação, nos maços de cigarros, dos teores de condensado e nicotina e respectiva classificação, para além de outras obrigações impostas por lei especial.
+1 - Sem prejuízo de outras obrigações impostas por lei especial, o tabaco destinado ao consumo no continente e nas regiões autónomas deve conter impresso, em local bem visível das respetivas embalagens:
+
+a) O nome da empresa fabricante;
+
+b) A designação da marca;
+
+c) O preço de venda ao público no território de consumo;
+
+d) O número de unidades, ou o peso líquido no caso dos tabacos de fumar, do tabaco para cachimbo de água, do rapé, do tabaco de mascar e do tabaco aquecido, ou o volume de líquido no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
+
+e) Os teores de condensado e nicotina no caso dos maços de cigarros e os teores de nicotina no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
+
+f) A designação do tipo de produto;
+
+g) A mensagem com o aviso de saúde, nos termos da legislação aplicável.
 
 2 - Nas embalagens destinadas a exportação ou a provisões de bordo é dispensada a indicação do preço de venda ao público, devendo constar nessas embalagens, em local perfeitamente visível, a referência «exportação», salvo nas situações devidamente fundamentadas e autorizadas pelo director da alfândega.
 

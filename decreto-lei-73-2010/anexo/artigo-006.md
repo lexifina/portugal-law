@@ -16,7 +16,7 @@ e) A ser expedidos ou exportados;
 
 f) A ser consumidos como abastecimentos, sem prejuízo dos limites e condições fixados no n.º 3 para as provisões de bordo.
 
-2 - As Forças Armadas e organismos referidos no número anterior estão autorizados a receber produtos sujeitos a impostos especiais de consumo provenientes de outros Estados membros, em regime de suspensão do imposto, a coberto do documento administrativo electrónico previsto no artigo 36.º, desde que os produtos sejam acompanhados pelo certificado de isenção previsto no Regulamento (CE) n.º 31/96, da Comissão, de 10 de Janeiro.
+2 - As Forças Armadas e organismos referidos no número anterior estão autorizados a receber produtos sujeitos a impostos especiais de consumo provenientes de outros Estados membros, em regime de suspensão do imposto, a coberto do documento administrativo eletrónico previsto no artigo 36.º, desde que os produtos sejam acompanhados pelo certificado de isenção previsto no anexo ii ao Regulamento de Execução (UE) n.º 282/2011, do Conselho, de 15 de março.
 
 3 - A isenção estabelecida na alínea f) do n.º 1 depende da verificação cumulativa das seguintes condições:
 

@@ -6,4 +6,4 @@
 
 2 - As quantidades de gás natural a declarar para introdução no consumo são as quantidades faturadas aos clientes consumidores finais.
 
-3 - Para efeitos da declaração prevista no número anterior, a conversão das quantidades faturadas para a unidade tributável é efetuada nos termos previstos no n.º 3 do artigo 91.º.
+3 - (Revogado).
