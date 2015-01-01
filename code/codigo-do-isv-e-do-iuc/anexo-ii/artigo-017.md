@@ -9,3 +9,5 @@
 3 - Na reactivação de matrícula cancelada o imposto deve ser liquidado no prazo de 30 dias a contar da data da reactivação.
 
 4 - Nas situações previstas no n.º 4 do artigo 6.º, o imposto deve ser liquidado no prazo de 30 dias a contar da alteração.
+
+5 - Nas situações a que se refere o n.º 2 do artigo 6.º, o imposto deve ser liquidado no prazo de 30 dias a contar do termo do período nele previsto.

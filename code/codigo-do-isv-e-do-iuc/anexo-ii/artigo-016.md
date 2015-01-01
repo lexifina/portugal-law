@@ -8,9 +8,9 @@
 
 1 - A competência para a liquidação do imposto é da Autoridade Tributária e Aduaneira, considerando-se, para todos os efeitos legais, o ato tributário praticado no serviço de finanças da residência ou sede do sujeito passivo.
 
-2 - A liquidação do imposto é feita pelo próprio sujeito passivo através da Internet, nas condições de registo e acesso às declarações electrónicas, sendo obrigatória para as pessoas colectivas.
+2 - A liquidação do imposto é feita pelo próprio sujeito passivo através da Internet, nas condições de registo e acesso às declarações eletrónicas.
 
-3 - A liquidação do imposto pode ainda ser feita por qualquer serviço de finanças, em atendimento ao público, sempre que o sujeito passivo o solicite ou quando se verifiquem as seguintes circunstâncias:
+3 - A liquidação do imposto pode ainda ser feita em qualquer serviço de finanças, por solicitação do sujeito passivo que não esteja abrangido pela obrigação prevista no n.º 9 do artigo 19.º da lei geral tributária, ou quando se verifique alguma das seguintes circunstâncias:
 
 a) Os veículos tributáveis não se encontrem matriculados no território nacional;
 
