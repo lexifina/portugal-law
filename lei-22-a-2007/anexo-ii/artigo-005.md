@@ -14,6 +14,14 @@ d) Veículos não motorizados, exclusivamente eléctricos ou movidos a energias 
 
 e) Automóveis ligeiros de passageiros que se destinem ao serviço de aluguer com condutor (letra «T»), bem como ao transporte em táxi.
 
+f) Veículos apreendidos no âmbito de um processo-crime, enquanto durar a apreensão;
+
+g) Veículos considerados abandonados nos termos do Código da Estrada a partir do momento em que sejam adquiridos por ocupação pelo Estado ou pelas autarquias locais;
+
+h) Veículos declarados perdidos a favor do Estado;
+
+i) Veículos utilizados pelas equipas de sapadores florestais que integrem o Sistema de Defesa da Floresta contra Incêndios.
+
 2 - Estão ainda isentos de imposto, os seguintes sujeitos passivos:
 
 a) Pessoas com deficiência cujo grau de incapacidade seja igual ou superior a 60 % em relação a veículos das categorias A, B e E e nas condições previstas nos n.os 5 e 6;
@@ -39,3 +47,5 @@ b) Através da Internet, se a informação relativa à incapacidade estiver conf
 a) Os veículos da categoria D, quando autorizados ou licenciados para o transporte de grandes objectos;
 
 b) Os veículos das categorias C e D que efectuem transporte exclusivamente na área territorial de uma região autónoma.
+
+9 - Estão isentos os veículos que, embora permaneçam em território nacional por um período superior a 183 dias, se encontrem matriculados em série normal de outro Estado membro e preencham os requisitos exigíveis para beneficiar do regime de admissão temporária previsto no artigo 34.º do Código do Imposto sobre Veículos para missões, estágios, estudos e trabalho transfronteiriço.

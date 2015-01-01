@@ -2,7 +2,7 @@
 
 ### Táxis e veículos afectos à actividade de aluguer
 
-1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respectivos documentos, e não tenham níveis de emissão de CO(índice 2) superiores a 175 g/km, confirmados pelo respectivo certificado de conformidade, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
+1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respetivos documentos, e não tenham níveis de emissão de CO(índice 2) superiores a 160 g/km, confirmados pelo respetivo certificado de conformidade, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
 
 2 - Os veículos referidos no número anterior que se encontrem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás de petróleo liquefeito, gás natural ou de energia eléctrica, ou com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia eléctrica ou solar quer de gasolina ou gasóleo, ficam integralmente isentos de imposto.
 

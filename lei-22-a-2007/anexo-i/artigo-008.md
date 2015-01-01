@@ -2,13 +2,15 @@
 
 ### Taxas intermédias - automóveis
 
-1 - É aplicável uma taxa intermédia, correspondente a 50% do imposto resultante da aplicação da tabela A a que se refere o n.º 1 do artigo anterior, aos seguintes veículos:
+1 - É aplicável uma taxa intermédia, correspondente às percentagens a seguir indicadas do imposto resultante da aplicação da tabela A constante do n.º 1 do artigo anterior, aos seguintes veículos:
 
-a) Automóveis ligeiros de utilização mista, com peso bruto superior a 2500 kg, lotação mínima de sete lugares, incluindo o do condutor e que não apresentem tracção às quatro rodas, permanente ou adaptável;
+a) 60 %, aos automóveis ligeiros de passageiros que se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia elétrica ou solar quer de gasolina ou de gasóleo;
 
-b) Automóveis ligeiros de passageiros que utilizem exclusivamente como combustível gases de petróleo liquefeito (GPL) ou gás natural;
+b) 50 %, aos automóveis ligeiros de utilização mista, com peso bruto superior a 2500 kg, lotação mínima de sete lugares, incluindo o do condutor, e que não apresentem tração às quatro rodas, permanente ou adaptável;
 
-c) Automóveis ligeiros de passageiros que se apresentem equipados com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia eléctrica ou solar quer de gasolina ou de gasóleo.
+c) 40 %, aos automóveis ligeiros de passageiros que utilizem exclusivamente como combustível gases de petróleo liquefeito (GPL) ou gás natural;
+
+d) 25 %, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 25 quilómetros.
 
 2 - É aplicável uma taxa intermédia, correspondente a 95 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos veículos fabricados antes de 1970, aos quais, independentemente da sua proveniência ou origem, é aplicável a tabela D a que se refere o n.º 1 do artigo 11.º
 

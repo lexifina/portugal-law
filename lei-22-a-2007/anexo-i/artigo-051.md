@@ -20,6 +20,8 @@ c) Os veículos declarados perdidos ou abandonados a favor do Estado ou adquirid
 
 d) Os veículos automóveis, com lotação igual ou superior a sete lugares, incluindo o do condutor, adquiridos pelos municípios e freguesias, mesmo que em sistema de leasing, para transporte de crianças em idade escolar do ensino básico.
 
+e) Os veículos adquiridos para o exercício de funções operacionais das equipas de sapadores florestais pelo Instituto da Conservação da Natureza e das Florestas, I. P.
+
 2 - O reconhecimento da isenção prevista no número anterior depende de pedido dirigido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, anterior ou concomitante à apresentação do pedido de introdução no consumo, instruído com os seguintes documentos:
 
 a) Declaração emitida pela Autoridade Nacional de Protecção Civil da qual conste o reconhecimento da entidade requerente e as características técnicas dos veículos, nos casos previstos na alínea a) do número anterior;
@@ -30,4 +32,6 @@ c) Cópia da sentença ou decisão que determinou a perda ou abandono da viatura
 
 d) Declaração emitida pelo serviço competente do município ou freguesia acompanhada de factura pró-forma identificativa da marca, modelo e versão do veículo a adquirir, no caso referido na alínea d) do número anterior.
 
-3 - Os veículos referidos nas alíneas a) e d) do n.º 1 devem ostentar dizeres identificadores da entidade beneficiária, inscritos de forma permanente nas partes laterais e posterior, em dimensão não inferior à da matrícula, considerando-se de outro modo haver introdução ilegal no consumo.
+e) Declaração emitida pelo Instituto da Conservação da Natureza e das Florestas, I. P. da qual constem as características técnicas dos veículos, no caso referido na alínea e) do número anterior.
+
+3 - Os veículos referidos nas alíneas a), d) e e) do n.º 1 devem ostentar dizeres identificadores da entidade beneficiária, inscritos de forma permanente nas partes laterais e posterior, em dimensão não inferior à da matrícula, considerando-se de outro modo haver introdução ilegal no consumo.
