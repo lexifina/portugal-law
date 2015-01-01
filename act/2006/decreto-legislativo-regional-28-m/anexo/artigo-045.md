@@ -12,6 +12,12 @@ c) Elaborar a conta de gerência do FET-M;
 
 d) Decidir sobre o montante das verbas anuais destinadas ao pagamento dos suplementos e ao financiamento de obras sociais.
 
+e) Decidir sobre a atribuição e montante das verbas referidas na alínea c) do artigo 40.º do presente diploma, a submeter a autorização do secretário regional da tutela;
+
+f) Elaborar e aprovar todos os atos e procedimentos necessários de contratação de serviços para a realização de estudos de viabilidade económica e financeira, prévios ao financiamento de obras sociais cujo montante investido seja de elevado valor;
+
+g) As competências necessárias que decorram das incumbências atribuídas ao conselho de administração do FET-M e referidas no artigo 4.º-A do presente diploma.
+
 2 - O conselho de administração pode contratar apólices de seguro de responsabilidade civil profissional para cobertura de risco inerente ao desempenho das funções a que se refere o n.º 7 do artigo 49.º do presente diploma, tendo por base listagens elaboradas e periodicamente actualizadas pela DRAF dos trabalhadores que devam ser objecto do seguro.
 
 3 - O conselho de administração pode delegar em algum ou alguns dos seus membros o desempenho permanente de actividades que tenham a ver com a gestão ou o funcionamento do FET-M.
