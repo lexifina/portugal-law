@@ -2,7 +2,7 @@
 
 ### (Pagamento de quotas em dívida)
 
-1 - O pagamento previsto no artigo 13.º poderá ser feito por uma só vez ou em prestações mensais, sem acréscimos de novos juros, por meio de descontos em folha até ao máximo de 60 prestações, sendo de 500$00 o mínimo de cada prestação.
+1 - O pagamento previsto no artigo 13.º poderá ser feito por uma só vez ou em prestações mensais, sem acréscimos de novos juros, por meio de descontos em folha até ao máximo de 60 prestações, sendo de € 50 o mínimo de cada prestação.
 
 2. Se o pagamento referido no número anterior implicar o desconto, em cada mês, de importância superior à da quota do subscritor, é permitido um número maior de prestações, desde que estas sejam, pelo menos, de montante igual ao da mesma quota.
 
