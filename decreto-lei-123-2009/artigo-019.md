@@ -4,7 +4,7 @@
 
 1 - A remuneração pelo acesso e utilização das infra-estruturas detidas pelas entidades referidas no artigo 2.º deve ser orientada para os custos, atendendo aos custos decorrentes da construção, manutenção, reparação e melhoramento das infra-estruturas em questão.
 
-2 - O disposto no número anterior não se aplica à remuneração pelo acesso e utilização das ITUR públicas, a qual se rege pelo disposto no artigo 34.º
+2 - (Revogado.)
 
 3 - A pedido das empresas de comunicações eletrónicas, ou de qualquer das entidades referidas no artigo 2.º, o ICP-ANACOM deve avaliar e decidir, num caso concreto, sobre a adequação do valor da remuneração solicitada face à regra estabelecida no n.º 1, nos termos do artigo 10.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro.
 
