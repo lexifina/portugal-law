@@ -6,7 +6,7 @@
 
 a) Pela assinatura de dois membros do conselho de administração, sendo uma delas a do presidente ou de quem o substitua;
 
-b) Pela assinatura de um administrador, quando haja delegação expressa do conselho para a prática de um determinado acto;
+b) Pela assinatura de um administrador, quando haja delegação expressa do conselho de administração para a prática de um determinado ato;
 
 c) Pela assinatura de mandatário constituído, no âmbito do correspondente mandato.
 

@@ -1,6 +1,6 @@
 ## Capítulo IV
 
-## Disposições finais
+## Regime financeiro e patrimonial
 
 # Artigo 17.º
 
