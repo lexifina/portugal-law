@@ -18,6 +18,6 @@ d) O cumprimento da duração do trabalho deve ser aferido à semana, à quinzen
 
 4 - Relativamente aos trabalhadores com deficiência, o excesso ou débito de horas apurado no final de cada um dos períodos de aferição pode ser transportado para o período imediatamente seguinte e nele compensado, desde que não ultrapasse o limite de cinco e 10 horas, respetivamente, para a quinzena e para o mês.
 
-5 - Para efeitos do disposto no n.º 3, a duração média do trabalho é de sete horas e, nos serviços com funcionamento ao sábado de manhã, a que resultar do respetivo regulamento.
+5 - Para efeitos do disposto no n.º 3, a duração média do trabalho é de oito horas e, nos serviços com funcionamento ao sábado de manhã, a que resultar do respetivo regulamento.
 
 6 - As faltas a que se refere o n.º 3 são reportadas ao último dia ou dias do período de aferição a que o débito respeita.

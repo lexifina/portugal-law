@@ -8,7 +8,7 @@
 
 3 - Considera-se período de atendimento o intervalo de tempo diário durante o qual os órgãos ou serviços estão abertos para atender o público, podendo este período ser igual ou inferior ao período de funcionamento.
 
-4 - O período de atendimento deve, tendencialmente, ter a duração mínima de sete horas diárias e abranger os períodos da manhã e da tarde, devendo ser obrigatoriamente afixadas, de modo visível ao público, nos locais de atendimento, as horas do seu início e do seu termo.
+4 - O período de atendimento deve, tendencialmente, ter a duração mínima de oito horas diárias e abranger os períodos da manhã e da tarde, devendo ser obrigatoriamente afixadas, de modo visível ao público, nos locais de atendimento, as horas do seu início e do seu termo.
 
 5 - Na definição e fixação do período de atendimento deve atender-se aos interesses dos utentes dos serviços e respeitar-se os direitos dos trabalhadores dos serviços.
 

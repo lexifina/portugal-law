@@ -2,7 +2,7 @@
 
 ### Publicação
 
-1 - O ministério responsável pela área da Administração Pública procede, em articulação com o ministério responsável pela área laboral, à publicação no Boletim do Trabalho e Emprego:
+1 - O ministério responsável pela área da Administração Pública procede à publicação na 2.ª série do Diário da República:
 
 a) Dos estatutos da comissão de trabalhadores e da comissão coordenadora, ou das suas alterações;
 

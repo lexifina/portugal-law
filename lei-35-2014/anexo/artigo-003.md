@@ -22,10 +22,8 @@ h) Os artigos 144.º a 146.º, sobre princípios gerais relativos às remuneraç
 
 i) Os artigos 176.º a 240.º, sobre o exercício do poder disciplinar;
 
-j) (Revogada.)
+j) Os artigos 245.º a 275.º, relativos à reafetação e requalificação dos trabalhadores;
 
 k) Os artigos 288.º a 313.º, relativos à extinção do vínculo;
 
 l) Os artigos 347.º a 386.º, sobre a negociação coletiva.
-
-m) As constantes do regime de valorização profissional dos trabalhadores.

@@ -8,4 +8,4 @@
 
 3 - O disposto no número anterior tem como limite a posição remuneratória máxima para a qual tenham alterado o seu posicionamento os trabalhadores que, no âmbito do mesmo universo, se encontrem ordenados superiormente.
 
-4 - As alterações do posicionamento remuneratório previstas no presente artigo são fundamentadas e tornadas públicas, com o teor integral da respetiva fundamentação e do parecer do Conselho Coordenador da Avaliação ou do órgão com competência equiparada, por publicação na 2.ª série do Diário da República, por afixação no órgão ou serviço e por divulgação em página eletrónica, sendo ainda aplicável o disposto no n.º 9 do artigo anterior.
+4 - As alterações do posicionamento remuneratório previstas no presente artigo são fundamentadas e tornadas públicas, com o teor integral da respetiva fundamentação e do parecer do Conselho Coordenador da Avaliação ou do órgão com competência equiparada, por publicação na 2.ª série do Diário da República, por afixação no órgão ou serviço e por divulgação em página eletrónica, sendo ainda aplicável o disposto no n.º 8 do artigo anterior.

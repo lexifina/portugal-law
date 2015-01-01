@@ -10,6 +10,4 @@
 
 4 - Não se verificando a hipótese prevista no número anterior, pode o trabalhador ser remunerado nos termos do n.º 1.
 
-5 - Do disposto nos números anteriores não pode resultar uma posição remuneratória inferior à que resultaria da aplicação das regras mínimas de posicionamento remuneratório resultante de procedimento concursal para ingresso na carreira ou categoria para as quais se opera a mobilidade.
-
-6 - Exceto em caso de acordo em sentido diferente entre os órgãos ou serviços, o trabalhador em mobilidade interna é remunerado pelo órgão ou serviço de destino.
+5 - Exceto em caso de acordo em sentido diferente entre os órgãos ou serviços, o trabalhador em mobilidade interna é remunerado pelo órgão ou serviço de destino.

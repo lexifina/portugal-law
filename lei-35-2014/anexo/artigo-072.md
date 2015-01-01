@@ -24,10 +24,4 @@ i) Explorar, com fins lucrativos, quaisquer cantinas, refeitórios, economatos o
 
 j) Fazer cessar o vínculo e readmitir o trabalhador, mesmo com o seu acordo, havendo o propósito de o prejudicar em direitos ou garantias decorrentes da antiguidade.
 
-2 - Os trabalhadores têm o direito de frequentar ações de formação e aperfeiçoamento para o seu desenvolvimento profissional, incluindo as necessárias à renovação dos títulos profissionais obrigatórios para o desempenho das funções integradas no conteúdo funcional das respetivas carreiras.
-
-3 - Consideram-se incluídos no disposto do número anterior:
-
-a) O reembolso das despesas com formação obrigatória sempre que esta não seja diretamente assegurada pelo empregador público;
-
-b) Os encargos com a obtenção do título habilitante, quando posterior à constituição da relação jurídica de emprego público e suceda por causa ou no interesse da mesma.
+2 - Os trabalhadores têm o direito de frequentar ações de formação e aperfeiçoamento necessárias ao seu desenvolvimento profissional.

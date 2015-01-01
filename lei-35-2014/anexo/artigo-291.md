@@ -16,4 +16,4 @@ a) Com a verificação do seu termo;
 
 b) Em caso de impossibilidade superveniente, absoluta e definitiva de o trabalhador prestar o seu trabalho;
 
-c) Com a reforma ou aposentação do trabalhador, por velhice ou invalidez, ou quando o trabalhador completar 70 anos de idade, sem prejuízo do disposto no artigo 294.º-A.
+c) Com a reforma ou aposentação do trabalhador, por velhice ou invalidez, ou, em qualquer caso, quando o trabalhador completar 70 anos de idade.

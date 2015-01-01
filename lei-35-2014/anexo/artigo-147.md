@@ -10,6 +10,6 @@
 
 2 - O número de níveis remuneratórios e o montante pecuniário correspondente a cada um é fixado em portaria do Primeiro-Ministro e do membro do Governo responsável pela área das finanças.
 
-3 - A alteração do montante pecuniário correspondente a cada nível remuneratório deve tendencialmente manter a proporcionalidade relativa entre cada um dos níveis.
+3 - A alteração do montante pecuniário correspondente a cada nível remuneratório deve manter a proporcionalidade relativa entre cada um dos níveis.
 
 4 - Não é necessário observar a proporcionalidade prevista no número anterior entre o primeiro nível remuneratório e o nível subsequente, sempre que aquele seja fixado por referência à retribuição mínima mensal garantida (RMMG).

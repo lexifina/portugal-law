@@ -16,7 +16,7 @@ b) A perda de 10 % da remuneração diária, a partir do quarto dia e até ao tr
 
 5 - A falta por motivo de doença nas situações a que se refere a alínea a) do n.º 2 não implica a perda da remuneração base diária nos casos de internamento hospitalar, faltas por motivo de cirurgia ambulatória, doença por tuberculose e doença com início no decurso do período de atribuição do subsídio parental que ultrapasse o termo deste período.
 
-6 - (Revogado.)
+6 - As faltas por doença descontam na antiguidade para efeitos de carreira quando ultrapassem 30 dias seguidos ou interpolados em cada ano civil.
 
 7 - O disposto nos n.os 2 a 6 não se aplica às faltas por doença dadas por pessoas com deficiência, quando decorrentes da própria deficiência.
 

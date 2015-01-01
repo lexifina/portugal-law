@@ -8,14 +8,14 @@
 
 a) Serviços de regime de funcionamento comum que encerram ao sábado:
 
-Período da manhã - das 9 horas às 12 horas e 30 minutos;
+Período da manhã - das 9 horas às 13 horas;
 
-Período da tarde - das 14 horas às 17 horas e 30 minutos.
+Período da tarde - das 14 horas às 18 horas.
 
 b) Serviços de regime de funcionamento especial que funcionam ao sábado de manhã:
 
-Período da manhã - das 9 horas e 30 minutos às 12 horas e 30 minutos, de segunda-feira a sexta-feira, e até às 12 horas, aos sábados;
+Período da manhã - das 9 horas e 30 minutos às 13 horas, de segunda-feira a sexta-feira, e até às 12 horas, aos sábados;
 
-Período da tarde - das 14 horas às 17 horas e 30 minutos, de segunda-feira a sexta-feira.
+Período da tarde - das 14 horas às 18 horas, de segunda-feira a sexta-feira.
 
 3 - A adoção do horário rígido não prejudica a possibilidade de fixação, para os trabalhadores com deficiência, pelo respetivo dirigente máximo e a pedido do interessado, de mais do que um intervalo de descanso e com duração diferente da prevista no regime geral, mas sem exceder no total os limites neste estabelecidos.

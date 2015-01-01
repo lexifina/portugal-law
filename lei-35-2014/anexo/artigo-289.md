@@ -14,7 +14,7 @@ d) Extinção pelo trabalhador com aviso prévio;
 
 e) Extinção pelo trabalhador com justa causa.
 
-2 - (Revogado.)
+2 - É causa específica de cessação do contrato de trabalho em funções públicas a extinção do vínculo na sequência de processo de requalificação de trabalhadores em caso de reorganização de serviços ou racionalização de efetivos na Administração Pública em conformidade com o disposto no n.º 2 do artigo 245.º
 
 3 - É causa específica de cessação da comissão de serviço a denúncia pelo trabalhador ou pelo empregador.
 

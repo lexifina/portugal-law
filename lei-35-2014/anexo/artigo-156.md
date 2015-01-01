@@ -10,13 +10,11 @@
 
 2 - São elegíveis para beneficiar de alteração do posicionamento remuneratório os trabalhadores do órgão ou serviço, onde quer que se encontrem em exercício de funções, que, na falta de lei especial em contrário, tenham obtido, nas últimas avaliações do seu desempenho referido às funções exercidas durante o posicionamento remuneratório em que se encontram:
 
-a) Duas menções máximas consecutivas;
+a) Uma menção máxima;
 
-b) Três menções consecutivas imediatamente inferiores às máximas;
+b) Duas menções consecutivas imediatamente inferiores às máximas; ou
 
-c) Quatro menções consecutivas imediatamente inferiores às referidas na alínea anterior; ou
-
-d) Cinco menções consecutivas imediatamente inferiores às referidas na alínea anterior, desde que consubstanciem desempenho positivo.
+c) Três menções consecutivas imediatamente inferiores às referidas na alínea anterior, desde que consubstanciem desempenho positivo.
 
 3 - Os trabalhadores a que se refere o número anterior são ordenados, dentro de cada universo, por ordem decrescente da classificação quantitativa obtida na última avaliação do seu desempenho.
 
@@ -24,20 +22,16 @@ d) Cinco menções consecutivas imediatamente inferiores às referidas na alíne
 
 5 - Não há lugar a alteração do posicionamento remuneratório quando, não obstante reunidos os requisitos previstos no n.º 2, o montante máximo dos encargos fixado para o universo em causa se tenha previsivelmente esgotado, no quadro da execução orçamental em curso, com a alteração relativa a trabalhador ordenado superiormente.
 
-6 - Para efeitos do disposto nas alíneas b), c) e d) do n.º 2, são também consideradas as menções obtidas que sejam superiores às nelas referidas.
+6 - Para efeitos do disposto nas alíneas b) e c) do n.º 2, são também consideradas as menções obtidas que sejam superiores às nelas referidas.
 
-7 - Há lugar a alteração obrigatória para a posição remuneratória imediatamente seguinte àquela em que o trabalhador se encontra, quando a haja, independentemente dos universos definidos nos termos do artigo 158.º, quando aquele, na falta de lei especial em contrário, tenha acumulado 8 pontos nas avaliações do desempenho referido às funções exercidas durante o posicionamento remuneratório em que se encontra, contados nos seguintes termos:
+7 - Há lugar a alteração obrigatória para a posição remuneratória imediatamente seguinte àquela em que o trabalhador se encontra, quando a haja, independentemente dos universos definidos nos termos do artigo 158.º, quando aquele, na falta de lei especial em contrário, tenha acumulado 10 pontos nas avaliações do desempenho referido às funções exercidas durante o posicionamento remuneratório em que se encontra, contados nos seguintes termos:
 
-a) Três pontos por cada menção máxima;
+a) Seis pontos por cada menção máxima;
 
-b) Dois pontos por cada menção imediatamente inferior à máxima;
+b) Quatro pontos por cada menção imediatamente inferior à máxima;
 
-c) Um ponto e meio por cada menção imediatamente inferior à referida na alínea anterior;
+c) Dois pontos por cada menção imediatamente inferior à referida na alínea anterior, desde que consubstancie desempenho positivo;
 
-d) Um ponto por cada menção imediatamente inferior à referida na alínea anterior, desde que consubstancie desempenho positivo;
+d) Dois pontos negativos por cada menção correspondente ao mais baixo nível de avaliação.
 
-e) Zero pontos por cada menção correspondente ao mais baixo nível de avaliação.
-
-8 - Para efeito do disposto no número anterior, quando os trabalhadores tenham acumulado mais do que os pontos legalmente exigidos para a alteração da posição remuneratória, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.
-
-9 - Na falta de lei especial em contrário, a alteração do posicionamento remuneratório reporta-se a 1 de janeiro do ano em que tiver lugar.
+8 - Na falta de lei especial em contrário, a alteração do posicionamento remuneratório reporta-se a 1 de janeiro do ano em que tiver lugar.
