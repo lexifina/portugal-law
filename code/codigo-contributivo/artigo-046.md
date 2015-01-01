@@ -1,4 +1,4 @@
-# Artigo 46.º
+# Artigo 46
 
 ### Delimitação da base de incidência contributiva
 
@@ -54,7 +54,9 @@ z) As importâncias auferidas pela utilização de automóvel próprio em servi�
 
 aa) As prestações relacionadas com o desempenho obtido pela empresa quando, quer no respectivo título atributivo quer pela sua atribuição regular e permanente, revistam carácter estável independentemente da variabilidade do seu montante.
 
-3 - As prestações a que se referem as alíneas l), q), u), v) e z) do número anterior estão sujeitas a incidência contributiva, nos mesmos termos previstos no Código do Imposto sobre o Rendimento das Pessoas Singulares.
+bb) O valor mensal atribuído pela entidade patronal ao trabalhador em 'vales de transportes públicos coletivos'.
+
+3 - As prestações a que se referem as alíneas l), q), u), v), z) e bb) do número anterior estão sujeitas a incidência contributiva, nos mesmos termos previstos no Código do Imposto sobre o Rendimento das Pessoas Singulares.
 
 4 - Para as prestações a que se referem as alíneas p), q), v) e z) do número anterior, o limite previsto no Código do Imposto sobre o Rendimento das Pessoas Singulares pode ser acrescido até 50 %, desde que o acréscimo resulte de aplicação, de forma geral por parte da entidade empregadora, de instrumento de regulação colectiva de trabalho.
 

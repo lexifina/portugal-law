@@ -8,6 +8,6 @@ a) As entidades empregadoras, com exceção das pessoas singulares sem atividade
 
 b) As entidades contratantes;
 
-c) Os trabalhadores independentes que se encontrem sujeitos ao cumprimento da obrigação contributiva, quando a base de incidência fixada seja igual ou superior ao 3.º escalão.
+c) Os trabalhadores independentes que se encontrem sujeitos ao cumprimento da obrigação contributiva.
 
 2 - O regime da obrigação prevista no número anterior é regulamentado em diploma próprio.
