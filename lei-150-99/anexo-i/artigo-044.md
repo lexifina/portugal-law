@@ -11,3 +11,5 @@
 4 - Havendo lugar a liquidação do imposto pelos sujeitos passivos referidos no n.º 3 do artigo 2.º, excepto tratando-se de situações em que há lugar à sujeição simultânea das verbas 1.1 e 1.2 da tabela geral, o imposto é pago nos prazos, termos e condições definidos no artigo 36.º do CIMT.
 
 5 - Havendo lugar a liquidação do imposto a que se refere verba n.º 28 da Tabela Geral, o imposto é pago nos prazos, termos e condições definidos no artigo 120.º do CIMI.
+
+6 - Havendo lugar a liquidação do imposto a que se refere a verba 2 da tabela geral, o imposto é pago no prazo previsto no n.º 2 do artigo 60.º

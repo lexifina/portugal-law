@@ -34,6 +34,10 @@ o) A Santa Casa da Misericórdia de Lisboa, relativamente aos contratos de jogo 
 
 p) As entidades que concedem os prémios do bingo, das rifas e do jogo do loto, bem como quaisquer prémios de sorteios ou de concursos.
 
+q) O trespassante, nos trespasses de estabelecimento comercial, industrial ou agrícola;
+
+r) O subconcedente e o trespassante, respetivamente, nas subconcessões e trespasses de concessões feitos pelo Estado, pelas regiões autónomas ou pelas autarquias locais, para exploração de empresas ou de serviços de qualquer natureza, tenha ou não principiado a exploração.
+
 2 - Nas transmissões gratuitas, são sujeitos passivos do imposto as pessoas singulares para quem se transmitam os bens, sem prejuízo das seguintes regras:
 
 a) Nas sucessões por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal, e pelos legatários;
