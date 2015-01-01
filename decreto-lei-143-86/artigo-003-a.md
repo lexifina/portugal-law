@@ -6,9 +6,9 @@ a) Para cada missão diplomática ou consular de carreira, os veículos automóv
 
 b) Até três veículos automóveis, para os chefes de missão diplomática;
 
-c) Um veículo automóvel, para cada um dos demais funcionários constantes da lista do corpo diplomático, ou até dois veículos automóveis, no caso de funcionário casado ou com família a seu cargo;
+c) Um veículo automóvel, para cada um dos demais funcionários constantes da lista do corpo diplomático, ou até dois veículos automóveis, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
 
-d) Um veículo automóvel, para os cônsules de carreira, ou até dois veículos automóveis, no caso de funcionário casado ou com família a seu cargo;
+d) Um veículo automóvel, para os cônsules de carreira, ou até dois veículos automóveis, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
 
 e) Um veículo automóvel, para os funcionários administrativos e técnicos de carreira que não tenham em Portugal a sua residência permanente, o qual deverá ser adquirido ou importado no prazo máximo de seis meses após a data da sua chegada.
 
@@ -16,7 +16,7 @@ e) Um veículo automóvel, para os funcionários administrativos e técnicos de 
 
 (ver quadro no documento original)
 
-3 - Não obstante o disposto no número anterior, os proprietários dos veículos automóveis deverão pagar o IVA devido pela alienação de veículos sujeitos a imposto automóvel junto das entidades competentes para a cobrança deste imposto.
+3 - Caso a introdução no consumo dos veículos automóveis a que se refere o número anterior fique igualmente sujeita a imposto sobre veículos, os proprietários devem pagar o IVA junto das entidades competentes para a cobrança daquele imposto.
 
 4 - Nos casos de falecimento do proprietário do veículo, de furto e de acidente de que resulte a impossibilidade de recuperação da viatura, o Ministro das Finanças, sob proposta do Ministro dos Negócios Estrangeiros, poderá dispensar o pagamento do IVA previsto no n.º 2.
 
