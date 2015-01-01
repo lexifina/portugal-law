@@ -10,9 +10,9 @@ b) Associações de municípios e de freguesias;
 
 c) Fundações em que o Estado, as Regiões Autónomas ou as autarquias locais participem no património inicial;
 
-d) Fundações de iniciativa exclusivamente privada que prossigam fins de natureza predominantemente social ou cultural, relativamente à sua dotação inicial, nas condições previstas no n.º 9.
+d) Fundações de iniciativa exclusivamente privada que prossigam fins de natureza predominantemente social, relativamente à sua dotação inicial, nas condições previstas no n.º 9.
 
-2 - Os donativos referidos no número anterior são considerados custos em valor correspondente a 140 % do respectivo total, quando se destinarem exclusivamente à prossecução de fins de carácter social, a 120 %, se destinados exclusivamente a fins de carácter cultural, ambiental, desportivo e educacional, ou a 130 % do respectivo total, quando forem atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos, que fixem os objectivos a prosseguir pelas entidades beneficiárias, e os montantes a atribuir pelos sujeitos passivos.
+2 - Os donativos referidos no número anterior são considerados custos em valor correspondente a 140 % do respetivo total, quando se destinarem exclusivamente à prossecução de fins de caráter social, a 120 %, se destinados exclusivamente a fins de caráter ambiental, desportivo e educacional, ou a 130 % do respetivo total, quando forem atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos, que fixem os objetivos a prosseguir pelas entidades beneficiárias, e os montantes a atribuir pelos sujeitos passivos.
 
 3 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou dos serviços prestados, os donativos atribuídos às seguintes entidades:
 
@@ -20,7 +20,7 @@ a) Instituições particulares de solidariedade social, bem como pessoas colecti
 
 b) Pessoas colectivas de utilidade pública administrativa e de mera utilidade pública que prossigam fins de caridade, assistência, beneficência e solidariedade social e cooperativas de solidariedade social;
 
-c) Centros de cultura e desporto organizados nos termos dos Estatutos do Instituto Nacional de Aproveitamento dos Tempos Livres dos Trabalhadores (INATEL), desde que destinados ao desenvolvimento de actividades de natureza social no âmbito daquelas entidades;
+c) Centros de desporto organizados nos termos dos Estatutos do Instituto Nacional de Aproveitamento dos Tempos Livres dos Trabalhadores (INATEL), desde que destinados ao desenvolvimento de atividades de natureza social no âmbito daquelas entidades;
 
 d) Organizações não governamentais cujo objecto estatutário se destine essencialmente à promoção dos valores da cidadania, da defesa dos direitos humanos, dos direitos das mulheres e da igualdade de género, nos termos legais aplicáveis;
 
@@ -52,7 +52,7 @@ f) Apoio à criação de infra-estruturas e serviços destinados a facilitar a c
 
 6 - São considerados custos ou perdas do exercício, até ao limite de 6/1000 do volume de vendas ou dos serviços prestados, os donativos atribuídos às seguintes entidades:
 
-a) Cooperativas culturais, institutos, fundações e associações que prossigam actividades de investigação, excepto as de natureza científica, de cultura e de defesa do património histórico-cultural e do ambiente e, bem assim, outras entidades sem fins lucrativos que desenvolvam acções no âmbito do teatro, do bailado, da música, da organização de festivais e outras manifestações artísticas e da produção cinematográfica, áudio-visual e literária;
+a) Institutos, fundações e associações que prossigam atividades de investigação, exceto as de natureza científica e de defesa do património histórico-cultural e do ambiente;
 
 b) Museus, bibliotecas e arquivos históricos e documentais;
 
@@ -68,7 +68,7 @@ g) Estabelecimentos de ensino, escolas profissionais, escolas artísticas, crech
 
 h) Instituições responsáveis pela organização de feiras universais ou mundiais, nos termos a definir por resolução do Conselho de Ministros;
 
-i) Organismos públicos de produção artística responsáveis pela promoção de projectos relevantes de serviço público nas áreas do teatro, música, ópera e bailado.
+i) (Revogada.)
 
 7 - Os donativos previstos no número anterior são levados a custos, em valor correspondente a:
 
@@ -80,10 +80,10 @@ c) 140 %, quando atribuídos às creches, lactários e jardins-de-infância prev
 
 8 - São considerados custos ou perdas do exercício, até ao limite de 1/1000 do volume de vendas ou dos serviços prestados no exercício da actividade comercial, industrial ou agrícola, as importâncias atribuídas pelos associados aos respectivos organismos associativos a que pertençam, com vista à satisfação dos seus fins estatutários.
 
-9 - Estão sujeitos a reconhecimento, a efectuar por despacho conjunto dos Ministros das Finanças e da tutela, os donativos concedidos para a dotação inicial de fundações de iniciativa exclusivamente privada, desde que prossigam fins de natureza predominantemente social ou cultural, e os respectivos estatutos prevejam que, no caso de extinção, os bens revertam para o Estado ou, em alternativa, sejam cedidos às entidades abrangidas pelo artigo 10.º do Código do IRC.
+9 - Estão sujeitos a reconhecimento, a efetuar por despacho do membro do Governo responsável pelas áreas das finanças e da tutela, os donativos concedidos para a dotação inicial de fundações de iniciativa exclusivamente privada, desde que prossigam fins de natureza predominantemente social, e os respetivos estatutos prevejam que, no caso de extinção, os bens revertam para o Estado ou, em alternativa, sejam cedidos às entidades abrangidas pelo artigo 10.º do Código do IRC.
 
-10 - As entidades a que se referem as alíneas a), e) e g) do n.º 6 devem obter junto do ministro da respectiva tutela, previamente à obtenção dos donativos, a declaração do seu enquadramento no presente capítulo e do interesse cultural, ambiental, desportivo ou educacional das actividades prosseguidas ou das acções a desenvolver.
+10 - As entidades a que se referem as alíneas a), e) e g) do n.º 6 devem obter junto do membro do Governo da tutela, previamente à obtenção dos donativos, a declaração do seu enquadramento no presente capítulo e do interesse ambiental, desportivo ou educacional das atividades prosseguidas ou das ações a desenvolver.
 
-11 - No caso de donativos em espécie, o valor a considerar, para efeitos do cálculo da dedução ao lucro tributável, é o valor fiscal que os bens tiverem no exercício em que forem doados, deduzido, quando for caso disso, das reintegrações ou provisões efectivamente praticadas e aceites como custo fiscal ao abrigo da legislação aplicável.
+11 - No caso de donativos em espécie, o valor a considerar, para efeitos do cálculo da dedução ao lucro tributável, é o valor fiscal que os bens tiverem no exercício em que forem doados, deduzido, quando for caso disso, das depreciações ou provisões efetivamente praticadas e aceites como custo fiscal ao abrigo da legislação aplicável.
 
-12 - A dedução a efectuar nos termos dos n.os 3 a 8, bem como do artigo 64.º, não pode ultrapassar na sua globalidade 8/1000 do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
+12 - A dedução a efetuar nos termos dos n.os 3 a 8 não pode ultrapassar na sua globalidade 8/1000 do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
