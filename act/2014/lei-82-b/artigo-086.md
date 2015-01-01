@@ -1,0 +1,19 @@
+# Artigo 86.º
+
+### Suspensão da passagem às situações de reserva, pré-aposentação ou disponibilidade
+
+1 - Ficam suspensas, durante o ano de 2015, as passagens às situações de reserva, pré-aposentação ou disponibilidade, nos termos estatutariamente previstos, de militares das Forças Armadas e da GNR, de pessoal com funções policiais da PSP, do SEF, da PJ, da Polícia Marítima e de outro pessoal militarizado e de pessoal do corpo da Guarda Prisional.
+
+2 - Excecionam-se do disposto no número anterior as passagens às situações de reserva, pré-aposentação ou disponibilidade, resultantes das seguintes circunstâncias:
+
+a) Situações de saúde devidamente atestadas;
+
+b) Serem atingidos ou ultrapassados, respetivamente, o limite de idade ou de tempo de permanência no posto ou na função, bem como aqueles que, nos termos legais, reúnam as condições de passagem à reserva depois de completar 36 anos de serviço e 55 anos de idade, tendo em vista a adequação dos efetivos existentes em processos de reestruturação organizacional;
+
+c) De exclusões de promoções por não satisfação de condições gerais de promoção ou por ultrapassagens nas promoções em determinado posto ou categoria, quando tal consequência resulte dos respetivos termos estatutários;
+
+d) De, à data da entrada em vigor da presente lei, já estarem reunidas as condições ou verificados os pressupostos para que as mesmas ocorram ao abrigo de regimes transitórios de passagem à aposentação, reforma, reserva, pré-aposentação ou disponibilidade a subscritores da CGA, I. P., independentemente do momento em que o venham a requerer ou a declarar.
+
+3 - O disposto nos números anteriores não se aplica aos militares das Forças Armadas após a entrada em vigor do diploma que proceda à revisão do Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 236/99, de 25 de junho, a aprovar na sequência da Resolução do Conselho de Ministros n.º 26/2013, de 19 de abril.
+
+4 - O regime fixado no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou especiais, em contrário.

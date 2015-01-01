@@ -1,0 +1,21 @@
+# Artigo 82.º
+
+### Alteração à Lei n.º 52/2007, de 31 de agosto
+
+O artigo 5.º da Lei n.º 52/2007, de 31 de agosto, que adapta o regime da Caixa Geral de Aposentações ao regime geral da segurança social em matéria de aposentação e cálculo de pensões, alterada pela Lei n.º 11/2008, de 20 de fevereiro, passa a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - A pensão de aposentação atribuída a subscritores da Caixa Geral de Aposentações, I. P., que reúnam as condições de aposentação ordinária estabelecidas no artigo 3.º-A da Lei n.º 60/2005, de 29 de dezembro, é calculada nos termos gerais e bonificada pela aplicação do fator definido no número seguinte.
+
+2 - ...
+
+3 - A taxa global de bonificação é o produto da taxa de bonificação mensal referida no anexo iii à presente lei, em função do tempo de serviço no momento do ato determinante referido no artigo 43.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, pelo número de meses apurados entre a data em que se verificaram as condições de aposentação ordinária referidas no n.º 1 e aquele ato determinante, com o limite de 70 anos.
+
+4 - (Revogado.)
+
+5 - Para efeitos de apuramento da taxa global de bonificação, relevam apenas os meses de exercício efetivo de funções posteriores a 1 de janeiro de 2008.
+
+6 - ...»
