@@ -25,3 +25,5 @@ g) Por motivos de interesse público, devidamente fundamentado.
 4 - Os institutos públicos devem remeter à Direção-Geral do Tesouro e Finanças os contratos de arrendamento que celebrem.
 
 5 - Ao arrendamento por ajuste directo é aplicável, com as devidas adaptações, o procedimento previsto nos artigos 105.º e seguintes.
+
+6 - Nos casos previstos na alínea f) do n.º 1 pode ser aplicável o regime da renda apoiada, desde que os arrendatários preencham os requisitos previstos na lei.
