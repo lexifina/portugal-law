@@ -2,7 +2,7 @@
 
 ### Responsabilidade tributária
 
-1 - Sem prejuízo do disposto no artigo 23.º, são solidariamente responsáveis com o sujeito passivo pelo pagamento do imposto as pessoas ou entidades habilitadas legalmente a autenticar documentos, quando essa forma seja admitida em alternativa à escritura pública, e as pessoas ou entidades que, por qualquer outra forma, intervierem nos actos, contratos e operações ou receberem ou utilizarem livros, papéis e outros documentos, sempre que tenham colaborado na falta de liquidação ou arrecadação do imposto ou, na data daquela intervenção, recepção ou utilização, não tenham exigido a menção a que alude o n.º 6 do artigo 23.º
+1 - Sem prejuízo do disposto no artigo 23.º, são solidariamente responsáveis com o sujeito passivo pelo pagamento do imposto as pessoas ou entidades habilitadas legalmente a autenticar documentos, quando essa forma seja admitida em alternativa à escritura pública, e as pessoas ou entidades que, por qualquer outra forma, intervierem nos atos, contratos e operações ou receberem ou utilizarem livros, papéis e outros documentos, sempre que tenham colaborado na falta de liquidação ou arrecadação do imposto ou, na data daquela intervenção, receção ou utilização, não tenham exigido a menção a que alude o n.º 6 do artigo 23.º ou verificado o cumprimento da obrigação declarativa prevista no n.º 2 do artigo 60.º
 
 2 - São também solidariamente responsáveis com o sujeito passivo pelo pagamento do imposto liquidado nas transmissões gratuitas as pessoas que, nos factos sujeitos a registo, tenham autorizado ou procedido à sua realização sem se certificarem de que o imposto se encontrava liquidado, de que fora promovida a sua liquidação ou de que não era devido.
 

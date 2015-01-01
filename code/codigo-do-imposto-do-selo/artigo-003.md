@@ -48,4 +48,6 @@ t) Nos prémios do bingo, das rifas, do jogo do loto e dos jogos sociais do Esta
 
 u) Nas situações previstas na verba n.º 28 da Tabela Geral, o sujeito passivo referido no n.º 4 do artigo anterior.
 
+v) Nos trespasses de estabelecimento comercial, industrial ou agrícola e nas subconcessões e trespasses de concessões feitos pelo Estado, pelas regiões autónomas ou pelas autarquias locais, para exploração de empresas ou de serviços de qualquer natureza, tenha ou não principiado a exploração, os adquirentes dos referidos direitos.
+
 4 - (Revogado.)
