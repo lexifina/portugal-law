@@ -6,9 +6,9 @@
 
 ### Revogação do acto impugnado
 
-1 - Compete ao dirigente do órgão periférico regional da administração tributária revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo não exceda o quíntuplo da alçada do tribunal tributário de 1.ª instância.
+1 - Compete ao dirigente do órgão periférico regional da administração tributária revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo não exceda o valor da alçada do tribunal tributário de 1.ª instância.
 
-2 - Compete ao dirigente máximo do serviço revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo exceda o quíntuplo da alçada do tribunal tributário de 1.ª instância.
+2 - Compete ao dirigente máximo do serviço revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo exceda o valor da alçada do tribunal tributário de 1.ª instância.
 
 3 - No caso de o acto impugnado ser revogado parcialmente, o órgão que procede à revogação deve, nos 3 dias subsequentes, proceder à notificação do impugnante para, no prazo de 10 dias, se pronunciar, prosseguindo o processo se o impugnante nada disser ou declarar que mantém a impugnação.
 

@@ -18,7 +18,7 @@
 
 8 - As notificações referidas nos n.os 3 e 4 do presente artigo podem ser efectuadas, nos termos do número anterior, por telefax quando a administração tributária tenha conhecimento do número de telefax do notificando e possa posteriormente confirmar o conteúdo da mensagem e o momento em que foi enviada.
 
-9 - As notificações referidas no presente artigo podem ser efectuadas por transmissão electrónica de dados, que equivalem, consoante os casos, à remessa por via postal registada ou por via postal registada com aviso de recepção.
+9 - As notificações referidas no presente artigo, bem como as efetuadas nos processos de execução fiscal, podem ser efetuadas por transmissão eletrónica de dados, que equivalem, consoante os casos, à remessa por via postal registada ou por via postal registada com aviso de receção.
 
 10 - (Revogado).
 

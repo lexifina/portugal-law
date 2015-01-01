@@ -1,6 +1,6 @@
 # Artigo 278.º
 
-### Subida da reclamação. Resposta da Fazenda Pública e efeito suspensivo
+### Subida da reclamação - Resposta da Fazenda Pública
 
 1 - O tribunal só conhecerá das reclamações quando, depois de realizadas a penhora e a venda, o processo lhe for remetido a final.
 
@@ -20,6 +20,8 @@ e) Erro na verificação ou graduação de créditos.
 
 4 - No caso previsto no número anterior, caso não se verificar a circunstância dos n.os 2 e 3 do artigo 277.º, o órgão da execução fiscal fará subir a reclamação no prazo de oito dias.
 
-5 - A reclamação referida no presente artigo segue as regras dos processos urgentes, tendo a sua apreciação prioridade sobre quaisquer processos que devam ser apreciados no tribunal que não tenham esse carácter.
+5 - A cópia do processo executivo que acompanha a subida imediata da reclamação deve ser autenticada pela administração tributária.
 
-6 - Considera-se haver má fé, para efeitos de tributação em sanção pecuniária por esse motivo, a apresentação do pedido referido no n.º 3 do presente artigo sem qualquer fundamento razoável.
+6 - A reclamação referida no presente artigo segue as regras dos processos urgentes, tendo a sua apreciação prioridade sobre quaisquer processos que devam ser apreciados no tribunal que não tenham esse carácter.
+
+7 - Considera-se haver má fé, para efeitos de tributação em sanção pecuniária por esse motivo, a apresentação do pedido referido no n.º 3 do presente artigo sem qualquer fundamento razoável.

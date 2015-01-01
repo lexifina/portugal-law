@@ -6,4 +6,4 @@
 
 2 - (Revogado).
 
-3 - O pagamento não sustará o concurso de credores se for requerido após a venda e só terá lugar, na parte da dívida exequenda não paga, depois de aplicado o produto da venda ou o dinheiro penhorado no pagamento dos créditos graduados.
+3 - O pagamento não susta o concurso de credores se for efetuado após a realização da venda.

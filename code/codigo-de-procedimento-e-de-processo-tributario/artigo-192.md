@@ -16,4 +16,4 @@
 
 7 - As citações editais serão feitas por éditos afixados no órgão da execução fiscal da área da última residência do citando.
 
-8 - Sendo as citações feitas nos termos e local do número anterior, constarão dos éditos, conforme o caso, a natureza dos bens penhorados, o prazo do pagamento e de oposição e a data e o local designados para a venda, sendo os mesmos afixados à porta da última residência ou sede do citando e publicados em dois números seguidos de um dos jornais mais lidos nesse local ou no da sede ou da localização dos bens.
+8 - Sendo as citações feitas nos termos e local do número anterior, constam dos éditos, conforme o caso, a natureza dos bens penhorados, o prazo do pagamento e de oposição e a data e o local designados para a venda, sendo os mesmos afixados à porta da última residência ou sede do citando e podem ser publicados em dois números seguidos de um dos jornais mais lidos nesse local ou no Portal das Finanças.
