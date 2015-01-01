@@ -26,4 +26,4 @@ a) A divulgação de listas de contribuintes cuja situação tributária não se
 
 b) A publicação de rendimentos declarados ou apurados por categorias de rendimentos, contribuintes, sectores de actividades ou outras, de acordo com listas que a administração tributária deve organizar anualmente a fim de assegurar a transparência e publicidade.
 
-6 - Considera-se como situação tributária regularizada, para efeitos do disposto na alínea a) do número anterior, o pagamento integral de quaisquer tributos, a inexistência de situações de mora ou a sua regularização em conformidade com as disposições e planos previstos no Código de Procedimento e de Processo Tributário e demais legislação em vigor.
+6 - Para efeitos do disposto na alínea a) do número anterior, considera-se como situação tributária regularizada o disposto no artigo 177.º-A do CPPT.

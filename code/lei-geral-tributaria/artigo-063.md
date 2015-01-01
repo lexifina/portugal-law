@@ -18,7 +18,7 @@ f) Utilizar as suas instalações quando a utilização for necessária ao exerc
 
 2 - O acesso à informação protegida pelo segredo profissional ou qualquer outro dever de sigilo legalmente regulado depende de autorização judicial, nos termos da legislação aplicável.
 
-3 - Sem prejuízo do número anterior, o acesso à informação protegida pelo sigilo bancário faz-se nos termos previstos nos artigos 63.º-A, 63.º-B e 63.º-C.
+3 - Sem prejuízo do número anterior, o acesso à informação protegida pelo sigilo bancário e pelo sigilo previsto no Regime Jurídico do Contrato de Seguro faz-se nos termos previstos nos artigos 63.º-A, 63.º-B e 63.º-C.
 
 4 - O procedimento da inspecção e os deveres de cooperação são os adequados e proporcionais aos objectivos a prosseguir, só podendo haver mais de um procedimento externo de fiscalização respeitante ao mesmo sujeito passivo ou obrigado tributário, imposto e período de tributação mediante decisão, fundamentada com base em factos novos, do dirigente máximo do serviço, salvo se a fiscalização visar apenas a confirmação dos pressupostos de direitos que o contribuinte invoque perante a administração tributária e sem prejuízo do apuramento da situação tributária do sujeito passivo por meio de inspecção ou inspecções dirigidas a terceiros com quem mantenha relações económicas.
 
@@ -26,7 +26,7 @@ f) Utilizar as suas instalações quando a utilização for necessária ao exerc
 
 a) O acesso à habitação do contribuinte;
 
-b) A consulta de elementos abrangidos pelo segredo profissional ou outro dever de sigilo legalmente regulado, à excepção do segredo bancário, realizada nos termos do n.º 3;
+b) A consulta de elementos abrangidos pelo segredo profissional ou outro dever de sigilo legalmente regulado, com exceção do segredo bancário e do sigilo previsto no Regime Jurídico do Contrato de Seguro, realizada nos termos do n.º 3;
 
 c) O acesso a factos da vida íntima dos cidadãos;
 
