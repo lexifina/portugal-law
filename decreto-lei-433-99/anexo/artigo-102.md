@@ -20,7 +20,7 @@ e) Notificação dos restantes actos que possam ser objecto de impugnação aut�
 
 f) Conhecimento dos actos lesivos dos interesses legalmente protegidos não abrangidos nas alíneas anteriores.
 
-2 - Em caso de indeferimento de reclamação graciosa, o prazo de impugnação será de 15 dias após a notificação.
+2 - (Revogado).
 
 3 - Se o fundamento for a nulidade, a impugnação pode ser deduzida a todo o tempo.
 

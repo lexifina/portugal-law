@@ -10,6 +10,6 @@
 
 4 - O disposto no número anterior aplica-se à impugnação pelo substituído da retenção que lhe tiver sido efectuada, salvo quando a retenção tiver a mera natureza de pagamento por conta do imposto devido a final.
 
-5 - Caso a reclamação graciosa seja expressa ou tacitamente indeferida, o contribuinte poderá impugnar, no prazo de 30 dias, a entrega indevida nos mesmos termos que do acto da liquidação.
+5 - (Revogado).
 
 6 - À impugnação em caso de retenção na fonte aplica-se o disposto no n.º 3 do artigo anterior.

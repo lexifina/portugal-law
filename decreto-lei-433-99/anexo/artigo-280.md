@@ -8,6 +8,6 @@
 
 3 - Considera-se vencida, para efeitos da interposição do recurso jurisdicional, a parte que não obteve plena satisfação dos seus interesses na causa.
 
-4 - Não cabe recurso das decisões dos tribunais tributários de 1.ª instância proferidas em processo de impugnação judicial ou de execução fiscal quando o valor da causa não ultrapassar um quarto das alçadas fixadas para os tribunais judiciais de 1.ª instância.
+4 - Não cabe recurso das decisões dos tribunais tributários de 1.ª instância proferidas em processo de impugnação judicial ou de execução fiscal quando o valor da causa não ultrapassar o valor da alçada fixada para os tribunais tributários de 1.ª instância.
 
 5 - A existência de alçadas não prejudica o direito ao recurso para o Supremo Tribunal Administrativo de decisões que perfilhem solução oposta relativamente ao mesmo fundamento de direito e na ausência substancial de regulamentação jurídica, com mais de três sentenças do mesmo ou outro tribunal de igual grau ou com uma decisão de tribunal de hierarquia superior.

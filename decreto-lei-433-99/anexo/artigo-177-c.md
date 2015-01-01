@@ -6,4 +6,4 @@ A comprovação da situação tributária apenas pode ser efetuada mediante a pr
 
 a) As que participem nos procedimentos administrativos referidos no Decreto-Lei n.º 114/2007, de 19 de abril;
 
-b) Os sujeitos passivos abrangidos pela obrigação prevista no n.º 10 do artigo 19.º da LGT.
+b) Os sujeitos passivos abrangidos pela obrigação prevista no n.º 9 do artigo 19.º da LGT.

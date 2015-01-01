@@ -14,6 +14,6 @@ d) ...
 
 e) Quando for determinado pelo dirigente máximo do serviço.
 
-2 - Quando haja fundada urgência na venda de bens, ou estes sejam de valor não superior a 40 unidades de conta, a venda é feita por negociação particular.
+2 - Quando haja fundada urgência na venda de bens, ou estes sejam de valor não superior a 40 unidades de conta, pode o órgão de execução fiscal determinar a venda por negociação particular.
 
 3 - Quando tenha lugar a venda por negociação particular, são publicitados na Internet, nos termos definidos em portaria do Ministro das Finanças, o nome ou firma do executado, o órgão por onde corre o processo, a identificação sumária dos bens, o local, o prazo e as horas em que estes podem ser examinados, o valor base da venda e o nome ou firma do negociador, bem como a residência ou sede deste.

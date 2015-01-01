@@ -8,7 +8,7 @@ a) Não seja devedor de quaisquer impostos ou outras prestações tributárias e
 
 b) Esteja autorizado ao pagamento da dívida em prestações, desde que exista garantia constituída, nos termos legais;
 
-c) Tenha pendente meio de contencioso adequado à discussão da legalidade ou exigibilidade da dívida exequenda e o processo de execução fiscal tenha garantia constituída, nos termos legais;
+c) Tenha pendente meio de contencioso adequado à discussão da legalidade da dívida exequenda e o processo de execução fiscal tenha garantia constituída, nos termos legais;
 
 d) Tenha a execução fiscal suspensa, nos termos do n.º 2 do artigo 169.º, havendo garantia constituída, nos termos legais.
 
