@@ -6,4 +6,4 @@
 
 2 - Os cargos de director do Centro de Estudos Fiscais e Aduaneiros, de director da Unidade dos Grandes Contribuintes e dos directores de finanças de Lisboa e do Porto são cargos de direcção superior de 2.º grau.
 
-3 - Os cargos de director de serviços, director de finanças, director de finanças adjunto e director de alfândega são cargos de direcção intermédia de 1.º grau.
+3 - Os cargos de diretor de serviços, diretor adjunto da Unidade de Grandes Contribuintes, diretor de finanças, diretor de finanças adjunto e diretor de alfândega são cargos de direção intermédia de 1.º grau.
