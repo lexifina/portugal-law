@@ -2,7 +2,7 @@
 
 ### Comunicação dos elementos das faturas
 
-1 - As pessoas, singulares ou coletivas, que tenham sede, estabelecimento estável ou domicílio fiscal em território português e aqui pratiquem operações sujeitas a IVA, são obrigadas a comunicar à Autoridade Tributária a Aduaneira (AT), por transmissão eletrónica de dados, os elementos das faturas emitidas nos termos do Código do IVA, por uma das seguintes vias:
+1 - As pessoas, singulares ou coletivas, que tenham sede, estabelecimento estável ou domicílio fiscal em território português e aqui pratiquem operações sujeitas a IVA, são obrigadas a comunicar à Autoridade Tributária a Aduaneira (AT), por transmissão eletrónica de dados, os elementos das faturas emitidas nos termos do Código do IVA, bem como os elementos dos documentos de conferência de entrega de mercadorias ou da prestação de serviços, por uma das seguintes vias:
 
 a) Por transmissão eletrónica de dados em tempo real, integrada em programa de faturação eletrónica;
 
@@ -16,11 +16,11 @@ d) Por outra via eletrónica, nos termos a definir por portaria do Ministro das 
 
 3 - Os sujeitos passivos que sejam obrigados a produzir o ficheiro SAF-T (PT), criado pela Portaria n.º 321-A/2007, de 26 de março, alterada pela Portaria n.º 1192/2009, de 8 de outubro, devem optar por uma das modalidades constantes das alíneas a) e b) do n.º 1.
 
-4 - A AT disponibiliza no Portal das Finanças o modelo de dados para os efeitos previstos nos n.os 1 e 2, devendo dele constar os seguintes elementos relativamente a cada fatura:
+4 - A AT disponibiliza no Portal das Finanças o modelo de dados para os efeitos previstos nos n.os 1 e 2, devendo dele constar os seguintes elementos relativamente a cada fatura ou documento de conferência de entrega de mercadorias ou da prestação de serviços:
 
 a) Número de identificação fiscal do emitente;
 
-b) Número da fatura;
+b) Número da fatura ou do documento;
 
 c) Data de emissão;
 
@@ -39,6 +39,10 @@ i) O motivo justificativo da não aplicação do imposto, se aplicável;
 j) Montante de IVA liquidado.
 
 k) A menção «IVA - regime de caixa», se aplicável.
+
+l) O número do certificado do programa que os emitiu;
+
+m) Identificação do documento de origem.
 
 5 - Até ao final do mês seguinte ao da sua emissão, a AT disponibiliza às pessoas singulares, no Portal das Finanças, os elementos indicados no número anterior relativamente às faturas que titulem prestações de serviços em que constem como adquirentes e que sejam emitidas por sujeitos passivos enquadrados para efeitos fiscais, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3, CAE - Rev. 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
 
