@@ -64,7 +64,7 @@ b) Por desportistas e artistas tauromáquicos, actuando quer individualmente que
 
 24) As transmissões, pelo seu valor facial, de selos do correio em circulação ou de valores selados, e bem assim as respectivas comissões de venda;
 
-25) O serviço público de remoção de lixos;
+25) (Revogada.)
 
 26) As prestações de serviços efectuadas por empresas funerárias e de cremação, bem como as transmissões de bens acessórias aos mesmos serviços;
 

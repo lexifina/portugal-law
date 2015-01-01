@@ -13,3 +13,5 @@ c) Seja partilhada a herança indivisa de que façam parte o estabelecimento ou 
 d) Se dê a transferência, a qualquer outro título, da propriedade do estabelecimento.
 
 2 - Independentemente dos factos previstos no número anterior, pode ainda a administração fiscal declarar oficiosamente a cessação de actividade quando for manifesto que esta não está a ser exercida nem há a intenção de a continuar a exercer, ou sempre que o sujeito passivo tenha declarado o exercício de uma actividade sem que possua uma adequada estrutura empresarial susceptível de a exercer.
+
+3 - A cessação de atividade é também declarada oficiosamente, pela administração fiscal, após comunicação do tribunal, nos termos do n.º 3 do artigo 65.º do Código da Insolvência e da Recuperação de Empresas, sem prejuízo do cumprimento das obrigações fiscais nos períodos de imposto em que se verifique a ocorrência de operações tributáveis, em que devam ser efetuadas regularizações ou em que haja lugar ao exercício do direito à dedução.

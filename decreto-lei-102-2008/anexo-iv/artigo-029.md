@@ -73,3 +73,5 @@ c) Podem não ser incluídas as prestações de serviços que sejam isentas do i
 19 - Não é permitida aos sujeitos passivos a emissão e entrega de documentos de natureza diferente da fatura para titular a transmissão de bens ou prestação de serviços aos respetivos adquirentes ou destinatários, sob pena de aplicação das penalidades legalmente previstas.
 
 20 - A obrigação referida na alínea b) do n.º 1 pode ser cumprida mediante a emissão de outros documentos pelas pessoas coletivas de direito público, organismos sem finalidade lucrativa e instituições particulares de solidariedade social, relativamente às transmissões de bens e prestações de serviços isentas ao abrigo do artigo 9.º
+
+21 - Os sujeitos passivos que pratiquem uma só operação tributável nas condições referidas na alínea a) do n.º 1 do artigo 2.º podem cumprir a obrigação referida na alínea b) do n.º 1 do presente artigo mediante emissão de fatura no Portal das Finanças.

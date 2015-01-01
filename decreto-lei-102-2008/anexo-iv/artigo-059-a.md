@@ -6,7 +6,7 @@
 
 ### Âmbito de aplicação
 
-1 - Podem beneficiar do presente regime os produtores agrícolas com sede ou domicílio em território nacional que, reunindo as condições de inclusão no regime de isenção previsto no artigo 53.º, efetuem transmissões de produtos agrícolas, e, bem assim, prestações de serviços agrícolas de acordo com as disposições seguintes.
+1 - Podem beneficiar do presente regime os produtores agrícolas que, reunindo as condições de inclusão no regime de isenção previsto no artigo 53.º, efetuem transmissões de produtos agrícolas, e, bem assim, prestações de serviços agrícolas de acordo com as disposições seguintes.
 
 2 - Para efeitos do presente regime, consideram-se:
 

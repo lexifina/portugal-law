@@ -16,9 +16,9 @@
 
 7 - Os sujeitos passivos podem deduzir ainda o imposto respeitante a créditos considerados incobráveis:
 
-a) Em processo de execução, após o registo a que se refere a alínea c) do n.º 2 do artigo 806.º do Código do Processo Civil;
+a) Em processo de execução, após o registo a que se refere a alínea b) do n.º 2 do artigo 717.º do Código do Processo Civil;
 
-b) Em processo de insolvência, quando a mesma for decretada de caráter limitado ou após a homologação da deliberação prevista no artigo 156.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março;
+b) Em processo de insolvência, quando a mesma for decretada de caráter limitado, após o trânsito em julgado da sentença de verificação e graduação de créditos prevista no Código da Insolvência e da Recuperação de Empresas ou, quando exista, a homologação do plano objeto da deliberação prevista no artigo 156.º do mesmo Código;
 
 c) Em processo especial de revitalização, após homologação do plano de recuperação pelo juiz, previsto no artigo 17.º-F do Código da Insolvência e da Recuperação de Empresas;
 
@@ -40,7 +40,7 @@ e) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA in
 
 10 - A certificação por revisor oficial de contas a que se refere o número anterior deve ser efectuada por cada um dos períodos em que foi feita a regularização e até ao termo do prazo estabelecido para a entrega da declaração periódica ou até à data de entrega da mesma, quando esta ocorra fora do prazo.
 
-11 - No caso previsto no n.º 7 e na alínea d) do n.º 8 é comunicada ao adquirente do bem ou serviço, que seja um sujeito passivo do imposto, a anulação total ou parcial do imposto, para efeitos de rectificação da dedução inicialmente efectuada.
+11 - No caso previsto no n.º 7 e na alínea d) do n.º 8 é comunicada ao adquirente do bem ou serviço, que seja um sujeito passivo do imposto, a anulação total ou parcial do imposto, para efeitos de retificação da dedução inicialmente efetuada, devendo esta comunicação identificar as faturas, o montante do crédito e do imposto a ser regularizado, o processo ou acordo em causa, bem como o período em que a regularização é efetuada.
 
 12 - Nos casos em que se verificar a recuperação dos créditos, total ou parcialmente, os sujeitos passivos são obrigados a proceder à entrega do imposto, no período em que se verificar o seu recebimento, sem observância, neste caso, do prazo previsto no n.º 1 do artigo 94.º
 
@@ -50,6 +50,6 @@ e) Os créditos sejam superiores a (euro) 750 e inferiores a (euro) 8000, IVA in
 
 15 - O disposto no número anterior é igualmente aplicável aos sujeitos passivos que tenham o direito à dedução parcial do imposto, nos termos do disposto no artigo 23.º, sem prejuízo da liquidação adicional e pagamento do imposto e dos juros compensatórios que se mostrem devidos pela diferença.
 
-16 - Os documentos, certificados e comunicações a que se referem os n.os 8 a 11 do presente artigo devem integrar o processo de documentação fiscal previsto nos artigos 121.º do Código do IRC e 129.º do Código do IRS.
+16 - Os documentos, certificados e comunicações a que se referem os n.os 7 a 11 devem integrar o processo de documentação fiscal previsto nos artigos 130.º do Código do IRC e 129.º do Código do IRS.
 
 17 - O disposto no n.º 8 não é aplicável quando estejam em causa transmissões de bens ou prestações de serviços cujo adquirente ou destinatário constasse, no momento da realização da operação, da lista de acesso público de execuções extintas com pagamento parcial ou por não terem sido encontrados bens penhoráveis.

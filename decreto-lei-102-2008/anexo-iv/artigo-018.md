@@ -26,7 +26,7 @@ b) 5 %, 12 % e 22 %, relativamente às operações que, de acordo com a legisla�
 
 a) Quando as mercadorias que compõem a unidade de venda não sofram alterações da sua natureza nem percam a sua individualidade, a taxa aplicável ao valor global das mercadorias é a que lhes corresponder ou, se lhes couberem taxas diferentes, a mais elevada;
 
-b) Quando as mercadorias que compõem a unidade de venda sofram alterações da sua natureza e qualidade ou percam a sua individualidade, a taxa aplicável ao conjunto é a que, como tal, lhes corresponder.
+b) Quando as mercadorias que compõem a unidade de venda sofram alterações da sua natureza e qualidade ou percam a sua individualidade, a taxa aplicável ao conjunto é a que, como tal, lhe corresponder.
 
 5 - Nas prestações de serviços respeitantes a contratos de locação financeira, o imposto é aplicado com a mesma taxa que seria aplicável no caso de transmissão dos bens dados em locação financeira.
 

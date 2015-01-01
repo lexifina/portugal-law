@@ -36,4 +36,8 @@ d) Despesas mencionadas nas alíneas c) e d), com excepção de tabacos, ambas d
 
 e) Despesas mencionadas na alínea c) e despesas de alojamento, alimentação e bebidas previstas na alínea d), ambas do número anterior, relativas à participação em congressos, feiras, exposições, seminários, conferências e similares, quando resultem de contratos celebrados directamente com as entidades organizadoras dos eventos e comprovadamente contribuam para a realização de operações tributáveis, cujo imposto é dedutível na proporção de 25 %.
 
+f) Despesas relativas à aquisição, fabrico ou importação, à locação e à transformação em viaturas elétricas ou híbridas plug-in, de viaturas ligeiras de passageiros ou mistas elétricas ou híbridas plug-in, quando consideradas viaturas de turismo, cujo custo de aquisição não exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º do Código do IRC;
+
+g) Despesas relativas à aquisição, fabrico ou importação, à locação e à transformação em viaturas movidas a GPL ou a GNV, de viaturas ligeiras de passageiros ou mistas movidas a GPL ou a GNV, quando consideradas viaturas de turismo, cujo custo de aquisição não exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º do Código do IRC, na proporção de 50 %.
+
 3 - Não conferem também direito à dedução do imposto as aquisições de bens referidos na alínea f) do n.º 2 do artigo 16.º, quando o valor da sua transmissão posterior, de acordo com legislação especial, for a diferença entre o preço de venda e o preço de compra.

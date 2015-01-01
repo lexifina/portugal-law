@@ -1,12 +1,12 @@
 # Artigo 78.º-A
 
-### Créditos de cobrança duvidosa ou incobráveis - Dedução a favor do sujeito passivo
+### Créditos de cobrança duvidosa ou incobráveis - Regularização a favor do sujeito passivo
 
 1 - Os sujeitos passivos podem deduzir o imposto respeitante a créditos considerados de cobrança duvidosa, evidenciados como tal na contabilidade, sem prejuízo do disposto no artigo 78.º-D, bem como o respeitante a créditos considerados incobráveis.
 
 2 - Para efeitos do disposto no número anterior, consideram-se créditos de cobrança duvidosa aqueles que apresentem um risco de incobrabilidade devidamente justificado, o que se verifica nos seguintes casos:
 
-a) O crédito esteja em mora há mais de 24 meses desde a data do respetivo vencimento, existam provas objetivas de imparidade e de terem sido efetuadas diligências para o seu recebimento e o ativo tenha sido desreconhecido contabilisticamente;
+a) O crédito esteja em mora há mais de 24 meses desde a data do respetivo vencimento e existam provas objetivas de imparidade e de terem sido efetuadas diligências para o seu recebimento;
 
 b) O crédito esteja em mora há mais de seis meses desde a data do respetivo vencimento, o valor do mesmo não seja superior a (euro) 750, IVA incluído, e o devedor seja particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito à dedução.
 
@@ -14,9 +14,9 @@ b) O crédito esteja em mora há mais de seis meses desde a data do respetivo ve
 
 4 - Os sujeitos passivos podem, ainda, deduzir o imposto relativo a créditos considerados incobráveis nas seguintes situações, sempre que o facto relevante ocorra em momento anterior ao referido no n.º 2:
 
-a) Em processo de execução, após o registo a que se refere a alínea c) do n.º 2 do artigo 806.º do Código do Processo Civil;
+a) Em processo de execução, após o registo a que se refere a alínea b) do n.º 2 do artigo 717.º do Código do Processo Civil;
 
-b) Em processo de insolvência, quando a mesma for decretada de caráter limitado ou após a homologação da deliberação prevista no artigo 156.º do Código da Insolvência e da Recuperação de Empresas;
+b) Em processo de insolvência, quando a mesma for decretada de caráter limitado, após o trânsito em julgado da sentença de verificação e graduação de créditos prevista no Código da Insolvência e da Recuperação de Empresas ou, quando exista, a homologação do plano objeto da deliberação prevista no artigo 156.º do mesmo Código;
 
 c) Em processo especial de revitalização, após homologação do plano de recuperação pelo juiz, previsto no artigo 17.º-F do Código da Insolvência e da Recuperação de Empresas;
 
@@ -35,3 +35,5 @@ c) Os créditos em que, no momento da realização da operação, o adquirente o
 d) Os créditos sobre o Estado, regiões autónomas e autarquias locais ou aqueles em que estas entidades tenham prestado aval.
 
 7 - Os sujeitos passivos perdem o direito à dedução do imposto respeitante a créditos considerados de cobrança duvidosa ou incobráveis sempre que ocorra a transmissão da titularidade dos créditos subjacentes.
+
+8 - Nas situações previstas no número anterior, caso a transmissão da titularidade dos créditos ocorra após ter sido efetuada a dedução do imposto respeitante aos créditos considerados de cobrança duvidosa ou incobráveis, devem os sujeitos passivos observar, com as necessárias adaptações, o disposto no n.º 3 do artigo 78.º-C.
