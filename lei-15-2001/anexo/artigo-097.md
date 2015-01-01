@@ -2,7 +2,7 @@
 
 ### Qualificação
 
-Os crimes previstos nos artigos anteriores são punidos com pena de prisão de 1 a 5 anos para as pessoas singulares e de multa de 240 a 1200 dias para as pessoas colectivas, quando se verifique qualquer das seguintes circunstâncias:
+Os crimes previstos nos artigos anteriores, independentemente dos requisitos de valor neles previstos, são punidos com pena de prisão de um a cinco anos para as pessoas singulares e com pena de multa de 240 a 1200 dias para as pessoas coletivas, quando se verifique qualquer das seguintes circunstâncias:
 
 a) A mercadoria objecto da infracção for de importação ou de exportação proibida;
 

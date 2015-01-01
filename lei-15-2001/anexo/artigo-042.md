@@ -4,7 +4,7 @@
 
 1 - Os actos de inquérito delegados nos órgãos da administração tributária, da segurança social ou nos órgãos de polícia criminal devem estar concluídos no prazo máximo de oito meses contados da data em que foi adquirida a notícia do crime.
 
-2 - No caso de ser intentado procedimento, contestação técnica aduaneira ou processo tributário em que se discuta situação tributária de cuja definição dependa a qualificação criminal dos factos, não será encerrado o inquérito enquanto não for praticado acto definitivo ou proferida decisão final sobre a referida situação tributária, suspendendo-se, entretanto, o prazo a que se refere o número anterior.
+2 - No caso de ser intentado procedimento ou processo tributário em que se discuta situação tributária de cuja definição dependa a qualificação criminal dos factos, não é encerrado o inquérito enquanto não for praticado ato definitivo ou proferida decisão final sobre a referida situação tributária, suspendendo-se, entretanto, o prazo a que se refere o número anterior.
 
 3 - Concluídas as investigações relativas ao inquérito, o órgão da administração tributária, da segurança social ou de polícia criminal competente emite parecer fundamentado que remete ao Ministério Público juntamente com o auto de inquérito.
 

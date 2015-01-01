@@ -8,7 +8,7 @@
 
 a) Não apresentar os documentos de acompanhamento, as declarações de introdução no consumo ou documento equivalente e os resumos mensais de vendas, nos termos e prazos legalmente fixados;
 
-b) Desviar os produtos tributáveis do fim pressuposto no regime fiscal que lhe é aplicável ou utilizá-los em equipamentos não autorizados;
+b) Desviar os produtos tributáveis do fim pressuposto no regime fiscal que lhe é aplicável ou utilizá-los em equipamentos não autorizados ou sem a prévia autorização por parte da Autoridade Tributária e Aduaneira;
 
 c) Não dispuser da contabilidade nos termos do Código dos Impostos Especiais sobre o Consumo ou nela não inscrever imediatamente as expedições, recepções e introduções no consumo de produtos tributáveis;
 
