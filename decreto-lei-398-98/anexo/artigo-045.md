@@ -8,7 +8,7 @@
 
 1 - O direito de liquidar os tributos caduca se a liquidação não for validamente notificada ao contribuinte no prazo de quatro anos, quando a lei não fixar outro.
 
-2 - Nos casos de erro evidenciado na declaração do sujeito passivo ou de utilização de métodos indirectos por motivo da aplicação à situação tributária do sujeito passivo dos indicadores objectivos da actividade previstos na presente lei, o prazo de caducidade referido no número anterior é de três anos.
+2 - No caso de erro evidenciado na declaração do sujeito passivo o prazo de caducidade referido no número anterior é de três anos.
 
 3 - Em caso de ter sido efetuada qualquer dedução ou crédito de imposto, o prazo de caducidade é o do exercício desse direito.
 
