@@ -42,10 +42,14 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 
 12 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 50 % da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios classificados como de interesse público, de valor municipal ou património cultural, nos termos da respetiva legislação em vigor, desde que estes prédios não se encontrem abrangidos pela alínea n) do n.º 1 do artigo 44.º do Estatuto dos Benefícios Fiscais.
 
-13 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos, por transmissão electrónica de dados, para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+13 - Os municípios, mediante deliberação da assembleia municipal, nos casos de imóvel destinado a habitação própria e permanente coincidente com o domicílio fiscal do proprietário, podem fixar uma redução da taxa que vigorar no ano a que respeita o imposto, atendendo ao número de dependentes que, nos termos do previsto no artigo 13.º do Código do IRS, compõem o agregado familiar do proprietário a 31 de dezembro, de acordo com a seguinte tabela:
 
-14 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
+(ver documento original)
 
-15 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.
+14 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos, por transmissão electrónica de dados, para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
 
-16 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.
+15 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
+
+16 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.
+
+17 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.

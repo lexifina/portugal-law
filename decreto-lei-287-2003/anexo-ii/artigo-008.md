@@ -8,6 +8,6 @@
 
 a) Nas aquisições de prédios urbanos ou de fracções autónomas destes exclusivamente destinados a habitação, que derivem de actos de dação em cumprimento;
 
-b) Nas aquisições de prédios ou de fracções autónomas destes não abrangidos no número anterior, que derivem de actos de dação em cumprimento, desde que tenha decorrido mais de um ano entre a primeira falta de pagamento e o recurso à dação em cumprimento e não existam relações especiais entre credor e devedor, nos termos do n.º 4 do artigo 58.º do CIRC.
+b) Nas aquisições de prédios ou de frações autónomas destes não abrangidos no número anterior, que derivem de atos de dação em cumprimento, desde que tenha decorrido mais de um ano entre a primeira falta de pagamento e o recurso à dação em cumprimento e não existam relações especiais entre credor e devedor, nos termos do n.º 4 do artigo 63.º do Código do IRC.
 
 3 - No caso de serem adquirentes sociedades directa ou indirectamente dominadas pelas instituições de crédito, só há lugar à isenção quando as aquisições resultem da cessão do crédito ou da fiança efectuadas pelas mesmas instituições àquelas sociedades comerciais e desde que estas sociedades sejam qualificadas como instituições de crédito ou como sociedades financeiras.

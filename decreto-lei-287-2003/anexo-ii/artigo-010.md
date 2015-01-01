@@ -22,11 +22,11 @@ e) No caso a que se refere a alínea j) do artigo 6.º, cópia dos documentos de
 
 5 - Nos casos referidos no n.º 2, a Direcção-Geral dos Impostos poderá ouvir os serviços competentes dos ministérios que superintendem nas respectivas actividades.
 
-6 - As isenções são reconhecidas:
+6 - São de reconhecimento prévio, por despacho do membro do Governo responsável pela área das finanças sobre informação e parecer da Autoridade Tributária e Aduaneira, as seguintes isenções:
 
 a) As previstas na alínea a) do artigo 6.º e nos artigos 7.º e 9.º são de reconhecimento automático, competindo a sua verificação e declaração à entidade que intervier na celebração do acto ou do contrato, sem prejuízo do disposto na alínea e);
 
-b) As previstas na alínea b) do artigo 6.º e no artigo 8.º, por despacho do Ministro das Finanças sobre informação e parecer da Direcção-Geral dos Impostos;
+b) As previstas nas alíneas a) e b) do n.º 2 do artigo 8.º, desde que o valor que serviria de base à liquidação do IMT, caso este fosse devido, apurado nos termos da regra 5.ª do artigo 12.º, seja superior a (euro) 300 000;
 
 c) As previstas na alínea c) do artigo 6.º são reconhecidas nos termos dos respectivos diplomas legais, sendo-lhe supletivamente aplicável o disposto no presente artigo;
 
@@ -44,13 +44,13 @@ c) As estabelecidas em legislação extravagante ao presente código, cuja compe
 
 7 - São de reconhecimento prévio, por despacho do director-geral dos impostos sobre informação dos serviços competentes, as seguintes isenções:
 
-a) As previstas nas alíneas d), e), f), g), h), i), j) e l) do artigo 6.º;
+a) As previstas nas alíneas f), h), i), j) e l) do artigo 6.º;
 
-b) As estabelecidas em legislação extravagante ao presente código, cuja competência, nos termos dos respectivos diplomas, seja expressamente atribuída ao director-geral dos impostos.
+b) As estabelecidas em legislação extravagante ao presente Código, cuja competência, nos termos dos respetivos diplomas, seja expressamente atribuída ao diretor-geral da Autoridade Tributária e Aduaneira.
 
 8 - São de reconhecimento automático, competindo a sua verificação e declaração ao serviço de finanças onde for apresentada a declaração prevista no n.º 1 do artigo 19.º, as seguintes isenções:
 
-a) As previstas nas alíneas a) e c) do artigo 6.º, no artigo 7.º e na alínea a) do n.º 2 do artigo 8.º, desde que o valor que serviria de base à liquidação do IMT, caso este fosse devido, apurado nos termos da regra 5.ª do artigo 12.º, não exceda o montante referido no artigo 9.º;
+a) As previstas nas alíneas a), c), d), e) e g) do artigo 6.º, no artigo 7.º e nas alíneas a) e b) do n.º 2 do artigo 8.º, desde que o valor que serviria de base à liquidação do IMT, caso este fosse devido, apurado nos termos da regra 5.ª do artigo 12.º, seja igual ou inferior a (euro) 300 000;
 
 b) As previstas no artigo 9.º;
 
