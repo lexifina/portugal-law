@@ -6,7 +6,7 @@
 
 2 - A declaração prevista no número anterior deve ser efectuada até ao dia 10 do mês seguinte àquele a que diga respeito.
 
-3 - Sem prejuízo do disposto no número seguinte, a falta ou a insuficiência das declarações previstas nos números anteriores podem ser supridas oficiosamente pela instituição de segurança social competente designadamente por recurso aos dados de que disponha no seu sistema de informação, no sistema de informação fiscal ou decorrente de acção de fiscalização.
+3 - Sem prejuízo do disposto no número seguinte, a falta ou a insuficiência das declarações previstas nos números anteriores podem ser supridas ou corrigidas oficiosamente pela instituição de segurança social competente, designadamente por recurso aos dados de que disponha no seu sistema de informação, no sistema de informação fiscal ou decorrente de ação de fiscalização.
 
 4 - O suprimento oficioso das declarações previstas nos números anteriores é notificado à entidade contribuinte nos termos do disposto no Código do Procedimento Administrativo.
 
