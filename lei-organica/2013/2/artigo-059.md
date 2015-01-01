@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo do disposto em legislação fiscal nacional para vigorar apenas nas regiões autónomas, a adaptação do sistema fiscal nacional às especificidades regionais observa o disposto na presente lei e respetiva legislação complementar.
 
-2 - As Assembleias Legislativas das regiões autónomas podem ainda, nos termos da lei, diminuir as taxas nacionais do IRS, do IRC e do IVA, até ao limite de 20 %, e dos impostos especiais de consumo, de acordo com a legislação em vigor.
+2 - As Assembleias Legislativas das regiões autónomas podem ainda, nos termos da lei e tendo em conta a situação financeira e orçamental da região autónoma, diminuir as taxas nacionais do IRS, do IRC e do IVA, até ao limite de 30 % e dos impostos especiais de consumo, de acordo com a legislação em vigor.
 
 3 - As Assembleias Legislativas podem também determinar a aplicação nas regiões autónomas das taxas reduzidas do IRC definida em legislação nacional, nos termos e condições que vierem a ser fixados em decreto legislativo regional.
 
