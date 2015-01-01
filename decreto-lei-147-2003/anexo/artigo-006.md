@@ -2,7 +2,7 @@
 
 ### Circuito e validade dos documentos de transporte
 
-1 - Os documentos de transporte são processados pelos remetentes dos bens, sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º do Código do IVA, ou, mediante acordo prévio, por terceiros em seu nome e por sua conta, antes do início da circulação nos termos do n.º 2 do artigo 2.º do presente diploma, podendo ainda ser processados por outros sujeitos passivos quando os bens em circulação sejam objeto de prestação de serviços por eles efetuada.
+1 - Os documentos de transporte são processados pelos remetentes dos bens ou, mediante acordo prévio, por terceiros em seu nome e por sua conta, antes do início da circulação nos termos do n.º 2 do artigo 2.º
 
 2 - Ainda que processados nos termos do número anterior, para efeitos do presente diploma consideram-se não exibidos os documentos de transporte emitidos por sujeito passivo que se encontre em qualquer das seguintes situações:
 
@@ -32,4 +32,4 @@ c) O terceiro, ao remetente dos bens.
 
 9 - Relativamente aos bens sujeitos a fácil deterioração, o documento exigido no número anterior deve ser exibido de imediato.
 
-10 - Se ultrapassado o prazo estabelecido na parte final do n.º 6 do presente artigo, considera-se exibido o documento exigido nos termos do n.º 8 se os bens em causa se encontrarem devidamente registados no inventário final referente ao último exercício económico.
+10 - Se for ultrapassado o prazo estabelecido no n.º 6, considera-se exibido o documento exigido nos termos do n.º 8 caso os bens em causa se encontrem devidamente registados no inventário final referente ao último exercício económico.

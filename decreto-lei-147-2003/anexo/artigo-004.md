@@ -34,4 +34,4 @@ b) No caso de saída de bens a incorporar em serviços prestados pelo remetente 
 
 10 - Em relação aos bens transportados por vendedores ambulantes e vendedores em feiras e mercados, destinados a venda a retalho, abrangidos pelo regime especial de isenção ou regime especial dos pequenos retalhistas a que se referem os artigos 53.º e 60.º do Código do IVA, respetivamente, o documento de transporte pode ser substituído pelas faturas de aquisição processadas nos termos e de harmonia com os artigos 36.º e 40.º do mesmo Código.
 
-11 - Os documentos referidos nas alíneas a) e b) do n.º 6 e as alterações referidas no n.º 8 são comunicados, por inserção no Portal das Finanças, até ao 5.º dia útil seguinte ao do transporte.
+11 - Os documentos referidos nas alíneas a) e b) do n.º 6 e as alterações referidas no n.º 8 são comunicados até ao 5.º dia útil seguinte ao do transporte, por inserção no Portal das Finanças, ou por outra forma de transmissão eletrónica de dados, a definir por portaria do membro do Governo responsável pela área das finanças.

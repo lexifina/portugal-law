@@ -8,7 +8,7 @@ a) Os bens manifestamente para uso pessoal ou doméstico do próprio;
 
 b) Os bens provenientes de retalhistas, sempre que tais bens se destinem a consumidores finais que previamente os tenham adquirido, com excepção dos materiais de construção, artigos de mobiliário, máquinas eléctricas, máquinas ou aparelhos receptores, gravadores ou reprodutores de imagem ou de som, quando transportados em veículos de mercadorias;
 
-c) Os bens pertencentes ao ativo fixo tangível;
+c) Os bens registados como ativo fixo tangível do remetente;
 
 d) Os bens provenientes de produtores agrícolas, apícolas, silvícolas, de aquicultura ou de pecuária resultantes da sua própria produção e os bens que manifestamente se destinem a essa produção, transportados pelo próprio ou por sua conta;
 
@@ -20,7 +20,7 @@ g) Os veículos automóveis, tal como se encontram definidos no Código da Estra
 
 h) As taras e embalagens retornáveis;
 
-i) Os resíduos sólidos urbanos ou legalmente equiparados, provenientes das recolhas efetuadas pelas entidades competentes ou por empresas que prestem o mesmo serviço;
+i) Os resíduos urbanos, cuja gestão é assegurada pelos municípios nos termos do Regime Geral de Gestão de Resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto, provenientes das recolhas efetuadas por aqueles, no âmbito das suas competências, ou por outras entidades a prestar o mesmo serviço;
 
 j) Os resíduos hospitalares sujeitos a guia de acompanhamento nos termos do artigo 21.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho;
 
@@ -32,7 +32,7 @@ n) Os bens resultantes ou necessários à prossecução das atividades desenvolv
 
 2 - Encontram-se ainda excluídos do âmbito do presente diploma:
 
-a) Os produtos sujeitos a impostos especiais de consumo, tal como são definidos no artigo 4.º do Código dos Impostos Especiais de Consumo, publicado em anexo ao Decreto-Lei n.º 566/99, de 22 de Dezembro, quando circularem em regime suspensivo nos termos desse mesmo Código;
+a) Os produtos sujeitos a impostos especiais de consumo, tal como são definidos no artigo 5.º do Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, quando circularem em regime suspensivo nos termos desse mesmo Código;
 
 b) Os bens respeitantes a transacções intracomunitárias a que se refere o Decreto-Lei n.º 290/92, de 28 de Dezembro;
 

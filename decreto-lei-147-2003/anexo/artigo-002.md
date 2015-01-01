@@ -4,13 +4,13 @@
 
 1 - Para efeitos do disposto no presente diploma considera-se:
 
-a) «Bens» os que puderem ser objecto de transmissão nos termos do artigo 3.º do Código do Imposto sobre o Valor Acrescentado;
+a) 'Bens', os que puderem ser objeto de transmissão ou de prestação de serviços nos termos dos artigos 3.º e 4.º, ambos do Código do Imposto sobre o Valor Acrescentado;
 
 b) 'Documento de transporte' a fatura, guia de remessa, nota de devolução, guia de transporte ou documentos equivalentes;
 
 c) «Valor normal» o preço de aquisição ou de custo devidamente comprovado pelo sujeito passivo ou, na falta deste o valor normal determinado nos termos do n.º 4 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado;
 
-d) 'Remetente' a pessoa singular ou coletiva ou entidade fiscalmente equiparada que coloca os bens em circulação à disposição do transportador para efetivação do respetivo transporte ou operações de carga, bem como o transportador quando os bens em circulação lhe pertençam;
+d) 'Remetente', a pessoa singular ou coletiva ou entidade fiscalmente equiparada que, por si ou através de terceiros em seu nome e por sua conta, coloca os bens à disposição do transportador para efetivação do respetivo transporte ou de operações de carga, o transportador quando os bens em circulação lhe pertençam ou, ainda, outros sujeitos passivos quando os bens em circulação sejam objeto de prestação de serviços por eles efetuada;
 
 e) «Transportador» a pessoa singular ou colectiva ou entidade fiscalmente equiparada que, recebendo do remetente ou de anterior transportador os bens em circulação, realiza ou se propõe realizar o seu transporte até ao local de destino ou de transbordo ou, em caso de dúvida, a pessoa em nome de quem o veículo transportador se encontra registado, salvo se o mesmo for objecto de um contrato de locação financeira, considerando-se aqui o respectivo locatário;
 
