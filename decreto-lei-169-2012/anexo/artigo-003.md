@@ -28,6 +28,6 @@ h) Adotar as medidas necessárias para evitar riscos em matéria de segurança e
 
 3 - Sempre que seja detetada alguma anomalia no funcionamento do estabelecimento, o industrial deve tomar as medidas adequadas para corrigir a situação e, se necessário, proceder à suspensão da exploração, devendo imediatamente comunicar esse facto à entidade coordenadora.
 
-4 - (Revogado);
+4 - O industrial deve disponibilizar à entidade coordenadora e às entidades com competências de fiscalização e de controlo oficial, após solicitação, um processo organizado e atualizado sobre os procedimentos do SIR e os elementos relativos a todas as alterações introduzidas no estabelecimento industrial.
 
-5 - (Revogado).
+5 - Sem prejuízo do disposto no número anterior, o processo de licenciamento do estabelecimento industrial está disponível para consulta pelo industrial na respetiva área reservada da empresa no «Balcão do empreendedor», podendo a entidade coordenadora, bem como as entidades com competências de controlo oficial e de fiscalização, aceder a esta informação através deste sistema.

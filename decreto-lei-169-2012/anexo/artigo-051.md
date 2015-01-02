@@ -2,7 +2,7 @@
 
 ### Comunicações à entidade coordenadora
 
-A entidade gestora deve comunicar à entidade coordenadora:
+A sociedade gestora deve comunicar à DGAE:
 
 a) A data em que dá início à exploração da ZER, com uma antecedência não inferior a cinco dias;
 

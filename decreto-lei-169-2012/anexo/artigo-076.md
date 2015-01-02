@@ -14,4 +14,4 @@ d) Encerramento do estabelecimento e instalações.
 
 2 - As sanções previstas nas alíneas b), c) e d) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva.
 
-3 - As sanções acessórias previstas nas alíneas a), b) e c) do n.º 1, quando aplicadas a estabelecimentos industriais de tipo 1 são publicitadas pela autoridade que aplicou a coima, a expensas do infrator.
+3 - As sanções acessórias previstas nas alíneas a), b) e c) do n.º 1, quando aplicadas a estabelecimentos industriais integrados no regime de autorização prévia, são publicitadas pela autoridade que aplicou a coima, a expensas do infrator.

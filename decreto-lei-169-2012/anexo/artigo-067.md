@@ -16,4 +16,4 @@ c) Implementar e manter permanentemente em funcionamento um sistema de gestão d
 
 d) Manter devidamente compilados e arquivados os registos referentes à sua atividade, destinados a demonstrar a observância dos requisitos aplicáveis, por um período mínimo de cinco anos;
 
-e) Celebrar contrato de seguro de responsabilidade civil extracontratual nos termos previstos no n.º 2 do artigo 4.º
+e) Celebrar contrato de seguro de responsabilidade civil extracontratual nos termos previstos no n.º 3 do artigo 4.º

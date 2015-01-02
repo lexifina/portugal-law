@@ -1,23 +1,17 @@
 # Artigo 16.º
 
-### Prazos e efeitos do incumprimento dos prazos
+### Regime dos atos tácitos
 
-1 - Os prazos previstos no SIR são contados nos seguintes termos:
+1 - Na ausência de parecer expresso da entidade pública consultada, disponibilizado à entidade coordenadora nos prazos previstos no anexo iv ao SIR, considera-se que a entidade se pronunciou em sentido favorável à pretensão do requerente.
 
-a) Os prazos contam-se em dias úteis;
+2 - Na falta de decisão expressa da entidade coordenadora, nos prazos para o efeito previstos no SIR, e não se verificando nenhuma das causas de indeferimento neste previstas, considera-se tacitamente deferida a pretensão do particular, sem necessidade de qualquer ulterior ato de entidade administrativa ou de autoridade judicial.
 
-b) Os prazos não se interrompem em caso algum;
+3 - O comprovativo eletrónico de entrega do pedido no «Balcão do empreendedor», acompanhado do comprovativo do pagamento das taxas eventualmente devidas, constituem título bastante para o exercício da atividade, sem prejuízo de a respetiva eficácia estar condicionada ao cumprimento do dever de apresentação de cópia da apólice de seguro de responsabilidade civil previsto no artigo 4.º
 
-c) Os prazos são suspensos nos termos previstos no SIR;
+4 - Nas situações previstas no n.º 2, a plataforma notifica automaticamente o interessado da ocorrência do deferimento tácito.
 
-d) Os prazos prevalecem sobre quaisquer normas legais ou regulamentares previstas nos regimes procedimentais a que se refere o artigo 1.º do SIR;
+5 - A instalação e ou a exploração de estabelecimento industrial, ainda que aprovada por deferimento tácito da entidade coordenadora, deve cumprir, na respetiva execução:
 
-e) Os prazos previstos no anexo iv ao SIR não são cumulativos, prevalecendo, no caso de serem aplicáveis dois ou mais regimes aí previstos o prazo decisório máximo mais longo.
+a) No caso de estabelecimentos industriais de tipo 1, as condições estabelecidas na declaração de impacte ambiental (DIA) e ou no parecer sobre o relatório descritivo da conformidade do projeto de execução com a respetiva DIA, no parecer sobre avaliação de compatibilidade de localização, no relatório de segurança aprovado pela entidade competente e, no caso de já haver decisão sobre a mesma, na licença ambiental, bem como, quando aplicável, no título ou informação prévia de utilização de recursos hídricos e no título de emissão de gases com efeito de estufa e no alvará ou parecer de operação de gestão de resíduos;
 
-2 - Na falta de disposição especial, o prazo para a realização de quaisquer comunicações entre as entidades intervenientes, ou entre estas e o requerente, ou para a prática de quaisquer atos, é de 5 dias.
-
-3 - Na ausência de inserção no «Balcão do empreendedor» de licença, autorização, aprovação, registo, parecer, outros atos permissivos ou não permissivos necessários à instalação e ou exploração de estabelecimento industrial ou de ZER por parte da entidade pública competente nos prazos previstos no SIR, considera-se que a mesma se pronunciou em sentido favorável à pretensão do requerente ou que foi tacitamente deferida a pretensão do particular, sem necessidade de qualquer ulterior ato de entidade administrativa ou autoridade judicial, consoante aplicável.
-
-4 - Nos casos previstos no número anterior, e não se verificando nenhuma causa de não emissão do título digital relevante prevista no SIR, é o mesmo emitido.
-
-5 - A instalação e a exploração de estabelecimento industrial ou de ZER devem cumprir os condicionamentos legais e regulamentares aplicáveis, bem como os constantes de licença, autorização, aprovação, registo, parecer ou outros atos permissivos ou não permissivos de que dependa a instalação ou exploração do estabelecimento industrial ou da ZER, que integrem o respetivo título digital emitido no âmbito do SIR.
+b) No caso de estabelecimentos industriais de tipo 2, as condições estabelecidas no título ou decisão sobre informação prévia de utilização dos recursos hídricos, no alvará ou parecer de operador de gestão de resíduos e no título de emissão de gases com efeito de estufa.

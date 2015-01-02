@@ -1,17 +1,17 @@
 ## Secção IV
 
-## Procedimento de mera comunicação prévia
+## Regime de mera comunicação prévia
 
 # Artigo 33.º
 
 ### Procedimento de mera comunicação prévia
 
-1 - A exploração de estabelecimento industrial de tipo 3 está sujeita ao regime de mera comunicação prévia, sem prejuízo de o interessado poder optar pela sujeição ao procedimento aplicável aos estabelecimentos de tipo 2, com vista à obtenção, de forma integrada, dos títulos necessários à exploração do estabelecimento industrial.
+1 - A exploração de estabelecimento industrial de tipo 3 está sujeita ao regime de mera comunicação prévia.
 
-2 - Para os efeitos previstos na parte final do número anterior, deve o interessado manifestar, no «Balcão do empreendedor», a opção referida e identificar no formulário correspondente as entidades a consultar para efeitos de obtenção dos títulos aplicáveis, cumprindo-se o disposto na secção iii do presente capítulo.
+2 - O cumprimento da obrigação de mera comunicação prévia é feito através da apresentação, à respetiva entidade coordenadora competente, de formulário e respetivos elementos instrutórios, nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas da economia, do emprego, da agricultura e do ambiente.
 
-3 - O procedimento de mera comunicação prévia consiste na inserção, no «Balcão do empreendedor», dos dados necessários à caracterização do estabelecimento industrial e respetiva atividade, bem como do título de utilização de recursos hídricos e do título de emissões para o ar inscritos no TUA, quando legalmente exigível, acompanhado de aceitação de termo de responsabilidade do cumprimento das exigências legais aplicáveis à atividade industrial, nos termos definidos na portaria a que se refere o n.º 1 do artigo 21.º
+3 - A mera comunicação prévia significa a aceitação de termo de responsabilidade, disponibilizado ao requerente no «Balcão do empreendedor», no qual declara conhecer e cumprir as exigências legais aplicáveis à sua atividade em matéria de segurança e saúde no trabalho e ambiente, bem como, quando aplicável, as exigências em matéria de segurança alimentar e os limiares de produção previstos na parte 2-A do anexo i ao SIR.
 
-4 - Submetidos os dados nos termos do número anterior, o «Balcão do empreendedor» emite automática e imediatamente o título digital de exploração e a guia para pagamento da taxa devida.
+4 - Sempre que a atividade ou operação a exercer no estabelecimento industrial de tipo 3 esteja abrangida por licença ou autorização padronizada nos domínios do ambiente, da segurança e saúde no trabalho, segurança alimentar e segurança contra incêndio em edifícios, a mera comunicação prévia significa a aceitação de termo de responsabilidade, disponibilizado ao requerente no «Balcão do empreendedor», no qual declara conhecer e cumprir todas as exigências constantes das licenças ou autorizações padronizadas em causa.
 
-5 - Considera-se que a data da mera comunicação prévia é a data indicada no título digital a que se refere o número anterior.
+5 - A exploração dos estabelecimentos de tipo 3 está sujeita às exigências legais em vigor e aplicáveis ao imóvel onde está situado, bem como aos condicionamentos legais e regulamentares aplicáveis à atividade industrial, designadamente em matéria de ambiente, segurança e saúde no trabalho, segurança alimentar e segurança contra incêndio em edifícios.

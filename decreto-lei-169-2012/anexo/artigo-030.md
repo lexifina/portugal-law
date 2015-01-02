@@ -4,40 +4,36 @@
 
 # Artigo 30.º
 
-### Objeto e início do procedimento
+### Procedimento de comunicação prévia com prazo
 
-1 - O procedimento para a instalação e exploração de um estabelecimento de tipo 2 envolve:
+1 - A exploração de estabelecimento industrial de tipo 2 só pode ter início após o requerente ter em seu poder título válido de exercício da atividade industrial obtido mediante o procedimento de comunicação prévia com prazo.
 
-a) A obtenção das licenças, autorizações, aprovações, registos, pareceres ou outros atos permissivos ou não permissivos de que dependa a instalação ou exploração de estabelecimento industrial de tipo 2; e
+2 - Os procedimentos previstos nos regimes jurídicos de utilização de recursos hídricos, de emissão de gases com efeito de estufa, de emissões de compostos orgânicos voláteis para o ambiente, ou de operações de gestão de resíduos são iniciados junto da entidade coordenadora e decorrem em simultâneo com o presente procedimento.
 
-b) A emissão de um título digital de instalação e exploração, que titule o direito do requerente de instalar e explorar um estabelecimento industrial de tipo 2.
+3 - O cumprimento da obrigação de comunicação prévia com prazo é feito através da apresentação à entidade coordenadora do respetivo formulário e elementos instrutórios, nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas da economia, do emprego, da agricultura e do ambiente.
 
-2 - O procedimento para a emissão de título digital de instalação e exploração é iniciado com a apresentação, no «Balcão do empreendedor», de um pedido de emissão de título digital de instalação e exploração, acompanhado dos respetivos elementos instrutórios, nos termos definidos na portaria a que se refere o n.º 1 do artigo 21.º
+4 - Sempre que a atividade ou operação a exercer no estabelecimento industrial esteja abrangida por licença ou autorização padronizada nos domínios do ambiente, da segurança e saúde no trabalho, caso seja aplicável nos termos de lei especial, e segurança alimentar, a comunicação prévia com prazo significa a aceitação de termo de responsabilidade, disponibilizado ao requerente no «Balcão do empreendedor» no qual declara conhecer e cumprir todas as exigências constantes das licenças ou autorizações padronizadas em causa.
 
-3 - Submetido o pedido nos termos do número anterior, o «Balcão do empreendedor» emite automática e imediatamente a guia para pagamento da taxa devida pelo pedido de emissão de título digital de instalação e exploração.
+5 - Considera-se que a data da comunicação prévia com prazo é a data indicada no respetivo comprovativo do pagamento da taxa prevista no artigo 79.º, emitido pelo «Balcão do empreendedor».
 
-4 - Verificado o pagamento da taxa devida, o «Balcão do empreendedor» emite, automática e imediatamente:
+6 - O recibo comprovativo do recebimento da comunicação prévia com prazo identifica os condicionamentos aplicáveis.
 
-a) Recibo comprovativo do pagamento da taxa devida, identificando, sempre que possível, as entidades públicas cuja consulta seja obrigatória;
+7 - A entidade coordenadora procede à verificação da comunicação prévia com prazo, incluindo os respetivos elementos instrutórios e, havendo lugar a consultas obrigatórias, disponibiliza o processo às entidades a consultar no prazo de cinco dias, contado da data da apresentação do pedido.
 
-b) Notificação da entidade coordenadora e das entidades públicas a consultar, informando que o procedimento iniciado se encontra disponível para verificação.
+8 - Se a verificação da comunicação prévia com prazo e respetivos elementos instrutórios, efetuada pela entidade coordenadora, ou pelas entidades consultadas nos termos do disposto no artigo seguinte, revelar a sua não conformidade com os condicionamentos legais e regulamentares aplicáveis, a entidade coordenadora profere, no prazo de 10 ou 7 dias, consoante haja ou não lugar a consultas obrigatórias, contado a partir da data da comunicação prévia com prazo:
 
-5 - Considera-se que a data do pedido de emissão do título digital de instalação e exploração é a data indicada no recibo a que se refere a alínea a) do número anterior.
-
-6 - No prazo de 15 dias contados da data do pedido a entidade coordenadora profere:
-
-a) Despacho de convite ao aperfeiçoamento, no qual especifica em concreto os elementos em falta, bem como, se for caso disso, os esclarecimentos necessários à boa instrução do procedimento, caso se verifiquem desconformidades sanáveis entre o pedido e respetivos elementos instrutórios e os condicionamentos legais e regulamentares aplicáveis; ou
+a) Despacho de convite ao aperfeiçoamento, no qual especifica em concreto os elementos em falta, bem como, se for caso disso, os esclarecimentos necessários à boa instrução do processo, suspendendo-se o prazo para a decisão da entidade coordenadora ou das entidades consultadas, consoante os casos, até à receção dos elementos solicitados;
 
 b) Despacho de indeferimento liminar, com a consequente extinção do procedimento, se a não conformidade com os condicionamentos legais e regulamentares for insuscetível de suprimento ou correção.
 
-7 - Para os efeitos previstos nas alíneas a) e b) do número anterior, as entidades públicas notificadas ao abrigo da alínea b) do n.º 4, se verificarem a existência de omissões ou irregularidades no pedido, solicitam à entidade coordenadora, até ao décimo dia do prazo a que se refere o número anterior, por uma só vez, que o requerente seja convidado a suprir aquelas omissões ou irregularidades ou pronunciam-se em sentido favorável ao indeferimento liminar do pedido quando considerem que as mesmas não são sanáveis.
+9 - O prazo referido no número anterior é de 15 dias no caso dos pedidos de autorização referentes a instalações abrangidas pelos regimes de título de utilização de recursos hídricos, operações de gestão de resíduos e título de emissão de gases com efeito de estufa.
 
-8 - Decorrido o prazo previsto no n.º 6 sem que ocorra convite ao aperfeiçoamento ou indeferimento liminar do pedido, o «Balcão do empreendedor» emite imediata e automaticamente comprovativo eletrónico onde conste a data de apresentação do pedido de emissão de título digital de instalação e exploração e a menção à sua regular instrução, não podendo ser solicitados quaisquer elementos adicionais.
+10 - Decorridos os prazos previstos nos n.os 8 ou 9, consoante os casos, sem que ocorra convite ao aperfeiçoamento, é automaticamente disponibilizado no «Balcão do empreendedor» comprovativo eletrónico de onde conste a data da apresentação da comunicação prévia com prazo e a menção à sua regular instrução.
 
-9 - Tendo sido proferido despacho de convite ao aperfeiçoamento, o requerente dispõe de um prazo de 15 dias para corrigir ou completar o pedido, sob pena de indeferimento liminar.
+11 - Tendo sido proferido despacho de convite ao aperfeiçoamento, o requerente dispõe de um prazo máximo de 15 dias para corrigir ou completar o pedido, sob pena de indeferimento liminar.
 
-10 - Submetidos os elementos a que se refere o número anterior, o «Balcão do empreendedor» notifica automática e imediatamente a entidade coordenadora e as entidades públicas consultadas, para que, no prazo de 5 dias a contar da junção ao processo dos elementos adicionais, a entidade coordenadora, após articulação com as entidades públicas consultadas, profira despacho de indeferimento liminar, se verificar que subsiste a não conformidade com os condicionamentos legais e regulamentares.
+12 - No prazo de cinco dias a contar da junção ao processo dos elementos adicionais pelo requerente, a entidade coordenadora:
 
-11 - Decorrido o prazo previsto no número anterior sem que seja proferido o despacho de indeferimento liminar, o «Balcão do empreendedor» emite imediata e automaticamente o comprovativo eletrónico previsto no n.º 8.
+a) Disponibiliza-os às entidades consultadas se verificar o integral suprimento das omissões ou irregularidades e emite o comprovativo eletrónico previsto no n.º 10; ou
 
-12 - (Revogado).
+b) Profere despacho de indeferimento liminar se subsistir a não conformidade com os condicionamentos legais e regulamentares.

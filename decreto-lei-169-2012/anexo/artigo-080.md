@@ -1,31 +1,33 @@
 # Artigo 80.º
 
-### Taxa única
+### Forma de pagamento e repartição das taxas
 
-1 - Sem prejuízo do disposto no artigo seguinte, a taxa referida no n.º 1 do artigo anterior é constituída por um valor global, que inclui todas as licenças, autorizações, aprovações, pareceres, comunicações prévias com prazo, vistorias prévias, meras comunicações prévias e outros atos permissivos ou não permissivos necessários ou integrados no procedimento.
+1 - As taxas e os quantitativos correspondentes a despesas feitas pelos serviços que constituam encargo do requerente são pagas à entidade coordenadora no prazo de 30 dias.
 
-2 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da modernização administrativa, da economia, do ambiente e da agricultura, são regulamentados os seguintes aspetos em matéria de taxas:
+2 - A entidade coordenadora estabelece as formas mais adequadas de pagamento das taxas, incluindo, nomeadamente, a utilização de meios eletrónicos.
 
-a) A fórmula de cálculo da taxa única, correspondente à intervenção de todas as entidades públicas da administração central intervenientes nos procedimentos previstos no SIR, e as regras aplicáveis à respetiva atualização;
+3 - Os quantitativos arrecadados são consignados à satisfação dos encargos dos respetivos serviços com a execução, desenvolvimento e aperfeiçoamento das ações de controlo do exercício da atividade industrial, incluindo os sistemas de informação e os guias técnicos, sendo a sua movimentação efetuada nos termos legais.
 
-b) Os modos de pagamento, que incluem obrigatoriamente o pagamento por meios exclusivamente automáticos e eletrónicos, nos termos previstos no artigo 30.º do Decreto-Lei n.º 73/2014, de 13 de maio;
+4 - Sem prejuízo do disposto no número seguinte, as receitas provenientes da aplicação das taxas de autorização prévia ou de comunicação prévia com prazo dos estabelecimentos, com exceção daqueles cuja entidade coordenadora é a câmara municipal, têm a seguinte distribuição:
 
-c) Os termos e condições da redução das taxas aplicáveis nos casos de adesão a condições técnicas padronizadas, bem como nos casos de estabelecimentos industriais localizados em ZER, nos termos do disposto na alínea c) do n.º 5 do artigo 8.º e no n.º 4 do artigo 59.º, respetivamente;
+a) Um mínimo de 60 % para a entidade coordenadora;
 
-d) Os termos e condições da cobrança de um valor adicional relativamente à taxa devida pela prestação do serviço de atendimento digital assistido à utilização do «Balcão do empreendedor» pelas entidades coordenadoras e entidades públicas definidas nos termos do Decreto-Lei n.º 74/2014, de 13 de maio;
+b) 5 % para a entidade responsável pela administração do «Balcão do empreendedor»;
 
-e) Os termos da cobrança, da repartição, e respetiva operacionalização, das receitas das taxas devidas ao abrigo do n.º 1 do artigo anterior, incluindo nas situações de ausência de pronúncia expressa de uma ou mais entidades que devam pronunciar-se no âmbito de procedimentos e dentro dos prazos previstos no SIR;
+c) Até 20 % para cada uma das entidades que se tiverem pronunciado expressamente no processo, com exceção da entidade coordenadora.
 
-f) Os termos e condições dos pagamentos devidos por despesas feitas pelos serviços que constituam encargo do requerente.
+5 - Sem prejuízo do disposto na alínea b) do número anterior, no caso de ser emitida pronúncia efetiva por duas ou mais entidades, o montante que restar é rateado em partes iguais.
 
-3 - (Revogado).
+6 - No caso de estabelecimentos industriais sujeitos ao regime de prevenção e controlo integrados da poluição, ou ao nível superior de perigosidade do regime de prevenção de acidentes graves envolvendo substâncias perigosas, a receita resultante da aplicação das taxas previstas no artigo anterior tem a seguinte distribuição:
 
-4 - (Revogado).
+a) 50 % para a APA, I. P.;
 
-5 - (Revogado).
+b) 30 % para a entidade coordenadora;
 
-6 - (Revogado).
+c) 5 % para a entidade responsável pela administração do «Balcão do empreendedor»;
 
-7 - (Revogado).
+d) 15 % a ratear pelas outras entidades intervenientes, sendo que, na ausência da sua intervenção, este montante reverte para a entidade coordenadora.
 
-8 - (Revogado).
+7 - No caso dos estabelecimentos que obtenham a exclusão da sujeição ao regime de prevenção e controlo integrados da poluição, a distribuição das taxas devidas pelos atos previstos nas alíneas e) e m) do n.º 1 do artigo 79.º é a prevista nos n.os 4 e 5.
+
+8 - O serviço processador das receitas transfere para as demais entidades, por transferência bancária ou cheque, as respetivas participações na receita, com uma relação discriminada dos processos a que se referem, até ao dia 10 de cada mês.

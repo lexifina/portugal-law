@@ -1,49 +1,39 @@
 # Artigo 32.º
 
-### Título digital de instalação e exploração
+### Título de instalação e exploração
 
-1 - A exploração de estabelecimento industrial de tipo 2 só pode ter início após a emissão do título digital de instalação e exploração nos termos previstos nos números seguintes.
+1 - A entidade coordenadora profere uma decisão final fundamentada sobre a comunicação prévia com prazo, que inclui, nos casos em que intervieram outras entidades públicas, a síntese das diferentes pronúncias das entidades consultadas, estabelecendo, quando favorável, as condições a observar na exploração do estabelecimento em termos que vinculam as entidades públicas intervenientes no presente procedimento.
 
-2 - O título digital de instalação e exploração contém cópia integral das licenças, autorizações, aprovações, registos, pareceres, atos permissivos ou não permissivos necessários à instalação e exploração do estabelecimento industrial ou a menção do decurso do prazo para esse efeito, e ainda, se aplicável, as condições a observar pelo requerente na instalação e exploração, sendo emitido imediata e automaticamente após a verificação de uma das seguintes circunstâncias:
+2 - A decisão referida no número anterior só produz efeitos após apreciação positiva de cópia da apólice de seguro de responsabilidade civil previsto no artigo 4.º
 
-a) Inserção no «Balcão do empreendedor» da última das licenças, autorizações, aprovações, registos, pareceres, atos permissivos ou não permissivos necessários à instalação e exploração do estabelecimento industrial; ou
+3 - A decisão final da entidade coordenadora sobre a comunicação prévia com prazo não depende da realização de vistoria prévia, exceto no caso de exploração de atividade agroalimentar que utilize matéria-prima de origem animal não transformada ou de atividade de operação de gestão de resíduos que exija vistoria prévia à exploração, nos termos dos regimes legais aplicáveis, que são sempre precedidas de vistoria das autoridade responsáveis, e às quais é aplicável o disposto no artigo 35.º
 
-b) Termo do prazo para a emissão das licenças, autorizações, aprovações, registos, pareceres ou atos permissivos ou não permissivos necessários à instalação e exploração do estabelecimento industrial, quando as entidades públicas respetivas não se tenham pronunciado.
+4 - Quando não haja lugar a consultas, a decisão da entidade coordenadora é proferida no prazo de 10 dias contados da apresentação do pedido.
 
-3 - Quando não haja lugar a pronúncia da entidade pública competente nos termos no n.º 3 do artigo anterior, e não ocorrendo nenhuma das circunstâncias previstas no n.º 5, o título digital de instalação e exploração é emitido imediata e automaticamente na data em que seja emitido o comprovativo de regular instrução, a que se referem os n.os 8 e 11 do artigo 30.º
+5 - Sempre que haja lugar a consultas, a decisão sobre a comunicação prévia com prazo é proferida no prazo de 5 dias contados:
 
-4 - Sempre que haja lugar a consultas, o título digital de instalação e exploração é emitido imediata e automaticamente após a verificação de uma das seguintes circunstâncias:
+a) Da data de receção, se for caso disso, do último dos pareceres, autorizações ou aprovações emitidos pelas entidades consultadas;
 
-a) Inserção no «Balcão do empreendedor» da última das licenças, autorizações, aprovações, registos, pareceres favoráveis (ou se desfavoráveis, não vinculativos), outros atos permissivos ou não permissivos emitidos pelas entidades consultadas;
+b) Do termo do prazo para a pronúncia das entidades consultadas, sempre que alguma daquelas entidades não se pronuncie.
 
-b) No termo do prazo para a pronúncia das entidades públicas consultadas, sempre que alguma daquelas entidades não se pronuncie.
+6 - No caso de a instalação do estabelecimento implicar a realização de operação urbanística sujeita a controlo prévio e caso haja lugar a vistoria da entidade responsável pela gestão do sistema de segurança alimentar, a decisão da entidade coordenadora sobre a comunicação prévia com prazo é proferida nos prazos referidos nos n.os 4 ou 5, consoante haja ou não lugar a consultas.
 
-5 - O título digital de instalação e exploração não é emitido quando ocorra uma das seguintes circunstâncias:
+7 - A decisão da entidade coordenadora referida no número anterior, quando favorável, é sempre condicionada à realização da vistoria da entidade responsável pela gestão do sistema de segurança alimentar, a qual é solicitada pela entidade coordenadora, a pedido do requerente, com a antecedência mínima de 30 dias relativamente à data de início de exploração referida no n.º 13.
 
-a) Desconformidade das características e especificações do estabelecimento industrial descritas no pedido que contrariem ou não cumpram os condicionamentos legais e regulamentares em vigor, desde que a pronúncia da entidade consultada atribua a tais desconformidades relevo suficiente para a não emissão do título digital de instalação e exploração do estabelecimento industrial;
+8 - Só pode ser proferida decisão desfavorável sobre a comunicação prévia com prazo com fundamento em:
 
-b) Indeferimento dos pedidos de título de emissão de gases com efeito de estufa, inscrito no TUA;
+a) Características e especificações da instalação industrial descrita na comunicação prévia com prazo que contrariem ou não cumpram os condicionamentos legais e regulamentares em vigor, e desde que tais desconformidades tenham relevo suficiente para a não permissão do início da exploração do estabelecimento industrial ou, no caso previsto na alínea a) do n.º 8 do artigo 27.º, que não correspondam ao âmbito de aplicação das licenças ou autorizações padronizadas objeto do pedido;
 
-c) Indeferimento de título ou de decisão sobre o pedido de informação prévia de utilização de recursos hídricos em instalações industriais, inscrito no TUA;
+b) Indeferimento dos pedidos de título de emissão de gases com efeito de estufa, de título de utilização de recurso hídricos, de alvará de operações de gestão de resíduos ou de atribuição do número de controlo veterinário, quando aplicável;
 
-d) Indeferimento do pedido de alvará de operação de gestão de resíduos, inscrito no TUA;
+c) Decisão desfavorável da CCDR, em razão da localização.
 
-e) Falta de apresentação da aprovação do projeto de arquitetura ou da informação prévia favorável, a que se refere o n.º 2 do artigo 17.º;
+9 - A decisão final sobre a comunicação prévia com prazo é comunicada ao industrial, à câmara municipal territorialmente competente e a todas as entidades que se pronunciaram no procedimento.
 
-f) Indeferimento do pedido do título de emissões para o ar, inscrito no TUA.
+10 - Sem prejuízo do disposto nos números seguintes, o requerente pode iniciar a exploração do estabelecimento logo que tenha em seu poder a notificação da decisão favorável, ou favorável condicionada ou a certidão prevista no n.º 3 do artigo 16.º
 
-6 - O título digital de instalação e exploração é emitido de forma eletrónica e automática pelo «Balcão do empreendedor», sendo enviada notificação ao requerente, à entidade coordenadora, à câmara municipal territorialmente competente, às entidades públicas consultadas, bem como às entidades cuja consulta tenha sido dispensada ao abrigo do n.º 3 do artigo anterior.
+11 - Quando se trate de atividade agroalimentar que utilize matéria-prima de origem animal não transformada ou de atividade de operação de gestão de resíduos que exija vistoria prévia à exploração, nos termos dos regimes legais aplicáveis, a exploração só pode ter início após a comunicação ao requerente do resultado da vistoria a que se refere o n.º 2, sendo o respetivo resultado disponibilizado ao requerente no «Balcão do empreendedor» no último dia de realização da vistoria ou nos cinco dias subsequentes.
 
-7 - O requerente pode iniciar a exploração do estabelecimento industrial logo que seja emitido o título digital de instalação e exploração e uma vez contratado o seguro de responsabilidade civil a que se refere o n.º 1 do artigo 4.º
+12 - Quando a instalação, ampliação ou alteração do estabelecimento industrial envolva a realização de uma operação urbanística sujeita a controlo prévio, o início da exploração depende da emissão de título de autorização de utilização emitido pela câmara municipal territorialmente competente ou verificado o respetivo deferimento tácito.
 
-8 - O requerente deve comunicar à entidade coordenadora a data de início da exploração com uma antecedência não inferior a 5 dias, sendo tal comunicação notificada automaticamente através do «Balcão do empreendedor» a todas as entidades consultadas, bem como às entidades cuja consulta tenha sido dispensada nos termos do n.º 3 do artigo 31.º
-
-9 - Verificando-se uma causa de não emissão do título digital de instalação e exploração, nos termos previstos no n.º 5, o «Balcão do empreendedor» envia notificação ao requerente e demais entidades referidas no n.º 6.
-
-10 - (Revogado.)
-
-11 - (Revogado.)
-
-12 - (Revogado.)
-
-13 - (Revogado.)
+13 - O requerente deve comunicar à entidade coordenadora a data do início da exploração, com uma antecedência não inferior a cinco dias, dando esta conhecimento de tal facto a todas as entidades consultadas.
