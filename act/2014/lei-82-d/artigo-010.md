@@ -18,9 +18,9 @@ a partir de fontes renováveis
 
 4 - Na situação abrangida pelo número anterior, se o pedido for apresentado para além do prazo referido, o benefício inicia-se a partir do ano imediato, inclusive, ao da sua apresentação.
 
-5 - A redução de taxa prevista no n.º 1 vigora enquanto a afetação à produção de energia a partir de fontes renováveis se mantiver, ficando o sujeito passivo obrigado a comunicar ao serviço de finanças da área do prédio, no prazo de 30 dias contados do facto relevante, o termo dessa afetação.
+5 - A redução de taxa prevista no n.º 1 é aplicável enquanto a afetação à produção de energia a partir de fontes renováveis se mantiver, ficando o sujeito passivo obrigado a comunicar ao serviço de finanças da área do prédio, no prazo de 30 dias contados do facto relevante, o termo dessa afetação.
 
-6 - O benefício previsto no presente artigo vigora pelo período de cinco anos.
+6 - O benefício previsto no presente artigo é aplicável pelo período de cinco anos.
 
 Artigo 44.º-B
 
@@ -46,7 +46,7 @@ c) Quando o prédio aproveite águas residuais tratadas ou águas pluviais, nos 
 
 6 - Nas situações abrangidas pelo número anterior, se o pedido for apresentado para além do prazo referido, o benefício inicia-se a partir do ano imediato, inclusive, ao da sua apresentação.
 
-7 - Os benefícios previstos no presente artigo vigoram pelo período de cinco anos.
+7 - Os benefícios previstos no presente artigo são aplicáveis pelo período de cinco anos.
 
 Artigo 59.º-A
 

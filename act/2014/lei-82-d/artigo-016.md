@@ -74,9 +74,9 @@ TGR EG = 30 % do valor base de TGR definido no n.º 2 por cada tonelada de resí
 
 a) A avaliação intercalar nos anos 2016 e 2018 incide sobre as metas A - metas de retomas de recolha seletiva de embalagens e B - metas para deposição de RUB de aterro, de acordo com o seguinte:
 
-i) Em caso de desvio ao cumprimento das metas, a TGR-NR é calculada nos seguintes termos e sujeita a um fator de aumento progressivo:
+i) Em caso de desvio ao cumprimento das metas, a TGR -NR é calculada nos seguintes termos e sujeita a um fator de aumento progressivo:
 
-TGR-NR (A, B) = a x TGR x (A) + a x TGR x (delta) (B)
+TGR -NR (A, B) = a x TGR x (delta) (A) + a x TGR x (delta) (B)
 
 em que:
 
