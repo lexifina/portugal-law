@@ -26,7 +26,7 @@ c) Declaração anual de informação contabilística e fiscal, nos termos do ar
 
 5 - Quando as declarações não forem consideradas suficientemente claras, a Autoridade Tributária e Aduaneira notifica os sujeitos passivos para prestarem por escrito, no prazo que lhes for fixado, nunca inferior a cinco dias, os esclarecimentos indispensáveis.
 
-6 - A obrigação a que se refere a alínea b) do n.º 1 não abrange as entidades isentas ao abrigo do artigo 9.º, exceto quando estejam sujeitas a uma qualquer tributação autónoma.
+6 - A obrigação a que se refere a alínea b) do n.º 1 não abrange as entidades isentas ao abrigo do artigo 9.º, exceto quando estejam sujeitas a uma qualquer tributação autónoma ou quando obtenham rendimentos de capitais que não tenham sido objeto de retenção na fonte com caráter definitivo.
 
 7 - (Revogado.)
 

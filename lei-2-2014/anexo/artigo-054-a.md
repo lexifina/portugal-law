@@ -24,7 +24,7 @@ b) Esse estabelecimento estável não esteja localizado em país, território ou
 
 7 - Na desafetação de elementos patrimoniais de um estabelecimento estável situado fora do território português, considera-se valor de realização o respetivo valor de mercado.
 
-8 - No caso de exercício da opção prevista no n.º 1, não é aplicável aos lucros e prejuízos imputáveis a estabelecimento estável situado fora do território português o disposto no artigo 91.º ou outro método de eliminação da dupla tributação internacional ao abrigo de convenção para evitar a dupla tributação celebrada por Portugal.
+8 - No caso de exercício da opção prevista no n.º 1, não é aplicável aos lucros e prejuízos imputáveis a estabelecimento estável situado fora do território português o disposto no n.º 2 do artigo 74.º e no artigo 91.º ou outro método de eliminação da dupla tributação internacional ao abrigo de convenção para evitar a dupla tributação celebrada por Portugal.
 
 9 - No caso de aos lucros e prejuízos imputáveis a estabelecimento estável situado fora do território português deixar de ser aplicável o disposto no n.º 1:
 
@@ -33,3 +33,5 @@ a) Não concorrem para a determinação do lucro tributável do sujeito passivo 
 b) Em caso de transformação do estabelecimento estável em sociedade, não é aplicável o disposto nos artigos 51.º e 51.º-C e no n.º 3 do artigo 81.º aos lucros e reservas distribuídos, nem às mais-valias decorrentes da transmissão onerosa das partes de capital e da liquidação dessa sociedade, respetivamente, até ao montante dos lucros imputáveis ao estabelecimento estável que não concorreram para a determinação do lucro tributável do sujeito passivo nos 12 períodos de tributação anteriores, nos termos previstos no n.º 1.
 
 10 - A opção e a renúncia à aplicação do disposto no n.º 1 deve ser comunicada à Autoridade Tributária e Aduaneira através do envio, por transmissão eletrónica de dados, da declaração prevista no artigo 118.º, até ao fim do 3.º mês do período de tributação em que se pretende iniciar ou cessar a respetiva aplicação.
+
+11 - Em caso de afetação de elementos patrimoniais de uma entidade residente a um seu estabelecimento estável situado noutro Estado membro da União Europeia ou do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio do intercâmbio de informações e da assistência à cobrança equivalente à estabelecida na União Europeia, relativamente ao qual tenha sido exercida a opção prevista no n.º 1, é aplicável, com as necessárias adaptações, o disposto nos n.os 2 a 9 do artigo 83.º

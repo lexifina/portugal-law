@@ -6,7 +6,7 @@
 
 a) 0,04 das vendas de mercadorias e produtos, bem como das prestações de serviços efetuadas no âmbito de atividades hoteleiras e similares, restauração e bebidas;
 
-b) 0,75 dos rendimentos das atividades profissionais constantes da tabela a que se refere o artigo 151.º do Código do IRS;
+b) 0,75 dos rendimentos das atividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º do Código do IRS;
 
 c) 0,10 dos restantes rendimentos de prestações de serviços e subsídios destinados à exploração;
 
@@ -30,6 +30,8 @@ f) 1,00 do valor de aquisição dos incrementos patrimoniais obtidos a título g
 
 8 - Os subsídios relacionados com ativos não correntes são, quando respeitem a ativos depreciáveis ou amortizáveis, considerados, após a aplicação do coeficiente previsto na alínea d) do n.º 1, pelo montante que proporcionalmente corresponder à quota mínima de depreciação ou amortização ou, nos restantes casos, nos termos estabelecidos no artigo 22.º
 
-9 - Em caso de correção aos valores de base contabilística utilizados para o apuramento da matéria coletável nos termos do n.º 1 por recurso a métodos indiretos, de acordo com o artigo 90.º da Lei Geral Tributária, é aplicável, com as necessárias adaptações, o disposto nos artigos 57.º a 62.º
+9 - O resultado positivo de rendimentos prediais obtém-se deduzindo ao montante dos rendimentos prediais ilíquidos, até à sua concorrência, as despesas de manutenção e de conservação dos imóveis que os geraram, o imposto municipal sobre imóveis, o imposto do selo que incide sobre o valor dos prédios ou parte de prédios, os prémios dos seguros obrigatórios e as respetivas taxas municipais.
 
-10 - Quando o sujeito passivo tenha beneficiado da aplicação do regime previsto no artigo 48.º, não sendo concretizado o reinvestimento até ao fim do 2.º período de tributação seguinte ao da realização, acresce à matéria coletável desse período de tributação a diferença ou a parte proporcional da diferença prevista no n.º 1 daquele artigo não incluída no lucro tributável majorada em 15 %.
+10 - Em caso de correção aos valores de base contabilística utilizados para o apuramento da matéria coletável nos termos do n.º 1 por recurso a métodos indiretos, de acordo com o artigo 90.º da Lei Geral Tributária, é aplicável, com as necessárias adaptações, o disposto nos artigos 57.º a 62.º
+
+11 - Quando o sujeito passivo tenha beneficiado da aplicação do regime previsto no artigo 48.º, não sendo concretizado o reinvestimento até ao fim do 2.º período de tributação seguinte ao da realização, acresce à matéria coletável desse período de tributação a diferença ou a parte proporcional da diferença prevista no n.º 1 daquele artigo não incluída no lucro tributável majorada em 15 %.

@@ -40,11 +40,11 @@ c) Sociedades financeiras de corretagem.
 
 9 - Nos casos em que os requisitos previstos nos números anteriores não se encontrem preenchidos, os lucros e reservas distribuídos ao sujeito passivo podem ainda beneficiar de crédito de imposto por dupla tributação internacional, nos termos do disposto nos artigos 91.º e 91.º-A.
 
-10 - Não obstante o disposto no n.º 2, os n.os 1 e 6 apenas são aplicáveis aos lucros e reservas distribuídos, que:
+10 - O disposto nos n.os 1 e 6 não é aplicável aos lucros e reservas distribuídos, que:
 
-a) Não correspondam a gastos dedutíveis pela entidade que os distribui para efeitos do imposto mencionado na alínea d) do n.º 1; e
+a) Correspondam a gastos dedutíveis pela entidade que os distribui para efeitos do imposto mencionado na alínea d) do n.º 1; ou
 
-b) Sejam distribuídos por entidades sujeitas e não isentas a imposto sobre o rendimento ou, quando aplicável, provenham de rendimentos sujeitos e não isentos a imposto sobre o rendimento nas entidades subafiliadas, salvo quando a entidade que distribui os lucros ou reservas seja residente num Estado membro da União Europeia ou de um Estado membro do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.
+b) Não obstante o disposto no n.º 2, sejam distribuídos por entidades não sujeitas ou sujeitas e isentas de imposto sobre o rendimento, salvo quando provenham de rendimentos sujeitos e não isentos a imposto sobre o rendimento nas entidades subafiliadas, sempre que a entidade que distribui os lucros ou reservas não seja residente num Estado membro da União Europeia ou do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.
 
 11 - (Revogado.)
 

@@ -24,7 +24,7 @@
 
 9 - Para efeitos do número anterior, não são consideradas as alterações:
 
-a) Das quais resulte a passagem da titularidade do capital social ou dos direitos de voto de direta para indireta, ou de indireta para direta;
+a) Das quais resulte a passagem da titularidade do capital social ou dos direitos de voto de direta para indireta, de indireta para direta, bem como das quais resulte a transmissão daquela titularidade entre sociedades cuja maioria do capital social ou dos direitos de voto seja detida direta ou indiretamente, nos termos do n.º 6 do artigo 69.º, por uma mesma entidade;
 
 b) Decorrentes de operações efetuadas ao abrigo do regime especial previsto nos artigos 73.º e seguintes;
 

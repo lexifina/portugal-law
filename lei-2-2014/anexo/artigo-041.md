@@ -10,7 +10,7 @@
 
 a) Em processo de execução, após o registo a que se refere a alínea b) do n.º 2 do artigo 717.º do Código de Processo Civil;
 
-b) Em processo de insolvência, quando a mesma for decretada de caráter limitado ou após a homologação da deliberação prevista no artigo 156.º do Código da Insolvência e da Recuperação de Empresas;
+b) Em processo de insolvência, quando a mesma for decretada de caráter limitado, após o trânsito em julgado da sentença de verificação e graduação de créditos prevista no Código da Insolvência e da Recuperação de Empresas ou, quando exista, a homologação do plano objeto da deliberação prevista no artigo 156.º do mesmo Código;
 
 c) Em processo especial de revitalização, após homologação do plano de recuperação pelo juiz, previsto no artigo 17.º-F do Código da Insolvência e da Recuperação de Empresas;
 

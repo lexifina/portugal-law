@@ -8,7 +8,7 @@ a) Juros e quaisquer outros rendimentos de capitais, com exceção de lucros e r
 
 b) Juros ou quaisquer acréscimos de crédito pecuniário, resultantes da dilação do respetivo vencimento ou de mora no seu pagamento, quando aqueles créditos sejam consequência de vendas ou prestações de serviços de pessoas coletivas ou outras entidades sujeitas, em relação aos mesmos, a IRC, embora dele isentas;
 
-c) Lucros e reservas distribuídos a entidades a que seja aplicável o regime estabelecido no n.º 1 do artigo 51.º, desde que a participação no capital tenha permanecido na titularidade da mesma entidade, de modo ininterrupto, durante o ano anterior à data da sua colocação à disposição;
+c) Lucros e reservas distribuídos a que seja aplicável o regime estabelecido no n.º 1 do artigo 51.º, desde que a participação no capital tenha permanecido na titularidade da mesma entidade, de modo ininterrupto, durante os 24 meses anteriores à data da sua colocação à disposição;
 
 d) Rendimentos referidos nas alíneas b) e g) do n.º 1 do artigo 94.º, quando obtidos por pessoas coletivas ou outras entidades sujeitas, relativamente aos mesmos, a IRC, embora dele isentas;
 

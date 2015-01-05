@@ -18,4 +18,6 @@ b) 30 dias a contar da data da alteração, nos restantes casos.
 
 6 - Os sujeitos passivos de IRC devem apresentar a declaração de cessação no prazo de 30 dias a contar da data da cessação da atividade.
 
-7 - O contribuinte fica dispensado da entrega da declaração mencionada no n.º 5 sempre que as alterações em causa sejam de factos sujeitos a registo na Conservatória do Registo Comercial e a entidades inscritas no Ficheiro Central de Pessoas Coletivas que não estejam sujeitas no registo comercial.
+7 - Os sujeitos passivos ficam dispensados da entrega da declaração mencionada no n.º 5 sempre que as alterações em causa respeitem a factos sujeitos a registo na Conservatória do Registo Comercial ou a entidades inscritas no Ficheiro Central de Pessoas Coletivas que não estejam sujeitas a registo comercial.
+
+8 - Os sujeitos passivos registados na Conservatória do Registo Comercial ou inscritos no Ficheiro Central das Pessoas Coletivas ficam dispensados da apresentação da declaração de cessação.

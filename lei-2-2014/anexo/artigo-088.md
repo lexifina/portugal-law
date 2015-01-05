@@ -6,7 +6,7 @@
 
 2 - A taxa referida no número anterior é elevada para 70 % nos casos em que tais despesas sejam efetuadas por sujeitos passivos total ou parcialmente isentos, ou que não exerçam, a título principal, atividades de natureza comercial, industrial ou agrícola e ainda por sujeitos passivos que aufiram rendimentos enquadráveis no artigo 7.º
 
-3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, motos ou motociclos, excluindo os veículos movidos exclusivamente a energia elétrica, às seguintes taxas:
+3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, viaturas ligeiras de mercadorias referidas na alínea b) do n.º 1 do artigo 7.º do Código do Imposto sobre Veículos, motos ou motociclos, excluindo os veículos movidos exclusivamente a energia elétrica, às seguintes taxas:
 
 a) 10 % no caso de viaturas com um custo de aquisição inferior a (euro) 25 000;
 
@@ -47,3 +47,7 @@ b) Os gastos ou encargos relativos a bónus e outras remunerações variáveis p
 15 - As taxas de tributação autónoma previstas nos n.os 7, 9, 11 e 13, bem como o disposto no número anterior, não são aplicáveis aos sujeitos passivos a que se aplique o regime simplificado de determinação da matéria coletável.
 
 16 - O disposto no presente artigo não é aplicável relativamente às despesas ou encargos de estabelecimento estável situado fora do território português e relativos à atividade exercida por seu intermédio.
+
+17 - No caso de viaturas ligeiras de passageiros híbridas plug-in, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 5 %, 10 % e 17,5 %.
+
+18 - No caso de viaturas ligeiras de passageiros movidas a GPL ou GNV, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 7,5 %, 15 % e 27,5 %.

@@ -8,7 +8,7 @@
 
 1 - Consideram-se mais-valias ou menos-valias realizadas os ganhos obtidos ou as perdas sofridas mediante transmissão onerosa, qualquer que seja o título por que se opere, e, bem assim, os decorrentes de sinistros ou os resultantes da afetação permanente a fins alheios à atividade exercida, respeitantes a:
 
-a) Ativos fixos tangíveis, ativos intangíveis, ativos biológicos que não sejam consumíveis e propriedades de investimento, ainda que qualquer destes ativos tenha sido reclassificado como ativo não corrente detido para venda;
+a) Ativos fixos tangíveis, ativos intangíveis, ativos biológicos não consumíveis e propriedades de investimento, ainda que qualquer destes ativos tenha sido reclassificado como ativo não corrente detido para venda;
 
 b) Instrumentos financeiros, com exceção dos reconhecidos pelo justo valor nos termos das alíneas a) e b) do n.º 9 do artigo 18.º
 
@@ -26,7 +26,9 @@ d) Nos casos de fusão, cisão, entrada de ativos ou permuta de partes sociais, 
 
 e) No caso de alienação de títulos de dívida, o valor da transação, líquido dos juros contáveis desde a data do último vencimento ou da emissão, primeira colocação ou endosso, se ainda não houver ocorrido qualquer vencimento, até à data da transmissão, bem como da diferença pela parte correspondente àqueles períodos, entre o valor de reembolso e o preço da emissão, nos casos de títulos cuja remuneração seja constituída, total ou parcialmente, por aquela diferença;
 
-f) Nos demais casos, o valor da respetiva contraprestação.
+f) No caso de afetação dos elementos patrimoniais referidos no n.º 1 a um estabelecimento estável situado fora do território português relativamente ao qual tenha sido exercida a opção pelo regime previsto no n.º 1 do artigo 54.º-A, o valor de mercado à data da afetação;
+
+g) Nos demais casos, o valor da respetiva contraprestação.
 
 4 - No caso de troca por bens futuros, o valor de mercado destes é o que lhes corresponderia à data da troca.
 
@@ -46,6 +48,8 @@ f) A remição e amortização de participações sociais com redução de capit
 
 g) A anulação das partes de capital por redução de capital social destinada à cobertura de prejuízos de uma sociedade quando o respetivo sócio, em consequência da anulação, deixe de nela deter qualquer participação.
 
+h) A afetação dos elementos patrimoniais previstos no n.º 1 de uma entidade residente a um seu estabelecimento estável situado fora do território português relativamente ao qual tenha sido exercida a opção pelo regime previsto no n.º 1 do artigo 54.º-A.
+
 6 - Não se consideram mais-valias ou menos-valias:
 
 a) Os resultados obtidos em consequência da entrega pelo locatário ao locador dos bens objeto de locação financeira;
@@ -56,7 +60,7 @@ b) Os resultados obtidos na transmissão onerosa, ou na afetação permanente no
 
 8 - Para efeitos do presente Código, no valor de aquisição das partes de capital devem considerar-se, consoante os casos, positiva ou negativamente:
 
-a) As entregas dos sócios para cobertura de prejuízos, os quais são imputados proporcionalmente a cada uma das partes de capital detidas; e
+a) O montante das entregas dos sócios para cobertura de prejuízos, o qual é imputado proporcionalmente a cada uma das partes de capital detidas; e
 
 b) O montante entregue aos sócios por redução do capital social até ao montante do valor de aquisição, o qual é imputado proporcionalmente a cada uma das partes de capital detidas.
 
@@ -71,3 +75,5 @@ b) O montante entregue aos sócios por redução do capital social até ao monta
 a) Não é aplicável a correção monetária prevista no artigo seguinte;
 
 b) A opção deve ser aplicada a todas as partes de capital que pertençam à mesma carteira e ser mantida por um período mínimo de três anos.
+
+13 - No caso de transmissões onerosas realizadas no âmbito de operações de fusão, quando não sejam atribuídas partes sociais ao sócio da sociedade fundida, considera-se mais-valia ou menos-valia de partes sociais a diferença positiva ou negativa, respetivamente, entre o valor de mercado das partes de capital da sociedade fundida na data da operação e o valor de aquisição das partes de capital detidas pelos sócios da sociedade fundida.

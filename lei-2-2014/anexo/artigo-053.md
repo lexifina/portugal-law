@@ -8,11 +8,9 @@
 
 1 - O rendimento global sujeito a imposto das pessoas coletivas e entidades mencionadas na alínea b) do n.º 1 do artigo 3.º é formado pela soma algébrica dos rendimentos líquidos das várias categorias determinados nos termos do IRS, incluindo os incrementos patrimoniais obtidos a título gratuito, aplicando-se à determinação do lucro tributável as disposições deste Código.
 
-2 - Para efeitos de determinação do rendimento global:
+2 - Os prejuízos fiscais apurados relativamente ao exercício de atividades comerciais, industriais ou agrícolas só podem ser deduzidos, nos termos e condições da parte aplicável do artigo 52.º, aos rendimentos da mesma categoria num ou mais dos doze períodos de tributação posteriores;
 
-a) Os prejuízos fiscais apurados relativamente ao exercício de atividades comerciais, industriais ou agrícolas só podem ser deduzidos, nos termos e condições da parte aplicável do artigo 52.º, aos rendimentos da mesma categoria num ou mais dos cinco períodos de tributação posteriores;
-
-b) As menos-valias só podem ser deduzidas aos rendimentos da mesma categoria num ou mais dos cinco períodos de tributação posteriores.
+b) As menos-valias só podem ser deduzidas aos rendimentos da mesma categoria num ou mais dos doze períodos de tributação posteriores.
 
 3 - É aplicável às pessoas coletivas e entidades mencionadas na alínea b) do n.º 1 do artigo 3.º uma dedução correspondente a 50 % dos rendimentos incluídos na base tributável correspondentes a lucros distribuídos por entidades residentes em território português, sujeitas e não isentas de IRC, bem como relativamente aos rendimentos que, na qualidade de associado, aufiram da associação em participação, tendo aqueles rendimentos sido efetivamente tributados.
 

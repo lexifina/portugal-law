@@ -14,7 +14,7 @@ b) As que se destinem a fazer face a encargos com garantias a clientes previstas
 
 c) As provisões técnicas constituídas obrigatoriamente, por força de normas emanadas pelo Instituto de Seguros de Portugal, de caráter genérico e abstrato, pelas empresas de seguros sujeitas à sua supervisão e pelas sucursais em Portugal de empresas seguradoras com sede em outro Estado membro da União Europeia;
 
-d) As que, constituídas pelas empresas pertencentes ao setor das indústrias extrativas ou de tratamento e eliminação de resíduos, se destinem a fazer face aos encargos com a reparação dos danos de caráter ambiental dos locais afetos à exploração, sempre que tal seja obrigatório e após a cessação desta, nos termos da legislação aplicável.
+d) As constituídas com o objetivo de fazer face aos encargos com a reparação dos danos de caráter ambiental dos locais afetos à exploração, sempre que tal seja obrigatório nos termos da legislação aplicável e após a cessação desta.
 
 2 - A determinação das provisões referidas no número anterior deve ter por base as condições existentes no final do período de tributação.
 

@@ -30,7 +30,7 @@ e) A relativa a retenções na fonte não suscetíveis de compensação ou reemb
 
 6 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, as deduções referidas no n.º 2 relativas a cada uma das sociedades são efetuadas no montante apurado relativamente ao grupo, nos termos do n.º 1.
 
-7 - Das deduções efetuadas nos termos das alíneas a), b) e c) do n.º 2 não pode resultar valor negativo.
+7 - (Revogado).
 
 8 - Relativamente aos sujeitos passivos abrangidos pelo regime simplificado de determinação da matéria coletável, ao montante apurado nos termos do n.º 1 apenas são de efetuar as deduções previstas nas alíneas a) e e) do n.º 2.
 
