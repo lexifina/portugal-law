@@ -4,7 +4,7 @@
 
 1 - Os instrumentos económicos e financeiros disciplinados pelo presente decreto-lei são a taxa de recursos hídricos, as tarifas dos serviços públicos de águas e os contratos-programa relativos a actividades de gestão dos recursos hídricos.
 
-2 - A taxa de recursos hídricos visa compensar o benefício que resulta da utilização privativa do domínio público hídrico, o custo ambiental inerente às atividades suscetíveis de causar um impacte significativo nos recursos hídricos, os custos administrativos inerentes ao planeamento, gestão, fiscalização e garantia da quantidade e qualidade das águas, bem como contribuir para a sustentabilidade dos serviços urbanos de águas, com vista a promover o acesso universal à água e ao saneamento, a um custo socialmente aceitável.
+2 - A taxa de recursos hídricos visa compensar o benefício que resulta da utilização privativa do domínio público hídrico, o custo ambiental inerente às actividades susceptíveis de causar um impacte significativo nos recursos hídricos, bem como os custos administrativos inerentes ao planeamento, gestão, fiscalização e garantia da quantidade e qualidade das águas.
 
 3 - As tarifas dos serviços públicos de águas visam garantir a recuperação, em prazo razoável, dos investimentos feitos na instalação, expansão, modernização e substituição das infra-estruturas e equipamentos necessários à prestação dos serviços de águas, promover a eficiência dos mesmos na gestão dos recursos hídricos e assegurar o equilíbrio económico e financeiro das entidades que os levam a cabo em proveito da comunidade.
 

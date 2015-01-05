@@ -1,8 +1,8 @@
 # Artigo 5.º-A
 
-### Repercussão das componentes A, U e S
+### Repercussão das componentes A e U
 
-1 - O valor das componentes A, U e S repercutido sobre o utilizador final pelo sujeito passivo deve ser calculado considerando o volume de água não faturado (ANF), incluindo perdas físicas e comerciais verificadas nas entidades gestoras dos serviços de abastecimento de água, nos termos seguintes:
+1 - O valor das componentes A e U repercutido sobre o utilizador final pelo sujeito passivo deve ser calculado considerando o volume de água não faturado (ANF), incluindo perdas físicas e comerciais, verificadas nas entidades gestoras dos serviços de abastecimento de água, nos termos seguintes:
 
 a) O valor a cobrar por metro cúbico pela 'alta' à 'baixa' apura-se pela aplicação da fórmula: TRH(índice r,a) = TRH(índice p,a) x 1/(1-ANF(índice a)), em que TRH(índice r,a) corresponde ao valor da taxa de recursos hídricos a repercutir pela 'alta', TRH(índice p,a) ao valor da taxa de recursos hídricos pago pela 'alta' e ANF(índice a) à percentagem de água não faturada pela 'alta';
 
