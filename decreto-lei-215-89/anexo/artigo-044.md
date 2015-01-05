@@ -36,9 +36,11 @@ n) Os prédios classificados como monumentos nacionais e os prédios individualm
 
 o) As entidades públicas empresariais responsáveis pela rede pública de escolas, quanto aos prédios ou parte de prédios destinados directamente ou indirectamente à realização dos seus fins.
 
+p) Os prédios exclusivamente afetos à atividade de abastecimento público de água às populações, de saneamento de águas residuais urbanas e de sistemas municipais de gestão de resíduos urbanos.
+
 2 - As isenções a que se refere o número anterior iniciam-se:
 
-a) Relativamente às situações previstas nas alíneas a) a d), g) a i) e m), no ano, inclusive, em que o prédio ou parte de prédio for destinado aos fins nelas referidos;
+a) Relativamente às situações previstas nas alíneas a) a d), g) a i), m) e p), no ano, inclusive, em que o prédio ou parte do prédio for destinado aos fins nelas referidos;
 
 b) Relativamente às situações previstas nas alíneas e) e f), a partir do ano, inclusive, em que se constitua o direito de propriedade;
 
@@ -60,20 +62,10 @@ b) A requerimento dos proprietários dos imóveis, no prazo de 30 dias a contar 
 
 7 - A isenção a que se refere a alínea g) do n.º 1 é reconhecida pelo director-geral dos Impostos, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção.
 
-8 - Nos restantes casos previstos neste artigo, a isenção é reconhecida pelo chefe do serviço de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção.
+Nos restantes casos previstos neste artigo, a isenção é reconhecida pelo chefe do serviço de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção ou, quando aplicável, da entrada em vigor da isenção.
 
 9 - Nas situações abrangidas nos n.os 7 e 8, se o pedido for apresentado para além do prazo aí referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação
 
 10 - Os benefícios constantes das alíneas b) a m) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os constantes da alínea n) cessam no ano, inclusive, em que os prédios venham a ser desclassificados ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis.
 
 11 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
-
-12 - O benefício previsto na alínea g) do n.º 1 não é aplicável às entidades que exerçam atividades de
-
-intermediação financeira, de seguros e às instituições auxiliares de intermediação financeira e de
-
-seguros (NACE Rev. 1.1, secção J, códigos 65, 66 e 67) e do tipo «serviços intragrupo»,
-
-designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K,
-
-código 74).
