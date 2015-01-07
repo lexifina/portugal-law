@@ -4,7 +4,7 @@
 
 1 - Concluída a operação urbanística, no todo ou em parte, aplica-se à autorização de utilização de edifício ou sua fração, quando legalmente exigida, o disposto nos artigos 62.º a 64.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, com as especialidades previstas no presente artigo.
 
-2 - O termo de responsabilidade a que se refere o n.º 1 do artigo 63.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, deve conter as declarações previstas naquela disposição legal, bem como:
+2 - Os termos de responsabilidade a que se referem os n.os 1 e 2 do artigo 63.º do RJUE, devem conter as declarações previstas naquela disposição legal, bem como:
 
 a) Identificar o titular da autorização de utilização;
 
