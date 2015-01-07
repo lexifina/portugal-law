@@ -670,9 +670,9 @@ Secção 3.3 - Edifícios de habitação - habitações:
 
 3.3.4 - Em cada habitação deve existir pelo menos uma instalação sanitária que satisfaça as seguintes condições:
 
-1) (Revogado.)
+1) Deve ser equipada com, pelo menos, um lavatório, uma sanita, um bidé e uma banheira;
 
-2) (Revogado.)
+2) Em alternativa à banheira, pode ser instalada uma base de duche com 0,8 m por 0,8 m desde que fique garantido o espaço para eventual instalação da banheira;
 
 3) A disposição dos aparelhos sanitários e as características das paredes devem permitir a colocação de barras de apoio caso os moradores o pretendam de acordo com o especificado no n.º 3) do n.º 2.9.4 para as sanitas, no n.º 5) do n.º 2.9.7 para a banheira e nos n.os 5) dos n.os 2.9.9 e 2.9.10 para a base de duche;
 
