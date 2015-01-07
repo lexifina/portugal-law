@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "196946",
+  "tipo": "Intervenção",
+  "orador": "Alberto Costa (PS)",
+  "data_registo": "2015-01-07",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "29564",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29564",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre as políticas do Governo e a avaliação política que os portugueses irão fazer nas próximas eleições."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Critica as políticas do Governo e manifesta confiança na avaliação política que os portugueses irão fazer nas próximas eleições.",
+        "duracao": "00:09:25:519",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20150107pln&url=l12/sl4/a2015/m01/&tI=01:02:15:355&drc=00:09:25:519"
+      },
+      {
+        "assunto": "Responde a Hugo Lopes Soares e Cecília Honório acerca da sua declaração sobre as políticas do Governo e os resultados das próximas eleições.",
+        "duracao": "00:04:16:311",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20150107pln&url=l12/sl4/a2015/m01/&tI=01:19:00:866&drc=00:04:16:311"
+      },
+      {
+        "assunto": "Responde a António Filipe e Helder Amaral acerca da sua declaração sobre as políticas do Governo e os resultados das próximas eleições.",
+        "duracao": "00:03:28:706",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20150107pln&url=l12/sl4/a2015/m01/&tI=01:30:29:943&drc=00:03:28:706"
+      }
+    ],
+    "DataReuniaoPlenaria": "2015-01-07",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "143",
+      "nome": "Alberto Costa"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "196946",
+    "IdDebate": "4885",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "196946",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "15-17",
+          "19-20",
+          "22-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-01-08",
+        "pubLeg": "XII",
+        "pubNr": "34",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/034/2015-01-08/15?pgs=15-17,19-20,22-23&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Respondeu a pedidos de esclarecimento dos Deputados Hugo Lopes Soares (PSD), Cecília Honório (BE), António Filipe (PCP) e Hélder Amaral (CDS-PP).",
+    "Sessao": "4",
+    "Sumario": "Sobre as políticas do Governo e a avaliação política que os portugueses irão fazer nas próximas eleições.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
