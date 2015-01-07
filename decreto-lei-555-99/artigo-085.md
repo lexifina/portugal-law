@@ -6,7 +6,7 @@
 
 2 - O requerimento é instruído com os seguintes elementos:
 
-a) Cópia do alvará ou comunicação prévia e da sua admissão;
+a) Cópia do alvará ou do título da comunicação prévia, nos termos do n.º 2 do artigo 74.º;
 
 b) Orçamento, a preços correntes do mercado, relativo à execução das obras de urbanização em conformidade com os projectos aprovados e condições fixadas no licenciamento;
 
@@ -24,7 +24,7 @@ c) Quaisquer outros elementos que o requerente entenda necessários para o conhe
 
 8 - Compete ao tribunal judicial da comarca onde se localiza o prédio no qual se devem realizar as obras de urbanização conhecer dos pedidos previstos no presente artigo.
 
-9 - A câmara municipal emite oficiosamente alvará para execução de obras por terceiro, competindo ao seu presidente dar conhecimento das respectivas deliberações à direcção regional do ambiente e do ordenamento do território e ao conservador do registo predial, quando:
+9 - A câmara municipal emite oficiosamente alvará para execução de obras por terceiro, competindo ao seu presidente dar conhecimento das respetivas deliberações à Direção-Geral do Território, para efeitos cadastrais, e à conservatória do registo predial, quando:
 
 a) Tenha havido recepção provisória das obras; ou
 

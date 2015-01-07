@@ -4,7 +4,7 @@
 
 1 - O interessado pode requerer a execução por fases das obras de urbanização, identificando as obras incluídas em cada fase, o orçamento correspondente e os prazos dentro dos quais se propõe requerer a respectiva licença.
 
-2 - O requerimento referido no número anterior deve ser apresentado com o pedido de licenciamento de loteamento ou, quando as obras de urbanização não se integrem em operação de loteamento, com o pedido de licenciamento das mesmas.
+2 - O requerimento referido no número anterior deve ser preferencialmente apresentado com o pedido de licenciamento de loteamento ou, quando as obras de urbanização não se integrem em operação de loteamento, com o pedido de licenciamento das mesmas, podendo, contudo, ser apresentado em qualquer momento do procedimento, desde que não tenha ainda sido proferida decisão final.
 
 3 - Cada fase deve ter coerência interna e corresponder a uma zona da área a lotear ou a urbanizar que possa funcionar autonomamente.
 

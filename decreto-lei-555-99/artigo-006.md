@@ -26,9 +26,9 @@ b) Na parcela restante se respeite a área mínima fixada no projecto de interve
 
 6 - Nos casos referidos nos n.ºs 4 e 5 não é permitido efectuar na área correspondente ao prédio originário novo destaque nos termos aí referidos por um prazo de 10 anos contados da data do destaque anterior.
 
-7 - O condicionamento da construção bem como o ónus do não fraccionamento previstos nos n.os 5 e 6 devem ser inscritos no registo predial sobre as parcelas resultantes do destaque, sem o que não pode ser licenciada ou comunicada qualquer obra de construção nessas parcelas.
+7 - O condicionamento da construção bem como o ónus do não fraccionamento previstos nos n.ºs 5 e 6 devem ser inscritos no registo predial sobre as parcelas resultantes do destaque, sem o que não pode ser licenciada ou comunicada qualquer obra de construção nessas parcelas.
 
-8 - O disposto no presente artigo não isenta a realização das operações urbanísticas nele previstas da observância das normas legais e regulamentares aplicáveis, designadamente as constantes de planos municipais ou especiais de ordenamento do território, de servidões ou restrições de utilidade pública, as normas técnicas de construção, as de protecção do património cultural imóvel, e a obrigação de comunicação prévia nos termos do artigo 24.º do Decreto-Lei n.º 73/2009, de 31 de Março, que estabelece o regime jurídico da Reserva Agrícola Nacional.
+8 - O disposto no presente artigo não isenta a realização das operações urbanísticas nele previstas da observância das normas legais e regulamentares aplicáveis, designadamente as constantes de planos municipais, intermunicipais ou especiais de ordenamento do território, de servidões ou restrições de utilidade pública, as normas técnicas de construção, as de proteção do património cultural imóvel, e a obrigação de comunicação prévia nos termos do artigo 24.º do Decreto-Lei n.º 73/2009, de 31 de março, que estabelece o regime jurídico da Reserva Agrícola Nacional.
 
 9 - A certidão emitida pela câmara municipal, comprovativa da verificação dos requisitos do destaque, constitui documento bastante para efeitos de registo predial da parcela destacada.
 

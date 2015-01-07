@@ -10,7 +10,7 @@ b) A interdição do exercício no município, até ao máximo de quatro anos, d
 
 c) A privação do direito a subsídios outorgados por entidades ou serviços públicos.
 
-2 - As sanções previstas no n.º 1, bem como as previstas no artigo anterior, quando aplicadas a industriais de construção civil, são comunicadas ao Instituto da Construção e do Imobiliário, I. P.
+2 - As sanções previstas no n.º 1, bem como as previstas no artigo anterior, quando aplicadas a empresas de construção, empreiteiros ou construtores, são comunicadas ao InCI, I. P.
 
 3 - As sanções aplicadas ao abrigo do disposto nas alíneas e), f) e g) do n.º 1 do artigo anterior aos autores dos projectos, responsáveis pela direcção técnica da obra ou a quem subscreva o termo de responsabilidade previsto no artigo 63.º são comunicadas à respectiva ordem ou associação profissional, quando exista.
 

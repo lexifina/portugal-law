@@ -2,7 +2,7 @@
 
 ### Apreciação dos projectos de obras de edificação
 
-1 - A apreciação do projecto de arquitectura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c) a f) do n.º 2 do artigo 4.º, incide sobre a sua conformidade com planos municipais de ordenamento no território, planos especiais de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidões administrativas, restrições de utilidade pública e quaisquer outras normas legais e regulamentares relativas ao aspecto exterior e a inserção urbana e paisagística das edificações, bem como sobre o uso proposto.
+1 - A apreciação do projeto de arquitetura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c) a f) do n.º 2 do artigo 4.º, incide sobre a sua conformidade com planos municipais ou intermunicipais de ordenamento no território, planos especiais de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidões administrativas, restrições de utilidade pública e quaisquer outras normas legais e regulamentares relativas ao aspeto exterior e a inserção urbana e paisagística das edificações, bem como sobre o uso proposto.
 
 2 - Para os efeitos do número anterior, a apreciação da inserção urbana das edificações é efectuada na perspectiva formal e funcional, tendo em atenção o edificado existente, bem como o espaço público envolvente e as infra-estruturas existentes e previstas.
 
@@ -22,4 +22,4 @@ c) Do termo do prazo para a recepção dos pareceres, autorizações ou aprovaç
 
 7 - (Revogado.)
 
-8 - As declarações de responsabilidade dos autores dos projectos das especialidades e outros estudos que estejam inscritos em associação pública constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis aos projectos, excluindo a sua apreciação prévia, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º
+8 - As declarações de responsabilidade dos autores dos projetos de arquitetura, no que respeita aos aspetos interiores das edificações, bem como dos autores dos projetos das especialidades e de outros estudos nos termos do n.º 4 do artigo 10.º, constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis, excluindo a sua apreciação prévia, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º

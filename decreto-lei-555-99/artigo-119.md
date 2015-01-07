@@ -4,7 +4,7 @@
 
 1 - As câmaras municipais devem manter actualizada a relação dos instrumentos de gestão territorial e as servidões administrativas e restrições de utilidade pública especialmente aplicáveis na área do município, nomeadamente:
 
-a) Os referentes a plano regional de ordenamento do território, planos especiais de ordenamento do território, planos municipais e intermunicipais de ordenamento do território, medidas preventivas, áreas de desenvolvimento urbano prioritário, áreas de construção prioritária, áreas críticas de recuperação e reconversão urbanística e alvarás de loteamento em vigor;
+a) Os referentes a programa e plano regional de ordenamento do território, planos especiais de ordenamento do território, planos municipais e intermunicipais de ordenamento do território, medidas preventivas, áreas de desenvolvimento urbano prioritário, áreas de construção prioritária, áreas de reabilitação urbana e alvarás de loteamento em vigor;
 
 b) Zonas de protecção de imóveis classificados ou em vias de classificação, reservas arqueológicas de protecção e zonas especiais de protecção de parque arqueológico a que se refere a Lei n.º 107/2001, de 8 de Setembro, e o Decreto-Lei n.º 309/2009, de 23 de Outubro;
 
@@ -31,3 +31,5 @@ m) Zonas de protecção estabelecidas pelo Decreto-Lei n.º 173/2006, de 24 de A
 2 - As câmaras municipais mantêm igualmente actualizada a relação dos regulamentos municipais referidos no artigo 3.º, dos programas de acção territorial em execução, bem como das unidades de execução delimitadas.
 
 3 - A informação referida nos números anteriores deve ser disponibilizada no sítio da Internet do município.
+
+4 - Para efeitos do disposto no Decreto-Lei n.º 151-B/2013, de 31 de outubro, alterado pelo Decreto-Lei n.º 47/2014, de 24 de março, que aprova o regime de avaliação de impacte ambiental, sempre que esteja em causa a realização de operação urbanística sujeita a avaliação de impacte ambiental (AIA), não pode ser emitida licença ou apresentada comunicação prévia ao abrigo do presente decreto-lei sem previamente ter sido emitida declaração de impacte ambiental (DIA) favorável ou condicionalmente favorável ou, no caso de o procedimento de AIA ter decorrido em fase de estudo prévio ou de anteprojeto, emitida decisão favorável sobre a conformidade do projeto de execução com a DIA.

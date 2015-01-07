@@ -12,12 +12,14 @@
 
 5 - (Revogado.)
 
-6 - Com a apresentação de requerimento ou comunicação por via electrónica é emitido recibo entregue por via electrónica.
+6 - Com a apresentação de requerimento ou comunicação, ou nas situações referidas no n.º 6 do artigo anterior, quando cesse a inexistência ou indisponibilidade, é emitido comprovativo eletrónico.
 
-7 - No requerimento inicial pode o interessado solicitar a indicação das entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação relativamente ao pedido apresentado, sendo-lhe tal notificado no prazo de 15 dias, salvo rejeição liminar do pedido nos termos do disposto no artigo 11.º
+7 - No requerimento inicial pode o interessado solicitar a indicação das entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação relativamente ao pedido apresentado, sendo-lhe prestada tal informação no prazo de 15 dias, através do sistema informático a que se refere o artigo anterior, sem prejuízo do disposto no artigo 121.º
 
-8 - O gestor do procedimento regista no processo a junção subsequente de quaisquer novos documentos e a data das consultas a entidades exteriores ao município e da recepção das respectivas respostas, quando for caso disso, bem como a data e o teor das decisões dos órgãos municipais.
+8 - O disposto no número anterior não se aplica nos casos de rejeição liminar do pedido, nos termos do disposto no artigo 11.º
 
-9 - A substituição do requerente ou comunicante, do titular do alvará de construção ou do título de registo emitidos pelo Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), do responsável por qualquer dos projectos apresentados, do director de obra ou do director de fiscalização de obra deve ser comunicada ao gestor do procedimento para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
+9 - O gestor do procedimento regista no processo a junção subsequente de quaisquer novos documentos e a data das consultas a entidades exteriores ao município e da recepção das respectivas respostas, quando for caso disso, bem como a data e o teor das decisões dos órgãos municipais.
 
-10 - Cabe ao gestor do procedimento verificar a adequação das habilitações do titular do alvará de construção ou do título de registo emitidos pelo InCI, I. P., à natureza e à estimativa de custo da operação urbanística.
+10 - A substituição do requerente ou comunicante, do titular do alvará de construção ou do título de registo emitidos pelo Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), do responsável por qualquer dos projectos apresentados, do director de obra ou do director de fiscalização de obra deve ser comunicada ao gestor do procedimento para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
+
+11 - Cabe ao gestor do procedimento verificar a adequação das habilitações do titular do alvará de construção ou do título de registo emitidos pelo InCI, I. P., à natureza e à estimativa de custo da operação urbanística.

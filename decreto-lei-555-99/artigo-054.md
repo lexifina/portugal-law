@@ -16,4 +16,4 @@ b) Reduzido, nos mesmos termos, em conformidade com o andamento dos trabalhos a 
 
 5 - O conjunto das reduções efectuadas ao abrigo do disposto na alínea b) do número anterior não pode ultrapassar 90% do montante inicial da caução, sendo o remanescente libertado com a recepção definitiva das obras de urbanização.
 
-6 - O reforço ou a redução da caução, nos termos do n.º 4, não dá lugar à emissão de novo alvará ou à apresentação e admissão de nova comunicação.
+6 - O reforço ou a redução da caução, nos termos do n.º 4, não dá lugar à emissão de novo alvará ou a nova comunicação.

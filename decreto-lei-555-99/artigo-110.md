@@ -8,7 +8,7 @@
 
 1 - Qualquer interessado tem o direito de ser informado pela respectiva câmara municipal:
 
-a) Sobre os instrumentos de desenvolvimento e planeamento territorial em vigor para determinada área do município, bem como das demais condições gerais a que devem obedecer as operações urbanísticas a que se refere o presente diploma;
+a) Sobre os instrumentos de desenvolvimento e de gestão territorial em vigor para determinada área do município, bem como das demais condições gerais a que devem obedecer as operações urbanísticas a que se refere o presente diploma;
 
 b) Sobre o estado e andamento dos processos que lhes digam directamente respeito, com especificação dos actos já praticados e do respectivo conteúdo, e daqueles que ainda devam sê-lo, bem como dos prazos aplicáveis a estes últimos.
 

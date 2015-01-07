@@ -10,15 +10,17 @@ b) Identificação do prédio objecto da operação de loteamento ou das obras d
 
 c) Identificação dos actos dos órgãos municipais relativos ao licenciamento da operação de loteamento e das obras de urbanização;
 
-d) Enquadramento da operação urbanística em plano municipal de ordenamento do território em vigor, bem como na respectiva unidade de execução, se a houver;
+d) Enquadramento da operação urbanística em plano municipal ou intermunicipal de ordenamento do território em vigor, bem como na respetiva unidade de execução, se a houver;
 
 e) Número de lotes e indicação da área, localização, finalidade, área de implantação, área de construção, número de pisos e número de fogos de cada um dos lotes, com especificação dos fogos destinados a habitações a custos controlados, quando previstos;
 
 f) Cedências obrigatórias, sua finalidade e especificação das parcelas a integrar no domínio municipal;
 
-g) Prazo para a conclusão das obras de urbanização;
+g) Prazo máximo para a conclusão das operações de edificação previstas na operação de loteamento, o qual deve observar o prazo previsto no instrumento de programação da execução do plano territorial de âmbito municipal ou intermunicipal aplicável e não pode ser superior a 10 anos;
 
-h) Montante da caução prestada e identificação do respectivo título.
+h) Prazo para a conclusão das obras de urbanização;
+
+i) Montante da caução prestada e identificação do respectivo título.
 
 2 - O alvará a que se refere o número anterior deve conter, em anexo, as plantas representativas dos elementos referidos nas alíneas e) e f).
 
@@ -32,7 +34,7 @@ b) Identificação do lote ou do prédio onde se realizam as obras ou trabalhos;
 
 c) Identificação dos actos dos órgãos municipais relativos ao licenciamento das obras ou trabalhos;
 
-d) Enquadramento das obras em operação de loteamento ou plano municipal de ordenamento do território em vigor, no caso das obras previstas nas alíneas b), c) e e) do artigo 2.º;
+d) Enquadramento das obras em operação de loteamento ou plano municipal ou intermunicipal de ordenamento do território em vigor, no caso das obras previstas nas alíneas b), c) e e) do artigo 2.º;
 
 e) Os condicionamentos a que fica sujeita a licença;
 

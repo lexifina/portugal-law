@@ -8,13 +8,13 @@
 
 1 - Qualquer interessado pode pedir à câmara municipal, a título prévio, informação sobre a viabilidade de realizar determinada operação urbanística ou conjunto de operações urbanísticas directamente relacionadas, bem como sobre os respectivos condicionamentos legais ou regulamentares, nomeadamente relativos a infra-estruturas, servidões administrativas e restrições de utilidade pública, índices urbanísticos, cérceas, afastamentos e demais condicionantes aplicáveis à pretensão.
 
-2 - Quando o pedido respeite a operação de loteamento, em área não abrangida por plano de pormenor, ou a obra de construção, ampliação ou alteração em área não abrangida por plano de pormenor ou operação de loteamento, o interessado pode requerer que a informação prévia contemple especificamente os seguintes aspectos, em função da informação pretendida e dos elementos apresentados:
+2 - O interessado pode, em qualquer circunstância, designadamente quando o pedido respeite a operação de loteamento em área não abrangida por plano de pormenor, ou a obra de construção, ampliação ou alteração em área não abrangida por plano de pormenor ou operação de loteamento, requerer que a informação prévia contemple especificamente os seguintes aspetos, em função da informação pretendida e dos elementos apresentados:
 
 a) A volumetria, alinhamento, cércea e implantação da edificação e dos muros de vedação;
 
-b) Condicionantes para um adequado relacionamento formal e funcional com a envolvente;
+b) Projeto de arquitetura e memória descritiva;
 
-c) Programa de utilização das edificações, incluindo a área bruta de construção a afectar aos diversos usos e o número de fogos e outras unidades de utilização;
+c) Programa de utilização das edificações, incluindo a área total de construção a afetar aos diversos usos e o número de fogos e outras unidades de utilização, com identificação das áreas acessórias, técnicas e de serviço;
 
 d) Infra-estruturas locais e ligação às infra-estruturas gerais;
 

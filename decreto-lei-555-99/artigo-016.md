@@ -14,4 +14,4 @@ c) Do termo do prazo para a recepção dos pareceres, autorizações ou aprovaç
 
 3 - A câmara municipal indica sempre, na informação favorável, o procedimento de controlo prévio a que se encontra sujeita a realização da operação urbanística projectada, de acordo com o disposto na secção i do capítulo ii do presente diploma.
 
-4 - No caso de a informação ser desfavorável, dela deve constar a indicação dos termos em que a mesma, sempre que possível, pode ser revista por forma a serem cumpridas as prescrições urbanísticas aplicáveis, designadamente as constantes de plano municipal de ordenamento do território ou de operação de loteamento.
+4 - No caso de a informação ser desfavorável, dela deve constar a indicação dos termos em que a mesma, sempre que possível, pode ser revista por forma a serem cumpridas as prescrições urbanísticas aplicáveis, designadamente as constantes de plano municipal ou intermunicipal de ordenamento do território ou de operação de loteamento.

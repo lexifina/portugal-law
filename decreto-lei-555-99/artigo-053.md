@@ -20,8 +20,8 @@ c) As condições gerais do contrato de urbanização a que se refere o artigo 5
 
 4 - Quando a obra se encontre em fase de acabamentos, pode ainda o presidente da câmara municipal, a requerimento fundamentado do interessado, conceder nova prorrogação, mediante o pagamento de um adicional à taxa referida no n.º 2 do artigo 116.º, de montante a fixar em regulamento municipal.
 
-5 - O prazo referido no n.º 2 pode ainda ser prorrogado em consequência de alteração da licença ou comunicação prévia admitida.
+5 - O prazo referido no n.º 2 pode ainda ser prorrogado em consequência de alteração da licença ou da comunicação prévia.
 
-6 - A prorrogação do prazo nos termos referidos nos números anteriores não dá lugar à emissão de novo alvará nem à apresentação e admissão de nova comunicação prévia, devendo ser averbada no alvará ou comunicação existentes.
+6 - A prorrogação do prazo nos termos referidos nos números anteriores não dá lugar à emissão de novo alvará nem à apresentação de nova comunicação prévia, devendo ser averbada no alvará ou comunicação existentes.
 
-7 - As condições da licença ou comunicação prévia de obras de urbanização podem ser alteradas por iniciativa da câmara municipal, nos termos e com os fundamentos estabelecidos no artigo 48.º
+7 - As obras de urbanização com as condições definidas na licença ou comunicação prévia podem ser alteradas por iniciativa da câmara municipal, nos termos e com os fundamentos estabelecidos no artigo 48.º

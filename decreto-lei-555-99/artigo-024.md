@@ -4,7 +4,7 @@
 
 1 - O pedido de licenciamento é indeferido quando:
 
-a) Violar plano municipal de ordenamento do território, plano especial de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidão administrativa, restrição de utilidade pública ou quaisquer outras normas legais e regulamentares aplicáveis;
+a) Violar plano municipal e intermunicipal de ordenamento do território, plano especial de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidão administrativa, restrição de utilidade pública ou quaisquer outras normas legais e regulamentares aplicáveis;
 
 b) Existir declaração de utilidade pública para efeitos de expropriação que abranja o prédio objecto do pedido de licenciamento, salvo se tal declaração tiver por fim a realização da própria operação urbanística;
 

@@ -6,7 +6,7 @@
 
 2 - Para os efeitos do número anterior, o requerente deve assinalar as áreas de cedência ao município em planta a entregar com o pedido de licenciamento ou comunicação prévia.
 
-3 - As parcelas de terreno cedidas ao município integram-se no domínio municipal com a emissão do alvará ou, nas situações previstas no artigo 34.º, através de instrumento notarial próprio a realizar no prazo de 20 dias após a admissão da comunicação prévia, devendo a câmara municipal definir no momento da recepção as parcelas afectas aos domínios público e privado do município.
+3 - As parcelas de terreno cedidas ao município integram-se no domínio municipal com a emissão do alvará ou, nas situações previstas no artigo 34.º, através de instrumento notarial próprio a realizar no prazo de 20 dias após a receção da comunicação prévia, devendo a câmara municipal definir, no alvará ou no instrumento notarial, as parcelas afetas aos domínios público e privado do município.
 
 4 - Se o prédio a lotear já estiver servido pelas infra-estruturas a que se refere a alínea h) do artigo 2.º ou não se justificar a localização de qualquer equipamento ou espaço verde públicos no referido prédio, ou ainda nos casos referidos no n.º 4 do artigo anterior, não há lugar a qualquer cedência para esses fins, ficando, no entanto, o proprietário obrigado ao pagamento de uma compensação ao município, em numerário ou em espécie, nos termos definidos em regulamento municipal.
 

@@ -4,26 +4,48 @@
 
 # Artigo 102.º
 
-### Embargo
+### Reposição da legalidade urbanística
 
-1 - Sem prejuízo das competências atribuídas por lei a outras entidades, o presidente da câmara municipal é competente para embargar obras de urbanização, de edificação ou de demolição, bem como quaisquer trabalhos de remodelação de terrenos, quando estejam a ser executadas:
+1 - Os órgãos administrativos competentes estão obrigados a adotar as medidas adequadas de tutela e restauração da legalidade urbanística quando sejam realizadas operações urbanísticas:
 
-a) Sem a necessária licença ou admissão de comunicação prévia;
+a) Sem os necessários atos administrativos de controlo prévio;
 
-b) Em desconformidade com o respectivo projecto ou com as condições do licenciamento ou comunicação prévia admitida, salvo o disposto no artigo 83.º; ou
+b) Em desconformidade com os respetivos atos administrativos de controlo prévio;
 
-c) Em violação das normas legais e regulamentares aplicáveis.
+c) Ao abrigo de ato administrativo de controlo prévio revogado ou declarado nulo;
 
-2 - A notificação é feita ao responsável pela direcção técnica da obra, bem como ao titular do alvará de licença ou apresentante da comunicação prévia e, quando possível, ao proprietário do imóvel no qual estejam a ser executadas as obras, ou seu representante, sendo suficiente para obrigar à suspensão dos trabalhos qualquer dessas notificações ou a de quem se encontre a executar a obra no local.
+d) Em desconformidade com as condições da comunicação prévia;
 
-3 - Após o embargo, é de imediato lavrado o respectivo auto, que contém, obrigatória e expressamente, a identificação do funcionário municipal responsável pela fiscalização de obras, das testemunhas e do notificado, a data, hora e local da diligência e as razões de facto e de direito que a justificam, o estado da obra e a indicação da ordem de suspensão e proibição de prosseguir a obra e do respectivo prazo, bem como as cominações legais do seu incumprimento.
+e) Em desconformidade com as normas legais ou regulamentares aplicáveis.
 
-4 - O auto é redigido em duplicado e assinado pelo funcionário e pelo notificado, ficando o duplicado na posse deste.
+2 - As medidas a que se refere o número anterior podem consistir:
 
-5 - No caso de a ordem de embargo incidir apenas sobre parte da obra, o respectivo auto fará expressa menção de que o embargo é parcial e identificará claramente qual é a parte da obra que se encontra embargada.
+a) No embargo de obras ou de trabalhos de remodelação de terrenos;
 
-6 - O auto de embargo é notificado às pessoas identificadas no n.º 2.
+b) Na suspensão administrativa da eficácia de ato de controlo prévio;
 
-7 - No caso de as obras estarem a ser executadas por pessoa colectiva, o embargo e o respectivo auto são ainda comunicados para a respectiva sede social ou representação em território nacional.
+c) Na determinação da realização de trabalhos de correção ou alteração, sempre que possível;
 
-8 - O embargo, assim como a sua cessação ou caducidade, é objecto de registo na conservatória do registo predial, mediante comunicação do despacho que o determinou, procedendo-se aos necessários averbamentos.
+d) Na legalização das operações urbanísticas;
+
+e) Na determinação da demolição total ou parcial de obras;
+
+f) Na reposição do terreno nas condições em que se encontrava antes do início das obras ou trabalhos;
+
+g) Na determinação da cessação da utilização de edifícios ou suas frações autónomas.
+
+3 - Independentemente das situações previstas no n.º 1, a câmara municipal pode:
+
+a) Determinar a execução de obras de conservação necessárias à correção de más condições de segurança ou salubridade ou à melhoria do arranjo estético;
+
+b) Determinar a demolição, total ou parcial, das construções que ameacem ruína ou ofereçam perigo para a saúde pública e segurança das pessoas.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
