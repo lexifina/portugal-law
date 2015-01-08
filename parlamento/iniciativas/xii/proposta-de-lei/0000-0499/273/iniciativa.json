@@ -1,0 +1,72 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "273",
+  "id": "38935",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2015-01-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a6b794d6a49314e4449744d544a6b5a4330304f5459314c546c684e444d745a6a49315a6a45325a4459784e4468684c6e426b5a673d3d&fich=f9222542-12dd-4965-9a43-f25f16d6148a.pdf&Inline=true",
+        "anexoNome": "Parecer SMMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a466b4d544d7a4e5459745a545931595330304e7a68684c5745304d6a51744f544e6c4f4751794e6a46694e6d45304c6e426b5a673d3d&fich=21d13356-e65a-478a-a424-93e8d261b6a4.pdf&Inline=true",
+        "anexoNome": "Parecer ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e474e6a5a57597a4d575574595755305a4330304f4445324c5745774e6d59745a5449355a5759775a44566a593249774c6e426b5a673d3d&fich=4ccef31e-ae4d-4816-a06f-e29ef0d5ccb0.pdf&Inline=true",
+        "anexoNome": "Parecer COJ"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a41304d7a6b335a5749744e544d304d533030596a4d784c574530596a4174597a46684e44417a596a466b4e54526d4c6e426b5a673d3d&fich=c04397eb-5341-4b31-a4b0-c1a403b1d54f.pdf&Inline=true",
+        "anexoNome": "Parecer CS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d56695a6a64695a4451744e4459354e6930305a4459314c574a6a4d575174593251774d7a63314e444d7a4f5459314c6e426b5a673d3d&fich=6ebf7bd4-4696-4d65-bc1d-cd0375433965.pdf&Inline=true",
+        "anexoNome": "Parecer CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a526c5932466d4e7a59744e6d59355a6930304e32566b4c57466d595751745957466a4d446b355a5446695a54426b4c6e426b5a673d3d&fich=34ecaf76-6f9f-47ed-afad-aac099e1be0d.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5459324d5749325a6a6b745a474d794e53303059574d334c5749325a5749744f47566a4d5755324e57526a5a545a6c4c6e426b5a673d3d&fich=e661b6f9-dc25-4ac7-b6eb-8ec1e65dce6e.pdf&Inline=true",
+        "anexoNome": "Parecer OA"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "38935",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a5a694d546c6d4d7a6374596d4d31597930305a6d59784c574931597a41744d6a45795a6d49775a5467304d4755794c6d527659773d3d&fich=26b19f37-bc5c-4ff1-b5c0-212fb0e840e2.doc&Inline=true",
+    "IniNr": "273",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
