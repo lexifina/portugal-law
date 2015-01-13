@@ -1,0 +1,6 @@
+Edital n.º 23/2015
+Regulamento de Apoio ao Associativismo - Aprovação definitiva
+Paulo José Gomes Langrouva, Presidente da Câmara Municipal de Figueira de Castelo Rodrigo, torna público, no uso das competências que se encontram previstas na alínea k), do n.º 1, do artigo 33.º e na alínea g), do n.º 1, do artigo 25.º, ambos do Anexo I, da Lei n.º 75/2013, de 12 de setembro e em respeito ao positivado no artigo 118.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na sua atual redação, que o Projeto de Regulamento de Apoio ao Associativismo, publicado mo Diário da República, 2.ª série, n.º 195, de 9 de outubro de 2014, após o decurso do prazo para apreciação pública, no qual não se registou qualquer sugestão ou reclamação, foi aprovado de forma definitiva em forma de Regulamento, em reunião ordinária da Câmara Municipal realizada a 17 de novembro e em sessão ordinária da Assembleia Municipal realizada a 12 de dezembro de 2014.
+Para constar e devidos efeitos, se publica o presente edital e outros de igual teor, que vai ser enviado para publicação no Diário da República e afixado nos lugares públicos do costume.
+16 de dezembro de 2014. - O Presidente da Câmara Municipal, Paulo José Gomes Langrouva.
+308309501
