@@ -1,0 +1,7 @@
+Declaração de Retificação n.º 3/2015
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que a Resolução do Conselho de Ministros n.º 76-B/2014, de 18 de dezembro, publicada no Diário da República, n.º 244, (2.º suplemento), 1.ª série, de 18 de dezembro de 2014, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No 13.º parágrafo do preâmbulo, onde se lê:
+«A fim de garantir a prestação do serviço aéreo entre o nordeste transmontano e o sul do país, bem como, a salvaguarda do interesse público nas referidas ligações, o Estado português fixou obrigações de serviço público para a prestação de serviços aéreos na rota Bragança/Vila Real/Viseu/Cascais/Portimão, por despacho do Secretário de Estado das Infraestruturas, Transportes e Comunicações, de 4 de setembro de 2014.»
+deve ler-se:
+«A fim de garantir a prestação do serviço aéreo entre o nordeste transmontano e o sul do país, bem como, a salvaguarda do interesse público nas referidas ligações, o Estado português fixou obrigações de serviço público para a prestação de serviços aéreos na rota Bragança/Vila Real/Viseu/Cascais/Portimão, por despacho do Secretário de Estado das Infraestruturas, Transportes e Comunicações, de 4 de dezembro de 2014.»
+Secretaria-Geral, 6 de janeiro de 2015. - A Secretária-Geral Adjunta, Catarina Maria Romão Gonçalves.
