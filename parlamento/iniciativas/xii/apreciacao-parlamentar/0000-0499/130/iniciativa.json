@@ -1,0 +1,209 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "130",
+  "id": "38951",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2015-01-16",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "163",
+        "nome": "Ferro Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2129",
+        "nome": "João Paulo Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2051",
+        "nome": "Pedro Nuno Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1512",
+        "nome": "Mota Andrade"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1212",
+        "nome": "Ana Catarina Mendonça Mendes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2225",
+        "nome": "Hortense Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4064",
+        "nome": "Inês de Medeiros"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2569",
+        "nome": "Rui Paulo Figueiredo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2264",
+        "nome": "Pedro Farmhouse"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1550",
+        "nome": "António Cardoso"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2214",
+        "nome": "Manuel Mota"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "413",
+        "nome": "Luís Pita Ameixa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4338",
+        "nome": "Sandra Pontedeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4562",
+        "nome": "Sandra Cardoso"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1741",
+        "nome": "Paulo Pisco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2165",
+        "nome": "Jorge Fão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4208",
+        "nome": "Acácio Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4363",
+        "nome": "Agostinho Santa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4368",
+        "nome": "Paulo Ribeiro de Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2263",
+        "nome": "Ana Paula Vitorino"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2132",
+        "nome": "Idália Salvador Serrão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "428",
+        "nome": "Fernando Serrasqueiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2201",
+        "nome": "Jacinto Serrão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4378",
+        "nome": "Jorge Rodrigues Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1987",
+        "nome": "Eduardo Cabrita"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4375",
+        "nome": "Carlos Enes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1851",
+        "nome": "Maria Gabriela Canavilhas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "487",
+        "nome": "Fernando Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1380",
+        "nome": "Jorge Manuel Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Cessação da vigência do Decreto-Lei n.º 181-A/2014, de 24 de dezembro, que \" aprova o processo de reprivatização indireta do capital social da TAP, Transportes Aéreos Portugueses, S. A.",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "38958",
+        "legislatura": "XII",
+        "numero": "1221",
+        "sessao": "4",
+        "tipo": "R"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "38951",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a56694d3249785a6d49744e324e6b5a6930304d4445334c546b355a4441744f546733597a59774d7a49784e6d4d314c6d527659773d3d&fich=35b3b1fb-7cdf-4017-99d0-987c603216c5.doc&Inline=true",
+    "IniNr": "130",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Decreto-Lei n.º 181-A/2014, de 24 de dezembro, que \"aprova o processo de reprivatização indireta do capital social da TAP, Transportes Aéreos Portugueses, S. A.\"",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
