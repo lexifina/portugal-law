@@ -1,0 +1,11 @@
+# Anexo 18
+
+MÉTODO DE DEFINIÇÃO DA ZONA DE IMPACTO DA CABEÇA NO CASO DOS DISPOSITIVOS COM ENCOSTO E DEFINIÇÃO DA DIMENSÃO MÍNIMA DAS ABAS LATERAIS DOS DISPOSITIVOS VIRADOS PARA A RETAGUARDA
+
+1. Colocar o dispositivo no banco de ensaio descrito no anexo 6. Os dispositivos reclináveis devem ser regulados na posição mais levantada. Colocar o manequim mais pequeno no dispositivo, de acordo com as instruções do fabricante. Marcar um ponto «A» no encosto no mesmo nível horizontal que o ombro do manequim mais pequeno, numa posição situada 2 cm para o interior do rebordo exterior do braço. Todas as superfícies internas situadas acima do plano horizontal que passa no ponto «A» devem ser ensaiadas em conformidade com o anexo 17. Esta área deve abranger o encosto e as abas laterais, incluindo os rebordos interiores (zona arredondada) destas últimas. No caso de berços de transporte em que uma instalação simétrica do manequim não seja possível em função do dispositivo e das instruções do fabricante, a zona conforme ao disposto no anexo 17 deve compreender todas as superfícies internas situadas acima do ponto «A», conforme antes definido, no sentido da cabeça, medidas com o manequim no berço de transporte na posição mais desfavorável descrita nas instruções do fabricante e com o berço instalado no banco de ensaio.
+
+Se não for possível efetuar uma instalação simétrica do manequim no berço de transporte, toda a zona interna deve estar conforme ao disposto no anexo 17..
+
+2. Os dispositivos virados para a retaguarda devem dispor de abas laterais com uma profundidade mínima de 90 mm, medida relativamente à mediana da superfície do encosto. As abas laterais devem começar no plano horizontal que passa no ponto «A» e continuar até à extremidade superior do encosto do banco. A partir de um ponto situado 90 mm abaixo da extremidade superior da aba lateral, a profundidade desta poderá ser reduzida gradualmente.
+
+3. O requisito do n.º 2 anterior de uma dimensão mínima para as abas laterais não se aplica a sistemas de retenção para crianças dos grupos de massa II e III da categoria «veículos específicos» a utilizar na zona de bagagem, em conformidade com o n. o 6.1.2 do presente regulamento.

@@ -1,0 +1,9 @@
+# Anexo 14
+
+### Método de definição da zona de impacto da cabeça no caso de dispositivos com encosto e definição da dimensão mínima das abas laterais dos dispositivos virados para a retaguarda
+
+1. Colocar o dispositivo no banco de ensaio descrito no anexo 6. Os dispositivos reclináveis devem ser regulados na posição mais levantada. Colocar o manequim mais pequeno no dispositivo, de acordo com as instruções do fabricante. Marcar um ponto «A» no encosto no mesmo nível horizontal que o ombro do manequim mais pequeno, numa posição situada 2 cm para o interior do rebordo exterior do braço. Todas as superfícies internas situadas acima do plano horizontal que passa no ponto «A» devem ser ensaiadas em conformidade com o anexo 17. Esta área deve abranger o encosto e as abas laterais, incluindo os rebordos interiores (zona arredondada) destas últimas. No caso de berços de transporte em que uma instalação simétrica do manequim não seja possível em função do dispositivo e das instruções do fabricante, a zona conforme ao disposto no anexo 17 deve compreender todas as superfícies internas situadas acima do ponto «A», conforme anteriormente definido, no sentido da cabeça, medidas com o manequim no berço de transporte na posição mais desfavorável descrita nas instruções do fabricante e com o berço instalado no banco de ensaios.
+
+Se não for possível efetuar uma instalação simétrica do manequim no berço de transporte, toda a zona interna deve estar conforme ao disposto no anexo 13.
+
+2. Os dispositivos virados para a retaguarda devem dispor de abas laterais com uma profundidade mínima de 90 mm, medida relativamente à mediana da superfície do encosto. As abas laterais devem começar no plano horizontal que passa no ponto «A» e continuar até à extremidade superior do encosto do sistema de retenção para crianças. A partir de um ponto situado 90 mm abaixo da extremidade superior da aba lateral, a profundidade desta poderá ser reduzida gradualmente.

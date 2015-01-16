@@ -1,0 +1,5 @@
+# Anexo 20
+
+### DISPOSITIVO TÍPICO PARA O ENSAIO DA RESISTÊNCIA DE FIVELAS DE FECHO
+
+(ver documento original)
