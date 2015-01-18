@@ -18,20 +18,20 @@ d) Denunciar o contrato de arrendamento, nos termos e para os efeitos previstos 
 
 4 - Se for caso disso, o arrendatário deve ainda, na sua resposta, nos termos e para os efeitos previstos no artigo 54.º, invocar uma das seguintes circunstâncias:
 
-a) Que existe no locado um estabelecimento comercial aberto ao público e que é uma microentidade;
+a) Que existe no locado um estabelecimento comercial aberto ao público e que é uma microempresa;
 
-b) Que tem a sua sede no locado uma associação privada sem fins lucrativos, regularmente constituída, que se dedica à atividade cultural, recreativa ou desportiva não profissional, e declarada de interesse público ou de interesse nacional ou municipal;
+b) Que no locado funciona uma pessoa coletiva de direito privado sem fins lucrativos, regularmente constituída, que se dedica à atividade cultural, recreativa, de solidariedade social ou desportiva não profissional, e declarada de interesse público ou de interesse nacional ou municipal, ou uma pessoa coletiva de direito privado que prossiga uma atividade declarada de interesse nacional;
 
 c) Que o locado funciona como casa fruída por república de estudantes, nos termos previstos na Lei n.º 2/82, de 15 de janeiro, alterada pela Lei n.º 12/85, de 20 de junho.
 
-5 - Para efeitos da presente lei, 'microentidade' é a empresa que, independentemente da sua forma jurídica, não ultrapasse, à data do balanço, dois dos três limites seguintes:
+5 - Para efeitos da presente lei, «microempresa» é a empresa que, independentemente da sua forma jurídica, não ultrapasse, à data do balanço, dois dos três limites seguintes:
 
-a) Total do balanço: (euro) 500 000;
+a) Total do balanço: (euro) 2 000 000;
 
-b) Volume de negócios líquido: (euro) 500 000;
+b) Volume de negócios líquido: (euro) 2 000 000;
 
-c) Número médio de empregados durante o exercício: cinco.
+c) Número médio de empregados durante o exercício: 10.
 
 6 - O arrendatário que invoque uma das circunstâncias previstas no n.º 4 faz acompanhar a sua resposta de documento comprovativo da mesma, sob pena de não poder prevalecer-se da referida circunstância.
 
-7 - É aplicável, com as necessárias adaptações, o disposto nos n.os 6 e 7 do artigo 31.º
+7 - É aplicável, com as necessárias adaptações, o disposto nos n.os 6 a 10 do artigo 31.º

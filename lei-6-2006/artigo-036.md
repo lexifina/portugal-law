@@ -1,8 +1,8 @@
 # Artigo 36.º
 
-### Arrendatário com idade igual ou superior a 65 anos ou com deficiência com grau de incapacidade superior a 60 %
+### Arrendatário com idade igual ou superior a 65 anos ou com deficiência com grau de incapacidade igual ou superior a 60 %
 
-1 - Caso o arrendatário invoque e comprove que tem idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade superior a 60 %, o contrato só fica submetido ao NRAU mediante acordo entre as partes, aplicando-se no que respeita ao valor da renda o disposto nos números seguintes.
+1 - Caso o arrendatário invoque e comprove que tem idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, o contrato só fica submetido ao NRAU mediante acordo entre as partes, aplicando-se, no que respeita ao valor da renda, o disposto nos números seguintes.
 
 2 - Se o arrendatário aceitar o valor da renda proposto pelo senhorio, a nova renda é devida no 1.º dia do 2.º mês seguinte ao da receção, pelo senhorio, da resposta.
 

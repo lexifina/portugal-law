@@ -16,15 +16,15 @@ b) Em caso de caducidade pelo decurso do prazo, não sendo o contrato renovável
 
 c) Em caso de cessação por oposição à renovação, o contrato de arrendamento acompanhado do comprovativo da comunicação prevista no n.º 1 do artigo 1097.º ou no n.º 1 do artigo 1098.º do Código Civil;
 
-d) Em caso de denúncia por comunicação pelo senhorio, o contrato de arrendamento, acompanhado do comprovativo da comunicação prevista na alínea c) do artigo 1101.º ou no n.º 1 do artigo 1103.º do Código Civil;
+d) Em caso de denúncia por comunicação pelo senhorio, o contrato de arrendamento, acompanhado do comprovativo da comunicação prevista na alínea c) do artigo 1101.º ou no n.º 1 do artigo 1103.º do Código Civil ou da comunicação a que se refere a alínea a) do n.º 5 do artigo 33.º da presente lei;
 
 e) Em caso de resolução por comunicação, o contrato de arrendamento, acompanhado do comprovativo da comunicação prevista no n.º 2 do artigo 1084.º do Código Civil, bem como, quando aplicável, do comprovativo, emitido pela autoridade competente, da oposição à realização da obra;
 
 f) Em caso de denúncia pelo arrendatário, nos termos dos n.os 3 e 4 do artigo 1098.º do Código Civil e dos artigos 34.º e 53.º da presente lei, o comprovativo da comunicação da iniciativa do senhorio e o documento de resposta do arrendatário.
 
-3 - Para efeitos do disposto na alínea d) do número anterior, o comprovativo da comunicação prevista no n.º 1 do artigo 1103.º do Código Civil é acompanhado dos documentos referidos no n.º 2 do mesmo artigo ou, sendo caso disso, de cópia da certidão a que se refere o n.º 7 do artigo 8.º do Decreto-Lei n.º 157/2006, de 8 de agosto, que aprova o regime jurídico das obras em prédios arrendados.
+3 - Para efeitos do disposto na alínea d) do número anterior, o comprovativo da comunicação prevista no n.º 1 do artigo 1103.º do Código Civil é acompanhado dos documentos referidos nos n.os 2 e 3 do mesmo artigo ou, sendo caso disso, de cópia da certidão a que se refere o n.º 7 do artigo 8.º do Decreto-Lei n.º 157/2006, de 8 de agosto, que aprova o regime jurídico das obras em prédios arrendados.
 
-4 - O procedimento especial de despejo previsto na presente subsecção apenas pode ser utilizado relativamente a contratos de arrendamento cujo imposto do selo tenha sido liquidado.
+4 - O procedimento especial de despejo previsto na presente subsecção apenas pode ser utilizado relativamente a contratos de arrendamento cujo imposto do selo tenha sido liquidado ou cujas rendas tenham sido declaradas para efeitos de IRS ou IRC.
 
 5 - Quando haja lugar a procedimento especial de despejo, o pedido de pagamento de rendas, encargos ou despesas que corram por conta do arrendatário pode ser deduzido cumulativamente com o pedido de despejo no âmbito do referido procedimento desde que tenha sido comunicado ao arrendatário o montante em dívida, salvo se previamente tiver sido intentada ação executiva para os efeitos previstos no artigo anterior.
 

@@ -14,4 +14,6 @@ b) Sendo o arrendatário uma sociedade, ocorra transmissão inter vivos de posi�
 
 4 - O disposto no n.º 3 apenas é aplicável quando as situações referidas nas respetivas alíneas a) e b) ocorram após a entrada em vigor da presente lei.
 
-5 - Se o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade superior a 60 %, a invocação do disposto na alínea b) do artigo 1101.º do Código Civil obriga o senhorio, na falta de acordo entre as partes, a garantir o realojamento do arrendatário em condições análogas às que este já detinha, quer quanto ao local quer quanto ao valor da renda e encargos.
+5 - Se o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, a invocação do disposto na alínea b) do artigo 1101.º do Código Civil obriga o senhorio, na falta de acordo entre as partes, a garantir o realojamento do arrendatário em condições análogas às que este já detinha, quer quanto ao local quer quanto ao valor da renda e encargos.
+
+6 - Os direitos conferidos nos números anteriores ao arrendatário podem ser invocados pelo subarrendatário quando se trate de subarrendamento autorizado ou ratificado nos termos da lei.

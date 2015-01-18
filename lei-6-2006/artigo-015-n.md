@@ -8,6 +8,6 @@
 
 a) Que, tratando-se de resolução por não pagamento de rendas, a falta do mesmo se deve a carência de meios do arrendatário, o que se presume relativamente ao beneficiário de subsídio de desemprego, de valor igual ou inferior à retribuição mínima mensal garantida, ou de rendimento social de inserção;
 
-b) Que o arrendatário é portador de deficiência com grau comprovado de incapacidade superior a 60 %.
+b) Que o arrendatário tem deficiência com grau comprovado de incapacidade igual ou superior a 60 %.
 
 3 - No caso de diferimento decidido com base na alínea a) do número anterior, cabe ao Fundo de Socorro Social do Instituto de Gestão Financeira da Segurança Social pagar ao senhorio as rendas correspondentes ao período de diferimento, ficando aquele sub-rogado nos direitos deste.

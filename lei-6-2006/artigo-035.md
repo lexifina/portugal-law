@@ -22,7 +22,7 @@ iii) A um máximo de 10 % do RABC do agregado familiar do arrendatário, com o l
 
 4 - Sem prejuízo do disposto no número seguinte, o valor atualizado da renda, no período de cinco anos referido no n.º 1, corresponde ao valor da primeira renda devida.
 
-5 - No mês correspondente àquele em que foi feita a invocação da circunstância regulada no presente artigo e pela mesma forma, o arrendatário faz prova anual do rendimento perante o senhorio, sob pena de não poder prevalecer-se da mesma.
+5 - Nos anos seguintes ao da invocação da circunstância regulada no presente artigo, o inquilino faz prova dessa circunstância, pela mesma forma e até ao dia 30 de setembro, quando essa prova seja exigida pelo senhorio até ao dia 1 de setembro do respetivo ano, sob pena de não poder prevalecer-se daquela circunstância.
 
 6 - Findo o período de cinco anos referido no n.º 1, o senhorio pode promover a transição do contrato para o NRAU, aplicando-se, com as necessárias adaptações, o disposto nos artigos 30.º e seguintes, com as seguintes especificidades:
 

@@ -10,7 +10,7 @@ b) Deduzir oposição à pretensão e ou requerer o diferimento da desocupação
 
 2 - Havendo vários requeridos, a notificação é expedida para todos eles, nos termos e para os efeitos previstos no número anterior.
 
-3 - A notificação é expedida para o local indicado no requerimento de despejo, aplicando-se, com as necessárias adaptações, o disposto no artigo 236.º, nos n.os 3 a 5 do artigo 237.º-A e no n.º 2 do artigo 238.º do Código de Processo Civil, não havendo lugar à advertência prevista no artigo 241.º do mesmo Código.
+3 - A notificação é expedida para o local indicado no requerimento de despejo, aplicando-se, com as necessárias adaptações, o disposto no artigo 228.º, nos n.os 3 a 5 do artigo 229.º e no n.º 2 do artigo 230.º do Código de Processo Civil, não havendo lugar à advertência prevista no artigo 233.º do mesmo Código.
 
 4 - O ato de notificação deve conter:
 

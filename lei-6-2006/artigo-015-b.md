@@ -20,7 +20,7 @@ f) Indicar o valor da renda;
 
 g) Formular o pedido e, no caso de pedido para pagamento de rendas, encargos ou despesas, discriminar o valor do capital, juros vencidos e outras quantias devidas;
 
-h) Juntar comprovativo do pagamento do imposto do selo;
+h) Juntar comprovativo do pagamento do imposto do selo ou comprovativo da liquidação do IRS ou do IRC relativo aos últimos quatro anos e do qual constem as rendas relativas ao locado, salvo se o contrato for mais recente;
 
 i) Indicar que pretende proceder ao pagamento da taxa devida ou, sendo o caso, indicar a modalidade de apoio judiciário concedido, bem como juntar documento comprovativo da respetiva concessão, sem prejuízo do disposto no n.º 7;
 

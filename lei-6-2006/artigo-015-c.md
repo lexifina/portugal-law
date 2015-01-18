@@ -18,8 +18,10 @@ f) Não estiver assinado;
 
 g) Não constar do modelo a que se refere o n.º 1 do artigo anterior;
 
-h) Não se mostrarem pagos a taxa e o imposto do selo;
+h) Não se mostrar paga a taxa;
 
-i) O pedido não se ajustar à finalidade do procedimento.
+i) Não se mostrar pago o imposto do selo ou liquidado o IRS ou IRC pelas rendas relativas ao locado, nos últimos quatro anos, salvo se o contrato for mais recente;
+
+j) O pedido não se ajustar à finalidade do procedimento.
 
 2 - Nos casos em que haja recusa, o requerente pode apresentar outro requerimento no prazo de 10 dias subsequentes à notificação daquela, considerando-se o procedimento iniciado na data em que teve lugar o pagamento da taxa devida pela apresentação do primeiro requerimento ou a junção do documento comprovativo do pedido ou da concessão do benefício do apoio judiciário na modalidade de dispensa ou de pagamento faseado da taxa de justiça e dos demais encargos com o processo.

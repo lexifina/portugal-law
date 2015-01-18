@@ -6,7 +6,7 @@
 
 2 - O senhorio e o arrendatário podem acordar num prazo para a desocupação do locado com remoção de todos os bens móveis, sendo lavrado auto pelo agente de execução, notário ou oficial de justiça.
 
-3 - O agente de execução, o notário ou o oficial de justiça podem solicitar diretamente o auxílio das autoridades policiais sempre que seja necessário o arrombamento da porta e a substituição da fechadura para efetivar a posse do imóvel, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 840.º do Código de Processo Civil.
+3 - O agente de execução, o notário ou o oficial de justiça podem solicitar diretamente o auxílio das autoridades policiais sempre que seja necessário o arrombamento da porta e a substituição da fechadura para efetivar a posse do imóvel, aplicando-se, com as necessárias adaptações, o disposto no n.º 6 do artigo 757.º do Código de Processo Civil.
 
 4 - Quando a desocupação do locado deva efetuar-se em domicílio, a mesma só pode realizar-se entre as 7 e as 21 horas, devendo o agente de execução, o notário ou o oficial de justiça entregar cópia do título ou decisão judicial a quem tiver a disponibilidade do lugar em que a diligência se realiza, o qual pode assistir à diligência e fazer-se acompanhar ou substituir por pessoa da sua confiança que, sem delonga, se apresente no local.
 
