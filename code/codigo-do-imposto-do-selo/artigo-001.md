@@ -36,7 +36,7 @@ g) Aquisição derivada de invalidade, distrate, renúncia ou desistência, reso
 
 a) O abono de família em dívida à morte do titular, os créditos provenientes de seguros de vida e as pensões e subsídios atribuídos, ainda que a título de subsídio por morte, por sistemas de segurança social;
 
-b) De valores aplicados em fundos de poupança-reforma, fundos de poupança-educação, fundos de poupança-reforma-educação, fundos de poupança-acções, fundos de pensões ou fundos de investimento mobiliário e imobiliário;
+b) De valores aplicados em fundos de poupança-reforma, fundos de poupança-educação, fundos de poupança-reforma-educação, fundos de poupança-ações, fundos de pensões, fundos de investimento mobiliário e imobiliário ou sociedades de investimento mobiliário e imobiliário;
 
 c) Donativos efectuados nos termos da Lei do Mecenato;
 

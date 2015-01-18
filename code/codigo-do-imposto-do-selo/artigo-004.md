@@ -35,3 +35,5 @@ f) Os direitos de propriedade industrial, direitos de autor e direitos conexos r
 5 - Nas transmissões gratuitas, consideram-se domiciliadas em território nacional as pessoas referidas no artigo 16.º do Código do IRS.
 
 6 - Nas situações previstas na verba n.º 28 da Tabela Geral, o imposto é devido sempre que os prédios estejam situados em território português.
+
+7 - Nas situações previstas na verba n.º 29 da Tabela Geral, o imposto é devido sempre que os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário sejam constituídos e operem de acordo com a legislação nacional.

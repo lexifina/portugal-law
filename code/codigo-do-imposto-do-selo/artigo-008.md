@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Valor tributável
-
 # Artigo 8.º
 
 ### Averbamento da isenção
