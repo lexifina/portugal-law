@@ -1,8 +1,8 @@
 # Artigo 25.º
 
-### Denúncia de contrato com arrendatário com idade igual ou superior a 65 anos, ou com deficiência com grau de incapacidade superior a 60 %
+### Denúncia do contrato com arrendatário com idade igual ou superior a 65 anos ou com deficiência com grau de incapacidade igual ou superior a 60 %
 
-1 - A denúncia do contrato de duração indeterminada para demolição ou realização de obra de remodelação ou restauro profundos, nos termos da alínea b) do artigo 1101.º do Código Civil, quando o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade superior a 60 %, obriga o senhorio, na falta de acordo entre as partes, a garantir o realojamento do arrendatário em condições análogas às que este já detinha, nos termos previstos nos n.os 3 a 5 do artigo 6.º, devendo o local a tal destinado encontrar-se em estado de conservação médio ou superior.
+1 - A denúncia do contrato de duração indeterminada para demolição ou realização de obra de remodelação ou restauro profundos, nos termos da alínea b) do artigo 1101.º do Código Civil, quando o arrendatário tiver idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, obriga o senhorio, na falta de acordo entre as partes, a garantir o realojamento do arrendatário em condições análogas às que este já detinha, nos termos previstos nos n.os 3 a 5 do artigo 6.º, devendo o local a tal destinado encontrar-se em estado de conservação médio ou superior.
 
 2 - Para efeitos do disposto no número anterior, na comunicação a que se refere o n.º 1 do artigo 8.º, o senhorio indica o local destinado ao realojamento e a respetiva renda propostos, bem como o prazo legalmente previsto para a resposta e a consequência prevista no n.º 7 para a falta de resposta.
 

@@ -10,10 +10,10 @@
 
 ### Remodelação ou restauro profundos
 
-1 - As obras, nomeadamente de conservação e reconstrução, que obrigam, para a sua realização, à desocupação do locado são consideradas, para efeitos do presente decreto-lei, obras de remodelação ou restauro profundos.
+1 - Para efeitos do presente decreto-lei, são obras de remodelação ou restauro profundos as obras de alteração, ampliação ou reconstrução, sujeitas a controlo prévio, nos termos do regime jurídico da urbanização e da edificação e do regime jurídico da reabilitação urbana.
 
 2 - (Revogado.)
 
 3 - (Revogado.)
 
-4 - As obras referidas no n.º 1 podem decorrer de intervenções urbanísticas realizadas em área de reabilitação urbana, no âmbito do regime jurídico da reabilitação urbana.
+4 - As obras referidas no n.º 1 podem decorrer de intervenções urbanísticas realizadas em área de reabilitação urbana.
