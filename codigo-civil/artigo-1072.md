@@ -12,4 +12,4 @@ b) Se a ausência, não perdurando há mais de dois anos, for devida ao cumprime
 
 c) Se a utilização for mantida por quem, tendo direito a usar o locado, o fizesse há mais de um ano.
 
-d) Se a ausência se dever à prestação de apoios continuados a pessoas com deficiência com grau de incapacidade superior a 60 %, incluindo a familiares.
+d) Se a ausência se dever à prestação de apoios continuados a pessoas com deficiência com grau de incapacidade igual ou superior a 60 %, incluindo a familiares.

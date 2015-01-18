@@ -4,13 +4,17 @@
 
 1 - A denúncia pelo senhorio com qualquer dos fundamentos previstos nas alíneas a) e b) do artigo 1101.º é feita mediante comunicação ao arrendatário com antecedência não inferior a seis meses sobre a data pretendida para a desocupação e da qual conste de forma expressa, sob pena de ineficácia, o fundamento da denúncia.
 
-2 - Quando a denúncia tiver o fundamento previsto na alínea b) do artigo 1101.º, a comunicação referida no número anterior é acompanhada, sob pena de ineficácia da denúncia:
+2 - Quando a denúncia tiver o fundamento previsto na alínea b) do artigo 1101.º, a comunicação referida no número anterior é acompanhada, sob pena de ineficácia da denúncia, dos seguintes documentos:
 
-a) De comprovativo de que foi iniciado, junto da entidade competente, procedimento de controlo prévio da operação urbanística a efetuar no locado, bem como de termo de responsabilidade do técnico autor do projeto legalmente habilitado que declare que a operação urbanística obriga à desocupação do locado, quando se trate de operação urbanística sujeita a controlo prévio; ou
+a) Comprovativo de que foi iniciado, junto da entidade competente, procedimento de controlo prévio da operação urbanística a efetuar no locado; e
 
-b) De descritivo da operação urbanística a efetuar no locado, indicando que a operação urbanística está isenta de controlo prévio e as razões pelas quais a mesma obriga à desocupação do locado, quando se trate de operação urbanística isenta de controlo prévio.
+b) Termo de responsabilidade do técnico autor do projeto legalmente habilitado que ateste que a operação urbanística reúne os pressupostos legais de uma obra de demolição ou de uma obra de remodelação ou restauro profundos e as razões que obrigam à desocupação do locado.
 
-3 - Estando a operação urbanística a efetuar no locado sujeita a procedimento de controlo prévio, a denúncia a que se referem os números anteriores é confirmada, sob pena de ineficácia, mediante comunicação ao arrendatário, acompanhada de comprovativo de deferimento do correspondente pedido, no caso de operação urbanística sujeita a licença administrativa, ou de que a pretensão não foi rejeitada, no caso de operação urbanística sujeita a comunicação prévia.
+3 - A denúncia a que se refere o número anterior é confirmada, sob pena de ineficácia, mediante comunicação ao arrendatário, acompanhada dos seguintes documentos:
+
+a) Alvará de licença de obras ou título da comunicação prévia;
+
+b) Documento emitido pela câmara municipal, que ateste que a operação urbanística constitui, nos termos da lei, uma obra de demolição ou uma obra de remodelação ou restauro profundos para efeitos de aplicação do disposto na alínea b) do artigo 1101.º, quando tal não resulte do documento referido na alínea anterior.
 
 4 - Na situação prevista no número anterior, a desocupação tem lugar no prazo de 15 dias contados da receção da confirmação, salvo se não se encontrar decorrido o prazo previsto no n.º 1, caso em que a desocupação tem lugar até ao termo do último dos prazos.
 
