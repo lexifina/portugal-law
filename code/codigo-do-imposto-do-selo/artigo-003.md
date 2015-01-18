@@ -48,6 +48,8 @@ t) Nos prémios do bingo, das rifas, do jogo do loto e dos jogos sociais do Esta
 
 u) Nas situações previstas na verba n.º 28 da Tabela Geral, o sujeito passivo referido no n.º 4 do artigo anterior.
 
-v) Nos trespasses de estabelecimento comercial, industrial ou agrícola e nas subconcessões e trespasses de concessões feitos pelo Estado, pelas regiões autónomas ou pelas autarquias locais, para exploração de empresas ou de serviços de qualquer natureza, tenha ou não principiado a exploração, os adquirentes dos referidos direitos.
+v) Nas situações previstas na verba n.º 29 da Tabela Geral, os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário.
+
+x) Nas situações previstas na verba n.º 29 da Tabela Geral, os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário.
 
 4 - (Revogado.)

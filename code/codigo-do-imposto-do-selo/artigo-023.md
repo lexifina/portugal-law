@@ -16,4 +16,6 @@
 
 7 - Tratando-se do imposto devido pelas situações previstas na verba n.º 28 da Tabela Geral, o imposto é liquidado anualmente, em relação a cada prédio urbano, pelos serviços centrais da Autoridade Tributária e Aduaneira, aplicando-se, com as necessárias adaptações, as regras contidas no CIMI.
 
-8 - Tratando-se de imposto devido pelos contratos previstos na verba 2 da tabela geral, o imposto é liquidado pela Autoridade Tributária e Aduaneira com base na declaração prevista no artigo 60.º, considerando-se, para todos os efeitos legais, o ato tributário praticado no serviço de finanças da área da situação do prédio.
+8 - Tratando-se do imposto devido pelas situações previstas na verba n.º 29 da Tabela Geral, o imposto é liquidado trimestralmente pelo sujeito passivo, até ao último dia do mês subsequente ao do nascimento da obrigação tributária.
+
+9 - Tratando-se do imposto devido pelas situações previstas na verba n.º 29 da Tabela Geral, o imposto é liquidado trimestralmente pelo sujeito passivo, até ao último dia do mês subsequente ao do nascimento da obrigação tributária

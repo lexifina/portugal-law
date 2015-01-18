@@ -48,6 +48,8 @@ t) Nos prémios do bingo, das rifas, do jogo do loto e dos jogos sociais do Esta
 
 u) Nas situações previstas na verba n.º 28 da Tabela Geral, no momento e de acordo com as regras previstas no CIMI, com as devidas adaptações.
 
-v) Nos contratos de arrendamento, subarrendamento e promessa previstos na verba 2 da tabela geral, na data do início do arrendamento, do subarrendamento, das alterações ou, no caso de promessa, da disponibilização do bem locado.
+v) Nas situações previstas na verba n.º 29 da Tabela Geral, no último dia dos meses de março, junho, setembro e dezembro de cada ano.
+
+w) Nas situações previstas na verba n.º 29 da Tabela Geral, no último dia dos meses de março, junho, setembro e dezembro de cada ano.
 
 2 - Caso os prémios referidos na alínea t) do número anterior sejam pagos de forma fracionada, a obrigação tributária considera-se constituída no momento de cada pagamento, por referência à parte proporcional do imposto calculado nos termos da verba 11.4 da Tabela Geral sobre a totalidade do prémio.
