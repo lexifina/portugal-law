@@ -1,13 +1,19 @@
 # Artigo 39.º-A
 
-### Eliminação da dupla tributação económica dos lucros distribuídos por sociedades residentes nos países africanos de língua oficial portuguesa e na República Democrática de Timor-Leste.
+### Trabalhadores deslocados no estrangeiro
 
-1 - A dedução prevista no n.º 1 do artigo 46.º do Código do IRC é aplicável aos lucros distribuídos a entidades residentes por sociedades afiliadas residentes em países africanos de língua oficial portuguesa e em Timor-Leste, desde que verificadas as seguintes condições:
+1 - Ficam isentos de IRS os rendimentos do trabalho dependente referidos no artigo 18.º do Código do IRS auferidos por sujeitos passivos que, no ano a que respeitam os rendimentos, tendo sido deslocados do seu normal local de trabalho para o estrangeiro por período não inferior a 90 dias, dos quais 60 necessariamente seguidos, sejam considerados residentes em território português, na parte relativa à remuneração paga ou colocada à disposição do trabalhador exclusivamente a título de compensação pela deslocação e permanência no estrangeiro que exceda os limites legais previstos no Código do IRS.
 
-a) A entidade beneficiária dos lucros esteja sujeita e não isenta de IRC e a sociedade afiliada esteja sujeita e não isenta a um imposto sobre o rendimento análogo ao IRC;
+2 - O montante anual da compensação isenta nos termos do número anterior, por sujeito passivo, não pode exceder o valor correspondente à diferença entre o montante anual da remuneração do trabalhador sujeita a imposto, incluindo a compensação, e o montante global das remunerações regulares com carácter de retribuição sujeitas a imposto auferidas pelo trabalhador no período de tributação anterior, excluindo qualquer compensação que haja sido paga, durante esse período, em virtude dessa ou outras deslocações ao abrigo deste regime, e não pode, em qualquer caso, exceder o valor de (euro) 10 000.
 
-b) A entidade beneficiária detenha, de forma directa, uma participação que represente, pelo menos, 25% do capital da sociedade afiliada durante um período não inferior a dois anos;
+3 - Em caso de ausência de remuneração auferida em território português ou no estrangeiro, devida por qualquer entidade a título de trabalho dependente por período superior a seis meses no período de tributação anterior àquele a que respeitam os rendimentos, o montante global das remunerações regulares com carácter de retribuição sujeitas a imposto auferidas no ano anterior deve ser apurado, relativamente aos meses em que não tenha havido remuneração, por referência à retribuição mínima mensal garantida.
 
-c) Os lucros distribuídos provenham de lucros da sociedade afiliada que tenham sido tributados a uma taxa não inferior a 10% e não resultem de actividades geradoras de rendimentos passivos, designadamente royalties, mais-valias e outros rendimentos relativos a valores mobiliários, rendimentos de imóveis situados fora do país de residência da sociedade, rendimentos da actividade seguradora oriundos predominantemente de seguros relativos a bens situados fora do território de residência da sociedade ou de seguros respeitantes a pessoas que não residam nesse território e rendimentos de operações próprias da actividade bancária não dirigidas principalmente ao mercado desse território.
+4 - Podem optar pela tributação prevista nos números anteriores, nos termos aplicáveis aos sujeitos passivos residentes em território português, os sujeitos passivos que, tendo sido deslocados para o estrangeiro nos termos estabelecidos no n.º 1, não sejam considerados residentes em território português, com o limite de três anos após a data do deslocamento.
 
-2 - Para efeitos do disposto no número anterior, o sujeito passivo de IRC titular da participação deve dispor de prova da verificação das condições de que depende a dedução.
+5 - Exercida a opção prevista no número anterior, é aplicável aos rendimentos abrangidos pelo n.º 1 o disposto nos n.os 3 e seguintes do artigo 17.º-A do Código do IRS, com as devidas adaptações.
+
+6 - O disposto no n.º 1 determina o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS.
+
+7 - A isenção prevista no n.º 1 não é cumulável com quaisquer outros benefícios fiscais aplicáveis aos rendimentos da categoria A, automáticos ou de reconhecimento prévio, previstos neste ou noutros diplomas legais e com o regime previsto para os residentes não habituais.
+
+8 - A isenção prevista no presente artigo fica dependente de acordo escrito celebrado entre o sujeito passivo e a entidade empregadora, no qual expressamente se identifique o destino e o período da deslocação, bem como a remuneração total a pagar ou a colocar à disposição do sujeito passivo e a compensação a que se refere o n.º 1, devendo o sujeito passivo ficar na posse de uma cópia do documento.

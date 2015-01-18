@@ -24,6 +24,6 @@ b) As entidades não residentes detidas, directa ou indirectamente, em mais de 2
 
 9 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são obrigadas a publicar o valor do rendimento distribuído, o valor do imposto retido aos titulares das unidades de participação, bem como a dedução que lhes corresponder, para efeitos do disposto no n.º 6.
 
-10 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa a aplicação do regime previsto no presente artigo, passando a aplicar-se o regime previsto no artigo 22.º, devendo os rendimentos dos fundos de investimento referidos no n.º 1 que, à data, não tenham ainda sido pagos ou colocados à disposição dos respectivos titulares ser tributados, autonomamente, às taxas previstas no artigo 22.º, acrescendo os juros compensatórios correspondentes.
+10 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa a aplicação do regime previsto no presente artigo, passando a aplicar-se o regime previsto no artigo 22.º, devendo os rendimentos dos fundos de investimento referidos no n.º 1 que, à data, não tenham ainda sido pagos ou colocados à disposição dos respetivos titulares, ser tributados nos termos previstos no artigo 22.º-A, acrescendo os juros compensatórios correspondentes.
 
 11 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.

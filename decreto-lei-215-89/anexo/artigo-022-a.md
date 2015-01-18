@@ -1,25 +1,51 @@
 # Artigo 22.º-A
 
-### Fundos de capital de risco
+### Rendimentos pagos por organismos de investimento coletivo aos seus participantes
 
-1 - Ficam isentos de IRC os rendimentos de qualquer natureza, obtidos pelos fundos de capital de risco (FCR), que se constituam e operem de acordo com a legislação nacional.
+1 - Sem prejuízo do disposto no n.º 3, os rendimentos de unidades de participação ou participações sociais em entidades a que se aplique o regime previsto no artigo anterior, são tributados em IRS ou IRC, nos seguintes termos:
 
-2 - Os rendimentos respeitantes a unidades de participação nos fundos de capital de risco, pagos ou colocados à disposição dos respectivos titulares, quer seja por distribuição ou mediante operação de resgate, são sujeitos a retenção na fonte de IRS ou de IRC, à taxa de 10%, excepto quando os titulares dos rendimentos sejam entidades isentas quanto aos rendimentos de capitais ou entidades não residentes sem estabelecimento estável em território português ao qual os rendimentos sejam imputáveis, excluindo:
+a) No caso de rendimentos distribuídos a titulares residentes em território português, ou que sejam imputáveis a um estabelecimento estável situado neste território, por retenção na fonte:
 
-a) As entidades que sejam residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
+i) À taxa prevista no n.º 1 do artigo 71.º do Código do IRS, quando os titulares sejam sujeitos passivos de IRS, tendo a retenção na fonte caráter definitivo quando os rendimentos sejam obtidos fora do âmbito de uma atividade comercial, industrial ou agrícola;
 
-b) As entidades não residentes detidas, directa ou indirectamente, em mais de 25% por entidades residentes.
+ii) À taxa prevista no n.º 4 do artigo 94.º do Código do IRC, quando os titulares sejam sujeitos passivos deste imposto, tendo a retenção na fonte a natureza de imposto por conta, exceto quando o titular beneficie de isenção de IRC que exclua os rendimentos de capitais, caso em que tem caráter definitivo;
 
-3 - A retenção na fonte a que se refere o número anterior tem carácter definitivo sempre que os titulares sejam entidades não residentes sem estabelecimento estável em território português ou sujeitos passivos de IRS residentes que obtêm os rendimentos fora do âmbito de uma actividade comercial, industrial ou agrícola, podendo estes, porém, optar pelo englobamento para efeitos desse imposto, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
+b) No caso de rendimentos decorrentes do resgate de unidades de participação auferidos por sujeitos passivos de IRS residentes em território português fora do âmbito de uma atividade comercial, industrial ou agrícola, ou que sejam imputáveis a um estabelecimento estável situado neste território, por retenção na fonte a título definitivo à taxa prevista no n.º 1 do artigo 72.º do Código do IRS;
 
-4 - A dispensa de retenção na fonte nos casos previstos no n.º 2 só se verifica quando os beneficiários dos rendimentos fizerem prova, perante a entidade pagadora, da isenção de que aproveitam ou da qualidade de não residente em território português, até à data em que deve ser efectuada a retenção na fonte, ficando, em caso de omissão da prova, o substituto tributário obrigado a entregar a totalidade do imposto que deveria ter sido deduzido nos termos da lei, sendo aplicáveis as normas gerais previstas nos competentes códigos relativas à responsabilidade pelo eventual imposto em falta.
+c) No caso de rendimentos de unidades de participação em fundos de investimento imobiliário e de participações sociais em sociedades de investimento imobiliário de que sejam titulares sujeitos passivos não residentes, que não possuam um estabelecimento estável em território português ao qual estes rendimentos sejam imputáveis, por retenção na fonte a título definitivo à taxa de 10 %, quando se trate de rendimentos distribuídos ou decorrentes de operações de resgate de unidades de participação ou autonomamente à taxa de 10 %, nas restantes situações;
 
-5 - A prova da qualidade de não residente em território português é feita nos termos previstos nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de Novembro.
+d) No caso de rendimentos de unidades de participação em fundos de investimento mobiliário ou de participações sociais em sociedades de investimento mobiliário a que se aplique o regime previsto no artigo anterior, incluindo as mais-valias que resultem do respetivo resgate ou liquidação, cujos titulares sejam não residentes em território português sem estabelecimento estável aí situado ao qual estes rendimentos sejam imputáveis, os mesmos estão isentos de IRS ou de IRC;
 
-6 - Os titulares de rendimentos respeitantes a unidades de participação em fundos de capital de risco, quando englobem os rendimentos que lhes sejam distribuídos, têm direito a deduzir 50% dos rendimentos relativos a dividendos, nos termos e condições previstos no artigo 40.º-A do Código do IRS e no n.º 8 do artigo 46.º do Código do IRC.
+e) Nos restantes casos, nos termos previstos no Código do IRS ou no Código do IRC.
 
-7 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de unidades de participação em fundos de capital de risco é tributado à taxa de 10% quando os titulares sejam entidades não residentes a que não seja aplicável a isenção prevista no artigo 26.º deste Estatuto ou sujeitos passivos de IRS residentes em território português que obtêm os rendimentos fora do âmbito de uma actividade comercial, industrial ou agrícola e não optem pelo respectivo englobamento.
+2 - O disposto na subalínea i) da alínea a) e na alínea b) do número anterior não prejudica a opção pelo englobamento quando os rendimentos sejam obtidos por sujeitos passivos de IRS fora do âmbito de uma atividade comercial, industrial ou agrícola, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
 
-8 - As obrigações previstas no artigo 119.º e no n.º 1 do artigo 125.º do Código do IRS devem ser cumpridas pelas entidades gestoras ou registadoras.
+3 - O disposto nas alíneas c) e d) do n.º 1 não é aplicável, sendo os rendimentos tributados nos termos das alíneas a), b) ou e) do mesmo número, quando:
 
-9 - As sociedades gestoras dos fundos de capital de risco são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
+a) Os titulares sejam residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças;
+
+b) Os titulares sejam entidades não residentes que sejam detidas, direta ou indiretamente, em mais de 25 % por entidades ou pessoas singulares residentes em território nacional.
+
+4 - Nas situações referidas nas alíneas c) e d) do n.º 1, os titulares dos rendimentos devem fazer prova da qualidade de não residente em território português perante a entidade que se encontra obrigada a efetuar a retenção na fonte, até ao termo do prazo estabelecido para a entrega do imposto, devendo observar-se, com as necessárias adaptações, o disposto nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de novembro.
+
+5 - Quando não seja efetuada a prova prevista no número anterior, o substituto tributário fica obrigado a entregar a totalidade do imposto que deveria ter sido deduzido nos termos das alíneas a) ou b) do n.º 1.
+
+6 - Os titulares dos rendimentos que verifiquem as condições referidas na alínea c) e d) do n.º 1, quando não tenha sido efetuada a prova nos prazos e nas condições estabelecidas, podem solicitar o reembolso total ou parcial do imposto que tenha sido retido na fonte, no prazo de dois anos contados a partir do termo do ano em que se verificou o facto gerador do imposto, mediante a apresentação de um formulário de modelo a aprovar por despacho do membro do Governo responsável pela área das finanças, que seja:
+
+a) Certificado pelas autoridades competentes do respetivo Estado de residência; ou
+
+b) Acompanhado de documento emitido pelas autoridades competentes do respetivo Estado de residência, que ateste a sua residência para efeitos fiscais no período em causa e a sujeição a imposto sobre o rendimento nesse Estado.
+
+7 - O formulário previsto no número anterior deve, quando necessário, ser acompanhado de outros elementos que permitam aferir da legitimidade do reembolso.
+
+8 - O reembolso do excesso do imposto retido na fonte deve ser efetuado no prazo de um ano contado da data da apresentação do pedido e dos elementos que constituem a prova da verificação dos pressupostos de que depende a concessão do benefício acrescendo, em caso de incumprimento desse prazo, à quantia a reembolsar, juros indemnizatórios calculados a taxa idêntica à aplicável aos juros compensatórios a favor do Estado.
+
+9 - Para efeitos da contagem do prazo referido no número anterior, considera-se que o mesmo se suspende sempre que o procedimento estiver parado por motivo imputável ao requerente.
+
+10 - No caso de rendimentos decorrentes de unidades de participação adquiridas em mercado secundário, o adquirente deve comunicar à entidade registadora ou depositária, ou, na ausência destas, à entidade responsável pela gestão ou ao organismo de investimento coletivo sob a forma societária, a data e o valor de aquisição.
+
+11 - Em caso de incumprimento da obrigação prevista no número anterior, a retenção na fonte sobre os rendimentos decorrentes de resgate das unidades de participação é efetuada sobre o montante bruto do resgate.
+
+12 - As entidades responsáveis pela gestão do fundo ou sociedade, ou os próprios quando autogeridos, são responsáveis pelo cumprimento das obrigações declarativas que, nos termos dos artigos 119.º e 125.º do Código do IRS, impendem sobre as entidades registadoras ou depositárias de unidades de participação e de participações sociais, sempre que não existam estas últimas entidades.
+
+13 - Para efeitos da aplicação deste regime, os rendimentos de unidades de participação em fundos de investimento imobiliário e as participações sociais em sociedades de investimento imobiliário, incluindo as mais-valias que resultem da respetiva transmissão onerosa, resgate ou liquidação, são considerados rendimentos de bens imóveis.

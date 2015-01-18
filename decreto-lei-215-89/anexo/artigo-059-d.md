@@ -1,12 +1,12 @@
 # Artigo 59.º-D
 
-### Incentivos fiscais à atividade silvícola e agrícola
+### Incentivos fiscais à atividade silvícola
 
 1 - Para efeitos de determinação da taxa de IRS a aplicar a rendimentos da categoria B decorrentes de explorações silvícolas plurianuais, o respetivo valor é dividido:
 
-a) Por 12, para os rendimentos que sejam determinados com base na aplicação das regras decorrentes do regime simplificado, incluindo o ato isolado;
+a) Por 12, para os rendimentos que sejam determinados com base na aplicação das regras decorrentes do regime simplificado;
 
-b) Pela soma do número de anos ou fração a que respeitem os gastos imputados ao respetivo lucro tributável, nos termos do n.º 7 do artigo 18.º do Código do IRC, para os rendimentos que sejam determinados com base na contabilidade, incluindo o ato isolado.
+b) Pela soma do número de anos ou fração a que respeitem os gastos imputados ao respetivo lucro tributável, nos termos do n.º 7 do artigo 18.º do Código do IRC, para os rendimentos que sejam determinados com base na contabilidade.
 
 2 - Ficam isentas de imposto municipal sobre as transmissões onerosas de imóveis e de imposto do selo, no que se refere à verba 1.1 da tabela geral do imposto do selo, as aquisições onerosas de prédios ou parte de prédios rústicos que correspondam a áreas florestais abrangidas por zona de intervenção florestal (ZIF), nos termos do disposto no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, e 27/2014, de 18 de fevereiro, ou de prédios contíguos aos mesmos, na condição de estes últimos serem abrangidos por uma ZIF num período de três anos contados a partir da data de aquisição.
 
@@ -32,12 +32,8 @@ b) Pela soma do número de anos ou fração a que respeitem os gastos imputados 
 
 13 - O montante máximo da majoração prevista no número anterior não pode exceder o equivalente a 8/1000 do volume de negócios referente ao exercício em que são realizadas as contribuições.
 
-14 - Aos sujeitos passivos de IRS ou IRC abrangidos pelas regras decorrentes do regime simplificado é igualmente aplicável uma dedução ao rendimento tributável ou à matéria coletável, respetivamente, obtidos após a aplicação dos respetivos coeficientes e até à sua concorrência, de um montante equivalente à majoração prevista nos n.os 12 e 13.
-
-15 - O disposto nos n.os 12, 13 e 14 é aplicável aos sujeitos de IRS e de IRC que preencham, cumulativamente, as seguintes condições
+14 - O disposto nos n.os 12 e 13 é aplicável aos sujeitos de IRS e de IRC que preencham, cumulativamente, as seguintes condições:
 
 a) O seu lucro tributável não seja determinado por métodos indiretos;
 
 b) A respetiva produção silvícola ou florestal esteja submetida a um plano de gestão florestal elaborado, aprovado e executado nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, e 27/2014, de 18 de fevereiro.
-
-16 - Aos prémios de primeira instalação a jovens agricultores é aplicado um coeficiente de 0,1 para efeitos da alínea e) do n.º 1 do artigo 31.º do Código do IRS, sendo estes rendimentos considerados apenas em 50 % quando abrangidos pelo regime da contabilidade organizada.

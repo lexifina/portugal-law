@@ -2,7 +2,7 @@
 
 ### Outros benefícios com caráter ambiental atribuídos a imóveis
 
-1 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 25 % da taxa do imposto municipal sobre imóveis a vigorar no ano a que respeita o imposto, a aplicar aos prédios urbanos com eficiência energética.
+1 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 15 % da taxa do imposto municipal sobre imóveis a vigorar no ano a que respeita o imposto, a aplicar aos prédios urbanos com eficiência energética.
 
 2 - Considera-se haver eficiência energética, para os efeitos do número anterior, nos seguintes casos:
 

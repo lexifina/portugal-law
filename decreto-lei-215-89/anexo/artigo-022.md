@@ -4,78 +4,40 @@
 
 # Artigo 22.º
 
-### Fundos de investimento
+### Organismos de Investimento Coletivo
 
-1 - Os rendimentos dos fundos de investimento mobiliário, que se constituam e operem de acordo com a legislação nacional, têm o seguinte regime fiscal:
+1 - São tributados em IRC, nos termos previstos neste artigo, os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário que se constituam e operem de acordo com a legislação nacional.
 
-a) Tratando-se de rendimentos que não sejam mais-valias, obtidos em território português, há lugar a tributação, autonomamente:
+2 - O lucro tributável dos sujeitos passivos de IRC referidos no número anterior corresponde ao resultado líquido do exercício, apurado de acordo com as normas contabilísticas legalmente aplicáveis às entidades referidas no número anterior, sem prejuízo do disposto no número seguinte.
 
-1) Por retenção na fonte, como se de pessoas singulares residentes em território português se tratasse;
+3 - Para efeitos do apuramento do lucro tributável, não são considerados os rendimentos referidos nos artigos 5.º, 8.º e 10.º do Código do IRS, exceto quando tais rendimentos provenham de entidades com residência ou domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada em portaria do membro do Governo responsável pela área das finanças, os gastos ligados àqueles rendimentos ou previstos no artigo 23.º-A do Código do IRC, bem como os rendimentos, incluindo os descontos, e gastos relativos a comissões de gestão e outras comissões que revertam para as entidades referidas no n.º 1.
 
-2) Às taxas de retenção na fonte e sobre o montante a esta sujeito, como se de pessoas singulares residentes em território português se tratasse, quando tal retenção na fonte, sendo devida, não for efectuada pela entidade a quem compete; ou
+4 - Os prejuízos fiscais apurados em determinado período de tributação nos termos do disposto nos números anteriores são deduzidos aos lucros tributáveis, havendo-os, de um ou mais dos 12 períodos de tributação posteriores, aplicando-se o disposto no n.º 2 do artigo 52.º do Código do IRC.
 
-3) À taxa de 25 % sobre o respectivo valor líquido obtido em cada ano, no caso de rendimentos não sujeitos a retenção na fonte, sendo o imposto entregue pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
+5 - Sobre a matéria coletável correspondente ao lucro tributável deduzido dos prejuízos fiscais, tal como apurado nos termos dos números anteriores, aplica-se a taxa geral prevista no n.º 1 do artigo 87.º do Código do IRC.
 
-b) Tratando-se de rendimentos que não sejam mais-valias, obtidos fora do território português, há lugar a tributação, autonomamente, à taxa de 20 %, relativamente a rendimentos de títulos de dívida, a lucros distribuídos e a rendimentos de fundos de investimento, e à taxa de 25 %, nos restantes casos, incidente sobre o respectivo valor líquido obtido em cada ano, sendo o imposto entregue ao Estado pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
+6 - As entidades referidas no n.º 1 estão isentas de derrama municipal e derrama estadual.
 
-c) Tratando-se de mais-valias, obtidas em território português ou fora dele, há lugar a tributação, autonomamente, nas mesmas condições em que se verificaria se desses rendimentos fossem titulares pessoas singulares residentes em território português, à taxa de 25 %, sobre a diferença positiva entre as mais-valias e as menos-valias obtidas em cada ano, sendo o imposto entregue ao Estado pela respetiva entidade gestora, até ao fim do mês de abril do ano seguinte àquele a que respeitar.
+7 - Às fusões, cisões ou subscrições em espécie entre as entidades referidas no n.º 1, incluindo as que não sejam dotadas de personalidade jurídica, é aplicável, com as necessárias adaptações, o disposto nos artigos 73.º, 74.º, 76.º e 78.º do Código do IRC, sendo aplicável às subscrições em espécie o regime das entradas de ativos previsto no n.º 3 do artigo 73.º do referido Código.
 
-2 - Os sujeitos passivos de IRS que sejam titulares de unidades de participação nos fundos referidos no n.º 1, fora do âmbito de uma actividade comercial, industrial ou agrícola, são isentos de IRS relativamente aos rendimentos respeitantes a unidades de participação nesses fundos, podendo, porém, os respectivos titulares, residentes em território português, englobá-los para efeitos deste imposto, caso em que o imposto retido ou devido, nos termos do n.º 1, tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
+8 - As taxas de tributação autónoma previstas no artigo 88.º do Código do IRC têm aplicação, com as necessárias adaptações, no presente regime.
 
-3 - Relativamente a rendimentos respeitantes a unidades de participação nos fundos referidos no n.º 1, de que sejam titulares sujeitos passivos de IRC ou sujeitos passivos de IRS, que os obtenham no âmbito de uma actividade comercial, industrial ou agrícola, residentes em território português ou que sejam imputáveis a estabelecimento estável de entidade não residente situado neste território, os mesmos não estão sujeitos a retenção na fonte e são pelos seus titulares considerados como proveitos ou ganhos, e o montante do imposto retido ou devido nos termos do n.º 1 a natureza de imposto por conta, para efeitos do disposto no artigo 83.º do Código do IRC e do artigo 78.º do Código do IRS.
+9 - O IRC incidente sobre os rendimentos das entidades a que se aplique o presente regime é devido por cada período de tributação, o qual coincide com o ano civil, podendo no entanto ser inferior a um ano civil:
 
-4 - Aos sujeitos passivos de IRC residentes em território português que, em consequência de isenção, não estejam obrigados à entrega da declaração de rendimentos, o imposto retido ou devido nos termos do n.º 1, correspondente aos rendimentos das unidades de participação que tenham subscrito, deve ser restituído pela entidade gestora do fundo e pago conjuntamente com os rendimentos respeitantes a estas unidades.
+a) No ano do início da atividade, em que é constituído pelo período decorrido entre a data em que se inicia a atividade e o fim do ano civil;
 
-5 - Relativamente a rendimentos respeitantes a unidades de participação nos fundos referidos nos n.os 1 e 13 de que sejam titulares entidades não residentes em território português, e que não sejam imputáveis a estabelecimento estável situado neste território, são isentos de IRS ou de IRC.
+b) No ano da cessação da atividade, em que é constituído pelo período decorrido entre o início do ano civil e a data da cessação da atividade.
 
-6 - Os rendimentos dos fundos de investimento imobiliário, que se constituam e operem de acordo com a legislação nacional, têm o seguinte regime fiscal:
+10 - Não existe obrigação de efetuar a retenção na fonte de IRC relativamente aos rendimentos obtidos pelos sujeitos passivos referidos no n.º 1.
 
-a) Tratando-se de rendimentos prediais, que não sejam relativos à habitação social sujeita a regimes legais de custos controlados, há lugar a tributação, autonomamente, à taxa de 25 %, que incide sobre os rendimentos líquidos dos encargos de conservação e manutenção efetivamente suportados, devidamente documentados, bem como do imposto municipal sobre imóveis, sendo a entrega do imposto efetuada pela respetiva entidade gestora, até ao fim do mês de abril do ano seguinte àquele a que respeitar, e considerando-se o imposto eventualmente retido como pagamento por conta deste imposto;
+11 - A liquidação de IRC é efetuada através da declaração de rendimentos a que se refere o artigo 120.º do Código do IRC, aplicando-se, com as necessárias adaptações, o disposto no artigo 89.º, no n.º 1 do artigo 90.º, no artigo 99.º e nos artigos 101.º a 103.º do referido Código.
 
-b) Tratando-se de mais-valias prediais, que não sejam relativas a habitação social sujeita a regimes legais de custos controlados, há lugar a tributação, autonomamente, à taxa de 25 %, que incide sobre 50 % da diferença positiva entre as mais-valias e as menos-valias realizadas, apuradas de acordo com o Código do IRS, sendo a entrega do imposto efectuada pela respectiva entidade gestora até ao fim do mês de Abril do ano seguinte àquele a que respeitar;
+12 - O pagamento do imposto deve ser efetuado até ao último dia do prazo fixado para o envio da declaração de rendimentos, aplicando-se, com as necessárias adaptações, o disposto nos artigos 109.º a 113.º e 116.º do Código do IRC.
 
-c) Tratando-se de outros rendimentos, há lugar a tributação nos termos mencionados nas alíneas a), b) e c) do n.º 1.
+13 - As entidades referidas no n.º 1 estão ainda sujeitas, com as necessárias adaptações, às obrigações previstas nos artigos 117.º a 123.º, 125.º e 128.º a 130.º do Código do IRC.
 
-7 - Aos rendimentos respeitantes a unidades de participação em fundos de investimento imobiliário aplica-se o regime fiscal idêntico ao estabelecido nos n.os 2, 3, 4 e 5 para os rendimentos respeitantes a unidades de participação em fundos de investimento mobiliário.
+14 - O disposto no n.º 7 aplica-se às operações aí mencionadas que envolvam entidades com sede, direção efetiva ou domicílio em território português, noutro Estado membro da União Europeia ou, ainda, no Espaço Económico Europeu, neste último caso desde que exista obrigação de cooperação administrativa no domínio do intercâmbio de informações e da assistência à cobrança equivalente à estabelecida na União Europeia.
 
-8 - O imposto restituído nos termos do n.º 4 é deduzido ao montante global de qualquer das entregas posteriores a efectuar pela entidade gestora nos termos dos n.os 1 ou 6.
+15 - As entidades gestoras de sociedades ou fundos referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto das sociedades ou fundos cuja gestão lhes caiba.
 
-9 - Se, em consequência do disposto no n.º 8 ou na parte final da alínea a) do n.º 6, resultar imposto a recuperar, pode ser pedido o reembolso até ao fim do mês de Abril do ano seguinte, o qual é efectuado de acordo com o previsto nos n.os 3 e 6 do artigo 96.º do Código do IRC, ou ser feita a dedução, nos termos referidos no número anterior, em entregas posteriores.
-
-10 - Os titulares de rendimentos, pessoas singulares, respeitantes a unidades de participação em fundos de investimento mobiliário e em fundos de investimento imobiliário, quando englobem esses rendimentos, têm direito a deduzir 50 % dos rendimentos previstos no artigo 40.º-A do Código do IRS.
-
-11 - As sociedades gestoras dos fundos de investimento são obrigadas a publicar o valor do rendimento distribuído, o valor do imposto retido ou devido nos termos do n.º 1 ou do n.º 6 e o valor da dedução que lhes corresponder para efeitos do disposto do n.º 10.
-
-12 - As sociedades gestoras dos fundos de investimento são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
-
-13 - Os rendimentos dos fundos de fundos, que se constituam e operem de acordo com a legislação nacional, têm o seguinte regime fiscal:
-
-a) Os rendimentos respeitantes a unidades de participação em fundos constituídos de acordo com a legislação nacional estão isentos de IRC, não lhes sendo aplicável o disposto no n.º 4;
-
-b) Tratando-se de rendimentos não compreendidos na alínea a), aplica-se um regime fiscal idêntico ao estabelecido para os rendimentos dos fundos de investimento.
-
-14 - Aos rendimentos respeitantes a unidades de participação em fundos de fundos é aplicável o seguinte regime fiscal:
-
-a) Os rendimentos obtidos por sujeitos passivos de IRS que detenham tais unidades de participação fora do âmbito de uma actividade comercial, industrial ou agrícola, bem como os obtidos por sujeitos passivos de IRC que não exerçam a título principal qualquer das referidas actividades, são isentos desses impostos;
-
-b) Os rendimentos de que sejam titulares sujeitos passivos de IRS ou de IRC não abrangidos pela alínea a), residentes em território português ou que sejam imputáveis a um estabelecimento estável de entidade não residente situado neste território, não estão sujeitos a retenção na fonte, contando apenas por 40 % do seu quantitativo para fins de IRS ou de IRC;
-
-c) Aos rendimentos previstos nas alíneas a) e b) anteriores não é aplicável o disposto na última parte do n.º 3 e no n.º 4.
-
-15 - Relativamente aos rendimentos obtidos fora do território português, a aplicação de crédito de imposto por dupla tributação internacional fica sujeita às seguintes regras:
-
-a) O crédito de imposto consiste na dedução ao imposto devido sobre esses rendimentos, nos termos dos n.os 1 e 6, da menor das seguintes importâncias:
-
-1) Imposto sobre o rendimento efectivamente pago no estrangeiro em relação aos rendimentos em causa;
-
-2) Imposto, calculado nos termos deste artigo, sobre os rendimentos que no país em causa tenham sido tributados;
-
-b) Quando existir convenção destinada a eliminar a dupla tributação internacional, celebrada entre Portugal e o país onde os rendimentos são obtidos, que não exclua do respectivo âmbito os fundos de investimento, a dedução a que se refere a alínea anterior não pode ultrapassar o imposto pago nesse país, nos termos previstos por essa convenção;
-
-c) Sempre que sejam obtidos, no mesmo ano, rendimentos provenientes de diferentes países, a dedução deve ser calculada separadamente para cada tipo de rendimentos procedentes do mesmo país;
-
-d) Os rendimentos que dão direito ao crédito de imposto devem ser considerados, para efeitos de tributação, pelas respectivas importâncias ilíquidas dos impostos sobre o rendimento pagos no estrangeiro;
-
-e) As sociedades gestoras dos fundos de investimento são obrigadas a manter um registo apropriado que evidencie os montantes dos rendimentos obtidos no estrangeiro, discriminados por país, e os montantes do imposto sobre o rendimento efectivamente pago.
-
-16 - (Revogado.)
+16 - No caso de entidades referidas no n.º 1 divididas em compartimentos patrimoniais autónomos, as regras previstas no presente artigo são aplicáveis, com as necessárias adaptações, a cada um dos referidos compartimentos, sendo-lhes ainda aplicável o disposto no Decreto-Lei n.º 14/2013, de 28 de janeiro.

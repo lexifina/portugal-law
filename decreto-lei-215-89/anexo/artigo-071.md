@@ -42,7 +42,7 @@ b) Imóveis arrendados passíveis de actualização faseada das rendas nos termo
 
 14 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são obrigadas a publicar o valor do rendimento distribuído, o valor do imposto retido aos titulares das unidades de participação, bem como a dedução que lhes corresponder para efeitos do disposto no n.º 6.
 
-15 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa a aplicação do regime previsto no presente artigo, passando a aplicar-se o regime previsto no artigo 22.º do Estatuto dos Benefícios Fiscais, devendo os rendimentos dos fundos de investimento referidos no n.º 1 que, à data, não tenham ainda sido pagos ou colocados à disposição dos respectivos titulares ser tributados autonomamente, às taxas previstas no artigo 22.º, acrescendo os juros compensatórios correspondentes.
+15 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa a aplicação do regime previsto no presente artigo, passando a aplicar-se o regime previsto no artigo 22.º, devendo os rendimentos dos fundos de investimento referidos no n.º 1 que, à data, não tenham ainda sido pagos ou colocados à disposição dos respetivos titulares ser tributados às taxas previstas no artigo 22.º-A, acrescendo os juros compensatórios correspondentes.
 
 16 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
 
