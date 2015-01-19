@@ -1,0 +1,78 @@
+# Portaria n.º 16/2015
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E SECRETARIAS REGIONAIS DO PLANO E FINANÇAS E DOS ASSUNTOS SOCIAIS
+
+**Publicação:** JORAM, I série, n.º 10/2015, de 2015-01-19
+
+**Sumário:** Estabelece os procedimentos e as demais condições necessários à atribuição, aplicação e manutenção da tarifa social.
+
+## Texto
+
+Portaria n.º 16/2015
+de 19 de janeiro
+O Decreto-Lei n.º 138-A/2010, de 28 de dezembro, veio criar a tarifa social de fornecimento de energia elétrica a aplicar a clientes finais economicamente vulneráveis.
+Com a alteração operada pelo Decreto-Lei n.º 172/2014, de 14 de novembro, procedeu-se ao alargamento dos critérios de elegibilidade, quer por via da inclusão dos beneficiários de todos os escalões do abono de família e da pensão social de velhice, quer através da criação do critério do rendimento anual máximo.
+No que respeita aos procedimentos, os modelos e às demais condições necessárias à atribuição, aplicação e manutenção da tarifa social na Região Autónoma da Madeira atualmente previstos na Portaria n.º 3/2011 de 1 de fevereiro, cumpre proceder à sua adaptação, de forma a incluir a Autoridade Tributária e Aduaneira, que, com a introdução do critério do rendimento anual máximo, passa a desempenhar um papel fundamental na atribuição da tarifa social de eletricidade.
+O Decreto-Lei n.º 172/2014, de 14 de novembro, veio, por outro lado, estabelecer um procedimento alternativo para apresentação do pedido de reconhecimento de elegibilidade que dispensa a interação do comercializador com as entidades da segurança social competentes e ou a Autoridade Tributária e Aduaneira, prevendo-se a possibilidade de o cliente promover o contacto com estas entidades e apresentar os comprovativos de que é beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, na sua atual redação, ou de que o seu rendimento é inferior ao limite referido no n.º 3 do mesmo artigo. Neste contexto, vem a presente portaria estabelecer os referidos procedimentos e condições de atribuição, aplicação e manutenção da tarifa social, definindo quer a articulação do comercializador e das entidades da segurança social e da Autoridade Tributária e Aduaneira, quer os termos da apresentação do pedido pelo cliente, sem intervenção do respetivo comercializador.
+Sendo preocupação do Governo garantir que a implementação dos procedimentos não irá constituir um obstáculo à regular aplicação do regime aprovado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, prevê-se ainda uma solução transitória que permitirá aos clientes dirigir ao comercializador o pedido de reconhecimento de elegibilidade e de atribuição de tarifa social, ainda que as referidas entidades se encontrem em fase de adaptação dos seus próprios procedimentos internos.
+
+Esta mesma preocupação determinou, por outro lado, a fixação, a título transitório, pelo referido Decreto-Lei, do valor correspondente ao rendimento anual máximo considerado em 2015 e dos fatores k e P, previstos nos n.ºs 6 e 11 do artigo 2.º do mesmo diploma, os quais não carecem de qualquer alteração.
+Assim, manda o Governo Regional da Região Autónoma da Madeira pelo Vice-Presidente do Governo Regional, e pelos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais ao abrigo do disposto nos n.ºs 4 e 5 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro e ao abrigo da alínea d) do artigo 69.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto pelas Leis n.ºs 130/99, de 21 de agosto e n.º12/2002, de 21 de junho, aprovar o seguinte:
+Artigo 1.º Objeto e âmbito
+A presente portaria estabelece os procedimentos e as demais condições necessários à atribuição, aplicação e manutenção da tarifa social na Região Autónoma da Madeira, estabelecida no Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro.
+Artigo 2.º Procedimento de atribuição e confirmação da tarifa social
+1 - O pedido de atribuição da tarifa social é efetuado através dos meios disponibilizados para o efeito pelo comercializador de energia elétrica, devendo ser assegurada a possibilidade de solicitação por via eletrónica, sem prejuízo do disposto no n.º 6 do presente artigo.
+2 - O cliente deve, no momento da formulação do pedido previsto no número anterior, autorizar o comercializador de energia elétrica a efetuar o tratamento dos dados relativos à tarifa social.
+3 - O processo de confirmação, pelo comercializador de energia elétrica, da situação dos respetivos clientes, no que respeita ao benefício de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, ou à obtenção de rendimento inferior ao limite referido no n.º 3 do mesmo artigo, para efeitos de atribuição da tarifa social, é efetuado através de meios eletrónicos, a disponibilizar pelo Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) e pela Autoridade Tributária e Aduaneira e formalizado em protocolo a estabelecer entre o referido Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) tutelado pela Secretaria Regional dos Assuntos Sociais, com o Instituto de Informática, IP do Ministério da Solidariedade, Emprego e Segurança Social, com a Autoridade Tributária e Aduaneira, e a Direção Regional do Comércio, Indústria e Energia (DRCIE), da Vice-Presidência do Governo Regional, devendo este acompanhar a devida notificação à Comissão Nacional de Proteção de Dados.
+
+4 - O ISSM, IP-RAM e a Autoridade Tributária e Aduaneira prestam a informação solicitada, através de meios eletrónicos, pelo comercializador de energia elétrica em prazo não superior a cinco dias úteis após a receção da referida solicitação.
+5 - A partir do ciclo de faturação imediatamente seguinte à receção da informação prevista no número anterior o comercializador de energia elétrica aplica a tarifa social ao cliente, salvo no caso de identificar alguma irregularidade no respetivo processo de atribuição da tarifa social, nomeadamente por não se encontrar verificado o requisito estabelecido no n.º 2 do artigo 5.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro.
+6 - Nos casos em que o cliente requer ao ISSM, IP-RAM ou à Autoridade Tributária e Aduaneira, nos termos do n.º 5 do artigo 6.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, o comprovativo da sua condição de beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do referido Decreto-Lei, ou de que o seu rendimento é inferior ao limite referido no n.º 3 do mesmo artigo, respetivamente, aplica-se o disposto no presente artigo com a seguinte adaptação.
+§ Único - Os comprovativos emitidos pelo ISSM, IP-RAM e pela Autoridade Tributária e Aduaneira seguem os modelos previstos nos anexos I e II da presente portaria;
+Artigo 3.º Certificação das entidades autorizadas a confirmar a situação dos clientes junto das
+instituições de segurança social
+1 - A DRCIE garante o fornecimento ao ISSM, IP-RAM e à Autoridade Tributária e Aduaneira da informação, permanentemente atualizada, por meios eletrónicos, relativa ao comercializador de energia elétrica, enquanto entidade autorizada a consultar a situação dos clientes na qualidade de beneficiários de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, ou se o seu rendimento é inferior ao limite referido no n.º 3 do mesmo artigo.
+2 - O processo referido no número anterior é formalizado no protocolo referido no artigo 2.º da presente portaria.
+Artigo 4.º Manutenção da tarifa social
+1 - O comercializador de energia elétrica solicita, através de meios eletrónicos, ao ISSM, IP-RAM e à Autoridade Tributária e Aduaneira, em setembro de cada ano, a atualização, para cada um dos respetivos clientes, da informação que lhes tenha sido prestada para efeitos de atribuição da tarifa social.
+
+2 - O ISSM, IP-RAM e a Autoridade Tributária e Aduaneira comunicam, através de meios eletrónicos, ao comercializador de energia elétrica a informação solicitada nos termos do número anterior, em prazo não superior a cinco dias úteis após a receção do pedido efetuado nos termos do número anterior.
+3 - No ciclo de faturação imediatamente seguinte à receção da comunicação prevista no número anterior, o comercializador de energia elétrica cessa a aplicação do desconto em causa.
+Artigo 5.º Procedimentos entre entidades do
+setor elétrico
+O financiamento dos custos, bem como os procedimentos de pagamento são definidos nos regulamentos da Entidade Reguladora dos Serviços Energéticos (ERSE), nomeadamente no Regulamento de Relações Comerciais e no Regulamento Tarifário do setor elétrico, tendo em consideração o estabelecido nos artigos 3.º e 4.º do Decreto-Lei n.º 138-A/2010, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro.
+Artigo 6.º Disposições finais
+1 - O comercializador de energia elétrica comunica aos clientes fornecidos em BT normal até 6,9 kVA, até 31 de março de 2015, a informação prevista no artigo 8.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, através dos respetivos sítios na Internet e em documentação que integre ou acompanhe as faturas enviadas aos clientes.
+2 - Os meios eletrónicos previstos nos artigos 2.º, 3.º e 4.º são disponibilizados pelo ISSM, IP-RAM e pela Autoridade Tributária e Aduaneira, até 31 de maio de 2015, permitindo o acesso aos mesmos e ao comercializador de energia elétrica e respetivos agentes, representantes e comissários.
+3 - Para efeitos de atribuição ou manutenção da aplicação da tarifa social, presume-se que a morada indicada pelo ISSM, IP-RAM ou pela Autoridade Tributária e Aduaneira corresponde ao local de consumo identificado no contrato de fornecimento e à residência permanente do beneficiário de alguma das prestações sociais previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, ou do rendimento anual elegível para efeitos do n.º 3 do mesmo artigo.
+4 - A verificação do cumprimento dos procedimentos relativos à aplicação da tarifa social cabe à ERSE no quadro das suas atribuições e competências estatutárias, bem como das competências que lhe estão atribuídas pela legislação do setor elétrico, designadamente pelos artigos 2.º-A e 3.º do Decreto-Lei n.º 138-A/2010, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, de acordo com os procedimentos estabelecidos nos seus
+
+regulamentos, designadamente no Regulamento de Relações Comerciais e no Regulamento Tarifário do setor elétrico.
+Artigo 7.º Disposições transitórias
+1 - Até que se verifique a disponibilização dos meios eletrónicos referidos no n.º 2 do artigo anterior, todas as comunicações entre o comercializador de energia elétrica e o ISSM, IP-RAM e ou a Autoridade Tributária e Aduaneira devem efetuar-se por escrito, através dos meios equivalentes que garantam o cumprimento dos prazos legais, o correto tratamento da informação dos clientes finais e a transparência do procedimento.
+2 - A implementação dos modelos e procedimentos previstos na presente portaria não obsta à operacionalização do regime de atribuição da tarifa social de energia elétrica, devendo, a título transitório e se necessário, admitir-se, para os efeitos dos n.ºs 2 e 5 do artigo 6.º do Decreto-Lei n.º 138-A/2010, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro, e quando esteja em causa a demonstração de rendimento anual máximo inferior ao limite referido no n.º 3 do artigo 2.º do mesmo decreto-lei, a apresentação de declaração do cliente, sob compromisso de honra, como se encontram verificadas as suas condições para ser beneficiário da tarifa social, de acordo com o modelo previsto no anexo III à presente portaria.
+3 - Verificando-se o disposto no número anterior, o comercializador de energia elétrica repercute, a partir do ciclo de faturação imediatamente seguinte à receção do pedido o desconto aplicável na tarifa, salvo no caso de identificar alguma irregularidade no processo de atribuição da tarifa social.
+4 - Os atuais beneficiários da tarifa social de energia elétrica continuam a beneficiar da mesma, passando a estar sujeitos ao procedimento de verificação dos requisitos de elegibilidade previsto no n.º 1 do artigo 4.º.
+Artigo 8.º Revogação
+A presente portaria revoga a Portaria n.º 3/2011, de 1 de fevereiro.
+Artigo 9.º Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Vice-Presidência do Governo Regional da Madeira, Secretaria Regional do Plano e Finanças e Secretaria Regional dos Assuntos Sociais, aos 7 de janeiro de 2015.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL, João Cunha e Silva
+O SECRETÁRIO REGIONAL DO PLANO E FINANÇAS, José Manuel Ventura Garcês
+
+O SECRETÁRIO REGIONAL DOS ASSUNTOS SOCIAIS, Francisco Jardim Ramos.
+Anexo I da Portaria n.º 16/2015, de 19 de janeiro [a que se refere o § Único do n.º 6 do artigo 2.º]
+Declaração do ISSM, IP-RAM
+O ISSM, IP-RAM declara, para efeitos de atribuição da tarifa social de fornecimento de energia elétrica estabelecida no Decreto-Lei n.º/..., de... de que [nome completo do beneficiário], NISS (n.º de identificação de segurança social) [...], NIF (n.º de identificação fiscal) [...], titular do cartão de cidadão/bilhete de identidade n.º [...], residente em [...], é beneficiário de prestação social indicada no n.º 2 do artigo 2.º do Decreto-Lei n.º/..., de... de...
+Anexo II da Portaria n.º 15/2015, de 19 de janeiro [a que se refere o § Único do n.º 6 do artigo 2.º]
+Declaração da Autoridade Tributária e Aduaneira
+A Autoridade Tributária e Aduaneira declara, para efeitos de atribuição da tarifa social de fornecimento de energia elétrica estabelecida no Decreto-Lei n.º .../..., de...de que [nome completo do beneficiário], NISS (n.º de identificação de segurança social) [...], NIF (n.º de identificação fiscal) [...], titular do cartão de cidadão/bilhete de identidade n.º [...], residente em [...], tem um rendimento anual inferior ao rendimento anual máximo no respetivo domicílio fiscal, estabelecido no n.º 3 do artigo 2.º do Decreto-Lei n.º/..., de... de...
+Anexo III da Portaria n.º 15/2015, de 19 de janeiro [a que se refere o n.º 2 do artigo 7.º]
+Declaração do cliente
+... (nome, número de documento de identificação e morada) declara, sob compromisso de honra, que, para efeitos de atribuição da tarifa social de fornecimento de energia elétrica estabelecida no Decreto-Lei n.º 138-A/2010, de28 de dezembro, alterado Decreto-Lei n.º 172/2014, de14 de novembro:
+a) É beneficiário de prestação social indicada no n.º 2 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado Decreto-Lei n.º 172/2014, de 14 de novembro/tem um rendimento anual inferior ao rendimento anual máximo no respetivo domicílio fiscal, estabelecido no n.º 3 do artigo 2.º do Decreto-Lei n.º 138-A/2010, de28 de dezembro, alterado Decreto-Lei n.º 172/2014, de14 de novembro;
+b) Tem pleno conhecimento de que a prestação de falsas declarações constitui contraordenação ao abrigo do artigo 8.º-A do Decreto-Lei n.º 138-A/2010, de 28 de dezembro, alterado pelo Decreto-Lei n.º 172/2014, de 14 de novembro;
+c) A prestação de falsas declarações implica a reposição dos montantes associados ao benefício da tarifa social.
+[Local], [data],
+[Assinatura]
