@@ -14,7 +14,7 @@
 
 4 - O número de meses de antecipação é apurado entre a data da apresentação do requerimento da pensão antecipada ou, quando aplicável, entre a data indicada pelo beneficiário no requerimento apresentado com efeitos diferidos, e a idade normal de acesso à pensão de velhice em vigor.
 
-5 - Quando o beneficiário aos 55 anos tiver carreira contributiva superior à exigida no n.º 2 do artigo 21.º, o número de meses de antecipação a considerar para a determinação da taxa global de redução da pensão é reduzido de 12 meses por cada período de três anos que exceda os 30.
+5 - Quando o beneficiário na data da apresentação do requerimento da pensão antecipada ou na data indicada no requerimento para início da pensão tiver carreira contributiva superior à exigida no n.º 2 do artigo 21.º, o número de meses de antecipação a considerar para determinação da taxa global de redução da pensão é reduzido de quatro meses por cada ano que exceda os 40.
 
 6 - Os beneficiários com pensão antecipada, reduzida nos termos dos números anteriores, que tenham cessado o exercício de actividade podem continuar a contribuir para efeito de acréscimo do montante da pensão, nos termos da lei.
 
