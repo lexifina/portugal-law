@@ -1,0 +1,25 @@
+# Resolução n.º 39/2015
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 11/2015, de 2015-01-20
+
+**Sumário:** Autoriza a celebração de um protocolo com a entidade denominada CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, tendo em vista a atribuição de uma indemnização compensatória decorrente das atividades de interesse público que lhe estão confiadas no domínio dos serviços do abate de animais da espécie bovina, suína, caprina e cunídea e respetivas atividades complementares e/ou acessórias, correspondentes ao exercício de 2015.
+
+## Texto
+
+Resolução n.º 39/2015
+Considerando que pelo Decreto Legislativo Regional n.º 6/2006/M de 14 de março, foi criado o CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, ao qual foi cometido o direito de explorar e administrar o Centro de Abate do Santo da Serra, o Centro de Abate do Porto Santo, bem como todos os centros de abate de natureza pública que possam ser criados na Região Autónoma da Madeira;
+Considerando que no exercício das atividades de interesse público que lhe estão confiadas no domínio dos serviços do abate de animais da espécie bovina, suína, caprina e cunídea e respetivas atividades complementares e/ou acessórias correspondentes ao exercício de 2015, existe um diferencial entre o tarifário proposto e o tarifário em vigor para os serviços de abate e preparação de carcaças, de transporte e distribuição de carcaças e ainda de operações necessárias à eliminação de resíduos;
+Considerando que o artigo 37.º do Decreto Legislativo Regional n.º 18/2014/M, de 31 de dezembro e no n.º 1 do artigo 5.º do Decreto-lei n.º 167/2008, de 26 de agosto, aplicável à região pelo Decreto Legislativo Regional
+
+n.º 11/2014/M, de 20 de agosto, prevê que a Região Autónoma da Madeira pode recorrer à celebração de contratos com as empresas públicas regionais que prestem serviço público, contemplando, designadamente, a atribuição de indemnizações compensatórias na medida do estritamente necessário à prossecução do interesse público, após parecer vinculativo prévio da Secretaria Regional do Plano e Finanças, aplicando progressivamente o critério do utilizador pagador.
+O Conselho de Governo reunido em plenário em 8 de janeiro de 2015, resolveu:
+1. Ao abrigo do disposto no artigo 37.º do Decreto Legislativo Regional n.º 18/2014/M, de 31 de dezembro e no n.º1 do artigo 5.º do Decreto-lei n.º 167/2008, de 26 de agosto, aplicável à região pelo Decreto Legislativo Regional n.º 11/2014/M, de 20 de agosto, autorizar a celebração de um protocolo com o CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, tendo em vista a atribuição de uma indemnização compensatória ao Segundo Outorgante decorrente das atividades de interesse público que lhe estão confiadas no domínio dos serviços do abate de animais da espécie bovina, suína, caprina e cunídea e respetivas atividades complementares e/ou acessórias correspondentes ao exercício de 2015.
+2. Para a prossecução do previsto no número anterior, conceder ao CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, uma comparticipação financeira que não poderá ultrapassar o montante máximo de € 425.000,00€ (quatrocentos e vinte e cinco mil euros), de acordo com a seguinte programação financeira: a) mês de janeiro 2015, no montante de €50.000,00 (cinquenta mil euros) b) mês de fevereiro 2015, no montante de €50.000,00 (cinquenta mil euros) c) mês de março 2015, no montante de €50.000,00 (cinquenta mil euros) d) mês de abril 2015, no montante de €50.000,00 (cinquenta mil euros) e) mês de maio 2015, no montante de €50.000,00 (cinquenta mil euros) f) mês de junho 2015, no montante de €25.000,00 (vinte e cinco mil euros) g) mês de julho 2015, no montante de €25.000,00 (vinte e cinco mil euros) h) mês de agosto 2015, no montante de €25.000,00 (vinte e cinco mil euros) i) mês de setembro 2015, no montante de €25.000,00 (vinte e cinco mil euros) j) mês de outubro 2015, no montante de €25.000,00 (vinte e cinco mil euros) k) mês de novembro 2015, no montante de €25.000,00 (vinte e cinco mil euros) l) mês de dezembro 2015, no montante de €25.000,00 (vinte e cinco mil euros)
+3. O protocolo a celebrar com o CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM produz efeitos a 01 de janeiro de 2015 até 31 de janeiro de 2016
+4. Aprovar a minuta do protocolo, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência.
+
+5. Mandatar o Secretário Regional do Plano e Finanças e o Secretário Regional do Ambiente e dos Recursos Naturais, para em representação da Região Autónoma da Madeira, elaborarem o respetivo processo e outorgarem o protocolo.
+6. As despesas resultantes do protocolo a celebrar têm cabimento orçamental em 2015 na Classificação Orgânica 45 01 01 00, Classificação Funcional 3.1.1, Classificação Económica 04.04.03.M0.00, programa 051, medida 060, fonte de financiamento n.º 115.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
