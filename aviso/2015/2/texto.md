@@ -1,0 +1,5 @@
+Aviso n.º 2/2015
+Por ordem superior se torna público que, em 18 de abril de 2012 e em 31 de dezembro de 2014, foram recebidas notas, respetivamente, pelo Ministério das Relações Exteriores da República da Colômbia e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República da Colômbia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Bogotá em 30 de agosto de 2010.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 46/2012, de 24 de fevereiro de 2012, e ratificada pelo Decreto do Presidente da República n.º 77/2012, de 30 de março de 2012, ambos publicados no Diário da República, 1.ª série, n.º 74, de 13 de abril de 2012.
+Nos termos do artigo n.º 29.º da referida Convenção, esta entrou em vigor a 30 de janeiro de 2015.
+Direção-Geral de Política Externa, 14 de janeiro de 2015. - O Subdiretor-Geral de Política Externa, Rui Vinhas.
