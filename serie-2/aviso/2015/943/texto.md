@@ -1,0 +1,6 @@
+Aviso n.º 943/2015
+Regulamento Municipal de Urbanização, Edificação e de Taxas e Compensações Urbanísticas do Concelho de Portalegre - Alteração
+Maria Adelaide de Aguiar Marques Teixeira, presidente da Câmara Municipal de Portalegre, faz público, no uso das competências que lhe são atribuídas pela alínea v) do n.º 1 do artigo 68.º da Lei n.º 169/99 de 18 de setembro, na sua atual redação, que, em execução do que dispõe o artigo 118.º do CPA, aprovado pelo DL6/96 de 31 de janeiro e para efeitos do disposto no artigo 3.º do DL555/99 de 16 de dezembro, na sua atual redação e legislação que se mostre como aplicável, que é aberta a discussão pública, nos termos da deliberação tomada na reunião de Câmara de 15.12.2014, relativa à alteração do RMUETCU de Portalegre, pelo período de 30 dias úteis, contados a partir da publicação do presente aviso no DR, e divulgado na comunicação social.
+A referida alteração encontra-se em exposição na Câmara Municipal de Portalegre, sita na Rua Guilherme Gomes Fernandes, 28 e nas horas normais de expediente, devendo os interessados apresentar as suas observações ou sugestões por escrito, dirigidas à presidente da Câmara Municipal, contendo a respetiva identificação.
+16 de dezembro de 2014. - A Presidente da Câmara, Maria Adelaide de Aguiar Marques Teixeira.
+308308895
