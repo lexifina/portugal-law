@@ -8,7 +8,7 @@
 
 1 - Os partidos com um único deputado e os grupos parlamentares dispõem, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, de uma verba anual calculada nos seguintes termos:
 
-a) Deputado único/partido e grupos parlamentares - 15 x 14 SMNR (salário mínimo nacional em vigor na Madeira)/mês/número de deputados.
+a) Deputado Único/partido e grupos parlamentares - 9X14SMNR (Salário Mínimo Nacional em vigor na Madeira)/mês/número de deputados.
 
 2 - O Presidente da Assembleia Legislativa Regional fixa, por despacho, o quadro de pessoal do gabinete de cada grupo parlamentar, por proposta vinculativa do respectivo grupo, e desde que não ultrapasse o montante referido no número anterior.
 
@@ -16,7 +16,7 @@ a) Deputado único/partido e grupos parlamentares - 15 x 14 SMNR (salário míni
 
 4 - É aplicável aos membros do gabinete dos grupos parlamentares o disposto no artigo 11.º do presente diploma.
 
-5 - O pessoal referido neste artigo tem direito a uma indemnização mensal equivalente a 8% da remuneração actualizável da categoria que teve nos últimos três anos ou, quando exercendo funções há menos tempo da categoria que durante mais tempo exerceu, por cada ano completo de desempenho de funções e durante o mesmo número de meses em que esteve afecto ao grupo parlamentar.
+5 - O pessoal referido neste artigo tem direito a uma indemnização mensal equivalente a 4 % da remuneração atualizável da categoria que teve nos últimos três anos ou, quando exercendo funções há menos tempo da categoria que durante mais tempo exerceu, por cada ano completo de desempenho de funções e durante o mesmo número de meses em que esteve afeto ao grupo parlamentar.
 
 6 - A indemnização referida no número anterior só tem lugar após a cessação de funções comprovada pela direcção do grupo parlamentar e tem como limite máximo 80% da remuneração referida.
 
