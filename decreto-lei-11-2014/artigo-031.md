@@ -16,6 +16,12 @@ a) A Secretaria-Geral, sendo as suas atribuições nos domínios da energia e ge
 
 b) O Gabinete de Estratégia e Estudos, sendo as suas atribuições no domínio da energia integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego integradas no Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social;
 
-c) A Direção-Geral das Atividades Económicas, sendo as suas atribuições nos domínios da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições nos domínios da indústria e inovação integradas no IAPMEI, I. P., com exceção das competências de acompanhamento no âmbito da indústria atribuídas à DGAE;
+c) A Direção-Geral das Atividades Económicas, sendo as suas atribuições nos domínios:
+
+i) Da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia;
+
+ii) Da indústria e inovação integradas no IAPMEI, I. P., com exceção das competências de acompanhamento no âmbito da indústria atribuídas à Direção-Geral das Atividades Económicas;
+
+iii) Da coordenação dos assuntos europeus, internacionais e cooperação com países de língua oficial portuguesa, nas áreas do trabalho, emprego, formação profissional e segurança e saúde no trabalho, integradas no Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social;
 
 d) O Instituto da Construção e do Imobiliário, I.P., que passa a designar-se Instituto dos Mercados Públicos do Imobiliário e da Construção, I.P.
