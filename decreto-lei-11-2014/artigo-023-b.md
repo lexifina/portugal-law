@@ -1,0 +1,3 @@
+# Artigo 23.º-B
+
+A Autoridade da Mobilidade e dos Transportes, designada abreviadamente por AMT, adstrita ao ME, é independente no exercício das suas funções, com atribuições de regulação e fiscalização do setor da mobilidade e dos transportes terrestres, fluviais, ferroviários, e respetivas infraestruturas, e da atividade económica nos setores dos portos comerciais e transportes marítimos, nos termos previstos na Lei n.º 67/2013, de 28 de agosto, que aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo e nos respetivos estatutos.
