@@ -1,0 +1,44 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "123",
+    "id": "38830",
+    "titulo": "Decreto-Lei n.º 172-A/2014 que altera, ao abrigo e no desenvolvimento da Lei n.º 30/2013  - Lei de Bases da Economia Social de 8 de maio, o Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Lei n.º 9/85, de 9 de janeiro, 89/85, de 1 de abril, 402/85, de 11 de outubro, e 29/86, de 19 de fevereiro."
+  },
+  "fase": "Admissão Proposta de Alteração",
+  "codigo_fase": "260",
+  "data_registo": "2015-01-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595441344e6d4d325a546b744e575a684d6930304e5751794c5746684f444d744e6a63324e4467784e3259334f574a694c6e426b5a673d3d&fich=a086c6e9-5fa2-45d2-aa83-6764817f79bb.pdf&Inline=true",
+        "anexoNome": "Propostas de Alteração e de Aditamento GP do PS"
+      }
+    ],
+    "CodigoFase": "260",
+    "Comissao": null,
+    "DataFase": "2015-01-28",
+    "EvtId": "46",
+    "Fase": "Admissão Proposta de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "302369",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
