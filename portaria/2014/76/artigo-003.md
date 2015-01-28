@@ -21,3 +21,5 @@ g) Memória descritiva da qual conste a identificação e planta das instalaçõ
 h) Cópia de acordos e protocolos celebrados com terceiros com relevância para a atividade de colheita;
 
 i) Comprovativo de condições para a utilização do sistema nacional de rastreabilidade e de biovigilância, de acordo com o disposto nos artigos 13.º e 14.º da Lei n.º 36/2013, de 12 de junho.
+
+j) Cópia do parecer favorável do Instituto Português do Sangue e da Transplantação, I. P. (IPST, I. P.), a que se refere a alínea k) do artigo 2.º.

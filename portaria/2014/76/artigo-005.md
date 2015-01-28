@@ -23,3 +23,5 @@ h) Cópia de acordos e protocolos celebrados com terceiros com relevância para 
 i) Cópia do sistema de rastreabilidade e de biovigilância adotados;
 
 j) Dispor de um sistema de notificação de reações e incidentes adversos graves, incluindo o registo de qualquer evento potencialmente relacionado com a qualidade e segurança do órgão transplantado e de qualquer reação adversa grave observada no recetor.
+
+k) Cópia do parecer favorável do Instituto Português do Sangue e da Transplantação, I. P. (IPST, I. P.), a que se refere a alínea h) do artigo 4.º.

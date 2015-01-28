@@ -21,3 +21,5 @@ g) Cópia do(s) documento(s) de consentimento informado;
 h) Cópia do Despacho que criou a Entidade de Verificação da Admissibilidade da Colheita para Transplante, nos termos do n.º 2 do artigo 6º-A da Lei n.º 12/93, de 22 de abril, republicada pela Lei n.º 22/2007, de 29 de junho;
 
 i) Dispor de um sistema de notificação de reações e incidentes adversos graves, incluindo o registo de qualquer evento potencialmente relacionado com a qualidade e segurança do órgão transplantado e de qualquer reação adversa grave observada no recetor.
+
+j) Cópia do parecer favorável do Instituto Português do Sangue e da Transplantação, I. P. (IPST, I. P.), a que se refere a alínea k) do artigo 6.º.
