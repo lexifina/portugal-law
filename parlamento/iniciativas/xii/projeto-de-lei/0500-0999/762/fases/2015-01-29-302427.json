@@ -1,0 +1,194 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "762",
+    "id": "38976",
+    "titulo": "Alteração da designação da Freguesia da União das Freguesias de Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis), no município de Vila Real, para Freguesia de Vila Real"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-01-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "34968",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-01-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Ofício Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3256694e6d59334d3251745a6d45304e5330304e444d794c546c6c4d7a4974597a6b34596a4a6c5957493359574e6b4c6e52705a673d3d&fich=3eb6f73d-fa45-4432-9e32-c98b2eab7acd.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-27",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer  AF UF Nossa Senhora da Conceição, São Pedro e São Dinis",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d4d795a57526c4e7a6b744e6d4d31597930305a6d45344c546c6b4f446b744e3256685a6a4e6d4e7a51334f4759794c6e52705a673d3d&fich=6c2ede79-6c5c-4fa8-9d89-7eaf3f7478f2.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer  AM Vila Real",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d475a6d596a5a68596a59744e546b784e7930305932457a4c5749795a444d744e7a6b325a6d5a695a6a59344f4449794c6e52705a673d3d&fich=0ffb6ab6-5917-4ca3-b2d3-796ffbf68822.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer  CM Vila Real",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5468694d446c69597a45744d4749344e4330304f4463304c546c695a6a67744e574d314d47566b59546c6a5a4755314c6e52705a673d3d&fich=e8b09bc1-0b84-4874-9bf8-5c50eda9cde5.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-02-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer  JF UF Nossa Senhora da Conceição, São Pedro e São Dinis",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54526a4e6a52694d32497459545179595330304e6d51774c5749354f4441745954526a597a566b4d6d49784e6a45324c6e52705a673d3d&fich=54c64b3b-a42a-46d0-b980-a4cc5d2b1616.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CAOTPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54426d4f5449335a446b744d6a646c4d5330304f4441774c574a6a4d6a6774596a566b4e7a51324e54686c596a526b4c6e52705a673d3d&fich=50f927d9-27e1-4800-bc28-b5d74658eb4d.tif&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "39-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-25",
+            "pubLeg": "XII",
+            "pubNr": "100",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/100/2015-03-25/39?pgs=39-45&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "39-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-25",
+            "pubLeg": "XII",
+            "pubNr": "100",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/100/2015-03-25/39?pgs=39-45&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1733",
+            "motivoCessacao": null,
+            "nome": "Luís Pedro Pimentel"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-03-17",
+            "dataRemessa": "2015-03-25",
+            "numeroOficio": "65/CAOTPL",
+            "observacoes": "Remessa do Parecer",
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-03-17",
+            "dataRemessa": "2015-04-14",
+            "numeroOficio": "72/CAOTPL",
+            "observacoes": "Ofício remetendo IL para apreciação e votação na Generalidade, Especialidade e Votação Final",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-03-17",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68927",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "221",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-01-29",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "302427",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
