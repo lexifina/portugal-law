@@ -1,6 +1,6 @@
 ## Anexo II
 
-## ESTATUTOS
+## Estatutos dos Hospitais e Centros Hospitalares, E. P. E.
 
 ## Capítulo I
 

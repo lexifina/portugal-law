@@ -28,6 +28,6 @@ k) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exerc
 
 l) Desenvolver e analisar estatísticas de saúde.
 
-2 - (Revogado).
+2 - O diretor clínico pode exercer, a título excecional e não remunerado, atividade médica, apenas no âmbito da ULS, E. P. E., respetiva e desde que por sua iniciativa e no seu próprio interesse o solicite, especificando os atos a realizar e o tempo a dedicar.
 
-3 - (Revogado).
+3 - O exercício da atividade prevista no número anterior depende de autorização prévia do conselho de administração, mediante pedido detalhado expresso por escrito do próprio diretor clínico quanto aos atos a realizar e ao tempo a dedicar, com demonstração do interesse público.
