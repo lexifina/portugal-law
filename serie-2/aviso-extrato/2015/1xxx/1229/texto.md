@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 1229/2015
+Emílio Augusto Ferreira Torrão, Dr., Presidente da Câmara Municipal de Montemor-o-Velho, torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12/09, nos termos e para os efeitos do disposto no artigo 56.º da referida lei, que a Assembleia Municipal, em sessão ordinária de 18 de dezembro de 2014, sob proposta da Câmara Municipal, aprovada em reunião de 17 de novembro de 2014, deliberou por maioria, aprovar o Regulamento do Serviço de Abastecimento de Água e do Serviço de Saneamento e de Águas Residuais do Município de Montemor-o-Velho.
+Mais faz saber que o mencionado regulamento, de acordo com o disposto no seu artigo 96.º, entra em vigor 15 dias após a publicação do presente aviso e ainda que o texto integral se encontra disponível nos serviços e no sítio do Município (www.cm-montemorvelho.pt).
+20 de janeiro de 2015. - O Presidente da Câmara Municipal, Emílio Augusto Ferreira Torrão, Dr.
+308378644
