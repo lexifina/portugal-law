@@ -1,3 +1,5 @@
+Decreto-Lei n.º 78/2014
+
 de 14 de maio
 
 Nos termos do n.º 1 do artigo 4.º da Lei n.º 67/2013, de 28 de agosto, que aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo, doravante designada por lei-quadro das entidades reguladoras, o Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), cuja orgânica foi aprovada pelo Decreto-Lei n.º 236/2012, de 31 de outubro, tem de ser reestruturado, sucedendo-lhe a Autoridade da Mobilidade e dos Transportes (AMT), nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência nos setores marítimo-portuário, da mobilidade e no âmbito dos transportes terrestres, fluviais e marítimos.

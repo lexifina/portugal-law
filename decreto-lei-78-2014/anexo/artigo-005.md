@@ -26,7 +26,7 @@ j) Emitir recomendações sobre a conceção, desenho e alteração dos contrato
 
 k) Definir os requisitos gerais base para a caracterização das situações em que se justifica a previsão ou imposição de obrigações de serviço público, e a contratualização de serviços de transporte público de passageiros, incluindo cabotagem insular, no quadro da legislação nacional e da União Europeia aplicável;
 
-l) Definir as regras necessárias à aplicação de normas e resoluções emanadas dos organismos internacionais de normalização técnica, na vertente económica dos setores regulados e de segurança ferroviária e de outros sistemas guiados;
+l) Definir as regras necessárias à aplicação de normas e resoluções emanadas dos organismos internacionais de normalização técnica, na vertente económica dos setores regulados;
 
 m) Promover a defesa dos direitos e interesses dos consumidores e utentes em relação aos preços, aos serviços e respetiva qualidade;
 
@@ -82,13 +82,13 @@ l) Exercer as funções de autoridade de normalização em matéria de infraestr
 
 m) Exercer as demais funções previstas noutros instrumentos legais ou contratuais, designadamente nos contratos de concessão e subconcessão da infraestrutura rodoviária.
 
-3 - São atribuições da AMT em matéria de regulação e segurança ferroviária, de gestores de infraestruturas e dos operadores de transporte ferroviário:
+3 - São atribuições da AMT em matéria de regulação ferroviária, de gestores de infraestruturas e dos operadores de transporte ferroviário:
 
 a) Atuar como instância de recurso para as matérias do diretório de rede;
 
 b) Regular o acesso à infraestrutura, de modo a que seja livre e não discriminatório, impondo condições de acesso, bem como o inerente processo de aceitação de operadores;
 
-c) Regular a atualização, modernização e harmonização da regulamentação técnica e de segurança do sistema ferroviário;
+c) Regular a atualização, modernização e harmonização da regulamentação técnica do sistema ferroviário;
 
 d) Definir regras e atribuir prioridades para repartição da capacidade da infraestrutura ferroviária, arbitrando e decidindo em caso de conflito;
 
@@ -103,10 +103,6 @@ h) Apreciar e decidir sobre reclamações dos operadores em relação ao gestor 
 i) Colaborar com a Autoridade da Concorrência e, em particular, proceder à identificação de comportamentos de empresas e entidades sujeitas aos seus poderes de regulação que sejam suscetíveis de infringir o disposto no regime jurídico da concorrência;
 
 j) Exercer, na qualidade de entidade reguladora ferroviária, os poderes de representação que, como tal, lhe estão consagrados nos termos da legislação da União Europeia aplicável.
-
-k) Assegurar o exercício das competências de autoridade nacional de segurança ferroviária, nos termos da legislação da União Europeia e nacional aplicáveis;
-
-l) Acompanhar e avaliar a gestão da segurança da infraestrutura ferroviária, nos termos da lei, nomeadamente na elaboração de Planos Nacionais de Segurança Ferroviária.
 
 4 - São atribuições da AMT em matéria relativa ao setor dos portos comerciais e dos transportes marítimos e fluviais:
 
