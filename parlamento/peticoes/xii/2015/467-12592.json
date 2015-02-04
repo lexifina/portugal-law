@@ -1,0 +1,161 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12592",
+  "numero": "467",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-02-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": "2015-07-16",
+            "entidades": [
+              "MIN.  DA  SAÚDE"
+            ],
+            "nrOficio": "42/CSST/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": "2015-07-24",
+            "entidades": [
+              "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "41/CSST/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-07-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-03-04",
+        "DataArquivo": "2015-07-30",
+        "DataBaixaComissao": "2015-02-13",
+        "DataEnvioPAR": "2015-07-30",
+        "DataReaberta": "2015-03-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-03-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938784f44497a597a45334e69316a4d5749354c5451344f4467744f445935595330795a445a69596d4e6c5a6a6377597a67756347526d&fich=1823c176-c1b9-4888-869a-2d6bbcef70c8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279387759324d794e574d334f53316c595759304c54526d4d6a5974596a64694d6930354e7a59334e6a51314e5759344f4449756347526d&fich=0cc25c79-eaf4-4f26-b7b2-97676455f882.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396c5a4451324d4751334d69316d4e7a55774c54517a4d6a5174596a41334e4331684f544577596d4e6d5a445a6b5a5451756347526d&fich=ed460d72-f750-4324-b074-a910bcfd6de4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-07-31",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627939684d446b775a4745774d43316b596a4e6d4c54526d4e444174595749795979316b4f4755334d47497a4d5452685a6d49756347526d&fich=a090da00-db3f-4f40-ab2c-d8e70b314afb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-07-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938314f5449315932466d4d693168596d51784c5451304e6d49744f475a68596930794d44646d4d32557a4e4449354e5745756347526d&fich=5925caf2-abd1-446b-8fab-207f3e34295a.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3519",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-03-04",
+            "gp": "PSD",
+            "id": "4213",
+            "motivoCessacao": null,
+            "nome": "Teresa Costa Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2015-02-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51304d32566b4d5441334c5459774d4759744e4755344e6931684f5749794c54597a597a426a596d517a4f546c684d5335775a47593d&fich=443ed107-600f-4e86-a9b2-63c0cbd399a1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12592",
+    "PetAssunto": "Solicita, para efeitos de aposentação, que os portadores de doenças raras e degenerativas, progressivas e sem cura possam vir a beneficiar das condições previstas na Lei n.º 90/2009, de 31 de agosto",
+    "PetDataEntrada": "2015-02-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12592",
+    "PetLeg": "XII",
+    "PetNr": "467",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
