@@ -1,0 +1,373 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "755",
+    "id": "38955",
+    "titulo": "Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) procedendo à segunda alteração à Lei n.º 32/2006, de 26 de julho, alterada pela Lei n.º 59/2007, de 4 de setembro"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2015-02-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10316",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2015-02-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "38948",
+        "leg": "XII",
+        "nr": "752",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "1974",
+            "obs": null,
+            "pag": [
+              "40-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-02-05",
+            "pubLeg": "XII",
+            "pubNr": "45",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/045/2015-02-05/40?pgs=40-45&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Segunda Alteração à Lei n.º 32/2006, de 26 de Junho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-02-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150204pln&url=l12/sl4/a2015/m02/&tI=02:23:39:961&drc=00:03:46:623"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150204pln&url=l12/sl4/a2015/m02/&tI=02:43:05:848&drc=00:02:43:402"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40",
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-05",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/045/2015-02-05/40?pgs=40,44&org=PLC"
+              }
+            ],
+            "sumario": "Segunda Alteração à Lei n.º 32/2006, de 26 de Junho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) procedendo à segunda alteração à Lei n.º 32/2006, de 26 de julho, alterada pela Lei n.º 59/2007, de 4 de setembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150204pln&url=l12/sl4/a2015/m02/&tI=02:27:37:209&drc=00:02:50:781"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150204pln&url=l12/sl4/a2015/m02/&tI=02:45:53:851&drc=00:03:18:148"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41",
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-05",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/045/2015-02-05/40?pgs=40-41,45&org=PLC"
+              }
+            ],
+            "sumario": "Segunda Alteração à Lei n.º 32/2006, de 26 de Junho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) procedendo à segunda alteração à Lei n.º 32/2006, de 26 de julho, alterada pela Lei n.º 59/2007, de 4 de setembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150204pln&url=l12/sl4/a2015/m02/&tI=02:30:40:867&drc=00:04:01:985"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-05",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/045/2015-02-05/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Segunda Alteração à Lei n.º 32/2006, de 26 de Junho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) procedendo à segunda alteração à Lei n.º 32/2006, de 26 de julho, alterada pela Lei n.º 59/2007, de 4 de setembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4031",
+                "nome": "Ângela Guerra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150204pln&url=l12/sl4/a2015/m02/&tI=02:34:48:923&drc=00:03:13:425"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-05",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/045/2015-02-05/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Segunda Alteração à Lei n.º 32/2006, de 26 de Junho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) procedendo à segunda alteração à Lei n.º 32/2006, de 26 de julho, alterada pela Lei n.º 59/2007, de 4 de setembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:01",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150204pln&url=l12/sl4/a2015/m02/&tI=02:38:12:417&drc=00:02:02:819"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-05",
+                "pubLeg": "XII",
+                "pubNr": "45",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/045/2015-02-05/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Segunda Alteração à Lei n.º 32/2006, de 26 de Junho, alargando o âmbito dos beneficiários das técnicas de Procriação Medicamente Assistida; Garante o acesso de todas as mulheres à Procriação Medicamente Assistida (PMA) procedendo à segunda alteração à Lei n.º 32/2006, de 26 de julho, alterada pela Lei n.º 59/2007, de 4 de setembro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "302511",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "731398",
+        "obs": null,
+        "pag": [
+          "39-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-02-05",
+        "pubLeg": "XII",
+        "pubNr": "45",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/045/2015-02-05/39?pgs=39-45&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
