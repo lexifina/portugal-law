@@ -1,0 +1,207 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "767",
+    "id": "38995",
+    "titulo": "Altera o regime de incompatibilidades e impedimentos aplicável aos eleitos locais e alarga o seu âmbito aos titulares de órgãos de entidades intermunicipais e associações de fins específicos"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-02-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "35000",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-02-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-02-12",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-02-16",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Ofício com Despacho da PAR redistribuindo o PJL 767/XII à 1ª Comissão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c596a637a4d544a6d4e43316b4d4455774c54526c4e4441744f474532595330774e575a685a6a4a694d4751784d544d7564476c6d&fich=eb7312f4-d050-4e40-8a6a-05faf2b0d113.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANAFRE - Associação Nacional de Freguesias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d6d5930597a49315a43316d4f4451354c54526c5a4445744f5746695a533033593255354e5442694d3245794e6d55756347526d&fich=f2f4c25d-f849-4ed1-9abe-7ce950b3a26e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a4445344d6d5177595330334d6d52684c5451794e324574595449315953316b4d7a4930596a646d5a6d4a6b4f4463756347526d&fich=2d182d0a-72da-427a-a25a-d324b7ffbd87.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Ambiente, Ordenamento do Território e Poder Local",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4f5756694d44426d4e43316c5a5463774c54526c5954417459544a6b596930784e545a69596a5a6d4f444d334d7a45756347526d&fich=d9eb00f4-ee70-4ea0-a2db-156bb6f83731.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c59544a6d4f546b304e4330794f5467334c5451304d4745744f545268596930315a47466c4e7a59314e544e6859544d756347526d&fich=ea2f9944-2987-440a-94ab-5dae76553aa3.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local em 2015-03-04"
+          },
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional dos Municípios Portugueses em 2015-03-10"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2015-03-09"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local em 2015-02-18"
+          },
+          {
+            "link": "",
+            "nome": "ANMP - Associação Nacional dos Municípios Portugueses em 2015-02-19"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2015-02-19"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-13",
+            "pubLeg": "XII",
+            "pubNr": "93",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/093/2015-03-13/2?pgs=2-12&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-12"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-13",
+            "pubLeg": "XII",
+            "pubNr": "93",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/093/2015-03-13/2?pgs=2-12&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4396",
+            "motivoCessacao": null,
+            "nome": "Andreia Neto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-03-10",
+            "dataRemessa": "2015-03-11",
+            "numeroOficio": "258/XII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-03-11",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68761",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "294",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-02-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "conexão com 11ª Comissão",
+    "OevId": "302633",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
