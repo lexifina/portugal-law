@@ -1,0 +1,112 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Resolução",
+  "numero": "107",
+  "id": "39004",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2015-02-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e324d325a6a59794d6d5974597a4d31595330304d6a426a4c574578597a6b74597a45785a47497a4e4451354e44466a4c6d527659773d3d&fich=7c6f622f-c35a-420c-a1c9-c11db344941c.doc&Inline=true",
+        "anexoNome": "Moldávia Agreement"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a497a4d544e6b4e6d4d744f544d354e7930304e6a67324c57466c5a6d51744f446378596a68684e324e684e6a5a6d4c6d527659773d3d&fich=32313d6c-9397-4686-aefd-871b8a7ca66f.doc&Inline=true",
+        "anexoNome": "Anexo XV-D"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a6b344e3245795a5451744e6a4e6a5a6930304e32566a4c574a6d5a546b744f474e6a5a6a426a4f5441334e54426a4c6d527659773d3d&fich=2987a2e4-63cf-47ec-bfe9-8ccf0c90750c.doc&Inline=true",
+        "anexoNome": "Anexo XXVII"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5749344f4745794e6d5174596d5a6c4e793030593256694c5745324f544974596a4531595464694f444d334e446c6c4c6d527659773d3d&fich=1b88a26d-bfe7-4ceb-a692-b15a7b83749e.doc&Inline=true",
+        "anexoNome": "Anexo XXVIII"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f574e6c4f5456694e7a59744f5746684e7930304e544a6b4c5745324f4449744f4756694d6d4d784f5459344e7a56684c6d527659773d3d&fich=9ce95b76-9aa7-452d-a682-8eb2c196875a.doc&Inline=true",
+        "anexoNome": "Anexo XXXV"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d325979596a686c4d5445744d3259354d4330304d4745324c5749794e7a49745a47497a5a6a5a6c4f44517a4d4449354c6d527659773d3d&fich=3f2b8e11-3f90-40a6-b272-db3f6e843029.doc&Inline=true",
+        "anexoNome": "Anexo I"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d466c4d6d5130596a51744d546b784f4330305a6a526b4c574a69595745744d7a426c596d4e694d3245315a5445334c6d527659773d3d&fich=6ae2d4b4-1918-4f4d-bbaa-30ebcb3a5e17.doc&Inline=true",
+        "anexoNome": "Anexo XV"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e444d3159324e6a4e5467745a4755324e4330304d6a646d4c5745314d4455745a6d55304d5463354d546c6c4d44466d4c6d527659773d3d&fich=435ccc58-de64-427f-a505-fe417919e01f.doc&Inline=true",
+        "anexoNome": "Anexo XVI"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e4756684e3251334e6a5574597a63335a4330304d57517a4c5467344d4449744d7a566b4d3251324d54457a596d5a6c4c6d527659773d3d&fich=4ea7d765-c77d-41d3-8802-35d3d6113bfe.doc&Inline=true",
+        "anexoNome": "Anexo XXiX"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d7a55354d444a6d595455744e545979596930305a545a6d4c5467324d6a6b745a544e6b4e6a49324f44497a5a5455344c6e426b5a673d3d&fich=35902fa5-562b-4e6f-8629-e3d626823e58.pdf&Inline=true",
+        "anexoNome": "Moldávia CC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a597a597a68684f5751744e57526d595330304e7a45794c54686d4d6a6374596a55774e445a6c4d4759305a6a63314c6d527659773d3d&fich=f63c8a9d-5dfa-4712-8f27-b5046e0f4f75.doc&Inline=true",
+        "anexoNome": "Moldávia date"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4749314f546731597a63744d544a6b59793030597a6c694c54686c4e474d744d6a68684e575134596a59304e575a6d4c6d527659773d3d&fich=db5985c7-12dc-4c9b-8e4c-28a5d8b645ff.doc&Inline=true",
+        "anexoNome": "Protocolo I"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4d334d446c684f4449744d3249775a4330304f574e6a4c5745304f544d744d57566a4f546b304e7a6c6b5a5745784c6d527659773d3d&fich=fc709a82-3b0d-49cc-a493-1ec99479dea1.doc&Inline=true",
+        "anexoNome": "Protocolo II"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a517959546b32596d51744e575932596930304d4749304c54686b4d444974597a6734595751345a6d4d785a6a526d4c6d527659773d3d&fich=742a96bd-5f6b-40b4-8d02-c88ad8fc1f4f.doc&Inline=true",
+        "anexoNome": "Protocolo III"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d59344d6a63334e5463744d47526d5a693030596d4d794c546b324d3251744e47526b4d5749314e545a6a4d6a51344c6d527659773d3d&fich=2f827757-0dff-4bc2-963d-4dd1b556c248.doc&Inline=true",
+        "anexoNome": "Protocolo IV"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a44646c4d444a6b4e446b744d475530595330304e4463304c546c6b4e4759744d4759794f4756695a6a6b354e3252694c6e426b5a673d3d&fich=d7e02d49-0e4a-4474-9d4f-0f28ebf997db.pdf&Inline=true",
+        "anexoNome": "Moldávia Signature"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d466d4e4759334d446b74596a64685a5330304d7a426c4c574534595463744d544a694d6a59305a6a457a5a574d334c6d527659773d3d&fich=6af4f709-b7ae-430e-a8a7-12b264f13ec7.doc&Inline=true",
+        "anexoNome": "Moldávia Title"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "39004",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5759334e32497a4e44517459545a6d4f43303059544d784c574a6d593245744d4755324e7a646b4e44526d4e4755794c6d527659773d3d&fich=1f77b344-a6f8-4a31-bfca-0e677d44f4e2.doc&Inline=true",
+    "IniNr": "107",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "S",
+    "IniTitulo": "Aprova o Acordo de Associação entre a União Europeia e a Comunidade Europeia de Energia Atómica e os seus Estados-Membros, por um lado, e a República da Moldávia, por outro, assinado em Bruxelas, em 27 de junho de 2014",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
