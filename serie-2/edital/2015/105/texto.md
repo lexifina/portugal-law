@@ -1,0 +1,97 @@
+Edital n.º 105/2015
+José Manuel Bolieiro, Presidente da Câmara Municipal de Ponta Delgada, torna público que se encontra a partir desta data e pelo período de 30 dias, em discussão pública a Proposta de Regulamento de Cedência e Utilização do Autocarro Municipal. O mesmo está disponível para consulta no Hall de entrada do 1.º piso dos Paços do Concelho, durante o horário de expediente e na Web-Page da Câmara Municipal de Ponta Delgada em www.cm-pontadelgada.pt
+28 de janeiro de 2015. - O Presidente da Câmara, José Manuel Bolieiro.
+Proposta de Regulamento de Cedência e Utilização do Autocarro Municipal
+Preâmbulo
+No âmbito das competências e atribuições adstritas aos municípios, a Câmara Municipal de Ponta Delgada (CMPD) procura promover, apoiar e incentivar o desenvolvimento cultural, desportivo, educacional e recreativo dos seus munícipes.
+Atendendo às diversas solicitações por parte de instituições do Concelho, torna-se premente proceder à regulamentação da cedência e utilização do autocarro municipal.
+Também é do interesse desta autarquia que a utilização do autocarro decorra com a máxima clareza, característica indispensável aos bens públicos.
+Artigo 1.º
+(Objeto)
+O presente Regulamento tem como objetivo estabelecer as normas de utilização da(s) viatura(s) de transporte coletivo da Câmara Municipal de Ponta Delgada, doravante designada por CMPD, no apoio a associações/instituições.
+Artigo 2.º
+(Entidades a Apoiar)
+1 - A viatura de transporte poderá ser cedida às seguintes entidades:
+a) Instituições municipais;
+b) Instituições de ensino;
+c) Instituições desportivas.
+d) Instituições de solidariedade social;
+e) Associações culturais;
+f) Instituições recreativas;
+g) Outras entidades locais, sem fins lucrativos, desde que esta utilização beneficie a população do concelho.
+Artigo 3.º
+(Normas para a Cedência)
+1 - A cedência ou utilização do autocarro não pode afetar o serviço regular da Câmara Municipal.
+2 - Os pedidos de cedência deverão ser dirigidos à CMPD, com um mínimo de quinze dias de antecedência da data da sua utilização.
+3 - O número de passageiros a transportar não poderá ser inferior a metade da lotação da viatura a ceder.
+4 - Para cada tipo de entidades, a cedência de viaturas deverá ser feita de acordo:
+a) Atividades desenvolvidas pelos Órgãos dos Município;
+b) Interesse para o município;
+c) Em caso de sobreposição de datas, o autocarro será atribuído de acordo com o pedido entrado em primeiro lugar.
+Artigo 4.º
+(Procedimentos)
+1 - Os pedidos deverão dar entrada na secção de Expediente Geral e serem encaminhados para o Presidente.
+2 - O pedido devem indicar:
+a) Identificação da entidade requisitante;
+b) Finalidade;
+c) Local e hora de partida;
+d) Local e hora de chegada;
+e) Número de passageiros;
+f) Idade dos Passageiros;
+g) Nome do Responsável e respetivo contacto.
+3 - A CMPD comunicará aos requerentes até cinco dias úteis antes da realização do serviço, o teor da decisão.
+4 - Em caso desistência por parte dos requerentes, esta deverá ser comunicada à CMPD, com a antecedência mínima de cinco dias úteis em relação à data da realização da deslocação.
+5 - Em caso de força maior, nomeadamente, avaria do autocarro ou impedimento do motorista, a CMPD não assume responsabilidade para a sua substituição.
+6 - Em caso de acidente que condicione a atividade do autocarro, as despesas associadas ao regresso ficam a cargo da entidade requisitante.
+Artigo 5.º
+(Regras de Utilização)
+1 - As viaturas de transporte coletivo só podem ser conduzidos por motoristas da Câmara Municipal.
+2 - Não é permitida a utilização por passageiros de ocasião.
+3 - O itinerário do autocarro não pode ser alterado no decorrer do serviço, com a exceção de motivos de força maior, nomeadamente, condicionalismos do trânsito ou estado de saúde de algum passageiro.
+4 - Dentro do autocarro não podem ser transportados materiais que possam causar danos aos passageiros.
+5 - É expressamente proibido:
+a) Fumar no interior do autocarro;
+b) Exibir manifestações no interior do autocarro, que possam perturbar o motorista e colocar em causa a segurança da viatura e passageiros;
+c) Permanecer de pé ou circular com o autocarro em movimento;
+d) Danificar ou sujar a viatura;
+e) Ingerir alimentos;
+f) Transportar animais.
+6 - O motorista tem direito a 1h para cada refeição, sendo os períodos de refeição entre as 12h e 14h e 19h e 21h.
+7 - Antes da viagem ocorrer, o motorista e o responsável devem verificar o estado da viatura.
+8 - Após a viagem, o motorista e o responsável devem verificar o estado da viatura, assinando ambos um documento comprovativo do estado do autocarro.
+Artigo 6.º
+(Encargos)
+1 - Constitui encargo a suportar pelas entidades utilizadoras:
+a) O pagamento de 0.30(euro)/quilómetro para as instituições de ensino, instituições desportivas e instituições de solidariedade social, correspondendo ao desgaste e consumo do combustível previsto na deslocação;
+b) O pagamento de 0.50(euro)/quilómetro na deslocação de outros grupos, correspondendo ao desgaste e consumo do combustível previsto na deslocação;
+c) Trabalho extraordinário do motorista, quando exista;
+d) Outros encargos ou taxas, como por exemplo, parquímetro.
+2 - O pagamento dos encargos deverá ser efetuado na Tesouraria da CMPD, nos oito dias (úteis) subsequentes à utilização.
+Artigo 7.º
+(Penalizações)
+1 - O não pagamento dos encargos referidos no artigo anterior determina o indeferimento de posteriores serviços solicitados pelas entidades requisitantes, enquanto os encargos não forem saldados.
+2 - Todas as entidades que cobrarem um custo de utilização aos passageiros, ficam impedidas de solicitar novos serviços.
+3 - As entidades utilizadores deverão ter conhecimento das condições de aceitação e assinar uma declaração de honra.
+4 - Pode ser aplicada uma penalização de cessação da viatura, pelo prazo mínimo de 6 meses, às entidades utilizadoras que sejam incumpridoras.
+Artigo 8.º
+(Responsabilidade)
+1 - São obrigações do motorista:
+a) Apresentar um relatório da viagem, relatando as anomalias ocorridas durante a viagem. A entrega deste documento terá de ser efetuada no prazo de 3 dias seguintes (úteis) após a viagem;
+b) Respeitar o itinerário e o horário previamente estabelecidos, salvo casos de força maior;
+c) Não permitir que a lotação exceda a legalmente prevista;
+d) Zelar pelo bom estado de conservação e limpeza do autocarro;
+e) Cumprir o código de estrada;
+f) Garantir a segurança dos passageiros e bens;
+2 - São obrigações da entidade utilizadora:
+a) Manutenção das boas condições de higiene e limpeza;
+b) Evitar danos infligidos à viatura pelos passageiros durante a viagem;
+c) Evitar atos impróprios praticados pelos passageiros nos locais de paragem do autocarro;
+d) Acatar as ordens do motorista.
+Artigo 9.º
+(Disposições Finais)
+1 - Em casos extraordinários e devidamente fundamentados, designadamente por relevante interesse público, poderá o Presidente da Câmara isentar a entidade requisitante do pagamento dos encargos previstos neste regulamento.
+2 - As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Presidente da Câmara.
+Artigo 10.º
+(Entrada em Vigor)
+1 - O presente Regulamento entra em vigor imediatamente a sua publicação no Diário da República.
+208399786
