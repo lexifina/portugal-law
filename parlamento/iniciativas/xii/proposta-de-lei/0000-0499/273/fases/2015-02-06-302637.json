@@ -1,0 +1,439 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "273",
+    "id": "38935",
+    "titulo": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2015-02-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10327",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2015-02-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-02-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=00:55:25:138&drc=00:02:00:668"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=00:59:24:867&drc=00:01:42:648"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=01:19:22:014&drc=00:01:41:391"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.   DA   JUSTIÇA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "Paula Teixeira Da Cruz"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15",
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07/14?pgs=14-15,19&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=00:57:30:976&drc=00:01:42:985"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=01:01:24:989&drc=00:05:24:010"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=01:06:57:040&drc=00:03:46:110"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=01:10:50:053&drc=00:04:02:752"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4381",
+                "nome": "Paulo Simões Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=01:14:59:879&drc=00:03:28:069"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "12:42",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=01:18:35:742&drc=00:00:31:011"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150206pln&url=l12/sl4/a2015/m02/&tI=01:21:09:412&drc=00:03:32:969"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-02-07",
+                "pubLeg": "XII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Procede à primeira alteração à Lei n.º 73/2009, de 12 de agosto, que estabelece as condições e os procedimentos a aplicar para assegurar a interoperabilidade entre sistemas de informação dos órgãos de polícia criminal, e à segunda alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "302637",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10327",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-02-07",
+        "pubLeg": "XII",
+        "pubNr": "47",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/047/2015-02-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
