@@ -1,0 +1,5 @@
+Aviso n.º 1399/2015
+Revisão do Regulamento de Liquidação e Cobrança de Taxas do Município de Macedo de Cavaleiros
+Manuel Duarte Fernandes Moreno, Presidente da Câmara Municipal de Macedo de Cavaleiros torna público, para cumprimento do disposto no artigo 56.º do Regime Jurídico das Autarquias Locais aprovado pela Lei n.º 75/2013 de 12 de setembro, que foram aprovadas em sessão ordinária da Assembleia Municipal, realizada em 30 de abril de 2012, sob proposta aprovada pela Câmara Municipal em 16 de fevereiro de 2012, e após publicação efetuada no Diário da República, 2.ª série, n.º 45, de 2 de março de 2012, do respetivo projeto de alterações, a revisão do Regulamento de Liquidação e Cobrança de Taxas do Município de Macedo de Cavaleiros, cuja versão integral, incluindo a fundamentação económica e financeira se encontra disponível para consulta na página eletrónica da câmara municipal, em www.cm-macedodecaveleiros.pt, em concordância com o artigo 13.º da Lei n.º 53-E/2006, de 29 de dezembro.
+18 de dezembro de 2014. - O Presidente da Câmara, Manuel Duarte Fernandes Moreno.
+308349613
