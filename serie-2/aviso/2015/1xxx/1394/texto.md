@@ -1,0 +1,6 @@
+Aviso n.º 1394/2015
+José Francisco Gomes Monteiro, Presidente da Câmara Municipal de Celorico da Beira, torna público que:
+De acordo com a deliberação da Câmara Municipal de Celorico da Beira, tomada em 03 de dezembro de 2014 e em cumprimento do artigo 118.º do Código do Procedimento Administrativo, a Câmara Municipal deliberou, submeter à apreciação pública, pelo prazo de 30 dias as alterações aos artigos 36.º e 38.º do Projeto de Regulamento Municipal da Atividade de Comércio a Retalho não Sedentário por Feirantes e Vendedores Ambulantes do Concelho de Celorico da Beira, o qual poderá ser consultado na Secção Administrativa da Câmara Municipal de Celorico da Beira, durante o horário normal de funcionamento e no site da Câmara Municipal, em www.cm-celoricodabeira.pt para recolha de sugestões que acharem por convenientes, que deverão ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Celorico da Beira.
+Para constar e devidos efeitos, se lavrou o presente Aviso e outros de igual teor, que depois de assinados e autenticados com o selo branco em uso nesta autarquia, vão ser afixados nos lugares de estilo deste Município.
+04 de dezembro de 2014. - O Presidente da Câmara, Eng. José Francisco Gomes Monteiro.
+308363189
