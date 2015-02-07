@@ -61,9 +61,3 @@ aa) «Recusa de acesso», uma decisão, comunicada ao comandante de um navio, à
 bb) «Região do Paris MOU», a área geográfica em que os signatários do Paris MOU efectuam inspecções no contexto do Paris MOU;
 
 cc) «SafeSeaNet», o sistema comunitário de intercâmbio de informações marítimas desenvolvido pela Comissão Europeia em cooperação com os Estados membros, a fim de assegurar a aplicação da legislação comunitária.
-
-dd) 'Navio ro-ro de passageiros', um navio equipado de forma a permitir o embarque e o desembarque diretos em marcha de veículos rodoviários ou ferroviários, e que transporta mais de 12 passageiros;
-
-ee) 'Embarcação de passageiros de alta velocidade', uma embarcação conforme definida na regra 1 do capítulo X da SOLAS 74, que transporta mais de 12 passageiros;
-
-ff) 'Serviço regular', uma série de travessias efetuadas por um navio ro-ro de passageiros ou por uma embarcação de passageiros de alta velocidade a fim de servir o tráfego entre dois ou mais portos, ou uma série de viagens de ou para o mesmo porto sem escalas intermédias segundo um horário publicado, ou com uma regularidade ou frequência tais que constituam uma série manifestamente sistemática.

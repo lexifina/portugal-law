@@ -6,7 +6,7 @@
 
 ### Inspecção inicial
 
-Os navios selecionados para inspeção em conformidade com o artigo 8.º ou o artigo 15.º-A são submetidos a uma inspeção inicial ou a uma inspeção aprofundada, do seguinte modo:
+Os navios seleccionados para inspecção em conformidade com o artigo 8.º são submetidos a uma inspecção inicial na qual o inspector observa no mínimo os seguintes procedimentos:
 
 a) Verificação dos certificados e documentos enumerados no anexo v ao presente decreto-lei e que dele faz parte integrante, os quais devem estar presentes a bordo em conformidade com a legislação comunitária e as convenções em matéria de segurança marítima e protecção do transporte marítimo;
 
