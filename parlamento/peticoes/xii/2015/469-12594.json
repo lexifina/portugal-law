@@ -1,0 +1,679 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12594",
+  "numero": "469",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-02-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-03-24",
+            "entidades": null,
+            "id": "99790",
+            "tipo": null,
+            "titulo": "Audição em 2015-03-24 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": "2015-03-31",
+            "entidades": [
+              "Conselho de Escolas"
+            ],
+            "nrOficio": "80/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": "2015-03-26",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "81/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "82/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": "2015-03-20",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "83/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": null,
+            "entidades": [
+              "Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais"
+            ],
+            "nrOficio": "84/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": "2015-03-10",
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "85/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": "2015-04-09",
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "78/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "77/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-05",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  ADJUNTO E DO DESENVOLVIMENTO REGIONAL"
+            ],
+            "nrOficio": "79/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "736521",
+                "obs": null,
+                "pag": [
+                  "10-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-04-17",
+                "pubLeg": "XII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/041/2015-04-17/10?pgs=10-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-02-24",
+        "DataArquivo": "2015-04-14",
+        "DataBaixaComissao": "2015-02-13",
+        "DataEnvioPAR": "2015-04-16",
+        "DataReaberta": "2015-02-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-02-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49774e6a49334e7a457a4c574a694e4759744e44426c4d4330354d7a5a6c4c5449315a5746694f446b334d54566a4e4335775a47593d&fich=20627713-bb4f-40e0-936e-25eab89715c4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d795a44526b4d7a646b4c5745785a4759744e4459345a6930344f5751314c5445324f44417a4d6d4a6a5a574669595335775a47593d&fich=c2d4d37d-a1df-468f-89d5-168032bceaba.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59325a6a6b305a5459774c574533596d59744e474d304d793169596a6b314c5746694e7a41774e6a52694e7a68694e6935775a47593d&fich=66f94e60-a7bf-4c43-bb95-ab70064b78b6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3245794f4455794e5751794c57557a4e4463744e446b305a6930344e7a6b304c545a694f574a6c596d526b4e6d59784d6935775a47593d&fich=a28525d2-e347-494f-8794-6b9bebdd6f12.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a526b4f54646c4f4441784c54526b4e6a45744e474d354d4331684f4449794c54426b4f54566c4f44673159574e6b4e6935775a47593d&fich=4d97e801-4d61-4c90-a822-0d95e885acd6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251304e54566a4e44497a4c57466d4e4751744e475978595331694f445a6c4c575131596a51334d5756695954566b4f4335775a47593d&fich=d455c423-af4d-4f1a-b86e-d5b471eba5d8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32466a5a6a67355a544e6c4c54426a597a41744e47566d5a4330354e4751324c544a6c5a444d774d6d4e6b4e6a59774e4335775a47593d&fich=acf89e3e-0cc0-4efd-94d6-2ed302cd6604.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32597a4d574d784f5746694c545a684d474d744e4463784e5331695a544d324c54426b4e4464694e6a51354e4455314e5335775a47593d&fich=f31c19ab-6a0c-4715-be36-0d47b6494555.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325668596d45794d7a45314c5467344d5449744e47566d595330354d7a686b4c54466b596d4d324f5759775a5446685a5335775a47593d&fich=eaba2315-8812-4efa-938d-1dbc69f0e1ae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a68694d7a686b4f574e694c5745324e4455744e4445354e793168596a51334c5455324d5456684e7a426d4d545a6b596935775a47593d&fich=8b38d9cb-a645-4197-ab47-5615a70f16db.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-04-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5934595446694e5455344c5749304f5445744e44646c5a4331694d54637a4c545a684d6d4a6b595467314d6a4e6d595335775a47593d&fich=68a1b558-b491-47ed-b173-6a2bda8523fa.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466c4d4467794e6d5a6c4c57513259324d744e4449774e4330344e4751324c5749774d4749345a4449314e3245784e7935775a47593d&fich=1e0826fe-d6cc-4204-84d6-b00b8d257a17.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a6c4d6a6c6c4d475a6a4c5755304e6d49744e444d7a4f5331694d6d497a4c546b325a5463314d5751314e6d56694d6935775a47593d&fich=be29e0fc-e46b-4339-b2b3-96e751d56eb2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466b4f5751344f54497a4c574d314d446b744e4749334d433168596a4a684c5751335932466b4f5749354f575a6c5a6935775a47593d&fich=1d9d8923-c509-4b70-ab2a-d7cad9b99fef.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a426d4d7a51344e7a51354c5751344e6d49744e4755354e4331694d7a526d4c574d324e444e6d597a51354e574d794d7935775a47593d&fich=0f348749-d86b-4e94-b34f-c643fc495c23.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a56684d475132593245314c54526a4d4751744e4455334e4331684e6a59344c5449354e6d49354e47466d597a526c4e4335775a47593d&fich=5a0d6ca5-4c0d-4574-a668-296b94afc4e4.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-02-24",
+            "gp": "PSD",
+            "id": "4394",
+            "motivoCessacao": null,
+            "nome": "Emília Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-06-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-02-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a597a4d44686d595746684c5441334d3245744e444d334e7931694e7a4a684c54466d4e7a6b345a4455334d574a69595335775a47593d&fich=6308faaa-073a-4377-b72a-1f798d571bba.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "37296",
+      "39577"
+    ],
+    "Iniciativasoriginadas": [
+      "37296",
+      "39577"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-06-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=02:39:30:839&drc=00:02:38:876"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=03:04:15:024&drc=00:02:34:646"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44",
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-15",
+                "pubLeg": "XII",
+                "pubNr": "98",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/098/2015-06-15/43?pgs=43-44,50&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração dos rácios de auxiliares de ação educativa nas escolas; Garante a contratação por tempo indeterminado dos trabalhadores não docentes nas escolas públicas; Levantamento e suprimento das necessidades permanentes de pessoal não-docente nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=02:42:11:954&drc=00:02:43:627"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=03:02:09:116&drc=00:02:01:996"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44",
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-15",
+                "pubLeg": "XII",
+                "pubNr": "98",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/098/2015-06-15/44?pgs=44,49&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração dos rácios de auxiliares de ação educativa nas escolas; Garante a contratação por tempo indeterminado dos trabalhadores não docentes nas escolas públicas; Levantamento e suprimento das necessidades permanentes de pessoal não-docente nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=02:44:59:277&drc=00:04:01:238"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-15",
+                "pubLeg": "XII",
+                "pubNr": "98",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/098/2015-06-15/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração dos rácios de auxiliares de ação educativa nas escolas; Garante a contratação por tempo indeterminado dos trabalhadores não docentes nas escolas públicas; Levantamento e suprimento das necessidades permanentes de pessoal não-docente nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=02:49:03:963&drc=00:03:49:748"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-15",
+                "pubLeg": "XII",
+                "pubNr": "98",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/098/2015-06-15/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração dos rácios de auxiliares de ação educativa nas escolas; Garante a contratação por tempo indeterminado dos trabalhadores não docentes nas escolas públicas; Levantamento e suprimento das necessidades permanentes de pessoal não-docente nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=02:52:59:257&drc=00:04:32:122"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-15",
+                "pubLeg": "XII",
+                "pubNr": "98",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/098/2015-06-15/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração dos rácios de auxiliares de ação educativa nas escolas; Garante a contratação por tempo indeterminado dos trabalhadores não docentes nas escolas públicas; Levantamento e suprimento das necessidades permanentes de pessoal não-docente nas escolas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150612pln&url=l12/sl4/a2015/m06/&tI=02:57:36:763&drc=00:04:27:370"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-15",
+                "pubLeg": "XII",
+                "pubNr": "98",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/098/2015-06-15/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Alteração dos rácios de auxiliares de ação educativa nas escolas; Garante a contratação por tempo indeterminado dos trabalhadores não docentes nas escolas públicas; Levantamento e suprimento das necessidades permanentes de pessoal não-docente nas escolas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12594",
+    "PetAssunto": "Solicitam alteração dos rácios de auxiliares de ação educativa nas escolas.",
+    "PetDataEntrada": "2015-02-09",
+    "PeticoesAssociadas": null,
+    "PetId": "12594",
+    "PetLeg": "XII",
+    "PetNr": "469",
+    "PetNrAssinaturas": "4235",
+    "PetNrAssinaturasInicial": "4235",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2065",
+        "obs": null,
+        "pag": [
+          "43-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-06-15",
+        "pubLeg": "XII",
+        "pubNr": "98",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/098/2015-06-15/43?pgs=43-50&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "727881",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-02-28",
+        "pubLeg": "XII",
+        "pubNr": "30",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/030/2015-02-28/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
