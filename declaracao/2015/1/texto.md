@@ -1,0 +1,3 @@
+Declaração n.º 1/2015
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se que se considera caduco o processo relativo à Apreciação Parlamentar n.º 87/XII ao Decreto-Lei n.º 79/2014, de 14 de maio, que «Aprova o regime jurídico da habilitação profissional para a docência na educação pré-escolar e nos ensinos básico e secundário» apresentada pelo Grupo Parlamentar do Partido Comunista Português, uma vez que foram rejeitadas pela Comissão de Educação, Ciência e Cultura todas as propostas de alteração e que o Plenário foi informado do facto.
+Assembleia da República, 28 de janeiro de 2015. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
