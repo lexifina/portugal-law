@@ -1,0 +1,5 @@
+Aviso n.º 1498/2015
+Afetação/reafetação dos trabalhadores do mapa de pessoal
+Célia Margarida Gomes Marques, Vice-presidente da Câmara Municipal de Alvaiázere, em cumprimento do artigo 10.º, n.º 6, do Decreto-Lei n.º 305/2009, de 23 de outubro, torno público que, por meu despacho de 02 de janeiro do corrente ano e ao abrigo do disposto na alínea a), n.º 2 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, conjugado com o artigo 8.º e n.º 3, parte final e do n.º 4 do artigo 10.º do Decreto-Lei n.º 305/2009, de 23 de outubro, se procedeu à afetação/reafetação dos trabalhadores do mapa de pessoal do Município de Alvaiázere, com referência à Organização dos Serviços Municipais publicada no Diário da República, 2.ª série, n.º 239, datado de 10 de dezembro e ao Mapa de Pessoal para o ano de 2015, a qual se encontra publicitada na página eletrónica do Município.
+9 de janeiro de 2015. - No uso de competências delegadas (despacho do Senhor Presidente exarado a 24-10-2013), a Vice-Presidente da Câmara, Célia Margarida Gomes Marques.
+308388056
