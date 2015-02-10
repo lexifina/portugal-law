@@ -1,0 +1,7 @@
+# Artigo 13.º
+
+### Pagamento
+
+1 - Os pedidos de pagamento são submetidos em simultâneo com a candidatura ao PU, competindo ao IFAP, I. P., proceder ao pagamento do apoio.
+
+2 - O pagamento é efetuado após conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após a conclusão dos controlos administrativos nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, bem como do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014.
