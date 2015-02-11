@@ -4,7 +4,7 @@
 
 Prosseguem atribuições do MF, sob superintendência e tutela do respectivo ministro, os seguintes organismos:
 
-a) A Caixa Geral de Aposentações, I. P.;
+a) (Revogada.)
 
 b) (Revogada.)
 
