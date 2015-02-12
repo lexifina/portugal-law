@@ -24,4 +24,4 @@ b) Os encargos com o transporte não urgente de doentes transferidos para a equi
 
 c) Os encargos com o transporte decorrente de tratamentos programados prescritos pelo hospital.
 
-9 - Os encargos com o transporte referidos nos n.os 2 e 3 do artigo 11.º são suportados pelo Instituto Nacional de Emergência Médica (INEM).
+9 - Os encargos com o transporte referidos nos n.os 2 e 3 do artigo 11.º são suportados pelos serviços e estabelecimentos do SNS com serviços de urgência, que receberam o doente.
