@@ -32,6 +32,8 @@ xi) Doença infetocontagiosa que implique risco para a saúde pública;
 
 xii) Insuficiência renal crónica.
 
+xiii) Paralisia cerebral e situações neurológicas afins com comprometimento motor.
+
 2 - Para os efeitos do disposto no número anterior considera-se estar em situação clínica incapacitante o utente acamado, necessitado de transporte em isolamento, em cadeira de rodas por se encontrar impossibilitado de assegurar a marcha de forma autónoma, com dificuldade de orientação e ou inconveniência de locomoção na via pública e de modo próprio, devendo o transporte ser efetuado em ambulância.
 
 3 - Para além do disposto nos números anteriores, o SNS assegura ainda os encargos com o transporte não urgente prescrito aos utentes em situação de insuficiência económica e com situação clínica que o justifique, desde que efetuado em veículo de transporte simples de doentes (VTSD).

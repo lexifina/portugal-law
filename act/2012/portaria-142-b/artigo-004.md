@@ -10,7 +10,7 @@ b) Reabilitação em fase aguda decorrente das situações previstas no n.º 1 d
 
 c) Noutras situações clínicas devidamente justificadas pelo médico assistente, previamente avaliadas e autorizadas, caso a caso, pelas entidades do SNS responsáveis pelo pagamento dos encargos.
 
-2 - No caso de doenças oncológicas o SNS assegura, ainda parcialmente, nos termos do disposto nos números seguintes, os encargos com o transporte não urgente dos doentes para realização de atos clínicos inerentes à respetiva patologia, independentemente do número de deslocações mensais.
+2 - No caso de doenças oncológicas e transplantados, bem como dos doentes insuficientes renais crónicos que realizam diálise peritoneal ou hemodiálise domiciliária o SNS assegura, ainda parcialmente, nos termos do disposto nos números seguintes, os encargos com o transporte não urgente dos doentes para realização de atos clínicos inerentes à respetiva patologia, independentemente do número de deslocações mensais.
 
 3 - As situações de prestação de cuidados de saúde de forma prolongada e continuada nos termos referidos nos números anteriores deverá ser objeto de prescrição única.
 
