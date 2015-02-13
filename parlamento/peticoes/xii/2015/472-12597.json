@@ -1,0 +1,520 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12597",
+  "numero": "472",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-02-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-03-24",
+            "entidades": null,
+            "id": "99791",
+            "tipo": null,
+            "titulo": "Audição em 2015-03-24 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-03-10",
+            "dataResposta": "2015-03-24",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "93/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-10",
+            "dataResposta": "2015-03-17",
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "92/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-10",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "91/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": null,
+            "dataResposta": "2015-07-31",
+            "entidades": [
+              "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "745097",
+                "obs": null,
+                "pag": [
+                  "8-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-04-30",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/043/2015-04-30/8?pgs=8-11&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-03-04",
+        "DataArquivo": "2015-04-21",
+        "DataBaixaComissao": "2015-02-18",
+        "DataEnvioPAR": "2015-04-27",
+        "DataReaberta": "2015-03-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-03-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a637959325a694d4759324c5463324d4745744e4463344d7930345a44597a4c5445354d574d794e325931596d466b4d6935775a47593d&fich=72cfb0f6-760a-4783-8d63-191c27f5bad2.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526b595456694f54466b4c574a6b4e3255744e4746695a4330354d4442694c5463334f4452694e5467325a544d30597935775a47593d&fich=dda5b91d-bd7e-4abd-900b-7784b586e34c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32466c4d5752685a444e6b4c5464684e6a6b744e44517a4e6931685a6a637a4c544a6c4f57466d597a56684d5759344e6935775a47593d&fich=ae1dad3d-7a69-4436-af73-2e9afc5a1f86.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6378596a45325a6a6b794c54526d596d4d744e4449304e5330345a546b334c5759794d474a695a6a426d4e6d4d354f4335775a47593d&fich=71b16f92-4fbc-4245-8e97-f20bbf0f6c98.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-04-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63794f446b7a4e4751774c546332596a59744e44426d4e5331695a5446684c5751794e3255334f54686d4d6d49344e6935775a47593d&fich=728934d0-76b6-40f5-be1a-d27e798f2b86.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49324d7a56694e3252694c575135596d55744e4455324e4331694e4751314c57526a4d5467324e4755794e5755784d5335775a47593d&fich=2635b7db-d9be-4564-b4d5-dc1864e25e11.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a6c4f4749355a6a4e6b4c5445344e4749744e444a6c4d7931694f545a6a4c57566a596d59354f47517a5a575a6a4f4335775a47593d&fich=fe8b9f3d-184b-42e3-b96c-ecbf98d3efc8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-08-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32466b5a6a4e6c59546b344c544e6c4d4445744e47526a4e6931694d54686c4c54686a4e7a566b4f545130595755304d5335775a47593d&fich=adf3ea98-3e01-4dc6-b18e-8c75d944ae41.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-03-04",
+            "gp": "PS",
+            "id": "4363",
+            "motivoCessacao": null,
+            "nome": "Agostinho Santa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-06-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-02-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d784f47466d4f4749334c5446684f5455744e446b314d5331684d6d4e684c54497a5a5451304f446b334f5442684f4335775a47593d&fich=c18af8b7-1a95-4951-a2ca-23e4489790a8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:21:33:067&drc=00:02:54:190"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação, para os docentes em regime de monodocência que iniciaram funções em 1978/1979 e 1979/1980, de um regime de aposentação igual ao previsto na Lei n.º 77/2009, de 13 de agosto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:24:32:160&drc=00:03:32:840"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação, para os docentes em regime de monodocência que iniciaram funções em 1978/1979 e 1979/1980, de um regime de aposentação igual ao previsto na Lei n.º 77/2009, de 13 de agosto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:28:08:707&drc=00:04:20:449"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação, para os docentes em regime de monodocência que iniciaram funções em 1978/1979 e 1979/1980, de um regime de aposentação igual ao previsto na Lei n.º 77/2009, de 13 de agosto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:32:31:914&drc=00:02:40:943"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação, para os docentes em regime de monodocência que iniciaram funções em 1978/1979 e 1979/1980, de um regime de aposentação igual ao previsto na Lei n.º 77/2009, de 13 de agosto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:35:15:410&drc=00:02:01:752"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação, para os docentes em regime de monodocência que iniciaram funções em 1978/1979 e 1979/1980, de um regime de aposentação igual ao previsto na Lei n.º 77/2009, de 13 de agosto.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12597",
+    "PetAssunto": "Solicitam a criação, para os docentes em regime de monodocência que iniciaram funções em 1978/1979 e 1979/1980, de um regime de aposentação igual ao previsto na Lei n.º 77/2009, de 13 de agosto.",
+    "PetDataEntrada": "2015-02-13",
+    "PeticoesAssociadas": null,
+    "PetId": "12597",
+    "PetLeg": "XII",
+    "PetNr": "472",
+    "PetNrAssinaturas": "5058",
+    "PetNrAssinaturasInicial": "5058",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "533",
+        "obs": null,
+        "pag": [
+          "34-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-06-26",
+        "pubLeg": "XII",
+        "pubNr": "103",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/34?pgs=34-38&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "727884",
+        "obs": null,
+        "pag": [
+          "13-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-03-07",
+        "pubLeg": "XII",
+        "pubNr": "31",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/031/2015-03-07/13?pgs=13-15&org=PLC"
+      }
+    ]
+  }
+}
