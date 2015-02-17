@@ -6,7 +6,13 @@
 
 a) Uma primeira prestação, correspondente a 75% da compensação financeira prevista na alínea a) do n.º 1 do artigo 6.º, acrescida do valor da compensação salarial prevista na alínea b) do n.º 1 do mesmo artigo;
 
-b) Uma segunda prestação, correspondente aos restantes 25% da compensação financeira prevista na alínea a) do n.º 1 do artigo 6.º, após a apresentação pelo armador de documento comprovativo do pagamento aos tripulantes, por transferência bancária, das respetivas compensações salariais.
+b) Uma segunda prestação, correspondente aos restantes 25 % da compensação financeira prevista na alínea a) do n.º 1 do artigo 6.º, após a apresentação pelo armador de comprovativo de pagamento aos tripulantes das respetivas compensações salariais por:
+
+i. Transferência bancária;
+
+ii. Cheque não endossável, emitido em nome do tripulante, depositado na respetiva conta bancária;
+
+iii. Cheque não endossável, emitido em nome do tripulante, levantado pelo mesmo junto do banco sacado.
 
 2 - A comprovação, pelo armador, do pagamento das compensações salariais aos tripulantes é feita, obrigatoriamente, no prazo de 5 dias úteis contados do recebimento da primeira prestação dos apoios.
 

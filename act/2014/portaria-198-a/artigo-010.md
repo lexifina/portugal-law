@@ -6,7 +6,7 @@
 
 a) Apresentar na DRAP junto da qual formalizou a candidatura, no prazo de 5 dias úteis após o termo da paragem:
 
-i) A declaração da Capitania referida no n.º 2 do artigo 4.º, comprovativa dos dias efetivos de paragem, com indicação das datas de início e fim da mesma;
+i. A declaração da Capitania referida no n.º 2 do artigo 5.º, comprovativa dos dias efetivos de paragem, com indicação das datas de início e fim da mesma;
 
 ii) O rol de tripulação atualizado relativo ao período de paragem.
 
