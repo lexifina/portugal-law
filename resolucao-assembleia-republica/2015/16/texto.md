@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 16/2015
+Prorrogação do prazo de funcionamento da Comissão de Inquérito Parlamentar à Gestão do BES e do Grupo Espírito Santo, ao processo que conduziu à aplicação da medida de resolução e às suas consequências, nomeadamente quanto aos desenvolvimentos e opções relativos ao GES, ao BES e ao Novo Banco.
+A Assembleia da República resolve, ao abrigo do disposto no n.º 1 do artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares, aprovado pela Lei n.º 5/93, de 1 de março, alterada pelas Leis n.os 126/97, de 10 de dezembro, e 15/2007, de 3 de abril, e nos termos do n.º 5 do artigo 166.º da Constituição, prorrogar o prazo de funcionamento da Comissão de Inquérito Parlamentar à Gestão do BES e do Grupo Espírito Santo, ao processo que conduziu à aplicação da medida de resolução e às suas consequências, nomeadamente quanto aos desenvolvimentos e opções relativos ao GES, ao BES e ao Novo Banco, por mais 60 dias.
+Aprovada em 13 de fevereiro de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
