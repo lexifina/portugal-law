@@ -1,0 +1,184 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12599",
+  "numero": "474",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-02-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-03-25",
+            "entidades": null,
+            "id": "99784",
+            "tipo": null,
+            "titulo": "Audição em 2015-03-25 com APAAE-Associação de Protecção e Apoio ao Animal Errante"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-05-07",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "745123",
+                "obs": null,
+                "pag": [
+                  "15-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-22",
+                "pubLeg": "XII",
+                "pubNr": "48",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/048/2015-05-22/15?pgs=15-19&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-03-04",
+        "DataArquivo": "2015-05-20",
+        "DataBaixaComissao": "2015-02-24",
+        "DataEnvioPAR": "2015-05-20",
+        "DataReaberta": "2015-03-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-03-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e52766331426c64476c6a595738764e6a4178595459794e4455744e57566d4d5330304d44686d4c5467345a6d59744d5467344d3251315a6a4a694d574d304c6c424552673d3d&fich=601a6245-5ef1-408f-88ff-1883d5f2b1c4.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e52766331426c64476c6a595738765a546c6a593259354d5441745a475a6d4d7930304d6a51784c57466c596a67744e5467785a5459775a5445355a4755304c6e426b5a673d3d&fich=e9ccf910-dff3-4241-aeb8-581e60e19de4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-13",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e52766331426c64476c6a595738764e6a64694d54453359325174596a5a694e6930305a6a6b334c546b7a4e5445744d6a646c5a444d334e4467314d574d774c6c424552673d3d&fich=67b117cd-b6b6-4f97-9351-27ed374851c0.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-06-16",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e52766331426c64476c6a595738764d7a566b4f4446685a474d7459324d7a4e793030595455344c5746684d324d7459544d794f546c6d4d574d30595759354c6c424552673d3d&fich=35d81adc-cc37-4a58-aa3c-a3299f1c4af9.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-05-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e52766331426c64476c6a595738764d54646c4d5449785a4451744e4451324e6930305a5467794c5467354f574d744e54566c4d546b784e324a6b4e544e684c6c424552673d3d&fich=17e121d4-4466-4e82-899c-55e1917bd53a.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3516",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Agricultura e Mar",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-03-04",
+            "gp": "PSD",
+            "id": "4311",
+            "motivoCessacao": null,
+            "nome": "Maria José Moreno"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2015-02-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d34596a59334d6d52694c5451334e574d744e47493159793169597a63354c5452684e575269596a6c6b5a4756695a4335775a47593d&fich=c8b672db-475c-4b5c-bc79-4a5dbb9ddebd.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12599",
+    "PetAssunto": "Solicitam que seja efetuada uma alteração legislativa aos Decretos-Lei n.° 314/2003, de 17 do Dezembro (Aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais suscetíveis à raiva) e  n.° 315/2003, do 17 de dezembro (Proteção dos Animais de Companhia).",
+    "PetDataEntrada": "2015-02-19",
+    "PeticoesAssociadas": null,
+    "PetId": "12599",
+    "PetLeg": "XII",
+    "PetNr": "474",
+    "PetNrAssinaturas": "1073",
+    "PetNrAssinaturasInicial": "897",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "736501",
+        "obs": null,
+        "pag": [
+          "4-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-03-14",
+        "pubLeg": "XII",
+        "pubNr": "33",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/033/2015-03-14/4?pgs=4-7&org=PLC"
+      }
+    ]
+  }
+}
