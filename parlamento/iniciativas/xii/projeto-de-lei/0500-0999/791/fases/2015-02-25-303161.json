@@ -1,0 +1,194 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "791",
+    "id": "39070",
+    "titulo": "Alteração da designação da Freguesia da União das Freguesias de Currelos, Papízios e Sobral, no município de Carregal do Sal, para Freguesia de Carregal do Sal"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-02-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "35129",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-02-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2016-06-23",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Ofício-Relatório para votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4449314e47526c5a546374596a49324d6930304d6a4e6a4c54686b597a4974595459334f5441784d544d354e4451314c6e52705a673d3d&fich=8254dee7-b262-423c-8dc2-a67901139445.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer AM Carregal do Sal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d54466b4e6a5269597a49745a6d566c4f533030596a41774c5467785a4459744e5449344e7a633559324d7a4e324d774c6e52705a673d3d&fich=11d64bc2-fee9-4b00-81d6-528779cc37c0.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CM Carregal do Sal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4745324e6a4930596a41744e5455304e5330304d4451334c5749794f4455744e7a59325a4751784d32526a4d7a67324c6e52705a673d3d&fich=4a6624b0-5545-4047-b285-766dd13dc386.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CAOTPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6b775a474d774d6d51744d6a67325a5330305a44566a4c5467794f5749745a6d466a4f44646d593245304d6a67344c6e52705a673d3d&fich=b90dc02d-286e-4d5c-829b-fac87fca4288.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer JF e AF UF Currelos, Papízios e Sobral",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a545534595468695a6a677459544a684e4330305a4451314c54673359575174596d4a6b4e7a51304f4455794e6d49344c6e52705a673d3d&fich=e58a8bf8-a2a4-4d45-87ad-bbd7448526b8.tif&Inline=true"
+          },
+          {
+            "DataDocumento": "2016-06-23",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Substituição PJL 776 e 791-XII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a4578513046505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544d32593256684f4749744e5468694e7930304d6a6c684c546c695a4745745a474e695a6a686c5a6d55345a4746694c6e52705a673d3d&fich=536cea8b-58b7-429a-9bda-dcbf8efe8dab.tif&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3520",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão do Ambiente, Ordenamento do Território e Poder Local",
+        "Numero": "3520",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "45-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-25",
+            "pubLeg": "XII",
+            "pubNr": "100",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/100/2015-03-25/45?pgs=45-54&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "45-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-25",
+            "pubLeg": "XII",
+            "pubNr": "100",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/100/2015-03-25/45?pgs=45-54&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4214",
+            "motivoCessacao": null,
+            "nome": "João Figueiredo"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-03-17",
+            "dataRemessa": "2015-03-25",
+            "numeroOficio": "65/CAOTPL",
+            "observacoes": "Remessa do Parecer",
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-03-17",
+            "dataRemessa": "2015-06-23",
+            "numeroOficio": "140/CAOTPL",
+            "observacoes": "Ofício/Relatório para Plenário para votação generalidade, especialidade e votação final global - Texto Substituição",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-03-17",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68928",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "221",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-02-25",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "303161",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
