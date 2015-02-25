@@ -1,0 +1,142 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "287",
+    "id": "39071",
+    "titulo": "Aprova o Regime Jurídico do Serviço Público de Transporte de Passageiros"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-02-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "35142",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-02-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-03-04",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica da 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a566b4d6d4d324d6d45745a546c684f4330305a546b344c546b7759574d745a6a55795a47526a5a6a4a685a5445774c6e426b5a673d3d&fich=f5d2c62a-e9a8-4e98-90ac-f52ddcf2ae10.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a63784e6a46694e6d59745a5441324d4330304d3249344c5746694e446b744e6a51794d3251785a54466a4e7a41334c6e426b5a673d3d&fich=f7161b6f-e060-43b8-ab49-6423d1e1c707.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "162-184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-04",
+            "pubLeg": "XII",
+            "pubNr": "88",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/088/2015-03-04/162?pgs=162-184&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "162-184"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-04",
+            "pubLeg": "XII",
+            "pubNr": "88",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/088/2015-03-04/162?pgs=162-184&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2569",
+            "motivoCessacao": null,
+            "nome": "Rui Paulo Figueiredo"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-02-25",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "303220",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
