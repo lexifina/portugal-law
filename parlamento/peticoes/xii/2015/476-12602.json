@@ -1,0 +1,634 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12602",
+  "numero": "476",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-02-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-03-31",
+            "entidades": null,
+            "id": "99824",
+            "tipo": null,
+            "titulo": "Audição em 2015-03-31 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": "2015-04-13",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "115/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": "2015-04-14",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "116/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": "2015-04-10",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "117/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": "2015-04-13",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "118/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": null,
+            "entidades": [
+              "FNSTFPS - Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais"
+            ],
+            "nrOficio": "119/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": "2015-04-17",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "120/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": "2015-03-31",
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "112/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": "2015-04-20",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "113/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-03-26",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA SOLIDARIEDADE, EMPREGO E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "114/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "745098",
+                "obs": null,
+                "pag": [
+                  "11-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-04-30",
+                "pubLeg": "XII",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/043/2015-04-30/11?pgs=11-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-03-10",
+        "DataArquivo": "2015-04-28",
+        "DataBaixaComissao": "2015-03-03",
+        "DataEnvioPAR": "2015-04-30",
+        "DataReaberta": "2015-03-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-03-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d7a4d5751325a4745794c545a6959574d744e44557a4f43316959324e684c5749314d5751355a5445784d6a55774f4335775a47593d&fich=c31d6da2-6bac-4538-bcca-b51d9e112508.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466a4e546334597a4e6c4c546b78597a55744e4467774e7931685a6d55334c5751774d44426b5a4745304e546c6a4d4335775a47593d&fich=1c578c3e-91c5-4807-afe7-d000dda459c0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a684d5442695a4467354c544d344f4745744e4467775a4330354f474e6c4c5756695a57466a4f4442694e474d334d6935775a47593d&fich=ba10bd89-388a-480d-98ce-ebeac80b4c72.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686c4d7a6777597a6b334c5449314e4445744e4451304e5331694f4467304c5455774e6d49344d546c6c596d51304e6935775a47593d&fich=8e380c97-2541-4445-b884-506b819ebd46.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4d784e7a6b344f544d354c5745334d6d45744e4449774d6930344d7a6b304c544d794e6a49334f54526b4d7a526d5a5335775a47593d&fich=31798939-a72a-4202-8394-3262794d34fe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6c684e7a41334e7a6c684c57526d4d7a59744e474e6b4f5331684d6d45784c54417a593251794d6a597a4d5463354d7935775a47593d&fich=9a70779a-df36-4cd9-a2a1-03cd22631793.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41794d5467794e7a55314c544e6c4f574d744e4749334e6931685a6a51794c574e6c4d6a526c4d6a6b794f544d32597935775a47593d&fich=02182755-3e9c-4b76-af42-ce24e292936c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a677a5a57566d4d5749354c5467794e6a67744e4445334f5330355a54526a4c574a6c4e6a63304d7a6c684f4749324e5335775a47593d&fich=83eef1b9-8268-4179-9e4c-be67439a8b65.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249315a444d304e475a6c4c57497a593259744e44686a4f4331684d6a4e6d4c5752695a57566d595449334e544d354e4335775a47593d&fich=b5d344fe-b3cf-48c8-a23f-dbeefa275394.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-03-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e69597a417a4f4751794c5463314f474d744e475a68596931685954566b4c545577597a55334d474a6b595455775a6935775a47593d&fich=cbc038d2-758c-4fab-aa5d-50c570bda50f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-04-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324a695a6d52684d5459784c5467334d5451744e4459325a6931694e5459784c5759334d574e68596d4d305a4463314e5335775a47593d&fich=bbfda161-8714-466f-b561-f71cabc4d755.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32566d4e7a6b315a5751324c57557a4d3255744e446c684e7930354e32466d4c5449774e44593459574e684d7a45334d5335775a47593d&fich=ef795ed6-e33e-49a7-97af-20468aca3171.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6c6b596a4d335a6a51334c5745354f5467744e4467775a533168596a466d4c5467794d574d314e4467784e6a45344e4335775a47593d&fich=9db37f47-a998-480e-ab1f-821c54816184.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63354f5467794e4459794c5759774d4441744e44466a5a5331694e4749354c544134593245324d6a45314e5751794e7935775a47593d&fich=79982462-f000-41ce-b4b9-08ca62155d27.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a6c597a5530597a466c4c574e6a4e4455744e474d7a5a6930345a4759314c574d784e7a4d7a4d574e6c4d6a466c4e5335775a47593d&fich=6ec54c1e-cc45-4c3f-8df5-c17331ce21e5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59794d7a49305a446c684c544d32593255744e4445324d4331684f444d354c5755354e6d4d7a4d4441344e7a646b596935775a47593d&fich=62324d9a-36ce-4160-a839-e96c300877db.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a68685a6d526a4e3255304c5749334e5445744e44466b5a6930345a47466a4c5749324f4452684f54457a4e574e6b596935775a47593d&fich=8afdc7e4-b751-41df-8dac-b684a9135cdb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b30595455324e324a6b4c5745354d546b744e446330597930345a6a55304c54646b4d4463334e446b7a4d6a457a5a4335775a47593d&fich=94a567bd-a919-474c-8f54-7d077493213d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a637a4d5467774f5745314c5451775a4759744e4467304f4331685a57597a4c5749334e7a56695932457a596d56684f5335775a47593d&fich=731809a5-40df-4848-aef3-b775bca3bea9.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-03-10",
+            "gp": "PSD",
+            "id": "4361",
+            "motivoCessacao": null,
+            "nome": "Maria Ester Vargas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-06-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-03-05",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59334e574d31596a557a4c5449305a5463744e44526c4d4330344f544d314c57457a5a4751334e57497a4d6a49345a4335775a47593d&fich=675c5b53-24e7-44e0-8935-a3dd75b3228d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "39624",
+      "39650",
+      "39664"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:38:29:506&drc=00:02:38:489"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:57:19:142&drc=00:01:11:498"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39",
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/38?pgs=38-39,43&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe o financiamento às escolas do Ensino Artístico Especializado de música e de dança em condições que assegurem a sua estabilidade e um ensino de qualidade; Recomenda ao Governo a salvaguarda do ensino artístico especializado, mediante a estabilidade do seu modelo de financiamento e das respetivas transferências para as instituições de ensino; Financiamento das escolas do ensino artístico pelo Orçamento de Estado garantindo o direito ao ensino artístico de todos os alunos; Pela sustentabilidade e dignificação do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:41:10:351&drc=00:03:54:021"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe o financiamento às escolas do Ensino Artístico Especializado de música e de dança em condições que assegurem a sua estabilidade e um ensino de qualidade; Recomenda ao Governo a salvaguarda do ensino artístico especializado, mediante a estabilidade do seu modelo de financiamento e das respetivas transferências para as instituições de ensino; Financiamento das escolas do ensino artístico pelo Orçamento de Estado garantindo o direito ao ensino artístico de todos os alunos; Pela sustentabilidade e dignificação do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:45:06:951&drc=00:03:51:493"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe o financiamento às escolas do Ensino Artístico Especializado de música e de dança em condições que assegurem a sua estabilidade e um ensino de qualidade; Recomenda ao Governo a salvaguarda do ensino artístico especializado, mediante a estabilidade do seu modelo de financiamento e das respetivas transferências para as instituições de ensino; Financiamento das escolas do ensino artístico pelo Orçamento de Estado garantindo o direito ao ensino artístico de todos os alunos; Pela sustentabilidade e dignificação do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150625pln&url=l12/sl4/a2015/m06/&tI=02:49:01:541&drc=00:03:41:536"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe o financiamento às escolas do Ensino Artístico Especializado de música e de dança em condições que assegurem a sua estabilidade e um ensino de qualidade; Recomenda ao Governo a salvaguarda do ensino artístico especializado, mediante a estabilidade do seu modelo de financiamento e das respetivas transferências para as instituições de ensino; Financiamento das escolas do ensino artístico pelo Orçamento de Estado garantindo o direito ao ensino artístico de todos os alunos; Pela sustentabilidade e dignificação do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe o financiamento às escolas do Ensino Artístico Especializado de música e de dança em condições que assegurem a sua estabilidade e um ensino de qualidade; Recomenda ao Governo a salvaguarda do ensino artístico especializado, mediante a estabilidade do seu modelo de financiamento e das respetivas transferências para as instituições de ensino; Financiamento das escolas do ensino artístico pelo Orçamento de Estado garantindo o direito ao ensino artístico de todos os alunos; Pela sustentabilidade e dignificação do ensino artístico especializado.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12602",
+    "PetAssunto": "Pela sustentabilidade e dignificação do ensino artístico especializado.",
+    "PetDataEntrada": "2015-02-25",
+    "PeticoesAssociadas": null,
+    "PetId": "12602",
+    "PetLeg": "XII",
+    "PetNr": "476",
+    "PetNrAssinaturas": "7465",
+    "PetNrAssinaturasInicial": "7465",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2073",
+        "obs": null,
+        "pag": [
+          "38-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-06-26",
+        "pubLeg": "XII",
+        "pubNr": "103",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/103/2015-06-26/38?pgs=38-43&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "736503",
+        "obs": null,
+        "pag": [
+          "8-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-03-14",
+        "pubLeg": "XII",
+        "pubNr": "33",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/033/2015-03-14/8?pgs=8-10&org=PLC"
+      }
+    ]
+  }
+}
