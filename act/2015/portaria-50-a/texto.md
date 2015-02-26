@@ -1,0 +1,24 @@
+Portaria n.º 50-A/2015
+de 25 de fevereiro
+Através da Resolução do Conselho de Ministros n.º 7-B/2015, de 20 de fevereiro, o Governo autorizou a despesa e determinou a abertura do procedimento para a seleção da entidade adjudicatária da prestação do serviço universal de disponibilização de uma lista telefónica completa e de um serviço completo de informações de listas, com recurso ao procedimento pré-contratual de concurso público, com publicação no Jornal Oficial da União Europeia.
+Nos termos da referida resolução, e em conformidade com o disposto no artigo 99.º da Lei n.º 5/2004, de 10 de fevereiro (Lei das Comunicações Eletrónicas), a aprovação das peças do referido concurso cabe à Ministra de Estado e das Finanças e ao Ministro da Economia. Importa, deste modo, proceder à aprovação do programa do concurso e respetivo caderno de encargos, os quais têm em conta, no geral, as recomendações do ICP - Autoridade Nacional de Comunicações (ICP-ANACOM) dirigidas ao Governo, na sequência de consulta pública.
+Neste contexto, prevê-se a designação de um único prestador para assegurar a disponibilização de uma lista telefónica completa e de um serviço completo de informações de listas. Em termos de configuração do serviço, determina-se, quanto à lista telefónica completa, a manutenção da sua disponibilização em suporte papel, embora seguindo um modelo de opt-in, ou seja, a disponibilização da lista a pedido do utilizador, o qual se considera mais consentâneo com o reduzido grau de procura atual deste serviço. Este modelo é conjugado com a disponibilização de uma lista em formato eletrónico via internet, através de um acesso online permanentemente acessível. Quanto ao serviço de informações de listas, prevê-se a manutenção, no essencial, da configuração do serviço como atualmente existe.
+De acordo com o disposto no n.º 4 do artigo 99.º da Lei das Comunicações Eletrónicas, os termos do concurso devem assegurar a oferta do serviço universal de modo economicamente eficiente, podendo ser utilizados como meio para determinar o custo líquido das obrigações do serviço universal. Prevê-se, assim, que a adjudicação da componente do serviço universal correspondente à disponibilização de uma lista telefónica completa e de um serviço completo de informações de listas seja feita segundo o critério do mais baixo preço, sendo selecionada a entidade que solicite, a título de remuneração pela prestação do serviço, o menor valor de financiamento dos custos líquidos associados a essa prestação. A solução prevista neste âmbito, que inclui o pagamento ao prestador de um valor de compensação fixo e outro variável, permitirá ajustar o montante da compensação ao número efetivo de listas impressas disponibilizadas aos utilizadores, a seu pedido.
+Os encargos associados a este concurso, correspondentes ao valor do referido financiamento, serão suportados pelo fundo de compensação do serviço universal de comunicações eletrónicas, em conformidade com o disposto na Lei n.º 35/2012, de 23 de agosto.
+O prazo de vigência do contrato a celebrar é fixado em três anos, atenta a necessidade de alcançar um equilíbrio entre o período mínimo considerado adequado para a recuperação do investimento associado à prestação do serviço e a necessidade de se reavaliar a curto ou médio prazo as condições desta prestação.
+À semelhança do que sucedeu nos procedimentos anteriores para designação do prestador do serviço universal, o caderno de encargos do concurso incorpora as condições e especificações da prestação do serviço definidas pelo ICP-ANACOM no exercício das competências que lhe estão legalmente atribuídas.
+Manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Economia, o seguinte:
+Artigo 1.º
+Objeto
+São aprovados o programa do concurso e o caderno de encargos do procedimento de concurso público para a seleção da entidade a designar para a prestação do serviço universal de disponibilização de uma lista telefónica completa e de um serviço completo de informações de listas, os quais constam do anexo i à presente portaria, da qual fazem parte integrante.
+Artigo 2.º
+Publicidade
+1 - As peças do procedimento referidas no artigo anterior são disponibilizadas através da plataforma eletrónica www.compraspublicas.com.
+2 - As peças do procedimento referidas no artigo anterior estão igualmente disponíveis para consulta no serviço de atendimento ao público da sede do ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), desde o dia da publicação do anúncio no Diário da República até ao termo do prazo fixado para a apresentação das propostas.
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 25 de fevereiro de 2015.
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Economia, António de Magalhães Pires de Lima.
+
+(ver documento original)
