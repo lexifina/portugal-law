@@ -6,17 +6,15 @@
 
 ### Conteúdo
 
-1 - O incentivo à modernização tecnológica tem por objetivo apoiar projetos orientados para a requalificação e reconversão de equipamentos e infraestruturas dos órgãos de comunicação social local regional.
+1 - O incentivo à modernização tecnológica tem por objetivo apoiar projetos orientados para a requalificação e reconversão de equipamentos e infraestruturas dos meios de radiodifusão de âmbito local.
 
 2 - Podem beneficiar do incentivo referido no número anterior os seguintes projetos:
 
-a) De aquisição de hardware, software, equipamentos e acessórios técnicos necessários ao exercício da atividade;
+a) De aquisição de hardware, software, equipamentos e acessórios técnicos necessários ao exercício da atividade de radiodifusão;
 
-b) De modernização e aquisição de novas infraestruturas e equipamentos;
+b) De modernização e aquisição de novas infraestruturas e equipamentos de radiocomunicações e telecomunicações;
 
 c) De reconversão tecnológica na insonorização, tratamento acústico e adaptação de estúdios.
-
-d) De aquisição de software utilizado na proteção dos meios digitais.
 
 3 - O incentivo referido no n.º 1 inclui apenas os investimentos que venham a ser realizados após a decisão de aprovação da candidatura.
 

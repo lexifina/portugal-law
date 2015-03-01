@@ -10,7 +10,7 @@ a) Um elemento da CCDR, que preside;
 
 b) Um representante do membro do Governo responsável pela área das finanças;
 
-c) Um representante do GEPAC;
+c) Um representante da Agência, I. P.;
 
 d) Um representante do membro do Governo responsável pela área da comunicação social;
 
