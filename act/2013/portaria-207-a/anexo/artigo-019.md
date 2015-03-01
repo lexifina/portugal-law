@@ -1,3 +1,11 @@
+## Capítulo III
+
+## Atividades de fabrico, adaptação e reparação de veículos automóveis movidos a Gás de Petróleo Liquefeito ou Gás Natural Comprimido e Liquefeito
+
+## Capítulo IV
+
+## Adaptação e reparação de veículos movidos a Gás de Petróleo Liquefeito ou Gás Natural Comprimido e Liquefeito
+
 ## Capítulo V
 
 ## Veículos alimentados a Gás de Petróleo Liquefeito ou Gás Natural Comprimido e Liquefeito aprovados ao abrigo do regime anterior
