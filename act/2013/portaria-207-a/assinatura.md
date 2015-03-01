@@ -1,0 +1,1 @@
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 18 de junho de 2013. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 21 de junho de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 18 de junho de 2013.
