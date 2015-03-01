@@ -12,7 +12,9 @@ c) O registo da prestação de contas, nos termos previstos na legislação do r
 
 d) A prestação de informação de natureza estatística ao Instituto Nacional de Estatística (INE), nos termos previstos na Lei do Sistema Estatístico Nacional e em outras normas, designadamente emanadas de instituições da União Europeia;
 
-e) A prestação de informação relativa a dados contabilísticos anuais para fins estatísticos ao Banco de Portugal, de acordo com o estabelecido na respectiva lei orgânica, incluindo a que decorre da participação do Banco de Portugal no Sistema Europeu de Bancos Centrais.
+e) A prestação de informação relativa a dados contabilísticos anuais para fins estatísticos ao Banco de Portugal, de acordo com o estabelecido na respectiva lei orgânica, incluindo a que decorre da participação do Banco de Portugal no Sistema Europeu de Bancos Centrais;
+
+f) A prestação de informação de natureza estatística à Direção-Geral das Atividades Económicas (DGAE), para os efeitos previstos no regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração, aprovado em anexo ao Decreto-Lei n.º 10/2015, de 16 de janeiro.
 
 2 - Com a entrega da IES, devem ser igualmente apresentadas as seguintes declarações:
 
