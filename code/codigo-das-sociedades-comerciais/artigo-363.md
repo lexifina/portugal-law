@@ -2,7 +2,7 @@
 
 ### (Deliberação de emissão)
 
-1 - Para as obrigações referidas no artigo 361.º, n.º 1, alíneas a) e b), a proposta de deliberação da assembleia geral dos accionistas definirá as seguintes condições:
+1 - Para as obrigações referidas nas alíneas a) e b) do n.º 1 do artigo 360.º, a proposta de deliberação da assembleia geral dos acionistas define as seguintes condições:
 
 a) O quantitativo global da emissão e os motivos que a justificam, o valor nominal das obrigações, o preço por que são emitidas e reembolsadas ou o modo de o determinar;
 

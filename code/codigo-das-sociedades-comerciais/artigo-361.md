@@ -12,6 +12,8 @@ c) Ser determinados por qualquer das formas previstas nas alíneas precedentes, 
 
 d) Ser apurados nos termos das alíneas anteriores, mas com imputação dos lucros a a accionistas e obrigacionistas na proporção do valor nominal dos títulos existentes, corrigindo-se ou não essa proporção com base em coeficiente estipulado na emissão;
 
-e) Ser calculados por qualquer outra forma similar, aprovada pelo Ministro das Finanças, a requerimento da sociedade interessada.
+e) [Revogada].
 
 2 - Registando a sociedade prejuízos ou lucros inferiores ao limite de que dependa a participação estabelecida, os obrigacionistas terão direito apenas ao juro fixo.
+
+3 - Podem ser emitidas obrigações participantes de outras modalidades, nos termos que sejam expressamente indicados nas condições da emissão e nos documentos, registos e inscrições que lhes correspondam, sem prejuízo das regras previstas nos artigos 362.º a 364.º.

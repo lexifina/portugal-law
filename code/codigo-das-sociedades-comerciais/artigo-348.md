@@ -20,6 +20,8 @@ b) O Estado ou entidade pública equiparada detenha a maioria do capital social 
 
 c) As obrigações forem objecto de garantia prestada por instituição de crédito, pelo Estado ou entidade pública equiparada.
 
+d) For disponibilizada aos investidores informação financeira relativa ao emitente, reportada a data não superior a três meses relativamente à emissão, auditada por auditor independente registado na Comissão do Mercado de Valores Mobiliários, e elaborada de acordo com as normas contabilísticas aplicáveis.
+
 3 - Por portaria dos Ministros das Finanças e da Justiça podem ser dispensados, no todo ou em parte, os requisitos previstos no número anterior.
 
 4 - As obrigações não podem ser emitidas antes de o capital estar inteiramente liberado ou de, pelo menos, estarem colocados em mora todos os accionistas que não hajam liberado oportunamente as suas acções.

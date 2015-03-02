@@ -14,7 +14,7 @@ a) Nomeação, remuneração e destituição do representante comum dos obrigaci
 
 b) Modificação das condições dos créditos dos obrigacionistas;
 
-c) Propostas de concordata e de acordo de credores;
+c) Propostas de planos de recuperação de empresas ou de insolvência;
 
 d) Reclamação de créditos dos obrigacionistas em acções executivas, salvo o caso de urgência;
 
@@ -30,6 +30,6 @@ f) Autorização do representante comum para a proposição de acções judiciai
 
 8 - As deliberações tomadas pela assembleia vinculam os obrigacionistas ausentes ou discordantes.
 
-9 - É vedado à assembleia deliberar o aumento de encargos dos obrigacionistas ou quaisquer medidas que impliquem o tratamento desigual destes.
+9 - É vedado à assembleia deliberar o aumento de encargos dos obrigacionistas, salvo se o mesmo for unanimemente aprovado pelos obrigacionistas titulares das obrigações em questão, ou a adoção de medidas que impliquem o tratamento desigual dos obrigacionistas.
 
 10 - O obrigacionista pode fazer-se representar na assembleia por mandatário constituído por simples carta dirigida ao presidente da assembleia.

@@ -2,7 +2,7 @@
 
 ### (Lucros a considerar)
 
-1 - O lucro a considerar para os efeitos previstos nas alíneas a) e b) do n.º 1 do artigo anterior, é o que corresponder aos resultados líquidos do exercício, deduzidos das importâncias a levar à reserva legal ou reservas obrigatórias e não se considerando como custo as amortizações, ajustamentos e provisões efectuados para além dos máximos legalmente admitidos para efeitos do imposto sobre o rendimento de pessoas colectivas.
+1 - Para as obrigações referidas nas alíneas a) e b) do n.º 1 do artigo 360.º, o lucro a considerar é o que corresponder aos resultados líquidos do exercício, deduzidos das importâncias a levar à reserva legal ou reservas obrigatórias e não se considerando como custo as amortizações, ajustamentos e provisões efetuados para além dos máximos legalmente admitidos para efeitos do imposto sobre o rendimento de pessoas coletivas.
 
 2 - O apuramento feito pela sociedade do lucro que deve servir de base à determinação das importâncias destinadas aos obrigacionistas, e bem assim o cálculo dessas importâncias, serão obrigatoriamente submetidos, conjuntamente com o relatório e contas de cada exercício, ao parecer de revisor oficial de contas.
 
