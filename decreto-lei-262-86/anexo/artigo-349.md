@@ -2,13 +2,27 @@
 
 ### (Limite de emissão de obrigações)
 
-1 - As sociedades anónimas não podem emitir obrigações em montante que exceda o dobro dos seus capitais próprios, considerando a soma do preço de subscrição de todas as obrigações emitidas e não amortizadas.
+1 - A emissão de obrigações por sociedades anónimas depende de a sociedade emitente apresentar, após a emissão, um rácio de autonomia financeira igual ou superior a 35 %, calculado a partir do balanço da sociedade, através da seguinte fórmula:
 
-2 - Para efeitos do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as acções próprias, com as reservas, os resultados transitados e os ajustamentos de partes de capital em sociedades coligadas.
+Autonomia financeira = CP/AL x 100
 
-3 - O cumprimento do limite de emissão deve ser verificado através de parecer do conselho fiscal, do fiscal único, da comissão de auditoria ou do conselho geral e de supervisão.
+Em que:
 
-4 - O limite fixado nos números anteriores não se aplica:
+- Capitais próprios (CP), corresponde ao somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros;
+
+- Ativos líquidos (AL), corresponde aos ativos reconhecidos de acordo com o normativo contabilístico aplicável.
+
+2 - O balanço utilizado para o cálculo referido no número anterior deve ser um dos seguintes e, existindo mais do que um, deve ser o mais recente:
+
+a) O balanço do último exercício, desde que tenha sido encerrado nos seis meses anteriores à data da emissão de obrigações;
+
+b) Às sociedades que apresentem notação de risco da emissão ou do programa da emissão ou da sociedade, neste caso para uma espécie de crédito que inclua as obrigações a emitir, atribuída por sociedade de notação de risco registada na Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA) ou reconhecida como Agência de Notação Externa pelo Banco de Portugal;
+
+c) O balanço do primeiro semestre do exercício em curso à data da emissão de obrigações, caso a sociedade esteja obrigada a divulgar contas semestrais nos termos do n.º 1 do artigo 246.º do Código dos Valores Mobiliários.
+
+3 - O cumprimento do requisito previsto no n.º 1 deve ser verificado através de parecer do conselho fiscal, do fiscal único, ou revisor oficial de contas.
+
+4 - O requisito fixado no n.º 1 não se aplica:
 
 a) A sociedades emitentes de acções admitidas à negociação em mercado regulamentado;
 
@@ -16,6 +30,10 @@ b) A sociedades que apresentem notação de risco da emissão atribuída por soc
 
 c) Às emissões cujo reembolso seja assegurado por garantias especiais constituídas a favor dos obrigacionistas.
 
-5 - Salvo por motivo de perdas, a sociedade devedora de obrigações não pode reduzir o seu capital a montante inferior ao da sua dívida para com os obrigacionistas, embora a emissão tenha beneficiado da ampliação, nos termos do n.º 4 deste artigo ou de lei especial.
+d) Às emissões cujo valor nominal unitário seja igual ou superior a euros 100 000,00, ou o seu contravalor em euros, ou cuja subscrição seja efetuada exclusivamente em lotes mínimos de valor igual ou superior a euros 100 000,00, ou o seu contravalor em euros;
 
-6 - Reduzido o capital por motivo de perdas a montante inferior ao da dívida da sociedade para os obrigacionistas, todos os lucros distribuíveis serão aplicados a reforço da reserva legal até que a soma desta com o novo capital iguale o montante da referida dívida ou, tendo havido a ampliação prevista no n.º 3 deste artigo ou em lei especial, seja atingida a proporção de início estabelecida entre o capital e o montante das obrigações emitidas.
+e) Às emissões que sejam integralmente subscritas por investidores qualificados, na aceção do Código dos Valores Mobiliários, e desde que as obrigações emitidas não sejam subsequentemente colocadas, direta ou indiretamente, junto de investidores não qualificados.
+
+5 - [Revogado].
+
+6 - [Revogado].
