@@ -6,7 +6,11 @@
 
 2 - Concluindo-se as negociações com a aprovação de plano de recuperação conducente à revitalização do devedor, sem observância do disposto no número anterior, o devedor remete o plano de recuperação aprovado ao tribunal.
 
-3 - Considera-se aprovado o plano de recuperação que reúna a maioria dos votos prevista no n.º 1 do artigo 212.º, sendo o quórum deliberativo calculado com base nos créditos relacionados contidos na lista de créditos a que se referem os n.os 3 e 4 do artigo 17.º-D, podendo o juiz computar os créditos que tenham sido impugnados se considerar que há probabilidade séria de tais créditos deverem ser reconhecidos, caso a questão ainda não se encontre decidida.
+3 - Sem prejuízo de o juiz poder computar no cálculo das maiorias os créditos que tenham sido impugnados se entender que há probabilidade séria de estes serem reconhecidos, considera-se aprovado o plano de recuperação que:
+
+a) Sendo votado por credores cujos créditos representem, pelo menos, um terço do total dos créditos relacionados com direito de voto, contidos na lista de créditos a que se referem os n.os 3 e 4 do artigo 17.º-D, recolha o voto favorável de mais de dois terços da totalidade dos votos emitidos e mais de metade dos votos emitidos corresponda a créditos não subordinados, não se considerando como tal as abstenções; ou
+
+b) Recolha o voto favorável de credores cujos créditos representem mais de metade da totalidade dos créditos relacionados com direito de voto, calculados de harmonia com o disposto na alínea anterior, e mais de metade destes votos corresponda a créditos não subordinados, não se considerando como tal as abstenções.
 
 4 - A votação efetua-se por escrito, aplicando-se-lhe o disposto no artigo 211.º com as necessárias adaptações e sendo os votos remetidos ao administrador judicial provisório, que os abre em conjunto com o devedor e elabora um documento com o resultado da votação.
 
