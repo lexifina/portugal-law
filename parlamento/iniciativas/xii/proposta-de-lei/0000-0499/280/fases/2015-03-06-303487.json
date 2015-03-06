@@ -1,0 +1,178 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "280",
+    "id": "39061",
+    "titulo": "Procede à sexta alteração à Lei n.º 37/81, de 3 de outubro (Lei da Nacionalidade), fixando novos fundamentos para a concessão da nacionalidade por naturalização e para oposição à aquisição da nacionalidade portuguesa"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-03-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35198",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-03-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-03-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-04-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração (PS) ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e5755355932566b4d5330325a5749794c5451305a6a51744f4755325a69316d4e4451314d6a686c4e7a6b79596d4d7555455247&fich=65e9ced1-6eb2-44f4-8e6f-f44528e792bc.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-13",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração (PS) [Substituída]",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d59546779595759774e7931695a5745794c54526c5a5463744f5463354e53316c4d7a4a684d47466a4d444a6c4f4455756347526d&fich=fa82af07-bea2-4ee7-9795-e32a0ac02e85.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-27",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração (PSD/CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d6d4d30595467314e4330794e7a4a6b4c54526b4e3255744f47457a5a5331685a6d4d34597a457a5a444179595463756347526d&fich=32c4a854-272d-4d7e-8a3e-afc8c13d02a7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração (PSD/CDS-PP) [Substituída]",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304f474d784d7a6b785a4330774f57526d4c5451794e7a45744f574d355969316c4e446b35596d59304d5449784d54497555455247&fich=48c1391d-09df-4271-9c9b-e499bf412112.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-29",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387959546735597a6b794e79316a597a59784c54526b4e4449744f574a6d4f5330774d7a4532596d4e684d6d45795a6d45756347526d&fich=2a89c927-cc61-4d42-9bf9-0316bca2a2fa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-29",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final indiciário e relatório da discussão e votação na especialidade indiciárias na CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e47526c596d5268596930345a4449304c5451354e6d5574596a67314d6931685a6d56695a6a6b795932466a4e4459756347526d&fich=04debdab-8d24-496e-b852-afebf92cac46.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo  PS e CDS-PP",
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-29",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/119/2015-04-29/4?pgs=4-18&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo  PS e CDS-PP",
+            "pag": [
+              "4-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-29",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/119/2015-04-29/4?pgs=4-18&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-04-29",
+            "numeroOficio": "504/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-04-29",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69338",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "307",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-03-06",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "303487",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
