@@ -1,0 +1,175 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "796",
+    "id": "39078",
+    "titulo": "Oitava alteração à Lei n.º 25/2006, de 30 de junho, que aprova o regime sancionatório aplicável às transgressões ocorridas em matéria de infraestruturas rodoviárias onde seja devido o pagamento de taxas de portagem"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-03-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35208",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-03-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-03-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-04-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo APCAP - Associação Portuguesa das Sociedades Concessionárias de Auto-Estradas ou Pontes com Portagens",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5751784f445933597a55745a5759784d5330304f4467784c546b774e6a55744d7a4d354d44526c59545177597a55784c6e426b5a673d3d&fich=9d1867c5-ef11-4881-9065-33904ea40c51.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo APDC - Associação Portuguesa de Direito do Consumo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765954426d4e575130595445744f445a6b4d7930304f474e6b4c5468695a4455744d4468694e546779597a4a684e5463304c6e426b5a673d3d&fich=a0f5d4a1-86d3-48cd-8bd5-08b582c2a574.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo EP - Estradas de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d4d305a546b7a597a67745a57597a59693030595451334c5467344e325974596a51305a574d304d44466a5a44686c4c6e426b5a673d3d&fich=fc4e93c8-ef3b-4a47-887f-b44ec401cd8e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer DECO - Associação Portuguesa para a Defesa do Consumidor",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e446c694e544e694e546b745a6a526b4f5330304e6a466b4c5745784d6a49744f575130596d45774e6d4e6d596d4a694c6e426b5a673d3d&fich=49b53b59-f4d9-461d-a122-9d4ba06cfbbb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer STI - Sindicato dos Trabalhadores dos Impostos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659544d315a444a6d596d45744f5467324f4330304f5441774c57466c595459744f4746694d5467344d546b334e6d526c4c6e426b5a673d3d&fich=a35d2fba-9868-4900-aea6-8ab1881976de.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração ao PJL 771/XII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f57497a4f4752685a6a45744f474931595330304e6a67784c5749354d324d744d6d59774e7a45344e6a59314f5455334c6e426b5a673d3d&fich=9b38daf1-8b5a-4681-b93c-2f0718665957.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração ao PJL 796/XII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765954566a4d5467314d6a51744e3251304d693030597a63354c57497a5a6a417459544d354e4459324d5467345a4451314c6e426b5a673d3d&fich=a5c18524-7d42-4c79-b3f0-a39466188d45.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Votações na Especialidade - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595459305954566d4d7a67744d6d59344d6930304d7a67334c546c69597a55744d6d5933595745304e4459784f54686d4c6e426b5a673d3d&fich=a64a5f38-2f82-4387-9bc5-2f7aa446198f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e47466a4e47597a4f4751744e544e6b4f4330304f546b354c546731595445744e3245325a6d526c4e6a6b31596a67314c6e426b5a673d3d&fich=4ac4f38d-53d8-4999-85a1-7a6fde695b85.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-22",
+            "pubLeg": "XII",
+            "pubNr": "116",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/116/2015-04-22/3?pgs=3-29&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-22",
+            "pubLeg": "XII",
+            "pubNr": "116",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/116/2015-04-22/3?pgs=3-29&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-03-06",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "303507",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
