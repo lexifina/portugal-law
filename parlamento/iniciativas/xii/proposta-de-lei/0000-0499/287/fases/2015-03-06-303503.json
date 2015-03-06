@@ -1,0 +1,245 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "287",
+    "id": "39071",
+    "titulo": "Aprova o Regime Jurídico do Serviço Público de Transporte de Passageiros"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2015-03-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "35206",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-03-31",
+            "id": "99840",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-03-31",
+            "id": "99839",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-03-31",
+            "id": "99838",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-03-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-03-06",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-03-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo ANTROP - Associação Nacional de Transportadores Rodoviários de Pesados de Passageiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e474d334e57566d5a4451744e574e6a595330304e6a41354c5745334e7a51744f5455784e544d304e4759304f57566a4c6e426b5a673d3d&fich=4c75efd4-5cca-4609-a774-9515344f49ec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Conttributo AMTL - Autoridade Metropolitana de Transportes de Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a41314f5455794f4749745a444e684e4330304f474e6a4c5746695a6a67745a544533596a63785a4463325a54677a4c6e426b5a673d3d&fich=3059528b-d3a4-48cc-abf8-e17b71d76e83.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "NOVO Relatório de Votações Indiciárias - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d32497a4f5455314f444574595751314d4330304d6a6b7a4c546c6d4f5467744e544e6b4d5745774d7a59304d546b334c6c424552673d3d&fich=3b395581-ad50-4293-9f98-53d1a0364197.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "NOVO Texto Final - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5451324e4755355a4751744e32557a597930304f4459324c5745344d4445744f4449784d5455775a6d45354e4456694c6c424552673d3d&fich=e464e9dd-7e3c-4866-a801-821150fa945b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-09",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Oficio Prorrogação de Prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4441324f474e694d324974595463344d433030596a557a4c574a6d5a4449745a544d334e6a6c695a544d354d7a51314c6e426b5a673d3d&fich=4068cb3b-a780-4b53-bfd2-e3769be39345.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANTRAL - Associação Nacional dos Trabalhadores Rodoviários em Automóveis Ligeiros ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a497a5a54566d5a4745745a5456695a5330304d4445794c5468685a6d59745a474e6959575a6c4d6a526b4e546b324c6e426b5a673d3d&fich=723e5fda-e5be-4012-8aff-dcbafe24d596.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Trabalhadores da Soflusa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f544d334d6d4a6a4e6a4d744f4446694e4330304e54526b4c546b794e444d745a6d45354e6a4579597a49355957526c4c6e426b5a673d3d&fich=9372bc63-81b4-454d-9243-fa9612c29ade.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Trabalhadores CP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a4e6a4d575935593251744e7a55774e5330304d544d314c5749784e5441744e54646d4e6a466b4d446c6859545a6d4c6e426b5a673d3d&fich=b3c1f9cd-7505-4135-b150-57f61d09aa6f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765954557a4f4459304d7a41744e574e6a5a5330304d6a5a694c574934597a59744e3255344d32566b4d6d5a6b59546c6b4c6e426b5a673d3d&fich=a5386430-5cce-426b-b8c6-7e83ed2fda9d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer AML - Área Metropolitana de Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544135596d4578597a59744f474d794e4330304e6d59794c5467795a446b744d3259305a4749324e444d315a47566c4c6c424552673d3d&fich=109ba1c6-8c24-46f2-82d9-3f4db6435dee.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer AMP - Área Metropolitana do Porto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765932466b4d575a685a574d744f5455334e5330305a6d59344c546b33596d45744e5463354e3252694d7a46694e7a63344c6e426b5a673d3d&fich=cad1faec-9575-4ff8-97ba-5797db31b778.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer ANMP - Associação Nacional de Municipios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a55785a574a69596a55744d7a63314e5330305a6a6b784c5745315a6a67744d324a6d596a5179596d5a6a5a544a6c4c6e426b5a673d3d&fich=f51ebbb5-3755-4f91-a5f8-3bfb42bfce2e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CIM-TTM Comunidade Intermunicipal das Terras de Trás-os-Montes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a546b314d7a566b4d7a45744f54457a59793030595445354c574a694d5749744f57566d5a474e6a5a54426b4e324a694c6e426b5a673d3d&fich=e9535d31-913c-4a19-bb1b-9efdcce0d7bb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer Comunidade Intermunicipal da Região de Aveiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f475a6d597a67794e5745744f47526d4e6930305a6d55304c57453359575174595755334e6d49794e7a6c694f5463344c6e426b5a673d3d&fich=8ffc825a-8df6-4fe4-a7ad-ae76b279b978.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer FECTRANS - Federação dos Sindicatos dos Transportes e Comunicações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a5a6a4f5463795a575974597a46684e4330304d446b324c5745774d7a6b744d4445794f4441784e44566d5a5446684c6e426b5a673d3d&fich=b6c972ef-c1a4-4096-a039-01280145fe1a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer IMT - Instituto de Mobilidade e Transporte",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a6c6d5a47466a4d4463744d6d46695a6930304d324a6c4c5468685a5459745954417a4d6a566c4e7a4d335a6a6b354c6e426b5a673d3d&fich=29fdac07-2abf-43be-8ae6-a0325e737f99.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer MUSP - Movimento de Utentes dos Servioços Públicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5441784e32566a4e6d51744d324933596930305a446c684c57466d5a5455744d7a5a685a5467304f544a695a574a6c4c6e426b5a673d3d&fich=1017ec6d-3b7b-4d9a-afe5-36ae8492bebe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a426a593259354e6a55744e5752695a4330305a5745784c5745305a5749744e7a55794d6a56695a44646b5a5745344c6e426b5a673d3d&fich=70ccf965-5dbd-4ea1-a4eb-75225bd7dea8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer STFCMM - Sindicato dos Transportes Fluviais, Costeiros e da Marinha Mercante  ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5751795a54526d4d6d5174597a63784f5330305a47466a4c546b78596d45744f544e6c4f574e684e4467325a6d4e694c6e426b5a673d3d&fich=9d2e4f2d-c719-4dac-91ba-93e9ca486fcb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer STRUP - SINDICATO DOS TRABALHADORES DOS TRANSPORTES RODOVIARIOS E URBANOS DE PORTUGAL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5467794d6d4e6c4e6a51744f575a6c4f4330304d4745324c546b7a4d5463745954457a4d3251354d324d794e5445334c6e426b5a673d3d&fich=9822ce64-9fe8-40a6-9317-a133d93c2517.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a4a6a5a574d774e5751744d5759344e6930305a5463354c5749304d6a45744d4446684f57597a4d6a51335a4749784c6e426b5a673d3d&fich=22cec05d-1f86-4e79-b421-01a9f3247db1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração (PSD + CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57566d4d6a49324e4467744d6d45344d7930305a6d466c4c546b34595759744e444e6c4e5463774f446c6c4e6d557a4c6e426b5a673d3d&fich=5ef22648-2a83-4fae-98af-43e57089e6e3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração (PSD + CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5746684e4463325a5451744d6a55325a5330304f4459794c546b794e6d59744e44466d596a45794d5463774d6a63324c6c424552673d3d&fich=5aa476e4-256e-4862-926f-41fb12170276.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-10",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações Indiciárias - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a55345a546b345a5759745a6a593259693030593245314c574a6b4e324d744e474d354d7a68684d574531596d45774c6e426b5a673d3d&fich=658e98ef-f66b-4ca5-bd7c-4c938a1a5ba0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-14",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final - 6ª CEOP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a5a44525539514c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a41335a546c6c4d574d744f474a6d4f4330304e5449354c5745794f4749744f57466c59546b785a4759784d6a49324c6e426b5a673d3d&fich=c07e9e1c-8bf8-4529-a28b-9aea91df1226.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3515",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia e Obras Públicas",
+        "Numero": "3515",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-03-06",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "303503",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
