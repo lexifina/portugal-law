@@ -1,0 +1,11 @@
+Aviso n.º 2539/2015
+Dr. Fernando Manuel Tinta Ferreira, presidente da Câmara Municipal de Caldas da Rainha.
+Torna público que, de harmonia com o disposto no artigo 56.º do Regime Jurídico das Autarquias Locais aprovado pela Lei n.º 75/2013 de 12/09, que a câmara em sua reunião ordinária pública de 23/02/2015, tomou a seguinte deliberação:
+1 - Aprovar a proposta de Plano de Urbanização de Salir do Porto;
+2 - Abrir um período de discussão pública, para recolha de exposições, observações ou sugestões, nos termos do n.º 4 do artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua atual redação, pelo prazo de 22 dias, que terá início 5 dias após a publicação do aviso no Diário da República;
+3 - Suspender os procedimentos de informação prévia, licenciamento ou comunicação prévia, nas áreas a abranger por novas regras urbanísticas constantes do plano em título, a partir da data de início do período de discussão pública e até à data de entrada em vigor do plano, por força do n.º 1 do artigo 117.º do Decreto-Lei n.º 380/99, de 22/09, na sua atual redação;
+4 - Excecionar, ao referido no ponto 3, os pedidos instruídos com informação prévia favorável e vinculativa (1 ano) por força do n.º 4 do artigo 17.º do Regime Jurídico de Urbanização e Edificação (RJUE), e os pedidos referentes a obras de urbanização ou obras de alteração, nos termos do n.º 4 do artigo 117.º do Decreto-Lei n.º 380/99, de 22/09, na sua atual redação;
+5 - Deliberar que na área a abranger pelas novas regras urbanísticas, a suspensão apenas afeta os procedimentos de informação prévia, de licenciamento ou comunicação prévia cujos pedidos teriam, ao abrigo das novas regras urbanísticas, uma decisão diferente daquela que se impõe face às regras urbanísticas em vigor.
+Os interessados poderão consultar a referida deliberação, a ata da conferência de serviços e demais pareceres, os documentos da proposta de plano e obter o formulário de apresentação de exposições, observações, sugestões ou pedidos de esclarecimentos no sítio da Câmara Municipal de Caldas da Rainha (www.cm-caldas-rainha.pt) e na Divisão de Gestão Urbanística e Planeamento no edifício dos Paços do Concelho.
+2 de março de 2015. - O Presidente da Câmara, Dr. Fernando Manuel Tinta Ferreira.
+208478169
