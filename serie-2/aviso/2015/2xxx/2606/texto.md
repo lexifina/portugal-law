@@ -1,0 +1,8 @@
+Aviso n.º 2606/2015
+Divisão de Planeamento, Ordenamento e Estratégia Territorial
+Alteração ao Plano de Pormenor de Santo Agostinho
+Raul Castro, na qualidade de Presidente da Câmara Municipal de Leiria, torna público, nos termos e para os efeitos do disposto nos n.os 3 e 4, do artigo 77.º, do Regime Jurídico dos Instrumentos de Gestão Territorial, republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, com as alterações introduzidas pelo Decreto-Lei n.º 181/2009, de 7 de agosto e pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, que a Câmara Municipal de Leiria deliberou em reunião de 03 de março de 2015, proceder à abertura do período de discussão pública da proposta de Alteração ao Plano de Pormenor de Santo Agostinho, com a duração de 22 dias úteis, a contar do 5.º dia útil a seguir à data de publicação do presente aviso no Diário da República.
+Durante o referido período, a proposta de alteração do Plano de Pormenor de Santo Agostinho, a deliberação e justificação relativa à não sujeição a Avaliação Ambiental, a ata da Conferência de Serviços, e os demais pareceres emitidos, estarão disponíveis para consulta dos interessados nos seguintes locais: Divisão de Planeamento, Ordenamento e Estratégia Territorial da Câmara Municipal Leiria, localizada no Largo da República; e sítio da Internet da Câmara Municipal de Leiria. (www.cm-leiria.pt).
+Os interessados podem apresentar as suas reclamações, observações ou sugestões devidamente identificadas, por correio registado para a morada - Largo da República 2414-006 Leiria, ou por correio eletrónico para o endereço cmleiria@cm-leiria.pt.
+3 de março de 2015. - O Presidente da Câmara Municipal, Raul Castro.
+208482461
