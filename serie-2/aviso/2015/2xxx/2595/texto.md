@@ -1,0 +1,7 @@
+Aviso n.º 2595/2015
+Torna-se público, nos termos e para os efeitos previstos no n.º 1, artigo 74.º do Decreto-Lei n.º 380/99 de 22 de setembro, alterado e republicado pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, que a Câmara Municipal em sua reunião de 03/03/2015 deliberou determinar a elaboração da 1.ª Alteração ao Plano Diretor Municipal de Arouca, com prazo de elaboração de 30 dias.
+Nos termos do previsto no n.º 2 do artigo 77.º do mesmo diploma é fixado um prazo de 15 dias a contar da publicação do presente aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+Até ao fim do prazo estará disponível para consulta o documento de «Fundamentação da Oportunidade de Alteração» que justifica a decisão de elaboração da referida alteração, bem como a não sujeição da mesma a avaliação ambiental estratégica, no edifício dos Paços do Concelho, Divisão de Planeamento e Obras, ou em www.cm-arouca.pt.
+A formulação de sugestões e a apresentação de informações deverão ser feitas por escrito em impresso próprio dirigido ao Presidente da Câmara Municipal de Arouca. O impresso pode ser obtido na Divisão de Planeamento e Obras ou no endereço eletrónico do município e deverá ser entregue por mão própria ou por correio.
+04 de março de 2015. - O Presidente da Câmara, José Artur Tavares Neves.
+208473405
