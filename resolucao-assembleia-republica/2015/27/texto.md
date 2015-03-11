@@ -1,0 +1,9 @@
+Resolução da Assembleia da República n.º 27/2015
+Recomenda ao Governo medidas de apoio ao setor da pesca da sardinha
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Procure garantir apoio a armadores e pescadores em períodos de cessação temporária das atividades de pesca da sardinha promovendo o debate junto da Comissão Europeia sobre a elegibilidade destas despesas, conjugando o espírito e a letra do estabelecido no artigo 33.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), e o disposto no artigo 13.º do Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro, relativo à Política Comum de Pescas (PCP).
+2 - Reforce as ações de controlo e vigilância costeira de forma a aumentar a eficácia do combate a práticas ilegais de pesca destrutiva de sardinha, particularmente em períodos e áreas específicas de operação da frota do cerco de Espanha e Portugal.
+3 - Promova formas de melhorar o diálogo e o espírito de parceria entre a comunidade científica, as organizações de produtores e os pescadores individualmente, de modo a facilitar a partilha de informação e a incrementar a transferência de conhecimento, reforçando assim a cooperação e a confiança entre estes atores.
+4 - Sensibilize e apoie a comunidade científica no incremento de projetos de investigação específicos sobre ciclo de vida, formas de reprodução e migrações da sardinha e promova a instituição de um prémio nacional para distinguir os melhores trabalhos científicos sobre esta matéria que venham a ser produzidos por investigadores portugueses.
+Aprovada em 27 de fevereiro de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
