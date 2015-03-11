@@ -1,0 +1,277 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "809",
+    "id": "39113",
+    "titulo": "Consagra o princípio da Transparência Ativa em toda a Administração Pública"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-03-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "35243",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-03-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-03-11",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Ofício - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a57566b4d4467775a69316b4d324d794c54526a5a6a49744f4441354e5330314d5449775a4749784e44526a4f444d756347526d&fich=beed080f-d3c2-4cf2-8095-5120db144c83.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d574e695a6d49325a6930304f4452694c5452684e4759744f545531596930784f44517a5a6a466b4e445a6b4f5467756347526d&fich=c1cbfb6f-484b-4a4f-955b-1843f1d46d98.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - CNPD - Comissão Nacional de Proteção de Dados ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e5468695a5756694e69316b4d4455314c54526a4d325174596d59304e53316b596a686c5a6d4e6a4e57457a593245756347526d&fich=b58beeb6-d055-4c3d-bf45-db8efcc5a3ca.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Acesso aos Documentos Administrativos (CADA)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832597a517a5a5445315a6930314d7a4a684c5451784f474574596a49334d5330784d32566a4d474d35597a55314e7a51756347526d&fich=6c43e15f-532a-418a-b271-13ec0c9c5574.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Parlamentar de Orçamento, Finanças e Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f4467304d7a646d4e5330784e4441344c54526a4e6d59744f4451335a693033593251305a6a49794f545a6c4d7a4d756347526d&fich=f88437f5-1408-4c6f-847f-7cd4f2296e33.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho de Prevenção da Corrupção",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334f44513059574e6a4e43316d4d5745344c54526a596a67744f4449344d4330314d57526d4e6d56694d4749334e4755756347526d&fich=7844acc4-f1a8-4cb8-8280-51df6eb0b74e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d7a4e6a4d445a6c4e4330355a446b324c545133596d4d744f54566859533032595455784e446c694d44497a4f4459756347526d&fich=c33c06e4-9d96-47bc-95aa-6a5149b02386.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f5756685a4455355a6930304d6a566a4c54526a4e6a5574596a6b314d6930304d6a45335a6a6b7a5a57566c59324d756347526d&fich=59ead59f-425c-4c65-b952-4217f93eeecc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a6a4e6c59575a6d4d4331684e446b7a4c5451334e6d45745957497a4e69316c4f4749354e4756684e6a46684e4459756347526d&fich=ff3eaff0-a493-476a-ab36-e8b94ea61a46.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d5455354d4467784e53316d4e4459324c5451304e7a4d745954597a4e6930314f546b324e474d7a4d7a6731596a63756347526d&fich=71590815-f466-4473-a636-59964c3385b7.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-04-24"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-04-08"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2015-04-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2015-05-07"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos em 2015-05-07"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2015-03-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2015-04-02"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2015-04-14"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2015-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2015-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Acesso aos Documentos Administrativos em 2015-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2015-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2015-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2015-03-19"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "12-27"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-02",
+            "pubLeg": "XII",
+            "pubNr": "106",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/106/2015-04-02/12?pgs=12-27&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "12-27"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-02",
+            "pubLeg": "XII",
+            "pubNr": "106",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/106/2015-04-02/12?pgs=12-27&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-04-01",
+            "dataRemessa": "2015-04-01",
+            "numeroOficio": "397/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-04-01",
+            "descricao": null,
+            "detalhe": null,
+            "id": "68985",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "298",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-03-11",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Em conexão com a 5.ª Comissão",
+    "OevId": "303576",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
