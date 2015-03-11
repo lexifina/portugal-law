@@ -10,4 +10,4 @@ b) O modelo de declaração da qual consta o valor do RABC, no âmbito da atuali
 
 2 - A presente portaria estabelece ainda os procedimentos relativos à entrega do pedido e à emissão da declaração referidos no número anterior.
 
-3 - A presente portaria define, ainda, os meios admissíveis para a prova de que o arrendatário é uma microentidade, no âmbito da atualização da renda ao abrigo do regime constante dos artigos 50.º a 54.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto.
+3 - A presente portaria define, ainda, os meios admissíveis para a prova de que o arrendatário é uma microempresa, no âmbito da atualização da renda ao abrigo do regime constante dos artigos 50.º a 54.º da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 79/2014, de 19 de dezembro.
