@@ -1,0 +1,5 @@
+Aviso n.º 2764/2015
+Regulamento Municipal do Fundo de Emergência Social
+Paulo Jorge Frazão Batista dos Santos, Presidente da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto nos n.os 1 e 2 do citado artigo, não tendo sido registadas quaisquer reclamações/sugestões ao projeto de Regulamento Municipal do Fundo de Emergência Social, publicado no Diário da República, 2.ª série, n.º 199, de 15/10/2014 (Aviso n.º 11462/2014). O Regulamento ora mencionado foi aprovado definitivamente pelo Executivo na sua reunião ordinária de 09/12/2014, conforme deliberação n.º 2014/0628/D.A.G. (G.D.SOCIAL) e pela Assembleia Municipal realizada em 27/02/2015 (ponto 2), podendo o documento em causa ser consultado no portal do Município http://www.cm-batalha.pt/docs/documents/legislacao/reg_fun_emer.pdf.
+04 de março de 2015. - O Presidente da Câmara Municipal da Batalha, Paulo Jorge Frazão Batista dos Santos.
+308484843
