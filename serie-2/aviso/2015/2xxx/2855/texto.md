@@ -1,0 +1,5 @@
+Aviso n.º 2855/2015
+Regulamento de Utilização de Zonas de Estacionamento de Duração Limitada Controladas por Meios Mecânicos (Parcómetros)
+Paulo Jorge Frazão Batista dos Santos, Presidente da Câmara Municipal de Batalha, torna público, para efeitos do disposto no n.º 3 do artigo 118.º do Código do Procedimento Administrativo (CPA), que foi dado cumprimento do disposto no n.os 1 e 2 do citado artigo, não tendo sido registadas quaisquer reclamações/sugestões ao projeto de Regulamento de Utilização de Zonas de Estacionamento de Duração Limitada Controladas por Meios Mecânicos (Parcómetros), publicado no Diário da República 2.ª série n.º 243 de 17/12/2014 (Aviso n.º 14122/2014). O Regulamento ora mencionado foi aprovado definitivamente pelo Executivo na sua reunião ordinária de 02/025/2015, conforme deliberação n.º 2015/0049/D.A.G. (SOC) e pela Assembleia Municipal realizada em 27/02/2015 (ponto 3), podendo o documento em causa ser consultado no portal do Município http://www.cm-batalha.pt/docs/documents/projeto_reg_parcometros.pdf.
+04 de março de 2015. - O Presidente Câmara Municipal da Batalha, Paulo Jorge Frazão Batista dos Santos.
+308492562
