@@ -1,0 +1,6 @@
+Aviso n.º 2874/2015
+António José Martins Coutinho, Presidente da Câmara Municipal de Sever do Vouga, torna público, nos termos das alíneas b) e t) do n.º 1, do artigo 35.º, do anexo I da Lei n.º 75/2013, de 12 de setembro, que foi aprovado, na reunião ordinária de 11 fevereiro deste ano, o "projeto de regulamento do sistema da indústria responsável".
+Assim, nos termos do n.º 1, do artigo 56.º do citado anexo e do artigo 118.º do Decreto-Lei n.º 442/91, de 15 de novembro, com as alterações do Decreto-Lei n.º 6/96, de 31 de janeiro, submete-se a apreciação pública, por um período de 30 dias seguidos, a contar da publicação deste aviso no Diário da República, 2.ª série, podendo os interessados consultar o processo no Balcão de Atendimento ou Gabinete Administrativo ou na página eletrónica do Município de Sever do Vouga (http://www.cm-sever.pt) para formularem as sugestões e observações que entenderem convenientes, através de requerimento escrito dirigido ao senhor Presidente da Câmara ou por correio eletrónico para o endereço: cm.sever@cm-sever.pt
+E, para constar e demais efeitos se publicam este aviso e outros de igual teor, que vão ser afixados nos locais habituais, num jornal local e na página do Município de Sever do Vouga.
+23 de fevereiro de 2015. - O Presidente da Câmara, António José Martins Coutinho, Dr.
+308455967
