@@ -1,0 +1,32 @@
+Lei n.º 23/2015
+de 17 de março
+Sétima alteração ao Decreto-Lei n.º 96/89, de 28 de março, regulando a proteção social dos tripulantes dos navios registados no Registo Internacional da Madeira
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Objeto
+A presente lei procede à sétima alteração ao Decreto-Lei n.º 96/89, de 28 de março, regulando a proteção social dos tripulantes dos navios registados no Registo Internacional da Madeira.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 96/89, de 28 de março
+O artigo 25.º do Decreto-Lei n.º 96/89, de 28 de março, alterado pelos Decretos-Leis n.os 393/93, de 23 de novembro, 5/97, de 9 de janeiro, 31/97, de 28 de janeiro, e 331/99, de 20 de agosto, pela Lei n.º 248/2002, de 8 de novembro, e pelo Decreto-Lei n.º 321/2003, de 23 de dezembro, passa a ter a seguinte redação:
+«Artigo 25.º
+1 - Os tripulantes devem estar abrangidos por um regime de proteção social que cubra obrigatoriamente as eventualidades de doença, doença profissional e parentalidade.
+2 - A cobertura das eventualidades referidas no número anterior pode ser feita por qualquer regime de proteção social, salvo no caso de tripulantes nacionais ou residentes em território nacional cuja cobertura é obrigatoriamente efetuada pela inscrição no regime geral de segurança social dos trabalhadores por conta de outrem.
+3 - No caso de inscrição no regime geral de segurança social dos trabalhadores por conta de outrem, a taxa contributiva é de 2,7 %, cabendo 2,0 % à entidade empregadora e 0,7 % ao trabalhador.
+4 - Os tripulantes podem ainda inscrever-se no regime de seguro social voluntário para proteção nas eventualidades de invalidez, velhice e morte.»
+Artigo 3.º
+Regime da transição
+1 - Os tripulantes que, à data da entrada em vigor da presente lei se encontrem abrangidos pelo regime de seguro social voluntário ao abrigo do n.º 1 do artigo 170.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, mantêm-se neste regime apenas para proteção nas eventualidades de invalidez, velhice e morte.
+2 - A alteração do âmbito de proteção social dos trabalhadores prevista no número anterior é efetuada oficiosamente pelos serviços competentes da segurança social à medida que se verifique o seu enquadramento no regime geral dos trabalhadores por conta de outrem.
+Artigo 4.º
+Disposição complementar
+Sem prejuízo do disposto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, e respetivo regulamento no que respeita à obrigação de comunicação da admissão de trabalhadores, a inscrição no regime geral das entidades empregadoras e dos trabalhadores que já se encontrem ao seu serviço deve ser realizada no prazo de 30 dias após a data de entrada em vigor da presente lei.
+Artigo 5.º
+Norma revogatória
+É revogada a alínea c) do n.º 1 do artigo 170.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro.
+Aprovada em 13 de fevereiro de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
+Promulgada em 10 de março de 2015.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendada em 11 de março de 2015.
+O Primeiro-Ministro, Pedro Passos Coelho.
