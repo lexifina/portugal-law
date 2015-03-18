@@ -14,7 +14,7 @@
 
 6 - Caso a vistoria inicial não seja convocada no prazo de 40 dias após a receção do pedido de licenciamento, ou não haja decisão relativa ao projeto no prazo referido no n.º 1, o requerente pode recorrer aos tribunais administrativos a fim de obter a condenação da entidade licenciadora à prática de ato devido.
 
-7 - Os projectistas, empreiteiros e responsáveis pela execução dos projectos devem comprovar a existência de seguro de responsabilidade civil que cubra os riscos da respectiva actividade, em montante a definir pela entidade licenciadora.
+7 - (Revogado.)
 
 8 - No caso de não execução da obra no prazo fixado nos termos do n.º 2, a decisão de aprovação do projeto caduca, sem prejuízo de eventual prorrogação do referido prazo pela entidade licenciadora, na sequência de pedido fundamentado apresentado antes do respetivo termo pelo interessado.
 
