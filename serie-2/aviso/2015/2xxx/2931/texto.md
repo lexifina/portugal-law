@@ -1,0 +1,5 @@
+Aviso n.º 2931/2015
+Proposta de regulamento municipal de urbanização e edificação de Tondela
+José António Gomes de Jesus, presidente da Câmara Municipal de Tondela, em cumprimento do disposto do n.º 3 do artigo 3.º do decreto-lei 555/99 de 16 de dezembro, alterado e republicado pelo decreto-lei 136/2014 de 9 de setembro, torna publico que a Câmara Municipal de Tondela, em sua reunião ordinária de dez de março de dois mil e quinze, deliberou, com base em informação técnica, dar inicio à discussão publica da proposta de regulamento municipal de urbanização e edificação de Tondela estabelecendo um prazo de trinta dias, a constar da data da publicação do presente aviso, para a formulação de sugestões e para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, podendo o processo ser consultado no sitio do Município (www.cm-tondela.pt) e nos serviços do Balcão Único, localizados no edifico dos Paços do Concelho.
+10 de março de 2015. - O Presidente da Câmara, José António Gomes de Jesus.
+308499383
