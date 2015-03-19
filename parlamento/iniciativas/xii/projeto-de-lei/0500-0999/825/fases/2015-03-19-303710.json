@@ -1,0 +1,502 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "825",
+    "id": "39147",
+    "titulo": "No sentido de estabelecer o princípio da não privatização do setor da água, altera a Lei nº 58/2005, de 29 de dezembro (que Aprova a Lei da Água), com as alterações introduzidas pelo Decreto-Lei nº 60/2012, de 14 de março e pelo Decreto-Lei nº 130/2012, de 22 de junho."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2015-03-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10436",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2015-03-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39134",
+        "leg": "XII",
+        "nr": "819",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2006",
+            "obs": null,
+            "pag": [
+              "37-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-20",
+            "pubLeg": "XII",
+            "pubNr": "63",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/37?pgs=37-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2006",
+            "obs": null,
+            "pag": [
+              "37-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-20",
+            "pubLeg": "XII",
+            "pubNr": "63",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/37?pgs=37-44&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Veda o acesso de empresas privadas às atividades económicas de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos sólidos urbanos"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39143",
+        "leg": "XII",
+        "nr": "821",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2006",
+            "obs": null,
+            "pag": [
+              "37-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-20",
+            "pubLeg": "XII",
+            "pubNr": "63",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/37?pgs=37-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2006",
+            "obs": null,
+            "pag": [
+              "37-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-20",
+            "pubLeg": "XII",
+            "pubNr": "63",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/37?pgs=37-44&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Garante a gestão pública do abastecimento de água, do saneamento e dos resíduos sólidos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-03-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:10:06:018&drc=00:03:34:634"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:36:45:904&drc=00:02:03:734"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37",
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-20",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/37?pgs=37,43-44&org=PLC"
+              }
+            ],
+            "sumario": "No sentido de estabelecer o princípio da não privatização do setor da água, altera a Lei nº 58/2005, de 29 de dezembro (que Aprova a Lei da Água), com as alterações introduzidas pelo Decreto-Lei nº 60/2012, de 14 de março e pelo Decreto-Lei nº 130/2012, de 22 de junho; Veda o acesso de empresas privadas às atividades económicas de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos sólidos urbanos; Garante a gestão pública do abastecimento de água, do saneamento e dos resíduos sólidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:13:46:057&drc=00:03:08:016"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:33:29:882&drc=00:03:06:969"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38",
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-20",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/37?pgs=37-38,42-43&org=PLC"
+              }
+            ],
+            "sumario": "No sentido de estabelecer o princípio da não privatização do setor da água, altera a Lei nº 58/2005, de 29 de dezembro (que Aprova a Lei da Água), com as alterações introduzidas pelo Decreto-Lei nº 60/2012, de 14 de março e pelo Decreto-Lei nº 130/2012, de 22 de junho; Veda o acesso de empresas privadas às atividades económicas de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos sólidos urbanos; Garante a gestão pública do abastecimento de água, do saneamento e dos resíduos sólidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:17:03:235&drc=00:03:02:564"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-20",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "No sentido de estabelecer o princípio da não privatização do setor da água, altera a Lei nº 58/2005, de 29 de dezembro (que Aprova a Lei da Água), com as alterações introduzidas pelo Decreto-Lei nº 60/2012, de 14 de março e pelo Decreto-Lei nº 130/2012, de 22 de junho; Veda o acesso de empresas privadas às atividades económicas de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos sólidos urbanos; Garante a gestão pública do abastecimento de água, do saneamento e dos resíduos sólidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4429",
+                "nome": "Pedro Morais Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:20:12:647&drc=00:04:06:245"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-20",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "No sentido de estabelecer o princípio da não privatização do setor da água, altera a Lei nº 58/2005, de 29 de dezembro (que Aprova a Lei da Água), com as alterações introduzidas pelo Decreto-Lei nº 60/2012, de 14 de março e pelo Decreto-Lei nº 130/2012, de 22 de junho; Veda o acesso de empresas privadas às atividades económicas de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos sólidos urbanos; Garante a gestão pública do abastecimento de água, do saneamento e dos resíduos sólidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2264",
+                "nome": "Pedro Farmhouse"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:24:23:679&drc=00:03:49:144"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-20",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "No sentido de estabelecer o princípio da não privatização do setor da água, altera a Lei nº 58/2005, de 29 de dezembro (que Aprova a Lei da Água), com as alterações introduzidas pelo Decreto-Lei nº 60/2012, de 14 de março e pelo Decreto-Lei nº 130/2012, de 22 de junho; Veda o acesso de empresas privadas às atividades económicas de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos sólidos urbanos; Garante a gestão pública do abastecimento de água, do saneamento e dos resíduos sólidos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4395",
+                "nome": "Mário Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:08",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150319pln&url=l12/sl4/a2015/m03/&tI=02:28:17:721&drc=00:05:04:207"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "197777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-20",
+                "pubLeg": "XII",
+                "pubNr": "63",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "No sentido de estabelecer o princípio da não privatização do setor da água, altera a Lei nº 58/2005, de 29 de dezembro (que Aprova a Lei da Água), com as alterações introduzidas pelo Decreto-Lei nº 60/2012, de 14 de março e pelo Decreto-Lei nº 130/2012, de 22 de junho; Veda o acesso de empresas privadas às atividades económicas de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos sólidos urbanos; Garante a gestão pública do abastecimento de água, do saneamento e dos resíduos sólidos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "303710",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "734454",
+        "obs": null,
+        "pag": [
+          "36-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-03-20",
+        "pubLeg": "XII",
+        "pubNr": "63",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/063/2015-03-20/36?pgs=36-44&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
