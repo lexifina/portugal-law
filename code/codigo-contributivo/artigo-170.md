@@ -8,7 +8,7 @@ a) Os trabalhadores marítimos e os vigias, nacionais, que se encontrem a exerce
 
 b) Os trabalhadores marítimos nacionais que exerçam actividade a bordo de navios de empresas comuns de pesca constituídas ao abrigo dos Decretos-Leis n.os 1/81, de 7 de Janeiro, e 193/84, de 11 de Junho;
 
-c) Os tripulantes que se encontrem a exercer actividade profissional em navios inscritos no Registo Internacional de Navios da Madeira (MAR).
+c) (Revogada).
 
 2 - Podem ainda enquadrar-se no seguro social voluntário as pessoas que integrem grupos de actividades específicos que, de acordo com os respectivos estatutos, prevejam a inscrição no regime, designadamente:
 
