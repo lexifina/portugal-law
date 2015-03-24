@@ -1,0 +1,715 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12613",
+  "numero": "487",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-03-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-04-28",
+            "entidades": null,
+            "id": "100040",
+            "tipo": null,
+            "titulo": "Audição em 2015-04-28 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": "2015-04-27",
+            "entidades": [
+              "Instituto de Avaliação Educativa"
+            ],
+            "nrOficio": "151/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": "2015-04-30",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "152/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": "2015-04-24",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "153/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": null,
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "154/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": "2015-05-04",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "155/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": null,
+            "entidades": [
+              "Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "156/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": "2015-05-07",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "157CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "158/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "159/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": "2015-04-30",
+            "entidades": [
+              "Presidente do Conselho das Escolas"
+            ],
+            "nrOficio": "160/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": "2015-04-20",
+            "entidades": [
+              "Associação de Professores de Português"
+            ],
+            "nrOficio": "161/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-15",
+            "dataResposta": null,
+            "entidades": [
+              "Direção da Escola Secundária de Camões"
+            ],
+            "nrOficio": "169/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-15",
+            "dataResposta": "2015-04-28",
+            "entidades": [
+              "Conselho Geral da Escola Secundária de Camões"
+            ],
+            "nrOficio": "170/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-04-14",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "150/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-05-28",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "748474",
+                "obs": null,
+                "pag": [
+                  "5-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-05",
+                "pubLeg": "XII",
+                "pubNr": "50",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/050/2015-06-05/5?pgs=5-12&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-04-07",
+        "DataArquivo": "2015-06-02",
+        "DataBaixaComissao": "2015-03-27",
+        "DataEnvioPAR": "2015-06-05",
+        "DataReaberta": "2015-04-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-04-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3252684d5755794e6d4e694c5755304d4759744e446c6c4e4331694d6a4d304c5749335a444e68593249344e57566a596935775a47593d&fich=da1e26cb-e40f-49e4-b234-b7d3acb85ecb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b324e6d4d784e32557a4c575a6a4f4459744e4463774d6931695a544d334c54646a597a417a4e7a497a4f47457a5a6935775a47593d&fich=966c17e3-fc86-4702-be37-7cc037238a3f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6b5a6a5934596a6b324c5755794f5755744e44426b5a4331695a6a67334c5455325a475a6a593246694d7a55334d4335775a47593d&fich=cdf68b96-e29e-40dd-bf87-56dfccab3570.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a56684d4459324f4463774c5455334f4751744e446779597931695a545a694c546335595745344d7a4a6b5a4759775a4335775a47593d&fich=5a066870-578d-482c-be6b-79aa832ddf0d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3246684d7a6b335a4455324c544d77595451744e446b335a5330354e6a6b334c5759344d3259774d54686a4e324d334d6935775a47593d&fich=aa397d56-30a4-497e-9697-f83f018c7c72.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686a5a6d5a694d6a45334c54457a596d49744e4463784d793034596d49334c546c684d475a6a59546b7a5a5467774e5335775a47593d&fich=8cffb217-13bb-4713-8bb7-9a0fca93e805.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6b774e7a5134595455774c54566a4f4445744e4755775a4330355a475a6a4c5456685a6d51334e3255304d3251304d5335775a47593d&fich=90748a50-5c81-4e0d-9dfc-5afd77e43d41.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a52694e574d794f4745324c546c6a59546b744e445a6b4e4331684e6a45314c54466b4e444a684d6a63794e6a466a4f5335775a47593d&fich=4b5c28a6-9ca9-46d4-a615-1d42a27261c9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41325932466c4d6d45314c57526d5a4459744e444d304f5330344e4745304c5749344f44526c597a5a6a4e44646d597935775a47593d&fich=06cae2a5-dfd6-4349-84a4-b884ec6c47fc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32526d4d5751344f47597a4c5756694d3255744e44517a5a5330354f5749354c5449355a6d56684e474577597a6b314d7935775a47593d&fich=df1d88f3-eb3e-443e-99b9-29fea4a0c953.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63335a5459304f474d334c5745354d4441744e4449355a4331685a574a694c544930595445344e54526c4e4749324e4335775a47593d&fich=77e648c7-a900-429d-aebb-24a1854e4b64.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3249774e6a426d596a67354c5445784d4759744e4751344e4330345932526b4c57566d4d6a4d334e4455324e6d526b597935775a47593d&fich=b060fb89-110f-4d84-8cdd-ef2374566ddc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566d4f446b334e6d4e6d4c54597a4f4463744e4463304d53316959544d7a4c54526d5a444a6d4d6a4e6c596a566c4e6935775a47593d&fich=5f8976cf-6387-4741-ba33-4fd2f23eb5e6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49305a5749774e575a6c4c57566b4e5745744e47517a4e5330344f54426c4c5441304e4759324d5751334d6a42694e7935775a47593d&fich=24eb05fe-ed5a-4d35-890e-044f61d720b7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a526a596a4a6a4d54457a4c5467795a5751744e44686a4e6931694d7a466a4c546b315a6a6b3459546c6b4f474d7a4f5335775a47593d&fich=4cb2c113-82ed-48c6-b31c-95f98a9d8c39.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-06-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a63785a6a68684e4464694c5463314d3255744e444d774f4331684e5467354c5467314e6a5a6c5a5467304f575578596935775a47593d&fich=71f8a47b-753e-4308-a589-8566ee849e1b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-06-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a426a5a4445335a446b304c57566c4f4441744e446b7a4e533035597a67304c5451305a6a4133596d59794d32597a5a4335775a47593d&fich=0cd17d94-ee80-4935-9c84-44f07bf23f3d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-05-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686c5a475a6b4f5449334c545a6b4e6a59744e4455784e7930345a6a45314c5463314d4468694f54417759546b35597935775a47593d&fich=8edfd927-6d66-4517-8f15-7508b900a99c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d774d7a55355a54426c4c5441315a6a63744e47457a4d4330354d4459784c575a694d574d794d474d794d44566c595335775a47593d&fich=c0359e0e-05f7-4a30-9061-fb1c20c205ea.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a426d4e57566b5a5459324c574d355a4759744e475a685a4331685a6a49354c54686a4d544a6a4e5746694e7a55784d7935775a47593d&fich=0f5ede66-c9df-4fad-af29-8c12c5ab7513.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325669596a63354d325a6c4c544a6d4f5455744e4751795a433034597a4a694c574930597a59774d4449354d6a6332596935775a47593d&fich=ebb793fe-2f95-4d2d-8c2b-b4c60029276b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5133597a63774e6d4d314c5759334d5451744e44517a4f5331685a6a51354c5445354f4759794f44517a4d7a6b324d5335775a47593d&fich=47c706c5-f714-4439-af49-198f28433961.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a6333593259784d32517a4c574e6b5a4441744e47517859793169597a6c6d4c545933597a426c4e6d45344e324e6d4d4335775a47593d&fich=77cf13d3-cdd0-4d1c-bc9f-67c0e6a87cf0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a59344e5749304e6a686d4c5467324f5759744e446c694f4331684d7a5a6c4c5445334d3249345a44453359544a6d4d6935775a47593d&fich=685b468f-869f-49b8-a36e-173b8d17a2f2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-04-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251775a47566c5a47597a4c57526b597a4d744e44646c4e5331694f474e6b4c5449784d4755784d5452694f4456684d4335775a47593d&fich=d0deedf3-ddc3-47e5-b8cd-210e114b85a0.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-04-07",
+            "gp": "PCP",
+            "id": "4623",
+            "motivoCessacao": null,
+            "nome": "Diana Ferreira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-07-01",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-03-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41315a4463335a6a59784c5445324d6a63744e4456694e793168596a6b774c57557a597a6778597a426c4e446b324f5335775a47593d&fich=05d77f61-1627-45b7-ab90-e3c81c0e4969.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=04:08:31:445&drc=00:03:11:555"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199375",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Tolerância para a não utilização do Acordo Ortográfico de 1990 nos Exames Nacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=04:11:47:946&drc=00:03:21:779"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199376",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Tolerância para a não utilização do Acordo Ortográfico de 1990 nos Exames Nacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=04:15:14:735&drc=00:03:41:574"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199377",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Tolerância para a não utilização do Acordo Ortográfico de 1990 nos Exames Nacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=04:18:58:166&drc=00:02:05:540"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199378",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Tolerância para a não utilização do Acordo Ortográfico de 1990 nos Exames Nacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-07-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150701pln&url=l12/sl4/a2015/m07/&tI=04:21:07:420&drc=00:02:56:365"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-02",
+                "pubLeg": "XII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/66?pgs=66&org=PLC"
+              }
+            ],
+            "Sumario": "Tolerância para a não utilização do Acordo Ortográfico de 1990 nos Exames Nacionais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12613",
+    "PetAssunto": "Tolerância para a não utilização do Acordo Ortográfico de 1990 nos Exames Nacionais.",
+    "PetDataEntrada": "2015-03-24",
+    "PeticoesAssociadas": null,
+    "PetId": "12613",
+    "PetLeg": "XII",
+    "PetNr": "487",
+    "PetNrAssinaturas": "4294",
+    "PetNrAssinaturasInicial": "4294",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "542",
+        "obs": null,
+        "pag": [
+          "63-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-07-02",
+        "pubLeg": "XII",
+        "pubNr": "105",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/105/2015-07-02/63?pgs=63-66&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "736510",
+        "obs": null,
+        "pag": [
+          "11-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-04-11",
+        "pubLeg": "XII",
+        "pubNr": "40",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/040/2015-04-11/11?pgs=11&org=PLC"
+      }
+    ]
+  }
+}
