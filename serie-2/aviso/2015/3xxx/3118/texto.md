@@ -1,0 +1,6 @@
+Aviso n.º 3118/2015
+Elaboração da 2.ª Revisão do Plano Diretor Municipal (PDM)
+Fernando Paulo Ribeiro de Sousa, Diretor Municipal da Presidência, torna público, ao abrigo da competência delegada nos termos do n.º 18, do Ponto I da Ordem de Serviço n.º I/158492/14/CMP, que em cumprimento do disposto no artigo 98.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) em vigor, e ao abrigo do disposto nos artigos 74.º e seguintes, aplicáveis por força do artigo 96.º do mesmo diploma, a Câmara Municipal deliberou, na 34.ª reunião pública realizada no dia 10 de março de 2015, a elaboração da 2.ª Revisão do Plano Diretor Municipal (PDM), num prazo de 16 meses, e iniciar um período de participação pública de 15 dias, a contar da publicação do presente Aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento.
+Os interessados poderão consultar a referida deliberação na página eletrónica da Câmara Municipal do Porto (www.cm-porto.pt) e nas instalações do Gabinete do Munícipe. As participações deverão ser feitas em impresso próprio disponibilizado nesses locais.
+17 de março de 2015. - O Diretor Municipal da Presidência, Fernando Paulo Sousa.
+208514894
