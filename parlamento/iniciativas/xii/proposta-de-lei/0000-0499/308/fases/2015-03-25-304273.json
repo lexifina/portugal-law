@@ -1,0 +1,253 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "308",
+    "id": "39175",
+    "titulo": "Transforma a Câmara dos Solicitadores em Ordem dos Solicitadores e dos Agentes de Execução, e aprova o respetivo Estatuto, em conformidade com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-03-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "35357",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-04-01",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-03-25",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-04-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Armando Branco e Manuel Rascão Marques",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c597a6b325a5745794e7930345a6d4e6b4c5451355a6d4d74596d466b4d43307a4d5751774e6d466c4e7a526b5954457555455247&fich=ec96ea27-8fcd-49fc-bad0-31d06ae74da1.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação dos Agentes de Execução (AAE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d6a55774d6d51324d793169596a5a6c4c54517a59545974595459324e7930345954686d5a5751345a574578595467756347526d&fich=62502d63-bb6e-43a6-a667-8a8fed8ea1a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Filipa Cordeiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a574a6c5a5463335a533079595468684c5451784e6a51744f4759794e6930774d4459314d7a49315a544e6a4f5455756347526d&fich=aebee77e-2a8a-4164-8f26-0065325e3c95.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-03-31",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Joana Coelho Grácio Roque Lino",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a544d345a57566d4d6931685a5752694c5451314e6a6b744f4449334e7930785a5451784d575a6a4d6d46694e6a67756347526d&fich=0e38eef2-aedb-4569-8277-1e411fc2ab68.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Ofício - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f544d794e3252694f53316a4d5441314c545269595445744f5751305a5330304e6a417a4e6d4a6d595455354d7a51756347526d&fich=09327db9-c105-4ba1-9d4e-46036bfa5934.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Câmara dos Solicitadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d474d314f446b324d5330785954686d4c5451794e325174596a41774f433169596a686b59545933597a46684d44557555455247&fich=20c58961-1a8f-427d-b008-bb8da67c1a05.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - CNPD - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b59544e6c4f5745344f4330325a6a466b4c5451324e4463744f475a6b596930354e544e6d4f4449774d544d7a4f4749756347526d&fich=da3e9a88-6f1d-4647-8fdb-953f8201338b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2014-04-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e6a686c4d5759334d6930775a4467794c54526a5a445174596a45774e7930324e6d517a4d6a426c4f5449785a5445756347526d&fich=d68e1f72-0d82-4cd4-b107-66d320e921e1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a6a6c694e32457859693030596d4a6b4c5451324e6a4574596d49314e7931694e7a5a6c4d574e6b4d574e6d595745756347526d&fich=3f9b7a1b-4bbd-4661-bb57-b76e1cd1cfaa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-04-29",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324f5455784e6a526a4e5330794e3259774c54526c597a6b74596a45354d6930794d4745304e6a41774f544d774e3251756347526d&fich=695164c5-27f0-4ec9-b192-20a46009307d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-05-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-04-14"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2015-04-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2015-05-08"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2015-04-10"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-03-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-03-27"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2015-03-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2015-03-27"
+          },
+          {
+            "link": "",
+            "nome": "Câmara dos Solicitadores em 2015-03-27"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "57-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-29",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/119/2015-04-29/57?pgs=57-77&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "57-77"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-29",
+            "pubLeg": "XII",
+            "pubNr": "119",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/119/2015-04-29/57?pgs=57-77&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-04-29",
+            "dataRemessa": "2015-04-29",
+            "numeroOficio": "95/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-04-29",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69332",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "307",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-03-25",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Em conexão com a 10.ª Comissão",
+    "OevId": "304273",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
