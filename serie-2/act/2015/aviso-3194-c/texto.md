@@ -1,0 +1,5 @@
+Aviso n.º 3194-C/2015
+Proposta de Regulamento Municipal de Urbanização e Edificação de Carregal do Sal
+Rogério Mota Abrantes, Presidente da Câmara Municipal de Carregal do Sal, em cumprimento do disposto do n.º 3 do artigo 3.º do Decreto-Lei n.º 555/99 de 16 de dezembro, alterado e republicado pelo Decreto-Lei n.º 136/2014, de 9 de setembro, torna público que a Câmara Municipal de Carregal do Sal, em sua reunião ordinária de 23 de março de 2015, deliberou dar início à discussão pública da proposta de Regulamento Municipal de Urbanização e Edificação de Carregal do Sal, estabelecendo um prazo de 30 dias (de 25 de março até às 12 h 30 min do dia 23 de abril de 2015) para a formulação de sugestões e para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, podendo o processo ser consultado no sítio do Município (www.carregal-digital.pt), no Balcão Multisserviços e nas Sedes das Freguesias deste Concelho.
+24 de março de 2015. - O Presidente da Câmara, Rogério Mota Abrantes.
+308532446
