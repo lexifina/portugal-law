@@ -14,11 +14,11 @@ d) Investidores qualificados referidos nas alíneas a) a f) do n.º 1 do artigo 
 
 e) Fundos de garantia e sistemas de indemnização dos investidores e respectivas entidades gestoras;
 
-f) Auditores e sociedades de notação de risco, registados na CMVM;
+f) Auditores registados na CMVM;
 
 g) Sociedades de titularização de créditos;
 
-h) Sociedades de capital de risco;
+h) Sociedades de capital de risco, sociedades de empreendedorismo social e sociedades de investimento alternativo especializado;
 
 i) Entidades que se proponham a celebrar ou mediar contratos de seguro ligados a fundos de investimento ou a comercializar contratos de adesão individual a fundos de pensões abertos, no âmbito destas actividades;
 

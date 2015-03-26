@@ -20,7 +20,19 @@ a) Os serviços e actividades de investimento em instrumentos financeiros;
 
 b) Os serviços auxiliares dos serviços e actividades de investimento;
 
-c) A gestão de instituições de investimento colectivo e o exercício das funções de depositário dos valores mobiliários que integram o património dessas instituições.
+c) A gestão das seguintes instituições de investimento coletivo:
+
+i) Organismos de investimento coletivo em valores mobiliários;
+
+ii) Organismos de investimento alternativo em valores mobiliários e organismos de investimento em ativos não financeiros;
+
+iii) Organismos de investimento imobiliário;
+
+iv) Organismos de investimento em capital de risco, organismos de empreendedorismo social e organismos de investimento alternativo especializado; e
+
+v) Fundos de titularização de créditos;
+
+d) O exercício das funções de depositário dos instrumentos financeiros que integram o património das instituições de investimento coletivo referidas na alínea anterior.
 
 2 - Só os intermediários financeiros podem exercer, a título profissional, actividades de intermediação financeira.
 
