@@ -1,0 +1,4 @@
+Aviso n.º 3243/2015
+Manuel João Fontainhas Condenado, Presidente da Câmara Municipal de Vila Viçosa, faz público que a Assembleia Municipal de Vila Viçosa, na 1.ª Sessão Ordinária do ano 2015, realizada a 27 de fevereiro, aprovou as alterações ao Regulamento de Tabela de Taxas e Licenças que, sob a forma de projeto, foram publicadas nos Diários da República, 2.ª série, n.os 214 e 243, respetivamente de 5 de novembro e 17 de dezembro de 2014, e objeto de apreciação pública, nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na redação dada pelo Decreto-Lei n.º 6/96, de 31 de janeiro.
+9 de março de 2015. - O Presidente da Câmara Municipal, Manuel João Fontainhas Condenado.
+308501463
