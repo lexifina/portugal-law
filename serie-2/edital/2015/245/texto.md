@@ -1,0 +1,6 @@
+Edital n.º 245/2015
+Pedro Miguel Magalhães Ribeiro, Presidente da Câmara Municipal do Cartaxo, torna público que, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do regime jurídico das autarquias locais aprovado pela Lei n.º 75/2013, de 12 de setembro, e nos termos e para os efeitos do disposto no artigo 56.º do referido regime, que a assembleia municipal, em sessão ordinária de 29 de dezembro de 2014, sob proposta da câmara municipal aprovada em reunião de 20 de outubro de 2014, deliberou aprovar por unanimidade o Regulamento do Programa de Férias Desportivas e Culturais do Município do Cartaxo, na sua versão final, isto é, após decorrido o período para apreciação pública durante 30 dias, nos termos do n.º 2 do artigo 118.º do Código do Procedimento Administrativo.
+Mais, faz saber que este regulamento entra em vigor 15 dias após a data de publicação, na II serie, do Diário da República, conforme estipulado no artigo 25.º do mesmo.
+Para constar e devidos efeitos se lavrou o presente edital e outros de igual teor, que vão ser afixados nos locais do costume e na página da Internet do Município, www.cm-cartaxo.pt.
+12 de março de 2015. - O Presidente da Câmara, Pedro Magalhães Ribeiro.
+308503797
