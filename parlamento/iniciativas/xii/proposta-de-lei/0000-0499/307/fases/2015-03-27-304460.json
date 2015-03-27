@@ -1,0 +1,250 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "307",
+    "id": "39174",
+    "titulo": "Estabelece o regime jurídico da estruturação fundiária"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-03-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35384",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-04-29",
+            "id": "100067",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-05",
+            "id": "100105",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-05",
+            "id": "100104",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-05",
+            "id": "100103",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-05",
+            "id": "100102",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-05",
+            "id": "100101",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-12",
+            "id": "100141",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-12",
+            "id": "100140",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-12",
+            "id": "100139",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-03-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-03-27",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-05-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo_ANAFRE - PPL 307/XII/4ª (GOV) e PJL 157/XII/1ª (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a4463325a446c6c4e7930774e6a45794c545268596d5174595441774f43316c4f57466c4d325a695a475578597a59756347526d&fich=cd76d9e7-0612-4abd-a008-e9ae3fbde1c6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo_ANEFA - PPL 304, 306 e 307 e PJL 157",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d3259794e6a673459793034597a45784c54517a4e6d5174596a557a5953316a4e7a686b5a4755774e32526d4e3259756347526d&fich=23f2688c-8c11-436d-b53a-c78dde07df7f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo_CAP - PPL 307/XII/4ª (GOV) e PJL 157/XII/1ª (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a6a4d784e574e6c5a433031596a426a4c54526d5a6a51744f44526a595330794d6a4a6d59324530597a4178597a55756347526d&fich=bf315ced-5b0c-4ff4-84ca-222fca4c01c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo_FENAREG - PPL 304, 306 e 307 e PJL 157",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e5449334d6a686a4f5330304d32517a4c5451324d6a51745954686b4e6930314d5463344d44566d5a445578597a55756347526d&fich=352728c9-43d3-4624-a8d6-517805fd51c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do BE ao Texto Comum",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e54566d4d324e6d4f5330774e324e6d4c54526c4d6a6b744f4759354f5330355a475a694d444a69597a59324e54597555455247&fich=155f3cf9-07cf-4e29-8f99-9dfb02bc6656.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do PS ao Texto Comum",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f5455784e4441795a53316d4d4749774c54526a4f5463744f474a6a5969307a4e32526c593251794d3246695932457555455247&fich=b951402e-f0b0-4c97-8bcb-37decd23abca.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do PSD, do PS e do CDS-PP ao Texto Comum",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e6a4d354f44466b4e53307a4f57517a4c5451304e6a6b745954417a4d7930344e4459314f57517a4d6a526c596d517555455247&fich=663981d5-39d3-4469-a033-84659d324ebd.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-01",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e3255354f44526b4d4330334d7a4a6a4c54517a4e6a4574596a6c6d4d79316b593245774e4449354d5459324e6a55756347526d&fich=47e984d0-732c-4361-b9f3-dca042916665.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-05",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Comum entre PPL 307 e o PJL 157",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a6a56684d6d55335953303459574d314c5451314e6a5574595755775a4331684f5459304e6a5a695a6a49335a5451756347526d&fich=3f5a2e7a-8ac5-4565-ae0d-a96466bf27e4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-01",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da CAM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304f444d314f546b344d7930334d6a41324c5451344d5455744f4441354d5330355a474d795a5759354d54646c4f544d756347526d&fich=48359983-7206-4815-8091-9dc2ef917e93.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3516",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Agricultura e Mar",
+        "Numero": "3516",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "4-100"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160/2015-07-01/4?pgs=4-100&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "4-100"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160/2015-07-01/4?pgs=4-100&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-01",
+            "numeroOficio": "Email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PEV"
+            ],
+            "data": "2015-06-24",
+            "descricao": "Texto Final aprovado Artigo a Artigo",
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I><BR>Ausência: <I>PEV</I>",
+            "id": "70109",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "267",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-03-27",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "304460",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
