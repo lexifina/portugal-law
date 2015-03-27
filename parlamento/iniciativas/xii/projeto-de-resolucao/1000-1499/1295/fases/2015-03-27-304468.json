@@ -1,0 +1,284 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1295",
+    "id": "39110",
+    "titulo": "Pela manutenção do Hospital do Fundão (parte integrante do CHCB) no Serviço Nacional de Saúde"
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "2015-03-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10484",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "2015-03-27",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "39020",
+        "leg": "XII",
+        "nr": "1257",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2018",
+            "obs": null,
+            "pag": [
+              "44-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-28",
+            "pubLeg": "XII",
+            "pubNr": "67",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/067/2015-03-28/44?pgs=44-46&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2018",
+            "obs": null,
+            "pag": [
+              "44-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-28",
+            "pubLeg": "XII",
+            "pubNr": "67",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/067/2015-03-28/44?pgs=44-46&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Pela manutenção do Hospital do Fundão sob gestão pública"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "39150",
+        "leg": "XII",
+        "nr": "1309",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2018",
+            "obs": null,
+            "pag": [
+              "44-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-28",
+            "pubLeg": "XII",
+            "pubNr": "67",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/067/2015-03-28/44?pgs=44-46&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2018",
+            "obs": null,
+            "pag": [
+              "44-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-03-28",
+            "pubLeg": "XII",
+            "pubNr": "67",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/067/2015-03-28/44?pgs=44-46&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a manutenção da gestão pública do Hospital do Fundão"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-03-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3963",
+                "nome": "Carlos Costa Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:59",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-28",
+                "pubLeg": "XII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/067/2015-03-28/44?pgs=44-46&org=PLC"
+              }
+            ],
+            "sumario": "Pela manutenção do Hospital do Fundão sob gestão pública; Pela manutenção do Hospital do Fundão (parte integrante do CHCB) no Serviço Nacional de Saúde; Recomenda ao Governo a manutenção da gestão pública do Hospital do Fundão.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3964",
+                "nome": "Carlos São Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:59",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-03-28",
+                "pubLeg": "XII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/067/2015-03-28/44?pgs=44-46&org=PLC"
+              }
+            ],
+            "sumario": "Pela manutenção do Hospital do Fundão sob gestão pública; Pela manutenção do Hospital do Fundão (parte integrante do CHCB) no Serviço Nacional de Saúde; Recomenda ao Governo a manutenção da gestão pública do Hospital do Fundão.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "304468",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "739189",
+        "obs": null,
+        "pag": [
+          "38-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-03-28",
+        "pubLeg": "XII",
+        "pubNr": "67",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/067/2015-03-28/38?pgs=38&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2015-03-27",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "68976",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "67",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
