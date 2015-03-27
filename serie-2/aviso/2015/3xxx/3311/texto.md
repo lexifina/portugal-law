@@ -1,0 +1,4 @@
+Aviso n.º 3311/2015
+Luís Carlos Piteira Dias, Presidente da Câmara Municipal de Vendas Novas torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 175/2013, de 12 de setembro, que a Câmara Municipal, na sua reunião realizada dia 18 de fevereiro de 2015, deliberou aprovar o Regulamento Municipal de Habitação Social de Vendas Novas, que veio a ser aprovado pela Assembleia Municipal em sessão realizada no dia 25 de fevereiro de 2015, tendo em vista a sua entrada em vigor no 15.º dia útil imediato à publicação do presente Aviso. O documento poderá ser consultado na Junta de Freguesia da Landeira e no Centro de Atendimento ao Publico da Câmara Municipal de Vendas Novas, todos os dias úteis das 9.00 às 12.30 e das 14.00 às 17.30 horas, bem como no sítio do Município de Vendas Novas na Internet (www.cm-vendasnovas.pt).
+13 de março de 2015. - O Presidente da Câmara Municipal, Luís Carlos Piteira Dias.
+308508154
