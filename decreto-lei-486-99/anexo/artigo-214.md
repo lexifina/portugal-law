@@ -15,3 +15,5 @@ c) Estender a suspensão ou a exclusão a todos os mercados regulamentados e sis
 3 - (Revogado).
 
 4 - (Revogado).
+
+5 - A CMVM pode ordenar à entidade gestora de mercado regulamentado ou de sistema de negociação multilateral que proceda à suspensão ou exclusão de instrumentos financeiros da negociação quando tal seja solicitado pelo Banco de Portugal nos casos previstos na lei.
