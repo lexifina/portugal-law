@@ -20,7 +20,7 @@ b) Energia;
 
 c) Transportes e comunicações;
 
-d) Educação, ensino e formação profissional;
+d) Educação;
 
 e) Património, cultura e ciência;
 

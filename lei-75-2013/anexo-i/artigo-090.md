@@ -57,5 +57,3 @@ t) Aprovar a constituição da entidade gestora da requalificação nas autarqui
 2 - Compete ao conselho comparecer nas assembleias municipais para efeitos da alínea a) do n.º 5 do artigo 25.º, com faculdade de delegação no secretariado executivo intermunicipal.
 
 3 - Compete ainda ao conselho intermunicipal deliberar sobre a demissão do secretariado executivo intermunicipal.
-
-4 - Nas comunidades intermunicipais cujos territórios estão integrados em áreas metropolitanas, as competências do conselho intermunicipal estão limitadas pelas suas atribuições, incluindo as que venham a ser delegadas na respetiva comunidade intermunicipal, não sendo aplicável as alíneas d), e), f), n) e t) do n.º 1.
