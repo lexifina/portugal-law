@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "314",
+  "id": "39275",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2015-03-31",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a475a6b4f5749344e6a49744e6a59354e6930304d6a566d4c546b304f5459745954466c4d6a526c5a6a4d774e5441334c6e426b5a673d3d&fich=dfd9b862-6696-425f-9496-a1e24ef30507.pdf&Inline=true",
+        "anexoNome": "Parecer ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a6b314e444978597a41745a544a694d6930304d545a6a4c546c684f444d745a6a63784f5759784f445a6c5a6a42684c6e426b5a673d3d&fich=c95421c0-e2b2-416c-9a83-f719f186ef0a.pdf&Inline=true",
+        "anexoNome": "Parecer COJ"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d444d304d546c6c59324d744f54526b4f5330304f4449774c54673059546b745a6d45314d6a5a6b596a673259575a684c6e426b5a673d3d&fich=03419ecc-94d9-4820-84a9-fa526db86afa.pdf&Inline=true",
+        "anexoNome": "Parecer CS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a673359546b34596d55744d57466b596930304f4445774c5745334d444574596a55305a5759355a4745355a6a45774c6e426b5a673d3d&fich=b87a98be-1adb-4810-a701-b54ef9da9f10.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a4d35597a4a6d4d7a51744d4459785a693030597a67344c546b324d7a4d745a54466b4d6a686c4e4441774e444d304c6e426b5a673d3d&fich=b39c2f34-061f-4c88-9633-e1d28e400434.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a41344d4467324d6a67744f4449304e6930304d6d59334c546b324d6a4d744d44566b4d5751344d7a59774d6d4a694c6e426b5a673d3d&fich=70808628-8246-42f7-9623-05d1d83602bb.pdf&Inline=true",
+        "anexoNome": "Parecer PGR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a6c6c5a546469596d51744d575a6b4d4330304e7a497a4c546b775a574574597a45794d7a4a6c596a49314e6a566c4c6e426b5a673d3d&fich=c9ee7bbd-1fd0-4723-90ea-c1232eb2565e.pdf&Inline=true",
+        "anexoNome": "Parecer SMMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5455354d475268595467745a5468684d6930305954677a4c5749794e5441745a6a6c694f54646d595463775a44526a4c6e426b5a673d3d&fich=9590daa8-e8a2-4a83-b250-f9b97fa70d4c.pdf&Inline=true",
+        "anexoNome": "Parecer OA"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "39275",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4755334d4755334d4445744f47466b5a5330304d6d566a4c546b79595445744f445935596a6b7a595749315a574d784c6d527659773d3d&fich=8e70e701-8ade-42ec-92a1-869b93ab5ec1.doc&Inline=true",
+    "IniNr": "314",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o regime jurídico da emissão e transmissão entre Portugal e os outros Estados-Membros da União Europeia de decisões que apliquem medidas de proteção, transpondo a Diretiva n.º 2011/99/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa à decisão europeia de proteção",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
