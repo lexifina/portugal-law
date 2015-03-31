@@ -1,0 +1,6 @@
+Edital n.º 257/2015
+Projeto de Regulamento Interno de Funcionamento, Atendimento e Horários de Trabalho do Município de Figueira de Castelo Rodrigo - Aprovação definitiva
+Paulo José Gomes Langrouva, Presidente da Câmara Municipal de Figueira de Castelo Rodrigo, torna público, no uso da competência que se encontra prevista na alínea k), do n.º 1, do artigo 33.º, do Anexo I, da Lei n.º 75/2013, de 12 de setembro e em respeito ao positivado no artigo 118.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, na sua atual redação, que o Projeto de Regulamento Interno de Funcionamento, Atendimento e Horários de Trabalho do Município de Figueira de Castelo Rodrigo, publicado mo Diário da República, 2.ª série, N.º 246, de 22 de dezembro de 2014, após o decurso do prazo para apreciação pública, no qual não se registou qualquer sugestão ou reclamação, foi aprovado de forma definitiva em forma de Regulamento, em reunião ordinária da Câmara Municipal realizada a 19 de novembro de 2015.
+Para constar e devidos efeitos, se publica o presente edital e outros de igual teor, que vai ser enviado para publicação no Diário da República e afixado nos lugares públicos do costume.
+3 de março de 2015. - O Presidente da Câmara Municipal, Paulo José Gomes Langrouva.
+308480355
