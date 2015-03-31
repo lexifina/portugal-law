@@ -1,0 +1,4 @@
+Aviso n.º 30/2015
+Por ordem superior se torna público que, a 4 de setembro de 2012 e a 10 de abril de 2014, foram emitidas notas, respetivamente, pela Embaixada do Estado do Qatar em Lisboa e pela Embaixada de Portugal em Doha, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo sobre Transporte Aéreo entre a República Portuguesa e o Governo do Estado do Qatar, assinado em Doha, a 28 de maio de 2012.
+O referido Acordo foi aprovado pelo Decreto n.º 9/2014, de 21 de março de 2014, publicado no Diário da República, 1.ª série, n.º 57, de 21 de março de 2014, e, nos termos do seu artigo 25.º, entrou em vigor no dia 13 de maio de 2014.
+Direção-Geral de Política Externa, 17 de março de 2015. - A Subdiretora-Geral, Helena Maria Rodrigues Fernandes Malcata.
