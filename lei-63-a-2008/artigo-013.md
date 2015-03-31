@@ -1,4 +1,4 @@
-## Capítulo IV
+## Secção V
 
 ## Reforço de fundos próprios
 
@@ -17,3 +17,5 @@
 5 - Sem prejuízo do disposto no artigo 16.º-A, o despacho referido no n.º 1 pode ser modificado em caso de incumprimento grave ou sistemático das obrigações assumidas pela instituição de crédito ou em caso de alteração anormal das circunstâncias em que o mesmo se fundou.
 
 6 - A decisão a que se refere o n.º 1 deve ser precedida de consulta prévia à instituição de crédito interessada com dispensa de qualquer formalidade de notificação e através dos meios de comunicação que se mostrem adequados à situação em causa, caso em que o prazo previsto no n.º 4 se suspende.
+
+7 - Tratando-se de instituições de crédito que exerçam atividades de intermediação financeira, o membro do Governo responsável pela área das finanças mantém a Comissão do Mercado de Valores Mobiliários informada das providências que tomar nos termos do presente capítulo.
