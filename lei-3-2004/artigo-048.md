@@ -14,7 +14,7 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-f) As entidades administrativas independentes.
+f) (Revogada).
 
 2 - Cada uma destas categorias de institutos públicos pode ser regulada por uma lei específica.
 
