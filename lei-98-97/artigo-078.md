@@ -8,7 +8,7 @@ a) Ordenar a verificação externa de contas ou a realização de auditorias que
 
 b) Ordenar as auditorias solicitadas pela Assembleia da República ou pelo Governo e aprovar os respectivos relatórios;
 
-c) Aprovar o regulamento do seu funcionamento;
+c) Propor ao plenário geral as normas do seu funcionamento para aprovação e inclusão no Regulamento do Tribunal;
 
 d) Aprovar os manuais de auditoria e dos procedimentos de verificação a adoptar pelos respectivos serviços de apoio;
 

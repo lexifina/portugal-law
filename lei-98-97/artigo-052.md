@@ -8,10 +8,10 @@
 
 3 - A substituição parcial de gerentes em administrações colegiais por motivo de presunção ou apuramento de qualquer infracção financeira dará lugar à prestação de contas, que serão encerradas na data em que se fizer a substituição.
 
-4 - As contas são remetidas ao Tribunal até 30 de Abril do ano seguinte àquele a que respeitam.
+4 - As contas são remetidas ao Tribunal até 30 de abril do ano seguinte àquele a que respeitam, sem prejuízo de as contas consolidadas serem remetidas até 30 de junho.
 
 5 - Nos casos previstos nos n.os 2 e 3, o prazo para apresentação das contas será de 45 dias a contar da data da substituição dos responsáveis.
 
 6 - As contas serão elaboradas e documentadas de acordo com as instruções aprovadas pelo Tribunal.
 
-7 - A falta injustificada de remessa das contas dentro do prazo fixado nos n.os 4 e 5 poderá, sem prejuízo da correspondente sanção, determinar a realização de uma auditoria, tendo em vista apurar as circunstâncias da falta cometida e da eventual omissão da elaboração da conta referida, procedendo à reconstituição e exame da respectiva gestão financeira para fixação do débito aos responsáveis, se possível.
+7 - A falta injustificada de remessa das contas nos prazos fixados nos n.os 4 e 5 pode, sem prejuízo da correspondente sanção, determinar a realização de uma auditoria, tendo em vista apurar as circunstâncias da falta cometida e da eventual omissão da elaboração das contas, a qual procede à reconstituição e exame da respetiva gestão financeira, para fixação do débito aos responsáveis, se possível.

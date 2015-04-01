@@ -16,4 +16,4 @@
 
 5 - Sempre que da violação de normas financeiras, incluindo no domínio da contratação pública, resultar para a entidade pública obrigação de indemnizar, o Tribunal pode condenar os responsáveis na reposição das quantias correspondentes.
 
-6 - A reposição inclui os juros de mora sobre os respectivos montantes, aos quais se aplica o regime das dívidas fiscais, contados desde a data da infracção, ou, não sendo possível determiná-la, desde o último dia da respectiva gerência.
+6 - A reposição inclui os juros de mora sobre os respetivos montantes, nos termos previstos no Código Civil, contados desde a data da infração, ou, não sendo possível determiná-la, desde o último dia da respetiva gerência.

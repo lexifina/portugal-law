@@ -9,3 +9,7 @@
 3 - O prazo da prescrição do procedimento suspende-se com a entrada da conta no Tribunal ou com o início da auditoria e até à audição do responsável, sem poder ultrapassar dois anos.
 
 4 - Nos casos a que se refere o n.º 2 do artigo 89.º, o prazo de prescrição do procedimento suspende-se pelo período decorrente até ao exercício do direito de acção ou à possibilidade desse exercício, nas condições aí referidas.
+
+5 - A prescrição do procedimento interrompe-se com a citação do demandado em processo jurisdicional.
+
+6 - A prescrição do procedimento tem sempre lugar quando tiver decorrido o prazo de prescrição acrescido de metade.

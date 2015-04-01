@@ -17,3 +17,5 @@ c) 3.ª Secção.
 4 - Devem prioritariamente ser colocados na 3.ª Secção os juízes do Tribunal oriundos das magistraturas.
 
 5 - Salvo razões ponderosas de natureza pessoal ou funcional, um juiz só pode mudar de secção após três anos de permanência na mesma.
+
+6 - Nos casos de vacatura, ausência ou impedimento, o Presidente do Tribunal, ouvida a comissão permanente e os interessados, pode afetar temporariamente, em acumulação, juízes de outras secções para permitir o regular funcionamento da secção em causa.

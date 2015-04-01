@@ -18,7 +18,7 @@ d) Marcar as sessões ordinárias e convocar as sessões extraordinárias, ouvid
 
 e) Mandar organizar a agenda de trabalhos de cada sessão, tendo em consideração as indicações fornecidas pelos juízes;
 
-f) Votar o parecer sobre a Conta Geral do Estado, os acórdãos de fixação de jurisprudência, os regulamentos internos do Tribunal e sempre que se verifique situação de empate entre juízes;
+f) Votar o parecer sobre a Conta Geral do Estado, os acórdãos de fixação de jurisprudência, o Regulamento do Tribunal e sempre que se verifique situação de empate entre juízes;
 
 g) Elaborar o relatório anual do Tribunal;
 

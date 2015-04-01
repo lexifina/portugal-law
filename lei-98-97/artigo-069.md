@@ -18,4 +18,4 @@ c) Pela amnistia;
 
 d) Pelo pagamento;
 
-e) Pela relevação da responsabilidade nos termos do n.º 7 do artigo 65.º
+e) Pela relevação da responsabilidade nos termos do n.º 9 do artigo 65.º

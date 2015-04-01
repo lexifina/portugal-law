@@ -4,7 +4,7 @@
 
 Para execução da sua actividade, compete ainda ao Tribunal de Contas:
 
-a) Aprovar os regulamentos internos necessários ao seu funcionamento;
+a) Aprovar o Regulamento do Tribunal;
 
 b) Emitir as instruções indispensáveis ao exercício das suas competências, a observar pelas entidades referidas no artigo 2.º;
 

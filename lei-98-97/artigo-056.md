@@ -2,7 +2,7 @@
 
 ### Recurso a empresas de auditoria e consultores técnicos
 
-1 - Sempre que necessário, o Tribunal de Contas pode recorrer a empresas de auditoria ou a consultores técnicos para a realização de tarefas indispensáveis ao exercício das suas funções, quando estas não possam ser desempenhadas pelos serviços de apoio do Tribunal ou requisitadas a qualquer das entidades referidas no artigo 2.º
+1 - Sempre que necessário, o Tribunal de Contas pode recorrer a empresas de auditoria ou a consultores técnicos para a realização de tarefas indispensáveis ao exercício das suas funções, quando estas não possam ser desempenhadas pelos serviços de apoio do Tribunal.
 
 2 - As empresas de auditoria referidas no número anterior, devidamente credenciadas, gozam das mesmas prerrogativas dos funcionários da Direcção-Geral no desempenho das suas missões.
 

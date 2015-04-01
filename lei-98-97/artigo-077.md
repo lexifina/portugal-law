@@ -8,7 +8,7 @@ a) Julgar os recursos das decisões das subsecções, das secções regionais e 
 
 b) Aprovar as instruções sobre a organização dos processos de fiscalização prévia a remeter ao Tribunal;
 
-c) Aprovar o regulamento do seu funcionamento interno;
+c) Propor ao plenário geral as normas do seu funcionamento para aprovação e inclusão no Regulamento do Tribunal;
 
 d) Aprovar os relatórios das auditorias quando não haja unanimidade na subsecção ou quando, havendo, embora, tal unanimidade, o Presidente entenda dever alargar a discussão para uniformizar critérios;
 
