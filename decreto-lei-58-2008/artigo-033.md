@@ -1,7 +1,7 @@
 # Artigo 33.º
 
-### Dever de cooperação
+### Dever de comunicação
 
-1 - As empresas ferroviárias, os gestores de estações, os gestores de infraestrutura, os vendedores de bilhetes e os operadores turísticos devem apresentar, quando tal lhes seja solicitado pela AMT, toda a informação necessária para atestar a conformidade dos procedimentos e práticas adotadas em cumprimento do disposto no presente decreto-lei e do Regulamento, no prazo de 30 dias.
+1 - Os operadores devem apresentar, quando tal lhes seja solicitado pelo IMTT, I. P., toda a informação relativa a procedimentos necessária para atestar da conformidade dos procedimentos e práticas adoptadas em cumprimento do disposto no presente decreto-lei.
 
-2 - [Revogado.]
+2 - As informações prestadas nos termos do número anterior, desde que tal seja solicitado e fundamentado pelo operador, ficam sujeitas a sigilo comercial.

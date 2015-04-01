@@ -10,6 +10,6 @@ b) O custo de exploração por passageiro/quilómetro;
 
 c) Os custos de natureza administrativa.
 
-2 - O preço pode, ainda, refletir fatores de qualidade, segurança, conforto, tempo de percurso, antecedência na aquisição ou procura.
+2 - O preço pode, ainda, reflectir factores de qualidade, segurança e conforto, bem como o tempo de percurso.
 
-3 - O operador pode fixar preços variáveis ou dinâmicos, bem como descontos comerciais ou promocionais, em função, entre outros, dos fatores referidos no número anterior, nos termos da lei.
+3 - O operador pode praticar descontos sobre o preço, nomeadamente em função do número de viagens ou de negócios jurídicos que celebre com passageiros.

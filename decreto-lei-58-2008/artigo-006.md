@@ -20,45 +20,43 @@ f) Entrar nas carruagens sem que tenham saído todos os passageiros que o deseje
 
 g) Aproximar-se da borda da plataforma aquando da aproximação de outro comboio e, em qualquer caso, ultrapassar o limite que se encontre marcado na plataforma de embarque, antes da chegada do comboio;
 
-h) Ocupar lugar reservado a pessoas com deficiência ou com mobilidade reduzida, grávidas e pessoas com crianças de colo, exceto se os mesmos não forem manifestamente necessários para o efeito;
+h) Ocupar lugar reservado a pessoas com mobilidade condicionada, grávidas e pessoas com crianças de colo, excepto se os mesmos não forem manifestamente necessários para o efeito;
 
 i) Ocupar lugar ou compartimento reservado para os quais não tenha reserva ou ocupar mais lugares que os adquiridos;
 
-j) Abrir as portas exteriores das carruagens durante a marcha;
+j) Abrir ou impedir que se fechem as portas exteriores das carruagens durante a marcha;
 
-l) Impedir que fechem as portas exteriores das carruagens após o sinal de partida do comboio;
+l) Projectar para o exterior das carruagens quaisquer objectos;
 
-m) Projectar para o exterior das carruagens quaisquer objectos;
+m) Colocar nos locais para tal reservados volumes que, pelo seu conteúdo, natureza ou forma, possam cair ou perturbar os outros passageiros em caso de choque, paragem brusca ou outras causas;
 
-n) Colocar nos locais para tal reservados volumes que, pelo seu conteúdo, natureza ou forma, possam cair ou perturbar os outros passageiros em caso de choque, paragem brusca ou outras causas;
+n) Colocar volumes pesados ou sujos sobre os bancos ou apoiar os pés directamente sobre os estofos;
 
-o) Colocar volumes pesados ou sujos sobre os bancos ou apoiar os pés directamente sobre os estofos;
+o) Debruçar-se das janelas durante a marcha do comboio;
 
-p) Debruçar-se das janelas durante a marcha do comboio;
+p) Dedicar-se a qualquer actividade ou oferecer serviços sem prévia autorização do operador;
 
-q) Dedicar-se a qualquer actividade ou oferecer serviços sem prévia autorização do operador;
+q) Fazer peditórios, organizar colectas, recolher assinaturas ou realizar inquéritos sem autorização do operador;
 
-r) Fazer peditórios, organizar colectas, recolher assinaturas ou realizar inquéritos sem autorização do operador;
+r) Transportar animais de companhia ou de assistência em violação das condições estabelecidas no presente decreto-lei;
 
-s) Transportar animais de companhia ou de assistência em violação das condições estabelecidas no presente decreto-lei;
+s) Pendurar-se em qualquer parte das carruagens ou dos seus acessórios ou manter-se nos estribos durante a marcha;
 
-t) Pendurar-se em qualquer parte das carruagens ou dos seus acessórios ou manter-se nos estribos durante a marcha;
+t) Entrar em compartimentos ou locais vedados ao acesso do público;
 
-u) Entrar em compartimentos ou locais vedados ao acesso do público;
+u) Proceder a qualquer espécie de publicidade e distribuir ou afixar cartazes, panfletos ou outras publicações sem autorização do operador;
 
-v) Proceder a qualquer espécie de publicidade e distribuir ou afixar cartazes, panfletos ou outras publicações sem autorização do operador;
+v) Sujar as carruagens;
 
-x) Sujar as carruagens;
+x) Transportar armas que não estejam acondicionadas nos termos da legislação aplicável, salvo tratando-se de agentes de autoridade;
 
-z) Transportar armas que não estejam acondicionadas nos termos da legislação aplicável, salvo tratando-se de agentes de autoridade;
+z) Transportar matérias explosivas, incluindo material pirotécnico, substâncias facilmente inflamáveis, corrosivas ou radioactivas;
 
-aa) Transportar matérias explosivas, incluindo material pirotécnico, substâncias facilmente inflamáveis, corrosivas ou radioactivas;
+aa) Transportar volumes que pela sua natureza, forma, dimensão ou cheiro possam causar incómodo aos outros passageiros ou danificar o material circulante;
 
-ab) Transportar volumes que pela sua natureza, forma, dimensão ou cheiro possam causar incómodo aos outros passageiros ou danificar o material circulante;
+ab) Utilizar aparelhos sonoros ou fazer barulho de forma a incomodar os outros passageiros;
 
-ac) Utilizar aparelhos sonoros ou fazer barulho de forma a incomodar os outros passageiros;
-
-ad) Praticar actos ou proferir expressões que perturbem a boa ordem dos serviços ou incomodem os outros passageiros.
+ac) Praticar actos ou proferir expressões que perturbem a boa ordem dos serviços ou incomodem os outros passageiros.
 
 3 - Os passageiros devem respeitar as instruções dadas pelos agentes de fiscalização, no âmbito do exercício das suas funções.
 

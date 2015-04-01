@@ -1,13 +1,13 @@
 # Artigo 20.º
 
-### Fixação de preços
+### Regimes especiais de preços
 
 1 - Os preços dos serviços de transporte ferroviário de passageiros, que a seguir se enumeram, obedecem ao seguinte:
 
-a) Os preços dos serviços de transporte de passageiros titulados por contrato de serviço público nos termos da Lei n.º 52/2015, de 9 de junho, na sua redação atual, são fixados de acordo com as regras constantes do referido contrato ou emanadas pela autoridade de transportes competente, sem prejuízo das regras gerais de âmbito nacional e europeu aplicáveis;
+a) Os serviços de transporte urbano e suburbano ficam sujeitos ao disposto em legislação ou regulamentação específica em vigor ou às regras contratuais, quando sejam objeto de contrato, designadamente quanto a regras de atualização tarifária;
 
-b) Os preços dos serviços de transporte de passageiros não titulados por contrato de serviço público são fixados pelo respetivo operador, sem prejuízo do estipulado no contrato de acesso e utilização da infraestrutura e das regras gerais de âmbito nacional e europeu aplicáveis;
+b) Os serviços de transporte regionais e inter-regionais ficam sujeitos aos procedimentos de fixação e actualização de preços, a aprovar por regulamento do IMTT, I. P., tendo em conta os princípios e critérios constantes dos artigos 18.º e 19.º;
 
-c) [Revogada].
+c) Os serviços de transporte de passageiros em que a tarifa seja fixada por contrato de serviço público ficam sujeitos às regras neste previstas.
 
 2 - As crianças até aos quatro anos são transportadas gratuitamente, desde que não ocupem lugar.

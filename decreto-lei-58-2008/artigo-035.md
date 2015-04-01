@@ -6,7 +6,7 @@
 
 ### Contra-ordenações
 
-1 - Constituem contraordenações imputáveis ao operador, puníveis com coima de 2500 € a 15 000 €:
+1 - Constituem contraordenações imputáveis ao operador, ao gestor da estação e ao gestor da infraestrutura, consoante o caso, puníveis com coima de (euro) 2500 a (euro) 12 500:
 
 a) A violação das obrigações a que se referem os artigos 4.º e 5.º;
 
@@ -20,25 +20,19 @@ e) O incumprimento das regras relativas à indemnização do preço do bilhete a
 
 f) A recusa de emissão de documento comprovativo de atraso, nos termos do artigo 17.º;
 
-g) (Revogada);
+g) O incumprimento das obrigações relativas à fixação e divulgação de preços a que se refere o artigo 21.º;
 
-h) O incumprimento das obrigações relativas aos títulos de transporte a que se referem os artigos 7.º-A, 22.º e 23.º;
+h) O incumprimento das obrigações relativas aos títulos de transporte a que se referem os artigos 22.º e 23.º;
 
-i) A falta de comunicação, informação e aprovação a que se referem os artigos 32.º, 32.º-A, 32.º-B e 33.º;
+i) A falta de comunicação e aprovação a que se referem os artigos 32.º e 33.º
 
-j) A aplicação de condições gerais de transporte em incumprimento do disposto no n.º 3 do artigo 3.º
+2 - Constituem contraordenações imputáveis ao operador ou ao gestor da estação, consoante o caso, puníveis com coima de (euro) 2500 a (euro) 12 500, as seguintes infrações ao Regulamento (CE) n.º 1371/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007:
 
-2 - Constituem contraordenações imputáveis ao operador ou ao gestor da estação, consoante o caso, puníveis com coima de 2500 € a 15 000 €, as seguintes infrações ao Regulamento (UE) 2021/782:
+a) A recusa de transporte de bicicletas, em violação do artigo 5.º do referido Regulamento, nos serviços em que tal seja disponibilizado pelo operador;
 
-a) A falta de publicação do relatório de desempenho em matéria de qualidade do serviço a que se refere o artigo 3.º-B;
+b) O incumprimento do dever de assistência em violação dos artigos 18.º e 23.º do referido Regulamento;
 
-b) A recusa de transporte de bicicletas, em violação do artigo 6.º do Regulamento (UE) 2021/782, nos serviços em que tal seja disponibilizado pelo operador;
-
-c) O incumprimento das obrigações a que se referem os n.os 9 a 12 do artigo 9.º;
-
-d) O incumprimento do dever de assistência em violação dos artigos 20.º e 23.º do Regulamento (UE) 2021/782;
-
-e) O incumprimento das disposições relativas às reclamações dos passageiros em violação dos artigos 34.º-A e 34.º-B do presente decreto-lei, bem como do artigo 28.º do Regulamento (UE) 2021/782.
+c) O incumprimento das disposições relativas às queixas dos passageiros em violação do artigo 27.º do referido Regulamento.
 
 3 - Constituem contra-ordenações imputáveis ao passageiro, puníveis com coima de (euro) 50 a (euro) 250, a violação dos deveres previstos no artigo 6.º, sem prejuízo do disposto no número seguinte.
 

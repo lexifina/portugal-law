@@ -4,4 +4,4 @@
 
 1 - Nos atrasos superiores a uma hora, em relação ao tempo de viagem previsto no horário, ou no caso de supressão temporária de serviço que impeça a conclusão da viagem, o operador deve fornecer ao passageiro, sempre que este o solicite, documento que ateste a ocorrência e a duração do atraso.
 
-2 - (Revogado).
+2 - O modelo e os termos da disponibilização do documento referido no número anterior são comunicados pelos operadores ao IMTT, I. P., no prazo de 30 dias a partir da entrada em vigor do presente decreto-lei.
