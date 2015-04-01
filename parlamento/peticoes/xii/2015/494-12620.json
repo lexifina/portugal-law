@@ -1,0 +1,423 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12620",
+  "numero": "494",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-04-01",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-05-13",
+            "entidades": null,
+            "id": "100150",
+            "tipo": null,
+            "titulo": "Audição em 2015-05-13 com Maria Flora Ferreira Sampaio Carvalho Correia-1º. Peticionário;  Dr.ªCristina Teixeira; Dr.ªCristina Arteiro; DrªAna Paula Leite e  Advogado Dr. João de Sousa Guimarães"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-06-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-04-22",
+        "DataArquivo": "2015-06-25",
+        "DataBaixaComissao": "2015-04-08",
+        "DataEnvioPAR": "2015-06-25",
+        "DataReaberta": "2015-04-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-04-21",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e68627938344e7a677a4d3249774d4330344d32526c4c5451304d6a49745954517a5a43316d597a55785a574d794e6d59774f5449756347526d&fich=87833b00-83de-4422-a43d-fc51ec26f092.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396a4e54566b4d6d566d4d53307a4e4451354c5451344d7a5174595467324d43316c596d4532596a4d31596a6b775a4749756347526d&fich=c55d2ef1-3449-4834-a860-eba6b35b90db.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-06-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5547563061574e686279396d596d597a4e7a49354e533033596a466a4c5451324e6a5174596a41324e793032596a566d4d5456685a5451344d7a51756347526d&fich=fbf37295-7b1c-4664-b067-6b5f15ae4834.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3519",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-04-22",
+            "gp": "PSD",
+            "id": "4299",
+            "motivoCessacao": null,
+            "nome": "Clara Marques Mendes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-12-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-04-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a557a4d54637a5a5455794c5455355a5445744e444a684f4331684d4451324c5445334e546b774e444a6b4f5755794f4335775a47593d&fich=53173e52-59e1-42a8-a046-1759042d9e28.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=01:53:39:425&drc=00:01:37:318"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a exclusão da proposta de lei n.º 299/XII (4.ª), que adequa o Estatuto da Ordem dos Nutricionistas ao regime previsto na Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, de todas as disposições relativas à convergência das profissões de dietista e de nutricionista.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=01:55:23:502&drc=00:01:56:192"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a exclusão da proposta de lei n.º 299/XII (4.ª), que adequa o Estatuto da Ordem dos Nutricionistas ao regime previsto na Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, de todas as disposições relativas à convergência das profissões de dietista e de nutricionista.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=01:57:26:984&drc=00:03:05:853"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200300",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10?org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a exclusão da proposta de lei n.º 299/XII (4.ª), que adequa o Estatuto da Ordem dos Nutricionistas ao regime previsto na Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, de todas as disposições relativas à convergência das profissões de dietista e de nutricionista.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:00:37:545&drc=00:02:56:894"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a exclusão da proposta de lei n.º 299/XII (4.ª), que adequa o Estatuto da Ordem dos Nutricionistas ao regime previsto na Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, de todas as disposições relativas à convergência das profissões de dietista e de nutricionista.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:03:37:784&drc=00:03:23:591"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitando a exclusão da proposta de lei n.º 299/XII (4.ª), que adequa o Estatuto da Ordem dos Nutricionistas ao regime previsto na Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, de todas as disposições relativas à convergência das profissões de dietista e de nutricionista.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12620",
+    "PetAssunto": "Solicitam a exclusão da Proposta de Lei n.º 299/XII, que \"Adequa o Estatuto da Ordem dos Nutricionistas ao regime previsto na Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais\", de todas as disposições relativas à convergência das profissões de dietista e de nutricionista.",
+    "PetDataEntrada": "2015-04-01",
+    "PeticoesAssociadas": null,
+    "PetId": "12620",
+    "PetLeg": "XII",
+    "PetNr": "494",
+    "PetNrAssinaturas": "4891",
+    "PetNrAssinaturasInicial": "1936",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "549",
+        "obs": null,
+        "pag": [
+          "36-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-12-10",
+        "pubLeg": "XIII",
+        "pubNr": "14",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/36?pgs=36-38&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "745101",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-08",
+        "pubLeg": "XII",
+        "pubNr": "44",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/044/2015-05-08/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
