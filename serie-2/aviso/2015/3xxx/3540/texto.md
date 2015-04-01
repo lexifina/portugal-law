@@ -1,0 +1,5 @@
+Aviso n.º 3540/2015
+José Carlos Oliveira da Silva, Vice-Presidente da Câmara Municipal de Tabuaço, torna público que a segunda proposta de alteração ao Regulamento Municipal de Ação Social do Município de Tabuaço, foi aprovada pela Câmara Municipal na sua reunião ordinária de 24 de março de 2015, e, por isso, vai-se proceder à abertura do período de apreciação pública, nos termos do disposto no n.º 1 do artigo 118.º do Código do Procedimento Administrativo.
+Os interessados podem, e para efeitos do n.º 2 do artigo referenciado, no prazo de 30 dias, a partir da data da publicação no Diário da República, consultar a referida proposta na página eletrónica do Município (www.cm-tabuaco.pt) e nos Serviços de Ação Social, sitos na Rua Sá de Albergaria, em Tabuaço, e apresentar eventuais sugestões ou observações sobre o mesmo, as quais deverão ser formuladas, por escrito, até ao final do respetivo prazo, ao Presidente da Câmara Municipal.
+24 de março de 2015. - O Vice-Presidente da Câmara, José Carlos Oliveira da Silva.
+308530761
