@@ -12,6 +12,4 @@
 
 3 - As embaixadas e postos consulares devem facultar, sempre que possível, aos diversos órgãos do Conselho, a utilização das respectivas instalações para a realização de acções enquadráveis na sua actividade.
 
-4 - (Revogado.)
-
-5 - O apoio administrativo e técnico do Conselho é assegurado pelos serviços competentes do Ministério dos Negócios Estrangeiros.
+4 - Os membros do Conselho podem participar nas comissões sociais dos postos consulares da área geográfica do círculo eleitoral por onde são eleitos.

@@ -2,24 +2,18 @@
 
 ### Conselho Permanente
 
-1 - O conselho permanente é constituído por 12 membros, eleitos pelos conselhos regionais, de acordo com a seguinte representatividade:
+1 - O Conselho Permanente é constituído por:
 
-a) Conselho Regional das Comunidades Portuguesas em África, dois membros;
+a) Cinco membros eleitos pelo plenário, de entre os referidos na alínea a) do n.º 1 do artigo 3.º, dos quais, pelo menos, um terço deve ser de sexo diferente;
 
-b) Conselho Regional das Comunidades Portuguesas na Ásia e Oceânia, um membro;
+b) Os presidentes das comissões de carácter permanente que tenham sido constituídas.
 
-c) Conselho Regional das Comunidades Portuguesas na América do Norte, dois membros;
+2 - Os membros previstos na alínea a) do número anterior são eleitos por lista completa com igual número de suplentes, que ocuparão o lugar em caso de substituição.
 
-d) Conselho Regional das Comunidades Portuguesas na América Central e na América do Sul, três membros;
+3 - A eleição prevista no número anterior é realizada na primeira reunião do plenário após as eleições, de acordo com o previsto no regulamento do Conselho.
 
-e) Conselho Regional das Comunidades Portuguesas na Europa, quatro membros.
+4 - O Conselho Permanente pode ser convocado pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, pelo seu presidente ou por um mínimo de dois terços dos seus membros.
 
-2 - Os membros do conselho permanente são eleitos para a totalidade do mandato do Conselho, de acordo com regulamento a aprovar por cada conselho regional, devendo ser indicados membros suplentes em número igual ao dos efetivos.
+5 - O Conselho Permanente funciona na Assembleia da República, reunindo ordinariamente duas vezes por ano e extraordinariamente quando, por motivos especialmente relevantes, tal se justifique.
 
-3 - Cada conselho regional deve promover, na eleição dos respetivos membros para o conselho permanente, a paridade na representação de homens e mulheres, nos termos previstos no artigo 2.º da Lei Orgânica n.º 3/2006, de 21 de agosto, devendo, quanto aos conselhos regionais que elegem apenas um membro, ser assegurada, sempre que possível, a alternância de género na eleição.
-
-4 - O conselho permanente pode ser convocado pelo seu presidente, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas ou por um mínimo de dois terços dos seus membros e reúne, ordinariamente, uma vez por ano, e, extraordinariamente, quando, por motivos especialmente relevantes, tal se justifique.
-
-5 - Nas reuniões do conselho permanente podem participar outros membros do Conselho e personalidades convidadas para o efeito através do seu presidente.
-
-6 - O conselho permanente reúne em Portugal.
+6 - No caso das reuniões extraordinárias, o direito de convocação pelo presidente ou pelos membros do Conselho só poderá ser utilizado uma vez ao longo do mandato.

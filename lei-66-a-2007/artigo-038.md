@@ -2,32 +2,28 @@
 
 ### Competências do Conselho Permanente
 
-Compete ao conselho permanente:
+Compete ao Conselho Permanente:
 
-a) Eleger, anualmente, de entre os seus membros, o presidente, o vice-presidente e um secretário;
+a) Eleger o presidente, o vice-presidente e um secretário, de entre os membros previstos na alínea a) do n.º 1 do artigo 37.º;
 
 b) Aprovar a sua organização interna e o regulamento interno do seu funcionamento;
 
-c) (Revogada.)
+c) Preparar e acompanhar os trabalhos do Conselho, incluindo as reuniões plenárias;
 
-d) Acompanhar a execução das deliberações e recomendações do Conselho;
+d) Coordenar a execução das deliberações e recomendações do Conselho;
 
-e) Coordenar a execução do programa de ação a que se refere a alínea f) do artigo 33.º;
+e) Coordenar a execução do programa de acção aprovado;
 
-f) Elaborar o relatório de atividades anual e apresentar os relatórios aprovados nas reuniões do Conselho Regional sobre a situação das comunidades portuguesas nas respetivas áreas de jurisdição;
+f) Elaborar um relatório de actividades anual;
 
 g) Emitir parecer sobre as políticas relativas às comunidades portuguesas;
 
-h) Assegurar a representação do Conselho em reuniões internacionais e em outros órgãos institucionais;
+h) Assegurar a representação do Conselho em reuniões internacionais;
 
-i) Dar parecer sobre a gestão do orçamento do Conselho;
+i) Gerir o seu orçamento;
 
-j) (Revogada.)
+j) Apresentar, em cada ano, ao membro do Governo competente em matéria de emigração e comunidades portuguesas, o projecto de orçamento para o exercício das suas actividades, bem como o relatório e contas do seu funcionamento;
 
-l) (Revogada.)
+l) Contribuir para a organização de inventário das potencialidades humanas, nomeadamente culturais, artísticas e económicas, das comunidades portuguesas e disponibilizá-lo a todas as entidades interessadas;
 
-m) Tomar conhecimento de todas as consultas feitas ao Conselho;
-
-n) Homologar e registar as secções e subsecções locais definidas nos termos previstos no artigo 39.º-A;
-
-o) Assegurar as ligações entre os conselhos regionais e as secções e subsecções.
+m) Receber as consultas feitas pelo Governo e emitir os respectivos pareceres.

@@ -8,4 +8,4 @@ a) O exercício de cargos de representação em organismos oficiais portugueses 
 
 b) O exercício de actividade profissional nas representações consulares e diplomáticas de Portugal;
 
-c) O exercício de atividade profissional, independentemente da natureza do vínculo ou contrato ao abrigo do qual exerce funções, em qualquer pessoa coletiva pública, inclusive do setor empresarial do Estado.
+c) O exercício, em regime de destacamento ou requisição, de qualquer actividade profissional que se encontre sob jurisdição do Estado Português.

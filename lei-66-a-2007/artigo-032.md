@@ -2,40 +2,32 @@
 
 ### Plenário
 
-1 - Constituem o plenário do Conselho os 90 membros eleitos.
+1 - Constituem o Plenário do Conselho os membros eleitos e os membros designados.
 
 2 - Podem participar nas reuniões do plenário, sem direito a voto:
 
-a) O membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas;
+a) O membro do Governo competente em matéria de emigração e comunidades portuguesas;
 
-b) Os deputados à Assembleia da República eleitos pelos círculos eleitorais da emigração;
+b) Os deputados à Assembleia da República.
 
-c) Um deputado representante de cada grupo parlamentar da Assembleia da República.
-
-3 - Podem ser convidados a participar nas reuniões do plenário, sem direito a voto:
+3 - Pode ainda ser solicitada, ao membro do Governo competente em matéria de emigração e comunidades portuguesas, a participação nas reuniões do plenário, sem direito a voto, de:
 
 a) Membros do Governo da República e dos Governos Regionais;
 
 b) Deputados à Assembleia da República e membros das Assembleias Legislativas das regiões autónomas;
 
-c) (Revogada.)
+c) Representantes da Comissão Interministerial para as Comunidades Portuguesas;
 
-d) Representantes de serviços e organismos da Administração Pública;
+d) Representantes de organismos da Administração Pública;
 
-e) Representantes do Conselho Permanente das Comunidades Madeirenses e do Congresso das Comunidades Açorianas;
+e) Os parceiros sociais;
 
-f) Os parceiros sociais;
+f) Outras entidades nacionais ou estrangeiras.
 
-g) Outras entidades ou personalidades nacionais ou estrangeiras.
+4 - Os trabalhos das reuniões do plenário são conduzidos pela Mesa, constituída nos termos do n.º 2 do artigo 3.º, e eleita na primeira reunião do plenário subsequente às eleições para o Conselho.
 
-4 - O Conselho reúne em Portugal quando convocado, com a antecedência mínima de 60 dias, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas:
+5 - O plenário reúne em Portugal, quando convocado, com a antecedência mínima de 60 dias, pelo membro do Governo competente em matéria de emigração e comunidades portuguesas ou solicitada a este por um mínimo de dois terços dos seus membros.
 
-a) Ordinariamente, uma vez por mandato;
+6 - O plenário reúne ordinariamente de dois em dois anos e extraordinariamente quando, por motivos especialmente relevantes, tal se justifique.
 
-b) Extraordinariamente, quando motivos especialmente relevantes o justificarem.
-
-5 - Durante o período do respetivo mandato, qualquer membro do Conselho pode ser consultado e tomar iniciativas a título individual.
-
-6 - Compete ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas presidir aos trabalhos do plenário, no que é secretariado por dois conselheiros por si escolhidos, bem como formular os convites às entidades referidas no n.º 3.
-
-7 - Quando o membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas o determinar, o plenário pode reunir fora de Portugal.
+7 - Quando o membro do Governo competente em matéria de emigração e comunidades portuguesas o determinar, o plenário pode reunir fora de Portugal.
