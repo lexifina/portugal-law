@@ -1,0 +1,10 @@
+Aviso n.º 3750/2015
+Alteração ao Plano Diretor Municipal na área da AUGI norte de Olhos d'Água e respetiva dispensa de elaboração de Avaliação Ambiental
+Álvaro Manuel Balseiro Amaro, Presidente da Câmara Municipal de Palmela:
+Torna público que, conforme deliberações de reunião da Câmara Municipal dos dias 4 e 18 de março de 2015 e nos termos do artigo n.º 1 do artigo 74.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), em articulação com o Decreto-Lei n.º 232/2007 de 15 de junho com a redação introduzida pelo Decreto-Lei n.º 58/2011 de 04 de maio, se submetem a apreciação pública para recolha de sugestões, pelo período de 30 dias, as seguintes matérias:
+1 - A proposta de alteração às Plantas de Ordenamento e de Condicionantes do Plano Diretor Municipal de Palmela (publicado através da RCM n.º 115/1997 e alterado pelas declarações 185/2002 de 17/7 e 162/2005 de 27/07) de Espaço Agro-florestal cat.II e Espaço Natural para Espaço de Recuperação e Reconversão Urbanística, e a desafetação da área de REN, respetivamente, incidentes na área correspondente à AUGI suprarreferida.
+2 - A dispensa da elaboração de Avaliação Ambiental da alteração em presença.
+Os documentos em causa poderão ser consultados durante o período de 30 (trinta) dias úteis, a contar a partir do 6.º dia após publicação do presente Aviso na 2.ª série do Diário da República, estando disponíveis nas frentes de atendimento da CMP e na sede da Junta de Freguesia da Quinta do Anjo, nos respetivos horários de expediente. As reclamações, observações ou sugestões, deverão ser feitas por escrito e dirigidas ao Presidente da Câmara Municipal de Palmela, utilizando para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou em www.cm-palmela.pt.
+Para constar se publica o presente Aviso no Diário da República e na comunicação social, sendo ainda afixados, nos locais de estilo, Editais de igual teor.
+01 de abril de 2015. - O Presidente da Câmara, Álvaro Manuel Balseiro Amaro.
+208546905
