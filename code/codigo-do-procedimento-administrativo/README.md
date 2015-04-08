@@ -6,9 +6,9 @@ Decreto-Lei n.º 4/2015 · No uso da autorização legislativa concedida pela Le
 
 <https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-105602322>
 
-Em vigor desde 2015-04-07; 3 dias com versões no DR (o último em 2023-02-11). Os artigos do próprio Decreto-Lei n.º 4/2015 estão em [`decreto-lei-4-2015/`](decreto-lei-4-2015/).
+Em vigor desde 2015-04-08; 3 dias com versões no DR (o último em 2023-02-11). Os artigos do próprio Decreto-Lei n.º 4/2015 estão em [`decreto-lei-4-2015/`](decreto-lei-4-2015/).
 
-In force since 2015-04-07; 3 days with versions in the Diário da República (the last on 2023-02-11). The articles of Decreto-Lei n.º 4/2015 itself are in [`decreto-lei-4-2015/`](decreto-lei-4-2015/).
+In force since 2015-04-08; 3 days with versions in the Diário da República (the last on 2023-02-11). The articles of Decreto-Lei n.º 4/2015 itself are in [`decreto-lei-4-2015/`](decreto-lei-4-2015/).
 
 | Disposição | Ficheiro | Alterações | Última alteração |
 | --- | --- | ---: | --- |
