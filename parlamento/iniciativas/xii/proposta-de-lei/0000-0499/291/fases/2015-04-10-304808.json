@@ -1,0 +1,166 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "291",
+    "id": "39155",
+    "titulo": "Transforma a Câmara dos Despachantes Oficiais em Ordem dos Despachantes Oficiais e altera o respetivo Estatuto, aprovado pelo Decreto-Lei n.º 173/98, de 26 de junho, em conformidade com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-04-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35503",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-06-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-04-10",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-05-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link das audições no âmbitos das Inicitavias das Ordens Profissionais",
+            "URL": "http://www.parlamento.pt/sites/COM/XIILEG/10CSST/GTAEOP/Paginas/default.aspx"
+          },
+          {
+            "DataDocumento": "2015-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - votadas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6a5a4463304f5442694c5455334f5445744e475579596931694f57466a4c5759314d7a55305a4755334d6a426a5a5335515245593d&fich=fcd7490b-5791-4e2b-b9ac-f5354de720ce.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-16",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Republicação da PPL-291 Ordem dos Despachantes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d305a57517a597a45314c546b314d4451744e444e6a4d4331685a4751344c544e6d5a444e6d4e6a41324d47497a4d6935515245593d&fich=c4ed3c15-9504-43c0-add8-3fd3f6060b32.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-02",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5132596d566a4e44466d4c5759334e7a55744e475a6a5a6931695a44526b4c54466c596a4579593245335a44426a4d5335515245593d&fich=46bec41f-f775-4fcf-bd4d-1eb12ca7d0c1.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-02",
+            "pubLeg": "XII",
+            "pubNr": "161",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/161/2015-07-02/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "4-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-02",
+            "pubLeg": "XII",
+            "pubNr": "161",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/161/2015-07-02/4?pgs=4-61&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-02",
+            "numeroOficio": "Email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-06-30",
+            "descricao": "Texto Final apreciado artigo a artigo",
+            "detalhe": null,
+            "id": "70153",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "278",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-04-10",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "304808",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
