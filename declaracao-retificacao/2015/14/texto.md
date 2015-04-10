@@ -1,0 +1,7 @@
+Declaração de Retificação n.º 14/2015
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que a Resolução do Conselho de Ministros n.º 9/2015, de 3 de março, publicada no Diário da República, 1.ª série, n.º 43, de 3 de março de 2015, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No n.º 1, onde se lê:
+«1 - Desafetar do domínio público militar e integrar no domínio privado do Estado, afeto ao Ministério da Defesa Nacional, o PM 71/Lisboa - Convento do Coléginho, sito na Rua Marquês de Ponte de Lima, n.º 13, freguesia de Santa Maria Maior (anterior freguesia do Socorro), concelho de Lisboa, inscrito na matriz urbana sob o artigo P-105 da referida freguesia, e omisso na conservatória do registo predial, com vista à sua futura rentabilização.»
+deve ler-se:
+«1 - Desafetar do domínio público militar e integrar no domínio privado do Estado, afeto ao Ministério da Defesa Nacional, o PM 71/Lisboa - Convento do Coléginho, sito na Rua Marquês de Ponte de Lima, n.º 13, freguesia de Santa Maria Maior (anterior freguesia do Socorro), concelho de Lisboa, inscrito na matriz urbana sob o artigo P-3105 da referida freguesia, e omisso na conservatória do registo predial, com vista à sua futura rentabilização.»
+Secretaria-Geral, 2 de abril de 2015. - O Secretário-Geral, José Maria Belo de Sousa Rego.
