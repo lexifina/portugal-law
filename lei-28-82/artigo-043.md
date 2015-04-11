@@ -2,7 +2,7 @@
 
 ### Férias
 
-1 - Aplica-se ao Tribunal Constitucional o regime geral sobre férias judiciais relativamente aos processos de fiscalização abstracta não preventiva da constitucionalidade e legalidade de normas jurídicas e aos recursos de decisões judiciais.
+1 - Aplica-se ao Tribunal Constitucional o regime geral sobre férias judiciais relativamente aos processos de fiscalização abstrata não preventiva da constitucionalidade e legalidade de normas jurídicas, aos recursos de decisões judiciais e às respostas nos processos de apreciação da regularidade e da legalidade das contas de partidos políticos e de campanhas eleitorais.
 
 2 - Relativamente aos restantes processos não há férias judiciais.
 
