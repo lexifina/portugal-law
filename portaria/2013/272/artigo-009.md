@@ -6,11 +6,11 @@
 
 a) Certidão de teor da descrição e de todas as inscrições em vigor, emitida pela Conservatória do Registo Comercial;
 
-b) Certidão ou cópia autenticada dos documentos que titulem a posse, o arrendamento, a locação ou usufruto do imóvel onde se situem as instalações técnicas;
+b) Cópia da certidão dos documentos que titulem a posse, o arrendamento, a locação ou usufruto do imóvel onde se situem as instalações técnicas;
 
-c) Certidão ou cópia autenticada da licença ou autorização para atividade industrial ou comercial;
+c) (Revogada);
 
-d) Certidão do registo predial ou cópia autenticada, quando as instalações não sejam propriedade da entidade;
+d) Cópia da certidão do registo predial quando as instalações não sejam propriedade da entidade;
 
 e) Certidão comprovativa da inexistência de dívidas ao Estado e à segurança social, ou de que o seu pagamento se encontra assegurado, e do cumprimento das obrigações fiscais relativas ao ano em que o pedido é apresentado;
 
