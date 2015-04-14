@@ -2,7 +2,7 @@
 
 ### Verificação mediante áudio
 
-1 - Para considerar válido um alarme por este meio técnico, o sistema de áudio carece de ser ativado por sinal precedente de elemento de deteção contra intrusão.
+1 - Para considerar válido um alarme por este meio técnico, o sistema de áudio carece de ser ativado por sinal procedente de elemento de deteção contra intrusão.
 
 2 - O processo de verificação mediante áudio apenas pode começar quando o sinal de alarme seja recebido na central e confirmado pelo operador, devendo o sistema registar o som no momento exato do alarme e, pelo menos, até que se estabeleça comunicação entre a instalação e a central de alarmes.
 

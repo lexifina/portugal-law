@@ -6,7 +6,7 @@
 
 2 - Nos casos em que a instalação, manutenção ou assistência seja assegurada por entidade registada nos termos do n.º 3 do artigo 12.º da Lei n.º 34/2013, de 16 de maio, a inspeção a que se refere o número anterior é assegurada por essa entidade.
 
-3 - No caso de 3 alarmes confirmados comunicados às forças de segurança que resulte em falso alarme precedente da mesma ligação dentro do período de 60 dias, sem prejuízo do procedimento referido no número anterior, a entidade titular de alvará ou licença C deve proceder à suspensão da ligação e realizar ou promover intervenção técnica destinada a suprir ou corrigir as deficiências técnicas de conceção e instalação do sistema que possam existir.
+3 - No caso de 3 alarmes confirmados comunicados às forças de segurança que resulte em falso alarme procedente da mesma ligação dentro do período de 60 dias, sem prejuízo do procedimento referido no número anterior, a entidade titular de alvará ou licença C deve proceder à suspensão da ligação e realizar ou promover intervenção técnica destinada a suprir ou corrigir deficiências técnicas de conceção e instalação do sistema que possam existir.
 
 4 - O resultado do procedimento referido no número anterior é comunicado à força de segurança territorialmente competente, no prazo máximo de 20 dias úteis , após a verificação dos pressupostos previstos no número anterior.
 
