@@ -1,0 +1,8 @@
+Resolução da Assembleia da República n.º 38/2015
+Recomenda ao Governo um reforço na promoção dos produtos agrícolas nacionais em campanhas publicitárias e em mercados de proximidade
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Crie um grupo de trabalho entre o Ministério da Agricultura e do Mar e o Ministério da Economia para definir estratégias publicitárias para os produtos agrícolas e agroindústrias regionais portugueses, em mercados internos e externos, associando-os às respetivas regiões de Portugal.
+2 - O grupo de trabalho criado no âmbito do n.º 1 estabeleça para cada região turística campanhas de divulgação das produções agrícolas e agroindustriais típicas de cada local, envolvendo os principais centros turísticos da região, unidades hoteleiras e de restauração. Os planos regionais de promoção e divulgação devem ser adequados à realidade turística e agrícola de cada região, podendo passar por vendas diretas em hotéis e restaurantes, por estabelecer roteiros com uma rede de explorações agrícolas e centros agroindustriais a visitar, por campanhas tradicionais ou por outros métodos inovadores de marketing.
+3 - Estimule as autarquias a disponibilizar locais adequados para a realização de «mercados de proximidade», como forma de escoamento de produções regionais, de pequena escala e de produtos endógenos, desburocratizando e facilitando os procedimentos necessários para a venda, por parte dos pequenos produtores e das entidades gestoras dos locais.
+Aprovada em 2 de abril de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
