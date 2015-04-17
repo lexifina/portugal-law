@@ -1,8 +1,8 @@
 # Artigo 10.º
 
-### Número de membros por círculo eleitoral e critério de eleição
+### Critério de eleição
 
-1 - O número de membros do Conselho a eleger por cada círculo eleitoral a que se refere o artigo anterior é proporcional ao número de eleitores inscritos, que corresponde ao total dos portugueses inscritos no conjunto das áreas consulares que o integram, e é obtido segundo o método da média mais alta de Hondt, de acordo com os seguintes critérios:
+1 - Os membros do Conselho são eleitos, convertendo os votos em mandatos, segundo o método da média mais alta de Hondt, de acordo com os seguintes critérios:
 
 a) Apura-se em separado o número de votos recebidos por cada lista no círculo eleitoral respectivo;
 
@@ -12,6 +12,6 @@ c) Os mandatos pertencem às listas a que correspondem os termos da série estab
 
 d) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido menor número de votos.
 
-2 - O número de mandatos a eleger no conjunto eleitoral de cada país não pode exceder oito membros.
+2 - (Revogado.)
 
-3 - O número de mandatos a eleger por cada círculo eleitoral é definido para cada eleição através de portaria, a publicar até 65 dias antes da eleição.
+3 - (Revogado.)

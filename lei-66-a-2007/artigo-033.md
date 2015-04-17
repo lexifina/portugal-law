@@ -2,18 +2,18 @@
 
 ### Competências do plenário
 
-O Conselho reunido em plenário tem as seguintes competências:
+O Conselho, reunido em plenário, tem as seguintes competências:
 
 a) Aprovar o regulamento interno do seu funcionamento;
 
-b) Eleger os membros do Conselho Permanente;
+b) (Revogada.)
 
-c) Criar as comissões especializadas que entenda necessárias para apreciação das matérias objecto da sua competência;
+c) (Revogada.)
 
 d) Debater e deliberar sobre os documentos que para o efeito lhe sejam submetidos;
 
-e) Aprovar o relatório do mandato do Conselho Permanente cessante e deliberar sobre o programa de acção;
+e) Deliberar sobre o programa de ação para o quadriénio seguinte;
 
-f) Mandatar o Conselho Permanente para a coordenação da execução do programa de acção aprovado, bem como para assegurar a representação do Conselho das Comunidades Portuguesas em reuniões internacionais;
+f) Mandatar o conselho permanente para a coordenação da execução do programa de ação aprovado, bem como para assegurar a representação do Conselho em reuniões internacionais;
 
-g) Aprovar as fórmulas de distribuição pelas estruturas do Conselho das verbas que, em cada ano, lhe sejam atribuídas.
+g) (Revogada.)

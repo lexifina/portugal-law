@@ -16,7 +16,7 @@ d) Conselho Regional das Comunidades Portuguesas na América Central e na Améri
 
 e) Conselho Regional das Comunidades Portuguesas na Europa.
 
-3 - As secções regionais aprovam a respetiva organização interna e reúnem ordinariamente, pelo menos, uma vez por ano, presencialmente ou com recurso a meios telemáticos.
+3 - As secções regionais aprovam a respetiva organização interna e reúnem ordinariamente uma vez por ano.
 
 4 - As secções regionais reúnem por iniciativa da respetiva mesa ou do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas.
 
@@ -32,6 +32,4 @@ c) Eleger os conselheiros para as comissões temáticas nos termos definidos pel
 
 d) Pronunciar-se sobre matérias relacionadas com as comunidades portuguesas situadas na respetiva área geográfica;
 
-e) Organizar, para facultar ao conselho permanente, ao Governo e a outras instituições, o inventário das potencialidades culturais, artísticas e económicas das comunidades residentes na sua área;
-
-f) Elaborar um relatório, por país, com os elementos descritivos da situação da comunidade portuguesa, incluindo a referência ao número de associações, órgãos de comunicação social, situação do ensino e serviços consulares, situação económica e social, entre outros elementos relevantes para o conhecimento da comunidade.
+e) Organizar, para facultar ao conselho permanente, o inventário completo das potencialidades culturais, artísticas e económicas das comunidades instaladas na sua área.

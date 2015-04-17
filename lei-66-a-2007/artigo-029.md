@@ -10,6 +10,6 @@ b) Solicitar, por escrito, esclarecimentos aos titulares dos postos consulares n
 
 c) Reunir semestralmente com os titulares das missões diplomáticas e dos postos consulares;
 
-d) Reunir trimestralmente com os conselheiros e adidos do pessoal especializado do Ministério dos Negócios Estrangeiros nas Embaixadas de Portugal, de modo a recolher toda a informação relevante sobre as questões relacionadas com as respectivas áreas funcionais, designadamente sobre questões sociais, económicas, culturais e de ensino relativas às comunidades portuguesas;
+d) Reunir, pelo menos uma vez por ano na Embaixada de Portugal com os técnicos e diplomatas do Ministério dos Negócios Estrangeiros para troca de informações sobre questões de importância para o país e as comunidades portuguesas em domínios como o ensino, temas sociais, economia, associativismo, cultura, entre outros;
 
-e) Solicitar, por escrito, através do membro do Governo competente em matéria de emigração e comunidades portuguesas, aos diversos serviços dependentes do Estado Português no estrangeiro informações sobre questões relacionadas com as comunidades portuguesas e a emigração.
+e) Solicitar, por escrito, através do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, aos diversos serviços dependentes do Estado Português no estrangeiro informações sobre questões relacionadas com as comunidades portuguesas e a emigração.

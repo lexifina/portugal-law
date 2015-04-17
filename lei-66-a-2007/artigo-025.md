@@ -20,8 +20,8 @@ g) O trânsito em julgado de sentença condenatória em processo crime, de qualq
 
 2 - Para efeitos do disposto na alínea f) do número anterior, consideram-se justificadas as faltas dadas por motivos de doença e caso de força maior.
 
-3 - A perda de mandato é notificada ao interessado pelo membro do Governo com tutela sobre a emigração e as comunidades portuguesas, após emissão de parecer do embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede do círculo eleitoral respectivo.
+3 - A perda de mandato é notificada ao interessado pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, após emissão de parecer do embaixador no país onde se situe a sede do respetivo círculo eleitoral.
 
-4 - Da notificação prevista no número anterior cabe recurso, no prazo de 5 dias úteis, para o membro do Governo identificado no número anterior, que o decidirá no prazo de 10 dias úteis.
+4 - Da notificação prevista no número anterior cabe recurso, no prazo de 5 dias úteis, para o membro do Governo identificado no número anterior, que o decide no prazo de 10 dias úteis.
 
-5 - A perda de mandato torna-se efectiva desde a sua publicitação no sítio na Internet do Ministério dos Negócios Estrangeiros.
+5 - A perda de mandato torna-se efetiva desde a sua publicitação no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.

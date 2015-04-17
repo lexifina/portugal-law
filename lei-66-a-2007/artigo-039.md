@@ -2,4 +2,4 @@
 
 ### Deliberações do Conselho Permanente
 
-As deliberações do Conselho Permanente são tomadas por maioria simples dos votos dos membros presentes, tendo o presidente voto de desempate, sempre que se justifique.
+As deliberações do conselho permanente são tomadas por maioria simples dos votos dos membros presentes.

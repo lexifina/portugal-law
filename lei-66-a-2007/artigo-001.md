@@ -6,4 +6,4 @@
 
 ### Definição
 
-O Conselho das Comunidades Portuguesas, adiante designado de «Conselho», é o órgão consultivo do Governo para as políticas relativas à emigração e às comunidades portuguesas.
+O Conselho das Comunidades Portuguesas, adiante designado por Conselho, é o órgão consultivo do Governo para as políticas relativas às comunidades portuguesas no estrangeiro.

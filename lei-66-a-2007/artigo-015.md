@@ -4,11 +4,11 @@
 
 1 - Os presidentes das mesas de voto enviam à comissão eleitoral da respectiva área as actas de apuramento dos resultados eleitorais, rubricadas por todos os elementos que constituíram as mesas de voto.
 
-2 - O apuramento dos resultados da eleição em cada país cabe a uma assembleia de apuramento geral, que tem a seguinte composição:
+2 - O apuramento dos resultados da eleição em cada círculo cabe a uma assembleia de apuramento geral, com a seguinte composição:
 
-a) Um presidente, que é o embaixador de Portugal nesse país ou, tratando-se de um grupo de países, o embaixador de Portugal no país onde haja maior número de eleitores;
+a) Um presidente, que é o embaixador de Portugal no país em que se insere cada círculo ou, tratando-se de um grupo de postos consulares, o embaixador de Portugal no país onde haja maior número de eleitores;
 
-b) Um cônsul, ou quem desempenhe as suas funções;
+b) O titular de um posto consular com jurisdição sobre o respetivo círculo, ou quem desempenhe as suas funções;
 
 c) Dois elementos, sendo preferencialmente um jurista e uma pessoa com adequada formação matemática;
 

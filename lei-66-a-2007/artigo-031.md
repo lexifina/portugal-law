@@ -6,4 +6,4 @@
 
 ### Formas de organização do Conselho
 
-O Conselho funciona em Plenário, em Comissões e sob a forma de Conselho Permanente.
+O Conselho funciona em plenário, em conselho permanente, em comissões temáticas, em conselhos regionais, em secções e subsecções.

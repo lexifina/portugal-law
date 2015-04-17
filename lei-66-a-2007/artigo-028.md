@@ -8,10 +8,14 @@
 
 Constituem deveres dos conselheiros:
 
-a) Comparecer nas reuniões do plenário e das comissões que se venham a constituir e às quais pertençam, bem como nas reuniões do Conselho Permanente no caso dos membros eleitos para este órgão;
+a) Comparecer nas reuniões do Conselho onde tenham assento e das comissões que se venham a criar e às quais pertençam;
 
 b) Participar nas votações das deliberações das reuniões referidas na alínea anterior;
 
 c) Contribuir para o bom funcionamento das reuniões referidas na alínea a);
 
 d) Contribuir para o adequado desempenho das competências atribuídas ao Conselho.
+
+e) Cooperar com as comunidades portuguesas;
+
+f) Cooperar com instituições ou entidades dos países de acolhimento em matérias de interesse das comunidades portuguesas.

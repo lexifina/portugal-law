@@ -6,4 +6,4 @@
 
 ### Interpretação e integração
 
-As disposições do capítulo iii da presente lei devem ser interpretadas e integradas de harmonia com a legislação eleitoral para a Assembleia da República.
+As disposições da presente lei em matéria relacionada com o processo eleitoral para o Conselho, devem ser interpretadas e integradas de harmonia com a lei eleitoral para a Assembleia da República.

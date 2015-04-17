@@ -2,28 +2,32 @@
 
 ### Competências do Conselho Permanente
 
-Compete ao Conselho Permanente:
+Compete ao conselho permanente:
 
-a) Eleger o presidente, o vice-presidente e um secretário, de entre os membros previstos na alínea a) do n.º 1 do artigo 37.º;
+a) Eleger, anualmente, de entre os seus membros, o presidente, o vice-presidente e um secretário;
 
 b) Aprovar a sua organização interna e o regulamento interno do seu funcionamento;
 
-c) Preparar e acompanhar os trabalhos do Conselho, incluindo as reuniões plenárias;
+c) (Revogada.)
 
-d) Coordenar a execução das deliberações e recomendações do Conselho;
+d) Acompanhar a execução das deliberações e recomendações do Conselho;
 
-e) Coordenar a execução do programa de acção aprovado;
+e) Coordenar a execução do programa de ação a que se refere a alínea f) do artigo 33.º;
 
 f) Elaborar um relatório de actividades anual;
 
 g) Emitir parecer sobre as políticas relativas às comunidades portuguesas;
 
-h) Assegurar a representação do Conselho em reuniões internacionais;
+h) Assegurar a representação do Conselho em reuniões internacionais e em outros órgãos institucionais;
 
-i) Gerir o seu orçamento;
+i) Dar parecer sobre a gestão do orçamento do Conselho;
 
-j) Apresentar, em cada ano, ao membro do Governo competente em matéria de emigração e comunidades portuguesas, o projecto de orçamento para o exercício das suas actividades, bem como o relatório e contas do seu funcionamento;
+j) (Revogada.)
 
-l) Contribuir para a organização de inventário das potencialidades humanas, nomeadamente culturais, artísticas e económicas, das comunidades portuguesas e disponibilizá-lo a todas as entidades interessadas;
+l) (Revogada.)
 
-m) Receber as consultas feitas pelo Governo e emitir os respectivos pareceres.
+m) Tomar conhecimento de todas as consultas feitas ao Conselho;
+
+n) Homologar e registar as secções e subsecções locais definidas nos termos previstos no artigo 39.º-A;
+
+o) Assegurar as ligações entre os conselhos regionais e as secções e subsecções.
