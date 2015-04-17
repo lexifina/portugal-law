@@ -1,0 +1,272 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "857",
+    "id": "39315",
+    "titulo": "Estipula que nenhuma criança fica privada de médico de família"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35533",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-04-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-04-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Médicos de Família para todas as Crianças (PJL 857-PEV)",
+            "num": "19",
+            "orgId": "4304",
+            "publicacao": null,
+            "sigla": "GT-MFTC"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Associação Portuguesa de famílias Numerosas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a646a4f54646c596a466c4c5452684f574d744e446b324d7931684d325a6d4c544d794d5751354e6d49784d6d466a4d4335775a47593d&fich=7c97eb1e-4a9c-4963-a3ff-321d96b12ac0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Cáritas Portuguesa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b324d3251794e6a63324c57566a4f4445744e47466a597931694e4455334c54426d4e54553459324d314e6d4e695a6935775a47593d&fich=963d2676-ec81-4acc-b457-0f558cc56cbf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Associação Portuguesa de Medicina Geral e Familiar (APMGF)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59774d325a684d47566c4c546b785a5759744e474d3459693034596d497a4c54637a4d474a684e5441794e5745774f5335775a47593d&fich=603fa0ee-91ef-4c8b-8bb3-730ba5025a09.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245775a6d5530593256684c54466d4d6a49744e44426c595331684d4749314c545531596a59354d7a49315a47566d5a6935775a47593d&fich=a0fe4cea-1f22-40ea-a0b5-55b69325deff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251355a5445774e544e684c574a6a4e6a41744e475a6b4f4331694d32526a4c545a6d59575a6d4d324a694f5451344e5335775a47593d&fich=d9e1053a-bc60-4fd8-b3dc-6faff3bb9485.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Sociedade Portuguesa de Pediatria (SPP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251314e44426c4d474a6b4c57497a595459744e444e6b5a5331684e545a684c5751314d7a5269593246684d474930595335775a47593d&fich=d540e0bd-b3a6-43de-a56a-d534bcaa0b4a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da União Geral de Trabalhadores (UGT)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5179596a526d597a6b344c574a6c5a6a55744e4751774e693169596d45344c546c6d4f445a685a475a684f4751784f5335775a47593d&fich=42b4fc98-bef5-4d06-bba8-9f86adfa8d19.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Diretor-Geral da Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6868597a4669596a63324c5751334f4445744e4746695a6930354d6a67794c546c6a4d6a4d795a44646c5a4442684f4335775a47593d&fich=8ac1bb76-d781-4abf-9282-9c232d7ed0a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-28",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Sindicato Independente dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b344e325a6c4e4759354c546b7a4e5459744e474e6c5a4330344d7a6c684c5467355a4749334e32566b4e7a5a6d4d7935775a47593d&fich=987fe4f9-9356-4ced-839a-89db77ed76f3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-01",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Discussão e Votação na Especialidade e Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b775a5755305a6a4d334c5445304f5467744e4441354d5331694e5451324c5745314e44646d596a49304f5463344d6935775a47593d&fich=90ee4f37-1498-4091-b546-a547fb249782.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3518",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "19",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Direção-Geral da Saúde (DGS) em 2015-05-21"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato Independente dos Médicos em 2015-05-28"
+          },
+          {
+            "link": "",
+            "nome": "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses - Inter-Sindical em 2015-06-03"
+          },
+          {
+            "link": "",
+            "nome": "CARITAS em 2015-06-04"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa de Medicina Geral e Familiar em 2015-06-04"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa de Famílias Numerosas em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Sociedade Portuguesa de Pediatria em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Enfermeiros em 2015-06-08"
+          },
+          {
+            "link": "",
+            "nome": "UGT - União Geral de Trabalhadores em 2015-06-09"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Direção-Geral da Saúde (DGS) em 2015-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Sindicato Independente dos Médicos em 2015-05-21"
+          },
+          {
+            "link": "",
+            "nome": "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses - Inter-Sindical em 2015-05-20"
+          },
+          {
+            "link": "",
+            "nome": "CARITAS em 2015-05-21"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa de Medicina Geral e Familiar em 2015-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Associação Portuguesa de Famílias Numerosas em 2015-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Sociedade Portuguesa de Pediatria em 2015-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Enfermeiros em 2015-05-21"
+          },
+          {
+            "link": "",
+            "nome": "UGT - União Geral de Trabalhadores em 2015-05-20"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "167-168"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160/2015-07-01/167?pgs=167-168&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "167-168"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160/2015-07-01/167?pgs=167-168&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-01",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-04-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305094",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
