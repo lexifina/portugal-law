@@ -1,0 +1,179 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "295",
+    "id": "39159",
+    "titulo": "Aprova o novo Estatuto da Ordem dos Arquitetos, conformando-o com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35547",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-06-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-04-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a64694d546c6c5a6a52684c545978595463744e474a694e6931694d5463314c57457a4d6a6779595442695a6d5a6a4f5335515245593d&fich=7b19ef4a-61a7-4bb6-b175-a3282a0bffc9.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6b59324e6c595459774c54597a4e7a45744e444d354e693034596d466b4c54417a4d325a695a5449354e54646b4d4335515245593d&fich=6dccea60-6371-4396-8bad-033fbe2957d0.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do PSD e CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a42684f544e6a4d6d51354c5449355a4759744e444177597931684d7a4d784c544a6d4f47457a5a446c6c4e6a6c6a4e5335515245593d&fich=0a93c2d9-29df-400c-a331-2f8a3d9e69c5.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do PSD e CDS-PP - 2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466c596a4d30596a6b334c5446694e7a4d744e4755355a4330344d4441334c545a6d59325932596a49345a5745794d6935515245593d&fich=aeb34b97-1b73-4e9d-8007-6fcf6b28ea22.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-03",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 10º. CSST",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d784d4467304e3245334c57557a4d5441744e4451784d6931694f445a694c5751774f47466a4d325669593245354e5335515245593d&fich=c10847a7-e310-4412-b86b-d08ac3ebca95.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "131-193"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-02",
+            "pubLeg": "XII",
+            "pubNr": "161",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/161/2015-07-02/131?pgs=131-193&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "131-193"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-02",
+            "pubLeg": "XII",
+            "pubNr": "161",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/161/2015-07-02/131?pgs=131-193&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-07-02",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-07-02",
+            "dataRemessa": "2015-07-02",
+            "numeroOficio": "Email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-06-30",
+            "descricao": "Texto Final apreciação artigo a artigo",
+            "detalhe": null,
+            "id": "70156",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "278",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-04-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305135",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
