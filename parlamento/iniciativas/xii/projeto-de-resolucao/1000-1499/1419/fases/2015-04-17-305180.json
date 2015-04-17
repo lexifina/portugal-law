@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1419",
+    "id": "39332",
+    "titulo": "Medidas para a efetivação dos direitos sexuais e reprodutivos"
+  },
+  "fase": "Requerimento de adiamento de Votação",
+  "codigo_fase": "244",
+  "data_registo": "2015-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "244",
+    "Comissao": null,
+    "DataFase": "2015-04-17",
+    "EvtId": "140",
+    "Fase": "Requerimento de adiamento de Votação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305180",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "736571",
+        "obs": "Despacho n.º 95/XII do PAR (Constituição do Grupo de Trabalho para Análise dos Projetos de Resolução sobre a Promoção/Protecção da Natalidade)",
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-08",
+        "pubLeg": "XII",
+        "pubNr": "9",
+        "pubSL": "4",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/12/04/009/2015-05-08/2?pgs=2&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "743967",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-04-18",
+        "pubLeg": "XII",
+        "pubNr": "75",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/075/2015-04-18?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2015-04-17",
+        "descricao": "Requerimento apresentado pelo PPD/PSD, PS, CDS-PP, PCP e BE, solicitando a baixa à Comissão de Saúde, sem votação, por um período de 30 dias dos Projetos de Resolução n.ºs 1298/XII/4.ª (BE), 997/XII/3.ª (BE), 1414/XII/4.ª (BE), 1417/XII/4.ª (PCP), 1418/XII/4.ª (PCP), 1419/XII/4.ª (PCP), 1420/XII/4.ª (PCP), 1421/XII/4.ª (PCP), 1423/XII/4.ª (PCP), 1424/XII/4.ª (PCP), 1425/XII/4.ª (PPD/PSD e CDS-PP), 1426/XII/4.ª (PPD/PSD e CDS-PP), 1427/XII/4.ª (PPD/PSD e CDS-PP), 1428/XII/4.ª (PS) e 1429/XII/4.ª (PS).",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "69208",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "75",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
