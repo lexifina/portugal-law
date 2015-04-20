@@ -1,0 +1,9 @@
+Aviso n.º 4242/2015
+Unidade de Execução 1.ª Fase da Sub-UOPG 1 do Plano de Urbanização da Devesa
+Período de discussão pública
+Paulo Alexandre Matos Cunha, Presidente da Câmara Municipal de Vila Nova de Famalicão, torna público que a Câmara Municipal, na reunião ordinária de 12 de março de 2015, deliberou proceder à abertura do período de discussão pública da proposta da Unidade de Execução da 1.ª fase da Sub-UOPG 1 do Plano de Urbanização da Devesa, nos termos previstos no n.º 4 do artigo 77.º e no n.º 4 do artigo 120.º do Decreto-Lei n.º 380/99, de 22 de setembro, que aprovou o Regime Jurídico dos Instrumentos de Gestão Territorial.
+O período de discussão pública ocorrerá durante 22 dias, decorrido que seja o prazo de 5 dias, contado desde a publicação do presente aviso no Diário da República. Durante esse período os interessados poderão, por escrito, formular reclamações, sugestões ou observações, através do correio eletrónico planeamento@vilanovadefamalicao.org, por via postal ou por entrega pessoal no balcão de atendimento do Departamento de Ordenamento e Gestão Urbanística da Câmara Municipal.
+As reclamações, sugestões ou observações deverão ser dirigidas ao Presidente da Câmara Municipal e endereçados para a Praça Álvaro Marques, 4764-502 Vila Nova de Famalicão. Os interessados poderão ainda ser atendidos, nos dias úteis das 9h:00 às 16h:30, bem como poderão consultar a proposta da Unidade de Execução 1.ª Fase da Sub-UOPG 1 do Plano de Urbanização da Devesa no Departamento de Ordenamento e Gestão Urbanística, localizada na Praça Álvaro Marques, Vila Nova de Famalicão e na página eletrónica do Município de Vila Nova de Famalicão.
+Informa-se, para os devidos efeitos, que o presente aviso será divulgado na comunicação social e na página eletrónica do Município de Vila Nova de Famalicão em www.vilanovadefamalicao.org.
+30 de março de 2015. - O Presidente da Câmara Municipal, Paulo Alexandre Matos Cunha, Dr.
+208543584
