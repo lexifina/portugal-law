@@ -10,6 +10,6 @@
 
 2 - O passaporte temporário deve ser substituído por um passaporte comum logo que possível, ainda que dentro do prazo de validade.
 
-3 - A validade máxima do passaporte temporário é de seis meses.
+3 - A validade máxima do passaporte temporário é de um ano.
 
 4 - O passaporte temporário observa, naquilo que lhe é subsidiariamente aplicável, as mesmas condições e os mesmos princípios e requisitos do passaporte comum.
