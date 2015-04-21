@@ -1,0 +1,4 @@
+Aviso n.º 4322/2015
+José Manuel Macedo Dias, Presidente do Conselho de Administração da Ambisousa - Empresa Intermunicipal de Tratamento e Gestão de Resíduos Sólidos, E. I. M., torna público, no cumprimento do disposto na lei, que decorrido o período de audiência e apreciação pública, foi aprovado pelo Conselho Diretivo da Associação de Municípios do Vale do Sousa, na sua sessão de 15 de dezembro de 2014, o Regulamento de Serviço de Gestão de Resíduos Urbanos da Ambisousa, em conformidade com a versão definitiva que poderá ser consultada na página da Ambisousa em http://www.ambisousa.pt/fileadmin/user_upload/Dados/Informacao_administrativa/Regulamento_de_Servico_da_Ambisousa.pdf, o qual entrará em vigor 15 dias após a sua publicação no Diário da República.
+2 de abril de 2015. - O Presidente do Conselho de Administração, José Manuel Macedo Dias.
+308550947
