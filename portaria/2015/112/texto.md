@@ -1,0 +1,34 @@
+Portaria n.º 112/2015
+de 21 de abril
+O Decreto-Lei n.º 154/2005, de 6 de setembro, que cria e define as medidas de proteção fitossanitária destinadas a evitar a introdução e dispersão no território nacional e comunitário, incluindo nas zonas protegidas, de organismos prejudiciais aos vegetais e produtos vegetais qualquer que seja a sua origem ou proveniência, e o Decreto-Lei n.º 216/2001, de 3 de agosto, que estabelece as normas relativas à produção, controlo, certificação e comercialização de batata-semente, proíbem a introdução no território nacional e comunitário de batata-semente quando originária de determinados países.
+No entanto, a Comissão Europeia tem permitido aos Estados membros autorizar a importação de batata-semente da variedade Kennebec, originária do Canadá, mediante o estabelecimento de certas garantias fitossanitárias, como é o caso da pesquisa para deteção da eventual presença da bactéria de quarentena Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al., causadora da doença da podridão anelar da batata.
+Neste sentido, foi publicada a Portaria n.º 13/2012, de 13 de janeiro, que autorizou a importação temporária de batata-semente da variedade Kennebec, originária do Canadá, e fixou o prazo de validade das decisões de equivalência relativas à comercialização de batata-semente proveniente de países terceiros, em conformidade com o disposto na Decisão de Execução n.º 2011/778/UE, da Comissão, de 28 de novembro de 2011, que autorizou determinados Estados membros a prever derrogações temporárias de certas disposições da Diretiva n.º 2000/29/CE, do Conselho, de 8 de maio de 2000, relativamente à batata-semente originária de determinadas províncias do Canadá, e, complementarmente, na Decisão de Execução n.º 2011/820/UE, da Comissão, de 7 de dezembro de 2011, que autorizou os Estados membros a prorrogar, até 31 de março de 2014, o prazo de validade das decisões de equivalência relativas à comercialização de batata-semente proveniente de países terceiros.
+Entretanto, foi aprovada a Decisão de Execução n.º 2014/368/UE, da Comissão, de 16 de junho de 2014, que prorrogou até 31 de março de 2024 os prazos de importação temporária da batata-semente originária do Canadá, alterando a Decisão de Execução n.º 2011/778/UE, da Comissão, de 28 de novembro de 2011. Complementarmente foi igualmente aprovada a Decisão de Execução n.º 2014/367/UE, da Comissão, de 16 de junho de 2014, que prorrogou até 31 de março de 2017 o prazo de validade das decisões de equivalência relativas à comercialização de batata-semente proveniente de países terceiros.
+Importa, por isso, alterar a Portaria n.º 13/2012, de 13 de janeiro, em conformidade com o disposto nas referidas decisões comunitárias.
+Assim:
+Nos termos do artigo 31.º do Decreto-Lei n.º 154/2005, de 6 de setembro, alterado pelos Decretos-Leis n.os 193/2006, de 26 de setembro, 16/2008, de 24 de janeiro, 4/2009, de 5 de janeiro, 243/2009, de 17 de setembro, 7/2010, de 25 de janeiro, 32/2010, de 13 de abril, 95/2011, de 8 de agosto, 115/2014 de 5 de agosto, e 170/2014, de 7 de novembro, e de acordo com o disposto na subalínea iv) da alínea c) do artigo 2.º do Decreto-Lei n.º 216/2001, de 3 de agosto, alterado pelo Decreto-Lei n.º 21/2004, de 22 de janeiro, manda o Governo, pelo Secretário de Estado da Alimentação e da Investigação Agroalimentar, no uso das competências delegadas através do Despacho n.º 12256-A/2014, de 3 de outubro, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria autoriza a importação temporária de batata-semente da variedade Kennebec, originária do Canadá, e fixa o prazo de validade das decisões de equivalência relativas à comercialização de batata-semente proveniente de países terceiros, procedendo à primeira alteração à Portaria n.º 13/2012, de 13 de janeiro.
+Artigo 2.º
+Alteração à Portaria n.º 13/2012, de 13 de janeiro
+Os artigos 2.º e 7.º da Portaria n.º 13/2012, de 13 de janeiro, passam a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - É autorizada a importação de batata-semente da variedade Kennebec, originária das províncias de New Brunswick e Prince Edward Island, no Canadá, até 31 de março de 2024, durante os períodos de 1 de dezembro a 31 de março, sendo que a data de 31 de março de cada ano corresponderá ao último dia de entrada no território nacional, desde que cumpridas as exigências constantes da Decisão de Execução n.º 2011/778/UE, da Comissão, de 28 de novembro de 2011, alterada pela Decisão de Execução n.º 2014/368/UE, da Comissão, de 16 de junho de 2014, e nos termos previstos na presente portaria.
+2 - [...].
+3 - Os importadores desta batata-semente devem participar à Direção-Geral de Alimentação e Veterinária (DGAV), com a antecedência mínima de dez dias, os quantitativos a importar e a data provável da importação da batata, bem como a localização dos respetivos armazéns.
+Artigo 7.º
+[...]
+O prazo de validade das decisões de equivalência relativas à comercialização de batata-semente proveniente de países terceiros termina a 31 de março de 2017, de acordo com o disposto na Decisão de Execução n.º 2014/367/UE, da Comissão, de 16 de junho de 2014.»
+Artigo 3.º
+Referências legais
+As referências à Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) constantes da Portaria n.º 13/2012, de 13 de janeiro, consideram-se efetuadas à Direção-Geral de Alimentação e Veterinária (DGAV).
+Artigo 4.º
+Aplicação no tempo
+1 - O disposto na presente portaria é aplicável aos pedidos de autorização de importação de batata-semente da variedade Kennebec, originária das províncias de New Brunswick e Prince Edward Island, no Canadá, que tenham dado entrada na DGAV antes da data de entrada em vigor da mesma.
+2 - Os pedidos referidos no número anterior, não estão sujeitos ao cumprimento do prazo referido no n.º 3 do artigo 2.º da Portaria n.º 13/2012, de 13 de janeiro, na redação que lhe foi conferida pela presente portaria.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado da Alimentação e da Investigação Agroalimentar, Alexandre Nuno Vaz Baptista de Vieira e Brito, em 2 de abril de 2015.
