@@ -1,0 +1,4 @@
+Aviso n.º 4358/2015
+Luís Carlos Piteira Dias, Presidente da Câmara Municipal de Vendas Novas torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 175/2013, de 12 de setembro, que a Câmara Municipal, na sua reunião realizada dia 19 de março de 2015, deliberou aprovar o Regulamento Municipal de Apoio ao Associativismo do Concelho de Vendas Novas, tendo em vista a sua entrada em vigor no 1.º dia útil imediato à publicação do presente Aviso. O documento poderá ser consultado na Junta de Freguesia da Landeira e no Centro de Atendimento ao Publico da Câmara Municipal de Vendas Novas, todos os dias úteis das 9.00 às 12.30 e das 14.00 às 17.30 horas, bem como no sítio do Município de Vendas Novas na Internet (www.cm-vendasnovas.pt).
+20 de março de 2015. - O Presidente da Câmara Municipal, Luís Carlos Piteira Dias.
+308525034
