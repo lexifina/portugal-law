@@ -1,0 +1,119 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12631",
+  "numero": "505",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-04-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-07-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-05-20",
+        "DataArquivo": "2015-07-14",
+        "DataBaixaComissao": "2015-05-06",
+        "DataEnvioPAR": "2015-07-16",
+        "DataReaberta": "2015-05-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-05-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a59573876595441794d4755344e575574597a63314f4330304e445a684c5468694e5751744d5467784d546b77595751324d544d794c6e426b5a673d3d&fich=a020e85e-c758-446a-8b5d-181190ad6132.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-07-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a574579595449354f4751744d6d526c5a5330304e6d45304c5749334d3255744e3255304f544d774e6a466a4e44426a4c6e426b5a673d3d&fich=ea2a298d-2dee-46a4-b73e-7e493061c40c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3510",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-05-20",
+            "gp": "CDS-PP",
+            "id": "4289",
+            "motivoCessacao": null,
+            "nome": "Teresa Anjinho"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2015-06-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324e6b5a446c6c4e6a4d324c5451324e446b744e4749344e7931684d6a51344c5455785a44686c4e3246694e6d55774e7935775a47593d&fich=cdd9e636-4649-4b87-a248-51d8e7ab6e07.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12631",
+    "PetAssunto": "Solicita o agravamento das molduras penais dos crimes praticados contra menores",
+    "PetDataEntrada": "2015-04-23",
+    "PeticoesAssociadas": null,
+    "PetId": "12631",
+    "PetLeg": "XII",
+    "PetNr": "505",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
