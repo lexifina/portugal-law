@@ -1,0 +1,217 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "312",
+    "id": "39228",
+    "titulo": "Aprova o Estatuto da Ordem dos Enfermeiros, conformando-o com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35623",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-04-24",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-04-24",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Ordens Profissionais da Saúde (PPL - 297-298-311-312 - GOV)",
+            "num": "18",
+            "orgId": "4284",
+            "publicacao": null,
+            "sigla": "GT - OPS"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2015-05-26",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Anexo I - Estudo da Avaliação Económica do Modelo de Desenvolvimento Profissional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6c5a6a4a6a4e5459354c546c6c4e574d744e44417a4d4330355a446b794c545a6c596d5a6d4e54686a4e474d7a4d7935775a47593d&fich=3ef2c569-9e5c-4030-9d92-6ebff58c4c33.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-26",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Anexo I - Estudo da Avaliação Económica do Modelo de Desenvolvimento Profissional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6c4d6a55775a5445304c5755324e4441744e4459784f5330354d446c6c4c545a6a4f5751784d6d4d78595745794e5335775a47593d&fich=fe250e14-e640-4619-909e-6c9d12c1aa25.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-26",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Anexo II - Condições para atribuição dos títulos profissionais: Acordo de princípios",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45774e5446694e5441324c5459354d7a45744e44637a4e5331685954686a4c574d7a4d7a4d345a475a68596a526c4d4335775a47593d&fich=1051b506-6931-4735-aa8c-c3338dfab4e0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo Ordem dos Enfermeiros - Alteração Estatutária (Aditamento)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41334e5451334d4459314c5751784d6a45744e4463344e6930355a6a646a4c574d3459325135596a55795a54646d4e6935775a47593d&fich=07547065-d121-4786-9f7c-c8cd9b52e7f6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-21",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Contributos Ordem dos Enfermeiros - Anexo I Tabela Comparativa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3246684d7a517a5a6d59344c5467354f5749744e446c6d5a4331685a44417a4c5449325a6a457a5a4751324d44677a4d53356b62324e34&fich=aa343ff8-899b-49fd-ad03-26f13dd60831.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-21",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Contributos Ordem dos Enfermeiros - Anexo II Tabela Comparativa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d304e474e6959544d354c574a6b597a49744e474a684d7930344d7a4d784c545133597a526d4e6a67314d3245325979356b62324e34&fich=c44cba39-bdc2-4ba3-8331-47c4f6853a6c.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-21",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Contributos Ordem dos Enfermeiros - Anexo III Tabela Comparativa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a677a5a444177593251314c544a6d5a6a6b744e4441324e4331695a444e684c5749324d544e6a5a544a6a4e6a566c4d6935775a47593d&fich=83d00cd5-2ff9-4064-bd3a-b613ce2c65e2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-21",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Contributos Ordem dos Enfermeiros - Tabela Comparativa entre a PPL e a proposta da Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245794f5455334d57466d4c5463304d7a6b744e444e6a4e7931684d6d51794c5463794f4759315a546b32596d526c4e69356b62324e34&fich=a29571af-7439-43c7-a2d2-728f5e96bde6.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-26",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Dos Direitos do Cidadão à Prática Tutelada em Enfermagem - O Processo de Alteração do Estatuto da Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566a4d44566c5a6d45354c5752684f4449744e4759314f4330354e3255794c5459354e54557a4d6a4e6a4d54457a4e5335775a47593d&fich=ec05efa9-da82-4f58-97e2-6955323c1135.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório de Discussão e Votação na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566a59544e6b596d5a6c4c575a6b4e574d744e4467344e793168596a68684c545134595745315a446c68596a45785a6935775a47593d&fich=5ca3dbfe-fd5c-4887-ab8a-48aa5d9ab11f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final aprovado em Comissão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6a4f5451774d574d794c574d7859574d744e446c6a4d6931684d7a4a6d4c5459794e7a45324f5442694d445a6b595335775a47593d&fich=3c9401c2-c1ac-49c2-a32f-6271690b06da.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3518",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "18",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação indiciária na especialidade e texto final",
+            "pag": [
+              "746-854"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2015-07-17",
+            "pubLeg": "XII",
+            "pubNr": "172",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/172S2/2015-07-17/746?pgs=746-854&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação indiciária na especialidade e texto final",
+            "pag": [
+              "746-854"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2015-07-17",
+            "pubLeg": "XII",
+            "pubNr": "172",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/172S2/2015-07-17/746?pgs=746-854&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-17",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-07-15",
+            "descricao": null,
+            "detalhe": null,
+            "id": "70431",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "192",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-04-24",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305453",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
