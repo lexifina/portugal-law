@@ -1,0 +1,323 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "796",
+    "id": "39078",
+    "titulo": "Oitava alteração à Lei n.º 25/2006, de 30 de junho, que aprova o regime sancionatório aplicável às transgressões ocorridas em matéria de infraestruturas rodoviárias onde seja devido o pagamento de taxas de portagem"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2015-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10628",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2015-04-24",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39010",
+        "leg": "XII",
+        "nr": "771",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2045",
+            "obs": null,
+            "pag": [
+              "47-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-04-27",
+            "pubLeg": "XII",
+            "pubNr": "78",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/078/2015-04-27/47?pgs=47-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2089",
+            "obs": null,
+            "pag": [
+              "85-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-23",
+            "pubLeg": "XII",
+            "pubNr": "109",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/109/2015-07-23/85?pgs=85&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Procede à oitava alteração da Lei n.º 25/2006, de 30 de junho, visando um regime sancionatório mais equitativo nas situações de incumprimento do pagamento de taxas de portagem em infraestruturas rodoviárias"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-04-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-04-27",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/078/2015-04-27/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Procede à oitava alteração da Lei n.º 25/2006, de 30 de junho, visando um regime sancionatório mais equitativo nas situações de incumprimento do pagamento de taxas de portagem em infraestruturas rodoviárias; Oitava alteração à Lei n.º 25/2006, de 30 de junho, que aprova o regime sancionatório aplicável às transgressões ocorridas em matéria de infraestruturas rodoviárias onde seja devido o pagamento de taxas de portagem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-23",
+                "pubLeg": "XII",
+                "pubNr": "109",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/109/2015-07-23/85?pgs=85&org=PLC"
+              }
+            ],
+            "sumario": "Procede à oitava alteração da Lei n.º 25/2006, de 30 de junho, visando um regime sancionatório mais equitativo nas situações de incumprimento do pagamento de taxas de portagem em infraestruturas rodoviárias; Oitava alteração à Lei n.º 25/2006, de 30 de junho, que aprova o regime sancionatório aplicável às transgressões ocorridas em matéria de infraestruturas rodoviárias onde seja devido o pagamento de taxas de portagem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4375",
+                "nome": "Carlos Enes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-04-27",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/078/2015-04-27/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Procede à oitava alteração da Lei n.º 25/2006, de 30 de junho, visando um regime sancionatório mais equitativo nas situações de incumprimento do pagamento de taxas de portagem em infraestruturas rodoviárias; Oitava alteração à Lei n.º 25/2006, de 30 de junho, que aprova o regime sancionatório aplicável às transgressões ocorridas em matéria de infraestruturas rodoviárias onde seja devido o pagamento de taxas de portagem.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4378",
+                "nome": "Jorge Rodrigues Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-04-27",
+                "pubLeg": "XII",
+                "pubNr": "78",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/078/2015-04-27/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Procede à oitava alteração da Lei n.º 25/2006, de 30 de junho, visando um regime sancionatório mais equitativo nas situações de incumprimento do pagamento de taxas de portagem em infraestruturas rodoviárias; Oitava alteração à Lei n.º 25/2006, de 30 de junho, que aprova o regime sancionatório aplicável às transgressões ocorridas em matéria de infraestruturas rodoviárias onde seja devido o pagamento de taxas de portagem.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305471",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "744199",
+        "obs": null,
+        "pag": [
+          "43-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-04-27",
+        "pubLeg": "XII",
+        "pubNr": "78",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/078/2015-04-27/43?pgs=43&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2015-04-24",
+        "descricao": "Texto Final apresentado pela Comissão de Economia e Obras Públicas relativo ao Projeto de Lei n.º 771/XII/4.ª (PS) e Projeto de Lei n.º 796/XII/4.ª (PPD/PSD e CDS-PP)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "69309",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "78",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
