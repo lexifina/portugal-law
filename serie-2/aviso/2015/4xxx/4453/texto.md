@@ -1,0 +1,10 @@
+Aviso n.º 4453/2015
+Alteração ao Plano Diretor Municipal de Arronches
+Participação preventiva
+Eng.ª Fermelinda de Jesus Pombo Carvalho, Presidente da Câmara Municipal de Arronches, faz saber que, de modo a permitir a possibilidade de licenciamento de estabelecimentos comerciais e utilizações na área de restauração e bebidas, fora dos aglomerados urbanos, promovendo assim o surgimento de novos negócios, implica necessariamente a abertura de um procedimento de alteração ao Plano Diretor Municipal (PDM) de Arronches, uma vez que este instrumento de gestão territorial não contempla tal situação.
+Deste modo, e nos termos previstos no Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação, a Câmara Municipal de Arronches, em reunião realizada em 23 de março de 2015, deliberou, por unanimidade, iniciar o procedimento relativo à alteração do PDM.
+O prazo de elaboração da alteração ao PDM de Arronches é de 5 dias e estabelece-se o prazo de 15 dias, a partir a publicação do presente Aviso no Diário da República, para formulação de sugestões e prestação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da referida alteração, por todos os interessados.
+A deliberação da Câmara Municipal de Arronches e o documento de fundamentação com a indicação da necessidade de não se proceder a Avaliação Ambiental Estratégica, podem ser consultados no Serviço de Atendimento da Câmara de Arronches, durante as horas normais de expediente ou no site da autarquia, em http://www.cm-arronches.pt.
+Qualquer sugestão, informação ou observação deverá ser apresentada por escrito no Serviço de Atendimento da Câmara, em carta dirigida à Presidente da Câmara Municipal de Arronches ou por via eletrónica para o endereço geral@cm-arronches.pt, contendo qualquer uma das formas a identificação completa do seu subscritor.
+17 de abril de 2015. - A Presidente da Câmara, Eng.ª Fermelinda Carvalho.
+208542311
