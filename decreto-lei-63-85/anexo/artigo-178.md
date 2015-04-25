@@ -16,4 +16,4 @@ d) A colocação à disposição do público, da sua prestação, por fio ou sem
 
 3 - A remuneração inalienável e equitativa a fixar nos termos do número antecedente abrangerá igualmente a autorização para novas transmissões, a retransmissão e a comercialização de fixações obtidas para fins exclusivos de radiodifusão.
 
-4 - O direito previsto na alínea d) do n.º 1 só poderá ser exercido por uma entidade de gestão colectiva de direitos dos artistas, que se presumirá mandatada para gerir os direitos de todos os titulares, incluindo os que nela não se encontrem inscritos, assegurando-se que, sempre que estes direitos forem geridos por mais que uma entidade de gestão, o titular possa decidir junto de qual dessas entidades deve reclamar os seus direitos.
+4 - O direito previsto na alínea d) do n.º 1 pode ser exercido por uma entidade de gestão coletiva de direitos dos artistas, assegurando-se que, sempre que estes direitos forem geridos por mais que uma entidade de gestão, o titular possa decidir junto de qual dessas entidades deve reclamar os seus direitos.

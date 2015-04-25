@@ -48,6 +48,8 @@ s) A utilização de obra relacionada com a demonstração ou reparação de equ
 
 t) A utilização de uma obra artística sob a forma de um edifício, de um desenho ou planta de um edifício para efeitos da sua reconstrução ou reparação.
 
+u) A reprodução e a colocação à disposição do público de obras órfãs, para fins de digitalização, indexação, catalogação, preservação ou restauro e ainda os atos funcionalmente conexos com as referidas faculdades, por parte de bibliotecas, estabelecimentos de ensino, museus, arquivos, instituições responsáveis pelo património cinematográfico ou sonoro e organismos de radiodifusão de serviço público, no âmbito dos seus objetivos de interesse público, nomeadamente o direito de acesso à informação, à educação e à cultura, incluindo a fruição de bens intelectuais.
+
 3 - É também lícita a distribuição dos exemplares licitamente reproduzidos, na medida justificada pelo objectivo do acto de reprodução.
 
 4 - Os modos de exercício das utilizações previstas nos números anteriores não devem atingir a exploração normal da obra, nem causar prejuízo injustificado aos interesses legítimos do autor.
