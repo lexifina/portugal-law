@@ -1,0 +1,99 @@
+Lei n.º 32/2015
+de 24 de abril
+Transpõe a Diretiva n.º 2012/28/UE, do Parlamento Europeu e do Conselho, de 25 de outubro, relativa a determinadas utilizações permitidas de obras órfãs, e procede à décima alteração ao Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março.
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Objeto
+A presente lei transpõe para a ordem jurídica interna a Diretiva n.º 2012/28/UE, do Parlamento Europeu e do Conselho, de 25 de outubro, relativa a determinadas utilizações permitidas de obras órfãs, e procede à décima alteração ao Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março.
+Artigo 2.º
+Alteração ao Código do Direito de Autor e dos Direitos Conexos
+Os artigos 75.º, 178.º e 183.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março, e alterado pelas Leis n.os 45/85, de 17 de setembro, e 114/91, de 3 de setembro, pelos Decretos-Leis n.os 332/97, de 27 de novembro, e 334/97, de 27 de novembro, e pelas Leis n.os 50/2004, de 24 de agosto, 24/2006, de 30 de junho, 16/2008, de 1 de abril, 65/2012, de 20 de dezembro, e 82/2013, de 6 de dezembro, passam a ter a seguinte redação:
+«Artigo 75.º
+[...]
+1 - ...
+2 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) ...
+g) ...
+h) ...
+i) ...
+j) ...
+l) ...
+m) ...
+n) ...
+o) ...
+p) ...
+q) ...
+r) ...
+s) ...
+t) ...
+u) A reprodução e a colocação à disposição do público de obras órfãs, para fins de digitalização, indexação, catalogação, preservação ou restauro e ainda os atos funcionalmente conexos com as referidas faculdades, por parte de bibliotecas, estabelecimentos de ensino, museus, arquivos, instituições responsáveis pelo património cinematográfico ou sonoro e organismos de radiodifusão de serviço público, no âmbito dos seus objetivos de interesse público, nomeadamente o direito de acesso à informação, à educação e à cultura, incluindo a fruição de bens intelectuais.
+3 - ...
+4 - ...
+5 - ...
+Artigo 178.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - O direito previsto na alínea d) do n.º 1 pode ser exercido por uma entidade de gestão coletiva de direitos dos artistas, assegurando-se que, sempre que estes direitos forem geridos por mais que uma entidade de gestão, o titular possa decidir junto de qual dessas entidades deve reclamar os seus direitos.
+Artigo 183.º
+[...]
+1 - ...
+2 - ...
+3 - Se a fixação da prestação do artista intérprete ou executante num fonograma for objeto de uma publicação ou comunicação ao público lícitas, no decurso do prazo referido no n.º 1, o prazo de caducidade do direito é de 70 anos após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
+4 - (Revogado.)
+5 - ...
+6 - ...»
+Artigo 3.º
+Aditamento ao Código do Direito de Autor e dos Direitos Conexos
+São aditados ao Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março, os artigos 26.º-A e 26.º-B, com a seguinte redação:
+«Artigo 26.º-A
+Obras órfãs
+1 - Consideram-se obras órfãs, as obras intelectuais protegidas em que nenhum dos seus titulares de direitos estiver identificado ou se, apesar de identificado, nenhum deles tiver sido localizado.
+2 - Para efeitos do disposto no número anterior, são abrangidas as obras intelectuais objeto de publicação ou distribuição nos Estados membros da União Europeia, nomeadamente:
+a) As obras publicadas sob a forma de livros, folhetos, jornais, revistas ou outros escritos, existentes nas coleções de bibliotecas, arquivos, estabelecimentos de ensino ou museus acessíveis ao público e das instituições responsáveis pelo património cinematográfico ou sonoro;
+b) As obras cinematográficas ou audiovisuais ou fixadas em fonogramas existentes em coleções das entidades referidas na alínea anterior;
+c) As obras cinematográficas ou audiovisuais ou fixadas em fonogramas produzidos por organismos de radiodifusão de serviço público até 31 de dezembro de 2002 e existentes nos seus arquivos;
+d) As obras e os fonogramas nunca publicados ou distribuídos mas colocados à disposição do público pelas entidades referidas nas alíneas anteriores, com o consentimento dos titulares de direitos, desde que seja razoável presumir que estes não se oporiam às utilizações dos bens intelectuais feitas pelas entidades na prossecução dos seus objetivos de interesse público;
+e) As obras e qualquer outro material protegido inserido ou incorporado nas obras ou fonogramas referidos nas alíneas anteriores.
+3 - A atribuição da natureza de obra órfã e a sua utilização no âmbito dos objetivos de interesse público prosseguidos pelas instituições está condicionada à prévia realização e registo de pesquisa diligente e de boa-fé, a cargo das entidades mencionadas no número anterior.
+4 - São nomeadamente consideradas fontes adequadas para uma pesquisa diligente e de boa-fé:
+a) A base de dados Virtual International Authority File (VIAF);
+b) O sistema International Standard Book Number (ISBN);
+c) O depósito legal;
+d) Os registos da Biblioteca Nacional de Portugal, que inclui a Bibliografia Nacional Portuguesa, o Catálogo Bibliográfico da Biblioteca Nacional de Portugal, o Catálogo Bibliográfico PORBASE e os registos de International Standard Serials Number (ISSN);
+e) Os registos da Inspeção-Geral das Atividades Culturais, da Direção-Geral do Livro, dos Arquivos e das Bibliotecas, da Entidade Reguladora para a Comunicação Social e da Direção-Geral do Património Cultural;
+f) Os registos da Cinemateca Portuguesa-Museu do Cinema, I. P., designadamente do Arquivo Nacional das Imagens em Movimento e do Centro Português de Fotografia;
+g) As bases de dados das associações de editores e livreiros, das associações de produtores fonográficos, dos órgãos da comunicação social e das entidades de gestão coletiva de direitos de autor e direitos conexos.
+5 - No caso da primeira publicação ou difusão da obra ter sido efetuada em território português, a pesquisa diligente e de boa-fé deve ser efetuada neste território, com exceção das obras cinematográficas ou audiovisuais e das fixadas em fonograma que sejam produzidas ou coproduzidas por produtores com a sua sede ou a sua residência habitual num Estado membro da União Europeia, caso em que a pesquisa se efetua no Estado membro da sua sede ou da sua residência habitual.
+6 - No caso de obras que não tenham sido publicadas ou distribuídas, mas que tenham sido colocadas à disposição do público com o consentimento dos titulares de direitos, a pesquisa diligente e de boa-fé é realizada em Portugal caso a entidade que colocou a obra à disposição do público esteja estabelecida no país.
+7 - As entidades referidas no n.º 2 devem manter registos atualizados das suas pesquisas diligentes e de boa-fé e disponibilizá-los, regularmente e com brevidade, para constarem de uma base de dados central e publicamente acessível em linha, sob a gestão da Biblioteca Nacional de Portugal.
+8 - Os registos referidos no número anterior devem ser transmitidos regular e imediatamente ao Instituto de Harmonização do Mercado Interno, incluindo designadamente as seguintes informações:
+a) Os resultados das pesquisas diligentes que permitem a atribuição a uma obra do estatuto de obra órfã;
+b) As utilizações que as entidades fazem das obras órfãs;
+c) Todas as alterações feitas ao estatuto de obra órfã;
+d) Os dados de contacto e quaisquer informações pertinentes.
+9 - As entidades referidas no n.º 2 que façam utilização de obras órfãs, em ordem a assegurar exclusivamente a cobertura dos custos de digitalização, tratamento, salvaguarda e preservação destes bens, podem celebrar acordos comerciais com entidades públicas e privadas e obter os financiamentos devidos, não podendo, contudo, estabelecer qualquer restrição à utilização das referidas obras.
+Artigo 26.º-B
+Termo do estatuto de obra órfã
+1 - Os titulares de direitos anteriormente não identificados ou não localizados podem a todo o tempo reclamar os seus direitos sobre a obra ou outro material protegido, fazendo cessar o estatuto de obra órfã, sem prejuízo da possibilidade de se manter a utilização daqueles bens, caso se verifique a autorização do titular do direito.
+2 - Os titulares de direitos que ponham termo ao estatuto de obra órfã, têm direito a receber uma compensação equitativa pela utilização que foi feita das suas obras ou do material protegido, a cargo das entidades referidas no n.º 2 do artigo anterior.
+3 - Na fixação da compensação equitativa, tem-se em conta a natureza não comercial da utilização feita, a eventual gratuitidade do ato, os objetivos de interesse público envolvidos, designadamente o acesso à informação, à educação e à cultura, bem como os eventuais danos patrimoniais injustificados sofridos pelos titulares de direitos.»
+Artigo 4.º
+Norma revogatória
+É revogado o n.º 4 do artigo 183.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março.
+Artigo 5.º
+Entrada em vigor
+A presente lei entra em vigor no dia seguinte ao da sua publicação.
+Aprovada em 20 de fevereiro de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
+Promulgada em 31 de março de 2015.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendada em 17 de abril de 2015.
+O Primeiro-Ministro, Pedro Passos Coelho.
