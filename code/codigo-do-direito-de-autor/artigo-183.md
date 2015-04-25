@@ -12,9 +12,9 @@ c) Após a primeira emissão pelo organismo de radiodifusão, quer a emissão se
 
 2 - Se, no decurso do período referido no número anterior, o videograma ou filme protegidos forem objeto de publicação ou comunicação lícita ao público, o prazo de caducidade do direito é de 50 anos, após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
 
-3 - Se a fixação da execução do artista intérprete ou executante num fonograma for objeto de publicação ou comunicação lícita ao público, o prazo de caducidade do direito é de 70 anos, após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
+3 - Se a fixação da prestação do artista intérprete ou executante num fonograma for objeto de uma publicação ou comunicação ao público lícitas, no decurso do prazo referido no n.º 1, o prazo de caducidade do direito é de 70 anos após a data da primeira publicação ou da primeira comunicação ao público, consoante a que tiver ocorrido em primeiro lugar.
 
-4 - Se o fonograma não tiver sido legalmente publicado ou não tiver sido legalmente comunicado ao público no decurso do prazo referido no n.º 1, os direitos dos produtores de fonogramas caducam 70 anos após a data da primeira comunicação legal ao público.
+4 - (Revogado).
 
 5 - O termo «filme» designa uma obra cinematográfica ou áudio-visual e toda e qualquer sequência de imagens em movimento, acompanhadas ou não de som.
 
