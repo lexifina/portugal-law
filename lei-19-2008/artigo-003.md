@@ -1,0 +1,29 @@
+# Artigo 3.º
+
+### Aditamento à lei geral tributária
+
+É aditado o n.º 10 ao artigo 89.º-A da lei geral tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de Dezembro, com a seguinte redacção:
+
+«Artigo 89.º-A
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - A decisão de avaliação da matéria colectável com recurso ao método indirecto constante deste artigo, após tornar-se definitiva, deve ser comunicada pelo director de finanças ao Ministério Público e, tratando-se de funcionário ou titular de cargo sob tutela de entidade pública, também à tutela destes para efeitos de averiguações no âmbito da respectiva competência.»
