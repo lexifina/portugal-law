@@ -10,7 +10,7 @@ a) O valor do terreno e o valor da construção, sendo o valor do primeiro apena
 
 b) A parte do valor do terreno de exploração não sujeita a deperecimento e a parte desse valor a ele sujeita.
 
-3 - Em relação aos imóveis adquiridos sem indicação expressa do valor do terreno referido na alínea a) do número anterior, o valor a atribuir a este, para efeitos fiscais, é fixado em 25 % do valor global, a menos que o sujeito passivo estime outro valor com base em cálculos devidamente fundamentados e aceites pela Direcção-Geral dos Impostos.
+3 - Em relação aos imóveis adquiridos sem indicação expressa do valor do terreno referido na alínea a) do número anterior, o valor a atribuir a este, para efeitos fiscais, é fixado em 25 % do valor global, a menos que o sujeito passivo estime outro valor com base em cálculos devidamente fundamentados e aceites pela Autoridade Tributária e Aduaneira.
 
 4 - O valor a atribuir ao terreno, para efeitos fiscais, nunca pode, porém, ser inferior ao determinado nos termos do Código do Imposto Municipal sobre Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de Novembro.
 

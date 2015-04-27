@@ -14,4 +14,4 @@ b) Período máximo de vida útil de um elemento, o que se deduz de quota igual 
 
 4 - Os períodos mínimo e máximo de vida útil contam-se a partir da ocorrência dos factos mencionados no n.º 2 do artigo 1.º
 
-5 - Não são aceites como gastos para efeitos fiscais as depreciações ou amortizações praticadas para além do período máximo de vida útil, ressalvando-se os casos devidamente justificados e aceites pela Direcção-Geral dos Impostos.
+5 - Não são aceites como gastos para efeitos fiscais as depreciações ou amortizações praticadas para além do período máximo de vida útil, ressalvando-se os casos devidamente justificados e aceites pela Autoridade Tributária e Aduaneira.

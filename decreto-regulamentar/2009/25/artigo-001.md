@@ -4,7 +4,7 @@
 
 1 - Podem ser objecto de depreciação ou amortização os elementos do activo sujeitos a deperecimento, considerando-se como tais os activos fixos tangíveis, os activos intangíveis, os activos biológicos que não sejam consumíveis e as propriedades de investimento contabilizados ao custo histórico que, com carácter sistemático, sofrerem perdas de valor resultantes da sua utilização ou do decurso do tempo.
 
-2 - Salvo razões devidamente justificadas e aceites pela Direcção-Geral dos Impostos, as depreciações e amortizações só são consideradas:
+2 - Salvo razões devidamente justificadas e aceites pela Autoridade Tributária e Aduaneira, as depreciações e amortizações só são consideradas:
 
 a) Relativamente a activos fixos tangíveis e a propriedades de investimento, a partir da sua entrada em funcionamento ou utilização;
 

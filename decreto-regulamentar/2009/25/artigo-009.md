@@ -10,7 +10,7 @@ b) Se a laboração for superior a dois turnos, uma quota de depreciação corre
 
 2 - No caso do método das quotas decrescentes, o disposto no número anterior não pode ser aplicado relativamente ao primeiro período de depreciação, nem dele pode decorrer, nos períodos seguintes, uma quota de depreciação superior à que puder ser praticada nesse primeiro período.
 
-3 - O regime mencionado no n.º 1 pode igualmente ser extensivo a outros casos de desgaste mais rápido do que o normal, em consequência de outras causas devidamente justificadas, até ao máximo referido na alínea b) do n.º 1, com as limitações mencionadas no número anterior, desde que, mediante requerimento, seja obtido o reconhecimento prévio da Direcção-Geral dos Impostos.
+3 - A aplicação do regime mencionado no n.º 1 a ativos fixos tangíveis que estejam sujeitos a um desgaste mais rápido do que o normal em consequência de causas diferentes das previstas no referido número, desde que devidamente justificadas e respeitado o limiar máximo estabelecido na alínea b) do n.º 1 e as limitações mencionadas no número anterior, depende de autorização da Autoridade Tributária e Aduaneira, a qual deve ser solicitada até ao termo do primeiro período de tributação no qual o sujeito passivo pretenda aplicar aquele regime, através de requerimento em que se indiquem as quotas de depreciação a praticar e as razões que as justificam.
 
 4 - O disposto nos números anteriores não é aplicável, em regra, relativamente a:
 
