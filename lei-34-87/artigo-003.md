@@ -14,14 +14,14 @@ d) O de membro do Governo;
 
 e) O de deputado ao Parlamento Europeu;
 
-f) O de ministro da República para região autónoma;
+f) Representante da República nas regiões autónomas;
 
 g) O de membro de órgão de governo próprio de região autónoma;
 
-h) O de governador de Macau, de secretário-adjunto do Governo de Macau ou de deputado à Assembleia Legislativa de Macau;
+h) (Revogada);
 
 i) O de membro de órgão representativo de autarquia local;
 
-j) O de governador civil.
+j) (Revogada).
 
-2 - Para efeitos do disposto nos artigos 16.º a 19.º, equiparam-se aos titulares de cargos políticos nacionais os titulares de cargos políticos da União Europeia, independentemente da nacionalidade e residência e, quando a infracção tiver sido cometida, no todo ou em parte, em território português, os titulares de cargos políticos de outros Estados-Membros da União Europeia.
+2 - Para efeitos do disposto nos artigos 16.º a 19.º, equiparam-se aos titulares de cargos políticos nacionais os titulares de cargos políticos de organizações de direito internacional público, bem como os titulares de cargos políticos de outros Estados, independentemente da nacionalidade e residência, quando a infração tiver sido cometida, no todo ou em parte, em território português.

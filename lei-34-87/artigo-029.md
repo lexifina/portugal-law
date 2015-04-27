@@ -12,6 +12,6 @@ c) Deputado ao Parlamento Europeu;
 
 d) Deputado a assembleia regional;
 
-e) Deputado à Assembleia Legislativa de Macau;
+e) (Revogada);
 
 f) Membro de órgão representativo de autarquia local.
