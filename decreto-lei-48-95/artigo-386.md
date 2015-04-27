@@ -18,14 +18,18 @@ d) Quem, mesmo provisória ou temporariamente, mediante remuneração ou a títu
 
 2 - Ao funcionário são equiparados os gestores, titulares dos órgãos de fiscalização e trabalhadores de empresas públicas, nacionalizadas, de capitais públicos ou com participação maioritária de capital público e ainda de empresas concessionárias de serviços públicos.
 
-3 - São ainda equiparados ao funcionário, para efeitos do disposto nos artigos 372.º a 374.º:
+3 - São ainda equiparados ao funcionário, para efeitos do disposto nos artigos 335.º e 372.º a 374.º:
 
-a) Os magistrados, funcionários, agentes e equiparados da União Europeia, independentemente da nacionalidade e residência;
+a) Os magistrados, funcionários, agentes e equiparados de organizações de direito internacional público, independentemente da nacionalidade e residência;
 
-b) Os funcionários nacionais de outros Estados-Membros da União Europeia, quando a infracção tiver sido cometida, total ou parcialmente, em território português;
+b) Os funcionários nacionais de outros Estados, quando a infração tiver sido cometida, total ou parcialmente, em território português;
 
 c) Todos os que exerçam funções idênticas às descritas no n.º 1 no âmbito de qualquer organização internacional de direito público de que Portugal seja membro, quando a infracção tiver sido cometida, total ou parcialmente, em território português.
 
-d) Todos os que exerçam funções no âmbito de procedimentos de resolução extrajudicial de conflitos.
+d) Os magistrados e funcionários de tribunais internacionais, desde que Portugal tenha declarado aceitar a competência desses tribunais;
+
+e) Todos os que exerçam funções no âmbito de procedimentos de resolução extrajudicial de conflitos, independentemente da nacionalidade e residência, quando a infração tiver sido cometida, total ou parcialmente, em território português;
+
+f) Os jurados e árbitros nacionais de outros Estados, quando a infração tiver sido cometida, total ou parcialmente, em território português.
 
 4 - A equiparação a funcionário, para efeito da lei penal, de quem desempenhe funções políticas é regulada por lei especial.

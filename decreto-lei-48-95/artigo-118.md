@@ -12,7 +12,7 @@
 
 1 - O procedimento criminal extingue-se, por efeito de prescrição, logo que sobre a prática do crime tiverem decorrido os seguintes prazos:
 
-a) 15 anos, quando se tratar de crimes puníveis com pena de prisão cujo limite máximo for superior a 10 anos ou dos crimes previstos nos artigos 372.º, 373.º, 374.º, 374.º-A, 375.º, n.º 1, 377.º, n.º 1, 379.º, n.º 1, 382.º, 383.º e 384.º do Código Penal, 16.º, 17.º, 18.º e 19.º da Lei n.º 34/87, de 16 de Julho, alterada pelas Leis n.os 108/2001, de 28 de Novembro, e 30/2008, de 10 de Julho, e 8.º, 9.º, 10.º e 11.º da Lei n.º 50/2007, de 31 de Agosto, e ainda do crime de fraude na obtenção de subsídio ou subvenção;
+a) 15 anos, quando se tratar de crimes puníveis com pena de prisão cujo limite máximo for superior a 10 anos ou dos crimes previstos nos artigos 335.º, 372.º, 373.º, 374.º, 374.º-A, 375.º, n.º 1, 377.º, n.º 1, 379.º, n.º 1, 382.º, 383.º e 384.º do Código Penal, 16.º, 17.º, 18.º e 19.º da Lei n.º 34/87, de 16 de julho, alterada pelas Leis n.os 108/2001, de 28 de novembro, 30/2008, de 10 de julho, 41/2010, de 3 de setembro, 4/2011, de 16 de fevereiro, e 4/2013, de 14 de janeiro, 7.º, 8.º e 9.º da Lei n.º 20/2008, de 21 de abril, e 8.º, 9.º, 10.º e 11.º da Lei n.º 50/2007, de 31 de agosto, e ainda do crime de fraude na obtenção de subsídio ou subvenção;
 
 b) 10 anos, quando se tratar de crimes puníveis com pena de prisão cujo limite máximo for igual ou superior a 5 anos, mas que não exceda 10 anos;
 
