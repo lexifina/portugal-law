@@ -1,0 +1,381 @@
+# Acórdão do Tribunal Constitucional n.º 228/2015, de 2015-04-28
+
+**Acórdão:** 228/15
+
+**Processo:** 10/15
+
+**Formação:** 1ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 28.04.2015
+
+**Relator:** Cons. Maria de Fátima Mata-Mouros
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20150228.html
+
+## Texto integral
+
+ACÓRDÃO Nº 228/2015
+
+Processo n.º 10/15
+
+1.ª Secção
+
+Relator: Conselheiro Maria de Fátima Mata-Mouros
+
+Acordam, na 1.ª Secção do Tribunal Constitucional
+
+I – Relatório
+
+1. O Ministério Público interpôs recurso ao abrigo do disposto no artigo 70.º, n.º 1, alínea a) [por lapso tendo sido indicada a alínea g)] da Lei do Tribunal Constitucional, da decisão proferida pelo Tribunal do Porto – Instância Central, 1.ª Secção de Trabalho, em 28 de novembro de 2014, no âmbito de uma ação especial de reconhecimento da existência de contrato de trabalho instaurado contra a ora recorrida A., S.A.
+
+2. Na decisão recorrida, e no que ora importa, decidiu-se:
+
+“….- julga-se inconstitucional e decide-se não aplicar as normas constantes dos artºs 26.º, n.º 1 al. i) e 6, 186.º-K a 186.º-R do C. Pr. Trabalho, por violação dos princípios do Estado de Direito Democrático, na sua vertente do princípio da segurança jurídica e do princípio da confiança, da igualdade e da autonomia do M. Público e da separação de poderes.
+
+Consequentemente, absolve-se a ré da instância e declara-se a extinção da presente instância».
+
+Convidado a alegar, veio o Exmo. Procurador-Geral-Adjunto junto deste Tribunal, sustentar o provimento do recurso, apresentando as seguintes conclusões:
+
+«IX - Conclusões
+
+84. O Ministério Público interpôs recurso obrigatório, para este Tribunal Constitucional, do teor do douto despacho de fls. 561 a 573 dos presentes autos, proferido pela 1.ª Secção de Trabalho da Instância Central da Comarca do Porto, “(…) nos termos do art.º 70.º n.º 1 al- a) [embora por lapso tenha sido indicada a al. g)] da Lei do Tribunal Constitucional (…)”.
+
+85. O recurso tem por objeto a “(…) douta sentença de 03-11-2014, [que]decidiu não aplicar as normas constantes dos art.º 26.º, n.º 1 al- i) e 6, 186.ºK a 186.ªR do Código Processo do Trabalho (…)”.
+
+86. Os parâmetros constitucionais cuja constitucionalidade é invocada são os “princípios do Estado de Direito Democrático, na sua vertente do princípio da segurança jurídica e do princípio da confiança, da igualdade, da autonomia do Ministério Público e da separação de poderes”.
+
+87. A douta decisão judicial aqui impugnada, imputa às normas jurídicas plasmadas nos artigos 26.º, n.ºs 1, alínea i) e 6, e 186.º-K a 186.º-R do Código do Processo de Trabalho, com as alterações introduzidas pela Lei n.º 63/2013, de 27 de Agosto, a violação do princípio constitucional da separação de poderes, plasmado, conjugadamente, nos artigos 2.º, e 111.º, n.º 1, da Constituição da República Portuguesa.
+
+88. Todavia, conforme resulta, inequivocamente, do teor do n.º 1, do artigo 111.º, da Constituição da República Portuguesa, a norma constitucional que garante os princípios da separação e interdependência de poderes, reporta-se aos órgãos de soberania elencados pela mesma Constituição, entre os quais não se conta o Ministério Público.
+
+89. Ou seja, quaisquer relações que se estabeleçam entre entidades ou órgãos administrativos e o Ministério Público, ainda que violadoras do estatuto desta magistratura, não são analisáveis à luz do princípio constitucional da separação de poderes, razão pela qual, há que concluir que o bloco normativo desaplicado – as normas constantes dos artigos 26.º, n.º 1, alínea i), e n.º 6; e 186.º-K a 186.º-R, do Código de Processo do Trabalho –, não ofende o princípio constitucional da separação de poderes, plasmado, segundo o teor da douta decisão impugnada, conjugadamente, nos artigos 2.º, e 111.º, n.º 1, da Constituição da República Portuguesa.
+
+90. Também no que toca à alegada violação, por parte das normas legais ínsitas nos artigos 26.º, n.º 1, alínea i), e n.º 6; e 186.º-K a 186.º-R, do Código de Processo do Trabalho, do princípio da autonomia do Ministério Público, com assento no artigo 219.º, n.º 2, da Constituição da República Portuguesa, relembrámos que tal princípio tem-se definido e densificado no exercício da ação penal, função que justifica a sua consagração, enquanto garante da legalidade e da objetividade na ação do Ministério Público e, indiretamente, da promoção dos direitos de defesa dos arguidos.
+
+91. Concluímos, assim, que atuando o Ministério Público fora do campo do processo criminal e do exercício da titularidade da ação penal, no âmbito da prossecução de interesses públicos de que, contudo, não é titular, não se verificam os motivos - ou, pelo menos, não se verificam com as mesmas acuidade e intensidade – que justificam a consagração constitucional do princípio da autonomia, quer na sua dimensão interna, quer, fundamentalmente, na sua dimensão externa.
+
+92. Isto é, mesmo que admitíssemos, como o faz o Mm.º Juiz “a quo”, que a atuação processual do Ministério Público, no caso vertente, se encontra absolutamente determinada pela ação da A.C.T. (premissa que, conforme já referimos, não aceitamos), ainda assim não poderíamos concluir, atenta a natureza dos interesses em confronto e o âmbito de intervenção do mesmo Ministério Público, em sede de jurisdição laboral, que o princípio da autonomia teria sido violado.
+
+93. Todavia, este axioma, no qual se fundamenta a conclusão extraída pelo Mm.º Juiz “a quo”, a saber, o de que a “entidade administrativa é quem, em bom rigor, determina a propositura de uma ação declarativa ao Ministério Público”, ao qual “está vedada qualquer margem de apreciação da viabilidade da ação”, não só não tem qualquer correspondência na letra e no espírito da lei como, para além disso, não teve aplicação no caso presente e, ainda que o tivesse tido, tal aplicação não seria imputável ao Mm.º decisor (cuja declaração sobre esta matéria constitui mero obter dictum) mas, exclusivamente, ao Ministério Público subscritor da petição inicial, pelo que nunca poderia constituir ratio decidendi da presente decisão.
+
+94. Em consequência, e apesar de defendermos que a douta decisão recorrida não teve oportunidade de aplicar qualquer das normas jurídicas contestadas na dimensão julgada lesante do princípio da autonomia do Ministério Público, plasmado no n.º 2, do artigo 219.º, da Constituição da República Portuguesa, não poderemos deixar de entender que, independentemente de tal consideração, não se verifica a violação do referido princípio constitucional por parte de qualquer das normas legais ínsitas nos artigos 26.º, n.º 1, alínea i), e n.º 6; e 186.º-K a 186.º-R, do Código de Processo do Trabalho.
+
+95. Mais defendemos, quanto à alegada violação do princípio do Estado de Direito Democrático, que a previsibilidade da atuação dos poderes públicos, ínsita nos princípios da segurança jurídica e da confiança, reporta-se a expectativas, legitimamente criadas pelos cidadãos, resultantes de comportamentos dos poderes públicos e não, conforme resulta do sustentado na douta decisão recorrida, do desejo privado de imutabilidade da ordem jurídica.
+
+96. Ora, conforme resulta, com evidente clareza, do caso sob escrutínio, nunca o Estado criou, bem pelo contrário, nos cidadãos – trabalhadores ou empregadores -, qualquer expectativa de imutabilidade da ordem jurídica no tocante a meios processuais de defesa dos direitos e interesses dos trabalhadores, que os levasse a prever, conformando, assim, as suas ações, que não seria criado um tipo processual que permitisse reconhecer se um contrato estabelecido entre privados, independentemente do seu nomen juris, era, ou não, um contrato de trabalho.
+
+97. Assim, não ocorreu, pois, qualquer alteração imprevisível da ordem jurídica nem qualquer frustração de expectativas legítimas objetivamente consolidadas e, consequentemente, não se verifica que o bloco normativo desaplicado ofenda o princípio constitucional do Estado de direito democrático, plasmado no artigo 2.º da Constituição da República Portuguesa, quer na sua vertente de princípio da segurança jurídica, quer na do princípio da confiança.
+
+98. Sustentámos, por fim, que as normas legais mencionadas, também não violam o princípio constitucional da igualdade, o qual não é, sequer, convocável neste cenário de estrita contraposição entre regimes processuais distintos, marcados por diferenças insuscetíveis de se repercutirem significativamente nas esferas jurídicas dos cidadãos.
+
+99. Todavia, ainda que assim não fosse, a regulamentação da ação especial de reconhecimento da existência de contrato de trabalho obedece aos requisitos constitucionais que alicerçam o princípio da igualdade, não o ofendendo, nomeadamente, na sua dimensão de proibição do arbítrio, contrariamente ao sustentado na douta sentença recorrida, tratando de forma proporcionalmente diferente, situações, também elas, diferentes.
+
+100. Relembrámos, ainda, complementarmente, que as normas legais questionadas foram já objeto de análise, sob o prisma, quer da sua compatibilidade com o princípio constitucional do Estado de direito democrático, quer da sua conformidade com o princípio da igualdade, pelo Acórdão n.º 94/2015, deste Tribunal Constitucional, tendo sido julgadas não inconstitucionais
+
+101. Em face do ora expendido, não deverá o Tribunal Constitucional julgar materialmente inconstitucionais as normas jurídicas contidas nos artigos 26.º, n.º 1, alínea i), e n.º 6; e 186.º-K a 186.º-R, do Código de Processo do Trabalho, por violação do princípio constitucional da separação de poderes, plasmado nos artigos 2.º e 111.º, n.º 1, da Constituição da República Portuguesa; do princípio da autonomia do Ministério Público, proclamado no n.º 2, do artigo 219.º, da Constituição da República Portuguesa; do princípio do Estado de Direito Democrático, embasado no artigo 2.º da C.R.P, nas suas vertentes dos princípios da segurança jurídica e da confiança; e, por fim, do princípio da igualdade, previsto no artigo 13.º, da C.R.P.»
+
+Em sentido contrário pronunciou-se a recorrida, apresentando, por sua vez, as seguintes conclusões:
+
+«1.ª
+
+O presente recurso tem por objeto sentença que recusou aplicar as normas dos artigos 26.°/1, alínea i) e n.° 6, 186.°-K a 186.°-R, todos do Código de Processo do Trabalho, com fundamento na inconstitucionalidade material destas, por violação dos princípios do Estado de Direito democrático, na vertente da segurança jurídica e da proteção da confiança, da igualdade, da autonomia do Ministério Público e da separação de poderes.
+
+2.ª
+
+A decisão recorrida sustentou o juízo de inconstitucionalidade em fundamentos parcialmente distintos dos examinados no acórdão n.º 94/2015, tirado no processo n.° 822/14, que correu termos na 2.ª Secção deste Tribunal Constitucional, o que confere especificidade ao presente recurso.
+
+3.ª
+
+Nas presentes alegações, a Recorrida invoca outros argumentos para a inconstitucionalidade dos preceitos dos artigos 26.°/1, alínea i) e 186.°-K a 186.°-R, do Código de Processo do Trabalho, que o Tribunal Constitucional deve apreciar no exercício dos seus poderes de cognição, por não constituírem novas questões novas, já que não respeitam a outras normas, nem sequer a distintos sentidos normativos dos mesmos preceitos.
+
+4.ª
+
+A ação especial de reconhecimento da existência de contrato de trabalho é de simples apreciação positiva, estando o objeto do processo limitado à qualificação do vínculo contratual.
+
+5ª
+
+Atento aquele objeto, a decisão do processo apenas produz efeitos entre as partes da relação contratual a qualificar, dela não decorrendo consequências jurídicas para outras relações jurídicas conexas com o trabalho autónomo ou subordinado, designadamente de natureza tributária ou previdencial.
+
+6.ª
+
+Os tribunais apenas são chamados a resolver conflitos de interesses, pelo que a ação especial de reconhecimento da existência de contrato de trabalho deveria supor a existência do interesse específico em clarificar ou esclarecer situação jurídica controvertida.
+
+7.ª
+
+A ação especial de reconhecimento da existência de contrato de trabalho pode ser instaurada e prosseguida sem que exista litígio entre os contraentes, o que significa que estes podem ser obrigados a litigar, sem e mesmo contra a sua vontade.
+
+8.ª
+
+Da tramitação da referida ação decorre que pode ser declarada pelo Tribunal a existência de contrato de trabalho entre o putativo empregador e o putativo trabalhador, sem que este último tenha tido sequer oportunidade de conhecer a existência dessa pretensão e mesmo que esta não corresponda à sua vontade.
+
+9.ª
+
+Basta pensar na situação de revelia do putativo empregador (omissão da contestação), cujo efeito é a sua condenação no pedido (fr. art.os 186.°-L e 186.°-M do Código de Processo do Trabalho), sem que a outra parte do vínculo contratual - i.e., o putativo trabalhador - tenha sido sequer chamada à ação e tenha nela intervindo.
+
+10.ª
+
+O contrato de trabalho insere-se no domínio da autonomia da vontade, não se tratando de negócio jurídico que possa ser imposto às partes pela lei, contra a vontade destas.
+
+11.ª
+
+Num ordenamento jurídico caracterizado pela autonomia da vontade e pela liberdade de contratar, mesmo no domínio do Direito do Trabalho, não seria expectável que um Tribunal pudesse afirmar a vigência de vínculos ignorando o que querem os respetivos sujeitos.
+
+12.ª
+
+Na ordem jurídica nacional, o princípio da proteção da confiança garante ao cidadão que cumpre o contrato que celebrou, por acordo e sem conflito de interesses com a outra parte, que por iniciativa de terceiro estranho ao pacto, não será arrastado para litígio que se esgota na qualificação jurídica de vínculo de natureza privada.
+
+13.ª
+
+Assim, a possibilidade conferida a terceiro pela Lei n.° 63/2013 de, sem interesse dos contraentes, nem conflito entre eles, convocar a tutela jurisdicional do Estado para qualificar o vínculo que estes mantêm, num ordenamento jurídico caracterizado pela liberdade contratual e autonomia da vontade, infringe a segurança jurídica e a proteção da confiança, ínsitas no princípio do Estado de Direito democrático (art.° 2.° da Constituição da República).
+
+14.ª
+
+Com os mesmos fundamentos, entende ainda a Recorrida que as normas em causa violam os valores fundamentais da autonomia privada e da liberdade contratual, reconduzíveis ao princípio do Estado de Direito democrático, bem como o princípio fundamental da escolha de género de trabalho, previstos nos artigos 2.° e 47.º, n.º 1 da Constituição da República.
+
+15.ª
+
+A diferença de tratamento processual entre as situações idênticas de putativo trabalhador abrangido por ação inspetiva da Autoridade para as Condições do Trabalho e outro que o não seja, quanto ao ónus de impulso processual, representação por mandatário judicial, tramitação processual urgente e responsabilidade pelos custos do processo, ofende o princípio constitucional da igualdade de tratamento, consagrado no artigo 13.° da Constituição da República.
+
+16.ª
+
+O legislador conforma a ação de reconhecimento da existência de contrato de trabalho a partir da iniciativa exclusiva da Autoridade para as Condições do Trabalho, a quem pertence participação que dá início à instância.
+
+17.ª
+
+Não é reconhecida ao Ministério Público a faculdade de decisão quanto à pertinência da ação, estando este obrigado a apresentar a petição inicial após receção da participação da Autoridade para as Condições do Trabalho, o que se afigura contrário aos princípios constitucionais da autonomia do Ministério Público e da separação de poderes, previstos nos artigos 219.º, n.° 2 e 111.º, n.° 1 da Constituição da República.
+
+18.ª
+
+Atentas as dimensões constitucionais convocadas - os princípios da proteção da confiança, da liberdade de iniciativa económica, do direito a tutela jurisdicional efetiva mediante processo equitativo, do direito a advogado, da autonomia do Ministério Público, da liberdade de escolha do género de trabalho e da igualdade - e o modo como a ação de reconhecimento da existência de contrato de trabalho se estrutura em oposição àquelas, a inconstitucionalidade atinge todas as normas dos artigos 26.°/1, alínea i) e 186.°-K a 186.°-R, do Código de Processo do Trabalho, na redação dada pela Lei n.° 63/2013.»
+
+Cumpre apreciar e decidir.
+
+II – Fundamentação
+
+3. Nos presentes autos foi recusada pelo Tribunal do Porto – Instância Central, 1.ª Secção de Trabalho, com fundamento em inconstitucionalidade, a aplicação das normas constantes dos artigos 26.º, n.º 1 alínea i) e 6, 186.º-K a 186.º-R do Código de Processo do Trabalho, por violação dos princípios do Estado de Direito Democrático, na sua vertente do princípio da segurança jurídica e do princípio da confiança, da igualdade e da autonomia do Ministério Público e da separação de poderes.
+
+O Tribunal Constitucional já teve oportunidade de se pronunciar sobre as normas em análise em arestos que abordam questões em tudo idênticas às dos presentes autos, designadamente nos Acórdãos n.ºs 94/2015 e 204/2015, disponíveis em www.tribunalconstitucional.pt.
+
+Neste último pode ler-se:
+
+« (…)2. Do mérito do recurso
+
+O tribunal a quo recusou a aplicação das normas dos artigos 26.º, n.º 1, al. i), e n.º 6, e 186.º-K a 186.º-R, todos do CPT, com fundamento em inconstitucionalidade decorrente da violação dos princípios do Estado de Direito Democrático, da liberdade, da iniciativa privada, da liberdade de escolha do género de trabalho, da igualdade, da autonomia do Ministério Público e do direito a um processo equitativo.
+
+Antes de apreciar se o regime normativo cuja aplicação foi recusada viola os referidos parâmetros constitucionais, importa, para melhor análise das questões de constitucionalidade, proceder a um enquadramento das alterações legislativas introduzidas pela Lei n.º 63/2013, de 27 de agosto.
+
+Tal enquadramento foi efetuado no Acórdão n.º 94/15, proferido por esta 2.ª Secção (acessível em www.tribunalconstitucional.pt), no qual se apreciou a inconstitucionalidade do mesmo regime normativo, numa situação em que a sua aplicação havia igualmente sido recusada, embora com fundamento na violação de parâmetros não inteiramente coincidentes com que foram invocados na decisão recorrida proferida nos presentes autos.
+
+Escreveu-se o seguinte, a esse respeito, no mencionado acórdão:
+
+«Esta lei [Lei n.º 63/2013, de 27 de agosto], conforme consta do seu artigo 1.º, teve como propósito instituir «mecanismos de combate à utilização indevida do contrato de prestação de serviços em relações de trabalho subordinado». Tendo em vista esse objetivo, criou um procedimento administrativo da competência da Autoridade para as Condições do Trabalho (previsto no 15.º-A da Lei n.º 107/2009, de 14 de setembro, aditado pelo artigo 4.º da referida Lei n.º 63/2013, de 27 de agosto), bem como uma nova ação judicial (a ação de reconhecimento da existência de contrato de trabalho), que passou a integrar o conjunto das ações enumeradas no artigo 26.º, estando a sua tramitação prevista nos artigos 186.º-K a 186.º-R do Código de Processo do Trabalho, aditados pelo artigo 5.º da referida Lei n.º 63/2013, de 27 de agosto.
+
+Este último diploma teve a sua origem no Projeto de Lei n.º 142/XII, resultante de iniciativa legislativa de cidadãos, em cuja exposição de motivos constava o seguinte:
+
+«A precariedade atinge hoje cerca de 2 milhões de trabalhadores em Portugal e o seu crescimento ameaça todos os outros. Com a situação atual, defrauda-se o presente, insulta-se o passado e hipoteca-se a futuro. Desperdiçam-se as aspirações de toda uma geração de novos trabalhadores, que não pode prosperar. Desperdiçam-se décadas de esforço, investimento e dedicação das gerações anteriores, também elas cada vez mais afetadas pelo desemprego e pela precariedade. Desperdiçam-se os recursos e competências, retiram-se esperanças e direitos e, portanto, uma perspetiva de futuro.
+
+É necessário desencadear uma mudança qualitativa do país. É urgente terminar com a situação precária para a qual estão a ser arrastados os trabalhadores, que legitimamente aspiram a um futuro digno com direitos em todas as áreas da vida.
+
+Assim, a presente "Lei Contra a Precariedade" introduz mecanismos legais de modo a evitar a perpetuação das formas atípicas e injustas de trabalho, incidindo sobre três vetores fundamentais da degradação das relações laborais com prejuízo claro para o lado do trabalhador: os falsos recibos verdes, a contratação a prazo e a trabalho temporário.»
+
+No decurso do processo legislativo, o referido Projeto de Lei n.º 142/XII baixou à Comissão de Segurança Social e Trabalho, sem votação, por um prazo de 30 dias, após o que esta Comissão apresentou um texto de substituição que, tendo merecido aprovação, veio dar origem à Lei n.º 63/2013, de 27 de agosto.
+
+Este diploma legislativo deve ser enquadrado num âmbito mais vasto, inserindo-se num conjunto de outras intervenções legislativas anteriores orientadas no sentido de combater a utilização indevida da figura do contrato de prestação de serviços em relação de trabalho subordinado e a consequente precaridade laboral daí decorrente.
+
+Importa, por isso, proceder a uma breve análise desta problemática.
+
+Como é sabido, a qualificação de determinada relação jurídica como sendo um contrato de trabalho implica a aplicação a essa relação de um determinado regime jurídico, não só no plano laboral, mas também, por exemplo, para efeitos contributivos. São frequentes, por isso, como forma de impedir a aplicação destas regras, as práticas de fuga ao regime laboral.
+
+Tais práticas traduzem-se, muitas vezes, em titular expressamente o contrato em causa como contrato de prestação de serviços, embora, na sua execução prática, esse contrato tenha as características de um contrato de trabalho, designadamente, pelo facto de o trabalhador estar colocado perante o empregador numa posição de subordinação. Noutros casos, em que o contrato não é reduzido a escrito, a contratação do trabalhador é efetuada em regime de trabalho independente, com a emissão do correspondente recibo pelo trabalhador, quando na verdade este se encontra a desempenhar as duas funções em regime de subordinação (é a questão dos denominados “falsos independentes” ou falsos “recibos verdes”).
+
+Este recurso indevido à figura da prestação de serviços em situação de existência de uma verdadeira relação de trabalho subordinado tem diversas implicações negativas laterais, entre as quais, o prejuízo que as mesmas acarretam para a sustentabilidade dos sistemas de pensões em face da entrada tardia dos jovens no mercado de trabalho propriamente dito e pela menor entrada de contribuições que o trabalho dissimulado (e também o trabalho não declarado) representam, para além de implicar uma concorrência desleal entre empresas (sobre esta matéria e, em geral, sobre o regime da ação de reconhecimento da existência de contrato de trabalho, cfr. Pedro Petrucci de Freitas, Da ação de reconhecimento da existência de contrato de trabalho: breves comentário, in Revista da Ordem dos Advogados, Ano 73 - Vol. IV - Out./Dez -2013, pp. 1423 e ss.).
+
+Por outro lado, embora o trabalhador seja, por regra, o principal interessado na qualificação dessa relação jurídica como contrato de trabalho (por ser essa a qualificação que, tendencialmente, lhe confere uma melhor tutela), a sua situação de dependência económica em face da entidade empregadora faz com que se sinta normalmente inibido de acionar judicialmente esta última entidade no sentido de ser reconhecida a natureza laboral da referida relação, o que torna ainda mais difícil a prova dos elementos característicos de um contrato de trabalho, designadamente, da existência de uma relação de subordinação.
+
+Face a este conjunto de problemas e dificuldades, não é de agora a preocupação do legislador em combater estas práticas de evasão à tutela laboral, tendo vindo a adotar diversas medidas com esse objetivo.
+
+Uma dessas medidas traduziu-se na consagração de presunções de laboralidade, com a finalidade de facilitar a prova da existência de um contrato de trabalho em situações de dúvida, protegendo a posição do trabalhador no diferendo sobre a qualificação do seu contrato.
+
+Embora tivesse sido anteriormente tentada a sua consagração (designadamente, através de um projeto legislativo apresentado 1996), só com o Código do Trabalho de 2003 se veio a prever expressamente, no artigo 12.º, uma presunção de laboralidade. Esta norma, embora com novas formulações, foi mantida quer com as alterações ao Código do Trabalho entretanto efetuadas pela Lei n.º 9/2006, de 20 de março, quer no Código de Trabalho de 2009, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.
+
+A Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho de 2009, assumiu claramente o propósito de combater as situações de dissimulação de contrato de trabalho.
+
+Tendo em vista esse objetivo, procedeu a alterações relativas à caracterização do contrato de trabalho e introduziu medidas de combate ao falso trabalho independente.
+
+Assim, o referido Código definiu o contrato de trabalho como sendo «aquele pelo qual uma pessoa singular se obriga, mediante retribuição, a prestar a sua atividade a outra ou outras pessoas, no âmbito de organização e sob a autoridade destas» (cfr. artigo 11.º do Código do Trabalho) e, conforme se disse, alterou a redação do artigo 12.º do anterior código, mantendo a consagração de uma presunção de laboralidade.
+
+Assim, no n.º 1 deste artigo 12.º estabeleceu-se uma presunção da existência de um contrato de trabalho nos casos em que, na relação entre a pessoa que presta uma atividade e outra ou outras que dela beneficiam, se verifiquem algumas das características enumeradas nas alíneas a) a e) desta norma.
+
+De realçar ainda que na redação introduzida em 2009, o artigo 12.º, do Código do Trabalho passou a sancionar, no seu n.º 2, como contraordenação muito grave imputável ao empregador, as situações de qualificação fraudulenta do negócio, cujo objetivo seja a subtração ao regime laboral, quando se possa com isso causar prejuízo ao trabalhador ou ao Estado, estabelecendo o n.º 3, em caso de reincidência, a aplicação de uma sanção acessória de privação do direito a subsídio ou benefício outorgado por entidade ou serviço público, por período até dois anos.
+
+Estas medidas foram justificadas na exposição de motivos da Proposta de Lei n.º 216/X (que veio a dar origem à referida Lei n.º 7/2009, de 12 de fevereiro). Refere-se aí que «[…] com o desiderato de combater a precariedade e a segmentação dos mercados de trabalho, alteram-se os pressupostos que operam para a presunção da caracterização do contrato de trabalho e cria-se de uma nova contraordenação, considerada muito grave, para cominar as situações de dissimulação de contrato de trabalho, com o desiderato de combater o recurso aos “falsos recibos verdes” e melhorar a eficácia da fiscalização neste domínio».
+
+Foi também este o propósito subjacente à aprovação da Lei n.º 107/2009, de 14 de setembro (que estabelece o regime jurídico do procedimento aplicável às contraordenações laborais e de segurança social), conforme resulta da exposição de motivos da Proposta de Lei n.º 282/X (que esteve na origem do referido diploma legislativo), onde consta, além do mais, ter sido acordado entre o XVII Governo Constitucional e os parceiros com assento na Comissão Permanente de Concertação Social (CPCS) «[…] que o novo regime processual de contraordenações deveria prever a atribuição de competências à Autoridade para as Condições de Trabalho (ACT) e aos serviços do Instituto da Segurança Social, I. P. (ISS, I. P.) para qualquer um deles poder intervir na identificação de situações de dissimulação de contrato de trabalho, de forma a prevenir e a desincentivar o incumprimento dos deveres sociais e contributivos das empresas e a garantir o direito dos trabalhadores à proteção conferida pelo sistema de segurança social», acrescentando-se ainda que «tal desiderato só será alcançável se forem criados os mecanismos e as condições que permitam aos serviços envolvidos dispor dos instrumentos legais que os habilitem, designadamente, a exercer uma ação fiscalizadora, simultaneamente eficaz e preventiva, no combate à utilização abusiva dos “falsos recibos verdes”».
+
+Por outro lado, a preocupação com o combate à utilização indevida do contrato de prestação de serviços teve também reflexos no âmbito do regime das contribuições devidas à segurança social. Assim, o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social (aprovado pela Lei n.º 110/2009, de 16 de setembro), relativamente aos trabalhadores independentes, considera no seu artigo 132.º que são obrigatoriamente abrangidos por tal regime «as pessoas singulares que exerçam atividade profissional sem sujeição a contrato de trabalho ou a contrato legalmente equiparado, ou se obriguem a prestar a outrem o resultado da sua atividade, e não se encontrem por essa atividade abrangidos pelo regime geral de segurança social dos trabalhadores por conta de outrem». No entanto, o artigo 140.º, n.º 1, do mesmo diploma, estabelece que «As pessoas coletivas e as pessoas singulares com atividade empresarial, independentemente da sua natureza e das finalidades que prossigam, que no mesmo ano civil beneficiem de pelo menos 80% do valor total da atividade de trabalhador independente, são abrangidas pelo presente regime na qualidade de entidades contratantes».
+
+A obrigação contributiva destas entidades contratantes «constitui-se no momento em que a instituição de segurança social apura oficiosamente o valor dos serviços que lhe foram prestados e efetiva-se com o pagamento da respetiva contribuição» e, verificada tal situação (que, nos termos do referido artigo 140.º, n.º 1, ocorre sempre que as pessoas coletivas e as pessoas singulares, independentemente da sua natureza e das finalidades que prossigam, beneficiem, no mesmo ano civil, de pelo menos 80% do valor total da atividade do trabalhador independente), são notificados «os serviços de inspeção da Autoridade para as Condições do Trabalho ou os serviços de fiscalização do Instituto da Segurança Social, I. P., com vista à averiguação da legalidade da situação».
+
+Deste regime legal resulta que, constatando-se que determinado trabalhador prestou no mesmo ano civil, em regime de trabalho independente, 80% do valor total da sua atividade à mesma entidade, se considera que poderão existir indícios de uma verdadeira relação de trabalho subordinado, sendo essa a razão da notificação dos serviços de inspeção da Autoridade para as Condições do Trabalho ou dos serviços de fiscalização do Instituto da Segurança Social, I. P., para fiscalização da legalidade da situação.
+
+Assim, como o demonstram todas as referidas intervenções legislativas no sentido de combater tal prática, o problema do recurso indevido à figura da prestação de serviços em situações de existência de uma verdadeira relação de trabalho subordinado não é um problema novo.
+
+É certo que a Lei n.º 63/2013, de 27 de agosto, veio estabelecer, por um lado, a regulamentação do procedimento a adotar pela ACT quanto constate que se verifica uma situação de utilização indevida do contrato de prestação de serviços em relações de trabalho subordinado e, por outro lado, na sequência deste procedimento, uma nova ação de reconhecimento da existência de contrato de trabalho.
+
+O referido procedimento encontra-se regulado no artigo 15.º-A da Lei n.º 107/2009, de 14 de setembro, aditado pela Lei n.º 63/2013, de 27 de agosto. De acordo com o n.º 1 deste artigo, no caso de o inspetor do trabalho verificar a existência de indícios de uma situação de prestação de atividade, aparentemente autónoma, em condições análogas ao contrato de trabalho, lavra um auto e notifica o empregador para, no prazo de 10 dias, regularizar a situação, ou se pronunciar dizendo o que tiver por conveniente.
+
+Na hipótese, prevista no n.º 2 do referido artigo 15.º-A, de o empregador fazer prova da regularização da situação do trabalhador, designadamente mediante a apresentação do contrato de trabalho ou de documento comprovativo da existência do mesmo, reportada à data do início da relação laboral, o procedimento é arquivado.
+
+No caso de se mostrar decorrido o prazo previsto no n.º 1 deste artigo 15.º-A sem que a situação do trabalhador em causa se mostre devidamente regularizada, o n.º 3 determina que a ACT remeta, em cinco dias, participação dos factos para os serviços do Ministério Público da área de residência do trabalhador, acompanhada de todos os elementos de prova recolhidos, para fins de instauração de ação de reconhecimento da existência de contrato de trabalho.
+
+Assim, o que este artigo 15.º-A da Lei n.º 107/2009, de 14 de setembro, trouxe de inovador foi a criação de um específico procedimento formal em que estabelece quais os trâmites a adotar em caso de utilização indevida do contrato de prestação de serviços, ficando a ACT, enquanto entidade de natureza pública, vinculada à sua observância.
+
+No entanto, no plano substantivo, esta matéria já havia sido, conforme se referiu, objeto de intervenção legislativa. Por outro lado, mesmo antes da entrada em vigor da Lei n.º 63/2013, de 27 de agosto, a ACT tinha já a possibilidade de, em tais casos, – seguindo eventualmente outros trâmites que não os que estão agora especificamente regulados no artigo 15.º-A da Lei n.º 107/2009, de 14 de setembro – atuar no âmbito das suas competências e atribuições, por via de ação inspetiva, de modo a promover a regularização da utilização indevida do contrato de prestação de serviços em relações de trabalho subordinado, bem como participar as infrações à Segurança Social, Administração Tributária e Aduaneira e ao Ministério Público. A isto acresce que, tal como atualmente, o trabalhador poderia também recorrer à via judicial no sentido de ver regularizada uma situação de dissimulação do contrato de trabalho, através de uma ação de processo comum (cfr., a este respeito, Pedro Petrucci de Freitas, ob. cit., pp.1426-1427).»
+
+Tendo em conta este enquadramento do regime instituído pela Lei n.º 63/2013, de 27 de agosto, bem como os seus antecedentes legislativos, importa agora apreciar as questões de constitucionalidade em causa nos autos.
+
+2.1. Da violação dos princípios do Estado de direito democrático, da liberdade de escolha do género de trabalho e da igualdade
+
+Conforme se referiu, a inconstitucionalidade das normas objeto do presente recurso foi recentemente apreciada no Acórdão n.º 94/2015, proferido por esta 2.ª secção, em que se concluiu pela sua não inconstitucionalidade, considerando-se não haver violação dos princípios do Estado de direito democrático, da liberdade de escolha do género de trabalho e da igualdade, parâmetros que tinham sido invocados pela decisão recorrida como fundamento da recusa de aplicação das aludidas normas.
+
+Assim, uma vez que, no que respeita à apreciação da inconstitucionalidade de tais normas com base nestes fundamentos, a questão de constitucionalidade objeto do presente recurso é em tudo semelhante à que foi apreciada no referido Acórdão n.º 94/15, remete-se para a respetiva fundamentação e, reiterando-se o entendimento aí expresso, conclui-se que as normas constantes dos artigos 26.º, n.º 1, alínea i), e 186.º-K a 186.º-R, todos do CPT, não violam os princípios do Estado de direito democrático, da liberdade de escolha do género de trabalho e da igualdade.
+
+2.2. Da violação do direito à liberdade e do princípio da liberdade de iniciativa económica privada
+
+Segundo a decisão recorrida, o regime da ação de reconhecimento da existência de contrato de trabalho traduz-se na imposição de uma ação declarativa, que deverá prosseguir independentemente e até contra a vontade do trabalhador, o que viola o princípio da liberdade contratual e da autonomia privada, consagrados no artigo 405.º do Código Civil, que «é corolário dos princípios constitucionais da liberdade (art. 27º) e da iniciativa privada (art. 61º), conformadores da unidade do sistema jurídico e subjacentes ao Estado de Direito Democrático (art. 2.º)».
+
+Ainda de acordo com a referida decisão, o regime desta ação representa uma «intromissão do Estado em matéria que contende com a liberdade contratual, obrigando os contraentes a litigar, mesmo que não exista qualquer conflito», violando, por isso, «os Princípios Fundamentais do Estado de Direito Democrático, da Liberdade e da Iniciativa Privada consagrados respetivamente nos artigos 2º, 27º e 61º da CRP».
+
+A decisão recorrida invoca a violação, além do mais, do artigo 27.º da Constituição, no qual, sob a epígrafe «Direito à liberdade e à segurança» se estabelece, no n.º 1 que «[t]odos têm direito à liberdade e à segurança».
+
+Conforme refere o Ministério Público nas suas alegações e como resulta claro também dos n.ºs 2 e 3 do referido artigo 27.º, o que está aqui em causa é o direito à liberdade física, à possibilidade de movimentação sem constrangimentos. Tutela-se aqui, conforme tem sido consensualmente reconhecido, um aspeto parcelar e específico das diversas dimensões em que se manifesta a liberdade humana, o direito à liberdade física, entendida «como liberdade de movimentos corpóreos, de “ir e vir”, a liberdade ambulatória ou de locomoção» (cfr. Jorge Miranda / Rui Medeiros, Constituição Portuguesa Anotada, Tomo I, 2.ª Edição, Coimbra Editora, 2010, p. 638) ou como «direito de não ser detido, aprisionado, ou de qualquer modo fisicamente confinado a um determinado espaço, ou impedido de se movimentar» (cfr. J. J. Gomes Canotilho e Vital Moreira, Constituição da República Portuguesa Anotada, Vol. I, 4.ª Edição, Coimbra Editora, 2007, p. 478). É este também o entendimento que, de forma reiterada, tem sido sustentado pelo Tribunal Constitucional (cfr., entre outros, os acórdãos n.ºs 479/94, 663/98, 471/2001, 71/2010, 181/2010 e 54/2012).
+
+Assim, é manifesto que não está aqui em causa a violação do direito à liberdade, na dimensão consagrada no artigo 27.º da Constituição, podendo, quanto muito, estar em causa outra dimensão da liberdade, concretamente, a liberdade de iniciativa económica privada a que se refere o artigo 61.º da Constituição ou, conforme sugere também a decisão recorrida e é sustentado pela Recorrida, os valores da autonomia privada e da liberdade contratual, subjacentes ao princípio do Estado de direito democrático. É o que importa agora apreciar.
+
+A garantia da liberdade de iniciativa económica privada, consagrada no n.º 1 do referido artigo 61.º, tem sido entendida num duplo sentido: «por um lado, na liberdade de iniciar uma atividade económica (liberdade de criação de empresa, liberdade de investimento, liberdade de estabelecimento) e, por outro lado, na liberdade de organização, gestão e atividade da empresa (liberdade de empresa, liberdade do empresário, liberdade empresarial» (cfr., J. J. Gomes Canotilho e Vital Moreira, Constituição da República Portuguesa Anotada, Vol. I, 4.ª Edição, Coimbra Editora, 2007, p. 790).
+
+Importa, contudo salientar que, embora a lei fundamental garanta a iniciativa económica privada como direito fundamental, tal não significa que a gestão de cada empresa fique entregue ao puro arbítrio do empresário, pois que, conforme resulta do artigo 61.º, n.º 1, a iniciativa económica privada exerce-se livremente «nos quadros definidos pela Constituição e pela lei e tendo em conta o interesse geral».
+
+Daí que incumba ao Estado não só uma obrigação de estímulo à atividade empresarial privada, mas também, concomitantemente, a obrigação de fiscalização dessa atividade, no sentido de verificar se as obrigações legais são cumpridas e de, em caso de incumprimento, punir as infrações verificadas.
+
+Assim, conforme se refere também no Acórdão n.º 94/2015, a respeito da invocada violação da liberdade de escolha do género de trabalho, o regime da ação de reconhecimento da existência de contrato de trabalho não tem em vista impor a quem presta determinada atividade remunerada que o faça, contra a sua vontade, em regime de contrato de trabalho, mesmo que o pretenda fazer em regime de trabalho independente. O que se pretende é combater a utilização indevida do contrato de prestação de serviço nas situações em que, apesar de determinada relação ser formalmente titulada pelas partes como contrato de prestação de serviço, corresponda, substancialmente, a uma situação de trabalho subordinado, à qual deveria, por isso, ser aplicado o regime laboral.
+
+E, conforme se refere ainda no aludido Acórdão, independentemente das eventuais deficiências técnicas deste regime (matéria sobre a qual não compete ao Tribunal Constitucional pronunciar-se), a verdade é que o mesmo garante a intervenção nos autos, quer do trabalhador, quer da entidade empregadora, sendo facultada ao trabalhador, a oportunidade processual de tomar posição quanto às circunstâncias concretas em que desenvolve a sua atividade, podendo, além do mais, invocar que se pretendeu vincular num regime que não o do contrato de trabalho.
+
+Por outro lado, como se salientou ainda no Acórdão n.º 94/2015, o princípio da autonomia privada não tem a mesma amplitude que no direito civil, sofrendo antes diversas limitações determinadas, desde logo, por razões ligadas à proteção do trabalhador que implicam a criação de limitações imperativas à tendencial preponderância do empregador na modelação dos termos e do conteúdo da relação laboral.
+
+É neste contexto que tem de ser entendido o regime jurídico cuja aplicação foi recusada pela decisão recorrida, o qual visa prevenir as situações de utilização abusiva da figura do contrato de prestação de serviços em relações de trabalho subordinado ou da utilização dos chamados “falsos recibos verdes”, enquanto práticas de fuga ao regime laboral.
+
+Desta forma, mesmo que se pudesse configurar este regime como uma restrição à liberdade de iniciativa económica, o que não se vislumbra, tendo em conta o conteúdo deste direito, ter-se-ia de entender que tal restrição se enquadraria dentro dos limites permitidos pelo artigo 61.º, n.º 1, da Constituição que, como vimos, garante a livre iniciativa económica privada exercida «nos quadros definidos pela Constituição e pela lei e tendo em conta o interesse geral».
+
+Ora, como é manifesto, nos casos em que se tenha recorrido a uma prática de utilização abusiva ou fraudulenta de mecanismos que visavam impedir a aplicação do regime laboral, não se poderá falar em iniciativa económica privada exercida nos quadros definidos pela lei.
+
+Face ao exposto, não se nos afigura que o regime da «ação de reconhecimento de existência de contrato de trabalho» viole o direito à liberdade, em qualquer das suas dimensões, designadamente, a liberdade de iniciativa económica privada, consagrada no artigo 61.º, n.º 1, da Constituição.
+
+2.3. Da violação do direito a um processo equitativo
+
+A decisão recorrida considerou que a interpretação da lei no sentido de que o Ministério Público prossegue exclusivamente um interesse de ordem pública e que o trabalhador, sendo parte na ação, não pode ter um interesse conflituante com aquele, ofende o artigo 20.º da Constituição da República Portuguesa (tutela jurisdicional efetiva) e o artigo 6.º da Convenção Europeia dos Direitos do Homem (Direito a um processo equitativo).
+
+Ou seja, a decisão recorrida parece fazer assentar a aludida violação do direito a um processo equitativo na circunstância de o trabalhador, embora deva ser considerado parte principal, não poder ter uma posição que seja conflituante com o interesse público subjacente à ação em causa, interesse público esse que é prosseguido pelo Ministério Público.
+
+Seguidamente, depois de tecer diversas considerações sobre as diferenças entre a tramitação processual da ação de reconhecimento da existência de contrato de trabalho e a correspondente ação declarativa comum, acrescenta ainda a referida decisão que «a difícil distinção entre o contrato de trabalho e o contrato de prestação de serviços, patente no regime de presunção previsto no art. 12.º do C. Trabalho, e na correspondente complexidade da ação declarativa comum destinada a qualificar o contrato celebrado entre as partes não é compatível com esta nova ação, simples, urgente, e imposta aos contraentes por uma entidade administrativa», concluindo que «não é através desta forma de processo, simplificada e apressada, que os direitos dos trabalhadores e/ou mesmo o interesse público, sobretudo numa matéria reconhecidamente (inclusive pelo legislador) complexa, estão melhor defendidos pela via processual comum».
+
+O artigo 20.º da Constituição, sob a epígrafe «Acesso ao direito e tutela jurisdicional efetiva», garante a todos o acesso ao direito e aos tribunais para defesa dos seus direitos e interesses legí­timos (n.º 1), impondo ainda que esse direito se efetive através de um processo equitativo (n.º 4).
+
+A jurisprudência do Tribunal Constitucional tem entendido que o direito de acesso aos tribunais implica a ga­rantia de uma proteção jurisdicional eficaz ou de uma tutela judicial efetiva, cujo âmbito normativo abrange, nomeadamente: (a) o direito de ação, no sen­tido do direito subjetivo de levar determinada pretensão ao conhecimento de um órgão jurisdicional; (b) o direito ao pro­cesso, traduzido na abertura de um processo após a apresentação daquela pretensão, com o consequente dever de o órgão jurisdicional sobre ela se pronunciar mediante decisão funda­mentada; (c) o direito a uma decisão judicial sem dilações indevidas, no sentido de a deci­são haver de ser proferida dentro dos prazos preestabelecidos, ou, no caso de estes não estarem fixados na lei, dentro de um lapso temporal proporcional e adequado à complexidade da causa; (d) o direito a um processo justo baseado nos princípios da prioridade e da sumarie­dade, no caso daqueles direitos cujo exercício pode ser aniquilado pela falta de medidas de defesa expeditas (veja-se, neste sentido, entre outros, o Acórdão n.º 440/94).
+
+Acresce ainda que o direito de ação ou direito de agir em juízo terá de efetivar-se através de um processo equitativo, o qual deve ser entendido não só como um processo justo na sua conformação legislativa, mas também como um processo materialmente informado pelos princípios materiais da justiça nos vários momentos processuais.
+
+A jurisprudência e a doutrina têm procurado densificar o conceito de processo equitativo essencialmente através dos seguintes princípios: (1) direito à igualdade de armas ou igualdade de posição no processo, sendo proibidas todas as diferenças de tratamento arbitrárias; (2) proibição da indefesa e direito ao contraditório, traduzido fundamentalmente na possibilidade de cada uma das partes invocar as razões de facto e direito, oferecer provas, controlar a admissibilidade e a produção das provas da outra parte e pronunciar-se sobre o valor e resultado de umas e outras; (3) direito a prazos razoáveis de ação e de recurso, sendo proibidos os prazos de caducidade demasiados exíguos; (4) direito à fundamentação das decisões; (5) direito à decisão em prazo razoável; (6) direito de conhecimento dos dados do processo (dossier); (7) direito à prova; (8) direito a um processo orientado para a justiça material (Cfr. Gomes Canotilho e Vital Moreira, Constituição da República Portuguesa Ano­tada, 4.ª Edição Revista, Coimbra Editora, 2007, Volume I, págs. 415 e 416).
+
+Por outro lado, importa ainda salientar que a exigência de um processo equitativo, consagrada no referido artigo 20.º, n.º 4, da Constituição, não afasta a liberdade de conformação do legislador na concreta modelação do processo. No entanto, no seu núcleo essencial, tal exigência impõe que os regimes adjetivos proporcionem aos interessados meios efetivos de defesa dos seus direitos ou interesses legalmente protegidos, bem como uma efetiva igualdade de armas entre as partes no processo, não estando o legislador autorizado a criar obstáculos que dificultem ou prejudiquem, arbitrariamente ou de forma desproporcionada, o direito de acesso aos tribunais e a uma tutela jurisdicional efetiva.
+
+Tecidas estas considerações e centrando agora a atenção na apreciação do caso concreto dos autos, não se vislumbra que o regime processual previsto para ação de reconhecimento da existência de contrato de trabalho viole, em qualquer das aludidas dimensões, o direito a um processo equitativo. Com efeito, embora esta ação tenha início mediante o impulso processual do Ministério Público, tenha natureza urgente e tenha em vista a proteção de determinados interesses públicos, aspetos que têm influência na modelação do seu regime, este não deixa de permitir a possibilidade de intervenção, quer do empregador, quer do trabalhador (art. 186.º, n.ºs 2 e 4 do CPT), garantindo-lhes ainda o direito à apresentação de prova (art. 186.º-N, n.º 3), o direito ao recurso (artigo 186.º-P), bem como o respeito de outros direitos processuais essenciais, tais como, o direito à igualdade de armas, ao contraditório, à fundamentação das decisões e a um processo orientado para a justiça material.
+
+Conforme se referiu, a decisão recorrida, parece fazer assentar a violação do direito a um processo equitativo na circunstância de o Ministério Público, nesta ação, prosseguir exclusivamente um interesse de ordem pública, não podendo o trabalhador, sendo parte na ação, ter um interesse conflituante com aquele.
+
+Embora tal não resulte claro da decisão recorrida, depreende-se que este eventual interesse conflituante do trabalhador seja o de não ver reconhecida a existência de um contrato de trabalho nos casos em que, efetivamente, não tenha querido vincular-se a um tal tipo de contrato. Ou seja, nos casos em que não pretenda ver alterada a qualificação de uma relação por si constituída e que não pretende que seja tida como uma relação laboral.
+
+Ora, conforme se referiu e foi também salientado no citado Acórdão n.º 94/2015, o que se pretende com o regime da ação de reconhecimento da existência de contrato de trabalho é combater a utilização indevida do contrato de prestação de serviço nas situações em que, apesar de determinada relação ser formalmente titulada pelas partes como contrato de prestação de serviço, corresponda, substancialmente, a uma situação de trabalho subordinado, à qual deveria, por isso, ser aplicado o regime laboral – sendo este o interesse público subjacente à atuação do Ministério Público nesta matéria. Nos casos em que o trabalhador não pretenda, efetivamente, estar sujeito a uma relação jurídica de natureza laboral, não se verifica um caso de utilização indevida do contrato de prestação de serviços, visto que, nenhuma das partes (e, concretamente, quem presta a outrem determinada atividade remunerada) pretendeu que a relação jurídica em causa seja qualificada como contrato de trabalho.
+
+Contudo, conforme se refere no aludido Acórdão n.º 94/2015:
+
+«Nestas situações, o referido regime contém suficientes garantias de esta vontade do trabalhador poder ser expressa nos autos e levada em conta, de modo a que tal situação não seja tratada como sendo um caso de trabalho subordinado.
+
+Com efeito, o artigo 186.º-L, n.º 4, do Código de Processo de Trabalho, determina que, simultaneamente com a notificação da data da audiência de julgamento, sejam remetidos ao trabalhador o duplicado da petição inicial e da contestação, simultaneamente «com a expressa advertência de que pode, no prazo de 10 dias, aderir aos factos apresentados pelo Ministério Público, apresentar articulado próprio e constituir mandatário» e o artigo 186.º-O, também do Código de Processo de Trabalho prevê, no seu n.º 1, que «[s]e o empregador e o trabalhador estiverem presentes ou representados, o juiz realiza a audiência de partes, procurando conciliá-los».
+
+Independentemente das eventuais deficiências técnicas deste regime apontadas pela decisão recorrida (matéria sobre a qual não compete ao Tribunal Constitucional pronunciar-se), a verdade é que o mesmo garante a intervenção nos autos, quer do trabalhador, quer da entidade empregadora, sendo facultada ao trabalhador, a oportunidade processual de tomar posição quanto às circunstâncias concretas em que desenvolve a sua atividade, podendo, além do mais, invocar que se pretendeu vincular num regime que não o do contrato de trabalho (designadamente, por não querer estar sujeito a nenhuma relação de subordinação jurídica ou por estar vinculado a uma relação jurídica de um específico tipo contratual que não lhe permite ter outra relação jurídica de natureza laboral).»
+
+Face ao exposto, não se afigura que o regime da ação de reconhecimento de existência de contrato de trabalho viole o direito a um processo equitativo.
+
+2.4. Da violação do princípio da autonomia do Ministério Público
+
+Segundo a decisão recorrida, decorre do disposto nos artigos 15.º-A, n.º 3, da Lei n.º 107/2009, de 14 de setembro, aditado pelo artigo 4.º da referida Lei n.º 63/2013, de 27 de agosto, e dos artigos 26.º, n.º 6, e 186.º-K, n.º 1, do CPT, que a ação de reconhecimento da existência de contrato de trabalho se inicia 20 dias após a receção pelo Ministério Público da participação remetida pela ACT, quando esta entidade, após ação inspetiva, considerar existirem indícios de um contrato de trabalho, sustentando, por isso, que é a ACT, entidade administrativa, quem, em bom rigor, determina a propositura da referida ação, retirando-se ao Ministério Público qualquer autonomia para decidir da respetiva viabilidade.
+
+Ainda de acordo com a decisão recorrida, não tem enquadramento legal o entendimento no sentido de que o Ministério Público tem a possibilidade de analisar a participação e promover o arquivamento do processo se concluir que não contém os elementos necessários para instaurar a respetiva ação judicial, pois a lei manifestamente impõe ao Ministério Público um prazo de 20 dias para intentar a ação de reconhecimento da existência de contrato de trabalho, não lhe permitindo atuar de modo diferente. Conclui, por isso, que o regime legal em causa viola o princípio da autonomia do Ministério Público consagrada no artigo 219.º, n.º 2, da Constituição.
+
+Dispõe esta norma constitucional que o Ministério Público goza de estatuto próprio e de autonomia, nos termos da lei.
+
+Daqui decorre, em primeiro lugar, que o Ministério Público é um órgão constitucional de administração da justiça, dotado de autonomia e independência, concretizando-se a referida autonomia através de um estatuto próprio, no qual se consagra um conjunto de garantias que têm em vista salvaguardar a independência desta magistratura em face de outras entidades públicas.
+
+Esta autonomia do Ministério Público, numa dimensão negativa, implica a exclusão da heterodeterminação, mediante a subordinação a outras entidades públicas, bem como a exclusão de qualquer dependência do poder político (cfr., J. Miranda e R. Medeiros, Constituição Portuguesa Anotada, Tomo III, Coimbra Editora, 2007, p. 239); numa dimensão positiva, tal autonomia assenta na possibilidade de decisão própria, de acordo com critérios de legalidade e objetividade, dos quais deriva a exigência de imparcialidade, tanto no que respeita à exigência de falta de interesse pessoal no processo pelo magistrado interveniente, como no sentido de falta de empenhamento numa determinada posição material (cfr., J. Miranda e R. Medeiros, op. cit., p. 209).
+
+Assim, sendo inquestionável que a autonomia do Ministério Público constitui um traço essencial na definição desta magistratura como um órgão de administração de justiça, tem sido também reconhecido pela jurisprudência deste Tribunal que a garantia constitucional de tal autonomia tem o seu campo de eleição no âmbito do processo penal (cfr., neste sentido, entre outros, os Acórdãos n.ºs 516/93, 226/11 e 660/11).
+
+No caso dos autos, segundo resulta da respetiva fundamentação, a decisão recorrida entendeu que o regime legal cuja aplicação foi recusada viola a autonomia do Ministério Público, quer na sua dimensão negativa, quer na dimensão positiva, uma vez que faz assentar a ofensa a tal garantia constitucional na circunstância de ser a Autoridade para as Condições de Trabalho, entidade administrativa, quem determina a propositura da ação para reconhecimento da existência de contrato de trabalho, retirando ao Ministério Público qualquer autonomia para decidir da respetiva viabilidade. Ou seja, na perspetiva da decisão recorrida, o Ministério Público, uma vez recebida a participação da ACT estaria vinculado a uma determinada atuação (não podendo, no entender da aludida decisão, analisar a participação e promover o arquivamento do processo no caos de concluir não existirem os elementos necessários para instaurar a respetiva ação judicial).
+
+A decisão recorrida entendeu que esta é a correta interpretação dos preceitos em causa, sustentando não ter enquadramento legal o entendimento no sentido de que o Ministério Público tem a possibilidade de analisar a participação e promover o arquivamento do processo se concluir que o mesmo não contém os elementos necessários para instaurar a respetiva ação judicial. É esta a posição defendida por Viriato Reis e Diogo Ravara, que a este respeito, referem o seguinte:
+
+«(…) o Ministério Público pode, em face da análise que faça da participação da ACT, entender que a mesma não contém os elementos necessários que permitam a instauração da ação judicial. Essa liberdade de apreciação decorre necessariamente da autonomia do Ministério Público, constitucionalmente garantida. A ocorrer tal situação, o Procurador da República deverá, a nosso ver, proferir um despacho a fundamentar o seu entendimento quanto à falta de viabilidade da ação, e promover o arquivamento do processo.
+
+Mas como tal sucede após o início da instância, caberá ao juiz proferir despacho de absolvição da instância, com fundamento na verificação de uma exceção dilatória inominada» (Cfr., Viriato Reis e Diogo Ravara, Reforma do Processo Civil e do Processo do Trabalho, E-books - O Novo Processo Civil, Caderno IV (2.ª edição), O Novo Processo Civil – Impactos do Novo CPC no Processo do Trabalho, Centro de Estudos Judiciários, junho de 2014, pp. 105-106, acessível na internet em www.cej.mj.pt/cej/recursos/ebooks/ProcessoCivil/Caderno_IV_Novo%20_Processo_Civil_2edicao.pdf).
+
+A decisão recorrida, ao socorrer-se desta argumentação como fundamento para recusar a aplicação, em bloco, do regime jurídico que disciplina a ação de reconhecimento da existência de contrato de trabalho, parte do pressuposto que a «entidade administrativa é quem, em bom rigor, determina a propositura de uma ação declarativa ao Ministério Público», ao qual «está vedada qualquer margem de apreciação da viabilidade da ação».
+
+Ainda que a premissa em que assentou a decisão recorrida se verificasse, sendo certo que não cabe ao Tribunal Constitucional censurar a correção das interpretações aí perfilhadas, não se poderia concluir pela violação do referido princípio da autonomia do Ministério Público.
+
+Com efeito, conforme se referiu, tem sido entendimento do Tribunal Constitucional que a garantia da autonomia do Ministério Público tem o seu campo de eleição no âmbito do processo penal. Ora, estando-se no caso concreto perante uma intervenção do Ministério Público na área da jurisdição laboral, é de entender que, face aos interesses em causa, a atuação processual do Ministério Público neste campo não reclama uma autonomia com um grau de intensidade idêntico ao que é exigido no âmbito do exercício da ação penal.
+
+Esta ponderação foi efetuada pelo Tribunal Constitucional no Acórdão n.º 226/2011, em que era também invocada a violação do princípio da autonomia do Ministério Público e em que não foi julgada inconstitucional a norma constante do artigo 41.º da Lei n.º 107/2009, de 14 de setembro, na parte em que exige o prévio acordo da autoridade administrativa para a retirada da acusação pelo Ministério Público. A norma questionada, respeitante ao regime das contraordenações laborais e de Segurança Social, condiciona o exercício da faculdade de o Ministério Público retirar a acusação ao prévio acordo da autoridade administrativa (cfr. artigo 41.º da Lei n.º 107/2009, de 14 de setembro), ao contrário do que acontece no regime geral das contraordenações, em que o exercício de tal faculdade é apenas precedido, quanto à autoridade administrativa, da audição respetiva, que poderá mesmo ser dispensada (artigo 65.º-A do Decreto-Lei n.º 433/82 de 27 de outubro).
+
+Considerou o Tribunal Constitucional, no referido acórdão n.º 226/2011, que tal regime não atenta contra o princípio da autonomia do Ministério Público, referindo, a este respeito, o seguinte:
+
+«A autonomia do Ministério Público encontra a sua justificação na função específica de promoção da ação penal pautada por critérios de legalidade e de objetividade. E, mesmo no processo penal, tal competência não obsta ao regime dos crimes particulares e ao consequente condicionamento da ação penal pela queixa ou dedução de acusação particular. Tem-se entendido, por outro lado, que as autoridades administrativas podem intervir no processo penal, sem prejuízo da autonomia do Ministério Público, desde que as mesmas se destinem a representar interesses específicos.»
+
+E acrescentou ainda este acórdão que «ao exigir-se o acordo da autoridade administrativa para a retirada dessa acusação, releva-se, ao fim e ao cabo, o interesse público especialmente confiado à tutela da autoridade administrativa, na fase judicial. Com efeito, a Constituição não colocou, no processo de contraordenação, a defesa do interesse público na exclusiva tutela do Ministério Público. O legislador não está, por isso, impedido de destacar um determinado interesse público e de incluir a sua proteção na competência de uma entidade pública distinta, à qual passa depois a exigir um especial dever de colaboração com o Ministério Público, na fase judicial de defesa desse interesse.»
+
+Neste mesmo sentido, sobre questão idêntica, se pronunciou o Tribunal no Acórdão n.º 660/2011, no qual se refere que «a solução escolhida – que se situa no âmbito de liberdade de conformação legislativa constitucionalmente permitida – apenas tem como consequência que, na ausência de acordo da autoridade administrativa – na parte que aqui cumpre analisar – os autos prosseguirão para apreciação judicial, não representando tal falta de acordo qualquer condicionamento ulterior da posição que o Ministério Público decida assumir, substancialmente, sempre que chamado a pronunciar-se ou a intervir, mantendo-se intocada a sua autonomia, traduzida desde logo na possibilidade de defender posição discordante da assumida pela decisão administrativa condenatória, nomeadamente a absolvição do arguido, em observância de critérios de legalidade e estrita objetividade, de acordo com a livre leitura que o magistrado assuma relativamente aos factos em discussão ou ao respetivo enquadramento jurídico.»
+
+Estas considerações são, em grande medida, transponíveis para o caso dos autos. Com efeito, mesmo que se admita que, na sequência da participação efetuada pela ACT nos termos do art. 15.º-A, n.º 3, da Lei n.º 107/2009, de 14 de setembro, o Ministério Público tem necessariamente de instaurar a ação de reconhecimento da existência de contrato de trabalho, tal não basta para se concluir que o regime legal em causa seja violador do princípio da autonomia do Ministério Público.
+
+Com efeito, importa ter em atenção, por um lado, que a atuação do Ministério Público nesta matéria ocorre numa área – a laboral –, que se situa claramente fora do âmbito do exercício da ação penal (onde, como vimos, se fazem sentir com um grau de intensidade mais acentuado as exigências resultantes da garantia constitucional da autonomia do Ministério Público). Por outro lado, os interesses de ordem pública que o legislador visa salvaguardar com o regime legal em causa são também prosseguidos pela ACT, entidade a quem são atribuídos poderes de fiscalização da existência de indícios de uma situação de prestação de atividade, aparentemente autónoma, em condições análogas ao contrato de trabalho.
+
+Assim, mesmo que se aceitasse o pressuposto de que parte a decisão recorrida, de que é a ACT, entidade administrativa, quem determina a propositura da referida ação, retirando ao Ministério Público qualquer autonomia para decidir da respetiva viabilidade, tal conclusão apenas poderia, ainda assim, valer para uma fase prévia ao início do processo, em que o Ministério Público, não teria liberdade para analisar a participação da ACT e promover o arquivamento do processo no caso de concluir não existirem os elementos necessários para instaurar a respetiva ação judicial.
+
+No entanto, ainda que assim fosse, uma vez iniciado o processo, não resulta do regime jurídico em causa qualquer condicionamento à atuação posterior do Ministério Público, que manterá incólume a sua autonomia, podendo assumir, designadamente, em fases posteriores do processo e em resultado da prova produzida, uma posição não coincidente com que a determinou a propositura da ação na sequência da participação da ACT, posição essa baseada em estritos critérios de legalidade e de objetividade.
+
+Em face do exposto, conclui-se que o regime normativo em causa não viola o princípio da autonomia do Ministério Público.
+
+2.5. Conclusão
+
+Em face do exposto e não se vislumbrando que as normas fiscalizadas possam violar qualquer outro parâmetro constitucional, deverá ser concedido provimento ao recurso, determinando-se a reforma da decisão recorrida».
+
+Em conformidade com a referida fundamentação o Tribunal decidiu «não julgar inconstitucionais as normas dos artigos 26.º, n.º 1, al. i), e n.º 6, e 186.º-K a 186.º-R do Código de Processo do Trabalho».
+
+Esta doutrina é inteiramente transponível para a apreciação da conformidade constitucional das normas que constituem objeto do presente recurso, não havendo argumentos novos a considerar na análise a empreender.
+
+Resta, pois, decidir em conformidade.
+
+III – Decisão
+
+Nestes termos, decide-se:
+
+a) não julgar inconstitucionais as normas dos artigos 26.º, n.º 1, alínea i), e n.º 6, e 186.º-K a 186.º-R do Código de Processo do Trabalho;
+
+b) consequentemente, conceder provimento ao recurso, determinando-se a reforma da decisão recorrida em conformidade com o precedente juízo.
+
+Sem custas.
+
+Lisboa, 28 de abril de 2015 - Maria de Fátima Mata-Mouros - João Pedro Caupers - Maria Lúcia Amaral - Joaquim de Sousa Ribeiro
