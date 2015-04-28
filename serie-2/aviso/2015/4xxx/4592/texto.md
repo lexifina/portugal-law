@@ -1,0 +1,8 @@
+Aviso n.º 4592/2015
+Alteração do Plano de Pormenor do Aglomerado Urbano do Caia
+Torna público que, em cumprimento da deliberação camarária tomada em reunião pública realizada no dia vinte e cinco de março do ano de dois mil e quinze, foi deliberado mandar proceder à Alteração do Plano de Pormenor do Aglomerado Urbano do Caia, assim e nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99 de 22 de setembro, republicado pelo Decreto-Lei n.º 46/09 de 20 de fevereiro, é dado um prazo de 15 dias a contar data da publicação do presente aviso no Diário da República, no sentido de poderem ser formuladas sugestões e informações sobre qualquer questão que possa ser considerada no âmbito do respetivo procedimento de elaboração.
+Mais se informa que irá o referido período de discussão pública ser divulgado por Aviso através da comunicação social, num jornal de âmbito local, bem como na página da Internet da Câmara Municipal de Elvas.
+O referido projeto encontra-se patente ao público na SAOP - Subunidade Orgânica Flexível Administrativa de Obras Particulares, no edifício da Câmara Municipal, situado na Rua Isabel Maria Picão, onde poderá ser consultado nas horas normais de expediente durante o período do inquérito.
+As observações ou sugestões a apresentar deverão ser por escrito, dirigidas ao Presidente da Câmara Municipal, com a indicação no assunto de Alteração do Plano de Pormenor do Aglomerado Urbano do Caia, remetidas pelo correio, ou entregues na respetiva Subunidade, dentro do prazo referido.
+9 de abril de 2015. - O Presidente da Câmara, Nuno Miguel Fernandes Mocinha.
+208571537
