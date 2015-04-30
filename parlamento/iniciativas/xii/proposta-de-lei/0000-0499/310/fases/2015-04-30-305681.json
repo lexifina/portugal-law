@@ -1,0 +1,197 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "310",
+    "id": "39177",
+    "titulo": "Altera o Estatuto da Ordem dos Notários, aprovado pelo Decreto-Lei n.º 27/2004, de 4 de fevereiro, em conformidade com a Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, e procede à alteração do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de fevereiro"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-04-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35667",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-05-26",
+            "id": "100254",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-04-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-04-30",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e5456695a474d305a5330345a4459344c5451794e7a67744f5455784d7930334d7a63324d7a46684f444a6b4e7a49756347526d&fich=655bdc4e-8d68-4278-9513-737631a82d72.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a546c6d4d4445314e4330344e6a59304c5451344f545574596a677a4d7930314e575179597a67324e575a694e4441756347526d&fich=ae9f0154-8664-4895-b833-55d2c865fb40.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596a5135596a67325969316a596d4d334c54526b596a59744f5455794e79307a4d4449784d4455304d7a4e6a4f44497555455247&fich=6b49b86b-cbc7-4db6-9527-302105433c82.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "4 - Proposta de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d6d4e6a4d7a6c6c4d53316b4f474e694c5451304d6a4974596a5a6c4f4330785a5441795a4759795a574a695a544d7555455247&fich=32cc39e1-d8cb-4422-b6e8-1e02df2ebbe3.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Comissão Ad Hoc Notários Sempre",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a596d557759544e694f5331694d445a6d4c5452684d544574596d566a4d79316d4e546b775a6a646d595749774d4449756347526d&fich=cbe0a3b9-b06f-4a11-bec3-f590f7fab002.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-01",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e5749304d5467324f4330354f4463324c54526a4d7a6774596a4179597930774f5751335a574a6b4e6a63794d7a59755a47396a65413d3d&fich=55b41868-9876-4c38-b02c-09d7ebd67236.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-01",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final e relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e7a4d784d6a55795a4330314e6a5a6c4c54526d4f5751744f4445305979316a595745774d44593159324d33596a45756347526d&fich=f731252d-566e-4f9d-814c-caa0065cc7b1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e PCP",
+            "pag": [
+              "177-265"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160S2/2015-07-01/177?pgs=177-265&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e PCP",
+            "pag": [
+              "177-265"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160S2/2015-07-01/177?pgs=177-265&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-06-30",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-06-30",
+            "dataRemessa": "2015-07-01",
+            "numeroOficio": "806/XII/1.ª CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-06-30",
+            "descricao": null,
+            "detalhe": null,
+            "id": "70139",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "330",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-04-30",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305681",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
