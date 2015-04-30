@@ -1,0 +1,663 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12628",
+  "numero": "502",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-04-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-06-02",
+            "entidades": null,
+            "id": "100318",
+            "tipo": null,
+            "titulo": "Audição em 2015-06-02 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": "2015-05-26",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "237/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": null,
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "238/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": "2015-06-09",
+            "entidades": [
+              "Conselho de Escolas"
+            ],
+            "nrOficio": "239/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "240/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": "2015-06-03",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "241/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "242/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "243/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "236/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-05-14",
+            "dataResposta": "2015-06-23",
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "235/CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2015-06-23",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "752108",
+                "obs": null,
+                "pag": [
+                  "7-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-26",
+                "pubLeg": "XII",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/055/2015-06-26/7?pgs=7-11&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-05-12",
+        "DataArquivo": "2015-06-23",
+        "DataBaixaComissao": "2015-04-30",
+        "DataEnvioPAR": "2015-06-24",
+        "DataReaberta": "2015-05-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a6c597a63354d47526b4c5452684d3249744e4455335a5331684d3259314c544e694f544a6b4f5464694e5455314d4335775a47593d&fich=fec790dd-4a3b-457e-a3f5-3b92d97b5550.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a646c4d6d5a684d7a466d4c5464695a4451744e446c6d4f533169596d51324c5755794e5467795a6a526a5a446c6c4e7935775a47593d&fich=7e2fa31f-7bd4-49f9-bbd6-e2582f4cd9e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3251344f4449774e3251324c5455794e7a55744e444532597931694e6a6c6a4c5745324e7a566c4e5445355a6a4e6a5a5335775a47593d&fich=d88207d6-5275-416c-b69c-a675e519f3ce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a49335a6d49315932557a4c5445314d6d49744e4449354f4331694f4467794c574e694e6a4e6b4d6a63354e32597a595335775a47593d&fich=27fb5ce3-152b-4298-b882-cb63d2797f3a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325a6c4d7a49354e5752694c545a6a4f4445744e4467314e7931694e3249304c5759354e7a51794e4756694e475177597935775a47593d&fich=fe3295db-6c81-4857-b7b4-f97424eb4d0c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a457a4d5455355a44557a4c5449334e7a55744e4451304e7931684e5751774c5451344e4459344d446b334e6a68684d4335775a47593d&fich=13159d53-2775-4447-a5d0-4846809768a0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a677a596d45795a6a51794c5451354d544d744e445a6d4d7931684e6a41334c544179595441314d6d526859546b334e5335775a47593d&fich=83ba2f42-4913-46f3-a607-02a052daa975.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32566a4e7a6b345a57566d4c57526c4e6d55744e4445774d5331694d6a426c4c5749304d474d304d3255324e324d775a6935775a47593d&fich=ec798eef-de6e-4101-b20e-b40c43e67c0f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a566b5a4441774d54526a4c574a6b4d5751744e475269595330354d47466a4c57466c59544e6c4e325a6c4d5445304d7935775a47593d&fich=5dd0014c-bd1d-4dba-90ac-aea3e7fe1143.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a5a6c5a6a4d335a5755304c5455304e3245744e445935597931694d325a6b4c544d7a4e6a41774d325a684e546c69597935775a47593d&fich=6ef37ee4-547a-469c-b3fd-336003fa59bc.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2015-06-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a56685a574579597a41304c54686b5a5449744e446b325a6930344f5445344c544d775a4755355a4464695954426d5a4335775a47593d&fich=5aea2c04-8de2-496f-8918-30de9d7ba0fd.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a466d4d575a68596a6b304c544a6a4e4463744e44517a596930345a5749304c5745775a6d59775954526b4d7a59304d4335775a47593d&fich=1f1fab94-2c47-443b-8eb4-a0ff0a4d3640.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-06-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c32466c4d5442694f4449324c54566d4f4745744e44493159793168596a6c6d4c57466b4f47566a4e474e6a4e444d334e4335775a47593d&fich=ae10b826-5f8a-425c-ab9f-ad8ec4cc4374.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-05-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e694f4459335a5755314c54686a4e3245744e446b344f4330354d6a6c6d4c54466d4f5751305954517a597a55774d7935775a47593d&fich=cb867ee5-8c7a-4988-929f-1f9d4a43c503.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4669596a497a4d32466b4c5452695a6d4d744e445a6a597930344f4441314c5755304e6d4a694e5449314e6d55334d7935775a47593d&fich=1bb233ad-4bfc-46cc-8805-e46bb5256e73.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-05-12",
+            "gp": "PSD",
+            "id": "4322",
+            "motivoCessacao": null,
+            "nome": "Isilda Aguincha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2015-12-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-05-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325531596a4d774e6a6b344c57457a5a4749744e4459354d7930344f5441784c575a694f544e694d47526a4f57526b4e7935775a47593d&fich=e5b30698-a3db-4693-8901-fb93b0dc9dd7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "39864",
+      "39879"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:07:56:225&drc=00:03:27:762"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Exigindo à Assembleia da República a não aplicação do regime de requalificação/mobilidade aos docentes e o direito ao emprego e a uma escola pública de qualidade; Revoga o regime de requalificação docente; Elimina a requalificação de docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:11:31:773&drc=00:03:19:086"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Exigindo à Assembleia da República a não aplicação do regime de requalificação/mobilidade aos docentes e o direito ao emprego e a uma escola pública de qualidade; Revoga o regime de requalificação docente; Elimina a requalificação de docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:14:54:484&drc=00:02:56:900"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Exigindo à Assembleia da República a não aplicação do regime de requalificação/mobilidade aos docentes e o direito ao emprego e a uma escola pública de qualidade; Revoga o regime de requalificação docente; Elimina a requalificação de docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:17:56:204&drc=00:03:55:819"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Exigindo à Assembleia da República a não aplicação do regime de requalificação/mobilidade aos docentes e o direito ao emprego e a uma escola pública de qualidade; Revoga o regime de requalificação docente; Elimina a requalificação de docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:21:59:315&drc=00:03:34:940"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Exigindo à Assembleia da República a não aplicação do regime de requalificação/mobilidade aos docentes e o direito ao emprego e a uma escola pública de qualidade; Revoga o regime de requalificação docente; Elimina a requalificação de docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2015-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20151209pln&url=l13/sl1/a2015/m12/&tI=02:25:39:186&drc=00:03:29:281"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-12-10",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Exigindo à Assembleia da República a não aplicação do regime de requalificação/mobilidade aos docentes e o direito ao emprego e a uma escola pública de qualidade; Revoga o regime de requalificação docente; Elimina a requalificação de docentes.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12628",
+    "PetAssunto": "Contra a requalificação/mobilidade especial, pelo direito ao emprego e a uma Escola Pública de qualidade.",
+    "PetDataEntrada": "2015-04-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12628",
+    "PetLeg": "XII",
+    "PetNr": "502",
+    "PetNrAssinaturas": "6136",
+    "PetNrAssinaturasInicial": "6136",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2105",
+        "obs": null,
+        "pag": [
+          "38-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-12-10",
+        "pubLeg": "XIII",
+        "pubNr": "14",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/014/2015-12-10/38?pgs=38-43&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "745130",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-15",
+        "pubLeg": "XII",
+        "pubNr": "47",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/047/2015-05-15/14?pgs=14-15&org=PLC"
+      }
+    ]
+  }
+}
