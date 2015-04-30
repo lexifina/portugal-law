@@ -1,0 +1,5 @@
+Aviso n.º 35/2015
+Por ordem superior se torna público que a República Portuguesa depositou, a 2 de julho de 2014, junto do Secretariado Executivo da Comunidade dos Países de Língua Portuguesa, o seu instrumento de aprovação relativo ao Acordo sobre a Concessão de Visto para Estudantes Nacionais dos Estados Membros da CPLP, assinado em Lisboa em 2 de novembro de 2007.
+O referido Acordo foi aprovado pelo Decreto n.º 10/2014, publicado no Diário da República, 1.ª série, n.º 59, de 25 de março de 2014.
+Em conformidade com o previsto no seu artigo 8.º, o presente Acordo entrará em vigor no primeiro dia do mês seguinte à data em que três Estados-membros tenham depositado, junto do Secretariado Executivo da CPLP, o respetivo instrumento de ratificação ou documento equivalente que os vincule ao Acordo. Até à presente data, apenas a República de Timor-Leste, em 1 de abril de 2011, e a República Portuguesa, em 2 de julho de 2014, procederam ao depósito dos respetivos instrumentos de vinculação.
+Direção-Geral de Política Externa, 10 de abril de 2015. - A Subdiretora-Geral, Rita Laranjinha.
