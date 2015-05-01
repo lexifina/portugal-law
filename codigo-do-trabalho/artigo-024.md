@@ -2,7 +2,7 @@
 
 ### Direito à igualdade no acesso a emprego e no trabalho
 
-1 - O trabalhador ou candidato a emprego tem direito a igualdade de oportunidades e de tratamento no que se refere ao acesso ao emprego, à formação e promoção ou carreira profissionais e às condições de trabalho, não podendo ser privilegiado, beneficiado, prejudicado, privado de qualquer direito ou isento de qualquer dever em razão, nomeadamente, de ascendência, idade, sexo, orientação sexual, estado civil, situação familiar, situação económica, instrução, origem ou condição social, património genético, capacidade de trabalho reduzida, deficiência, doença crónica, nacionalidade, origem étnica ou raça, território de origem, língua, religião, convicções políticas ou ideológicas e filiação sindical, devendo o Estado promover a igualdade de acesso a tais direitos.
+1 - O trabalhador ou candidato a emprego tem direito a igualdade de oportunidades e de tratamento no que se refere ao acesso ao emprego, à formação e promoção ou carreira profissionais e às condições de trabalho, não podendo ser privilegiado, beneficiado, prejudicado, privado de qualquer direito ou isento de qualquer dever em razão, nomeadamente, de ascendência, idade, sexo, orientação sexual, identidade de género, estado civil, situação familiar, situação económica, instrução, origem ou condição social, património genético, capacidade de trabalho reduzida, deficiência, doença crónica, nacionalidade, origem étnica ou raça, território de origem, língua, religião, convicções políticas ou ideológicas e filiação sindical, devendo o Estado promover a igualdade de acesso a tais direitos.
 
 2 - O direito referido no número anterior respeita, designadamente:
 
