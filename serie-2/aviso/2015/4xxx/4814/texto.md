@@ -1,0 +1,12 @@
+Aviso n.º 4814/2015
+José Agostinho Ribau Esteves, presidente da Câmara Municipal de Aveiro:
+Alteração do Plano de Pormenor de Parte da Zona Industrial de Cacia
+Torna-se público, nos termos do n.º 1 do artigo 74.º e da alínea b) do n.º 4 do artigo 148.º do Decreto -Lei n.º 380/99 de 22 de setembro (Regime Jurídico dos Instrumentos de Gestão Territorial), alterado e republicado pelo Decreto -Lei n.º 46/2009, de 20 de fevereiro, que a Câmara Municipal de Aveiro, em Reunião Pública de Câmara de 15 de abril, deliberou proceder à alteração do Plano de Pormenor de Parte da Zona Industrial de Cacia, tendo aprovado os Termos de Referência que fundamentam a sua oportunidade, estabelecem o respetivos objetivos e o prazo de 150 dias para a sua elaboração, bem como, não qualificar a alteração como suscetível de ter efeitos significativos no ambiente, dispensando de avaliação ambiental.
+Torna-se ainda público, nos termos do n.º 2 do artigo 77.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, que terá início no 5.º dia, após a publicação do presente Aviso no Diário da República, 2.ª série, ao abrigo da alínea b) do n.º 4 do artigo 148.º do mesmo diploma, um período de 15 dias úteis para formulação de sugestões por qualquer interessado ou para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano.
+Durante este período de participação, os interessados poderão consultar os Termos de Referência e os demais elementos no portal da internet da Câmara Municipal de Aveiro (http://www.cm-aveiro.pt) ou nos locais a seguir identificados:
+Gabinete de Atendimento Integrado (GAI) da Câmara Municipal de Aveiro, que funciona no edifício do Centro Cultural e de Congressos, sito no Cais da Fonte Nova;
+Junta de Freguesia de Cacia, sita na Avenida Fernando Augusto de Oliveira.
+As sugestões e as informações deverão ser formuladas por escrito, até ao termo do referido período e dirigidas ao Presidente da Câmara Municipal de Aveiro, através de impresso próprio que pode ser obtido nos locais acima referidos ou no portal da Internet da Câmara Municipal de Aveiro.
+Para constar se lavrou o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos de estilo e publicados em dois jornais diários e um semanário.
+17 de abril de 2015. - O Presidente da Câmara Municipal de Aveiro, José Agostinho Ribau Esteves, eng.º
+208581184
