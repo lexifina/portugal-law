@@ -1,7 +1,5 @@
 # Artigo 10.º
 
-### Concurso público
+### Procedimento concursal
 
-1 - A concessão da exploração de jogos de fortuna ou azar nos casinos das zonas de jogo é feita por concurso público, nos termos dos artigos seguintes.
-
-2 - Poderá o Governo, em casos especiais devidamente justificados, adjudicar a concessão independentemente de concurso público, estabelecendo em decreto-lei as obrigações da concessionária.
+A concessão da exploração de jogos de fortuna ou azar nos casinos das zonas de jogo é atribuída mediante concurso público ou concurso limitado por prévia qualificação, nos termos dos artigos seguintes e, supletivamente, do disposto na parte II do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro.
