@@ -1,0 +1,11 @@
+Portaria n.º 120/2015
+de 4 de maio
+O n.º 3 do artigo 22.º do Decreto-Lei n.º 47/2005, de 24 de fevereiro (mantido em vigor por força e nos termos do disposto no n.º 4 do artigo 37.º do Decreto-Lei n.º 205/2006, de 27 de outubro, conjugado com a alínea b) do artigo 33.º do Decreto-Lei n.º 117/2011, de 15 de dezembro), regula a percentagem a afetar ao Fundo de Estabilização Tributário (FET) do montante das cobranças coercivas derivadas dos processos instaurados pelos serviços da Autoridade Tributária e Aduaneira (AT).
+A referida percentagem é fixada, anualmente, por portaria do Ministro de Estado e das Finanças, após avaliação da execução dos objetivos definidos no plano de atividades dos serviços da AT, sem prejuízo do disposto no n.º 2 do artigo 6.º da Portaria n.º 1375-A/2003, de 18 de dezembro, que regula, autonomamente, a remuneração das funções de gestão e cobrança dos créditos cedidos pelo Estado.
+A racionalização, simplificação e informatização de processos e de procedimentos aliados ao elevado padrão de profissionalismo que os trabalhadores da AT demonstraram, bem como a crescente acessibilidade dos serviços disponibilizados aos contribuintes e operadores económicos, contribuíram decisivamente para o acréscimo de produtividade ocorrido em 2014 e para que fosse ultrapassado o objetivo de cobrança previsto no plano de atividades da AT de 2014.
+Assim:
+Manda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do n.º 3 do artigo 22.º do Decreto-Lei n.º 47/2005, de 24 de fevereiro, e do n.º 5 do n.º 1.º da Portaria n.º 132/98, de 4 de março:
+Artigo único
+Percentagem a afetar ao Fundo de Estabilização Tributário
+A percentagem, a que se refere o n.º 3 do artigo 22.º do Decreto-Lei n.º 47/2005, de 24 de fevereiro (mantido em vigor por força e nos termos do disposto no n.º 4 do artigo 37.º do Decreto-Lei n.º 205/2006, de 27 de outubro, conjugado com a alínea b) do artigo 33.º do Decreto-Lei n.º 117/2011, de 15 de dezembro), é fixada em 5 % do montante constante da declaração anual do Diretor-Geral da Autoridade Tributária e Aduaneira de 2 de março de 2015, relativamente ao ano de 2014, elaborada nos termos do disposto no n.º 2 do n.º 1.º da Portaria n.º 132/98, de 4 de março.
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 22 de abril de 2015.
