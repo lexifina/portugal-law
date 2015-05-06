@@ -1,0 +1,7 @@
+Edital n.º 390/2015
+António José Martins Coutinho, Presidente da Câmara Municipal de Sever do Vouga, faz público que, por deliberação da Câmara Municipal de Sever do Vouga tomada na sua reunião ordinária de 8 de abril de 2015, nos termos das alíneas b) e t) do n.º 1, do artigo 35.º, do anexo I da Lei n.º 75/2013, de 12 de setembro e do n.º 1 do artigo 98.º do anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que se deu início ao procedimento para realização do projeto de Regulamento da Feira do Mirtilo.
+De igual modo, torna-se público que nos termos do artigo 101.º do Código do Procedimento Administrativo, se procede à consulta pública, para recolha de sugestões, por um período de 30 dias úteis, a contar da data da publicação do respetivo aviso na 2.ª série do Diário da República, podendo o mesmo ser consultado no Balcão de Atendimento desta autarquia, sito no Largo do Município, Sever do Vouga, no sítio da internet www.cm-sever.pt ou no Gabinete Administrativo.
+Assim, convidam-se todos os interessados a dirigir por escrito a esta Câmara Municipal eventuais sugestões e ou reclamações, dentro do período atrás referido, as quais deverão ser dirigidas ao Presidente da Câmara Municipal, Largo do Município, 3740-262 Sever do Vouga, ou para o endereço eletrónico da Câmara Municipal de Sever do Vouga: cm.sever@cm-sever.pt
+Para que conste e para os devidos efeitos, lavrou-se o presente edital e outros de igual teor que serão publicitados.
+21 de abril de 2015. - O Presidente da Câmara, António José Martins Coutinho, Dr.
+308584408
