@@ -1,0 +1,8 @@
+Resolução da Assembleia da República n.º 50/2015
+Sobre o Programa de Estabilidade 2015-2019
+A Assembleia da República, tendo apreciado o Programa de Estabilidade para 2015-2019, resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+1 - Assumir como prioridade para o próximo quadriénio a promoção de um crescimento económico verdadeiramente sustentado, criador de emprego e facilitador de uma mais rápida inclusão social, reconhecendo que o mesmo assenta necessariamente em finanças públicas sólidas, num sistema financeiro estável, na constante transformação estrutural da economia e na promoção de uma maior justiça e equidade sociais.
+2 - Reconhecer que a disciplina orçamental que permite a saída de Portugal de um Procedimento por Défice Excessivo, em paralelo com uma estratégia de crescimento económico que privilegie o aumento de produtividade potenciador da melhoria da remuneração do trabalho, deverão ser sempre a base de orientação da política de finanças públicas, constatando ainda que a sua continuidade abre caminho ao uso responsável das condições de flexibilidade do Pacto de Estabilidade e Crescimento.
+3 - Aprovar a estratégia orçamental definida no Programa de Estabilidade para 2015-2019, reconhecendo que assegura simultaneamente a necessária redução gradual da dívida pública, o maior crescimento económico e a recuperação do emprego, bem como a indispensável recuperação do rendimento dos portugueses, constituindo assim uma nova fase de progresso económico e social.
+Aprovada em 24 de abril de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
