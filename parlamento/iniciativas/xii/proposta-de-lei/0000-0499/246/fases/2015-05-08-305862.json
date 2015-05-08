@@ -1,0 +1,329 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "246",
+    "id": "38643",
+    "titulo": "Procede à segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada"
+  },
+  "fase": "Reapreciação do decreto",
+  "codigo_fase": "441",
+  "data_registo": "2015-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10662",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "441",
+    "Comissao": null,
+    "DataFase": "2015-05-08",
+    "EvtId": "111",
+    "Fase": "Reapreciação do decreto",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-05-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4435",
+                "nome": "Ana Sofia Bettencourt"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150508pln&url=l12/sl4/a2015/m05/&tI=00:03:01:441&drc=00:04:22:456"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/3?pgs=3-4&org=PLC"
+              }
+            ],
+            "sumario": "Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada; Solicitando à Assembleia da República que impeça a aprovação da proposta de lei n.º 246/XII (3.ª), que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150508pln&url=l12/sl4/a2015/m05/&tI=00:07:34:940&drc=00:04:37:726"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada; Solicitando à Assembleia da República que impeça a aprovação da proposta de lei n.º 246/XII (3.ª), que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4289",
+                "nome": "Teresa Anjinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150508pln&url=l12/sl4/a2015/m05/&tI=00:12:38:164&drc=00:03:48:399"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada; Solicitando à Assembleia da República que impeça a aprovação da proposta de lei n.º 246/XII (3.ª), que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2184",
+                "nome": "Miguel Tiago"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150508pln&url=l12/sl4/a2015/m05/&tI=00:16:33:011&drc=00:03:27:463"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada; Solicitando à Assembleia da República que impeça a aprovação da proposta de lei n.º 246/XII (3.ª), que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150508pln&url=l12/sl4/a2015/m05/&tI=00:20:10:576&drc=00:02:21:329"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada; Solicitando à Assembleia da República que impeça a aprovação da proposta de lei n.º 246/XII (3.ª), que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "305862",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10662",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-09",
+        "pubLeg": "XII",
+        "pubNr": "84",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
