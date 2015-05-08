@@ -1,0 +1,910 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "246",
+    "id": "38643",
+    "titulo": "Procede à segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada"
+  },
+  "fase": "Confirmação do decreto",
+  "codigo_fase": "512",
+  "data_registo": "2015-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10663",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "512",
+    "Comissao": null,
+    "DataFase": "2015-05-08",
+    "EvtId": "112",
+    "Fase": "Confirmação do decreto",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-05-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1140",
+                "nome": "Gabriel Côrte-real Goucha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1826",
+                "nome": "Joaquim Ponte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199590",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4328",
+                "nome": "Maurício Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199591",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4325",
+                "nome": "José Manuel Canavarro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199592",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3990",
+                "nome": "Pedro Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4439",
+                "nome": "António Prôa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199594",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3911",
+                "nome": "Lídia Bulcão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199595",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4169",
+                "nome": "Carina Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199596",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4170",
+                "nome": "Duarte Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199597",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199598",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4443",
+                "nome": "André Pardal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199599",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4382",
+                "nome": "Nuno Filipe Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199600",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3942",
+                "nome": "Francisca Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4157",
+                "nome": "Michael Seufert"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2167",
+                "nome": "Abel Baptista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1654",
+                "nome": "João Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-09",
+                "pubLeg": "XII",
+                "pubNr": "84",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Confirmação do Decreto n.º 320/XII - Segunda alteração à Lei n.º 62/98, de 1 de setembro, que regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, sobre a compensação equitativa relativa à cópia privada",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Maioria absoluta dos Deputados em efetividade de funções, nos termos do n. º 2 do artigo 136.º da CRP, com recurso ao voto eletrónico, nos termos do n.º 4 do artigo 94.º do Regimento",
+    "OevId": "305863",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10663",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-09",
+        "pubLeg": "XII",
+        "pubNr": "84",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/084/2015-05-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2015-05-08",
+        "descricao": "Votos a Favor: 120;  Contra:43; Abstenções: 49",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>16-PS</I>, <I> 3-CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PS</I>",
+        "id": "69431",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "84",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
