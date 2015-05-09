@@ -30,11 +30,11 @@ Pólo de captação de Tremez
 
 (ver documento original)
 
-Pólo de captação de Romeira
+Polo de captação de Romeira
 
 (ver documento original)
 
-Pólo de captação de Gançaria
+Polo de captação de Gançaria
 
 (ver documento original)
 
@@ -42,7 +42,7 @@ Pólo de captação de Abrã
 
 (ver documento original)
 
-Pólo de captação de Amiais de Baixo
+Polo de captação de Amiais de Baixo
 
 (ver documento original)
 

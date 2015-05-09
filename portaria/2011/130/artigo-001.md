@@ -16,13 +16,13 @@ e) PS10 e PS13 do pólo de captação de Abitureiras;
 
 f) FR1 e AC2 do pólo de captação de Tremez;
 
-g) AC1 do pólo de captação de Romeira;
+g) AC1 e SC1 do polo de captação de Romeira;
 
-h) PS23 e PS25 do pólo de captação de Gançaria;
+h) PS23 e RA5 do polo de captação de Gançaria;
 
 i) JK10A do pólo de captação de Abrã;
 
-j) AC2 e AC1 do pólo de captação de Amiais de Baixo;
+j) AC1 e RA4 do polo de captação de Amiais de Baixo;
 
 l) PS26, AC1 e AC2 do pólo de captação de Arneiro das Milhariças;
 

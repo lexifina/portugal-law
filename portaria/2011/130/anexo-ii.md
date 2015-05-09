@@ -82,19 +82,15 @@ Captações FR1 e AC2
 
 (ver documento original)
 
-Pólo de captação de Romeira
+Polo de captação de Romeira
 
-Captação AC1
-
-(ver documento original)
-
-Pólo de captação de Gançaria
-
-Captação PS23
+Captações AC1 e SC1
 
 (ver documento original)
 
-Captação PS25
+Polo de captação de Gançaria
+
+Captação RA5
 
 (ver documento original)
 
@@ -104,13 +100,13 @@ Captação JK10A
 
 (ver documento original)
 
-Pólo de captação de Amiais de Baixo
+Polo de captação de Amiais de Baixo
 
-Captação AC2
+Captação AC1
 
 (ver documento original)
 
-Captação AC1
+Captação RA4
 
 (ver documento original)
 

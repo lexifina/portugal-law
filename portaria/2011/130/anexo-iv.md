@@ -54,19 +54,15 @@ Captações FR1 e AC2
 
 (ver documento original)
 
-Pólo de captação de Romeira
+Polo de captação de Romeira
 
-Captação AC1
-
-(ver documento original)
-
-Pólo de captação de Gançaria
-
-Captação PS23
+Captações AC1 e SC1
 
 (ver documento original)
 
-Captação PS25
+Polo de captação de Gançaria
+
+Captação RA5
 
 (ver documento original)
 
@@ -76,11 +72,13 @@ Captação JK10A
 
 (ver documento original)
 
-Pólo de captação de Amiais de Baixo
+Polo de captação de Amiais de Baixo
 
-Captações AC2 e AC1
+Captações AC1 e RA4
 
 (ver documento original)
+
+Nota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
 Pólo de captação de Arneiro das Milhariças
 

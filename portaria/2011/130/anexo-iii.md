@@ -56,27 +56,29 @@ Captações FR1 e AC2
 
 (ver documento original)
 
-Pólo de captação de Romeira
+Polo de captação de Romeira
 
-Captação AC1
+Captações AC1 e SC1
 
 (ver documento original)
 
-Pólo de captação de Gançaria
+Polo de captação de Gançaria
 
-As zonas de protecção imediata e intermédia das captações PS23 e PS25 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.
+Captação RA5
+
+(ver documento original)
 
 Pólo de captação de Abrã
 
 As zonas de protecção imediata e intermédia da captação JK10A são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.
 
-Pólo de captação de Amiais de Baixo
+Polo de captação de Amiais de Baixo
 
-Captação AC2
+Captação RA4
 
 (ver documento original)
 
-As zonas de protecção imediata e intermédia da captação AC1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.
+As zonas de proteção imediata e intermédia da captação AC1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no Anexo II da presente portaria.
 
 Pólo de captação de Arneiro das Milhariças
 
